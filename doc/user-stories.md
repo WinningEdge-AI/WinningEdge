@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 User Story:
 
-Dylan-
+### Dylan-
 
 The main user are low stakes online poker players in heads-up games. They want to use our software to help decide
 actions and bet amounts according to current hands and the opponents actions and bets during each round of play. They 
