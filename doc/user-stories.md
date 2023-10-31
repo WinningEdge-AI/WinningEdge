@@ -13,3 +13,8 @@ User Profile: Technician
 
 The user is the technician. He is responsible for maintaining and updating the software. His possible updates include adding more data, creating additional plots and retraining the model with the extra data. He is very technical.
 
+### John Version: User Stories <br>
+<br>
+<br>
+The primary user of this software will be online, low-stakes, heads-up texas hold'em poker players. The players will want to use the tool to determine optimal strategy including bet/fold decisions at each stage of the game as well as bet magnitude. The users will require the tool to be easy to use and require minimal input and respond rapidly such that it came inform their decisions and strategies in real time. The players will be of a variety of technical skill levels and such the software should be designed for users of minimal technical skill.
+
