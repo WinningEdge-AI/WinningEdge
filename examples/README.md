@@ -1,0 +1,1 @@
+## Directory for examples of Winning Edge Software application.
