@@ -11,3 +11,6 @@ Use Case 1:
 > If "Yes"
 - System: Prompt user to enter Flop community cards
 - User: Provide Flop
+- System: Provide probabilities and action suggestions
+- System: Ask user for opponent's action
+- System: Decide whether proceed into the next round
