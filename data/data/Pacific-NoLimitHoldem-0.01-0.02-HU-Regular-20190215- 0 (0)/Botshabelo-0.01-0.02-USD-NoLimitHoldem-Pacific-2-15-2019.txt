@@ -1,0 +1,157 @@
+#Game No : 615789616
+***** 888poker Hand History for Game 615789616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 12:57:32
+Table Botshabelo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: SelGanetsky ( $0.95 )
+Seat 7: saimonmoon3 ( $1.47 )
+saimonmoon3 posts small blind [$0.01]
+SelGanetsky posts big blind [$0.02]
+** Dealing down cards **
+saimonmoon3 calls [$0.01]
+SelGanetsky checks
+** Dealing flop ** [ Jd, 7c, 6h ]
+SelGanetsky checks
+saimonmoon3 bets [$0.02]
+SelGanetsky folds
+** Summary **
+saimonmoon3 did not show his hand
+saimonmoon3 collected [ $0.04 ]
+
+
+#Game No : 615789634
+***** 888poker Hand History for Game 615789634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 12:57:46
+Table Botshabelo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SelGanetsky ( $0.93 )
+Seat 7: saimonmoon3 ( $1.49 )
+SelGanetsky posts small blind [$0.01]
+saimonmoon3 posts big blind [$0.02]
+** Dealing down cards **
+SelGanetsky calls [$0.01]
+saimonmoon3 raises [$0.02]
+SelGanetsky calls [$0.02]
+** Dealing flop ** [ 6s, 6c, 8c ]
+saimonmoon3 checks
+SelGanetsky checks
+** Dealing turn ** [ 5d ]
+saimonmoon3 checks
+SelGanetsky checks
+** Dealing river ** [ Kd ]
+saimonmoon3 checks
+SelGanetsky bets [$0.02]
+saimonmoon3 folds
+** Summary **
+SelGanetsky collected [ $0.08 ]
+
+
+#Game No : 615789688
+***** 888poker Hand History for Game 615789688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 12:58:30
+Table Botshabelo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SelGanetsky ( $0.97 )
+Seat 9: Rio_Hls ( $1 )
+SelGanetsky posts small blind [$0.01]
+Rio_Hls posts big blind [$0.02]
+** Dealing down cards **
+SelGanetsky calls [$0.01]
+Rio_Hls checks
+** Dealing flop ** [ Kc, 3s, 2c ]
+Rio_Hls checks
+SelGanetsky checks
+** Dealing turn ** [ 4h ]
+Rio_Hls checks
+SelGanetsky checks
+** Dealing river ** [ 6c ]
+Rio_Hls bets [$0.02]
+SelGanetsky calls [$0.02]
+** Summary **
+Rio_Hls shows [ 6d, Qh ]
+SelGanetsky mucks [ Qd, 3d ]
+Rio_Hls collected [ $0.08 ]
+
+
+#Game No : 615790487
+***** 888poker Hand History for Game 615790487 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 13:09:48
+Table Botshabelo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SelGanetsky ( $0.76 )
+Seat 9: Rio_Hls ( $0.92 )
+SelGanetsky posts small blind [$0.01]
+Rio_Hls posts big blind [$0.02]
+** Dealing down cards **
+SelGanetsky calls [$0.01]
+Rio_Hls checks
+** Dealing flop ** [ Kc, 9d, 7d ]
+Rio_Hls checks
+SelGanetsky checks
+** Dealing turn ** [ 6d ]
+Rio_Hls bets [$0.02]
+SelGanetsky folds
+** Summary **
+Rio_Hls collected [ $0.04 ]
+
+
+#Game No : 615790507
+***** 888poker Hand History for Game 615790507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 13:10:08
+Table Botshabelo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: SelGanetsky ( $0.74 )
+Seat 9: Rio_Hls ( $0.94 )
+Rio_Hls posts small blind [$0.01]
+SelGanetsky posts big blind [$0.02]
+** Dealing down cards **
+Rio_Hls calls [$0.01]
+SelGanetsky checks
+** Dealing flop ** [ 5s, 5c, 3h ]
+SelGanetsky checks
+Rio_Hls checks
+** Dealing turn ** [ 3d ]
+SelGanetsky checks
+Rio_Hls checks
+** Dealing river ** [ 2d ]
+SelGanetsky bets [$0.02]
+Rio_Hls calls [$0.02]
+** Summary **
+SelGanetsky shows [ 3s, Qc ]
+Rio_Hls mucks [ Qh, 7s ]
+SelGanetsky collected [ $0.08 ]
+
+
+#Game No : 615790538
+***** 888poker Hand History for Game 615790538 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 13:10:37
+Table Botshabelo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SelGanetsky ( $0.78 )
+Seat 9: Rio_Hls ( $0.90 )
+SelGanetsky posts small blind [$0.01]
+Rio_Hls posts big blind [$0.02]
+** Dealing down cards **
+SelGanetsky calls [$0.01]
+Rio_Hls checks
+** Dealing flop ** [ 7s, Qc, 4s ]
+Rio_Hls checks
+SelGanetsky checks
+** Dealing turn ** [ 8c ]
+Rio_Hls checks
+SelGanetsky checks
+** Dealing river ** [ 3s ]
+Rio_Hls bets [$0.04]
+SelGanetsky calls [$0.04]
+** Summary **
+Rio_Hls shows [ 8d, Jh ]
+SelGanetsky shows [ Ac, 8h ]
+SelGanetsky collected [ $0.12 ]
+
+

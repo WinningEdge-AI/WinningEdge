@@ -1,0 +1,67 @@
+#Game No : 503049064
+***** 888poker Hand History for Game 503049064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 12:37:47
+Table Gent 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: xomyachog ( $1.20 )
+Seat 4: givinagivi ( $0.82 )
+givinagivi posts small blind [$0.01]
+xomyachog posts big blind [$0.02]
+** Dealing down cards **
+givinagivi folds
+** Summary **
+xomyachog did not show his hand
+xomyachog collected [ $0.03 ]
+
+
+#Game No : 503049091
+***** 888poker Hand History for Game 503049091 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 12:38:16
+Table Gent 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: givinagivi ( $0.81 )
+Seat 6: estedemadera ( $0.80 )
+estedemadera posts small blind [$0.01]
+givinagivi posts big blind [$0.02]
+** Dealing down cards **
+estedemadera raises [$0.05]
+givinagivi folds
+** Summary **
+estedemadera did not show his hand
+estedemadera collected [ $0.04 ]
+
+
+#Game No : 503049104
+***** 888poker Hand History for Game 503049104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 12:38:30
+Table Gent 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: givinagivi ( $0.79 )
+Seat 6: estedemadera ( $0.82 )
+givinagivi posts small blind [$0.01]
+estedemadera posts big blind [$0.02]
+** Dealing down cards **
+givinagivi calls [$0.01]
+estedemadera checks
+** Dealing flop ** [ 6s, 5d, 5c ]
+estedemadera bets [$0.03]
+givinagivi calls [$0.03]
+** Dealing turn ** [ 6c ]
+estedemadera checks
+givinagivi bets [$0.07]
+estedemadera raises [$0.16]
+givinagivi calls [$0.09]
+** Dealing river ** [ Jh ]
+estedemadera bets [$0.16]
+givinagivi raises [$0.53]
+estedemadera raises [$0.45]
+givinagivi calls [$0.05]
+** Summary **
+givinagivi shows [ 7c, 4s ]
+estedemadera shows [ Kd, 6d ]
+estedemadera collected [ $1.49 ]
+
+

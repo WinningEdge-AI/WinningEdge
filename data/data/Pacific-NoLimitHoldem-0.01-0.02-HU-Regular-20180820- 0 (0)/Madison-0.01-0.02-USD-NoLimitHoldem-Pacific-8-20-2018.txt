@@ -1,0 +1,75 @@
+#Game No : 501158514
+***** 888poker Hand History for Game 501158514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 10:32:40
+Table Madison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 3bet727 ( $1.01 )
+Seat 6: Asmodeiii ( $2.11 )
+3bet727 posts small blind [$0.01]
+Asmodeiii posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.03]
+Asmodeiii raises [$0.10]
+3bet727 calls [$0.08]
+** Dealing flop ** [ Th, Qs, Qh ]
+Asmodeiii bets [$0.13]
+3bet727 calls [$0.13]
+** Dealing turn ** [ 9c ]
+Asmodeiii bets [$0.28]
+3bet727 calls [$0.28]
+** Dealing river ** [ 4d ]
+Asmodeiii checks
+3bet727 bets [$0.48]
+Asmodeiii calls [$0.48]
+** Summary **
+3bet727 shows [ Qc, Js ]
+Asmodeiii shows [ Ad, Tc ]
+3bet727 collected [ $1.90 ]
+
+
+#Game No : 501164892
+***** 888poker Hand History for Game 501164892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 12:30:11
+Table Madison 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Liamtt13 ( $0.34 )
+Seat 9: kar4litosway ( $1.83 )
+Liamtt13 posts small blind [$0.01]
+kar4litosway posts big blind [$0.02]
+** Dealing down cards **
+Liamtt13 calls [$0.01]
+kar4litosway checks
+** Dealing flop ** [ Ts, 7c, 5s ]
+kar4litosway checks
+Liamtt13 checks
+** Dealing turn ** [ Jd ]
+kar4litosway checks
+Liamtt13 checks
+** Dealing river ** [ 3h ]
+kar4litosway checks
+Liamtt13 bets [$0.02]
+kar4litosway calls [$0.02]
+** Summary **
+Liamtt13 shows [ 8c, 3d ]
+kar4litosway shows [ Qc, 5c ]
+kar4litosway collected [ $0.08 ]
+
+
+#Game No : 501164916
+***** 888poker Hand History for Game 501164916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 12:30:44
+Table Madison 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Liamtt13 ( $0.30 )
+Seat 9: kar4litosway ( $1.87 )
+kar4litosway posts small blind [$0.01]
+Liamtt13 posts big blind [$0.02]
+** Dealing down cards **
+kar4litosway folds
+** Summary **
+Liamtt13 collected [ $0.03 ]
+
+

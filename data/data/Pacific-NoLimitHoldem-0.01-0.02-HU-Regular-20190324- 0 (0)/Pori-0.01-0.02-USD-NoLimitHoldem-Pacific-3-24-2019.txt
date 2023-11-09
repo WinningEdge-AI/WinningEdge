@@ -1,0 +1,46 @@
+#Game No : 527361713
+***** 888poker Hand History for Game 527361713 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 23:42:08
+Table Pori 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: MCG080374 ( $0.68 )
+Seat 7: NSergw ( $1 )
+MCG080374 posts small blind [$0.01]
+NSergw posts big blind [$0.02]
+** Dealing down cards **
+MCG080374 calls [$0.01]
+NSergw checks
+** Dealing flop ** [ Qs, 5s, Qh ]
+NSergw checks
+MCG080374 checks
+** Dealing turn ** [ 7s ]
+NSergw checks
+MCG080374 checks
+** Dealing river ** [ Jh ]
+NSergw checks
+MCG080374 checks
+** Summary **
+NSergw shows [ 9d, 4h ]
+MCG080374 mucks [ 4d, 3s ]
+NSergw collected [ $0.04 ]
+
+
+#Game No : 527361734
+***** 888poker Hand History for Game 527361734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 23:42:33
+Table Pori 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: MCG080374 ( $0.66 )
+Seat 7: NSergw ( $1.02 )
+NSergw posts small blind [$0.01]
+MCG080374 posts big blind [$0.02]
+** Dealing down cards **
+NSergw raises [$0.03]
+MCG080374 folds
+** Summary **
+NSergw did not show his hand
+NSergw collected [ $0.04 ]
+
+

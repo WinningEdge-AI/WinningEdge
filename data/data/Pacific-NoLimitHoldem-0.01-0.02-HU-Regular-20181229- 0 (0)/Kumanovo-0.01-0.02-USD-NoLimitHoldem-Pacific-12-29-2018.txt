@@ -1,0 +1,167 @@
+#Game No : 511330584
+***** 888poker Hand History for Game 511330584 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 16:02:36
+Table Kumanovo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Woffinden ( $2.43 )
+Seat 4: grisdale64 ( $2 )
+grisdale64 posts small blind [$0.01]
+Woffinden posts big blind [$0.02]
+** Dealing down cards **
+grisdale64 folds
+** Summary **
+Woffinden collected [ $0.03 ]
+
+
+#Game No : 511330586
+***** 888poker Hand History for Game 511330586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 16:02:41
+Table Kumanovo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Woffinden ( $2.44 )
+Seat 4: grisdale64 ( $2 )
+Woffinden posts small blind [$0.01]
+grisdale64 posts big blind [$0.02]
+** Dealing down cards **
+Woffinden folds
+** Summary **
+grisdale64 collected [ $0.03 ]
+
+
+#Game No : 511330591
+***** 888poker Hand History for Game 511330591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 16:02:46
+Table Kumanovo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Woffinden ( $2.43 )
+Seat 4: grisdale64 ( $2.01 )
+grisdale64 posts small blind [$0.01]
+** Dealing down cards **
+Woffinden folds
+** Summary **
+grisdale64 collected [ $0.01 ]
+
+
+#Game No : 511337995
+***** 888poker Hand History for Game 511337995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 21:24:52
+Table Kumanovo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: kinB3ast ( $2.02 )
+Seat 9: gorohov78 ( $0.87 )
+kinB3ast posts small blind [$0.01]
+gorohov78 posts big blind [$0.02]
+** Dealing down cards **
+kinB3ast raises [$0.05]
+gorohov78 calls [$0.04]
+** Dealing flop ** [ Tc, 4h, Kc ]
+gorohov78 checks
+kinB3ast bets [$0.08]
+gorohov78 folds
+** Summary **
+kinB3ast did not show his hand
+kinB3ast collected [ $0.12 ]
+
+
+#Game No : 511338318
+***** 888poker Hand History for Game 511338318 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 21:50:42
+Table Kumanovo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: danielmick20 ( $2.07 )
+Seat 2: kibsterg ( $1.93 )
+kibsterg posts small blind [$0.01]
+danielmick20 posts big blind [$0.02]
+** Dealing down cards **
+kibsterg calls [$0.01]
+danielmick20 checks
+** Dealing flop ** [ 6c, Kd, 8h ]
+danielmick20 bets [$0.02]
+kibsterg calls [$0.02]
+** Dealing turn ** [ 6d ]
+danielmick20 bets [$0.02]
+kibsterg calls [$0.02]
+** Dealing river ** [ Qh ]
+danielmick20 bets [$0.06]
+kibsterg folds
+** Summary **
+danielmick20 collected [ $0.12 ]
+
+
+#Game No : 511339730
+***** 888poker Hand History for Game 511339730 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 23:25:52
+Table Kumanovo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: fdinca09 ( $1.69 )
+Seat 7: kinB3ast ( $2 )
+kinB3ast posts small blind [$0.01]
+fdinca09 posts big blind [$0.02]
+** Dealing down cards **
+kinB3ast calls [$0.01]
+fdinca09 checks
+** Dealing flop ** [ 2h, 6h, Kd ]
+fdinca09 checks
+kinB3ast checks
+** Dealing turn ** [ Ah ]
+fdinca09 checks
+kinB3ast checks
+** Dealing river ** [ 9d ]
+fdinca09 checks
+kinB3ast checks
+** Summary **
+fdinca09 shows [ 7c, Th ]
+kinB3ast mucks [ 4c, 5h ]
+fdinca09 collected [ $0.04 ]
+
+
+#Game No : 511339756
+***** 888poker Hand History for Game 511339756 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 23:26:02
+Table Kumanovo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fdinca09 ( $1.71 )
+Seat 7: kinB3ast ( $2 )
+fdinca09 posts small blind [$0.01]
+kinB3ast posts big blind [$0.02]
+** Dealing down cards **
+fdinca09 calls [$0.01]
+kinB3ast checks
+** Dealing flop ** [ 6s, 5c, 8d ]
+kinB3ast checks
+fdinca09 checks
+** Dealing turn ** [ Ah ]
+kinB3ast bets [$0.04]
+fdinca09 calls [$0.04]
+** Dealing river ** [ Ts ]
+kinB3ast checks
+fdinca09 checks
+** Summary **
+kinB3ast shows [ 7c, Ks ]
+fdinca09 mucks [ 7s, 3s ]
+kinB3ast collected [ $0.12 ]
+
+
+#Game No : 511339766
+***** 888poker Hand History for Game 511339766 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 23:26:32
+Table Kumanovo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: fdinca09 ( $1.65 )
+Seat 7: kinB3ast ( $2.06 )
+kinB3ast posts small blind [$0.01]
+fdinca09 posts big blind [$0.02]
+** Dealing down cards **
+kinB3ast folds
+** Summary **
+fdinca09 collected [ $0.03 ]
+
+

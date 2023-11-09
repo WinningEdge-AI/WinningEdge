@@ -1,0 +1,46 @@
+#Game No : 1185105041
+***** 888poker Hand History for Game 1185105041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2018 11:59:24
+Table Irkutsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Chuh_Chuh ( $1.76 )
+Seat 6: romreh ( $2.24 )
+romreh posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+romreh folds
+** Summary **
+Chuh_Chuh collected [ $0.03 ]
+
+
+#Game No : 1185105088
+***** 888poker Hand History for Game 1185105088 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2018 11:59:32
+Table Irkutsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Chuh_Chuh ( $1.77 )
+Seat 6: romreh ( $2.23 )
+Chuh_Chuh posts small blind [$0.01]
+romreh posts big blind [$0.02]
+** Dealing down cards **
+Chuh_Chuh raises [$0.03]
+romreh raises [$0.10]
+Chuh_Chuh calls [$0.08]
+** Dealing flop ** [ Qc, Td, 3d ]
+romreh bets [$0.08]
+Chuh_Chuh raises [$0.16]
+romreh calls [$0.08]
+** Dealing turn ** [ 8d ]
+romreh checks
+Chuh_Chuh checks
+** Dealing river ** [ 6c ]
+romreh checks
+Chuh_Chuh checks
+** Summary **
+romreh shows [ Jc, Js ]
+Chuh_Chuh mucks [ Jh, Kh ]
+romreh collected [ $0.53 ]
+
+

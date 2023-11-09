@@ -1,0 +1,122 @@
+#Game No : 499219842
+***** 888poker Hand History for Game 499219842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 10:59:08
+Table Balakovo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: tatttka ( $1.88 )
+Seat 7: mto502 ( $1.48 )
+mto502 posts small blind [$0.01]
+tatttka posts big blind [$0.02]
+** Dealing down cards **
+mto502 raises [$0.03]
+tatttka folds
+** Summary **
+mto502 collected [ $0.04 ]
+
+
+#Game No : 499219851
+***** 888poker Hand History for Game 499219851 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 10:59:35
+Table Balakovo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: BushMak ( $1 )
+Seat 7: mto502 ( $1.50 )
+mto502 posts small blind [$0.01]
+BushMak posts big blind [$0.02]
+** Dealing down cards **
+mto502 raises [$0.03]
+BushMak raises [$0.04]
+mto502 calls [$0.02]
+** Dealing flop ** [ 5h, 3d, Kh ]
+BushMak bets [$0.06]
+mto502 folds
+** Summary **
+BushMak collected [ $0.12 ]
+
+
+#Game No : 499221768
+***** 888poker Hand History for Game 499221768 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 12:05:30
+Table Balakovo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: mto502 ( $3.57 )
+Seat 9: xinork ( $2.25 )
+xinork posts small blind [$0.01]
+mto502 posts big blind [$0.02]
+** Dealing down cards **
+xinork raises [$0.06]
+mto502 folds
+** Summary **
+xinork collected [ $0.04 ]
+
+
+#Game No : 499221839
+***** 888poker Hand History for Game 499221839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 12:08:15
+Table Balakovo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Vegda ( $1 )
+Seat 9: AntonUrakov ( $1 )
+AntonUrakov posts small blind [$0.01]
+Vegda posts big blind [$0.02]
+** Dealing down cards **
+AntonUrakov folds
+** Summary **
+Vegda collected [ $0.03 ]
+
+
+#Game No : 499221873
+***** 888poker Hand History for Game 499221873 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 12:09:31
+Table Balakovo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Vegda ( $1.01 )
+Seat 4: Serko381 ( $0.80 )
+Vegda posts small blind [$0.01]
+Serko381 posts big blind [$0.02]
+** Dealing down cards **
+Vegda calls [$0.01]
+Serko381 checks
+** Dealing flop ** [ 6c, 2h, 5h ]
+Serko381 checks
+Vegda checks
+** Dealing turn ** [ 3h ]
+Serko381 checks
+Vegda bets [$0.02]
+Serko381 calls [$0.02]
+** Dealing river ** [ Qc ]
+Serko381 bets [$0.02]
+Vegda folds
+** Summary **
+Serko381 collected [ $0.08 ]
+
+
+#Game No : 499221917
+***** 888poker Hand History for Game 499221917 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 12:11:13
+Table Balakovo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Vegda ( $0.97 )
+Seat 4: Serko381 ( $0.84 )
+Serko381 posts small blind [$0.01]
+Vegda posts big blind [$0.02]
+** Dealing down cards **
+Serko381 calls [$0.01]
+Vegda checks
+** Dealing flop ** [ 5s, 9d, 6c ]
+Vegda checks
+Serko381 checks
+** Dealing turn ** [ 5h ]
+Vegda checks
+Serko381 bets [$0.02]
+Vegda folds
+** Summary **
+Serko381 collected [ $0.04 ]
+
+

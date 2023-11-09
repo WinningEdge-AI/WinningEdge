@@ -1,0 +1,45 @@
+#Game No : 503826432
+***** 888poker Hand History for Game 503826432 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 01:41:32
+Table Paterson 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: ClaudiuCoC ( $1 )
+Seat 4: scs1914 ( $0.80 )
+scs1914 posts small blind [$0.01]
+ClaudiuCoC posts big blind [$0.02]
+** Dealing down cards **
+scs1914 calls [$0.01]
+ClaudiuCoC checks
+** Dealing flop ** [ 2d, 9d, Qd ]
+ClaudiuCoC checks
+scs1914 checks
+** Dealing turn ** [ 2c ]
+ClaudiuCoC checks
+scs1914 checks
+** Dealing river ** [ Qs ]
+ClaudiuCoC checks
+scs1914 checks
+** Summary **
+ClaudiuCoC shows [ 9h, 4h ]
+scs1914 mucks [ 7c, 8s ]
+ClaudiuCoC collected [ $0.04 ]
+
+
+#Game No : 503835621
+***** 888poker Hand History for Game 503835621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:08:49
+Table Paterson 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vpserzhika ( $1.08 )
+Seat 5: mails74 ( $1.17 )
+vpserzhika posts small blind [$0.01]
+mails74 posts big blind [$0.02]
+** Dealing down cards **
+vpserzhika folds
+** Summary **
+mails74 did not show his hand
+mails74 collected [ $0.03 ]
+
+

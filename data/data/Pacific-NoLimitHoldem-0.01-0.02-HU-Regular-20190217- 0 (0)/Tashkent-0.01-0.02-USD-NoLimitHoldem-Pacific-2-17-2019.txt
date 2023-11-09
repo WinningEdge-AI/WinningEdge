@@ -1,0 +1,79 @@
+#Game No : 615916348
+***** 888poker Hand History for Game 615916348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 15:19:35
+Table Tashkent 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LZ7Pz ( $5.27 )
+Seat 4: even3121 ( $0.39 )
+LZ7Pz posts small blind [$0.01]
+even3121 posts big blind [$0.02]
+** Dealing down cards **
+LZ7Pz raises [$0.03]
+even3121 calls [$0.02]
+** Dealing flop ** [ 5c, 9s, 8c ]
+even3121 checks
+LZ7Pz checks
+** Dealing turn ** [ 4c ]
+even3121 bets [$0.02]
+LZ7Pz calls [$0.02]
+** Dealing river ** [ Kd ]
+even3121 checks
+LZ7Pz bets [$0.02]
+even3121 calls [$0.02]
+** Summary **
+LZ7Pz shows [ Js, Qc ]
+even3121 shows [ 2h, 4d ]
+even3121 collected [ $0.15 ]
+
+
+#Game No : 615916368
+***** 888poker Hand History for Game 615916368 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 15:19:58
+Table Tashkent 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: LZ7Pz ( $5.19 )
+Seat 4: even3121 ( $0.46 )
+even3121 posts small blind [$0.01]
+LZ7Pz posts big blind [$0.02]
+** Dealing down cards **
+even3121 calls [$0.01]
+LZ7Pz checks
+** Dealing flop ** [ 8c, 7h, 6d ]
+LZ7Pz bets [$0.02]
+even3121 calls [$0.02]
+** Dealing turn ** [ 7d ]
+LZ7Pz bets [$0.04]
+even3121 calls [$0.04]
+** Dealing river ** [ Th ]
+LZ7Pz bets [$0.08]
+even3121 folds
+** Summary **
+LZ7Pz did not show his hand
+LZ7Pz collected [ $0.15 ]
+
+
+#Game No : 615916391
+***** 888poker Hand History for Game 615916391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 15:20:42
+Table Tashkent 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LZ7Pz ( $5.26 )
+Seat 4: even3121 ( $0.38 )
+LZ7Pz posts small blind [$0.01]
+even3121 posts big blind [$0.02]
+** Dealing down cards **
+LZ7Pz raises [$0.03]
+even3121 raises [$0.36]
+LZ7Pz calls [$0.34]
+** Dealing flop ** [ 5c, Jh, 7d ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 5s ]
+** Summary **
+LZ7Pz shows [ Kh, Kd ]
+even3121 shows [ 2s, As ]
+LZ7Pz collected [ $0.72 ]
+
+

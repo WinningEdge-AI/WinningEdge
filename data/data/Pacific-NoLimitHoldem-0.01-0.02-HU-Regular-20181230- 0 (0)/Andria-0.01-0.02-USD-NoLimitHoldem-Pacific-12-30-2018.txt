@@ -1,0 +1,28 @@
+#Game No : 459476478
+***** 888poker Hand History for Game 459476478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 05:04:22
+Table Andria 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: jsupim1 ( $2 )
+Seat 6: Griboedow ( $1.60 )
+Griboedow posts small blind [$0.01]
+jsupim1 posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+jsupim1 checks
+** Dealing flop ** [ Jh, Qd, 4c ]
+jsupim1 checks
+Griboedow checks
+** Dealing turn ** [ 5h ]
+jsupim1 checks
+Griboedow checks
+** Dealing river ** [ Ad ]
+jsupim1 checks
+Griboedow checks
+** Summary **
+jsupim1 shows [ 9s, 4s ]
+Griboedow mucks [ 9h, 8d ]
+jsupim1 collected [ $0.04 ]
+
+

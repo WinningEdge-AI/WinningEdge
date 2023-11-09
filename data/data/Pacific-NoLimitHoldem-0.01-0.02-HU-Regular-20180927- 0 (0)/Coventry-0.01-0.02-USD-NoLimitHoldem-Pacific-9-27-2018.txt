@@ -1,0 +1,73 @@
+#Game No : 507453372
+***** 888poker Hand History for Game 507453372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 20:51:31
+Table Coventry 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: DEUS_XXL ( $2.02 )
+Seat 4: cvwool ( $2.66 )
+DEUS_XXL posts small blind [$0.01]
+cvwool posts big blind [$0.02]
+** Dealing down cards **
+DEUS_XXL calls [$0.01]
+cvwool checks
+** Dealing flop ** [ 5c, Td, Th ]
+cvwool checks
+DEUS_XXL bets [$0.02]
+cvwool folds
+** Summary **
+DEUS_XXL did not show his hand
+DEUS_XXL collected [ $0.04 ]
+
+
+#Game No : 507453375
+***** 888poker Hand History for Game 507453375 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 20:51:49
+Table Coventry 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: DEUS_XXL ( $2.04 )
+Seat 4: cvwool ( $2.64 )
+cvwool posts small blind [$0.01]
+DEUS_XXL posts big blind [$0.02]
+** Dealing down cards **
+cvwool calls [$0.01]
+DEUS_XXL raises [$0.06]
+cvwool calls [$0.06]
+** Dealing flop ** [ 5c, 2h, Ah ]
+DEUS_XXL bets [$0.06]
+cvwool calls [$0.06]
+** Dealing turn ** [ 3h ]
+DEUS_XXL bets [$0.12]
+cvwool calls [$0.12]
+** Dealing river ** [ 9d ]
+DEUS_XXL bets [$0.25]
+cvwool calls [$0.25]
+** Summary **
+DEUS_XXL shows [ Jd, Ac ]
+cvwool shows [ 2c, 2s ]
+cvwool collected [ $0.96 ]
+
+
+#Game No : 507453381
+***** 888poker Hand History for Game 507453381 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 20:52:27
+Table Coventry 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: DEUS_XXL ( $2 )
+Seat 4: cvwool ( $3.09 )
+DEUS_XXL posts small blind [$0.01]
+cvwool posts big blind [$0.02]
+** Dealing down cards **
+DEUS_XXL calls [$0.01]
+cvwool checks
+** Dealing flop ** [ 2s, Ad, 8h ]
+cvwool checks
+DEUS_XXL bets [$0.02]
+cvwool folds
+** Summary **
+DEUS_XXL did not show his hand
+DEUS_XXL collected [ $0.04 ]
+
+

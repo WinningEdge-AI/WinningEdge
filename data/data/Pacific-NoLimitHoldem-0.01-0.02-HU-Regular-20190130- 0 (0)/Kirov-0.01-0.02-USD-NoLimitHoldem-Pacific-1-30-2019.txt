@@ -1,0 +1,30 @@
+#Game No : 512966587
+***** 888poker Hand History for Game 512966587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 02:39:53
+Table Kirov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vip.chapaev ( $3.13 )
+Seat 9: mad_colonel ( $1.95 )
+vip.chapaev posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev raises [$0.05]
+mad_colonel calls [$0.04]
+** Dealing flop ** [ 5c, 8s, Ac ]
+mad_colonel checks
+vip.chapaev bets [$0.06]
+mad_colonel calls [$0.06]
+** Dealing turn ** [ 3s ]
+mad_colonel checks
+vip.chapaev bets [$0.12]
+mad_colonel calls [$0.12]
+** Dealing river ** [ 2h ]
+mad_colonel checks
+vip.chapaev checks
+** Summary **
+mad_colonel shows [ 3d, Ah ]
+vip.chapaev mucks [ As, Ts ]
+mad_colonel collected [ $0.45 ]
+
+

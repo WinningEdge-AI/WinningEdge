@@ -1,0 +1,85 @@
+#Game No : 459966623
+***** 888poker Hand History for Game 459966623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2019 01:28:45
+Table Lawton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AskhatSultan ( $0.98 )
+Seat 4: dimit000 ( $0.82 )
+AskhatSultan posts small blind [$0.01]
+dimit000 posts big blind [$0.02]
+** Dealing down cards **
+AskhatSultan calls [$0.01]
+dimit000 checks
+** Dealing flop ** [ 4s, 3h, 2c ]
+dimit000 checks
+AskhatSultan checks
+** Dealing turn ** [ 6h ]
+dimit000 checks
+AskhatSultan checks
+** Dealing river ** [ 8c ]
+dimit000 bets [$0.02]
+AskhatSultan calls [$0.02]
+** Summary **
+dimit000 shows [ 9s, 8h ]
+AskhatSultan mucks [ 3s, Td ]
+dimit000 collected [ $0.08 ]
+
+
+#Game No : 459967217
+***** 888poker Hand History for Game 459967217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2019 02:00:15
+Table Lawton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: saigon46 ( $1.25 )
+Seat 9: GoldenBoy58 ( $2.22 )
+saigon46 posts small blind [$0.01]
+GoldenBoy58 posts big blind [$0.02]
+** Dealing down cards **
+saigon46 raises [$0.05]
+GoldenBoy58 folds
+** Summary **
+saigon46 did not show his hand
+saigon46 collected [ $0.04 ]
+
+
+#Game No : 459967221
+***** 888poker Hand History for Game 459967221 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2019 02:00:27
+Table Lawton 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: saigon46 ( $1.27 )
+Seat 9: GoldenBoy58 ( $2.20 )
+GoldenBoy58 posts small blind [$0.01]
+saigon46 posts big blind [$0.02]
+** Dealing down cards **
+GoldenBoy58 folds
+** Summary **
+saigon46 did not show his hand
+saigon46 collected [ $0.03 ]
+
+
+#Game No : 459967222
+***** 888poker Hand History for Game 459967222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2019 02:00:35
+Table Lawton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: saigon46 ( $1.28 )
+Seat 9: GoldenBoy58 ( $2.19 )
+saigon46 posts small blind [$0.01]
+GoldenBoy58 posts big blind [$0.02]
+** Dealing down cards **
+saigon46 calls [$0.01]
+GoldenBoy58 raises [$0.04]
+saigon46 calls [$0.04]
+** Dealing flop ** [ 6c, 6d, Ts ]
+GoldenBoy58 bets [$0.06]
+saigon46 folds
+** Summary **
+GoldenBoy58 did not show his hand
+GoldenBoy58 collected [ $0.12 ]
+
+

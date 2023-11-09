@@ -1,0 +1,66 @@
+#Game No : 459785404
+***** 888poker Hand History for Game 459785404 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 01 2019 03:52:37
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BadBeatU8 ( $2.31 )
+Seat 9: 55more55 ( $1 )
+55more55 posts small blind [$0.01]
+BadBeatU8 posts big blind [$0.02]
+** Dealing down cards **
+55more55 raises [$0.09]
+BadBeatU8 folds
+** Summary **
+55more55 collected [ $0.04 ]
+
+
+#Game No : 459788462
+***** 888poker Hand History for Game 459788462 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 01 2019 05:25:54
+Table Orihuela 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: awaxgood ( $0.73 )
+Seat 9: Behhe ( $3 )
+awaxgood posts small blind [$0.01]
+Behhe posts big blind [$0.02]
+** Dealing down cards **
+awaxgood raises [$0.05]
+Behhe calls [$0.04]
+** Dealing flop ** [ 5c, 2s, 7d ]
+Behhe checks
+awaxgood bets [$0.12]
+Behhe folds
+** Summary **
+awaxgood collected [ $0.12 ]
+
+
+#Game No : 459788475
+***** 888poker Hand History for Game 459788475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 01 2019 05:26:18
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: awaxgood ( $0.79 )
+Seat 9: Behhe ( $2.94 )
+Behhe posts small blind [$0.01]
+awaxgood posts big blind [$0.02]
+** Dealing down cards **
+Behhe raises [$0.04]
+awaxgood calls [$0.03]
+** Dealing flop ** [ Qh, 3d, 8d ]
+awaxgood checks
+Behhe checks
+** Dealing turn ** [ Kc ]
+awaxgood checks
+Behhe checks
+** Dealing river ** [ 3s ]
+awaxgood checks
+Behhe checks
+** Summary **
+awaxgood shows [ Jc, 2c ]
+Behhe shows [ 6h, 6c ]
+Behhe collected [ $0.10 ]
+
+

@@ -1,0 +1,92 @@
+#Game No : 462795911
+***** 888poker Hand History for Game 462795911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 16:29:25
+Table Carmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: LipaVit ( $2.40 )
+Seat 7: Rtzer ( $0.83 )
+Rtzer posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+Rtzer raises [$0.03]
+LipaVit calls [$0.02]
+** Dealing flop ** [ Qd, 8d, As ]
+LipaVit checks
+Rtzer bets [$0.02]
+LipaVit calls [$0.02]
+** Dealing turn ** [ 8h ]
+LipaVit checks
+Rtzer bets [$0.02]
+LipaVit calls [$0.02]
+** Dealing river ** [ 5d ]
+LipaVit checks
+Rtzer bets [$0.02]
+LipaVit calls [$0.02]
+** Summary **
+Rtzer shows [ 4h, Ah ]
+LipaVit mucks [ Qh, 9s ]
+Rtzer collected [ $0.19 ]
+
+
+#Game No : 462795919
+***** 888poker Hand History for Game 462795919 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 16:29:47
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LipaVit ( $2.30 )
+Seat 7: Rtzer ( $0.92 )
+LipaVit posts small blind [$0.01]
+Rtzer posts big blind [$0.02]
+** Dealing down cards **
+LipaVit raises [$0.05]
+Rtzer raises [$0.08]
+LipaVit calls [$0.04]
+** Dealing flop ** [ 9d, 8d, Kd ]
+Rtzer bets [$0.02]
+LipaVit calls [$0.02]
+** Dealing turn ** [ Jd ]
+Rtzer bets [$0.24]
+LipaVit folds
+** Summary **
+Rtzer collected [ $0.23 ]
+
+
+#Game No : 462795938
+***** 888poker Hand History for Game 462795938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 16:30:18
+Table Carmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: LipaVit ( $2.18 )
+Seat 7: Rtzer ( $1.03 )
+Rtzer posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+Rtzer calls [$0.01]
+LipaVit checks
+** Dealing flop ** [ 8h, As, 2h ]
+LipaVit checks
+Rtzer bets [$0.02]
+LipaVit folds
+** Summary **
+Rtzer collected [ $0.04 ]
+
+
+#Game No : 462795951
+***** 888poker Hand History for Game 462795951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 16:30:45
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LipaVit ( $2.16 )
+Seat 7: Rtzer ( $1.05 )
+LipaVit posts small blind [$0.01]
+Rtzer posts big blind [$0.02]
+** Dealing down cards **
+LipaVit folds
+** Summary **
+Rtzer collected [ $0.03 ]
+
+

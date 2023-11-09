@@ -1,0 +1,45 @@
+#Game No : 501708357
+***** 888poker Hand History for Game 501708357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 10:56:52
+Table Riobamba 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: oldburnn ( $1.06 )
+Seat 4: richbranson ( $1.85 )
+oldburnn posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+oldburnn calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Ts, 4d, Js ]
+richbranson checks
+oldburnn checks
+** Dealing turn ** [ 9c ]
+richbranson checks
+oldburnn bets [$0.02]
+richbranson folds
+** Summary **
+oldburnn collected [ $0.04 ]
+
+
+#Game No : 501708394
+***** 888poker Hand History for Game 501708394 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 10:57:21
+Table Riobamba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: oldburnn ( $1.08 )
+Seat 4: richbranson ( $1.83 )
+richbranson posts small blind [$0.01]
+oldburnn posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+oldburnn calls [$0.04]
+** Dealing flop ** [ Kc, 9h, 3d ]
+oldburnn checks
+richbranson bets [$0.10]
+oldburnn folds
+** Summary **
+richbranson collected [ $0.12 ]
+
+

@@ -1,0 +1,47 @@
+#Game No : 503016482
+***** 888poker Hand History for Game 503016482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 17:01:30
+Table Nancy 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: TheCypher ( $2.70 )
+Seat 7: IGr0lk ( $2.90 )
+IGr0lk posts small blind [$0.01]
+TheCypher posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+TheCypher calls [$0.02]
+** Dealing flop ** [ 7h, Ks, Ad ]
+TheCypher checks
+IGr0lk checks
+** Dealing turn ** [ Qh ]
+TheCypher bets [$0.05]
+IGr0lk raises [$0.10]
+TheCypher calls [$0.05]
+** Dealing river ** [ 6h ]
+TheCypher checks
+IGr0lk bets [$0.18]
+TheCypher calls [$0.18]
+** Summary **
+IGr0lk shows [ Th, 2h ]
+TheCypher mucks [ Ac, 5h ]
+IGr0lk collected [ $0.60 ]
+
+
+#Game No : 503016500
+***** 888poker Hand History for Game 503016500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 17:02:02
+Table Nancy 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: TheCypher ( $2.38 )
+Seat 7: IGr0lk ( $3.18 )
+TheCypher posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+TheCypher folds
+** Summary **
+IGr0lk did not show his hand
+IGr0lk collected [ $0.03 ]
+
+

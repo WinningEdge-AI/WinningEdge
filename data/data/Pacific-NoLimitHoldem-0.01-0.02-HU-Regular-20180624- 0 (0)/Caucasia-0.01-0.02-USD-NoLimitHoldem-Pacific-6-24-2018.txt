@@ -1,0 +1,50 @@
+#Game No : 499084645
+***** 888poker Hand History for Game 499084645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 15:50:46
+Table Caucasia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Astrit01 ( $0.47 )
+Seat 6: njdevils21 ( $1.20 )
+Astrit01 posts small blind [$0.01]
+njdevils21 posts big blind [$0.02]
+** Dealing down cards **
+Astrit01 calls [$0.01]
+njdevils21 checks
+** Dealing flop ** [ Js, Ks, 2d ]
+njdevils21 checks
+Astrit01 bets [$0.02]
+njdevils21 folds
+** Summary **
+Astrit01 did not show his hand
+Astrit01 collected [ $0.04 ]
+
+
+#Game No : 499084651
+***** 888poker Hand History for Game 499084651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 15:50:55
+Table Caucasia 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Astrit01 ( $0.49 )
+Seat 6: njdevils21 ( $1.18 )
+njdevils21 posts small blind [$0.01]
+Astrit01 posts big blind [$0.02]
+** Dealing down cards **
+njdevils21 calls [$0.01]
+Astrit01 checks
+** Dealing flop ** [ 6d, 2s, Kd ]
+Astrit01 bets [$0.02]
+njdevils21 calls [$0.02]
+** Dealing turn ** [ 4h ]
+Astrit01 bets [$0.02]
+njdevils21 calls [$0.02]
+** Dealing river ** [ Ad ]
+Astrit01 bets [$0.43]
+njdevils21 calls [$0.43]
+** Summary **
+Astrit01 shows [ Td, 4d ]
+njdevils21 shows [ Jc, 6h ]
+Astrit01 collected [ $0.92 ]
+
+

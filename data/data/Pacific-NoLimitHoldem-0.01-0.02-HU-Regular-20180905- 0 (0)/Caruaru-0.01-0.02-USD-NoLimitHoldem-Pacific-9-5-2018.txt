@@ -1,0 +1,215 @@
+#Game No : 501963508
+***** 888poker Hand History for Game 501963508 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 14:44:56
+Table Caruaru 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nakitacooney ( $1.39 )
+Seat 4: AreUReady51 ( $0.92 )
+Nakitacooney posts small blind [$0.01]
+AreUReady51 posts big blind [$0.02]
+** Dealing down cards **
+Nakitacooney calls [$0.01]
+AreUReady51 checks
+** Dealing flop ** [ 9c, Th, Kh ]
+AreUReady51 bets [$0.04]
+Nakitacooney folds
+** Summary **
+AreUReady51 collected [ $0.04 ]
+
+
+#Game No : 501963531
+***** 888poker Hand History for Game 501963531 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 14:45:32
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nakitacooney ( $1.37 )
+Seat 4: AreUReady51 ( $0.94 )
+AreUReady51 posts small blind [$0.01]
+Nakitacooney posts big blind [$0.02]
+** Dealing down cards **
+AreUReady51 calls [$0.01]
+Nakitacooney checks
+** Dealing flop ** [ 4d, Ah, 6c ]
+Nakitacooney bets [$0.02]
+AreUReady51 calls [$0.02]
+** Dealing turn ** [ 8d ]
+Nakitacooney bets [$0.02]
+AreUReady51 calls [$0.02]
+** Dealing river ** [ Qs ]
+Nakitacooney checks
+AreUReady51 checks
+** Summary **
+Nakitacooney shows [ 4c, Tc ]
+AreUReady51 mucks [ 5c, 4s ]
+Nakitacooney collected [ $0.12 ]
+
+
+#Game No : 501963551
+***** 888poker Hand History for Game 501963551 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 14:45:59
+Table Caruaru 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nakitacooney ( $1.43 )
+Seat 4: AreUReady51 ( $0.88 )
+Nakitacooney posts small blind [$0.01]
+AreUReady51 posts big blind [$0.02]
+** Dealing down cards **
+Nakitacooney raises [$0.03]
+AreUReady51 calls [$0.02]
+** Dealing flop ** [ Ts, Js, 5d ]
+AreUReady51 checks
+Nakitacooney checks
+** Dealing turn ** [ 2d ]
+AreUReady51 bets [$0.02]
+Nakitacooney raises [$0.04]
+AreUReady51 calls [$0.02]
+** Dealing river ** [ Ks ]
+AreUReady51 bets [$0.08]
+Nakitacooney raises [$0.16]
+AreUReady51 folds
+** Summary **
+Nakitacooney collected [ $0.30 ]
+
+
+#Game No : 501963586
+***** 888poker Hand History for Game 501963586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 14:46:43
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nakitacooney ( $1.57 )
+Seat 4: AreUReady51 ( $0.72 )
+AreUReady51 posts small blind [$0.01]
+Nakitacooney posts big blind [$0.02]
+** Dealing down cards **
+AreUReady51 calls [$0.01]
+Nakitacooney raises [$0.04]
+AreUReady51 calls [$0.04]
+** Dealing flop ** [ Jh, 8d, 3c ]
+Nakitacooney checks
+AreUReady51 bets [$0.06]
+Nakitacooney calls [$0.06]
+** Dealing turn ** [ 9d ]
+Nakitacooney bets [$0.02]
+AreUReady51 calls [$0.02]
+** Dealing river ** [ 5s ]
+Nakitacooney bets [$0.02]
+AreUReady51 calls [$0.02]
+** Summary **
+Nakitacooney shows [ Ac, 7c ]
+AreUReady51 shows [ 5h, 4s ]
+AreUReady51 collected [ $0.30 ]
+
+
+#Game No : 501965692
+***** 888poker Hand History for Game 501965692 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 15:39:54
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: a1plumber ( $1.73 )
+Seat 9: Wonna114 ( $0.55 )
+a1plumber posts small blind [$0.01]
+Wonna114 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber folds
+** Summary **
+Wonna114 collected [ $0.03 ]
+
+
+#Game No : 501965704
+***** 888poker Hand History for Game 501965704 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 15:40:06
+Table Caruaru 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: a1plumber ( $1.72 )
+Seat 9: Wonna114 ( $0.56 )
+Wonna114 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+Wonna114 calls [$0.01]
+a1plumber checks
+** Dealing flop ** [ Th, Qc, 3d ]
+a1plumber checks
+Wonna114 checks
+** Dealing turn ** [ Kd ]
+a1plumber checks
+Wonna114 bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing river ** [ 4c ]
+a1plumber bets [$0.02]
+Wonna114 raises [$0.14]
+a1plumber calls [$0.12]
+** Summary **
+Wonna114 shows [ 9c, Jh ]
+a1plumber mucks [ 4d, Ts ]
+Wonna114 collected [ $0.34 ]
+
+
+#Game No : 501965748
+***** 888poker Hand History for Game 501965748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 15:41:17
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: a1plumber ( $1.54 )
+Seat 9: Wonna114 ( $0.72 )
+a1plumber posts small blind [$0.01]
+Wonna114 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+Wonna114 checks
+** Dealing flop ** [ 6c, 7s, 8c ]
+Wonna114 checks
+a1plumber checks
+** Dealing turn ** [ 5h ]
+Wonna114 bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing river ** [ 5s ]
+Wonna114 bets [$0.05]
+a1plumber folds
+** Summary **
+Wonna114 collected [ $0.08 ]
+
+
+#Game No : 501965805
+***** 888poker Hand History for Game 501965805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 15:42:40
+Table Caruaru 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: a1plumber ( $1.50 )
+Seat 9: Wonna114 ( $0.76 )
+Wonna114 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+Wonna114 raises [$0.03]
+a1plumber calls [$0.02]
+** Dealing flop ** [ Qh, 3h, Ac ]
+a1plumber checks
+Wonna114 bets [$0.02]
+a1plumber folds
+** Summary **
+Wonna114 collected [ $0.08 ]
+
+
+#Game No : 501965820
+***** 888poker Hand History for Game 501965820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 15:43:07
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: a1plumber ( $1.46 )
+Seat 9: Wonna114 ( $0.80 )
+a1plumber posts small blind [$0.01]
+Wonna114 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber folds
+** Summary **
+Wonna114 collected [ $0.03 ]
+
+

@@ -1,0 +1,70 @@
+#Game No : 502194972
+***** 888poker Hand History for Game 502194972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 23:06:15
+Table Duisburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: IGr0lk ( $1 )
+Seat 6: Anemie17 ( $1 )
+Anemie17 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+Anemie17 calls [$0.01]
+IGr0lk checks
+** Dealing flop ** [ 5d, Js, 4d ]
+IGr0lk checks
+Anemie17 checks
+** Dealing turn ** [ Qh ]
+IGr0lk checks
+Anemie17 bets [$0.04]
+IGr0lk calls [$0.04]
+** Dealing river ** [ Jh ]
+IGr0lk checks
+Anemie17 checks
+** Summary **
+IGr0lk shows [ 5h, 8s ]
+Anemie17 shows [ Ks, Qd ]
+Anemie17 collected [ $0.12 ]
+
+
+#Game No : 502195877
+***** 888poker Hand History for Game 502195877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 23:52:05
+Table Duisburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: xMoscoWx ( $1.15 )
+Seat 2: O_LE_G ( $1.01 )
+O_LE_G posts small blind [$0.01]
+xMoscoWx posts big blind [$0.02]
+** Dealing down cards **
+O_LE_G raises [$0.05]
+xMoscoWx calls [$0.04]
+** Dealing flop ** [ Jh, 6d, 6h ]
+xMoscoWx checks
+O_LE_G checks
+** Dealing turn ** [ 4h ]
+xMoscoWx checks
+O_LE_G checks
+** Dealing river ** [ 9h ]
+xMoscoWx bets [$0.12]
+O_LE_G folds
+** Summary **
+xMoscoWx collected [ $0.12 ]
+
+
+#Game No : 502195892
+***** 888poker Hand History for Game 502195892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 23:52:43
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: xMoscoWx ( $1.21 )
+Seat 2: O_LE_G ( $1 )
+xMoscoWx posts small blind [$0.01]
+** Dealing down cards **
+O_LE_G folds
+** Summary **
+xMoscoWx collected [ $0.01 ]
+
+

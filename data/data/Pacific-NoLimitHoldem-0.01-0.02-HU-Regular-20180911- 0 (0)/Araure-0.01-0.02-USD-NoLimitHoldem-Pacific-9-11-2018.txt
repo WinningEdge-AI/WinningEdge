@@ -1,0 +1,147 @@
+#Game No : 455282683
+***** 888poker Hand History for Game 455282683 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 21:06:11
+Table Araure 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: timur1802 ( $3.15 )
+Seat 7: dzida15 ( $2.02 )
+timur1802 posts small blind [$0.01]
+dzida15 posts big blind [$0.02]
+** Dealing down cards **
+timur1802 raises [$0.05]
+dzida15 calls [$0.04]
+** Dealing flop ** [ 5h, Td, 8d ]
+dzida15 checks
+timur1802 checks
+** Dealing turn ** [ 9c ]
+dzida15 checks
+timur1802 checks
+** Dealing river ** [ 6c ]
+dzida15 checks
+timur1802 bets [$0.12]
+dzida15 folds
+** Summary **
+timur1802 collected [ $0.12 ]
+
+
+#Game No : 455282744
+***** 888poker Hand History for Game 455282744 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 21:10:02
+Table Araure 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 6: cgtfast ( $1.50 )
+Seat 7: dzida15 ( $2 )
+cgtfast posts small blind [$0.01]
+dzida15 posts big blind [$0.02]
+** Dealing down cards **
+cgtfast folds
+** Summary **
+dzida15 did not show his hand
+dzida15 collected [ $0.03 ]
+
+
+#Game No : 455282745
+***** 888poker Hand History for Game 455282745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 21:10:09
+Table Araure 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: cgtfast ( $1.49 )
+Seat 7: dzida15 ( $2.01 )
+cgtfast posts small blind [$0.01]
+dzida15 posts big blind [$0.02]
+** Dealing down cards **
+cgtfast calls [$0.01]
+dzida15 checks
+** Dealing flop ** [ 9c, Jd, 4c ]
+dzida15 checks
+cgtfast checks
+** Dealing turn ** [ 7d ]
+dzida15 checks
+cgtfast checks
+** Dealing river ** [ 6c ]
+dzida15 checks
+cgtfast bets [$0.06]
+dzida15 folds
+** Summary **
+cgtfast did not show his hand
+cgtfast collected [ $0.04 ]
+
+
+#Game No : 455282758
+***** 888poker Hand History for Game 455282758 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 21:11:03
+Table Araure 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: cgtfast ( $1.51 )
+Seat 7: dzida15 ( $2 )
+dzida15 posts small blind [$0.01]
+cgtfast posts big blind [$0.02]
+** Dealing down cards **
+dzida15 raises [$0.03]
+cgtfast calls [$0.02]
+** Dealing flop ** [ 2h, 8s, 3d ]
+cgtfast checks
+dzida15 checks
+** Dealing turn ** [ 4s ]
+cgtfast bets [$0.06]
+dzida15 folds
+** Summary **
+cgtfast did not show his hand
+cgtfast collected [ $0.08 ]
+
+
+#Game No : 455282763
+***** 888poker Hand History for Game 455282763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 21:11:29
+Table Araure 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: cgtfast ( $1.55 )
+Seat 7: dzida15 ( $2 )
+cgtfast posts small blind [$0.01]
+dzida15 posts big blind [$0.02]
+** Dealing down cards **
+cgtfast raises [$0.03]
+dzida15 calls [$0.02]
+** Dealing flop ** [ Jc, 6d, 5c ]
+dzida15 checks
+cgtfast bets [$0.08]
+dzida15 folds
+** Summary **
+cgtfast did not show his hand
+cgtfast collected [ $0.08 ]
+
+
+#Game No : 455282769
+***** 888poker Hand History for Game 455282769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 21:11:52
+Table Araure 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: cgtfast ( $1.59 )
+Seat 7: dzida15 ( $2 )
+dzida15 posts small blind [$0.01]
+cgtfast posts big blind [$0.02]
+** Dealing down cards **
+dzida15 raises [$0.05]
+cgtfast calls [$0.04]
+** Dealing flop ** [ 9d, Qh, Ah ]
+cgtfast checks
+dzida15 checks
+** Dealing turn ** [ 7d ]
+cgtfast checks
+dzida15 bets [$0.08]
+cgtfast calls [$0.08]
+** Dealing river ** [ 8c ]
+cgtfast bets [$0.30]
+dzida15 calls [$0.30]
+** Summary **
+cgtfast shows [ Td, 6d ]
+dzida15 mucks [ 8s, Ad ]
+cgtfast collected [ $0.83 ]
+
+

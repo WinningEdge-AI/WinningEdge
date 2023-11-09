@@ -1,0 +1,31 @@
+#Game No : 1249166351
+***** 888poker Hand History for Game 1249166351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 02 2019 08:59:36
+Table Poza Rica 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: kim100ch777 ( $0.78 )
+Seat 5: kmlm73 ( $2.02 )
+kmlm73 posts small blind [$0.01]
+kim100ch777 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+kim100ch777 calls [$0.02]
+** Dealing flop ** [ 3d, 9d, 8c ]
+kim100ch777 checks
+kmlm73 bets [$0.05]
+kim100ch777 calls [$0.05]
+** Dealing turn ** [ Kh ]
+kim100ch777 checks
+kmlm73 bets [$0.09]
+kim100ch777 calls [$0.09]
+** Dealing river ** [ 5d ]
+kim100ch777 bets [$0.24]
+kmlm73 raises [$0.58]
+kim100ch777 calls [$0.34]
+** Summary **
+kmlm73 shows [ 8d, 6d ]
+kim100ch777 mucks [ Kc, 9c ]
+kmlm73 collected [ $1.43 ]
+
+

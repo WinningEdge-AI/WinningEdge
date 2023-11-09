@@ -1,0 +1,84 @@
+#Game No : 465045957
+***** 888poker Hand History for Game 465045957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 05 2019 07:37:47
+Table Le Mans 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Intelligent8 ( $2.73 )
+Seat 9: Dimitriy72 ( $1 )
+Intelligent8 posts small blind [$0.01]
+Dimitriy72 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 raises [$0.05]
+Dimitriy72 calls [$0.04]
+** Dealing flop ** [ 9d, 8d, Qd ]
+Dimitriy72 checks
+Intelligent8 checks
+** Dealing turn ** [ Kc ]
+Dimitriy72 checks
+Intelligent8 bets [$0.06]
+Dimitriy72 calls [$0.06]
+** Dealing river ** [ 6s ]
+Dimitriy72 checks
+Intelligent8 checks
+** Summary **
+Dimitriy72 shows [ 3s, 3h ]
+Intelligent8 mucks [ As, 4d ]
+Dimitriy72 collected [ $0.23 ]
+
+
+#Game No : 465045964
+***** 888poker Hand History for Game 465045964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 05 2019 07:38:12
+Table Le Mans 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Intelligent8 ( $2.61 )
+Seat 9: Dimitriy72 ( $1.11 )
+Dimitriy72 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+Dimitriy72 raises [$0.05]
+Intelligent8 folds
+** Summary **
+Dimitriy72 collected [ $0.04 ]
+
+
+#Game No : 465061725
+***** 888poker Hand History for Game 465061725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 05 2019 16:27:07
+Table Le Mans 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: d_gorbal ( $4.28 )
+Seat 4: Vitaly76806 ( $1.82 )
+d_gorbal posts small blind [$0.01]
+Vitaly76806 posts big blind [$0.02]
+** Dealing down cards **
+d_gorbal calls [$0.01]
+Vitaly76806 checks
+** Dealing flop ** [ Jh, Jc, 9c ]
+Vitaly76806 checks
+d_gorbal bets [$0.02]
+Vitaly76806 folds
+** Summary **
+d_gorbal did not show his hand
+d_gorbal collected [ $0.04 ]
+
+
+#Game No : 465061730
+***** 888poker Hand History for Game 465061730 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 05 2019 16:27:22
+Table Le Mans 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: d_gorbal ( $4.30 )
+Seat 4: Vitaly76806 ( $1.80 )
+Vitaly76806 posts small blind [$0.01]
+** Dealing down cards **
+d_gorbal folds
+** Summary **
+Vitaly76806 did not show his hand
+Vitaly76806 collected [ $0.01 ]
+
+

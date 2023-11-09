@@ -1,0 +1,517 @@
+#Game No : 503391562
+***** 888poker Hand History for Game 503391562 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:03:43
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: conortdb ( $1.26 )
+Seat 9: slnec ( $0.85 )
+conortdb posts small blind [$0.01]
+slnec posts big blind [$0.02]
+** Dealing down cards **
+conortdb folds
+** Summary **
+slnec collected [ $0.03 ]
+
+
+#Game No : 503391569
+***** 888poker Hand History for Game 503391569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:03:54
+Table Milan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: conortdb ( $1.25 )
+Seat 9: slnec ( $0.86 )
+slnec posts small blind [$0.01]
+conortdb posts big blind [$0.02]
+** Dealing down cards **
+slnec calls [$0.01]
+conortdb checks
+** Dealing flop ** [ Js, Kh, 2s ]
+conortdb checks
+slnec bets [$0.04]
+conortdb folds
+** Summary **
+slnec collected [ $0.04 ]
+
+
+#Game No : 503391587
+***** 888poker Hand History for Game 503391587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:04:29
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: conortdb ( $1.23 )
+Seat 9: slnec ( $0.88 )
+conortdb posts small blind [$0.01]
+slnec posts big blind [$0.02]
+** Dealing down cards **
+conortdb folds
+** Summary **
+slnec collected [ $0.03 ]
+
+
+#Game No : 503391702
+***** 888poker Hand History for Game 503391702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:09:23
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jojothohe ( $0.80 )
+Seat 4: WerWolf43 ( $1 )
+Jojothohe posts small blind [$0.01]
+WerWolf43 posts big blind [$0.02]
+** Dealing down cards **
+Jojothohe raises [$0.03]
+WerWolf43 raises [$0.98]
+Jojothohe calls [$0.76]
+** Dealing flop ** [ Kc, 2d, 5h ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Js ]
+** Summary **
+Jojothohe shows [ 5c, Ac ]
+WerWolf43 shows [ Qc, Th ]
+Jojothohe collected [ $1.50 ]
+
+
+#Game No : 503391715
+***** 888poker Hand History for Game 503391715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:09:52
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Jojothohe ( $1.50 )
+Seat 4: WerWolf43 ( $1 )
+WerWolf43 posts small blind [$0.01]
+Jojothohe posts big blind [$0.02]
+** Dealing down cards **
+WerWolf43 raises [$0.99]
+Jojothohe folds
+** Summary **
+WerWolf43 collected [ $0.04 ]
+
+
+#Game No : 503391835
+***** 888poker Hand History for Game 503391835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:15:08
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: WerWolf43 ( $1.08 )
+Seat 7: Dorfo1984 ( $0.70 )
+WerWolf43 posts small blind [$0.01]
+Dorfo1984 posts big blind [$0.02]
+** Dealing down cards **
+WerWolf43 calls [$0.01]
+Dorfo1984 checks
+** Dealing flop ** [ 4c, Ad, Js ]
+Dorfo1984 checks
+WerWolf43 checks
+** Dealing turn ** [ 6h ]
+Dorfo1984 checks
+WerWolf43 checks
+** Dealing river ** [ As ]
+Dorfo1984 bets [$0.02]
+WerWolf43 folds
+** Summary **
+Dorfo1984 collected [ $0.04 ]
+
+
+#Game No : 503391849
+***** 888poker Hand History for Game 503391849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:15:38
+Table Milan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: WerWolf43 ( $1.06 )
+Seat 7: Dorfo1984 ( $0.72 )
+Dorfo1984 posts small blind [$0.01]
+WerWolf43 posts big blind [$0.02]
+** Dealing down cards **
+Dorfo1984 calls [$0.01]
+WerWolf43 checks
+** Dealing flop ** [ Kd, 6h, 4c ]
+WerWolf43 bets [$0.02]
+Dorfo1984 folds
+** Summary **
+WerWolf43 collected [ $0.04 ]
+
+
+#Game No : 503391930
+***** 888poker Hand History for Game 503391930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:19:00
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $0.76 )
+Seat 4: WerWolf43 ( $1.15 )
+Bruce2803 posts small blind [$0.01]
+WerWolf43 posts big blind [$0.02]
+** Dealing down cards **
+Bruce2803 calls [$0.01]
+WerWolf43 checks
+** Dealing flop ** [ Jd, Td, 6h ]
+WerWolf43 bets [$1.13]
+Bruce2803 folds
+** Summary **
+WerWolf43 collected [ $0.04 ]
+
+
+#Game No : 503391935
+***** 888poker Hand History for Game 503391935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:19:12
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $0.74 )
+Seat 4: WerWolf43 ( $1.17 )
+WerWolf43 posts small blind [$0.01]
+Bruce2803 posts big blind [$0.02]
+** Dealing down cards **
+WerWolf43 folds
+** Summary **
+Bruce2803 collected [ $0.03 ]
+
+
+#Game No : 503391939
+***** 888poker Hand History for Game 503391939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:19:18
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $0.75 )
+Seat 4: WerWolf43 ( $1.16 )
+Bruce2803 posts small blind [$0.01]
+WerWolf43 posts big blind [$0.02]
+** Dealing down cards **
+Bruce2803 calls [$0.01]
+WerWolf43 checks
+** Dealing flop ** [ Kh, 9h, 3d ]
+WerWolf43 bets [$0.04]
+Bruce2803 calls [$0.04]
+** Dealing turn ** [ Ac ]
+WerWolf43 bets [$0.12]
+Bruce2803 folds
+** Summary **
+WerWolf43 collected [ $0.12 ]
+
+
+#Game No : 503391948
+***** 888poker Hand History for Game 503391948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:19:35
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $0.69 )
+Seat 4: WerWolf43 ( $1.22 )
+WerWolf43 posts small blind [$0.01]
+Bruce2803 posts big blind [$0.02]
+** Dealing down cards **
+WerWolf43 folds
+** Summary **
+Bruce2803 collected [ $0.03 ]
+
+
+#Game No : 503391953
+***** 888poker Hand History for Game 503391953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:19:42
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $0.70 )
+Seat 4: WerWolf43 ( $1.21 )
+Bruce2803 posts small blind [$0.01]
+WerWolf43 posts big blind [$0.02]
+** Dealing down cards **
+Bruce2803 calls [$0.01]
+WerWolf43 checks
+** Dealing flop ** [ Kc, 3h, 9d ]
+WerWolf43 bets [$0.04]
+Bruce2803 calls [$0.04]
+** Dealing turn ** [ 4s ]
+WerWolf43 bets [$0.12]
+Bruce2803 calls [$0.12]
+** Dealing river ** [ 8c ]
+WerWolf43 bets [$0.36]
+Bruce2803 calls [$0.36]
+** Summary **
+WerWolf43 shows [ 5h, Kh ]
+Bruce2803 shows [ Ac, Ah ]
+Bruce2803 collected [ $1.02 ]
+
+
+#Game No : 503391962
+***** 888poker Hand History for Game 503391962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:20:05
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $1.18 )
+Seat 4: WerWolf43 ( $1 )
+WerWolf43 posts small blind [$0.01]
+Bruce2803 posts big blind [$0.02]
+** Dealing down cards **
+WerWolf43 raises [$0.99]
+Bruce2803 folds
+** Summary **
+WerWolf43 collected [ $1.02 ]
+
+
+#Game No : 503391983
+***** 888poker Hand History for Game 503391983 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:20:49
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $2.08 )
+Seat 6: lonewolf43 ( $0.78 )
+lonewolf43 posts small blind [$0.01]
+Bruce2803 posts big blind [$0.02]
+** Dealing down cards **
+lonewolf43 folds
+** Summary **
+Bruce2803 collected [ $0.03 ]
+
+
+#Game No : 503391985
+***** 888poker Hand History for Game 503391985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:20:57
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $2.09 )
+Seat 6: lonewolf43 ( $0.77 )
+Bruce2803 posts small blind [$0.01]
+lonewolf43 posts big blind [$0.02]
+** Dealing down cards **
+Bruce2803 calls [$0.01]
+lonewolf43 checks
+** Dealing flop ** [ Qs, Kh, Qd ]
+lonewolf43 bets [$0.02]
+Bruce2803 calls [$0.02]
+** Dealing turn ** [ 4s ]
+lonewolf43 checks
+Bruce2803 bets [$0.02]
+lonewolf43 folds
+** Summary **
+Bruce2803 collected [ $0.08 ]
+
+
+#Game No : 503391997
+***** 888poker Hand History for Game 503391997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:21:22
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $2.13 )
+Seat 6: lonewolf43 ( $0.73 )
+lonewolf43 posts small blind [$0.01]
+Bruce2803 posts big blind [$0.02]
+** Dealing down cards **
+lonewolf43 raises [$0.03]
+Bruce2803 calls [$0.02]
+** Dealing flop ** [ Qs, Js, 7d ]
+Bruce2803 checks
+lonewolf43 bets [$0.04]
+Bruce2803 folds
+** Summary **
+lonewolf43 collected [ $0.08 ]
+
+
+#Game No : 503392006
+***** 888poker Hand History for Game 503392006 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:21:51
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $2.09 )
+Seat 6: lonewolf43 ( $0.77 )
+Bruce2803 posts small blind [$0.01]
+lonewolf43 posts big blind [$0.02]
+** Dealing down cards **
+Bruce2803 calls [$0.01]
+lonewolf43 checks
+** Dealing flop ** [ 3c, Ts, 9c ]
+lonewolf43 bets [$0.02]
+Bruce2803 calls [$0.02]
+** Dealing turn ** [ 5c ]
+lonewolf43 bets [$0.02]
+Bruce2803 calls [$0.02]
+** Dealing river ** [ 3h ]
+lonewolf43 bets [$0.02]
+Bruce2803 calls [$0.02]
+** Summary **
+lonewolf43 shows [ 7h, 5d ]
+Bruce2803 mucks [ 6h, Ac ]
+lonewolf43 collected [ $0.15 ]
+
+
+#Game No : 503392017
+***** 888poker Hand History for Game 503392017 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:22:20
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $2.01 )
+Seat 6: lonewolf43 ( $0.84 )
+lonewolf43 posts small blind [$0.01]
+Bruce2803 posts big blind [$0.02]
+** Dealing down cards **
+lonewolf43 calls [$0.01]
+Bruce2803 checks
+** Dealing flop ** [ Qs, 9d, Js ]
+Bruce2803 bets [$0.02]
+lonewolf43 calls [$0.02]
+** Dealing turn ** [ Ad ]
+Bruce2803 bets [$0.02]
+lonewolf43 calls [$0.02]
+** Dealing river ** [ Qc ]
+Bruce2803 bets [$0.02]
+lonewolf43 calls [$0.02]
+** Summary **
+Bruce2803 shows [ 6h, 6c ]
+lonewolf43 shows [ 2d, 9s ]
+lonewolf43 collected [ $0.15 ]
+
+
+#Game No : 503392026
+***** 888poker Hand History for Game 503392026 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:22:48
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $1.93 )
+Seat 6: lonewolf43 ( $0.91 )
+Bruce2803 posts small blind [$0.01]
+lonewolf43 posts big blind [$0.02]
+** Dealing down cards **
+Bruce2803 calls [$0.01]
+lonewolf43 checks
+** Dealing flop ** [ 8c, 7c, As ]
+lonewolf43 bets [$0.02]
+Bruce2803 calls [$0.02]
+** Dealing turn ** [ 7d ]
+lonewolf43 checks
+Bruce2803 bets [$0.04]
+lonewolf43 folds
+** Summary **
+Bruce2803 collected [ $0.08 ]
+
+
+#Game No : 503392038
+***** 888poker Hand History for Game 503392038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:23:21
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $1.97 )
+Seat 6: lonewolf43 ( $0.87 )
+lonewolf43 posts small blind [$0.01]
+Bruce2803 posts big blind [$0.02]
+** Dealing down cards **
+lonewolf43 calls [$0.01]
+Bruce2803 checks
+** Dealing flop ** [ 4s, 8h, Ah ]
+Bruce2803 bets [$0.02]
+lonewolf43 calls [$0.02]
+** Dealing turn ** [ Ts ]
+Bruce2803 bets [$0.02]
+lonewolf43 calls [$0.02]
+** Dealing river ** [ 3h ]
+Bruce2803 bets [$0.02]
+lonewolf43 raises [$0.06]
+Bruce2803 calls [$0.04]
+** Summary **
+lonewolf43 shows [ 9h, 5s ]
+Bruce2803 shows [ 3s, Qs ]
+Bruce2803 collected [ $0.23 ]
+
+
+#Game No : 503392052
+***** 888poker Hand History for Game 503392052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:23:55
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $2.08 )
+Seat 6: lonewolf43 ( $0.75 )
+Bruce2803 posts small blind [$0.01]
+lonewolf43 posts big blind [$0.02]
+** Dealing down cards **
+Bruce2803 calls [$0.01]
+lonewolf43 checks
+** Dealing flop ** [ 2h, 4h, 9c ]
+lonewolf43 bets [$0.02]
+Bruce2803 calls [$0.02]
+** Dealing turn ** [ Jc ]
+lonewolf43 bets [$0.02]
+Bruce2803 calls [$0.02]
+** Dealing river ** [ Kd ]
+lonewolf43 bets [$0.06]
+Bruce2803 folds
+** Summary **
+lonewolf43 collected [ $0.12 ]
+
+
+#Game No : 503392063
+***** 888poker Hand History for Game 503392063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:24:20
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $2.02 )
+Seat 6: lonewolf43 ( $0.81 )
+lonewolf43 posts small blind [$0.01]
+Bruce2803 posts big blind [$0.02]
+** Dealing down cards **
+lonewolf43 calls [$0.01]
+Bruce2803 checks
+** Dealing flop ** [ 6s, Qs, 7c ]
+Bruce2803 bets [$0.02]
+lonewolf43 calls [$0.02]
+** Dealing turn ** [ Ad ]
+Bruce2803 checks
+lonewolf43 bets [$0.02]
+Bruce2803 calls [$0.02]
+** Dealing river ** [ 9d ]
+Bruce2803 bets [$0.02]
+lonewolf43 calls [$0.02]
+** Summary **
+Bruce2803 shows [ 9s, 4c ]
+lonewolf43 mucks [ 6c, 3s ]
+Bruce2803 collected [ $0.15 ]
+
+
+#Game No : 503392124
+***** 888poker Hand History for Game 503392124 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:26:24
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bruce2803 ( $2.16 )
+Seat 6: lonewolf43 ( $0.65 )
+lonewolf43 posts small blind [$0.01]
+Bruce2803 posts big blind [$0.02]
+** Dealing down cards **
+lonewolf43 folds
+** Summary **
+Bruce2803 collected [ $0.03 ]
+
+
+#Game No : 503394562
+***** 888poker Hand History for Game 503394562 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 19:32:02
+Table Milan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: CBACKES ( $2.10 )
+Seat 9: Delem70 ( $1 )
+CBACKES posts small blind [$0.01]
+Delem70 posts big blind [$0.02]
+** Dealing down cards **
+CBACKES folds
+** Summary **
+Delem70 did not show his hand
+Delem70 collected [ $0.03 ]
+
+

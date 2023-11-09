@@ -1,0 +1,154 @@
+#Game No : 455022171
+***** 888poker Hand History for Game 455022171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 18:06:17
+Table Charallave 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: tragota ( $2.01 )
+Seat 10: Burnhead4 ( $4.76 )
+Burnhead4 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Burnhead4 calls [$0.01]
+tragota checks
+** Dealing flop ** [ 6d, Kd, 6c ]
+tragota bets [$0.03]
+Burnhead4 folds
+** Summary **
+tragota collected [ $0.04 ]
+
+
+#Game No : 455022187
+***** 888poker Hand History for Game 455022187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 18:07:03
+Table Charallave 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tragota ( $2.03 )
+Seat 10: Burnhead4 ( $4.74 )
+tragota posts small blind [$0.01]
+Burnhead4 posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+Burnhead4 collected [ $0.03 ]
+
+
+#Game No : 455022234
+***** 888poker Hand History for Game 455022234 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 18:09:18
+Table Charallave 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: tragota ( $2.08 )
+Seat 10: Burnhead4 ( $4.69 )
+Burnhead4 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Burnhead4 calls [$0.01]
+tragota checks
+** Dealing flop ** [ 6c, Js, 3d ]
+tragota checks
+Burnhead4 checks
+** Dealing turn ** [ Ks ]
+tragota bets [$0.03]
+Burnhead4 folds
+** Summary **
+tragota collected [ $0.04 ]
+
+
+#Game No : 455025458
+***** 888poker Hand History for Game 455025458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 22:41:17
+Table Charallave 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: pericles24 ( $2 )
+Seat 6: ProfesorCaos ( $2.21 )
+pericles24 posts small blind [$0.01]
+** Dealing down cards **
+ProfesorCaos folds
+** Summary **
+pericles24 collected [ $0.01 ]
+
+
+#Game No : 455025757
+***** 888poker Hand History for Game 455025757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 23:06:02
+Table Charallave 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: oldlama ( $1.20 )
+Seat 7: Juanma.Ag. ( $1 )
+Juanma.Ag. posts small blind [$0.01]
+oldlama posts big blind [$0.02]
+** Dealing down cards **
+Juanma.Ag. calls [$0.01]
+oldlama checks
+** Dealing flop ** [ Ts, 5d, 5s ]
+oldlama checks
+Juanma.Ag. checks
+** Dealing turn ** [ Ah ]
+oldlama bets [$0.02]
+Juanma.Ag. raises [$0.04]
+oldlama folds
+** Summary **
+Juanma.Ag. did not show his hand
+Juanma.Ag. collected [ $0.08 ]
+
+
+#Game No : 455025765
+***** 888poker Hand History for Game 455025765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 23:06:09
+Table Charallave 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: oldlama ( $1.16 )
+Seat 7: Juanma.Ag. ( $1.04 )
+oldlama posts small blind [$0.01]
+Juanma.Ag. posts big blind [$0.02]
+** Dealing down cards **
+oldlama calls [$0.01]
+Juanma.Ag. raises [$0.04]
+oldlama calls [$0.04]
+** Dealing flop ** [ Ah, 8d, Th ]
+Juanma.Ag. bets [$0.06]
+oldlama calls [$0.06]
+** Dealing turn ** [ 9s ]
+Juanma.Ag. bets [$0.12]
+oldlama calls [$0.12]
+** Dealing river ** [ 2c ]
+Juanma.Ag. bets [$0.32]
+oldlama folds
+** Summary **
+Juanma.Ag. collected [ $0.45 ]
+
+
+#Game No : 455025785
+***** 888poker Hand History for Game 455025785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 23:07:20
+Table Charallave 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: oldlama ( $0.92 )
+Seat 7: Juanma.Ag. ( $1.25 )
+Juanma.Ag. posts small blind [$0.01]
+oldlama posts big blind [$0.02]
+** Dealing down cards **
+Juanma.Ag. calls [$0.01]
+oldlama checks
+** Dealing flop ** [ 4d, Ah, Ac ]
+oldlama checks
+Juanma.Ag. checks
+** Dealing turn ** [ Kh ]
+oldlama checks
+Juanma.Ag. checks
+** Dealing river ** [ 2c ]
+oldlama checks
+Juanma.Ag. checks
+** Summary **
+oldlama shows [ 3c, Jh ]
+Juanma.Ag. mucks [ 3h, 6d ]
+oldlama collected [ $0.04 ]
+
+

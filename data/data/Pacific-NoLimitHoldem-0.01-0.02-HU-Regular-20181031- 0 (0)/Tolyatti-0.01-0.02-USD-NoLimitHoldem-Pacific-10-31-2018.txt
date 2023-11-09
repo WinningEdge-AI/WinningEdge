@@ -1,0 +1,40 @@
+#Game No : 514883834
+***** 888poker Hand History for Game 514883834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 12:53:28
+Table Tolyatti 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: HandInGlov3 ( $1.90 )
+Seat 9: riabko ( $2.04 )
+riabko posts small blind [$0.01]
+HandInGlov3 posts big blind [$0.02]
+** Dealing down cards **
+riabko calls [$0.01]
+HandInGlov3 raises [$0.02]
+riabko calls [$0.02]
+** Dealing flop ** [ Ks, Td, Tc ]
+HandInGlov3 checks
+riabko checks
+** Dealing turn ** [ 8d ]
+HandInGlov3 bets [$0.04]
+riabko folds
+** Summary **
+HandInGlov3 collected [ $0.08 ]
+
+
+#Game No : 514883865
+***** 888poker Hand History for Game 514883865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 12:53:56
+Table Tolyatti 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: HandInGlov3 ( $1.94 )
+Seat 9: riabko ( $2 )
+HandInGlov3 posts small blind [$0.01]
+riabko posts big blind [$0.02]
+** Dealing down cards **
+HandInGlov3 folds
+** Summary **
+riabko collected [ $0.03 ]
+
+

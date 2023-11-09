@@ -1,0 +1,464 @@
+#Game No : 500582927
+***** 888poker Hand History for Game 500582927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:35:46
+Table Caserta 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GreenWeekend ( $3.31 )
+Seat 7: pouii ( $1.63 )
+pouii posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+pouii folds
+** Summary **
+GreenWeekend collected [ $0.03 ]
+
+
+#Game No : 500582937
+***** 888poker Hand History for Game 500582937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:35:56
+Table Caserta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GreenWeekend ( $3.32 )
+Seat 7: pouii ( $1.62 )
+pouii posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+pouii folds
+** Summary **
+GreenWeekend collected [ $0.03 ]
+
+
+#Game No : 500582941
+***** 888poker Hand History for Game 500582941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:36:03
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GreenWeekend ( $3.33 )
+Seat 7: pouii ( $1.61 )
+GreenWeekend posts small blind [$0.01]
+** Dealing down cards **
+pouii folds
+** Summary **
+GreenWeekend collected [ $0.01 ]
+
+
+#Game No : 500583008
+***** 888poker Hand History for Game 500583008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:38:06
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.80 )
+Seat 2: GreenWeekend ( $3.33 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 calls [$0.01]
+GreenWeekend checks
+** Dealing flop ** [ 4s, 6d, 9h ]
+GreenWeekend bets [$0.04]
+philboy65 calls [$0.04]
+** Dealing turn ** [ 5c ]
+GreenWeekend bets [$0.08]
+philboy65 raises [$0.16]
+GreenWeekend raises [$0.20]
+philboy65 raises [$0.58]
+GreenWeekend calls [$0.46]
+** Dealing river ** [ 8s ]
+** Summary **
+philboy65 shows [ 4c, 5d ]
+GreenWeekend shows [ 7c, 8c ]
+GreenWeekend collected [ $1.50 ]
+
+
+#Game No : 500583049
+***** 888poker Hand History for Game 500583049 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:39:08
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.80 )
+Seat 2: GreenWeekend ( $4.03 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend raises [$0.05]
+philboy65 calls [$0.04]
+** Dealing flop ** [ 9c, Qs, Kd ]
+philboy65 checks
+GreenWeekend bets [$0.08]
+philboy65 folds
+** Summary **
+GreenWeekend collected [ $0.12 ]
+
+
+#Game No : 500583061
+***** 888poker Hand History for Game 500583061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:39:30
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.74 )
+Seat 2: GreenWeekend ( $4.09 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 calls [$0.01]
+GreenWeekend checks
+** Dealing flop ** [ 4c, 9h, Qc ]
+GreenWeekend checks
+philboy65 checks
+** Dealing turn ** [ 4s ]
+GreenWeekend checks
+philboy65 bets [$0.08]
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.04 ]
+
+
+#Game No : 500583085
+***** 888poker Hand History for Game 500583085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:40:17
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.76 )
+Seat 2: GreenWeekend ( $4.07 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.03 ]
+
+
+#Game No : 500583090
+***** 888poker Hand History for Game 500583090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:40:22
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.77 )
+Seat 2: GreenWeekend ( $4.06 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 calls [$0.01]
+GreenWeekend raises [$0.04]
+philboy65 calls [$0.04]
+** Dealing flop ** [ Ac, 5d, Qd ]
+GreenWeekend bets [$0.06]
+philboy65 folds
+** Summary **
+GreenWeekend collected [ $0.12 ]
+
+
+#Game No : 500583101
+***** 888poker Hand History for Game 500583101 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:40:42
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.71 )
+Seat 2: GreenWeekend ( $4.12 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.03 ]
+
+
+#Game No : 500583107
+***** 888poker Hand History for Game 500583107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:40:47
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.72 )
+Seat 2: GreenWeekend ( $4.11 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 calls [$0.01]
+GreenWeekend checks
+** Dealing flop ** [ Kh, 9c, 8d ]
+GreenWeekend checks
+philboy65 bets [$0.02]
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.04 ]
+
+
+#Game No : 500583117
+***** 888poker Hand History for Game 500583117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:41:03
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.74 )
+Seat 2: GreenWeekend ( $4.09 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend raises [$0.05]
+philboy65 folds
+** Summary **
+GreenWeekend collected [ $0.04 ]
+
+
+#Game No : 500583123
+***** 888poker Hand History for Game 500583123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:41:11
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.72 )
+Seat 2: GreenWeekend ( $4.11 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 folds
+** Summary **
+GreenWeekend collected [ $0.03 ]
+
+
+#Game No : 500583127
+***** 888poker Hand History for Game 500583127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:41:17
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.71 )
+Seat 2: GreenWeekend ( $4.12 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.03 ]
+
+
+#Game No : 500583134
+***** 888poker Hand History for Game 500583134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:41:23
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.72 )
+Seat 2: GreenWeekend ( $4.11 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 calls [$0.01]
+GreenWeekend raises [$0.06]
+philboy65 calls [$0.06]
+** Dealing flop ** [ 9s, 2d, 8s ]
+GreenWeekend bets [$0.08]
+philboy65 folds
+** Summary **
+GreenWeekend collected [ $0.15 ]
+
+
+#Game No : 500583149
+***** 888poker Hand History for Game 500583149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:41:44
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.64 )
+Seat 2: GreenWeekend ( $4.18 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.03 ]
+
+
+#Game No : 500583155
+***** 888poker Hand History for Game 500583155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:41:49
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.65 )
+Seat 2: GreenWeekend ( $4.17 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 calls [$0.01]
+GreenWeekend checks
+** Dealing flop ** [ Td, Js, 3d ]
+GreenWeekend checks
+philboy65 checks
+** Dealing turn ** [ Kc ]
+GreenWeekend checks
+philboy65 bets [$0.02]
+GreenWeekend calls [$0.02]
+** Dealing river ** [ 9h ]
+GreenWeekend checks
+philboy65 bets [$0.10]
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.08 ]
+
+
+#Game No : 500583177
+***** 888poker Hand History for Game 500583177 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:42:21
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.69 )
+Seat 2: GreenWeekend ( $4.13 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.03 ]
+
+
+#Game No : 500583179
+***** 888poker Hand History for Game 500583179 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:42:27
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.70 )
+Seat 2: GreenWeekend ( $4.12 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 calls [$0.01]
+GreenWeekend checks
+** Dealing flop ** [ Kd, 7d, Js ]
+GreenWeekend checks
+philboy65 bets [$0.06]
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.04 ]
+
+
+#Game No : 500583193
+***** 888poker Hand History for Game 500583193 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:42:53
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $0.72 )
+Seat 2: GreenWeekend ( $4.10 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.03 ]
+
+
+#Game No : 500583469
+***** 888poker Hand History for Game 500583469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:48:32
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $1.90 )
+Seat 2: GreenWeekend ( $3.77 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend raises [$0.05]
+philboy65 calls [$0.04]
+** Dealing flop ** [ Kc, 3d, 2c ]
+philboy65 bets [$0.44]
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.12 ]
+
+
+#Game No : 500583484
+***** 888poker Hand History for Game 500583484 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:48:59
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $1.96 )
+Seat 2: GreenWeekend ( $3.71 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 calls [$0.01]
+GreenWeekend checks
+** Dealing flop ** [ 7d, 4c, 3s ]
+GreenWeekend checks
+philboy65 checks
+** Dealing turn ** [ 2s ]
+GreenWeekend checks
+philboy65 checks
+** Dealing river ** [ 6d ]
+GreenWeekend bets [$0.02]
+philboy65 folds
+** Summary **
+GreenWeekend collected [ $0.04 ]
+
+
+#Game No : 500583507
+***** 888poker Hand History for Game 500583507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:49:29
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $1.94 )
+Seat 2: GreenWeekend ( $3.73 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.03 ]
+
+
+#Game No : 500583518
+***** 888poker Hand History for Game 500583518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:49:35
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $1.95 )
+Seat 2: GreenWeekend ( $3.72 )
+philboy65 posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+philboy65 calls [$0.01]
+GreenWeekend raises [$0.04]
+philboy65 calls [$0.04]
+** Dealing flop ** [ Jc, 7s, 4s ]
+GreenWeekend checks
+philboy65 bets [$0.02]
+GreenWeekend folds
+** Summary **
+philboy65 collected [ $0.12 ]
+
+
+#Game No : 500583530
+***** 888poker Hand History for Game 500583530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 06:49:59
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: philboy65 ( $2.01 )
+Seat 2: GreenWeekend ( $3.66 )
+GreenWeekend posts small blind [$0.01]
+philboy65 posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend raises [$0.07]
+philboy65 folds
+** Summary **
+GreenWeekend did not show his hand
+GreenWeekend collected [ $0.04 ]
+
+

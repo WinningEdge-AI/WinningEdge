@@ -1,0 +1,30 @@
+#Game No : 459511290
+***** 888poker Hand History for Game 459511290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 18:18:47
+Table Kunsan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: fxgreen ( $2.16 )
+Seat 7: Waesche44 ( $1.80 )
+fxgreen posts small blind [$0.01]
+Waesche44 posts big blind [$0.02]
+** Dealing down cards **
+fxgreen raises [$0.05]
+Waesche44 calls [$0.04]
+** Dealing flop ** [ 9s, 8s, 2d ]
+Waesche44 checks
+fxgreen bets [$0.06]
+Waesche44 calls [$0.06]
+** Dealing turn ** [ 4h ]
+Waesche44 checks
+fxgreen bets [$0.12]
+Waesche44 calls [$0.12]
+** Dealing river ** [ 8h ]
+Waesche44 checks
+fxgreen checks
+** Summary **
+Waesche44 shows [ 9c, 5c ]
+fxgreen mucks [ 7s, As ]
+Waesche44 collected [ $0.45 ]
+
+

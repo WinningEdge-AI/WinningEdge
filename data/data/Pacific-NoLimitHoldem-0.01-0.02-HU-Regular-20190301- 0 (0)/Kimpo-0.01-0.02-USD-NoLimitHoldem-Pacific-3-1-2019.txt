@@ -1,0 +1,54 @@
+#Game No : 525468197
+***** 888poker Hand History for Game 525468197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 20:50:57
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: hjp1233 ( $1 )
+Seat 6: Xontrax ( $1 )
+Xontrax posts small blind [$0.01]
+hjp1233 posts big blind [$0.02]
+** Dealing down cards **
+Xontrax calls [$0.01]
+hjp1233 checks
+** Dealing flop ** [ 6d, 6h, 2d ]
+hjp1233 bets [$0.02]
+Xontrax calls [$0.02]
+** Dealing turn ** [ Jd ]
+hjp1233 bets [$0.02]
+Xontrax calls [$0.02]
+** Dealing river ** [ 3d ]
+hjp1233 bets [$0.02]
+Xontrax raises [$0.04]
+hjp1233 folds
+** Summary **
+Xontrax collected [ $0.15 ]
+
+
+#Game No : 525468211
+***** 888poker Hand History for Game 525468211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 20:51:03
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hjp1233 ( $0.92 )
+Seat 6: Xontrax ( $1.07 )
+hjp1233 posts small blind [$0.01]
+Xontrax posts big blind [$0.02]
+** Dealing down cards **
+hjp1233 calls [$0.01]
+Xontrax checks
+** Dealing flop ** [ 3c, Jd, Kc ]
+Xontrax bets [$0.02]
+hjp1233 calls [$0.02]
+** Dealing turn ** [ 5s ]
+Xontrax bets [$0.02]
+hjp1233 calls [$0.02]
+** Dealing river ** [ As ]
+Xontrax bets [$0.02]
+hjp1233 raises [$0.10]
+Xontrax folds
+** Summary **
+hjp1233 collected [ $0.15 ]
+
+

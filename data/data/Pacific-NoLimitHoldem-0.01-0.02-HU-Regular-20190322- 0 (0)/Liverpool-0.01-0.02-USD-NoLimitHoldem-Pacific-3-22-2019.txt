@@ -1,0 +1,410 @@
+#Game No : 1256543924
+***** 888poker Hand History for Game 1256543924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 01:26:54
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.84 )
+Seat 4: madcatyasin ( $0.76 )
+madcatyasin posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+madcatyasin calls [$0.01]
+AleksandR400 checks
+** Dealing flop ** [ Qd, Qs, 7h ]
+AleksandR400 checks
+madcatyasin bets [$0.02]
+AleksandR400 folds
+** Summary **
+madcatyasin collected [ $0.04 ]
+
+
+#Game No : 1256550718
+***** 888poker Hand History for Game 1256550718 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 02:17:15
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: koksaki ( $1 )
+Seat 7: dmitb ( $2.83 )
+dmitb posts small blind [$0.01]
+koksaki posts big blind [$0.02]
+** Dealing down cards **
+dmitb raises [$0.05]
+koksaki folds
+** Summary **
+dmitb did not show his hand
+dmitb collected [ $0.04 ]
+
+
+#Game No : 1256550737
+***** 888poker Hand History for Game 1256550737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 02:17:26
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: koksaki ( $1 )
+Seat 7: dmitb ( $2.85 )
+koksaki posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+koksaki raises [$0.03]
+dmitb folds
+** Summary **
+koksaki did not show his hand
+koksaki collected [ $0.04 ]
+
+
+#Game No : 1256550754
+***** 888poker Hand History for Game 1256550754 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 02:17:34
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: koksaki ( $1.02 )
+Seat 7: dmitb ( $2.83 )
+dmitb posts small blind [$0.01]
+koksaki posts big blind [$0.02]
+** Dealing down cards **
+dmitb calls [$0.01]
+koksaki checks
+** Dealing flop ** [ Td, As, 7s ]
+koksaki bets [$0.02]
+dmitb folds
+** Summary **
+koksaki did not show his hand
+koksaki collected [ $0.04 ]
+
+
+#Game No : 1256550782
+***** 888poker Hand History for Game 1256550782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 02:17:47
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: koksaki ( $1.04 )
+Seat 7: dmitb ( $2.81 )
+koksaki posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+koksaki calls [$0.01]
+dmitb checks
+** Dealing flop ** [ 5d, 5h, 5s ]
+dmitb checks
+koksaki checks
+** Dealing turn ** [ Kd ]
+dmitb bets [$0.04]
+koksaki calls [$0.04]
+** Dealing river ** [ Jc ]
+dmitb bets [$0.12]
+koksaki calls [$0.12]
+** Summary **
+dmitb shows [ 9c, Th ]
+koksaki shows [ Ks, 2s ]
+koksaki collected [ $0.34 ]
+
+
+#Game No : 1256550847
+***** 888poker Hand History for Game 1256550847 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 02:18:27
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: koksaki ( $1.20 )
+Seat 7: dmitb ( $2.63 )
+dmitb posts small blind [$0.01]
+koksaki posts big blind [$0.02]
+** Dealing down cards **
+dmitb raises [$0.03]
+koksaki calls [$0.02]
+** Dealing flop ** [ 5h, 6d, 7c ]
+koksaki bets [$0.02]
+dmitb calls [$0.02]
+** Dealing turn ** [ As ]
+koksaki checks
+dmitb checks
+** Dealing river ** [ 3c ]
+koksaki checks
+dmitb checks
+** Summary **
+koksaki shows [ Tc, 7s ]
+dmitb mucks [ 9d, Jd ]
+koksaki collected [ $0.12 ]
+
+
+#Game No : 1256550904
+***** 888poker Hand History for Game 1256550904 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 02:18:58
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: koksaki ( $1.26 )
+Seat 7: dmitb ( $2.57 )
+koksaki posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+koksaki raises [$0.05]
+dmitb calls [$0.04]
+** Dealing flop ** [ Kh, 6d, 3c ]
+dmitb checks
+koksaki checks
+** Dealing turn ** [ 9c ]
+dmitb checks
+koksaki bets [$0.03]
+dmitb calls [$0.03]
+** Dealing river ** [ Qs ]
+dmitb bets [$0.13]
+koksaki calls [$0.13]
+** Summary **
+dmitb shows [ Qc, 9s ]
+koksaki mucks [ Ac, 9h ]
+dmitb collected [ $0.42 ]
+
+
+#Game No : 1256550973
+***** 888poker Hand History for Game 1256550973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 02:19:36
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: koksaki ( $1.04 )
+Seat 7: dmitb ( $2.77 )
+dmitb posts small blind [$0.01]
+koksaki posts big blind [$0.02]
+** Dealing down cards **
+dmitb calls [$0.01]
+koksaki checks
+** Dealing flop ** [ 6c, 7c, Kh ]
+koksaki checks
+dmitb bets [$0.02]
+koksaki calls [$0.02]
+** Dealing turn ** [ 8c ]
+koksaki checks
+dmitb checks
+** Dealing river ** [ Ad ]
+koksaki checks
+dmitb checks
+** Summary **
+koksaki shows [ 6s, 2s ]
+dmitb shows [ 7d, 3d ]
+dmitb collected [ $0.08 ]
+
+
+#Game No : 1256567286
+***** 888poker Hand History for Game 1256567286 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 04:10:07
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.44 )
+Seat 9: Omniregius ( $2.54 )
+Omniregius posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Omniregius folds
+** Summary **
+AleksandR400 did not show his hand
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 1256567315
+***** 888poker Hand History for Game 1256567315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 04:10:16
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.45 )
+Seat 9: Omniregius ( $2.53 )
+AleksandR400 posts small blind [$0.01]
+Omniregius posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.05]
+Omniregius calls [$0.04]
+** Dealing flop ** [ 3s, Td, 4s ]
+Omniregius checks
+AleksandR400 checks
+** Dealing turn ** [ 7c ]
+Omniregius bets [$0.06]
+AleksandR400 calls [$0.06]
+** Dealing river ** [ 7d ]
+Omniregius bets [$0.12]
+AleksandR400 calls [$0.12]
+** Summary **
+Omniregius shows [ Tc, Js ]
+AleksandR400 mucks [ Ad, Qd ]
+Omniregius collected [ $0.45 ]
+
+
+#Game No : 1256567407
+***** 888poker Hand History for Game 1256567407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 04:10:51
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.21 )
+Seat 9: Omniregius ( $2.74 )
+Omniregius posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Omniregius raises [$0.05]
+AleksandR400 raises [$0.19]
+Omniregius calls [$0.15]
+** Dealing flop ** [ Td, 2d, Qd ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 4c ]
+** Summary **
+AleksandR400 shows [ Jd, 9d ]
+Omniregius shows [ 7d, As ]
+AleksandR400 collected [ $0.40 ]
+
+
+#Game No : 1256567470
+***** 888poker Hand History for Game 1256567470 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 04:11:12
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.40 )
+Seat 9: Omniregius ( $2.53 )
+AleksandR400 posts small blind [$0.01]
+Omniregius posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 folds
+** Summary **
+Omniregius did not show his hand
+Omniregius collected [ $0.03 ]
+
+
+#Game No : 1256567484
+***** 888poker Hand History for Game 1256567484 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 04:11:17
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.39 )
+Seat 9: Omniregius ( $2.54 )
+Omniregius posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Omniregius raises [$0.05]
+AleksandR400 raises [$0.37]
+Omniregius folds
+** Summary **
+AleksandR400 did not show his hand
+AleksandR400 collected [ $0.12 ]
+
+
+#Game No : 1256567615
+***** 888poker Hand History for Game 1256567615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 04:12:05
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.45 )
+Seat 9: Omniregius ( $2.48 )
+AleksandR400 posts small blind [$0.01]
+Omniregius posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.05]
+Omniregius calls [$0.04]
+** Dealing flop ** [ Ks, 7h, Kh ]
+Omniregius checks
+AleksandR400 checks
+** Dealing turn ** [ Kd ]
+Omniregius checks
+AleksandR400 bets [$0.12]
+Omniregius folds
+** Summary **
+AleksandR400 did not show his hand
+AleksandR400 collected [ $0.12 ]
+
+
+#Game No : 1256567701
+***** 888poker Hand History for Game 1256567701 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 04:12:38
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.51 )
+Seat 9: Omniregius ( $2.42 )
+Omniregius posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Omniregius raises [$0.05]
+AleksandR400 calls [$0.04]
+** Dealing flop ** [ Ad, 9s, Th ]
+AleksandR400 checks
+Omniregius bets [$0.06]
+AleksandR400 raises [$0.45]
+Omniregius folds
+** Summary **
+AleksandR400 did not show his hand
+AleksandR400 collected [ $0.23 ]
+
+
+#Game No : 1256567742
+***** 888poker Hand History for Game 1256567742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 04:12:52
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.62 )
+Seat 9: Omniregius ( $2.30 )
+AleksandR400 posts small blind [$0.01]
+Omniregius posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.05]
+Omniregius calls [$0.04]
+** Dealing flop ** [ 5d, 7s, 3c ]
+Omniregius checks
+AleksandR400 checks
+** Dealing turn ** [ 7h ]
+Omniregius bets [$0.06]
+AleksandR400 calls [$0.06]
+** Dealing river ** [ 4d ]
+Omniregius bets [$0.12]
+AleksandR400 folds
+** Summary **
+Omniregius collected [ $0.23 ]
+
+
+#Game No : 1256568101
+***** 888poker Hand History for Game 1256568101 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 04:15:04
+Table Liverpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.23 )
+Seat 9: Omniregius ( $2.61 )
+Omniregius posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Omniregius raises [$0.03]
+AleksandR400 raises [$0.21]
+Omniregius calls [$0.19]
+** Dealing flop ** [ Kh, Kc, 4d ]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ 7s ]
+** Summary **
+AleksandR400 shows [ Ac, 3h ]
+Omniregius shows [ Ad, 9c ]
+Omniregius collected [ $0.44 ]
+
+
+#Game No : 463177006
+***** 888poker Hand History for Game 463177006 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:43:12
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ArmsPeddler ( $1.17 )
+Seat 4: RockyTR81 ( $1 )
+RockyTR81 posts small blind [$0.01]
+ArmsPeddler posts big blind [$0.02]
+** Dealing down cards **
+RockyTR81 folds
+** Summary **
+ArmsPeddler did not show his hand
+ArmsPeddler collected [ $0.03 ]
+
+

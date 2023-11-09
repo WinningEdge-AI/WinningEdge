@@ -1,0 +1,61 @@
+#Game No : 503619800
+***** 888poker Hand History for Game 503619800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2018 08:03:17
+Table Kunsan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: co98nst41 ( $1.96 )
+Seat 9: BorMAN_42rus ( $1.58 )
+co98nst41 posts small blind [$0.01]
+BorMAN_42rus posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 raises [$0.03]
+BorMAN_42rus folds
+** Summary **
+co98nst41 collected [ $0.04 ]
+
+
+#Game No : 503619810
+***** 888poker Hand History for Game 503619810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2018 08:03:26
+Table Kunsan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: co98nst41 ( $1.98 )
+Seat 9: BorMAN_42rus ( $1.56 )
+BorMAN_42rus posts small blind [$0.01]
+co98nst41 posts big blind [$0.02]
+** Dealing down cards **
+BorMAN_42rus calls [$0.01]
+co98nst41 checks
+** Dealing flop ** [ 6h, 2h, Td ]
+co98nst41 checks
+BorMAN_42rus checks
+** Dealing turn ** [ 4d ]
+co98nst41 checks
+BorMAN_42rus checks
+** Dealing river ** [ 2c ]
+co98nst41 checks
+BorMAN_42rus checks
+** Summary **
+co98nst41 shows [ Jh, 7s ]
+BorMAN_42rus shows [ 5c, 5d ]
+BorMAN_42rus collected [ $0.04 ]
+
+
+#Game No : 503619848
+***** 888poker Hand History for Game 503619848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2018 08:03:59
+Table Kunsan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: co98nst41 ( $1.96 )
+Seat 9: BorMAN_42rus ( $1.58 )
+co98nst41 posts small blind [$0.01]
+BorMAN_42rus posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 folds
+** Summary **
+BorMAN_42rus collected [ $0.03 ]
+
+

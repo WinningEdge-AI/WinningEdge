@@ -1,0 +1,70 @@
+#Game No : 512647894
+***** 888poker Hand History for Game 512647894 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 01 2019 05:12:03
+Table Porlamar 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: LoveLuck12 ( $1.22 )
+Seat 6: rafaelkazuo3 ( $1.37 )
+LoveLuck12 posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+LoveLuck12 raises [$0.04]
+rafaelkazuo3 calls [$0.03]
+** Dealing flop ** [ 3c, 9d, Qc ]
+rafaelkazuo3 checks
+LoveLuck12 bets [$0.04]
+rafaelkazuo3 raises [$0.08]
+LoveLuck12 calls [$0.04]
+** Dealing turn ** [ 4h ]
+rafaelkazuo3 bets [$0.10]
+LoveLuck12 folds
+** Summary **
+rafaelkazuo3 did not show his hand
+rafaelkazuo3 collected [ $0.25 ]
+
+
+#Game No : 512647914
+***** 888poker Hand History for Game 512647914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 01 2019 05:12:38
+Table Porlamar 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: LoveLuck12 ( $1.09 )
+Seat 6: rafaelkazuo3 ( $1.49 )
+rafaelkazuo3 posts small blind [$0.01]
+LoveLuck12 posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+LoveLuck12 raises [$0.10]
+rafaelkazuo3 calls [$0.08]
+** Dealing flop ** [ Tc, 7s, 3c ]
+LoveLuck12 bets [$0.08]
+rafaelkazuo3 calls [$0.08]
+** Dealing turn ** [ Ad ]
+LoveLuck12 bets [$0.19]
+rafaelkazuo3 folds
+** Summary **
+LoveLuck12 collected [ $0.38 ]
+
+
+#Game No : 512648325
+***** 888poker Hand History for Game 512648325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 01 2019 05:25:08
+Table Porlamar 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: russi01 ( $3.01 )
+Seat 6: rafaelkazuo3 ( $0.62 )
+rafaelkazuo3 posts small blind [$0.01]
+russi01 posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.05]
+russi01 calls [$0.04]
+** Dealing flop ** [ 6s, Qs, Ac ]
+russi01 bets [$0.08]
+rafaelkazuo3 folds
+** Summary **
+russi01 collected [ $0.12 ]
+
+

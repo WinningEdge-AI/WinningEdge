@@ -1,0 +1,62 @@
+#Game No : 1243247871
+***** 888poker Hand History for Game 1243247871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 17:05:15
+Table Kharkiv 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: x_GOPHER_x ( $1.45 )
+Seat 9: ccandiaw ( $1.09 )
+x_GOPHER_x posts small blind [$0.01]
+ccandiaw posts big blind [$0.02]
+** Dealing down cards **
+x_GOPHER_x calls [$0.01]
+ccandiaw checks
+** Dealing flop ** [ 8d, 4h, 4c ]
+ccandiaw checks
+x_GOPHER_x checks
+** Dealing turn ** [ 8s ]
+ccandiaw checks
+x_GOPHER_x bets [$0.04]
+ccandiaw folds
+** Summary **
+x_GOPHER_x did not show his hand
+x_GOPHER_x collected [ $0.04 ]
+
+
+#Game No : 1243248081
+***** 888poker Hand History for Game 1243248081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 17:06:26
+Table Kharkiv 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: x_GOPHER_x ( $1.47 )
+Seat 9: ccandiaw ( $1.07 )
+ccandiaw posts small blind [$0.01]
+x_GOPHER_x posts big blind [$0.02]
+** Dealing down cards **
+ccandiaw calls [$0.01]
+x_GOPHER_x checks
+** Dealing flop ** [ Tc, 7c, Jd ]
+x_GOPHER_x bets [$0.04]
+ccandiaw folds
+** Summary **
+x_GOPHER_x did not show his hand
+x_GOPHER_x collected [ $0.04 ]
+
+
+#Game No : 1243248154
+***** 888poker Hand History for Game 1243248154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 17:06:52
+Table Kharkiv 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: x_GOPHER_x ( $1.49 )
+Seat 9: ccandiaw ( $1.05 )
+x_GOPHER_x posts small blind [$0.01]
+** Dealing down cards **
+ccandiaw folds
+** Summary **
+x_GOPHER_x did not show his hand
+x_GOPHER_x collected [ $0.01 ]
+
+

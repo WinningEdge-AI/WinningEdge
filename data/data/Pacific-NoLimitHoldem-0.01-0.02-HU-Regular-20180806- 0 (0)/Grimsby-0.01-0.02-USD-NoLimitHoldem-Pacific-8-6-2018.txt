@@ -1,0 +1,95 @@
+#Game No : 1199326458
+***** 888poker Hand History for Game 1199326458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 14:22:17
+Table Grimsby 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: estevamrr ( $2 )
+Seat 6: raven0866 ( $0.80 )
+estevamrr posts small blind [$0.01]
+raven0866 posts big blind [$0.02]
+** Dealing down cards **
+estevamrr calls [$0.01]
+raven0866 checks
+** Dealing flop ** [ 4c, 3h, 5c ]
+raven0866 checks
+estevamrr bets [$0.04]
+raven0866 calls [$0.04]
+** Dealing turn ** [ Tc ]
+raven0866 checks
+estevamrr bets [$0.12]
+raven0866 folds
+** Summary **
+estevamrr collected [ $0.12 ]
+
+
+#Game No : 1199326605
+***** 888poker Hand History for Game 1199326605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 14:22:47
+Table Grimsby 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: estevamrr ( $2.06 )
+Seat 6: raven0866 ( $0.74 )
+raven0866 posts small blind [$0.01]
+estevamrr posts big blind [$0.02]
+** Dealing down cards **
+raven0866 raises [$0.05]
+estevamrr calls [$0.04]
+** Dealing flop ** [ 5c, 4s, Qc ]
+estevamrr checks
+raven0866 bets [$0.08]
+estevamrr folds
+** Summary **
+raven0866 collected [ $0.12 ]
+
+
+#Game No : 1199326700
+***** 888poker Hand History for Game 1199326700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 14:23:10
+Table Grimsby 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: estevamrr ( $2 )
+Seat 6: raven0866 ( $0.80 )
+estevamrr posts small blind [$0.01]
+raven0866 posts big blind [$0.02]
+** Dealing down cards **
+estevamrr calls [$0.01]
+raven0866 raises [$0.06]
+estevamrr folds
+** Summary **
+raven0866 collected [ $0.04 ]
+
+
+#Game No : 1199326763
+***** 888poker Hand History for Game 1199326763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 14:23:23
+Table Grimsby 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: estevamrr ( $1.98 )
+Seat 6: raven0866 ( $0.82 )
+raven0866 posts small blind [$0.01]
+estevamrr posts big blind [$0.02]
+** Dealing down cards **
+raven0866 calls [$0.01]
+estevamrr checks
+** Dealing flop ** [ Jc, 6c, 4s ]
+estevamrr checks
+raven0866 bets [$0.04]
+estevamrr calls [$0.04]
+** Dealing turn ** [ Ts ]
+estevamrr checks
+raven0866 bets [$0.08]
+estevamrr calls [$0.08]
+** Dealing river ** [ 6s ]
+estevamrr checks
+raven0866 bets [$0.18]
+estevamrr calls [$0.18]
+** Summary **
+raven0866 shows [ 5h, 3h ]
+estevamrr shows [ 4c, 3s ]
+estevamrr collected [ $0.60 ]
+
+

@@ -1,0 +1,63 @@
+#Game No : 1189110923
+***** 888poker Hand History for Game 1189110923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 06 2018 15:21:05
+Table Duitama 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: zackzarack ( $2.38 )
+Seat 5: KNasekhian ( $1.55 )
+zackzarack posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+zackzarack folds
+** Summary **
+KNasekhian collected [ $0.03 ]
+
+
+#Game No : 1189111335
+***** 888poker Hand History for Game 1189111335 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 06 2018 15:22:48
+Table Duitama 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: zackzarack ( $2.41 )
+Seat 5: KNasekhian ( $1.48 )
+KNasekhian posts small blind [$0.01]
+zackzarack posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+zackzarack raises [$0.04]
+KNasekhian folds
+** Summary **
+zackzarack collected [ $0.04 ]
+
+
+#Game No : 1189111390
+***** 888poker Hand History for Game 1189111390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 06 2018 15:23:02
+Table Duitama 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: zackzarack ( $2.43 )
+Seat 5: KNasekhian ( $1.46 )
+zackzarack posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+zackzarack calls [$0.01]
+KNasekhian checks
+** Dealing flop ** [ Kd, Ts, Qs ]
+KNasekhian checks
+zackzarack checks
+** Dealing turn ** [ 2d ]
+KNasekhian checks
+zackzarack checks
+** Dealing river ** [ 8d ]
+KNasekhian bets [$0.04]
+zackzarack raises [$0.08]
+KNasekhian calls [$0.04]
+** Summary **
+zackzarack shows [ 6h, 6c ]
+KNasekhian shows [ 7h, Ks ]
+KNasekhian collected [ $0.19 ]
+
+

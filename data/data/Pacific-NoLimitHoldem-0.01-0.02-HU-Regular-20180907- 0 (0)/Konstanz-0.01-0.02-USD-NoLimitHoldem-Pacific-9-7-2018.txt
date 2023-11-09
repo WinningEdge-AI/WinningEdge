@@ -1,0 +1,194 @@
+#Game No : 502049687
+***** 888poker Hand History for Game 502049687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 12:22:50
+Table Konstanz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Veksil ( $1 )
+Seat 7: WilskM ( $1.04 )
+Veksil posts small blind [$0.01]
+WilskM posts big blind [$0.02]
+** Dealing down cards **
+Veksil raises [$0.05]
+WilskM calls [$0.04]
+** Dealing flop ** [ 5c, Tc, 4h ]
+WilskM checks
+Veksil bets [$0.06]
+WilskM calls [$0.06]
+** Dealing turn ** [ 9h ]
+WilskM checks
+Veksil checks
+** Dealing river ** [ 4s ]
+WilskM bets [$0.16]
+Veksil folds
+** Summary **
+WilskM collected [ $0.23 ]
+
+
+#Game No : 502049807
+***** 888poker Hand History for Game 502049807 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 12:23:50
+Table Konstanz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Veksil ( $0.88 )
+Seat 7: WilskM ( $1.15 )
+WilskM posts small blind [$0.01]
+Veksil posts big blind [$0.02]
+** Dealing down cards **
+WilskM raises [$0.06]
+Veksil calls [$0.05]
+** Dealing flop ** [ 3h, Qs, Qd ]
+Veksil checks
+WilskM bets [$0.05]
+Veksil raises [$0.12]
+WilskM folds
+** Summary **
+Veksil collected [ $0.23 ]
+
+
+#Game No : 502050607
+***** 888poker Hand History for Game 502050607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 12:37:48
+Table Konstanz 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: a1plumber ( $1 )
+Seat 9: richbranson ( $1.16 )
+richbranson posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+a1plumber calls [$0.04]
+** Dealing flop ** [ 7h, 7s, 5d ]
+a1plumber bets [$0.02]
+richbranson folds
+** Summary **
+a1plumber collected [ $0.12 ]
+
+
+#Game No : 502052804
+***** 888poker Hand History for Game 502052804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 13:19:15
+Table Konstanz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: a1plumber ( $0.51 )
+Seat 4: Frankiew87 ( $0.81 )
+a1plumber posts small blind [$0.01]
+Frankiew87 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+Frankiew87 checks
+** Dealing flop ** [ 4c, 6h, Jc ]
+Frankiew87 checks
+a1plumber bets [$0.02]
+Frankiew87 folds
+** Summary **
+a1plumber collected [ $0.04 ]
+
+
+#Game No : 502052815
+***** 888poker Hand History for Game 502052815 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 13:19:38
+Table Konstanz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: a1plumber ( $0.53 )
+Seat 4: Frankiew87 ( $0.79 )
+Frankiew87 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+Frankiew87 calls [$0.01]
+a1plumber checks
+** Dealing flop ** [ 2h, 7h, Jc ]
+a1plumber checks
+Frankiew87 checks
+** Dealing turn ** [ Kd ]
+a1plumber checks
+Frankiew87 checks
+** Dealing river ** [ Kc ]
+a1plumber checks
+Frankiew87 checks
+** Summary **
+a1plumber shows [ Ts, 5h ]
+Frankiew87 shows [ 4s, Qs ]
+Frankiew87 collected [ $0.04 ]
+
+
+#Game No : 502056231
+***** 888poker Hand History for Game 502056231 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 14:30:49
+Table Konstanz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: a1plumber ( $0.61 )
+Seat 6: Canecorzzo86 ( $1.72 )
+Canecorzzo86 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+Canecorzzo86 folds
+** Summary **
+a1plumber did not show his hand
+a1plumber collected [ $0.03 ]
+
+
+#Game No : 502056237
+***** 888poker Hand History for Game 502056237 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 14:30:54
+Table Konstanz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: a1plumber ( $0.62 )
+Seat 6: Canecorzzo86 ( $1.71 )
+a1plumber posts small blind [$0.01]
+Canecorzzo86 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+Canecorzzo86 checks
+** Dealing flop ** [ Jc, 5s, 8s ]
+Canecorzzo86 checks
+a1plumber bets [$0.02]
+Canecorzzo86 calls [$0.02]
+** Dealing turn ** [ Th ]
+Canecorzzo86 checks
+a1plumber bets [$0.02]
+Canecorzzo86 calls [$0.02]
+** Dealing river ** [ Qh ]
+Canecorzzo86 bets [$0.08]
+a1plumber calls [$0.08]
+** Summary **
+Canecorzzo86 shows [ Qd, Td ]
+a1plumber mucks [ Ah, Ac ]
+Canecorzzo86 collected [ $0.27 ]
+
+
+#Game No : 502056273
+***** 888poker Hand History for Game 502056273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 14:31:31
+Table Konstanz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: a1plumber ( $0.48 )
+Seat 6: Canecorzzo86 ( $1.84 )
+Canecorzzo86 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+Canecorzzo86 raises [$0.05]
+a1plumber calls [$0.04]
+** Dealing flop ** [ Qd, 4c, 7c ]
+a1plumber checks
+Canecorzzo86 bets [$0.06]
+a1plumber calls [$0.06]
+** Dealing turn ** [ 2c ]
+a1plumber checks
+Canecorzzo86 checks
+** Dealing river ** [ Jh ]
+a1plumber checks
+Canecorzzo86 checks
+** Summary **
+a1plumber shows [ 4d, Kd ]
+Canecorzzo86 shows [ Tc, Td ]
+Canecorzzo86 collected [ $0.23 ]
+
+

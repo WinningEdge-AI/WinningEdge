@@ -1,0 +1,649 @@
+#Game No : 502927455
+***** 888poker Hand History for Game 502927455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 00:46:55
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Solnu ( $1 )
+Seat 4: richbranson ( $1 )
+richbranson posts small blind [$0.01]
+Solnu posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+Solnu did not show his hand
+Solnu collected [ $0.03 ]
+
+
+#Game No : 502927460
+***** 888poker Hand History for Game 502927460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 00:47:05
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Solnu ( $1.01 )
+Seat 4: richbranson ( $1 )
+Solnu posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Solnu calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Qs, 8h, 8s ]
+richbranson bets [$0.04]
+Solnu calls [$0.04]
+** Dealing turn ** [ 6c ]
+richbranson bets [$0.08]
+Solnu calls [$0.08]
+** Dealing river ** [ 5s ]
+richbranson bets [$0.42]
+Solnu raises [$0.84]
+richbranson calls [$0.42]
+** Summary **
+Solnu shows [ Jd, 8d ]
+richbranson shows [ Ks, 7s ]
+richbranson collected [ $1.84 ]
+
+
+#Game No : 502927482
+***** 888poker Hand History for Game 502927482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 00:48:02
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Solnu ( $0.03 )
+Seat 4: richbranson ( $1.86 )
+richbranson posts small blind [$0.01]
+Solnu posts big blind [$0.02]
+** Dealing down cards **
+richbranson calls [$0.01]
+Solnu checks
+** Dealing flop ** [ 7s, 5d, 9s ]
+Solnu checks
+richbranson checks
+** Dealing turn ** [ 2c ]
+Solnu checks
+richbranson checks
+** Dealing river ** [ 5s ]
+Solnu bets [$0.01]
+richbranson calls [$0.01]
+** Summary **
+Solnu shows [ Jc, 7c ]
+richbranson shows [ Js, Qh ]
+Solnu collected [ $0.06 ]
+
+
+#Game No : 502930405
+***** 888poker Hand History for Game 502930405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:16:33
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $0.74 )
+Seat 9: SlavikMark79 ( $1.54 )
+SlavikMark79 posts small blind [$0.01]
+Angrydota posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 raises [$0.05]
+Angrydota calls [$0.04]
+** Dealing flop ** [ 7c, 3h, Jd ]
+SlavikMark79 checks
+Angrydota checks
+** Dealing turn ** [ 6d ]
+SlavikMark79 bets [$0.08]
+Angrydota folds
+** Summary **
+SlavikMark79 did not show his hand
+SlavikMark79 collected [ $0.12 ]
+
+
+#Game No : 502930428
+***** 888poker Hand History for Game 502930428 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:17:16
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $0.68 )
+Seat 9: SlavikMark79 ( $1.60 )
+SlavikMark79 posts small blind [$0.01]
+Angrydota posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 folds
+** Summary **
+Angrydota did not show his hand
+Angrydota collected [ $0.03 ]
+
+
+#Game No : 502930435
+***** 888poker Hand History for Game 502930435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:17:22
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $0.69 )
+Seat 9: SlavikMark79 ( $1.59 )
+Angrydota posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Angrydota folds
+** Summary **
+SlavikMark79 did not show his hand
+SlavikMark79 collected [ $0.03 ]
+
+
+#Game No : 502930439
+***** 888poker Hand History for Game 502930439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:17:36
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $0.68 )
+Seat 9: SlavikMark79 ( $1.60 )
+SlavikMark79 posts small blind [$0.01]
+Angrydota posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 raises [$0.05]
+Angrydota calls [$0.04]
+** Dealing flop ** [ Ac, 9d, Qd ]
+Angrydota checks
+SlavikMark79 bets [$0.08]
+Angrydota calls [$0.08]
+** Dealing turn ** [ 8c ]
+Angrydota checks
+SlavikMark79 checks
+** Dealing river ** [ Jh ]
+Angrydota checks
+SlavikMark79 checks
+** Summary **
+Angrydota shows [ 3h, As ]
+SlavikMark79 mucks [ Ks, 9h ]
+Angrydota collected [ $0.27 ]
+
+
+#Game No : 502930467
+***** 888poker Hand History for Game 502930467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:18:17
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $0.81 )
+Seat 9: SlavikMark79 ( $1.46 )
+Angrydota posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Angrydota calls [$0.01]
+SlavikMark79 checks
+** Dealing flop ** [ 6s, Qh, 7c ]
+SlavikMark79 checks
+Angrydota bets [$0.02]
+SlavikMark79 folds
+** Summary **
+Angrydota did not show his hand
+Angrydota collected [ $0.04 ]
+
+
+#Game No : 502930481
+***** 888poker Hand History for Game 502930481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:18:40
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $0.83 )
+Seat 9: SlavikMark79 ( $1.44 )
+SlavikMark79 posts small blind [$0.01]
+Angrydota posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 calls [$0.01]
+Angrydota checks
+** Dealing flop ** [ Td, 4c, 7d ]
+Angrydota checks
+SlavikMark79 bets [$0.04]
+Angrydota calls [$0.04]
+** Dealing turn ** [ 9c ]
+Angrydota checks
+SlavikMark79 bets [$0.12]
+Angrydota folds
+** Summary **
+SlavikMark79 did not show his hand
+SlavikMark79 collected [ $0.12 ]
+
+
+#Game No : 502930496
+***** 888poker Hand History for Game 502930496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:19:05
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $0.77 )
+Seat 9: SlavikMark79 ( $1.50 )
+Angrydota posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Angrydota raises [$0.03]
+SlavikMark79 calls [$0.02]
+** Dealing flop ** [ Td, 6c, 7h ]
+SlavikMark79 checks
+Angrydota bets [$0.04]
+SlavikMark79 calls [$0.04]
+** Dealing turn ** [ Ac ]
+SlavikMark79 checks
+Angrydota bets [$0.08]
+SlavikMark79 folds
+** Summary **
+Angrydota collected [ $0.15 ]
+
+
+#Game No : 502930956
+***** 888poker Hand History for Game 502930956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:34:00
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $1.70 )
+Seat 9: Prapor35 ( $0.80 )
+Angrydota posts small blind [$0.01]
+** Dealing down cards **
+Prapor35 folds
+** Summary **
+Angrydota did not show his hand
+Angrydota collected [ $0.01 ]
+
+
+#Game No : 502939248
+***** 888poker Hand History for Game 502939248 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 06:45:14
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BoRadlkey180 ( $1.01 )
+Seat 9: Pinvax ( $0.79 )
+BoRadlkey180 posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 calls [$0.01]
+Pinvax checks
+** Dealing flop ** [ 2d, Td, 8c ]
+Pinvax checks
+BoRadlkey180 bets [$0.02]
+Pinvax calls [$0.02]
+** Dealing turn ** [ 9s ]
+Pinvax checks
+BoRadlkey180 checks
+** Dealing river ** [ 4c ]
+Pinvax checks
+BoRadlkey180 bets [$0.06]
+Pinvax folds
+** Summary **
+BoRadlkey180 collected [ $0.08 ]
+
+
+#Game No : 502940773
+***** 888poker Hand History for Game 502940773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:16:44
+Table Guarenas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Nebesa35 ( $1 )
+Seat 9: Fronzilla ( $0.97 )
+Nebesa35 posts small blind [$0.01]
+Fronzilla posts big blind [$0.02]
+** Dealing down cards **
+Nebesa35 raises [$0.05]
+Fronzilla calls [$0.04]
+** Dealing flop ** [ 9h, Tc, As ]
+Fronzilla checks
+Nebesa35 bets [$0.06]
+Fronzilla calls [$0.06]
+** Dealing turn ** [ 3c ]
+Fronzilla checks
+Nebesa35 bets [$0.08]
+Fronzilla calls [$0.08]
+** Dealing river ** [ Ks ]
+Fronzilla checks
+Nebesa35 checks
+** Summary **
+Fronzilla shows [ Ac, 7h ]
+Nebesa35 mucks [ Th, Jh ]
+Fronzilla collected [ $0.38 ]
+
+
+#Game No : 502940815
+***** 888poker Hand History for Game 502940815 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:17:44
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Nebesa35 ( $1 )
+Seat 9: Fronzilla ( $1.15 )
+Fronzilla posts small blind [$0.01]
+Nebesa35 posts big blind [$0.02]
+** Dealing down cards **
+Fronzilla folds
+** Summary **
+Nebesa35 did not show his hand
+Nebesa35 collected [ $0.03 ]
+
+
+#Game No : 502940874
+***** 888poker Hand History for Game 502940874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:19:09
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Pinvax ( $0.80 )
+Seat 9: Lavvyheid14 ( $1 )
+Lavvyheid14 posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+Lavvyheid14 raises [$0.03]
+Pinvax calls [$0.02]
+** Dealing flop ** [ 6h, Jd, As ]
+Pinvax checks
+Lavvyheid14 bets [$0.08]
+Pinvax raises [$0.24]
+Lavvyheid14 calls [$0.16]
+** Dealing turn ** [ 9h ]
+Pinvax bets [$0.52]
+Lavvyheid14 calls [$0.52]
+** Dealing river ** [ Qh ]
+** Summary **
+Pinvax shows [ 6c, 6s ]
+Lavvyheid14 shows [ Qc, Tc ]
+Pinvax collected [ $1.50 ]
+
+
+#Game No : 502941490
+***** 888poker Hand History for Game 502941490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:32:40
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Prapor35 ( $1.22 )
+Seat 9: Lavvyheid14 ( $0.67 )
+Lavvyheid14 posts small blind [$0.01]
+Prapor35 posts big blind [$0.02]
+** Dealing down cards **
+Lavvyheid14 calls [$0.01]
+Prapor35 checks
+** Dealing flop ** [ 7h, Js, 7d ]
+Prapor35 checks
+Lavvyheid14 checks
+** Dealing turn ** [ 5c ]
+Prapor35 checks
+Lavvyheid14 checks
+** Dealing river ** [ Jh ]
+Prapor35 checks
+Lavvyheid14 checks
+** Summary **
+Prapor35 shows [ 4h, 6d ]
+Lavvyheid14 shows [ 6c, Ts ]
+Lavvyheid14 collected [ $0.04 ]
+
+
+#Game No : 502941513
+***** 888poker Hand History for Game 502941513 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:33:08
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Prapor35 ( $1.20 )
+Seat 9: Lavvyheid14 ( $0.69 )
+Prapor35 posts small blind [$0.01]
+Lavvyheid14 posts big blind [$0.02]
+** Dealing down cards **
+Prapor35 calls [$0.01]
+Lavvyheid14 checks
+** Dealing flop ** [ 4c, Qh, Kc ]
+Lavvyheid14 checks
+Prapor35 checks
+** Dealing turn ** [ 3c ]
+Lavvyheid14 checks
+Prapor35 checks
+** Dealing river ** [ 5s ]
+Lavvyheid14 checks
+Prapor35 checks
+** Summary **
+Lavvyheid14 shows [ 4h, Jd ]
+Prapor35 mucks [ 2d, 7s ]
+Lavvyheid14 collected [ $0.04 ]
+
+
+#Game No : 502941535
+***** 888poker Hand History for Game 502941535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:33:34
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Prapor35 ( $1.18 )
+Seat 9: Lavvyheid14 ( $0.71 )
+Lavvyheid14 posts small blind [$0.01]
+Prapor35 posts big blind [$0.02]
+** Dealing down cards **
+Lavvyheid14 calls [$0.01]
+Prapor35 checks
+** Dealing flop ** [ 3d, 9c, Ah ]
+Prapor35 checks
+Lavvyheid14 checks
+** Dealing turn ** [ 9s ]
+Prapor35 checks
+Lavvyheid14 bets [$0.04]
+Prapor35 folds
+** Summary **
+Lavvyheid14 collected [ $0.04 ]
+
+
+#Game No : 502941550
+***** 888poker Hand History for Game 502941550 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:33:53
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Prapor35 ( $1.16 )
+Seat 9: Lavvyheid14 ( $0.73 )
+Prapor35 posts small blind [$0.01]
+Lavvyheid14 posts big blind [$0.02]
+** Dealing down cards **
+Prapor35 raises [$0.03]
+Lavvyheid14 calls [$0.02]
+** Dealing flop ** [ 2d, Th, Qc ]
+Lavvyheid14 checks
+Prapor35 bets [$0.02]
+Lavvyheid14 calls [$0.02]
+** Dealing turn ** [ 3s ]
+Lavvyheid14 checks
+Prapor35 bets [$0.06]
+Lavvyheid14 folds
+** Summary **
+Prapor35 collected [ $0.12 ]
+
+
+#Game No : 502941782
+***** 888poker Hand History for Game 502941782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:39:08
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: denign9111 ( $1.12 )
+Seat 9: Lavvyheid14 ( $0.78 )
+Lavvyheid14 posts small blind [$0.01]
+denign9111 posts big blind [$0.02]
+** Dealing down cards **
+Lavvyheid14 calls [$0.01]
+denign9111 checks
+** Dealing flop ** [ 9c, 2c, 9s ]
+denign9111 bets [$0.04]
+Lavvyheid14 calls [$0.04]
+** Dealing turn ** [ 6d ]
+denign9111 bets [$0.16]
+Lavvyheid14 folds
+** Summary **
+denign9111 did not show his hand
+denign9111 collected [ $0.12 ]
+
+
+#Game No : 502941801
+***** 888poker Hand History for Game 502941801 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:39:33
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: denign9111 ( $1.18 )
+Seat 9: Lavvyheid14 ( $0.72 )
+denign9111 posts small blind [$0.01]
+Lavvyheid14 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 folds
+** Summary **
+Lavvyheid14 collected [ $0.03 ]
+
+
+#Game No : 502941820
+***** 888poker Hand History for Game 502941820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:40:00
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: denign9111 ( $1.23 )
+Seat 9: Lavvyheid14 ( $0.67 )
+denign9111 posts small blind [$0.01]
+Lavvyheid14 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 calls [$0.01]
+Lavvyheid14 raises [$0.06]
+denign9111 folds
+** Summary **
+Lavvyheid14 did not show his hand
+Lavvyheid14 collected [ $0.04 ]
+
+
+#Game No : 502941830
+***** 888poker Hand History for Game 502941830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:40:11
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: denign9111 ( $1.21 )
+Seat 9: Lavvyheid14 ( $0.69 )
+Lavvyheid14 posts small blind [$0.01]
+denign9111 posts big blind [$0.02]
+** Dealing down cards **
+Lavvyheid14 calls [$0.01]
+denign9111 checks
+** Dealing flop ** [ 7d, 4s, Ts ]
+denign9111 checks
+Lavvyheid14 bets [$0.04]
+denign9111 calls [$0.04]
+** Dealing turn ** [ Ah ]
+denign9111 checks
+Lavvyheid14 checks
+** Dealing river ** [ 5h ]
+denign9111 bets [$0.10]
+Lavvyheid14 folds
+** Summary **
+denign9111 did not show his hand
+denign9111 collected [ $0.12 ]
+
+
+#Game No : 502941849
+***** 888poker Hand History for Game 502941849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:40:40
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: denign9111 ( $1.27 )
+Seat 9: Lavvyheid14 ( $0.63 )
+denign9111 posts small blind [$0.01]
+Lavvyheid14 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 folds
+** Summary **
+Lavvyheid14 did not show his hand
+Lavvyheid14 collected [ $0.03 ]
+
+
+#Game No : 502941855
+***** 888poker Hand History for Game 502941855 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:40:48
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: denign9111 ( $1.26 )
+Seat 9: Lavvyheid14 ( $0.64 )
+Lavvyheid14 posts small blind [$0.01]
+denign9111 posts big blind [$0.02]
+** Dealing down cards **
+Lavvyheid14 raises [$0.03]
+denign9111 calls [$0.02]
+** Dealing flop ** [ Jc, 2d, 7h ]
+denign9111 checks
+Lavvyheid14 checks
+** Dealing turn ** [ 2s ]
+denign9111 checks
+Lavvyheid14 checks
+** Dealing river ** [ 7c ]
+denign9111 checks
+Lavvyheid14 checks
+** Summary **
+denign9111 shows [ Qc, 3c ]
+Lavvyheid14 shows [ 6c, Kh ]
+Lavvyheid14 collected [ $0.08 ]
+
+
+#Game No : 502941871
+***** 888poker Hand History for Game 502941871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:41:09
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: denign9111 ( $1.22 )
+Seat 9: Lavvyheid14 ( $0.68 )
+denign9111 posts small blind [$0.01]
+Lavvyheid14 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 folds
+** Summary **
+Lavvyheid14 did not show his hand
+Lavvyheid14 collected [ $0.03 ]
+
+
+#Game No : 502941877
+***** 888poker Hand History for Game 502941877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:41:14
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: denign9111 ( $1.21 )
+Seat 9: Lavvyheid14 ( $0.69 )
+Lavvyheid14 posts small blind [$0.01]
+denign9111 posts big blind [$0.02]
+** Dealing down cards **
+Lavvyheid14 raises [$0.03]
+denign9111 calls [$0.02]
+** Dealing flop ** [ Qs, Qh, Kh ]
+denign9111 bets [$0.05]
+Lavvyheid14 calls [$0.05]
+** Dealing turn ** [ Kc ]
+denign9111 bets [$0.12]
+Lavvyheid14 calls [$0.12]
+** Dealing river ** [ Ts ]
+denign9111 bets [$0.28]
+Lavvyheid14 folds
+** Summary **
+denign9111 collected [ $0.40 ]
+
+
+#Game No : 502941951
+***** 888poker Hand History for Game 502941951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:43:02
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: denign9111 ( $1.38 )
+Seat 9: Lavvyheid14 ( $0.53 )
+denign9111 posts small blind [$0.01]
+Lavvyheid14 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 folds
+** Summary **
+Lavvyheid14 collected [ $0.03 ]
+
+

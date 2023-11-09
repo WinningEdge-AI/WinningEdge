@@ -1,0 +1,490 @@
+#Game No : 502024889
+***** 888poker Hand History for Game 502024889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:16:37
+Table Tilburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kramar101 ( $1.01 )
+Seat 4: segabo4a ( $0.79 )
+kramar101 posts small blind [$0.01]
+segabo4a posts big blind [$0.02]
+** Dealing down cards **
+kramar101 folds
+** Summary **
+segabo4a collected [ $0.03 ]
+
+
+#Game No : 502024894
+***** 888poker Hand History for Game 502024894 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:16:42
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: kramar101 ( $1 )
+Seat 4: segabo4a ( $0.80 )
+segabo4a posts small blind [$0.01]
+kramar101 posts big blind [$0.02]
+** Dealing down cards **
+segabo4a raises [$0.03]
+kramar101 calls [$0.02]
+** Dealing flop ** [ Th, Ad, 8d ]
+kramar101 checks
+segabo4a bets [$0.05]
+kramar101 calls [$0.05]
+** Dealing turn ** [ 3s ]
+kramar101 checks
+segabo4a bets [$0.26]
+kramar101 calls [$0.26]
+** Dealing river ** [ 4s ]
+kramar101 checks
+segabo4a bets [$0.45]
+kramar101 calls [$0.45]
+** Summary **
+kramar101 shows [ As, 5d ]
+segabo4a shows [ 8s, 8c ]
+segabo4a collected [ $1.50 ]
+
+
+#Game No : 502024918
+***** 888poker Hand History for Game 502024918 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:17:23
+Table Tilburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kramar101 ( $1 )
+Seat 4: segabo4a ( $1.50 )
+kramar101 posts small blind [$0.01]
+segabo4a posts big blind [$0.02]
+** Dealing down cards **
+kramar101 folds
+** Summary **
+segabo4a collected [ $0.03 ]
+
+
+#Game No : 502024921
+***** 888poker Hand History for Game 502024921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:17:30
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: kramar101 ( $1 )
+Seat 4: segabo4a ( $1.51 )
+segabo4a posts small blind [$0.01]
+kramar101 posts big blind [$0.02]
+** Dealing down cards **
+segabo4a calls [$0.01]
+kramar101 raises [$0.06]
+segabo4a folds
+** Summary **
+kramar101 collected [ $0.04 ]
+
+
+#Game No : 502024933
+***** 888poker Hand History for Game 502024933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:17:43
+Table Tilburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kramar101 ( $1.02 )
+Seat 4: segabo4a ( $1.49 )
+kramar101 posts small blind [$0.01]
+segabo4a posts big blind [$0.02]
+** Dealing down cards **
+kramar101 raises [$0.05]
+segabo4a calls [$0.04]
+** Dealing flop ** [ 2c, Td, 7s ]
+segabo4a bets [$0.02]
+kramar101 raises [$0.06]
+segabo4a folds
+** Summary **
+kramar101 collected [ $0.15 ]
+
+
+#Game No : 502024945
+***** 888poker Hand History for Game 502024945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:18:01
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: kramar101 ( $1.09 )
+Seat 4: segabo4a ( $1.41 )
+segabo4a posts small blind [$0.01]
+kramar101 posts big blind [$0.02]
+** Dealing down cards **
+segabo4a calls [$0.01]
+kramar101 checks
+** Dealing flop ** [ 7c, Qd, 9h ]
+kramar101 checks
+segabo4a checks
+** Dealing turn ** [ 7s ]
+kramar101 checks
+segabo4a checks
+** Dealing river ** [ Jd ]
+kramar101 checks
+segabo4a checks
+** Summary **
+kramar101 shows [ 2d, 8d ]
+segabo4a shows [ 4d, As ]
+segabo4a collected [ $0.04 ]
+
+
+#Game No : 502025928
+***** 888poker Hand History for Game 502025928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:51:02
+Table Tilburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NUGLIFE ( $1.36 )
+Seat 9: jwillingham ( $0.80 )
+NUGLIFE posts small blind [$0.01]
+jwillingham posts big blind [$0.02]
+** Dealing down cards **
+NUGLIFE folds
+** Summary **
+jwillingham collected [ $0.03 ]
+
+
+#Game No : 502025929
+***** 888poker Hand History for Game 502025929 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:51:07
+Table Tilburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: NUGLIFE ( $1.35 )
+Seat 9: jwillingham ( $0.81 )
+jwillingham posts small blind [$0.01]
+NUGLIFE posts big blind [$0.02]
+** Dealing down cards **
+jwillingham calls [$0.01]
+NUGLIFE checks
+** Dealing flop ** [ Js, Th, Ah ]
+NUGLIFE checks
+jwillingham checks
+** Dealing turn ** [ Ad ]
+NUGLIFE checks
+jwillingham checks
+** Dealing river ** [ 9d ]
+NUGLIFE checks
+jwillingham checks
+** Summary **
+NUGLIFE shows [ 3s, 2d ]
+jwillingham shows [ 3d, 4s ]
+NUGLIFE collected [ $0.02 ]
+jwillingham collected [ $0.02 ]
+
+
+#Game No : 502025945
+***** 888poker Hand History for Game 502025945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:51:39
+Table Tilburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NUGLIFE ( $1.35 )
+Seat 9: jwillingham ( $0.81 )
+NUGLIFE posts small blind [$0.01]
+jwillingham posts big blind [$0.02]
+** Dealing down cards **
+NUGLIFE calls [$0.01]
+jwillingham checks
+** Dealing flop ** [ 8h, 3c, 5d ]
+jwillingham checks
+NUGLIFE checks
+** Dealing turn ** [ 9c ]
+jwillingham bets [$0.02]
+NUGLIFE calls [$0.02]
+** Dealing river ** [ Jh ]
+jwillingham bets [$0.02]
+NUGLIFE raises [$0.10]
+jwillingham calls [$0.08]
+** Summary **
+NUGLIFE shows [ Ts, Jd ]
+jwillingham mucks [ 4c, Kc ]
+NUGLIFE collected [ $0.27 ]
+
+
+#Game No : 502025961
+***** 888poker Hand History for Game 502025961 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:52:11
+Table Tilburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: NUGLIFE ( $1.48 )
+Seat 9: jwillingham ( $0.67 )
+jwillingham posts small blind [$0.01]
+NUGLIFE posts big blind [$0.02]
+** Dealing down cards **
+jwillingham raises [$0.03]
+NUGLIFE calls [$0.02]
+** Dealing flop ** [ 3h, 6d, Qd ]
+NUGLIFE checks
+jwillingham bets [$0.04]
+NUGLIFE folds
+** Summary **
+jwillingham collected [ $0.08 ]
+
+
+#Game No : 502025973
+***** 888poker Hand History for Game 502025973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:52:28
+Table Tilburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NUGLIFE ( $1.44 )
+Seat 9: jwillingham ( $0.71 )
+NUGLIFE posts small blind [$0.01]
+jwillingham posts big blind [$0.02]
+** Dealing down cards **
+NUGLIFE raises [$0.03]
+jwillingham calls [$0.02]
+** Dealing flop ** [ Ks, Jh, Th ]
+jwillingham checks
+NUGLIFE checks
+** Dealing turn ** [ Jc ]
+jwillingham checks
+NUGLIFE bets [$0.04]
+jwillingham folds
+** Summary **
+NUGLIFE collected [ $0.08 ]
+
+
+#Game No : 502025985
+***** 888poker Hand History for Game 502025985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:52:48
+Table Tilburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: NUGLIFE ( $1.48 )
+Seat 9: jwillingham ( $0.67 )
+jwillingham posts small blind [$0.01]
+NUGLIFE posts big blind [$0.02]
+** Dealing down cards **
+jwillingham calls [$0.01]
+NUGLIFE checks
+** Dealing flop ** [ Jc, Ah, Td ]
+NUGLIFE checks
+jwillingham bets [$0.02]
+NUGLIFE folds
+** Summary **
+jwillingham collected [ $0.04 ]
+
+
+#Game No : 502025995
+***** 888poker Hand History for Game 502025995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:53:09
+Table Tilburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NUGLIFE ( $1.46 )
+Seat 9: jwillingham ( $0.69 )
+NUGLIFE posts small blind [$0.01]
+jwillingham posts big blind [$0.02]
+** Dealing down cards **
+NUGLIFE raises [$0.03]
+jwillingham calls [$0.02]
+** Dealing flop ** [ 2h, 9h, Th ]
+jwillingham checks
+NUGLIFE checks
+** Dealing turn ** [ 9d ]
+jwillingham checks
+NUGLIFE checks
+** Dealing river ** [ Ac ]
+jwillingham checks
+NUGLIFE bets [$0.04]
+jwillingham folds
+** Summary **
+NUGLIFE collected [ $0.08 ]
+
+
+#Game No : 502026071
+***** 888poker Hand History for Game 502026071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 01:55:48
+Table Tilburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NUGLIFE ( $1.60 )
+Seat 9: jwillingham ( $0.55 )
+NUGLIFE posts small blind [$0.01]
+jwillingham posts big blind [$0.02]
+** Dealing down cards **
+NUGLIFE calls [$0.01]
+jwillingham checks
+** Dealing flop ** [ 2s, Jc, Kh ]
+jwillingham bets [$0.02]
+NUGLIFE calls [$0.02]
+** Dealing turn ** [ 2d ]
+jwillingham bets [$0.04]
+NUGLIFE calls [$0.04]
+** Dealing river ** [ Ah ]
+jwillingham bets [$0.08]
+NUGLIFE raises [$1.52]
+jwillingham folds
+** Summary **
+NUGLIFE collected [ $0.30 ]
+
+
+#Game No : 502035474
+***** 888poker Hand History for Game 502035474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 05:56:03
+Table Tilburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: qunrez ( $1.03 )
+Seat 4: O_LE_G ( $1.08 )
+qunrez posts small blind [$0.01]
+O_LE_G posts big blind [$0.02]
+** Dealing down cards **
+qunrez folds
+** Summary **
+O_LE_G collected [ $0.03 ]
+
+
+#Game No : 502035481
+***** 888poker Hand History for Game 502035481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 05:56:12
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: qunrez ( $1.02 )
+Seat 4: O_LE_G ( $1.09 )
+O_LE_G posts small blind [$0.01]
+** Dealing down cards **
+qunrez folds
+** Summary **
+O_LE_G collected [ $0.01 ]
+
+
+#Game No : 502035518
+***** 888poker Hand History for Game 502035518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 05:57:05
+Table Tilburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Sakalas7 ( $0.80 )
+Seat 4: O_LE_G ( $1.09 )
+Sakalas7 posts small blind [$0.01]
+O_LE_G posts big blind [$0.02]
+** Dealing down cards **
+Sakalas7 raises [$0.03]
+O_LE_G folds
+** Summary **
+Sakalas7 collected [ $0.04 ]
+
+
+#Game No : 502035605
+***** 888poker Hand History for Game 502035605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 05:59:07
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: berbourg ( $1 )
+Seat 6: Fantajuice ( $0.80 )
+berbourg posts small blind [$0.01]
+Fantajuice posts big blind [$0.02]
+** Dealing down cards **
+berbourg raises [$0.03]
+Fantajuice calls [$0.02]
+** Dealing flop ** [ 3c, 7h, 6d ]
+Fantajuice checks
+berbourg bets [$0.08]
+Fantajuice raises [$0.16]
+berbourg calls [$0.08]
+** Dealing turn ** [ Qc ]
+Fantajuice checks
+berbourg checks
+** Dealing river ** [ 2d ]
+Fantajuice bets [$0.60]
+berbourg folds
+** Summary **
+Fantajuice did not show his hand
+Fantajuice collected [ $0.38 ]
+
+
+#Game No : 502035617
+***** 888poker Hand History for Game 502035617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 05:59:27
+Table Tilburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: berbourg ( $0.80 )
+Seat 6: Fantajuice ( $0.98 )
+Fantajuice posts small blind [$0.01]
+berbourg posts big blind [$0.02]
+** Dealing down cards **
+Fantajuice calls [$0.01]
+berbourg checks
+** Dealing flop ** [ Kd, 7d, Ks ]
+berbourg checks
+Fantajuice checks
+** Dealing turn ** [ Qh ]
+berbourg checks
+Fantajuice checks
+** Dealing river ** [ Jh ]
+berbourg checks
+Fantajuice checks
+** Summary **
+berbourg shows [ 9s, 8d ]
+Fantajuice shows [ 7s, 6c ]
+Fantajuice collected [ $0.04 ]
+
+
+#Game No : 502035628
+***** 888poker Hand History for Game 502035628 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 05:59:45
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: berbourg ( $0.78 )
+Seat 6: Fantajuice ( $1 )
+berbourg posts small blind [$0.01]
+Fantajuice posts big blind [$0.02]
+** Dealing down cards **
+berbourg folds
+** Summary **
+Fantajuice did not show his hand
+Fantajuice collected [ $0.03 ]
+
+
+#Game No : 502035630
+***** 888poker Hand History for Game 502035630 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 05:59:49
+Table Tilburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: berbourg ( $0.77 )
+Seat 6: Fantajuice ( $1.01 )
+Fantajuice posts small blind [$0.01]
+berbourg posts big blind [$0.02]
+** Dealing down cards **
+Fantajuice calls [$0.01]
+berbourg checks
+** Dealing flop ** [ Kd, 4c, Kc ]
+berbourg checks
+Fantajuice checks
+** Dealing turn ** [ 8s ]
+berbourg checks
+Fantajuice checks
+** Dealing river ** [ 8h ]
+berbourg checks
+Fantajuice bets [$0.99]
+berbourg folds
+** Summary **
+Fantajuice collected [ $0.04 ]
+
+
+#Game No : 502036968
+***** 888poker Hand History for Game 502036968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 06:33:19
+Table Tilburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Dr.Vulkan ( $1 )
+Seat 6: O_LE_G ( $1 )
+O_LE_G posts small blind [$0.01]
+Dr.Vulkan posts big blind [$0.02]
+** Dealing down cards **
+O_LE_G folds
+** Summary **
+Dr.Vulkan did not show his hand
+Dr.Vulkan collected [ $0.03 ]
+
+

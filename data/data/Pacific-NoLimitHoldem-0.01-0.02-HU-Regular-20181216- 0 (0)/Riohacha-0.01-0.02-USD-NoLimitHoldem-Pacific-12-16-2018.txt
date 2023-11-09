@@ -1,0 +1,121 @@
+#Game No : 1232142507
+***** 888poker Hand History for Game 1232142507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 07:59:25
+Table Riohacha 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: OlegH1 ( $1.21 )
+Seat 7: Xanyrik2 ( $0.90 )
+Xanyrik2 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Xanyrik2 calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 9s, 4h, Ah ]
+OlegH1 checks
+Xanyrik2 bets [$0.04]
+OlegH1 folds
+** Summary **
+Xanyrik2 collected [ $0.04 ]
+
+
+#Game No : 1232144956
+***** 888poker Hand History for Game 1232144956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 08:08:23
+Table Riohacha 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Xanyrik2 ( $0.98 )
+Seat 9: Evgenevgenyh ( $0.95 )
+Xanyrik2 posts small blind [$0.01]
+Evgenevgenyh posts big blind [$0.02]
+** Dealing down cards **
+Xanyrik2 calls [$0.01]
+Evgenevgenyh checks
+** Dealing flop ** [ Ah, 8d, Qd ]
+Evgenevgenyh checks
+Xanyrik2 checks
+** Dealing turn ** [ 7c ]
+Evgenevgenyh checks
+Xanyrik2 checks
+** Dealing river ** [ Tc ]
+Evgenevgenyh bets [$0.02]
+Xanyrik2 folds
+** Summary **
+Evgenevgenyh collected [ $0.04 ]
+
+
+#Game No : 1232145337
+***** 888poker Hand History for Game 1232145337 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 08:09:45
+Table Riohacha 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Xanyrik2 ( $0.96 )
+Seat 9: Evgenevgenyh ( $0.97 )
+Evgenevgenyh posts small blind [$0.01]
+Xanyrik2 posts big blind [$0.02]
+** Dealing down cards **
+Evgenevgenyh folds
+** Summary **
+Xanyrik2 collected [ $0.03 ]
+
+
+#Game No : 1232145949
+***** 888poker Hand History for Game 1232145949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 08:12:03
+Table Riohacha 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Xanyrik2 ( $0.75 )
+Seat 9: Evgenevgenyh ( $1.87 )
+Evgenevgenyh posts small blind [$0.01]
+Xanyrik2 posts big blind [$0.02]
+** Dealing down cards **
+Evgenevgenyh calls [$0.01]
+Xanyrik2 checks
+** Dealing flop ** [ 6c, Ks, Qs ]
+Xanyrik2 bets [$0.02]
+Evgenevgenyh raises [$0.04]
+Xanyrik2 calls [$0.02]
+** Dealing turn ** [ Kd ]
+Xanyrik2 checks
+Evgenevgenyh checks
+** Dealing river ** [ Td ]
+Xanyrik2 bets [$0.08]
+Evgenevgenyh raises [$0.26]
+Xanyrik2 calls [$0.18]
+** Summary **
+Evgenevgenyh shows [ Kh, 6h ]
+Xanyrik2 mucks [ Qc, 3c ]
+Evgenevgenyh collected [ $0.60 ]
+
+
+#Game No : 1232156129
+***** 888poker Hand History for Game 1232156129 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 08:47:21
+Table Riohacha 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: ya_ladyshki ( $2.13 )
+Seat 4: t.jenks ( $1.56 )
+t.jenks posts small blind [$0.01]
+ya_ladyshki posts big blind [$0.02]
+** Dealing down cards **
+t.jenks calls [$0.01]
+ya_ladyshki raises [$0.03]
+t.jenks calls [$0.03]
+** Dealing flop ** [ 6d, Jd, Jc ]
+ya_ladyshki bets [$0.06]
+t.jenks calls [$0.06]
+** Dealing turn ** [ 8c ]
+ya_ladyshki bets [$0.13]
+t.jenks calls [$0.13]
+** Dealing river ** [ Qc ]
+ya_ladyshki checks
+t.jenks bets [$0.32]
+ya_ladyshki folds
+** Summary **
+t.jenks collected [ $0.45 ]
+
+

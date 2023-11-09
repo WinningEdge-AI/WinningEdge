@@ -1,0 +1,513 @@
+#Game No : 499683678
+***** 888poker Hand History for Game 499683678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 20:13:33
+Table Caruaru 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ItaloAcosta ( $1.09 )
+Seat 9: hugosalles ( $1.11 )
+hugosalles posts small blind [$0.01]
+ItaloAcosta posts big blind [$0.02]
+** Dealing down cards **
+hugosalles folds
+** Summary **
+ItaloAcosta collected [ $0.03 ]
+
+
+#Game No : 499684854
+***** 888poker Hand History for Game 499684854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 21:35:14
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RETHONRETH ( $1.06 )
+Seat 7: ItaloAcosta ( $2.12 )
+RETHONRETH posts small blind [$0.01]
+ItaloAcosta posts big blind [$0.02]
+** Dealing down cards **
+RETHONRETH calls [$0.01]
+ItaloAcosta checks
+** Dealing flop ** [ Ac, 5s, 4c ]
+ItaloAcosta checks
+RETHONRETH checks
+** Dealing turn ** [ 7d ]
+ItaloAcosta checks
+RETHONRETH bets [$0.02]
+ItaloAcosta folds
+** Summary **
+RETHONRETH collected [ $0.04 ]
+
+
+#Game No : 499684858
+***** 888poker Hand History for Game 499684858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 21:35:45
+Table Caruaru 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: RETHONRETH ( $1.08 )
+Seat 7: ItaloAcosta ( $2.10 )
+ItaloAcosta posts small blind [$0.01]
+RETHONRETH posts big blind [$0.02]
+** Dealing down cards **
+ItaloAcosta raises [$0.05]
+RETHONRETH calls [$0.04]
+** Dealing flop ** [ Ac, 7s, 8c ]
+RETHONRETH checks
+ItaloAcosta checks
+** Dealing turn ** [ 2d ]
+RETHONRETH checks
+ItaloAcosta bets [$0.06]
+RETHONRETH calls [$0.06]
+** Dealing river ** [ Ks ]
+RETHONRETH bets [$0.96]
+ItaloAcosta calls [$0.96]
+** Summary **
+RETHONRETH shows [ Kh, 2c ]
+ItaloAcosta shows [ 9s, As ]
+RETHONRETH collected [ $2.03 ]
+
+
+#Game No : 499687173
+***** 888poker Hand History for Game 499687173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 23:59:32
+Table Caruaru 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pondax ( $1 )
+Seat 9: xxx5MILO7xxx ( $0.93 )
+Pondax posts small blind [$0.01]
+xxx5MILO7xxx posts big blind [$0.02]
+** Dealing down cards **
+Pondax folds
+** Summary **
+xxx5MILO7xxx collected [ $0.03 ]
+
+
+#Game No : 499688340
+***** 888poker Hand History for Game 499688340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 00:47:14
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Papaya78 ( $2.27 )
+Seat 6: Beam3000 ( $2.58 )
+Papaya78 posts small blind [$0.01]
+Beam3000 posts big blind [$0.02]
+** Dealing down cards **
+Papaya78 calls [$0.01]
+Beam3000 raises [$0.02]
+Papaya78 calls [$0.02]
+** Dealing flop ** [ 2h, Jh, 2d ]
+Beam3000 bets [$0.04]
+Papaya78 calls [$0.04]
+** Dealing turn ** [ 9d ]
+Beam3000 checks
+Papaya78 checks
+** Dealing river ** [ 4s ]
+Beam3000 checks
+Papaya78 checks
+** Summary **
+Beam3000 shows [ 8h, 9h ]
+Papaya78 mucks [ 3s, Ah ]
+Beam3000 collected [ $0.15 ]
+
+
+#Game No : 499688381
+***** 888poker Hand History for Game 499688381 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 00:49:23
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Beam3000 ( $3.47 )
+Seat 9: boywithdark ( $1.07 )
+Beam3000 posts small blind [$0.01]
+boywithdark posts big blind [$0.02]
+** Dealing down cards **
+Beam3000 calls [$0.01]
+boywithdark checks
+** Dealing flop ** [ Td, Qh, 3c ]
+boywithdark checks
+Beam3000 checks
+** Dealing turn ** [ Kc ]
+boywithdark checks
+Beam3000 checks
+** Dealing river ** [ 3d ]
+boywithdark bets [$0.06]
+Beam3000 folds
+** Summary **
+boywithdark did not show his hand
+boywithdark collected [ $0.04 ]
+
+
+#Game No : 499688394
+***** 888poker Hand History for Game 499688394 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 00:49:56
+Table Caruaru 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Beam3000 ( $3.45 )
+Seat 9: boywithdark ( $1.09 )
+boywithdark posts small blind [$0.01]
+Beam3000 posts big blind [$0.02]
+** Dealing down cards **
+boywithdark calls [$0.01]
+Beam3000 checks
+** Dealing flop ** [ 8h, 6d, Jc ]
+Beam3000 checks
+boywithdark checks
+** Dealing turn ** [ Kc ]
+Beam3000 checks
+boywithdark checks
+** Dealing river ** [ Js ]
+Beam3000 checks
+boywithdark checks
+** Summary **
+Beam3000 shows [ 7h, 2s ]
+boywithdark shows [ 9c, 5c ]
+boywithdark collected [ $0.04 ]
+
+
+#Game No : 499688400
+***** 888poker Hand History for Game 499688400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 00:50:19
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Beam3000 ( $3.43 )
+Seat 9: boywithdark ( $1.11 )
+Beam3000 posts small blind [$0.01]
+boywithdark posts big blind [$0.02]
+** Dealing down cards **
+Beam3000 folds
+** Summary **
+boywithdark did not show his hand
+boywithdark collected [ $0.03 ]
+
+
+#Game No : 499688402
+***** 888poker Hand History for Game 499688402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 00:50:23
+Table Caruaru 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Beam3000 ( $3.42 )
+Seat 9: boywithdark ( $1.12 )
+boywithdark posts small blind [$0.01]
+** Dealing down cards **
+Beam3000 folds
+** Summary **
+boywithdark did not show his hand
+boywithdark collected [ $0.01 ]
+
+
+#Game No : 499688740
+***** 888poker Hand History for Game 499688740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 01:05:37
+Table Caruaru 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Lincoln28 ( $0.84 )
+Seat 7: Innzoid ( $0.96 )
+Lincoln28 posts small blind [$0.01]
+Innzoid posts big blind [$0.02]
+** Dealing down cards **
+Lincoln28 calls [$0.01]
+Innzoid raises [$0.04]
+Lincoln28 calls [$0.04]
+** Dealing flop ** [ 5d, 8d, Ad ]
+Innzoid checks
+Lincoln28 checks
+** Dealing turn ** [ 4d ]
+Innzoid bets [$0.04]
+Lincoln28 folds
+** Summary **
+Innzoid collected [ $0.12 ]
+
+
+#Game No : 499688749
+***** 888poker Hand History for Game 499688749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 01:05:40
+Table Caruaru 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Lincoln28 ( $0.78 )
+Seat 7: Innzoid ( $1.02 )
+Innzoid posts small blind [$0.01]
+Lincoln28 posts big blind [$0.02]
+** Dealing down cards **
+Innzoid calls [$0.01]
+Lincoln28 raises [$0.04]
+Innzoid calls [$0.04]
+** Dealing flop ** [ 7c, Jd, Td ]
+Lincoln28 bets [$0.12]
+Innzoid folds
+** Summary **
+Lincoln28 collected [ $0.12 ]
+
+
+#Game No : 499688919
+***** 888poker Hand History for Game 499688919 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 01:13:47
+Table Caruaru 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Lincoln28 ( $0.49 )
+Seat 7: Innzoid ( $0.56 )
+Lincoln28 posts small blind [$0.01]
+Innzoid posts big blind [$0.02]
+** Dealing down cards **
+Lincoln28 calls [$0.01]
+Innzoid raises [$0.04]
+Lincoln28 calls [$0.04]
+** Dealing flop ** [ Jc, 9s, 8h ]
+Innzoid bets [$0.04]
+Lincoln28 calls [$0.04]
+** Dealing turn ** [ 5d ]
+Innzoid bets [$0.04]
+Lincoln28 calls [$0.04]
+** Dealing river ** [ Qd ]
+Innzoid bets [$0.04]
+Lincoln28 raises [$0.22]
+Innzoid folds
+** Summary **
+Lincoln28 collected [ $0.34 ]
+
+
+#Game No : 499688939
+***** 888poker Hand History for Game 499688939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 01:14:31
+Table Caruaru 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Lincoln28 ( $0.65 )
+Seat 7: Innzoid ( $0.38 )
+Innzoid posts small blind [$0.01]
+Lincoln28 posts big blind [$0.02]
+** Dealing down cards **
+Innzoid raises [$0.37]
+Lincoln28 folds
+** Summary **
+Innzoid collected [ $0.40 ]
+
+
+#Game No : 499701501
+***** 888poker Hand History for Game 499701501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 07:58:49
+Table Caruaru 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jackwat66 ( $1 )
+Seat 7: bayboy885 ( $3.44 )
+jackwat66 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+jackwat66 folds
+** Summary **
+bayboy885 collected [ $0.03 ]
+
+
+#Game No : 499706933
+***** 888poker Hand History for Game 499706933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 10:31:48
+Table Caruaru 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Dagmaer ( $1.12 )
+Seat 9: Leinniel888 ( $1.15 )
+Leinniel888 posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+Leinniel888 raises [$0.05]
+Dagmaer folds
+** Summary **
+Leinniel888 did not show his hand
+Leinniel888 collected [ $0.04 ]
+
+
+#Game No : 499710249
+***** 888poker Hand History for Game 499710249 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 11:41:47
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: StandartYes ( $1.53 )
+Seat 6: RIK4224 ( $1.53 )
+RIK4224 posts small blind [$0.01]
+StandartYes posts big blind [$0.02]
+** Dealing down cards **
+RIK4224 raises [$0.07]
+StandartYes raises [$0.12]
+RIK4224 calls [$0.06]
+** Dealing flop ** [ 8d, Jd, Ts ]
+StandartYes bets [$0.12]
+RIK4224 folds
+** Summary **
+StandartYes collected [ $0.27 ]
+
+
+#Game No : 499710266
+***** 888poker Hand History for Game 499710266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 11:42:10
+Table Caruaru 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StandartYes ( $1.66 )
+Seat 6: RIK4224 ( $1.39 )
+StandartYes posts small blind [$0.01]
+RIK4224 posts big blind [$0.02]
+** Dealing down cards **
+StandartYes folds
+** Summary **
+RIK4224 collected [ $0.03 ]
+
+
+#Game No : 499710301
+***** 888poker Hand History for Game 499710301 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 11:42:54
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: StandartYes ( $1.73 )
+Seat 4: MikeClea ( $0.92 )
+MikeClea posts small blind [$0.01]
+StandartYes posts big blind [$0.02]
+** Dealing down cards **
+MikeClea calls [$0.01]
+StandartYes raises [$0.04]
+MikeClea calls [$0.04]
+** Dealing flop ** [ 8s, 3c, 8d ]
+StandartYes checks
+MikeClea checks
+** Dealing turn ** [ Kc ]
+StandartYes bets [$0.06]
+MikeClea folds
+** Summary **
+StandartYes did not show his hand
+StandartYes collected [ $0.12 ]
+
+
+#Game No : 499710319
+***** 888poker Hand History for Game 499710319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 11:43:15
+Table Caruaru 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StandartYes ( $1.79 )
+Seat 4: MikeClea ( $0.86 )
+StandartYes posts small blind [$0.01]
+MikeClea posts big blind [$0.02]
+** Dealing down cards **
+StandartYes folds
+** Summary **
+MikeClea did not show his hand
+MikeClea collected [ $0.03 ]
+
+
+#Game No : 499710324
+***** 888poker Hand History for Game 499710324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 11:43:20
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: StandartYes ( $1.78 )
+Seat 4: MikeClea ( $0.87 )
+MikeClea posts small blind [$0.01]
+StandartYes posts big blind [$0.02]
+** Dealing down cards **
+MikeClea calls [$0.01]
+StandartYes checks
+** Dealing flop ** [ Ad, Qd, 4s ]
+StandartYes checks
+MikeClea checks
+** Dealing turn ** [ 3s ]
+StandartYes bets [$0.04]
+MikeClea calls [$0.04]
+** Dealing river ** [ As ]
+StandartYes bets [$0.06]
+MikeClea raises [$0.12]
+StandartYes calls [$0.06]
+** Summary **
+MikeClea shows [ Ac, 9d ]
+StandartYes shows [ 2d, 5s ]
+StandartYes collected [ $0.34 ]
+
+
+#Game No : 499711001
+***** 888poker Hand History for Game 499711001 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 11:57:07
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MikeClea ( $0.82 )
+Seat 9: wolle66wow ( $1.21 )
+MikeClea posts small blind [$0.01]
+wolle66wow posts big blind [$0.02]
+** Dealing down cards **
+MikeClea calls [$0.01]
+wolle66wow checks
+** Dealing flop ** [ Jh, 9c, Js ]
+wolle66wow checks
+MikeClea checks
+** Dealing turn ** [ Qs ]
+wolle66wow bets [$0.02]
+MikeClea folds
+** Summary **
+wolle66wow did not show his hand
+wolle66wow collected [ $0.04 ]
+
+
+#Game No : 499711017
+***** 888poker Hand History for Game 499711017 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 11:57:22
+Table Caruaru 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: MikeClea ( $0.80 )
+Seat 9: wolle66wow ( $1.23 )
+wolle66wow posts small blind [$0.01]
+MikeClea posts big blind [$0.02]
+** Dealing down cards **
+wolle66wow calls [$0.01]
+MikeClea checks
+** Dealing flop ** [ Qc, 2h, 3c ]
+MikeClea checks
+wolle66wow checks
+** Dealing turn ** [ Qs ]
+MikeClea checks
+wolle66wow checks
+** Dealing river ** [ 4c ]
+MikeClea bets [$0.02]
+wolle66wow folds
+** Summary **
+MikeClea did not show his hand
+MikeClea collected [ $0.04 ]
+
+
+#Game No : 499711030
+***** 888poker Hand History for Game 499711030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 11:57:39
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MikeClea ( $0.82 )
+Seat 9: wolle66wow ( $1.21 )
+MikeClea posts small blind [$0.01]
+wolle66wow posts big blind [$0.02]
+** Dealing down cards **
+MikeClea raises [$0.03]
+wolle66wow calls [$0.02]
+** Dealing flop ** [ Jc, Jd, 8d ]
+wolle66wow checks
+MikeClea checks
+** Dealing turn ** [ 5h ]
+wolle66wow bets [$0.02]
+MikeClea calls [$0.02]
+** Dealing river ** [ Js ]
+wolle66wow bets [$0.04]
+MikeClea calls [$0.04]
+** Summary **
+wolle66wow shows [ 4c, Ad ]
+MikeClea shows [ As, Qs ]
+MikeClea collected [ $0.19 ]
+
+

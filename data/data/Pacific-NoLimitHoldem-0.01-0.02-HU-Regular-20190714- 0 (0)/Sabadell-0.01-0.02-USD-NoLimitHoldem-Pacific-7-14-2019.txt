@@ -1,0 +1,45 @@
+#Game No : 636042
+***** 888poker Hand History for Game 636042 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 19:38:56
+Table Sabadell 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: willful53 ( $4.24 )
+Seat 9: FTeeuwen ( $4.24 )
+willful53 posts small blind [$0.01]
+FTeeuwen posts big blind [$0.02]
+** Dealing down cards **
+willful53 raises [$0.05]
+FTeeuwen calls [$0.04]
+** Dealing flop ** [ Qs, 7d, 5s ]
+FTeeuwen checks
+willful53 checks
+** Dealing turn ** [ 5h ]
+FTeeuwen bets [$0.08]
+willful53 folds
+** Summary **
+FTeeuwen did not show his hand
+FTeeuwen collected [ $0.12 ]
+
+
+#Game No : 636043
+***** 888poker Hand History for Game 636043 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 19:39:20
+Table Sabadell 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: willful53 ( $4.18 )
+Seat 9: FTeeuwen ( $4.30 )
+FTeeuwen posts small blind [$0.01]
+willful53 posts big blind [$0.02]
+** Dealing down cards **
+FTeeuwen calls [$0.01]
+willful53 checks
+** Dealing flop ** [ 3d, 2d, 3h ]
+willful53 checks
+FTeeuwen bets [$0.04]
+willful53 folds
+** Summary **
+FTeeuwen collected [ $0.04 ]
+
+

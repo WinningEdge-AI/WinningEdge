@@ -1,0 +1,97 @@
+#Game No : 1767353
+***** 888poker Hand History for Game 1767353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2020 08:44:43
+Table Waterbury 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VVS32555 ( $0.87 )
+Seat 6: 6dan6 ( $3.15 )
+VVS32555 posts small blind [$0.01]
+6dan6 posts big blind [$0.02]
+** Dealing down cards **
+VVS32555 calls [$0.01]
+6dan6 raises [$0.06]
+VVS32555 calls [$0.06]
+** Dealing flop ** [ 6d, 3d, Ks ]
+6dan6 checks
+VVS32555 checks
+** Dealing turn ** [ 6h ]
+6dan6 bets [$0.10]
+VVS32555 calls [$0.10]
+** Dealing river ** [ 3h ]
+6dan6 bets [$0.20]
+VVS32555 folds
+** Summary **
+6dan6 did not show his hand
+6dan6 collected [ $0.34 ]
+
+
+#Game No : 1767361
+***** 888poker Hand History for Game 1767361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2020 08:45:17
+Table Waterbury 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: VVS32555 ( $0.69 )
+Seat 6: 6dan6 ( $3.31 )
+6dan6 posts small blind [$0.01]
+VVS32555 posts big blind [$0.02]
+** Dealing down cards **
+6dan6 raises [$0.07]
+VVS32555 folds
+** Summary **
+6dan6 did not show his hand
+6dan6 collected [ $0.04 ]
+
+
+#Game No : 1767364
+***** 888poker Hand History for Game 1767364 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2020 08:45:32
+Table Waterbury 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VVS32555 ( $0.67 )
+Seat 6: 6dan6 ( $3.33 )
+VVS32555 posts small blind [$0.01]
+6dan6 posts big blind [$0.02]
+** Dealing down cards **
+VVS32555 calls [$0.01]
+6dan6 checks
+** Dealing flop ** [ Ks, 2d, 9h ]
+6dan6 checks
+VVS32555 bets [$0.02]
+6dan6 calls [$0.02]
+** Dealing turn ** [ 4c ]
+6dan6 checks
+VVS32555 bets [$0.02]
+6dan6 folds
+** Summary **
+VVS32555 collected [ $0.08 ]
+
+
+#Game No : 1767370
+***** 888poker Hand History for Game 1767370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2020 08:46:07
+Table Waterbury 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: VVS32555 ( $0.71 )
+Seat 6: 6dan6 ( $3.29 )
+6dan6 posts small blind [$0.01]
+VVS32555 posts big blind [$0.02]
+** Dealing down cards **
+6dan6 calls [$0.01]
+VVS32555 checks
+** Dealing flop ** [ Ac, 3h, 4s ]
+VVS32555 bets [$0.02]
+6dan6 calls [$0.02]
+** Dealing turn ** [ 3s ]
+VVS32555 bets [$0.02]
+6dan6 calls [$0.02]
+** Dealing river ** [ 3c ]
+VVS32555 bets [$0.08]
+6dan6 folds
+** Summary **
+VVS32555 collected [ $0.12 ]
+
+

@@ -1,0 +1,81 @@
+#Game No : 501482105
+***** 888poker Hand History for Game 501482105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 01:32:32
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Old_Firehand ( $1 )
+Seat 4: 5piller1 ( $1 )
+Old_Firehand posts small blind [$0.01]
+5piller1 posts big blind [$0.02]
+** Dealing down cards **
+Old_Firehand calls [$0.01]
+5piller1 checks
+** Dealing flop ** [ Ac, Td, 6h ]
+5piller1 bets [$0.03]
+Old_Firehand folds
+** Summary **
+5piller1 collected [ $0.04 ]
+
+
+#Game No : 501482129
+***** 888poker Hand History for Game 501482129 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 01:32:51
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Old_Firehand ( $0.98 )
+Seat 4: 5piller1 ( $1.02 )
+5piller1 posts small blind [$0.01]
+Old_Firehand posts big blind [$0.02]
+** Dealing down cards **
+5piller1 folds
+** Summary **
+Old_Firehand collected [ $0.03 ]
+
+
+#Game No : 501482948
+***** 888poker Hand History for Game 501482948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 01:53:31
+Table Caserta 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: mrRdssn ( $1.07 )
+Seat 6: nebojsa018 ( $0.57 )
+nebojsa018 posts small blind [$0.01]
+mrRdssn posts big blind [$0.02]
+** Dealing down cards **
+nebojsa018 calls [$0.01]
+mrRdssn checks
+** Dealing flop ** [ 6c, 5d, 7s ]
+mrRdssn checks
+nebojsa018 checks
+** Dealing turn ** [ Tc ]
+mrRdssn bets [$0.02]
+nebojsa018 calls [$0.02]
+** Dealing river ** [ 8c ]
+mrRdssn checks
+nebojsa018 bets [$0.53]
+mrRdssn folds
+** Summary **
+nebojsa018 did not show his hand
+nebojsa018 collected [ $0.08 ]
+
+
+#Game No : 501482965
+***** 888poker Hand History for Game 501482965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 01:54:01
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mrRdssn ( $1.03 )
+Seat 6: nebojsa018 ( $0.61 )
+mrRdssn posts small blind [$0.01]
+nebojsa018 posts big blind [$0.02]
+** Dealing down cards **
+mrRdssn folds
+** Summary **
+nebojsa018 did not show his hand
+nebojsa018 collected [ $0.03 ]
+
+

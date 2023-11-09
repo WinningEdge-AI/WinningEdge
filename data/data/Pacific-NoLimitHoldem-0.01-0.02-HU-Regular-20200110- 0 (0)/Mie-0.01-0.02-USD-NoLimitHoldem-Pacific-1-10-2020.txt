@@ -1,0 +1,42 @@
+#Game No : 548892874
+***** 888poker Hand History for Game 548892874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2020 12:59:30
+Table Mie 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: 6tu4ka ( $2.65 )
+Seat 7: ZeusBlitz ( $1.06 )
+6tu4ka posts small blind [$0.01]
+ZeusBlitz posts big blind [$0.02]
+** Dealing down cards **
+6tu4ka raises [$0.05]
+ZeusBlitz calls [$0.04]
+** Dealing flop ** [ 8h, 6h, 2s ]
+ZeusBlitz bets [$0.06]
+6tu4ka calls [$0.06]
+** Dealing turn ** [ 8s ]
+ZeusBlitz checks
+6tu4ka checks
+** Dealing river ** [ Ts ]
+ZeusBlitz bets [$0.24]
+6tu4ka folds
+** Summary **
+ZeusBlitz collected [ $0.23 ]
+
+
+#Game No : 548892973
+***** 888poker Hand History for Game 548892973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2020 13:00:13
+Table Mie 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: 6tu4ka ( $2.53 )
+Seat 7: ZeusBlitz ( $1.17 )
+ZeusBlitz posts small blind [$0.01]
+6tu4ka posts big blind [$0.02]
+** Dealing down cards **
+ZeusBlitz folds
+** Summary **
+6tu4ka collected [ $0.03 ]
+
+

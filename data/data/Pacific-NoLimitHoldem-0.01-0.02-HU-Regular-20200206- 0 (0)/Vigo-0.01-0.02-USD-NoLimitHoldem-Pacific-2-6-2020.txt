@@ -1,0 +1,137 @@
+#Game No : 1329965233
+***** 888poker Hand History for Game 1329965233 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 21:16:11
+Table Vigo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: zshanan48 ( $2.38 )
+Seat 6: cafajestando ( $1.65 )
+cafajestando posts small blind [$0.01]
+zshanan48 posts big blind [$0.02]
+** Dealing down cards **
+cafajestando folds
+** Summary **
+zshanan48 collected [ $0.03 ]
+
+
+#Game No : 1329965246
+***** 888poker Hand History for Game 1329965246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 21:16:18
+Table Vigo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: zshanan48 ( $2.39 )
+Seat 6: cafajestando ( $1.64 )
+zshanan48 posts small blind [$0.01]
+cafajestando posts big blind [$0.02]
+** Dealing down cards **
+zshanan48 calls [$0.01]
+cafajestando checks
+** Dealing flop ** [ 2h, Tc, Kc ]
+cafajestando checks
+zshanan48 checks
+** Dealing turn ** [ 9s ]
+cafajestando checks
+zshanan48 bets [$0.02]
+cafajestando folds
+** Summary **
+zshanan48 did not show his hand
+zshanan48 collected [ $0.04 ]
+
+
+#Game No : 1329965275
+***** 888poker Hand History for Game 1329965275 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 21:16:39
+Table Vigo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: zshanan48 ( $2.41 )
+Seat 6: cafajestando ( $1.62 )
+cafajestando posts small blind [$0.01]
+zshanan48 posts big blind [$0.02]
+** Dealing down cards **
+cafajestando calls [$0.01]
+zshanan48 checks
+** Dealing flop ** [ 2s, Tc, Ah ]
+zshanan48 bets [$0.02]
+cafajestando raises [$0.04]
+zshanan48 calls [$0.02]
+** Dealing turn ** [ 2c ]
+zshanan48 bets [$2.35]
+cafajestando folds
+** Summary **
+zshanan48 did not show his hand
+zshanan48 collected [ $0.12 ]
+
+
+#Game No : 1329965318
+***** 888poker Hand History for Game 1329965318 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 21:17:03
+Table Vigo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: zshanan48 ( $2.47 )
+Seat 6: cafajestando ( $1.56 )
+zshanan48 posts small blind [$0.01]
+cafajestando posts big blind [$0.02]
+** Dealing down cards **
+zshanan48 calls [$0.01]
+cafajestando checks
+** Dealing flop ** [ Th, Ad, 6s ]
+cafajestando folds
+** Summary **
+zshanan48 did not show his hand
+zshanan48 collected [ $0.04 ]
+
+
+#Game No : 1329965343
+***** 888poker Hand History for Game 1329965343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 21:17:15
+Table Vigo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: zshanan48 ( $2.49 )
+Seat 6: cafajestando ( $1.54 )
+cafajestando posts small blind [$0.01]
+zshanan48 posts big blind [$0.02]
+** Dealing down cards **
+cafajestando calls [$0.01]
+zshanan48 checks
+** Dealing flop ** [ As, 8h, 3c ]
+zshanan48 bets [$0.02]
+cafajestando calls [$0.02]
+** Dealing turn ** [ 3h ]
+zshanan48 bets [$0.02]
+cafajestando calls [$0.02]
+** Dealing river ** [ Th ]
+zshanan48 bets [$0.02]
+cafajestando raises [$0.04]
+zshanan48 calls [$0.02]
+** Summary **
+cafajestando shows [ 3d, 2h ]
+zshanan48 mucks [ 8d, 9c ]
+cafajestando collected [ $0.19 ]
+
+
+#Game No : 1329965391
+***** 888poker Hand History for Game 1329965391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 21:17:51
+Table Vigo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: zshanan48 ( $2.39 )
+Seat 6: cafajestando ( $1.63 )
+zshanan48 posts small blind [$0.01]
+cafajestando posts big blind [$0.02]
+** Dealing down cards **
+zshanan48 raises [$2.38]
+cafajestando calls [$1.61]
+** Dealing flop ** [ As, 3h, 8h ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 8c ]
+** Summary **
+zshanan48 shows [ 6c, 6d ]
+cafajestando shows [ Jc, Tc ]
+zshanan48 collected [ $3.06 ]
+
+

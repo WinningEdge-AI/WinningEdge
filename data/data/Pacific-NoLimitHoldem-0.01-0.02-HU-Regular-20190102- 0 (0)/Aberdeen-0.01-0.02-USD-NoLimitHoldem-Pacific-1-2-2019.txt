@@ -1,0 +1,121 @@
+#Game No : 1236306868
+***** 888poker Hand History for Game 1236306868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 22:18:07
+Table Aberdeen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: vampir152 ( $2.39 )
+Seat 10: cvwool ( $0.18 )
+cvwool posts small blind [$0.01]
+vampir152 posts big blind [$0.02]
+** Dealing down cards **
+cvwool calls [$0.01]
+vampir152 checks
+** Dealing flop ** [ 7s, 7c, 6h ]
+vampir152 checks
+cvwool checks
+** Dealing turn ** [ 5d ]
+vampir152 checks
+cvwool checks
+** Dealing river ** [ 3h ]
+vampir152 checks
+cvwool bets [$0.02]
+vampir152 folds
+** Summary **
+cvwool collected [ $0.04 ]
+
+
+#Game No : 1236306893
+***** 888poker Hand History for Game 1236306893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 22:18:21
+Table Aberdeen 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: vampir152 ( $2.37 )
+Seat 10: cvwool ( $0.20 )
+vampir152 posts small blind [$0.01]
+cvwool posts big blind [$0.02]
+** Dealing down cards **
+vampir152 folds
+** Summary **
+cvwool did not show his hand
+cvwool collected [ $0.03 ]
+
+
+#Game No : 1236306899
+***** 888poker Hand History for Game 1236306899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 22:18:26
+Table Aberdeen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: vampir152 ( $2.36 )
+Seat 10: cvwool ( $0.21 )
+cvwool posts small blind [$0.01]
+vampir152 posts big blind [$0.02]
+** Dealing down cards **
+cvwool folds
+** Summary **
+vampir152 did not show his hand
+vampir152 collected [ $0.03 ]
+
+
+#Game No : 1236306910
+***** 888poker Hand History for Game 1236306910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 22:18:32
+Table Aberdeen 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: vampir152 ( $2.37 )
+Seat 10: cvwool ( $0.20 )
+vampir152 posts small blind [$0.01]
+cvwool posts big blind [$0.02]
+** Dealing down cards **
+vampir152 calls [$0.01]
+cvwool checks
+** Dealing flop ** [ Kh, Qc, 9h ]
+cvwool checks
+vampir152 checks
+** Dealing turn ** [ 4d ]
+cvwool checks
+vampir152 bets [$0.02]
+cvwool calls [$0.02]
+** Dealing river ** [ 9c ]
+cvwool checks
+vampir152 bets [$0.12]
+cvwool raises [$0.16]
+vampir152 calls [$0.04]
+** Summary **
+vampir152 shows [ Ks, Kd ]
+cvwool shows [ Td, Jh ]
+vampir152 collected [ $0.38 ]
+
+
+#Game No : 1236307030
+***** 888poker Hand History for Game 1236307030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 22:19:59
+Table Aberdeen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: vampir152 ( $2.55 )
+Seat 10: kinB3ast ( $2 )
+kinB3ast posts small blind [$0.01]
+vampir152 posts big blind [$0.02]
+** Dealing down cards **
+kinB3ast calls [$0.01]
+vampir152 checks
+** Dealing flop ** [ 3d, 7c, 8h ]
+vampir152 bets [$0.02]
+kinB3ast calls [$0.02]
+** Dealing turn ** [ Qd ]
+vampir152 checks
+kinB3ast bets [$0.05]
+vampir152 calls [$0.05]
+** Dealing river ** [ Js ]
+vampir152 checks
+kinB3ast checks
+** Summary **
+vampir152 shows [ 7h, Kd ]
+kinB3ast mucks [ 9d, 7d ]
+vampir152 collected [ $0.17 ]
+
+

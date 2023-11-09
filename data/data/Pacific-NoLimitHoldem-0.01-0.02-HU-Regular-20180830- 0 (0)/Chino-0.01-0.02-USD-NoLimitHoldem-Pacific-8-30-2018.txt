@@ -1,0 +1,144 @@
+#Game No : 454939619
+***** 888poker Hand History for Game 454939619 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 13:01:12
+Table Chino 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SergAkademik ( $1.30 )
+Seat 7: malafei8 ( $1.89 )
+SergAkademik posts small blind [$0.01]
+malafei8 posts big blind [$0.02]
+** Dealing down cards **
+SergAkademik calls [$0.01]
+malafei8 raises [$0.04]
+SergAkademik calls [$0.04]
+** Dealing flop ** [ 9d, 3c, Td ]
+malafei8 bets [$0.08]
+SergAkademik calls [$0.08]
+** Dealing turn ** [ Ac ]
+malafei8 bets [$0.18]
+SergAkademik calls [$0.18]
+** Dealing river ** [ 8h ]
+malafei8 bets [$0.32]
+SergAkademik calls [$0.32]
+** Summary **
+malafei8 shows [ Tc, Jc ]
+SergAkademik shows [ Ad, 7c ]
+SergAkademik collected [ $1.20 ]
+
+
+#Game No : 454939643
+***** 888poker Hand History for Game 454939643 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 13:01:31
+Table Chino 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SergAkademik ( $1.86 )
+Seat 7: malafei8 ( $1.25 )
+malafei8 posts small blind [$0.01]
+SergAkademik posts big blind [$0.02]
+** Dealing down cards **
+malafei8 raises [$0.05]
+SergAkademik calls [$0.04]
+** Dealing flop ** [ 6h, 4c, Jh ]
+SergAkademik checks
+malafei8 bets [$0.06]
+SergAkademik calls [$0.06]
+** Dealing turn ** [ Qh ]
+SergAkademik checks
+malafei8 checks
+** Dealing river ** [ 3s ]
+SergAkademik checks
+malafei8 checks
+** Summary **
+SergAkademik shows [ 4s, Js ]
+malafei8 mucks [ 8c, 9c ]
+SergAkademik collected [ $0.23 ]
+
+
+#Game No : 454940155
+***** 888poker Hand History for Game 454940155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 13:11:38
+Table Chino 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SergAkademik ( $1.71 )
+Seat 9: Mikhailol ( $3.24 )
+SergAkademik posts small blind [$0.01]
+Mikhailol posts big blind [$0.02]
+** Dealing down cards **
+SergAkademik raises [$0.05]
+Mikhailol calls [$0.04]
+** Dealing flop ** [ 7s, 4h, Qs ]
+Mikhailol checks
+SergAkademik bets [$0.12]
+Mikhailol folds
+** Summary **
+SergAkademik collected [ $0.12 ]
+
+
+#Game No : 454940166
+***** 888poker Hand History for Game 454940166 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 13:11:58
+Table Chino 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: SergAkademik ( $1.77 )
+Seat 9: Mikhailol ( $3.18 )
+Mikhailol posts small blind [$0.01]
+SergAkademik posts big blind [$0.02]
+** Dealing down cards **
+Mikhailol calls [$0.01]
+SergAkademik checks
+** Dealing flop ** [ Ad, 6s, Td ]
+SergAkademik checks
+Mikhailol checks
+** Dealing turn ** [ Js ]
+SergAkademik checks
+Mikhailol checks
+** Dealing river ** [ 4c ]
+SergAkademik checks
+Mikhailol bets [$0.04]
+SergAkademik folds
+** Summary **
+Mikhailol collected [ $0.04 ]
+
+
+#Game No : 454940187
+***** 888poker Hand History for Game 454940187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 13:12:20
+Table Chino 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SergAkademik ( $1.75 )
+Seat 9: Mikhailol ( $3.20 )
+SergAkademik posts small blind [$0.01]
+Mikhailol posts big blind [$0.02]
+** Dealing down cards **
+SergAkademik calls [$0.01]
+Mikhailol checks
+** Dealing flop ** [ As, Kc, 5d ]
+Mikhailol checks
+SergAkademik bets [$0.04]
+Mikhailol folds
+** Summary **
+SergAkademik collected [ $0.04 ]
+
+
+#Game No : 454940203
+***** 888poker Hand History for Game 454940203 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 13:12:39
+Table Chino 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: SergAkademik ( $1.77 )
+Seat 9: Mikhailol ( $3.18 )
+Mikhailol posts small blind [$0.01]
+SergAkademik posts big blind [$0.02]
+** Dealing down cards **
+Mikhailol raises [$0.05]
+SergAkademik folds
+** Summary **
+Mikhailol collected [ $0.04 ]
+
+

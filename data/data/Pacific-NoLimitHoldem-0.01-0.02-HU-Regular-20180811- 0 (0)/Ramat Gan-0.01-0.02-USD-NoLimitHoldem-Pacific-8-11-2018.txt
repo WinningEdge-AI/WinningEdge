@@ -1,0 +1,119 @@
+#Game No : 1200559641
+***** 888poker Hand History for Game 1200559641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2018 04:09:57
+Table Ramat Gan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: estevamrr ( $1.92 )
+Seat 6: KVARK ( $2.07 )
+KVARK posts small blind [$0.01]
+estevamrr posts big blind [$0.02]
+** Dealing down cards **
+KVARK calls [$0.01]
+estevamrr checks
+** Dealing flop ** [ 2h, 4h, 6d ]
+estevamrr checks
+KVARK checks
+** Dealing turn ** [ 3s ]
+estevamrr bets [$0.04]
+KVARK folds
+** Summary **
+estevamrr did not show his hand
+estevamrr collected [ $0.04 ]
+
+
+#Game No : 1200559687
+***** 888poker Hand History for Game 1200559687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2018 04:10:02
+Table Ramat Gan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: estevamrr ( $1.94 )
+Seat 6: KVARK ( $2.05 )
+estevamrr posts small blind [$0.01]
+KVARK posts big blind [$0.02]
+** Dealing down cards **
+estevamrr calls [$0.01]
+KVARK raises [$0.04]
+estevamrr calls [$0.04]
+** Dealing flop ** [ 3d, 6h, Tc ]
+KVARK bets [$0.12]
+estevamrr folds
+** Summary **
+KVARK collected [ $0.12 ]
+
+
+#Game No : 1200559742
+***** 888poker Hand History for Game 1200559742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2018 04:10:21
+Table Ramat Gan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: estevamrr ( $1.88 )
+Seat 6: KVARK ( $2.11 )
+KVARK posts small blind [$0.01]
+estevamrr posts big blind [$0.02]
+** Dealing down cards **
+KVARK calls [$0.01]
+estevamrr raises [$0.02]
+KVARK calls [$0.02]
+** Dealing flop ** [ 8h, 5d, 5h ]
+estevamrr checks
+KVARK checks
+** Dealing turn ** [ 4d ]
+estevamrr checks
+KVARK bets [$0.08]
+estevamrr calls [$0.08]
+** Dealing river ** [ 3d ]
+estevamrr checks
+KVARK checks
+** Summary **
+estevamrr shows [ Ac, 9h ]
+KVARK mucks [ 9s, 6h ]
+estevamrr collected [ $0.23 ]
+
+
+#Game No : 1200594277
+***** 888poker Hand History for Game 1200594277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2018 07:07:26
+Table Ramat Gan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: irk2012 ( $2 )
+Seat 6: Alsayr ( $3.08 )
+irk2012 posts small blind [$0.01]
+Alsayr posts big blind [$0.02]
+** Dealing down cards **
+irk2012 raises [$0.05]
+Alsayr calls [$0.04]
+** Dealing flop ** [ Tc, 9s, 2c ]
+Alsayr checks
+irk2012 checks
+** Dealing turn ** [ 7d ]
+Alsayr checks
+irk2012 checks
+** Dealing river ** [ 7c ]
+Alsayr checks
+irk2012 checks
+** Summary **
+Alsayr shows [ As, 4c ]
+irk2012 mucks [ Kd, 6d ]
+Alsayr collected [ $0.12 ]
+
+
+#Game No : 1200594401
+***** 888poker Hand History for Game 1200594401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2018 07:08:04
+Table Ramat Gan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: irk2012 ( $2 )
+Seat 6: Alsayr ( $3.14 )
+Alsayr posts small blind [$0.01]
+** Dealing down cards **
+irk2012 folds
+** Summary **
+Alsayr did not show his hand
+Alsayr collected [ $0.01 ]
+
+

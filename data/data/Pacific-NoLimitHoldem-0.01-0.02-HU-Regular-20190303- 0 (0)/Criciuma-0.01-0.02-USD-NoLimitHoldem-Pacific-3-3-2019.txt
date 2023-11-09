@@ -1,0 +1,835 @@
+#Game No : 514529088
+***** 888poker Hand History for Game 514529088 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:00:47
+Table Criciuma 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: caramaticsca ( $0.67 )
+Seat 6: KDB_088 ( $1.32 )
+KDB_088 posts small blind [$0.01]
+caramaticsca posts big blind [$0.02]
+** Dealing down cards **
+KDB_088 folds
+** Summary **
+caramaticsca collected [ $0.03 ]
+
+
+#Game No : 514529104
+***** 888poker Hand History for Game 514529104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:01:01
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: caramaticsca ( $0.68 )
+Seat 6: KDB_088 ( $1.31 )
+caramaticsca posts small blind [$0.01]
+KDB_088 posts big blind [$0.02]
+** Dealing down cards **
+caramaticsca calls [$0.01]
+KDB_088 checks
+** Dealing flop ** [ 7h, 4c, Td ]
+KDB_088 bets [$0.02]
+caramaticsca calls [$0.02]
+** Dealing turn ** [ 6s ]
+KDB_088 bets [$0.04]
+caramaticsca calls [$0.04]
+** Dealing river ** [ Qc ]
+KDB_088 checks
+caramaticsca bets [$0.08]
+KDB_088 folds
+** Summary **
+caramaticsca collected [ $0.15 ]
+
+
+#Game No : 514529132
+***** 888poker Hand History for Game 514529132 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:01:44
+Table Criciuma 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: caramaticsca ( $0.75 )
+Seat 6: KDB_088 ( $1.23 )
+KDB_088 posts small blind [$0.01]
+caramaticsca posts big blind [$0.02]
+** Dealing down cards **
+KDB_088 raises [$0.03]
+caramaticsca calls [$0.02]
+** Dealing flop ** [ Qs, 9h, 3s ]
+caramaticsca checks
+KDB_088 checks
+** Dealing turn ** [ 9s ]
+caramaticsca checks
+KDB_088 checks
+** Dealing river ** [ Qh ]
+caramaticsca checks
+KDB_088 checks
+** Summary **
+caramaticsca shows [ As, 8s ]
+KDB_088 mucks [ 8d, 5d ]
+caramaticsca collected [ $0.08 ]
+
+
+#Game No : 514529159
+***** 888poker Hand History for Game 514529159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:02:20
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: caramaticsca ( $0.79 )
+Seat 6: KDB_088 ( $1.19 )
+caramaticsca posts small blind [$0.01]
+KDB_088 posts big blind [$0.02]
+** Dealing down cards **
+caramaticsca calls [$0.01]
+KDB_088 checks
+** Dealing flop ** [ 6s, Jd, Th ]
+KDB_088 bets [$0.02]
+caramaticsca folds
+** Summary **
+KDB_088 collected [ $0.04 ]
+
+
+#Game No : 514529188
+***** 888poker Hand History for Game 514529188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:02:51
+Table Criciuma 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: caramaticsca ( $0.77 )
+Seat 6: KDB_088 ( $1.21 )
+KDB_088 posts small blind [$0.01]
+caramaticsca posts big blind [$0.02]
+** Dealing down cards **
+KDB_088 raises [$0.05]
+caramaticsca folds
+** Summary **
+KDB_088 did not show his hand
+KDB_088 collected [ $0.04 ]
+
+
+#Game No : 514529209
+***** 888poker Hand History for Game 514529209 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:03:11
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: caramaticsca ( $0.75 )
+Seat 6: KDB_088 ( $1.23 )
+caramaticsca posts small blind [$0.01]
+KDB_088 posts big blind [$0.02]
+** Dealing down cards **
+caramaticsca raises [$0.05]
+KDB_088 folds
+** Summary **
+caramaticsca collected [ $0.04 ]
+
+
+#Game No : 514529225
+***** 888poker Hand History for Game 514529225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:03:29
+Table Criciuma 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: caramaticsca ( $0.77 )
+Seat 6: KDB_088 ( $1.21 )
+KDB_088 posts small blind [$0.01]
+caramaticsca posts big blind [$0.02]
+** Dealing down cards **
+KDB_088 raises [$0.03]
+caramaticsca calls [$0.02]
+** Dealing flop ** [ As, 5s, 8c ]
+caramaticsca checks
+KDB_088 bets [$0.06]
+caramaticsca folds
+** Summary **
+KDB_088 did not show his hand
+KDB_088 collected [ $0.08 ]
+
+
+#Game No : 514529254
+***** 888poker Hand History for Game 514529254 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:04:04
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: caramaticsca ( $0.73 )
+Seat 6: KDB_088 ( $1.25 )
+caramaticsca posts small blind [$0.01]
+KDB_088 posts big blind [$0.02]
+** Dealing down cards **
+caramaticsca folds
+** Summary **
+KDB_088 collected [ $0.03 ]
+
+
+#Game No : 514531284
+***** 888poker Hand History for Game 514531284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:41:03
+Table Criciuma 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: lestevvv ( $1.07 )
+Seat 4: tuman80 ( $1.41 )
+lestevvv posts small blind [$0.01]
+tuman80 posts big blind [$0.02]
+** Dealing down cards **
+lestevvv raises [$0.03]
+tuman80 calls [$0.02]
+** Dealing flop ** [ Td, 3d, Ac ]
+tuman80 checks
+lestevvv bets [$0.06]
+tuman80 folds
+** Summary **
+lestevvv did not show his hand
+lestevvv collected [ $0.08 ]
+
+
+#Game No : 514531306
+***** 888poker Hand History for Game 514531306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:41:23
+Table Criciuma 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: lestevvv ( $1.11 )
+Seat 4: tuman80 ( $1.37 )
+tuman80 posts small blind [$0.01]
+** Dealing down cards **
+lestevvv folds
+** Summary **
+tuman80 did not show his hand
+tuman80 collected [ $0.01 ]
+
+
+#Game No : 514531339
+***** 888poker Hand History for Game 514531339 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:41:56
+Table Criciuma 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: azur1972 ( $1 )
+Seat 4: tuman80 ( $1.37 )
+tuman80 posts small blind [$0.01]
+azur1972 posts big blind [$0.02]
+** Dealing down cards **
+tuman80 calls [$0.01]
+azur1972 checks
+** Dealing flop ** [ 2c, 5s, 3h ]
+azur1972 checks
+tuman80 checks
+** Dealing turn ** [ 4d ]
+azur1972 bets [$0.04]
+tuman80 folds
+** Summary **
+azur1972 did not show his hand
+azur1972 collected [ $0.04 ]
+
+
+#Game No : 514531373
+***** 888poker Hand History for Game 514531373 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:42:25
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: azur1972 ( $1.02 )
+Seat 4: tuman80 ( $1.35 )
+azur1972 posts small blind [$0.01]
+tuman80 posts big blind [$0.02]
+** Dealing down cards **
+azur1972 calls [$0.01]
+tuman80 checks
+** Dealing flop ** [ 5h, 2c, As ]
+tuman80 checks
+azur1972 checks
+** Dealing turn ** [ Jd ]
+tuman80 checks
+azur1972 bets [$0.02]
+tuman80 folds
+** Summary **
+azur1972 did not show his hand
+azur1972 collected [ $0.04 ]
+
+
+#Game No : 514531400
+***** 888poker Hand History for Game 514531400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 10:42:49
+Table Criciuma 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: azur1972 ( $1.04 )
+Seat 4: tuman80 ( $1.33 )
+tuman80 posts small blind [$0.01]
+azur1972 posts big blind [$0.02]
+** Dealing down cards **
+tuman80 raises [$0.05]
+azur1972 calls [$0.04]
+** Dealing flop ** [ Kh, 9d, 4h ]
+azur1972 checks
+tuman80 checks
+** Dealing turn ** [ 5h ]
+azur1972 checks
+tuman80 bets [$0.06]
+azur1972 raises [$0.12]
+tuman80 calls [$0.06]
+** Dealing river ** [ 3h ]
+azur1972 checks
+tuman80 bets [$0.02]
+azur1972 calls [$0.02]
+** Summary **
+tuman80 shows [ Qs, Qh ]
+azur1972 mucks [ 5s, 5c ]
+tuman80 collected [ $0.38 ]
+
+
+#Game No : 514533431
+***** 888poker Hand History for Game 514533431 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:20:22
+Table Criciuma 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $0.96 )
+Seat 6: Starmonty ( $1.04 )
+Starmonty posts small blind [$0.01]
+goodier97 posts big blind [$0.02]
+** Dealing down cards **
+Starmonty calls [$0.01]
+goodier97 checks
+** Dealing flop ** [ 6d, 4c, Kd ]
+goodier97 checks
+Starmonty checks
+** Dealing turn ** [ 7s ]
+goodier97 checks
+Starmonty checks
+** Dealing river ** [ Jc ]
+goodier97 bets [$0.06]
+Starmonty folds
+** Summary **
+goodier97 collected [ $0.04 ]
+
+
+#Game No : 514534862
+***** 888poker Hand History for Game 514534862 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:46:02
+Table Criciuma 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.38 )
+Seat 4: iSecret88 ( $0.97 )
+iSecret88 posts small blind [$0.01]
+goodier97 posts big blind [$0.02]
+** Dealing down cards **
+iSecret88 raises [$0.04]
+goodier97 calls [$0.03]
+** Dealing flop ** [ Ac, Jd, 7c ]
+goodier97 checks
+iSecret88 bets [$0.05]
+goodier97 folds
+** Summary **
+iSecret88 collected [ $0.10 ]
+
+
+#Game No : 514534873
+***** 888poker Hand History for Game 514534873 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:46:22
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.33 )
+Seat 4: iSecret88 ( $1.02 )
+goodier97 posts small blind [$0.01]
+** Dealing down cards **
+iSecret88 folds
+** Summary **
+goodier97 collected [ $0.01 ]
+
+
+#Game No : 514534924
+***** 888poker Hand History for Game 514534924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:47:20
+Table Criciuma 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.33 )
+Seat 6: maunik_d ( $1 )
+maunik_d posts small blind [$0.01]
+goodier97 posts big blind [$0.02]
+** Dealing down cards **
+maunik_d calls [$0.01]
+goodier97 checks
+** Dealing flop ** [ Qh, Ah, Kc ]
+goodier97 checks
+maunik_d bets [$0.02]
+goodier97 calls [$0.02]
+** Dealing turn ** [ 9s ]
+goodier97 checks
+maunik_d bets [$0.04]
+goodier97 calls [$0.04]
+** Dealing river ** [ 4s ]
+goodier97 checks
+maunik_d checks
+** Summary **
+goodier97 shows [ 3d, Jc ]
+maunik_d shows [ 8h, 9d ]
+maunik_d collected [ $0.15 ]
+
+
+#Game No : 514534955
+***** 888poker Hand History for Game 514534955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:47:50
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.25 )
+Seat 6: maunik_d ( $1.07 )
+goodier97 posts small blind [$0.01]
+maunik_d posts big blind [$0.02]
+** Dealing down cards **
+goodier97 folds
+** Summary **
+maunik_d collected [ $0.03 ]
+
+
+#Game No : 514534959
+***** 888poker Hand History for Game 514534959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:47:55
+Table Criciuma 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.24 )
+Seat 6: maunik_d ( $1.08 )
+maunik_d posts small blind [$0.01]
+goodier97 posts big blind [$0.02]
+** Dealing down cards **
+maunik_d folds
+** Summary **
+goodier97 collected [ $0.03 ]
+
+
+#Game No : 514534965
+***** 888poker Hand History for Game 514534965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:48:01
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.25 )
+Seat 6: maunik_d ( $1.07 )
+goodier97 posts small blind [$0.01]
+maunik_d posts big blind [$0.02]
+** Dealing down cards **
+goodier97 calls [$0.01]
+maunik_d checks
+** Dealing flop ** [ 6c, 5d, 3s ]
+maunik_d checks
+goodier97 bets [$0.02]
+maunik_d calls [$0.02]
+** Dealing turn ** [ Qc ]
+maunik_d checks
+goodier97 checks
+** Dealing river ** [ 8d ]
+maunik_d bets [$0.02]
+goodier97 raises [$0.10]
+maunik_d folds
+** Summary **
+goodier97 did not show his hand
+goodier97 collected [ $0.12 ]
+
+
+#Game No : 514534994
+***** 888poker Hand History for Game 514534994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:48:36
+Table Criciuma 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.31 )
+Seat 6: maunik_d ( $1.01 )
+maunik_d posts small blind [$0.01]
+goodier97 posts big blind [$0.02]
+** Dealing down cards **
+maunik_d raises [$0.05]
+goodier97 folds
+** Summary **
+maunik_d did not show his hand
+maunik_d collected [ $0.04 ]
+
+
+#Game No : 514535000
+***** 888poker Hand History for Game 514535000 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:48:42
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.29 )
+Seat 6: maunik_d ( $1.03 )
+goodier97 posts small blind [$0.01]
+maunik_d posts big blind [$0.02]
+** Dealing down cards **
+goodier97 calls [$0.01]
+maunik_d raises [$0.06]
+goodier97 calls [$0.06]
+** Dealing flop ** [ Th, 6d, 2d ]
+maunik_d bets [$0.10]
+goodier97 folds
+** Summary **
+maunik_d collected [ $0.15 ]
+
+
+#Game No : 514540440
+***** 888poker Hand History for Game 514540440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:26:18
+Table Criciuma 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: highmaninho ( $1.11 )
+Seat 9: pokspider777 ( $1 )
+highmaninho posts small blind [$0.01]
+pokspider777 posts big blind [$0.02]
+** Dealing down cards **
+highmaninho raises [$0.05]
+pokspider777 calls [$0.04]
+** Dealing flop ** [ Ac, Js, 2c ]
+pokspider777 checks
+highmaninho bets [$0.08]
+pokspider777 calls [$0.08]
+** Dealing turn ** [ Qc ]
+pokspider777 checks
+highmaninho checks
+** Dealing river ** [ 4s ]
+pokspider777 checks
+highmaninho checks
+** Summary **
+pokspider777 shows [ Td, Jh ]
+highmaninho mucks [ 6d, Kh ]
+pokspider777 collected [ $0.27 ]
+
+
+#Game No : 514540466
+***** 888poker Hand History for Game 514540466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:26:51
+Table Criciuma 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: highmaninho ( $1 )
+Seat 9: pokspider777 ( $1.13 )
+pokspider777 posts small blind [$0.01]
+** Dealing down cards **
+highmaninho folds
+** Summary **
+pokspider777 collected [ $0.01 ]
+
+
+#Game No : 514540469
+***** 888poker Hand History for Game 514540469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:26:54
+Table Criciuma 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: V.Viana12 ( $0.80 )
+Seat 9: pokspider777 ( $1.13 )
+pokspider777 posts small blind [$0.01]
+V.Viana12 posts big blind [$0.02]
+** Dealing down cards **
+pokspider777 calls [$0.01]
+V.Viana12 checks
+** Dealing flop ** [ Ac, 8h, 2h ]
+V.Viana12 checks
+pokspider777 checks
+** Dealing turn ** [ 5h ]
+V.Viana12 checks
+pokspider777 checks
+** Dealing river ** [ Kh ]
+V.Viana12 checks
+pokspider777 bets [$0.04]
+V.Viana12 calls [$0.04]
+** Summary **
+pokspider777 shows [ 3s, 7s ]
+V.Viana12 shows [ Qs, Jc ]
+V.Viana12 collected [ $0.12 ]
+
+
+#Game No : 514540518
+***** 888poker Hand History for Game 514540518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:27:42
+Table Criciuma 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: V.Viana12 ( $0.86 )
+Seat 9: pokspider777 ( $1.07 )
+V.Viana12 posts small blind [$0.01]
+** Dealing down cards **
+pokspider777 folds
+** Summary **
+V.Viana12 did not show his hand
+V.Viana12 collected [ $0.01 ]
+
+
+#Game No : 514540565
+***** 888poker Hand History for Game 514540565 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:28:41
+Table Criciuma 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: V.Viana12 ( $0.86 )
+Seat 2: Vanishrod ( $0.80 )
+V.Viana12 posts small blind [$0.01]
+Vanishrod posts big blind [$0.02]
+** Dealing down cards **
+V.Viana12 calls [$0.01]
+Vanishrod checks
+** Dealing flop ** [ 3s, Ks, Kd ]
+Vanishrod checks
+V.Viana12 checks
+** Dealing turn ** [ 6s ]
+Vanishrod checks
+V.Viana12 checks
+** Dealing river ** [ 3h ]
+Vanishrod checks
+V.Viana12 bets [$0.02]
+Vanishrod calls [$0.02]
+** Summary **
+V.Viana12 shows [ Ac, 9h ]
+Vanishrod mucks [ Js, 4h ]
+V.Viana12 collected [ $0.08 ]
+
+
+#Game No : 514540603
+***** 888poker Hand History for Game 514540603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:29:25
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: V.Viana12 ( $0.90 )
+Seat 2: Vanishrod ( $0.76 )
+Vanishrod posts small blind [$0.01]
+V.Viana12 posts big blind [$0.02]
+** Dealing down cards **
+Vanishrod calls [$0.01]
+V.Viana12 checks
+** Dealing flop ** [ 3d, 2h, Tc ]
+V.Viana12 checks
+Vanishrod bets [$0.02]
+V.Viana12 calls [$0.02]
+** Dealing turn ** [ 9d ]
+V.Viana12 bets [$0.02]
+Vanishrod calls [$0.02]
+** Dealing river ** [ 3c ]
+V.Viana12 bets [$0.02]
+Vanishrod calls [$0.02]
+** Summary **
+V.Viana12 shows [ 9c, Ad ]
+Vanishrod mucks [ As, Jd ]
+V.Viana12 collected [ $0.15 ]
+
+
+#Game No : 514541477
+***** 888poker Hand History for Game 514541477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:49:32
+Table Criciuma 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: V.Viana12 ( $0.96 )
+Seat 7: F1nans ( $1.29 )
+V.Viana12 posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+V.Viana12 calls [$0.01]
+F1nans raises [$0.06]
+V.Viana12 folds
+** Summary **
+F1nans did not show his hand
+F1nans collected [ $0.04 ]
+
+
+#Game No : 514541489
+***** 888poker Hand History for Game 514541489 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:49:50
+Table Criciuma 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: V.Viana12 ( $0.94 )
+Seat 7: F1nans ( $1.31 )
+F1nans posts small blind [$0.01]
+V.Viana12 posts big blind [$0.02]
+** Dealing down cards **
+F1nans raises [$0.04]
+V.Viana12 calls [$0.03]
+** Dealing flop ** [ 8s, 6c, Qc ]
+V.Viana12 bets [$0.10]
+F1nans raises [$0.30]
+V.Viana12 calls [$0.20]
+** Dealing turn ** [ 4h ]
+V.Viana12 checks
+F1nans bets [$0.40]
+V.Viana12 raises [$0.59]
+F1nans calls [$0.19]
+** Dealing river ** [ Ts ]
+** Summary **
+V.Viana12 shows [ 7h, 7d ]
+F1nans shows [ 6d, Qd ]
+F1nans collected [ $1.77 ]
+
+
+#Game No : 514541573
+***** 888poker Hand History for Game 514541573 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:51:48
+Table Criciuma 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Aurumdigger ( $0.89 )
+Seat 7: F1nans ( $2.08 )
+Aurumdigger posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Aurumdigger calls [$0.01]
+F1nans checks
+** Dealing flop ** [ 6d, Td, 5h ]
+F1nans checks
+Aurumdigger checks
+** Dealing turn ** [ 2d ]
+F1nans checks
+Aurumdigger bets [$0.02]
+F1nans folds
+** Summary **
+Aurumdigger collected [ $0.04 ]
+
+
+#Game No : 514541585
+***** 888poker Hand History for Game 514541585 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:52:08
+Table Criciuma 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Aurumdigger ( $0.91 )
+Seat 7: F1nans ( $2.06 )
+F1nans posts small blind [$0.01]
+Aurumdigger posts big blind [$0.02]
+** Dealing down cards **
+F1nans folds
+** Summary **
+Aurumdigger collected [ $0.03 ]
+
+
+#Game No : 514541589
+***** 888poker Hand History for Game 514541589 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:52:17
+Table Criciuma 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Aurumdigger ( $0.92 )
+Seat 7: F1nans ( $2.05 )
+Aurumdigger posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Aurumdigger raises [$0.03]
+F1nans folds
+** Summary **
+Aurumdigger collected [ $0.04 ]
+
+
+#Game No : 514541597
+***** 888poker Hand History for Game 514541597 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:52:23
+Table Criciuma 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Aurumdigger ( $0.94 )
+Seat 7: F1nans ( $2.03 )
+F1nans posts small blind [$0.01]
+Aurumdigger posts big blind [$0.02]
+** Dealing down cards **
+F1nans raises [$0.04]
+Aurumdigger calls [$0.03]
+** Dealing flop ** [ Kc, 6h, Qh ]
+Aurumdigger checks
+F1nans checks
+** Dealing turn ** [ Ks ]
+Aurumdigger checks
+F1nans bets [$0.05]
+Aurumdigger calls [$0.05]
+** Dealing river ** [ 2h ]
+Aurumdigger checks
+F1nans checks
+** Summary **
+Aurumdigger shows [ 6c, Jc ]
+F1nans mucks [ Jh, 9c ]
+Aurumdigger collected [ $0.19 ]
+
+
+#Game No : 514541821
+***** 888poker Hand History for Game 514541821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:57:53
+Table Criciuma 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: payow ( $0.85 )
+Seat 7: vnuk36 ( $0.75 )
+vnuk36 posts small blind [$0.01]
+payow posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+payow checks
+** Dealing flop ** [ 9d, 2h, Ah ]
+payow checks
+vnuk36 checks
+** Dealing turn ** [ Ad ]
+payow checks
+vnuk36 checks
+** Dealing river ** [ 4h ]
+payow bets [$0.06]
+vnuk36 folds
+** Summary **
+payow collected [ $0.04 ]
+
+
+#Game No : 514541836
+***** 888poker Hand History for Game 514541836 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:58:15
+Table Criciuma 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: payow ( $0.87 )
+Seat 7: vnuk36 ( $0.73 )
+payow posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+payow calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ 7s, 6s, Kd ]
+vnuk36 checks
+payow checks
+** Dealing turn ** [ 5h ]
+vnuk36 checks
+payow checks
+** Dealing river ** [ Kc ]
+vnuk36 bets [$0.04]
+payow folds
+** Summary **
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 514541875
+***** 888poker Hand History for Game 514541875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 13:58:51
+Table Criciuma 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: payow ( $0.85 )
+Seat 7: vnuk36 ( $0.75 )
+vnuk36 posts small blind [$0.01]
+payow posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 raises [$0.05]
+payow calls [$0.04]
+** Dealing flop ** [ 6d, 5d, Ah ]
+payow bets [$0.02]
+vnuk36 calls [$0.02]
+** Dealing turn ** [ Qh ]
+payow bets [$0.04]
+vnuk36 calls [$0.04]
+** Dealing river ** [ 5c ]
+payow bets [$0.10]
+vnuk36 calls [$0.10]
+** Summary **
+payow shows [ Ac, Jh ]
+vnuk36 mucks [ Jc, Qc ]
+payow collected [ $0.42 ]
+
+

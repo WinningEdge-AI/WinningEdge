@@ -1,0 +1,42 @@
+#Game No : 612829081
+***** 888poker Hand History for Game 612829081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 03:28:29
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: WalerIS39 ( $1 )
+Seat 6: Kavalar ( $2 )
+WalerIS39 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+WalerIS39 raises [$0.05]
+Kavalar raises [$0.18]
+WalerIS39 calls [$0.14]
+** Dealing flop ** [ Ah, 6s, Th ]
+Kavalar bets [$0.30]
+WalerIS39 raises [$0.80]
+Kavalar calls [$0.50]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ Qc ]
+** Summary **
+WalerIS39 shows [ 2s, Ad ]
+Kavalar shows [ Kd, Ac ]
+Kavalar collected [ $1.88 ]
+
+
+#Game No : 612829133
+***** 888poker Hand History for Game 612829133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 03:29:44
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: WalerIS39 ( $0.98 )
+Seat 6: Kavalar ( $2.90 )
+Kavalar posts small blind [$0.01]
+WalerIS39 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar folds
+** Summary **
+WalerIS39 collected [ $0.03 ]
+
+

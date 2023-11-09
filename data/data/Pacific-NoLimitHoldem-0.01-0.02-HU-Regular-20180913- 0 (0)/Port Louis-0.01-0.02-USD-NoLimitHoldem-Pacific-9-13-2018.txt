@@ -1,0 +1,134 @@
+#Game No : 502280876
+***** 888poker Hand History for Game 502280876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 10:12:58
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tehhy ( $1.26 )
+Seat 9: MLPzER ( $1.10 )
+Tehhy posts small blind [$0.01]
+MLPzER posts big blind [$0.02]
+** Dealing down cards **
+Tehhy raises [$0.05]
+MLPzER folds
+** Summary **
+Tehhy collected [ $0.04 ]
+
+
+#Game No : 502281857
+***** 888poker Hand History for Game 502281857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 10:33:38
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tehhy ( $0.80 )
+Seat 6: kramar101 ( $1 )
+Tehhy posts small blind [$0.01]
+kramar101 posts big blind [$0.02]
+** Dealing down cards **
+Tehhy folds
+** Summary **
+kramar101 collected [ $0.03 ]
+
+
+#Game No : 502284274
+***** 888poker Hand History for Game 502284274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 11:11:40
+Table Port Louis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JayEssTee ( $4.28 )
+Seat 7: Tinsoldaten ( $1.36 )
+JayEssTee posts small blind [$0.01]
+Tinsoldaten posts big blind [$0.02]
+** Dealing down cards **
+JayEssTee folds
+** Summary **
+Tinsoldaten collected [ $0.03 ]
+
+
+#Game No : 502284340
+***** 888poker Hand History for Game 502284340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 11:12:25
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: JayEssTee ( $4.27 )
+Seat 2: Orick13 ( $1 )
+Orick13 posts small blind [$0.01]
+JayEssTee posts big blind [$0.02]
+** Dealing down cards **
+Orick13 calls [$0.01]
+JayEssTee checks
+** Dealing flop ** [ 9s, Jh, 8s ]
+JayEssTee checks
+Orick13 checks
+** Dealing turn ** [ Qd ]
+JayEssTee checks
+Orick13 checks
+** Dealing river ** [ 5c ]
+JayEssTee bets [$0.02]
+Orick13 raises [$0.04]
+JayEssTee calls [$0.02]
+** Summary **
+Orick13 shows [ 5h, Qh ]
+JayEssTee mucks [ 9d, 7c ]
+Orick13 collected [ $0.12 ]
+
+
+#Game No : 502284391
+***** 888poker Hand History for Game 502284391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 11:13:03
+Table Port Louis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JayEssTee ( $4.21 )
+Seat 2: Orick13 ( $1.06 )
+JayEssTee posts small blind [$0.01]
+Orick13 posts big blind [$0.02]
+** Dealing down cards **
+JayEssTee calls [$0.01]
+Orick13 checks
+** Dealing flop ** [ 6h, 7s, 4c ]
+Orick13 checks
+JayEssTee checks
+** Dealing turn ** [ 3d ]
+Orick13 checks
+JayEssTee checks
+** Dealing river ** [ As ]
+Orick13 checks
+JayEssTee bets [$0.02]
+Orick13 calls [$0.02]
+** Summary **
+JayEssTee shows [ 8s, Qd ]
+Orick13 mucks [ 9s, 2d ]
+JayEssTee collected [ $0.08 ]
+
+
+#Game No : 502284432
+***** 888poker Hand History for Game 502284432 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 11:13:36
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: JayEssTee ( $4.25 )
+Seat 2: Orick13 ( $1.02 )
+Orick13 posts small blind [$0.01]
+JayEssTee posts big blind [$0.02]
+** Dealing down cards **
+Orick13 calls [$0.01]
+JayEssTee raises [$0.06]
+Orick13 calls [$0.06]
+** Dealing flop ** [ 9c, Jc, 7s ]
+JayEssTee checks
+Orick13 checks
+** Dealing turn ** [ 5h ]
+JayEssTee bets [$0.08]
+Orick13 calls [$0.08]
+** Dealing river ** [ 4h ]
+JayEssTee checks
+Orick13 folds
+** Summary **
+JayEssTee collected [ $0.30 ]
+
+

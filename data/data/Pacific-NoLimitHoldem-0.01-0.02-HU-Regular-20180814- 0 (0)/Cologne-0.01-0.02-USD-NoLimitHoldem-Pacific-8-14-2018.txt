@@ -1,0 +1,29 @@
+#Game No : 508576687
+***** 888poker Hand History for Game 508576687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2018 22:54:56
+Table Cologne 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Saw_enigmist ( $2.03 )
+Seat 2: F18Rodriguez ( $0.97 )
+F18Rodriguez posts small blind [$0.01]
+Saw_enigmist posts big blind [$0.02]
+** Dealing down cards **
+F18Rodriguez calls [$0.01]
+Saw_enigmist raises [$0.04]
+F18Rodriguez calls [$0.04]
+** Dealing flop ** [ Kh, 6s, Tc ]
+Saw_enigmist bets [$0.08]
+F18Rodriguez calls [$0.08]
+** Dealing turn ** [ 8s ]
+Saw_enigmist bets [$0.10]
+F18Rodriguez calls [$0.10]
+** Dealing river ** [ Kd ]
+Saw_enigmist bets [$0.20]
+F18Rodriguez calls [$0.20]
+** Summary **
+Saw_enigmist shows [ 5s, Js ]
+F18Rodriguez shows [ Ks, Ah ]
+F18Rodriguez collected [ $0.83 ]
+
+

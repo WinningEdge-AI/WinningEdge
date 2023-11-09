@@ -1,0 +1,826 @@
+#Game No : 500147052
+***** 888poker Hand History for Game 500147052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:28:29
+Table Garland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Erakkokala ( $1.01 )
+Seat 6: WhiskyBiz_NI ( $1.01 )
+Erakkokala posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+Erakkokala raises [$0.05]
+WhiskyBiz_NI calls [$0.04]
+** Dealing flop ** [ 5h, Jd, 4d ]
+WhiskyBiz_NI checks
+Erakkokala bets [$0.06]
+WhiskyBiz_NI calls [$0.06]
+** Dealing turn ** [ 7d ]
+WhiskyBiz_NI checks
+Erakkokala bets [$0.14]
+WhiskyBiz_NI calls [$0.14]
+** Dealing river ** [ Qh ]
+WhiskyBiz_NI checks
+Erakkokala checks
+** Summary **
+WhiskyBiz_NI shows [ As, Ad ]
+Erakkokala mucks [ 6c, 6h ]
+WhiskyBiz_NI collected [ $0.49 ]
+
+
+#Game No : 500147072
+***** 888poker Hand History for Game 500147072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:29:17
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Erakkokala ( $1 )
+Seat 6: WhiskyBiz_NI ( $1.24 )
+WhiskyBiz_NI posts small blind [$0.01]
+Erakkokala posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI calls [$0.01]
+Erakkokala checks
+** Dealing flop ** [ 8d, 2d, 3s ]
+Erakkokala checks
+WhiskyBiz_NI bets [$0.02]
+Erakkokala folds
+** Summary **
+WhiskyBiz_NI collected [ $0.04 ]
+
+
+#Game No : 500147082
+***** 888poker Hand History for Game 500147082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:29:35
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: marcelorato ( $0.80 )
+Seat 6: WhiskyBiz_NI ( $1.26 )
+WhiskyBiz_NI posts small blind [$0.01]
+marcelorato posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.03]
+marcelorato calls [$0.02]
+** Dealing flop ** [ Ad, Qh, 4h ]
+marcelorato checks
+WhiskyBiz_NI checks
+** Dealing turn ** [ Tc ]
+marcelorato bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Dealing river ** [ Qc ]
+marcelorato bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Summary **
+marcelorato shows [ 3d, Kd ]
+WhiskyBiz_NI shows [ 5d, 4d ]
+WhiskyBiz_NI collected [ $0.15 ]
+
+
+#Game No : 500147493
+***** 888poker Hand History for Game 500147493 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:44:02
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: marcelorato ( $2.28 )
+Seat 6: WhiskyBiz_NI ( $1.47 )
+WhiskyBiz_NI posts small blind [$0.01]
+marcelorato posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.03]
+marcelorato calls [$0.02]
+** Dealing flop ** [ Td, 6d, Ts ]
+marcelorato bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Dealing turn ** [ Kd ]
+marcelorato bets [$0.02]
+WhiskyBiz_NI folds
+** Summary **
+marcelorato collected [ $0.12 ]
+
+
+#Game No : 500147504
+***** 888poker Hand History for Game 500147504 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:44:26
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: marcelorato ( $2.34 )
+Seat 6: WhiskyBiz_NI ( $1.41 )
+marcelorato posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+marcelorato calls [$0.01]
+WhiskyBiz_NI checks
+** Dealing flop ** [ Qh, 8s, 9h ]
+WhiskyBiz_NI bets [$0.02]
+marcelorato calls [$0.02]
+** Dealing turn ** [ Kc ]
+WhiskyBiz_NI bets [$0.05]
+marcelorato folds
+** Summary **
+WhiskyBiz_NI collected [ $0.08 ]
+
+
+#Game No : 500147514
+***** 888poker Hand History for Game 500147514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:44:51
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: marcelorato ( $2.30 )
+Seat 6: WhiskyBiz_NI ( $1.45 )
+WhiskyBiz_NI posts small blind [$0.01]
+marcelorato posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.03]
+marcelorato calls [$0.02]
+** Dealing flop ** [ Qd, Kc, 7s ]
+marcelorato checks
+WhiskyBiz_NI bets [$0.04]
+marcelorato folds
+** Summary **
+WhiskyBiz_NI collected [ $0.08 ]
+
+
+#Game No : 500147570
+***** 888poker Hand History for Game 500147570 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:47:19
+Table Garland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.48 )
+Seat 9: RovsanElman ( $0.62 )
+RovsanElman posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+RovsanElman calls [$0.01]
+WhiskyBiz_NI checks
+** Dealing flop ** [ 3h, Js, Jc ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Dealing turn ** [ 3c ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Dealing river ** [ 6c ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Summary **
+WhiskyBiz_NI shows [ 4s, 5h ]
+RovsanElman shows [ 7h, Ts ]
+RovsanElman collected [ $0.04 ]
+
+
+#Game No : 500147582
+***** 888poker Hand History for Game 500147582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:47:41
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.46 )
+Seat 9: RovsanElman ( $0.64 )
+WhiskyBiz_NI posts small blind [$0.01]
+RovsanElman posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.03]
+RovsanElman calls [$0.02]
+** Dealing flop ** [ As, 6h, 9h ]
+RovsanElman checks
+WhiskyBiz_NI checks
+** Dealing turn ** [ Qh ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI folds
+** Summary **
+RovsanElman collected [ $0.08 ]
+
+
+#Game No : 500147591
+***** 888poker Hand History for Game 500147591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:47:57
+Table Garland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.42 )
+Seat 9: RovsanElman ( $0.68 )
+RovsanElman posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+RovsanElman calls [$0.01]
+WhiskyBiz_NI raises [$0.08]
+RovsanElman calls [$0.08]
+** Dealing flop ** [ 7d, Ad, 7s ]
+WhiskyBiz_NI bets [$0.10]
+RovsanElman folds
+** Summary **
+WhiskyBiz_NI collected [ $0.19 ]
+
+
+#Game No : 500147598
+***** 888poker Hand History for Game 500147598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:48:14
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.51 )
+Seat 9: RovsanElman ( $0.58 )
+WhiskyBiz_NI posts small blind [$0.01]
+RovsanElman posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.05]
+RovsanElman calls [$0.04]
+** Dealing flop ** [ 6h, Qs, Ah ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Dealing turn ** [ Tc ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Dealing river ** [ 5d ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Summary **
+RovsanElman shows [ 8h, 6s ]
+WhiskyBiz_NI shows [ Qh, 7c ]
+WhiskyBiz_NI collected [ $0.23 ]
+
+
+#Game No : 500147608
+***** 888poker Hand History for Game 500147608 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:48:38
+Table Garland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.62 )
+Seat 9: RovsanElman ( $0.46 )
+RovsanElman posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+RovsanElman raises [$0.03]
+WhiskyBiz_NI calls [$0.02]
+** Dealing flop ** [ 6s, 8c, Td ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Dealing turn ** [ Qs ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Dealing river ** [ 7d ]
+WhiskyBiz_NI bets [$0.02]
+RovsanElman folds
+** Summary **
+WhiskyBiz_NI collected [ $0.08 ]
+
+
+#Game No : 500147616
+***** 888poker Hand History for Game 500147616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:48:58
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.66 )
+Seat 9: RovsanElman ( $0.42 )
+WhiskyBiz_NI posts small blind [$0.01]
+RovsanElman posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.03]
+RovsanElman calls [$0.02]
+** Dealing flop ** [ Jc, 3d, As ]
+RovsanElman checks
+WhiskyBiz_NI checks
+** Dealing turn ** [ 9h ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Dealing river ** [ 7d ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Summary **
+RovsanElman shows [ Ad, 4d ]
+WhiskyBiz_NI mucks [ 3s, 8s ]
+RovsanElman collected [ $0.15 ]
+
+
+#Game No : 500147625
+***** 888poker Hand History for Game 500147625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:49:20
+Table Garland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.58 )
+Seat 9: RovsanElman ( $0.49 )
+RovsanElman posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+RovsanElman folds
+** Summary **
+WhiskyBiz_NI collected [ $0.03 ]
+
+
+#Game No : 500147629
+***** 888poker Hand History for Game 500147629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:49:26
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.59 )
+Seat 9: RovsanElman ( $0.48 )
+WhiskyBiz_NI posts small blind [$0.01]
+RovsanElman posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI folds
+** Summary **
+RovsanElman collected [ $0.03 ]
+
+
+#Game No : 500147633
+***** 888poker Hand History for Game 500147633 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:49:33
+Table Garland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.58 )
+Seat 9: RovsanElman ( $0.49 )
+RovsanElman posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+RovsanElman calls [$0.01]
+WhiskyBiz_NI raises [$0.08]
+RovsanElman calls [$0.08]
+** Dealing flop ** [ 2h, 6c, Tc ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Dealing turn ** [ Qc ]
+WhiskyBiz_NI bets [$0.10]
+RovsanElman calls [$0.10]
+** Dealing river ** [ Ts ]
+WhiskyBiz_NI checks
+RovsanElman bets [$0.04]
+WhiskyBiz_NI calls [$0.04]
+** Summary **
+RovsanElman shows [ 9c, Ac ]
+WhiskyBiz_NI mucks [ Jc, Ks ]
+RovsanElman collected [ $0.45 ]
+
+
+#Game No : 500147650
+***** 888poker Hand History for Game 500147650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:50:15
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.34 )
+Seat 9: RovsanElman ( $0.70 )
+WhiskyBiz_NI posts small blind [$0.01]
+RovsanElman posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.03]
+RovsanElman calls [$0.02]
+** Dealing flop ** [ Td, 3d, Jh ]
+RovsanElman checks
+WhiskyBiz_NI checks
+** Dealing turn ** [ 5d ]
+RovsanElman checks
+WhiskyBiz_NI bets [$0.04]
+RovsanElman folds
+** Summary **
+WhiskyBiz_NI collected [ $0.08 ]
+
+
+#Game No : 500147663
+***** 888poker Hand History for Game 500147663 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:50:31
+Table Garland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.38 )
+Seat 9: RovsanElman ( $0.66 )
+RovsanElman posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+RovsanElman calls [$0.01]
+WhiskyBiz_NI checks
+** Dealing flop ** [ 8s, 2d, Jc ]
+WhiskyBiz_NI checks
+RovsanElman bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Dealing turn ** [ Qs ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Dealing river ** [ 6d ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Summary **
+WhiskyBiz_NI shows [ 9c, 3c ]
+RovsanElman shows [ 2h, Ac ]
+RovsanElman collected [ $0.08 ]
+
+
+#Game No : 500147671
+***** 888poker Hand History for Game 500147671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:50:53
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.34 )
+Seat 9: RovsanElman ( $0.70 )
+WhiskyBiz_NI posts small blind [$0.01]
+RovsanElman posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.03]
+RovsanElman calls [$0.02]
+** Dealing flop ** [ 7c, 3c, 7d ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI raises [$0.10]
+RovsanElman calls [$0.08]
+** Dealing turn ** [ 4c ]
+RovsanElman checks
+WhiskyBiz_NI checks
+** Dealing river ** [ 6c ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Summary **
+RovsanElman shows [ As, 5s ]
+WhiskyBiz_NI mucks [ 3d, 6d ]
+RovsanElman collected [ $0.30 ]
+
+
+#Game No : 500147683
+***** 888poker Hand History for Game 500147683 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:51:21
+Table Garland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.18 )
+Seat 9: RovsanElman ( $0.84 )
+RovsanElman posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+RovsanElman calls [$0.01]
+WhiskyBiz_NI checks
+** Dealing flop ** [ 5s, 4h, 3h ]
+WhiskyBiz_NI bets [$0.04]
+RovsanElman calls [$0.04]
+** Dealing turn ** [ Kh ]
+WhiskyBiz_NI bets [$0.12]
+RovsanElman folds
+** Summary **
+WhiskyBiz_NI did not show his hand
+WhiskyBiz_NI collected [ $0.12 ]
+
+
+#Game No : 500147689
+***** 888poker Hand History for Game 500147689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:51:38
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.24 )
+Seat 9: RovsanElman ( $0.78 )
+WhiskyBiz_NI posts small blind [$0.01]
+RovsanElman posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.05]
+RovsanElman calls [$0.04]
+** Dealing flop ** [ 9s, 7h, 7c ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Dealing turn ** [ Ac ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI raises [$0.12]
+RovsanElman folds
+** Summary **
+WhiskyBiz_NI did not show his hand
+WhiskyBiz_NI collected [ $0.19 ]
+
+
+#Game No : 500147697
+***** 888poker Hand History for Game 500147697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:51:57
+Table Garland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.33 )
+Seat 9: RovsanElman ( $0.68 )
+RovsanElman posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+RovsanElman calls [$0.01]
+WhiskyBiz_NI checks
+** Dealing flop ** [ 6s, Kh, 2c ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Dealing turn ** [ 9c ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Dealing river ** [ 5c ]
+WhiskyBiz_NI checks
+RovsanElman checks
+** Summary **
+WhiskyBiz_NI shows [ 2d, 4h ]
+RovsanElman mucks [ 8c, Qd ]
+WhiskyBiz_NI collected [ $0.04 ]
+
+
+#Game No : 500147705
+***** 888poker Hand History for Game 500147705 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:52:17
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.35 )
+Seat 9: RovsanElman ( $0.66 )
+WhiskyBiz_NI posts small blind [$0.01]
+RovsanElman posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.05]
+RovsanElman calls [$0.04]
+** Dealing flop ** [ 4c, 5d, Js ]
+RovsanElman checks
+WhiskyBiz_NI checks
+** Dealing turn ** [ 6c ]
+RovsanElman checks
+WhiskyBiz_NI checks
+** Dealing river ** [ Td ]
+RovsanElman bets [$0.02]
+WhiskyBiz_NI calls [$0.02]
+** Summary **
+RovsanElman shows [ 6d, 2d ]
+WhiskyBiz_NI mucks [ 4s, Ac ]
+RovsanElman collected [ $0.15 ]
+
+
+#Game No : 500147915
+***** 888poker Hand History for Game 500147915 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 00:02:05
+Table Garland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Bauerharms ( $3.55 )
+Seat 7: Vanessa1007 ( $0.38 )
+Vanessa1007 posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+Vanessa1007 calls [$0.01]
+Bauerharms checks
+** Dealing flop ** [ 6c, Th, 6d ]
+Bauerharms bets [$0.04]
+Vanessa1007 calls [$0.04]
+** Dealing turn ** [ 3d ]
+Bauerharms bets [$0.12]
+Vanessa1007 folds
+** Summary **
+Bauerharms did not show his hand
+Bauerharms collected [ $0.12 ]
+
+
+#Game No : 500147920
+***** 888poker Hand History for Game 500147920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 00:02:22
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bauerharms ( $3.61 )
+Seat 7: Vanessa1007 ( $0.32 )
+Bauerharms posts small blind [$0.01]
+Vanessa1007 posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms folds
+** Summary **
+Vanessa1007 collected [ $0.03 ]
+
+
+#Game No : 500150797
+***** 888poker Hand History for Game 500150797 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:56:21
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.14 )
+Seat 7: Obito111 ( $2.79 )
+M1muro posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+M1muro folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 500150801
+***** 888poker Hand History for Game 500150801 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:56:26
+Table Garland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.13 )
+Seat 7: Obito111 ( $2.80 )
+Obito111 posts small blind [$0.01]
+M1muro posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+M1muro folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 500150805
+***** 888poker Hand History for Game 500150805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:56:33
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.11 )
+Seat 7: Obito111 ( $2.82 )
+M1muro posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+M1muro raises [$0.05]
+Obito111 folds
+** Summary **
+M1muro did not show his hand
+M1muro collected [ $0.04 ]
+
+
+#Game No : 500150807
+***** 888poker Hand History for Game 500150807 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:56:43
+Table Garland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.13 )
+Seat 7: Obito111 ( $2.80 )
+Obito111 posts small blind [$0.01]
+M1muro posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+M1muro folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 500150811
+***** 888poker Hand History for Game 500150811 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:56:49
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.11 )
+Seat 7: Obito111 ( $2.82 )
+M1muro posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+M1muro folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 500150813
+***** 888poker Hand History for Game 500150813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:56:57
+Table Garland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.10 )
+Seat 7: Obito111 ( $2.83 )
+Obito111 posts small blind [$0.01]
+M1muro posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+M1muro folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 500150817
+***** 888poker Hand History for Game 500150817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:57:03
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.08 )
+Seat 7: Obito111 ( $2.85 )
+M1muro posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+M1muro folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 500150821
+***** 888poker Hand History for Game 500150821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:57:08
+Table Garland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.07 )
+Seat 7: Obito111 ( $2.86 )
+Obito111 posts small blind [$0.01]
+M1muro posts big blind [$0.02]
+** Dealing down cards **
+Obito111 folds
+** Summary **
+M1muro did not show his hand
+M1muro collected [ $0.03 ]
+
+
+#Game No : 500150823
+***** 888poker Hand History for Game 500150823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:57:13
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.08 )
+Seat 7: Obito111 ( $2.85 )
+M1muro posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+M1muro folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 500150825
+***** 888poker Hand History for Game 500150825 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:57:19
+Table Garland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1.07 )
+Seat 7: Obito111 ( $2.86 )
+Obito111 posts small blind [$0.01]
+M1muro posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+M1muro raises [$0.08]
+Obito111 calls [$0.06]
+** Dealing flop ** [ 4c, 4s, 7d ]
+M1muro bets [$0.13]
+Obito111 calls [$0.13]
+** Dealing turn ** [ Qh ]
+M1muro checks
+Obito111 checks
+** Dealing river ** [ 9c ]
+M1muro checks
+Obito111 checks
+** Summary **
+M1muro shows [ Tc, Ac ]
+Obito111 shows [ Ks, 7s ]
+Obito111 collected [ $0.44 ]
+
+
+#Game No : 500150842
+***** 888poker Hand History for Game 500150842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:57:58
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1 )
+Seat 7: Obito111 ( $3.07 )
+M1muro posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+M1muro folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 500150844
+***** 888poker Hand History for Game 500150844 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 01:58:05
+Table Garland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: M1muro ( $1 )
+Seat 7: Obito111 ( $3.08 )
+Obito111 posts small blind [$0.01]
+M1muro posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+M1muro folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 500151020
+***** 888poker Hand History for Game 500151020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 07 2018 02:05:55
+Table Garland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: M1muro ( $2.48 )
+Seat 7: Obito111 ( $2.95 )
+Obito111 posts small blind [$0.01]
+M1muro posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+M1muro folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+

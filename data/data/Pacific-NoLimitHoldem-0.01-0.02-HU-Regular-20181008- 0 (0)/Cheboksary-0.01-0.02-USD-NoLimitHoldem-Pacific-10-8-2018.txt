@@ -1,0 +1,104 @@
+#Game No : 456185356
+***** 888poker Hand History for Game 456185356 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 01:15:13
+Table Cheboksary 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dr.af2015 ( $1.97 )
+Seat 2: GabrielStaff ( $2.03 )
+dr.af2015 posts small blind [$0.01]
+GabrielStaff posts big blind [$0.02]
+** Dealing down cards **
+dr.af2015 raises [$0.03]
+GabrielStaff raises [$2.01]
+dr.af2015 calls [$1.93]
+** Dealing flop ** [ 9d, 4c, Th ]
+** Dealing turn ** [ As ]
+** Dealing river ** [ 4h ]
+** Summary **
+dr.af2015 shows [ 7h, Ks ]
+GabrielStaff shows [ 6s, 8h ]
+dr.af2015 collected [ $3.70 ]
+
+
+#Game No : 456185357
+***** 888poker Hand History for Game 456185357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 01:15:19
+Table Cheboksary 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: dr.af2015 ( $3.70 )
+Seat 2: GabrielStaff ( $0.06 )
+GabrielStaff posts small blind [$0.01]
+dr.af2015 posts big blind [$0.02]
+** Dealing down cards **
+GabrielStaff raises [$0.05]
+dr.af2015 folds
+** Summary **
+GabrielStaff collected [ $0.08 ]
+
+
+#Game No : 456186189
+***** 888poker Hand History for Game 456186189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 02:42:58
+Table Cheboksary 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Dog2460 ( $2.30 )
+Seat 6: Aleksz30 ( $2.02 )
+Dog2460 posts small blind [$0.01]
+** Dealing down cards **
+Aleksz30 folds
+** Summary **
+Dog2460 collected [ $0.01 ]
+
+
+#Game No : 456186283
+***** 888poker Hand History for Game 456186283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 02:49:46
+Table Cheboksary 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Zaff67 ( $1.16 )
+Seat 9: RememberName ( $2 )
+RememberName posts small blind [$0.01]
+Zaff67 posts big blind [$0.02]
+** Dealing down cards **
+RememberName calls [$0.01]
+Zaff67 checks
+** Dealing flop ** [ 4s, Ad, 9d ]
+Zaff67 checks
+RememberName checks
+** Dealing turn ** [ Kh ]
+Zaff67 checks
+RememberName checks
+** Dealing river ** [ 6c ]
+Zaff67 bets [$0.04]
+RememberName calls [$0.04]
+** Summary **
+Zaff67 shows [ Jc, 7d ]
+RememberName shows [ 6h, 3d ]
+RememberName collected [ $0.12 ]
+
+
+#Game No : 456186351
+***** 888poker Hand History for Game 456186351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 02:53:22
+Table Cheboksary 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Zaff67 ( $1.08 )
+Seat 9: RememberName ( $2.05 )
+RememberName posts small blind [$0.01]
+Zaff67 posts big blind [$0.02]
+** Dealing down cards **
+RememberName calls [$0.01]
+Zaff67 checks
+** Dealing flop ** [ 2d, 7s, Kd ]
+Zaff67 checks
+RememberName bets [$0.06]
+Zaff67 folds
+** Summary **
+RememberName collected [ $0.04 ]
+
+

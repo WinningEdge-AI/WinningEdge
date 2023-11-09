@@ -1,0 +1,305 @@
+#Game No : 459521749
+***** 888poker Hand History for Game 459521749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 03:40:18
+Table Coslada 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: klausnied ( $1.48 )
+Seat 5: Kavalar ( $2 )
+klausnied posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+klausnied calls [$0.01]
+Kavalar checks
+** Dealing flop ** [ 3d, Kc, As ]
+Kavalar checks
+klausnied checks
+** Dealing turn ** [ Kh ]
+Kavalar checks
+klausnied bets [$0.04]
+Kavalar folds
+** Summary **
+klausnied did not show his hand
+klausnied collected [ $0.04 ]
+
+
+#Game No : 459521768
+***** 888poker Hand History for Game 459521768 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 03:40:33
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: klausnied ( $1.50 )
+Seat 5: Kavalar ( $2 )
+Kavalar posts small blind [$0.01]
+klausnied posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+klausnied calls [$0.04]
+** Dealing flop ** [ 7h, 3c, 2h ]
+klausnied checks
+Kavalar bets [$0.08]
+klausnied calls [$0.08]
+** Dealing turn ** [ 6s ]
+klausnied checks
+Kavalar checks
+** Dealing river ** [ 2s ]
+klausnied checks
+Kavalar checks
+** Summary **
+klausnied shows [ 8c, Ac ]
+Kavalar mucks [ Th, 9h ]
+klausnied collected [ $0.27 ]
+
+
+#Game No : 459521794
+***** 888poker Hand History for Game 459521794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 03:41:10
+Table Coslada 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: klausnied ( $1.63 )
+Seat 5: Kavalar ( $2 )
+klausnied posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+klausnied folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.03 ]
+
+
+#Game No : 459521796
+***** 888poker Hand History for Game 459521796 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 03:41:15
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: klausnied ( $1.62 )
+Seat 5: Kavalar ( $2.01 )
+Kavalar posts small blind [$0.01]
+klausnied posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.07]
+klausnied folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.04 ]
+
+
+#Game No : 459521838
+***** 888poker Hand History for Game 459521838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 03:42:13
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Brest77 ( $0.80 )
+Seat 5: Kavalar ( $2.03 )
+Kavalar posts small blind [$0.01]
+Brest77 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar folds
+** Summary **
+Brest77 did not show his hand
+Brest77 collected [ $0.03 ]
+
+
+#Game No : 459521844
+***** 888poker Hand History for Game 459521844 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 03:42:23
+Table Coslada 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Brest77 ( $0.81 )
+Seat 5: Kavalar ( $2.02 )
+Brest77 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+Brest77 calls [$0.01]
+Kavalar checks
+** Dealing flop ** [ Ks, 9h, Js ]
+Kavalar checks
+Brest77 bets [$0.02]
+Kavalar folds
+** Summary **
+Brest77 did not show his hand
+Brest77 collected [ $0.04 ]
+
+
+#Game No : 459521858
+***** 888poker Hand History for Game 459521858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 03:42:40
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Brest77 ( $0.83 )
+Seat 5: Kavalar ( $2 )
+Kavalar posts small blind [$0.01]
+Brest77 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar folds
+** Summary **
+Brest77 did not show his hand
+Brest77 collected [ $0.03 ]
+
+
+#Game No : 459521862
+***** 888poker Hand History for Game 459521862 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 03:42:44
+Table Coslada 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Brest77 ( $0.84 )
+Seat 5: Kavalar ( $2 )
+Brest77 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+Brest77 calls [$0.01]
+Kavalar checks
+** Dealing flop ** [ 4s, Ah, 6h ]
+Kavalar checks
+Brest77 checks
+** Dealing turn ** [ Ad ]
+Kavalar checks
+Brest77 bets [$0.02]
+Kavalar folds
+** Summary **
+Brest77 collected [ $0.04 ]
+
+
+#Game No : 459521873
+***** 888poker Hand History for Game 459521873 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 03:43:01
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Brest77 ( $0.86 )
+Seat 5: Kavalar ( $2 )
+Kavalar posts small blind [$0.01]
+Brest77 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+Brest77 folds
+** Summary **
+Kavalar collected [ $0.04 ]
+
+
+#Game No : 459527501
+***** 888poker Hand History for Game 459527501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 06:33:53
+Table Coslada 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Alaloupe ( $2.24 )
+Seat 4: denisvd24 ( $4.90 )
+denisvd24 posts small blind [$0.01]
+** Dealing down cards **
+Alaloupe folds
+** Summary **
+denisvd24 collected [ $0.01 ]
+
+
+#Game No : 459527652
+***** 888poker Hand History for Game 459527652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 06:38:17
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Jimborose38 ( $0.80 )
+Seat 5: olli12356 ( $0.80 )
+olli12356 posts small blind [$0.01]
+Jimborose38 posts big blind [$0.02]
+** Dealing down cards **
+olli12356 folds
+** Summary **
+Jimborose38 did not show his hand
+Jimborose38 collected [ $0.03 ]
+
+
+#Game No : 459527655
+***** 888poker Hand History for Game 459527655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 06:38:24
+Table Coslada 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Jimborose38 ( $0.81 )
+Seat 5: olli12356 ( $0.79 )
+Jimborose38 posts small blind [$0.01]
+** Dealing down cards **
+olli12356 folds
+** Summary **
+Jimborose38 did not show his hand
+Jimborose38 collected [ $0.01 ]
+
+
+#Game No : 459527693
+***** 888poker Hand History for Game 459527693 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 06:39:27
+Table Coslada 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Jimborose38 ( $0.81 )
+Seat 6: gais1969 ( $0.80 )
+gais1969 posts small blind [$0.01]
+** Dealing down cards **
+Jimborose38 folds
+** Summary **
+gais1969 collected [ $0.01 ]
+
+
+#Game No : 459527754
+***** 888poker Hand History for Game 459527754 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 06:41:17
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: olli12356 ( $0.80 )
+Seat 6: alpine43 ( $2 )
+olli12356 posts small blind [$0.01]
+alpine43 posts big blind [$0.02]
+** Dealing down cards **
+olli12356 calls [$0.01]
+alpine43 checks
+** Dealing flop ** [ Qc, 6c, 3h ]
+alpine43 checks
+olli12356 checks
+** Dealing turn ** [ 2c ]
+alpine43 checks
+olli12356 checks
+** Dealing river ** [ Kd ]
+alpine43 bets [$0.04]
+olli12356 calls [$0.04]
+** Summary **
+alpine43 shows [ 3s, 3d ]
+olli12356 mucks [ Ks, 4c ]
+alpine43 collected [ $0.12 ]
+
+
+#Game No : 459527769
+***** 888poker Hand History for Game 459527769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 06:41:47
+Table Coslada 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: olli12356 ( $0.74 )
+Seat 6: alpine43 ( $2.06 )
+alpine43 posts small blind [$0.01]
+olli12356 posts big blind [$0.02]
+** Dealing down cards **
+alpine43 calls [$0.01]
+olli12356 checks
+** Dealing flop ** [ Td, 3h, 6d ]
+olli12356 checks
+alpine43 checks
+** Dealing turn ** [ 3d ]
+olli12356 checks
+alpine43 checks
+** Dealing river ** [ 7d ]
+olli12356 checks
+alpine43 bets [$0.02]
+olli12356 folds
+** Summary **
+alpine43 did not show his hand
+alpine43 collected [ $0.04 ]
+
+

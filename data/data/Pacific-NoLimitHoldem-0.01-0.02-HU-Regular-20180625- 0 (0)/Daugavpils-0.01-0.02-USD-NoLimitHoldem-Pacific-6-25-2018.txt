@@ -1,0 +1,67 @@
+#Game No : 604730962
+***** 888poker Hand History for Game 604730962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 11:57:15
+Table Daugavpils 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Snejok_ ( $0.81 )
+Seat 6: DEDULIK22 ( $3.19 )
+DEDULIK22 posts small blind [$0.01]
+Snejok_ posts big blind [$0.02]
+** Dealing down cards **
+DEDULIK22 raises [$0.03]
+Snejok_ folds
+** Summary **
+DEDULIK22 collected [ $0.04 ]
+
+
+#Game No : 604730972
+***** 888poker Hand History for Game 604730972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 11:57:30
+Table Daugavpils 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Snejok_ ( $0.80 )
+Seat 6: DEDULIK22 ( $3.21 )
+Snejok_ posts small blind [$0.01]
+DEDULIK22 posts big blind [$0.02]
+** Dealing down cards **
+Snejok_ raises [$0.05]
+DEDULIK22 calls [$0.04]
+** Dealing flop ** [ 6d, Kc, Qh ]
+DEDULIK22 checks
+Snejok_ checks
+** Dealing turn ** [ Qd ]
+DEDULIK22 checks
+Snejok_ checks
+** Dealing river ** [ 8h ]
+DEDULIK22 bets [$0.06]
+Snejok_ calls [$0.06]
+** Summary **
+DEDULIK22 shows [ 5d, 8c ]
+Snejok_ mucks [ Ad, 2s ]
+DEDULIK22 collected [ $0.23 ]
+
+
+#Game No : 499099775
+***** 888poker Hand History for Game 499099775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 14:05:16
+Table Daugavpils 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: gelattino67 ( $1.20 )
+Seat 4: Pechora_Seva ( $1.43 )
+Pechora_Seva posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+Pechora_Seva raises [$0.05]
+gelattino67 calls [$0.04]
+** Dealing flop ** [ 6d, 5d, Kc ]
+gelattino67 checks
+Pechora_Seva bets [$0.07]
+gelattino67 folds
+** Summary **
+Pechora_Seva did not show his hand
+Pechora_Seva collected [ $0.12 ]
+
+

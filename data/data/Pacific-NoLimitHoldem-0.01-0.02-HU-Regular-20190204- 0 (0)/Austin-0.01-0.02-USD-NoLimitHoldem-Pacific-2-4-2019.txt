@@ -1,0 +1,140 @@
+#Game No : 523384553
+***** 888poker Hand History for Game 523384553 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 11:09:53
+Table Austin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: p_beckett ( $0.97 )
+Seat 9: BobajanPs ( $1 )
+p_beckett posts small blind [$0.01]
+** Dealing down cards **
+BobajanPs folds
+** Summary **
+p_beckett collected [ $0.01 ]
+
+
+#Game No : 523384558
+***** 888poker Hand History for Game 523384558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 11:09:57
+Table Austin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: p_beckett ( $0.97 )
+Seat 7: kisa132 ( $0.55 )
+p_beckett posts small blind [$0.01]
+kisa132 posts big blind [$0.02]
+** Dealing down cards **
+p_beckett calls [$0.01]
+kisa132 checks
+** Dealing flop ** [ 7c, 5c, 2d ]
+kisa132 checks
+p_beckett bets [$0.02]
+kisa132 calls [$0.02]
+** Dealing turn ** [ 5s ]
+kisa132 checks
+p_beckett bets [$0.04]
+kisa132 calls [$0.04]
+** Dealing river ** [ 3c ]
+kisa132 checks
+p_beckett bets [$0.16]
+kisa132 folds
+** Summary **
+p_beckett collected [ $0.15 ]
+
+
+#Game No : 523385864
+***** 888poker Hand History for Game 523385864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 11:23:41
+Table Austin 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: litros958 ( $1 )
+Seat 6: xxxkasyanxx1 ( $0.74 )
+litros958 posts small blind [$0.01]
+xxxkasyanxx1 posts big blind [$0.02]
+** Dealing down cards **
+litros958 raises [$0.03]
+xxxkasyanxx1 raises [$0.12]
+litros958 folds
+** Summary **
+xxxkasyanxx1 collected [ $0.08 ]
+
+
+#Game No : 523385903
+***** 888poker Hand History for Game 523385903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 11:24:06
+Table Austin 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: litros958 ( $1 )
+Seat 6: xxxkasyanxx1 ( $0.78 )
+xxxkasyanxx1 posts small blind [$0.01]
+litros958 posts big blind [$0.02]
+** Dealing down cards **
+xxxkasyanxx1 raises [$0.05]
+litros958 folds
+** Summary **
+xxxkasyanxx1 collected [ $0.04 ]
+
+
+#Game No : 523402071
+***** 888poker Hand History for Game 523402071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 14:14:17
+Table Austin 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: stichbim ( $1.07 )
+Seat 9: Andryufan ( $1 )
+stichbim posts small blind [$0.01]
+Andryufan posts big blind [$0.02]
+** Dealing down cards **
+stichbim calls [$0.01]
+Andryufan raises [$0.04]
+stichbim calls [$0.04]
+** Dealing flop ** [ Th, Kc, 8s ]
+Andryufan checks
+stichbim checks
+** Dealing turn ** [ 6s ]
+Andryufan checks
+stichbim bets [$0.02]
+Andryufan calls [$0.02]
+** Dealing river ** [ Qc ]
+Andryufan checks
+stichbim checks
+** Summary **
+Andryufan shows [ Qh, 9h ]
+stichbim mucks [ 7s, 6h ]
+Andryufan collected [ $0.15 ]
+
+
+#Game No : 523402133
+***** 888poker Hand History for Game 523402133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 14:14:59
+Table Austin 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: stichbim ( $0.99 )
+Seat 9: Andryufan ( $1.07 )
+Andryufan posts small blind [$0.01]
+stichbim posts big blind [$0.02]
+** Dealing down cards **
+Andryufan folds
+** Summary **
+stichbim collected [ $0.03 ]
+
+
+#Game No : 523402150
+***** 888poker Hand History for Game 523402150 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 14:15:09
+Table Austin 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: stichbim ( $1 )
+Seat 9: Andryufan ( $1.06 )
+stichbim posts small blind [$0.01]
+** Dealing down cards **
+Andryufan folds
+** Summary **
+stichbim collected [ $0.01 ]
+
+

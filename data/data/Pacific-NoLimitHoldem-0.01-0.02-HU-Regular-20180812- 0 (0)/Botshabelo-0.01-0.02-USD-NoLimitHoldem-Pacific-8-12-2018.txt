@@ -1,0 +1,45 @@
+#Game No : 508446247
+***** 888poker Hand History for Game 508446247 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 11:02:13
+Table Botshabelo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: insaneken ( $2.12 )
+Seat 6: dylanmike ( $1.23 )
+dylanmike posts small blind [$0.01]
+insaneken posts big blind [$0.02]
+** Dealing down cards **
+dylanmike folds
+** Summary **
+insaneken collected [ $0.03 ]
+
+
+#Game No : 508446256
+***** 888poker Hand History for Game 508446256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 11:02:19
+Table Botshabelo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: insaneken ( $2.13 )
+Seat 6: dylanmike ( $1.22 )
+insaneken posts small blind [$0.01]
+dylanmike posts big blind [$0.02]
+** Dealing down cards **
+insaneken raises [$0.03]
+dylanmike calls [$0.02]
+** Dealing flop ** [ Kd, Tc, 8d ]
+dylanmike bets [$0.04]
+insaneken raises [$0.08]
+dylanmike calls [$0.04]
+** Dealing turn ** [ 6h ]
+dylanmike bets [$0.24]
+insaneken calls [$0.24]
+** Dealing river ** [ Ah ]
+dylanmike bets [$0.86]
+insaneken calls [$0.86]
+** Summary **
+insaneken shows [ Td, Kh ]
+dylanmike shows [ 9d, Jc ]
+insaneken collected [ $2.29 ]
+
+

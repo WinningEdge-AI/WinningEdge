@@ -1,0 +1,39 @@
+#Game No : 505356595
+***** 888poker Hand History for Game 505356595 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 07 2018 00:56:57
+Table Munich 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: die.marcu ( $2 )
+Seat 9: ArcticWin ( $2 )
+ArcticWin posts small blind [$0.01]
+die.marcu posts big blind [$0.02]
+** Dealing down cards **
+ArcticWin calls [$0.01]
+die.marcu checks
+** Dealing flop ** [ 8h, Tc, 4c ]
+die.marcu checks
+ArcticWin checks
+** Dealing turn ** [ Ac ]
+die.marcu bets [$0.04]
+ArcticWin folds
+** Summary **
+die.marcu collected [ $0.04 ]
+
+
+#Game No : 505356620
+***** 888poker Hand History for Game 505356620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 07 2018 00:57:07
+Table Munich 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: die.marcu ( $2.02 )
+Seat 9: ArcticWin ( $1.98 )
+die.marcu posts small blind [$0.01]
+ArcticWin posts big blind [$0.02]
+** Dealing down cards **
+die.marcu folds
+** Summary **
+ArcticWin collected [ $0.03 ]
+
+

@@ -1,0 +1,90 @@
+#Game No : 512541614
+***** 888poker Hand History for Game 512541614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 04:47:25
+Table Pereira 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: Neonegin ( $0.85 )
+Seat 10: PLSUp ( $0.95 )
+PLSUp posts small blind [$0.01]
+Neonegin posts big blind [$0.02]
+** Dealing down cards **
+PLSUp calls [$0.01]
+Neonegin checks
+** Dealing flop ** [ Ad, Td, Ah ]
+Neonegin checks
+PLSUp checks
+** Dealing turn ** [ 9c ]
+Neonegin bets [$0.02]
+PLSUp calls [$0.02]
+** Dealing river ** [ Tc ]
+Neonegin checks
+PLSUp checks
+** Summary **
+Neonegin shows [ 6s, Kh ]
+PLSUp mucks [ Qh, 2h ]
+Neonegin collected [ $0.08 ]
+
+
+#Game No : 512541631
+***** 888poker Hand History for Game 512541631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 04:48:03
+Table Pereira 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Neonegin ( $0.89 )
+Seat 10: PLSUp ( $0.91 )
+Neonegin posts small blind [$0.01]
+PLSUp posts big blind [$0.02]
+** Dealing down cards **
+Neonegin calls [$0.01]
+PLSUp checks
+** Dealing flop ** [ 7s, Jd, 5c ]
+PLSUp checks
+Neonegin checks
+** Dealing turn ** [ 8d ]
+PLSUp checks
+Neonegin checks
+** Dealing river ** [ Qh ]
+PLSUp checks
+Neonegin checks
+** Summary **
+PLSUp shows [ Kh, 4h ]
+Neonegin shows [ 2c, 2s ]
+Neonegin collected [ $0.04 ]
+
+
+#Game No : 512541644
+***** 888poker Hand History for Game 512541644 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 04:48:30
+Table Pereira 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: Neonegin ( $0.91 )
+Seat 10: PLSUp ( $0.89 )
+PLSUp posts small blind [$0.01]
+Neonegin posts big blind [$0.02]
+** Dealing down cards **
+PLSUp folds
+** Summary **
+Neonegin did not show his hand
+Neonegin collected [ $0.03 ]
+
+
+#Game No : 512541665
+***** 888poker Hand History for Game 512541665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 04:49:08
+Table Pereira 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jb2361 ( $1.99 )
+Seat 10: PLSUp ( $0.89 )
+Jb2361 posts small blind [$0.01]
+PLSUp posts big blind [$0.02]
+** Dealing down cards **
+Jb2361 raises [$0.05]
+PLSUp folds
+** Summary **
+Jb2361 collected [ $0.04 ]
+
+

@@ -1,0 +1,43 @@
+#Game No : 511397984
+***** 888poker Hand History for Game 511397984 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 05:49:49
+Table Santos 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: greedpiccolo ( $3 )
+Seat 7: leebercetti ( $2.88 )
+leebercetti posts small blind [$0.01]
+greedpiccolo posts big blind [$0.02]
+** Dealing down cards **
+leebercetti raises [$0.03]
+greedpiccolo calls [$0.02]
+** Dealing flop ** [ 6d, 2s, 3c ]
+greedpiccolo checks
+leebercetti bets [$0.05]
+greedpiccolo calls [$0.05]
+** Dealing turn ** [ 5h ]
+greedpiccolo checks
+leebercetti bets [$0.18]
+greedpiccolo folds
+** Summary **
+leebercetti collected [ $0.17 ]
+
+
+#Game No : 511398009
+***** 888poker Hand History for Game 511398009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 05:50:22
+Table Santos 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: greedpiccolo ( $2.91 )
+Seat 7: leebercetti ( $2.96 )
+greedpiccolo posts small blind [$0.01]
+leebercetti posts big blind [$0.02]
+** Dealing down cards **
+greedpiccolo calls [$0.01]
+leebercetti raises [$0.08]
+greedpiccolo folds
+** Summary **
+leebercetti collected [ $0.04 ]
+
+

@@ -1,0 +1,58 @@
+#Game No : 502697637
+***** 888poker Hand History for Game 502697637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 15:33:30
+Table Frisco 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Derzka85 ( $1.37 )
+Seat 9: a1plumber ( $1.32 )
+a1plumber posts small blind [$0.01]
+Derzka85 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+Derzka85 checks
+** Dealing flop ** [ Kd, Ad, 4d ]
+Derzka85 checks
+a1plumber bets [$0.02]
+Derzka85 calls [$0.02]
+** Dealing turn ** [ 2d ]
+Derzka85 checks
+a1plumber checks
+** Dealing river ** [ 3d ]
+Derzka85 checks
+a1plumber checks
+** Summary **
+Derzka85 shows [ Jh, 4h ]
+a1plumber shows [ Tc, Kh ]
+a1plumber collected [ $0.04 ]
+Derzka85 collected [ $0.04 ]
+
+
+#Game No : 502697689
+***** 888poker Hand History for Game 502697689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 15:34:25
+Table Frisco 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Derzka85 ( $1.37 )
+Seat 9: a1plumber ( $1.32 )
+Derzka85 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+Derzka85 calls [$0.01]
+a1plumber checks
+** Dealing flop ** [ Kc, 4s, 3s ]
+a1plumber checks
+Derzka85 checks
+** Dealing turn ** [ Ts ]
+a1plumber checks
+Derzka85 checks
+** Dealing river ** [ 2d ]
+a1plumber checks
+Derzka85 checks
+** Summary **
+a1plumber shows [ 9s, 7c ]
+Derzka85 shows [ Jd, 8c ]
+Derzka85 collected [ $0.04 ]
+
+

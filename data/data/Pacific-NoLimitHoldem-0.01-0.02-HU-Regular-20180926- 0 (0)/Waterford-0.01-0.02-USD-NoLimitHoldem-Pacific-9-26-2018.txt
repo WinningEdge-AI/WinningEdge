@@ -1,0 +1,356 @@
+#Game No : 507437123
+***** 888poker Hand History for Game 507437123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 10:37:04
+Table Waterford 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Xorvati4 ( $1.11 )
+Seat 10: Smithpump ( $2 )
+Xorvati4 posts small blind [$0.01]
+Smithpump posts big blind [$0.02]
+** Dealing down cards **
+Xorvati4 raises [$0.03]
+Smithpump calls [$0.02]
+** Dealing flop ** [ 2c, Kd, 5h ]
+Smithpump checks
+Xorvati4 bets [$0.04]
+Smithpump calls [$0.04]
+** Dealing turn ** [ Jc ]
+Smithpump checks
+Xorvati4 checks
+** Dealing river ** [ Tc ]
+Smithpump bets [$0.10]
+Xorvati4 folds
+** Summary **
+Smithpump collected [ $0.15 ]
+
+
+#Game No : 507446586
+***** 888poker Hand History for Game 507446586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:21:29
+Table Waterford 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: AmomIlecki ( $2.13 )
+Seat 10: dianehm ( $3.10 )
+AmomIlecki posts small blind [$0.01]
+dianehm posts big blind [$0.02]
+** Dealing down cards **
+AmomIlecki folds
+** Summary **
+dianehm did not show his hand
+dianehm collected [ $0.03 ]
+
+
+#Game No : 507446589
+***** 888poker Hand History for Game 507446589 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:21:35
+Table Waterford 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: AmomIlecki ( $2.12 )
+Seat 10: dianehm ( $3.11 )
+dianehm posts small blind [$0.01]
+AmomIlecki posts big blind [$0.02]
+** Dealing down cards **
+dianehm calls [$0.01]
+AmomIlecki raises [$0.04]
+dianehm calls [$0.04]
+** Dealing flop ** [ 7d, 6c, 6s ]
+AmomIlecki bets [$0.06]
+dianehm calls [$0.06]
+** Dealing turn ** [ Jd ]
+AmomIlecki bets [$0.12]
+dianehm calls [$0.12]
+** Dealing river ** [ Ah ]
+AmomIlecki checks
+dianehm checks
+** Summary **
+AmomIlecki shows [ 9h, 9s ]
+dianehm mucks [ Kh, Qd ]
+AmomIlecki collected [ $0.45 ]
+
+
+#Game No : 507446607
+***** 888poker Hand History for Game 507446607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:22:06
+Table Waterford 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: AmomIlecki ( $2.33 )
+Seat 10: dianehm ( $2.87 )
+AmomIlecki posts small blind [$0.01]
+dianehm posts big blind [$0.02]
+** Dealing down cards **
+AmomIlecki raises [$0.03]
+dianehm calls [$0.02]
+** Dealing flop ** [ Tc, Th, 8s ]
+dianehm checks
+AmomIlecki bets [$0.02]
+dianehm folds
+** Summary **
+AmomIlecki did not show his hand
+AmomIlecki collected [ $0.08 ]
+
+
+#Game No : 507446619
+***** 888poker Hand History for Game 507446619 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:22:28
+Table Waterford 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: AmomIlecki ( $2.37 )
+Seat 10: dianehm ( $2.83 )
+dianehm posts small blind [$0.01]
+AmomIlecki posts big blind [$0.02]
+** Dealing down cards **
+dianehm calls [$0.01]
+AmomIlecki checks
+** Dealing flop ** [ 2c, 8c, Th ]
+AmomIlecki checks
+dianehm bets [$0.02]
+AmomIlecki calls [$0.02]
+** Dealing turn ** [ Kc ]
+AmomIlecki checks
+dianehm bets [$0.02]
+AmomIlecki calls [$0.02]
+** Dealing river ** [ Jc ]
+AmomIlecki bets [$0.08]
+dianehm calls [$0.08]
+** Summary **
+AmomIlecki shows [ 6h, Td ]
+dianehm shows [ Tc, 8h ]
+dianehm collected [ $0.27 ]
+
+
+#Game No : 507446644
+***** 888poker Hand History for Game 507446644 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:23:03
+Table Waterford 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: AmomIlecki ( $2.23 )
+Seat 10: dianehm ( $2.96 )
+AmomIlecki posts small blind [$0.01]
+dianehm posts big blind [$0.02]
+** Dealing down cards **
+AmomIlecki folds
+** Summary **
+dianehm did not show his hand
+dianehm collected [ $0.03 ]
+
+
+#Game No : 507446649
+***** 888poker Hand History for Game 507446649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:23:09
+Table Waterford 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: AmomIlecki ( $2.22 )
+Seat 10: dianehm ( $2.97 )
+dianehm posts small blind [$0.01]
+AmomIlecki posts big blind [$0.02]
+** Dealing down cards **
+dianehm calls [$0.01]
+AmomIlecki raises [$0.04]
+dianehm calls [$0.04]
+** Dealing flop ** [ 8c, Qs, 5s ]
+AmomIlecki bets [$0.08]
+dianehm calls [$0.08]
+** Dealing turn ** [ 8h ]
+AmomIlecki bets [$0.22]
+dianehm calls [$0.22]
+** Dealing river ** [ Tc ]
+AmomIlecki checks
+dianehm checks
+** Summary **
+AmomIlecki shows [ Ah, 7s ]
+dianehm shows [ Td, Qd ]
+dianehm collected [ $0.68 ]
+
+
+#Game No : 507446671
+***** 888poker Hand History for Game 507446671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:23:52
+Table Waterford 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: AmomIlecki ( $1.86 )
+Seat 10: dianehm ( $3.29 )
+AmomIlecki posts small blind [$0.01]
+dianehm posts big blind [$0.02]
+** Dealing down cards **
+AmomIlecki calls [$0.01]
+dianehm checks
+** Dealing flop ** [ Ks, 8s, 5h ]
+dianehm checks
+AmomIlecki bets [$0.02]
+dianehm calls [$0.02]
+** Dealing turn ** [ 8h ]
+dianehm checks
+AmomIlecki bets [$0.04]
+dianehm calls [$0.04]
+** Dealing river ** [ 4h ]
+dianehm checks
+AmomIlecki bets [$0.10]
+dianehm folds
+** Summary **
+AmomIlecki did not show his hand
+AmomIlecki collected [ $0.15 ]
+
+
+#Game No : 507446700
+***** 888poker Hand History for Game 507446700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:24:34
+Table Waterford 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: AmomIlecki ( $1.93 )
+Seat 10: dianehm ( $3.21 )
+dianehm posts small blind [$0.01]
+AmomIlecki posts big blind [$0.02]
+** Dealing down cards **
+dianehm calls [$0.01]
+AmomIlecki checks
+** Dealing flop ** [ 5d, 7s, 2c ]
+AmomIlecki checks
+dianehm bets [$0.02]
+AmomIlecki calls [$0.02]
+** Dealing turn ** [ Kd ]
+AmomIlecki checks
+dianehm checks
+** Dealing river ** [ 4c ]
+AmomIlecki checks
+dianehm checks
+** Summary **
+AmomIlecki shows [ Qc, 4h ]
+dianehm mucks [ Ad, 2h ]
+AmomIlecki collected [ $0.08 ]
+
+
+#Game No : 507446720
+***** 888poker Hand History for Game 507446720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:25:05
+Table Waterford 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: AmomIlecki ( $1.97 )
+Seat 10: dianehm ( $3.17 )
+AmomIlecki posts small blind [$0.01]
+dianehm posts big blind [$0.02]
+** Dealing down cards **
+AmomIlecki folds
+** Summary **
+dianehm collected [ $0.03 ]
+
+
+#Game No : 507447919
+***** 888poker Hand History for Game 507447919 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:56:39
+Table Waterford 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Gotpkr13 ( $3.78 )
+Seat 6: Griboedow ( $2.85 )
+Gotpkr13 posts small blind [$0.01]
+Griboedow posts big blind [$0.02]
+** Dealing down cards **
+Gotpkr13 folds
+** Summary **
+Griboedow collected [ $0.03 ]
+
+
+#Game No : 507447922
+***** 888poker Hand History for Game 507447922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:56:49
+Table Waterford 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Gotpkr13 ( $3.77 )
+Seat 6: Griboedow ( $2.86 )
+Griboedow posts small blind [$0.01]
+Gotpkr13 posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+Gotpkr13 checks
+** Dealing flop ** [ 3s, 4h, 8d ]
+Gotpkr13 checks
+Griboedow checks
+** Dealing turn ** [ Jd ]
+Gotpkr13 checks
+Griboedow checks
+** Dealing river ** [ Jc ]
+Gotpkr13 checks
+Griboedow checks
+** Summary **
+Gotpkr13 shows [ Qc, Ac ]
+Griboedow shows [ 4s, 5s ]
+Griboedow collected [ $0.04 ]
+
+
+#Game No : 507447943
+***** 888poker Hand History for Game 507447943 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:57:32
+Table Waterford 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Gotpkr13 ( $3.75 )
+Seat 6: Griboedow ( $2.88 )
+Gotpkr13 posts small blind [$0.01]
+Griboedow posts big blind [$0.02]
+** Dealing down cards **
+Gotpkr13 calls [$0.01]
+Griboedow checks
+** Dealing flop ** [ 6h, 9c, Ks ]
+Griboedow checks
+Gotpkr13 checks
+** Dealing turn ** [ Ts ]
+Griboedow bets [$0.02]
+Gotpkr13 calls [$0.02]
+** Dealing river ** [ 9h ]
+Griboedow checks
+Gotpkr13 checks
+** Summary **
+Griboedow shows [ 2d, Kc ]
+Gotpkr13 mucks [ 8h, Th ]
+Griboedow collected [ $0.08 ]
+
+
+#Game No : 507447959
+***** 888poker Hand History for Game 507447959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:57:59
+Table Waterford 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Gotpkr13 ( $3.71 )
+Seat 6: Griboedow ( $2.92 )
+Griboedow posts small blind [$0.01]
+Gotpkr13 posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+Gotpkr13 raises [$0.02]
+Griboedow calls [$0.02]
+** Dealing flop ** [ Ts, Qd, 6h ]
+Gotpkr13 bets [$0.04]
+Griboedow folds
+** Summary **
+Gotpkr13 did not show his hand
+Gotpkr13 collected [ $0.08 ]
+
+
+#Game No : 507447971
+***** 888poker Hand History for Game 507447971 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:58:23
+Table Waterford 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Gotpkr13 ( $3.75 )
+Seat 6: Griboedow ( $2.88 )
+Gotpkr13 posts small blind [$0.01]
+** Dealing down cards **
+Griboedow folds
+** Summary **
+Gotpkr13 did not show his hand
+Gotpkr13 collected [ $0.01 ]
+
+

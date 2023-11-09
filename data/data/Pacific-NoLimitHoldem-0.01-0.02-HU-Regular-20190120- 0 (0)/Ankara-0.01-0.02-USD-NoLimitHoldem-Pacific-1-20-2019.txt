@@ -1,0 +1,29 @@
+#Game No : 522024032
+***** 888poker Hand History for Game 522024032 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 01 2019 17:57:17
+Table Ankara 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: libreht ( $2.35 )
+Seat 5: Raspu_ ( $2.16 )
+Raspu_ posts small blind [$0.01]
+libreht posts big blind [$0.02]
+** Dealing down cards **
+Raspu_ raises [$0.05]
+libreht calls [$0.04]
+** Dealing flop ** [ Kc, Jh, 2d ]
+libreht checks
+Raspu_ checks
+** Dealing turn ** [ Ah ]
+libreht bets [$0.12]
+Raspu_ calls [$0.12]
+** Dealing river ** [ Kh ]
+libreht checks
+Raspu_ checks
+** Summary **
+libreht shows [ 6c, As ]
+Raspu_ shows [ Ts, Ad ]
+Raspu_ collected [ $0.17 ]
+libreht collected [ $0.17 ]
+
+

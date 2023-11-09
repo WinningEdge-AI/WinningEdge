@@ -1,0 +1,30 @@
+#Game No : 1186678112
+***** 888poker Hand History for Game 1186678112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 10:00:35
+Table Riohacha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: hellu15 ( $2 )
+Seat 3: CBETeam ( $2 )
+CBETeam posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+CBETeam raises [$0.03]
+hellu15 raises [$0.04]
+CBETeam calls [$0.02]
+** Dealing flop ** [ 8d, 7h, 9s ]
+hellu15 checks
+CBETeam bets [$0.12]
+hellu15 calls [$0.12]
+** Dealing turn ** [ 9h ]
+hellu15 checks
+CBETeam checks
+** Dealing river ** [ 5d ]
+hellu15 bets [$0.18]
+CBETeam calls [$0.18]
+** Summary **
+hellu15 shows [ Jh, 9d ]
+CBETeam shows [ Qc, 9c ]
+CBETeam collected [ $0.68 ]
+
+

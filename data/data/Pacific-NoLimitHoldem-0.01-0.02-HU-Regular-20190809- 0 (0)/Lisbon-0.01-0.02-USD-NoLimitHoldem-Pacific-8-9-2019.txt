@@ -1,0 +1,332 @@
+#Game No : 537095641
+***** 888poker Hand History for Game 537095641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:22:27
+Table Lisbon 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ezi_Katochka ( $2 )
+Seat 2: tensionseeka ( $2 )
+Ezi_Katochka posts small blind [$0.01]
+tensionseeka posts big blind [$0.02]
+** Dealing down cards **
+Ezi_Katochka raises [$0.04]
+tensionseeka calls [$0.03]
+** Dealing flop ** [ 8s, Ac, 3d ]
+tensionseeka bets [$0.06]
+Ezi_Katochka calls [$0.06]
+** Dealing turn ** [ Ts ]
+tensionseeka bets [$0.11]
+Ezi_Katochka calls [$0.11]
+** Dealing river ** [ 4c ]
+tensionseeka checks
+Ezi_Katochka bets [$0.22]
+tensionseeka calls [$0.22]
+** Summary **
+Ezi_Katochka shows [ 9d, Ah ]
+tensionseeka mucks [ 7h, 3c ]
+Ezi_Katochka collected [ $0.83 ]
+
+
+#Game No : 537095662
+***** 888poker Hand History for Game 537095662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:22:35
+Table Lisbon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ezi_Katochka ( $2.39 )
+Seat 2: tensionseeka ( $1.56 )
+tensionseeka posts small blind [$0.01]
+Ezi_Katochka posts big blind [$0.02]
+** Dealing down cards **
+tensionseeka calls [$0.01]
+Ezi_Katochka raises [$0.06]
+tensionseeka calls [$0.06]
+** Dealing flop ** [ 6s, 9d, Qs ]
+Ezi_Katochka checks
+tensionseeka checks
+** Dealing turn ** [ 8d ]
+Ezi_Katochka bets [$0.10]
+tensionseeka calls [$0.10]
+** Dealing river ** [ Js ]
+Ezi_Katochka checks
+tensionseeka bets [$0.23]
+Ezi_Katochka calls [$0.23]
+** Summary **
+tensionseeka shows [ 5c, 7s ]
+Ezi_Katochka mucks [ Kc, Kh ]
+tensionseeka collected [ $0.77 ]
+
+
+#Game No : 537095675
+***** 888poker Hand History for Game 537095675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:23:06
+Table Lisbon 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ezi_Katochka ( $1.98 )
+Seat 2: tensionseeka ( $1.92 )
+Ezi_Katochka posts small blind [$0.01]
+tensionseeka posts big blind [$0.02]
+** Dealing down cards **
+Ezi_Katochka raises [$0.07]
+tensionseeka calls [$0.06]
+** Dealing flop ** [ 5c, 7h, 8s ]
+tensionseeka checks
+Ezi_Katochka bets [$0.10]
+tensionseeka calls [$0.10]
+** Dealing turn ** [ Ah ]
+tensionseeka bets [$0.18]
+Ezi_Katochka raises [$0.72]
+tensionseeka calls [$0.54]
+** Dealing river ** [ 5s ]
+tensionseeka checks
+Ezi_Katochka bets [$1.08]
+tensionseeka calls [$1.02]
+** Summary **
+Ezi_Katochka shows [ Ad, Kh ]
+tensionseeka shows [ 4d, Th ]
+Ezi_Katochka collected [ $3.60 ]
+
+
+#Game No : 537095835
+***** 888poker Hand History for Game 537095835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:29:08
+Table Lisbon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: DJL89 ( $2 )
+Seat 7: JS888FU ( $0.80 )
+JS888FU posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+DJL89 folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.04 ]
+
+
+#Game No : 537095840
+***** 888poker Hand History for Game 537095840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:29:16
+Table Lisbon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: DJL89 ( $2 )
+Seat 7: JS888FU ( $0.82 )
+DJL89 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+DJL89 folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.03 ]
+
+
+#Game No : 537095846
+***** 888poker Hand History for Game 537095846 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:29:24
+Table Lisbon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: DJL89 ( $2 )
+Seat 7: JS888FU ( $0.83 )
+JS888FU posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+DJL89 calls [$0.02]
+** Dealing flop ** [ Ah, 2d, 6c ]
+DJL89 bets [$0.05]
+JS888FU calls [$0.05]
+** Dealing turn ** [ Qs ]
+DJL89 checks
+JS888FU checks
+** Dealing river ** [ 8c ]
+DJL89 checks
+JS888FU checks
+** Summary **
+DJL89 shows [ 2c, 3h ]
+JS888FU shows [ 7d, 6s ]
+JS888FU collected [ $0.17 ]
+
+
+#Game No : 537095864
+***** 888poker Hand History for Game 537095864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:30:00
+Table Lisbon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: DJL89 ( $2 )
+Seat 7: JS888FU ( $0.91 )
+DJL89 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+DJL89 folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.03 ]
+
+
+#Game No : 537095867
+***** 888poker Hand History for Game 537095867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:30:09
+Table Lisbon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: DJL89 ( $2 )
+Seat 7: JS888FU ( $0.92 )
+JS888FU posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+DJL89 calls [$0.02]
+** Dealing flop ** [ Qc, 4d, 3c ]
+DJL89 checks
+JS888FU checks
+** Dealing turn ** [ 6s ]
+DJL89 checks
+JS888FU checks
+** Dealing river ** [ 6c ]
+DJL89 checks
+JS888FU checks
+** Summary **
+DJL89 shows [ 9s, 2c ]
+JS888FU shows [ Kc, As ]
+JS888FU collected [ $0.08 ]
+
+
+#Game No : 537095957
+***** 888poker Hand History for Game 537095957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:33:49
+Table Lisbon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: BeNimble88 ( $1.86 )
+Seat 9: VeeeJ ( $2 )
+BeNimble88 posts small blind [$0.01]
+VeeeJ posts big blind [$0.02]
+** Dealing down cards **
+BeNimble88 calls [$0.01]
+VeeeJ checks
+** Dealing flop ** [ 6h, As, 9d ]
+VeeeJ checks
+BeNimble88 checks
+** Dealing turn ** [ 5d ]
+VeeeJ checks
+BeNimble88 bets [$0.02]
+VeeeJ folds
+** Summary **
+BeNimble88 collected [ $0.04 ]
+
+
+#Game No : 537095972
+***** 888poker Hand History for Game 537095972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:34:22
+Table Lisbon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 3: BeNimble88 ( $1.88 )
+Seat 9: VeeeJ ( $1.98 )
+VeeeJ posts small blind [$0.01]
+BeNimble88 posts big blind [$0.02]
+** Dealing down cards **
+VeeeJ folds
+** Summary **
+BeNimble88 collected [ $0.03 ]
+
+
+#Game No : 537095985
+***** 888poker Hand History for Game 537095985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:34:45
+Table Lisbon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: BeNimble88 ( $1.89 )
+Seat 7: JS888FU ( $0.96 )
+BeNimble88 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+BeNimble88 raises [$0.05]
+JS888FU folds
+** Summary **
+BeNimble88 did not show his hand
+BeNimble88 collected [ $0.04 ]
+
+
+#Game No : 537095993
+***** 888poker Hand History for Game 537095993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:34:57
+Table Lisbon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: BeNimble88 ( $1.91 )
+Seat 7: JS888FU ( $0.94 )
+JS888FU posts small blind [$0.01]
+BeNimble88 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU folds
+** Summary **
+BeNimble88 did not show his hand
+BeNimble88 collected [ $0.03 ]
+
+
+#Game No : 537095996
+***** 888poker Hand History for Game 537095996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:35:04
+Table Lisbon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: BeNimble88 ( $1.92 )
+Seat 7: JS888FU ( $0.93 )
+BeNimble88 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+BeNimble88 raises [$0.05]
+JS888FU calls [$0.04]
+** Dealing flop ** [ Kh, 8c, Kd ]
+JS888FU checks
+BeNimble88 bets [$0.06]
+JS888FU folds
+** Summary **
+BeNimble88 collected [ $0.12 ]
+
+
+#Game No : 537096005
+***** 888poker Hand History for Game 537096005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:35:24
+Table Lisbon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: BeNimble88 ( $1.98 )
+Seat 7: JS888FU ( $0.87 )
+JS888FU posts small blind [$0.01]
+BeNimble88 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+BeNimble88 folds
+** Summary **
+JS888FU collected [ $0.04 ]
+
+
+#Game No : 537096015
+***** 888poker Hand History for Game 537096015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 23:35:38
+Table Lisbon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Tofujudi ( $2 )
+Seat 7: JS888FU ( $0.89 )
+JS888FU posts small blind [$0.01]
+Tofujudi posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+Tofujudi checks
+** Dealing flop ** [ 6s, Kd, 7h ]
+Tofujudi checks
+JS888FU bets [$0.02]
+Tofujudi folds
+** Summary **
+JS888FU collected [ $0.04 ]
+
+

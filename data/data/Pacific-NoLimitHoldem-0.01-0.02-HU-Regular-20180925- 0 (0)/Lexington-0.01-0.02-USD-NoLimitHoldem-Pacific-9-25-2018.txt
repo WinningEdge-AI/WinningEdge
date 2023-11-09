@@ -1,0 +1,405 @@
+#Game No : 502866252
+***** 888poker Hand History for Game 502866252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:17:54
+Table Lexington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mr.B.Skinner ( $0.93 )
+Seat 2: jgvasso26 ( $2.65 )
+Mr.B.Skinner posts small blind [$0.01]
+jgvasso26 posts big blind [$0.02]
+** Dealing down cards **
+Mr.B.Skinner raises [$0.92]
+jgvasso26 folds
+** Summary **
+Mr.B.Skinner collected [ $0.04 ]
+
+
+#Game No : 502866261
+***** 888poker Hand History for Game 502866261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:18:05
+Table Lexington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Mr.B.Skinner ( $0.95 )
+Seat 2: jgvasso26 ( $2.63 )
+jgvasso26 posts small blind [$0.01]
+Mr.B.Skinner posts big blind [$0.02]
+** Dealing down cards **
+jgvasso26 calls [$0.01]
+Mr.B.Skinner folds
+** Summary **
+jgvasso26 collected [ $0.04 ]
+
+
+#Game No : 502866270
+***** 888poker Hand History for Game 502866270 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:18:20
+Table Lexington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: jgvasso26 ( $2.65 )
+Seat 4: JasonMc1985 ( $1 )
+JasonMc1985 posts small blind [$0.01]
+jgvasso26 posts big blind [$0.02]
+** Dealing down cards **
+JasonMc1985 calls [$0.01]
+jgvasso26 raises [$0.02]
+JasonMc1985 calls [$0.02]
+** Dealing flop ** [ 3h, 8h, 7d ]
+jgvasso26 bets [$0.04]
+JasonMc1985 calls [$0.04]
+** Dealing turn ** [ 4c ]
+jgvasso26 checks
+JasonMc1985 bets [$0.08]
+jgvasso26 folds
+** Summary **
+JasonMc1985 collected [ $0.15 ]
+
+
+#Game No : 502866283
+***** 888poker Hand History for Game 502866283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:18:47
+Table Lexington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: jgvasso26 ( $2.57 )
+Seat 4: JasonMc1985 ( $1.07 )
+jgvasso26 posts small blind [$0.01]
+JasonMc1985 posts big blind [$0.02]
+** Dealing down cards **
+jgvasso26 raises [$0.03]
+JasonMc1985 calls [$0.02]
+** Dealing flop ** [ 4h, 3h, 4d ]
+JasonMc1985 checks
+jgvasso26 bets [$0.06]
+JasonMc1985 calls [$0.06]
+** Dealing turn ** [ Th ]
+JasonMc1985 checks
+jgvasso26 checks
+** Dealing river ** [ 7s ]
+JasonMc1985 bets [$0.20]
+jgvasso26 calls [$0.20]
+** Summary **
+JasonMc1985 shows [ Ac, Tc ]
+jgvasso26 mucks [ 9h, 9d ]
+JasonMc1985 collected [ $0.57 ]
+
+
+#Game No : 502866301
+***** 888poker Hand History for Game 502866301 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:19:21
+Table Lexington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: jgvasso26 ( $2.27 )
+Seat 4: JasonMc1985 ( $1.34 )
+JasonMc1985 posts small blind [$0.01]
+jgvasso26 posts big blind [$0.02]
+** Dealing down cards **
+JasonMc1985 raises [$0.03]
+jgvasso26 raises [$0.04]
+JasonMc1985 calls [$0.02]
+** Dealing flop ** [ Qh, Td, 6d ]
+jgvasso26 bets [$0.09]
+JasonMc1985 calls [$0.09]
+** Dealing turn ** [ 8s ]
+jgvasso26 bets [$0.30]
+JasonMc1985 folds
+** Summary **
+jgvasso26 did not show his hand
+jgvasso26 collected [ $0.29 ]
+
+
+#Game No : 502866306
+***** 888poker Hand History for Game 502866306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:19:47
+Table Lexington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: jgvasso26 ( $2.41 )
+Seat 4: JasonMc1985 ( $1.19 )
+jgvasso26 posts small blind [$0.01]
+JasonMc1985 posts big blind [$0.02]
+** Dealing down cards **
+jgvasso26 calls [$0.01]
+JasonMc1985 checks
+** Dealing flop ** [ 4h, 2h, 2d ]
+JasonMc1985 bets [$0.02]
+jgvasso26 raises [$0.06]
+JasonMc1985 calls [$0.04]
+** Dealing turn ** [ Jd ]
+JasonMc1985 bets [$0.08]
+jgvasso26 raises [$0.32]
+JasonMc1985 calls [$0.24]
+** Dealing river ** [ 4d ]
+JasonMc1985 bets [$0.30]
+jgvasso26 calls [$0.30]
+** Summary **
+JasonMc1985 shows [ Jh, 5h ]
+jgvasso26 shows [ Qc, 2s ]
+jgvasso26 collected [ $1.32 ]
+
+
+#Game No : 502866324
+***** 888poker Hand History for Game 502866324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:20:34
+Table Lexington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: jgvasso26 ( $3.03 )
+Seat 4: JasonMc1985 ( $0.49 )
+JasonMc1985 posts small blind [$0.01]
+jgvasso26 posts big blind [$0.02]
+** Dealing down cards **
+JasonMc1985 raises [$0.03]
+jgvasso26 calls [$0.02]
+** Dealing flop ** [ 9c, 6h, Td ]
+jgvasso26 checks
+JasonMc1985 checks
+** Dealing turn ** [ 3s ]
+jgvasso26 checks
+JasonMc1985 bets [$0.04]
+jgvasso26 calls [$0.04]
+** Dealing river ** [ 3d ]
+jgvasso26 checks
+JasonMc1985 bets [$0.30]
+jgvasso26 folds
+** Summary **
+JasonMc1985 collected [ $0.15 ]
+
+
+#Game No : 502866541
+***** 888poker Hand History for Game 502866541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:27:40
+Table Lexington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 7: s.catalinGGL ( $0.81 )
+Seat 9: temudjin14 ( $0.78 )
+s.catalinGGL posts small blind [$0.01]
+temudjin14 posts big blind [$0.02]
+** Dealing down cards **
+s.catalinGGL raises [$0.80]
+temudjin14 folds
+** Summary **
+s.catalinGGL collected [ $0.04 ]
+
+
+#Game No : 502866553
+***** 888poker Hand History for Game 502866553 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:27:59
+Table Lexington 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: s.catalinGGL ( $0.83 )
+Seat 9: temudjin14 ( $0.76 )
+s.catalinGGL posts small blind [$0.01]
+temudjin14 posts big blind [$0.02]
+** Dealing down cards **
+s.catalinGGL raises [$0.82]
+temudjin14 calls [$0.74]
+** Dealing flop ** [ As, 7h, 6d ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 6c ]
+** Summary **
+s.catalinGGL shows [ 9h, Kc ]
+temudjin14 shows [ Qs, Jd ]
+s.catalinGGL collected [ $1.43 ]
+
+
+#Game No : 502867152
+***** 888poker Hand History for Game 502867152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:49:54
+Table Lexington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MarinaBarros ( $0.80 )
+Seat 4: vnuk36 ( $0.80 )
+MarinaBarros posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+MarinaBarros calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ 7d, 2d, Js ]
+vnuk36 checks
+MarinaBarros checks
+** Dealing turn ** [ 3d ]
+vnuk36 checks
+MarinaBarros checks
+** Dealing river ** [ 9d ]
+vnuk36 checks
+MarinaBarros checks
+** Summary **
+vnuk36 shows [ 4h, 6d ]
+MarinaBarros mucks [ Tc, 4s ]
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 502876208
+***** 888poker Hand History for Game 502876208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 01:05:33
+Table Lexington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: egoist28 ( $1.18 )
+Seat 7: AleksandrVep ( $0.58 )
+egoist28 posts small blind [$0.01]
+AleksandrVep posts big blind [$0.02]
+** Dealing down cards **
+egoist28 raises [$0.05]
+AleksandrVep folds
+** Summary **
+egoist28 collected [ $0.04 ]
+
+
+#Game No : 502876211
+***** 888poker Hand History for Game 502876211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 01:05:42
+Table Lexington 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: egoist28 ( $1.20 )
+Seat 7: AleksandrVep ( $0.56 )
+AleksandrVep posts small blind [$0.01]
+egoist28 posts big blind [$0.02]
+** Dealing down cards **
+AleksandrVep folds
+** Summary **
+egoist28 collected [ $0.03 ]
+
+
+#Game No : 502876260
+***** 888poker Hand History for Game 502876260 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 01:07:05
+Table Lexington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: egoist28 ( $1.13 )
+Seat 9: Oleg234516 ( $1.35 )
+egoist28 posts small blind [$0.01]
+Oleg234516 posts big blind [$0.02]
+** Dealing down cards **
+egoist28 calls [$0.01]
+Oleg234516 raises [$0.04]
+egoist28 calls [$0.04]
+** Dealing flop ** [ 7d, 9d, 2d ]
+Oleg234516 bets [$0.06]
+egoist28 calls [$0.06]
+** Dealing turn ** [ Jd ]
+Oleg234516 checks
+egoist28 bets [$0.08]
+Oleg234516 folds
+** Summary **
+egoist28 collected [ $0.23 ]
+
+
+#Game No : 502878855
+***** 888poker Hand History for Game 502878855 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 02:33:52
+Table Lexington 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: 4c1dw4v3 ( $1.01 )
+Seat 7: Dagmaer ( $1.25 )
+Dagmaer posts small blind [$0.01]
+4c1dw4v3 posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer raises [$0.04]
+4c1dw4v3 folds
+** Summary **
+Dagmaer collected [ $0.04 ]
+
+
+#Game No : 502879224
+***** 888poker Hand History for Game 502879224 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 02:45:11
+Table Lexington 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Dagmaer ( $1.10 )
+Seat 9: SlavikMark79 ( $1.22 )
+SlavikMark79 posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 raises [$0.05]
+Dagmaer folds
+** Summary **
+SlavikMark79 collected [ $0.04 ]
+
+
+#Game No : 502881955
+***** 888poker Hand History for Game 502881955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 04:05:47
+Table Lexington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Moonshine100 ( $0.76 )
+Seat 4: HenriWag ( $1.45 )
+Moonshine100 posts small blind [$0.01]
+HenriWag posts big blind [$0.02]
+** Dealing down cards **
+Moonshine100 raises [$0.03]
+HenriWag calls [$0.02]
+** Dealing flop ** [ 3c, Ks, Qd ]
+HenriWag bets [$0.04]
+Moonshine100 calls [$0.04]
+** Dealing turn ** [ Qs ]
+HenriWag checks
+Moonshine100 bets [$0.16]
+HenriWag folds
+** Summary **
+Moonshine100 did not show his hand
+Moonshine100 collected [ $0.15 ]
+
+
+#Game No : 502881973
+***** 888poker Hand History for Game 502881973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 04:06:28
+Table Lexington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Moonshine100 ( $0.83 )
+Seat 4: HenriWag ( $1.37 )
+HenriWag posts small blind [$0.01]
+Moonshine100 posts big blind [$0.02]
+** Dealing down cards **
+HenriWag raises [$0.05]
+Moonshine100 folds
+** Summary **
+HenriWag did not show his hand
+HenriWag collected [ $0.04 ]
+
+
+#Game No : 502881980
+***** 888poker Hand History for Game 502881980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 04:06:38
+Table Lexington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Moonshine100 ( $0.81 )
+Seat 4: HenriWag ( $1.39 )
+Moonshine100 posts small blind [$0.01]
+** Dealing down cards **
+HenriWag folds
+** Summary **
+Moonshine100 did not show his hand
+Moonshine100 collected [ $0.01 ]
+
+
+#Game No : 502912981
+***** 888poker Hand History for Game 502912981 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 13:57:19
+Table Lexington 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: yurko124 ( $0.96 )
+Seat 7: Skubabaman12 ( $0.87 )
+Skubabaman12 posts small blind [$0.01]
+** Dealing down cards **
+yurko124 folds
+** Summary **
+Skubabaman12 did not show his hand
+Skubabaman12 collected [ $0.01 ]
+
+

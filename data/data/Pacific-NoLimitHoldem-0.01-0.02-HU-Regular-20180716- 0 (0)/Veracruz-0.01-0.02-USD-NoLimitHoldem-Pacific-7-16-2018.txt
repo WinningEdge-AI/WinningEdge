@@ -1,0 +1,54 @@
+#Game No : 1193468462
+***** 888poker Hand History for Game 1193468462 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 06:17:07
+Table Veracruz 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Vladimir_Ars ( $2 )
+Seat 4: Kin.salz ( $0.80 )
+Vladimir_Ars posts small blind [$0.01]
+Kin.salz posts big blind [$0.02]
+** Dealing down cards **
+Vladimir_Ars calls [$0.01]
+Kin.salz checks
+** Dealing flop ** [ 9s, 3s, 5h ]
+Kin.salz bets [$0.02]
+Vladimir_Ars calls [$0.02]
+** Dealing turn ** [ Qs ]
+Kin.salz bets [$0.02]
+Vladimir_Ars calls [$0.02]
+** Dealing river ** [ 9d ]
+Kin.salz checks
+Vladimir_Ars checks
+** Summary **
+Kin.salz shows [ 7h, 2d ]
+Vladimir_Ars shows [ 4c, Ad ]
+Vladimir_Ars collected [ $0.12 ]
+
+
+#Game No : 1193469349
+***** 888poker Hand History for Game 1193469349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 06:20:18
+Table Veracruz 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: stass.381 ( $3.49 )
+Seat 3: patricioc32 ( $1.06 )
+patricioc32 posts small blind [$0.01]
+stass.381 posts big blind [$0.02]
+** Dealing down cards **
+patricioc32 calls [$0.01]
+stass.381 checks
+** Dealing flop ** [ 4c, 6h, 7h ]
+stass.381 bets [$0.02]
+patricioc32 calls [$0.02]
+** Dealing turn ** [ 7s ]
+stass.381 bets [$0.08]
+patricioc32 calls [$0.08]
+** Dealing river ** [ 6d ]
+stass.381 bets [$0.24]
+patricioc32 folds
+** Summary **
+stass.381 collected [ $0.23 ]
+
+

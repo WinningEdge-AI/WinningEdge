@@ -1,0 +1,156 @@
+#Game No : 605751494
+***** 888poker Hand History for Game 605751494 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 01:26:00
+Table Henderson 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: jhnzl ( $2 )
+Seat 5: Cemend ( $2 )
+Cemend posts small blind [$0.01]
+jhnzl posts big blind [$0.02]
+** Dealing down cards **
+Cemend raises [$0.03]
+jhnzl calls [$0.02]
+** Dealing flop ** [ 5h, 7h, Ah ]
+jhnzl bets [$0.02]
+Cemend raises [$0.04]
+jhnzl raises [$0.04]
+Cemend raises [$0.04]
+jhnzl raises [$0.08]
+Cemend calls [$0.06]
+** Dealing turn ** [ 3h ]
+jhnzl checks
+Cemend bets [$0.18]
+jhnzl calls [$0.18]
+** Dealing river ** [ Qd ]
+jhnzl checks
+Cemend checks
+** Summary **
+jhnzl shows [ Ad, Js ]
+Cemend shows [ Ac, Jd ]
+Cemend collected [ $0.34 ]
+jhnzl collected [ $0.34 ]
+
+
+#Game No : 605751515
+***** 888poker Hand History for Game 605751515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 01:26:52
+Table Henderson 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jhnzl ( $1.98 )
+Seat 5: Cemend ( $1.98 )
+jhnzl posts small blind [$0.01]
+Cemend posts big blind [$0.02]
+** Dealing down cards **
+jhnzl calls [$0.01]
+Cemend checks
+** Dealing flop ** [ Qc, Ks, Qh ]
+Cemend checks
+jhnzl bets [$0.02]
+Cemend folds
+** Summary **
+jhnzl did not show his hand
+jhnzl collected [ $0.04 ]
+
+
+#Game No : 605751527
+***** 888poker Hand History for Game 605751527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 01:27:17
+Table Henderson 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: jhnzl ( $2 )
+Seat 5: Cemend ( $1.96 )
+Cemend posts small blind [$0.01]
+jhnzl posts big blind [$0.02]
+** Dealing down cards **
+Cemend folds
+** Summary **
+jhnzl did not show his hand
+jhnzl collected [ $0.03 ]
+
+
+#Game No : 605751530
+***** 888poker Hand History for Game 605751530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 01:27:22
+Table Henderson 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jhnzl ( $2.01 )
+Seat 5: Cemend ( $1.95 )
+jhnzl posts small blind [$0.01]
+Cemend posts big blind [$0.02]
+** Dealing down cards **
+jhnzl calls [$0.01]
+Cemend raises [$0.02]
+jhnzl calls [$0.02]
+** Dealing flop ** [ 6h, Ad, 6d ]
+Cemend checks
+jhnzl checks
+** Dealing turn ** [ 6s ]
+Cemend bets [$0.08]
+jhnzl folds
+** Summary **
+Cemend did not show his hand
+Cemend collected [ $0.08 ]
+
+
+#Game No : 605751539
+***** 888poker Hand History for Game 605751539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 01:27:41
+Table Henderson 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: jhnzl ( $1.97 )
+Seat 5: Cemend ( $1.99 )
+Cemend posts small blind [$0.01]
+jhnzl posts big blind [$0.02]
+** Dealing down cards **
+Cemend raises [$0.03]
+jhnzl raises [$0.04]
+Cemend calls [$0.02]
+** Dealing flop ** [ 9h, 9d, 6c ]
+jhnzl checks
+Cemend checks
+** Dealing turn ** [ Kc ]
+jhnzl checks
+Cemend bets [$0.12]
+jhnzl folds
+** Summary **
+Cemend collected [ $0.12 ]
+
+
+#Game No : 605769176
+***** 888poker Hand History for Game 605769176 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 11:26:42
+Table Henderson 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: isemba ( $0.93 )
+Seat 4: brohster ( $2.63 )
+brohster posts small blind [$0.01]
+isemba posts big blind [$0.02]
+** Dealing down cards **
+brohster folds
+** Summary **
+isemba did not show his hand
+isemba collected [ $0.03 ]
+
+
+#Game No : 605769178
+***** 888poker Hand History for Game 605769178 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 11:26:47
+Table Henderson 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: isemba ( $0.94 )
+Seat 4: brohster ( $2.62 )
+isemba posts small blind [$0.01]
+** Dealing down cards **
+brohster folds
+** Summary **
+isemba did not show his hand
+isemba collected [ $0.01 ]
+
+

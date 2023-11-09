@@ -1,0 +1,44 @@
+#Game No : 1193197205
+***** 888poker Hand History for Game 1193197205 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 08:02:24
+Table Ji-Parana 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SparcsUKR ( $2 )
+Seat 9: 3putbeanz ( $1.97 )
+SparcsUKR posts small blind [$0.01]
+3putbeanz posts big blind [$0.02]
+** Dealing down cards **
+SparcsUKR folds
+** Summary **
+3putbeanz collected [ $0.03 ]
+
+
+#Game No : 1193197223
+***** 888poker Hand History for Game 1193197223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 08:02:29
+Table Ji-Parana 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: SparcsUKR ( $2 )
+Seat 9: 3putbeanz ( $1.98 )
+3putbeanz posts small blind [$0.01]
+SparcsUKR posts big blind [$0.02]
+** Dealing down cards **
+3putbeanz calls [$0.01]
+SparcsUKR checks
+** Dealing flop ** [ 8s, Jd, 5s ]
+SparcsUKR checks
+3putbeanz checks
+** Dealing turn ** [ 4s ]
+SparcsUKR bets [$0.04]
+3putbeanz calls [$0.04]
+** Dealing river ** [ 9s ]
+SparcsUKR checks
+3putbeanz checks
+** Summary **
+SparcsUKR shows [ Th, 4h ]
+3putbeanz shows [ Qc, Ts ]
+3putbeanz collected [ $0.12 ]
+
+

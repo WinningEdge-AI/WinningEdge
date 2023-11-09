@@ -1,0 +1,121 @@
+#Game No : 521258780
+***** 888poker Hand History for Game 521258780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2019 03:35:16
+Table Bochum 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ObiWan1898 ( $3.82 )
+Seat 2: dedtk ( $1.15 )
+dedtk posts small blind [$0.01]
+** Dealing down cards **
+ObiWan1898 folds
+** Summary **
+dedtk collected [ $0.01 ]
+
+
+#Game No : 521258784
+***** 888poker Hand History for Game 521258784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2019 03:35:19
+Table Bochum 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dedtk ( $1.15 )
+Seat 7: wuuddah ( $2 )
+dedtk posts small blind [$0.01]
+wuuddah posts big blind [$0.02]
+** Dealing down cards **
+dedtk raises [$0.04]
+wuuddah raises [$0.13]
+dedtk calls [$0.10]
+** Dealing flop ** [ Qs, Qd, 2d ]
+wuuddah bets [$0.15]
+dedtk calls [$0.15]
+** Dealing turn ** [ Kd ]
+wuuddah checks
+dedtk bets [$0.39]
+wuuddah folds
+** Summary **
+dedtk collected [ $0.57 ]
+
+
+#Game No : 521261183
+***** 888poker Hand History for Game 521261183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2019 05:06:15
+Table Bochum 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: DJL89 ( $2 )
+Seat 9: GARALD84 ( $2.81 )
+GARALD84 posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+DJL89 checks
+** Dealing flop ** [ 5s, 2h, 8c ]
+DJL89 checks
+GARALD84 bets [$0.02]
+DJL89 calls [$0.02]
+** Dealing turn ** [ 4d ]
+DJL89 checks
+GARALD84 bets [$0.07]
+DJL89 calls [$0.07]
+** Dealing river ** [ Kc ]
+DJL89 checks
+GARALD84 bets [$0.16]
+DJL89 folds
+** Summary **
+GARALD84 collected [ $0.21 ]
+
+
+#Game No : 521261212
+***** 888poker Hand History for Game 521261212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2019 05:07:03
+Table Bochum 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: DJL89 ( $2 )
+Seat 9: GARALD84 ( $2.91 )
+DJL89 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+DJL89 raises [$0.05]
+GARALD84 calls [$0.04]
+** Dealing flop ** [ 9s, 9c, Kc ]
+GARALD84 checks
+DJL89 checks
+** Dealing turn ** [ Kd ]
+GARALD84 bets [$0.07]
+DJL89 folds
+** Summary **
+GARALD84 collected [ $0.12 ]
+
+
+#Game No : 521267144
+***** 888poker Hand History for Game 521267144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2019 08:07:54
+Table Bochum 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: RustyKrusty ( $3.54 )
+Seat 6: ruskey22 ( $2 )
+RustyKrusty posts small blind [$0.01]
+ruskey22 posts big blind [$0.02]
+** Dealing down cards **
+RustyKrusty raises [$0.04]
+ruskey22 raises [$0.14]
+RustyKrusty calls [$0.11]
+** Dealing flop ** [ 2s, 9h, Td ]
+ruskey22 checks
+RustyKrusty checks
+** Dealing turn ** [ Js ]
+ruskey22 checks
+RustyKrusty bets [$0.24]
+ruskey22 calls [$0.24]
+** Dealing river ** [ 4h ]
+ruskey22 checks
+RustyKrusty bets [$0.42]
+ruskey22 folds
+** Summary **
+RustyKrusty collected [ $0.75 ]
+
+

@@ -1,0 +1,85 @@
+#Game No : 1183743829
+***** 888poker Hand History for Game 1183743829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 00:31:10
+Table Daugavpils 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: beth999888 ( $0.80 )
+Seat 2: RETHONRETH ( $1 )
+beth999888 posts small blind [$0.01]
+RETHONRETH posts big blind [$0.02]
+** Dealing down cards **
+beth999888 raises [$0.03]
+RETHONRETH calls [$0.02]
+** Dealing flop ** [ 9s, 5s, Td ]
+RETHONRETH checks
+beth999888 bets [$0.06]
+RETHONRETH calls [$0.06]
+** Dealing turn ** [ Ts ]
+RETHONRETH checks
+beth999888 bets [$0.10]
+RETHONRETH calls [$0.10]
+** Dealing river ** [ 7h ]
+RETHONRETH checks
+beth999888 bets [$0.30]
+RETHONRETH calls [$0.30]
+** Summary **
+beth999888 shows [ 2s, Ks ]
+RETHONRETH mucks [ 6h, 7d ]
+beth999888 collected [ $0.94 ]
+
+
+#Game No : 1183743917
+***** 888poker Hand History for Game 1183743917 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 00:31:27
+Table Daugavpils 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: beth999888 ( $1.24 )
+Seat 2: RETHONRETH ( $0.50 )
+RETHONRETH posts small blind [$0.01]
+beth999888 posts big blind [$0.02]
+** Dealing down cards **
+RETHONRETH folds
+** Summary **
+beth999888 collected [ $0.03 ]
+
+
+#Game No : 1183754748
+***** 888poker Hand History for Game 1183754748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 01:43:53
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Ez_tinker123 ( $1.91 )
+Seat 6: oktura ( $1 )
+oktura posts small blind [$0.01]
+Ez_tinker123 posts big blind [$0.02]
+** Dealing down cards **
+oktura calls [$0.01]
+Ez_tinker123 checks
+** Dealing flop ** [ 5s, 7h, 5c ]
+Ez_tinker123 bets [$0.04]
+oktura folds
+** Summary **
+Ez_tinker123 did not show his hand
+Ez_tinker123 collected [ $0.04 ]
+
+
+#Game No : 1183754780
+***** 888poker Hand History for Game 1183754780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 01:44:08
+Table Daugavpils 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ez_tinker123 ( $1.93 )
+Seat 6: oktura ( $1 )
+Ez_tinker123 posts small blind [$0.01]
+oktura posts big blind [$0.02]
+** Dealing down cards **
+Ez_tinker123 folds
+** Summary **
+oktura did not show his hand
+oktura collected [ $0.03 ]
+
+

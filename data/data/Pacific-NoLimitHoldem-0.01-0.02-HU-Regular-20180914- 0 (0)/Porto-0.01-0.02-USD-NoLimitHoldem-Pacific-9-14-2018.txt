@@ -1,0 +1,226 @@
+#Game No : 608157962
+***** 888poker Hand History for Game 608157962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:07:12
+Table Porto 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Lachie03 ( $1.95 )
+Seat 5: zukalek ( $2.18 )
+Lachie03 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+Lachie03 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 8d, 5d, 7d ]
+zukalek bets [$0.03]
+Lachie03 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.04 ]
+
+
+#Game No : 608158085
+***** 888poker Hand History for Game 608158085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:15:33
+Table Porto 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2.17 )
+Seat 6: bigstahli ( $2.03 )
+zukalek posts small blind [$0.01]
+bigstahli posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+bigstahli calls [$0.04]
+** Dealing flop ** [ Jc, 2c, 9d ]
+bigstahli checks
+zukalek bets [$0.06]
+bigstahli folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.12 ]
+
+
+#Game No : 608158090
+***** 888poker Hand History for Game 608158090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:15:44
+Table Porto 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2.23 )
+Seat 6: bigstahli ( $1.97 )
+bigstahli posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+bigstahli raises [$0.05]
+zukalek calls [$0.04]
+** Dealing flop ** [ Jc, Kc, 3s ]
+zukalek checks
+bigstahli bets [$0.06]
+zukalek calls [$0.06]
+** Dealing turn ** [ Ts ]
+zukalek checks
+bigstahli checks
+** Dealing river ** [ 8c ]
+zukalek checks
+bigstahli checks
+** Summary **
+zukalek shows [ Jd, Ah ]
+bigstahli shows [ 9h, Ks ]
+bigstahli collected [ $0.23 ]
+
+
+#Game No : 608158288
+***** 888poker Hand History for Game 608158288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:26:10
+Table Porto 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $1.72 )
+Seat 5: zukalek ( $2.25 )
+zukalek posts small blind [$0.01]
+BLUBOTA posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BLUBOTA collected [ $0.03 ]
+
+
+#Game No : 608158292
+***** 888poker Hand History for Game 608158292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:26:25
+Table Porto 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $1.73 )
+Seat 5: zukalek ( $2.24 )
+BLUBOTA posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BLUBOTA folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.03 ]
+
+
+#Game No : 608158296
+***** 888poker Hand History for Game 608158296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:26:36
+Table Porto 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $1.72 )
+Seat 5: zukalek ( $2.25 )
+zukalek posts small blind [$0.01]
+BLUBOTA posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BLUBOTA did not show his hand
+BLUBOTA collected [ $0.03 ]
+
+
+#Game No : 608158299
+***** 888poker Hand History for Game 608158299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:26:46
+Table Porto 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $1.73 )
+Seat 5: zukalek ( $2.24 )
+BLUBOTA posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BLUBOTA calls [$0.01]
+zukalek checks
+** Dealing flop ** [ Kh, 7d, 8h ]
+zukalek checks
+BLUBOTA checks
+** Dealing turn ** [ 4d ]
+zukalek checks
+BLUBOTA checks
+** Dealing river ** [ Qd ]
+zukalek checks
+BLUBOTA checks
+** Summary **
+zukalek shows [ Ac, 5h ]
+BLUBOTA shows [ 7c, 6c ]
+BLUBOTA collected [ $0.04 ]
+
+
+#Game No : 608158315
+***** 888poker Hand History for Game 608158315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:27:55
+Table Porto 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $1.75 )
+Seat 5: zukalek ( $2.22 )
+zukalek posts small blind [$0.01]
+BLUBOTA posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BLUBOTA did not show his hand
+BLUBOTA collected [ $0.03 ]
+
+
+#Game No : 608158319
+***** 888poker Hand History for Game 608158319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:28:00
+Table Porto 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $1.76 )
+Seat 5: zukalek ( $2.21 )
+BLUBOTA posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BLUBOTA folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.03 ]
+
+
+#Game No : 608158322
+***** 888poker Hand History for Game 608158322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:28:10
+Table Porto 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $1.75 )
+Seat 5: zukalek ( $2.22 )
+zukalek posts small blind [$0.01]
+BLUBOTA posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BLUBOTA did not show his hand
+BLUBOTA collected [ $0.03 ]
+
+
+#Game No : 608158324
+***** 888poker Hand History for Game 608158324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 22:28:16
+Table Porto 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $1.76 )
+Seat 5: zukalek ( $2.21 )
+BLUBOTA posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BLUBOTA calls [$0.01]
+zukalek raises [$0.06]
+BLUBOTA calls [$0.06]
+** Dealing flop ** [ 7s, Jc, 5d ]
+zukalek checks
+BLUBOTA checks
+** Dealing turn ** [ 9s ]
+zukalek bets [$0.08]
+BLUBOTA folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.15 ]
+
+

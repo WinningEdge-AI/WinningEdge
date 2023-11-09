@@ -1,0 +1,768 @@
+#Game No : 613017467
+***** 888poker Hand History for Game 613017467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 19:43:29
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $0.96 )
+Seat 4: _SolidBase_ ( $1.04 )
+_SolidBase_ posts small blind [$0.01]
+Jamin1819 posts big blind [$0.02]
+** Dealing down cards **
+_SolidBase_ raises [$0.03]
+Jamin1819 calls [$0.02]
+** Dealing flop ** [ 5d, 2s, 8h ]
+Jamin1819 checks
+_SolidBase_ bets [$0.04]
+Jamin1819 calls [$0.04]
+** Dealing turn ** [ 6s ]
+Jamin1819 checks
+_SolidBase_ bets [$0.04]
+Jamin1819 calls [$0.04]
+** Dealing river ** [ 6h ]
+Jamin1819 checks
+_SolidBase_ bets [$0.08]
+Jamin1819 folds
+** Summary **
+_SolidBase_ collected [ $0.23 ]
+
+
+#Game No : 613017485
+***** 888poker Hand History for Game 613017485 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 19:43:57
+Table Castanhal 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $0.84 )
+Seat 4: _SolidBase_ ( $1.15 )
+Jamin1819 posts small blind [$0.01]
+_SolidBase_ posts big blind [$0.02]
+** Dealing down cards **
+Jamin1819 calls [$0.01]
+_SolidBase_ checks
+** Dealing flop ** [ 3s, 6d, 3c ]
+_SolidBase_ checks
+Jamin1819 checks
+** Dealing turn ** [ 7h ]
+_SolidBase_ checks
+Jamin1819 checks
+** Dealing river ** [ Qd ]
+_SolidBase_ checks
+Jamin1819 bets [$0.06]
+_SolidBase_ folds
+** Summary **
+Jamin1819 collected [ $0.04 ]
+
+
+#Game No : 613017787
+***** 888poker Hand History for Game 613017787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 19:55:58
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $1.33 )
+Seat 4: _SolidBase_ ( $1.06 )
+_SolidBase_ posts small blind [$0.01]
+Jamin1819 posts big blind [$0.02]
+** Dealing down cards **
+_SolidBase_ raises [$0.03]
+Jamin1819 calls [$0.02]
+** Dealing flop ** [ Jd, 6h, Kh ]
+Jamin1819 checks
+_SolidBase_ checks
+** Dealing turn ** [ Ts ]
+Jamin1819 checks
+_SolidBase_ checks
+** Dealing river ** [ 9h ]
+Jamin1819 checks
+_SolidBase_ checks
+** Summary **
+Jamin1819 shows [ 3c, 6d ]
+_SolidBase_ shows [ 9c, 8d ]
+_SolidBase_ collected [ $0.08 ]
+
+
+#Game No : 613017898
+***** 888poker Hand History for Game 613017898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 20:01:28
+Table Castanhal 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $1.12 )
+Seat 4: _SolidBase_ ( $1.18 )
+Jamin1819 posts small blind [$0.01]
+_SolidBase_ posts big blind [$0.02]
+** Dealing down cards **
+Jamin1819 folds
+** Summary **
+_SolidBase_ collected [ $0.03 ]
+
+
+#Game No : 613017901
+***** 888poker Hand History for Game 613017901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 20:01:34
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $1.11 )
+Seat 4: _SolidBase_ ( $1.19 )
+_SolidBase_ posts small blind [$0.01]
+Jamin1819 posts big blind [$0.02]
+** Dealing down cards **
+_SolidBase_ calls [$0.01]
+Jamin1819 checks
+** Dealing flop ** [ Kh, 8d, Qc ]
+Jamin1819 checks
+_SolidBase_ bets [$0.02]
+Jamin1819 calls [$0.02]
+** Dealing turn ** [ 9c ]
+Jamin1819 checks
+_SolidBase_ checks
+** Dealing river ** [ 5c ]
+Jamin1819 bets [$0.10]
+_SolidBase_ folds
+** Summary **
+Jamin1819 did not show his hand
+Jamin1819 collected [ $0.08 ]
+
+
+#Game No : 613017907
+***** 888poker Hand History for Game 613017907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 20:02:01
+Table Castanhal 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $1.15 )
+Seat 4: _SolidBase_ ( $1.15 )
+Jamin1819 posts small blind [$0.01]
+_SolidBase_ posts big blind [$0.02]
+** Dealing down cards **
+Jamin1819 calls [$0.01]
+_SolidBase_ checks
+** Dealing flop ** [ Qc, Ts, 5s ]
+_SolidBase_ checks
+Jamin1819 checks
+** Dealing turn ** [ Jd ]
+_SolidBase_ bets [$0.04]
+Jamin1819 calls [$0.04]
+** Dealing river ** [ 7c ]
+_SolidBase_ checks
+Jamin1819 bets [$0.06]
+_SolidBase_ calls [$0.06]
+** Summary **
+Jamin1819 shows [ 9s, Qs ]
+_SolidBase_ mucks [ 8s, Qd ]
+Jamin1819 collected [ $0.23 ]
+
+
+#Game No : 613017916
+***** 888poker Hand History for Game 613017916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 20:02:29
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $1.26 )
+Seat 4: _SolidBase_ ( $1.03 )
+_SolidBase_ posts small blind [$0.01]
+Jamin1819 posts big blind [$0.02]
+** Dealing down cards **
+_SolidBase_ folds
+** Summary **
+Jamin1819 did not show his hand
+Jamin1819 collected [ $0.03 ]
+
+
+#Game No : 613017919
+***** 888poker Hand History for Game 613017919 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 20:02:35
+Table Castanhal 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $1.27 )
+Seat 4: _SolidBase_ ( $1.02 )
+Jamin1819 posts small blind [$0.01]
+_SolidBase_ posts big blind [$0.02]
+** Dealing down cards **
+Jamin1819 calls [$0.01]
+_SolidBase_ raises [$0.04]
+Jamin1819 calls [$0.04]
+** Dealing flop ** [ Qc, Jd, Tc ]
+_SolidBase_ bets [$0.06]
+Jamin1819 calls [$0.06]
+** Dealing turn ** [ 6h ]
+_SolidBase_ bets [$0.08]
+Jamin1819 calls [$0.08]
+** Dealing river ** [ Qd ]
+_SolidBase_ checks
+Jamin1819 checks
+** Summary **
+_SolidBase_ shows [ Ac, 7c ]
+Jamin1819 shows [ Jc, 4c ]
+Jamin1819 collected [ $0.38 ]
+
+
+#Game No : 613017987
+***** 888poker Hand History for Game 613017987 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 20:07:08
+Table Castanhal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $1.41 )
+Seat 6: LukiFishka07 ( $1.09 )
+LukiFishka07 posts small blind [$0.01]
+Jamin1819 posts big blind [$0.02]
+** Dealing down cards **
+LukiFishka07 calls [$0.01]
+Jamin1819 checks
+** Dealing flop ** [ 8s, Js, 9h ]
+Jamin1819 checks
+LukiFishka07 checks
+** Dealing turn ** [ Jd ]
+Jamin1819 checks
+LukiFishka07 checks
+** Dealing river ** [ Kd ]
+Jamin1819 checks
+LukiFishka07 checks
+** Summary **
+Jamin1819 shows [ Th, 6h ]
+LukiFishka07 mucks [ 3c, 7c ]
+Jamin1819 collected [ $0.04 ]
+
+
+#Game No : 613019635
+***** 888poker Hand History for Game 613019635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 21:34:30
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Valde26 ( $0.94 )
+Seat 7: rustaman76 ( $1.29 )
+rustaman76 posts small blind [$0.01]
+Valde26 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+Valde26 calls [$0.02]
+** Dealing flop ** [ 8s, 5d, 2s ]
+Valde26 bets [$0.02]
+rustaman76 calls [$0.02]
+** Dealing turn ** [ 8h ]
+Valde26 bets [$0.08]
+rustaman76 folds
+** Summary **
+Valde26 collected [ $0.12 ]
+
+
+#Game No : 613019646
+***** 888poker Hand History for Game 613019646 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 21:35:17
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $0.94 )
+Seat 7: rustaman76 ( $1.29 )
+rustaman76 posts small blind [$0.01]
+Jamin1819 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 folds
+** Summary **
+Jamin1819 collected [ $0.03 ]
+
+
+#Game No : 613019651
+***** 888poker Hand History for Game 613019651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 21:35:29
+Table Castanhal 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $0.95 )
+Seat 7: rustaman76 ( $1.28 )
+Jamin1819 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+Jamin1819 calls [$0.01]
+rustaman76 checks
+** Dealing flop ** [ Ts, 3h, 7d ]
+rustaman76 bets [$0.04]
+Jamin1819 calls [$0.04]
+** Dealing turn ** [ Kc ]
+rustaman76 bets [$0.08]
+Jamin1819 calls [$0.08]
+** Dealing river ** [ 3c ]
+rustaman76 bets [$0.18]
+Jamin1819 calls [$0.18]
+** Summary **
+rustaman76 shows [ Td, 8h ]
+Jamin1819 shows [ Ks, Ac ]
+Jamin1819 collected [ $0.60 ]
+
+
+#Game No : 613019659
+***** 888poker Hand History for Game 613019659 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 21:36:21
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Jamin1819 ( $1.23 )
+Seat 7: rustaman76 ( $1 )
+rustaman76 posts small blind [$0.01]
+Jamin1819 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+Jamin1819 calls [$0.02]
+** Dealing flop ** [ Qd, 8d, 4h ]
+Jamin1819 checks
+rustaman76 checks
+** Dealing turn ** [ 5h ]
+Jamin1819 checks
+rustaman76 bets [$0.08]
+Jamin1819 calls [$0.08]
+** Dealing river ** [ 5d ]
+Jamin1819 checks
+rustaman76 checks
+** Summary **
+Jamin1819 shows [ Ah, 7h ]
+rustaman76 mucks [ Kh, Th ]
+Jamin1819 collected [ $0.23 ]
+
+
+#Game No : 613023178
+***** 888poker Hand History for Game 613023178 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 01:13:39
+Table Castanhal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: 11vrb11 ( $2.03 )
+Seat 7: zlqing ( $0.94 )
+11vrb11 posts small blind [$0.01]
+zlqing posts big blind [$0.02]
+** Dealing down cards **
+11vrb11 raises [$0.05]
+zlqing folds
+** Summary **
+11vrb11 collected [ $0.04 ]
+
+
+#Game No : 613023183
+***** 888poker Hand History for Game 613023183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 01:13:59
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: 11vrb11 ( $2.05 )
+Seat 7: zlqing ( $0.92 )
+zlqing posts small blind [$0.01]
+** Dealing down cards **
+11vrb11 folds
+** Summary **
+zlqing collected [ $0.01 ]
+
+
+#Game No : 613023185
+***** 888poker Hand History for Game 613023185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 01:14:03
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: zlqing ( $0.92 )
+Seat 9: Vanhelsing36 ( $0.80 )
+zlqing posts small blind [$0.01]
+Vanhelsing36 posts big blind [$0.02]
+** Dealing down cards **
+zlqing raises [$0.05]
+Vanhelsing36 calls [$0.04]
+** Dealing flop ** [ 9h, Ac, 9c ]
+Vanhelsing36 checks
+zlqing bets [$0.06]
+Vanhelsing36 calls [$0.06]
+** Dealing turn ** [ Td ]
+Vanhelsing36 checks
+zlqing bets [$0.12]
+Vanhelsing36 raises [$0.30]
+zlqing calls [$0.18]
+** Dealing river ** [ 8d ]
+Vanhelsing36 bets [$0.38]
+zlqing folds
+** Summary **
+Vanhelsing36 collected [ $0.79 ]
+
+
+#Game No : 613023217
+***** 888poker Hand History for Game 613023217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 01:15:57
+Table Castanhal 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: zlqing ( $0.50 )
+Seat 9: Vanhelsing36 ( $1.17 )
+Vanhelsing36 posts small blind [$0.01]
+zlqing posts big blind [$0.02]
+** Dealing down cards **
+Vanhelsing36 calls [$0.01]
+zlqing checks
+** Dealing flop ** [ Jh, 8h, Qh ]
+zlqing checks
+Vanhelsing36 checks
+** Dealing turn ** [ 5d ]
+zlqing checks
+Vanhelsing36 bets [$0.04]
+zlqing folds
+** Summary **
+Vanhelsing36 collected [ $0.04 ]
+
+
+#Game No : 613023956
+***** 888poker Hand History for Game 613023956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 01:48:19
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Folk_ ( $0.91 )
+Seat 7: Andoverfists ( $0.98 )
+Andoverfists posts small blind [$0.01]
+Folk_ posts big blind [$0.02]
+** Dealing down cards **
+Andoverfists raises [$0.03]
+Folk_ folds
+** Summary **
+Andoverfists collected [ $0.04 ]
+
+
+#Game No : 613027662
+***** 888poker Hand History for Game 613027662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 04:00:53
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mantikaman ( $1.04 )
+Seat 7: Andoverfists ( $1 )
+Andoverfists posts small blind [$0.01]
+Mantikaman posts big blind [$0.02]
+** Dealing down cards **
+Andoverfists folds
+** Summary **
+Mantikaman did not show his hand
+Mantikaman collected [ $0.03 ]
+
+
+#Game No : 613027667
+***** 888poker Hand History for Game 613027667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 04:01:00
+Table Castanhal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mantikaman ( $1.05 )
+Seat 7: Andoverfists ( $1 )
+Mantikaman posts small blind [$0.01]
+Andoverfists posts big blind [$0.02]
+** Dealing down cards **
+Mantikaman raises [$0.05]
+Andoverfists folds
+** Summary **
+Mantikaman collected [ $0.04 ]
+
+
+#Game No : 613027670
+***** 888poker Hand History for Game 613027670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 04:01:14
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mantikaman ( $1.07 )
+Seat 7: Andoverfists ( $1 )
+Andoverfists posts small blind [$0.01]
+Mantikaman posts big blind [$0.02]
+** Dealing down cards **
+Andoverfists folds
+** Summary **
+Mantikaman collected [ $0.03 ]
+
+
+#Game No : 613038843
+***** 888poker Hand History for Game 613038843 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 08:50:34
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kamchoud ( $1 )
+Seat 6: Nemchenko36 ( $0.80 )
+Kamchoud posts small blind [$0.01]
+Nemchenko36 posts big blind [$0.02]
+** Dealing down cards **
+Kamchoud raises [$0.03]
+Nemchenko36 calls [$0.02]
+** Dealing flop ** [ Qd, Jc, Js ]
+Nemchenko36 checks
+Kamchoud bets [$0.08]
+Nemchenko36 folds
+** Summary **
+Kamchoud collected [ $0.08 ]
+
+
+#Game No : 613038881
+***** 888poker Hand History for Game 613038881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 08:51:14
+Table Castanhal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Kamchoud ( $1.04 )
+Seat 6: Nemchenko36 ( $0.76 )
+Nemchenko36 posts small blind [$0.01]
+Kamchoud posts big blind [$0.02]
+** Dealing down cards **
+Nemchenko36 raises [$0.05]
+Kamchoud raises [$0.08]
+Nemchenko36 calls [$0.04]
+** Dealing flop ** [ 7c, 5c, 2d ]
+Kamchoud bets [$0.20]
+Nemchenko36 folds
+** Summary **
+Kamchoud collected [ $0.19 ]
+
+
+#Game No : 613042184
+***** 888poker Hand History for Game 613042184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 09:49:18
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kamchoud ( $1.66 )
+Seat 9: VSalukov ( $1.38 )
+Kamchoud posts small blind [$0.01]
+VSalukov posts big blind [$0.02]
+** Dealing down cards **
+Kamchoud raises [$0.03]
+VSalukov calls [$0.02]
+** Dealing flop ** [ 5s, 6c, Td ]
+VSalukov bets [$0.02]
+Kamchoud calls [$0.02]
+** Dealing turn ** [ 7c ]
+VSalukov bets [$0.12]
+Kamchoud folds
+** Summary **
+VSalukov collected [ $0.12 ]
+
+
+#Game No : 613045485
+***** 888poker Hand History for Game 613045485 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 10:46:01
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: bluebird917 ( $1.07 )
+Seat 7: ALEXander403 ( $2.55 )
+bluebird917 posts small blind [$0.01]
+ALEXander403 posts big blind [$0.02]
+** Dealing down cards **
+bluebird917 folds
+** Summary **
+ALEXander403 collected [ $0.03 ]
+
+
+#Game No : 613045514
+***** 888poker Hand History for Game 613045514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 10:46:30
+Table Castanhal 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ALEXander403 ( $2.56 )
+Seat 9: Der3kiy ( $0.80 )
+Der3kiy posts small blind [$0.01]
+ALEXander403 posts big blind [$0.02]
+** Dealing down cards **
+Der3kiy calls [$0.01]
+ALEXander403 checks
+** Dealing flop ** [ Ts, 8d, Ah ]
+ALEXander403 bets [$0.02]
+Der3kiy calls [$0.02]
+** Dealing turn ** [ Qd ]
+ALEXander403 bets [$0.02]
+Der3kiy calls [$0.02]
+** Dealing river ** [ Jd ]
+ALEXander403 checks
+Der3kiy bets [$0.46]
+ALEXander403 folds
+** Summary **
+Der3kiy collected [ $0.12 ]
+
+
+#Game No : 613054161
+***** 888poker Hand History for Game 613054161 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 13:11:38
+Table Castanhal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.05 )
+Seat 6: russi01 ( $0.85 )
+russi01 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+russi01 raises [$0.04]
+vip.chapaev folds
+** Summary **
+russi01 collected [ $0.04 ]
+
+
+#Game No : 613054180
+***** 888poker Hand History for Game 613054180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 13:11:51
+Table Castanhal 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.03 )
+Seat 6: russi01 ( $0.87 )
+vip.chapaev posts small blind [$0.01]
+russi01 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev folds
+** Summary **
+russi01 collected [ $0.03 ]
+
+
+#Game No : 613054185
+***** 888poker Hand History for Game 613054185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 13:11:56
+Table Castanhal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: pojaba1111 ( $1 )
+Seat 6: russi01 ( $0.88 )
+russi01 posts small blind [$0.01]
+pojaba1111 posts big blind [$0.02]
+** Dealing down cards **
+russi01 folds
+** Summary **
+pojaba1111 collected [ $0.03 ]
+
+
+#Game No : 613055070
+***** 888poker Hand History for Game 613055070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 13:27:22
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pojaba1111 ( $1.53 )
+Seat 6: russi01 ( $2.47 )
+pojaba1111 posts small blind [$0.01]
+russi01 posts big blind [$0.02]
+** Dealing down cards **
+pojaba1111 folds
+** Summary **
+russi01 collected [ $0.03 ]
+
+
+#Game No : 613055075
+***** 888poker Hand History for Game 613055075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 13:27:26
+Table Castanhal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: pojaba1111 ( $1.52 )
+Seat 6: russi01 ( $2.48 )
+russi01 posts small blind [$0.01]
+pojaba1111 posts big blind [$0.02]
+** Dealing down cards **
+russi01 folds
+** Summary **
+pojaba1111 collected [ $0.03 ]
+
+
+#Game No : 613055082
+***** 888poker Hand History for Game 613055082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 13:27:32
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pojaba1111 ( $1.53 )
+Seat 6: russi01 ( $2.47 )
+pojaba1111 posts small blind [$0.01]
+russi01 posts big blind [$0.02]
+** Dealing down cards **
+pojaba1111 folds
+** Summary **
+russi01 collected [ $0.03 ]
+
+
+#Game No : 613055090
+***** 888poker Hand History for Game 613055090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 13:27:38
+Table Castanhal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: pojaba1111 ( $1.52 )
+Seat 6: russi01 ( $2.48 )
+russi01 posts small blind [$0.01]
+pojaba1111 posts big blind [$0.02]
+** Dealing down cards **
+russi01 raises [$0.04]
+pojaba1111 raises [$0.15]
+russi01 folds
+** Summary **
+pojaba1111 collected [ $0.10 ]
+
+
+#Game No : 613059139
+***** 888poker Hand History for Game 613059139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 14:39:18
+Table Castanhal 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tinyfish711 ( $1.67 )
+Seat 9: ya_ladyshki ( $1.10 )
+tinyfish711 posts small blind [$0.01]
+ya_ladyshki posts big blind [$0.02]
+** Dealing down cards **
+tinyfish711 folds
+** Summary **
+ya_ladyshki collected [ $0.03 ]
+
+
+#Game No : 613059151
+***** 888poker Hand History for Game 613059151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 14:39:30
+Table Castanhal 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: tinyfish711 ( $1.66 )
+Seat 9: ya_ladyshki ( $1.11 )
+ya_ladyshki posts small blind [$0.01]
+tinyfish711 posts big blind [$0.02]
+** Dealing down cards **
+ya_ladyshki folds
+** Summary **
+tinyfish711 did not show his hand
+tinyfish711 collected [ $0.03 ]
+
+
+#Game No : 613059228
+***** 888poker Hand History for Game 613059228 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 14:40:35
+Table Castanhal 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tinyfish711 ( $1.67 )
+Seat 7: eddio11 ( $0.80 )
+tinyfish711 posts small blind [$0.01]
+eddio11 posts big blind [$0.02]
+** Dealing down cards **
+tinyfish711 folds
+** Summary **
+eddio11 did not show his hand
+eddio11 collected [ $0.03 ]
+
+
+#Game No : 613059239
+***** 888poker Hand History for Game 613059239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 14:40:40
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: tinyfish711 ( $1.66 )
+Seat 7: eddio11 ( $0.81 )
+eddio11 posts small blind [$0.01]
+** Dealing down cards **
+tinyfish711 folds
+** Summary **
+eddio11 did not show his hand
+eddio11 collected [ $0.01 ]
+
+

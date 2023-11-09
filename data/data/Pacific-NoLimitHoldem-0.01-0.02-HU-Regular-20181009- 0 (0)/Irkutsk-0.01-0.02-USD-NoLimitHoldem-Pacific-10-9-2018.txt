@@ -1,0 +1,76 @@
+#Game No : 456246385
+***** 888poker Hand History for Game 456246385 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 16:17:44
+Table Irkutsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: NNNddd111 ( $3.87 )
+Seat 7: Kolfen ( $2.50 )
+NNNddd111 posts small blind [$0.01]
+Kolfen posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 folds
+** Summary **
+Kolfen collected [ $0.03 ]
+
+
+#Game No : 456246721
+***** 888poker Hand History for Game 456246721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 16:30:54
+Table Irkutsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: NNNddd111 ( $3.66 )
+Seat 6: zakovichy ( $1.48 )
+NNNddd111 posts small blind [$0.01]
+zakovichy posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 calls [$0.01]
+zakovichy checks
+** Dealing flop ** [ 7s, Tc, As ]
+zakovichy checks
+NNNddd111 checks
+** Dealing turn ** [ 8h ]
+zakovichy checks
+NNNddd111 checks
+** Dealing river ** [ 9h ]
+zakovichy checks
+NNNddd111 checks
+** Summary **
+zakovichy shows [ 9c, 4s ]
+NNNddd111 mucks [ 5s, Qc ]
+zakovichy collected [ $0.04 ]
+
+
+#Game No : 456246870
+***** 888poker Hand History for Game 456246870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 16:36:08
+Table Irkutsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Der_Oskar ( $1.76 )
+Seat 7: Kobe24LSB ( $2 )
+Der_Oskar posts small blind [$0.01]
+Kobe24LSB posts big blind [$0.02]
+** Dealing down cards **
+Der_Oskar folds
+** Summary **
+Kobe24LSB collected [ $0.03 ]
+
+
+#Game No : 456246874
+***** 888poker Hand History for Game 456246874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 16:36:13
+Table Irkutsk 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: Der_Oskar ( $1.75 )
+Seat 7: Kobe24LSB ( $2.01 )
+Kobe24LSB posts small blind [$0.01]
+Der_Oskar posts big blind [$0.02]
+** Dealing down cards **
+Kobe24LSB folds
+** Summary **
+Der_Oskar collected [ $0.03 ]
+
+

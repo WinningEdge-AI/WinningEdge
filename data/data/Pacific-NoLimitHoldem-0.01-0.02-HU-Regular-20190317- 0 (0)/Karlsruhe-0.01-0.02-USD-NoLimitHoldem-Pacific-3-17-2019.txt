@@ -1,0 +1,111 @@
+#Game No : 617358454
+***** 888poker Hand History for Game 617358454 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 01:30:49
+Table Karlsruhe 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: LZ7Pz ( $1.09 )
+Seat 6: droldi ( $1.47 )
+droldi posts small blind [$0.01]
+LZ7Pz posts big blind [$0.02]
+** Dealing down cards **
+droldi calls [$0.01]
+LZ7Pz checks
+** Dealing flop ** [ 6c, 2d, 8d ]
+LZ7Pz bets [$0.02]
+droldi calls [$0.02]
+** Dealing turn ** [ 9d ]
+LZ7Pz checks
+droldi checks
+** Dealing river ** [ 7h ]
+LZ7Pz bets [$0.02]
+droldi calls [$0.02]
+** Summary **
+LZ7Pz shows [ 7s, Ks ]
+droldi shows [ 5h, 4h ]
+droldi collected [ $0.12 ]
+
+
+#Game No : 617360820
+***** 888poker Hand History for Game 617360820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 02:59:02
+Table Karlsruhe 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: HiddenSoul ( $2.46 )
+Seat 4: crosbytheleg ( $0.43 )
+HiddenSoul posts small blind [$0.01]
+crosbytheleg posts big blind [$0.02]
+** Dealing down cards **
+HiddenSoul folds
+** Summary **
+crosbytheleg collected [ $0.03 ]
+
+
+#Game No : 617360821
+***** 888poker Hand History for Game 617360821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 02:59:08
+Table Karlsruhe 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: HiddenSoul ( $2.45 )
+Seat 4: crosbytheleg ( $0.44 )
+crosbytheleg posts small blind [$0.01]
+HiddenSoul posts big blind [$0.02]
+** Dealing down cards **
+crosbytheleg calls [$0.01]
+HiddenSoul checks
+** Dealing flop ** [ 7d, Kd, Ts ]
+HiddenSoul checks
+crosbytheleg bets [$0.02]
+HiddenSoul folds
+** Summary **
+crosbytheleg collected [ $0.04 ]
+
+
+#Game No : 617360834
+***** 888poker Hand History for Game 617360834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 02:59:38
+Table Karlsruhe 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: HiddenSoul ( $2.43 )
+Seat 4: crosbytheleg ( $0.46 )
+HiddenSoul posts small blind [$0.01]
+crosbytheleg posts big blind [$0.02]
+** Dealing down cards **
+HiddenSoul folds
+** Summary **
+crosbytheleg collected [ $0.03 ]
+
+
+#Game No : 617360840
+***** 888poker Hand History for Game 617360840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 02:59:43
+Table Karlsruhe 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: HiddenSoul ( $2.42 )
+Seat 4: crosbytheleg ( $0.47 )
+crosbytheleg posts small blind [$0.01]
+HiddenSoul posts big blind [$0.02]
+** Dealing down cards **
+crosbytheleg calls [$0.01]
+HiddenSoul checks
+** Dealing flop ** [ Td, Qc, Ac ]
+HiddenSoul checks
+crosbytheleg bets [$0.02]
+HiddenSoul calls [$0.02]
+** Dealing turn ** [ 8s ]
+HiddenSoul checks
+crosbytheleg bets [$0.04]
+HiddenSoul calls [$0.04]
+** Dealing river ** [ 2h ]
+HiddenSoul checks
+crosbytheleg checks
+** Summary **
+HiddenSoul shows [ Ad, 2c ]
+crosbytheleg mucks [ Qd, 6c ]
+HiddenSoul collected [ $0.15 ]
+
+

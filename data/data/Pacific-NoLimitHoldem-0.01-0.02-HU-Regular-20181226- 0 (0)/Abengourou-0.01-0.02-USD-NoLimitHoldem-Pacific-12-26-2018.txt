@@ -1,0 +1,727 @@
+#Game No : 1234572744
+***** 888poker Hand History for Game 1234572744 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:38:40
+Table Abengourou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: mikeOmike ( $0.82 )
+Seat 4: eehhO ( $2 )
+eehhO posts small blind [$0.01]
+mikeOmike posts big blind [$0.02]
+** Dealing down cards **
+eehhO raises [$0.05]
+mikeOmike folds
+** Summary **
+eehhO collected [ $0.04 ]
+
+
+#Game No : 1234572782
+***** 888poker Hand History for Game 1234572782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:38:52
+Table Abengourou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mikeOmike ( $0.80 )
+Seat 4: eehhO ( $2.02 )
+mikeOmike posts small blind [$0.01]
+** Dealing down cards **
+eehhO folds
+** Summary **
+mikeOmike collected [ $0.01 ]
+
+
+#Game No : 1234575797
+***** 888poker Hand History for Game 1234575797 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:57:21
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.78 )
+Seat 10: gthncx ( $1.40 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 raises [$0.05]
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.04 ]
+
+
+#Game No : 1234575830
+***** 888poker Hand History for Game 1234575830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:57:33
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.80 )
+Seat 10: gthncx ( $1.38 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 raises [$0.04]
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.04 ]
+
+
+#Game No : 1234575888
+***** 888poker Hand History for Game 1234575888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:57:54
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.82 )
+Seat 10: gthncx ( $1.36 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.03 ]
+
+
+#Game No : 1234575906
+***** 888poker Hand History for Game 1234575906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:58:00
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.81 )
+Seat 10: gthncx ( $1.37 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 raises [$0.02]
+gthncx calls [$0.02]
+** Dealing flop ** [ 3s, 5s, Js ]
+ElTurco24 bets [$0.05]
+gthncx calls [$0.05]
+** Dealing turn ** [ 9h ]
+ElTurco24 checks
+gthncx checks
+** Dealing river ** [ 8d ]
+ElTurco24 bets [$0.09]
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.17 ]
+
+
+#Game No : 1234576061
+***** 888poker Hand History for Game 1234576061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:59:01
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.89 )
+Seat 10: gthncx ( $1.28 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 raises [$0.03]
+gthncx calls [$0.02]
+** Dealing flop ** [ Tc, Qc, 4d ]
+gthncx checks
+ElTurco24 checks
+** Dealing turn ** [ Kd ]
+gthncx checks
+ElTurco24 checks
+** Dealing river ** [ 9d ]
+gthncx checks
+ElTurco24 checks
+** Summary **
+gthncx shows [ 7h, 8h ]
+ElTurco24 shows [ Ah, 5s ]
+ElTurco24 collected [ $0.08 ]
+
+
+#Game No : 1234576150
+***** 888poker Hand History for Game 1234576150 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:59:36
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.93 )
+Seat 10: gthncx ( $1.24 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 checks
+** Dealing flop ** [ 7s, 4c, 7h ]
+ElTurco24 checks
+gthncx bets [$0.02]
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.04 ]
+
+
+#Game No : 1234576219
+***** 888poker Hand History for Game 1234576219 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:59:59
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.91 )
+Seat 10: gthncx ( $1.26 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 calls [$0.01]
+gthncx checks
+** Dealing flop ** [ Ad, Qh, 2c ]
+gthncx bets [$0.02]
+ElTurco24 raises [$0.06]
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.08 ]
+
+
+#Game No : 1234576379
+***** 888poker Hand History for Game 1234576379 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:00:56
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.95 )
+Seat 10: gthncx ( $1.22 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 checks
+** Dealing flop ** [ Jd, 2c, Ad ]
+ElTurco24 checks
+gthncx bets [$0.02]
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.04 ]
+
+
+#Game No : 1234576426
+***** 888poker Hand History for Game 1234576426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:01:15
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.93 )
+Seat 10: gthncx ( $1.24 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 raises [$0.03]
+gthncx calls [$0.02]
+** Dealing flop ** [ 5c, 7s, Kd ]
+gthncx bets [$0.02]
+ElTurco24 raises [$0.08]
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.12 ]
+
+
+#Game No : 1234576505
+***** 888poker Hand History for Game 1234576505 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:01:46
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $1.99 )
+Seat 10: gthncx ( $1.18 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 raises [$0.04]
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.04 ]
+
+
+#Game No : 1234576569
+***** 888poker Hand History for Game 1234576569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:02:14
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.01 )
+Seat 10: gthncx ( $1.16 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 raises [$0.05]
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.04 ]
+
+
+#Game No : 1234576604
+***** 888poker Hand History for Game 1234576604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:02:29
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.03 )
+Seat 10: gthncx ( $1.14 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 checks
+** Dealing flop ** [ 5s, 2d, Kc ]
+ElTurco24 checks
+gthncx checks
+** Dealing turn ** [ 4s ]
+ElTurco24 bets [$0.04]
+gthncx calls [$0.04]
+** Dealing river ** [ Qd ]
+ElTurco24 bets [$0.08]
+gthncx calls [$0.08]
+** Summary **
+ElTurco24 shows [ Kd, 4d ]
+gthncx mucks [ Kh, 3d ]
+ElTurco24 collected [ $0.27 ]
+
+
+#Game No : 1234576683
+***** 888poker Hand History for Game 1234576683 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:03:01
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.16 )
+Seat 10: gthncx ( $1 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 raises [$0.03]
+gthncx calls [$0.02]
+** Dealing flop ** [ 6d, 5s, Td ]
+gthncx checks
+ElTurco24 bets [$0.05]
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.08 ]
+
+
+#Game No : 1234576742
+***** 888poker Hand History for Game 1234576742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:03:21
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.20 )
+Seat 10: gthncx ( $0.96 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.03 ]
+
+
+#Game No : 1234576752
+***** 888poker Hand History for Game 1234576752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:03:27
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.21 )
+Seat 10: gthncx ( $0.95 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.03 ]
+
+
+#Game No : 1234576767
+***** 888poker Hand History for Game 1234576767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:03:33
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.20 )
+Seat 10: gthncx ( $0.96 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 checks
+** Dealing flop ** [ Jc, Th, Kh ]
+ElTurco24 checks
+gthncx checks
+** Dealing turn ** [ Ts ]
+ElTurco24 checks
+gthncx checks
+** Dealing river ** [ 7c ]
+ElTurco24 checks
+gthncx bets [$0.02]
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.04 ]
+
+
+#Game No : 1234576846
+***** 888poker Hand History for Game 1234576846 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:04:07
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.18 )
+Seat 10: gthncx ( $0.98 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 raises [$0.03]
+gthncx raises [$0.96]
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.08 ]
+
+
+#Game No : 1234576878
+***** 888poker Hand History for Game 1234576878 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:04:19
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.14 )
+Seat 10: gthncx ( $1.02 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 checks
+** Dealing flop ** [ 2s, Jh, 8s ]
+ElTurco24 bets [$0.04]
+gthncx calls [$0.04]
+** Dealing turn ** [ Kc ]
+ElTurco24 checks
+gthncx bets [$0.04]
+ElTurco24 calls [$0.04]
+** Dealing river ** [ 2c ]
+ElTurco24 bets [$0.08]
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.19 ]
+
+
+#Game No : 1234576997
+***** 888poker Hand History for Game 1234576997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:05:09
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.23 )
+Seat 10: gthncx ( $0.92 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 calls [$0.01]
+gthncx checks
+** Dealing flop ** [ Ts, Qh, Jd ]
+gthncx bets [$0.02]
+ElTurco24 raises [$0.06]
+gthncx calls [$0.04]
+** Dealing turn ** [ 3s ]
+gthncx checks
+ElTurco24 checks
+** Dealing river ** [ 8d ]
+gthncx checks
+ElTurco24 bets [$0.08]
+gthncx raises [$0.16]
+ElTurco24 raises [$0.30]
+gthncx calls [$0.22]
+** Summary **
+ElTurco24 shows [ 9c, Kd ]
+gthncx mucks [ Ad, 9h ]
+ElTurco24 collected [ $0.87 ]
+
+
+#Game No : 1234577149
+***** 888poker Hand History for Game 1234577149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:06:10
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.64 )
+Seat 10: gthncx ( $0.46 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 checks
+** Dealing flop ** [ 8s, 3c, Jc ]
+ElTurco24 checks
+gthncx bets [$0.44]
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.04 ]
+
+
+#Game No : 1234577235
+***** 888poker Hand History for Game 1234577235 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:06:45
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.62 )
+Seat 10: gthncx ( $0.48 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 calls [$0.01]
+gthncx checks
+** Dealing flop ** [ Ac, Tc, 7h ]
+gthncx bets [$0.02]
+ElTurco24 calls [$0.02]
+** Dealing turn ** [ Ad ]
+gthncx bets [$0.04]
+ElTurco24 calls [$0.04]
+** Dealing river ** [ Jc ]
+gthncx checks
+ElTurco24 bets [$0.06]
+gthncx calls [$0.06]
+** Summary **
+ElTurco24 shows [ 4c, Kc ]
+gthncx mucks [ Ks, 7s ]
+ElTurco24 collected [ $0.27 ]
+
+
+#Game No : 1234577336
+***** 888poker Hand History for Game 1234577336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:07:29
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.75 )
+Seat 10: gthncx ( $0.34 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx calls [$0.01]
+ElTurco24 raises [$0.04]
+gthncx calls [$0.04]
+** Dealing flop ** [ 9s, 2d, 7s ]
+ElTurco24 bets [$0.08]
+gthncx calls [$0.08]
+** Dealing turn ** [ 9c ]
+ElTurco24 checks
+gthncx checks
+** Dealing river ** [ 3d ]
+ElTurco24 checks
+gthncx bets [$0.20]
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.27 ]
+
+
+#Game No : 1234577424
+***** 888poker Hand History for Game 1234577424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:08:05
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.61 )
+Seat 10: gthncx ( $0.47 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.03 ]
+
+
+#Game No : 1234577434
+***** 888poker Hand History for Game 1234577434 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:08:10
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.60 )
+Seat 10: gthncx ( $0.48 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.03 ]
+
+
+#Game No : 1234577450
+***** 888poker Hand History for Game 1234577450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:08:17
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.61 )
+Seat 10: gthncx ( $0.47 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 calls [$0.01]
+gthncx raises [$0.45]
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.04 ]
+
+
+#Game No : 1234577483
+***** 888poker Hand History for Game 1234577483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:08:30
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.59 )
+Seat 10: gthncx ( $0.49 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx folds
+** Summary **
+ElTurco24 did not show his hand
+ElTurco24 collected [ $0.03 ]
+
+
+#Game No : 1234577500
+***** 888poker Hand History for Game 1234577500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:08:37
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.60 )
+Seat 10: gthncx ( $0.48 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.03 ]
+
+
+#Game No : 1234577518
+***** 888poker Hand History for Game 1234577518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:08:44
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.59 )
+Seat 10: gthncx ( $0.49 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx raises [$0.03]
+ElTurco24 calls [$0.02]
+** Dealing flop ** [ 5d, Tc, 5s ]
+ElTurco24 checks
+gthncx bets [$0.02]
+ElTurco24 calls [$0.02]
+** Dealing turn ** [ Kc ]
+ElTurco24 checks
+gthncx bets [$0.02]
+ElTurco24 calls [$0.02]
+** Dealing river ** [ Kh ]
+ElTurco24 checks
+gthncx checks
+** Summary **
+ElTurco24 shows [ Qh, 2c ]
+gthncx shows [ Qd, 7s ]
+gthncx collected [ $0.07 ]
+ElTurco24 collected [ $0.08 ]
+
+
+#Game No : 1234577593
+***** 888poker Hand History for Game 1234577593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:09:12
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.59 )
+Seat 10: gthncx ( $0.48 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 calls [$0.01]
+gthncx checks
+** Dealing flop ** [ 4d, 3h, 2h ]
+gthncx bets [$0.02]
+ElTurco24 raises [$0.06]
+gthncx calls [$0.04]
+** Dealing turn ** [ 9s ]
+gthncx checks
+ElTurco24 checks
+** Dealing river ** [ 6c ]
+gthncx checks
+ElTurco24 bets [$0.08]
+gthncx calls [$0.08]
+** Summary **
+ElTurco24 shows [ 3s, Ah ]
+gthncx mucks [ Ac, 2c ]
+ElTurco24 collected [ $0.30 ]
+
+
+#Game No : 1234577664
+***** 888poker Hand History for Game 1234577664 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:09:42
+Table Abengourou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.73 )
+Seat 10: gthncx ( $0.32 )
+gthncx posts small blind [$0.01]
+ElTurco24 posts big blind [$0.02]
+** Dealing down cards **
+gthncx raises [$0.31]
+ElTurco24 folds
+** Summary **
+gthncx did not show his hand
+gthncx collected [ $0.04 ]
+
+
+#Game No : 1234577685
+***** 888poker Hand History for Game 1234577685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:09:51
+Table Abengourou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ElTurco24 ( $2.71 )
+Seat 10: gthncx ( $0.34 )
+ElTurco24 posts small blind [$0.01]
+gthncx posts big blind [$0.02]
+** Dealing down cards **
+ElTurco24 calls [$0.01]
+gthncx raises [$0.32]
+ElTurco24 calls [$0.32]
+** Dealing flop ** [ Jd, Ks, Js ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ Qc ]
+** Summary **
+ElTurco24 shows [ Ts, Ah ]
+gthncx shows [ Qs, Kh ]
+ElTurco24 collected [ $0.64 ]
+
+

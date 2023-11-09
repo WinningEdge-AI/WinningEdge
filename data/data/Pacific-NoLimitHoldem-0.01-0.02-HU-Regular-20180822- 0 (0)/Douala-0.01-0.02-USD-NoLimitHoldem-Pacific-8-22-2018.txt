@@ -1,0 +1,79 @@
+#Game No : 454634494
+***** 888poker Hand History for Game 454634494 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 03:42:45
+Table Douala 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: Sergeich88 ( $0.80 )
+Seat 10: casanova136 ( $1.23 )
+casanova136 posts small blind [$0.01]
+Sergeich88 posts big blind [$0.02]
+** Dealing down cards **
+casanova136 calls [$0.01]
+Sergeich88 checks
+** Dealing flop ** [ Kc, Tc, Kd ]
+Sergeich88 checks
+casanova136 bets [$0.02]
+Sergeich88 calls [$0.02]
+** Dealing turn ** [ 5s ]
+Sergeich88 checks
+casanova136 checks
+** Dealing river ** [ 9d ]
+Sergeich88 checks
+casanova136 checks
+** Summary **
+Sergeich88 shows [ 6h, Td ]
+casanova136 mucks [ Js, 6c ]
+Sergeich88 collected [ $0.08 ]
+
+
+#Game No : 454638200
+***** 888poker Hand History for Game 454638200 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 06:41:02
+Table Douala 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dar_Gart ( $0.80 )
+Seat 4: shambalaima ( $1.88 )
+Dar_Gart posts small blind [$0.01]
+shambalaima posts big blind [$0.02]
+** Dealing down cards **
+Dar_Gart calls [$0.01]
+shambalaima checks
+** Dealing flop ** [ Jh, 3s, Qh ]
+shambalaima checks
+Dar_Gart checks
+** Dealing turn ** [ Ks ]
+shambalaima checks
+Dar_Gart bets [$0.02]
+shambalaima folds
+** Summary **
+Dar_Gart collected [ $0.04 ]
+
+
+#Game No : 454638211
+***** 888poker Hand History for Game 454638211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 06:41:25
+Table Douala 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Dar_Gart ( $0.82 )
+Seat 4: shambalaima ( $1.86 )
+shambalaima posts small blind [$0.01]
+Dar_Gart posts big blind [$0.02]
+** Dealing down cards **
+shambalaima raises [$0.03]
+Dar_Gart calls [$0.02]
+** Dealing flop ** [ 8c, Ac, 3c ]
+Dar_Gart bets [$0.02]
+shambalaima calls [$0.02]
+** Dealing turn ** [ 6c ]
+Dar_Gart bets [$0.02]
+shambalaima calls [$0.02]
+** Dealing river ** [ 8d ]
+Dar_Gart bets [$0.12]
+shambalaima folds
+** Summary **
+Dar_Gart collected [ $0.15 ]
+
+

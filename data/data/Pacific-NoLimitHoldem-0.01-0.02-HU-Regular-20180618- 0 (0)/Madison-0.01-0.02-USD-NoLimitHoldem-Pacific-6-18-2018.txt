@@ -1,0 +1,106 @@
+#Game No : 503670420
+***** 888poker Hand History for Game 503670420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2018 00:50:13
+Table Madison 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: aligatorrrr ( $2 )
+Seat 3: MeltMike ( $2 )
+aligatorrrr posts small blind [$0.01]
+MeltMike posts big blind [$0.02]
+** Dealing down cards **
+aligatorrrr calls [$0.01]
+MeltMike checks
+** Dealing flop ** [ 8s, Qd, 5s ]
+MeltMike checks
+aligatorrrr bets [$0.02]
+MeltMike folds
+** Summary **
+aligatorrrr did not show his hand
+aligatorrrr collected [ $0.04 ]
+
+
+#Game No : 503670430
+***** 888poker Hand History for Game 503670430 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2018 00:50:30
+Table Madison 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: aligatorrrr ( $2.02 )
+Seat 3: MeltMike ( $1.98 )
+MeltMike posts small blind [$0.01]
+aligatorrrr posts big blind [$0.02]
+** Dealing down cards **
+MeltMike calls [$0.01]
+aligatorrrr checks
+** Dealing flop ** [ 2d, Ks, 3c ]
+aligatorrrr checks
+MeltMike checks
+** Dealing turn ** [ 7d ]
+aligatorrrr checks
+MeltMike bets [$0.04]
+aligatorrrr folds
+** Summary **
+MeltMike collected [ $0.04 ]
+
+
+#Game No : 503670453
+***** 888poker Hand History for Game 503670453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2018 00:51:11
+Table Madison 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 3: MeltMike ( $2 )
+Seat 5: sysadmin74 ( $0.80 )
+MeltMike posts small blind [$0.01]
+sysadmin74 posts big blind [$0.02]
+** Dealing down cards **
+MeltMike raises [$0.03]
+sysadmin74 calls [$0.02]
+** Dealing flop ** [ 5s, 4c, 7s ]
+MeltMike checks
+sysadmin74 bets [$0.05]
+MeltMike calls [$0.05]
+** Dealing turn ** [ 5d ]
+MeltMike checks
+sysadmin74 bets [$0.12]
+MeltMike folds
+** Summary **
+sysadmin74 did not show his hand
+sysadmin74 collected [ $0.17 ]
+
+
+#Game No : 503671776
+***** 888poker Hand History for Game 503671776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2018 01:28:30
+Table Madison 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DaJenniPork ( $2.15 )
+Seat 2: xapek_tyt ( $1.69 )
+xapek_tyt posts small blind [$0.01]
+DaJenniPork posts big blind [$0.02]
+** Dealing down cards **
+xapek_tyt folds
+** Summary **
+DaJenniPork collected [ $0.03 ]
+
+
+#Game No : 503671784
+***** 888poker Hand History for Game 503671784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2018 01:28:43
+Table Madison 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DaJenniPork ( $2.16 )
+Seat 2: xapek_tyt ( $1.68 )
+DaJenniPork posts small blind [$0.01]
+xapek_tyt posts big blind [$0.02]
+** Dealing down cards **
+DaJenniPork raises [$0.04]
+xapek_tyt raises [$0.14]
+DaJenniPork folds
+** Summary **
+xapek_tyt collected [ $0.10 ]
+
+

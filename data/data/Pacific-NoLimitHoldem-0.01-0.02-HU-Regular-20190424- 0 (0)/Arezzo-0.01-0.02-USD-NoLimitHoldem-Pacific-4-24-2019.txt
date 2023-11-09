@@ -1,0 +1,88 @@
+#Game No : 166041
+***** 888poker Hand History for Game 166041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 04 2019 16:28:48
+Table Arezzo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: myevc ( $2.50 )
+Seat 7: FlemmingHart ( $2.16 )
+FlemmingHart posts small blind [$0.01]
+myevc posts big blind [$0.02]
+** Dealing down cards **
+FlemmingHart calls [$0.01]
+myevc checks
+** Dealing flop ** [ 3h, Kc, 9c ]
+myevc checks
+FlemmingHart checks
+** Dealing turn ** [ Kd ]
+myevc checks
+FlemmingHart checks
+** Dealing river ** [ 9s ]
+myevc checks
+FlemmingHart bets [$0.76]
+myevc folds
+** Summary **
+FlemmingHart collected [ $0.04 ]
+
+
+#Game No : 166079
+***** 888poker Hand History for Game 166079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 04 2019 16:53:39
+Table Arezzo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: myevc ( $3.90 )
+Seat 7: FlemmingHart ( $1.02 )
+FlemmingHart posts small blind [$0.01]
+myevc posts big blind [$0.02]
+** Dealing down cards **
+FlemmingHart calls [$0.01]
+myevc checks
+** Dealing flop ** [ 3s, As, 2h ]
+myevc checks
+FlemmingHart checks
+** Dealing turn ** [ 9c ]
+myevc checks
+FlemmingHart checks
+** Dealing river ** [ Kc ]
+myevc checks
+FlemmingHart checks
+** Summary **
+myevc shows [ 6h, Ac ]
+FlemmingHart mucks [ 8h, Qh ]
+myevc collected [ $0.04 ]
+
+
+#Game No : 166080
+***** 888poker Hand History for Game 166080 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 04 2019 16:54:40
+Table Arezzo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: myevc ( $3.92 )
+Seat 7: FlemmingHart ( $1 )
+myevc posts small blind [$0.01]
+FlemmingHart posts big blind [$0.02]
+** Dealing down cards **
+myevc folds
+** Summary **
+FlemmingHart did not show his hand
+FlemmingHart collected [ $0.03 ]
+
+
+#Game No : 166081
+***** 888poker Hand History for Game 166081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 04 2019 16:54:58
+Table Arezzo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: myevc ( $3.91 )
+Seat 7: FlemmingHart ( $1.01 )
+FlemmingHart posts small blind [$0.01]
+** Dealing down cards **
+myevc folds
+** Summary **
+FlemmingHart did not show his hand
+FlemmingHart collected [ $0.01 ]
+
+

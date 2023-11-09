@@ -1,0 +1,29 @@
+#Game No : 606684660
+***** 888poker Hand History for Game 606684660 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 21:54:08
+Table Asmara 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: sassykavi ( $0.97 )
+Seat 5: ToyWoo ( $2 )
+ToyWoo posts small blind [$0.01]
+sassykavi posts big blind [$0.02]
+** Dealing down cards **
+ToyWoo raises [$0.05]
+sassykavi calls [$0.04]
+** Dealing flop ** [ Jd, Ac, 5s ]
+sassykavi bets [$0.12]
+ToyWoo calls [$0.12]
+** Dealing turn ** [ Ts ]
+sassykavi bets [$0.48]
+ToyWoo calls [$0.48]
+** Dealing river ** [ Jh ]
+sassykavi checks
+ToyWoo bets [$0.24]
+sassykavi calls [$0.24]
+** Summary **
+ToyWoo shows [ Qs, Kd ]
+sassykavi mucks [ Ad, 9d ]
+ToyWoo collected [ $1.69 ]
+
+

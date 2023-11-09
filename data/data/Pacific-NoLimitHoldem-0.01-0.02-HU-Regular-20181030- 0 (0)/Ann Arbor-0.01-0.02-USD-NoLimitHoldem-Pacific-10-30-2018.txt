@@ -1,0 +1,497 @@
+#Game No : 504565197
+***** 888poker Hand History for Game 504565197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 07:18:25
+Table Ann Arbor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Broasca1311 ( $0.96 )
+Seat 4: danmardare ( $1.92 )
+Broasca1311 posts small blind [$0.01]
+danmardare posts big blind [$0.02]
+** Dealing down cards **
+Broasca1311 calls [$0.01]
+danmardare checks
+** Dealing flop ** [ 7c, Th, 3d ]
+danmardare bets [$0.02]
+Broasca1311 calls [$0.02]
+** Dealing turn ** [ 7h ]
+danmardare bets [$0.02]
+Broasca1311 raises [$0.04]
+danmardare calls [$0.02]
+** Dealing river ** [ 6h ]
+danmardare checks
+Broasca1311 bets [$0.02]
+danmardare calls [$0.02]
+** Summary **
+Broasca1311 shows [ Td, 6s ]
+danmardare mucks [ 3s, Kd ]
+Broasca1311 collected [ $0.19 ]
+
+
+#Game No : 504565223
+***** 888poker Hand History for Game 504565223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 07:18:59
+Table Ann Arbor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Broasca1311 ( $1.05 )
+Seat 4: danmardare ( $1.82 )
+danmardare posts small blind [$0.01]
+Broasca1311 posts big blind [$0.02]
+** Dealing down cards **
+danmardare calls [$0.01]
+Broasca1311 checks
+** Dealing flop ** [ 4s, Jc, 2s ]
+Broasca1311 checks
+danmardare bets [$0.02]
+Broasca1311 calls [$0.02]
+** Dealing turn ** [ 8s ]
+Broasca1311 checks
+danmardare bets [$0.06]
+Broasca1311 calls [$0.06]
+** Dealing river ** [ 6c ]
+Broasca1311 checks
+danmardare bets [$0.19]
+Broasca1311 folds
+** Summary **
+danmardare collected [ $0.19 ]
+
+
+#Game No : 504565560
+***** 888poker Hand History for Game 504565560 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 07:25:57
+Table Ann Arbor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Broasca1311 ( $2.01 )
+Seat 6: lordmoredon ( $0.81 )
+lordmoredon posts small blind [$0.01]
+Broasca1311 posts big blind [$0.02]
+** Dealing down cards **
+lordmoredon calls [$0.01]
+Broasca1311 checks
+** Dealing flop ** [ 8s, 7c, Qc ]
+Broasca1311 checks
+lordmoredon checks
+** Dealing turn ** [ 4s ]
+Broasca1311 checks
+lordmoredon bets [$0.04]
+Broasca1311 calls [$0.04]
+** Dealing river ** [ 3c ]
+Broasca1311 checks
+lordmoredon bets [$0.12]
+Broasca1311 folds
+** Summary **
+lordmoredon did not show his hand
+lordmoredon collected [ $0.12 ]
+
+
+#Game No : 504565572
+***** 888poker Hand History for Game 504565572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 07:26:19
+Table Ann Arbor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Broasca1311 ( $1.95 )
+Seat 6: lordmoredon ( $0.87 )
+Broasca1311 posts small blind [$0.01]
+lordmoredon posts big blind [$0.02]
+** Dealing down cards **
+Broasca1311 calls [$0.01]
+lordmoredon checks
+** Dealing flop ** [ 3s, 6d, 7h ]
+lordmoredon bets [$0.04]
+Broasca1311 raises [$0.08]
+lordmoredon calls [$0.04]
+** Dealing turn ** [ 9h ]
+lordmoredon bets [$0.20]
+Broasca1311 folds
+** Summary **
+lordmoredon did not show his hand
+lordmoredon collected [ $0.19 ]
+
+
+#Game No : 504565597
+***** 888poker Hand History for Game 504565597 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 07:26:39
+Table Ann Arbor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Broasca1311 ( $1.85 )
+Seat 6: lordmoredon ( $0.96 )
+lordmoredon posts small blind [$0.01]
+Broasca1311 posts big blind [$0.02]
+** Dealing down cards **
+lordmoredon folds
+** Summary **
+Broasca1311 did not show his hand
+Broasca1311 collected [ $0.03 ]
+
+
+#Game No : 504565600
+***** 888poker Hand History for Game 504565600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 07:26:44
+Table Ann Arbor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Broasca1311 ( $1.86 )
+Seat 6: lordmoredon ( $0.95 )
+Broasca1311 posts small blind [$0.01]
+lordmoredon posts big blind [$0.02]
+** Dealing down cards **
+Broasca1311 raises [$0.03]
+lordmoredon calls [$0.02]
+** Dealing flop ** [ Th, 9h, Ks ]
+lordmoredon bets [$0.02]
+Broasca1311 raises [$0.04]
+lordmoredon calls [$0.02]
+** Dealing turn ** [ 8d ]
+lordmoredon bets [$0.08]
+Broasca1311 raises [$0.16]
+lordmoredon calls [$0.08]
+** Dealing river ** [ Ts ]
+lordmoredon checks
+Broasca1311 bets [$1.62]
+lordmoredon folds
+** Summary **
+Broasca1311 collected [ $0.45 ]
+
+
+#Game No : 504565624
+***** 888poker Hand History for Game 504565624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 07:27:13
+Table Ann Arbor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Broasca1311 ( $2.07 )
+Seat 6: lordmoredon ( $0.71 )
+lordmoredon posts small blind [$0.01]
+Broasca1311 posts big blind [$0.02]
+** Dealing down cards **
+lordmoredon folds
+** Summary **
+Broasca1311 collected [ $0.03 ]
+
+
+#Game No : 504575083
+***** 888poker Hand History for Game 504575083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 10:52:24
+Table Ann Arbor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gazoo44444 ( $0.95 )
+Seat 7: comiwi ( $1.02 )
+gazoo44444 posts small blind [$0.01]
+comiwi posts big blind [$0.02]
+** Dealing down cards **
+gazoo44444 raises [$0.03]
+comiwi raises [$0.12]
+gazoo44444 raises [$0.91]
+comiwi calls [$0.81]
+** Dealing flop ** [ 6c, 5h, 4d ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Qs ]
+** Summary **
+gazoo44444 shows [ Ac, Kc ]
+comiwi shows [ Ks, Kd ]
+comiwi collected [ $1.79 ]
+
+
+#Game No : 504575104
+***** 888poker Hand History for Game 504575104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 10:52:55
+Table Ann Arbor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: unclemont105 ( $1 )
+Seat 7: comiwi ( $1.86 )
+comiwi posts small blind [$0.01]
+unclemont105 posts big blind [$0.02]
+** Dealing down cards **
+comiwi folds
+** Summary **
+unclemont105 collected [ $0.03 ]
+
+
+#Game No : 504577736
+***** 888poker Hand History for Game 504577736 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 11:39:27
+Table Ann Arbor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Aremb ( $0.94 )
+Seat 9: Mre39 ( $1.29 )
+Mre39 posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+Mre39 raises [$0.03]
+Aremb raises [$0.92]
+Mre39 calls [$0.90]
+** Dealing flop ** [ Kc, 9h, 4c ]
+** Dealing turn ** [ Qd ]
+** Dealing river ** [ 5c ]
+** Summary **
+Aremb shows [ Td, Th ]
+Mre39 shows [ Kd, Ah ]
+Mre39 collected [ $1.77 ]
+
+
+#Game No : 504586029
+***** 888poker Hand History for Game 504586029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:35:08
+Table Ann Arbor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Fizzyeasy ( $1.09 )
+Seat 6: grigoriets ( $1.41 )
+grigoriets posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+grigoriets folds
+** Summary **
+Fizzyeasy did not show his hand
+Fizzyeasy collected [ $0.03 ]
+
+
+#Game No : 504586041
+***** 888poker Hand History for Game 504586041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:35:14
+Table Ann Arbor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Fizzyeasy ( $1.10 )
+Seat 6: grigoriets ( $1.40 )
+Fizzyeasy posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy raises [$0.05]
+grigoriets folds
+** Summary **
+Fizzyeasy collected [ $0.04 ]
+
+
+#Game No : 504586063
+***** 888poker Hand History for Game 504586063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:35:36
+Table Ann Arbor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Fizzyeasy ( $1.12 )
+Seat 6: grigoriets ( $1.38 )
+grigoriets posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+grigoriets folds
+** Summary **
+Fizzyeasy collected [ $0.03 ]
+
+
+#Game No : 504587342
+***** 888poker Hand History for Game 504587342 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:54:02
+Table Ann Arbor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Fizzyeasy ( $1.47 )
+Seat 6: grigoriets ( $0.85 )
+Fizzyeasy posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy folds
+** Summary **
+grigoriets collected [ $0.03 ]
+
+
+#Game No : 504587351
+***** 888poker Hand History for Game 504587351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:54:09
+Table Ann Arbor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Fizzyeasy ( $1.46 )
+Seat 6: grigoriets ( $0.86 )
+grigoriets posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+grigoriets folds
+** Summary **
+Fizzyeasy collected [ $0.03 ]
+
+
+#Game No : 504587377
+***** 888poker Hand History for Game 504587377 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:54:29
+Table Ann Arbor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Fizzyeasy ( $1.48 )
+Seat 6: grigoriets ( $0.84 )
+grigoriets posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+grigoriets raises [$0.03]
+Fizzyeasy folds
+** Summary **
+grigoriets collected [ $0.04 ]
+
+
+#Game No : 504594036
+***** 888poker Hand History for Game 504594036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:04:47
+Table Ann Arbor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: iouri.o ( $1.69 )
+Seat 9: redalex777 ( $1.02 )
+iouri.o posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+iouri.o folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.03 ]
+
+
+#Game No : 504594040
+***** 888poker Hand History for Game 504594040 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:04:52
+Table Ann Arbor 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: iouri.o ( $1.68 )
+Seat 9: redalex777 ( $1.03 )
+redalex777 posts small blind [$0.01]
+iouri.o posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+iouri.o collected [ $0.03 ]
+
+
+#Game No : 504594214
+***** 888poker Hand History for Game 504594214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:08:51
+Table Ann Arbor 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Demstalfer ( $1.68 )
+Seat 9: redalex777 ( $3.12 )
+redalex777 posts small blind [$0.01]
+Demstalfer posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+Demstalfer collected [ $0.03 ]
+
+
+#Game No : 504594219
+***** 888poker Hand History for Game 504594219 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:08:56
+Table Ann Arbor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Igwe50 ( $1 )
+Seat 4: Demstalfer ( $1.69 )
+Demstalfer posts small blind [$0.01]
+Igwe50 posts big blind [$0.02]
+** Dealing down cards **
+Demstalfer raises [$0.03]
+Igwe50 calls [$0.02]
+** Dealing flop ** [ 8h, 7h, 3h ]
+Igwe50 checks
+Demstalfer bets [$0.04]
+Igwe50 folds
+** Summary **
+Demstalfer did not show his hand
+Demstalfer collected [ $0.08 ]
+
+
+#Game No : 504594232
+***** 888poker Hand History for Game 504594232 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:09:19
+Table Ann Arbor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Igwe50 ( $0.96 )
+Seat 4: Demstalfer ( $1.73 )
+Igwe50 posts small blind [$0.01]
+Demstalfer posts big blind [$0.02]
+** Dealing down cards **
+Igwe50 folds
+** Summary **
+Demstalfer did not show his hand
+Demstalfer collected [ $0.03 ]
+
+
+#Game No : 504594239
+***** 888poker Hand History for Game 504594239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:09:25
+Table Ann Arbor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Igwe50 ( $0.95 )
+Seat 4: Demstalfer ( $1.74 )
+Demstalfer posts small blind [$0.01]
+Igwe50 posts big blind [$0.02]
+** Dealing down cards **
+Demstalfer raises [$0.03]
+Igwe50 raises [$0.07]
+Demstalfer calls [$0.05]
+** Dealing flop ** [ Ac, 8d, 4h ]
+Igwe50 checks
+Demstalfer bets [$0.09]
+Igwe50 raises [$0.33]
+Demstalfer calls [$0.24]
+** Dealing turn ** [ 4c ]
+Igwe50 bets [$0.53]
+Demstalfer folds
+** Summary **
+Igwe50 collected [ $0.79 ]
+
+
+#Game No : 504595742
+***** 888poker Hand History for Game 504595742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:47:10
+Table Ann Arbor 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Antoshik222 ( $0.98 )
+Seat 9: bigbenek73 ( $0.93 )
+bigbenek73 posts small blind [$0.01]
+Antoshik222 posts big blind [$0.02]
+** Dealing down cards **
+bigbenek73 raises [$0.03]
+Antoshik222 calls [$0.02]
+** Dealing flop ** [ Qh, 4d, 2d ]
+Antoshik222 checks
+bigbenek73 bets [$0.04]
+Antoshik222 calls [$0.04]
+** Dealing turn ** [ 4h ]
+Antoshik222 checks
+bigbenek73 bets [$0.04]
+Antoshik222 calls [$0.04]
+** Dealing river ** [ 7d ]
+Antoshik222 checks
+bigbenek73 checks
+** Summary **
+Antoshik222 shows [ Qc, Kc ]
+bigbenek73 mucks [ Ac, 5h ]
+Antoshik222 collected [ $0.23 ]
+
+
+#Game No : 504595784
+***** 888poker Hand History for Game 504595784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:48:07
+Table Ann Arbor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Antoshik222 ( $1.09 )
+Seat 9: bigbenek73 ( $0.81 )
+Antoshik222 posts small blind [$0.01]
+bigbenek73 posts big blind [$0.02]
+** Dealing down cards **
+Antoshik222 folds
+** Summary **
+bigbenek73 collected [ $0.03 ]
+
+

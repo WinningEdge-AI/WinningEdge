@@ -1,0 +1,50 @@
+#Game No : 1273772314
+***** 888poker Hand History for Game 1273772314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2019 19:59:16
+Table Kunsan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Sniperboard ( $0.45 )
+Seat 6: Koleos25 ( $9.34 )
+Koleos25 posts small blind [$0.01]
+Sniperboard posts big blind [$0.02]
+** Dealing down cards **
+Koleos25 calls [$0.01]
+Sniperboard raises [$0.04]
+Koleos25 calls [$0.04]
+** Dealing flop ** [ 8h, Jd, Qh ]
+Sniperboard bets [$0.06]
+Koleos25 folds
+** Summary **
+Sniperboard collected [ $0.12 ]
+
+
+#Game No : 1273772532
+***** 888poker Hand History for Game 1273772532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2019 20:02:18
+Table Kunsan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 13frank14 ( $1.80 )
+Seat 6: Koleos25 ( $8.99 )
+Koleos25 posts small blind [$0.01]
+13frank14 posts big blind [$0.02]
+** Dealing down cards **
+Koleos25 raises [$0.05]
+13frank14 calls [$0.04]
+** Dealing flop ** [ 9h, 3h, Kc ]
+13frank14 checks
+Koleos25 bets [$0.06]
+13frank14 calls [$0.06]
+** Dealing turn ** [ 8h ]
+13frank14 checks
+Koleos25 checks
+** Dealing river ** [ 6d ]
+13frank14 bets [$0.06]
+Koleos25 calls [$0.06]
+** Summary **
+13frank14 shows [ 5c, 3d ]
+Koleos25 mucks [ 4h, Ac ]
+13frank14 collected [ $0.34 ]
+
+

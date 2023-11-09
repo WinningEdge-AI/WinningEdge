@@ -1,0 +1,90 @@
+#Game No : 1245124215
+***** 888poker Hand History for Game 1245124215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 18:22:04
+Table Lecce 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BigU975 ( $2 )
+Seat 5: Orangertang ( $2 )
+BigU975 posts small blind [$0.01]
+Orangertang posts big blind [$0.02]
+** Dealing down cards **
+BigU975 folds
+** Summary **
+Orangertang collected [ $0.03 ]
+
+
+#Game No : 1245148545
+***** 888poker Hand History for Game 1245148545 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 22:29:17
+Table Lecce 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: SalotSar ( $2.20 )
+Seat 5: alexbita ( $0.80 )
+alexbita posts small blind [$0.01]
+SalotSar posts big blind [$0.02]
+** Dealing down cards **
+alexbita calls [$0.01]
+SalotSar checks
+** Dealing flop ** [ Tc, 4h, Qd ]
+SalotSar checks
+alexbita checks
+** Dealing turn ** [ 3s ]
+SalotSar checks
+alexbita checks
+** Dealing river ** [ 2s ]
+SalotSar checks
+alexbita checks
+** Summary **
+SalotSar shows [ 9d, 3h ]
+alexbita shows [ 9s, 4s ]
+alexbita collected [ $0.04 ]
+
+
+#Game No : 1245148604
+***** 888poker Hand History for Game 1245148604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 22:30:03
+Table Lecce 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Haammurapi ( $2 )
+Seat 5: alexbita ( $0.82 )
+Haammurapi posts small blind [$0.01]
+alexbita posts big blind [$0.02]
+** Dealing down cards **
+Haammurapi calls [$0.01]
+alexbita checks
+** Dealing flop ** [ 6s, 9h, 5s ]
+alexbita bets [$0.02]
+Haammurapi raises [$0.04]
+alexbita calls [$0.02]
+** Dealing turn ** [ 3h ]
+alexbita bets [$0.02]
+Haammurapi calls [$0.02]
+** Dealing river ** [ 7s ]
+alexbita bets [$0.02]
+Haammurapi calls [$0.02]
+** Summary **
+alexbita shows [ 2c, Ac ]
+Haammurapi shows [ Tc, 9c ]
+Haammurapi collected [ $0.19 ]
+
+
+#Game No : 1245148656
+***** 888poker Hand History for Game 1245148656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 22:30:47
+Table Lecce 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Haammurapi ( $2.09 )
+Seat 5: alexbita ( $0.72 )
+alexbita posts small blind [$0.01]
+Haammurapi posts big blind [$0.02]
+** Dealing down cards **
+alexbita folds
+** Summary **
+Haammurapi did not show his hand
+Haammurapi collected [ $0.03 ]
+
+

@@ -1,0 +1,84 @@
+#Game No : 1242739221
+***** 888poker Hand History for Game 1242739221 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 02:31:49
+Table Irkutsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Lisshura ( $1 )
+Seat 6: 4u4elooo ( $2.88 )
+Lisshura posts small blind [$0.01]
+** Dealing down cards **
+4u4elooo folds
+** Summary **
+Lisshura collected [ $0.01 ]
+
+
+#Game No : 1242739545
+***** 888poker Hand History for Game 1242739545 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 02:33:53
+Table Irkutsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: oddcheck ( $0.80 )
+Seat 9: britto26 ( $1 )
+oddcheck posts small blind [$0.01]
+britto26 posts big blind [$0.02]
+** Dealing down cards **
+oddcheck calls [$0.01]
+britto26 raises [$0.34]
+oddcheck folds
+** Summary **
+britto26 collected [ $0.04 ]
+
+
+#Game No : 1242739603
+***** 888poker Hand History for Game 1242739603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 02:34:17
+Table Irkutsk 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: oddcheck ( $0.78 )
+Seat 9: britto26 ( $1.02 )
+britto26 posts small blind [$0.01]
+oddcheck posts big blind [$0.02]
+** Dealing down cards **
+britto26 calls [$0.01]
+oddcheck checks
+** Dealing flop ** [ 9c, Qh, 3s ]
+oddcheck checks
+britto26 checks
+** Dealing turn ** [ 7h ]
+oddcheck checks
+britto26 checks
+** Dealing river ** [ 6h ]
+oddcheck bets [$0.20]
+britto26 calls [$0.20]
+** Summary **
+oddcheck shows [ Jc, Ts ]
+britto26 shows [ 5c, 8h ]
+britto26 collected [ $0.42 ]
+
+
+#Game No : 1242739681
+***** 888poker Hand History for Game 1242739681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 02:34:50
+Table Irkutsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: oddcheck ( $0.56 )
+Seat 9: britto26 ( $1.22 )
+oddcheck posts small blind [$0.01]
+britto26 posts big blind [$0.02]
+** Dealing down cards **
+oddcheck calls [$0.01]
+britto26 checks
+** Dealing flop ** [ 7d, Ad, Kd ]
+britto26 checks
+oddcheck checks
+** Dealing turn ** [ Ks ]
+britto26 bets [$0.06]
+oddcheck folds
+** Summary **
+britto26 collected [ $0.04 ]
+
+

@@ -1,0 +1,29 @@
+#Game No : 513631167
+***** 888poker Hand History for Game 513631167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2019 11:03:02
+Table Ankara 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: Zamglai ( $2.01 )
+Seat 9: ChipnFish ( $3.41 )
+ChipnFish posts small blind [$0.01]
+Zamglai posts big blind [$0.02]
+** Dealing down cards **
+ChipnFish raises [$0.03]
+Zamglai raises [$0.07]
+ChipnFish calls [$0.05]
+** Dealing flop ** [ 6s, Qs, Jc ]
+Zamglai checks
+ChipnFish checks
+** Dealing turn ** [ 3h ]
+Zamglai checks
+ChipnFish checks
+** Dealing river ** [ Td ]
+Zamglai checks
+ChipnFish checks
+** Summary **
+Zamglai shows [ Ah, 4h ]
+ChipnFish shows [ As, 9d ]
+ChipnFish collected [ $0.17 ]
+
+

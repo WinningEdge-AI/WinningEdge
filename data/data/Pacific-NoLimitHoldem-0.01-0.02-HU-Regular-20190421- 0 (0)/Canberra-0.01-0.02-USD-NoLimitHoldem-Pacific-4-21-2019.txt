@@ -1,0 +1,108 @@
+#Game No : 1263039036
+***** 888poker Hand History for Game 1263039036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:32:35
+Table Canberra 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: s2afroze ( $0.98 )
+Seat 7: TomasShelb ( $1 )
+s2afroze posts small blind [$0.01]
+TomasShelb posts big blind [$0.02]
+** Dealing down cards **
+s2afroze raises [$0.03]
+TomasShelb folds
+** Summary **
+s2afroze collected [ $0.04 ]
+
+
+#Game No : 1263039059
+***** 888poker Hand History for Game 1263039059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:32:50
+Table Canberra 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: s2afroze ( $1 )
+Seat 7: TomasShelb ( $0.98 )
+TomasShelb posts small blind [$0.01]
+s2afroze posts big blind [$0.02]
+** Dealing down cards **
+TomasShelb calls [$0.01]
+s2afroze checks
+** Dealing flop ** [ 4c, 6d, 7c ]
+s2afroze bets [$0.02]
+TomasShelb folds
+** Summary **
+s2afroze collected [ $0.04 ]
+
+
+#Game No : 1263039081
+***** 888poker Hand History for Game 1263039081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:33:07
+Table Canberra 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: s2afroze ( $1.02 )
+Seat 7: TomasShelb ( $0.96 )
+s2afroze posts small blind [$0.01]
+TomasShelb posts big blind [$0.02]
+** Dealing down cards **
+s2afroze raises [$0.03]
+TomasShelb calls [$0.02]
+** Dealing flop ** [ 3c, 8c, 4h ]
+TomasShelb checks
+s2afroze bets [$0.05]
+TomasShelb calls [$0.05]
+** Dealing turn ** [ 4s ]
+TomasShelb checks
+s2afroze bets [$0.12]
+TomasShelb calls [$0.12]
+** Dealing river ** [ 7h ]
+TomasShelb checks
+s2afroze checks
+** Summary **
+TomasShelb shows [ Ad, Kd ]
+s2afroze shows [ 5h, 5c ]
+s2afroze collected [ $0.40 ]
+
+
+#Game No : 1263039133
+***** 888poker Hand History for Game 1263039133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:33:43
+Table Canberra 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: s2afroze ( $1.21 )
+Seat 7: TomasShelb ( $0.75 )
+TomasShelb posts small blind [$0.01]
+s2afroze posts big blind [$0.02]
+** Dealing down cards **
+TomasShelb calls [$0.01]
+s2afroze checks
+** Dealing flop ** [ Kh, 2s, Qc ]
+s2afroze checks
+TomasShelb checks
+** Dealing turn ** [ As ]
+s2afroze checks
+TomasShelb checks
+** Dealing river ** [ Kd ]
+s2afroze checks
+TomasShelb folds
+** Summary **
+s2afroze collected [ $0.04 ]
+
+
+#Game No : 1263039272
+***** 888poker Hand History for Game 1263039272 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:35:10
+Table Canberra 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: TomasShelb ( $0.73 )
+Seat 9: Novruzbek ( $0.80 )
+TomasShelb posts small blind [$0.01]
+** Dealing down cards **
+Novruzbek folds
+** Summary **
+TomasShelb collected [ $0.01 ]
+
+

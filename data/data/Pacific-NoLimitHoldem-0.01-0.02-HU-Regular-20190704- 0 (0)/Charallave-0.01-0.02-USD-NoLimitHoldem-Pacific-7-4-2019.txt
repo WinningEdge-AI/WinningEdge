@@ -1,0 +1,44 @@
+#Game No : 1277944325
+***** 888poker Hand History for Game 1277944325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 07 2019 22:25:42
+Table Charallave 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: SandroS1274 ( $2.26 )
+Seat 10: Tungueteir0 ( $2.33 )
+SandroS1274 posts small blind [$0.01]
+Tungueteir0 posts big blind [$0.02]
+** Dealing down cards **
+SandroS1274 calls [$0.01]
+Tungueteir0 checks
+** Dealing flop ** [ 5d, Ts, 8s ]
+Tungueteir0 checks
+SandroS1274 bets [$0.03]
+Tungueteir0 calls [$0.03]
+** Dealing turn ** [ 3h ]
+Tungueteir0 checks
+SandroS1274 checks
+** Dealing river ** [ Js ]
+Tungueteir0 bets [$0.06]
+SandroS1274 calls [$0.06]
+** Summary **
+Tungueteir0 shows [ 8d, Jh ]
+SandroS1274 mucks [ Th, 7h ]
+Tungueteir0 collected [ $0.21 ]
+
+
+#Game No : 1277944367
+***** 888poker Hand History for Game 1277944367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 07 2019 22:26:32
+Table Charallave 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: SandroS1274 ( $2.15 )
+Seat 10: Tungueteir0 ( $2.43 )
+Tungueteir0 posts small blind [$0.01]
+** Dealing down cards **
+SandroS1274 folds
+** Summary **
+Tungueteir0 collected [ $0.01 ]
+
+

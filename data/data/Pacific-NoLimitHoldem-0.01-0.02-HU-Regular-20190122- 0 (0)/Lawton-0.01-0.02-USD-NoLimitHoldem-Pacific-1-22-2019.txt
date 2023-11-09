@@ -1,0 +1,72 @@
+#Game No : 522223848
+***** 888poker Hand History for Game 522223848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 05:12:15
+Table Lawton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Lans1987 ( $1.10 )
+Seat 7: tarantu14 ( $1.65 )
+Lans1987 posts small blind [$0.01]
+tarantu14 posts big blind [$0.02]
+** Dealing down cards **
+Lans1987 raises [$0.03]
+tarantu14 calls [$0.02]
+** Dealing flop ** [ 7d, 3d, Jc ]
+tarantu14 checks
+Lans1987 checks
+** Dealing turn ** [ Qd ]
+tarantu14 checks
+Lans1987 bets [$0.04]
+tarantu14 calls [$0.04]
+** Dealing river ** [ 6c ]
+tarantu14 bets [$0.62]
+Lans1987 folds
+** Summary **
+tarantu14 collected [ $0.15 ]
+
+
+#Game No : 522223870
+***** 888poker Hand History for Game 522223870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 05:12:40
+Table Lawton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Lans1987 ( $1.02 )
+Seat 7: tarantu14 ( $1.72 )
+tarantu14 posts small blind [$0.01]
+Lans1987 posts big blind [$0.02]
+** Dealing down cards **
+tarantu14 calls [$0.01]
+Lans1987 checks
+** Dealing flop ** [ 4h, 6c, Ts ]
+Lans1987 checks
+tarantu14 checks
+** Dealing turn ** [ 8c ]
+Lans1987 checks
+tarantu14 checks
+** Dealing river ** [ 2c ]
+Lans1987 checks
+tarantu14 checks
+** Summary **
+Lans1987 shows [ Qh, 7d ]
+tarantu14 shows [ 2s, 3c ]
+tarantu14 collected [ $0.04 ]
+
+
+#Game No : 522223899
+***** 888poker Hand History for Game 522223899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 05:13:08
+Table Lawton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: tarantu14 ( $1.74 )
+Seat 9: nadl1311 ( $1 )
+tarantu14 posts small blind [$0.01]
+nadl1311 posts big blind [$0.02]
+** Dealing down cards **
+tarantu14 folds
+** Summary **
+nadl1311 did not show his hand
+nadl1311 collected [ $0.03 ]
+
+

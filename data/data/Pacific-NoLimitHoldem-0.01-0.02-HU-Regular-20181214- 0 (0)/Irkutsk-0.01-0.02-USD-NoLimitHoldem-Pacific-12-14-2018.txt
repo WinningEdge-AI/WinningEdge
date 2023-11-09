@@ -1,0 +1,44 @@
+#Game No : 458737442
+***** 888poker Hand History for Game 458737442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 12 2018 06:20:16
+Table Irkutsk 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: AliaksMi ( $1.04 )
+Seat 6: Sam888Lorec ( $1.60 )
+Sam888Lorec posts small blind [$0.01]
+AliaksMi posts big blind [$0.02]
+** Dealing down cards **
+Sam888Lorec calls [$0.01]
+AliaksMi checks
+** Dealing flop ** [ As, Kd, Ac ]
+AliaksMi checks
+Sam888Lorec checks
+** Dealing turn ** [ 8d ]
+AliaksMi checks
+Sam888Lorec checks
+** Dealing river ** [ Js ]
+AliaksMi checks
+Sam888Lorec checks
+** Summary **
+AliaksMi shows [ 4d, 4c ]
+Sam888Lorec mucks [ Qc, 3h ]
+AliaksMi collected [ $0.04 ]
+
+
+#Game No : 458737466
+***** 888poker Hand History for Game 458737466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 12 2018 06:20:54
+Table Irkutsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AliaksMi ( $1.06 )
+Seat 6: Sam888Lorec ( $1.58 )
+AliaksMi posts small blind [$0.01]
+Sam888Lorec posts big blind [$0.02]
+** Dealing down cards **
+AliaksMi folds
+** Summary **
+Sam888Lorec collected [ $0.03 ]
+
+

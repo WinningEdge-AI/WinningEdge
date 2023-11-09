@@ -1,0 +1,934 @@
+#Game No : 500860300
+***** 888poker Hand History for Game 500860300 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 01:20:42
+Table Ji-Parana 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: rfgeifyfpfdj ( $1 )
+Seat 4: g3r4rrrr ( $1 )
+g3r4rrrr posts small blind [$0.01]
+rfgeifyfpfdj posts big blind [$0.02]
+** Dealing down cards **
+g3r4rrrr folds
+** Summary **
+rfgeifyfpfdj collected [ $0.03 ]
+
+
+#Game No : 500860305
+***** 888poker Hand History for Game 500860305 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 01:20:52
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: lyubasha0773 ( $0.80 )
+Seat 2: rfgeifyfpfdj ( $1.01 )
+rfgeifyfpfdj posts small blind [$0.01]
+lyubasha0773 posts big blind [$0.02]
+** Dealing down cards **
+rfgeifyfpfdj folds
+** Summary **
+lyubasha0773 collected [ $0.03 ]
+
+
+#Game No : 500860695
+***** 888poker Hand History for Game 500860695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 01:40:59
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: lyubasha0773 ( $0.95 )
+Seat 7: JOAQUIM222 ( $0.76 )
+lyubasha0773 posts small blind [$0.01]
+JOAQUIM222 posts big blind [$0.02]
+** Dealing down cards **
+lyubasha0773 folds
+** Summary **
+JOAQUIM222 collected [ $0.03 ]
+
+
+#Game No : 500860700
+***** 888poker Hand History for Game 500860700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 01:41:10
+Table Ji-Parana 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: lyubasha0773 ( $0.94 )
+Seat 7: JOAQUIM222 ( $0.77 )
+JOAQUIM222 posts small blind [$0.01]
+lyubasha0773 posts big blind [$0.02]
+** Dealing down cards **
+JOAQUIM222 calls [$0.01]
+lyubasha0773 checks
+** Dealing flop ** [ 3c, Th, 3h ]
+lyubasha0773 checks
+JOAQUIM222 checks
+** Dealing turn ** [ 4d ]
+lyubasha0773 checks
+JOAQUIM222 checks
+** Dealing river ** [ Kh ]
+lyubasha0773 checks
+JOAQUIM222 checks
+** Summary **
+lyubasha0773 shows [ 8h, 9c ]
+JOAQUIM222 mucks [ 7s, 5s ]
+lyubasha0773 collected [ $0.04 ]
+
+
+#Game No : 500860713
+***** 888poker Hand History for Game 500860713 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 01:41:44
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: lyubasha0773 ( $0.96 )
+Seat 7: JOAQUIM222 ( $0.75 )
+lyubasha0773 posts small blind [$0.01]
+JOAQUIM222 posts big blind [$0.02]
+** Dealing down cards **
+lyubasha0773 raises [$0.07]
+JOAQUIM222 calls [$0.06]
+** Dealing flop ** [ 3s, 7d, 8h ]
+JOAQUIM222 checks
+lyubasha0773 bets [$0.06]
+JOAQUIM222 calls [$0.06]
+** Dealing turn ** [ 2s ]
+JOAQUIM222 checks
+lyubasha0773 checks
+** Dealing river ** [ Kh ]
+JOAQUIM222 bets [$0.14]
+lyubasha0773 folds
+** Summary **
+JOAQUIM222 collected [ $0.27 ]
+
+
+#Game No : 500861359
+***** 888poker Hand History for Game 500861359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 02:07:36
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: serjiomao ( $1 )
+Seat 7: JOAQUIM222 ( $0.83 )
+serjiomao posts small blind [$0.01]
+JOAQUIM222 posts big blind [$0.02]
+** Dealing down cards **
+serjiomao folds
+** Summary **
+JOAQUIM222 collected [ $0.03 ]
+
+
+#Game No : 500861364
+***** 888poker Hand History for Game 500861364 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 02:07:44
+Table Ji-Parana 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: serjiomao ( $1 )
+Seat 7: JOAQUIM222 ( $0.84 )
+JOAQUIM222 posts small blind [$0.01]
+serjiomao posts big blind [$0.02]
+** Dealing down cards **
+JOAQUIM222 calls [$0.01]
+serjiomao checks
+** Dealing flop ** [ Ad, Qh, Td ]
+serjiomao checks
+JOAQUIM222 bets [$0.02]
+serjiomao folds
+** Summary **
+JOAQUIM222 collected [ $0.04 ]
+
+
+#Game No : 500861374
+***** 888poker Hand History for Game 500861374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 02:08:11
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: serjiomao ( $1 )
+Seat 7: JOAQUIM222 ( $0.86 )
+serjiomao posts small blind [$0.01]
+JOAQUIM222 posts big blind [$0.02]
+** Dealing down cards **
+serjiomao raises [$0.06]
+JOAQUIM222 folds
+** Summary **
+serjiomao collected [ $0.04 ]
+
+
+#Game No : 500861384
+***** 888poker Hand History for Game 500861384 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 02:08:30
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: serjiomao ( $1.01 )
+Seat 7: JOAQUIM222 ( $0.85 )
+serjiomao posts small blind [$0.01]
+JOAQUIM222 posts big blind [$0.02]
+** Dealing down cards **
+serjiomao raises [$0.06]
+JOAQUIM222 folds
+** Summary **
+serjiomao collected [ $0.04 ]
+
+
+#Game No : 500868057
+***** 888poker Hand History for Game 500868057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 05:34:11
+Table Ji-Parana 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: NINJASKILLZ ( $2.09 )
+Seat 6: segabo4a ( $0.76 )
+segabo4a posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+segabo4a raises [$0.03]
+NINJASKILLZ calls [$0.02]
+** Dealing flop ** [ 3d, Ks, 8d ]
+NINJASKILLZ checks
+segabo4a bets [$0.04]
+NINJASKILLZ folds
+** Summary **
+segabo4a collected [ $0.08 ]
+
+
+#Game No : 500868127
+***** 888poker Hand History for Game 500868127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 05:35:50
+Table Ji-Parana 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: segabo4a ( $0.86 )
+Seat 7: AH2110 ( $0.76 )
+AH2110 posts small blind [$0.01]
+segabo4a posts big blind [$0.02]
+** Dealing down cards **
+AH2110 folds
+** Summary **
+segabo4a collected [ $0.03 ]
+
+
+#Game No : 500868668
+***** 888poker Hand History for Game 500868668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 05:49:12
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dmitriy2369 ( $0.86 )
+Seat 7: AH2110 ( $0.62 )
+dmitriy2369 posts small blind [$0.01]
+AH2110 posts big blind [$0.02]
+** Dealing down cards **
+dmitriy2369 calls [$0.01]
+AH2110 checks
+** Dealing flop ** [ 5c, Jc, Kd ]
+AH2110 checks
+dmitriy2369 checks
+** Dealing turn ** [ 4d ]
+AH2110 checks
+dmitriy2369 checks
+** Dealing river ** [ 6d ]
+AH2110 checks
+dmitriy2369 bets [$0.06]
+AH2110 folds
+** Summary **
+dmitriy2369 collected [ $0.04 ]
+
+
+#Game No : 500868927
+***** 888poker Hand History for Game 500868927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 05:55:48
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dmitriy2369 ( $1.08 )
+Seat 4: BenGmin ( $0.92 )
+dmitriy2369 posts small blind [$0.01]
+BenGmin posts big blind [$0.02]
+** Dealing down cards **
+dmitriy2369 folds
+** Summary **
+BenGmin collected [ $0.03 ]
+
+
+#Game No : 500870845
+***** 888poker Hand History for Game 500870845 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 06:43:13
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: valik4474 ( $1 )
+Seat 6: 16volcano ( $1 )
+valik4474 posts small blind [$0.01]
+16volcano posts big blind [$0.02]
+** Dealing down cards **
+valik4474 calls [$0.01]
+16volcano raises [$0.02]
+valik4474 calls [$0.02]
+** Dealing flop ** [ 7c, Tc, 2h ]
+16volcano bets [$0.02]
+valik4474 calls [$0.02]
+** Dealing turn ** [ Ts ]
+16volcano bets [$0.06]
+valik4474 folds
+** Summary **
+16volcano collected [ $0.12 ]
+
+
+#Game No : 500870871
+***** 888poker Hand History for Game 500870871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 06:43:52
+Table Ji-Parana 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: valik4474 ( $0.94 )
+Seat 6: 16volcano ( $1.06 )
+16volcano posts small blind [$0.01]
+valik4474 posts big blind [$0.02]
+** Dealing down cards **
+16volcano folds
+** Summary **
+valik4474 collected [ $0.03 ]
+
+
+#Game No : 500873786
+***** 888poker Hand History for Game 500873786 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 07:57:14
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: votes4goats ( $4.99 )
+Seat 2: bartik555 ( $1.40 )
+bartik555 posts small blind [$0.01]
+votes4goats posts big blind [$0.02]
+** Dealing down cards **
+bartik555 raises [$0.04]
+votes4goats folds
+** Summary **
+bartik555 collected [ $0.04 ]
+
+
+#Game No : 500873797
+***** 888poker Hand History for Game 500873797 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 07:57:27
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: votes4goats ( $4.97 )
+Seat 2: bartik555 ( $1.42 )
+votes4goats posts small blind [$0.01]
+** Dealing down cards **
+bartik555 folds
+** Summary **
+votes4goats collected [ $0.01 ]
+
+
+#Game No : 500873867
+***** 888poker Hand History for Game 500873867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 07:59:10
+Table Ji-Parana 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: votes4goats ( $4.97 )
+Seat 4: 11wolf77 ( $0.80 )
+11wolf77 posts small blind [$0.01]
+votes4goats posts big blind [$0.02]
+** Dealing down cards **
+11wolf77 calls [$0.01]
+votes4goats checks
+** Dealing flop ** [ 3s, Qc, 7c ]
+votes4goats checks
+11wolf77 checks
+** Dealing turn ** [ Kc ]
+votes4goats bets [$0.02]
+11wolf77 folds
+** Summary **
+votes4goats collected [ $0.04 ]
+
+
+#Game No : 500873884
+***** 888poker Hand History for Game 500873884 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 07:59:34
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: votes4goats ( $4.99 )
+Seat 4: 11wolf77 ( $0.78 )
+votes4goats posts small blind [$0.01]
+** Dealing down cards **
+11wolf77 folds
+** Summary **
+votes4goats collected [ $0.01 ]
+
+
+#Game No : 500873889
+***** 888poker Hand History for Game 500873889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 07:59:38
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: votes4goats ( $4.99 )
+Seat 2: Help.me ( $0.80 )
+votes4goats posts small blind [$0.01]
+** Dealing down cards **
+Help.me folds
+** Summary **
+votes4goats collected [ $0.01 ]
+
+
+#Game No : 500873914
+***** 888poker Hand History for Game 500873914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 08:00:13
+Table Ji-Parana 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: 11wolf77 ( $0.78 )
+Seat 7: Freddy0111 ( $1 )
+11wolf77 posts small blind [$0.01]
+Freddy0111 posts big blind [$0.02]
+** Dealing down cards **
+11wolf77 calls [$0.01]
+Freddy0111 raises [$0.02]
+11wolf77 calls [$0.02]
+** Dealing flop ** [ 8s, 3c, 9d ]
+11wolf77 bets [$0.08]
+Freddy0111 calls [$0.08]
+** Dealing turn ** [ Tc ]
+11wolf77 bets [$0.12]
+Freddy0111 calls [$0.12]
+** Dealing river ** [ 6d ]
+11wolf77 bets [$0.02]
+Freddy0111 raises [$0.54]
+11wolf77 folds
+** Summary **
+Freddy0111 collected [ $0.49 ]
+
+
+#Game No : 500873937
+***** 888poker Hand History for Game 500873937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 08:00:47
+Table Ji-Parana 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 11wolf77 ( $0.52 )
+Seat 7: Freddy0111 ( $1.23 )
+11wolf77 posts small blind [$0.01]
+Freddy0111 posts big blind [$0.02]
+** Dealing down cards **
+11wolf77 raises [$0.03]
+Freddy0111 calls [$0.02]
+** Dealing flop ** [ 6d, Ac, 5d ]
+Freddy0111 checks
+11wolf77 bets [$0.04]
+Freddy0111 calls [$0.04]
+** Dealing turn ** [ 8h ]
+Freddy0111 bets [$0.02]
+11wolf77 calls [$0.02]
+** Dealing river ** [ 6s ]
+Freddy0111 bets [$0.02]
+11wolf77 calls [$0.02]
+** Summary **
+Freddy0111 shows [ 9h, Ah ]
+11wolf77 mucks [ Th, 7c ]
+Freddy0111 collected [ $0.23 ]
+
+
+#Game No : 500884442
+***** 888poker Hand History for Game 500884442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 11:56:10
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Metalheadz4L ( $1.20 )
+Seat 2: ludaklimova ( $0.68 )
+ludaklimova posts small blind [$0.01]
+Metalheadz4L posts big blind [$0.02]
+** Dealing down cards **
+ludaklimova folds
+** Summary **
+Metalheadz4L collected [ $0.03 ]
+
+
+#Game No : 500884520
+***** 888poker Hand History for Game 500884520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 11:57:49
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Metalheadz4L ( $1.21 )
+Seat 4: shimul773 ( $1 )
+Metalheadz4L posts small blind [$0.01]
+** Dealing down cards **
+shimul773 folds
+** Summary **
+Metalheadz4L collected [ $0.01 ]
+
+
+#Game No : 500884533
+***** 888poker Hand History for Game 500884533 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 11:58:03
+Table Ji-Parana 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Metalheadz4L ( $1.21 )
+Seat 6: RoryCook16 ( $1 )
+RoryCook16 posts small blind [$0.01]
+Metalheadz4L posts big blind [$0.02]
+** Dealing down cards **
+RoryCook16 calls [$0.01]
+Metalheadz4L checks
+** Dealing flop ** [ 9s, 6h, Qs ]
+Metalheadz4L bets [$0.04]
+RoryCook16 calls [$0.04]
+** Dealing turn ** [ Js ]
+Metalheadz4L checks
+RoryCook16 bets [$0.04]
+Metalheadz4L folds
+** Summary **
+RoryCook16 collected [ $0.12 ]
+
+
+#Game No : 500884566
+***** 888poker Hand History for Game 500884566 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 11:58:36
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Metalheadz4L ( $1.15 )
+Seat 6: RoryCook16 ( $1.06 )
+Metalheadz4L posts small blind [$0.01]
+RoryCook16 posts big blind [$0.02]
+** Dealing down cards **
+Metalheadz4L raises [$0.05]
+RoryCook16 calls [$0.04]
+** Dealing flop ** [ 8c, 6d, 5d ]
+RoryCook16 checks
+Metalheadz4L checks
+** Dealing turn ** [ Js ]
+RoryCook16 checks
+Metalheadz4L checks
+** Dealing river ** [ Ah ]
+RoryCook16 checks
+Metalheadz4L checks
+** Summary **
+RoryCook16 shows [ Qs, 4s ]
+Metalheadz4L shows [ 9c, Kh ]
+Metalheadz4L collected [ $0.12 ]
+
+
+#Game No : 500885905
+***** 888poker Hand History for Game 500885905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 12:25:29
+Table Ji-Parana 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: dfjuarros ( $1.32 )
+Seat 9: Bolorig888 ( $1.06 )
+Bolorig888 posts small blind [$0.01]
+dfjuarros posts big blind [$0.02]
+** Dealing down cards **
+Bolorig888 folds
+** Summary **
+dfjuarros collected [ $0.03 ]
+
+
+#Game No : 500885913
+***** 888poker Hand History for Game 500885913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 12:25:34
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dfjuarros ( $1.33 )
+Seat 9: Bolorig888 ( $1.05 )
+dfjuarros posts small blind [$0.01]
+Bolorig888 posts big blind [$0.02]
+** Dealing down cards **
+dfjuarros calls [$0.01]
+Bolorig888 checks
+** Dealing flop ** [ 2c, Qh, 4h ]
+Bolorig888 checks
+dfjuarros checks
+** Dealing turn ** [ Ks ]
+Bolorig888 checks
+dfjuarros bets [$0.04]
+Bolorig888 folds
+** Summary **
+dfjuarros collected [ $0.04 ]
+
+
+#Game No : 500885952
+***** 888poker Hand History for Game 500885952 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 12:26:16
+Table Ji-Parana 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: dfjuarros ( $1.35 )
+Seat 9: Bolorig888 ( $1.03 )
+Bolorig888 posts small blind [$0.01]
+dfjuarros posts big blind [$0.02]
+** Dealing down cards **
+Bolorig888 raises [$0.03]
+dfjuarros calls [$0.02]
+** Dealing flop ** [ Ah, 8h, 7c ]
+dfjuarros checks
+Bolorig888 bets [$0.06]
+dfjuarros calls [$0.06]
+** Dealing turn ** [ 4c ]
+dfjuarros checks
+Bolorig888 bets [$0.14]
+dfjuarros raises [$0.28]
+Bolorig888 calls [$0.14]
+** Dealing river ** [ 2c ]
+dfjuarros bets [$0.76]
+Bolorig888 folds
+** Summary **
+dfjuarros collected [ $0.72 ]
+
+
+#Game No : 500885989
+***** 888poker Hand History for Game 500885989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 12:26:47
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dfjuarros ( $1.69 )
+Seat 9: Bolorig888 ( $1 )
+dfjuarros posts small blind [$0.01]
+Bolorig888 posts big blind [$0.02]
+** Dealing down cards **
+dfjuarros calls [$0.01]
+Bolorig888 checks
+** Dealing flop ** [ 4h, Tc, 4s ]
+Bolorig888 checks
+dfjuarros checks
+** Dealing turn ** [ Js ]
+Bolorig888 checks
+dfjuarros checks
+** Dealing river ** [ Jc ]
+Bolorig888 checks
+dfjuarros checks
+** Summary **
+Bolorig888 shows [ 8c, 6s ]
+dfjuarros shows [ 9s, 7h ]
+Bolorig888 collected [ $0.02 ]
+dfjuarros collected [ $0.02 ]
+
+
+#Game No : 500886011
+***** 888poker Hand History for Game 500886011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 12:27:09
+Table Ji-Parana 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: dfjuarros ( $1.69 )
+Seat 9: Bolorig888 ( $1 )
+Bolorig888 posts small blind [$0.01]
+dfjuarros posts big blind [$0.02]
+** Dealing down cards **
+Bolorig888 folds
+** Summary **
+dfjuarros collected [ $0.03 ]
+
+
+#Game No : 500886214
+***** 888poker Hand History for Game 500886214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 12:30:44
+Table Ji-Parana 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: GreyElf ( $1 )
+Seat 9: Bolorig888 ( $1.33 )
+GreyElf posts small blind [$0.01]
+Bolorig888 posts big blind [$0.02]
+** Dealing down cards **
+GreyElf folds
+** Summary **
+Bolorig888 collected [ $0.03 ]
+
+
+#Game No : 500886229
+***** 888poker Hand History for Game 500886229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 12:30:56
+Table Ji-Parana 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: GreyElf ( $1 )
+Seat 9: Bolorig888 ( $1.34 )
+Bolorig888 posts small blind [$0.01]
+** Dealing down cards **
+GreyElf folds
+** Summary **
+Bolorig888 did not show his hand
+Bolorig888 collected [ $0.01 ]
+
+
+#Game No : 500890766
+***** 888poker Hand History for Game 500890766 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:03:30
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $2.65 )
+Seat 9: Dirty_Louis ( $1.47 )
+SPIK101 posts small blind [$0.01]
+** Dealing down cards **
+Dirty_Louis folds
+** Summary **
+SPIK101 collected [ $0.01 ]
+
+
+#Game No : 500890767
+***** 888poker Hand History for Game 500890767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:03:34
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $2.65 )
+Seat 7: Mariy2000 ( $1.22 )
+SPIK101 posts small blind [$0.01]
+Mariy2000 posts big blind [$0.02]
+** Dealing down cards **
+SPIK101 calls [$0.01]
+Mariy2000 checks
+** Dealing flop ** [ 4h, 9h, Qh ]
+Mariy2000 checks
+SPIK101 bets [$0.02]
+Mariy2000 folds
+** Summary **
+SPIK101 collected [ $0.04 ]
+
+
+#Game No : 500890782
+***** 888poker Hand History for Game 500890782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:03:54
+Table Ji-Parana 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $2.67 )
+Seat 7: Mariy2000 ( $1.20 )
+Mariy2000 posts small blind [$0.01]
+SPIK101 posts big blind [$0.02]
+** Dealing down cards **
+Mariy2000 folds
+** Summary **
+SPIK101 collected [ $0.03 ]
+
+
+#Game No : 500891786
+***** 888poker Hand History for Game 500891786 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:24:07
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $1.56 )
+Seat 2: Dumbledore22 ( $1.58 )
+Dumbledore22 posts small blind [$0.01]
+SPIK101 posts big blind [$0.02]
+** Dealing down cards **
+Dumbledore22 raises [$0.03]
+SPIK101 calls [$0.02]
+** Dealing flop ** [ Ah, 6d, 6s ]
+SPIK101 checks
+Dumbledore22 bets [$0.14]
+SPIK101 folds
+** Summary **
+Dumbledore22 collected [ $0.08 ]
+
+
+#Game No : 500891808
+***** 888poker Hand History for Game 500891808 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:24:34
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $1.52 )
+Seat 2: Dumbledore22 ( $1.62 )
+SPIK101 posts small blind [$0.01]
+Dumbledore22 posts big blind [$0.02]
+** Dealing down cards **
+SPIK101 raises [$0.03]
+Dumbledore22 calls [$0.02]
+** Dealing flop ** [ 5d, Jd, 7s ]
+Dumbledore22 bets [$0.10]
+SPIK101 folds
+** Summary **
+Dumbledore22 collected [ $0.08 ]
+
+
+#Game No : 500891824
+***** 888poker Hand History for Game 500891824 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:24:52
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $1.48 )
+Seat 2: Dumbledore22 ( $1.66 )
+Dumbledore22 posts small blind [$0.01]
+SPIK101 posts big blind [$0.02]
+** Dealing down cards **
+Dumbledore22 raises [$0.03]
+SPIK101 calls [$0.02]
+** Dealing flop ** [ 4d, Jc, 9d ]
+SPIK101 checks
+Dumbledore22 bets [$0.10]
+SPIK101 calls [$0.10]
+** Dealing turn ** [ Qc ]
+SPIK101 checks
+Dumbledore22 bets [$0.18]
+SPIK101 raises [$0.36]
+Dumbledore22 calls [$0.18]
+** Dealing river ** [ Kh ]
+SPIK101 bets [$0.98]
+Dumbledore22 calls [$0.98]
+** Summary **
+SPIK101 shows [ 8c, Td ]
+Dumbledore22 shows [ Qh, 9s ]
+SPIK101 collected [ $2.78 ]
+
+
+#Game No : 500891859
+***** 888poker Hand History for Game 500891859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:25:46
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $2.78 )
+Seat 2: Dumbledore22 ( $0.18 )
+SPIK101 posts small blind [$0.01]
+Dumbledore22 posts big blind [$0.02]
+** Dealing down cards **
+SPIK101 calls [$0.01]
+Dumbledore22 raises [$0.04]
+SPIK101 calls [$0.04]
+** Dealing flop ** [ 9d, Qs, Tc ]
+Dumbledore22 bets [$0.06]
+SPIK101 raises [$0.12]
+Dumbledore22 calls [$0.06]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ Js ]
+** Summary **
+SPIK101 shows [ 4d, Jh ]
+Dumbledore22 shows [ 6d, Ad ]
+SPIK101 collected [ $0.34 ]
+
+
+#Game No : 500891908
+***** 888poker Hand History for Game 500891908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:26:50
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $2.94 )
+Seat 2: Dumbledore22 ( $0.80 )
+SPIK101 posts small blind [$0.01]
+Dumbledore22 posts big blind [$0.02]
+** Dealing down cards **
+SPIK101 calls [$0.01]
+Dumbledore22 raises [$0.08]
+SPIK101 calls [$0.08]
+** Dealing flop ** [ 9d, Ks, Th ]
+Dumbledore22 bets [$0.04]
+SPIK101 raises [$0.08]
+Dumbledore22 calls [$0.04]
+** Dealing turn ** [ Kc ]
+Dumbledore22 bets [$0.14]
+SPIK101 folds
+** Summary **
+Dumbledore22 collected [ $0.34 ]
+
+
+#Game No : 500891942
+***** 888poker Hand History for Game 500891942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:27:40
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $2.76 )
+Seat 2: Dumbledore22 ( $0.96 )
+Dumbledore22 posts small blind [$0.01]
+SPIK101 posts big blind [$0.02]
+** Dealing down cards **
+Dumbledore22 calls [$0.01]
+SPIK101 checks
+** Dealing flop ** [ 4s, Ah, 4h ]
+SPIK101 checks
+Dumbledore22 checks
+** Dealing turn ** [ Ac ]
+SPIK101 checks
+Dumbledore22 checks
+** Dealing river ** [ 3h ]
+SPIK101 bets [$0.02]
+Dumbledore22 raises [$0.06]
+SPIK101 folds
+** Summary **
+Dumbledore22 collected [ $0.08 ]
+
+
+#Game No : 500891963
+***** 888poker Hand History for Game 500891963 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:28:18
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $2.72 )
+Seat 2: Dumbledore22 ( $1 )
+SPIK101 posts small blind [$0.01]
+Dumbledore22 posts big blind [$0.02]
+** Dealing down cards **
+SPIK101 calls [$0.01]
+Dumbledore22 raises [$0.04]
+SPIK101 calls [$0.04]
+** Dealing flop ** [ Jh, 4h, 6h ]
+Dumbledore22 bets [$0.10]
+SPIK101 raises [$0.92]
+Dumbledore22 folds
+** Summary **
+SPIK101 collected [ $0.30 ]
+
+
+#Game No : 500891985
+***** 888poker Hand History for Game 500891985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:28:52
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SPIK101 ( $2.86 )
+Seat 2: Dumbledore22 ( $0.84 )
+Dumbledore22 posts small blind [$0.01]
+SPIK101 posts big blind [$0.02]
+** Dealing down cards **
+Dumbledore22 raises [$0.03]
+SPIK101 raises [$0.04]
+Dumbledore22 calls [$0.02]
+** Dealing flop ** [ 2d, Ac, 6d ]
+SPIK101 bets [$0.08]
+Dumbledore22 calls [$0.08]
+** Dealing turn ** [ Jc ]
+SPIK101 bets [$0.28]
+Dumbledore22 folds
+** Summary **
+SPIK101 collected [ $0.27 ]
+
+
+#Game No : 500893196
+***** 888poker Hand History for Game 500893196 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:01:13
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nvde12 ( $1 )
+Seat 6: SlikvsSlik ( $1.01 )
+nvde12 posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+nvde12 calls [$0.01]
+SlikvsSlik checks
+** Dealing flop ** [ 2c, 4h, Ad ]
+SlikvsSlik checks
+nvde12 bets [$0.04]
+SlikvsSlik folds
+** Summary **
+nvde12 collected [ $0.04 ]
+
+

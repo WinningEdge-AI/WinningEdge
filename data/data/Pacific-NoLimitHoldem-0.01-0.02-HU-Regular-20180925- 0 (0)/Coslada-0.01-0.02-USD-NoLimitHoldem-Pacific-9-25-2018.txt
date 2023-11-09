@@ -1,0 +1,321 @@
+#Game No : 1211528335
+***** 888poker Hand History for Game 1211528335 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 20:11:34
+Table Coslada 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: diegodriguez ( $0.80 )
+Seat 5: djangoninja ( $0.80 )
+diegodriguez posts small blind [$0.01]
+djangoninja posts big blind [$0.02]
+** Dealing down cards **
+diegodriguez raises [$0.03]
+djangoninja calls [$0.02]
+** Dealing flop ** [ 7c, 3d, 8c ]
+djangoninja bets [$0.05]
+diegodriguez calls [$0.05]
+** Dealing turn ** [ Ah ]
+djangoninja bets [$0.09]
+diegodriguez raises [$0.18]
+djangoninja raises [$0.18]
+diegodriguez raises [$0.53]
+djangoninja calls [$0.44]
+** Dealing river ** [ Ks ]
+** Summary **
+diegodriguez shows [ 8s, 4d ]
+djangoninja shows [ 7h, 7s ]
+djangoninja collected [ $1.50 ]
+
+
+#Game No : 1211528435
+***** 888poker Hand History for Game 1211528435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 20:12:23
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: djangoninja ( $1.50 )
+Seat 7: BOND13021989 ( $1.20 )
+djangoninja posts small blind [$0.01]
+BOND13021989 posts big blind [$0.02]
+** Dealing down cards **
+djangoninja folds
+** Summary **
+BOND13021989 collected [ $0.03 ]
+
+
+#Game No : 511896392
+***** 888poker Hand History for Game 511896392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 04:55:16
+Table Coslada 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ABT0HOM ( $1 )
+Seat 2: steve_manta ( $2 )
+steve_manta posts small blind [$0.01]
+** Dealing down cards **
+ABT0HOM folds
+** Summary **
+steve_manta did not show his hand
+steve_manta collected [ $0.01 ]
+
+
+#Game No : 511896472
+***** 888poker Hand History for Game 511896472 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 04:57:05
+Table Coslada 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Denis1255 ( $1.80 )
+Seat 3: ABT0HOM ( $1 )
+Denis1255 posts small blind [$0.01]
+ABT0HOM posts big blind [$0.02]
+** Dealing down cards **
+Denis1255 calls [$0.01]
+ABT0HOM checks
+** Dealing flop ** [ 6s, 4s, 9c ]
+ABT0HOM bets [$0.02]
+Denis1255 calls [$0.02]
+** Dealing turn ** [ 7h ]
+ABT0HOM bets [$0.02]
+Denis1255 calls [$0.02]
+** Dealing river ** [ 2c ]
+ABT0HOM bets [$0.02]
+Denis1255 calls [$0.02]
+** Summary **
+ABT0HOM shows [ 6h, Qs ]
+Denis1255 shows [ Ac, Ah ]
+Denis1255 collected [ $0.15 ]
+
+
+#Game No : 511896511
+***** 888poker Hand History for Game 511896511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 04:57:46
+Table Coslada 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: Denis1255 ( $1.87 )
+Seat 3: ABT0HOM ( $1 )
+ABT0HOM posts small blind [$0.01]
+Denis1255 posts big blind [$0.02]
+** Dealing down cards **
+ABT0HOM calls [$0.01]
+Denis1255 checks
+** Dealing flop ** [ Qh, 2c, 3d ]
+Denis1255 bets [$0.02]
+ABT0HOM folds
+** Summary **
+Denis1255 collected [ $0.04 ]
+
+
+#Game No : 511924581
+***** 888poker Hand History for Game 511924581 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 11:55:18
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: vertug ( $2.19 )
+Seat 9: DrissHna ( $7.34 )
+vertug posts small blind [$0.01]
+DrissHna posts big blind [$0.02]
+** Dealing down cards **
+vertug folds
+** Summary **
+DrissHna collected [ $0.03 ]
+
+
+#Game No : 511924602
+***** 888poker Hand History for Game 511924602 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 11:55:31
+Table Coslada 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: vertug ( $2.18 )
+Seat 9: DrissHna ( $7.35 )
+vertug posts small blind [$0.01]
+DrissHna posts big blind [$0.02]
+** Dealing down cards **
+vertug raises [$0.05]
+DrissHna calls [$0.04]
+** Dealing flop ** [ Qh, 7s, Kh ]
+vertug checks
+DrissHna bets [$0.08]
+vertug folds
+** Summary **
+DrissHna collected [ $0.12 ]
+
+
+#Game No : 511924755
+***** 888poker Hand History for Game 511924755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 11:56:56
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: vertug ( $2.12 )
+Seat 9: DrissHna ( $7.41 )
+vertug posts small blind [$0.01]
+DrissHna posts big blind [$0.02]
+** Dealing down cards **
+vertug raises [$0.09]
+DrissHna folds
+** Summary **
+vertug collected [ $0.04 ]
+
+
+#Game No : 511924791
+***** 888poker Hand History for Game 511924791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 11:57:15
+Table Coslada 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: vertug ( $2.14 )
+Seat 9: DrissHna ( $7.39 )
+DrissHna posts small blind [$0.01]
+** Dealing down cards **
+vertug folds
+** Summary **
+DrissHna collected [ $0.01 ]
+
+
+#Game No : 502912943
+***** 888poker Hand History for Game 502912943 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 13:56:41
+Table Coslada 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nya_x ( $1.39 )
+Seat 4: _.TheDude._ ( $1.01 )
+nya_x posts small blind [$0.01]
+_.TheDude._ posts big blind [$0.02]
+** Dealing down cards **
+nya_x raises [$0.05]
+_.TheDude._ folds
+** Summary **
+nya_x collected [ $0.04 ]
+
+
+#Game No : 502912957
+***** 888poker Hand History for Game 502912957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 13:56:54
+Table Coslada 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: nya_x ( $1.41 )
+Seat 4: _.TheDude._ ( $1 )
+_.TheDude._ posts small blind [$0.01]
+nya_x posts big blind [$0.02]
+** Dealing down cards **
+_.TheDude._ raises [$0.05]
+nya_x calls [$0.04]
+** Dealing flop ** [ 9h, As, Qh ]
+nya_x checks
+_.TheDude._ bets [$0.06]
+nya_x calls [$0.06]
+** Dealing turn ** [ 4d ]
+nya_x checks
+_.TheDude._ bets [$0.12]
+nya_x calls [$0.12]
+** Dealing river ** [ 8s ]
+nya_x checks
+_.TheDude._ bets [$0.24]
+nya_x folds
+** Summary **
+_.TheDude._ collected [ $0.45 ]
+
+
+#Game No : 502912982
+***** 888poker Hand History for Game 502912982 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 13:57:22
+Table Coslada 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nya_x ( $1.17 )
+Seat 4: _.TheDude._ ( $1.21 )
+nya_x posts small blind [$0.01]
+_.TheDude._ posts big blind [$0.02]
+** Dealing down cards **
+nya_x raises [$0.05]
+_.TheDude._ folds
+** Summary **
+nya_x collected [ $0.04 ]
+
+
+#Game No : 502913047
+***** 888poker Hand History for Game 502913047 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 13:58:39
+Table Coslada 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: zver2000_08 ( $0.80 )
+Seat 6: vnuk36 ( $0.80 )
+vnuk36 posts small blind [$0.01]
+zver2000_08 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+zver2000_08 raises [$0.02]
+vnuk36 calls [$0.02]
+** Dealing flop ** [ 2c, Td, 3d ]
+zver2000_08 checks
+vnuk36 bets [$0.16]
+zver2000_08 calls [$0.16]
+** Dealing turn ** [ 6c ]
+zver2000_08 checks
+vnuk36 bets [$0.40]
+zver2000_08 calls [$0.40]
+** Dealing river ** [ 3c ]
+zver2000_08 checks
+vnuk36 checks
+** Summary **
+zver2000_08 shows [ Jd, Js ]
+vnuk36 mucks [ Th, 7s ]
+zver2000_08 collected [ $1.13 ]
+
+
+#Game No : 502913080
+***** 888poker Hand History for Game 502913080 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 13:59:21
+Table Coslada 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: zver2000_08 ( $1.33 )
+Seat 6: vnuk36 ( $0.20 )
+zver2000_08 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+zver2000_08 calls [$0.01]
+vnuk36 raises [$0.18]
+zver2000_08 calls [$0.18]
+** Dealing flop ** [ 3d, 2s, 3h ]
+** Dealing turn ** [ Qc ]
+** Dealing river ** [ 4c ]
+** Summary **
+zver2000_08 shows [ 8c, Jc ]
+vnuk36 shows [ Ts, Ad ]
+vnuk36 collected [ $0.38 ]
+
+
+#Game No : 502913098
+***** 888poker Hand History for Game 502913098 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 13:59:41
+Table Coslada 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: zver2000_08 ( $1.13 )
+Seat 6: vnuk36 ( $0.38 )
+vnuk36 posts small blind [$0.01]
+zver2000_08 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+zver2000_08 checks
+** Dealing flop ** [ 5h, 7d, 5s ]
+zver2000_08 checks
+vnuk36 checks
+** Dealing turn ** [ 2s ]
+zver2000_08 checks
+vnuk36 checks
+** Dealing river ** [ Qs ]
+zver2000_08 bets [$0.04]
+vnuk36 folds
+** Summary **
+zver2000_08 collected [ $0.04 ]
+
+

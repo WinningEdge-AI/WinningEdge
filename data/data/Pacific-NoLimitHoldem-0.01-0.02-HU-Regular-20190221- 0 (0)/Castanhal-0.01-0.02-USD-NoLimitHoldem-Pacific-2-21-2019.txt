@@ -1,0 +1,30 @@
+#Game No : 514056979
+***** 888poker Hand History for Game 514056979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 02 2019 10:03:43
+Table Castanhal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: shahunskiy ( $1.15 )
+Seat 7: SteveWallace ( $1.96 )
+shahunskiy posts small blind [$0.01]
+SteveWallace posts big blind [$0.02]
+** Dealing down cards **
+shahunskiy raises [$0.05]
+SteveWallace calls [$0.04]
+** Dealing flop ** [ 8s, 8c, Kc ]
+SteveWallace checks
+shahunskiy checks
+** Dealing turn ** [ 7c ]
+SteveWallace checks
+shahunskiy bets [$0.08]
+SteveWallace calls [$0.08]
+** Dealing river ** [ 2d ]
+SteveWallace checks
+shahunskiy bets [$0.18]
+SteveWallace calls [$0.18]
+** Summary **
+shahunskiy shows [ 7s, 7d ]
+SteveWallace mucks [ Ah, Td ]
+shahunskiy collected [ $0.60 ]
+
+

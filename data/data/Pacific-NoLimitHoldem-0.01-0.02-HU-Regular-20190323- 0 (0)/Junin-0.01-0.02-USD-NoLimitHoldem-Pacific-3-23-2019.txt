@@ -1,0 +1,47 @@
+#Game No : 617646654
+***** 888poker Hand History for Game 617646654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 06:53:54
+Table Junin 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: abbos77 ( $0.81 )
+Seat 2: Monsterixx ( $1.99 )
+abbos77 posts small blind [$0.01]
+Monsterixx posts big blind [$0.02]
+** Dealing down cards **
+abbos77 raises [$0.03]
+Monsterixx calls [$0.02]
+** Dealing flop ** [ 7c, 8c, 4c ]
+Monsterixx bets [$0.02]
+abbos77 calls [$0.02]
+** Dealing turn ** [ Jc ]
+Monsterixx bets [$0.02]
+abbos77 calls [$0.02]
+** Dealing river ** [ 9s ]
+Monsterixx checks
+abbos77 bets [$0.08]
+Monsterixx raises [$0.16]
+abbos77 calls [$0.08]
+** Summary **
+Monsterixx shows [ Kc, Jh ]
+abbos77 mucks [ Td, 5c ]
+Monsterixx collected [ $0.45 ]
+
+
+#Game No : 617646691
+***** 888poker Hand History for Game 617646691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 06:54:05
+Table Junin 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: abbos77 ( $0.57 )
+Seat 2: Monsterixx ( $2.20 )
+Monsterixx posts small blind [$0.01]
+abbos77 posts big blind [$0.02]
+** Dealing down cards **
+Monsterixx raises [$0.03]
+abbos77 folds
+** Summary **
+Monsterixx collected [ $0.04 ]
+
+

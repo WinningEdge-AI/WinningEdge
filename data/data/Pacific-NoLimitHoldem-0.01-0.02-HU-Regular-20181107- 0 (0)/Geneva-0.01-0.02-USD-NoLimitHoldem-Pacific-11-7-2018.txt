@@ -1,0 +1,434 @@
+#Game No : 504970391
+***** 888poker Hand History for Game 504970391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 18:11:47
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: luiz2587 ( $1.12 )
+Seat 4: nN0NAME ( $1.01 )
+luiz2587 posts small blind [$0.01]
+nN0NAME posts big blind [$0.02]
+** Dealing down cards **
+luiz2587 raises [$0.03]
+nN0NAME folds
+** Summary **
+luiz2587 collected [ $0.04 ]
+
+
+#Game No : 504970395
+***** 888poker Hand History for Game 504970395 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 18:11:58
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: luiz2587 ( $1.14 )
+Seat 4: nN0NAME ( $1 )
+nN0NAME posts small blind [$0.01]
+luiz2587 posts big blind [$0.02]
+** Dealing down cards **
+nN0NAME raises [$0.05]
+luiz2587 folds
+** Summary **
+nN0NAME collected [ $0.04 ]
+
+
+#Game No : 504970419
+***** 888poker Hand History for Game 504970419 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 18:13:01
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: luiz2587 ( $1.09 )
+Seat 9: kaimercer13 ( $1.71 )
+luiz2587 posts small blind [$0.01]
+kaimercer13 posts big blind [$0.02]
+** Dealing down cards **
+luiz2587 folds
+** Summary **
+kaimercer13 did not show his hand
+kaimercer13 collected [ $0.03 ]
+
+
+#Game No : 504970423
+***** 888poker Hand History for Game 504970423 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 18:13:07
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: luiz2587 ( $1.08 )
+Seat 9: kaimercer13 ( $1.72 )
+kaimercer13 posts small blind [$0.01]
+luiz2587 posts big blind [$0.02]
+** Dealing down cards **
+kaimercer13 calls [$0.01]
+luiz2587 checks
+** Dealing flop ** [ Ah, 3h, Th ]
+luiz2587 checks
+kaimercer13 bets [$0.02]
+luiz2587 calls [$0.02]
+** Dealing turn ** [ 5d ]
+luiz2587 checks
+kaimercer13 bets [$0.02]
+luiz2587 raises [$0.08]
+kaimercer13 calls [$0.06]
+** Dealing river ** [ 7h ]
+luiz2587 checks
+kaimercer13 checks
+** Summary **
+luiz2587 shows [ 3c, Tc ]
+kaimercer13 mucks [ 8s, Td ]
+luiz2587 collected [ $0.23 ]
+
+
+#Game No : 504970437
+***** 888poker Hand History for Game 504970437 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 18:13:38
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: luiz2587 ( $1.19 )
+Seat 9: kaimercer13 ( $1.60 )
+luiz2587 posts small blind [$0.01]
+kaimercer13 posts big blind [$0.02]
+** Dealing down cards **
+luiz2587 raises [$0.03]
+kaimercer13 calls [$0.02]
+** Dealing flop ** [ As, 5h, 3c ]
+kaimercer13 checks
+luiz2587 bets [$0.04]
+kaimercer13 calls [$0.04]
+** Dealing turn ** [ 4d ]
+kaimercer13 bets [$0.08]
+luiz2587 raises [$0.23]
+kaimercer13 calls [$0.15]
+** Dealing river ** [ 8c ]
+kaimercer13 bets [$0.31]
+luiz2587 calls [$0.31]
+** Summary **
+kaimercer13 shows [ Ad, Td ]
+luiz2587 shows [ 2c, Kc ]
+luiz2587 collected [ $1.17 ]
+
+
+#Game No : 504971970
+***** 888poker Hand History for Game 504971970 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 19:24:00
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Viacha ( $0.98 )
+Seat 4: AldanShilDim ( $1.40 )
+AldanShilDim posts small blind [$0.01]
+Viacha posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+Viacha collected [ $0.03 ]
+
+
+#Game No : 504971974
+***** 888poker Hand History for Game 504971974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 19:24:04
+Table Geneva 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Viacha ( $0.99 )
+Seat 4: AldanShilDim ( $1.39 )
+Viacha posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+Viacha folds
+** Summary **
+AldanShilDim collected [ $0.03 ]
+
+
+#Game No : 504971978
+***** 888poker Hand History for Game 504971978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 19:24:14
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Viacha ( $0.98 )
+Seat 4: AldanShilDim ( $1.40 )
+AldanShilDim posts small blind [$0.01]
+Viacha posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+Viacha collected [ $0.03 ]
+
+
+#Game No : 504971981
+***** 888poker Hand History for Game 504971981 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 19:24:21
+Table Geneva 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Viacha ( $0.99 )
+Seat 4: AldanShilDim ( $1.39 )
+Viacha posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+Viacha raises [$0.04]
+AldanShilDim folds
+** Summary **
+Viacha collected [ $0.04 ]
+
+
+#Game No : 504971996
+***** 888poker Hand History for Game 504971996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 19:24:50
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Viacha ( $1.01 )
+Seat 4: AldanShilDim ( $1.37 )
+AldanShilDim posts small blind [$0.01]
+Viacha posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+Viacha collected [ $0.03 ]
+
+
+#Game No : 504972000
+***** 888poker Hand History for Game 504972000 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 19:24:55
+Table Geneva 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Viacha ( $1.02 )
+Seat 4: AldanShilDim ( $1.36 )
+Viacha posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+Viacha raises [$0.04]
+AldanShilDim folds
+** Summary **
+Viacha collected [ $0.04 ]
+
+
+#Game No : 504972007
+***** 888poker Hand History for Game 504972007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 19:25:06
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Viacha ( $1.04 )
+Seat 4: AldanShilDim ( $1.34 )
+AldanShilDim posts small blind [$0.01]
+** Dealing down cards **
+Viacha folds
+** Summary **
+AldanShilDim collected [ $0.01 ]
+
+
+#Game No : 504972011
+***** 888poker Hand History for Game 504972011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 19:25:17
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Viacha ( $1.04 )
+Seat 4: AldanShilDim ( $1.34 )
+AldanShilDim posts small blind [$0.01]
+Viacha posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+Viacha collected [ $0.03 ]
+
+
+#Game No : 509018940
+***** 888poker Hand History for Game 509018940 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 22:10:13
+Table Geneva 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: str102rus ( $0.96 )
+Seat 3: JRSW17 ( $2.09 )
+JRSW17 posts small blind [$0.01]
+str102rus posts big blind [$0.02]
+** Dealing down cards **
+JRSW17 folds
+** Summary **
+str102rus collected [ $0.03 ]
+
+
+#Game No : 509018947
+***** 888poker Hand History for Game 509018947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 22:10:42
+Table Geneva 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: str102rus ( $0.97 )
+Seat 3: JRSW17 ( $2.07 )
+JRSW17 posts small blind [$0.01]
+str102rus posts big blind [$0.02]
+** Dealing down cards **
+JRSW17 raises [$0.03]
+str102rus calls [$0.02]
+** Dealing flop ** [ 3h, Jd, Ks ]
+str102rus checks
+JRSW17 bets [$0.02]
+str102rus calls [$0.02]
+** Dealing turn ** [ 2s ]
+str102rus bets [$0.06]
+JRSW17 folds
+** Summary **
+str102rus collected [ $0.12 ]
+
+
+#Game No : 509018954
+***** 888poker Hand History for Game 509018954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 22:11:07
+Table Geneva 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: str102rus ( $1.06 )
+Seat 4: DDragu ( $1.98 )
+DDragu posts small blind [$0.01]
+str102rus posts big blind [$0.02]
+** Dealing down cards **
+DDragu folds
+** Summary **
+str102rus collected [ $0.03 ]
+
+
+#Game No : 509018989
+***** 888poker Hand History for Game 509018989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 22:14:09
+Table Geneva 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KimDmt ( $1.01 )
+Seat 4: GreedyK ( $0.99 )
+KimDmt posts small blind [$0.01]
+GreedyK posts big blind [$0.02]
+** Dealing down cards **
+KimDmt calls [$0.01]
+GreedyK checks
+** Dealing flop ** [ Ac, 2h, 6s ]
+GreedyK checks
+KimDmt checks
+** Dealing turn ** [ 2s ]
+GreedyK checks
+KimDmt bets [$0.04]
+GreedyK calls [$0.04]
+** Dealing river ** [ Kd ]
+GreedyK checks
+KimDmt bets [$0.06]
+GreedyK folds
+** Summary **
+KimDmt collected [ $0.12 ]
+
+
+#Game No : 509022851
+***** 888poker Hand History for Game 509022851 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 02:36:17
+Table Geneva 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sweetaon ( $2.21 )
+Seat 9: ZenLudoman ( $1.63 )
+ZenLudoman posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+ZenLudoman calls [$0.01]
+sweetaon checks
+** Dealing flop ** [ 3c, 3s, 8s ]
+sweetaon checks
+ZenLudoman checks
+** Dealing turn ** [ Ts ]
+sweetaon checks
+ZenLudoman bets [$0.02]
+sweetaon folds
+** Summary **
+ZenLudoman collected [ $0.04 ]
+
+
+#Game No : 509022858
+***** 888poker Hand History for Game 509022858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 02:36:34
+Table Geneva 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sweetaon ( $2.19 )
+Seat 9: ZenLudoman ( $1.65 )
+sweetaon posts small blind [$0.01]
+ZenLudoman posts big blind [$0.02]
+** Dealing down cards **
+sweetaon folds
+** Summary **
+ZenLudoman collected [ $0.03 ]
+
+
+#Game No : 509022860
+***** 888poker Hand History for Game 509022860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 02:36:40
+Table Geneva 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sweetaon ( $2.18 )
+Seat 9: ZenLudoman ( $1.66 )
+ZenLudoman posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+ZenLudoman calls [$0.01]
+sweetaon checks
+** Dealing flop ** [ Td, Qd, Kh ]
+sweetaon checks
+ZenLudoman bets [$0.04]
+sweetaon folds
+** Summary **
+ZenLudoman collected [ $0.04 ]
+
+
+#Game No : 509022868
+***** 888poker Hand History for Game 509022868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 02:37:05
+Table Geneva 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sweetaon ( $2.16 )
+Seat 9: ZenLudoman ( $1.68 )
+sweetaon posts small blind [$0.01]
+ZenLudoman posts big blind [$0.02]
+** Dealing down cards **
+sweetaon raises [$0.04]
+ZenLudoman folds
+** Summary **
+sweetaon collected [ $0.04 ]
+
+
+#Game No : 509022869
+***** 888poker Hand History for Game 509022869 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 02:37:13
+Table Geneva 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sweetaon ( $2.18 )
+Seat 9: ZenLudoman ( $1.66 )
+ZenLudoman posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+ZenLudoman folds
+** Summary **
+sweetaon collected [ $0.03 ]
+
+
+#Game No : 509022872
+***** 888poker Hand History for Game 509022872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 02:37:18
+Table Geneva 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sweetaon ( $2.19 )
+Seat 9: ZenLudoman ( $1.65 )
+sweetaon posts small blind [$0.01]
+** Dealing down cards **
+ZenLudoman folds
+** Summary **
+sweetaon collected [ $0.01 ]
+
+

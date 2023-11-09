@@ -1,0 +1,46 @@
+#Game No : 457796522
+***** 888poker Hand History for Game 457796522 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 19:01:38
+Table Ogden 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: ragehe1 ( $1.67 )
+Seat 3: elPeanuto ( $0.71 )
+elPeanuto posts small blind [$0.01]
+ragehe1 posts big blind [$0.02]
+** Dealing down cards **
+elPeanuto calls [$0.01]
+ragehe1 checks
+** Dealing flop ** [ 9h, Qs, 8c ]
+ragehe1 checks
+elPeanuto checks
+** Dealing turn ** [ 2c ]
+ragehe1 checks
+elPeanuto checks
+** Dealing river ** [ Ac ]
+ragehe1 checks
+elPeanuto checks
+** Summary **
+ragehe1 shows [ Kc, 7s ]
+elPeanuto shows [ Th, Kh ]
+elPeanuto collected [ $0.04 ]
+
+
+#Game No : 457806232
+***** 888poker Hand History for Game 457806232 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 04:03:17
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: card2d2 ( $1.20 )
+Seat 2: Obito111 ( $4.61 )
+Obito111 posts small blind [$0.01]
+card2d2 posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+card2d2 folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.04 ]
+
+

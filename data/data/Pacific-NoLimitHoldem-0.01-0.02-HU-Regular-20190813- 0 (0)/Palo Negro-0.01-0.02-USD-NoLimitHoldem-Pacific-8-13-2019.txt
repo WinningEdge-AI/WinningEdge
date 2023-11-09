@@ -1,0 +1,102 @@
+#Game No : 520477202
+***** 888poker Hand History for Game 520477202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2019 18:24:49
+Table Palo Negro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $2 )
+Seat 7: mac1driver ( $2.09 )
+mac1driver posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+mac1driver calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ 3d, Ts, 7h ]
+klerik170 checks
+mac1driver checks
+** Dealing turn ** [ 2h ]
+klerik170 checks
+mac1driver bets [$0.02]
+klerik170 calls [$0.02]
+** Dealing river ** [ 7d ]
+klerik170 checks
+mac1driver bets [$0.02]
+klerik170 folds
+** Summary **
+mac1driver did not show his hand
+mac1driver collected [ $0.08 ]
+
+
+#Game No : 520477211
+***** 888poker Hand History for Game 520477211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2019 18:25:24
+Table Palo Negro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $2 )
+Seat 7: mac1driver ( $2.13 )
+klerik170 posts small blind [$0.01]
+mac1driver posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+mac1driver checks
+** Dealing flop ** [ Td, Kd, Js ]
+mac1driver checks
+klerik170 bets [$0.04]
+mac1driver raises [$0.08]
+klerik170 calls [$0.04]
+** Dealing turn ** [ 7c ]
+mac1driver bets [$0.13]
+klerik170 calls [$0.13]
+** Dealing river ** [ 9c ]
+mac1driver bets [$0.30]
+klerik170 folds
+** Summary **
+mac1driver did not show his hand
+mac1driver collected [ $0.44 ]
+
+
+#Game No : 520477221
+***** 888poker Hand History for Game 520477221 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2019 18:26:02
+Table Palo Negro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $2 )
+Seat 7: mac1driver ( $2.34 )
+mac1driver posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+mac1driver calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ 7h, 2h, Td ]
+klerik170 bets [$0.04]
+mac1driver calls [$0.04]
+** Dealing turn ** [ 7s ]
+klerik170 checks
+mac1driver checks
+** Dealing river ** [ 5d ]
+klerik170 bets [$0.02]
+mac1driver calls [$0.02]
+** Summary **
+klerik170 shows [ Ks, Ts ]
+mac1driver mucks [ Ac, 4c ]
+klerik170 collected [ $0.15 ]
+
+
+#Game No : 520477229
+***** 888poker Hand History for Game 520477229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2019 18:26:30
+Table Palo Negro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $2.07 )
+Seat 7: mac1driver ( $2.26 )
+klerik170 posts small blind [$0.01]
+mac1driver posts big blind [$0.02]
+** Dealing down cards **
+klerik170 folds
+** Summary **
+mac1driver collected [ $0.03 ]
+
+

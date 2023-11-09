@@ -1,0 +1,81 @@
+#Game No : 502300023
+***** 888poker Hand History for Game 502300023 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 16:02:20
+Table Sugar Land 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: xGlamx ( $1.05 )
+Seat 6: Dmodrik ( $1.57 )
+Dmodrik posts small blind [$0.01]
+xGlamx posts big blind [$0.02]
+** Dealing down cards **
+Dmodrik calls [$0.01]
+xGlamx checks
+** Dealing flop ** [ 9h, 9s, Jh ]
+xGlamx bets [$0.02]
+Dmodrik raises [$0.04]
+xGlamx calls [$0.02]
+** Dealing turn ** [ 2c ]
+xGlamx bets [$0.02]
+Dmodrik calls [$0.02]
+** Dealing river ** [ Ad ]
+xGlamx bets [$0.10]
+Dmodrik folds
+** Summary **
+xGlamx collected [ $0.15 ]
+
+
+#Game No : 502300038
+***** 888poker Hand History for Game 502300038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 16:02:48
+Table Sugar Land 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: xGlamx ( $1.12 )
+Seat 6: Dmodrik ( $1.49 )
+xGlamx posts small blind [$0.01]
+Dmodrik posts big blind [$0.02]
+** Dealing down cards **
+xGlamx calls [$0.01]
+Dmodrik raises [$0.04]
+xGlamx calls [$0.04]
+** Dealing flop ** [ 8d, Qs, Ad ]
+Dmodrik bets [$0.02]
+xGlamx calls [$0.02]
+** Dealing turn ** [ 3d ]
+Dmodrik bets [$0.02]
+xGlamx calls [$0.02]
+** Dealing river ** [ 9d ]
+Dmodrik bets [$0.02]
+xGlamx raises [$0.04]
+Dmodrik calls [$0.02]
+** Summary **
+xGlamx shows [ 5c, Jc ]
+Dmodrik shows [ 9c, 8s ]
+Dmodrik collected [ $0.27 ]
+
+
+#Game No : 502300050
+***** 888poker Hand History for Game 502300050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 16:03:11
+Table Sugar Land 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: xGlamx ( $0.98 )
+Seat 6: Dmodrik ( $1.62 )
+Dmodrik posts small blind [$0.01]
+xGlamx posts big blind [$0.02]
+** Dealing down cards **
+Dmodrik raises [$0.03]
+xGlamx calls [$0.02]
+** Dealing flop ** [ 4s, Kh, 2d ]
+xGlamx bets [$0.02]
+Dmodrik raises [$0.04]
+xGlamx calls [$0.02]
+** Dealing turn ** [ 4h ]
+xGlamx bets [$0.02]
+Dmodrik folds
+** Summary **
+xGlamx collected [ $0.15 ]
+
+

@@ -1,0 +1,783 @@
+#Game No : 1292065592
+***** 888poker Hand History for Game 1292065592 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:01:46
+Table Vila Velha 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.80 )
+Seat 6: DTurouski ( $0.80 )
+DTurouski posts small blind [$0.01]
+99TERRANCE99 posts big blind [$0.02]
+** Dealing down cards **
+DTurouski calls [$0.01]
+99TERRANCE99 checks
+** Dealing flop ** [ Qd, 7c, 7s ]
+99TERRANCE99 checks
+DTurouski bets [$0.02]
+99TERRANCE99 calls [$0.02]
+** Dealing turn ** [ 9c ]
+99TERRANCE99 checks
+DTurouski bets [$0.02]
+99TERRANCE99 calls [$0.02]
+** Dealing river ** [ 2d ]
+99TERRANCE99 checks
+DTurouski checks
+** Summary **
+99TERRANCE99 shows [ Ks, Th ]
+DTurouski shows [ 6h, 9s ]
+DTurouski collected [ $0.12 ]
+
+
+#Game No : 1292065655
+***** 888poker Hand History for Game 1292065655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:01:49
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.74 )
+Seat 6: DTurouski ( $0.86 )
+99TERRANCE99 posts small blind [$0.01]
+DTurouski posts big blind [$0.02]
+** Dealing down cards **
+99TERRANCE99 calls [$0.01]
+DTurouski checks
+** Dealing flop ** [ 6s, 7d, 2c ]
+DTurouski bets [$0.02]
+99TERRANCE99 calls [$0.02]
+** Dealing turn ** [ Tc ]
+DTurouski bets [$0.02]
+99TERRANCE99 calls [$0.02]
+** Dealing river ** [ 5d ]
+DTurouski checks
+99TERRANCE99 checks
+** Summary **
+DTurouski shows [ 7h, 3d ]
+99TERRANCE99 mucks [ 2h, Kc ]
+DTurouski collected [ $0.12 ]
+
+
+#Game No : 1292065691
+***** 888poker Hand History for Game 1292065691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:02:11
+Table Vila Velha 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.68 )
+Seat 6: DTurouski ( $0.92 )
+DTurouski posts small blind [$0.01]
+99TERRANCE99 posts big blind [$0.02]
+** Dealing down cards **
+DTurouski raises [$0.03]
+99TERRANCE99 calls [$0.02]
+** Dealing flop ** [ 5s, 3h, Ks ]
+99TERRANCE99 checks
+DTurouski bets [$0.04]
+99TERRANCE99 calls [$0.04]
+** Dealing turn ** [ 3c ]
+99TERRANCE99 checks
+DTurouski bets [$0.04]
+99TERRANCE99 calls [$0.04]
+** Dealing river ** [ 2c ]
+99TERRANCE99 bets [$0.06]
+DTurouski calls [$0.06]
+** Summary **
+99TERRANCE99 shows [ Qc, Kh ]
+DTurouski shows [ Kc, Qd ]
+DTurouski collected [ $0.17 ]
+99TERRANCE99 collected [ $0.17 ]
+
+
+#Game No : 1292065745
+***** 888poker Hand History for Game 1292065745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:02:43
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.67 )
+Seat 6: DTurouski ( $0.91 )
+99TERRANCE99 posts small blind [$0.01]
+DTurouski posts big blind [$0.02]
+** Dealing down cards **
+99TERRANCE99 raises [$0.03]
+DTurouski calls [$0.02]
+** Dealing flop ** [ 8h, 4h, 4d ]
+DTurouski bets [$0.02]
+99TERRANCE99 calls [$0.02]
+** Dealing turn ** [ Qc ]
+DTurouski bets [$0.02]
+99TERRANCE99 calls [$0.02]
+** Dealing river ** [ 6d ]
+DTurouski bets [$0.02]
+99TERRANCE99 raises [$0.06]
+DTurouski calls [$0.04]
+** Summary **
+99TERRANCE99 shows [ Kc, 4c ]
+DTurouski mucks [ 8s, 2h ]
+99TERRANCE99 collected [ $0.27 ]
+
+
+#Game No : 1292071071
+***** 888poker Hand History for Game 1292071071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:49:38
+Table Vila Velha 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2 )
+Seat 4: ChernushkaCi ( $2.12 )
+ChernushkaCi posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+ChernushkaCi folds
+** Summary **
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 1292071101
+***** 888poker Hand History for Game 1292071101 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:49:52
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.01 )
+Seat 4: ChernushkaCi ( $2.11 )
+Ki55_my_Ace posts small blind [$0.01]
+ChernushkaCi posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+ChernushkaCi calls [$0.03]
+** Dealing flop ** [ Kd, 6h, 8d ]
+ChernushkaCi checks
+Ki55_my_Ace checks
+** Dealing turn ** [ Ac ]
+ChernushkaCi checks
+Ki55_my_Ace checks
+** Dealing river ** [ 6d ]
+ChernushkaCi bets [$0.03]
+Ki55_my_Ace calls [$0.03]
+** Summary **
+ChernushkaCi shows [ Kc, Ts ]
+Ki55_my_Ace shows [ As, 4c ]
+Ki55_my_Ace collected [ $0.15 ]
+
+
+#Game No : 1292071423
+***** 888poker Hand History for Game 1292071423 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:52:17
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.21 )
+Seat 2: PokerDot95 ( $1.47 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 raises [$0.04]
+Ki55_my_Ace calls [$0.03]
+** Dealing flop ** [ Tc, Jh, Qs ]
+Ki55_my_Ace checks
+PokerDot95 checks
+** Dealing turn ** [ 2h ]
+Ki55_my_Ace bets [$0.06]
+PokerDot95 calls [$0.06]
+** Dealing river ** [ 3c ]
+Ki55_my_Ace checks
+PokerDot95 checks
+** Summary **
+Ki55_my_Ace shows [ 8c, As ]
+PokerDot95 mucks [ Ks, 6c ]
+Ki55_my_Ace collected [ $0.21 ]
+
+
+#Game No : 1292071575
+***** 888poker Hand History for Game 1292071575 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:53:26
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.31 )
+Seat 2: PokerDot95 ( $1.36 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 raises [$1.34]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.10 ]
+
+
+#Game No : 1292071616
+***** 888poker Hand History for Game 1292071616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:53:44
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.26 )
+Seat 2: PokerDot95 ( $1.41 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 1292071632
+***** 888poker Hand History for Game 1292071632 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:53:51
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.27 )
+Seat 2: PokerDot95 ( $1.40 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.04 ]
+
+
+#Game No : 1292071693
+***** 888poker Hand History for Game 1292071693 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:54:14
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.29 )
+Seat 2: PokerDot95 ( $1.38 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 raises [$0.05]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.04 ]
+
+
+#Game No : 1292071710
+***** 888poker Hand History for Game 1292071710 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:54:24
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.27 )
+Seat 2: PokerDot95 ( $1.40 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.03 ]
+
+
+#Game No : 1292071735
+***** 888poker Hand History for Game 1292071735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:54:36
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.26 )
+Seat 2: PokerDot95 ( $1.41 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 raises [$0.05]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.04 ]
+
+
+#Game No : 1292071757
+***** 888poker Hand History for Game 1292071757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:54:47
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.24 )
+Seat 2: PokerDot95 ( $1.43 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.04 ]
+
+
+#Game No : 1292071782
+***** 888poker Hand History for Game 1292071782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:54:59
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.26 )
+Seat 2: PokerDot95 ( $1.41 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 raises [$0.05]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.04 ]
+
+
+#Game No : 1292071806
+***** 888poker Hand History for Game 1292071806 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:55:11
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.24 )
+Seat 2: PokerDot95 ( $1.43 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 calls [$0.03]
+** Dealing flop ** [ Qs, 3d, Ah ]
+PokerDot95 bets [$0.10]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.10 ]
+
+
+#Game No : 1292071867
+***** 888poker Hand History for Game 1292071867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:55:40
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.19 )
+Seat 2: PokerDot95 ( $1.48 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 1292071882
+***** 888poker Hand History for Game 1292071882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:55:47
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.20 )
+Seat 2: PokerDot95 ( $1.47 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 raises [$1.45]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.10 ]
+
+
+#Game No : 1292071924
+***** 888poker Hand History for Game 1292071924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:56:11
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.15 )
+Seat 2: PokerDot95 ( $1.52 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 raises [$0.05]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.04 ]
+
+
+#Game No : 1292071948
+***** 888poker Hand History for Game 1292071948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:56:22
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.13 )
+Seat 2: PokerDot95 ( $1.54 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.04 ]
+
+
+#Game No : 1292071999
+***** 888poker Hand History for Game 1292071999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:56:43
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.15 )
+Seat 2: PokerDot95 ( $1.52 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 raises [$0.05]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.04 ]
+
+
+#Game No : 1292072029
+***** 888poker Hand History for Game 1292072029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:56:58
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.13 )
+Seat 2: PokerDot95 ( $1.54 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.04 ]
+
+
+#Game No : 1292072067
+***** 888poker Hand History for Game 1292072067 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:57:15
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.15 )
+Seat 2: PokerDot95 ( $1.52 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 raises [$0.05]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.04 ]
+
+
+#Game No : 1292072092
+***** 888poker Hand History for Game 1292072092 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:57:25
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.13 )
+Seat 2: PokerDot95 ( $1.54 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 calls [$0.03]
+** Dealing flop ** [ 4d, 8h, Qh ]
+PokerDot95 bets [$0.05]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.10 ]
+
+
+#Game No : 1292072128
+***** 888poker Hand History for Game 1292072128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:57:41
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.08 )
+Seat 2: PokerDot95 ( $1.59 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 1292072139
+***** 888poker Hand History for Game 1292072139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:57:47
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.09 )
+Seat 2: PokerDot95 ( $1.58 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.03 ]
+
+
+#Game No : 1292072155
+***** 888poker Hand History for Game 1292072155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:57:54
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.08 )
+Seat 2: PokerDot95 ( $1.59 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 raises [$0.05]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.04 ]
+
+
+#Game No : 1292072185
+***** 888poker Hand History for Game 1292072185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:58:08
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.06 )
+Seat 2: PokerDot95 ( $1.61 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 calls [$0.03]
+** Dealing flop ** [ 7c, 8d, Ts ]
+PokerDot95 bets [$0.05]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 did not show his hand
+PokerDot95 collected [ $0.10 ]
+
+
+#Game No : 1292072229
+***** 888poker Hand History for Game 1292072229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:58:27
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.01 )
+Seat 2: PokerDot95 ( $1.66 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 1292072242
+***** 888poker Hand History for Game 1292072242 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:58:32
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.02 )
+Seat 2: PokerDot95 ( $1.65 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 calls [$0.03]
+** Dealing flop ** [ 5c, 9h, 2c ]
+PokerDot95 checks
+Ki55_my_Ace checks
+** Dealing turn ** [ 3s ]
+PokerDot95 checks
+Ki55_my_Ace bets [$0.06]
+PokerDot95 calls [$0.06]
+** Dealing river ** [ Qh ]
+PokerDot95 bets [$0.04]
+Ki55_my_Ace raises [$0.14]
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.29 ]
+
+
+#Game No : 1292072424
+***** 888poker Hand History for Game 1292072424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:00:01
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.16 )
+Seat 2: PokerDot95 ( $1.50 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 1292072449
+***** 888poker Hand History for Game 1292072449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:00:13
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.17 )
+Seat 2: PokerDot95 ( $1.49 )
+Ki55_my_Ace posts small blind [$0.01]
+PokerDot95 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+PokerDot95 folds
+** Summary **
+Ki55_my_Ace collected [ $0.04 ]
+
+
+#Game No : 1292072511
+***** 888poker Hand History for Game 1292072511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:00:46
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $2.19 )
+Seat 2: PokerDot95 ( $1.47 )
+PokerDot95 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+PokerDot95 raises [$0.03]
+Ki55_my_Ace folds
+** Summary **
+PokerDot95 collected [ $0.04 ]
+
+
+#Game No : 1292072990
+***** 888poker Hand History for Game 1292072990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:04:30
+Table Vila Velha 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $3.16 )
+Seat 4: L1ghtm4nn ( $1.12 )
+L1ghtm4nn posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+L1ghtm4nn raises [$0.03]
+Ki55_my_Ace calls [$0.02]
+** Dealing flop ** [ 6h, 3d, Th ]
+Ki55_my_Ace checks
+L1ghtm4nn bets [$0.04]
+Ki55_my_Ace calls [$0.04]
+** Dealing turn ** [ Ks ]
+Ki55_my_Ace checks
+L1ghtm4nn checks
+** Dealing river ** [ 9s ]
+Ki55_my_Ace checks
+L1ghtm4nn checks
+** Summary **
+Ki55_my_Ace shows [ Td, 7h ]
+L1ghtm4nn mucks [ 8h, Qh ]
+Ki55_my_Ace collected [ $0.15 ]
+
+
+#Game No : 1292073125
+***** 888poker Hand History for Game 1292073125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:05:33
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $3.23 )
+Seat 4: L1ghtm4nn ( $1.04 )
+Ki55_my_Ace posts small blind [$0.01]
+L1ghtm4nn posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.04]
+L1ghtm4nn calls [$0.03]
+** Dealing flop ** [ Ac, 6c, 3h ]
+L1ghtm4nn checks
+Ki55_my_Ace checks
+** Dealing turn ** [ Kh ]
+L1ghtm4nn checks
+Ki55_my_Ace checks
+** Dealing river ** [ Qc ]
+L1ghtm4nn checks
+Ki55_my_Ace checks
+** Summary **
+L1ghtm4nn shows [ 9c, Ks ]
+Ki55_my_Ace mucks [ 5s, 6h ]
+L1ghtm4nn collected [ $0.10 ]
+
+
+#Game No : 1292073229
+***** 888poker Hand History for Game 1292073229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:06:21
+Table Vila Velha 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $3.18 )
+Seat 4: L1ghtm4nn ( $1.09 )
+L1ghtm4nn posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+L1ghtm4nn raises [$0.03]
+Ki55_my_Ace calls [$0.02]
+** Dealing flop ** [ 4d, Ad, 3d ]
+Ki55_my_Ace checks
+L1ghtm4nn checks
+** Dealing turn ** [ Qs ]
+Ki55_my_Ace bets [$0.05]
+L1ghtm4nn folds
+** Summary **
+Ki55_my_Ace collected [ $0.08 ]
+
+
+#Game No : 1292082765
+***** 888poker Hand History for Game 1292082765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 00:18:41
+Table Vila Velha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mioriso ( $3.05 )
+Seat 2: zay76 ( $1.01 )
+mioriso posts small blind [$0.01]
+zay76 posts big blind [$0.02]
+** Dealing down cards **
+mioriso raises [$0.05]
+zay76 folds
+** Summary **
+mioriso collected [ $0.04 ]
+
+
+#Game No : 1292082790
+***** 888poker Hand History for Game 1292082790 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 00:18:52
+Table Vila Velha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: mioriso ( $3.07 )
+Seat 2: zay76 ( $1 )
+zay76 posts small blind [$0.01]
+** Dealing down cards **
+mioriso folds
+** Summary **
+zay76 collected [ $0.01 ]
+
+

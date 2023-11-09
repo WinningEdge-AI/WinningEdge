@@ -1,0 +1,99 @@
+#Game No : 1242746135
+***** 888poker Hand History for Game 1242746135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 03:10:45
+Table Creteil 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ShootingCow ( $0.88 )
+Seat 9: DezKD ( $1 )
+DezKD posts small blind [$0.01]
+ShootingCow posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.05]
+ShootingCow calls [$0.04]
+** Dealing flop ** [ Ah, 6s, Th ]
+ShootingCow checks
+DezKD checks
+** Dealing turn ** [ 5d ]
+ShootingCow checks
+DezKD bets [$0.06]
+ShootingCow folds
+** Summary **
+DezKD did not show his hand
+DezKD collected [ $0.12 ]
+
+
+#Game No : 1242746224
+***** 888poker Hand History for Game 1242746224 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 03:11:08
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ShootingCow ( $0.82 )
+Seat 9: DezKD ( $1.06 )
+ShootingCow posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+ShootingCow calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 2s, 5h, Js ]
+DezKD checks
+ShootingCow checks
+** Dealing turn ** [ 3s ]
+DezKD checks
+ShootingCow checks
+** Dealing river ** [ 7h ]
+DezKD checks
+ShootingCow checks
+** Summary **
+DezKD shows [ 7d, 4d ]
+ShootingCow mucks [ Ad, 8h ]
+DezKD collected [ $0.04 ]
+
+
+#Game No : 1242746350
+***** 888poker Hand History for Game 1242746350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 03:11:46
+Table Creteil 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ShootingCow ( $0.80 )
+Seat 9: DezKD ( $1.08 )
+DezKD posts small blind [$0.01]
+ShootingCow posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.05]
+ShootingCow folds
+** Summary **
+DezKD collected [ $0.04 ]
+
+
+#Game No : 1242746424
+***** 888poker Hand History for Game 1242746424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 03:12:08
+Table Creteil 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ShootingCow ( $0.79 )
+Seat 9: DezKD ( $1.09 )
+DezKD posts small blind [$0.01]
+ShootingCow posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.05]
+ShootingCow calls [$0.04]
+** Dealing flop ** [ 2h, 4s, Jd ]
+ShootingCow checks
+DezKD bets [$0.06]
+ShootingCow calls [$0.06]
+** Dealing turn ** [ 2d ]
+ShootingCow checks
+DezKD checks
+** Dealing river ** [ 7s ]
+ShootingCow checks
+DezKD checks
+** Summary **
+ShootingCow shows [ Qd, Js ]
+DezKD mucks [ Ah, Th ]
+ShootingCow collected [ $0.23 ]
+
+

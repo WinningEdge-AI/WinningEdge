@@ -1,0 +1,45 @@
+#Game No : 505324325
+***** 888poker Hand History for Game 505324325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 09:09:00
+Table Chemnitz 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Fizzyeasy ( $1.14 )
+Seat 9: MrKurns ( $0.14 )
+MrKurns posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+MrKurns calls [$0.01]
+Fizzyeasy raises [$0.04]
+MrKurns calls [$0.04]
+** Dealing flop ** [ Ts, Jh, 5h ]
+Fizzyeasy checks
+MrKurns bets [$0.02]
+Fizzyeasy calls [$0.02]
+** Dealing turn ** [ 9d ]
+Fizzyeasy bets [$0.10]
+MrKurns calls [$0.06]
+** Dealing river ** [ Jc ]
+** Summary **
+Fizzyeasy shows [ Qd, Kc ]
+MrKurns shows [ Qc, Ks ]
+Fizzyeasy collected [ $0.14 ]
+MrKurns collected [ $0.13 ]
+
+
+#Game No : 505327951
+***** 888poker Hand History for Game 505327951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 10:05:27
+Table Chemnitz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: TriPorosenka ( $1.22 )
+Seat 9: Strugglezhop ( $1.12 )
+TriPorosenka posts small blind [$0.01]
+Strugglezhop posts big blind [$0.02]
+** Dealing down cards **
+TriPorosenka folds
+** Summary **
+Strugglezhop collected [ $0.03 ]
+
+

@@ -1,0 +1,83 @@
+#Game No : 606250143
+***** 888poker Hand History for Game 606250143 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 00:49:39
+Table Long Beach 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OneHotMama32 ( $2.02 )
+Seat 2: avramia1 ( $1.98 )
+OneHotMama32 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+OneHotMama32 calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ As, 6d, 4s ]
+avramia1 checks
+OneHotMama32 checks
+** Dealing turn ** [ Qs ]
+avramia1 checks
+OneHotMama32 checks
+** Dealing river ** [ Ac ]
+avramia1 checks
+OneHotMama32 checks
+** Summary **
+avramia1 shows [ 5d, 3d ]
+OneHotMama32 shows [ 5s, 8c ]
+OneHotMama32 collected [ $0.04 ]
+
+
+#Game No : 606250160
+***** 888poker Hand History for Game 606250160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 00:50:04
+Table Long Beach 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: OneHotMama32 ( $2.04 )
+Seat 2: avramia1 ( $1.96 )
+avramia1 posts small blind [$0.01]
+OneHotMama32 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+OneHotMama32 checks
+** Dealing flop ** [ Qh, 9h, Kh ]
+OneHotMama32 bets [$0.02]
+avramia1 folds
+** Summary **
+OneHotMama32 collected [ $0.04 ]
+
+
+#Game No : 606257191
+***** 888poker Hand History for Game 606257191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 06:10:41
+Table Long Beach 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: hesvubean ( $0.87 )
+Seat 9: Thomo_nz ( $2 )
+Thomo_nz posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+Thomo_nz folds
+** Summary **
+hesvubean did not show his hand
+hesvubean collected [ $0.03 ]
+
+
+#Game No : 606257197
+***** 888poker Hand History for Game 606257197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 06:10:47
+Table Long Beach 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hesvubean ( $0.88 )
+Seat 9: Thomo_nz ( $2 )
+hesvubean posts small blind [$0.01]
+Thomo_nz posts big blind [$0.02]
+** Dealing down cards **
+hesvubean raises [$0.03]
+Thomo_nz folds
+** Summary **
+hesvubean did not show his hand
+hesvubean collected [ $0.04 ]
+
+

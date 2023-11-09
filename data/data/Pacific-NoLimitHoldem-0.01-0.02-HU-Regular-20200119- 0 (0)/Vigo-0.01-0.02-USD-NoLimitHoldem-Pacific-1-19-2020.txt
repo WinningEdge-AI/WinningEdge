@@ -1,0 +1,47 @@
+#Game No : 526760988
+***** 888poker Hand History for Game 526760988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 01 2020 02:16:37
+Table Vigo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Alien_Wizart ( $2.05 )
+Seat 10: amm19814 ( $0.80 )
+Alien_Wizart posts small blind [$0.01]
+amm19814 posts big blind [$0.02]
+** Dealing down cards **
+Alien_Wizart calls [$0.01]
+amm19814 checks
+** Dealing flop ** [ 5h, Qs, 5d ]
+amm19814 checks
+Alien_Wizart checks
+** Dealing turn ** [ Td ]
+amm19814 checks
+Alien_Wizart checks
+** Dealing river ** [ Ts ]
+amm19814 checks
+Alien_Wizart checks
+** Summary **
+amm19814 shows [ 7h, Jc ]
+Alien_Wizart shows [ 8d, Jd ]
+amm19814 collected [ $0.02 ]
+Alien_Wizart collected [ $0.02 ]
+
+
+#Game No : 526760997
+***** 888poker Hand History for Game 526760997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 01 2020 02:17:03
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: Alien_Wizart ( $2.05 )
+Seat 10: amm19814 ( $0.80 )
+amm19814 posts small blind [$0.01]
+Alien_Wizart posts big blind [$0.02]
+** Dealing down cards **
+amm19814 raises [$0.07]
+Alien_Wizart folds
+** Summary **
+amm19814 did not show his hand
+amm19814 collected [ $0.04 ]
+
+

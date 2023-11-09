@@ -1,0 +1,125 @@
+#Game No : 614943052
+***** 888poker Hand History for Game 614943052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 00:56:13
+Table Ivanovo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: natalisska ( $0.41 )
+Seat 9: Courtpd1 ( $1.39 )
+natalisska posts small blind [$0.01]
+Courtpd1 posts big blind [$0.02]
+** Dealing down cards **
+natalisska calls [$0.01]
+Courtpd1 checks
+** Dealing flop ** [ Tc, 3s, 3d ]
+Courtpd1 checks
+natalisska checks
+** Dealing turn ** [ 3h ]
+Courtpd1 checks
+natalisska checks
+** Dealing river ** [ Qc ]
+Courtpd1 checks
+natalisska bets [$0.02]
+Courtpd1 folds
+** Summary **
+natalisska collected [ $0.04 ]
+
+
+#Game No : 614951314
+***** 888poker Hand History for Game 614951314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 06:08:33
+Table Ivanovo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Syvorotka ( $1.69 )
+Seat 6: GoPro1105 ( $1.11 )
+Syvorotka posts small blind [$0.01]
+GoPro1105 posts big blind [$0.02]
+** Dealing down cards **
+Syvorotka calls [$0.01]
+GoPro1105 checks
+** Dealing flop ** [ 3c, Jd, Jc ]
+GoPro1105 checks
+Syvorotka bets [$0.04]
+GoPro1105 folds
+** Summary **
+Syvorotka collected [ $0.04 ]
+
+
+#Game No : 614951326
+***** 888poker Hand History for Game 614951326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 06:08:57
+Table Ivanovo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Syvorotka ( $1.71 )
+Seat 6: GoPro1105 ( $1.09 )
+GoPro1105 posts small blind [$0.01]
+Syvorotka posts big blind [$0.02]
+** Dealing down cards **
+GoPro1105 calls [$0.01]
+Syvorotka checks
+** Dealing flop ** [ 7s, Qs, Kc ]
+Syvorotka bets [$0.04]
+GoPro1105 raises [$0.08]
+Syvorotka folds
+** Summary **
+GoPro1105 collected [ $0.12 ]
+
+
+#Game No : 614951425
+***** 888poker Hand History for Game 614951425 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 06:11:22
+Table Ivanovo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mathewolf ( $0.76 )
+Seat 4: Odog45 ( $0.89 )
+Mathewolf posts small blind [$0.01]
+Odog45 posts big blind [$0.02]
+** Dealing down cards **
+Mathewolf raises [$0.03]
+Odog45 calls [$0.02]
+** Dealing flop ** [ 5s, 3s, 6h ]
+Odog45 bets [$0.02]
+Mathewolf calls [$0.02]
+** Dealing turn ** [ 7h ]
+Odog45 bets [$0.02]
+Mathewolf calls [$0.02]
+** Dealing river ** [ Th ]
+Odog45 bets [$0.02]
+Mathewolf raises [$0.22]
+Odog45 folds
+** Summary **
+Mathewolf collected [ $0.19 ]
+
+
+#Game No : 614951446
+***** 888poker Hand History for Game 614951446 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 06:11:57
+Table Ivanovo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Mathewolf ( $0.85 )
+Seat 4: Odog45 ( $0.79 )
+Odog45 posts small blind [$0.01]
+Mathewolf posts big blind [$0.02]
+** Dealing down cards **
+Odog45 calls [$0.01]
+Mathewolf raises [$0.02]
+Odog45 calls [$0.02]
+** Dealing flop ** [ 2h, 6c, 8h ]
+Mathewolf checks
+Odog45 checks
+** Dealing turn ** [ Qc ]
+Mathewolf bets [$0.02]
+Odog45 calls [$0.02]
+** Dealing river ** [ Td ]
+Mathewolf checks
+Odog45 checks
+** Summary **
+Mathewolf shows [ Kc, Jh ]
+Odog45 mucks [ 9h, 5d ]
+Mathewolf collected [ $0.12 ]
+
+

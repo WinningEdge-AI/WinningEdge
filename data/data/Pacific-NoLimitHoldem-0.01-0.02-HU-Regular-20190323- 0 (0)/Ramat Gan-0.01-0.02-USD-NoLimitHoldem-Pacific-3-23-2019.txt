@@ -1,0 +1,562 @@
+#Game No : 463199971
+***** 888poker Hand History for Game 463199971 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:59:39
+Table Ramat Gan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: yorke132 ( $1.78 )
+Seat 9: Miss45012 ( $2.32 )
+yorke132 posts small blind [$0.01]
+Miss45012 posts big blind [$0.02]
+** Dealing down cards **
+yorke132 raises [$0.05]
+Miss45012 calls [$0.04]
+** Dealing flop ** [ 2h, Td, Jh ]
+Miss45012 checks
+yorke132 bets [$0.08]
+Miss45012 calls [$0.08]
+** Dealing turn ** [ 9c ]
+Miss45012 checks
+yorke132 bets [$0.14]
+Miss45012 calls [$0.14]
+** Dealing river ** [ 5h ]
+Miss45012 checks
+yorke132 checks
+** Summary **
+Miss45012 shows [ 4h, Qc ]
+yorke132 shows [ Jc, Qs ]
+yorke132 collected [ $0.53 ]
+
+
+#Game No : 463200003
+***** 888poker Hand History for Game 463200003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 17:00:21
+Table Ramat Gan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: yorke132 ( $2.03 )
+Seat 7: a1plumber ( $1 )
+a1plumber posts small blind [$0.01]
+yorke132 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+yorke132 checks
+** Dealing flop ** [ 2c, 5h, Tc ]
+yorke132 checks
+a1plumber checks
+** Dealing turn ** [ 9h ]
+yorke132 bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing river ** [ 8c ]
+yorke132 checks
+a1plumber checks
+** Summary **
+yorke132 shows [ Qd, 9s ]
+a1plumber mucks [ Qh, Kd ]
+yorke132 collected [ $0.08 ]
+
+
+#Game No : 463200022
+***** 888poker Hand History for Game 463200022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 17:00:58
+Table Ramat Gan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: yorke132 ( $2.07 )
+Seat 7: a1plumber ( $0.96 )
+yorke132 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+yorke132 folds
+** Summary **
+a1plumber collected [ $0.03 ]
+
+
+#Game No : 463204389
+***** 888poker Hand History for Game 463204389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:16:52
+Table Ramat Gan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LEAU6 ( $0.43 )
+Seat 2: DeTanker ( $1.38 )
+LEAU6 posts small blind [$0.01]
+DeTanker posts big blind [$0.02]
+** Dealing down cards **
+LEAU6 calls [$0.01]
+DeTanker checks
+** Dealing flop ** [ 6d, 8s, 7h ]
+DeTanker checks
+LEAU6 checks
+** Dealing turn ** [ Ac ]
+DeTanker checks
+LEAU6 checks
+** Dealing river ** [ 5s ]
+DeTanker checks
+LEAU6 checks
+** Summary **
+DeTanker shows [ 4h, 8c ]
+LEAU6 mucks [ Qc, 2c ]
+DeTanker collected [ $0.04 ]
+
+
+#Game No : 463204404
+***** 888poker Hand History for Game 463204404 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:17:30
+Table Ramat Gan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: LEAU6 ( $0.41 )
+Seat 2: DeTanker ( $1.40 )
+DeTanker posts small blind [$0.01]
+LEAU6 posts big blind [$0.02]
+** Dealing down cards **
+DeTanker folds
+** Summary **
+LEAU6 did not show his hand
+LEAU6 collected [ $0.03 ]
+
+
+#Game No : 463204455
+***** 888poker Hand History for Game 463204455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:19:50
+Table Ramat Gan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LEAU6 ( $0.83 )
+Seat 4: MuzzaMints ( $0.81 )
+LEAU6 posts small blind [$0.01]
+MuzzaMints posts big blind [$0.02]
+** Dealing down cards **
+LEAU6 calls [$0.01]
+MuzzaMints checks
+** Dealing flop ** [ 5h, Kh, 8s ]
+MuzzaMints checks
+LEAU6 checks
+** Dealing turn ** [ 7c ]
+MuzzaMints checks
+LEAU6 bets [$0.02]
+MuzzaMints folds
+** Summary **
+LEAU6 collected [ $0.04 ]
+
+
+#Game No : 463204465
+***** 888poker Hand History for Game 463204465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:20:18
+Table Ramat Gan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: LEAU6 ( $0.85 )
+Seat 4: MuzzaMints ( $0.79 )
+MuzzaMints posts small blind [$0.01]
+LEAU6 posts big blind [$0.02]
+** Dealing down cards **
+MuzzaMints calls [$0.01]
+LEAU6 checks
+** Dealing flop ** [ 5s, 4h, Th ]
+LEAU6 checks
+MuzzaMints checks
+** Dealing turn ** [ Ah ]
+LEAU6 bets [$0.02]
+MuzzaMints folds
+** Summary **
+LEAU6 collected [ $0.04 ]
+
+
+#Game No : 463204834
+***** 888poker Hand History for Game 463204834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:35:46
+Table Ramat Gan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: hartmiguel ( $0.68 )
+Seat 6: sssA.Asss ( $0.23 )
+sssA.Asss posts small blind [$0.01]
+hartmiguel posts big blind [$0.02]
+** Dealing down cards **
+sssA.Asss calls [$0.01]
+hartmiguel checks
+** Dealing flop ** [ 3d, 6d, Ks ]
+hartmiguel bets [$0.66]
+sssA.Asss calls [$0.21]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ Qd ]
+** Summary **
+hartmiguel shows [ 6h, 3c ]
+sssA.Asss shows [ 9s, 3s ]
+sssA.Asss collected [ $0.44 ]
+
+
+#Game No : 463204985
+***** 888poker Hand History for Game 463204985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:41:37
+Table Ramat Gan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: MagycDreads ( $1.31 )
+Seat 7: Belange600 ( $2.12 )
+Belange600 posts small blind [$0.01]
+MagycDreads posts big blind [$0.02]
+** Dealing down cards **
+Belange600 calls [$0.01]
+MagycDreads raises [$0.06]
+Belange600 calls [$0.06]
+** Dealing flop ** [ 7c, 6d, 6h ]
+MagycDreads checks
+Belange600 checks
+** Dealing turn ** [ 8d ]
+MagycDreads bets [$0.08]
+Belange600 calls [$0.08]
+** Dealing river ** [ Qs ]
+MagycDreads checks
+Belange600 checks
+** Summary **
+MagycDreads shows [ 4s, 4d ]
+Belange600 mucks [ 2h, 9h ]
+MagycDreads collected [ $0.30 ]
+
+
+#Game No : 463204997
+***** 888poker Hand History for Game 463204997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:42:09
+Table Ramat Gan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MagycDreads ( $1.45 )
+Seat 7: Belange600 ( $1.96 )
+MagycDreads posts small blind [$0.01]
+Belange600 posts big blind [$0.02]
+** Dealing down cards **
+MagycDreads folds
+** Summary **
+Belange600 did not show his hand
+Belange600 collected [ $0.03 ]
+
+
+#Game No : 463204998
+***** 888poker Hand History for Game 463204998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:42:15
+Table Ramat Gan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: MagycDreads ( $1.44 )
+Seat 7: Belange600 ( $1.97 )
+Belange600 posts small blind [$0.01]
+MagycDreads posts big blind [$0.02]
+** Dealing down cards **
+Belange600 calls [$0.01]
+MagycDreads checks
+** Dealing flop ** [ Qc, 9h, 8s ]
+MagycDreads checks
+Belange600 bets [$0.02]
+MagycDreads raises [$0.06]
+Belange600 raises [$0.12]
+MagycDreads calls [$0.08]
+** Dealing turn ** [ 5d ]
+MagycDreads checks
+Belange600 bets [$0.16]
+MagycDreads raises [$0.32]
+Belange600 folds
+** Summary **
+MagycDreads collected [ $0.60 ]
+
+
+#Game No : 463205013
+***** 888poker Hand History for Game 463205013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:43:01
+Table Ramat Gan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MagycDreads ( $1.72 )
+Seat 7: Belange600 ( $1.65 )
+MagycDreads posts small blind [$0.01]
+Belange600 posts big blind [$0.02]
+** Dealing down cards **
+MagycDreads folds
+** Summary **
+Belange600 collected [ $0.03 ]
+
+
+#Game No : 463205023
+***** 888poker Hand History for Game 463205023 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 19:43:21
+Table Ramat Gan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MagycDreads ( $1.70 )
+Seat 7: Belange600 ( $1.67 )
+MagycDreads posts small blind [$0.01]
+Belange600 posts big blind [$0.02]
+** Dealing down cards **
+MagycDreads calls [$0.01]
+Belange600 checks
+** Dealing flop ** [ 5d, 3s, 6h ]
+Belange600 checks
+MagycDreads checks
+** Dealing turn ** [ 7h ]
+Belange600 checks
+MagycDreads bets [$0.02]
+Belange600 raises [$0.10]
+MagycDreads calls [$0.08]
+** Dealing river ** [ 3h ]
+Belange600 checks
+MagycDreads bets [$1.58]
+Belange600 folds
+** Summary **
+MagycDreads collected [ $0.23 ]
+
+
+#Game No : 463206360
+***** 888poker Hand History for Game 463206360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 20:53:41
+Table Ramat Gan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: thepr0fess0r ( $1.70 )
+Seat 9: 69freddy69 ( $1 )
+thepr0fess0r posts small blind [$0.01]
+69freddy69 posts big blind [$0.02]
+** Dealing down cards **
+thepr0fess0r folds
+** Summary **
+69freddy69 collected [ $0.03 ]
+
+
+#Game No : 463206398
+***** 888poker Hand History for Game 463206398 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 20:56:02
+Table Ramat Gan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Mi02lo02 ( $1.05 )
+Seat 9: 69freddy69 ( $1.24 )
+69freddy69 posts small blind [$0.01]
+Mi02lo02 posts big blind [$0.02]
+** Dealing down cards **
+69freddy69 folds
+** Summary **
+Mi02lo02 collected [ $0.03 ]
+
+
+#Game No : 463206488
+***** 888poker Hand History for Game 463206488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 21:02:53
+Table Ramat Gan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Tommyxx21 ( $0.74 )
+Seat 4: Razzamund0 ( $0.88 )
+Razzamund0 posts small blind [$0.01]
+** Dealing down cards **
+Tommyxx21 folds
+** Summary **
+Razzamund0 did not show his hand
+Razzamund0 collected [ $0.01 ]
+
+
+#Game No : 463207603
+***** 888poker Hand History for Game 463207603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 22:03:56
+Table Ramat Gan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Koresh_zp ( $0.97 )
+Seat 2: MCG080374 ( $0.84 )
+MCG080374 posts small blind [$0.01]
+Koresh_zp posts big blind [$0.02]
+** Dealing down cards **
+MCG080374 calls [$0.01]
+Koresh_zp checks
+** Dealing flop ** [ Ad, 2d, Kc ]
+Koresh_zp checks
+MCG080374 bets [$0.02]
+Koresh_zp folds
+** Summary **
+MCG080374 collected [ $0.04 ]
+
+
+#Game No : 463207611
+***** 888poker Hand History for Game 463207611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 22:04:12
+Table Ramat Gan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Koresh_zp ( $0.95 )
+Seat 2: MCG080374 ( $0.86 )
+Koresh_zp posts small blind [$0.01]
+MCG080374 posts big blind [$0.02]
+** Dealing down cards **
+Koresh_zp raises [$0.05]
+MCG080374 calls [$0.04]
+** Dealing flop ** [ 9c, Tc, 6h ]
+MCG080374 checks
+Koresh_zp bets [$0.08]
+MCG080374 folds
+** Summary **
+Koresh_zp collected [ $0.12 ]
+
+
+#Game No : 463207617
+***** 888poker Hand History for Game 463207617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 22:04:36
+Table Ramat Gan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Koresh_zp ( $1.01 )
+Seat 2: MCG080374 ( $0.80 )
+MCG080374 posts small blind [$0.01]
+** Dealing down cards **
+Koresh_zp folds
+** Summary **
+MCG080374 collected [ $0.01 ]
+
+
+#Game No : 463207618
+***** 888poker Hand History for Game 463207618 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 22:04:40
+Table Ramat Gan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: MCG080374 ( $0.80 )
+Seat 6: 1denni1 ( $0.80 )
+MCG080374 posts small blind [$0.01]
+1denni1 posts big blind [$0.02]
+** Dealing down cards **
+MCG080374 calls [$0.01]
+1denni1 raises [$0.06]
+MCG080374 folds
+** Summary **
+1denni1 collected [ $0.04 ]
+
+
+#Game No : 463207622
+***** 888poker Hand History for Game 463207622 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 22:04:52
+Table Ramat Gan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: MCG080374 ( $0.78 )
+Seat 6: 1denni1 ( $0.82 )
+1denni1 posts small blind [$0.01]
+MCG080374 posts big blind [$0.02]
+** Dealing down cards **
+1denni1 raises [$0.03]
+MCG080374 calls [$0.02]
+** Dealing flop ** [ 7d, 2c, 2h ]
+MCG080374 checks
+1denni1 checks
+** Dealing turn ** [ Kh ]
+MCG080374 bets [$0.02]
+1denni1 raises [$0.06]
+MCG080374 raises [$0.08]
+1denni1 calls [$0.04]
+** Dealing river ** [ 9h ]
+MCG080374 bets [$0.18]
+1denni1 calls [$0.18]
+** Summary **
+MCG080374 shows [ 2s, 3s ]
+1denni1 mucks [ Ks, 3h ]
+MCG080374 collected [ $0.60 ]
+
+
+#Game No : 1256803431
+***** 888poker Hand History for Game 1256803431 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 04:23:06
+Table Ramat Gan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SamsonovV.V. ( $2 )
+Seat 6: HightKing ( $2 )
+HightKing posts small blind [$0.01]
+SamsonovV.V. posts big blind [$0.02]
+** Dealing down cards **
+HightKing raises [$0.03]
+SamsonovV.V. calls [$0.02]
+** Dealing flop ** [ 4c, 7h, 7s ]
+SamsonovV.V. checks
+HightKing bets [$0.04]
+SamsonovV.V. calls [$0.04]
+** Dealing turn ** [ 9s ]
+SamsonovV.V. checks
+HightKing bets [$0.10]
+SamsonovV.V. raises [$0.34]
+HightKing folds
+** Summary **
+SamsonovV.V. collected [ $0.34 ]
+
+
+#Game No : 1256803555
+***** 888poker Hand History for Game 1256803555 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 04:23:51
+Table Ramat Gan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SamsonovV.V. ( $2.16 )
+Seat 6: HightKing ( $2 )
+SamsonovV.V. posts small blind [$0.01]
+HightKing posts big blind [$0.02]
+** Dealing down cards **
+SamsonovV.V. calls [$0.01]
+HightKing checks
+** Dealing flop ** [ As, Kc, Td ]
+HightKing checks
+SamsonovV.V. bets [$0.04]
+HightKing folds
+** Summary **
+SamsonovV.V. collected [ $0.04 ]
+
+
+#Game No : 1256803591
+***** 888poker Hand History for Game 1256803591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 04:24:05
+Table Ramat Gan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SamsonovV.V. ( $2.18 )
+Seat 6: HightKing ( $2 )
+HightKing posts small blind [$0.01]
+SamsonovV.V. posts big blind [$0.02]
+** Dealing down cards **
+HightKing folds
+** Summary **
+SamsonovV.V. collected [ $0.03 ]
+
+
+#Game No : 1256804002
+***** 888poker Hand History for Game 1256804002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 04:26:50
+Table Ramat Gan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SAXON1976 ( $0.80 )
+Seat 7: HightKing ( $2 )
+HightKing posts small blind [$0.01]
+SAXON1976 posts big blind [$0.02]
+** Dealing down cards **
+HightKing folds
+** Summary **
+SAXON1976 collected [ $0.03 ]
+
+
+#Game No : 1256804020
+***** 888poker Hand History for Game 1256804020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 04:26:58
+Table Ramat Gan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SAXON1976 ( $0.81 )
+Seat 7: HightKing ( $2 )
+SAXON1976 posts small blind [$0.01]
+HightKing posts big blind [$0.02]
+** Dealing down cards **
+SAXON1976 raises [$0.03]
+HightKing calls [$0.02]
+** Dealing flop ** [ 2h, Jh, 9c ]
+HightKing checks
+SAXON1976 bets [$0.08]
+HightKing folds
+** Summary **
+SAXON1976 collected [ $0.08 ]
+
+

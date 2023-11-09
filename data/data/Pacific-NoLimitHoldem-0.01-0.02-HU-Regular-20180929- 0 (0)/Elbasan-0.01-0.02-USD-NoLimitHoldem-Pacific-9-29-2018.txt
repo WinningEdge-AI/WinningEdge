@@ -1,0 +1,291 @@
+#Game No : 503093004
+***** 888poker Hand History for Game 503093004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:04:20
+Table Elbasan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kosamui999 ( $1.05 )
+Seat 2: grofs41 ( $1.01 )
+Kosamui999 posts small blind [$0.01]
+grofs41 posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 folds
+** Summary **
+grofs41 collected [ $0.03 ]
+
+
+#Game No : 503093020
+***** 888poker Hand History for Game 503093020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:04:28
+Table Elbasan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Kosamui999 ( $1.04 )
+Seat 2: grofs41 ( $1.02 )
+grofs41 posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+grofs41 raises [$0.05]
+Kosamui999 calls [$0.04]
+** Dealing flop ** [ 8c, 4s, 7h ]
+Kosamui999 checks
+grofs41 bets [$0.06]
+Kosamui999 calls [$0.06]
+** Dealing turn ** [ As ]
+Kosamui999 checks
+grofs41 bets [$0.16]
+Kosamui999 calls [$0.16]
+** Dealing river ** [ Ts ]
+Kosamui999 checks
+grofs41 bets [$0.74]
+Kosamui999 folds
+** Summary **
+grofs41 collected [ $0.53 ]
+
+
+#Game No : 503093066
+***** 888poker Hand History for Game 503093066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:05:35
+Table Elbasan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: grofs41 ( $1.27 )
+Seat 7: SMUGGLA74 ( $1 )
+SMUGGLA74 posts small blind [$0.01]
+grofs41 posts big blind [$0.02]
+** Dealing down cards **
+SMUGGLA74 raises [$0.03]
+grofs41 calls [$0.02]
+** Dealing flop ** [ 8h, 3d, 9c ]
+grofs41 checks
+SMUGGLA74 bets [$0.05]
+grofs41 folds
+** Summary **
+SMUGGLA74 collected [ $0.08 ]
+
+
+#Game No : 503093083
+***** 888poker Hand History for Game 503093083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:05:52
+Table Elbasan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: grofs41 ( $1.23 )
+Seat 7: SMUGGLA74 ( $1.04 )
+grofs41 posts small blind [$0.01]
+SMUGGLA74 posts big blind [$0.02]
+** Dealing down cards **
+grofs41 raises [$0.05]
+SMUGGLA74 folds
+** Summary **
+grofs41 collected [ $0.04 ]
+
+
+#Game No : 503093175
+***** 888poker Hand History for Game 503093175 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:07:32
+Table Elbasan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: grofs41 ( $1.81 )
+Seat 7: SMUGGLA74 ( $1.17 )
+SMUGGLA74 posts small blind [$0.01]
+grofs41 posts big blind [$0.02]
+** Dealing down cards **
+SMUGGLA74 raises [$0.03]
+grofs41 calls [$0.02]
+** Dealing flop ** [ 8s, Ad, 9h ]
+grofs41 checks
+SMUGGLA74 checks
+** Dealing turn ** [ Ac ]
+grofs41 bets [$0.02]
+SMUGGLA74 raises [$0.08]
+grofs41 calls [$0.06]
+** Dealing river ** [ Jc ]
+grofs41 checks
+SMUGGLA74 checks
+** Summary **
+grofs41 shows [ 8h, 6d ]
+SMUGGLA74 shows [ Js, Qd ]
+SMUGGLA74 collected [ $0.23 ]
+
+
+#Game No : 503093210
+***** 888poker Hand History for Game 503093210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:08:05
+Table Elbasan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: grofs41 ( $1.69 )
+Seat 7: SMUGGLA74 ( $1.28 )
+grofs41 posts small blind [$0.01]
+SMUGGLA74 posts big blind [$0.02]
+** Dealing down cards **
+grofs41 raises [$0.05]
+SMUGGLA74 folds
+** Summary **
+grofs41 collected [ $0.04 ]
+
+
+#Game No : 503093221
+***** 888poker Hand History for Game 503093221 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:08:13
+Table Elbasan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: grofs41 ( $1.71 )
+Seat 7: SMUGGLA74 ( $1.26 )
+SMUGGLA74 posts small blind [$0.01]
+grofs41 posts big blind [$0.02]
+** Dealing down cards **
+SMUGGLA74 calls [$0.01]
+grofs41 checks
+** Dealing flop ** [ 9c, 9d, Js ]
+grofs41 checks
+SMUGGLA74 checks
+** Dealing turn ** [ 5d ]
+grofs41 checks
+SMUGGLA74 bets [$0.02]
+grofs41 calls [$0.02]
+** Dealing river ** [ 2d ]
+grofs41 checks
+SMUGGLA74 checks
+** Summary **
+grofs41 shows [ Kh, 2h ]
+SMUGGLA74 mucks [ 8h, Th ]
+grofs41 collected [ $0.08 ]
+
+
+#Game No : 503093372
+***** 888poker Hand History for Game 503093372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:11:12
+Table Elbasan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: SMUGGLA74 ( $1.22 )
+Seat 9: co98nst41 ( $1.02 )
+co98nst41 posts small blind [$0.01]
+SMUGGLA74 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+SMUGGLA74 checks
+** Dealing flop ** [ 2d, 2c, 9s ]
+SMUGGLA74 checks
+co98nst41 checks
+** Dealing turn ** [ 6h ]
+SMUGGLA74 checks
+co98nst41 checks
+** Dealing river ** [ 2s ]
+SMUGGLA74 bets [$1.20]
+co98nst41 folds
+** Summary **
+SMUGGLA74 collected [ $0.04 ]
+
+
+#Game No : 503093537
+***** 888poker Hand History for Game 503093537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:13:57
+Table Elbasan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Smokey7477 ( $0.80 )
+Seat 9: ALIAKSANDR44 ( $1 )
+ALIAKSANDR44 posts small blind [$0.01]
+Smokey7477 posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+Smokey7477 raises [$0.06]
+ALIAKSANDR44 folds
+** Summary **
+Smokey7477 collected [ $0.04 ]
+
+
+#Game No : 503093556
+***** 888poker Hand History for Game 503093556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:14:17
+Table Elbasan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Smokey7477 ( $0.82 )
+Seat 9: ALIAKSANDR44 ( $0.98 )
+Smokey7477 posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+Smokey7477 folds
+** Summary **
+ALIAKSANDR44 collected [ $0.03 ]
+
+
+#Game No : 503093583
+***** 888poker Hand History for Game 503093583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:14:45
+Table Elbasan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Smokey7477 ( $0.83 )
+Seat 9: ALIAKSANDR44 ( $0.97 )
+Smokey7477 posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+Smokey7477 folds
+** Summary **
+ALIAKSANDR44 collected [ $0.03 ]
+
+
+#Game No : 503093610
+***** 888poker Hand History for Game 503093610 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:15:10
+Table Elbasan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Smokey7477 ( $0.81 )
+Seat 9: ALIAKSANDR44 ( $0.99 )
+ALIAKSANDR44 posts small blind [$0.01]
+Smokey7477 posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+Smokey7477 checks
+** Dealing flop ** [ Jc, 4h, 3s ]
+Smokey7477 checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ 7h ]
+Smokey7477 checks
+ALIAKSANDR44 checks
+** Dealing river ** [ Ts ]
+Smokey7477 checks
+ALIAKSANDR44 checks
+** Summary **
+Smokey7477 shows [ Kc, 9d ]
+ALIAKSANDR44 shows [ 4s, 5c ]
+ALIAKSANDR44 collected [ $0.04 ]
+
+
+#Game No : 503093634
+***** 888poker Hand History for Game 503093634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:15:33
+Table Elbasan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Smokey7477 ( $0.79 )
+Seat 9: ALIAKSANDR44 ( $1.01 )
+Smokey7477 posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+Smokey7477 calls [$0.01]
+ALIAKSANDR44 checks
+** Dealing flop ** [ Ac, 3d, 7d ]
+ALIAKSANDR44 checks
+Smokey7477 bets [$0.02]
+ALIAKSANDR44 calls [$0.02]
+** Dealing turn ** [ 2d ]
+ALIAKSANDR44 checks
+Smokey7477 bets [$0.04]
+ALIAKSANDR44 raises [$0.08]
+Smokey7477 calls [$0.04]
+** Dealing river ** [ 6c ]
+ALIAKSANDR44 bets [$0.12]
+Smokey7477 folds
+** Summary **
+ALIAKSANDR44 collected [ $0.23 ]
+
+

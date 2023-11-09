@@ -1,0 +1,60 @@
+#Game No : 630869851
+***** 888poker Hand History for Game 630869851 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2020 21:02:48
+Table Yakima 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Yuri114114 ( $2.86 )
+Seat 9: SoveTnik90 ( $1.97 )
+SoveTnik90 posts small blind [$0.01]
+Yuri114114 posts big blind [$0.02]
+** Dealing down cards **
+SoveTnik90 folds
+** Summary **
+Yuri114114 collected [ $0.03 ]
+
+
+#Game No : 630869936
+***** 888poker Hand History for Game 630869936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2020 21:07:58
+Table Yakima 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kimbo287 ( $1.92 )
+Seat 9: SoveTnik90 ( $1.79 )
+kimbo287 posts small blind [$0.01]
+SoveTnik90 posts big blind [$0.02]
+** Dealing down cards **
+kimbo287 calls [$0.01]
+SoveTnik90 checks
+** Dealing flop ** [ 3d, 6d, 4d ]
+SoveTnik90 checks
+kimbo287 checks
+** Dealing turn ** [ Ad ]
+SoveTnik90 checks
+kimbo287 checks
+** Dealing river ** [ 8s ]
+SoveTnik90 checks
+kimbo287 checks
+** Summary **
+SoveTnik90 shows [ 9s, Qc ]
+kimbo287 mucks [ 7h, 9h ]
+SoveTnik90 collected [ $0.04 ]
+
+
+#Game No : 630869977
+***** 888poker Hand History for Game 630869977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2020 21:12:40
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PlagueSnot ( $2 )
+Seat 9: SoveTnik90 ( $1.81 )
+PlagueSnot posts small blind [$0.01]
+** Dealing down cards **
+SoveTnik90 folds
+** Summary **
+PlagueSnot did not show his hand
+PlagueSnot collected [ $0.01 ]
+
+

@@ -1,0 +1,100 @@
+#Game No : 1203816567
+***** 888poker Hand History for Game 1203816567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 16:00:22
+Table Cabo Frio 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: cbeto51 ( $0.53 )
+Seat 10: vovadep777 ( $3.41 )
+vovadep777 posts small blind [$0.01]
+cbeto51 posts big blind [$0.02]
+** Dealing down cards **
+vovadep777 raises [$0.03]
+cbeto51 folds
+** Summary **
+vovadep777 did not show his hand
+vovadep777 collected [ $0.04 ]
+
+
+#Game No : 1203816587
+***** 888poker Hand History for Game 1203816587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 16:00:28
+Table Cabo Frio 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cbeto51 ( $0.51 )
+Seat 10: vovadep777 ( $3.43 )
+cbeto51 posts small blind [$0.01]
+vovadep777 posts big blind [$0.02]
+** Dealing down cards **
+cbeto51 calls [$0.01]
+vovadep777 checks
+** Dealing flop ** [ Ts, 3c, 2c ]
+vovadep777 checks
+cbeto51 checks
+** Dealing turn ** [ 8h ]
+vovadep777 checks
+cbeto51 checks
+** Dealing river ** [ 7c ]
+vovadep777 bets [$0.04]
+cbeto51 calls [$0.04]
+** Summary **
+vovadep777 shows [ Tc, 8s ]
+cbeto51 mucks [ 7h, Kh ]
+vovadep777 collected [ $0.12 ]
+
+
+#Game No : 1203816652
+***** 888poker Hand History for Game 1203816652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 16:00:49
+Table Cabo Frio 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: cbeto51 ( $0.45 )
+Seat 10: vovadep777 ( $3.49 )
+vovadep777 posts small blind [$0.01]
+cbeto51 posts big blind [$0.02]
+** Dealing down cards **
+vovadep777 raises [$0.05]
+cbeto51 calls [$0.04]
+** Dealing flop ** [ 6s, Ks, 9s ]
+cbeto51 checks
+vovadep777 bets [$0.06]
+cbeto51 calls [$0.06]
+** Dealing turn ** [ Js ]
+cbeto51 checks
+vovadep777 checks
+** Dealing river ** [ Ac ]
+cbeto51 bets [$0.02]
+vovadep777 calls [$0.02]
+** Summary **
+cbeto51 shows [ 3d, 6d ]
+vovadep777 shows [ 9d, Td ]
+vovadep777 collected [ $0.27 ]
+
+
+#Game No : 1203816767
+***** 888poker Hand History for Game 1203816767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 16:01:22
+Table Cabo Frio 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cbeto51 ( $0.31 )
+Seat 10: vovadep777 ( $3.62 )
+cbeto51 posts small blind [$0.01]
+vovadep777 posts big blind [$0.02]
+** Dealing down cards **
+cbeto51 raises [$0.03]
+vovadep777 raises [$0.10]
+cbeto51 calls [$0.08]
+** Dealing flop ** [ 7h, 5c, 9s ]
+vovadep777 bets [$3.50]
+cbeto51 calls [$0.19]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 7c ]
+** Summary **
+cbeto51 shows [ Ah, 8s ]
+vovadep777 shows [ 7s, Ac ]
+vovadep777 collected [ $0.59 ]
+
+

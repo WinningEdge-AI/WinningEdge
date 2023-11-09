@@ -1,0 +1,163 @@
+#Game No : 531279816
+***** 888poker Hand History for Game 531279816 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 16:53:19
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gofigure72 ( $0.64 )
+Seat 7: ankitlr ( $1.31 )
+ankitlr posts small blind [$0.01]
+gofigure72 posts big blind [$0.02]
+** Dealing down cards **
+ankitlr raises [$0.04]
+gofigure72 raises [$0.62]
+ankitlr calls [$0.59]
+** Dealing flop ** [ Ts, 2d, Jc ]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ Tc ]
+** Summary **
+gofigure72 shows [ As, Td ]
+ankitlr shows [ Ac, 9s ]
+gofigure72 collected [ $1.20 ]
+
+
+#Game No : 531279839
+***** 888poker Hand History for Game 531279839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 16:53:50
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gofigure72 ( $1.20 )
+Seat 7: ankitlr ( $1 )
+gofigure72 posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+gofigure72 calls [$0.01]
+ankitlr checks
+** Dealing flop ** [ Qh, 6h, 5h ]
+ankitlr checks
+gofigure72 bets [$0.02]
+ankitlr calls [$0.02]
+** Dealing turn ** [ 5s ]
+ankitlr checks
+gofigure72 checks
+** Dealing river ** [ 7h ]
+ankitlr bets [$0.05]
+gofigure72 folds
+** Summary **
+ankitlr collected [ $0.08 ]
+
+
+#Game No : 531279865
+***** 888poker Hand History for Game 531279865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 16:54:23
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gofigure72 ( $1.16 )
+Seat 7: ankitlr ( $1.04 )
+ankitlr posts small blind [$0.01]
+gofigure72 posts big blind [$0.02]
+** Dealing down cards **
+ankitlr raises [$0.04]
+gofigure72 calls [$0.03]
+** Dealing flop ** [ 4d, Td, 4s ]
+gofigure72 checks
+ankitlr checks
+** Dealing turn ** [ Ad ]
+gofigure72 bets [$0.02]
+ankitlr folds
+** Summary **
+gofigure72 collected [ $0.10 ]
+
+
+#Game No : 531279921
+***** 888poker Hand History for Game 531279921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 16:55:27
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: dhmpetrol ( $1 )
+Seat 7: ankitlr ( $1.70 )
+dhmpetrol posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+dhmpetrol raises [$0.03]
+ankitlr calls [$0.02]
+** Dealing flop ** [ 6d, 9c, 6h ]
+ankitlr checks
+dhmpetrol checks
+** Dealing turn ** [ 6c ]
+ankitlr checks
+dhmpetrol checks
+** Dealing river ** [ Td ]
+ankitlr checks
+dhmpetrol checks
+** Summary **
+ankitlr shows [ 3c, 2c ]
+dhmpetrol shows [ 5s, 8s ]
+ankitlr collected [ $0.04 ]
+dhmpetrol collected [ $0.04 ]
+
+
+#Game No : 531279952
+***** 888poker Hand History for Game 531279952 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 16:55:57
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: dhmpetrol ( $1 )
+Seat 7: ankitlr ( $1.70 )
+ankitlr posts small blind [$0.01]
+dhmpetrol posts big blind [$0.02]
+** Dealing down cards **
+ankitlr folds
+** Summary **
+dhmpetrol did not show his hand
+dhmpetrol collected [ $0.03 ]
+
+
+#Game No : 531279954
+***** 888poker Hand History for Game 531279954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 16:56:00
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: dhmpetrol ( $1.01 )
+Seat 7: ankitlr ( $1.69 )
+dhmpetrol posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+dhmpetrol folds
+** Summary **
+ankitlr did not show his hand
+ankitlr collected [ $0.03 ]
+
+
+#Game No : 531279961
+***** 888poker Hand History for Game 531279961 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 16:56:08
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: dhmpetrol ( $1 )
+Seat 7: ankitlr ( $1.70 )
+ankitlr posts small blind [$0.01]
+dhmpetrol posts big blind [$0.02]
+** Dealing down cards **
+ankitlr raises [$0.04]
+dhmpetrol raises [$0.18]
+ankitlr calls [$0.15]
+** Dealing flop ** [ 7d, Ah, 9d ]
+dhmpetrol checks
+ankitlr checks
+** Dealing turn ** [ 3h ]
+dhmpetrol bets [$0.20]
+ankitlr calls [$0.20]
+** Dealing river ** [ Js ]
+dhmpetrol bets [$0.40]
+ankitlr folds
+** Summary **
+dhmpetrol collected [ $0.75 ]
+
+

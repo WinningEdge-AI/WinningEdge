@@ -1,0 +1,142 @@
+#Game No : 1206150342
+***** 888poker Hand History for Game 1206150342 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 16:51:37
+Table Saratov 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: JonSnow124 ( $1.81 )
+Seat 4: Uttifanten ( $2.30 )
+Uttifanten posts small blind [$0.01]
+JonSnow124 posts big blind [$0.02]
+** Dealing down cards **
+Uttifanten folds
+** Summary **
+JonSnow124 collected [ $0.03 ]
+
+
+#Game No : 1206150359
+***** 888poker Hand History for Game 1206150359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 16:51:41
+Table Saratov 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JonSnow124 ( $1.82 )
+Seat 4: Uttifanten ( $2.29 )
+JonSnow124 posts small blind [$0.01]
+** Dealing down cards **
+Uttifanten folds
+** Summary **
+JonSnow124 collected [ $0.01 ]
+
+
+#Game No : 607715095
+***** 888poker Hand History for Game 607715095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 20:43:37
+Table Saratov 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: FVIDEIRA ( $1 )
+Seat 5: zukalek ( $2.01 )
+FVIDEIRA posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+FVIDEIRA calls [$0.01]
+zukalek checks
+** Dealing flop ** [ Kh, 6d, 7s ]
+zukalek checks
+FVIDEIRA checks
+** Dealing turn ** [ 5h ]
+zukalek bets [$0.04]
+FVIDEIRA calls [$0.04]
+** Dealing river ** [ 6h ]
+zukalek bets [$0.08]
+FVIDEIRA calls [$0.08]
+** Summary **
+zukalek shows [ 4s, 3c ]
+FVIDEIRA mucks [ Kc, 9h ]
+zukalek collected [ $0.27 ]
+
+
+#Game No : 607715121
+***** 888poker Hand History for Game 607715121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 20:44:51
+Table Saratov 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $2.76 )
+Seat 5: zukalek ( $2.14 )
+positive_ev posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+positive_ev raises [$0.05]
+zukalek folds
+** Summary **
+positive_ev collected [ $0.04 ]
+
+
+#Game No : 607715128
+***** 888poker Hand History for Game 607715128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 20:45:02
+Table Saratov 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $2.78 )
+Seat 5: zukalek ( $2.12 )
+zukalek posts small blind [$0.01]
+positive_ev posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+positive_ev collected [ $0.03 ]
+
+
+#Game No : 607715391
+***** 888poker Hand History for Game 607715391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 20:57:21
+Table Saratov 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2 )
+Seat 6: RubiAndCheri ( $0.36 )
+RubiAndCheri posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+RubiAndCheri folds
+** Summary **
+zukalek collected [ $0.03 ]
+
+
+#Game No : 607715433
+***** 888poker Hand History for Game 607715433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 20:59:28
+Table Saratov 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2.06 )
+Seat 10: O_LE_G ( $2 )
+zukalek posts small blind [$0.01]
+O_LE_G posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+O_LE_G folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.04 ]
+
+
+#Game No : 607715439
+***** 888poker Hand History for Game 607715439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 20:59:43
+Table Saratov 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2.08 )
+Seat 10: O_LE_G ( $2 )
+O_LE_G posts small blind [$0.01]
+** Dealing down cards **
+zukalek folds
+** Summary **
+O_LE_G did not show his hand
+O_LE_G collected [ $0.01 ]
+
+

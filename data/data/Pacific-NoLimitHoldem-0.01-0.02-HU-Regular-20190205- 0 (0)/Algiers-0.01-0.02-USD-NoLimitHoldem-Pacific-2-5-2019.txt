@@ -1,0 +1,89 @@
+#Game No : 615201217
+***** 888poker Hand History for Game 615201217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 19:24:29
+Table Algiers 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: kinB3ast ( $2.02 )
+Seat 6: Cypher777 ( $3.74 )
+Cypher777 posts small blind [$0.01]
+kinB3ast posts big blind [$0.02]
+** Dealing down cards **
+Cypher777 raises [$0.05]
+kinB3ast folds
+** Summary **
+Cypher777 did not show his hand
+Cypher777 collected [ $0.04 ]
+
+
+#Game No : 615201313
+***** 888poker Hand History for Game 615201313 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 19:30:41
+Table Algiers 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kinB3ast ( $2 )
+Seat 4: BORN2000 ( $0.80 )
+kinB3ast posts small blind [$0.01]
+BORN2000 posts big blind [$0.02]
+** Dealing down cards **
+kinB3ast calls [$0.01]
+BORN2000 checks
+** Dealing flop ** [ 7s, 5c, Ah ]
+BORN2000 bets [$0.04]
+kinB3ast folds
+** Summary **
+BORN2000 collected [ $0.04 ]
+
+
+#Game No : 615201320
+***** 888poker Hand History for Game 615201320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 19:31:12
+Table Algiers 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: kinB3ast ( $2 )
+Seat 4: BORN2000 ( $0.82 )
+BORN2000 posts small blind [$0.01]
+kinB3ast posts big blind [$0.02]
+** Dealing down cards **
+BORN2000 calls [$0.01]
+kinB3ast checks
+** Dealing flop ** [ 7d, 7h, Ts ]
+kinB3ast checks
+BORN2000 checks
+** Dealing turn ** [ 5c ]
+kinB3ast checks
+BORN2000 checks
+** Dealing river ** [ 6s ]
+kinB3ast checks
+BORN2000 checks
+** Summary **
+kinB3ast shows [ Kd, 8c ]
+BORN2000 shows [ Ad, 3d ]
+BORN2000 collected [ $0.04 ]
+
+
+#Game No : 615201331
+***** 888poker Hand History for Game 615201331 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 19:31:45
+Table Algiers 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kinB3ast ( $2 )
+Seat 4: BORN2000 ( $0.84 )
+kinB3ast posts small blind [$0.01]
+BORN2000 posts big blind [$0.02]
+** Dealing down cards **
+kinB3ast calls [$0.01]
+BORN2000 checks
+** Dealing flop ** [ 9h, 5d, Ah ]
+BORN2000 bets [$0.02]
+kinB3ast calls [$0.02]
+** Dealing turn ** [ Jd ]
+BORN2000 bets [$0.02]
+kinB3ast folds
+** Summary **
+BORN2000 collected [ $0.08 ]
+
+

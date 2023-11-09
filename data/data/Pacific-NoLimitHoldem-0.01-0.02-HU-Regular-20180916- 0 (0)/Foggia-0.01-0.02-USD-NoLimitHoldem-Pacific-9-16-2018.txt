@@ -1,0 +1,61 @@
+#Game No : 502428600
+***** 888poker Hand History for Game 502428600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 10:11:53
+Table Foggia 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: richbranson ( $1.29 )
+Seat 6: siegbert46 ( $0.57 )
+siegbert46 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+siegbert46 calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 5c, Jd, 2h ]
+richbranson checks
+siegbert46 checks
+** Dealing turn ** [ 7c ]
+richbranson bets [$0.04]
+siegbert46 calls [$0.04]
+** Dealing river ** [ 9c ]
+richbranson checks
+siegbert46 checks
+** Summary **
+richbranson shows [ 7h, 4c ]
+siegbert46 mucks [ 3s, 2d ]
+richbranson collected [ $0.12 ]
+
+
+#Game No : 502431746
+***** 888poker Hand History for Game 502431746 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 11:04:31
+Table Foggia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: siegbert46 ( $1.09 )
+Seat 7: bayboy885 ( $1 )
+bayboy885 posts small blind [$0.01]
+siegbert46 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 folds
+** Summary **
+siegbert46 collected [ $0.03 ]
+
+
+#Game No : 502438815
+***** 888poker Hand History for Game 502438815 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 12:56:36
+Table Foggia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alxlibre ( $1.15 )
+Seat 9: conortdb ( $1.40 )
+alxlibre posts small blind [$0.01]
+conortdb posts big blind [$0.02]
+** Dealing down cards **
+alxlibre folds
+** Summary **
+conortdb did not show his hand
+conortdb collected [ $0.03 ]
+
+

@@ -1,0 +1,67 @@
+#Game No : 455188884
+***** 888poker Hand History for Game 455188884 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 08:50:12
+Table Chiang Mai 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: MieGOD ( $1.88 )
+Seat 5: Griboedow ( $1.18 )
+Griboedow posts small blind [$0.01]
+MieGOD posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+MieGOD checks
+** Dealing flop ** [ 2s, Ah, Ks ]
+MieGOD checks
+Griboedow checks
+** Dealing turn ** [ Qs ]
+MieGOD checks
+Griboedow checks
+** Dealing river ** [ 6s ]
+MieGOD checks
+Griboedow checks
+** Summary **
+MieGOD shows [ 3s, 6h ]
+Griboedow mucks [ 8h, 7h ]
+MieGOD collected [ $0.04 ]
+
+
+#Game No : 455190775
+***** 888poker Hand History for Game 455190775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 10:08:54
+Table Chiang Mai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Vlad281199 ( $1.09 )
+Seat 6: kldvod ( $2.11 )
+Vlad281199 posts small blind [$0.01]
+** Dealing down cards **
+kldvod folds
+** Summary **
+Vlad281199 collected [ $0.01 ]
+
+
+#Game No : 455191252
+***** 888poker Hand History for Game 455191252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 10:26:44
+Table Chiang Mai 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: NPV_Phenomen ( $2 )
+Seat 9: emmanueltkd ( $2 )
+emmanueltkd posts small blind [$0.01]
+NPV_Phenomen posts big blind [$0.02]
+** Dealing down cards **
+emmanueltkd calls [$0.01]
+NPV_Phenomen checks
+** Dealing flop ** [ Ac, 6d, 3c ]
+NPV_Phenomen bets [$0.02]
+emmanueltkd calls [$0.02]
+** Dealing turn ** [ Jc ]
+NPV_Phenomen checks
+emmanueltkd bets [$0.08]
+NPV_Phenomen folds
+** Summary **
+emmanueltkd collected [ $0.08 ]
+
+

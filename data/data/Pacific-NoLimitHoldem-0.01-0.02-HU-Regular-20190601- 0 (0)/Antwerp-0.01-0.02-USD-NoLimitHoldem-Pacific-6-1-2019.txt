@@ -1,0 +1,56 @@
+#Game No : 532216864
+***** 888poker Hand History for Game 532216864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 05 2019 20:54:43
+Table Antwerp 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: donkey2punch ( $4.57 )
+Seat 10: klerik170 ( $2.62 )
+klerik170 posts small blind [$0.01]
+donkey2punch posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+donkey2punch checks
+** Dealing flop ** [ Tc, Qd, 4s ]
+donkey2punch checks
+klerik170 checks
+** Dealing turn ** [ 2h ]
+donkey2punch checks
+klerik170 checks
+** Dealing river ** [ 4d ]
+donkey2punch checks
+klerik170 checks
+** Summary **
+donkey2punch shows [ 2d, 9s ]
+klerik170 mucks [ Ac, 7d ]
+donkey2punch collected [ $0.04 ]
+
+
+#Game No : 532216889
+***** 888poker Hand History for Game 532216889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 05 2019 20:55:24
+Table Antwerp 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: donkey2punch ( $4.59 )
+Seat 10: klerik170 ( $2.60 )
+donkey2punch posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+donkey2punch calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ 7c, Qs, Ad ]
+klerik170 checks
+donkey2punch checks
+** Dealing turn ** [ 9d ]
+klerik170 bets [$0.02]
+donkey2punch calls [$0.02]
+** Dealing river ** [ As ]
+klerik170 checks
+donkey2punch checks
+** Summary **
+klerik170 shows [ 2s, 9s ]
+donkey2punch mucks [ 6s, Ks ]
+klerik170 collected [ $0.08 ]
+
+

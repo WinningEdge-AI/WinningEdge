@@ -1,0 +1,323 @@
+#Game No : 499567285
+***** 888poker Hand History for Game 499567285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 08:13:59
+Table Moscow 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: GoldTayger ( $2.50 )
+Seat 4: yznal111 ( $1.39 )
+yznal111 posts small blind [$0.01]
+GoldTayger posts big blind [$0.02]
+** Dealing down cards **
+yznal111 calls [$0.01]
+GoldTayger checks
+** Dealing flop ** [ Ks, Qd, Jh ]
+GoldTayger bets [$0.02]
+yznal111 raises [$0.06]
+GoldTayger calls [$0.04]
+** Dealing turn ** [ 5h ]
+GoldTayger checks
+yznal111 checks
+** Dealing river ** [ 8c ]
+GoldTayger checks
+yznal111 bets [$0.16]
+GoldTayger folds
+** Summary **
+yznal111 collected [ $0.15 ]
+
+
+#Game No : 499567612
+***** 888poker Hand History for Game 499567612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 08:26:58
+Table Moscow 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: vitaminzp ( $0.80 )
+Seat 9: Fibedi ( $0.80 )
+Fibedi posts small blind [$0.01]
+vitaminzp posts big blind [$0.02]
+** Dealing down cards **
+Fibedi calls [$0.01]
+vitaminzp checks
+** Dealing flop ** [ 7h, 3h, 5c ]
+vitaminzp checks
+Fibedi bets [$0.04]
+vitaminzp calls [$0.04]
+** Dealing turn ** [ 3s ]
+vitaminzp checks
+Fibedi bets [$0.02]
+vitaminzp calls [$0.02]
+** Dealing river ** [ 5s ]
+vitaminzp checks
+Fibedi bets [$0.04]
+vitaminzp calls [$0.04]
+** Summary **
+Fibedi shows [ 6s, 6d ]
+vitaminzp mucks [ Kd, 4s ]
+Fibedi collected [ $0.23 ]
+
+
+#Game No : 499567641
+***** 888poker Hand History for Game 499567641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 08:28:11
+Table Moscow 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vitaminzp ( $0.68 )
+Seat 9: Fibedi ( $0.91 )
+vitaminzp posts small blind [$0.01]
+Fibedi posts big blind [$0.02]
+** Dealing down cards **
+vitaminzp calls [$0.01]
+Fibedi checks
+** Dealing flop ** [ Qc, 2c, Kd ]
+Fibedi checks
+vitaminzp bets [$0.04]
+Fibedi folds
+** Summary **
+vitaminzp collected [ $0.04 ]
+
+
+#Game No : 499575720
+***** 888poker Hand History for Game 499575720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 11:37:31
+Table Moscow 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: MEG4MINGE ( $2.52 )
+Seat 7: vsepu4kom ( $2.09 )
+vsepu4kom posts small blind [$0.01]
+MEG4MINGE posts big blind [$0.02]
+** Dealing down cards **
+vsepu4kom calls [$0.01]
+MEG4MINGE checks
+** Dealing flop ** [ 9c, 6s, 3h ]
+MEG4MINGE bets [$0.02]
+vsepu4kom calls [$0.02]
+** Dealing turn ** [ 9h ]
+MEG4MINGE bets [$0.02]
+vsepu4kom calls [$0.02]
+** Dealing river ** [ 3s ]
+MEG4MINGE bets [$0.02]
+vsepu4kom folds
+** Summary **
+MEG4MINGE did not show his hand
+MEG4MINGE collected [ $0.12 ]
+
+
+#Game No : 499575945
+***** 888poker Hand History for Game 499575945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 11:42:13
+Table Moscow 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: MEG4MINGE ( $2.58 )
+Seat 2: dem_I_doss ( $1 )
+dem_I_doss posts small blind [$0.01]
+MEG4MINGE posts big blind [$0.02]
+** Dealing down cards **
+dem_I_doss raises [$0.05]
+MEG4MINGE calls [$0.04]
+** Dealing flop ** [ 2d, 9d, 9s ]
+MEG4MINGE bets [$0.02]
+dem_I_doss raises [$0.06]
+MEG4MINGE calls [$0.04]
+** Dealing turn ** [ Qd ]
+MEG4MINGE checks
+dem_I_doss checks
+** Dealing river ** [ Td ]
+MEG4MINGE checks
+dem_I_doss checks
+** Summary **
+MEG4MINGE shows [ 8c, Ah ]
+dem_I_doss shows [ 4d, 4c ]
+dem_I_doss collected [ $0.23 ]
+
+
+#Game No : 499575989
+***** 888poker Hand History for Game 499575989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 11:43:09
+Table Moscow 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MEG4MINGE ( $2.46 )
+Seat 2: dem_I_doss ( $1.11 )
+MEG4MINGE posts small blind [$0.01]
+dem_I_doss posts big blind [$0.02]
+** Dealing down cards **
+MEG4MINGE calls [$0.01]
+dem_I_doss checks
+** Dealing flop ** [ 7s, 4d, 4s ]
+dem_I_doss bets [$0.04]
+MEG4MINGE folds
+** Summary **
+dem_I_doss collected [ $0.04 ]
+
+
+#Game No : 499576007
+***** 888poker Hand History for Game 499576007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 11:43:31
+Table Moscow 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: MEG4MINGE ( $2.44 )
+Seat 2: dem_I_doss ( $1.13 )
+dem_I_doss posts small blind [$0.01]
+MEG4MINGE posts big blind [$0.02]
+** Dealing down cards **
+dem_I_doss calls [$0.01]
+MEG4MINGE checks
+** Dealing flop ** [ Js, 4h, 8c ]
+MEG4MINGE checks
+dem_I_doss checks
+** Dealing turn ** [ Jd ]
+MEG4MINGE checks
+dem_I_doss checks
+** Dealing river ** [ 8s ]
+MEG4MINGE checks
+dem_I_doss checks
+** Summary **
+MEG4MINGE shows [ Kh, Tc ]
+dem_I_doss mucks [ 6h, 9c ]
+MEG4MINGE collected [ $0.04 ]
+
+
+#Game No : 499577135
+***** 888poker Hand History for Game 499577135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 12:09:02
+Table Moscow 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Petrash1988 ( $1.90 )
+Seat 9: individof ( $1.28 )
+individof posts small blind [$0.01]
+Petrash1988 posts big blind [$0.02]
+** Dealing down cards **
+individof calls [$0.01]
+Petrash1988 raises [$0.04]
+individof calls [$0.04]
+** Dealing flop ** [ Kc, Kh, Th ]
+Petrash1988 bets [$0.06]
+individof calls [$0.06]
+** Dealing turn ** [ 8d ]
+Petrash1988 checks
+individof bets [$0.16]
+Petrash1988 calls [$0.16]
+** Dealing river ** [ Qc ]
+Petrash1988 checks
+individof bets [$0.56]
+Petrash1988 folds
+** Summary **
+individof collected [ $0.53 ]
+
+
+#Game No : 499582249
+***** 888poker Hand History for Game 499582249 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 13:46:54
+Table Moscow 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dmitb ( $1.52 )
+Seat 6: checker136 ( $0.33 )
+checker136 posts small blind [$0.01]
+** Dealing down cards **
+dmitb folds
+** Summary **
+checker136 collected [ $0.01 ]
+
+
+#Game No : 499582251
+***** 888poker Hand History for Game 499582251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 13:46:57
+Table Moscow 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: checker136 ( $0.33 )
+Seat 7: ChillQc ( $1 )
+checker136 posts small blind [$0.01]
+ChillQc posts big blind [$0.02]
+** Dealing down cards **
+checker136 raises [$0.03]
+ChillQc calls [$0.02]
+** Dealing flop ** [ 9s, Js, 3c ]
+ChillQc checks
+checker136 checks
+** Dealing turn ** [ 2h ]
+ChillQc bets [$0.04]
+checker136 raises [$0.08]
+ChillQc calls [$0.04]
+** Dealing river ** [ 7d ]
+ChillQc checks
+checker136 checks
+** Summary **
+ChillQc shows [ Qh, Ks ]
+checker136 shows [ 2c, 4h ]
+checker136 collected [ $0.23 ]
+
+
+#Game No : 499582279
+***** 888poker Hand History for Game 499582279 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 13:47:27
+Table Moscow 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: checker136 ( $0.44 )
+Seat 7: ChillQc ( $0.88 )
+ChillQc posts small blind [$0.01]
+checker136 posts big blind [$0.02]
+** Dealing down cards **
+ChillQc calls [$0.01]
+checker136 raises [$0.42]
+ChillQc folds
+** Summary **
+checker136 collected [ $0.04 ]
+
+
+#Game No : 499586112
+***** 888poker Hand History for Game 499586112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 15:31:01
+Table Moscow 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: etipacbormla ( $0.70 )
+Seat 4: Yancco ( $2.40 )
+Yancco posts small blind [$0.01]
+etipacbormla posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+etipacbormla collected [ $0.03 ]
+
+
+#Game No : 499586122
+***** 888poker Hand History for Game 499586122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 15:31:09
+Table Moscow 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: etipacbormla ( $0.71 )
+Seat 4: Yancco ( $2.39 )
+etipacbormla posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+etipacbormla folds
+** Summary **
+Yancco collected [ $0.03 ]
+
+
+#Game No : 499587151
+***** 888poker Hand History for Game 499587151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 16:06:06
+Table Moscow 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: igara96 ( $2.64 )
+Seat 9: polomanij94 ( $1.04 )
+polomanij94 posts small blind [$0.01]
+** Dealing down cards **
+igara96 folds
+** Summary **
+polomanij94 did not show his hand
+polomanij94 collected [ $0.01 ]
+
+

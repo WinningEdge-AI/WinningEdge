@@ -1,0 +1,67 @@
+#Game No : 623349306
+***** 888poker Hand History for Game 623349306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 19:12:28
+Table Sogamoso 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: happypete30 ( $0.36 )
+Seat 10: chuk112 ( $2.38 )
+chuk112 posts small blind [$0.01]
+happypete30 posts big blind [$0.02]
+** Dealing down cards **
+chuk112 raises [$0.05]
+happypete30 raises [$0.34]
+chuk112 calls [$0.30]
+** Dealing flop ** [ 3c, 5s, 6h ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Kc ]
+** Summary **
+happypete30 shows [ Qd, Kd ]
+chuk112 shows [ 9d, 9s ]
+happypete30 collected [ $0.68 ]
+
+
+#Game No : 623349316
+***** 888poker Hand History for Game 623349316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 19:13:05
+Table Sogamoso 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: happypete30 ( $0.68 )
+Seat 10: chuk112 ( $2.02 )
+happypete30 posts small blind [$0.01]
+** Dealing down cards **
+chuk112 folds
+** Summary **
+happypete30 collected [ $0.01 ]
+
+
+#Game No : 623349317
+***** 888poker Hand History for Game 623349317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2019 19:13:09
+Table Sogamoso 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: happypete30 ( $0.68 )
+Seat 6: sagitova ( $0.80 )
+happypete30 posts small blind [$0.01]
+sagitova posts big blind [$0.02]
+** Dealing down cards **
+happypete30 calls [$0.01]
+sagitova checks
+** Dealing flop ** [ 7s, Jh, 5d ]
+sagitova checks
+happypete30 bets [$0.02]
+sagitova calls [$0.02]
+** Dealing turn ** [ 8c ]
+sagitova checks
+happypete30 bets [$0.08]
+sagitova calls [$0.08]
+** Dealing river ** [ 6s ]
+sagitova bets [$0.02]
+happypete30 raises [$0.56]
+sagitova folds
+** Summary **
+happypete30 collected [ $0.27 ]
+
+

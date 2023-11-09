@@ -1,0 +1,44 @@
+#Game No : 1209877735
+***** 888poker Hand History for Game 1209877735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 09 2018 08:38:09
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: McMahon_Poke ( $1.96 )
+Seat 6: 1478523690 ( $2.04 )
+McMahon_Poke posts small blind [$0.01]
+1478523690 posts big blind [$0.02]
+** Dealing down cards **
+McMahon_Poke raises [$0.05]
+1478523690 folds
+** Summary **
+McMahon_Poke collected [ $0.04 ]
+
+
+#Game No : 1209878151
+***** 888poker Hand History for Game 1209878151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 09 2018 08:39:57
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: McMahon_Poke ( $2.02 )
+Seat 5: AA44414 ( $1.77 )
+AA44414 posts small blind [$0.01]
+McMahon_Poke posts big blind [$0.02]
+** Dealing down cards **
+AA44414 raises [$0.03]
+McMahon_Poke raises [$0.04]
+AA44414 calls [$0.02]
+** Dealing flop ** [ 3h, Ts, 5d ]
+McMahon_Poke bets [$0.06]
+AA44414 calls [$0.06]
+** Dealing turn ** [ Js ]
+McMahon_Poke bets [$0.12]
+AA44414 calls [$0.12]
+** Dealing river ** [ 8d ]
+McMahon_Poke bets [$0.24]
+AA44414 folds
+** Summary **
+McMahon_Poke collected [ $0.45 ]
+
+

@@ -1,0 +1,53 @@
+#Game No : 463192566
+***** 888poker Hand History for Game 463192566 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 14:35:11
+Table Cabo Frio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: lollymercer ( $1.91 )
+Seat 9: The_Portus ( $2.66 )
+The_Portus posts small blind [$0.01]
+lollymercer posts big blind [$0.02]
+** Dealing down cards **
+The_Portus raises [$0.05]
+lollymercer calls [$0.04]
+** Dealing flop ** [ 6h, Kc, 4d ]
+lollymercer bets [$0.02]
+The_Portus calls [$0.02]
+** Dealing turn ** [ 4c ]
+lollymercer bets [$0.02]
+The_Portus raises [$0.12]
+lollymercer calls [$0.10]
+** Dealing river ** [ Jc ]
+lollymercer checks
+The_Portus bets [$0.26]
+lollymercer calls [$0.26]
+** Summary **
+The_Portus shows [ As, Js ]
+lollymercer mucks [ 6s, 5h ]
+The_Portus collected [ $0.87 ]
+
+
+#Game No : 463192598
+***** 888poker Hand History for Game 463192598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 14:35:45
+Table Cabo Frio 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lollymercer ( $1.45 )
+Seat 9: The_Portus ( $3.07 )
+lollymercer posts small blind [$0.01]
+The_Portus posts big blind [$0.02]
+** Dealing down cards **
+lollymercer calls [$0.01]
+The_Portus checks
+** Dealing flop ** [ 6h, Kh, 3c ]
+The_Portus checks
+lollymercer checks
+** Dealing turn ** [ 7h ]
+The_Portus bets [$0.04]
+lollymercer folds
+** Summary **
+The_Portus collected [ $0.04 ]
+
+

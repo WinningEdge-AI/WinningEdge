@@ -1,0 +1,637 @@
+#Game No : 463170635
+***** 888poker Hand History for Game 463170635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 05:44:59
+Table Sochi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AWT1551 ( $0.80 )
+Seat 6: laschko ( $1 )
+AWT1551 posts small blind [$0.01]
+laschko posts big blind [$0.02]
+** Dealing down cards **
+AWT1551 calls [$0.01]
+laschko checks
+** Dealing flop ** [ Ah, 2s, 8d ]
+laschko checks
+AWT1551 checks
+** Dealing turn ** [ 7s ]
+laschko checks
+AWT1551 bets [$0.02]
+laschko calls [$0.02]
+** Dealing river ** [ 3s ]
+laschko bets [$0.04]
+AWT1551 raises [$0.20]
+laschko calls [$0.16]
+** Summary **
+AWT1551 shows [ 3h, As ]
+laschko mucks [ 7c, 3c ]
+AWT1551 collected [ $0.45 ]
+
+
+#Game No : 463170670
+***** 888poker Hand History for Game 463170670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 05:45:13
+Table Sochi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: AWT1551 ( $1.01 )
+Seat 6: laschko ( $0.76 )
+laschko posts small blind [$0.01]
+AWT1551 posts big blind [$0.02]
+** Dealing down cards **
+laschko raises [$0.03]
+AWT1551 calls [$0.02]
+** Dealing flop ** [ Td, 9c, Kc ]
+AWT1551 bets [$0.02]
+laschko calls [$0.02]
+** Dealing turn ** [ 6d ]
+AWT1551 bets [$0.02]
+laschko calls [$0.02]
+** Dealing river ** [ Qh ]
+AWT1551 bets [$0.16]
+laschko raises [$0.32]
+AWT1551 calls [$0.16]
+** Summary **
+laschko shows [ Ah, Jd ]
+AWT1551 mucks [ Js, Th ]
+laschko collected [ $0.75 ]
+
+
+#Game No : 463175803
+***** 888poker Hand History for Game 463175803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:10:42
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Mike_add ( $0.80 )
+Seat 2: grahamw125 ( $0.80 )
+grahamw125 posts small blind [$0.01]
+Mike_add posts big blind [$0.02]
+** Dealing down cards **
+grahamw125 raises [$0.03]
+Mike_add calls [$0.02]
+** Dealing flop ** [ 2s, 8d, Qc ]
+Mike_add bets [$0.02]
+grahamw125 calls [$0.02]
+** Dealing turn ** [ Th ]
+Mike_add bets [$0.02]
+grahamw125 calls [$0.02]
+** Dealing river ** [ 6d ]
+Mike_add bets [$0.10]
+grahamw125 calls [$0.10]
+** Summary **
+Mike_add shows [ Jh, 9s ]
+grahamw125 mucks [ Ks, 8c ]
+Mike_add collected [ $0.34 ]
+
+
+#Game No : 463176580
+***** 888poker Hand History for Game 463176580 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:31:20
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: LipaVit ( $1 )
+Seat 9: TropicSky ( $2.51 )
+LipaVit posts small blind [$0.01]
+TropicSky posts big blind [$0.02]
+** Dealing down cards **
+LipaVit folds
+** Summary **
+TropicSky collected [ $0.03 ]
+
+
+#Game No : 463176583
+***** 888poker Hand History for Game 463176583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:31:24
+Table Sochi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: LipaVit ( $1 )
+Seat 9: TropicSky ( $2.52 )
+TropicSky posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+TropicSky raises [$0.03]
+LipaVit raises [$0.14]
+TropicSky calls [$0.12]
+** Dealing flop ** [ Qc, 9d, 8c ]
+LipaVit bets [$0.18]
+TropicSky folds
+** Summary **
+LipaVit collected [ $0.30 ]
+
+
+#Game No : 463176594
+***** 888poker Hand History for Game 463176594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:31:41
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: LipaVit ( $1.14 )
+Seat 9: TropicSky ( $2.36 )
+LipaVit posts small blind [$0.01]
+TropicSky posts big blind [$0.02]
+** Dealing down cards **
+LipaVit folds
+** Summary **
+TropicSky collected [ $0.03 ]
+
+
+#Game No : 463177601
+***** 888poker Hand History for Game 463177601 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 09:01:03
+Table Sochi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Intelligent8 ( $1.09 )
+Seat 7: Yuriy464 ( $0.90 )
+Yuriy464 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+Yuriy464 calls [$0.01]
+Intelligent8 raises [$0.08]
+Yuriy464 calls [$0.08]
+** Dealing flop ** [ 6c, Ks, 5s ]
+Intelligent8 bets [$0.10]
+Yuriy464 calls [$0.10]
+** Dealing turn ** [ Kc ]
+Intelligent8 bets [$0.20]
+Yuriy464 calls [$0.20]
+** Dealing river ** [ 4s ]
+Intelligent8 bets [$0.20]
+Yuriy464 raises [$0.50]
+Intelligent8 folds
+** Summary **
+Yuriy464 collected [ $1.13 ]
+
+
+#Game No : 463177637
+***** 888poker Hand History for Game 463177637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 09:01:59
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Intelligent8 ( $1 )
+Seat 7: Yuriy464 ( $1.43 )
+Intelligent8 posts small blind [$0.01]
+Yuriy464 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+Yuriy464 collected [ $0.03 ]
+
+
+#Game No : 463180055
+***** 888poker Hand History for Game 463180055 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 10:09:07
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Intelligent8 ( $1.12 )
+Seat 4: chipdestroy ( $0.87 )
+chipdestroy posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+chipdestroy calls [$0.01]
+Intelligent8 checks
+** Dealing flop ** [ As, 3c, Qd ]
+Intelligent8 bets [$0.02]
+chipdestroy calls [$0.02]
+** Dealing turn ** [ 9s ]
+Intelligent8 checks
+chipdestroy bets [$0.04]
+Intelligent8 calls [$0.04]
+** Dealing river ** [ Ah ]
+Intelligent8 checks
+chipdestroy checks
+** Summary **
+Intelligent8 shows [ 2d, Qh ]
+chipdestroy shows [ Kd, Qs ]
+chipdestroy collected [ $0.15 ]
+
+
+#Game No : 463180077
+***** 888poker Hand History for Game 463180077 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 10:09:54
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Intelligent8 ( $1.04 )
+Seat 4: chipdestroy ( $0.94 )
+Intelligent8 posts small blind [$0.01]
+chipdestroy posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+chipdestroy collected [ $0.03 ]
+
+
+#Game No : 463180089
+***** 888poker Hand History for Game 463180089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 10:10:20
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Intelligent8 ( $1.03 )
+Seat 4: chipdestroy ( $0.95 )
+chipdestroy posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+chipdestroy folds
+** Summary **
+Intelligent8 collected [ $0.03 ]
+
+
+#Game No : 1256690769
+***** 888poker Hand History for Game 1256690769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 14:37:25
+Table Sochi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Trangia ( $1.56 )
+Seat 2: skullygirl ( $0.17 )
+Trangia posts small blind [$0.01]
+skullygirl posts big blind [$0.02]
+** Dealing down cards **
+Trangia calls [$0.01]
+skullygirl checks
+** Dealing flop ** [ 6s, 4h, 2h ]
+Trangia checks
+skullygirl checks
+** Dealing turn ** [ 5c ]
+Trangia checks
+skullygirl checks
+** Dealing river ** [ Ac ]
+Trangia checks
+skullygirl checks
+** Summary **
+Trangia shows [ 2c, 8h ]
+skullygirl shows [ 2d, Jc ]
+skullygirl collected [ $0.04 ]
+
+
+#Game No : 1256691875
+***** 888poker Hand History for Game 1256691875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 14:42:08
+Table Sochi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: skullygirl ( $0.14 )
+Seat 6: N.Yuldasheva ( $1.01 )
+N.Yuldasheva posts small blind [$0.01]
+skullygirl posts big blind [$0.02]
+** Dealing down cards **
+N.Yuldasheva folds
+** Summary **
+skullygirl collected [ $0.03 ]
+
+
+#Game No : 1256708821
+***** 888poker Hand History for Game 1256708821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 15:55:13
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Churekovo ( $1.70 )
+Seat 9: yorke132 ( $1.26 )
+Churekovo posts small blind [$0.01]
+yorke132 posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+yorke132 folds
+** Summary **
+Churekovo did not show his hand
+Churekovo collected [ $0.04 ]
+
+
+#Game No : 1256708859
+***** 888poker Hand History for Game 1256708859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 15:55:26
+Table Sochi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Churekovo ( $1.72 )
+Seat 9: yorke132 ( $1.24 )
+yorke132 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+yorke132 raises [$0.05]
+Churekovo folds
+** Summary **
+yorke132 did not show his hand
+yorke132 collected [ $0.04 ]
+
+
+#Game No : 1256708904
+***** 888poker Hand History for Game 1256708904 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 15:55:40
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Churekovo ( $1.70 )
+Seat 9: yorke132 ( $1.26 )
+Churekovo posts small blind [$0.01]
+** Dealing down cards **
+yorke132 folds
+** Summary **
+Churekovo did not show his hand
+Churekovo collected [ $0.01 ]
+
+
+#Game No : 1256709062
+***** 888poker Hand History for Game 1256709062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 15:56:23
+Table Sochi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kazwilks ( $0.80 )
+Seat 2: Churekovo ( $1.70 )
+kazwilks posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+kazwilks folds
+** Summary **
+Churekovo did not show his hand
+Churekovo collected [ $0.03 ]
+
+
+#Game No : 1256709095
+***** 888poker Hand History for Game 1256709095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 15:56:32
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kazwilks ( $0.79 )
+Seat 2: Churekovo ( $1.71 )
+Churekovo posts small blind [$0.01]
+kazwilks posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+kazwilks raises [$0.10]
+Churekovo folds
+** Summary **
+kazwilks did not show his hand
+kazwilks collected [ $0.08 ]
+
+
+#Game No : 1256709148
+***** 888poker Hand History for Game 1256709148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 15:56:47
+Table Sochi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kazwilks ( $0.83 )
+Seat 2: Churekovo ( $1.67 )
+kazwilks posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+kazwilks folds
+** Summary **
+Churekovo did not show his hand
+Churekovo collected [ $0.03 ]
+
+
+#Game No : 1256709173
+***** 888poker Hand History for Game 1256709173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 15:56:54
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kazwilks ( $0.82 )
+Seat 2: Churekovo ( $1.68 )
+Churekovo posts small blind [$0.01]
+kazwilks posts big blind [$0.02]
+** Dealing down cards **
+Churekovo folds
+** Summary **
+kazwilks did not show his hand
+kazwilks collected [ $0.03 ]
+
+
+#Game No : 1256710171
+***** 888poker Hand History for Game 1256710171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:01:43
+Table Sochi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Churekovo ( $1.60 )
+Seat 6: QueenIG ( $0.56 )
+QueenIG posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+QueenIG calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ Tc, 4d, Th ]
+Churekovo checks
+QueenIG bets [$0.04]
+Churekovo folds
+** Summary **
+QueenIG collected [ $0.04 ]
+
+
+#Game No : 1256710238
+***** 888poker Hand History for Game 1256710238 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:01:59
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Churekovo ( $1.58 )
+Seat 6: QueenIG ( $0.58 )
+Churekovo posts small blind [$0.01]
+QueenIG posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+QueenIG raises [$0.04]
+Churekovo calls [$0.02]
+** Dealing flop ** [ 9h, 4d, 3s ]
+QueenIG bets [$0.06]
+Churekovo calls [$0.06]
+** Dealing turn ** [ 6c ]
+QueenIG checks
+Churekovo bets [$0.12]
+QueenIG folds
+** Summary **
+Churekovo collected [ $0.23 ]
+
+
+#Game No : 1256710927
+***** 888poker Hand History for Game 1256710927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:05:09
+Table Sochi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Churekovo ( $1.63 )
+Seat 6: QueenIG ( $0.78 )
+QueenIG posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+QueenIG calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ Ad, Jh, 6h ]
+Churekovo checks
+QueenIG checks
+** Dealing turn ** [ Ah ]
+Churekovo checks
+QueenIG checks
+** Dealing river ** [ 8s ]
+Churekovo checks
+QueenIG checks
+** Summary **
+Churekovo shows [ 4d, 3h ]
+QueenIG shows [ 3c, 4h ]
+QueenIG collected [ $0.02 ]
+Churekovo collected [ $0.02 ]
+
+
+#Game No : 1256719506
+***** 888poker Hand History for Game 1256719506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:46:42
+Table Sochi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: QueenIG ( $0.71 )
+Seat 9: mrhamburger ( $2.03 )
+mrhamburger posts small blind [$0.01]
+QueenIG posts big blind [$0.02]
+** Dealing down cards **
+mrhamburger raises [$0.05]
+QueenIG calls [$0.04]
+** Dealing flop ** [ 6d, 5h, 2s ]
+QueenIG bets [$0.65]
+mrhamburger folds
+** Summary **
+QueenIG collected [ $0.12 ]
+
+
+#Game No : 1256719563
+***** 888poker Hand History for Game 1256719563 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:47:01
+Table Sochi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: QueenIG ( $0.77 )
+Seat 9: mrhamburger ( $1.97 )
+QueenIG posts small blind [$0.01]
+mrhamburger posts big blind [$0.02]
+** Dealing down cards **
+QueenIG calls [$0.01]
+mrhamburger checks
+** Dealing flop ** [ Kd, Kc, 9h ]
+mrhamburger checks
+QueenIG checks
+** Dealing turn ** [ Qd ]
+mrhamburger checks
+QueenIG checks
+** Dealing river ** [ Qh ]
+mrhamburger bets [$0.04]
+QueenIG folds
+** Summary **
+mrhamburger collected [ $0.04 ]
+
+
+#Game No : 1256719625
+***** 888poker Hand History for Game 1256719625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:47:21
+Table Sochi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: QueenIG ( $0.75 )
+Seat 9: mrhamburger ( $1.99 )
+mrhamburger posts small blind [$0.01]
+QueenIG posts big blind [$0.02]
+** Dealing down cards **
+mrhamburger folds
+** Summary **
+QueenIG collected [ $0.03 ]
+
+
+#Game No : 1256719645
+***** 888poker Hand History for Game 1256719645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:47:29
+Table Sochi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: ibi79 ( $1 )
+Seat 6: QueenIG ( $0.76 )
+QueenIG posts small blind [$0.01]
+ibi79 posts big blind [$0.02]
+** Dealing down cards **
+QueenIG calls [$0.01]
+ibi79 checks
+** Dealing flop ** [ Jd, 7s, Qc ]
+ibi79 bets [$0.02]
+QueenIG calls [$0.02]
+** Dealing turn ** [ 6s ]
+ibi79 bets [$0.02]
+QueenIG folds
+** Summary **
+ibi79 collected [ $0.08 ]
+
+
+#Game No : 1256719700
+***** 888poker Hand History for Game 1256719700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:47:46
+Table Sochi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ibi79 ( $1.04 )
+Seat 6: QueenIG ( $0.72 )
+ibi79 posts small blind [$0.01]
+QueenIG posts big blind [$0.02]
+** Dealing down cards **
+ibi79 calls [$0.01]
+QueenIG checks
+** Dealing flop ** [ Qc, Qh, Kc ]
+QueenIG checks
+ibi79 checks
+** Dealing turn ** [ 9d ]
+QueenIG bets [$0.02]
+ibi79 calls [$0.02]
+** Dealing river ** [ 6s ]
+QueenIG checks
+ibi79 checks
+** Summary **
+QueenIG shows [ 5c, 7h ]
+ibi79 shows [ 4d, 9c ]
+ibi79 collected [ $0.08 ]
+
+
+#Game No : 1256719779
+***** 888poker Hand History for Game 1256719779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:48:10
+Table Sochi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ibi79 ( $1.08 )
+Seat 2: Julja94.94 ( $1 )
+ibi79 posts small blind [$0.01]
+Julja94.94 posts big blind [$0.02]
+** Dealing down cards **
+ibi79 calls [$0.01]
+Julja94.94 checks
+** Dealing flop ** [ 9h, 5h, 6d ]
+Julja94.94 checks
+ibi79 bets [$0.02]
+Julja94.94 folds
+** Summary **
+ibi79 collected [ $0.04 ]
+
+
+#Game No : 1256719868
+***** 888poker Hand History for Game 1256719868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 16:48:37
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ibi79 ( $1.10 )
+Seat 2: Julja94.94 ( $0.98 )
+Julja94.94 posts small blind [$0.01]
+ibi79 posts big blind [$0.02]
+** Dealing down cards **
+Julja94.94 raises [$0.05]
+ibi79 folds
+** Summary **
+Julja94.94 collected [ $0.04 ]
+
+

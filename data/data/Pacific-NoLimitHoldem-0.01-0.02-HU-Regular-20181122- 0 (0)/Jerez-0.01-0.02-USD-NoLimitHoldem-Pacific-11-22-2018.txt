@@ -1,0 +1,213 @@
+#Game No : 509585921
+***** 888poker Hand History for Game 509585921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:27:33
+Table Jerez 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nataliafat ( $0.81 )
+Seat 4: SlavikMark79 ( $1 )
+Nataliafat posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Nataliafat calls [$0.01]
+SlavikMark79 checks
+** Dealing flop ** [ Qh, Kc, 9h ]
+SlavikMark79 checks
+Nataliafat bets [$0.02]
+SlavikMark79 raises [$0.06]
+Nataliafat raises [$0.08]
+SlavikMark79 calls [$0.04]
+** Dealing turn ** [ 8d ]
+SlavikMark79 checks
+Nataliafat bets [$0.02]
+SlavikMark79 raises [$0.10]
+Nataliafat calls [$0.08]
+** Dealing river ** [ 9d ]
+SlavikMark79 checks
+Nataliafat checks
+** Summary **
+SlavikMark79 shows [ Ks, Jh ]
+Nataliafat shows [ Kd, Kh ]
+Nataliafat collected [ $0.42 ]
+
+
+#Game No : 509585935
+***** 888poker Hand History for Game 509585935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:27:46
+Table Jerez 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nataliafat ( $1.01 )
+Seat 4: SlavikMark79 ( $1 )
+SlavikMark79 posts small blind [$0.01]
+Nataliafat posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 calls [$0.01]
+Nataliafat checks
+** Dealing flop ** [ Qh, As, 7s ]
+Nataliafat checks
+SlavikMark79 checks
+** Dealing turn ** [ Jd ]
+Nataliafat bets [$0.02]
+SlavikMark79 folds
+** Summary **
+Nataliafat did not show his hand
+Nataliafat collected [ $0.04 ]
+
+
+#Game No : 509585945
+***** 888poker Hand History for Game 509585945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:28:12
+Table Jerez 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nataliafat ( $1.03 )
+Seat 4: SlavikMark79 ( $1 )
+Nataliafat posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Nataliafat calls [$0.01]
+SlavikMark79 checks
+** Dealing flop ** [ Jc, 6s, 2s ]
+SlavikMark79 bets [$0.04]
+Nataliafat folds
+** Summary **
+SlavikMark79 collected [ $0.04 ]
+
+
+#Game No : 509585953
+***** 888poker Hand History for Game 509585953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:28:36
+Table Jerez 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nataliafat ( $1.01 )
+Seat 4: SlavikMark79 ( $1.02 )
+SlavikMark79 posts small blind [$0.01]
+Nataliafat posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 calls [$0.01]
+Nataliafat checks
+** Dealing flop ** [ 9c, As, Qc ]
+Nataliafat checks
+SlavikMark79 checks
+** Dealing turn ** [ Ah ]
+Nataliafat checks
+SlavikMark79 checks
+** Dealing river ** [ Js ]
+Nataliafat checks
+SlavikMark79 checks
+** Summary **
+Nataliafat shows [ 3h, 4c ]
+SlavikMark79 shows [ 6c, 5h ]
+SlavikMark79 collected [ $0.02 ]
+Nataliafat collected [ $0.02 ]
+
+
+#Game No : 509586373
+***** 888poker Hand History for Game 509586373 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:52:33
+Table Jerez 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: krasotajs ( $3.93 )
+Seat 9: Strugglezhop ( $0.95 )
+Strugglezhop posts small blind [$0.01]
+krasotajs posts big blind [$0.02]
+** Dealing down cards **
+Strugglezhop raises [$0.05]
+krasotajs calls [$0.04]
+** Dealing flop ** [ Kd, 3d, Ts ]
+krasotajs bets [$0.04]
+Strugglezhop raises [$0.08]
+krasotajs calls [$0.04]
+** Dealing turn ** [ 6c ]
+krasotajs checks
+Strugglezhop bets [$0.14]
+krasotajs calls [$0.14]
+** Dealing river ** [ 4c ]
+krasotajs checks
+Strugglezhop bets [$0.39]
+krasotajs folds
+** Summary **
+Strugglezhop collected [ $0.53 ]
+
+
+#Game No : 509586391
+***** 888poker Hand History for Game 509586391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:53:39
+Table Jerez 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: krasotajs ( $3.65 )
+Seat 9: Strugglezhop ( $1.20 )
+krasotajs posts small blind [$0.01]
+Strugglezhop posts big blind [$0.02]
+** Dealing down cards **
+krasotajs calls [$0.01]
+Strugglezhop raises [$0.04]
+krasotajs calls [$0.04]
+** Dealing flop ** [ 6h, 2h, Js ]
+Strugglezhop checks
+krasotajs bets [$0.12]
+Strugglezhop folds
+** Summary **
+krasotajs collected [ $0.12 ]
+
+
+#Game No : 509586698
+***** 888poker Hand History for Game 509586698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 05:10:53
+Table Jerez 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SlikvsSlik ( $1.40 )
+Seat 9: NNNddd11111 ( $1.89 )
+SlikvsSlik posts small blind [$0.01]
+NNNddd11111 posts big blind [$0.02]
+** Dealing down cards **
+SlikvsSlik folds
+** Summary **
+NNNddd11111 collected [ $0.03 ]
+
+
+#Game No : 509589849
+***** 888poker Hand History for Game 509589849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 07:06:20
+Table Jerez 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: gogeld ( $2.93 )
+Seat 9: NNNddd11111 ( $1.04 )
+NNNddd11111 posts small blind [$0.01]
+gogeld posts big blind [$0.02]
+** Dealing down cards **
+NNNddd11111 raises [$0.03]
+gogeld calls [$0.02]
+** Dealing flop ** [ 6c, 4c, 2c ]
+gogeld bets [$0.02]
+NNNddd11111 calls [$0.02]
+** Dealing turn ** [ Tc ]
+gogeld checks
+NNNddd11111 bets [$0.12]
+gogeld folds
+** Summary **
+NNNddd11111 collected [ $0.12 ]
+
+
+#Game No : 509589906
+***** 888poker Hand History for Game 509589906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 07:08:12
+Table Jerez 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: gogeld ( $2.73 )
+Seat 9: NNNddd11111 ( $1.25 )
+NNNddd11111 posts small blind [$0.01]
+gogeld posts big blind [$0.02]
+** Dealing down cards **
+NNNddd11111 folds
+** Summary **
+gogeld collected [ $0.03 ]
+
+

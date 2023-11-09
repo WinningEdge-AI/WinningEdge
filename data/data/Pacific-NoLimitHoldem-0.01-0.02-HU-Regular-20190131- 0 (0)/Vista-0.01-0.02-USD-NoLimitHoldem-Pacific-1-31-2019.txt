@@ -1,0 +1,61 @@
+#Game No : 523016285
+***** 888poker Hand History for Game 523016285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 07:47:57
+Table Vista 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kkl113 ( $1.86 )
+Seat 4: finnkrista ( $0.55 )
+kkl113 posts small blind [$0.01]
+finnkrista posts big blind [$0.02]
+** Dealing down cards **
+kkl113 calls [$0.01]
+finnkrista checks
+** Dealing flop ** [ 8d, As, 3d ]
+finnkrista checks
+kkl113 checks
+** Dealing turn ** [ 7h ]
+finnkrista checks
+kkl113 checks
+** Dealing river ** [ Kh ]
+finnkrista checks
+kkl113 checks
+** Summary **
+finnkrista shows [ 2h, 2d ]
+kkl113 shows [ 6d, 6s ]
+kkl113 collected [ $0.04 ]
+
+
+#Game No : 523016839
+***** 888poker Hand History for Game 523016839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 07:57:29
+Table Vista 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kkl113 ( $1.91 )
+Seat 6: laschko ( $0.64 )
+kkl113 posts small blind [$0.01]
+laschko posts big blind [$0.02]
+** Dealing down cards **
+kkl113 raises [$0.07]
+laschko folds
+** Summary **
+kkl113 collected [ $0.04 ]
+
+
+#Game No : 523016870
+***** 888poker Hand History for Game 523016870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 07:57:58
+Table Vista 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: kkl113 ( $1.93 )
+Seat 6: laschko ( $0.62 )
+laschko posts small blind [$0.01]
+kkl113 posts big blind [$0.02]
+** Dealing down cards **
+laschko folds
+** Summary **
+kkl113 collected [ $0.03 ]
+
+

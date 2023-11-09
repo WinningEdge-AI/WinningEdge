@@ -1,0 +1,144 @@
+#Game No : 577170
+***** 888poker Hand History for Game 577170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 07 2019 22:42:43
+Table Poole 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: imeolagi ( $1.53 )
+Seat 6: Silverlist ( $0.67 )
+imeolagi posts small blind [$0.01]
+Silverlist posts big blind [$0.02]
+** Dealing down cards **
+imeolagi raises [$0.03]
+Silverlist folds
+** Summary **
+imeolagi collected [ $0.04 ]
+
+
+#Game No : 577171
+***** 888poker Hand History for Game 577171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 07 2019 22:42:56
+Table Poole 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: imeolagi ( $1.55 )
+Seat 6: Silverlist ( $0.65 )
+Silverlist posts small blind [$0.01]
+imeolagi posts big blind [$0.02]
+** Dealing down cards **
+Silverlist calls [$0.01]
+imeolagi checks
+** Dealing flop ** [ Ks, Ah, 9h ]
+imeolagi checks
+Silverlist checks
+** Dealing turn ** [ 5d ]
+imeolagi bets [$0.02]
+Silverlist calls [$0.02]
+** Dealing river ** [ 5c ]
+imeolagi bets [$0.02]
+Silverlist calls [$0.02]
+** Summary **
+imeolagi shows [ Kd, 3s ]
+Silverlist mucks [ 9s, 8c ]
+imeolagi collected [ $0.12 ]
+
+
+#Game No : 577172
+***** 888poker Hand History for Game 577172 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 07 2019 22:43:22
+Table Poole 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: imeolagi ( $1.61 )
+Seat 6: Silverlist ( $0.59 )
+imeolagi posts small blind [$0.01]
+Silverlist posts big blind [$0.02]
+** Dealing down cards **
+imeolagi calls [$0.01]
+Silverlist checks
+** Dealing flop ** [ 9c, Qs, 8d ]
+Silverlist checks
+imeolagi checks
+** Dealing turn ** [ Ad ]
+Silverlist checks
+imeolagi checks
+** Dealing river ** [ 2h ]
+Silverlist checks
+imeolagi checks
+** Summary **
+Silverlist shows [ Th, 9s ]
+imeolagi mucks [ 4c, Kh ]
+Silverlist collected [ $0.04 ]
+
+
+#Game No : 577529
+***** 888poker Hand History for Game 577529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 00:24:52
+Table Poole 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: fluke149 ( $1.23 )
+Seat 6: NiamLison ( $3.15 )
+NiamLison posts small blind [$0.01]
+fluke149 posts big blind [$0.02]
+** Dealing down cards **
+NiamLison raises [$0.05]
+fluke149 calls [$0.04]
+** Dealing flop ** [ 8s, Ac, 6d ]
+fluke149 checks
+NiamLison bets [$0.06]
+fluke149 folds
+** Summary **
+NiamLison did not show his hand
+NiamLison collected [ $0.12 ]
+
+
+#Game No : 577531
+***** 888poker Hand History for Game 577531 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 00:25:08
+Table Poole 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: fluke149 ( $1.17 )
+Seat 6: NiamLison ( $3.21 )
+fluke149 posts small blind [$0.01]
+NiamLison posts big blind [$0.02]
+** Dealing down cards **
+fluke149 calls [$0.01]
+NiamLison raises [$0.06]
+fluke149 calls [$0.06]
+** Dealing flop ** [ 6d, 7s, 6s ]
+NiamLison checks
+fluke149 checks
+** Dealing turn ** [ 2c ]
+NiamLison checks
+fluke149 checks
+** Dealing river ** [ Kd ]
+NiamLison bets [$0.10]
+fluke149 folds
+** Summary **
+NiamLison did not show his hand
+NiamLison collected [ $0.15 ]
+
+
+#Game No : 577534
+***** 888poker Hand History for Game 577534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 00:25:31
+Table Poole 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: fluke149 ( $1.09 )
+Seat 6: NiamLison ( $3.28 )
+NiamLison posts small blind [$0.01]
+fluke149 posts big blind [$0.02]
+** Dealing down cards **
+NiamLison calls [$0.01]
+fluke149 checks
+** Dealing flop ** [ Ah, 2s, 7h ]
+fluke149 checks
+NiamLison bets [$0.02]
+fluke149 folds
+** Summary **
+NiamLison collected [ $0.04 ]
+
+

@@ -1,0 +1,907 @@
+#Game No : 502784896
+***** 888poker Hand History for Game 502784896 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 06:55:43
+Table Duisburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: A123T ( $0.78 )
+Seat 6: steve_manta ( $1.02 )
+steve_manta posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+steve_manta calls [$0.01]
+A123T checks
+** Dealing flop ** [ 5s, Jh, 4d ]
+A123T bets [$0.02]
+steve_manta calls [$0.02]
+** Dealing turn ** [ As ]
+A123T checks
+steve_manta bets [$0.04]
+A123T raises [$0.08]
+steve_manta raises [$0.08]
+A123T calls [$0.04]
+** Dealing river ** [ 6s ]
+A123T bets [$0.02]
+steve_manta raises [$0.38]
+A123T calls [$0.36]
+** Summary **
+steve_manta shows [ Js, Qs ]
+A123T mucks [ Jd, 5c ]
+steve_manta collected [ $1.02 ]
+
+
+#Game No : 502784942
+***** 888poker Hand History for Game 502784942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 06:55:54
+Table Duisburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: A123T ( $0.24 )
+Seat 6: steve_manta ( $1.50 )
+A123T posts small blind [$0.01]
+steve_manta posts big blind [$0.02]
+** Dealing down cards **
+A123T raises [$0.03]
+steve_manta calls [$0.02]
+** Dealing flop ** [ 8c, 4h, Ah ]
+steve_manta checks
+A123T checks
+** Dealing turn ** [ Ts ]
+steve_manta bets [$0.02]
+A123T raises [$0.04]
+steve_manta calls [$0.02]
+** Dealing river ** [ Qc ]
+steve_manta checks
+A123T checks
+** Summary **
+steve_manta shows [ 9d, 5s ]
+A123T shows [ Jd, Ac ]
+A123T collected [ $0.15 ]
+
+
+#Game No : 502784968
+***** 888poker Hand History for Game 502784968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 06:56:24
+Table Duisburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: A123T ( $0.31 )
+Seat 6: steve_manta ( $1.42 )
+steve_manta posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+steve_manta calls [$0.01]
+A123T checks
+** Dealing flop ** [ Ad, 5s, 6c ]
+A123T checks
+steve_manta bets [$0.02]
+A123T calls [$0.02]
+** Dealing turn ** [ 8h ]
+A123T bets [$0.02]
+steve_manta calls [$0.02]
+** Dealing river ** [ Ks ]
+A123T bets [$0.10]
+steve_manta folds
+** Summary **
+A123T did not show his hand
+A123T collected [ $0.12 ]
+
+
+#Game No : 502784999
+***** 888poker Hand History for Game 502784999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 06:56:53
+Table Duisburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: A123T ( $0.37 )
+Seat 6: steve_manta ( $1.36 )
+A123T posts small blind [$0.01]
+steve_manta posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+steve_manta checks
+** Dealing flop ** [ 4d, Jh, Tc ]
+steve_manta bets [$0.02]
+A123T folds
+** Summary **
+steve_manta did not show his hand
+steve_manta collected [ $0.04 ]
+
+
+#Game No : 502785013
+***** 888poker Hand History for Game 502785013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 06:57:07
+Table Duisburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: A123T ( $0.35 )
+Seat 6: steve_manta ( $1.38 )
+steve_manta posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+steve_manta calls [$0.01]
+A123T checks
+** Dealing flop ** [ Ad, 9d, 4h ]
+A123T bets [$0.02]
+steve_manta calls [$0.02]
+** Dealing turn ** [ 4s ]
+A123T checks
+steve_manta checks
+** Dealing river ** [ 8d ]
+A123T bets [$0.02]
+steve_manta raises [$0.04]
+A123T calls [$0.02]
+** Summary **
+steve_manta shows [ 3s, 2h ]
+A123T shows [ 9h, Ks ]
+A123T collected [ $0.15 ]
+
+
+#Game No : 502785044
+***** 888poker Hand History for Game 502785044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 06:57:33
+Table Duisburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: A123T ( $0.42 )
+Seat 6: steve_manta ( $1.30 )
+A123T posts small blind [$0.01]
+steve_manta posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+steve_manta checks
+** Dealing flop ** [ As, 4h, 7c ]
+steve_manta folds
+** Summary **
+A123T did not show his hand
+A123T collected [ $0.04 ]
+
+
+#Game No : 502785057
+***** 888poker Hand History for Game 502785057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 06:57:47
+Table Duisburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: A123T ( $0.44 )
+Seat 6: steve_manta ( $1.28 )
+steve_manta posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+steve_manta calls [$0.01]
+A123T checks
+** Dealing flop ** [ Qs, 9c, 5c ]
+A123T checks
+steve_manta bets [$0.02]
+A123T folds
+** Summary **
+steve_manta did not show his hand
+steve_manta collected [ $0.04 ]
+
+
+#Game No : 502785074
+***** 888poker Hand History for Game 502785074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 06:57:59
+Table Duisburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: A123T ( $0.42 )
+Seat 6: steve_manta ( $1.30 )
+A123T posts small blind [$0.01]
+steve_manta posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+steve_manta raises [$0.02]
+A123T folds
+** Summary **
+steve_manta did not show his hand
+steve_manta collected [ $0.04 ]
+
+
+#Game No : 502785081
+***** 888poker Hand History for Game 502785081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 06:58:11
+Table Duisburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: A123T ( $0.40 )
+Seat 6: steve_manta ( $1.32 )
+steve_manta posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+steve_manta calls [$0.01]
+A123T checks
+** Dealing flop ** [ Qd, Kh, 6c ]
+A123T checks
+steve_manta checks
+** Dealing turn ** [ Ac ]
+A123T checks
+steve_manta bets [$0.02]
+A123T raises [$0.04]
+steve_manta calls [$0.02]
+** Dealing river ** [ 7s ]
+A123T bets [$0.02]
+steve_manta raises [$0.12]
+A123T calls [$0.10]
+** Summary **
+steve_manta shows [ 3s, 9h ]
+A123T shows [ 2h, Ad ]
+A123T collected [ $0.34 ]
+
+
+#Game No : 502799264
+***** 888poker Hand History for Game 502799264 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:02:59
+Table Duisburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.90 )
+Seat 2: tonto83 ( $1.64 )
+tonto83 posts small blind [$0.01]
+fidan1008 posts big blind [$0.02]
+** Dealing down cards **
+tonto83 raises [$0.03]
+fidan1008 raises [$0.08]
+tonto83 calls [$0.06]
+** Dealing flop ** [ 7c, 5d, 6h ]
+fidan1008 checks
+tonto83 checks
+** Dealing turn ** [ 6d ]
+fidan1008 checks
+tonto83 checks
+** Dealing river ** [ 5s ]
+fidan1008 checks
+tonto83 bets [$0.02]
+fidan1008 folds
+** Summary **
+tonto83 collected [ $0.19 ]
+
+
+#Game No : 502799311
+***** 888poker Hand History for Game 502799311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:03:37
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.80 )
+Seat 2: tonto83 ( $1.73 )
+fidan1008 posts small blind [$0.01]
+tonto83 posts big blind [$0.02]
+** Dealing down cards **
+fidan1008 folds
+** Summary **
+tonto83 collected [ $0.03 ]
+
+
+#Game No : 502799319
+***** 888poker Hand History for Game 502799319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:03:48
+Table Duisburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.79 )
+Seat 2: tonto83 ( $1.74 )
+tonto83 posts small blind [$0.01]
+fidan1008 posts big blind [$0.02]
+** Dealing down cards **
+tonto83 raises [$0.03]
+fidan1008 raises [$0.20]
+tonto83 folds
+** Summary **
+fidan1008 collected [ $0.08 ]
+
+
+#Game No : 502799341
+***** 888poker Hand History for Game 502799341 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:04:04
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.83 )
+Seat 2: tonto83 ( $1.70 )
+fidan1008 posts small blind [$0.01]
+tonto83 posts big blind [$0.02]
+** Dealing down cards **
+fidan1008 folds
+** Summary **
+tonto83 collected [ $0.03 ]
+
+
+#Game No : 502799348
+***** 888poker Hand History for Game 502799348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:04:10
+Table Duisburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.82 )
+Seat 2: tonto83 ( $1.71 )
+tonto83 posts small blind [$0.01]
+fidan1008 posts big blind [$0.02]
+** Dealing down cards **
+tonto83 calls [$0.01]
+fidan1008 checks
+** Dealing flop ** [ 9d, 5s, 2c ]
+fidan1008 checks
+tonto83 checks
+** Dealing turn ** [ 7h ]
+fidan1008 checks
+tonto83 checks
+** Dealing river ** [ 6c ]
+fidan1008 checks
+tonto83 bets [$0.04]
+fidan1008 folds
+** Summary **
+tonto83 collected [ $0.04 ]
+
+
+#Game No : 502799376
+***** 888poker Hand History for Game 502799376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:04:34
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.80 )
+Seat 2: tonto83 ( $1.73 )
+fidan1008 posts small blind [$0.01]
+tonto83 posts big blind [$0.02]
+** Dealing down cards **
+fidan1008 raises [$0.15]
+tonto83 folds
+** Summary **
+fidan1008 collected [ $0.04 ]
+
+
+#Game No : 502799393
+***** 888poker Hand History for Game 502799393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:04:47
+Table Duisburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.82 )
+Seat 2: tonto83 ( $1.71 )
+tonto83 posts small blind [$0.01]
+fidan1008 posts big blind [$0.02]
+** Dealing down cards **
+tonto83 calls [$0.01]
+fidan1008 checks
+** Dealing flop ** [ 9c, Ts, 6s ]
+fidan1008 checks
+tonto83 bets [$0.04]
+fidan1008 calls [$0.04]
+** Dealing turn ** [ Tc ]
+fidan1008 checks
+tonto83 bets [$0.09]
+fidan1008 folds
+** Summary **
+tonto83 collected [ $0.12 ]
+
+
+#Game No : 502799424
+***** 888poker Hand History for Game 502799424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:05:13
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.76 )
+Seat 2: tonto83 ( $1.77 )
+fidan1008 posts small blind [$0.01]
+tonto83 posts big blind [$0.02]
+** Dealing down cards **
+fidan1008 folds
+** Summary **
+tonto83 collected [ $0.03 ]
+
+
+#Game No : 502799434
+***** 888poker Hand History for Game 502799434 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:05:20
+Table Duisburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.75 )
+Seat 2: tonto83 ( $1.78 )
+tonto83 posts small blind [$0.01]
+fidan1008 posts big blind [$0.02]
+** Dealing down cards **
+tonto83 folds
+** Summary **
+fidan1008 collected [ $0.03 ]
+
+
+#Game No : 502799448
+***** 888poker Hand History for Game 502799448 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:05:28
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.76 )
+Seat 2: tonto83 ( $1.77 )
+fidan1008 posts small blind [$0.01]
+tonto83 posts big blind [$0.02]
+** Dealing down cards **
+fidan1008 folds
+** Summary **
+tonto83 collected [ $0.03 ]
+
+
+#Game No : 502799458
+***** 888poker Hand History for Game 502799458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:05:35
+Table Duisburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: fidan1008 ( $0.75 )
+Seat 2: tonto83 ( $1.78 )
+tonto83 posts small blind [$0.01]
+fidan1008 posts big blind [$0.02]
+** Dealing down cards **
+tonto83 folds
+** Summary **
+fidan1008 collected [ $0.03 ]
+
+
+#Game No : 502813010
+***** 888poker Hand History for Game 502813010 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:48:05
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.13 )
+Seat 7: BoRadlkey180 ( $1.85 )
+AdushkinIvan posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+AdushkinIvan folds
+** Summary **
+BoRadlkey180 collected [ $0.03 ]
+
+
+#Game No : 502813016
+***** 888poker Hand History for Game 502813016 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:48:10
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.12 )
+Seat 7: BoRadlkey180 ( $1.86 )
+BoRadlkey180 posts small blind [$0.01]
+AdushkinIvan posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 raises [$0.05]
+AdushkinIvan calls [$0.04]
+** Dealing flop ** [ 4d, 2s, Tc ]
+AdushkinIvan checks
+BoRadlkey180 bets [$0.06]
+AdushkinIvan folds
+** Summary **
+BoRadlkey180 collected [ $0.12 ]
+
+
+#Game No : 502813029
+***** 888poker Hand History for Game 502813029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:48:27
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.06 )
+Seat 7: BoRadlkey180 ( $1.92 )
+AdushkinIvan posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+AdushkinIvan calls [$0.01]
+BoRadlkey180 checks
+** Dealing flop ** [ 8s, 4d, Ac ]
+BoRadlkey180 checks
+AdushkinIvan checks
+** Dealing turn ** [ 6d ]
+BoRadlkey180 checks
+AdushkinIvan bets [$0.04]
+BoRadlkey180 folds
+** Summary **
+AdushkinIvan collected [ $0.04 ]
+
+
+#Game No : 502813046
+***** 888poker Hand History for Game 502813046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:49:02
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.08 )
+Seat 7: BoRadlkey180 ( $1.90 )
+BoRadlkey180 posts small blind [$0.01]
+AdushkinIvan posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 calls [$0.01]
+AdushkinIvan checks
+** Dealing flop ** [ As, Kc, 5c ]
+AdushkinIvan checks
+BoRadlkey180 bets [$0.02]
+AdushkinIvan folds
+** Summary **
+BoRadlkey180 collected [ $0.04 ]
+
+
+#Game No : 502813057
+***** 888poker Hand History for Game 502813057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:49:20
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.06 )
+Seat 7: BoRadlkey180 ( $1.92 )
+AdushkinIvan posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+AdushkinIvan folds
+** Summary **
+BoRadlkey180 collected [ $0.03 ]
+
+
+#Game No : 502813062
+***** 888poker Hand History for Game 502813062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:49:26
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.05 )
+Seat 7: BoRadlkey180 ( $1.93 )
+BoRadlkey180 posts small blind [$0.01]
+AdushkinIvan posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 raises [$0.05]
+AdushkinIvan folds
+** Summary **
+BoRadlkey180 collected [ $0.04 ]
+
+
+#Game No : 502813077
+***** 888poker Hand History for Game 502813077 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:49:43
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.03 )
+Seat 7: BoRadlkey180 ( $1.95 )
+AdushkinIvan posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+AdushkinIvan raises [$0.05]
+BoRadlkey180 calls [$0.04]
+** Dealing flop ** [ 2d, Th, 3s ]
+BoRadlkey180 checks
+AdushkinIvan bets [$0.12]
+BoRadlkey180 folds
+** Summary **
+AdushkinIvan collected [ $0.12 ]
+
+
+#Game No : 502813094
+***** 888poker Hand History for Game 502813094 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:50:09
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.09 )
+Seat 7: BoRadlkey180 ( $1.89 )
+BoRadlkey180 posts small blind [$0.01]
+AdushkinIvan posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 calls [$0.01]
+AdushkinIvan checks
+** Dealing flop ** [ 8h, Td, 3s ]
+AdushkinIvan checks
+BoRadlkey180 checks
+** Dealing turn ** [ 3d ]
+AdushkinIvan checks
+BoRadlkey180 checks
+** Dealing river ** [ 8c ]
+AdushkinIvan checks
+BoRadlkey180 checks
+** Summary **
+AdushkinIvan shows [ 6d, 9s ]
+BoRadlkey180 shows [ 7s, Jc ]
+BoRadlkey180 collected [ $0.04 ]
+
+
+#Game No : 502813113
+***** 888poker Hand History for Game 502813113 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:50:34
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.07 )
+Seat 7: BoRadlkey180 ( $1.91 )
+AdushkinIvan posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+AdushkinIvan raises [$0.03]
+BoRadlkey180 calls [$0.02]
+** Dealing flop ** [ 5h, 5c, 7c ]
+BoRadlkey180 checks
+AdushkinIvan checks
+** Dealing turn ** [ 6s ]
+BoRadlkey180 bets [$0.04]
+AdushkinIvan calls [$0.04]
+** Dealing river ** [ 5s ]
+BoRadlkey180 checks
+AdushkinIvan bets [$0.08]
+BoRadlkey180 folds
+** Summary **
+AdushkinIvan collected [ $0.15 ]
+
+
+#Game No : 502813136
+***** 888poker Hand History for Game 502813136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:51:06
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.14 )
+Seat 7: BoRadlkey180 ( $1.83 )
+BoRadlkey180 posts small blind [$0.01]
+AdushkinIvan posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 raises [$0.05]
+AdushkinIvan folds
+** Summary **
+BoRadlkey180 did not show his hand
+BoRadlkey180 collected [ $0.04 ]
+
+
+#Game No : 502813142
+***** 888poker Hand History for Game 502813142 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:51:14
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.12 )
+Seat 7: BoRadlkey180 ( $1.85 )
+AdushkinIvan posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+AdushkinIvan raises [$0.03]
+BoRadlkey180 folds
+** Summary **
+AdushkinIvan did not show his hand
+AdushkinIvan collected [ $0.04 ]
+
+
+#Game No : 502813147
+***** 888poker Hand History for Game 502813147 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:51:21
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.14 )
+Seat 7: BoRadlkey180 ( $1.83 )
+BoRadlkey180 posts small blind [$0.01]
+AdushkinIvan posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 raises [$0.05]
+AdushkinIvan calls [$0.04]
+** Dealing flop ** [ 5c, Ks, 2s ]
+AdushkinIvan checks
+BoRadlkey180 bets [$0.04]
+AdushkinIvan calls [$0.04]
+** Dealing turn ** [ 4s ]
+AdushkinIvan checks
+BoRadlkey180 checks
+** Dealing river ** [ 8s ]
+AdushkinIvan checks
+BoRadlkey180 bets [$0.08]
+AdushkinIvan folds
+** Summary **
+BoRadlkey180 collected [ $0.19 ]
+
+
+#Game No : 502813171
+***** 888poker Hand History for Game 502813171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:51:54
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AdushkinIvan ( $1.04 )
+Seat 7: BoRadlkey180 ( $1.92 )
+AdushkinIvan posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+AdushkinIvan folds
+** Summary **
+BoRadlkey180 collected [ $0.03 ]
+
+
+#Game No : 502813189
+***** 888poker Hand History for Game 502813189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:52:20
+Table Duisburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kyra3011 ( $0.94 )
+Seat 7: BoRadlkey180 ( $2 )
+Kyra3011 posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+Kyra3011 raises [$0.07]
+BoRadlkey180 folds
+** Summary **
+Kyra3011 did not show his hand
+Kyra3011 collected [ $0.04 ]
+
+
+#Game No : 502813212
+***** 888poker Hand History for Game 502813212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:52:55
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Kyra3011 ( $0.96 )
+Seat 7: BoRadlkey180 ( $1.98 )
+BoRadlkey180 posts small blind [$0.01]
+Kyra3011 posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 calls [$0.01]
+Kyra3011 checks
+** Dealing flop ** [ 5d, 9c, Kc ]
+Kyra3011 checks
+BoRadlkey180 checks
+** Dealing turn ** [ 2s ]
+Kyra3011 checks
+BoRadlkey180 checks
+** Dealing river ** [ Kh ]
+Kyra3011 checks
+BoRadlkey180 bets [$0.04]
+Kyra3011 folds
+** Summary **
+BoRadlkey180 did not show his hand
+BoRadlkey180 collected [ $0.04 ]
+
+
+#Game No : 502813417
+***** 888poker Hand History for Game 502813417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:58:03
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Maurocerouno ( $0.80 )
+Seat 7: BoRadlkey180 ( $2 )
+Maurocerouno posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+Maurocerouno calls [$0.01]
+BoRadlkey180 checks
+** Dealing flop ** [ 8d, Jc, 9h ]
+BoRadlkey180 checks
+Maurocerouno bets [$0.02]
+BoRadlkey180 calls [$0.02]
+** Dealing turn ** [ Qd ]
+BoRadlkey180 checks
+Maurocerouno bets [$0.02]
+BoRadlkey180 calls [$0.02]
+** Dealing river ** [ 6d ]
+BoRadlkey180 checks
+Maurocerouno checks
+** Summary **
+BoRadlkey180 shows [ Ts, 7d ]
+Maurocerouno mucks [ Ah, 4d ]
+BoRadlkey180 collected [ $0.12 ]
+
+
+#Game No : 502813443
+***** 888poker Hand History for Game 502813443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:58:50
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Maurocerouno ( $0.76 )
+Seat 7: BoRadlkey180 ( $2.06 )
+BoRadlkey180 posts small blind [$0.01]
+Maurocerouno posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 folds
+** Summary **
+Maurocerouno did not show his hand
+Maurocerouno collected [ $0.03 ]
+
+
+#Game No : 502813449
+***** 888poker Hand History for Game 502813449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:58:58
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Maurocerouno ( $0.77 )
+Seat 7: BoRadlkey180 ( $2.05 )
+Maurocerouno posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+Maurocerouno calls [$0.01]
+BoRadlkey180 checks
+** Dealing flop ** [ 2d, Jc, Td ]
+BoRadlkey180 checks
+Maurocerouno checks
+** Dealing turn ** [ 6c ]
+BoRadlkey180 checks
+Maurocerouno bets [$0.02]
+BoRadlkey180 folds
+** Summary **
+Maurocerouno collected [ $0.04 ]
+
+
+#Game No : 502813460
+***** 888poker Hand History for Game 502813460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:59:24
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Maurocerouno ( $0.79 )
+Seat 7: BoRadlkey180 ( $2.03 )
+BoRadlkey180 posts small blind [$0.01]
+Maurocerouno posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 raises [$0.03]
+Maurocerouno calls [$0.02]
+** Dealing flop ** [ 4d, Kc, Kd ]
+Maurocerouno checks
+BoRadlkey180 bets [$0.04]
+Maurocerouno folds
+** Summary **
+BoRadlkey180 collected [ $0.08 ]
+
+
+#Game No : 502815656
+***** 888poker Hand History for Game 502815656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 16:01:33
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: kramar101 ( $4.09 )
+Seat 7: BoRadlkey180 ( $1.37 )
+BoRadlkey180 posts small blind [$0.01]
+kramar101 posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 calls [$0.01]
+kramar101 raises [$0.06]
+BoRadlkey180 folds
+** Summary **
+kramar101 collected [ $0.04 ]
+
+
+#Game No : 502815662
+***** 888poker Hand History for Game 502815662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 16:01:42
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kramar101 ( $4.11 )
+Seat 7: BoRadlkey180 ( $1.35 )
+kramar101 posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+kramar101 calls [$0.01]
+BoRadlkey180 checks
+** Dealing flop ** [ Th, Qc, Js ]
+BoRadlkey180 checks
+kramar101 bets [$0.04]
+BoRadlkey180 folds
+** Summary **
+kramar101 did not show his hand
+kramar101 collected [ $0.04 ]
+
+
+#Game No : 502815670
+***** 888poker Hand History for Game 502815670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 16:02:00
+Table Duisburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: kramar101 ( $4.13 )
+Seat 7: BoRadlkey180 ( $1.33 )
+BoRadlkey180 posts small blind [$0.01]
+** Dealing down cards **
+kramar101 folds
+** Summary **
+BoRadlkey180 did not show his hand
+BoRadlkey180 collected [ $0.01 ]
+
+

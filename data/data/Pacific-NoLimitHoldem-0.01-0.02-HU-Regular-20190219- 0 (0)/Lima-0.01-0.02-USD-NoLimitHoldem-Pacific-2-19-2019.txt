@@ -1,0 +1,54 @@
+#Game No : 461863590
+***** 888poker Hand History for Game 461863590 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 02 2019 08:29:37
+Table Lima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: Rohnstone ( $2 )
+Seat 10: Jackmens ( $0.80 )
+Jackmens posts small blind [$0.01]
+Rohnstone posts big blind [$0.02]
+** Dealing down cards **
+Jackmens calls [$0.01]
+Rohnstone checks
+** Dealing flop ** [ Qc, 3h, 5d ]
+Rohnstone checks
+Jackmens bets [$0.02]
+Rohnstone calls [$0.02]
+** Dealing turn ** [ 9s ]
+Rohnstone bets [$0.02]
+Jackmens raises [$0.04]
+Rohnstone raises [$0.10]
+Jackmens calls [$0.08]
+** Dealing river ** [ 7c ]
+Rohnstone bets [$0.64]
+Jackmens folds
+** Summary **
+Rohnstone collected [ $0.30 ]
+
+
+#Game No : 461863637
+***** 888poker Hand History for Game 461863637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 02 2019 08:29:52
+Table Lima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Rohnstone ( $2.14 )
+Seat 10: Jackmens ( $0.64 )
+Rohnstone posts small blind [$0.01]
+Jackmens posts big blind [$0.02]
+** Dealing down cards **
+Rohnstone calls [$0.01]
+Jackmens raises [$0.06]
+Rohnstone calls [$0.06]
+** Dealing flop ** [ Th, Qc, 3h ]
+Jackmens bets [$0.08]
+Rohnstone calls [$0.08]
+** Dealing turn ** [ 8h ]
+Jackmens bets [$0.02]
+Rohnstone raises [$0.20]
+Jackmens folds
+** Summary **
+Rohnstone collected [ $0.34 ]
+
+

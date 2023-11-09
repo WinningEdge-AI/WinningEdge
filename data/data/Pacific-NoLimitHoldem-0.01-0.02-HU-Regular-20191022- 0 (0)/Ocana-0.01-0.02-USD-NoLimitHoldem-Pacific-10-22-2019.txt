@@ -1,0 +1,74 @@
+#Game No : 470451620
+***** 888poker Hand History for Game 470451620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 01:00:56
+Table Ocana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: RiverPlov ( $0.80 )
+Seat 6: Maxii_Profit ( $2 )
+RiverPlov posts small blind [$0.01]
+Maxii_Profit posts big blind [$0.02]
+** Dealing down cards **
+RiverPlov raises [$0.03]
+Maxii_Profit calls [$0.02]
+** Dealing flop ** [ 9d, 7h, 4d ]
+Maxii_Profit checks
+RiverPlov bets [$0.08]
+Maxii_Profit calls [$0.08]
+** Dealing turn ** [ 7d ]
+Maxii_Profit checks
+RiverPlov bets [$0.16]
+Maxii_Profit calls [$0.16]
+** Dealing river ** [ 8h ]
+Maxii_Profit checks
+RiverPlov bets [$0.02]
+Maxii_Profit calls [$0.02]
+** Summary **
+RiverPlov shows [ 3c, Kd ]
+Maxii_Profit shows [ Qc, 9h ]
+Maxii_Profit collected [ $0.57 ]
+
+
+#Game No : 470451693
+***** 888poker Hand History for Game 470451693 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 01:05:44
+Table Ocana 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Shadiox ( $1.52 )
+Seat 7: Kolkovskiy14 ( $1.29 )
+Kolkovskiy14 posts small blind [$0.01]
+** Dealing down cards **
+Shadiox folds
+** Summary **
+Kolkovskiy14 collected [ $0.01 ]
+
+
+#Game No : 470451696
+***** 888poker Hand History for Game 470451696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 01:05:48
+Table Ocana 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: RiverPlov ( $0.80 )
+Seat 7: Kolkovskiy14 ( $1.29 )
+Kolkovskiy14 posts small blind [$0.01]
+RiverPlov posts big blind [$0.02]
+** Dealing down cards **
+Kolkovskiy14 calls [$0.01]
+RiverPlov checks
+** Dealing flop ** [ 3h, Kh, Js ]
+RiverPlov checks
+Kolkovskiy14 checks
+** Dealing turn ** [ 2s ]
+RiverPlov checks
+Kolkovskiy14 checks
+** Dealing river ** [ 8c ]
+RiverPlov checks
+Kolkovskiy14 checks
+** Summary **
+RiverPlov shows [ 7c, 4c ]
+Kolkovskiy14 shows [ 3d, Qd ]
+Kolkovskiy14 collected [ $0.04 ]
+
+

@@ -1,0 +1,73 @@
+#Game No : 509494910
+***** 888poker Hand History for Game 509494910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 17:31:19
+Table Riohacha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: jose19carlos ( $2.07 )
+Seat 7: MeltMike ( $3.21 )
+MeltMike posts small blind [$0.01]
+jose19carlos posts big blind [$0.02]
+** Dealing down cards **
+MeltMike calls [$0.01]
+jose19carlos checks
+** Dealing flop ** [ 2h, 8s, 4s ]
+jose19carlos bets [$0.02]
+MeltMike calls [$0.02]
+** Dealing turn ** [ 7h ]
+jose19carlos bets [$0.02]
+MeltMike calls [$0.02]
+** Dealing river ** [ Jc ]
+jose19carlos bets [$0.02]
+MeltMike raises [$0.04]
+jose19carlos calls [$0.02]
+** Summary **
+MeltMike shows [ Ah, 8h ]
+jose19carlos mucks [ 6d, 2c ]
+MeltMike collected [ $0.19 ]
+
+
+#Game No : 509495027
+***** 888poker Hand History for Game 509495027 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 17:32:35
+Table Riohacha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: MeltMike ( $4.46 )
+Seat 9: malbieyaru ( $2.43 )
+MeltMike posts small blind [$0.01]
+malbieyaru posts big blind [$0.02]
+** Dealing down cards **
+MeltMike raises [$0.03]
+malbieyaru calls [$0.02]
+** Dealing flop ** [ As, Kc, 5s ]
+malbieyaru checks
+MeltMike checks
+** Dealing turn ** [ 9c ]
+malbieyaru bets [$0.04]
+MeltMike calls [$0.04]
+** Dealing river ** [ 3d ]
+malbieyaru bets [$0.08]
+MeltMike calls [$0.08]
+** Summary **
+malbieyaru shows [ 5c, 3c ]
+MeltMike mucks [ Kd, Td ]
+malbieyaru collected [ $0.30 ]
+
+
+#Game No : 509495064
+***** 888poker Hand History for Game 509495064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 17:33:03
+Table Riohacha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: MeltMike ( $4.30 )
+Seat 9: malbieyaru ( $2.57 )
+malbieyaru posts small blind [$0.01]
+MeltMike posts big blind [$0.02]
+** Dealing down cards **
+malbieyaru folds
+** Summary **
+MeltMike collected [ $0.03 ]
+
+

@@ -1,0 +1,51 @@
+#Game No : 456915456
+***** 888poker Hand History for Game 456915456 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 03:51:23
+Table Potsdam 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: FelixTeam ( $1.98 )
+Seat 5: VoronCo ( $1.02 )
+FelixTeam posts small blind [$0.01]
+VoronCo posts big blind [$0.02]
+** Dealing down cards **
+FelixTeam calls [$0.01]
+VoronCo checks
+** Dealing flop ** [ 6s, Qs, Kc ]
+VoronCo checks
+FelixTeam checks
+** Dealing turn ** [ Kd ]
+VoronCo checks
+FelixTeam checks
+** Dealing river ** [ Qc ]
+VoronCo checks
+FelixTeam checks
+** Summary **
+VoronCo shows [ Jh, 7d ]
+FelixTeam shows [ 3s, Ad ]
+FelixTeam collected [ $0.04 ]
+
+
+#Game No : 456916630
+***** 888poker Hand History for Game 456916630 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 04:55:22
+Table Potsdam 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Denis1196g ( $0.45 )
+Seat 9: Passenger77 ( $3.16 )
+Passenger77 posts small blind [$0.01]
+Denis1196g posts big blind [$0.02]
+** Dealing down cards **
+Passenger77 raises [$0.05]
+Denis1196g raises [$0.43]
+Passenger77 calls [$0.39]
+** Dealing flop ** [ 5d, Jd, Jh ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 8c ]
+** Summary **
+Denis1196g shows [ 9c, 2d ]
+Passenger77 shows [ 9h, 9s ]
+Passenger77 collected [ $0.85 ]
+
+

@@ -1,0 +1,57 @@
+#Game No : 459408389
+***** 888poker Hand History for Game 459408389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 14:44:38
+Table Dourados 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: elena.01 ( $1.13 )
+Seat 2: eddio11 ( $0.62 )
+eddio11 posts small blind [$0.01]
+elena.01 posts big blind [$0.02]
+** Dealing down cards **
+eddio11 calls [$0.01]
+elena.01 checks
+** Dealing flop ** [ 4c, 5s, Tc ]
+elena.01 bets [$0.02]
+eddio11 calls [$0.02]
+** Dealing turn ** [ 6h ]
+elena.01 checks
+eddio11 checks
+** Dealing river ** [ 9d ]
+elena.01 checks
+eddio11 checks
+** Summary **
+elena.01 shows [ 5h, Js ]
+eddio11 mucks [ 3s, 4d ]
+elena.01 collected [ $0.08 ]
+
+
+#Game No : 459408411
+***** 888poker Hand History for Game 459408411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 14:44:53
+Table Dourados 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: elena.01 ( $1.17 )
+Seat 2: eddio11 ( $0.58 )
+elena.01 posts small blind [$0.01]
+eddio11 posts big blind [$0.02]
+** Dealing down cards **
+elena.01 raises [$0.05]
+eddio11 calls [$0.04]
+** Dealing flop ** [ 3s, 4s, 8d ]
+eddio11 checks
+elena.01 bets [$0.08]
+eddio11 raises [$0.16]
+elena.01 calls [$0.08]
+** Dealing turn ** [ Qc ]
+eddio11 bets [$0.22]
+elena.01 raises [$0.95]
+eddio11 calls [$0.14]
+** Dealing river ** [ 2d ]
+** Summary **
+elena.01 shows [ Qs, Js ]
+eddio11 shows [ 9c, 8c ]
+elena.01 collected [ $1.09 ]
+
+

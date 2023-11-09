@@ -1,0 +1,30 @@
+#Game No : 512799991
+***** 888poker Hand History for Game 512799991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 15:27:41
+Table Hammond 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ConnyMaus11 ( $1.80 )
+Seat 9: yungsang ( $2.38 )
+ConnyMaus11 posts small blind [$0.01]
+yungsang posts big blind [$0.02]
+** Dealing down cards **
+ConnyMaus11 calls [$0.01]
+yungsang checks
+** Dealing flop ** [ 7s, Th, 4h ]
+yungsang checks
+ConnyMaus11 checks
+** Dealing turn ** [ 9h ]
+yungsang bets [$0.10]
+ConnyMaus11 raises [$0.20]
+yungsang calls [$0.10]
+** Dealing river ** [ 3c ]
+yungsang checks
+ConnyMaus11 bets [$0.02]
+yungsang calls [$0.02]
+** Summary **
+ConnyMaus11 shows [ Kh, Ah ]
+yungsang mucks [ Jd, 3h ]
+ConnyMaus11 collected [ $0.45 ]
+
+

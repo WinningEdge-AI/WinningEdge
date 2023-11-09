@@ -1,0 +1,87 @@
+#Game No : 506346736
+***** 888poker Hand History for Game 506346736 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 02:34:04
+Table Mons 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.02 )
+Seat 5: S7ARK ( $2 )
+S7ARK posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+S7ARK raises [$0.05]
+avramia1 calls [$0.04]
+** Dealing flop ** [ 3c, Ks, 4h ]
+avramia1 checks
+S7ARK bets [$0.08]
+avramia1 calls [$0.08]
+** Dealing turn ** [ 2c ]
+avramia1 checks
+S7ARK bets [$0.18]
+avramia1 calls [$0.18]
+** Dealing river ** [ 2s ]
+avramia1 checks
+S7ARK bets [$0.42]
+avramia1 folds
+** Summary **
+S7ARK collected [ $0.60 ]
+
+
+#Game No : 506346750
+***** 888poker Hand History for Game 506346750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 02:34:12
+Table Mons 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.70 )
+Seat 5: S7ARK ( $2.28 )
+avramia1 posts small blind [$0.01]
+S7ARK posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+S7ARK checks
+** Dealing flop ** [ 4s, 4h, Qh ]
+S7ARK checks
+avramia1 checks
+** Dealing turn ** [ Qc ]
+S7ARK checks
+avramia1 checks
+** Dealing river ** [ Ac ]
+S7ARK checks
+avramia1 checks
+** Summary **
+S7ARK shows [ 5h, 6d ]
+avramia1 shows [ Jh, 8s ]
+S7ARK collected [ $0.02 ]
+avramia1 collected [ $0.02 ]
+
+
+#Game No : 506352332
+***** 888poker Hand History for Game 506352332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:08:53
+Table Mons 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: YARiC141 ( $1.74 )
+Seat 7: alwayswin33 ( $2.12 )
+alwayswin33 posts small blind [$0.01]
+YARiC141 posts big blind [$0.02]
+** Dealing down cards **
+alwayswin33 calls [$0.01]
+YARiC141 raises [$0.04]
+alwayswin33 calls [$0.04]
+** Dealing flop ** [ 9d, Qc, Tc ]
+YARiC141 checks
+alwayswin33 checks
+** Dealing turn ** [ 3h ]
+YARiC141 checks
+alwayswin33 checks
+** Dealing river ** [ 7d ]
+YARiC141 checks
+alwayswin33 checks
+** Summary **
+YARiC141 shows [ Ah, 4d ]
+alwayswin33 shows [ Ad, 8s ]
+alwayswin33 collected [ $0.12 ]
+
+

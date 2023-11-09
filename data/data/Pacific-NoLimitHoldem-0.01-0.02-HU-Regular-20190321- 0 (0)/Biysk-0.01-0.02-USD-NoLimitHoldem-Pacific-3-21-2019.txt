@@ -1,0 +1,90 @@
+#Game No : 515317148
+***** 888poker Hand History for Game 515317148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:43:54
+Table Biysk 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lrv1974 ( $1.03 )
+Seat 7: yo.ssarian ( $2.50 )
+lrv1974 posts small blind [$0.01]
+yo.ssarian posts big blind [$0.02]
+** Dealing down cards **
+lrv1974 folds
+** Summary **
+yo.ssarian did not show his hand
+yo.ssarian collected [ $0.03 ]
+
+
+#Game No : 515317154
+***** 888poker Hand History for Game 515317154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:43:59
+Table Biysk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: lrv1974 ( $1.02 )
+Seat 7: yo.ssarian ( $2.51 )
+yo.ssarian posts small blind [$0.01]
+lrv1974 posts big blind [$0.02]
+** Dealing down cards **
+yo.ssarian calls [$0.01]
+lrv1974 checks
+** Dealing flop ** [ 9s, 8s, 7h ]
+lrv1974 checks
+yo.ssarian checks
+** Dealing turn ** [ 2s ]
+lrv1974 checks
+yo.ssarian checks
+** Dealing river ** [ 6c ]
+lrv1974 bets [$0.04]
+yo.ssarian folds
+** Summary **
+lrv1974 collected [ $0.04 ]
+
+
+#Game No : 515318264
+***** 888poker Hand History for Game 515318264 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 11:07:21
+Table Biysk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mshkreli ( $1.61 )
+Seat 4: Manslay ( $1.04 )
+mshkreli posts small blind [$0.01]
+Manslay posts big blind [$0.02]
+** Dealing down cards **
+mshkreli folds
+** Summary **
+Manslay did not show his hand
+Manslay collected [ $0.03 ]
+
+
+#Game No : 515318273
+***** 888poker Hand History for Game 515318273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 11:07:33
+Table Biysk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: mshkreli ( $1.60 )
+Seat 4: Manslay ( $1.05 )
+Manslay posts small blind [$0.01]
+mshkreli posts big blind [$0.02]
+** Dealing down cards **
+Manslay calls [$0.01]
+mshkreli checks
+** Dealing flop ** [ Ts, 7c, Ac ]
+mshkreli checks
+Manslay bets [$0.02]
+mshkreli calls [$0.02]
+** Dealing turn ** [ Ah ]
+mshkreli checks
+Manslay checks
+** Dealing river ** [ 5c ]
+mshkreli checks
+Manslay bets [$0.05]
+mshkreli calls [$0.05]
+** Summary **
+Manslay shows [ 6d, 7s ]
+mshkreli mucks [ Jc, 2s ]
+Manslay collected [ $0.17 ]
+
+

@@ -1,0 +1,29 @@
+#Game No : 521548661
+***** 888poker Hand History for Game 521548661 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 01 2019 23:44:28
+Table Coimbra 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Neatblitz ( $1 )
+Seat 4: bymer06 ( $0.80 )
+Neatblitz posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+Neatblitz raises [$0.03]
+bymer06 raises [$0.10]
+Neatblitz calls [$0.08]
+** Dealing flop ** [ Jc, Qc, 4c ]
+bymer06 bets [$0.12]
+Neatblitz calls [$0.12]
+** Dealing turn ** [ 3h ]
+bymer06 bets [$0.24]
+Neatblitz calls [$0.24]
+** Dealing river ** [ Ah ]
+bymer06 checks
+Neatblitz checks
+** Summary **
+bymer06 shows [ Qd, Kd ]
+Neatblitz mucks [ Js, Td ]
+bymer06 collected [ $0.90 ]
+
+

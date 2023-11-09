@@ -1,0 +1,58 @@
+#Game No : 1321757656
+***** 888poker Hand History for Game 1321757656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 01 2020 01:35:22
+Table Klagenfurt 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: cookiemons7 ( $2.01 )
+Seat 7: bamse61 ( $2 )
+cookiemons7 posts small blind [$0.01]
+** Dealing down cards **
+bamse61 folds
+** Summary **
+cookiemons7 collected [ $0.01 ]
+
+
+#Game No : 1321757658
+***** 888poker Hand History for Game 1321757658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 01 2020 01:35:25
+Table Klagenfurt 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: cookiemons7 ( $2.01 )
+Seat 9: LMENAMX ( $1.62 )
+cookiemons7 posts small blind [$0.01]
+LMENAMX posts big blind [$0.02]
+** Dealing down cards **
+cookiemons7 calls [$0.01]
+LMENAMX checks
+** Dealing flop ** [ 9s, Jh, 4c ]
+LMENAMX checks
+cookiemons7 checks
+** Dealing turn ** [ 8c ]
+LMENAMX bets [$0.08]
+cookiemons7 folds
+** Summary **
+LMENAMX collected [ $0.04 ]
+
+
+#Game No : 1321757725
+***** 888poker Hand History for Game 1321757725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 01 2020 01:36:21
+Table Klagenfurt 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: cookiemons7 ( $2 )
+Seat 9: LMENAMX ( $1.64 )
+LMENAMX posts small blind [$0.01]
+cookiemons7 posts big blind [$0.02]
+** Dealing down cards **
+LMENAMX calls [$0.01]
+cookiemons7 checks
+** Dealing flop ** [ 9d, Ac, 2h ]
+cookiemons7 bets [$0.02]
+LMENAMX folds
+** Summary **
+cookiemons7 collected [ $0.04 ]
+
+

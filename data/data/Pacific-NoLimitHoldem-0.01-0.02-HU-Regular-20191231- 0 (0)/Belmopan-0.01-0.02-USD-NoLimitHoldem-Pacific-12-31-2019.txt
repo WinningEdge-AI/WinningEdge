@@ -1,0 +1,82 @@
+#Game No : 1320893973
+***** 888poker Hand History for Game 1320893973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2019 19:47:56
+Table Belmopan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 6: DisasterMan ( $2.23 )
+Seat 7: Kuricraw ( $1.02 )
+DisasterMan posts small blind [$0.01]
+** Dealing down cards **
+Kuricraw folds
+** Summary **
+DisasterMan collected [ $0.01 ]
+
+
+#Game No : 1320893979
+***** 888poker Hand History for Game 1320893979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2019 19:47:59
+Table Belmopan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CzarJr ( $0.71 )
+Seat 6: DisasterMan ( $2.23 )
+DisasterMan posts small blind [$0.01]
+CzarJr posts big blind [$0.02]
+** Dealing down cards **
+DisasterMan raises [$0.03]
+CzarJr calls [$0.02]
+** Dealing flop ** [ 5c, 8c, Jc ]
+CzarJr checks
+DisasterMan checks
+** Dealing turn ** [ 8s ]
+CzarJr checks
+DisasterMan checks
+** Dealing river ** [ Th ]
+CzarJr checks
+DisasterMan checks
+** Summary **
+CzarJr shows [ 9d, Kc ]
+DisasterMan shows [ 3c, Ah ]
+DisasterMan collected [ $0.08 ]
+
+
+#Game No : 1320894007
+***** 888poker Hand History for Game 1320894007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2019 19:48:27
+Table Belmopan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CzarJr ( $0.67 )
+Seat 6: DisasterMan ( $2.27 )
+CzarJr posts small blind [$0.01]
+** Dealing down cards **
+DisasterMan folds
+** Summary **
+CzarJr collected [ $0.01 ]
+
+
+#Game No : 1320894016
+***** 888poker Hand History for Game 1320894016 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2019 19:48:36
+Table Belmopan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CzarJr ( $0.67 )
+Seat 2: Kirves7 ( $0.80 )
+CzarJr posts small blind [$0.01]
+Kirves7 posts big blind [$0.02]
+** Dealing down cards **
+CzarJr raises [$0.03]
+Kirves7 calls [$0.02]
+** Dealing flop ** [ Jh, 7d, 3c ]
+Kirves7 bets [$0.76]
+CzarJr calls [$0.63]
+** Dealing turn ** [ As ]
+** Dealing river ** [ 5s ]
+** Summary **
+CzarJr shows [ 7c, Jc ]
+Kirves7 shows [ Ks, 3d ]
+CzarJr collected [ $1.26 ]
+
+

@@ -1,0 +1,57 @@
+#Game No : 1253771658
+***** 888poker Hand History for Game 1253771658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 03:35:30
+Table Riohacha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Detleffcb ( $0.74 )
+Seat 2: kray.o1966 ( $0.80 )
+kray.o1966 posts small blind [$0.01]
+Detleffcb posts big blind [$0.02]
+** Dealing down cards **
+kray.o1966 raises [$0.03]
+Detleffcb raises [$0.04]
+kray.o1966 calls [$0.02]
+** Dealing flop ** [ Jc, Ts, 4s ]
+Detleffcb bets [$0.68]
+kray.o1966 calls [$0.68]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ Qs ]
+** Summary **
+Detleffcb shows [ Jh, As ]
+kray.o1966 shows [ Ac, 7c ]
+Detleffcb collected [ $1.39 ]
+
+
+#Game No : 1253780874
+***** 888poker Hand History for Game 1253780874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 04:27:18
+Table Riohacha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: bov888 ( $1.73 )
+Seat 10: Kolodiy888 ( $1.84 )
+Kolodiy888 posts small blind [$0.01]
+bov888 posts big blind [$0.02]
+** Dealing down cards **
+Kolodiy888 calls [$0.01]
+bov888 raises [$0.02]
+Kolodiy888 calls [$0.02]
+** Dealing flop ** [ 6c, Js, Jd ]
+bov888 checks
+Kolodiy888 checks
+** Dealing turn ** [ Ac ]
+bov888 bets [$0.02]
+Kolodiy888 calls [$0.02]
+** Dealing river ** [ Ts ]
+bov888 bets [$0.12]
+Kolodiy888 raises [$0.24]
+bov888 raises [$0.72]
+Kolodiy888 raises [$1.20]
+bov888 calls [$0.60]
+** Summary **
+Kolodiy888 shows [ Jc, 9c ]
+bov888 shows [ Jh, As ]
+bov888 collected [ $2.82 ]
+
+

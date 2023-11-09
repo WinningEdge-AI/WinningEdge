@@ -1,0 +1,75 @@
+#Game No : 610838
+***** 888poker Hand History for Game 610838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2019 21:14:09
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: vbshka1 ( $1.39 )
+Seat 7: Rus084lan ( $1.27 )
+Rus084lan posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+Rus084lan calls [$0.01]
+vbshka1 checks
+** Dealing flop ** [ 8d, Kh, 3c ]
+vbshka1 checks
+Rus084lan checks
+** Dealing turn ** [ Ts ]
+vbshka1 checks
+Rus084lan checks
+** Dealing river ** [ 9h ]
+vbshka1 checks
+Rus084lan bets [$0.20]
+vbshka1 calls [$0.20]
+** Summary **
+Rus084lan shows [ 5c, Jh ]
+vbshka1 shows [ 8c, 4s ]
+vbshka1 collected [ $0.42 ]
+
+
+#Game No : 610842
+***** 888poker Hand History for Game 610842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2019 21:14:21
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: vbshka1 ( $1.59 )
+Seat 7: Rus084lan ( $1.05 )
+vbshka1 posts small blind [$0.01]
+Rus084lan posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 raises [$0.03]
+Rus084lan calls [$0.02]
+** Dealing flop ** [ 3d, Qs, Ad ]
+Rus084lan checks
+vbshka1 bets [$0.04]
+Rus084lan calls [$0.04]
+** Dealing turn ** [ 6c ]
+Rus084lan checks
+vbshka1 bets [$0.10]
+Rus084lan calls [$0.10]
+** Dealing river ** [ As ]
+Rus084lan checks
+vbshka1 bets [$0.24]
+Rus084lan folds
+** Summary **
+vbshka1 collected [ $0.34 ]
+
+
+#Game No : 610843
+***** 888poker Hand History for Game 610843 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2019 21:14:53
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: vbshka1 ( $1.75 )
+Seat 7: Rus084lan ( $0.87 )
+Rus084lan posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+Rus084lan raises [$0.07]
+vbshka1 folds
+** Summary **
+Rus084lan collected [ $0.04 ]
+
+

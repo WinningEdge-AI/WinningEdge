@@ -1,0 +1,146 @@
+#Game No : 1324914730
+***** 888poker Hand History for Game 1324914730 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 01 2020 22:26:24
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: reraise_u ( $1.61 )
+Seat 4: Bruno045 ( $0.84 )
+reraise_u posts small blind [$0.01]
+Bruno045 posts big blind [$0.02]
+** Dealing down cards **
+reraise_u raises [$0.05]
+Bruno045 folds
+** Summary **
+reraise_u did not show his hand
+reraise_u collected [ $0.04 ]
+
+
+#Game No : 1324914748
+***** 888poker Hand History for Game 1324914748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 01 2020 22:26:34
+Table Creteil 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: reraise_u ( $1.63 )
+Seat 4: Bruno045 ( $0.82 )
+Bruno045 posts small blind [$0.01]
+reraise_u posts big blind [$0.02]
+** Dealing down cards **
+Bruno045 folds
+** Summary **
+reraise_u did not show his hand
+reraise_u collected [ $0.03 ]
+
+
+#Game No : 1324914755
+***** 888poker Hand History for Game 1324914755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 01 2020 22:26:40
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: reraise_u ( $1.64 )
+Seat 4: Bruno045 ( $0.81 )
+reraise_u posts small blind [$0.01]
+Bruno045 posts big blind [$0.02]
+** Dealing down cards **
+reraise_u raises [$0.04]
+Bruno045 folds
+** Summary **
+reraise_u did not show his hand
+reraise_u collected [ $0.04 ]
+
+
+#Game No : 1324914769
+***** 888poker Hand History for Game 1324914769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 01 2020 22:26:47
+Table Creteil 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: reraise_u ( $1.66 )
+Seat 4: Bruno045 ( $0.79 )
+Bruno045 posts small blind [$0.01]
+reraise_u posts big blind [$0.02]
+** Dealing down cards **
+Bruno045 calls [$0.01]
+reraise_u checks
+** Dealing flop ** [ 5h, Qc, 2d ]
+reraise_u checks
+Bruno045 checks
+** Dealing turn ** [ 8c ]
+reraise_u checks
+Bruno045 checks
+** Dealing river ** [ 2h ]
+reraise_u bets [$0.03]
+Bruno045 folds
+** Summary **
+reraise_u did not show his hand
+reraise_u collected [ $0.04 ]
+
+
+#Game No : 1324914816
+***** 888poker Hand History for Game 1324914816 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 01 2020 22:27:11
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: reraise_u ( $1.68 )
+Seat 4: Bruno045 ( $0.77 )
+reraise_u posts small blind [$0.01]
+Bruno045 posts big blind [$0.02]
+** Dealing down cards **
+reraise_u folds
+** Summary **
+Bruno045 did not show his hand
+Bruno045 collected [ $0.03 ]
+
+
+#Game No : 1324914822
+***** 888poker Hand History for Game 1324914822 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 01 2020 22:27:15
+Table Creteil 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: reraise_u ( $1.67 )
+Seat 4: Bruno045 ( $0.78 )
+Bruno045 posts small blind [$0.01]
+reraise_u posts big blind [$0.02]
+** Dealing down cards **
+Bruno045 calls [$0.01]
+reraise_u checks
+** Dealing flop ** [ Qd, 6d, 5d ]
+reraise_u bets [$0.04]
+Bruno045 folds
+** Summary **
+reraise_u did not show his hand
+reraise_u collected [ $0.04 ]
+
+
+#Game No : 1324914854
+***** 888poker Hand History for Game 1324914854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 01 2020 22:27:32
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: reraise_u ( $1.69 )
+Seat 4: Bruno045 ( $0.76 )
+reraise_u posts small blind [$0.01]
+Bruno045 posts big blind [$0.02]
+** Dealing down cards **
+reraise_u raises [$0.05]
+Bruno045 calls [$0.04]
+** Dealing flop ** [ Jh, Qh, Kc ]
+Bruno045 checks
+reraise_u checks
+** Dealing turn ** [ 2h ]
+Bruno045 bets [$0.12]
+reraise_u raises [$0.36]
+Bruno045 raises [$0.58]
+reraise_u calls [$0.34]
+** Dealing river ** [ Ac ]
+** Summary **
+reraise_u shows [ 8h, Ah ]
+Bruno045 shows [ Kd, 8d ]
+reraise_u collected [ $1.43 ]
+
+

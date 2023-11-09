@@ -1,0 +1,63 @@
+#Game No : 528692909
+***** 888poker Hand History for Game 528692909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 16:53:16
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viacha ( $2.60 )
+Seat 6: heals77 ( $1.46 )
+Viacha posts small blind [$0.01]
+heals77 posts big blind [$0.02]
+** Dealing down cards **
+Viacha folds
+** Summary **
+heals77 collected [ $0.03 ]
+
+
+#Game No : 528692913
+***** 888poker Hand History for Game 528692913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 16:53:21
+Table Stockholm 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Viacha ( $2.59 )
+Seat 6: heals77 ( $1.47 )
+heals77 posts small blind [$0.01]
+Viacha posts big blind [$0.02]
+** Dealing down cards **
+heals77 calls [$0.01]
+Viacha checks
+** Dealing flop ** [ 7c, 4s, Ad ]
+Viacha checks
+heals77 bets [$0.02]
+Viacha calls [$0.02]
+** Dealing turn ** [ Ts ]
+Viacha checks
+heals77 bets [$0.02]
+Viacha calls [$0.02]
+** Dealing river ** [ 4h ]
+Viacha checks
+heals77 checks
+** Summary **
+Viacha shows [ Qd, 7s ]
+heals77 mucks [ 5h, 3c ]
+Viacha collected [ $0.12 ]
+
+
+#Game No : 528692942
+***** 888poker Hand History for Game 528692942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 16:53:59
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viacha ( $2.65 )
+Seat 6: heals77 ( $1.41 )
+Viacha posts small blind [$0.01]
+heals77 posts big blind [$0.02]
+** Dealing down cards **
+Viacha raises [$0.04]
+heals77 folds
+** Summary **
+Viacha collected [ $0.04 ]
+
+

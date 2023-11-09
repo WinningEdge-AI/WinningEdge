@@ -1,0 +1,84 @@
+#Game No : 1194651530
+***** 888poker Hand History for Game 1194651530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 10:45:51
+Table Criciuma 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: var2811 ( $0.80 )
+Seat 3: BorceL ( $0.80 )
+var2811 posts small blind [$0.01]
+BorceL posts big blind [$0.02]
+** Dealing down cards **
+var2811 calls [$0.01]
+BorceL checks
+** Dealing flop ** [ 3c, Qd, 6d ]
+BorceL checks
+var2811 bets [$0.02]
+BorceL folds
+** Summary **
+var2811 collected [ $0.04 ]
+
+
+#Game No : 1194651636
+***** 888poker Hand History for Game 1194651636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 10:46:11
+Table Criciuma 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: var2811 ( $0.82 )
+Seat 3: BorceL ( $0.78 )
+BorceL posts small blind [$0.01]
+var2811 posts big blind [$0.02]
+** Dealing down cards **
+BorceL folds
+** Summary **
+var2811 collected [ $0.03 ]
+
+
+#Game No : 1194651970
+***** 888poker Hand History for Game 1194651970 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 10:47:28
+Table Criciuma 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: BorceL ( $0.68 )
+Seat 5: FM7277 ( $2.02 )
+BorceL posts small blind [$0.01]
+FM7277 posts big blind [$0.02]
+** Dealing down cards **
+BorceL folds
+** Summary **
+FM7277 collected [ $0.03 ]
+
+
+#Game No : 1194652005
+***** 888poker Hand History for Game 1194652005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 10:47:35
+Table Criciuma 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: BorceL ( $0.67 )
+Seat 5: FM7277 ( $2.03 )
+FM7277 posts small blind [$0.01]
+BorceL posts big blind [$0.02]
+** Dealing down cards **
+FM7277 calls [$0.01]
+BorceL raises [$0.04]
+FM7277 calls [$0.04]
+** Dealing flop ** [ Qc, Ad, 7d ]
+BorceL bets [$0.06]
+FM7277 raises [$0.12]
+BorceL calls [$0.06]
+** Dealing turn ** [ 6c ]
+BorceL checks
+FM7277 bets [$0.02]
+BorceL calls [$0.02]
+** Dealing river ** [ Jc ]
+BorceL checks
+FM7277 checks
+** Summary **
+BorceL shows [ Qh, Tc ]
+FM7277 mucks [ Qs, 8h ]
+BorceL collected [ $0.38 ]
+
+

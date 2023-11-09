@@ -1,0 +1,45 @@
+#Game No : 528574267
+***** 888poker Hand History for Game 528574267 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 04 2019 02:24:03
+Table Harare 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mkmbch ( $2 )
+Seat 5: AtlanTor ( $2 )
+Mkmbch posts small blind [$0.01]
+AtlanTor posts big blind [$0.02]
+** Dealing down cards **
+Mkmbch calls [$0.01]
+AtlanTor checks
+** Dealing flop ** [ Kc, Tc, 9s ]
+AtlanTor checks
+Mkmbch checks
+** Dealing turn ** [ Js ]
+AtlanTor checks
+Mkmbch checks
+** Dealing river ** [ Ts ]
+AtlanTor checks
+Mkmbch checks
+** Summary **
+AtlanTor shows [ 7c, 4s ]
+Mkmbch shows [ 9d, 7s ]
+Mkmbch collected [ $0.04 ]
+
+
+#Game No : 528574318
+***** 888poker Hand History for Game 528574318 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 04 2019 02:24:53
+Table Harare 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Mkmbch ( $2.02 )
+Seat 5: AtlanTor ( $2 )
+AtlanTor posts small blind [$0.01]
+Mkmbch posts big blind [$0.02]
+** Dealing down cards **
+AtlanTor raises [$0.05]
+Mkmbch folds
+** Summary **
+AtlanTor collected [ $0.04 ]
+
+

@@ -1,0 +1,90 @@
+#Game No : 608216362
+***** 888poker Hand History for Game 608216362 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:33:11
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: OCBexpress ( $2 )
+Seat 4: KNasekhian ( $0.98 )
+KNasekhian posts small blind [$0.01]
+OCBexpress posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+OCBexpress checks
+** Dealing flop ** [ Ad, 5c, 8d ]
+OCBexpress bets [$0.04]
+KNasekhian calls [$0.04]
+** Dealing turn ** [ Kc ]
+OCBexpress bets [$0.12]
+KNasekhian calls [$0.12]
+** Dealing river ** [ 2d ]
+OCBexpress checks
+KNasekhian bets [$0.36]
+OCBexpress calls [$0.36]
+** Summary **
+KNasekhian shows [ Jd, 7d ]
+OCBexpress mucks [ 8h, Ac ]
+KNasekhian collected [ $1.02 ]
+
+
+#Game No : 608231863
+***** 888poker Hand History for Game 608231863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 15:37:33
+Table Gijon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: HansHerbertB ( $1.76 )
+Seat 5: wazzer52 ( $0.94 )
+wazzer52 posts small blind [$0.01]
+HansHerbertB posts big blind [$0.02]
+** Dealing down cards **
+wazzer52 calls [$0.01]
+HansHerbertB checks
+** Dealing flop ** [ 5s, 3d, 9h ]
+HansHerbertB checks
+wazzer52 checks
+** Dealing turn ** [ 6h ]
+HansHerbertB bets [$0.02]
+wazzer52 calls [$0.02]
+** Dealing river ** [ 4h ]
+HansHerbertB bets [$0.08]
+wazzer52 folds
+** Summary **
+HansHerbertB did not show his hand
+HansHerbertB collected [ $0.08 ]
+
+
+#Game No : 608231875
+***** 888poker Hand History for Game 608231875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 15:37:54
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HansHerbertB ( $1.80 )
+Seat 5: wazzer52 ( $0.90 )
+HansHerbertB posts small blind [$0.01]
+wazzer52 posts big blind [$0.02]
+** Dealing down cards **
+HansHerbertB raises [$0.05]
+wazzer52 folds
+** Summary **
+HansHerbertB did not show his hand
+HansHerbertB collected [ $0.04 ]
+
+
+#Game No : 608231880
+***** 888poker Hand History for Game 608231880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 15:38:01
+Table Gijon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: HansHerbertB ( $1.82 )
+Seat 5: wazzer52 ( $0.88 )
+wazzer52 posts small blind [$0.01]
+** Dealing down cards **
+HansHerbertB folds
+** Summary **
+wazzer52 did not show his hand
+wazzer52 collected [ $0.01 ]
+
+

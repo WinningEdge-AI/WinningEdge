@@ -1,0 +1,82 @@
+#Game No : 1324156273
+***** 888poker Hand History for Game 1324156273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 01 2020 00:07:54
+Table Trujillo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Blondeza ( $0.80 )
+Seat 6: NoahbodyOG ( $1.38 )
+Blondeza posts small blind [$0.01]
+NoahbodyOG posts big blind [$0.02]
+** Dealing down cards **
+Blondeza folds
+** Summary **
+NoahbodyOG collected [ $0.03 ]
+
+
+#Game No : 1324156287
+***** 888poker Hand History for Game 1324156287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 01 2020 00:08:05
+Table Trujillo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Blondeza ( $0.80 )
+Seat 6: NoahbodyOG ( $1.39 )
+NoahbodyOG posts small blind [$0.01]
+Blondeza posts big blind [$0.02]
+** Dealing down cards **
+NoahbodyOG calls [$0.01]
+Blondeza raises [$0.04]
+NoahbodyOG folds
+** Summary **
+Blondeza collected [ $0.04 ]
+
+
+#Game No : 1324157982
+***** 888poker Hand History for Game 1324157982 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 01 2020 00:26:34
+Table Trujillo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: h_0ust_0n ( $0.80 )
+Seat 5: magicmikeyb ( $0.80 )
+magicmikeyb posts small blind [$0.01]
+h_0ust_0n posts big blind [$0.02]
+** Dealing down cards **
+magicmikeyb calls [$0.01]
+h_0ust_0n checks
+** Dealing flop ** [ 2d, 6c, 8d ]
+h_0ust_0n checks
+magicmikeyb checks
+** Dealing turn ** [ Qh ]
+h_0ust_0n checks
+magicmikeyb checks
+** Dealing river ** [ 8c ]
+h_0ust_0n bets [$0.02]
+magicmikeyb calls [$0.02]
+** Summary **
+h_0ust_0n shows [ 9c, 6d ]
+magicmikeyb mucks [ Ac, 4s ]
+h_0ust_0n collected [ $0.08 ]
+
+
+#Game No : 1324158037
+***** 888poker Hand History for Game 1324158037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 01 2020 00:27:04
+Table Trujillo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: h_0ust_0n ( $0.84 )
+Seat 5: magicmikeyb ( $0.80 )
+h_0ust_0n posts small blind [$0.01]
+magicmikeyb posts big blind [$0.02]
+** Dealing down cards **
+h_0ust_0n calls [$0.01]
+magicmikeyb checks
+** Dealing flop ** [ Th, Jh, 4s ]
+magicmikeyb bets [$0.02]
+h_0ust_0n folds
+** Summary **
+magicmikeyb collected [ $0.04 ]
+
+

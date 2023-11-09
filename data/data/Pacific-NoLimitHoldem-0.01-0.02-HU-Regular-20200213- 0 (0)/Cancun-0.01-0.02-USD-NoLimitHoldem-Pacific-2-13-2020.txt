@@ -1,0 +1,73 @@
+#Game No : 2023678
+***** 888poker Hand History for Game 2023678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2020 16:03:24
+Table Cancun 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 2: SURESH0T91 ( $1.57 )
+Seat 7: Gorosss ( $2 )
+SURESH0T91 posts small blind [$0.01]
+Gorosss posts big blind [$0.02]
+** Dealing down cards **
+SURESH0T91 folds
+** Summary **
+Gorosss did not show his hand
+Gorosss collected [ $0.03 ]
+
+
+#Game No : 2023680
+***** 888poker Hand History for Game 2023680 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2020 16:03:39
+Table Cancun 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SURESH0T91 ( $1.56 )
+Seat 7: Gorosss ( $2.01 )
+SURESH0T91 posts small blind [$0.01]
+Gorosss posts big blind [$0.02]
+** Dealing down cards **
+SURESH0T91 calls [$0.01]
+Gorosss checks
+** Dealing flop ** [ 4c, Td, Qc ]
+Gorosss checks
+SURESH0T91 checks
+** Dealing turn ** [ Qh ]
+Gorosss checks
+SURESH0T91 checks
+** Dealing river ** [ 9h ]
+Gorosss checks
+SURESH0T91 checks
+** Summary **
+Gorosss shows [ 4h, 5c ]
+SURESH0T91 mucks [ Ah, 6s ]
+Gorosss collected [ $0.04 ]
+
+
+#Game No : 2023684
+***** 888poker Hand History for Game 2023684 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2020 16:04:20
+Table Cancun 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: SURESH0T91 ( $1.54 )
+Seat 9: Easty08 ( $1 )
+Easty08 posts small blind [$0.01]
+SURESH0T91 posts big blind [$0.02]
+** Dealing down cards **
+Easty08 calls [$0.01]
+SURESH0T91 checks
+** Dealing flop ** [ 9h, 9c, Qd ]
+SURESH0T91 checks
+Easty08 checks
+** Dealing turn ** [ 3s ]
+SURESH0T91 checks
+Easty08 checks
+** Dealing river ** [ 2s ]
+SURESH0T91 checks
+Easty08 checks
+** Summary **
+SURESH0T91 shows [ 5h, 7h ]
+Easty08 shows [ 7s, Ac ]
+Easty08 collected [ $0.04 ]
+
+

@@ -1,0 +1,115 @@
+#Game No : 526099298
+***** 888poker Hand History for Game 526099298 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 20:57:24
+Table Luque 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 4: ElectronCion ( $4.09 )
+Seat 9: josecas867 ( $1.08 )
+ElectronCion posts small blind [$0.01]
+** Dealing down cards **
+josecas867 folds
+** Summary **
+ElectronCion collected [ $0.01 ]
+
+
+#Game No : 526099300
+***** 888poker Hand History for Game 526099300 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 20:57:31
+Table Luque 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: i_eat_beets ( $0.25 )
+Seat 4: ElectronCion ( $4.09 )
+ElectronCion posts small blind [$0.01]
+i_eat_beets posts big blind [$0.02]
+** Dealing down cards **
+ElectronCion calls [$0.01]
+i_eat_beets checks
+** Dealing flop ** [ 6d, 3d, Qs ]
+i_eat_beets checks
+ElectronCion checks
+** Dealing turn ** [ Ks ]
+i_eat_beets bets [$0.02]
+ElectronCion calls [$0.02]
+** Dealing river ** [ 9s ]
+i_eat_beets bets [$0.04]
+ElectronCion raises [$0.08]
+i_eat_beets raises [$0.17]
+ElectronCion calls [$0.13]
+** Summary **
+i_eat_beets shows [ 7d, 5d ]
+ElectronCion shows [ 9h, 3c ]
+ElectronCion collected [ $0.47 ]
+
+
+#Game No : 526099393
+***** 888poker Hand History for Game 526099393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 21:02:25
+Table Luque 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: ElectronCion ( $4.31 )
+Seat 7: Roid12 ( $1.40 )
+Roid12 posts small blind [$0.01]
+ElectronCion posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+ElectronCion checks
+** Dealing flop ** [ 8s, Tc, 8c ]
+ElectronCion bets [$0.04]
+Roid12 folds
+** Summary **
+ElectronCion did not show his hand
+ElectronCion collected [ $0.04 ]
+
+
+#Game No : 526099407
+***** 888poker Hand History for Game 526099407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 21:02:59
+Table Luque 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ElectronCion ( $4.33 )
+Seat 7: Roid12 ( $1.38 )
+ElectronCion posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+ElectronCion calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ 8c, Kd, Ac ]
+Roid12 checks
+ElectronCion checks
+** Dealing turn ** [ 7h ]
+Roid12 bets [$0.02]
+ElectronCion calls [$0.02]
+** Dealing river ** [ 2c ]
+Roid12 bets [$0.02]
+ElectronCion folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.08 ]
+
+
+#Game No : 526099427
+***** 888poker Hand History for Game 526099427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 21:03:40
+Table Luque 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: ElectronCion ( $4.29 )
+Seat 7: Roid12 ( $1.42 )
+Roid12 posts small blind [$0.01]
+ElectronCion posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+ElectronCion checks
+** Dealing flop ** [ Td, 5d, Kd ]
+ElectronCion checks
+Roid12 bets [$0.02]
+ElectronCion folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+

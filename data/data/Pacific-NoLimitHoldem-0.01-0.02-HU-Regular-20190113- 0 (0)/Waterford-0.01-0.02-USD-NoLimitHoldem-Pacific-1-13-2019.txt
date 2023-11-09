@@ -1,0 +1,47 @@
+#Game No : 460110359
+***** 888poker Hand History for Game 460110359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 01 2019 22:58:21
+Table Waterford 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: skluchenko ( $1.16 )
+Seat 7: vampir152 ( $2.51 )
+vampir152 posts small blind [$0.01]
+skluchenko posts big blind [$0.02]
+** Dealing down cards **
+vampir152 folds
+** Summary **
+skluchenko did not show his hand
+skluchenko collected [ $0.03 ]
+
+
+#Game No : 460110361
+***** 888poker Hand History for Game 460110361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 01 2019 22:58:26
+Table Waterford 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skluchenko ( $1.17 )
+Seat 7: vampir152 ( $2.50 )
+skluchenko posts small blind [$0.01]
+vampir152 posts big blind [$0.02]
+** Dealing down cards **
+skluchenko calls [$0.01]
+vampir152 checks
+** Dealing flop ** [ Qs, 6s, 8s ]
+vampir152 checks
+skluchenko bets [$0.02]
+vampir152 calls [$0.02]
+** Dealing turn ** [ 6d ]
+vampir152 checks
+skluchenko bets [$0.02]
+vampir152 calls [$0.02]
+** Dealing river ** [ 4s ]
+vampir152 checks
+skluchenko checks
+** Summary **
+vampir152 shows [ Qh, Js ]
+skluchenko mucks [ 9c, 8d ]
+vampir152 collected [ $0.12 ]
+
+

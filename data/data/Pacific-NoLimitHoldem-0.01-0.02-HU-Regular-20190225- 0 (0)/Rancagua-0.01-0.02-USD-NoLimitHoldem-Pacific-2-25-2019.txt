@@ -1,0 +1,101 @@
+#Game No : 462124388
+***** 888poker Hand History for Game 462124388 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 07:18:08
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: bigdude833 ( $0.79 )
+Seat 5: rb1bka ( $2.02 )
+rb1bka posts small blind [$0.01]
+bigdude833 posts big blind [$0.02]
+** Dealing down cards **
+rb1bka raises [$0.03]
+bigdude833 folds
+** Summary **
+rb1bka collected [ $0.04 ]
+
+
+#Game No : 462124399
+***** 888poker Hand History for Game 462124399 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 07:18:19
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: DDragu ( $2 )
+Seat 5: rb1bka ( $2.04 )
+rb1bka posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+rb1bka folds
+** Summary **
+DDragu collected [ $0.03 ]
+
+
+#Game No : 462124444
+***** 888poker Hand History for Game 462124444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 07:19:20
+Table Rancagua 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: rb1bka ( $2.17 )
+Seat 6: Pupsik667 ( $2.56 )
+Pupsik667 posts small blind [$0.01]
+rb1bka posts big blind [$0.02]
+** Dealing down cards **
+Pupsik667 folds
+** Summary **
+rb1bka did not show his hand
+rb1bka collected [ $0.03 ]
+
+
+#Game No : 462146785
+***** 888poker Hand History for Game 462146785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 15:14:48
+Table Rancagua 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: userflp ( $2.21 )
+Seat 5: andysutton82 ( $0.95 )
+userflp posts small blind [$0.01]
+andysutton82 posts big blind [$0.02]
+** Dealing down cards **
+userflp raises [$0.05]
+andysutton82 raises [$0.93]
+userflp calls [$0.89]
+** Dealing flop ** [ 7h, 2h, 2s ]
+** Dealing turn ** [ 9c ]
+** Dealing river ** [ 7d ]
+** Summary **
+userflp shows [ 5c, Ah ]
+andysutton82 shows [ 9s, 4c ]
+andysutton82 collected [ $1.79 ]
+
+
+#Game No : 462146807
+***** 888poker Hand History for Game 462146807 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 15:15:29
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: userflp ( $1.26 )
+Seat 5: andysutton82 ( $1.79 )
+andysutton82 posts small blind [$0.01]
+userflp posts big blind [$0.02]
+** Dealing down cards **
+andysutton82 raises [$0.05]
+userflp calls [$0.04]
+** Dealing flop ** [ 4c, Tc, 2h ]
+userflp checks
+andysutton82 bets [$0.12]
+userflp calls [$0.12]
+** Dealing turn ** [ Qh ]
+userflp checks
+andysutton82 checks
+** Dealing river ** [ 6s ]
+userflp checks
+andysutton82 bets [$0.36]
+userflp folds
+** Summary **
+andysutton82 collected [ $0.34 ]
+
+

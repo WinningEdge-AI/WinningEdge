@@ -1,0 +1,44 @@
+#Game No : 527873313
+***** 888poker Hand History for Game 527873313 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 06:06:25
+Table Chino 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: OtBRed_Baron ( $1.44 )
+Seat 9: newcreation7 ( $0.34 )
+newcreation7 posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+newcreation7 calls [$0.01]
+OtBRed_Baron checks
+** Dealing flop ** [ Qh, Ts, 9h ]
+OtBRed_Baron checks
+newcreation7 checks
+** Dealing turn ** [ Qs ]
+OtBRed_Baron checks
+newcreation7 checks
+** Dealing river ** [ 2s ]
+OtBRed_Baron checks
+newcreation7 checks
+** Summary **
+OtBRed_Baron shows [ 5c, Kh ]
+newcreation7 mucks [ 4c, 6h ]
+OtBRed_Baron collected [ $0.04 ]
+
+
+#Game No : 527873330
+***** 888poker Hand History for Game 527873330 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 06:06:52
+Table Chino 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OtBRed_Baron ( $1.46 )
+Seat 9: newcreation7 ( $0.32 )
+OtBRed_Baron posts small blind [$0.01]
+newcreation7 posts big blind [$0.02]
+** Dealing down cards **
+OtBRed_Baron folds
+** Summary **
+newcreation7 collected [ $0.03 ]
+
+

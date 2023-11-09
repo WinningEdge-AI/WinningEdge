@@ -1,0 +1,81 @@
+#Game No : 513482036
+***** 888poker Hand History for Game 513482036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 09:03:26
+Table Salvador 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Gr8Gamblr ( $1.03 )
+Seat 6: Albatrons ( $2.58 )
+Gr8Gamblr posts small blind [$0.01]
+Albatrons posts big blind [$0.02]
+** Dealing down cards **
+Gr8Gamblr calls [$0.01]
+Albatrons checks
+** Dealing flop ** [ 2c, 8d, Jc ]
+Albatrons checks
+Gr8Gamblr bets [$0.02]
+Albatrons raises [$0.10]
+Gr8Gamblr calls [$0.08]
+** Dealing turn ** [ 6h ]
+Albatrons bets [$0.16]
+Gr8Gamblr calls [$0.16]
+** Dealing river ** [ Th ]
+Albatrons checks
+Gr8Gamblr bets [$0.75]
+Albatrons calls [$0.75]
+** Summary **
+Gr8Gamblr shows [ 3c, 4c ]
+Albatrons shows [ Jd, Ah ]
+Albatrons collected [ $1.94 ]
+
+
+#Game No : 513482276
+***** 888poker Hand History for Game 513482276 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 09:08:34
+Table Salvador 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: modepokerr ( $2 )
+Seat 6: zdarova8729 ( $2 )
+modepokerr posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+modepokerr calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ 3h, 7h, 6d ]
+zdarova8729 checks
+modepokerr bets [$0.10]
+zdarova8729 folds
+** Summary **
+modepokerr did not show his hand
+modepokerr collected [ $0.04 ]
+
+
+#Game No : 513482342
+***** 888poker Hand History for Game 513482342 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 09:09:54
+Table Salvador 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: zdarova8729 ( $2 )
+Seat 7: prp69 ( $1.02 )
+prp69 posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+prp69 calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ Ad, 3h, 6h ]
+zdarova8729 checks
+prp69 checks
+** Dealing turn ** [ Kh ]
+zdarova8729 checks
+prp69 checks
+** Dealing river ** [ 8d ]
+zdarova8729 checks
+prp69 checks
+** Summary **
+zdarova8729 shows [ 3d, 4d ]
+prp69 mucks [ Th, Qd ]
+zdarova8729 collected [ $0.04 ]
+
+

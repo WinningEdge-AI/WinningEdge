@@ -1,0 +1,59 @@
+#Game No : 499772362
+***** 888poker Hand History for Game 499772362 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 16:05:10
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Danie_2018 ( $0.66 )
+Seat 6: PeterTopdog6 ( $1.07 )
+Danie_2018 posts small blind [$0.01]
+PeterTopdog6 posts big blind [$0.02]
+** Dealing down cards **
+Danie_2018 calls [$0.01]
+PeterTopdog6 raises [$0.04]
+Danie_2018 calls [$0.04]
+** Dealing flop ** [ 7d, 2s, Js ]
+PeterTopdog6 checks
+Danie_2018 bets [$0.12]
+PeterTopdog6 calls [$0.12]
+** Dealing turn ** [ Th ]
+PeterTopdog6 checks
+Danie_2018 bets [$0.36]
+PeterTopdog6 calls [$0.36]
+** Dealing river ** [ 8h ]
+PeterTopdog6 checks
+Danie_2018 checks
+** Summary **
+PeterTopdog6 shows [ As, Kh ]
+Danie_2018 shows [ 7h, 6h ]
+Danie_2018 collected [ $1.02 ]
+
+
+#Game No : 499772390
+***** 888poker Hand History for Game 499772390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 16:06:04
+Table Debrecen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Danie_2018 ( $1.14 )
+Seat 6: PeterTopdog6 ( $0.53 )
+PeterTopdog6 posts small blind [$0.01]
+Danie_2018 posts big blind [$0.02]
+** Dealing down cards **
+PeterTopdog6 raises [$0.03]
+Danie_2018 calls [$0.02]
+** Dealing flop ** [ 9d, 2d, 7d ]
+Danie_2018 checks
+PeterTopdog6 checks
+** Dealing turn ** [ 7h ]
+Danie_2018 checks
+PeterTopdog6 bets [$0.02]
+Danie_2018 calls [$0.02]
+** Dealing river ** [ 8c ]
+Danie_2018 checks
+PeterTopdog6 bets [$0.08]
+Danie_2018 folds
+** Summary **
+PeterTopdog6 collected [ $0.12 ]
+
+

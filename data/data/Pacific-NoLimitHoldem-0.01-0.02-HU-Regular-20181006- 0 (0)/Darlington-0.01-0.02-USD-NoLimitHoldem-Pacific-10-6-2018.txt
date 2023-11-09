@@ -1,0 +1,583 @@
+#Game No : 503422216
+***** 888poker Hand History for Game 503422216 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 11:24:41
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: FAGFAG776 ( $0.74 )
+Seat 4: Boabie01 ( $0.89 )
+Boabie01 posts small blind [$0.01]
+FAGFAG776 posts big blind [$0.02]
+** Dealing down cards **
+Boabie01 calls [$0.01]
+FAGFAG776 checks
+** Dealing flop ** [ 8s, 7s, Ad ]
+FAGFAG776 checks
+Boabie01 checks
+** Dealing turn ** [ Js ]
+FAGFAG776 bets [$0.02]
+Boabie01 folds
+** Summary **
+FAGFAG776 collected [ $0.04 ]
+
+
+#Game No : 503422379
+***** 888poker Hand History for Game 503422379 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 11:27:31
+Table Darlington 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: FAGFAG776 ( $0.68 )
+Seat 7: Grigoriibula ( $1.33 )
+Grigoriibula posts small blind [$0.01]
+FAGFAG776 posts big blind [$0.02]
+** Dealing down cards **
+Grigoriibula folds
+** Summary **
+FAGFAG776 collected [ $0.03 ]
+
+
+#Game No : 503422389
+***** 888poker Hand History for Game 503422389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 11:27:37
+Table Darlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: FAGFAG776 ( $0.69 )
+Seat 7: Grigoriibula ( $1.32 )
+FAGFAG776 posts small blind [$0.01]
+Grigoriibula posts big blind [$0.02]
+** Dealing down cards **
+FAGFAG776 folds
+** Summary **
+Grigoriibula did not show his hand
+Grigoriibula collected [ $0.03 ]
+
+
+#Game No : 503422402
+***** 888poker Hand History for Game 503422402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 11:27:48
+Table Darlington 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: FAGFAG776 ( $0.68 )
+Seat 7: Grigoriibula ( $1.33 )
+Grigoriibula posts small blind [$0.01]
+FAGFAG776 posts big blind [$0.02]
+** Dealing down cards **
+Grigoriibula calls [$0.01]
+FAGFAG776 checks
+** Dealing flop ** [ 4s, As, 7s ]
+FAGFAG776 checks
+Grigoriibula checks
+** Dealing turn ** [ Qd ]
+FAGFAG776 checks
+Grigoriibula checks
+** Dealing river ** [ Qs ]
+FAGFAG776 bets [$0.02]
+Grigoriibula calls [$0.02]
+** Summary **
+FAGFAG776 shows [ 9s, 6c ]
+Grigoriibula mucks [ 9h, Th ]
+FAGFAG776 collected [ $0.08 ]
+
+
+#Game No : 503422427
+***** 888poker Hand History for Game 503422427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 11:28:12
+Table Darlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: FAGFAG776 ( $0.72 )
+Seat 7: Grigoriibula ( $1.29 )
+FAGFAG776 posts small blind [$0.01]
+Grigoriibula posts big blind [$0.02]
+** Dealing down cards **
+FAGFAG776 calls [$0.01]
+Grigoriibula raises [$0.04]
+FAGFAG776 calls [$0.04]
+** Dealing flop ** [ Kh, 8s, 5h ]
+Grigoriibula bets [$0.02]
+FAGFAG776 calls [$0.02]
+** Dealing turn ** [ 9h ]
+Grigoriibula bets [$0.02]
+FAGFAG776 calls [$0.02]
+** Dealing river ** [ Js ]
+Grigoriibula bets [$0.02]
+FAGFAG776 raises [$0.26]
+Grigoriibula folds
+** Summary **
+FAGFAG776 collected [ $0.23 ]
+
+
+#Game No : 503427678
+***** 888poker Hand History for Game 503427678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:00:41
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: alex_mks ( $1.03 )
+Seat 4: redalex777 ( $1.70 )
+redalex777 posts small blind [$0.01]
+alex_mks posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+alex_mks collected [ $0.03 ]
+
+
+#Game No : 503427683
+***** 888poker Hand History for Game 503427683 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:00:46
+Table Darlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alex_mks ( $1.04 )
+Seat 4: redalex777 ( $1.69 )
+alex_mks posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+alex_mks raises [$0.05]
+redalex777 calls [$0.04]
+** Dealing flop ** [ Td, 9d, Ts ]
+redalex777 checks
+alex_mks checks
+** Dealing turn ** [ 6c ]
+redalex777 checks
+alex_mks checks
+** Dealing river ** [ Kd ]
+redalex777 checks
+alex_mks checks
+** Summary **
+redalex777 shows [ As, 3s ]
+alex_mks mucks [ Js, 2c ]
+redalex777 collected [ $0.12 ]
+
+
+#Game No : 503427715
+***** 888poker Hand History for Game 503427715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:01:13
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: alex_mks ( $0.98 )
+Seat 4: redalex777 ( $1.75 )
+redalex777 posts small blind [$0.01]
+alex_mks posts big blind [$0.02]
+** Dealing down cards **
+redalex777 raises [$0.05]
+alex_mks folds
+** Summary **
+redalex777 collected [ $0.04 ]
+
+
+#Game No : 503428763
+***** 888poker Hand History for Game 503428763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:17:12
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.06 )
+Seat 6: Tobicro ( $1.50 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+Tobicro collected [ $0.03 ]
+
+
+#Game No : 503428776
+***** 888poker Hand History for Game 503428776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:17:19
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.05 )
+Seat 6: Tobicro ( $1.51 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro folds
+** Summary **
+redalex777 collected [ $0.03 ]
+
+
+#Game No : 503428785
+***** 888poker Hand History for Game 503428785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:17:25
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.06 )
+Seat 6: Tobicro ( $1.50 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 raises [$0.05]
+Tobicro calls [$0.04]
+** Dealing flop ** [ 6d, Kh, Qh ]
+Tobicro checks
+redalex777 bets [$0.08]
+Tobicro raises [$0.22]
+redalex777 calls [$0.14]
+** Dealing turn ** [ 4d ]
+Tobicro bets [$1.22]
+redalex777 calls [$0.78]
+** Dealing river ** [ 8d ]
+** Summary **
+redalex777 shows [ 9s, Kc ]
+Tobicro shows [ Ks, 6s ]
+Tobicro collected [ $1.99 ]
+
+
+#Game No : 503428828
+***** 888poker Hand History for Game 503428828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:18:05
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1 )
+Seat 6: Tobicro ( $2.43 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro raises [$0.05]
+redalex777 folds
+** Summary **
+Tobicro did not show his hand
+Tobicro collected [ $0.04 ]
+
+
+#Game No : 503428848
+***** 888poker Hand History for Game 503428848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:18:30
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1 )
+Seat 6: Tobicro ( $2.45 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+Tobicro did not show his hand
+Tobicro collected [ $0.03 ]
+
+
+#Game No : 503428855
+***** 888poker Hand History for Game 503428855 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:18:38
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1 )
+Seat 6: Tobicro ( $2.46 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro raises [$0.05]
+redalex777 folds
+** Summary **
+Tobicro did not show his hand
+Tobicro collected [ $0.04 ]
+
+
+#Game No : 503428866
+***** 888poker Hand History for Game 503428866 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:18:46
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1 )
+Seat 6: Tobicro ( $2.48 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+Tobicro did not show his hand
+Tobicro collected [ $0.03 ]
+
+
+#Game No : 503428877
+***** 888poker Hand History for Game 503428877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:18:53
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1 )
+Seat 6: Tobicro ( $2.49 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.03 ]
+
+
+#Game No : 503428882
+***** 888poker Hand History for Game 503428882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:18:59
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.01 )
+Seat 6: Tobicro ( $2.48 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+Tobicro did not show his hand
+Tobicro collected [ $0.03 ]
+
+
+#Game No : 503428886
+***** 888poker Hand History for Game 503428886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:19:04
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1 )
+Seat 6: Tobicro ( $2.49 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.03 ]
+
+
+#Game No : 503428891
+***** 888poker Hand History for Game 503428891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:19:09
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.01 )
+Seat 6: Tobicro ( $2.48 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 raises [$0.05]
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.04 ]
+
+
+#Game No : 503428898
+***** 888poker Hand History for Game 503428898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:19:19
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.03 )
+Seat 6: Tobicro ( $2.46 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.03 ]
+
+
+#Game No : 503428905
+***** 888poker Hand History for Game 503428905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:19:24
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.04 )
+Seat 6: Tobicro ( $2.45 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+Tobicro did not show his hand
+Tobicro collected [ $0.03 ]
+
+
+#Game No : 503428914
+***** 888poker Hand History for Game 503428914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:19:30
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.03 )
+Seat 6: Tobicro ( $2.46 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro raises [$0.05]
+redalex777 folds
+** Summary **
+Tobicro did not show his hand
+Tobicro collected [ $0.04 ]
+
+
+#Game No : 503428929
+***** 888poker Hand History for Game 503428929 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:19:42
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.01 )
+Seat 6: Tobicro ( $2.48 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 raises [$0.05]
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.04 ]
+
+
+#Game No : 503428936
+***** 888poker Hand History for Game 503428936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:19:50
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.03 )
+Seat 6: Tobicro ( $2.46 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.03 ]
+
+
+#Game No : 503428940
+***** 888poker Hand History for Game 503428940 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:19:54
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.04 )
+Seat 6: Tobicro ( $2.45 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 raises [$0.05]
+Tobicro calls [$0.04]
+** Dealing flop ** [ Ah, Ad, 9h ]
+Tobicro checks
+redalex777 bets [$0.12]
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.12 ]
+
+
+#Game No : 503428959
+***** 888poker Hand History for Game 503428959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:20:15
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.10 )
+Seat 6: Tobicro ( $2.39 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.03 ]
+
+
+#Game No : 503428965
+***** 888poker Hand History for Game 503428965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:20:20
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.11 )
+Seat 6: Tobicro ( $2.38 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+Tobicro did not show his hand
+Tobicro collected [ $0.03 ]
+
+
+#Game No : 503428969
+***** 888poker Hand History for Game 503428969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:20:24
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.10 )
+Seat 6: Tobicro ( $2.39 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.03 ]
+
+
+#Game No : 503428972
+***** 888poker Hand History for Game 503428972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:20:29
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.11 )
+Seat 6: Tobicro ( $2.38 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 folds
+** Summary **
+Tobicro collected [ $0.03 ]
+
+
+#Game No : 503428981
+***** 888poker Hand History for Game 503428981 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:20:35
+Table Darlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.10 )
+Seat 6: Tobicro ( $2.39 )
+Tobicro posts small blind [$0.01]
+redalex777 posts big blind [$0.02]
+** Dealing down cards **
+Tobicro raises [$0.05]
+redalex777 folds
+** Summary **
+Tobicro collected [ $0.04 ]
+
+
+#Game No : 503429333
+***** 888poker Hand History for Game 503429333 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 13:26:48
+Table Darlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: redalex777 ( $1.32 )
+Seat 6: Tobicro ( $2.58 )
+redalex777 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+redalex777 raises [$0.05]
+Tobicro folds
+** Summary **
+redalex777 did not show his hand
+redalex777 collected [ $0.04 ]
+
+

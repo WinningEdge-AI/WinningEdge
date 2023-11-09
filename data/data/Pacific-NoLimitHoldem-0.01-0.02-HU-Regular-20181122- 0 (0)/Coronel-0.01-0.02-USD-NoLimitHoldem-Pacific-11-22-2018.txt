@@ -1,0 +1,151 @@
+#Game No : 516619922
+***** 888poker Hand History for Game 516619922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2018 17:37:25
+Table Coronel 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: elPeanuto ( $2.31 )
+Seat 6: alkkla ( $2 )
+elPeanuto posts small blind [$0.01]
+** Dealing down cards **
+alkkla folds
+** Summary **
+elPeanuto collected [ $0.01 ]
+
+
+#Game No : 457764396
+***** 888poker Hand History for Game 457764396 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:07:35
+Table Coronel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Educatedfool ( $1 )
+Seat 2: G.lot ( $1 )
+Educatedfool posts small blind [$0.01]
+G.lot posts big blind [$0.02]
+** Dealing down cards **
+Educatedfool calls [$0.01]
+G.lot checks
+** Dealing flop ** [ Th, 4s, 9c ]
+G.lot bets [$0.02]
+Educatedfool folds
+** Summary **
+G.lot collected [ $0.04 ]
+
+
+#Game No : 457764405
+***** 888poker Hand History for Game 457764405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:07:55
+Table Coronel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Educatedfool ( $0.98 )
+Seat 2: G.lot ( $1.02 )
+G.lot posts small blind [$0.01]
+Educatedfool posts big blind [$0.02]
+** Dealing down cards **
+G.lot raises [$0.03]
+Educatedfool calls [$0.02]
+** Dealing flop ** [ As, 6h, 2h ]
+Educatedfool checks
+G.lot bets [$0.02]
+Educatedfool folds
+** Summary **
+G.lot collected [ $0.08 ]
+
+
+#Game No : 457764411
+***** 888poker Hand History for Game 457764411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:08:10
+Table Coronel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Educatedfool ( $0.94 )
+Seat 2: G.lot ( $1.06 )
+Educatedfool posts small blind [$0.01]
+G.lot posts big blind [$0.02]
+** Dealing down cards **
+Educatedfool calls [$0.01]
+G.lot checks
+** Dealing flop ** [ 3d, 5c, 4s ]
+G.lot checks
+Educatedfool checks
+** Dealing turn ** [ Ad ]
+G.lot checks
+Educatedfool bets [$0.06]
+G.lot folds
+** Summary **
+Educatedfool collected [ $0.04 ]
+
+
+#Game No : 457764426
+***** 888poker Hand History for Game 457764426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:08:30
+Table Coronel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Educatedfool ( $0.96 )
+Seat 2: G.lot ( $1.04 )
+G.lot posts small blind [$0.01]
+Educatedfool posts big blind [$0.02]
+** Dealing down cards **
+G.lot calls [$0.01]
+Educatedfool checks
+** Dealing flop ** [ Qh, Qs, 5h ]
+Educatedfool checks
+G.lot checks
+** Dealing turn ** [ 8c ]
+Educatedfool checks
+G.lot checks
+** Dealing river ** [ 5d ]
+Educatedfool checks
+G.lot bets [$0.04]
+Educatedfool folds
+** Summary **
+G.lot collected [ $0.04 ]
+
+
+#Game No : 457764435
+***** 888poker Hand History for Game 457764435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:08:52
+Table Coronel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Educatedfool ( $0.94 )
+Seat 2: G.lot ( $1.06 )
+Educatedfool posts small blind [$0.01]
+G.lot posts big blind [$0.02]
+** Dealing down cards **
+Educatedfool folds
+** Summary **
+G.lot collected [ $0.03 ]
+
+
+#Game No : 457764455
+***** 888poker Hand History for Game 457764455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 04:09:56
+Table Coronel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SlikvsSlik ( $1 )
+Seat 6: Shewa269 ( $0.80 )
+Shewa269 posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+Shewa269 calls [$0.01]
+SlikvsSlik checks
+** Dealing flop ** [ 6c, Ad, Jc ]
+SlikvsSlik bets [$0.04]
+Shewa269 raises [$0.14]
+SlikvsSlik calls [$0.10]
+** Dealing turn ** [ 3c ]
+SlikvsSlik bets [$0.16]
+Shewa269 raises [$0.64]
+SlikvsSlik calls [$0.48]
+** Dealing river ** [ 4d ]
+** Summary **
+SlikvsSlik shows [ Ac, 6d ]
+Shewa269 shows [ 9s, Tc ]
+SlikvsSlik collected [ $1.50 ]
+
+

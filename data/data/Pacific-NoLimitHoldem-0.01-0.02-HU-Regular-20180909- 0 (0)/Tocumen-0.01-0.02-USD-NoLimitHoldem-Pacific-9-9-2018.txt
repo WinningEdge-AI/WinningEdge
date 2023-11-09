@@ -1,0 +1,148 @@
+#Game No : 455248262
+***** 888poker Hand History for Game 455248262 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 03:17:04
+Table Tocumen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: xaleraby ( $1.96 )
+Seat 2: Schwabo999 ( $0.84 )
+xaleraby posts small blind [$0.01]
+Schwabo999 posts big blind [$0.02]
+** Dealing down cards **
+xaleraby calls [$0.01]
+Schwabo999 checks
+** Dealing flop ** [ 4h, Ac, Qc ]
+Schwabo999 bets [$0.02]
+xaleraby folds
+** Summary **
+Schwabo999 did not show his hand
+Schwabo999 collected [ $0.04 ]
+
+
+#Game No : 455248279
+***** 888poker Hand History for Game 455248279 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 03:17:10
+Table Tocumen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: xaleraby ( $1.94 )
+Seat 2: Schwabo999 ( $0.86 )
+Schwabo999 posts small blind [$0.01]
+xaleraby posts big blind [$0.02]
+** Dealing down cards **
+Schwabo999 raises [$0.03]
+xaleraby calls [$0.02]
+** Dealing flop ** [ 5c, As, 3c ]
+xaleraby checks
+Schwabo999 bets [$0.05]
+xaleraby calls [$0.05]
+** Dealing turn ** [ 8s ]
+xaleraby checks
+Schwabo999 bets [$0.02]
+xaleraby raises [$0.16]
+Schwabo999 calls [$0.14]
+** Dealing river ** [ 5h ]
+xaleraby checks
+Schwabo999 checks
+** Summary **
+xaleraby shows [ Jc, Qd ]
+Schwabo999 shows [ 6d, Ad ]
+Schwabo999 collected [ $0.47 ]
+
+
+#Game No : 455254282
+***** 888poker Hand History for Game 455254282 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 06:53:38
+Table Tocumen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Lasatriop ( $2.05 )
+Seat 5: 220VOLTmix ( $2.01 )
+220VOLTmix posts small blind [$0.01]
+** Dealing down cards **
+Lasatriop folds
+** Summary **
+220VOLTmix collected [ $0.01 ]
+
+
+#Game No : 455254284
+***** 888poker Hand History for Game 455254284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 06:53:41
+Table Tocumen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: 220VOLTmix ( $2.01 )
+Seat 6: Griboedow ( $1.20 )
+220VOLTmix posts small blind [$0.01]
+Griboedow posts big blind [$0.02]
+** Dealing down cards **
+220VOLTmix raises [$0.03]
+Griboedow calls [$0.02]
+** Dealing flop ** [ Kd, 2h, 5s ]
+Griboedow checks
+220VOLTmix bets [$0.08]
+Griboedow folds
+** Summary **
+220VOLTmix collected [ $0.08 ]
+
+
+#Game No : 455254294
+***** 888poker Hand History for Game 455254294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 06:54:05
+Table Tocumen 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: 220VOLTmix ( $2.05 )
+Seat 6: Griboedow ( $1.16 )
+Griboedow posts small blind [$0.01]
+** Dealing down cards **
+220VOLTmix folds
+** Summary **
+Griboedow collected [ $0.01 ]
+
+
+#Game No : 502145355
+***** 888poker Hand History for Game 502145355 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 08:16:20
+Table Tocumen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: makedonbt ( $0.82 )
+Seat 4: den_042 ( $0.81 )
+den_042 posts small blind [$0.01]
+makedonbt posts big blind [$0.02]
+** Dealing down cards **
+den_042 calls [$0.01]
+makedonbt checks
+** Dealing flop ** [ Ah, 9h, Kd ]
+makedonbt checks
+den_042 bets [$0.02]
+makedonbt folds
+** Summary **
+den_042 collected [ $0.04 ]
+
+
+#Game No : 502145370
+***** 888poker Hand History for Game 502145370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 08:16:55
+Table Tocumen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: makedonbt ( $0.80 )
+Seat 4: den_042 ( $0.83 )
+makedonbt posts small blind [$0.01]
+den_042 posts big blind [$0.02]
+** Dealing down cards **
+makedonbt raises [$0.03]
+den_042 calls [$0.02]
+** Dealing flop ** [ Tc, 4h, Ts ]
+den_042 checks
+makedonbt checks
+** Dealing turn ** [ 5h ]
+den_042 checks
+makedonbt bets [$0.06]
+den_042 folds
+** Summary **
+makedonbt collected [ $0.08 ]
+
+

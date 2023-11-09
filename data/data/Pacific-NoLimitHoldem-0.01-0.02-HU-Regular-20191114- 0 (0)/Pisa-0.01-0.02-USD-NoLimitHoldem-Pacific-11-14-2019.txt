@@ -1,0 +1,136 @@
+#Game No : 524082601
+***** 888poker Hand History for Game 524082601 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2019 09:12:11
+Table Pisa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MarvO21 ( $2.03 )
+Seat 9: 55more55 ( $2.03 )
+MarvO21 posts small blind [$0.01]
+55more55 posts big blind [$0.02]
+** Dealing down cards **
+MarvO21 raises [$0.04]
+55more55 raises [$0.13]
+MarvO21 calls [$0.10]
+** Dealing flop ** [ 8s, 6d, 5c ]
+55more55 bets [$0.22]
+MarvO21 folds
+** Summary **
+55more55 collected [ $0.29 ]
+
+
+#Game No : 524082612
+***** 888poker Hand History for Game 524082612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2019 09:12:32
+Table Pisa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: MarvO21 ( $2 )
+Seat 9: 55more55 ( $2.17 )
+55more55 posts small blind [$0.01]
+MarvO21 posts big blind [$0.02]
+** Dealing down cards **
+55more55 raises [$0.05]
+MarvO21 raises [$0.08]
+55more55 calls [$0.04]
+** Dealing flop ** [ Qc, 9d, Ks ]
+MarvO21 bets [$0.10]
+55more55 folds
+** Summary **
+MarvO21 collected [ $0.19 ]
+
+
+#Game No : 524082622
+***** 888poker Hand History for Game 524082622 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2019 09:12:50
+Table Pisa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MarvO21 ( $2.09 )
+Seat 9: 55more55 ( $2.07 )
+MarvO21 posts small blind [$0.01]
+55more55 posts big blind [$0.02]
+** Dealing down cards **
+MarvO21 calls [$0.01]
+55more55 checks
+** Dealing flop ** [ As, 2d, Qc ]
+55more55 checks
+MarvO21 bets [$0.02]
+55more55 folds
+** Summary **
+MarvO21 collected [ $0.04 ]
+
+
+#Game No : 524082631
+***** 888poker Hand History for Game 524082631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2019 09:13:08
+Table Pisa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: MarvO21 ( $2.11 )
+Seat 9: 55more55 ( $2.05 )
+55more55 posts small blind [$0.01]
+MarvO21 posts big blind [$0.02]
+** Dealing down cards **
+55more55 raises [$0.05]
+MarvO21 folds
+** Summary **
+55more55 collected [ $0.04 ]
+
+
+#Game No : 524082637
+***** 888poker Hand History for Game 524082637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2019 09:13:16
+Table Pisa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MarvO21 ( $2.09 )
+Seat 9: 55more55 ( $2.07 )
+MarvO21 posts small blind [$0.01]
+55more55 posts big blind [$0.02]
+** Dealing down cards **
+MarvO21 calls [$0.01]
+55more55 checks
+** Dealing flop ** [ Qd, 5d, 8s ]
+55more55 bets [$0.02]
+MarvO21 calls [$0.02]
+** Dealing turn ** [ 9h ]
+55more55 bets [$0.02]
+MarvO21 raises [$0.04]
+55more55 calls [$0.02]
+** Dealing river ** [ Jc ]
+55more55 checks
+MarvO21 bets [$0.08]
+55more55 calls [$0.08]
+** Summary **
+MarvO21 shows [ 5h, 9s ]
+55more55 mucks [ 6h, Qh ]
+MarvO21 collected [ $0.30 ]
+
+
+#Game No : 524082654
+***** 888poker Hand History for Game 524082654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2019 09:13:47
+Table Pisa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: MarvO21 ( $2.23 )
+Seat 9: 55more55 ( $2 )
+55more55 posts small blind [$0.01]
+MarvO21 posts big blind [$0.02]
+** Dealing down cards **
+55more55 raises [$0.05]
+MarvO21 calls [$0.04]
+** Dealing flop ** [ Jc, Qh, 4c ]
+MarvO21 checks
+55more55 checks
+** Dealing turn ** [ Kh ]
+MarvO21 checks
+55more55 checks
+** Dealing river ** [ 7s ]
+MarvO21 bets [$0.03]
+55more55 folds
+** Summary **
+MarvO21 collected [ $0.12 ]
+
+

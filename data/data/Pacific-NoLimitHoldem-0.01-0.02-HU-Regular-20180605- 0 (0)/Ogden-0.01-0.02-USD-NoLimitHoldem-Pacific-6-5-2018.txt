@@ -1,0 +1,68 @@
+#Game No : 603681380
+***** 888poker Hand History for Game 603681380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 10:04:30
+Table Ogden 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: natashka5000 ( $2.24 )
+Seat 7: gunchozaurs ( $2.03 )
+natashka5000 posts small blind [$0.01]
+gunchozaurs posts big blind [$0.02]
+** Dealing down cards **
+natashka5000 raises [$0.05]
+gunchozaurs folds
+** Summary **
+natashka5000 collected [ $0.04 ]
+
+
+#Game No : 603681391
+***** 888poker Hand History for Game 603681391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 10:04:38
+Table Ogden 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: natashka5000 ( $2.26 )
+Seat 7: gunchozaurs ( $2.01 )
+gunchozaurs posts small blind [$0.01]
+natashka5000 posts big blind [$0.02]
+** Dealing down cards **
+gunchozaurs calls [$0.01]
+natashka5000 checks
+** Dealing flop ** [ 3s, 2d, Js ]
+natashka5000 checks
+gunchozaurs checks
+** Dealing turn ** [ 8s ]
+natashka5000 checks
+gunchozaurs checks
+** Dealing river ** [ 3d ]
+natashka5000 checks
+gunchozaurs bets [$0.04]
+natashka5000 folds
+** Summary **
+gunchozaurs collected [ $0.04 ]
+
+
+#Game No : 603681478
+***** 888poker Hand History for Game 603681478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 10:06:09
+Table Ogden 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: traktor.by ( $0.80 )
+Seat 7: gunchozaurs ( $2.03 )
+gunchozaurs posts small blind [$0.01]
+traktor.by posts big blind [$0.02]
+** Dealing down cards **
+gunchozaurs calls [$0.01]
+traktor.by checks
+** Dealing flop ** [ Kh, Kd, 2c ]
+traktor.by checks
+gunchozaurs checks
+** Dealing turn ** [ 7d ]
+traktor.by checks
+gunchozaurs bets [$0.02]
+traktor.by folds
+** Summary **
+gunchozaurs collected [ $0.04 ]
+
+

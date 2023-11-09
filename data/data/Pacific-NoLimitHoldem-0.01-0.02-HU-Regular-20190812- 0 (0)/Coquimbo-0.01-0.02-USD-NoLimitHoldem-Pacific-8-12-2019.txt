@@ -1,0 +1,62 @@
+#Game No : 1287551398
+***** 888poker Hand History for Game 1287551398 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2019 22:29:32
+Table Coquimbo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: benjamin3k ( $1.98 )
+Seat 5: Sophie695 ( $2.02 )
+benjamin3k posts small blind [$0.01]
+Sophie695 posts big blind [$0.02]
+** Dealing down cards **
+benjamin3k raises [$0.03]
+Sophie695 folds
+** Summary **
+benjamin3k did not show his hand
+benjamin3k collected [ $0.04 ]
+
+
+#Game No : 1287551425
+***** 888poker Hand History for Game 1287551425 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2019 22:29:42
+Table Coquimbo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: benjamin3k ( $2 )
+Seat 5: Sophie695 ( $2 )
+Sophie695 posts small blind [$0.01]
+benjamin3k posts big blind [$0.02]
+** Dealing down cards **
+Sophie695 folds
+** Summary **
+benjamin3k collected [ $0.03 ]
+
+
+#Game No : 1287555218
+***** 888poker Hand History for Game 1287555218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2019 23:06:51
+Table Coquimbo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: MattSvW ( $0.44 )
+Seat 9: Alien_Wizart ( $2.02 )
+Alien_Wizart posts small blind [$0.01]
+MattSvW posts big blind [$0.02]
+** Dealing down cards **
+Alien_Wizart calls [$0.01]
+MattSvW checks
+** Dealing flop ** [ Ah, As, 4c ]
+MattSvW checks
+Alien_Wizart checks
+** Dealing turn ** [ 2s ]
+MattSvW checks
+Alien_Wizart checks
+** Dealing river ** [ Qs ]
+MattSvW checks
+Alien_Wizart checks
+** Summary **
+MattSvW shows [ 5h, 6d ]
+Alien_Wizart shows [ 4s, 5s ]
+Alien_Wizart collected [ $0.04 ]
+
+

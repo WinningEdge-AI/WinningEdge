@@ -1,0 +1,87 @@
+#Game No : 509200023
+***** 888poker Hand History for Game 509200023 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 06:26:51
+Table San Luis 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: svetlana386 ( $0.93 )
+Seat 7: gunchozaurs ( $2 )
+svetlana386 posts small blind [$0.01]
+gunchozaurs posts big blind [$0.02]
+** Dealing down cards **
+svetlana386 calls [$0.01]
+gunchozaurs checks
+** Dealing flop ** [ Jh, 7c, Jc ]
+gunchozaurs checks
+svetlana386 checks
+** Dealing turn ** [ 4d ]
+gunchozaurs checks
+svetlana386 checks
+** Dealing river ** [ 2s ]
+gunchozaurs checks
+svetlana386 checks
+** Summary **
+gunchozaurs shows [ 3h, 9s ]
+svetlana386 shows [ 6h, 4s ]
+svetlana386 collected [ $0.04 ]
+
+
+#Game No : 509200168
+***** 888poker Hand History for Game 509200168 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 06:28:59
+Table San Luis 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: svetlana386 ( $0.95 )
+Seat 7: gunchozaurs ( $2 )
+gunchozaurs posts small blind [$0.01]
+** Dealing down cards **
+svetlana386 folds
+** Summary **
+gunchozaurs did not show his hand
+gunchozaurs collected [ $0.01 ]
+
+
+#Game No : 509223651
+***** 888poker Hand History for Game 509223651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 11:51:51
+Table San Luis 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Varmint777 ( $0.80 )
+Seat 6: ichthyolog ( $0.98 )
+Varmint777 posts small blind [$0.01]
+ichthyolog posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 folds
+** Summary **
+ichthyolog collected [ $0.03 ]
+
+
+#Game No : 509223657
+***** 888poker Hand History for Game 509223657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 11:51:56
+Table San Luis 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Varmint777 ( $0.80 )
+Seat 6: ichthyolog ( $0.99 )
+ichthyolog posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+ichthyolog raises [$0.05]
+Varmint777 calls [$0.04]
+** Dealing flop ** [ As, Th, 9d ]
+Varmint777 checks
+ichthyolog bets [$0.04]
+Varmint777 calls [$0.04]
+** Dealing turn ** [ 5d ]
+Varmint777 checks
+ichthyolog checks
+** Dealing river ** [ 5s ]
+Varmint777 bets [$0.10]
+ichthyolog folds
+** Summary **
+Varmint777 collected [ $0.19 ]
+
+

@@ -1,0 +1,746 @@
+#Game No : 501782467
+***** 888poker Hand History for Game 501782467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 16:32:57
+Table Leeuwarden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ollieuk98 ( $1.05 )
+Seat 2: Tiovitus ( $1 )
+ollieuk98 posts small blind [$0.01]
+Tiovitus posts big blind [$0.02]
+** Dealing down cards **
+ollieuk98 raises [$1.04]
+Tiovitus folds
+** Summary **
+ollieuk98 did not show his hand
+ollieuk98 collected [ $0.04 ]
+
+
+#Game No : 501782475
+***** 888poker Hand History for Game 501782475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 16:33:08
+Table Leeuwarden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ollieuk98 ( $1.07 )
+Seat 2: Tiovitus ( $0.98 )
+Tiovitus posts small blind [$0.01]
+ollieuk98 posts big blind [$0.02]
+** Dealing down cards **
+Tiovitus raises [$0.97]
+ollieuk98 calls [$0.96]
+** Dealing flop ** [ 8d, 8c, 3d ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ Th ]
+** Summary **
+ollieuk98 shows [ Ah, 5d ]
+Tiovitus shows [ As, Ts ]
+Tiovitus collected [ $1.84 ]
+
+
+#Game No : 501783478
+***** 888poker Hand History for Game 501783478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:04:41
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: EVivot ( $1.05 )
+Seat 6: RProchorovas ( $1.52 )
+RProchorovas posts small blind [$0.01]
+EVivot posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+EVivot checks
+** Dealing flop ** [ Qs, 8d, Ks ]
+EVivot checks
+RProchorovas checks
+** Dealing turn ** [ 5h ]
+EVivot bets [$0.04]
+RProchorovas folds
+** Summary **
+EVivot collected [ $0.04 ]
+
+
+#Game No : 501783518
+***** 888poker Hand History for Game 501783518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:05:53
+Table Leeuwarden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.48 )
+Seat 7: portuga37 ( $0.82 )
+portuga37 posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+portuga37 raises [$0.03]
+RProchorovas calls [$0.02]
+** Dealing flop ** [ Qc, 3h, 9c ]
+RProchorovas checks
+portuga37 checks
+** Dealing turn ** [ Ks ]
+RProchorovas checks
+portuga37 checks
+** Dealing river ** [ Td ]
+RProchorovas checks
+portuga37 bets [$0.10]
+RProchorovas folds
+** Summary **
+portuga37 collected [ $0.08 ]
+
+
+#Game No : 501783528
+***** 888poker Hand History for Game 501783528 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:06:14
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.44 )
+Seat 7: portuga37 ( $0.86 )
+RProchorovas posts small blind [$0.01]
+portuga37 posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+portuga37 checks
+** Dealing flop ** [ 5s, 9h, Ad ]
+portuga37 checks
+RProchorovas checks
+** Dealing turn ** [ 9c ]
+portuga37 checks
+RProchorovas checks
+** Dealing river ** [ Ks ]
+portuga37 checks
+RProchorovas bets [$0.02]
+portuga37 folds
+** Summary **
+RProchorovas collected [ $0.04 ]
+
+
+#Game No : 501783538
+***** 888poker Hand History for Game 501783538 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:06:33
+Table Leeuwarden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.46 )
+Seat 7: portuga37 ( $0.84 )
+portuga37 posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+portuga37 calls [$0.01]
+RProchorovas checks
+** Dealing flop ** [ As, 9h, 9c ]
+RProchorovas bets [$0.02]
+portuga37 folds
+** Summary **
+RProchorovas collected [ $0.04 ]
+
+
+#Game No : 501783543
+***** 888poker Hand History for Game 501783543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:06:45
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.48 )
+Seat 7: portuga37 ( $0.82 )
+RProchorovas posts small blind [$0.01]
+portuga37 posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+portuga37 raises [$0.02]
+RProchorovas calls [$0.02]
+** Dealing flop ** [ Ac, Jd, 5s ]
+portuga37 checks
+RProchorovas checks
+** Dealing turn ** [ 3d ]
+portuga37 bets [$0.08]
+RProchorovas folds
+** Summary **
+portuga37 collected [ $0.08 ]
+
+
+#Game No : 501783556
+***** 888poker Hand History for Game 501783556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:07:09
+Table Leeuwarden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.44 )
+Seat 7: portuga37 ( $0.86 )
+portuga37 posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+portuga37 calls [$0.01]
+RProchorovas checks
+** Dealing flop ** [ Ts, 6h, 9c ]
+RProchorovas checks
+portuga37 bets [$0.02]
+RProchorovas calls [$0.02]
+** Dealing turn ** [ 7s ]
+RProchorovas checks
+portuga37 bets [$0.05]
+RProchorovas folds
+** Summary **
+portuga37 collected [ $0.08 ]
+
+
+#Game No : 501783566
+***** 888poker Hand History for Game 501783566 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:07:36
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.40 )
+Seat 7: portuga37 ( $0.90 )
+RProchorovas posts small blind [$0.01]
+portuga37 posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+portuga37 raises [$0.02]
+RProchorovas calls [$0.02]
+** Dealing flop ** [ 4h, 6c, Jh ]
+portuga37 bets [$0.02]
+RProchorovas calls [$0.02]
+** Dealing turn ** [ Qs ]
+portuga37 bets [$0.12]
+RProchorovas calls [$0.12]
+** Dealing river ** [ 5s ]
+portuga37 bets [$0.36]
+RProchorovas raises [$0.72]
+portuga37 folds
+** Summary **
+RProchorovas collected [ $1.02 ]
+
+
+#Game No : 501783579
+***** 888poker Hand History for Game 501783579 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:08:14
+Table Leeuwarden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.88 )
+Seat 7: portuga37 ( $0.36 )
+portuga37 posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+portuga37 calls [$0.01]
+RProchorovas checks
+** Dealing flop ** [ Qs, 8d, 8h ]
+RProchorovas checks
+portuga37 checks
+** Dealing turn ** [ 6h ]
+RProchorovas checks
+portuga37 checks
+** Dealing river ** [ Jh ]
+RProchorovas checks
+portuga37 checks
+** Summary **
+RProchorovas shows [ 5s, Ad ]
+portuga37 mucks [ Kc, 5d ]
+RProchorovas collected [ $0.04 ]
+
+
+#Game No : 501783592
+***** 888poker Hand History for Game 501783592 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:08:36
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.90 )
+Seat 7: portuga37 ( $0.34 )
+RProchorovas posts small blind [$0.01]
+portuga37 posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+portuga37 checks
+** Dealing flop ** [ 3s, 2d, Kh ]
+portuga37 checks
+RProchorovas checks
+** Dealing turn ** [ 3d ]
+portuga37 checks
+RProchorovas bets [$0.02]
+portuga37 folds
+** Summary **
+RProchorovas collected [ $0.04 ]
+
+
+#Game No : 501783597
+***** 888poker Hand History for Game 501783597 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:08:58
+Table Leeuwarden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.92 )
+Seat 7: portuga37 ( $0.32 )
+portuga37 posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+portuga37 calls [$0.01]
+RProchorovas raises [$0.04]
+portuga37 folds
+** Summary **
+RProchorovas collected [ $0.04 ]
+
+
+#Game No : 501783600
+***** 888poker Hand History for Game 501783600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:09:07
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.94 )
+Seat 7: portuga37 ( $0.30 )
+RProchorovas posts small blind [$0.01]
+portuga37 posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas raises [$0.03]
+portuga37 calls [$0.02]
+** Dealing flop ** [ 7c, Ks, 8s ]
+portuga37 checks
+RProchorovas checks
+** Dealing turn ** [ 4c ]
+portuga37 bets [$0.08]
+RProchorovas folds
+** Summary **
+portuga37 collected [ $0.08 ]
+
+
+#Game No : 501783606
+***** 888poker Hand History for Game 501783606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:09:24
+Table Leeuwarden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.90 )
+Seat 7: portuga37 ( $0.34 )
+portuga37 posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+portuga37 calls [$0.01]
+RProchorovas checks
+** Dealing flop ** [ 4c, 3d, Kc ]
+RProchorovas bets [$0.02]
+portuga37 folds
+** Summary **
+RProchorovas collected [ $0.04 ]
+
+
+#Game No : 501783612
+***** 888poker Hand History for Game 501783612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:09:37
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.92 )
+Seat 7: portuga37 ( $0.32 )
+RProchorovas posts small blind [$0.01]
+portuga37 posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+portuga37 raises [$0.02]
+RProchorovas calls [$0.02]
+** Dealing flop ** [ Kd, 7s, Qs ]
+portuga37 bets [$0.08]
+RProchorovas folds
+** Summary **
+portuga37 collected [ $0.08 ]
+
+
+#Game No : 501783621
+***** 888poker Hand History for Game 501783621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:09:56
+Table Leeuwarden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RProchorovas ( $1.88 )
+Seat 7: portuga37 ( $0.36 )
+portuga37 posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+portuga37 calls [$0.01]
+RProchorovas checks
+** Dealing flop ** [ 5s, 5d, Qc ]
+RProchorovas checks
+portuga37 checks
+** Dealing turn ** [ Ad ]
+RProchorovas checks
+portuga37 bets [$0.04]
+RProchorovas folds
+** Summary **
+portuga37 collected [ $0.04 ]
+
+
+#Game No : 501783735
+***** 888poker Hand History for Game 501783735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:15:28
+Table Leeuwarden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: EVivot ( $1 )
+Seat 6: RProchorovas ( $2.18 )
+EVivot posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+EVivot folds
+** Summary **
+RProchorovas collected [ $0.03 ]
+
+
+#Game No : 501783736
+***** 888poker Hand History for Game 501783736 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:15:34
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: EVivot ( $1 )
+Seat 6: RProchorovas ( $2.19 )
+RProchorovas posts small blind [$0.01]
+EVivot posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+EVivot checks
+** Dealing flop ** [ 3h, 4s, 6s ]
+EVivot checks
+RProchorovas checks
+** Dealing turn ** [ 4h ]
+EVivot bets [$0.02]
+RProchorovas calls [$0.02]
+** Dealing river ** [ 8h ]
+EVivot bets [$0.96]
+RProchorovas folds
+** Summary **
+EVivot did not show his hand
+EVivot collected [ $0.08 ]
+
+
+#Game No : 501783745
+***** 888poker Hand History for Game 501783745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:15:59
+Table Leeuwarden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: EVivot ( $1.04 )
+Seat 6: RProchorovas ( $2.15 )
+EVivot posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+EVivot raises [$0.05]
+RProchorovas calls [$0.04]
+** Dealing flop ** [ Jd, 3h, Jh ]
+RProchorovas checks
+EVivot bets [$0.08]
+RProchorovas calls [$0.08]
+** Dealing turn ** [ Js ]
+RProchorovas checks
+EVivot checks
+** Dealing river ** [ 5s ]
+RProchorovas bets [$0.10]
+EVivot folds
+** Summary **
+RProchorovas collected [ $0.27 ]
+
+
+#Game No : 501783752
+***** 888poker Hand History for Game 501783752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:16:28
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: EVivot ( $1 )
+Seat 6: RProchorovas ( $2.28 )
+RProchorovas posts small blind [$0.01]
+EVivot posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+EVivot checks
+** Dealing flop ** [ Qd, 7s, 9d ]
+EVivot checks
+RProchorovas bets [$0.02]
+EVivot calls [$0.02]
+** Dealing turn ** [ 4d ]
+EVivot checks
+RProchorovas bets [$0.04]
+EVivot folds
+** Summary **
+RProchorovas collected [ $0.08 ]
+
+
+#Game No : 501783854
+***** 888poker Hand History for Game 501783854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:22:12
+Table Leeuwarden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: EVivot ( $2.10 )
+Seat 6: RProchorovas ( $2.05 )
+EVivot posts small blind [$0.01]
+RProchorovas posts big blind [$0.02]
+** Dealing down cards **
+EVivot folds
+** Summary **
+RProchorovas collected [ $0.03 ]
+
+
+#Game No : 501783859
+***** 888poker Hand History for Game 501783859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:22:21
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: EVivot ( $2.09 )
+Seat 6: RProchorovas ( $2.06 )
+RProchorovas posts small blind [$0.01]
+EVivot posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+EVivot checks
+** Dealing flop ** [ As, 9h, 7s ]
+EVivot checks
+RProchorovas checks
+** Dealing turn ** [ 8d ]
+EVivot bets [$0.04]
+RProchorovas calls [$0.04]
+** Dealing river ** [ 3s ]
+EVivot bets [$0.08]
+RProchorovas folds
+** Summary **
+EVivot collected [ $0.12 ]
+
+
+#Game No : 501784358
+***** 888poker Hand History for Game 501784358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:48:17
+Table Leeuwarden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: richbranson ( $2.08 )
+Seat 9: Chr17topher ( $1.98 )
+Chr17topher posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Chr17topher calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 2c, 3d, 8c ]
+richbranson checks
+Chr17topher bets [$0.04]
+richbranson folds
+** Summary **
+Chr17topher collected [ $0.04 ]
+
+
+#Game No : 501784365
+***** 888poker Hand History for Game 501784365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 17:48:46
+Table Leeuwarden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: richbranson ( $2.06 )
+Seat 9: Chr17topher ( $2 )
+richbranson posts small blind [$0.01]
+Chr17topher posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+Chr17topher raises [$0.08]
+richbranson calls [$0.04]
+** Dealing flop ** [ 9s, 7d, Jh ]
+Chr17topher bets [$0.10]
+richbranson calls [$0.10]
+** Dealing turn ** [ 2s ]
+Chr17topher checks
+richbranson checks
+** Dealing river ** [ Kh ]
+Chr17topher bets [$0.26]
+richbranson folds
+** Summary **
+Chr17topher collected [ $0.38 ]
+
+
+#Game No : 501787820
+***** 888poker Hand History for Game 501787820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 20:58:01
+Table Leeuwarden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: fereyro001 ( $0.94 )
+Seat 7: lemmeGuess ( $1.51 )
+lemmeGuess posts small blind [$0.01]
+fereyro001 posts big blind [$0.02]
+** Dealing down cards **
+lemmeGuess folds
+** Summary **
+fereyro001 collected [ $0.03 ]
+
+
+#Game No : 501787969
+***** 888poker Hand History for Game 501787969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 21:05:57
+Table Leeuwarden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: lemmeGuess ( $1.08 )
+Seat 9: O_LE_G ( $1.09 )
+O_LE_G posts small blind [$0.01]
+lemmeGuess posts big blind [$0.02]
+** Dealing down cards **
+O_LE_G folds
+** Summary **
+lemmeGuess collected [ $0.03 ]
+
+
+#Game No : 501787986
+***** 888poker Hand History for Game 501787986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 21:06:58
+Table Leeuwarden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Havery32 ( $0.80 )
+Seat 9: Elis7718 ( $1 )
+Elis7718 posts small blind [$0.01]
+Havery32 posts big blind [$0.02]
+** Dealing down cards **
+Elis7718 calls [$0.01]
+Havery32 raises [$0.04]
+Elis7718 calls [$0.04]
+** Dealing flop ** [ 9c, 6d, Ac ]
+Havery32 bets [$0.08]
+Elis7718 calls [$0.08]
+** Dealing turn ** [ 6h ]
+Havery32 bets [$0.28]
+Elis7718 calls [$0.28]
+** Dealing river ** [ 2s ]
+Havery32 bets [$0.02]
+Elis7718 calls [$0.02]
+** Summary **
+Havery32 shows [ 5s, Ah ]
+Elis7718 mucks [ Kd, Ts ]
+Havery32 collected [ $0.83 ]
+
+
+#Game No : 501788004
+***** 888poker Hand History for Game 501788004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 21:08:04
+Table Leeuwarden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Havery32 ( $1.19 )
+Seat 9: Elis7718 ( $0.56 )
+Havery32 posts small blind [$0.01]
+Elis7718 posts big blind [$0.02]
+** Dealing down cards **
+Havery32 folds
+** Summary **
+Elis7718 collected [ $0.03 ]
+
+
+#Game No : 501788457
+***** 888poker Hand History for Game 501788457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 21:34:53
+Table Leeuwarden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Et_Arrows ( $2.40 )
+Seat 9: LBowmanxo ( $1.03 )
+Et_Arrows posts small blind [$0.01]
+LBowmanxo posts big blind [$0.02]
+** Dealing down cards **
+Et_Arrows calls [$0.01]
+LBowmanxo checks
+** Dealing flop ** [ 8h, 5h, Jc ]
+LBowmanxo checks
+Et_Arrows checks
+** Dealing turn ** [ 9d ]
+LBowmanxo checks
+Et_Arrows checks
+** Dealing river ** [ Th ]
+LBowmanxo bets [$0.04]
+Et_Arrows calls [$0.04]
+** Summary **
+LBowmanxo shows [ 3d, 2d ]
+Et_Arrows shows [ Td, Ks ]
+Et_Arrows collected [ $0.12 ]
+
+
+#Game No : 501788468
+***** 888poker Hand History for Game 501788468 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 21:35:40
+Table Leeuwarden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Et_Arrows ( $2.46 )
+Seat 9: LBowmanxo ( $0.97 )
+LBowmanxo posts small blind [$0.01]
+Et_Arrows posts big blind [$0.02]
+** Dealing down cards **
+LBowmanxo calls [$0.01]
+Et_Arrows checks
+** Dealing flop ** [ 7c, Kh, Qs ]
+Et_Arrows checks
+LBowmanxo bets [$0.02]
+Et_Arrows folds
+** Summary **
+LBowmanxo collected [ $0.04 ]
+
+
+#Game No : 501790637
+***** 888poker Hand History for Game 501790637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 23:30:06
+Table Leeuwarden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ArdentPlay16 ( $0.80 )
+Seat 2: WERNIP ( $1.69 )
+WERNIP posts small blind [$0.01]
+ArdentPlay16 posts big blind [$0.02]
+** Dealing down cards **
+WERNIP raises [$0.03]
+ArdentPlay16 raises [$0.04]
+WERNIP calls [$0.02]
+** Dealing flop ** [ 2d, Td, 8s ]
+ArdentPlay16 bets [$0.12]
+WERNIP folds
+** Summary **
+ArdentPlay16 collected [ $0.12 ]
+
+
+#Game No : 501790654
+***** 888poker Hand History for Game 501790654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 23:30:41
+Table Leeuwarden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ArdentPlay16 ( $0.86 )
+Seat 2: WERNIP ( $1.63 )
+ArdentPlay16 posts small blind [$0.01]
+WERNIP posts big blind [$0.02]
+** Dealing down cards **
+ArdentPlay16 folds
+** Summary **
+WERNIP collected [ $0.03 ]
+
+
+#Game No : 501790659
+***** 888poker Hand History for Game 501790659 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 23:30:51
+Table Leeuwarden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ArdentPlay16 ( $0.85 )
+Seat 2: WERNIP ( $1.64 )
+WERNIP posts small blind [$0.01]
+ArdentPlay16 posts big blind [$0.02]
+** Dealing down cards **
+WERNIP raises [$0.05]
+ArdentPlay16 raises [$0.14]
+WERNIP calls [$0.10]
+** Dealing flop ** [ 3c, 4d, Th ]
+ArdentPlay16 bets [$0.32]
+WERNIP raises [$1.48]
+ArdentPlay16 calls [$0.37]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ 9h ]
+** Summary **
+ArdentPlay16 shows [ 8d, 8s ]
+WERNIP shows [ 5h, 4h ]
+WERNIP collected [ $1.60 ]
+
+

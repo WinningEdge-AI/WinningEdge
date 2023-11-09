@@ -1,0 +1,421 @@
+#Game No : 547570871
+***** 888poker Hand History for Game 547570871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 01:58:42
+Table Mataro 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: PawwyTom ( $0.92 )
+Seat 2: Raisa1953 ( $1.91 )
+Raisa1953 posts small blind [$0.01]
+PawwyTom posts big blind [$0.02]
+** Dealing down cards **
+Raisa1953 folds
+** Summary **
+PawwyTom collected [ $0.03 ]
+
+
+#Game No : 547570897
+***** 888poker Hand History for Game 547570897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 01:59:17
+Table Mataro 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: PawwyTom ( $0.93 )
+Seat 2: Raisa1953 ( $2 )
+Raisa1953 posts small blind [$0.01]
+PawwyTom posts big blind [$0.02]
+** Dealing down cards **
+Raisa1953 calls [$0.01]
+PawwyTom checks
+** Dealing flop ** [ 8d, 7d, 5c ]
+PawwyTom bets [$0.02]
+Raisa1953 calls [$0.02]
+** Dealing turn ** [ 8h ]
+PawwyTom bets [$0.02]
+Raisa1953 calls [$0.02]
+** Dealing river ** [ 4s ]
+PawwyTom bets [$0.02]
+Raisa1953 raises [$0.04]
+PawwyTom calls [$0.02]
+** Summary **
+Raisa1953 shows [ 2s, 6c ]
+PawwyTom mucks [ 4d, 9s ]
+Raisa1953 collected [ $0.19 ]
+
+
+#Game No : 547570913
+***** 888poker Hand History for Game 547570913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 01:59:40
+Table Mataro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PawwyTom ( $0.83 )
+Seat 2: Raisa1953 ( $2.09 )
+PawwyTom posts small blind [$0.01]
+Raisa1953 posts big blind [$0.02]
+** Dealing down cards **
+PawwyTom raises [$0.17]
+Raisa1953 calls [$0.16]
+** Dealing flop ** [ Qh, 9s, Ah ]
+Raisa1953 checks
+PawwyTom checks
+** Dealing turn ** [ 8c ]
+Raisa1953 bets [$0.10]
+PawwyTom calls [$0.10]
+** Dealing river ** [ 4c ]
+Raisa1953 bets [$0.20]
+PawwyTom calls [$0.20]
+** Summary **
+Raisa1953 shows [ Qs, Ac ]
+PawwyTom mucks [ 7d, 7s ]
+Raisa1953 collected [ $0.90 ]
+
+
+#Game No : 547570930
+***** 888poker Hand History for Game 547570930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 02:00:17
+Table Mataro 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: PawwyTom ( $0.35 )
+Seat 2: Raisa1953 ( $2.51 )
+Raisa1953 posts small blind [$0.01]
+PawwyTom posts big blind [$0.02]
+** Dealing down cards **
+Raisa1953 calls [$0.01]
+PawwyTom raises [$0.33]
+Raisa1953 folds
+** Summary **
+PawwyTom collected [ $0.04 ]
+
+
+#Game No : 547570966
+***** 888poker Hand History for Game 547570966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 02:00:58
+Table Mataro 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: PawwyTom ( $0.37 )
+Seat 4: ALIAKSANDR44 ( $1.98 )
+ALIAKSANDR44 posts small blind [$0.01]
+** Dealing down cards **
+PawwyTom folds
+** Summary **
+ALIAKSANDR44 collected [ $0.01 ]
+
+
+#Game No : 547570973
+***** 888poker Hand History for Game 547570973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 02:01:08
+Table Mataro 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Raisa1953 ( $2.51 )
+Seat 4: ALIAKSANDR44 ( $1.98 )
+ALIAKSANDR44 posts small blind [$0.01]
+Raisa1953 posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+Raisa1953 checks
+** Dealing flop ** [ Ks, 9s, Td ]
+Raisa1953 checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ 2c ]
+Raisa1953 checks
+ALIAKSANDR44 checks
+** Dealing river ** [ 4c ]
+Raisa1953 checks
+ALIAKSANDR44 checks
+** Summary **
+Raisa1953 shows [ 2s, Qc ]
+ALIAKSANDR44 mucks [ Qd, 7s ]
+Raisa1953 collected [ $0.04 ]
+
+
+#Game No : 547571022
+***** 888poker Hand History for Game 547571022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 02:02:16
+Table Mataro 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ALIAKSANDR44 ( $1.96 )
+Seat 7: is_ag ( $1.80 )
+ALIAKSANDR44 posts small blind [$0.01]
+is_ag posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+is_ag checks
+** Dealing flop ** [ 8h, Kh, As ]
+is_ag checks
+ALIAKSANDR44 bets [$0.08]
+is_ag folds
+** Summary **
+ALIAKSANDR44 collected [ $0.04 ]
+
+
+#Game No : 547571072
+***** 888poker Hand History for Game 547571072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 02:03:23
+Table Mataro 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ALIAKSANDR44 ( $1.98 )
+Seat 6: simiiion ( $1.40 )
+ALIAKSANDR44 posts small blind [$0.01]
+simiiion posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 folds
+** Summary **
+simiiion collected [ $0.03 ]
+
+
+#Game No : 547571079
+***** 888poker Hand History for Game 547571079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 02:03:31
+Table Mataro 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ALIAKSANDR44 ( $1.97 )
+Seat 6: simiiion ( $1.41 )
+simiiion posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+simiiion folds
+** Summary **
+ALIAKSANDR44 collected [ $0.03 ]
+
+
+#Game No : 547574119
+***** 888poker Hand History for Game 547574119 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:01:23
+Table Mataro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: medas1 ( $6.16 )
+Seat 4: zsolt118 ( $0.79 )
+medas1 posts small blind [$0.01]
+zsolt118 posts big blind [$0.02]
+** Dealing down cards **
+medas1 folds
+** Summary **
+zsolt118 did not show his hand
+zsolt118 collected [ $0.03 ]
+
+
+#Game No : 547574125
+***** 888poker Hand History for Game 547574125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:01:28
+Table Mataro 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: medas1 ( $6.15 )
+Seat 4: zsolt118 ( $0.80 )
+zsolt118 posts small blind [$0.01]
+medas1 posts big blind [$0.02]
+** Dealing down cards **
+zsolt118 folds
+** Summary **
+medas1 did not show his hand
+medas1 collected [ $0.03 ]
+
+
+#Game No : 547574129
+***** 888poker Hand History for Game 547574129 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:01:33
+Table Mataro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: medas1 ( $6.16 )
+Seat 4: zsolt118 ( $0.79 )
+medas1 posts small blind [$0.01]
+zsolt118 posts big blind [$0.02]
+** Dealing down cards **
+medas1 raises [$0.07]
+zsolt118 folds
+** Summary **
+medas1 did not show his hand
+medas1 collected [ $0.04 ]
+
+
+#Game No : 547574138
+***** 888poker Hand History for Game 547574138 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:01:40
+Table Mataro 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: medas1 ( $6.18 )
+Seat 4: zsolt118 ( $0.77 )
+zsolt118 posts small blind [$0.01]
+medas1 posts big blind [$0.02]
+** Dealing down cards **
+zsolt118 folds
+** Summary **
+medas1 did not show his hand
+medas1 collected [ $0.03 ]
+
+
+#Game No : 547574143
+***** 888poker Hand History for Game 547574143 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:01:45
+Table Mataro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: medas1 ( $6.19 )
+Seat 4: zsolt118 ( $0.76 )
+medas1 posts small blind [$0.01]
+zsolt118 posts big blind [$0.02]
+** Dealing down cards **
+medas1 folds
+** Summary **
+zsolt118 did not show his hand
+zsolt118 collected [ $0.03 ]
+
+
+#Game No : 547574151
+***** 888poker Hand History for Game 547574151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:01:52
+Table Mataro 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: medas1 ( $6.18 )
+Seat 4: zsolt118 ( $0.77 )
+zsolt118 posts small blind [$0.01]
+medas1 posts big blind [$0.02]
+** Dealing down cards **
+zsolt118 raises [$0.05]
+medas1 folds
+** Summary **
+zsolt118 did not show his hand
+zsolt118 collected [ $0.04 ]
+
+
+#Game No : 547574158
+***** 888poker Hand History for Game 547574158 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:02:01
+Table Mataro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: medas1 ( $6.16 )
+Seat 4: zsolt118 ( $0.79 )
+medas1 posts small blind [$0.01]
+zsolt118 posts big blind [$0.02]
+** Dealing down cards **
+medas1 folds
+** Summary **
+zsolt118 did not show his hand
+zsolt118 collected [ $0.03 ]
+
+
+#Game No : 547574160
+***** 888poker Hand History for Game 547574160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:02:05
+Table Mataro 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: medas1 ( $6.15 )
+Seat 4: zsolt118 ( $0.80 )
+zsolt118 posts small blind [$0.01]
+medas1 posts big blind [$0.02]
+** Dealing down cards **
+zsolt118 raises [$0.05]
+medas1 calls [$0.04]
+** Dealing flop ** [ Jd, 4d, 9d ]
+medas1 checks
+zsolt118 checks
+** Dealing turn ** [ 7s ]
+medas1 bets [$0.06]
+zsolt118 folds
+** Summary **
+medas1 collected [ $0.12 ]
+
+
+#Game No : 547574179
+***** 888poker Hand History for Game 547574179 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:02:23
+Table Mataro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: medas1 ( $6.21 )
+Seat 4: zsolt118 ( $0.74 )
+medas1 posts small blind [$0.01]
+zsolt118 posts big blind [$0.02]
+** Dealing down cards **
+medas1 raises [$0.03]
+zsolt118 calls [$0.02]
+** Dealing flop ** [ Qs, 2c, Ad ]
+zsolt118 checks
+medas1 checks
+** Dealing turn ** [ 8d ]
+zsolt118 checks
+medas1 checks
+** Dealing river ** [ 7s ]
+zsolt118 bets [$0.06]
+medas1 folds
+** Summary **
+zsolt118 collected [ $0.08 ]
+
+
+#Game No : 547574326
+***** 888poker Hand History for Game 547574326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:04:42
+Table Mataro 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: medas1 ( $5.92 )
+Seat 2: Dmitriy626 ( $2.26 )
+Dmitriy626 posts small blind [$0.01]
+medas1 posts big blind [$0.02]
+** Dealing down cards **
+Dmitriy626 calls [$0.01]
+medas1 checks
+** Dealing flop ** [ Td, 4d, 5d ]
+medas1 checks
+Dmitriy626 bets [$0.02]
+medas1 calls [$0.02]
+** Dealing turn ** [ 9s ]
+medas1 checks
+Dmitriy626 checks
+** Dealing river ** [ Ac ]
+medas1 checks
+Dmitriy626 bets [$0.02]
+medas1 folds
+** Summary **
+Dmitriy626 collected [ $0.08 ]
+
+
+#Game No : 547574397
+***** 888poker Hand History for Game 547574397 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:05:52
+Table Mataro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 2: Dmitriy626 ( $2.30 )
+Seat 6: gavlarr2 ( $2 )
+Dmitriy626 posts small blind [$0.01]
+** Dealing down cards **
+gavlarr2 folds
+** Summary **
+Dmitriy626 collected [ $0.01 ]
+
+
+#Game No : 547574411
+***** 888poker Hand History for Game 547574411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 03:06:03
+Table Mataro 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: medas1 ( $5.88 )
+Seat 2: Dmitriy626 ( $2.30 )
+Dmitriy626 posts small blind [$0.01]
+medas1 posts big blind [$0.02]
+** Dealing down cards **
+Dmitriy626 calls [$0.01]
+medas1 checks
+** Dealing flop ** [ 8h, 6h, Jc ]
+medas1 checks
+Dmitriy626 bets [$0.02]
+medas1 folds
+** Summary **
+Dmitriy626 collected [ $0.04 ]
+
+

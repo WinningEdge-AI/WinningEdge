@@ -1,0 +1,28 @@
+#Game No : 517659026
+***** 888poker Hand History for Game 517659026 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 00:47:30
+Table Ica 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2 )
+Seat 2: gothicprince ( $2 )
+avramia1 posts small blind [$0.01]
+gothicprince posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+gothicprince checks
+** Dealing flop ** [ 4h, 7c, 4c ]
+gothicprince checks
+avramia1 checks
+** Dealing turn ** [ 8d ]
+gothicprince checks
+avramia1 checks
+** Dealing river ** [ Ts ]
+gothicprince checks
+avramia1 checks
+** Summary **
+gothicprince shows [ 2d, 7d ]
+avramia1 mucks [ Qd, 6d ]
+gothicprince collected [ $0.04 ]
+
+

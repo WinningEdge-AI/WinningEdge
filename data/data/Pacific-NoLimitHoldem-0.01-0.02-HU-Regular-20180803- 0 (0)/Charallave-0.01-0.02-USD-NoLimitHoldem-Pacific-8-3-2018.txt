@@ -1,0 +1,52 @@
+#Game No : 505448727
+***** 888poker Hand History for Game 505448727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 08 2018 08:31:26
+Table Charallave 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: 1910hermes ( $0.68 )
+Seat 5: Varmint777 ( $0.98 )
+Varmint777 posts small blind [$0.01]
+1910hermes posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 raises [$0.03]
+1910hermes calls [$0.02]
+** Dealing flop ** [ 6c, 4c, 9h ]
+1910hermes checks
+Varmint777 checks
+** Dealing turn ** [ 2h ]
+1910hermes checks
+Varmint777 bets [$0.05]
+1910hermes folds
+** Summary **
+Varmint777 collected [ $0.08 ]
+
+
+#Game No : 505448747
+***** 888poker Hand History for Game 505448747 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 08 2018 08:31:50
+Table Charallave 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 1910hermes ( $0.64 )
+Seat 5: Varmint777 ( $1.02 )
+1910hermes posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+1910hermes calls [$0.01]
+Varmint777 checks
+** Dealing flop ** [ Kd, 6d, Ad ]
+Varmint777 checks
+1910hermes checks
+** Dealing turn ** [ Qh ]
+Varmint777 checks
+1910hermes checks
+** Dealing river ** [ As ]
+Varmint777 bets [$0.04]
+1910hermes calls [$0.04]
+** Summary **
+Varmint777 shows [ Jh, 5d ]
+1910hermes shows [ 6s, 4c ]
+1910hermes collected [ $0.12 ]
+
+

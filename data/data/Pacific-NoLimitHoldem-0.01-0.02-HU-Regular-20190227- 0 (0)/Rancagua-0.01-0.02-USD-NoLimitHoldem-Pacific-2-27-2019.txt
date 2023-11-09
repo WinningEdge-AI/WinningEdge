@@ -1,0 +1,416 @@
+#Game No : 1251128025
+***** 888poker Hand History for Game 1251128025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 08:56:44
+Table Rancagua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: EduardVasila ( $1.08 )
+Seat 2: jaycho90 ( $0.84 )
+EduardVasila posts small blind [$0.01]
+jaycho90 posts big blind [$0.02]
+** Dealing down cards **
+EduardVasila raises [$0.03]
+jaycho90 calls [$0.02]
+** Dealing flop ** [ 9s, 5c, Qc ]
+EduardVasila bets [$0.04]
+jaycho90 calls [$0.04]
+** Dealing turn ** [ 6d ]
+EduardVasila bets [$0.08]
+jaycho90 calls [$0.08]
+** Dealing river ** [ 7s ]
+EduardVasila bets [$0.32]
+jaycho90 folds
+** Summary **
+EduardVasila did not show his hand
+EduardVasila collected [ $0.30 ]
+
+
+#Game No : 1251128247
+***** 888poker Hand History for Game 1251128247 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 08:57:43
+Table Rancagua 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EduardVasila ( $1.22 )
+Seat 2: jaycho90 ( $0.68 )
+EduardVasila posts small blind [$0.01]
+jaycho90 posts big blind [$0.02]
+** Dealing down cards **
+EduardVasila raises [$0.03]
+jaycho90 calls [$0.02]
+** Dealing flop ** [ As, 2c, Qh ]
+jaycho90 bets [$0.05]
+EduardVasila calls [$0.05]
+** Dealing turn ** [ Td ]
+jaycho90 checks
+EduardVasila checks
+** Dealing river ** [ 9h ]
+jaycho90 bets [$0.59]
+EduardVasila folds
+** Summary **
+jaycho90 collected [ $0.17 ]
+
+
+#Game No : 1251128362
+***** 888poker Hand History for Game 1251128362 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 08:58:15
+Table Rancagua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: EduardVasila ( $1.13 )
+Seat 2: jaycho90 ( $0.76 )
+jaycho90 posts small blind [$0.01]
+EduardVasila posts big blind [$0.02]
+** Dealing down cards **
+jaycho90 raises [$0.05]
+EduardVasila folds
+** Summary **
+jaycho90 collected [ $0.04 ]
+
+
+#Game No : 1251128950
+***** 888poker Hand History for Game 1251128950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 09:00:38
+Table Rancagua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bacchant ( $1.04 )
+Seat 4: DasPhantom ( $1 )
+Bacchant posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+Bacchant raises [$0.03]
+DasPhantom folds
+** Summary **
+Bacchant collected [ $0.04 ]
+
+
+#Game No : 1251129168
+***** 888poker Hand History for Game 1251129168 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 09:01:34
+Table Rancagua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DasPhantom ( $1 )
+Seat 6: mtkcs ( $1 )
+DasPhantom posts small blind [$0.01]
+mtkcs posts big blind [$0.02]
+** Dealing down cards **
+DasPhantom raises [$0.05]
+mtkcs calls [$0.04]
+** Dealing flop ** [ Ad, 4d, Th ]
+mtkcs checks
+DasPhantom bets [$0.06]
+mtkcs raises [$0.12]
+DasPhantom calls [$0.06]
+** Dealing turn ** [ 6c ]
+mtkcs checks
+DasPhantom bets [$0.18]
+mtkcs raises [$0.36]
+DasPhantom raises [$0.64]
+mtkcs calls [$0.46]
+** Dealing river ** [ 7s ]
+** Summary **
+DasPhantom shows [ Ac, 6d ]
+mtkcs shows [ 5s, 4h ]
+DasPhantom collected [ $1.88 ]
+
+
+#Game No : 1251129326
+***** 888poker Hand History for Game 1251129326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 09:02:14
+Table Rancagua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bacchant ( $1.06 )
+Seat 4: DasPhantom ( $1.88 )
+DasPhantom posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+DasPhantom folds
+** Summary **
+Bacchant collected [ $0.03 ]
+
+
+#Game No : 1251129474
+***** 888poker Hand History for Game 1251129474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 09:02:51
+Table Rancagua 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mc121vienna ( $1.50 )
+Seat 2: Bacchant ( $1.03 )
+mc121vienna posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+mc121vienna raises [$0.03]
+Bacchant calls [$0.02]
+** Dealing flop ** [ 3h, Jh, 9c ]
+Bacchant checks
+mc121vienna bets [$0.02]
+Bacchant calls [$0.02]
+** Dealing turn ** [ 8h ]
+Bacchant checks
+mc121vienna bets [$0.02]
+Bacchant calls [$0.02]
+** Dealing river ** [ Qd ]
+Bacchant checks
+mc121vienna checks
+** Summary **
+Bacchant shows [ Qh, 9d ]
+mc121vienna mucks [ 7d, Ac ]
+Bacchant collected [ $0.15 ]
+
+
+#Game No : 1251129571
+***** 888poker Hand History for Game 1251129571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 09:03:16
+Table Rancagua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: mc121vienna ( $1.42 )
+Seat 2: Bacchant ( $1.10 )
+Bacchant posts small blind [$0.01]
+mc121vienna posts big blind [$0.02]
+** Dealing down cards **
+Bacchant raises [$0.03]
+mc121vienna calls [$0.02]
+** Dealing flop ** [ 4s, Jd, 8d ]
+mc121vienna checks
+Bacchant bets [$0.04]
+mc121vienna calls [$0.04]
+** Dealing turn ** [ 7h ]
+mc121vienna checks
+Bacchant checks
+** Dealing river ** [ 2s ]
+mc121vienna bets [$0.16]
+Bacchant folds
+** Summary **
+mc121vienna collected [ $0.15 ]
+
+
+#Game No : 1251153380
+***** 888poker Hand History for Game 1251153380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 10:45:16
+Table Rancagua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bacchant ( $2.64 )
+Seat 9: Stahlwolle65 ( $0.99 )
+Bacchant posts small blind [$0.01]
+Stahlwolle65 posts big blind [$0.02]
+** Dealing down cards **
+Bacchant folds
+** Summary **
+Stahlwolle65 did not show his hand
+Stahlwolle65 collected [ $0.03 ]
+
+
+#Game No : 1251153420
+***** 888poker Hand History for Game 1251153420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 10:45:24
+Table Rancagua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Bacchant ( $2.63 )
+Seat 9: Stahlwolle65 ( $1 )
+Stahlwolle65 posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+Stahlwolle65 folds
+** Summary **
+Bacchant did not show his hand
+Bacchant collected [ $0.03 ]
+
+
+#Game No : 1251153453
+***** 888poker Hand History for Game 1251153453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 10:45:31
+Table Rancagua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bacchant ( $2.64 )
+Seat 9: Stahlwolle65 ( $0.99 )
+Bacchant posts small blind [$0.01]
+Stahlwolle65 posts big blind [$0.02]
+** Dealing down cards **
+Bacchant raises [$0.03]
+Stahlwolle65 raises [$0.10]
+Bacchant folds
+** Summary **
+Stahlwolle65 collected [ $0.08 ]
+
+
+#Game No : 1251158486
+***** 888poker Hand History for Game 1251158486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 11:03:33
+Table Rancagua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Sarahsbear ( $2.52 )
+Seat 9: Stahlwolle65 ( $1.62 )
+Stahlwolle65 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Stahlwolle65 raises [$0.03]
+Sarahsbear folds
+** Summary **
+Stahlwolle65 did not show his hand
+Stahlwolle65 collected [ $0.04 ]
+
+
+#Game No : 1251158535
+***** 888poker Hand History for Game 1251158535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 11:03:42
+Table Rancagua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Sarahsbear ( $2.50 )
+Seat 9: Stahlwolle65 ( $1.64 )
+Sarahsbear posts small blind [$0.01]
+Stahlwolle65 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear folds
+** Summary **
+Stahlwolle65 collected [ $0.03 ]
+
+
+#Game No : 1251158558
+***** 888poker Hand History for Game 1251158558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 11:03:47
+Table Rancagua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Sarahsbear ( $2.49 )
+Seat 9: Stahlwolle65 ( $1.65 )
+Stahlwolle65 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Stahlwolle65 raises [$0.03]
+Sarahsbear raises [$0.10]
+Stahlwolle65 folds
+** Summary **
+Sarahsbear collected [ $0.08 ]
+
+
+#Game No : 1251161111
+***** 888poker Hand History for Game 1251161111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 11:12:35
+Table Rancagua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: isay1983 ( $1.59 )
+Seat 9: Stahlwolle65 ( $1.77 )
+isay1983 posts small blind [$0.01]
+Stahlwolle65 posts big blind [$0.02]
+** Dealing down cards **
+isay1983 raises [$0.03]
+Stahlwolle65 calls [$0.02]
+** Dealing flop ** [ Kd, 8d, 3d ]
+Stahlwolle65 checks
+isay1983 bets [$0.06]
+Stahlwolle65 calls [$0.06]
+** Dealing turn ** [ Jd ]
+Stahlwolle65 checks
+isay1983 bets [$0.12]
+Stahlwolle65 folds
+** Summary **
+isay1983 collected [ $0.19 ]
+
+
+#Game No : 1251210945
+***** 888poker Hand History for Game 1251210945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 14:24:51
+Table Rancagua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: kirrd ( $0.89 )
+Seat 7: RVlad16 ( $1 )
+RVlad16 posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+RVlad16 raises [$0.03]
+kirrd folds
+** Summary **
+RVlad16 did not show his hand
+RVlad16 collected [ $0.04 ]
+
+
+#Game No : 1251213232
+***** 888poker Hand History for Game 1251213232 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 14:35:13
+Table Rancagua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Jackson2000 ( $0.80 )
+Seat 7: RVlad16 ( $1.56 )
+Jackson2000 posts small blind [$0.01]
+RVlad16 posts big blind [$0.02]
+** Dealing down cards **
+Jackson2000 calls [$0.01]
+RVlad16 checks
+** Dealing flop ** [ 7s, 8c, Ks ]
+RVlad16 bets [$0.02]
+Jackson2000 calls [$0.02]
+** Dealing turn ** [ 7h ]
+RVlad16 checks
+Jackson2000 checks
+** Dealing river ** [ 9c ]
+RVlad16 checks
+Jackson2000 bets [$0.04]
+RVlad16 folds
+** Summary **
+Jackson2000 collected [ $0.08 ]
+
+
+#Game No : 1251214229
+***** 888poker Hand History for Game 1251214229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 14:39:33
+Table Rancagua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.88 )
+Seat 4: Jackson2000 ( $1.12 )
+goodier97 posts small blind [$0.01]
+Jackson2000 posts big blind [$0.02]
+** Dealing down cards **
+goodier97 calls [$0.01]
+Jackson2000 checks
+** Dealing flop ** [ 2c, Qd, Ah ]
+Jackson2000 checks
+goodier97 checks
+** Dealing turn ** [ Ts ]
+Jackson2000 checks
+goodier97 checks
+** Dealing river ** [ Qs ]
+Jackson2000 checks
+goodier97 bets [$0.06]
+Jackson2000 folds
+** Summary **
+goodier97 collected [ $0.04 ]
+
+
+#Game No : 1251214327
+***** 888poker Hand History for Game 1251214327 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 14:40:01
+Table Rancagua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: goodier97 ( $1.90 )
+Seat 4: Jackson2000 ( $1.10 )
+Jackson2000 posts small blind [$0.01]
+goodier97 posts big blind [$0.02]
+** Dealing down cards **
+Jackson2000 calls [$0.01]
+goodier97 checks
+** Dealing flop ** [ Tc, 2h, Ts ]
+goodier97 checks
+Jackson2000 checks
+** Dealing turn ** [ 8h ]
+goodier97 checks
+Jackson2000 bets [$0.04]
+goodier97 folds
+** Summary **
+Jackson2000 collected [ $0.04 ]
+
+

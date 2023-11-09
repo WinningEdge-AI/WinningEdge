@@ -1,0 +1,55 @@
+#Game No : 468499312
+***** 888poker Hand History for Game 468499312 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 20:01:04
+Table Cuernavaca 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: chipbelle ( $2.02 )
+Seat 9: Fatbull23 ( $4.41 )
+chipbelle posts small blind [$0.01]
+Fatbull23 posts big blind [$0.02]
+** Dealing down cards **
+chipbelle calls [$0.01]
+Fatbull23 checks
+** Dealing flop ** [ Tc, Ks, Ts ]
+Fatbull23 checks
+chipbelle checks
+** Dealing turn ** [ 4h ]
+Fatbull23 checks
+chipbelle checks
+** Dealing river ** [ 3c ]
+Fatbull23 checks
+chipbelle bets [$0.04]
+Fatbull23 folds
+** Summary **
+chipbelle collected [ $0.04 ]
+
+
+#Game No : 468499325
+***** 888poker Hand History for Game 468499325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 20:01:38
+Table Cuernavaca 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: chipbelle ( $2.04 )
+Seat 9: Fatbull23 ( $4.39 )
+Fatbull23 posts small blind [$0.01]
+chipbelle posts big blind [$0.02]
+** Dealing down cards **
+Fatbull23 raises [$0.05]
+chipbelle calls [$0.04]
+** Dealing flop ** [ Jc, As, Qc ]
+chipbelle checks
+Fatbull23 checks
+** Dealing turn ** [ 8s ]
+chipbelle bets [$0.06]
+Fatbull23 calls [$0.06]
+** Dealing river ** [ Qh ]
+chipbelle checks
+Fatbull23 checks
+** Summary **
+chipbelle shows [ Ac, 9c ]
+Fatbull23 mucks [ 7d, Tc ]
+chipbelle collected [ $0.23 ]
+
+

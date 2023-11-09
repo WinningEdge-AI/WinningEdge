@@ -1,0 +1,100 @@
+#Game No : 512080007
+***** 888poker Hand History for Game 512080007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 01 2019 19:31:16
+Table Ankara 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: kezsmithy ( $4.85 )
+Seat 6: FarbrorBurke ( $5.47 )
+kezsmithy posts small blind [$0.01]
+FarbrorBurke posts big blind [$0.02]
+** Dealing down cards **
+kezsmithy calls [$0.01]
+FarbrorBurke checks
+** Dealing flop ** [ Td, 2d, 2s ]
+FarbrorBurke checks
+kezsmithy checks
+** Dealing turn ** [ 4s ]
+FarbrorBurke bets [$0.02]
+kezsmithy folds
+** Summary **
+FarbrorBurke collected [ $0.04 ]
+
+
+#Game No : 512080020
+***** 888poker Hand History for Game 512080020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 01 2019 19:31:42
+Table Ankara 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: kezsmithy ( $4.83 )
+Seat 6: FarbrorBurke ( $5.49 )
+FarbrorBurke posts small blind [$0.01]
+kezsmithy posts big blind [$0.02]
+** Dealing down cards **
+FarbrorBurke calls [$0.01]
+kezsmithy checks
+** Dealing flop ** [ 9h, 4s, Kc ]
+kezsmithy checks
+FarbrorBurke checks
+** Dealing turn ** [ 5c ]
+kezsmithy checks
+FarbrorBurke bets [$0.02]
+kezsmithy calls [$0.02]
+** Dealing river ** [ 9s ]
+kezsmithy checks
+FarbrorBurke checks
+** Summary **
+kezsmithy shows [ Ad, 7d ]
+FarbrorBurke shows [ 8c, 5d ]
+FarbrorBurke collected [ $0.08 ]
+
+
+#Game No : 512080218
+***** 888poker Hand History for Game 512080218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 01 2019 19:39:55
+Table Ankara 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: FarbrorBurke ( $5.93 )
+Seat 7: ZIOBEST1 ( $1.85 )
+ZIOBEST1 posts small blind [$0.01]
+FarbrorBurke posts big blind [$0.02]
+** Dealing down cards **
+ZIOBEST1 folds
+** Summary **
+FarbrorBurke collected [ $0.03 ]
+
+
+#Game No : 512080223
+***** 888poker Hand History for Game 512080223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 01 2019 19:40:04
+Table Ankara 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: FarbrorBurke ( $5.94 )
+Seat 7: ZIOBEST1 ( $1.84 )
+FarbrorBurke posts small blind [$0.01]
+** Dealing down cards **
+ZIOBEST1 folds
+** Summary **
+FarbrorBurke collected [ $0.01 ]
+
+
+#Game No : 512080359
+***** 888poker Hand History for Game 512080359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 01 2019 19:45:53
+Table Ankara 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: pkrdonky ( $0.87 )
+Seat 9: Japlink ( $0.84 )
+Japlink posts small blind [$0.01]
+pkrdonky posts big blind [$0.02]
+** Dealing down cards **
+Japlink raises [$0.03]
+pkrdonky folds
+** Summary **
+Japlink collected [ $0.04 ]
+
+

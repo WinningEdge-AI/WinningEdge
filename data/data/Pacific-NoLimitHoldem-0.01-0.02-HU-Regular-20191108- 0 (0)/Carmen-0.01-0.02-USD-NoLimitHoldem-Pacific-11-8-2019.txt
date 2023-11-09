@@ -1,0 +1,44 @@
+#Game No : 1307827479
+***** 888poker Hand History for Game 1307827479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 03:46:36
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: densdb ( $0.34 )
+Seat 6: outender ( $4.24 )
+outender posts small blind [$0.01]
+densdb posts big blind [$0.02]
+** Dealing down cards **
+outender raises [$0.07]
+densdb raises [$0.12]
+outender folds
+** Summary **
+densdb did not show his hand
+densdb collected [ $0.16 ]
+
+
+#Game No : 1307827530
+***** 888poker Hand History for Game 1307827530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 03:46:55
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: densdb ( $0.42 )
+Seat 6: outender ( $4.16 )
+densdb posts small blind [$0.01]
+outender posts big blind [$0.02]
+** Dealing down cards **
+densdb calls [$0.01]
+outender checks
+** Dealing flop ** [ Jh, Js, 8h ]
+outender bets [$0.02]
+densdb raises [$0.40]
+outender calls [$0.38]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 8d ]
+** Summary **
+densdb shows [ Ah, Kd ]
+outender shows [ 6d, Jc ]
+outender collected [ $0.79 ]
+
+

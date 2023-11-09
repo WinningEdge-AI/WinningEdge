@@ -1,0 +1,89 @@
+#Game No : 509283858
+***** 888poker Hand History for Game 509283858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 16:28:58
+Table Thornton 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: joaotsm ( $2.34 )
+Seat 10: thebattoefc ( $1.99 )
+joaotsm posts small blind [$0.01]
+thebattoefc posts big blind [$0.02]
+** Dealing down cards **
+joaotsm calls [$0.01]
+thebattoefc raises [$0.04]
+joaotsm calls [$0.04]
+** Dealing flop ** [ 4d, 4s, Ts ]
+thebattoefc checks
+joaotsm bets [$0.08]
+thebattoefc calls [$0.08]
+** Dealing turn ** [ 2d ]
+thebattoefc checks
+joaotsm bets [$0.40]
+thebattoefc calls [$0.40]
+** Dealing river ** [ 5d ]
+thebattoefc bets [$1.45]
+joaotsm calls [$1.45]
+** Summary **
+joaotsm shows [ Qd, Th ]
+thebattoefc shows [ 6d, 8d ]
+thebattoefc collected [ $3.74 ]
+
+
+#Game No : 509283878
+***** 888poker Hand History for Game 509283878 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 16:29:52
+Table Thornton 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: joaotsm ( $0.35 )
+Seat 10: thebattoefc ( $3.74 )
+thebattoefc posts small blind [$0.01]
+joaotsm posts big blind [$0.02]
+** Dealing down cards **
+thebattoefc raises [$0.03]
+joaotsm folds
+** Summary **
+thebattoefc collected [ $0.04 ]
+
+
+#Game No : 509283886
+***** 888poker Hand History for Game 509283886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 16:30:29
+Table Thornton 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: joaotsm ( $0.33 )
+Seat 10: thebattoefc ( $3.76 )
+joaotsm posts small blind [$0.01]
+thebattoefc posts big blind [$0.02]
+** Dealing down cards **
+joaotsm folds
+** Summary **
+thebattoefc collected [ $0.03 ]
+
+
+#Game No : 509283888
+***** 888poker Hand History for Game 509283888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 16:30:35
+Table Thornton 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: joaotsm ( $0.32 )
+Seat 10: thebattoefc ( $3.77 )
+thebattoefc posts small blind [$0.01]
+joaotsm posts big blind [$0.02]
+** Dealing down cards **
+thebattoefc raises [$0.11]
+joaotsm raises [$0.20]
+thebattoefc calls [$0.10]
+** Dealing flop ** [ Ts, 6c, 7c ]
+joaotsm bets [$0.10]
+thebattoefc calls [$0.10]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ 4h ]
+** Summary **
+joaotsm shows [ Jh, 9c ]
+thebattoefc shows [ Js, Kc ]
+thebattoefc collected [ $0.60 ]
+
+

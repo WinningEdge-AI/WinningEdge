@@ -1,0 +1,359 @@
+#Game No : 503338343
+***** 888poker Hand History for Game 503338343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 13:34:45
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: MikeClea ( $0.98 )
+Seat 6: lories18 ( $1.02 )
+MikeClea posts small blind [$0.01]
+lories18 posts big blind [$0.02]
+** Dealing down cards **
+MikeClea calls [$0.01]
+lories18 checks
+** Dealing flop ** [ 3d, 9h, 7s ]
+lories18 bets [$0.02]
+MikeClea calls [$0.02]
+** Dealing turn ** [ Jd ]
+lories18 bets [$0.02]
+MikeClea raises [$0.04]
+lories18 calls [$0.02]
+** Dealing river ** [ Jh ]
+lories18 checks
+MikeClea bets [$0.06]
+lories18 calls [$0.06]
+** Summary **
+MikeClea shows [ Tc, Jc ]
+lories18 mucks [ Qc, 7d ]
+MikeClea collected [ $0.27 ]
+
+
+#Game No : 503338368
+***** 888poker Hand History for Game 503338368 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 13:35:19
+Table Burgas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: MikeClea ( $1.11 )
+Seat 6: lories18 ( $0.88 )
+lories18 posts small blind [$0.01]
+MikeClea posts big blind [$0.02]
+** Dealing down cards **
+lories18 raises [$0.03]
+MikeClea calls [$0.02]
+** Dealing flop ** [ Qd, 3d, 4c ]
+MikeClea checks
+lories18 checks
+** Dealing turn ** [ 5h ]
+MikeClea checks
+lories18 checks
+** Dealing river ** [ Kd ]
+MikeClea checks
+lories18 checks
+** Summary **
+MikeClea shows [ 3s, As ]
+lories18 mucks [ Th, Ac ]
+MikeClea collected [ $0.08 ]
+
+
+#Game No : 503344039
+***** 888poker Hand History for Game 503344039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:05:05
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.70 )
+Seat 7: hejomocr ( $1.55 )
+Indra111 posts small blind [$0.01]
+hejomocr posts big blind [$0.02]
+** Dealing down cards **
+Indra111 calls [$0.01]
+hejomocr checks
+** Dealing flop ** [ 5h, Jd, 6c ]
+hejomocr checks
+Indra111 checks
+** Dealing turn ** [ Tc ]
+hejomocr checks
+Indra111 checks
+** Dealing river ** [ 8s ]
+hejomocr checks
+Indra111 checks
+** Summary **
+hejomocr shows [ 2h, 8h ]
+Indra111 shows [ Qs, 8c ]
+Indra111 collected [ $0.04 ]
+
+
+#Game No : 503344057
+***** 888poker Hand History for Game 503344057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:05:53
+Table Burgas 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.72 )
+Seat 7: hejomocr ( $1.53 )
+hejomocr posts small blind [$0.01]
+Indra111 posts big blind [$0.02]
+** Dealing down cards **
+hejomocr folds
+** Summary **
+Indra111 did not show his hand
+Indra111 collected [ $0.03 ]
+
+
+#Game No : 503344131
+***** 888poker Hand History for Game 503344131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:08:20
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.73 )
+Seat 9: Mskelts90 ( $1.01 )
+Indra111 posts small blind [$0.01]
+Mskelts90 posts big blind [$0.02]
+** Dealing down cards **
+Indra111 folds
+** Summary **
+Mskelts90 collected [ $0.03 ]
+
+
+#Game No : 503344132
+***** 888poker Hand History for Game 503344132 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:08:26
+Table Burgas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.72 )
+Seat 9: Mskelts90 ( $1.02 )
+Mskelts90 posts small blind [$0.01]
+Indra111 posts big blind [$0.02]
+** Dealing down cards **
+Mskelts90 raises [$0.03]
+Indra111 folds
+** Summary **
+Mskelts90 collected [ $0.04 ]
+
+
+#Game No : 503344135
+***** 888poker Hand History for Game 503344135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:08:33
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.70 )
+Seat 9: Mskelts90 ( $1.04 )
+Indra111 posts small blind [$0.01]
+Mskelts90 posts big blind [$0.02]
+** Dealing down cards **
+Indra111 calls [$0.01]
+Mskelts90 raises [$0.04]
+Indra111 calls [$0.04]
+** Dealing flop ** [ Td, 3c, Qd ]
+Mskelts90 bets [$0.02]
+Indra111 folds
+** Summary **
+Mskelts90 collected [ $0.12 ]
+
+
+#Game No : 503344245
+***** 888poker Hand History for Game 503344245 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:12:23
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.56 )
+Seat 4: Falsterbo ( $2 )
+Indra111 posts small blind [$0.01]
+Falsterbo posts big blind [$0.02]
+** Dealing down cards **
+Indra111 calls [$0.01]
+Falsterbo raises [$0.04]
+Indra111 folds
+** Summary **
+Falsterbo collected [ $0.04 ]
+
+
+#Game No : 503344252
+***** 888poker Hand History for Game 503344252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:12:37
+Table Burgas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.54 )
+Seat 4: Falsterbo ( $2.02 )
+Falsterbo posts small blind [$0.01]
+Indra111 posts big blind [$0.02]
+** Dealing down cards **
+Falsterbo raises [$0.03]
+Indra111 folds
+** Summary **
+Falsterbo collected [ $0.04 ]
+
+
+#Game No : 503344258
+***** 888poker Hand History for Game 503344258 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:12:45
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.52 )
+Seat 4: Falsterbo ( $2.04 )
+Indra111 posts small blind [$0.01]
+Falsterbo posts big blind [$0.02]
+** Dealing down cards **
+Indra111 calls [$0.01]
+Falsterbo checks
+** Dealing flop ** [ Kd, 5d, 4c ]
+Falsterbo bets [$0.02]
+Indra111 folds
+** Summary **
+Falsterbo collected [ $0.04 ]
+
+
+#Game No : 503344269
+***** 888poker Hand History for Game 503344269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:13:12
+Table Burgas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.50 )
+Seat 4: Falsterbo ( $2.06 )
+Falsterbo posts small blind [$0.01]
+Indra111 posts big blind [$0.02]
+** Dealing down cards **
+Falsterbo raises [$0.03]
+Indra111 calls [$0.02]
+** Dealing flop ** [ 8c, 3s, 2d ]
+Indra111 checks
+Falsterbo bets [$0.02]
+Indra111 calls [$0.02]
+** Dealing turn ** [ 2c ]
+Indra111 checks
+Falsterbo checks
+** Dealing river ** [ 7s ]
+Indra111 checks
+Falsterbo checks
+** Summary **
+Indra111 shows [ 9d, Ah ]
+Falsterbo shows [ Qc, 8h ]
+Falsterbo collected [ $0.12 ]
+
+
+#Game No : 503344290
+***** 888poker Hand History for Game 503344290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:14:09
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.44 )
+Seat 4: Falsterbo ( $2.12 )
+Indra111 posts small blind [$0.01]
+Falsterbo posts big blind [$0.02]
+** Dealing down cards **
+Indra111 calls [$0.01]
+Falsterbo raises [$0.04]
+Indra111 folds
+** Summary **
+Falsterbo collected [ $0.04 ]
+
+
+#Game No : 503344296
+***** 888poker Hand History for Game 503344296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:14:20
+Table Burgas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.42 )
+Seat 4: Falsterbo ( $2.14 )
+Falsterbo posts small blind [$0.01]
+Indra111 posts big blind [$0.02]
+** Dealing down cards **
+Falsterbo calls [$0.01]
+Indra111 checks
+** Dealing flop ** [ Tc, 2c, 5c ]
+Indra111 checks
+Falsterbo bets [$0.02]
+Indra111 folds
+** Summary **
+Falsterbo collected [ $0.04 ]
+
+
+#Game No : 503344354
+***** 888poker Hand History for Game 503344354 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:16:49
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.43 )
+Seat 7: hejomocr ( $1.52 )
+Indra111 posts small blind [$0.01]
+hejomocr posts big blind [$0.02]
+** Dealing down cards **
+Indra111 folds
+** Summary **
+hejomocr collected [ $0.03 ]
+
+
+#Game No : 503344359
+***** 888poker Hand History for Game 503344359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:17:04
+Table Burgas 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.42 )
+Seat 7: hejomocr ( $1.53 )
+hejomocr posts small blind [$0.01]
+Indra111 posts big blind [$0.02]
+** Dealing down cards **
+hejomocr folds
+** Summary **
+Indra111 collected [ $0.03 ]
+
+
+#Game No : 503344366
+***** 888poker Hand History for Game 503344366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:17:11
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.43 )
+Seat 7: hejomocr ( $1.52 )
+Indra111 posts small blind [$0.01]
+hejomocr posts big blind [$0.02]
+** Dealing down cards **
+Indra111 calls [$0.01]
+hejomocr raises [$0.06]
+Indra111 folds
+** Summary **
+hejomocr collected [ $0.04 ]
+
+
+#Game No : 503344376
+***** 888poker Hand History for Game 503344376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:17:46
+Table Burgas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Indra111 ( $1.40 )
+Seat 7: hejomocr ( $1.55 )
+Indra111 posts small blind [$0.01]
+hejomocr posts big blind [$0.02]
+** Dealing down cards **
+Indra111 calls [$0.01]
+hejomocr raises [$0.06]
+Indra111 calls [$0.06]
+** Dealing flop ** [ Td, 5h, 7d ]
+hejomocr checks
+Indra111 checks
+** Dealing turn ** [ Tc ]
+hejomocr checks
+Indra111 checks
+** Dealing river ** [ 3h ]
+hejomocr checks
+Indra111 checks
+** Summary **
+hejomocr shows [ Ac, 8s ]
+Indra111 shows [ Ad, 9c ]
+Indra111 collected [ $0.15 ]
+
+

@@ -1,0 +1,125 @@
+#Game No : 621567953
+***** 888poker Hand History for Game 621567953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2019 18:09:54
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: vast0001 ( $0.80 )
+Seat 7: SteadyStakML ( $2 )
+vast0001 posts small blind [$0.01]
+** Dealing down cards **
+SteadyStakML folds
+** Summary **
+vast0001 did not show his hand
+vast0001 collected [ $0.01 ]
+
+
+#Game No : 621567968
+***** 888poker Hand History for Game 621567968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2019 18:10:38
+Table Tolyatti 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vast0001 ( $0.80 )
+Seat 9: alaquo1 ( $0.80 )
+vast0001 posts small blind [$0.01]
+alaquo1 posts big blind [$0.02]
+** Dealing down cards **
+vast0001 calls [$0.01]
+alaquo1 checks
+** Dealing flop ** [ 3h, 5s, Ad ]
+alaquo1 bets [$0.02]
+vast0001 calls [$0.02]
+** Dealing turn ** [ Qc ]
+alaquo1 bets [$0.02]
+vast0001 folds
+** Summary **
+alaquo1 collected [ $0.08 ]
+
+
+#Game No : 621567979
+***** 888poker Hand History for Game 621567979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2019 18:11:14
+Table Tolyatti 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: vast0001 ( $0.76 )
+Seat 9: alaquo1 ( $0.84 )
+alaquo1 posts small blind [$0.01]
+vast0001 posts big blind [$0.02]
+** Dealing down cards **
+alaquo1 calls [$0.01]
+vast0001 raises [$0.04]
+alaquo1 calls [$0.04]
+** Dealing flop ** [ 7d, 2h, 6s ]
+vast0001 bets [$0.06]
+alaquo1 calls [$0.06]
+** Dealing turn ** [ 4c ]
+vast0001 bets [$0.12]
+alaquo1 calls [$0.12]
+** Dealing river ** [ 6c ]
+vast0001 checks
+alaquo1 checks
+** Summary **
+vast0001 shows [ Ks, 9c ]
+alaquo1 mucks [ 8d, Td ]
+vast0001 collected [ $0.45 ]
+
+
+#Game No : 621567998
+***** 888poker Hand History for Game 621567998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2019 18:11:59
+Table Tolyatti 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vast0001 ( $0.97 )
+Seat 9: alaquo1 ( $0.60 )
+vast0001 posts small blind [$0.01]
+alaquo1 posts big blind [$0.02]
+** Dealing down cards **
+vast0001 raises [$0.03]
+alaquo1 calls [$0.02]
+** Dealing flop ** [ As, Qs, Qd ]
+alaquo1 bets [$0.02]
+vast0001 calls [$0.02]
+** Dealing turn ** [ 8d ]
+alaquo1 bets [$0.02]
+vast0001 calls [$0.02]
+** Dealing river ** [ Kh ]
+alaquo1 checks
+vast0001 checks
+** Summary **
+alaquo1 shows [ 6d, 6s ]
+vast0001 shows [ 9d, 9s ]
+vast0001 collected [ $0.15 ]
+
+
+#Game No : 621569014
+***** 888poker Hand History for Game 621569014 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2019 19:00:16
+Table Tolyatti 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vladikiller ( $2.03 )
+Seat 9: roucin ( $1.25 )
+vladikiller posts small blind [$0.01]
+roucin posts big blind [$0.02]
+** Dealing down cards **
+vladikiller raises [$0.05]
+roucin calls [$0.04]
+** Dealing flop ** [ 3d, As, 3h ]
+roucin checks
+vladikiller bets [$0.06]
+roucin calls [$0.06]
+** Dealing turn ** [ Th ]
+roucin checks
+vladikiller checks
+** Dealing river ** [ 4h ]
+roucin checks
+vladikiller checks
+** Summary **
+roucin shows [ 5h, 6d ]
+vladikiller shows [ Kc, Jh ]
+vladikiller collected [ $0.23 ]
+
+

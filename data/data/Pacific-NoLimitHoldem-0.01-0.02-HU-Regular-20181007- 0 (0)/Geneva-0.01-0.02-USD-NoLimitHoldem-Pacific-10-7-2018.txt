@@ -1,0 +1,508 @@
+#Game No : 503443848
+***** 888poker Hand History for Game 503443848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 23:25:53
+Table Geneva 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Slenderboy1 ( $0.96 )
+Seat 4: Messy134 ( $0.84 )
+Slenderboy1 posts small blind [$0.01]
+Messy134 posts big blind [$0.02]
+** Dealing down cards **
+Slenderboy1 raises [$0.03]
+Messy134 raises [$0.06]
+Slenderboy1 calls [$0.04]
+** Dealing flop ** [ 8c, 9h, 4c ]
+Messy134 checks
+Slenderboy1 bets [$0.08]
+Messy134 raises [$0.22]
+Slenderboy1 calls [$0.14]
+** Dealing turn ** [ 4h ]
+Messy134 bets [$0.54]
+Slenderboy1 calls [$0.54]
+** Dealing river ** [ 7s ]
+** Summary **
+Slenderboy1 shows [ Jc, Js ]
+Messy134 shows [ 9d, As ]
+Slenderboy1 collected [ $1.58 ]
+
+
+#Game No : 503443864
+***** 888poker Hand History for Game 503443864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 23:26:30
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Slenderboy1 ( $1.70 )
+Seat 4: Messy134 ( $0.80 )
+Messy134 posts small blind [$0.01]
+Slenderboy1 posts big blind [$0.02]
+** Dealing down cards **
+Messy134 raises [$0.03]
+Slenderboy1 folds
+** Summary **
+Messy134 collected [ $0.04 ]
+
+
+#Game No : 503445737
+***** 888poker Hand History for Game 503445737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 00:57:24
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Leonidos65 ( $0.72 )
+Seat 6: Remc010 ( $1.08 )
+Remc010 posts small blind [$0.01]
+Leonidos65 posts big blind [$0.02]
+** Dealing down cards **
+Remc010 calls [$0.01]
+Leonidos65 checks
+** Dealing flop ** [ Jd, Jc, 8s ]
+Leonidos65 checks
+Remc010 checks
+** Dealing turn ** [ 2c ]
+Leonidos65 bets [$0.04]
+Remc010 folds
+** Summary **
+Leonidos65 did not show his hand
+Leonidos65 collected [ $0.04 ]
+
+
+#Game No : 503445743
+***** 888poker Hand History for Game 503445743 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 00:57:39
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Leonidos65 ( $0.74 )
+Seat 6: Remc010 ( $1.06 )
+Leonidos65 posts small blind [$0.01]
+Remc010 posts big blind [$0.02]
+** Dealing down cards **
+Leonidos65 raises [$0.03]
+Remc010 calls [$0.02]
+** Dealing flop ** [ 4d, 2h, 8c ]
+Remc010 checks
+Leonidos65 bets [$0.05]
+Remc010 calls [$0.05]
+** Dealing turn ** [ 4c ]
+Remc010 checks
+Leonidos65 checks
+** Dealing river ** [ Ad ]
+Remc010 checks
+Leonidos65 checks
+** Summary **
+Remc010 shows [ 5d, 6d ]
+Leonidos65 shows [ 6h, 3c ]
+Leonidos65 collected [ $0.08 ]
+Remc010 collected [ $0.09 ]
+
+
+#Game No : 503445753
+***** 888poker Hand History for Game 503445753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 00:58:03
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Leonidos65 ( $0.73 )
+Seat 6: Remc010 ( $1.06 )
+Remc010 posts small blind [$0.01]
+Leonidos65 posts big blind [$0.02]
+** Dealing down cards **
+Remc010 calls [$0.01]
+Leonidos65 checks
+** Dealing flop ** [ Jd, 3d, 6s ]
+Leonidos65 checks
+Remc010 checks
+** Dealing turn ** [ 8d ]
+Leonidos65 checks
+Remc010 bets [$0.04]
+Leonidos65 folds
+** Summary **
+Remc010 did not show his hand
+Remc010 collected [ $0.04 ]
+
+
+#Game No : 503445763
+***** 888poker Hand History for Game 503445763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 00:58:23
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Leonidos65 ( $0.71 )
+Seat 6: Remc010 ( $1.08 )
+Leonidos65 posts small blind [$0.01]
+Remc010 posts big blind [$0.02]
+** Dealing down cards **
+Leonidos65 folds
+** Summary **
+Remc010 did not show his hand
+Remc010 collected [ $0.03 ]
+
+
+#Game No : 503445767
+***** 888poker Hand History for Game 503445767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 00:58:29
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Leonidos65 ( $0.70 )
+Seat 6: Remc010 ( $1.09 )
+Remc010 posts small blind [$0.01]
+Leonidos65 posts big blind [$0.02]
+** Dealing down cards **
+Remc010 folds
+** Summary **
+Leonidos65 did not show his hand
+Leonidos65 collected [ $0.03 ]
+
+
+#Game No : 503445771
+***** 888poker Hand History for Game 503445771 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 00:58:35
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Leonidos65 ( $0.71 )
+Seat 6: Remc010 ( $1.08 )
+Leonidos65 posts small blind [$0.01]
+Remc010 posts big blind [$0.02]
+** Dealing down cards **
+Leonidos65 raises [$0.03]
+Remc010 raises [$0.04]
+Leonidos65 raises [$0.67]
+Remc010 folds
+** Summary **
+Leonidos65 did not show his hand
+Leonidos65 collected [ $0.12 ]
+
+
+#Game No : 503445776
+***** 888poker Hand History for Game 503445776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 00:58:47
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Leonidos65 ( $0.77 )
+Seat 6: Remc010 ( $1.02 )
+Remc010 posts small blind [$0.01]
+Leonidos65 posts big blind [$0.02]
+** Dealing down cards **
+Remc010 calls [$0.01]
+Leonidos65 checks
+** Dealing flop ** [ Jc, Tc, 2c ]
+Leonidos65 checks
+Remc010 checks
+** Dealing turn ** [ 6s ]
+Leonidos65 bets [$0.04]
+Remc010 calls [$0.04]
+** Dealing river ** [ Qd ]
+Leonidos65 bets [$0.08]
+Remc010 raises [$0.16]
+Leonidos65 calls [$0.08]
+** Summary **
+Remc010 shows [ Ks, Ah ]
+Leonidos65 mucks [ Jh, 3h ]
+Remc010 collected [ $0.42 ]
+
+
+#Game No : 503450792
+***** 888poker Hand History for Game 503450792 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 04:01:22
+Table Geneva 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $1.48 )
+Seat 7: Viroforti ( $1.42 )
+SlavikMark79 posts small blind [$0.01]
+Viroforti posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 raises [$0.05]
+Viroforti calls [$0.04]
+** Dealing flop ** [ 8h, 9h, Qd ]
+Viroforti checks
+SlavikMark79 checks
+** Dealing turn ** [ Qs ]
+Viroforti checks
+SlavikMark79 checks
+** Dealing river ** [ 2c ]
+Viroforti checks
+SlavikMark79 checks
+** Summary **
+Viroforti shows [ 4s, 5d ]
+SlavikMark79 shows [ Ad, 2s ]
+SlavikMark79 collected [ $0.12 ]
+
+
+#Game No : 503455702
+***** 888poker Hand History for Game 503455702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 05:54:22
+Table Geneva 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Viroforti ( $2.16 )
+Seat 9: M.Povilaitis ( $0.68 )
+Viroforti posts small blind [$0.01]
+** Dealing down cards **
+M.Povilaitis folds
+** Summary **
+Viroforti collected [ $0.01 ]
+
+
+#Game No : 503455712
+***** 888poker Hand History for Game 503455712 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 05:54:29
+Table Geneva 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Viroforti ( $2.16 )
+Seat 9: M.Povilaitis ( $0.68 )
+Viroforti posts small blind [$0.01]
+M.Povilaitis posts big blind [$0.02]
+** Dealing down cards **
+Viroforti raises [$0.05]
+M.Povilaitis calls [$0.04]
+** Dealing flop ** [ Jh, Th, 4h ]
+M.Povilaitis bets [$0.26]
+Viroforti folds
+** Summary **
+M.Povilaitis did not show his hand
+M.Povilaitis collected [ $0.12 ]
+
+
+#Game No : 503455731
+***** 888poker Hand History for Game 503455731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 05:54:48
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Viroforti ( $2.10 )
+Seat 9: M.Povilaitis ( $0.74 )
+M.Povilaitis posts small blind [$0.01]
+Viroforti posts big blind [$0.02]
+** Dealing down cards **
+M.Povilaitis calls [$0.01]
+Viroforti checks
+** Dealing flop ** [ Qd, 5h, Th ]
+Viroforti checks
+M.Povilaitis bets [$0.02]
+Viroforti raises [$0.06]
+M.Povilaitis calls [$0.04]
+** Dealing turn ** [ 9s ]
+Viroforti checks
+M.Povilaitis bets [$0.14]
+Viroforti calls [$0.14]
+** Dealing river ** [ 8c ]
+Viroforti bets [$1.88]
+M.Povilaitis calls [$0.52]
+** Summary **
+Viroforti shows [ Jd, 9h ]
+M.Povilaitis shows [ As, 8s ]
+Viroforti collected [ $1.39 ]
+
+
+#Game No : 503460002
+***** 888poker Hand History for Game 503460002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:24:12
+Table Geneva 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: raign_ptz ( $1.18 )
+Seat 7: Viroforti ( $1.10 )
+Viroforti posts small blind [$0.01]
+raign_ptz posts big blind [$0.02]
+** Dealing down cards **
+Viroforti raises [$0.05]
+raign_ptz folds
+** Summary **
+Viroforti did not show his hand
+Viroforti collected [ $0.04 ]
+
+
+#Game No : 503460024
+***** 888poker Hand History for Game 503460024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:24:33
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: raign_ptz ( $1.16 )
+Seat 7: Viroforti ( $1.12 )
+raign_ptz posts small blind [$0.01]
+Viroforti posts big blind [$0.02]
+** Dealing down cards **
+raign_ptz calls [$0.01]
+Viroforti checks
+** Dealing flop ** [ Tc, Ac, Kd ]
+Viroforti checks
+raign_ptz bets [$0.02]
+Viroforti folds
+** Summary **
+raign_ptz collected [ $0.04 ]
+
+
+#Game No : 503460046
+***** 888poker Hand History for Game 503460046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:25:14
+Table Geneva 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: raign_ptz ( $1.18 )
+Seat 7: Viroforti ( $1.10 )
+Viroforti posts small blind [$0.01]
+raign_ptz posts big blind [$0.02]
+** Dealing down cards **
+Viroforti raises [$0.03]
+raign_ptz folds
+** Summary **
+Viroforti collected [ $0.04 ]
+
+
+#Game No : 503460690
+***** 888poker Hand History for Game 503460690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:39:25
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 7: Viroforti ( $2.17 )
+Seat 9: B1llardgott ( $0.89 )
+Viroforti posts small blind [$0.01]
+B1llardgott posts big blind [$0.02]
+** Dealing down cards **
+Viroforti calls [$0.01]
+B1llardgott checks
+** Dealing flop ** [ Tc, 2h, 4d ]
+Viroforti bets [$0.02]
+B1llardgott calls [$0.02]
+** Dealing turn ** [ 8h ]
+Viroforti bets [$0.05]
+B1llardgott calls [$0.05]
+** Dealing river ** [ 4h ]
+Viroforti checks
+B1llardgott bets [$0.09]
+Viroforti calls [$0.09]
+** Summary **
+B1llardgott shows [ 2d, 8s ]
+Viroforti mucks [ 6h, 6s ]
+B1llardgott collected [ $0.34 ]
+
+
+#Game No : 503460714
+***** 888poker Hand History for Game 503460714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:39:58
+Table Geneva 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Viroforti ( $1.99 )
+Seat 9: B1llardgott ( $1.05 )
+Viroforti posts small blind [$0.01]
+B1llardgott posts big blind [$0.02]
+** Dealing down cards **
+Viroforti raises [$0.03]
+B1llardgott calls [$0.02]
+** Dealing flop ** [ 2c, 8c, 3s ]
+B1llardgott checks
+Viroforti bets [$0.05]
+B1llardgott folds
+** Summary **
+Viroforti did not show his hand
+Viroforti collected [ $0.08 ]
+
+
+#Game No : 503460729
+***** 888poker Hand History for Game 503460729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:40:13
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Viroforti ( $2.03 )
+Seat 9: B1llardgott ( $1.01 )
+B1llardgott posts small blind [$0.01]
+Viroforti posts big blind [$0.02]
+** Dealing down cards **
+B1llardgott raises [$0.03]
+Viroforti calls [$0.02]
+** Dealing flop ** [ 6d, 7h, 4c ]
+Viroforti checks
+B1llardgott checks
+** Dealing turn ** [ 7d ]
+Viroforti bets [$0.02]
+B1llardgott calls [$0.02]
+** Dealing river ** [ 9d ]
+Viroforti bets [$0.12]
+B1llardgott folds
+** Summary **
+Viroforti collected [ $0.12 ]
+
+
+#Game No : 503473594
+***** 888poker Hand History for Game 503473594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 11:57:52
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Dezhik ( $0.93 )
+Seat 4: SodYerAA ( $0.94 )
+SodYerAA posts small blind [$0.01]
+Dezhik posts big blind [$0.02]
+** Dealing down cards **
+SodYerAA folds
+** Summary **
+Dezhik collected [ $0.03 ]
+
+
+#Game No : 503473603
+***** 888poker Hand History for Game 503473603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 11:57:57
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dezhik ( $0.94 )
+Seat 4: SodYerAA ( $0.93 )
+Dezhik posts small blind [$0.01]
+SodYerAA posts big blind [$0.02]
+** Dealing down cards **
+Dezhik raises [$0.05]
+SodYerAA folds
+** Summary **
+Dezhik collected [ $0.04 ]
+
+
+#Game No : 503473613
+***** 888poker Hand History for Game 503473613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 11:58:11
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Dezhik ( $0.96 )
+Seat 4: SodYerAA ( $0.91 )
+SodYerAA posts small blind [$0.01]
+Dezhik posts big blind [$0.02]
+** Dealing down cards **
+SodYerAA raises [$0.05]
+Dezhik calls [$0.04]
+** Dealing flop ** [ 2c, 8s, 3h ]
+Dezhik checks
+SodYerAA bets [$0.08]
+Dezhik calls [$0.08]
+** Dealing turn ** [ 9h ]
+Dezhik bets [$0.18]
+SodYerAA folds
+** Summary **
+Dezhik collected [ $0.27 ]
+
+
+#Game No : 503473642
+***** 888poker Hand History for Game 503473642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 11:58:42
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SodYerAA ( $0.76 )
+Seat 7: DEEFZ21 ( $0.98 )
+SodYerAA posts small blind [$0.01]
+** Dealing down cards **
+DEEFZ21 folds
+** Summary **
+SodYerAA collected [ $0.01 ]
+
+

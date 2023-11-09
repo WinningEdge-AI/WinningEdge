@@ -1,0 +1,30 @@
+#Game No : 1186451660
+***** 888poker Hand History for Game 1186451660 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2018 14:12:48
+Table Uppsala 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: zahar00777 ( $1.97 )
+Seat 5: Mitrandir_A ( $2.02 )
+Mitrandir_A posts small blind [$0.01]
+zahar00777 posts big blind [$0.02]
+** Dealing down cards **
+Mitrandir_A raises [$0.05]
+zahar00777 raises [$0.08]
+Mitrandir_A calls [$0.04]
+** Dealing flop ** [ 6s, Jh, As ]
+zahar00777 checks
+Mitrandir_A checks
+** Dealing turn ** [ 5h ]
+zahar00777 bets [$0.02]
+Mitrandir_A calls [$0.02]
+** Dealing river ** [ Qd ]
+zahar00777 bets [$0.12]
+Mitrandir_A raises [$1.90]
+zahar00777 calls [$1.73]
+** Summary **
+zahar00777 shows [ Jd, Ac ]
+Mitrandir_A shows [ Td, Kh ]
+Mitrandir_A collected [ $3.70 ]
+
+

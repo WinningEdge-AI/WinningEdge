@@ -1,0 +1,66 @@
+#Game No : 501523702
+***** 888poker Hand History for Game 501523702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 17:23:46
+Table New Haven 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AldanShilDim ( $2.08 )
+Seat 6: DLB66 ( $1.44 )
+AldanShilDim posts small blind [$0.01]
+DLB66 posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim raises [$0.06]
+DLB66 calls [$0.05]
+** Dealing flop ** [ 5s, Js, 8s ]
+DLB66 checks
+AldanShilDim bets [$0.07]
+DLB66 calls [$0.07]
+** Dealing turn ** [ 4h ]
+DLB66 checks
+AldanShilDim checks
+** Dealing river ** [ 5d ]
+DLB66 checks
+AldanShilDim checks
+** Summary **
+DLB66 shows [ 2d, Jd ]
+AldanShilDim mucks [ Ac, 6s ]
+DLB66 collected [ $0.27 ]
+
+
+#Game No : 501523721
+***** 888poker Hand History for Game 501523721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 17:24:23
+Table New Haven 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: AldanShilDim ( $1.94 )
+Seat 6: DLB66 ( $1.57 )
+DLB66 posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+DLB66 calls [$0.01]
+AldanShilDim checks
+** Dealing flop ** [ Ad, 5c, Jh ]
+AldanShilDim bets [$0.06]
+DLB66 folds
+** Summary **
+AldanShilDim collected [ $0.04 ]
+
+
+#Game No : 501523733
+***** 888poker Hand History for Game 501523733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 17:24:42
+Table New Haven 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AldanShilDim ( $1.96 )
+Seat 6: DLB66 ( $1.55 )
+AldanShilDim posts small blind [$0.01]
+DLB66 posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim raises [$0.06]
+DLB66 folds
+** Summary **
+AldanShilDim collected [ $0.04 ]
+
+

@@ -1,0 +1,242 @@
+#Game No : 500009732
+***** 888poker Hand History for Game 500009732 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 02:14:48
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.33 )
+Seat 9: DiLoki ( $2.44 )
+DiLoki posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+DiLoki calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ 9c, Kd, 7c ]
+salsal74 checks
+DiLoki bets [$0.02]
+salsal74 calls [$0.02]
+** Dealing turn ** [ Td ]
+salsal74 checks
+DiLoki checks
+** Dealing river ** [ 7s ]
+salsal74 checks
+DiLoki bets [$0.04]
+salsal74 calls [$0.04]
+** Summary **
+DiLoki shows [ Qs, 3c ]
+salsal74 shows [ Qc, 9h ]
+salsal74 collected [ $0.15 ]
+
+
+#Game No : 500009749
+***** 888poker Hand History for Game 500009749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 02:15:29
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.40 )
+Seat 9: DiLoki ( $2.36 )
+salsal74 posts small blind [$0.01]
+DiLoki posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+DiLoki calls [$0.02]
+** Dealing flop ** [ 5h, 7h, 4s ]
+DiLoki checks
+salsal74 checks
+** Dealing turn ** [ 6h ]
+DiLoki checks
+salsal74 bets [$0.08]
+DiLoki folds
+** Summary **
+salsal74 collected [ $0.08 ]
+
+
+#Game No : 500009765
+***** 888poker Hand History for Game 500009765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 02:15:58
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.44 )
+Seat 9: DiLoki ( $2.32 )
+DiLoki posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+DiLoki raises [$0.03]
+salsal74 calls [$0.02]
+** Dealing flop ** [ 2c, 3h, 7h ]
+salsal74 checks
+DiLoki bets [$0.04]
+salsal74 folds
+** Summary **
+DiLoki collected [ $0.08 ]
+
+
+#Game No : 500009775
+***** 888poker Hand History for Game 500009775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 02:16:17
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.40 )
+Seat 9: DiLoki ( $2.36 )
+salsal74 posts small blind [$0.01]
+DiLoki posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+DiLoki collected [ $0.03 ]
+
+
+#Game No : 500013882
+***** 888poker Hand History for Game 500013882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 04:32:49
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: givinagivi ( $1.17 )
+Seat 4: Twins78 ( $0.80 )
+Twins78 posts small blind [$0.01]
+givinagivi posts big blind [$0.02]
+** Dealing down cards **
+Twins78 calls [$0.01]
+givinagivi checks
+** Dealing flop ** [ 5h, Ah, Ad ]
+givinagivi bets [$0.02]
+Twins78 calls [$0.02]
+** Dealing turn ** [ Jc ]
+givinagivi bets [$0.02]
+Twins78 calls [$0.02]
+** Dealing river ** [ 8h ]
+givinagivi bets [$0.02]
+Twins78 calls [$0.02]
+** Summary **
+givinagivi shows [ Kd, 5c ]
+Twins78 mucks [ Ks, Qs ]
+givinagivi collected [ $0.15 ]
+
+
+#Game No : 500013899
+***** 888poker Hand History for Game 500013899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 04:33:17
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Twins78 ( $0.72 )
+Seat 7: elenr58 ( $1 )
+Twins78 posts small blind [$0.01]
+elenr58 posts big blind [$0.02]
+** Dealing down cards **
+Twins78 calls [$0.01]
+elenr58 checks
+** Dealing flop ** [ 7c, 7d, Qc ]
+elenr58 checks
+Twins78 checks
+** Dealing turn ** [ Qs ]
+elenr58 checks
+Twins78 checks
+** Dealing river ** [ Jh ]
+elenr58 bets [$0.28]
+Twins78 folds
+** Summary **
+elenr58 collected [ $0.04 ]
+
+
+#Game No : 500013927
+***** 888poker Hand History for Game 500013927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 04:34:06
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Twins78 ( $0.70 )
+Seat 7: elenr58 ( $1.02 )
+elenr58 posts small blind [$0.01]
+Twins78 posts big blind [$0.02]
+** Dealing down cards **
+elenr58 calls [$0.01]
+Twins78 checks
+** Dealing flop ** [ Ad, 5s, 7c ]
+Twins78 checks
+elenr58 checks
+** Dealing turn ** [ 7d ]
+Twins78 checks
+elenr58 checks
+** Dealing river ** [ Qd ]
+Twins78 checks
+elenr58 bets [$0.02]
+Twins78 folds
+** Summary **
+elenr58 collected [ $0.04 ]
+
+
+#Game No : 500021090
+***** 888poker Hand History for Game 500021090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 07:53:24
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mehanik1000 ( $0.99 )
+Seat 6: DHUK98 ( $4 )
+mehanik1000 posts small blind [$0.01]
+DHUK98 posts big blind [$0.02]
+** Dealing down cards **
+mehanik1000 folds
+** Summary **
+DHUK98 collected [ $0.03 ]
+
+
+#Game No : 500021095
+***** 888poker Hand History for Game 500021095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 07:53:31
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: mehanik1000 ( $0.98 )
+Seat 6: DHUK98 ( $4.01 )
+DHUK98 posts small blind [$0.01]
+mehanik1000 posts big blind [$0.02]
+** Dealing down cards **
+DHUK98 raises [$0.06]
+mehanik1000 folds
+** Summary **
+DHUK98 collected [ $0.04 ]
+
+
+#Game No : 500021096
+***** 888poker Hand History for Game 500021096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 07:53:38
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mehanik1000 ( $0.96 )
+Seat 6: DHUK98 ( $4.03 )
+mehanik1000 posts small blind [$0.01]
+DHUK98 posts big blind [$0.02]
+** Dealing down cards **
+mehanik1000 raises [$0.05]
+DHUK98 calls [$0.04]
+** Dealing flop ** [ 4c, 4d, 7h ]
+DHUK98 checks
+mehanik1000 bets [$0.08]
+DHUK98 folds
+** Summary **
+mehanik1000 collected [ $0.12 ]
+
+
+#Game No : 500021106
+***** 888poker Hand History for Game 500021106 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 07:53:58
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: mehanik1000 ( $1.02 )
+Seat 6: DHUK98 ( $3.97 )
+DHUK98 posts small blind [$0.01]
+mehanik1000 posts big blind [$0.02]
+** Dealing down cards **
+DHUK98 folds
+** Summary **
+mehanik1000 collected [ $0.03 ]
+
+

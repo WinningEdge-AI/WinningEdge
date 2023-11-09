@@ -1,0 +1,137 @@
+#Game No : 617274008
+***** 888poker Hand History for Game 617274008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 10:23:33
+Table Brits 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: bernie1461 ( $0.96 )
+Seat 6: ooMooJoo ( $1.06 )
+bernie1461 posts small blind [$0.01]
+ooMooJoo posts big blind [$0.02]
+** Dealing down cards **
+bernie1461 raises [$0.03]
+ooMooJoo calls [$0.02]
+** Dealing flop ** [ 7c, 2h, 6s ]
+ooMooJoo checks
+bernie1461 bets [$0.02]
+ooMooJoo calls [$0.02]
+** Dealing turn ** [ Qs ]
+ooMooJoo checks
+bernie1461 checks
+** Dealing river ** [ 6d ]
+ooMooJoo checks
+bernie1461 checks
+** Summary **
+ooMooJoo shows [ Ah, 3s ]
+bernie1461 shows [ 5h, As ]
+ooMooJoo collected [ $0.06 ]
+bernie1461 collected [ $0.06 ]
+
+
+#Game No : 617276191
+***** 888poker Hand History for Game 617276191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 11:01:15
+Table Brits 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Stockweg ( $1.51 )
+Seat 7: Ly4shii ( $1.05 )
+Ly4shii posts small blind [$0.01]
+Stockweg posts big blind [$0.02]
+** Dealing down cards **
+Ly4shii raises [$0.03]
+Stockweg calls [$0.02]
+** Dealing flop ** [ Jd, Ah, 5d ]
+Stockweg checks
+Ly4shii checks
+** Dealing turn ** [ 3h ]
+Stockweg bets [$0.04]
+Ly4shii calls [$0.04]
+** Dealing river ** [ Td ]
+Stockweg checks
+Ly4shii checks
+** Summary **
+Stockweg shows [ Qc, Jh ]
+Ly4shii mucks [ Th, Ks ]
+Stockweg collected [ $0.15 ]
+
+
+#Game No : 617284695
+***** 888poker Hand History for Game 617284695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 13:27:53
+Table Brits 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 77alina ( $0.81 )
+Seat 6: nagyfigura ( $1.07 )
+77alina posts small blind [$0.01]
+nagyfigura posts big blind [$0.02]
+** Dealing down cards **
+77alina calls [$0.01]
+nagyfigura checks
+** Dealing flop ** [ Qs, Qh, 8h ]
+nagyfigura checks
+77alina checks
+** Dealing turn ** [ 9h ]
+nagyfigura checks
+77alina bets [$0.02]
+nagyfigura raises [$0.10]
+77alina folds
+** Summary **
+nagyfigura collected [ $0.08 ]
+
+
+#Game No : 617289251
+***** 888poker Hand History for Game 617289251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 14:50:18
+Table Brits 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: WJI9XTU4 ( $2.40 )
+Seat 9: barbas80 ( $1.84 )
+barbas80 posts small blind [$0.01]
+WJI9XTU4 posts big blind [$0.02]
+** Dealing down cards **
+barbas80 raises [$0.05]
+WJI9XTU4 calls [$0.04]
+** Dealing flop ** [ Qd, Qh, 4c ]
+WJI9XTU4 checks
+barbas80 checks
+** Dealing turn ** [ 5c ]
+WJI9XTU4 checks
+barbas80 bets [$0.05]
+WJI9XTU4 folds
+** Summary **
+barbas80 collected [ $0.12 ]
+
+
+#Game No : 617290876
+***** 888poker Hand History for Game 617290876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 15:21:09
+Table Brits 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GerPit ( $2.15 )
+Seat 6: Sizikov ( $1.11 )
+Sizikov posts small blind [$0.01]
+GerPit posts big blind [$0.02]
+** Dealing down cards **
+Sizikov raises [$0.05]
+GerPit calls [$0.04]
+** Dealing flop ** [ 2c, 2s, Qc ]
+GerPit checks
+Sizikov bets [$0.06]
+GerPit calls [$0.06]
+** Dealing turn ** [ 8s ]
+GerPit bets [$0.02]
+Sizikov raises [$0.12]
+GerPit calls [$0.10]
+** Dealing river ** [ 9d ]
+GerPit bets [$0.24]
+Sizikov calls [$0.24]
+** Summary **
+GerPit shows [ 4c, Ks ]
+Sizikov shows [ Kd, Kc ]
+Sizikov collected [ $0.90 ]
+
+

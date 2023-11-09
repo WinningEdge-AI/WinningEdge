@@ -1,0 +1,103 @@
+#Game No : 605955028
+***** 888poker Hand History for Game 605955028 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 16:16:37
+Table Ambato 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: HerrCul ( $1.53 )
+Seat 6: Yza_rbk ( $1.38 )
+Yza_rbk posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+Yza_rbk raises [$0.03]
+HerrCul calls [$0.02]
+** Dealing flop ** [ 5s, 6h, 7d ]
+HerrCul checks
+Yza_rbk bets [$0.06]
+HerrCul calls [$0.06]
+** Dealing turn ** [ Kc ]
+HerrCul checks
+Yza_rbk bets [$0.02]
+HerrCul calls [$0.02]
+** Dealing river ** [ Th ]
+HerrCul checks
+Yza_rbk checks
+** Summary **
+HerrCul shows [ Js, 8s ]
+Yza_rbk shows [ 5c, As ]
+Yza_rbk collected [ $0.23 ]
+
+
+#Game No : 605955064
+***** 888poker Hand History for Game 605955064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 16:17:48
+Table Ambato 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HerrCul ( $1.41 )
+Seat 6: Yza_rbk ( $1.49 )
+HerrCul posts small blind [$0.01]
+Yza_rbk posts big blind [$0.02]
+** Dealing down cards **
+HerrCul calls [$0.01]
+Yza_rbk checks
+** Dealing flop ** [ 3h, Kd, Th ]
+Yza_rbk checks
+HerrCul checks
+** Dealing turn ** [ 9d ]
+Yza_rbk checks
+HerrCul bets [$0.02]
+Yza_rbk folds
+** Summary **
+HerrCul did not show his hand
+HerrCul collected [ $0.04 ]
+
+
+#Game No : 605955095
+***** 888poker Hand History for Game 605955095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 16:18:34
+Table Ambato 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: HerrCul ( $1.43 )
+Seat 6: Yza_rbk ( $1.47 )
+Yza_rbk posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+Yza_rbk raises [$0.03]
+HerrCul calls [$0.02]
+** Dealing flop ** [ As, Jc, Kd ]
+HerrCul checks
+Yza_rbk bets [$0.02]
+HerrCul calls [$0.02]
+** Dealing turn ** [ 8h ]
+HerrCul checks
+Yza_rbk bets [$0.10]
+HerrCul calls [$0.10]
+** Dealing river ** [ 2d ]
+HerrCul checks
+Yza_rbk bets [$0.32]
+HerrCul calls [$0.32]
+** Summary **
+Yza_rbk shows [ Ah, 8d ]
+HerrCul mucks [ Tc, Ac ]
+Yza_rbk collected [ $0.90 ]
+
+
+#Game No : 605955134
+***** 888poker Hand History for Game 605955134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 16:19:18
+Table Ambato 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HerrCul ( $0.95 )
+Seat 6: Yza_rbk ( $1.89 )
+HerrCul posts small blind [$0.01]
+Yza_rbk posts big blind [$0.02]
+** Dealing down cards **
+HerrCul folds
+** Summary **
+Yza_rbk did not show his hand
+Yza_rbk collected [ $0.03 ]
+
+

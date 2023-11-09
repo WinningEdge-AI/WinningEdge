@@ -1,0 +1,69 @@
+#Game No : 1247498911
+***** 888poker Hand History for Game 1247498911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2019 21:31:27
+Table Wakayama 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kAlBaCa21 ( $2.14 )
+Seat 7: yesya ( $1.29 )
+kAlBaCa21 posts small blind [$0.01]
+yesya posts big blind [$0.02]
+** Dealing down cards **
+kAlBaCa21 raises [$0.05]
+yesya calls [$0.04]
+** Dealing flop ** [ 6h, Td, 9c ]
+yesya checks
+kAlBaCa21 checks
+** Dealing turn ** [ 8h ]
+yesya checks
+kAlBaCa21 checks
+** Dealing river ** [ 6c ]
+yesya checks
+kAlBaCa21 checks
+** Summary **
+yesya shows [ 5d, 5s ]
+kAlBaCa21 mucks [ 4c, 4s ]
+yesya collected [ $0.12 ]
+
+
+#Game No : 1247499062
+***** 888poker Hand History for Game 1247499062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2019 21:33:12
+Table Wakayama 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kAlBaCa21 ( $2.08 )
+Seat 9: Knort19 ( $0.80 )
+kAlBaCa21 posts small blind [$0.01]
+Knort19 posts big blind [$0.02]
+** Dealing down cards **
+kAlBaCa21 calls [$0.01]
+Knort19 checks
+** Dealing flop ** [ Qs, 5h, 7s ]
+Knort19 checks
+kAlBaCa21 checks
+** Dealing turn ** [ Kd ]
+Knort19 checks
+kAlBaCa21 bets [$0.02]
+Knort19 folds
+** Summary **
+kAlBaCa21 did not show his hand
+kAlBaCa21 collected [ $0.04 ]
+
+
+#Game No : 1247499101
+***** 888poker Hand History for Game 1247499101 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2019 21:33:39
+Table Wakayama 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: kAlBaCa21 ( $2.10 )
+Seat 9: Knort19 ( $0.78 )
+Knort19 posts small blind [$0.01]
+** Dealing down cards **
+kAlBaCa21 folds
+** Summary **
+Knort19 did not show his hand
+Knort19 collected [ $0.01 ]
+
+

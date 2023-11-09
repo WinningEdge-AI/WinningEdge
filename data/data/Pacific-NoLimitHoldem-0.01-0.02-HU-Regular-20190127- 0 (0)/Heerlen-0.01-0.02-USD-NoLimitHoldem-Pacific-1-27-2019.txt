@@ -1,0 +1,101 @@
+#Game No : 1243027238
+***** 888poker Hand History for Game 1243027238 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 03:02:45
+Table Heerlen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: grifon80 ( $2.06 )
+Seat 2: Lantal14 ( $1.14 )
+grifon80 posts small blind [$0.01]
+Lantal14 posts big blind [$0.02]
+** Dealing down cards **
+grifon80 calls [$0.01]
+Lantal14 checks
+** Dealing flop ** [ 9s, 4c, 5c ]
+Lantal14 bets [$0.02]
+grifon80 calls [$0.02]
+** Dealing turn ** [ 8s ]
+Lantal14 checks
+grifon80 bets [$0.02]
+Lantal14 calls [$0.02]
+** Dealing river ** [ Ah ]
+Lantal14 bets [$0.02]
+grifon80 calls [$0.02]
+** Summary **
+Lantal14 shows [ Js, Ad ]
+grifon80 mucks [ Qd, 9h ]
+Lantal14 collected [ $0.15 ]
+
+
+#Game No : 1243027328
+***** 888poker Hand History for Game 1243027328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 03:03:00
+Table Heerlen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: grifon80 ( $1.98 )
+Seat 2: Lantal14 ( $1.21 )
+Lantal14 posts small blind [$0.01]
+grifon80 posts big blind [$0.02]
+** Dealing down cards **
+Lantal14 calls [$0.01]
+grifon80 checks
+** Dealing flop ** [ 8s, 6c, Ac ]
+grifon80 checks
+Lantal14 bets [$0.02]
+grifon80 calls [$0.02]
+** Dealing turn ** [ 3s ]
+grifon80 checks
+Lantal14 bets [$0.04]
+grifon80 calls [$0.04]
+** Dealing river ** [ 5c ]
+grifon80 checks
+Lantal14 bets [$0.02]
+grifon80 folds
+** Summary **
+Lantal14 collected [ $0.15 ]
+
+
+#Game No : 1243040687
+***** 888poker Hand History for Game 1243040687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 04:08:52
+Table Heerlen 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AAAA7938 ( $2 )
+Seat 10: maks_886 ( $2.63 )
+AAAA7938 posts small blind [$0.01]
+maks_886 posts big blind [$0.02]
+** Dealing down cards **
+AAAA7938 calls [$0.01]
+maks_886 checks
+** Dealing flop ** [ 2s, Ts, 4s ]
+maks_886 checks
+AAAA7938 checks
+** Dealing turn ** [ 8d ]
+maks_886 checks
+AAAA7938 checks
+** Dealing river ** [ 9d ]
+maks_886 checks
+AAAA7938 checks
+** Summary **
+maks_886 shows [ 7c, Ad ]
+AAAA7938 mucks [ 5h, 3h ]
+maks_886 collected [ $0.04 ]
+
+
+#Game No : 1243040886
+***** 888poker Hand History for Game 1243040886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 04:09:56
+Table Heerlen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: AAAA7938 ( $2 )
+Seat 10: maks_886 ( $2.65 )
+maks_886 posts small blind [$0.01]
+** Dealing down cards **
+AAAA7938 folds
+** Summary **
+maks_886 collected [ $0.01 ]
+
+

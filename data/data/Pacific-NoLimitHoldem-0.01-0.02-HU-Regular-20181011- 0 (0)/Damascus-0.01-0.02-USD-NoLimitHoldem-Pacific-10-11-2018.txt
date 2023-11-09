@@ -1,0 +1,50 @@
+#Game No : 609280314
+***** 888poker Hand History for Game 609280314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 02:14:52
+Table Damascus 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: karapuz85 ( $1.10 )
+Seat 2: ice00784 ( $2.79 )
+karapuz85 posts small blind [$0.01]
+ice00784 posts big blind [$0.02]
+** Dealing down cards **
+karapuz85 calls [$0.01]
+ice00784 raises [$0.06]
+karapuz85 folds
+** Summary **
+ice00784 did not show his hand
+ice00784 collected [ $0.04 ]
+
+
+#Game No : 609280322
+***** 888poker Hand History for Game 609280322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 02:15:07
+Table Damascus 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: karapuz85 ( $1.08 )
+Seat 2: ice00784 ( $2.81 )
+ice00784 posts small blind [$0.01]
+karapuz85 posts big blind [$0.02]
+** Dealing down cards **
+ice00784 calls [$0.01]
+karapuz85 checks
+** Dealing flop ** [ 7d, 7h, 4d ]
+karapuz85 checks
+ice00784 bets [$0.04]
+karapuz85 calls [$0.04]
+** Dealing turn ** [ 4s ]
+karapuz85 checks
+ice00784 bets [$0.16]
+karapuz85 calls [$0.16]
+** Dealing river ** [ 2s ]
+karapuz85 checks
+ice00784 bets [$0.54]
+karapuz85 calls [$0.54]
+** Summary **
+ice00784 shows [ 8s, 7c ]
+karapuz85 mucks [ Kd, 5d ]
+ice00784 collected [ $1.43 ]
+
+

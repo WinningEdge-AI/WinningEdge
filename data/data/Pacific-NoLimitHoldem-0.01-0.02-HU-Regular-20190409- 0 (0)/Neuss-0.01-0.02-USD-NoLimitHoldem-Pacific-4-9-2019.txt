@@ -1,0 +1,28 @@
+#Game No : 463944563
+***** 888poker Hand History for Game 463944563 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 04 2019 16:19:54
+Table Neuss 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.79 )
+Seat 6: Ash.05 ( $1 )
+iks2s posts small blind [$0.01]
+Ash.05 posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+Ash.05 checks
+** Dealing flop ** [ Ad, 9h, 7c ]
+Ash.05 checks
+iks2s checks
+** Dealing turn ** [ 6s ]
+Ash.05 bets [$0.02]
+iks2s calls [$0.02]
+** Dealing river ** [ 6d ]
+Ash.05 bets [$0.08]
+iks2s calls [$0.08]
+** Summary **
+Ash.05 shows [ Th, 2c ]
+iks2s shows [ Qs, 6h ]
+iks2s collected [ $0.23 ]
+
+

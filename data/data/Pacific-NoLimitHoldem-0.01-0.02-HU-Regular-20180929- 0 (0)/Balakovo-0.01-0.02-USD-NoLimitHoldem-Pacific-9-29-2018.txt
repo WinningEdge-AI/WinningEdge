@@ -1,0 +1,72 @@
+#Game No : 455861940
+***** 888poker Hand History for Game 455861940 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:53:27
+Table Balakovo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Varlan158 ( $1.99 )
+Seat 2: GERA241079 ( $0.81 )
+GERA241079 posts small blind [$0.01]
+Varlan158 posts big blind [$0.02]
+** Dealing down cards **
+GERA241079 folds
+** Summary **
+Varlan158 did not show his hand
+Varlan158 collected [ $0.03 ]
+
+
+#Game No : 455861947
+***** 888poker Hand History for Game 455861947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:53:31
+Table Balakovo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Varlan158 ( $2 )
+Seat 2: GERA241079 ( $0.80 )
+Varlan158 posts small blind [$0.01]
+GERA241079 posts big blind [$0.02]
+** Dealing down cards **
+Varlan158 calls [$0.01]
+GERA241079 checks
+** Dealing flop ** [ 8h, Tc, Kc ]
+GERA241079 checks
+Varlan158 bets [$0.12]
+GERA241079 raises [$0.24]
+Varlan158 folds
+** Summary **
+GERA241079 did not show his hand
+GERA241079 collected [ $0.27 ]
+
+
+#Game No : 455861964
+***** 888poker Hand History for Game 455861964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:54:37
+Table Balakovo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Varlan158 ( $1.86 )
+Seat 2: GERA241079 ( $0.93 )
+GERA241079 posts small blind [$0.01]
+Varlan158 posts big blind [$0.02]
+** Dealing down cards **
+GERA241079 calls [$0.01]
+Varlan158 checks
+** Dealing flop ** [ 9s, 5d, As ]
+Varlan158 checks
+GERA241079 bets [$0.02]
+Varlan158 calls [$0.02]
+** Dealing turn ** [ 3h ]
+Varlan158 bets [$0.02]
+GERA241079 raises [$0.04]
+Varlan158 calls [$0.02]
+** Dealing river ** [ Ks ]
+Varlan158 bets [$0.02]
+GERA241079 raises [$0.04]
+Varlan158 raises [$0.12]
+GERA241079 calls [$0.10]
+** Summary **
+Varlan158 shows [ Kd, Kh ]
+GERA241079 mucks [ 8s, Ah ]
+Varlan158 collected [ $0.42 ]
+
+

@@ -1,0 +1,82 @@
+#Game No : 553000003
+***** 888poker Hand History for Game 553000003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2020 01:15:02
+Table Akron 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: leopoldkolos ( $0.80 )
+Seat 7: norocosul39b ( $0.80 )
+leopoldkolos posts small blind [$0.01]
+norocosul39b posts big blind [$0.02]
+** Dealing down cards **
+leopoldkolos calls [$0.01]
+norocosul39b checks
+** Dealing flop ** [ 6s, 3h, Ad ]
+norocosul39b checks
+leopoldkolos bets [$0.02]
+norocosul39b calls [$0.02]
+** Dealing turn ** [ Qs ]
+norocosul39b checks
+leopoldkolos checks
+** Dealing river ** [ Ac ]
+norocosul39b checks
+leopoldkolos bets [$0.08]
+norocosul39b folds
+** Summary **
+leopoldkolos collected [ $0.08 ]
+
+
+#Game No : 553000021
+***** 888poker Hand History for Game 553000021 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2020 01:15:30
+Table Akron 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: leopoldkolos ( $0.84 )
+Seat 7: norocosul39b ( $0.76 )
+norocosul39b posts small blind [$0.01]
+leopoldkolos posts big blind [$0.02]
+** Dealing down cards **
+norocosul39b calls [$0.01]
+leopoldkolos checks
+** Dealing flop ** [ 5h, 8s, Jd ]
+leopoldkolos checks
+norocosul39b bets [$0.02]
+leopoldkolos folds
+** Summary **
+norocosul39b collected [ $0.04 ]
+
+
+#Game No : 553002089
+***** 888poker Hand History for Game 553002089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2020 02:14:09
+Table Akron 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: MazzzaFaaack ( $2.07 )
+Seat 9: GARALD84 ( $1.46 )
+MazzzaFaaack posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+MazzzaFaaack folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 553002091
+***** 888poker Hand History for Game 553002091 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2020 02:14:14
+Table Akron 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: MazzzaFaaack ( $2.06 )
+Seat 9: GARALD84 ( $1.47 )
+GARALD84 posts small blind [$0.01]
+** Dealing down cards **
+MazzzaFaaack folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.01 ]
+
+

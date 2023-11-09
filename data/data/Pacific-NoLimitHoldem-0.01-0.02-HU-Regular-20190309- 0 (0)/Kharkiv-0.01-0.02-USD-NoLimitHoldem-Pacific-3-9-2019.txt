@@ -1,0 +1,143 @@
+#Game No : 514781321
+***** 888poker Hand History for Game 514781321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 23:39:59
+Table Kharkiv 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Makabee ( $1.41 )
+Seat 2: heno56 ( $0.95 )
+heno56 posts small blind [$0.01]
+Makabee posts big blind [$0.02]
+** Dealing down cards **
+heno56 calls [$0.01]
+Makabee checks
+** Dealing flop ** [ 4h, 2h, 6d ]
+Makabee bets [$0.02]
+heno56 raises [$0.04]
+Makabee calls [$0.02]
+** Dealing turn ** [ 4s ]
+Makabee bets [$0.02]
+heno56 raises [$0.04]
+Makabee calls [$0.02]
+** Dealing river ** [ Kc ]
+Makabee bets [$0.02]
+heno56 raises [$0.04]
+Makabee raises [$0.30]
+heno56 calls [$0.28]
+** Summary **
+Makabee shows [ 3s, 4c ]
+heno56 shows [ As, 4d ]
+heno56 collected [ $0.79 ]
+
+
+#Game No : 514781338
+***** 888poker Hand History for Game 514781338 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 23:40:41
+Table Kharkiv 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Makabee ( $0.99 )
+Seat 2: heno56 ( $1.32 )
+Makabee posts small blind [$0.01]
+heno56 posts big blind [$0.02]
+** Dealing down cards **
+Makabee calls [$0.01]
+heno56 checks
+** Dealing flop ** [ 5d, 9c, 9s ]
+heno56 checks
+Makabee checks
+** Dealing turn ** [ 6s ]
+heno56 checks
+Makabee checks
+** Dealing river ** [ 8d ]
+heno56 checks
+Makabee bets [$0.02]
+heno56 folds
+** Summary **
+Makabee did not show his hand
+Makabee collected [ $0.04 ]
+
+
+#Game No : 514782352
+***** 888poker Hand History for Game 514782352 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 00:21:26
+Table Kharkiv 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: xeno171 ( $1.97 )
+Seat 4: otierdo ( $2.03 )
+xeno171 posts small blind [$0.01]
+otierdo posts big blind [$0.02]
+** Dealing down cards **
+xeno171 folds
+** Summary **
+otierdo did not show his hand
+otierdo collected [ $0.03 ]
+
+
+#Game No : 616947546
+***** 888poker Hand History for Game 616947546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:25:09
+Table Kharkiv 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: coconym ( $1 )
+Seat 6: mioriso ( $1.27 )
+coconym posts small blind [$0.01]
+mioriso posts big blind [$0.02]
+** Dealing down cards **
+coconym raises [$0.03]
+mioriso raises [$0.12]
+coconym calls [$0.10]
+** Dealing flop ** [ 7c, 9h, Ad ]
+mioriso bets [$0.18]
+coconym folds
+** Summary **
+mioriso did not show his hand
+mioriso collected [ $0.27 ]
+
+
+#Game No : 616947555
+***** 888poker Hand History for Game 616947555 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:25:32
+Table Kharkiv 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: coconym ( $0.86 )
+Seat 6: mioriso ( $1.40 )
+mioriso posts small blind [$0.01]
+coconym posts big blind [$0.02]
+** Dealing down cards **
+mioriso raises [$0.05]
+coconym raises [$0.16]
+mioriso calls [$0.12]
+** Dealing flop ** [ 7s, 7h, 6h ]
+coconym bets [$0.24]
+mioriso folds
+** Summary **
+coconym did not show his hand
+coconym collected [ $0.34 ]
+
+
+#Game No : 616947571
+***** 888poker Hand History for Game 616947571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:26:02
+Table Kharkiv 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: coconym ( $1.02 )
+Seat 6: mioriso ( $1.22 )
+coconym posts small blind [$0.01]
+mioriso posts big blind [$0.02]
+** Dealing down cards **
+coconym calls [$0.01]
+mioriso checks
+** Dealing flop ** [ 2h, Ac, Td ]
+mioriso checks
+coconym bets [$1]
+mioriso folds
+** Summary **
+coconym did not show his hand
+coconym collected [ $0.04 ]
+
+

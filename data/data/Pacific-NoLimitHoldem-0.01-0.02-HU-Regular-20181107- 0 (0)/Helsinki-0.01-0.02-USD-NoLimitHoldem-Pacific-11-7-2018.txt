@@ -1,0 +1,191 @@
+#Game No : 509018254
+***** 888poker Hand History for Game 509018254 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 21:14:22
+Table Helsinki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $7.53 )
+Seat 6: rogerlti ( $1.98 )
+klerik170 posts small blind [$0.01]
+rogerlti posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+rogerlti checks
+** Dealing flop ** [ 4s, 3c, 5s ]
+rogerlti checks
+klerik170 checks
+** Dealing turn ** [ Qc ]
+rogerlti bets [$0.04]
+klerik170 folds
+** Summary **
+rogerlti collected [ $0.04 ]
+
+
+#Game No : 509018259
+***** 888poker Hand History for Game 509018259 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 21:14:29
+Table Helsinki 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $7.51 )
+Seat 6: rogerlti ( $2 )
+rogerlti posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+rogerlti calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ 4c, 5d, 3c ]
+klerik170 bets [$0.02]
+rogerlti folds
+** Summary **
+klerik170 collected [ $0.04 ]
+
+
+#Game No : 509026988
+***** 888poker Hand History for Game 509026988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 06:10:47
+Table Helsinki 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: _Teddy_ ( $1 )
+Seat 4: DDragu ( $1.62 )
+_Teddy_ posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+_Teddy_ folds
+** Summary **
+DDragu did not show his hand
+DDragu collected [ $0.03 ]
+
+
+#Game No : 509026991
+***** 888poker Hand History for Game 509026991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 06:10:51
+Table Helsinki 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: _Teddy_ ( $0.99 )
+Seat 4: DDragu ( $1.63 )
+DDragu posts small blind [$0.01]
+_Teddy_ posts big blind [$0.02]
+** Dealing down cards **
+DDragu folds
+** Summary **
+_Teddy_ did not show his hand
+_Teddy_ collected [ $0.03 ]
+
+
+#Game No : 509026993
+***** 888poker Hand History for Game 509026993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 06:10:57
+Table Helsinki 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: _Teddy_ ( $1 )
+Seat 4: DDragu ( $1.62 )
+_Teddy_ posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+_Teddy_ raises [$0.05]
+DDragu folds
+** Summary **
+_Teddy_ did not show his hand
+_Teddy_ collected [ $0.04 ]
+
+
+#Game No : 509027289
+***** 888poker Hand History for Game 509027289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 06:24:58
+Table Helsinki 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: shooguun ( $1.93 )
+Seat 10: mariana585 ( $1.19 )
+mariana585 posts small blind [$0.01]
+shooguun posts big blind [$0.02]
+** Dealing down cards **
+mariana585 calls [$0.01]
+shooguun raises [$0.02]
+mariana585 calls [$0.02]
+** Dealing flop ** [ Js, Qs, Tc ]
+shooguun bets [$0.08]
+mariana585 folds
+** Summary **
+shooguun did not show his hand
+shooguun collected [ $0.08 ]
+
+
+#Game No : 509027294
+***** 888poker Hand History for Game 509027294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 06:25:12
+Table Helsinki 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: shooguun ( $1.97 )
+Seat 10: mariana585 ( $1.15 )
+shooguun posts small blind [$0.01]
+mariana585 posts big blind [$0.02]
+** Dealing down cards **
+shooguun calls [$0.01]
+mariana585 checks
+** Dealing flop ** [ 2d, 6d, 9s ]
+mariana585 checks
+shooguun bets [$0.08]
+mariana585 calls [$0.08]
+** Dealing turn ** [ 6h ]
+mariana585 checks
+shooguun bets [$0.20]
+mariana585 folds
+** Summary **
+shooguun did not show his hand
+shooguun collected [ $0.19 ]
+
+
+#Game No : 509027300
+***** 888poker Hand History for Game 509027300 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 06:25:33
+Table Helsinki 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: shooguun ( $2.06 )
+Seat 10: mariana585 ( $1.05 )
+mariana585 posts small blind [$0.01]
+shooguun posts big blind [$0.02]
+** Dealing down cards **
+mariana585 raises [$1.04]
+shooguun calls [$1.03]
+** Dealing flop ** [ 8d, 8h, 9c ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 7d ]
+** Summary **
+shooguun shows [ Ac, 3s ]
+mariana585 shows [ 2s, 2h ]
+mariana585 collected [ $1.97 ]
+
+
+#Game No : 509046084
+***** 888poker Hand History for Game 509046084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2018 14:12:10
+Table Helsinki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 888mrNike888 ( $1.15 )
+Seat 4: alkennedy5 ( $1.87 )
+888mrNike888 posts small blind [$0.01]
+alkennedy5 posts big blind [$0.02]
+** Dealing down cards **
+888mrNike888 calls [$0.01]
+alkennedy5 checks
+** Dealing flop ** [ Jh, 7d, 4d ]
+alkennedy5 checks
+888mrNike888 checks
+** Dealing turn ** [ Kh ]
+alkennedy5 bets [$0.02]
+888mrNike888 calls [$0.02]
+** Dealing river ** [ 5h ]
+alkennedy5 bets [$0.05]
+888mrNike888 folds
+** Summary **
+alkennedy5 collected [ $0.08 ]
+
+

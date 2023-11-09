@@ -1,0 +1,404 @@
+#Game No : 1616968
+***** 888poker Hand History for Game 1616968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:34:23
+Table Monrovia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.93 )
+Seat 2: Arseniy0512 ( $1.30 )
+Cheeta01 posts small blind [$0.01]
+Arseniy0512 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 raises [$0.03]
+Arseniy0512 folds
+** Summary **
+Cheeta01 collected [ $0.04 ]
+
+
+#Game No : 1616973
+***** 888poker Hand History for Game 1616973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:35:41
+Table Monrovia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.95 )
+Seat 4: Koks85 ( $0.80 )
+Koks85 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Koks85 folds
+** Summary **
+Cheeta01 collected [ $0.03 ]
+
+
+#Game No : 1616974
+***** 888poker Hand History for Game 1616974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:35:48
+Table Monrovia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.96 )
+Seat 4: Koks85 ( $0.79 )
+Cheeta01 posts small blind [$0.01]
+Koks85 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+Koks85 raises [$0.02]
+Cheeta01 calls [$0.02]
+** Dealing flop ** [ Kc, 4c, 6c ]
+Koks85 bets [$0.04]
+Cheeta01 raises [$0.80]
+Koks85 folds
+** Summary **
+Cheeta01 collected [ $0.15 ]
+
+
+#Game No : 1616976
+***** 888poker Hand History for Game 1616976 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:36:10
+Table Monrovia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $2.03 )
+Seat 4: Koks85 ( $0.71 )
+Koks85 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Koks85 calls [$0.01]
+Cheeta01 checks
+** Dealing flop ** [ 2d, 9s, Jd ]
+Cheeta01 checks
+Koks85 checks
+** Dealing turn ** [ Th ]
+Cheeta01 bets [$0.02]
+Koks85 calls [$0.02]
+** Dealing river ** [ Ks ]
+Cheeta01 checks
+Koks85 bets [$0.05]
+Cheeta01 folds
+** Summary **
+Koks85 collected [ $0.08 ]
+
+
+#Game No : 1616978
+***** 888poker Hand History for Game 1616978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:36:32
+Table Monrovia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.99 )
+Seat 4: Koks85 ( $0.75 )
+Cheeta01 posts small blind [$0.01]
+Koks85 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+Koks85 checks
+** Dealing flop ** [ 2s, Td, Ac ]
+Koks85 checks
+Cheeta01 checks
+** Dealing turn ** [ 8d ]
+Koks85 checks
+Cheeta01 checks
+** Dealing river ** [ Jd ]
+Koks85 checks
+Cheeta01 checks
+** Summary **
+Koks85 shows [ 6d, 5h ]
+Cheeta01 mucks [ 3d, 4h ]
+Koks85 collected [ $0.04 ]
+
+
+#Game No : 1616980
+***** 888poker Hand History for Game 1616980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:36:53
+Table Monrovia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.97 )
+Seat 4: Koks85 ( $0.77 )
+Koks85 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Koks85 calls [$0.01]
+Cheeta01 checks
+** Dealing flop ** [ Ks, 6c, 9d ]
+Cheeta01 checks
+Koks85 checks
+** Dealing turn ** [ Kh ]
+Cheeta01 checks
+Koks85 checks
+** Dealing river ** [ Js ]
+Cheeta01 checks
+Koks85 checks
+** Summary **
+Cheeta01 shows [ 8d, 5d ]
+Koks85 shows [ 5h, Jd ]
+Koks85 collected [ $0.04 ]
+
+
+#Game No : 1616992
+***** 888poker Hand History for Game 1616992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:38:55
+Table Monrovia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.79 )
+Seat 4: Koks85 ( $0.76 )
+Cheeta01 posts small blind [$0.01]
+Koks85 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+Koks85 checks
+** Dealing flop ** [ Qs, Ts, 2s ]
+Koks85 checks
+Cheeta01 bets [$0.02]
+Koks85 calls [$0.02]
+** Dealing turn ** [ Qc ]
+Koks85 checks
+Cheeta01 bets [$0.02]
+Koks85 calls [$0.02]
+** Dealing river ** [ 7d ]
+Koks85 checks
+Cheeta01 checks
+** Summary **
+Koks85 shows [ 6h, 2d ]
+Cheeta01 shows [ 2c, 3d ]
+Koks85 collected [ $0.06 ]
+Cheeta01 collected [ $0.06 ]
+
+
+#Game No : 1616996
+***** 888poker Hand History for Game 1616996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:39:20
+Table Monrovia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.79 )
+Seat 4: Koks85 ( $0.76 )
+Koks85 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Koks85 calls [$0.01]
+Cheeta01 checks
+** Dealing flop ** [ Ts, Ad, 4c ]
+Cheeta01 bets [$0.02]
+Koks85 folds
+** Summary **
+Cheeta01 collected [ $0.04 ]
+
+
+#Game No : 1616997
+***** 888poker Hand History for Game 1616997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:39:32
+Table Monrovia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.81 )
+Seat 4: Koks85 ( $0.74 )
+Cheeta01 posts small blind [$0.01]
+Koks85 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 raises [$0.03]
+Koks85 calls [$0.02]
+** Dealing flop ** [ 3s, 9d, Jc ]
+Koks85 checks
+Cheeta01 checks
+** Dealing turn ** [ Ad ]
+Koks85 checks
+Cheeta01 bets [$0.10]
+Koks85 folds
+** Summary **
+Cheeta01 collected [ $0.08 ]
+
+
+#Game No : 1616998
+***** 888poker Hand History for Game 1616998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:39:50
+Table Monrovia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.85 )
+Seat 4: Koks85 ( $0.70 )
+Koks85 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Koks85 calls [$0.01]
+Cheeta01 checks
+** Dealing flop ** [ 7c, Tc, 6s ]
+Cheeta01 bets [$0.02]
+Koks85 calls [$0.02]
+** Dealing turn ** [ 9h ]
+Cheeta01 bets [$0.02]
+Koks85 calls [$0.02]
+** Dealing river ** [ Ah ]
+Cheeta01 checks
+Koks85 checks
+** Summary **
+Cheeta01 shows [ 2d, 6d ]
+Koks85 shows [ Kh, 9s ]
+Koks85 collected [ $0.12 ]
+
+
+#Game No : 1616999
+***** 888poker Hand History for Game 1616999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:40:11
+Table Monrovia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.79 )
+Seat 4: Koks85 ( $0.76 )
+Cheeta01 posts small blind [$0.01]
+Koks85 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 raises [$0.27]
+Koks85 folds
+** Summary **
+Cheeta01 collected [ $0.04 ]
+
+
+#Game No : 1617001
+***** 888poker Hand History for Game 1617001 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:40:20
+Table Monrovia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.81 )
+Seat 4: Koks85 ( $0.74 )
+Koks85 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Koks85 raises [$0.03]
+Cheeta01 calls [$0.02]
+** Dealing flop ** [ Kc, Kd, Ks ]
+Cheeta01 bets [$0.02]
+Koks85 raises [$0.10]
+Cheeta01 folds
+** Summary **
+Koks85 collected [ $0.12 ]
+
+
+#Game No : 1617003
+***** 888poker Hand History for Game 1617003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:40:38
+Table Monrovia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.75 )
+Seat 4: Koks85 ( $0.80 )
+Cheeta01 posts small blind [$0.01]
+Koks85 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+Koks85 checks
+** Dealing flop ** [ Ts, 6c, 2c ]
+Koks85 checks
+Cheeta01 bets [$0.12]
+Koks85 folds
+** Summary **
+Cheeta01 collected [ $0.04 ]
+
+
+#Game No : 1617004
+***** 888poker Hand History for Game 1617004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:40:54
+Table Monrovia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.77 )
+Seat 4: Koks85 ( $0.78 )
+Koks85 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Koks85 calls [$0.01]
+Cheeta01 raises [$0.10]
+Koks85 calls [$0.10]
+** Dealing flop ** [ 4d, 9s, 9c ]
+Cheeta01 bets [$0.40]
+Koks85 folds
+** Summary **
+Cheeta01 collected [ $0.23 ]
+
+
+#Game No : 1617027
+***** 888poker Hand History for Game 1617027 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:45:26
+Table Monrovia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Koks85 ( $0.53 )
+Seat 6: Avatar1929 ( $1.60 )
+Koks85 posts small blind [$0.01]
+Avatar1929 posts big blind [$0.02]
+** Dealing down cards **
+Koks85 folds
+** Summary **
+Avatar1929 collected [ $0.03 ]
+
+
+#Game No : 1617028
+***** 888poker Hand History for Game 1617028 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:45:32
+Table Monrovia 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Koks85 ( $0.52 )
+Seat 6: Avatar1929 ( $1.61 )
+Avatar1929 posts small blind [$0.01]
+Koks85 posts big blind [$0.02]
+** Dealing down cards **
+Avatar1929 folds
+** Summary **
+Koks85 collected [ $0.03 ]
+
+
+#Game No : 1617526
+***** 888poker Hand History for Game 1617526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 04:19:22
+Table Monrovia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: startravel07 ( $3.69 )
+Seat 9: dr.assss ( $2.38 )
+dr.assss posts small blind [$0.01]
+** Dealing down cards **
+startravel07 folds
+** Summary **
+dr.assss collected [ $0.01 ]
+
+
+#Game No : 1617527
+***** 888poker Hand History for Game 1617527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 04:19:26
+Table Monrovia 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: NNNddd111 ( $3.58 )
+Seat 9: dr.assss ( $2.38 )
+dr.assss posts small blind [$0.01]
+NNNddd111 posts big blind [$0.02]
+** Dealing down cards **
+dr.assss raises [$0.05]
+NNNddd111 folds
+** Summary **
+dr.assss did not show his hand
+dr.assss collected [ $0.04 ]
+
+
+#Game No : 1617528
+***** 888poker Hand History for Game 1617528 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 04:19:36
+Table Monrovia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: NNNddd111 ( $3.56 )
+Seat 9: dr.assss ( $2.40 )
+NNNddd111 posts small blind [$0.01]
+dr.assss posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 raises [$0.03]
+dr.assss folds
+** Summary **
+NNNddd111 did not show his hand
+NNNddd111 collected [ $0.04 ]
+
+

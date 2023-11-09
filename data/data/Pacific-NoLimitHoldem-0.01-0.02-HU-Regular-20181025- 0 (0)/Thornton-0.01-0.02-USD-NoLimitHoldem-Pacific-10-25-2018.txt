@@ -1,0 +1,86 @@
+#Game No : 504288351
+***** 888poker Hand History for Game 504288351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 19:52:13
+Table Thornton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: petr19600908 ( $1 )
+Seat 2: C.VanBelois ( $0.80 )
+petr19600908 posts small blind [$0.01]
+C.VanBelois posts big blind [$0.02]
+** Dealing down cards **
+petr19600908 calls [$0.01]
+C.VanBelois checks
+** Dealing flop ** [ 9h, 5c, 5d ]
+C.VanBelois checks
+petr19600908 checks
+** Dealing turn ** [ Qc ]
+C.VanBelois checks
+petr19600908 checks
+** Dealing river ** [ Jd ]
+C.VanBelois checks
+petr19600908 checks
+** Summary **
+C.VanBelois shows [ 4d, 8c ]
+petr19600908 shows [ 6c, 7s ]
+C.VanBelois collected [ $0.02 ]
+petr19600908 collected [ $0.02 ]
+
+
+#Game No : 504288369
+***** 888poker Hand History for Game 504288369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 19:52:59
+Table Thornton 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: petr19600908 ( $1 )
+Seat 2: C.VanBelois ( $0.80 )
+C.VanBelois posts small blind [$0.01]
+petr19600908 posts big blind [$0.02]
+** Dealing down cards **
+C.VanBelois calls [$0.01]
+petr19600908 checks
+** Dealing flop ** [ Ac, Kd, 8s ]
+petr19600908 checks
+C.VanBelois checks
+** Dealing turn ** [ 7d ]
+petr19600908 checks
+C.VanBelois checks
+** Dealing river ** [ 3s ]
+petr19600908 checks
+C.VanBelois bets [$0.02]
+petr19600908 folds
+** Summary **
+C.VanBelois collected [ $0.04 ]
+
+
+#Game No : 504288527
+***** 888poker Hand History for Game 504288527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 20:02:34
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: H3zz3R ( $2.03 )
+Seat 7: kapable71 ( $0.63 )
+H3zz3R posts small blind [$0.01]
+kapable71 posts big blind [$0.02]
+** Dealing down cards **
+H3zz3R raises [$0.03]
+kapable71 raises [$0.04]
+H3zz3R raises [$0.04]
+kapable71 calls [$0.02]
+** Dealing flop ** [ Kd, 9c, 7c ]
+kapable71 bets [$0.08]
+H3zz3R raises [$0.16]
+kapable71 calls [$0.08]
+** Dealing turn ** [ 6h ]
+kapable71 bets [$0.24]
+H3zz3R raises [$0.48]
+kapable71 calls [$0.15]
+** Dealing river ** [ Qd ]
+** Summary **
+H3zz3R shows [ Ks, 8h ]
+kapable71 shows [ 9s, As ]
+H3zz3R collected [ $1.19 ]
+
+

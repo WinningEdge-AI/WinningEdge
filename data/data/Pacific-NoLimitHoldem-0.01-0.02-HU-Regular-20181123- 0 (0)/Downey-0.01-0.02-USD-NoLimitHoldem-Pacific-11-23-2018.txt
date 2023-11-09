@@ -1,0 +1,369 @@
+#Game No : 516722945
+***** 888poker Hand History for Game 516722945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 01:14:25
+Table Downey 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: abubakirov ( $0.81 )
+Seat 9: kryvosheieva ( $0.60 )
+abubakirov posts small blind [$0.01]
+kryvosheieva posts big blind [$0.02]
+** Dealing down cards **
+abubakirov folds
+** Summary **
+kryvosheieva collected [ $0.03 ]
+
+
+#Game No : 516725002
+***** 888poker Hand History for Game 516725002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 01:56:42
+Table Downey 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kadath78 ( $1.05 )
+Seat 6: abubakirov ( $1.14 )
+kadath78 posts small blind [$0.01]
+abubakirov posts big blind [$0.02]
+** Dealing down cards **
+kadath78 folds
+** Summary **
+abubakirov collected [ $0.03 ]
+
+
+#Game No : 516725006
+***** 888poker Hand History for Game 516725006 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 01:56:49
+Table Downey 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ApTuk13 ( $0.90 )
+Seat 6: abubakirov ( $1.15 )
+abubakirov posts small blind [$0.01]
+ApTuk13 posts big blind [$0.02]
+** Dealing down cards **
+abubakirov calls [$0.01]
+ApTuk13 checks
+** Dealing flop ** [ 2s, 8c, 4d ]
+ApTuk13 bets [$0.02]
+abubakirov calls [$0.02]
+** Dealing turn ** [ 4c ]
+ApTuk13 bets [$0.04]
+abubakirov calls [$0.04]
+** Dealing river ** [ 5c ]
+ApTuk13 bets [$0.10]
+abubakirov calls [$0.10]
+** Summary **
+ApTuk13 shows [ Qc, 4s ]
+abubakirov mucks [ Jh, Js ]
+ApTuk13 collected [ $0.34 ]
+
+
+#Game No : 611156046
+***** 888poker Hand History for Game 611156046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:41:20
+Table Downey 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dasmos1976 ( $2 )
+Seat 5: Vasiliy55ru ( $2 )
+dasmos1976 posts small blind [$0.01]
+Vasiliy55ru posts big blind [$0.02]
+** Dealing down cards **
+dasmos1976 calls [$0.01]
+Vasiliy55ru checks
+** Dealing flop ** [ Jd, Ad, 9c ]
+Vasiliy55ru checks
+dasmos1976 checks
+** Dealing turn ** [ Kh ]
+Vasiliy55ru checks
+dasmos1976 checks
+** Dealing river ** [ Ac ]
+Vasiliy55ru checks
+dasmos1976 checks
+** Summary **
+Vasiliy55ru shows [ Js, 4h ]
+dasmos1976 mucks [ 7h, 2h ]
+Vasiliy55ru collected [ $0.04 ]
+
+
+#Game No : 611156066
+***** 888poker Hand History for Game 611156066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:41:54
+Table Downey 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: dasmos1976 ( $2 )
+Seat 5: Vasiliy55ru ( $2.02 )
+Vasiliy55ru posts small blind [$0.01]
+dasmos1976 posts big blind [$0.02]
+** Dealing down cards **
+Vasiliy55ru raises [$0.05]
+dasmos1976 calls [$0.04]
+** Dealing flop ** [ 7c, 9c, Qc ]
+dasmos1976 checks
+Vasiliy55ru checks
+** Dealing turn ** [ 7s ]
+dasmos1976 checks
+Vasiliy55ru bets [$0.06]
+dasmos1976 folds
+** Summary **
+Vasiliy55ru collected [ $0.12 ]
+
+
+#Game No : 611156090
+***** 888poker Hand History for Game 611156090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:42:31
+Table Downey 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dasmos1976 ( $2 )
+Seat 5: Vasiliy55ru ( $2.08 )
+dasmos1976 posts small blind [$0.01]
+Vasiliy55ru posts big blind [$0.02]
+** Dealing down cards **
+dasmos1976 folds
+** Summary **
+Vasiliy55ru collected [ $0.03 ]
+
+
+#Game No : 611156094
+***** 888poker Hand History for Game 611156094 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:42:38
+Table Downey 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: dasmos1976 ( $2 )
+Seat 5: Vasiliy55ru ( $2.09 )
+Vasiliy55ru posts small blind [$0.01]
+dasmos1976 posts big blind [$0.02]
+** Dealing down cards **
+Vasiliy55ru folds
+** Summary **
+dasmos1976 collected [ $0.03 ]
+
+
+#Game No : 611156098
+***** 888poker Hand History for Game 611156098 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:42:48
+Table Downey 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dasmos1976 ( $2.01 )
+Seat 5: Vasiliy55ru ( $2.08 )
+dasmos1976 posts small blind [$0.01]
+Vasiliy55ru posts big blind [$0.02]
+** Dealing down cards **
+dasmos1976 calls [$0.01]
+Vasiliy55ru checks
+** Dealing flop ** [ 9d, Qs, 6c ]
+Vasiliy55ru checks
+dasmos1976 checks
+** Dealing turn ** [ Jh ]
+Vasiliy55ru checks
+dasmos1976 checks
+** Dealing river ** [ Tc ]
+Vasiliy55ru checks
+dasmos1976 checks
+** Summary **
+Vasiliy55ru shows [ 8h, 4d ]
+dasmos1976 mucks [ 6d, 5d ]
+Vasiliy55ru collected [ $0.04 ]
+
+
+#Game No : 611156127
+***** 888poker Hand History for Game 611156127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:43:39
+Table Downey 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: dasmos1976 ( $2 )
+Seat 5: Vasiliy55ru ( $2.10 )
+Vasiliy55ru posts small blind [$0.01]
+dasmos1976 posts big blind [$0.02]
+** Dealing down cards **
+Vasiliy55ru folds
+** Summary **
+dasmos1976 collected [ $0.03 ]
+
+
+#Game No : 611156135
+***** 888poker Hand History for Game 611156135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:43:47
+Table Downey 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dasmos1976 ( $2.01 )
+Seat 5: Vasiliy55ru ( $2.09 )
+dasmos1976 posts small blind [$0.01]
+** Dealing down cards **
+Vasiliy55ru folds
+** Summary **
+dasmos1976 collected [ $0.01 ]
+
+
+#Game No : 611156361
+***** 888poker Hand History for Game 611156361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:50:31
+Table Downey 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: rafaelkazuo3 ( $0.80 )
+Seat 6: adamk36 ( $2 )
+adamk36 posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+adamk36 folds
+** Summary **
+rafaelkazuo3 did not show his hand
+rafaelkazuo3 collected [ $0.03 ]
+
+
+#Game No : 611156598
+***** 888poker Hand History for Game 611156598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:57:27
+Table Downey 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: mgaleev1 ( $2.01 )
+Seat 10: SumkinMan ( $0.80 )
+mgaleev1 posts small blind [$0.01]
+SumkinMan posts big blind [$0.02]
+** Dealing down cards **
+mgaleev1 calls [$0.01]
+SumkinMan checks
+** Dealing flop ** [ Jc, Kc, Qs ]
+SumkinMan checks
+mgaleev1 bets [$0.02]
+SumkinMan folds
+** Summary **
+mgaleev1 did not show his hand
+mgaleev1 collected [ $0.04 ]
+
+
+#Game No : 611156611
+***** 888poker Hand History for Game 611156611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:57:49
+Table Downey 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: mgaleev1 ( $2.03 )
+Seat 10: SumkinMan ( $0.78 )
+SumkinMan posts small blind [$0.01]
+mgaleev1 posts big blind [$0.02]
+** Dealing down cards **
+SumkinMan raises [$0.03]
+mgaleev1 calls [$0.02]
+** Dealing flop ** [ Qh, 8d, 3s ]
+mgaleev1 bets [$0.02]
+SumkinMan calls [$0.02]
+** Dealing turn ** [ Ad ]
+mgaleev1 checks
+SumkinMan bets [$0.06]
+mgaleev1 calls [$0.06]
+** Dealing river ** [ 8c ]
+mgaleev1 checks
+SumkinMan bets [$0.24]
+mgaleev1 calls [$0.24]
+** Summary **
+SumkinMan shows [ As, 6d ]
+mgaleev1 shows [ 7c, 8s ]
+mgaleev1 collected [ $0.68 ]
+
+
+#Game No : 611156631
+***** 888poker Hand History for Game 611156631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:58:26
+Table Downey 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: mgaleev1 ( $2.35 )
+Seat 10: SumkinMan ( $0.42 )
+mgaleev1 posts small blind [$0.01]
+SumkinMan posts big blind [$0.02]
+** Dealing down cards **
+mgaleev1 calls [$0.01]
+SumkinMan checks
+** Dealing flop ** [ 3c, 8h, Jc ]
+SumkinMan bets [$0.04]
+mgaleev1 calls [$0.04]
+** Dealing turn ** [ Qh ]
+SumkinMan bets [$0.06]
+mgaleev1 calls [$0.06]
+** Dealing river ** [ Ad ]
+SumkinMan bets [$0.24]
+mgaleev1 calls [$0.24]
+** Summary **
+SumkinMan shows [ Qc, Jd ]
+mgaleev1 mucks [ Qs, 6c ]
+SumkinMan collected [ $0.68 ]
+
+
+#Game No : 611156653
+***** 888poker Hand History for Game 611156653 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 05:59:04
+Table Downey 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: mgaleev1 ( $1.99 )
+Seat 10: SumkinMan ( $0.74 )
+SumkinMan posts small blind [$0.01]
+mgaleev1 posts big blind [$0.02]
+** Dealing down cards **
+SumkinMan calls [$0.01]
+mgaleev1 checks
+** Dealing flop ** [ Qd, 3h, 7d ]
+mgaleev1 checks
+SumkinMan bets [$0.04]
+mgaleev1 folds
+** Summary **
+SumkinMan collected [ $0.04 ]
+
+
+#Game No : 611162889
+***** 888poker Hand History for Game 611162889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 08:21:55
+Table Downey 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: orion_9 ( $2 )
+Seat 10: Th1stlecrack ( $2.09 )
+Th1stlecrack posts small blind [$0.01]
+orion_9 posts big blind [$0.02]
+** Dealing down cards **
+Th1stlecrack folds
+** Summary **
+orion_9 collected [ $0.03 ]
+
+
+#Game No : 611162897
+***** 888poker Hand History for Game 611162897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 08:22:04
+Table Downey 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: orion_9 ( $2.01 )
+Seat 10: Th1stlecrack ( $2.08 )
+orion_9 posts small blind [$0.01]
+Th1stlecrack posts big blind [$0.02]
+** Dealing down cards **
+orion_9 folds
+** Summary **
+Th1stlecrack collected [ $0.03 ]
+
+
+#Game No : 611162899
+***** 888poker Hand History for Game 611162899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 08:22:09
+Table Downey 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: mgaleev1 ( $2.15 )
+Seat 10: Th1stlecrack ( $2.09 )
+Th1stlecrack posts small blind [$0.01]
+mgaleev1 posts big blind [$0.02]
+** Dealing down cards **
+Th1stlecrack folds
+** Summary **
+mgaleev1 collected [ $0.03 ]
+
+

@@ -1,0 +1,57 @@
+#Game No : 617691951
+***** 888poker Hand History for Game 617691951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 01:25:20
+Table Joliet 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: RomRomJG ( $1.03 )
+Seat 4: Oidrema ( $1 )
+RomRomJG posts small blind [$0.01]
+Oidrema posts big blind [$0.02]
+** Dealing down cards **
+RomRomJG calls [$0.01]
+Oidrema checks
+** Dealing flop ** [ 2h, Ac, 7s ]
+Oidrema checks
+RomRomJG checks
+** Dealing turn ** [ Ah ]
+Oidrema checks
+RomRomJG checks
+** Dealing river ** [ 8h ]
+Oidrema checks
+RomRomJG checks
+** Summary **
+Oidrema shows [ 6c, 3c ]
+RomRomJG mucks [ 3h, 4s ]
+Oidrema collected [ $0.04 ]
+
+
+#Game No : 617691966
+***** 888poker Hand History for Game 617691966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 01:25:43
+Table Joliet 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: RomRomJG ( $1.01 )
+Seat 4: Oidrema ( $1.02 )
+Oidrema posts small blind [$0.01]
+RomRomJG posts big blind [$0.02]
+** Dealing down cards **
+Oidrema raises [$0.05]
+RomRomJG raises [$0.10]
+Oidrema calls [$0.06]
+** Dealing flop ** [ 9h, 2c, Ad ]
+RomRomJG checks
+Oidrema bets [$0.16]
+RomRomJG calls [$0.16]
+** Dealing turn ** [ 6h ]
+RomRomJG bets [$0.37]
+Oidrema raises [$0.74]
+RomRomJG calls [$0.36]
+** Dealing river ** [ 5h ]
+** Summary **
+RomRomJG shows [ 9s, 9d ]
+Oidrema shows [ Ah, 6c ]
+RomRomJG collected [ $1.90 ]
+
+

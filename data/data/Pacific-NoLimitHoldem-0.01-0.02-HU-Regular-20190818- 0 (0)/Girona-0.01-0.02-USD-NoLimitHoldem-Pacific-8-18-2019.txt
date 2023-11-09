@@ -1,0 +1,51 @@
+#Game No : 842925
+***** 888poker Hand History for Game 842925 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2019 16:58:09
+Table Girona 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ezoterica ( $2.21 )
+Seat 9: Khalidsm ( $2 )
+ezoterica posts small blind [$0.01]
+Khalidsm posts big blind [$0.02]
+** Dealing down cards **
+ezoterica raises [$0.05]
+Khalidsm calls [$0.04]
+** Dealing flop ** [ Tc, Kc, Jh ]
+Khalidsm checks
+ezoterica checks
+** Dealing turn ** [ Ac ]
+Khalidsm checks
+ezoterica bets [$0.08]
+Khalidsm folds
+** Summary **
+ezoterica did not show his hand
+ezoterica collected [ $0.12 ]
+
+
+#Game No : 842927
+***** 888poker Hand History for Game 842927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2019 16:58:33
+Table Girona 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ezoterica ( $2.27 )
+Seat 9: Khalidsm ( $1.94 )
+Khalidsm posts small blind [$0.01]
+ezoterica posts big blind [$0.02]
+** Dealing down cards **
+Khalidsm calls [$0.01]
+ezoterica checks
+** Dealing flop ** [ 7c, 2h, 8c ]
+ezoterica bets [$0.02]
+Khalidsm calls [$0.02]
+** Dealing turn ** [ Ks ]
+ezoterica checks
+Khalidsm checks
+** Dealing river ** [ 9s ]
+ezoterica bets [$0.05]
+Khalidsm folds
+** Summary **
+ezoterica collected [ $0.08 ]
+
+

@@ -1,0 +1,73 @@
+#Game No : 502837471
+***** 888poker Hand History for Game 502837471 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 08:39:39
+Table Upington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: carlosfile ( $1.06 )
+Seat 6: rayscotty62 ( $0.94 )
+rayscotty62 posts small blind [$0.01]
+carlosfile posts big blind [$0.02]
+** Dealing down cards **
+rayscotty62 calls [$0.01]
+carlosfile checks
+** Dealing flop ** [ 7c, 6h, 2c ]
+carlosfile checks
+rayscotty62 bets [$0.02]
+carlosfile calls [$0.02]
+** Dealing turn ** [ 9c ]
+carlosfile checks
+rayscotty62 checks
+** Dealing river ** [ Qd ]
+carlosfile bets [$0.08]
+rayscotty62 calls [$0.08]
+** Summary **
+carlosfile shows [ Jc, 8h ]
+rayscotty62 shows [ Qs, Ah ]
+rayscotty62 collected [ $0.23 ]
+
+
+#Game No : 502837520
+***** 888poker Hand History for Game 502837520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 08:40:11
+Table Upington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: carlosfile ( $0.96 )
+Seat 6: rayscotty62 ( $1.03 )
+rayscotty62 posts small blind [$0.01]
+carlosfile posts big blind [$0.02]
+** Dealing down cards **
+rayscotty62 calls [$0.01]
+carlosfile checks
+** Dealing flop ** [ 8c, Js, 6d ]
+carlosfile checks
+rayscotty62 bets [$0.02]
+carlosfile calls [$0.02]
+** Dealing turn ** [ 2s ]
+carlosfile checks
+rayscotty62 checks
+** Dealing river ** [ Qs ]
+carlosfile checks
+rayscotty62 bets [$0.04]
+carlosfile folds
+** Summary **
+rayscotty62 collected [ $0.08 ]
+
+
+#Game No : 502838465
+***** 888poker Hand History for Game 502838465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 08:58:13
+Table Upington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RockyWarr777 ( $1.46 )
+Seat 7: dedtk ( $1.02 )
+RockyWarr777 posts small blind [$0.01]
+dedtk posts big blind [$0.02]
+** Dealing down cards **
+RockyWarr777 folds
+** Summary **
+dedtk collected [ $0.03 ]
+
+

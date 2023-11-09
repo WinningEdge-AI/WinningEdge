@@ -1,0 +1,123 @@
+#Game No : 453588256
+***** 888poker Hand History for Game 453588256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 23:50:48
+Table Cariacica 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Thaeer ( $2.76 )
+Seat 5: O_LE_G ( $2 )
+Thaeer posts small blind [$0.01]
+O_LE_G posts big blind [$0.02]
+** Dealing down cards **
+Thaeer folds
+** Summary **
+O_LE_G collected [ $0.03 ]
+
+
+#Game No : 453596745
+***** 888poker Hand History for Game 453596745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 07:13:43
+Table Cariacica 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: aizen899 ( $2.06 )
+Seat 9: bizserge111 ( $0.71 )
+bizserge111 posts small blind [$0.01]
+aizen899 posts big blind [$0.02]
+** Dealing down cards **
+bizserge111 calls [$0.01]
+aizen899 checks
+** Dealing flop ** [ 5d, 3d, Qc ]
+aizen899 checks
+bizserge111 checks
+** Dealing turn ** [ 5h ]
+aizen899 checks
+bizserge111 checks
+** Dealing river ** [ 6d ]
+aizen899 checks
+bizserge111 checks
+** Summary **
+aizen899 shows [ Kh, 2s ]
+bizserge111 mucks [ Tc, 4d ]
+aizen899 collected [ $0.04 ]
+
+
+#Game No : 453596926
+***** 888poker Hand History for Game 453596926 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 07:22:06
+Table Cariacica 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: lrv1974 ( $2 )
+Seat 9: avramia1 ( $2 )
+lrv1974 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+lrv1974 calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 5d, Qd, 4c ]
+avramia1 checks
+lrv1974 checks
+** Dealing turn ** [ Td ]
+avramia1 checks
+lrv1974 bets [$0.04]
+avramia1 calls [$0.04]
+** Dealing river ** [ 3c ]
+avramia1 checks
+lrv1974 bets [$0.06]
+avramia1 calls [$0.06]
+** Summary **
+lrv1974 shows [ 5c, 4h ]
+avramia1 mucks [ Qh, 8s ]
+lrv1974 collected [ $0.23 ]
+
+
+#Game No : 453597266
+***** 888poker Hand History for Game 453597266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 07:35:38
+Table Cariacica 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: _winchi ( $2 )
+Seat 3: Bene2016 ( $1.40 )
+_winchi posts small blind [$0.01]
+Bene2016 posts big blind [$0.02]
+** Dealing down cards **
+_winchi raises [$0.04]
+Bene2016 calls [$0.03]
+** Dealing flop ** [ 2d, Jd, Qd ]
+Bene2016 bets [$0.05]
+_winchi folds
+** Summary **
+Bene2016 collected [ $0.10 ]
+
+
+#Game No : 453597277
+***** 888poker Hand History for Game 453597277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 07:36:00
+Table Cariacica 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: _winchi ( $2 )
+Seat 3: Bene2016 ( $1.45 )
+Bene2016 posts small blind [$0.01]
+_winchi posts big blind [$0.02]
+** Dealing down cards **
+Bene2016 calls [$0.01]
+_winchi checks
+** Dealing flop ** [ Th, 8c, Kh ]
+_winchi checks
+Bene2016 checks
+** Dealing turn ** [ 7s ]
+_winchi checks
+Bene2016 checks
+** Dealing river ** [ Td ]
+_winchi checks
+Bene2016 checks
+** Summary **
+_winchi shows [ 3c, 6c ]
+Bene2016 shows [ 4s, 5c ]
+_winchi collected [ $0.02 ]
+Bene2016 collected [ $0.02 ]
+
+

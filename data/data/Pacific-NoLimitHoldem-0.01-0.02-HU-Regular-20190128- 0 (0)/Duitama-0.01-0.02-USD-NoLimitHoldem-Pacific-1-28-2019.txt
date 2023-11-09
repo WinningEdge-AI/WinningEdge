@@ -1,0 +1,49 @@
+#Game No : 512859545
+***** 888poker Hand History for Game 512859545 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 02:53:21
+Table Duitama 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: harry5600 ( $1.94 )
+Seat 10: AtlanTor ( $2 )
+harry5600 posts small blind [$0.01]
+AtlanTor posts big blind [$0.02]
+** Dealing down cards **
+harry5600 calls [$0.01]
+AtlanTor checks
+** Dealing flop ** [ 7c, Qh, Jh ]
+AtlanTor checks
+harry5600 checks
+** Dealing turn ** [ 3c ]
+AtlanTor bets [$0.03]
+harry5600 folds
+** Summary **
+AtlanTor collected [ $0.04 ]
+
+
+#Game No : 512859576
+***** 888poker Hand History for Game 512859576 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 02:54:06
+Table Duitama 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.93 )
+Seat 4: harry5600 ( $1.92 )
+harry5600 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+harry5600 calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 7c, 3h, 3c ]
+avramia1 checks
+harry5600 checks
+** Dealing turn ** [ Ts ]
+avramia1 checks
+harry5600 checks
+** Dealing river ** [ 4h ]
+avramia1 bets [$1.91]
+harry5600 folds
+** Summary **
+avramia1 collected [ $0.04 ]
+
+

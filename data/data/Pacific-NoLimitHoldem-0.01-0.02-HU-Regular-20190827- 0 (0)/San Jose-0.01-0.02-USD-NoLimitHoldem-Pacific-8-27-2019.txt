@@ -1,0 +1,398 @@
+#Game No : 521019966
+***** 888poker Hand History for Game 521019966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:51:07
+Table San Jose 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $8.83 )
+Seat 9: TaranToul ( $2.15 )
+TaranToul posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+TaranToul raises [$0.05]
+DJL89 folds
+** Summary **
+TaranToul did not show his hand
+TaranToul collected [ $0.04 ]
+
+
+#Game No : 521019974
+***** 888poker Hand History for Game 521019974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:51:19
+Table San Jose 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $8.81 )
+Seat 9: TaranToul ( $2.17 )
+TaranToul posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+TaranToul raises [$0.05]
+DJL89 raises [$0.16]
+TaranToul calls [$0.12]
+** Dealing flop ** [ 5d, 6h, Jh ]
+DJL89 bets [$0.23]
+TaranToul calls [$0.23]
+** Dealing turn ** [ Tc ]
+DJL89 bets [$0.54]
+TaranToul calls [$0.54]
+** Dealing river ** [ 2d ]
+DJL89 checks
+TaranToul bets [$1.22]
+DJL89 folds
+** Summary **
+TaranToul collected [ $1.79 ]
+
+
+#Game No : 521020002
+***** 888poker Hand History for Game 521020002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:52:37
+Table San Jose 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $7.86 )
+Seat 9: TaranToul ( $3.01 )
+DJL89 posts small blind [$0.01]
+** Dealing down cards **
+TaranToul folds
+** Summary **
+DJL89 collected [ $0.01 ]
+
+
+#Game No : 521020003
+***** 888poker Hand History for Game 521020003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:52:41
+Table San Jose 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $7.86 )
+Seat 4: Cpt.Moonface ( $1 )
+DJL89 posts small blind [$0.01]
+Cpt.Moonface posts big blind [$0.02]
+** Dealing down cards **
+DJL89 raises [$0.05]
+Cpt.Moonface folds
+** Summary **
+DJL89 collected [ $0.04 ]
+
+
+#Game No : 521020008
+***** 888poker Hand History for Game 521020008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:52:53
+Table San Jose 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $7.88 )
+Seat 4: Cpt.Moonface ( $0.98 )
+Cpt.Moonface posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+Cpt.Moonface raises [$0.03]
+DJL89 raises [$0.12]
+Cpt.Moonface calls [$0.10]
+** Dealing flop ** [ 6s, As, Kc ]
+DJL89 checks
+Cpt.Moonface bets [$0.04]
+DJL89 calls [$0.04]
+** Dealing turn ** [ 5c ]
+DJL89 checks
+Cpt.Moonface bets [$0.06]
+DJL89 calls [$0.06]
+** Dealing river ** [ 7s ]
+DJL89 checks
+Cpt.Moonface bets [$0.10]
+DJL89 calls [$0.10]
+** Summary **
+Cpt.Moonface shows [ 9h, Ah ]
+DJL89 mucks [ Td, Kd ]
+Cpt.Moonface collected [ $0.64 ]
+
+
+#Game No : 521020093
+***** 888poker Hand History for Game 521020093 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:57:00
+Table San Jose 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $7.61 )
+Seat 4: Cpt.Moonface ( $1.39 )
+Cpt.Moonface posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+Cpt.Moonface calls [$0.01]
+DJL89 raises [$0.06]
+Cpt.Moonface calls [$0.06]
+** Dealing flop ** [ 5c, 8c, 7s ]
+DJL89 checks
+Cpt.Moonface checks
+** Dealing turn ** [ 8d ]
+DJL89 checks
+Cpt.Moonface checks
+** Dealing river ** [ 9h ]
+DJL89 checks
+Cpt.Moonface checks
+** Summary **
+DJL89 shows [ 4s, 2s ]
+Cpt.Moonface shows [ Jc, Kd ]
+Cpt.Moonface collected [ $0.15 ]
+
+
+#Game No : 521020112
+***** 888poker Hand History for Game 521020112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:57:59
+Table San Jose 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $7.53 )
+Seat 6: JoedavisEast ( $2.01 )
+JoedavisEast posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+JoedavisEast calls [$0.01]
+DJL89 raises [$0.06]
+JoedavisEast calls [$0.06]
+** Dealing flop ** [ 5h, 8d, Jd ]
+JoedavisEast checks
+DJL89 bets [$0.10]
+JoedavisEast calls [$0.10]
+** Dealing turn ** [ 8h ]
+JoedavisEast checks
+DJL89 checks
+** Dealing river ** [ 9s ]
+JoedavisEast bets [$0.14]
+DJL89 calls [$0.14]
+** Summary **
+JoedavisEast shows [ 9d, Ts ]
+DJL89 shows [ Qc, Th ]
+DJL89 collected [ $0.60 ]
+
+
+#Game No : 521020127
+***** 888poker Hand History for Game 521020127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:58:48
+Table San Jose 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $7.81 )
+Seat 6: JoedavisEast ( $1.69 )
+JoedavisEast posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+JoedavisEast calls [$0.01]
+DJL89 checks
+** Dealing flop ** [ Qh, Ts, 4d ]
+DJL89 checks
+JoedavisEast checks
+** Dealing turn ** [ 7c ]
+DJL89 checks
+JoedavisEast checks
+** Dealing river ** [ Kc ]
+DJL89 checks
+JoedavisEast checks
+** Summary **
+DJL89 shows [ 4s, 5c ]
+JoedavisEast mucks [ 9d, 5d ]
+DJL89 collected [ $0.04 ]
+
+
+#Game No : 521020878
+***** 888poker Hand History for Game 521020878 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 03:32:01
+Table San Jose 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $7.15 )
+Seat 6: Grebnezor ( $2.19 )
+Grebnezor posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+Grebnezor raises [$0.05]
+DJL89 folds
+** Summary **
+Grebnezor did not show his hand
+Grebnezor collected [ $0.04 ]
+
+
+#Game No : 521020882
+***** 888poker Hand History for Game 521020882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 03:32:13
+Table San Jose 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $7.13 )
+Seat 6: Grebnezor ( $2.21 )
+DJL89 posts small blind [$0.01]
+Grebnezor posts big blind [$0.02]
+** Dealing down cards **
+DJL89 folds
+** Summary **
+Grebnezor did not show his hand
+Grebnezor collected [ $0.03 ]
+
+
+#Game No : 521020885
+***** 888poker Hand History for Game 521020885 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 03:32:21
+Table San Jose 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $7.12 )
+Seat 6: Grebnezor ( $2.22 )
+Grebnezor posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+Grebnezor raises [$0.05]
+DJL89 raises [$0.16]
+Grebnezor calls [$0.12]
+** Dealing flop ** [ 5c, 7h, 9c ]
+DJL89 bets [$0.23]
+Grebnezor calls [$0.23]
+** Dealing turn ** [ 6c ]
+DJL89 checks
+Grebnezor checks
+** Dealing river ** [ 6d ]
+DJL89 checks
+Grebnezor bets [$0.41]
+DJL89 calls [$0.41]
+** Summary **
+Grebnezor shows [ Tc, Td ]
+DJL89 shows [ 3d, 4d ]
+DJL89 collected [ $1.54 ]
+
+
+#Game No : 521020944
+***** 888poker Hand History for Game 521020944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 03:34:44
+Table San Jose 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Grebnezor ( $1.32 )
+Seat 7: Arseniy0512 ( $0.90 )
+Grebnezor posts small blind [$0.01]
+Arseniy0512 posts big blind [$0.02]
+** Dealing down cards **
+Grebnezor folds
+** Summary **
+Arseniy0512 did not show his hand
+Arseniy0512 collected [ $0.03 ]
+
+
+#Game No : 521020948
+***** 888poker Hand History for Game 521020948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 03:34:50
+Table San Jose 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Grebnezor ( $1.31 )
+Seat 7: Arseniy0512 ( $0.91 )
+Arseniy0512 posts small blind [$0.01]
+Grebnezor posts big blind [$0.02]
+** Dealing down cards **
+Arseniy0512 folds
+** Summary **
+Grebnezor collected [ $0.03 ]
+
+
+#Game No : 521022425
+***** 888poker Hand History for Game 521022425 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 04:30:09
+Table San Jose 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Strategs ( $2 )
+Seat 7: Peeylaw ( $2.11 )
+Strategs posts small blind [$0.01]
+Peeylaw posts big blind [$0.02]
+** Dealing down cards **
+Strategs calls [$0.01]
+Peeylaw raises [$0.06]
+Strategs folds
+** Summary **
+Peeylaw did not show his hand
+Peeylaw collected [ $0.04 ]
+
+
+#Game No : 521022429
+***** 888poker Hand History for Game 521022429 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 04:30:20
+Table San Jose 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Strategs ( $2 )
+Seat 7: Peeylaw ( $2.13 )
+Peeylaw posts small blind [$0.01]
+Strategs posts big blind [$0.02]
+** Dealing down cards **
+Peeylaw folds
+** Summary **
+Strategs did not show his hand
+Strategs collected [ $0.03 ]
+
+
+#Game No : 521022430
+***** 888poker Hand History for Game 521022430 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 04:30:26
+Table San Jose 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Strategs ( $2.01 )
+Seat 7: Peeylaw ( $2.12 )
+Strategs posts small blind [$0.01]
+Peeylaw posts big blind [$0.02]
+** Dealing down cards **
+Strategs raises [$0.05]
+Peeylaw calls [$0.04]
+** Dealing flop ** [ 5h, 4s, 5c ]
+Peeylaw checks
+Strategs checks
+** Dealing turn ** [ 6s ]
+Peeylaw checks
+Strategs bets [$0.08]
+Peeylaw calls [$0.08]
+** Dealing river ** [ 6c ]
+Peeylaw checks
+Strategs checks
+** Summary **
+Peeylaw shows [ 5s, Ad ]
+Strategs mucks [ Qs, Th ]
+Peeylaw collected [ $0.27 ]
+
+
+#Game No : 521022445
+***** 888poker Hand History for Game 521022445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 04:30:59
+Table San Jose 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Strategs ( $2 )
+Seat 7: Peeylaw ( $2.25 )
+Peeylaw posts small blind [$0.01]
+Strategs posts big blind [$0.02]
+** Dealing down cards **
+Peeylaw raises [$0.05]
+Strategs calls [$0.04]
+** Dealing flop ** [ 9h, Qh, 7d ]
+Strategs checks
+Peeylaw bets [$0.06]
+Strategs raises [$0.18]
+Peeylaw folds
+** Summary **
+Strategs collected [ $0.23 ]
+
+
+#Game No : 521022460
+***** 888poker Hand History for Game 521022460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 04:31:43
+Table San Jose 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Strategs ( $2.09 )
+Seat 7: Peeylaw ( $2.15 )
+Peeylaw posts small blind [$0.01]
+Strategs posts big blind [$0.02]
+** Dealing down cards **
+Peeylaw folds
+** Summary **
+Strategs collected [ $0.03 ]
+
+

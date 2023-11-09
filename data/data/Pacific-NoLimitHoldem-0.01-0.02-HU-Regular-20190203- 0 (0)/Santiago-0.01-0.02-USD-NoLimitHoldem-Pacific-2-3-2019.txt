@@ -1,0 +1,380 @@
+#Game No : 1244903688
+***** 888poker Hand History for Game 1244903688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 02:41:06
+Table Santiago 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nico19741985 ( $1.94 )
+Seat 4: Aslan_027 ( $1.06 )
+nico19741985 posts small blind [$0.01]
+Aslan_027 posts big blind [$0.02]
+** Dealing down cards **
+nico19741985 calls [$0.01]
+Aslan_027 checks
+** Dealing flop ** [ 8d, 2c, 5d ]
+Aslan_027 checks
+nico19741985 bets [$0.02]
+Aslan_027 folds
+** Summary **
+nico19741985 collected [ $0.04 ]
+
+
+#Game No : 1245006695
+***** 888poker Hand History for Game 1245006695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:05:45
+Table Santiago 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Fireshow1 ( $2.82 )
+Seat 7: ruerup ( $2 )
+Fireshow1 posts small blind [$0.01]
+ruerup posts big blind [$0.02]
+** Dealing down cards **
+Fireshow1 folds
+** Summary **
+ruerup collected [ $0.03 ]
+
+
+#Game No : 1245006731
+***** 888poker Hand History for Game 1245006731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:05:52
+Table Santiago 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: Fireshow1 ( $2.81 )
+Seat 7: ruerup ( $2.01 )
+ruerup posts small blind [$0.01]
+** Dealing down cards **
+Fireshow1 folds
+** Summary **
+ruerup collected [ $0.01 ]
+
+
+#Game No : 1245008160
+***** 888poker Hand History for Game 1245008160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:11:01
+Table Santiago 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: RERAISE100 ( $1.09 )
+Seat 10: marleybowers ( $0.40 )
+marleybowers posts small blind [$0.01]
+RERAISE100 posts big blind [$0.02]
+** Dealing down cards **
+marleybowers calls [$0.01]
+RERAISE100 checks
+** Dealing flop ** [ 9h, Th, Ks ]
+RERAISE100 bets [$0.02]
+marleybowers calls [$0.02]
+** Dealing turn ** [ 3d ]
+RERAISE100 bets [$0.05]
+marleybowers calls [$0.05]
+** Dealing river ** [ 5h ]
+RERAISE100 checks
+marleybowers checks
+** Summary **
+RERAISE100 shows [ 3c, Kc ]
+marleybowers mucks [ 4h, Qc ]
+RERAISE100 collected [ $0.17 ]
+
+
+#Game No : 1245008361
+***** 888poker Hand History for Game 1245008361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:11:44
+Table Santiago 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RERAISE100 ( $1.17 )
+Seat 10: marleybowers ( $0.31 )
+RERAISE100 posts small blind [$0.01]
+marleybowers posts big blind [$0.02]
+** Dealing down cards **
+RERAISE100 calls [$0.01]
+marleybowers checks
+** Dealing flop ** [ 2c, 2h, Ks ]
+marleybowers checks
+RERAISE100 checks
+** Dealing turn ** [ 7h ]
+marleybowers checks
+RERAISE100 checks
+** Dealing river ** [ 8s ]
+marleybowers checks
+RERAISE100 checks
+** Summary **
+marleybowers shows [ Qc, 4s ]
+RERAISE100 shows [ 7s, Jd ]
+RERAISE100 collected [ $0.04 ]
+
+
+#Game No : 1245008613
+***** 888poker Hand History for Game 1245008613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:12:40
+Table Santiago 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: RERAISE100 ( $1.19 )
+Seat 10: marleybowers ( $0.29 )
+marleybowers posts small blind [$0.01]
+RERAISE100 posts big blind [$0.02]
+** Dealing down cards **
+marleybowers calls [$0.01]
+RERAISE100 checks
+** Dealing flop ** [ 4d, 5c, Kh ]
+RERAISE100 checks
+marleybowers checks
+** Dealing turn ** [ 3s ]
+RERAISE100 bets [$0.02]
+marleybowers calls [$0.02]
+** Dealing river ** [ 7d ]
+RERAISE100 bets [$0.05]
+marleybowers folds
+** Summary **
+RERAISE100 did not show his hand
+RERAISE100 collected [ $0.08 ]
+
+
+#Game No : 1245008802
+***** 888poker Hand History for Game 1245008802 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:13:21
+Table Santiago 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RERAISE100 ( $1.23 )
+Seat 10: marleybowers ( $0.25 )
+RERAISE100 posts small blind [$0.01]
+marleybowers posts big blind [$0.02]
+** Dealing down cards **
+RERAISE100 calls [$0.01]
+marleybowers checks
+** Dealing flop ** [ Ks, Th, 6h ]
+marleybowers checks
+RERAISE100 bets [$0.02]
+marleybowers calls [$0.02]
+** Dealing turn ** [ 4h ]
+marleybowers checks
+RERAISE100 bets [$0.02]
+marleybowers calls [$0.02]
+** Dealing river ** [ 3h ]
+marleybowers checks
+RERAISE100 bets [$0.02]
+marleybowers calls [$0.02]
+** Summary **
+RERAISE100 shows [ 9h, Kc ]
+marleybowers mucks [ Kd, 9d ]
+RERAISE100 collected [ $0.15 ]
+
+
+#Game No : 1245011671
+***** 888poker Hand History for Game 1245011671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:23:31
+Table Santiago 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ZockerKopf ( $0.70 )
+Seat 6: Skylan1337 ( $1.77 )
+Skylan1337 posts small blind [$0.01]
+ZockerKopf posts big blind [$0.02]
+** Dealing down cards **
+Skylan1337 calls [$0.01]
+ZockerKopf checks
+** Dealing flop ** [ 3d, Ac, 9c ]
+ZockerKopf checks
+Skylan1337 bets [$0.02]
+ZockerKopf calls [$0.02]
+** Dealing turn ** [ 8s ]
+ZockerKopf checks
+Skylan1337 checks
+** Dealing river ** [ 6s ]
+ZockerKopf checks
+Skylan1337 checks
+** Summary **
+ZockerKopf shows [ 2c, 9s ]
+Skylan1337 mucks [ 7c, 7h ]
+ZockerKopf collected [ $0.08 ]
+
+
+#Game No : 1245011814
+***** 888poker Hand History for Game 1245011814 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:23:58
+Table Santiago 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ZockerKopf ( $0.74 )
+Seat 6: Skylan1337 ( $1.73 )
+ZockerKopf posts small blind [$0.01]
+Skylan1337 posts big blind [$0.02]
+** Dealing down cards **
+ZockerKopf calls [$0.01]
+Skylan1337 checks
+** Dealing flop ** [ Ks, Ts, 7d ]
+Skylan1337 checks
+ZockerKopf bets [$0.02]
+Skylan1337 calls [$0.02]
+** Dealing turn ** [ 6d ]
+Skylan1337 checks
+ZockerKopf bets [$0.02]
+Skylan1337 calls [$0.02]
+** Dealing river ** [ 6h ]
+Skylan1337 checks
+ZockerKopf bets [$0.02]
+Skylan1337 raises [$0.12]
+ZockerKopf folds
+** Summary **
+Skylan1337 did not show his hand
+Skylan1337 collected [ $0.15 ]
+
+
+#Game No : 1245011949
+***** 888poker Hand History for Game 1245011949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:24:26
+Table Santiago 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ZockerKopf ( $0.66 )
+Seat 6: Skylan1337 ( $1.80 )
+Skylan1337 posts small blind [$0.01]
+ZockerKopf posts big blind [$0.02]
+** Dealing down cards **
+Skylan1337 calls [$0.01]
+ZockerKopf checks
+** Dealing flop ** [ 7c, 9s, Kh ]
+ZockerKopf checks
+Skylan1337 checks
+** Dealing turn ** [ 7s ]
+ZockerKopf bets [$0.04]
+Skylan1337 folds
+** Summary **
+ZockerKopf did not show his hand
+ZockerKopf collected [ $0.04 ]
+
+
+#Game No : 1245012028
+***** 888poker Hand History for Game 1245012028 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:24:43
+Table Santiago 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ZockerKopf ( $0.68 )
+Seat 6: Skylan1337 ( $1.78 )
+ZockerKopf posts small blind [$0.01]
+Skylan1337 posts big blind [$0.02]
+** Dealing down cards **
+ZockerKopf calls [$0.01]
+Skylan1337 raises [$0.02]
+ZockerKopf calls [$0.02]
+** Dealing flop ** [ 2h, 2d, Kh ]
+Skylan1337 bets [$0.04]
+ZockerKopf folds
+** Summary **
+Skylan1337 did not show his hand
+Skylan1337 collected [ $0.08 ]
+
+
+#Game No : 1245012105
+***** 888poker Hand History for Game 1245012105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:24:58
+Table Santiago 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ZockerKopf ( $0.64 )
+Seat 6: Skylan1337 ( $1.82 )
+Skylan1337 posts small blind [$0.01]
+ZockerKopf posts big blind [$0.02]
+** Dealing down cards **
+Skylan1337 calls [$0.01]
+ZockerKopf checks
+** Dealing flop ** [ As, 7s, 4h ]
+ZockerKopf checks
+Skylan1337 checks
+** Dealing turn ** [ 2h ]
+ZockerKopf checks
+Skylan1337 checks
+** Dealing river ** [ 9d ]
+ZockerKopf checks
+Skylan1337 checks
+** Summary **
+ZockerKopf shows [ 2d, 6c ]
+Skylan1337 shows [ 3c, 4c ]
+Skylan1337 collected [ $0.04 ]
+
+
+#Game No : 1245012207
+***** 888poker Hand History for Game 1245012207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:25:20
+Table Santiago 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ZockerKopf ( $0.62 )
+Seat 6: Skylan1337 ( $1.84 )
+ZockerKopf posts small blind [$0.01]
+Skylan1337 posts big blind [$0.02]
+** Dealing down cards **
+ZockerKopf calls [$0.01]
+Skylan1337 raises [$0.02]
+ZockerKopf calls [$0.02]
+** Dealing flop ** [ As, 7d, 8s ]
+Skylan1337 checks
+ZockerKopf checks
+** Dealing turn ** [ Ah ]
+Skylan1337 checks
+ZockerKopf checks
+** Dealing river ** [ 9c ]
+Skylan1337 bets [$0.04]
+ZockerKopf folds
+** Summary **
+Skylan1337 collected [ $0.08 ]
+
+
+#Game No : 1245012349
+***** 888poker Hand History for Game 1245012349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:25:47
+Table Santiago 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ZockerKopf ( $0.58 )
+Seat 6: Skylan1337 ( $1.88 )
+Skylan1337 posts small blind [$0.01]
+ZockerKopf posts big blind [$0.02]
+** Dealing down cards **
+Skylan1337 calls [$0.01]
+ZockerKopf checks
+** Dealing flop ** [ 5h, 5c, 9h ]
+ZockerKopf checks
+Skylan1337 checks
+** Dealing turn ** [ 7s ]
+ZockerKopf checks
+Skylan1337 checks
+** Dealing river ** [ 6h ]
+ZockerKopf checks
+Skylan1337 checks
+** Summary **
+ZockerKopf shows [ Jc, 3s ]
+Skylan1337 shows [ 3c, Jd ]
+Skylan1337 collected [ $0.02 ]
+ZockerKopf collected [ $0.02 ]
+
+
+#Game No : 1245012489
+***** 888poker Hand History for Game 1245012489 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 10:26:15
+Table Santiago 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: matveev3 ( $2 )
+Seat 6: Skylan1337 ( $1.88 )
+Skylan1337 posts small blind [$0.01]
+matveev3 posts big blind [$0.02]
+** Dealing down cards **
+Skylan1337 calls [$0.01]
+matveev3 checks
+** Dealing flop ** [ Ac, Kc, 6s ]
+matveev3 checks
+Skylan1337 checks
+** Dealing turn ** [ 5h ]
+matveev3 checks
+Skylan1337 bets [$0.02]
+matveev3 folds
+** Summary **
+Skylan1337 collected [ $0.04 ]
+
+

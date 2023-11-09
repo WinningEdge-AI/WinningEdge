@@ -1,0 +1,376 @@
+#Game No : 503262367
+***** 888poker Hand History for Game 503262367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 23:36:57
+Table Nancy 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1.97 )
+Seat 6: JilanShah ( $1.59 )
+JilanShah posts small blind [$0.01]
+Kolkovskiy14 posts big blind [$0.02]
+** Dealing down cards **
+JilanShah calls [$0.01]
+Kolkovskiy14 checks
+** Dealing flop ** [ 3h, 4d, Ts ]
+Kolkovskiy14 bets [$0.02]
+JilanShah folds
+** Summary **
+Kolkovskiy14 collected [ $0.04 ]
+
+
+#Game No : 503262484
+***** 888poker Hand History for Game 503262484 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 23:45:07
+Table Nancy 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: JilanShah ( $2.42 )
+Seat 9: gm2308 ( $0.38 )
+gm2308 posts small blind [$0.01]
+JilanShah posts big blind [$0.02]
+** Dealing down cards **
+gm2308 calls [$0.01]
+JilanShah checks
+** Dealing flop ** [ Tc, Kh, 8s ]
+JilanShah checks
+gm2308 checks
+** Dealing turn ** [ Th ]
+JilanShah checks
+gm2308 checks
+** Dealing river ** [ 5d ]
+JilanShah checks
+gm2308 checks
+** Summary **
+JilanShah shows [ 7d, 4h ]
+gm2308 shows [ Qd, 6d ]
+gm2308 collected [ $0.04 ]
+
+
+#Game No : 503262496
+***** 888poker Hand History for Game 503262496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 23:45:50
+Table Nancy 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: JilanShah ( $2.40 )
+Seat 9: gm2308 ( $0.40 )
+JilanShah posts small blind [$0.01]
+gm2308 posts big blind [$0.02]
+** Dealing down cards **
+JilanShah calls [$0.01]
+gm2308 checks
+** Dealing flop ** [ Ad, 5h, 3h ]
+gm2308 checks
+JilanShah checks
+** Dealing turn ** [ Ah ]
+gm2308 bets [$0.02]
+JilanShah calls [$0.02]
+** Dealing river ** [ Th ]
+gm2308 bets [$0.02]
+JilanShah raises [$0.04]
+gm2308 raises [$0.04]
+JilanShah calls [$0.02]
+** Summary **
+gm2308 shows [ 5s, Kh ]
+JilanShah mucks [ 7d, Jh ]
+gm2308 collected [ $0.19 ]
+
+
+#Game No : 503262507
+***** 888poker Hand History for Game 503262507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 23:46:28
+Table Nancy 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: JilanShah ( $2.30 )
+Seat 9: gm2308 ( $0.49 )
+gm2308 posts small blind [$0.01]
+JilanShah posts big blind [$0.02]
+** Dealing down cards **
+gm2308 raises [$0.03]
+JilanShah calls [$0.02]
+** Dealing flop ** [ Jd, 5h, 5c ]
+JilanShah checks
+gm2308 checks
+** Dealing turn ** [ Ac ]
+JilanShah checks
+gm2308 checks
+** Dealing river ** [ 8h ]
+JilanShah bets [$0.08]
+gm2308 calls [$0.08]
+** Summary **
+JilanShah shows [ 7d, 5d ]
+gm2308 mucks [ 9c, 9d ]
+JilanShah collected [ $0.23 ]
+
+
+#Game No : 503262518
+***** 888poker Hand History for Game 503262518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 23:47:08
+Table Nancy 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: JilanShah ( $2.41 )
+Seat 9: gm2308 ( $0.37 )
+JilanShah posts small blind [$0.01]
+gm2308 posts big blind [$0.02]
+** Dealing down cards **
+JilanShah calls [$0.01]
+gm2308 checks
+** Dealing flop ** [ 3d, 6d, 8c ]
+gm2308 checks
+JilanShah checks
+** Dealing turn ** [ 6c ]
+gm2308 checks
+JilanShah checks
+** Dealing river ** [ 8d ]
+gm2308 checks
+JilanShah checks
+** Summary **
+gm2308 shows [ 2c, Qh ]
+JilanShah shows [ Kh, 7s ]
+JilanShah collected [ $0.04 ]
+
+
+#Game No : 503262527
+***** 888poker Hand History for Game 503262527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 23:47:37
+Table Nancy 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: JilanShah ( $2.43 )
+Seat 9: gm2308 ( $0.35 )
+gm2308 posts small blind [$0.01]
+JilanShah posts big blind [$0.02]
+** Dealing down cards **
+gm2308 calls [$0.01]
+JilanShah checks
+** Dealing flop ** [ 5s, Td, Ac ]
+JilanShah checks
+gm2308 checks
+** Dealing turn ** [ 5d ]
+JilanShah checks
+gm2308 checks
+** Dealing river ** [ Tc ]
+JilanShah checks
+gm2308 checks
+** Summary **
+JilanShah shows [ Qd, 6c ]
+gm2308 shows [ 3s, 4s ]
+JilanShah collected [ $0.02 ]
+gm2308 collected [ $0.02 ]
+
+
+#Game No : 503263121
+***** 888poker Hand History for Game 503263121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 00:26:36
+Table Nancy 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: WhatAHell ( $0.82 )
+Seat 7: 236Rsa89 ( $1.64 )
+WhatAHell posts small blind [$0.01]
+236Rsa89 posts big blind [$0.02]
+** Dealing down cards **
+WhatAHell calls [$0.01]
+236Rsa89 checks
+** Dealing flop ** [ 4d, 3d, Qd ]
+236Rsa89 bets [$0.02]
+WhatAHell folds
+** Summary **
+236Rsa89 collected [ $0.04 ]
+
+
+#Game No : 503263123
+***** 888poker Hand History for Game 503263123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 00:26:48
+Table Nancy 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: WhatAHell ( $0.80 )
+Seat 7: 236Rsa89 ( $1.66 )
+236Rsa89 posts small blind [$0.01]
+WhatAHell posts big blind [$0.02]
+** Dealing down cards **
+236Rsa89 raises [$0.03]
+WhatAHell folds
+** Summary **
+236Rsa89 collected [ $0.04 ]
+
+
+#Game No : 503263127
+***** 888poker Hand History for Game 503263127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 00:26:56
+Table Nancy 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: WhatAHell ( $0.78 )
+Seat 7: 236Rsa89 ( $1.68 )
+WhatAHell posts small blind [$0.01]
+236Rsa89 posts big blind [$0.02]
+** Dealing down cards **
+WhatAHell folds
+** Summary **
+236Rsa89 collected [ $0.03 ]
+
+
+#Game No : 503263133
+***** 888poker Hand History for Game 503263133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 00:27:05
+Table Nancy 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: WhatAHell ( $0.77 )
+Seat 7: 236Rsa89 ( $1.69 )
+236Rsa89 posts small blind [$0.01]
+** Dealing down cards **
+WhatAHell folds
+** Summary **
+236Rsa89 collected [ $0.01 ]
+
+
+#Game No : 503263173
+***** 888poker Hand History for Game 503263173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 00:29:44
+Table Nancy 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ifyabag ( $1 )
+Seat 6: paama2 ( $0.80 )
+ifyabag posts small blind [$0.01]
+paama2 posts big blind [$0.02]
+** Dealing down cards **
+ifyabag folds
+** Summary **
+paama2 did not show his hand
+paama2 collected [ $0.03 ]
+
+
+#Game No : 503263175
+***** 888poker Hand History for Game 503263175 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 00:29:51
+Table Nancy 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ifyabag ( $1 )
+Seat 6: paama2 ( $0.81 )
+paama2 posts small blind [$0.01]
+ifyabag posts big blind [$0.02]
+** Dealing down cards **
+paama2 calls [$0.01]
+ifyabag checks
+** Dealing flop ** [ Qd, 6h, 9h ]
+ifyabag checks
+paama2 bets [$0.02]
+ifyabag folds
+** Summary **
+paama2 collected [ $0.04 ]
+
+
+#Game No : 503266177
+***** 888poker Hand History for Game 503266177 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 02:20:22
+Table Nancy 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: trancenn ( $1.23 )
+Seat 4: Ph7lOne ( $2.06 )
+Ph7lOne posts small blind [$0.01]
+trancenn posts big blind [$0.02]
+** Dealing down cards **
+Ph7lOne raises [$0.03]
+trancenn folds
+** Summary **
+Ph7lOne collected [ $0.04 ]
+
+
+#Game No : 503267789
+***** 888poker Hand History for Game 503267789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 03:23:26
+Table Nancy 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: 777pokerled2 ( $0.90 )
+Seat 7: Jaguar1797 ( $1 )
+Jaguar1797 posts small blind [$0.01]
+777pokerled2 posts big blind [$0.02]
+** Dealing down cards **
+Jaguar1797 calls [$0.01]
+777pokerled2 checks
+** Dealing flop ** [ 3c, Qh, Ks ]
+777pokerled2 bets [$0.02]
+Jaguar1797 calls [$0.02]
+** Dealing turn ** [ Js ]
+777pokerled2 checks
+Jaguar1797 bets [$0.02]
+777pokerled2 calls [$0.02]
+** Dealing river ** [ Ts ]
+777pokerled2 checks
+Jaguar1797 bets [$0.02]
+777pokerled2 folds
+** Summary **
+Jaguar1797 collected [ $0.12 ]
+
+
+#Game No : 503267803
+***** 888poker Hand History for Game 503267803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 03:23:49
+Table Nancy 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 777pokerled2 ( $0.84 )
+Seat 7: Jaguar1797 ( $1.06 )
+777pokerled2 posts small blind [$0.01]
+Jaguar1797 posts big blind [$0.02]
+** Dealing down cards **
+777pokerled2 calls [$0.01]
+Jaguar1797 checks
+** Dealing flop ** [ 5h, 6s, Ks ]
+Jaguar1797 checks
+777pokerled2 checks
+** Dealing turn ** [ 9c ]
+Jaguar1797 checks
+777pokerled2 checks
+** Dealing river ** [ 7s ]
+Jaguar1797 bets [$1.04]
+777pokerled2 calls [$0.82]
+** Summary **
+777pokerled2 shows [ 8s, Tc ]
+Jaguar1797 shows [ 6c, Kc ]
+777pokerled2 collected [ $1.58 ]
+
+
+#Game No : 503268342
+***** 888poker Hand History for Game 503268342 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 03:38:53
+Table Nancy 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hexchen70 ( $0.83 )
+Seat 9: aron4ik ( $3.01 )
+Hexchen70 posts small blind [$0.01]
+aron4ik posts big blind [$0.02]
+** Dealing down cards **
+Hexchen70 raises [$0.03]
+aron4ik folds
+** Summary **
+Hexchen70 did not show his hand
+Hexchen70 collected [ $0.04 ]
+
+
+#Game No : 503268348
+***** 888poker Hand History for Game 503268348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 03:39:01
+Table Nancy 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Hexchen70 ( $0.85 )
+Seat 9: aron4ik ( $2.99 )
+aron4ik posts small blind [$0.01]
+Hexchen70 posts big blind [$0.02]
+** Dealing down cards **
+aron4ik folds
+** Summary **
+Hexchen70 collected [ $0.03 ]
+
+

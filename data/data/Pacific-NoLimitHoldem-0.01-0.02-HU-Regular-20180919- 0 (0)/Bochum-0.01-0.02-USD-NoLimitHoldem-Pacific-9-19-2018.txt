@@ -1,0 +1,93 @@
+#Game No : 455530687
+***** 888poker Hand History for Game 455530687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 07:16:09
+Table Bochum 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: djangoninja ( $0.82 )
+Seat 10: bronteboy57 ( $1.98 )
+bronteboy57 posts small blind [$0.01]
+djangoninja posts big blind [$0.02]
+** Dealing down cards **
+bronteboy57 calls [$0.01]
+djangoninja checks
+** Dealing flop ** [ Qs, As, 9c ]
+djangoninja checks
+bronteboy57 checks
+** Dealing turn ** [ 9d ]
+djangoninja checks
+bronteboy57 checks
+** Dealing river ** [ 3h ]
+djangoninja checks
+bronteboy57 checks
+** Summary **
+djangoninja shows [ 6d, Jh ]
+bronteboy57 shows [ 3s, 2d ]
+bronteboy57 collected [ $0.04 ]
+
+
+#Game No : 455530701
+***** 888poker Hand History for Game 455530701 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 07:16:15
+Table Bochum 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: djangoninja ( $0.80 )
+Seat 10: bronteboy57 ( $2 )
+djangoninja posts small blind [$0.01]
+bronteboy57 posts big blind [$0.02]
+** Dealing down cards **
+djangoninja calls [$0.01]
+bronteboy57 checks
+** Dealing flop ** [ 3h, Td, Th ]
+bronteboy57 checks
+djangoninja bets [$0.02]
+bronteboy57 folds
+** Summary **
+djangoninja collected [ $0.04 ]
+
+
+#Game No : 511458381
+***** 888poker Hand History for Game 511458381 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 13:56:28
+Table Bochum 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $0.71 )
+Seat 6: ichthyolog ( $1.01 )
+ichthyolog posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+ichthyolog raises [$0.05]
+scs1914 calls [$0.04]
+** Dealing flop ** [ Js, 6d, 4h ]
+scs1914 checks
+ichthyolog checks
+** Dealing turn ** [ Tc ]
+scs1914 bets [$0.02]
+ichthyolog calls [$0.02]
+** Dealing river ** [ Jc ]
+scs1914 bets [$0.02]
+ichthyolog calls [$0.02]
+** Summary **
+scs1914 shows [ Ad, 4s ]
+ichthyolog mucks [ 2s, 2h ]
+scs1914 collected [ $0.19 ]
+
+
+#Game No : 511458407
+***** 888poker Hand History for Game 511458407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 13:56:50
+Table Bochum 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $0.80 )
+Seat 6: ichthyolog ( $1 )
+scs1914 posts small blind [$0.01]
+ichthyolog posts big blind [$0.02]
+** Dealing down cards **
+scs1914 folds
+** Summary **
+ichthyolog collected [ $0.03 ]
+
+

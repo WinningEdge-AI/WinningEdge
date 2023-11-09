@@ -1,0 +1,30 @@
+#Game No : 605688616
+***** 888poker Hand History for Game 605688616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 12:55:25
+Table Oldham 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: eyescrossed ( $0.85 )
+Seat 5: YoungUrsula ( $1.18 )
+YoungUrsula posts small blind [$0.01]
+eyescrossed posts big blind [$0.02]
+** Dealing down cards **
+YoungUrsula calls [$0.01]
+eyescrossed checks
+** Dealing flop ** [ 2c, Tc, Th ]
+eyescrossed checks
+YoungUrsula checks
+** Dealing turn ** [ Kh ]
+eyescrossed checks
+YoungUrsula bets [$0.02]
+eyescrossed calls [$0.02]
+** Dealing river ** [ 2d ]
+eyescrossed checks
+YoungUrsula bets [$0.02]
+eyescrossed calls [$0.02]
+** Summary **
+YoungUrsula shows [ Ac, 4s ]
+eyescrossed mucks [ 9h, Js ]
+YoungUrsula collected [ $0.12 ]
+
+

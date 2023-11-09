@@ -1,0 +1,510 @@
+#Game No : 504338399
+***** 888poker Hand History for Game 504338399 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 19:01:54
+Table Bucharest 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: zrito ( $1 )
+Seat 6: SodYerAA ( $1.56 )
+zrito posts small blind [$0.01]
+SodYerAA posts big blind [$0.02]
+** Dealing down cards **
+zrito folds
+** Summary **
+SodYerAA collected [ $0.03 ]
+
+
+#Game No : 504338402
+***** 888poker Hand History for Game 504338402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 19:01:59
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: zrito ( $0.99 )
+Seat 6: SodYerAA ( $1.57 )
+SodYerAA posts small blind [$0.01]
+zrito posts big blind [$0.02]
+** Dealing down cards **
+SodYerAA raises [$0.05]
+zrito folds
+** Summary **
+SodYerAA collected [ $0.04 ]
+
+
+#Game No : 504360188
+***** 888poker Hand History for Game 504360188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 09:27:19
+Table Bucharest 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: prosperous65 ( $2.91 )
+Seat 9: HeroofEvil ( $1.66 )
+prosperous65 posts small blind [$0.01]
+HeroofEvil posts big blind [$0.02]
+** Dealing down cards **
+prosperous65 raises [$0.05]
+HeroofEvil calls [$0.04]
+** Dealing flop ** [ 6h, Ad, Qc ]
+HeroofEvil checks
+prosperous65 bets [$0.06]
+HeroofEvil calls [$0.06]
+** Dealing turn ** [ Qh ]
+HeroofEvil checks
+prosperous65 bets [$0.16]
+HeroofEvil calls [$0.16]
+** Dealing river ** [ 8s ]
+HeroofEvil checks
+prosperous65 bets [$0.37]
+HeroofEvil folds
+** Summary **
+prosperous65 did not show his hand
+prosperous65 collected [ $0.53 ]
+
+
+#Game No : 504360225
+***** 888poker Hand History for Game 504360225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 09:27:58
+Table Bucharest 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: prosperous65 ( $3.16 )
+Seat 9: HeroofEvil ( $1.38 )
+HeroofEvil posts small blind [$0.01]
+** Dealing down cards **
+prosperous65 folds
+** Summary **
+HeroofEvil did not show his hand
+HeroofEvil collected [ $0.01 ]
+
+
+#Game No : 504360316
+***** 888poker Hand History for Game 504360316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 09:29:41
+Table Bucharest 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: svetlafon ( $0.80 )
+Seat 9: AmeMarle ( $0.80 )
+AmeMarle posts small blind [$0.01]
+svetlafon posts big blind [$0.02]
+** Dealing down cards **
+AmeMarle calls [$0.01]
+svetlafon checks
+** Dealing flop ** [ Qs, 2h, 7h ]
+svetlafon checks
+AmeMarle bets [$0.02]
+svetlafon calls [$0.02]
+** Dealing turn ** [ Ac ]
+svetlafon checks
+AmeMarle bets [$0.02]
+svetlafon calls [$0.02]
+** Dealing river ** [ 3c ]
+svetlafon checks
+AmeMarle bets [$0.02]
+svetlafon calls [$0.02]
+** Summary **
+AmeMarle shows [ Ah, 9h ]
+svetlafon mucks [ 2s, 8c ]
+AmeMarle collected [ $0.15 ]
+
+
+#Game No : 504360343
+***** 888poker Hand History for Game 504360343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 09:30:12
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: svetlafon ( $0.72 )
+Seat 9: AmeMarle ( $0.87 )
+svetlafon posts small blind [$0.01]
+AmeMarle posts big blind [$0.02]
+** Dealing down cards **
+svetlafon calls [$0.01]
+AmeMarle checks
+** Dealing flop ** [ Qh, Jd, Qc ]
+AmeMarle checks
+svetlafon checks
+** Dealing turn ** [ 7d ]
+AmeMarle checks
+svetlafon checks
+** Dealing river ** [ Th ]
+AmeMarle checks
+svetlafon bets [$0.02]
+AmeMarle folds
+** Summary **
+svetlafon collected [ $0.04 ]
+
+
+#Game No : 504366278
+***** 888poker Hand History for Game 504366278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 11:14:47
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: shabanblr ( $1.04 )
+Seat 9: Trangia ( $0.97 )
+shabanblr posts small blind [$0.01]
+Trangia posts big blind [$0.02]
+** Dealing down cards **
+shabanblr calls [$0.01]
+Trangia checks
+** Dealing flop ** [ 8d, Qc, Ks ]
+Trangia checks
+shabanblr checks
+** Dealing turn ** [ Kd ]
+Trangia checks
+shabanblr checks
+** Dealing river ** [ 6h ]
+Trangia checks
+shabanblr checks
+** Summary **
+Trangia shows [ 9h, Jc ]
+shabanblr mucks [ Ts, 9c ]
+Trangia collected [ $0.04 ]
+
+
+#Game No : 504366298
+***** 888poker Hand History for Game 504366298 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 11:15:06
+Table Bucharest 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: shabanblr ( $1.02 )
+Seat 9: Trangia ( $0.99 )
+Trangia posts small blind [$0.01]
+shabanblr posts big blind [$0.02]
+** Dealing down cards **
+Trangia calls [$0.01]
+shabanblr checks
+** Dealing flop ** [ 7d, As, 8d ]
+shabanblr bets [$0.04]
+Trangia calls [$0.04]
+** Dealing turn ** [ Ac ]
+shabanblr checks
+Trangia bets [$0.06]
+shabanblr calls [$0.06]
+** Dealing river ** [ Qs ]
+shabanblr checks
+Trangia checks
+** Summary **
+shabanblr shows [ 8h, 5c ]
+Trangia mucks [ 2d, Jd ]
+shabanblr collected [ $0.23 ]
+
+
+#Game No : 504366348
+***** 888poker Hand History for Game 504366348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 11:15:40
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: shabanblr ( $1.13 )
+Seat 9: Trangia ( $0.87 )
+shabanblr posts small blind [$0.01]
+Trangia posts big blind [$0.02]
+** Dealing down cards **
+shabanblr folds
+** Summary **
+Trangia collected [ $0.03 ]
+
+
+#Game No : 504379362
+***** 888poker Hand History for Game 504379362 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 14:46:42
+Table Bucharest 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SpBInvictus ( $2.77 )
+Seat 7: thickstaff ( $2.14 )
+SpBInvictus posts small blind [$0.01]
+thickstaff posts big blind [$0.02]
+** Dealing down cards **
+SpBInvictus folds
+** Summary **
+thickstaff collected [ $0.03 ]
+
+
+#Game No : 504379373
+***** 888poker Hand History for Game 504379373 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 14:46:57
+Table Bucharest 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: SpBInvictus ( $2.76 )
+Seat 7: thickstaff ( $2.15 )
+thickstaff posts small blind [$0.01]
+SpBInvictus posts big blind [$0.02]
+** Dealing down cards **
+thickstaff raises [$0.03]
+SpBInvictus calls [$0.02]
+** Dealing flop ** [ 2h, 6c, 6s ]
+SpBInvictus checks
+thickstaff checks
+** Dealing turn ** [ 9h ]
+SpBInvictus bets [$0.05]
+thickstaff folds
+** Summary **
+SpBInvictus collected [ $0.08 ]
+
+
+#Game No : 504382222
+***** 888poker Hand History for Game 504382222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:09:16
+Table Bucharest 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Kiz41 ( $1 )
+Seat 7: zrito ( $0.82 )
+zrito posts small blind [$0.01]
+Kiz41 posts big blind [$0.02]
+** Dealing down cards **
+zrito folds
+** Summary **
+Kiz41 collected [ $0.03 ]
+
+
+#Game No : 504382227
+***** 888poker Hand History for Game 504382227 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:09:27
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kiz41 ( $1.01 )
+Seat 7: zrito ( $0.81 )
+Kiz41 posts small blind [$0.01]
+** Dealing down cards **
+zrito folds
+** Summary **
+Kiz41 collected [ $0.01 ]
+
+
+#Game No : 504382426
+***** 888poker Hand History for Game 504382426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:16:21
+Table Bucharest 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $0.82 )
+Seat 2: Pipleck64 ( $0.78 )
+Pipleck64 posts small blind [$0.01]
+cipullazz posts big blind [$0.02]
+** Dealing down cards **
+Pipleck64 raises [$0.07]
+cipullazz calls [$0.06]
+** Dealing flop ** [ 3c, 7h, 7d ]
+cipullazz checks
+Pipleck64 bets [$0.06]
+cipullazz calls [$0.06]
+** Dealing turn ** [ 3s ]
+cipullazz bets [$0.14]
+Pipleck64 calls [$0.14]
+** Dealing river ** [ 7c ]
+cipullazz bets [$0.28]
+Pipleck64 calls [$0.28]
+** Summary **
+cipullazz shows [ As, Th ]
+Pipleck64 shows [ Qh, Qd ]
+Pipleck64 collected [ $1.05 ]
+
+
+#Game No : 504382505
+***** 888poker Hand History for Game 504382505 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:18:56
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $0.77 )
+Seat 2: Pipleck64 ( $2.41 )
+cipullazz posts small blind [$0.01]
+Pipleck64 posts big blind [$0.02]
+** Dealing down cards **
+cipullazz raises [$0.07]
+Pipleck64 folds
+** Summary **
+cipullazz did not show his hand
+cipullazz collected [ $0.04 ]
+
+
+#Game No : 504382515
+***** 888poker Hand History for Game 504382515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:19:08
+Table Bucharest 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $0.79 )
+Seat 2: Pipleck64 ( $2.39 )
+Pipleck64 posts small blind [$0.01]
+cipullazz posts big blind [$0.02]
+** Dealing down cards **
+Pipleck64 calls [$0.01]
+cipullazz checks
+** Dealing flop ** [ 5c, Ad, 5d ]
+cipullazz checks
+Pipleck64 checks
+** Dealing turn ** [ 8c ]
+cipullazz bets [$0.02]
+Pipleck64 folds
+** Summary **
+cipullazz did not show his hand
+cipullazz collected [ $0.04 ]
+
+
+#Game No : 504382527
+***** 888poker Hand History for Game 504382527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:19:29
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $0.81 )
+Seat 2: Pipleck64 ( $2.37 )
+cipullazz posts small blind [$0.01]
+Pipleck64 posts big blind [$0.02]
+** Dealing down cards **
+cipullazz calls [$0.01]
+Pipleck64 raises [$0.06]
+cipullazz folds
+** Summary **
+Pipleck64 did not show his hand
+Pipleck64 collected [ $0.04 ]
+
+
+#Game No : 504382582
+***** 888poker Hand History for Game 504382582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:21:04
+Table Bucharest 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $1.49 )
+Seat 4: Twanbristol ( $0.80 )
+Twanbristol posts small blind [$0.01]
+cipullazz posts big blind [$0.02]
+** Dealing down cards **
+Twanbristol folds
+** Summary **
+cipullazz collected [ $0.03 ]
+
+
+#Game No : 504382590
+***** 888poker Hand History for Game 504382590 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:21:15
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $1.50 )
+Seat 4: Twanbristol ( $0.79 )
+cipullazz posts small blind [$0.01]
+Twanbristol posts big blind [$0.02]
+** Dealing down cards **
+cipullazz calls [$0.01]
+Twanbristol checks
+** Dealing flop ** [ 4d, 8c, Js ]
+Twanbristol checks
+cipullazz bets [$0.02]
+Twanbristol calls [$0.02]
+** Dealing turn ** [ 5c ]
+Twanbristol bets [$0.02]
+cipullazz raises [$0.14]
+Twanbristol calls [$0.12]
+** Dealing river ** [ 6s ]
+Twanbristol checks
+cipullazz checks
+** Summary **
+Twanbristol shows [ Jc, Qc ]
+cipullazz shows [ 5h, 8s ]
+cipullazz collected [ $0.34 ]
+
+
+#Game No : 504382607
+***** 888poker Hand History for Game 504382607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:21:48
+Table Bucharest 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $1.66 )
+Seat 4: Twanbristol ( $0.61 )
+Twanbristol posts small blind [$0.01]
+cipullazz posts big blind [$0.02]
+** Dealing down cards **
+Twanbristol calls [$0.01]
+cipullazz checks
+** Dealing flop ** [ 7s, 9s, Kc ]
+cipullazz checks
+Twanbristol checks
+** Dealing turn ** [ Jc ]
+cipullazz checks
+Twanbristol checks
+** Dealing river ** [ Ad ]
+cipullazz checks
+Twanbristol checks
+** Summary **
+cipullazz shows [ Qd, 5c ]
+Twanbristol shows [ 7d, Tc ]
+Twanbristol collected [ $0.04 ]
+
+
+#Game No : 504382702
+***** 888poker Hand History for Game 504382702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:25:17
+Table Bucharest 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $1.69 )
+Seat 2: vikingtony ( $1.15 )
+vikingtony posts small blind [$0.01]
+cipullazz posts big blind [$0.02]
+** Dealing down cards **
+vikingtony raises [$0.03]
+cipullazz folds
+** Summary **
+vikingtony collected [ $0.04 ]
+
+
+#Game No : 504382710
+***** 888poker Hand History for Game 504382710 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:25:36
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $1.67 )
+Seat 2: vikingtony ( $1.17 )
+cipullazz posts small blind [$0.01]
+vikingtony posts big blind [$0.02]
+** Dealing down cards **
+cipullazz raises [$0.03]
+vikingtony calls [$0.02]
+** Dealing flop ** [ Th, 2h, Ad ]
+vikingtony checks
+cipullazz bets [$0.02]
+vikingtony folds
+** Summary **
+cipullazz collected [ $0.08 ]
+
+
+#Game No : 504383311
+***** 888poker Hand History for Game 504383311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:46:37
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cipullazz ( $1.17 )
+Seat 9: CPSHH ( $1.54 )
+cipullazz posts small blind [$0.01]
+CPSHH posts big blind [$0.02]
+** Dealing down cards **
+cipullazz raises [$0.03]
+CPSHH calls [$0.02]
+** Dealing flop ** [ Jd, 4c, 6s ]
+CPSHH checks
+cipullazz checks
+** Dealing turn ** [ 7s ]
+CPSHH bets [$0.05]
+cipullazz calls [$0.05]
+** Dealing river ** [ 5h ]
+CPSHH checks
+cipullazz checks
+** Summary **
+CPSHH shows [ 7c, Jc ]
+cipullazz mucks [ Ac, 2d ]
+CPSHH collected [ $0.17 ]
+
+

@@ -1,0 +1,52 @@
+#Game No : 613333559
+***** 888poker Hand History for Game 613333559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2019 17:12:43
+Table Hillel 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Osho.pp ( $3.74 )
+Seat 10: kontik28 ( $1.28 )
+Osho.pp posts small blind [$0.01]
+kontik28 posts big blind [$0.02]
+** Dealing down cards **
+Osho.pp raises [$0.03]
+kontik28 calls [$0.02]
+** Dealing flop ** [ 4h, 3d, 5h ]
+kontik28 bets [$0.02]
+Osho.pp calls [$0.02]
+** Dealing turn ** [ Jh ]
+kontik28 bets [$0.04]
+Osho.pp folds
+** Summary **
+kontik28 did not show his hand
+kontik28 collected [ $0.12 ]
+
+
+#Game No : 511561082
+***** 888poker Hand History for Game 511561082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2019 01:19:39
+Table Hillel 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Militia2018 ( $0.80 )
+Seat 9: McOwey ( $2 )
+Militia2018 posts small blind [$0.01]
+McOwey posts big blind [$0.02]
+** Dealing down cards **
+Militia2018 calls [$0.01]
+McOwey checks
+** Dealing flop ** [ 5h, 6h, 9c ]
+McOwey checks
+Militia2018 checks
+** Dealing turn ** [ As ]
+McOwey checks
+Militia2018 checks
+** Dealing river ** [ Ts ]
+McOwey checks
+Militia2018 checks
+** Summary **
+McOwey shows [ 3d, 2c ]
+Militia2018 shows [ 3c, Qh ]
+Militia2018 collected [ $0.04 ]
+
+

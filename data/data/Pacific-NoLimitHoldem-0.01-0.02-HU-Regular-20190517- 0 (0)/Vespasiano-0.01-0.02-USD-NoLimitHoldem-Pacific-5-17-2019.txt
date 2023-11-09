@@ -1,0 +1,46 @@
+#Game No : 517492450
+***** 888poker Hand History for Game 517492450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 22:53:02
+Table Vespasiano 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2 )
+Seat 6: shambalaima ( $1.40 )
+avramia1 posts small blind [$0.01]
+shambalaima posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+shambalaima checks
+** Dealing flop ** [ 8h, 9c, 7c ]
+shambalaima checks
+avramia1 checks
+** Dealing turn ** [ 3c ]
+shambalaima bets [$0.02]
+avramia1 calls [$0.02]
+** Dealing river ** [ 7s ]
+shambalaima bets [$0.02]
+avramia1 calls [$0.02]
+** Summary **
+shambalaima shows [ Tc, 7h ]
+avramia1 mucks [ 6d, 3s ]
+shambalaima collected [ $0.12 ]
+
+
+#Game No : 517492460
+***** 888poker Hand History for Game 517492460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 22:53:45
+Table Vespasiano 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $1.94 )
+Seat 6: shambalaima ( $1.46 )
+shambalaima posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+shambalaima calls [$0.01]
+avramia1 raises [$0.04]
+shambalaima folds
+** Summary **
+avramia1 collected [ $0.04 ]
+
+

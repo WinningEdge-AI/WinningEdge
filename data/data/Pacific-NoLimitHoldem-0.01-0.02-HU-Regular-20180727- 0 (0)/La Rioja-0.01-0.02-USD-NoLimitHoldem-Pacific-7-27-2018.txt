@@ -1,0 +1,79 @@
+#Game No : 500027862
+***** 888poker Hand History for Game 500027862 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 10:41:19
+Table La Rioja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: s0hel ( $0.80 )
+Seat 2: Oleg234516 ( $0.80 )
+s0hel posts small blind [$0.01]
+Oleg234516 posts big blind [$0.02]
+** Dealing down cards **
+s0hel calls [$0.01]
+Oleg234516 checks
+** Dealing flop ** [ 5c, 6s, 2h ]
+Oleg234516 checks
+s0hel bets [$0.02]
+Oleg234516 calls [$0.02]
+** Dealing turn ** [ Ad ]
+Oleg234516 checks
+s0hel bets [$0.02]
+Oleg234516 calls [$0.02]
+** Dealing river ** [ Kc ]
+Oleg234516 bets [$0.12]
+s0hel calls [$0.12]
+** Summary **
+Oleg234516 shows [ Kd, 4h ]
+s0hel shows [ 3h, As ]
+s0hel collected [ $0.34 ]
+
+
+#Game No : 500027893
+***** 888poker Hand History for Game 500027893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 10:41:56
+Table La Rioja 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: s0hel ( $0.96 )
+Seat 2: Oleg234516 ( $0.62 )
+Oleg234516 posts small blind [$0.01]
+s0hel posts big blind [$0.02]
+** Dealing down cards **
+Oleg234516 raises [$0.61]
+s0hel folds
+** Summary **
+Oleg234516 collected [ $0.64 ]
+
+
+#Game No : 500030767
+***** 888poker Hand History for Game 500030767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:31:28
+Table La Rioja 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: MaxKissko ( $1.46 )
+Seat 6: artur1k1 ( $1.12 )
+artur1k1 posts small blind [$0.01]
+MaxKissko posts big blind [$0.02]
+** Dealing down cards **
+artur1k1 folds
+** Summary **
+MaxKissko collected [ $0.03 ]
+
+
+#Game No : 500030777
+***** 888poker Hand History for Game 500030777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:31:42
+Table La Rioja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MaxKissko ( $1.47 )
+Seat 6: artur1k1 ( $1.11 )
+MaxKissko posts small blind [$0.01]
+artur1k1 posts big blind [$0.02]
+** Dealing down cards **
+MaxKissko folds
+** Summary **
+artur1k1 collected [ $0.03 ]
+
+

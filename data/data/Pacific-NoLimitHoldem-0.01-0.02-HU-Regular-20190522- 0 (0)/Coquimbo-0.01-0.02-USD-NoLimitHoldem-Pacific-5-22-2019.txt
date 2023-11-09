@@ -1,0 +1,100 @@
+#Game No : 465334504
+***** 888poker Hand History for Game 465334504 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 16:45:54
+Table Coquimbo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ilya_grachev ( $1.16 )
+Seat 6: Woozle_NUTS ( $0.38 )
+ilya_grachev posts small blind [$0.01]
+Woozle_NUTS posts big blind [$0.02]
+** Dealing down cards **
+ilya_grachev folds
+** Summary **
+Woozle_NUTS collected [ $0.03 ]
+
+
+#Game No : 465334506
+***** 888poker Hand History for Game 465334506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 16:45:59
+Table Coquimbo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ilya_grachev ( $1.15 )
+Seat 6: Woozle_NUTS ( $0.39 )
+Woozle_NUTS posts small blind [$0.01]
+ilya_grachev posts big blind [$0.02]
+** Dealing down cards **
+Woozle_NUTS calls [$0.01]
+ilya_grachev checks
+** Dealing flop ** [ 6d, 8s, Jd ]
+ilya_grachev checks
+Woozle_NUTS bets [$0.02]
+ilya_grachev calls [$0.02]
+** Dealing turn ** [ Th ]
+ilya_grachev checks
+Woozle_NUTS checks
+** Dealing river ** [ Kh ]
+ilya_grachev checks
+Woozle_NUTS checks
+** Summary **
+ilya_grachev shows [ 8h, 7s ]
+Woozle_NUTS mucks [ Qc, 4h ]
+ilya_grachev collected [ $0.08 ]
+
+
+#Game No : 465334514
+***** 888poker Hand History for Game 465334514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 16:46:29
+Table Coquimbo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ilya_grachev ( $1.19 )
+Seat 6: Woozle_NUTS ( $0.35 )
+ilya_grachev posts small blind [$0.01]
+Woozle_NUTS posts big blind [$0.02]
+** Dealing down cards **
+ilya_grachev folds
+** Summary **
+Woozle_NUTS collected [ $0.03 ]
+
+
+#Game No : 465334515
+***** 888poker Hand History for Game 465334515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 16:46:35
+Table Coquimbo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ilya_grachev ( $1.18 )
+Seat 6: Woozle_NUTS ( $0.36 )
+Woozle_NUTS posts small blind [$0.01]
+ilya_grachev posts big blind [$0.02]
+** Dealing down cards **
+Woozle_NUTS raises [$0.03]
+ilya_grachev calls [$0.02]
+** Dealing flop ** [ 2d, As, 5c ]
+ilya_grachev checks
+Woozle_NUTS bets [$0.04]
+ilya_grachev folds
+** Summary **
+Woozle_NUTS collected [ $0.08 ]
+
+
+#Game No : 465334525
+***** 888poker Hand History for Game 465334525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 16:47:40
+Table Coquimbo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ilya_grachev ( $1 )
+Seat 6: Woozle_NUTS ( $0.58 )
+Woozle_NUTS posts small blind [$0.01]
+ilya_grachev posts big blind [$0.02]
+** Dealing down cards **
+Woozle_NUTS calls [$0.01]
+ilya_grachev raises [$0.98]
+Woozle_NUTS folds
+** Summary **
+ilya_grachev collected [ $0.04 ]
+
+

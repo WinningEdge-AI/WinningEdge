@@ -1,0 +1,93 @@
+#Game No : 504779393
+***** 888poker Hand History for Game 504779393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2018 07:40:26
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ALEKSEY545 ( $1.05 )
+Seat 2: dikni14 ( $1 )
+dikni14 posts small blind [$0.01]
+ALEKSEY545 posts big blind [$0.02]
+** Dealing down cards **
+dikni14 raises [$0.05]
+ALEKSEY545 calls [$0.04]
+** Dealing flop ** [ 8h, 9h, 6d ]
+ALEKSEY545 checks
+dikni14 bets [$0.08]
+ALEKSEY545 calls [$0.08]
+** Dealing turn ** [ Jc ]
+ALEKSEY545 checks
+dikni14 checks
+** Dealing river ** [ 2h ]
+ALEKSEY545 bets [$0.28]
+dikni14 raises [$0.86]
+ALEKSEY545 calls [$0.58]
+** Summary **
+ALEKSEY545 shows [ 8c, 8d ]
+dikni14 shows [ 7h, 6h ]
+dikni14 collected [ $1.88 ]
+
+
+#Game No : 504784134
+***** 888poker Hand History for Game 504784134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2018 09:16:52
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: nikitka_fish ( $0.48 )
+Seat 7: Fizzyeasy ( $2.61 )
+Fizzyeasy posts small blind [$0.01]
+nikitka_fish posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy raises [$0.05]
+nikitka_fish raises [$0.46]
+Fizzyeasy folds
+** Summary **
+nikitka_fish collected [ $0.12 ]
+
+
+#Game No : 504784537
+***** 888poker Hand History for Game 504784537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2018 09:23:12
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Bender.K ( $0.45 )
+Seat 7: Fizzyeasy ( $3.82 )
+Fizzyeasy posts small blind [$0.01]
+Bender.K posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy raises [$0.05]
+Bender.K calls [$0.04]
+** Dealing flop ** [ Ah, Kh, 2s ]
+Bender.K checks
+Fizzyeasy checks
+** Dealing turn ** [ 4h ]
+Bender.K checks
+Fizzyeasy checks
+** Dealing river ** [ Td ]
+Bender.K checks
+Fizzyeasy checks
+** Summary **
+Bender.K shows [ 7s, Js ]
+Fizzyeasy shows [ 7d, 7h ]
+Fizzyeasy collected [ $0.12 ]
+
+
+#Game No : 504784559
+***** 888poker Hand History for Game 504784559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2018 09:23:33
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bender.K ( $0.39 )
+Seat 7: Fizzyeasy ( $3.88 )
+Bender.K posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+Bender.K raises [$0.03]
+Fizzyeasy folds
+** Summary **
+Bender.K collected [ $0.04 ]
+
+

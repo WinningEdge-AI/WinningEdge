@@ -1,0 +1,101 @@
+#Game No : 462154776
+***** 888poker Hand History for Game 462154776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 23:56:31
+Table Hanoi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Madswinther ( $2.13 )
+Seat 2: cornil14 ( $1.86 )
+cornil14 posts small blind [$0.01]
+Madswinther posts big blind [$0.02]
+** Dealing down cards **
+cornil14 raises [$0.05]
+Madswinther calls [$0.04]
+** Dealing flop ** [ 8c, 7h, Qh ]
+Madswinther checks
+cornil14 bets [$0.04]
+Madswinther raises [$0.27]
+cornil14 calls [$0.23]
+** Dealing turn ** [ Kh ]
+Madswinther checks
+cornil14 checks
+** Dealing river ** [ 3d ]
+Madswinther checks
+cornil14 checks
+** Summary **
+Madswinther shows [ 4s, 5c ]
+cornil14 shows [ Ac, Qd ]
+cornil14 collected [ $0.62 ]
+
+
+#Game No : 462162151
+***** 888poker Hand History for Game 462162151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 05:11:12
+Table Hanoi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: spargelmanni ( $1.57 )
+Seat 10: luffi.k ( $0.87 )
+spargelmanni posts small blind [$0.01]
+luffi.k posts big blind [$0.02]
+** Dealing down cards **
+spargelmanni calls [$0.01]
+luffi.k raises [$0.04]
+spargelmanni calls [$0.04]
+** Dealing flop ** [ 9d, 4s, 9s ]
+luffi.k bets [$0.06]
+spargelmanni calls [$0.06]
+** Dealing turn ** [ Td ]
+luffi.k bets [$0.12]
+spargelmanni calls [$0.12]
+** Dealing river ** [ Kd ]
+luffi.k checks
+spargelmanni bets [$0.08]
+luffi.k calls [$0.08]
+** Summary **
+spargelmanni shows [ Jh, 9c ]
+luffi.k mucks [ Ac, 4c ]
+spargelmanni collected [ $0.60 ]
+
+
+#Game No : 462162173
+***** 888poker Hand History for Game 462162173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 05:11:46
+Table Hanoi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: spargelmanni ( $1.85 )
+Seat 10: luffi.k ( $0.55 )
+luffi.k posts small blind [$0.01]
+spargelmanni posts big blind [$0.02]
+** Dealing down cards **
+luffi.k raises [$0.03]
+spargelmanni calls [$0.02]
+** Dealing flop ** [ 7s, 4c, Ks ]
+spargelmanni checks
+luffi.k bets [$0.02]
+spargelmanni folds
+** Summary **
+luffi.k did not show his hand
+luffi.k collected [ $0.08 ]
+
+
+#Game No : 462162178
+***** 888poker Hand History for Game 462162178 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 05:11:57
+Table Hanoi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: spargelmanni ( $1.81 )
+Seat 10: luffi.k ( $0.59 )
+spargelmanni posts small blind [$0.01]
+luffi.k posts big blind [$0.02]
+** Dealing down cards **
+spargelmanni calls [$0.01]
+luffi.k raises [$0.02]
+spargelmanni folds
+** Summary **
+luffi.k did not show his hand
+luffi.k collected [ $0.04 ]
+
+

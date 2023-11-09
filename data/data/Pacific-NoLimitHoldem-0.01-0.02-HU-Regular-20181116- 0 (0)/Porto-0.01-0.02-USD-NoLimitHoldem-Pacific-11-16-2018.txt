@@ -1,0 +1,975 @@
+#Game No : 505463174
+***** 888poker Hand History for Game 505463174 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 17:40:11
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Dovydaskk ( $4.79 )
+Seat 9: Koresh_zp ( $1.80 )
+Dovydaskk posts small blind [$0.01]
+Koresh_zp posts big blind [$0.02]
+** Dealing down cards **
+Dovydaskk folds
+** Summary **
+Koresh_zp collected [ $0.03 ]
+
+
+#Game No : 505463177
+***** 888poker Hand History for Game 505463177 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 17:40:18
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Dovydaskk ( $4.78 )
+Seat 9: Koresh_zp ( $1.81 )
+Koresh_zp posts small blind [$0.01]
+Dovydaskk posts big blind [$0.02]
+** Dealing down cards **
+Koresh_zp calls [$0.01]
+Dovydaskk raises [$0.04]
+Koresh_zp calls [$0.04]
+** Dealing flop ** [ Qs, 7s, Td ]
+Dovydaskk bets [$0.08]
+Koresh_zp calls [$0.08]
+** Dealing turn ** [ 3c ]
+Dovydaskk bets [$0.16]
+Koresh_zp calls [$0.16]
+** Dealing river ** [ 4c ]
+Dovydaskk checks
+Koresh_zp checks
+** Summary **
+Dovydaskk shows [ Qd, Kc ]
+Koresh_zp mucks [ 5s, 2s ]
+Dovydaskk collected [ $0.57 ]
+
+
+#Game No : 505463191
+***** 888poker Hand History for Game 505463191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 17:40:54
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Dovydaskk ( $5.05 )
+Seat 9: Koresh_zp ( $1.51 )
+Dovydaskk posts small blind [$0.01]
+Koresh_zp posts big blind [$0.02]
+** Dealing down cards **
+Dovydaskk folds
+** Summary **
+Koresh_zp collected [ $0.03 ]
+
+
+#Game No : 505463195
+***** 888poker Hand History for Game 505463195 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 17:41:01
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Dovydaskk ( $5.04 )
+Seat 9: Koresh_zp ( $1.52 )
+Koresh_zp posts small blind [$0.01]
+Dovydaskk posts big blind [$0.02]
+** Dealing down cards **
+Koresh_zp calls [$0.01]
+Dovydaskk checks
+** Dealing flop ** [ 2h, 5c, Qc ]
+Dovydaskk bets [$0.04]
+Koresh_zp calls [$0.04]
+** Dealing turn ** [ 7d ]
+Dovydaskk checks
+Koresh_zp checks
+** Dealing river ** [ 7s ]
+Dovydaskk checks
+Koresh_zp checks
+** Summary **
+Dovydaskk shows [ Ks, 5s ]
+Koresh_zp mucks [ 4c, 5h ]
+Dovydaskk collected [ $0.12 ]
+
+
+#Game No : 505463212
+***** 888poker Hand History for Game 505463212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 17:41:36
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Dovydaskk ( $5.10 )
+Seat 9: Koresh_zp ( $1.46 )
+Dovydaskk posts small blind [$0.01]
+Koresh_zp posts big blind [$0.02]
+** Dealing down cards **
+Dovydaskk folds
+** Summary **
+Koresh_zp collected [ $0.03 ]
+
+
+#Game No : 505464920
+***** 888poker Hand History for Game 505464920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:09:09
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: acky_crush ( $1.77 )
+Seat 7: iks2s ( $1 )
+acky_crush posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+acky_crush raises [$0.03]
+iks2s folds
+** Summary **
+acky_crush did not show his hand
+acky_crush collected [ $0.04 ]
+
+
+#Game No : 505464927
+***** 888poker Hand History for Game 505464927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:09:17
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: acky_crush ( $1.79 )
+Seat 7: iks2s ( $0.98 )
+iks2s posts small blind [$0.01]
+acky_crush posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+acky_crush folds
+** Summary **
+iks2s did not show his hand
+iks2s collected [ $0.04 ]
+
+
+#Game No : 505468034
+***** 888poker Hand History for Game 505468034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 22:26:58
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Venoom08 ( $3.46 )
+Seat 7: AldanShilDim ( $2.27 )
+Venoom08 posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+Venoom08 raises [$0.03]
+AldanShilDim raises [$0.06]
+Venoom08 calls [$0.04]
+** Dealing flop ** [ Ks, 8s, 9d ]
+AldanShilDim bets [$0.08]
+Venoom08 calls [$0.08]
+** Dealing turn ** [ As ]
+AldanShilDim checks
+Venoom08 checks
+** Dealing river ** [ Tc ]
+AldanShilDim checks
+Venoom08 checks
+** Summary **
+AldanShilDim shows [ 9s, Jd ]
+Venoom08 shows [ Qh, 9c ]
+Venoom08 collected [ $0.30 ]
+
+
+#Game No : 505468044
+***** 888poker Hand History for Game 505468044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 22:27:12
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Venoom08 ( $3.60 )
+Seat 7: AldanShilDim ( $2.11 )
+AldanShilDim posts small blind [$0.01]
+Venoom08 posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+Venoom08 collected [ $0.03 ]
+
+
+#Game No : 505468046
+***** 888poker Hand History for Game 505468046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 22:27:16
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Venoom08 ( $3.61 )
+Seat 7: AldanShilDim ( $2.10 )
+Venoom08 posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+Venoom08 raises [$0.03]
+AldanShilDim folds
+** Summary **
+Venoom08 collected [ $0.04 ]
+
+
+#Game No : 505468049
+***** 888poker Hand History for Game 505468049 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 22:27:23
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Venoom08 ( $3.63 )
+Seat 7: AldanShilDim ( $2.08 )
+AldanShilDim posts small blind [$0.01]
+Venoom08 posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+Venoom08 collected [ $0.03 ]
+
+
+#Game No : 505468054
+***** 888poker Hand History for Game 505468054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 22:27:28
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Venoom08 ( $3.64 )
+Seat 7: AldanShilDim ( $2.07 )
+Venoom08 posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+Venoom08 calls [$0.01]
+AldanShilDim raises [$0.06]
+Venoom08 calls [$0.06]
+** Dealing flop ** [ 4d, 4h, Qc ]
+AldanShilDim checks
+Venoom08 bets [$0.04]
+AldanShilDim calls [$0.04]
+** Dealing turn ** [ 5c ]
+AldanShilDim checks
+Venoom08 checks
+** Dealing river ** [ Kc ]
+AldanShilDim checks
+Venoom08 checks
+** Summary **
+AldanShilDim shows [ As, 9d ]
+Venoom08 shows [ 5d, 9c ]
+Venoom08 collected [ $0.23 ]
+
+
+#Game No : 505470680
+***** 888poker Hand History for Game 505470680 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 00:03:47
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: sweetaon ( $1.01 )
+Seat 6: Pechora_Seva ( $1.91 )
+Pechora_Seva posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+Pechora_Seva folds
+** Summary **
+sweetaon collected [ $0.03 ]
+
+
+#Game No : 505470685
+***** 888poker Hand History for Game 505470685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 00:03:55
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sweetaon ( $1.02 )
+Seat 6: Pechora_Seva ( $1.90 )
+sweetaon posts small blind [$0.01]
+Pechora_Seva posts big blind [$0.02]
+** Dealing down cards **
+sweetaon raises [$0.06]
+Pechora_Seva calls [$0.05]
+** Dealing flop ** [ 5h, 6s, 6h ]
+Pechora_Seva checks
+sweetaon bets [$0.14]
+Pechora_Seva calls [$0.14]
+** Dealing turn ** [ Jh ]
+Pechora_Seva checks
+sweetaon checks
+** Dealing river ** [ Tc ]
+Pechora_Seva bets [$0.20]
+sweetaon folds
+** Summary **
+Pechora_Seva collected [ $0.40 ]
+
+
+#Game No : 505470696
+***** 888poker Hand History for Game 505470696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 00:04:22
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: sweetaon ( $1 )
+Seat 6: Pechora_Seva ( $2.09 )
+Pechora_Seva posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+Pechora_Seva raises [$0.03]
+sweetaon raises [$0.14]
+Pechora_Seva calls [$0.12]
+** Dealing flop ** [ 3c, 7h, 9c ]
+sweetaon bets [$0.30]
+Pechora_Seva folds
+** Summary **
+sweetaon collected [ $0.30 ]
+
+
+#Game No : 505470709
+***** 888poker Hand History for Game 505470709 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 00:04:43
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sweetaon ( $1.14 )
+Seat 6: Pechora_Seva ( $1.93 )
+sweetaon posts small blind [$0.01]
+Pechora_Seva posts big blind [$0.02]
+** Dealing down cards **
+sweetaon folds
+** Summary **
+Pechora_Seva collected [ $0.03 ]
+
+
+#Game No : 505470759
+***** 888poker Hand History for Game 505470759 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 00:06:11
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Milkrainykt ( $1 )
+Seat 7: Edisni16 ( $1 )
+Milkrainykt posts small blind [$0.01]
+Edisni16 posts big blind [$0.02]
+** Dealing down cards **
+Milkrainykt calls [$0.01]
+Edisni16 raises [$0.08]
+Milkrainykt folds
+** Summary **
+Edisni16 collected [ $0.04 ]
+
+
+#Game No : 505470868
+***** 888poker Hand History for Game 505470868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 00:09:06
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Milkrainykt ( $3.43 )
+Seat 2: Iryna1985 ( $1 )
+Milkrainykt posts small blind [$0.01]
+Iryna1985 posts big blind [$0.02]
+** Dealing down cards **
+Milkrainykt folds
+** Summary **
+Iryna1985 collected [ $0.03 ]
+
+
+#Game No : 505470872
+***** 888poker Hand History for Game 505470872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 00:09:13
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Milkrainykt ( $3.42 )
+Seat 2: Iryna1985 ( $1.01 )
+Iryna1985 posts small blind [$0.01]
+Milkrainykt posts big blind [$0.02]
+** Dealing down cards **
+Iryna1985 calls [$0.01]
+Milkrainykt checks
+** Dealing flop ** [ 9s, 9c, Ad ]
+Milkrainykt checks
+Iryna1985 bets [$0.02]
+Milkrainykt calls [$0.02]
+** Dealing turn ** [ Qh ]
+Milkrainykt checks
+Iryna1985 bets [$0.02]
+Milkrainykt calls [$0.02]
+** Dealing river ** [ Th ]
+Milkrainykt checks
+Iryna1985 bets [$0.12]
+Milkrainykt folds
+** Summary **
+Iryna1985 collected [ $0.12 ]
+
+
+#Game No : 505470940
+***** 888poker Hand History for Game 505470940 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 00:11:35
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Milkrainykt ( $3.37 )
+Seat 2: Iryna1985 ( $1.06 )
+Milkrainykt posts small blind [$0.01]
+Iryna1985 posts big blind [$0.02]
+** Dealing down cards **
+Milkrainykt calls [$0.01]
+Iryna1985 checks
+** Dealing flop ** [ 7c, Js, 6c ]
+Iryna1985 bets [$0.02]
+Milkrainykt raises [$0.10]
+Iryna1985 folds
+** Summary **
+Milkrainykt collected [ $0.08 ]
+
+
+#Game No : 505470946
+***** 888poker Hand History for Game 505470946 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 00:11:52
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Milkrainykt ( $3.41 )
+Seat 2: Iryna1985 ( $1.02 )
+Iryna1985 posts small blind [$0.01]
+Milkrainykt posts big blind [$0.02]
+** Dealing down cards **
+Iryna1985 calls [$0.01]
+Milkrainykt raises [$0.04]
+Iryna1985 calls [$0.04]
+** Dealing flop ** [ Jd, As, Ts ]
+Milkrainykt bets [$0.12]
+Iryna1985 raises [$0.52]
+Milkrainykt raises [$3.23]
+Iryna1985 calls [$0.44]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 3d ]
+** Summary **
+Milkrainykt shows [ Kd, Qd ]
+Iryna1985 shows [ Th, Js ]
+Milkrainykt collected [ $1.92 ]
+
+
+#Game No : 505473265
+***** 888poker Hand History for Game 505473265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 01:26:22
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Fizzyeasy ( $1.07 )
+Seat 9: ik.strix ( $2.87 )
+ik.strix posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+ik.strix raises [$0.05]
+Fizzyeasy calls [$0.04]
+** Dealing flop ** [ 3c, 6s, 8s ]
+Fizzyeasy checks
+ik.strix bets [$0.08]
+Fizzyeasy calls [$0.08]
+** Dealing turn ** [ 4d ]
+Fizzyeasy checks
+ik.strix bets [$0.15]
+Fizzyeasy raises [$0.44]
+ik.strix folds
+** Summary **
+Fizzyeasy collected [ $0.55 ]
+
+
+#Game No : 505473288
+***** 888poker Hand History for Game 505473288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 01:27:05
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Fizzyeasy ( $1.33 )
+Seat 9: ik.strix ( $2.58 )
+Fizzyeasy posts small blind [$0.01]
+ik.strix posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy raises [$0.05]
+ik.strix calls [$0.04]
+** Dealing flop ** [ 5c, Qc, 3c ]
+ik.strix checks
+Fizzyeasy checks
+** Dealing turn ** [ Jd ]
+ik.strix bets [$0.09]
+Fizzyeasy calls [$0.09]
+** Dealing river ** [ Qh ]
+ik.strix bets [$0.20]
+Fizzyeasy folds
+** Summary **
+ik.strix collected [ $0.29 ]
+
+
+#Game No : 505474400
+***** 888poker Hand History for Game 505474400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 02:00:00
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bushmanov.93 ( $2.64 )
+Seat 7: Nyuaki ( $0.97 )
+bushmanov.93 posts small blind [$0.01]
+Nyuaki posts big blind [$0.02]
+** Dealing down cards **
+bushmanov.93 folds
+** Summary **
+Nyuaki collected [ $0.03 ]
+
+
+#Game No : 505474405
+***** 888poker Hand History for Game 505474405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 02:00:06
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: bushmanov.93 ( $2.63 )
+Seat 7: Nyuaki ( $0.98 )
+Nyuaki posts small blind [$0.01]
+bushmanov.93 posts big blind [$0.02]
+** Dealing down cards **
+Nyuaki calls [$0.01]
+bushmanov.93 raises [$0.04]
+Nyuaki folds
+** Summary **
+bushmanov.93 collected [ $0.04 ]
+
+
+#Game No : 505478112
+***** 888poker Hand History for Game 505478112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:35:14
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1.03 )
+Seat 6: sleb51 ( $0.86 )
+genarozhnov posts small blind [$0.01]
+sleb51 posts big blind [$0.02]
+** Dealing down cards **
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.03 ]
+
+
+#Game No : 505478117
+***** 888poker Hand History for Game 505478117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:35:24
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1.02 )
+Seat 6: sleb51 ( $0.87 )
+sleb51 posts small blind [$0.01]
+genarozhnov posts big blind [$0.02]
+** Dealing down cards **
+sleb51 calls [$0.01]
+genarozhnov checks
+** Dealing flop ** [ 9c, Qs, 4h ]
+genarozhnov checks
+sleb51 bets [$0.02]
+genarozhnov calls [$0.02]
+** Dealing turn ** [ 6h ]
+genarozhnov checks
+sleb51 bets [$0.02]
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.08 ]
+
+
+#Game No : 505478133
+***** 888poker Hand History for Game 505478133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:35:44
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1 )
+Seat 6: sleb51 ( $0.91 )
+genarozhnov posts small blind [$0.01]
+sleb51 posts big blind [$0.02]
+** Dealing down cards **
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.03 ]
+
+
+#Game No : 505478136
+***** 888poker Hand History for Game 505478136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:35:48
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1 )
+Seat 6: sleb51 ( $0.92 )
+sleb51 posts small blind [$0.01]
+genarozhnov posts big blind [$0.02]
+** Dealing down cards **
+sleb51 calls [$0.01]
+genarozhnov checks
+** Dealing flop ** [ 6c, Js, Td ]
+genarozhnov checks
+sleb51 checks
+** Dealing turn ** [ Jh ]
+genarozhnov checks
+sleb51 bets [$0.02]
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.04 ]
+
+
+#Game No : 505478150
+***** 888poker Hand History for Game 505478150 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:36:18
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1 )
+Seat 6: sleb51 ( $0.94 )
+genarozhnov posts small blind [$0.01]
+sleb51 posts big blind [$0.02]
+** Dealing down cards **
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.03 ]
+
+
+#Game No : 505478157
+***** 888poker Hand History for Game 505478157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:36:23
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1 )
+Seat 6: sleb51 ( $0.95 )
+sleb51 posts small blind [$0.01]
+genarozhnov posts big blind [$0.02]
+** Dealing down cards **
+sleb51 calls [$0.01]
+genarozhnov checks
+** Dealing flop ** [ 3d, Ah, Qd ]
+genarozhnov checks
+sleb51 checks
+** Dealing turn ** [ Qs ]
+genarozhnov checks
+sleb51 checks
+** Dealing river ** [ Qh ]
+genarozhnov checks
+sleb51 bets [$0.02]
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.04 ]
+
+
+#Game No : 505478171
+***** 888poker Hand History for Game 505478171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:36:41
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1 )
+Seat 6: sleb51 ( $0.97 )
+genarozhnov posts small blind [$0.01]
+sleb51 posts big blind [$0.02]
+** Dealing down cards **
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.03 ]
+
+
+#Game No : 505478175
+***** 888poker Hand History for Game 505478175 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:36:46
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1 )
+Seat 6: sleb51 ( $0.98 )
+sleb51 posts small blind [$0.01]
+genarozhnov posts big blind [$0.02]
+** Dealing down cards **
+sleb51 calls [$0.01]
+genarozhnov checks
+** Dealing flop ** [ 9s, 2h, 9c ]
+genarozhnov checks
+sleb51 bets [$0.02]
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.04 ]
+
+
+#Game No : 505478181
+***** 888poker Hand History for Game 505478181 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:36:55
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1 )
+Seat 6: sleb51 ( $1 )
+genarozhnov posts small blind [$0.01]
+sleb51 posts big blind [$0.02]
+** Dealing down cards **
+genarozhnov raises [$0.05]
+sleb51 folds
+** Summary **
+genarozhnov collected [ $0.04 ]
+
+
+#Game No : 505478188
+***** 888poker Hand History for Game 505478188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:37:02
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1.02 )
+Seat 6: sleb51 ( $0.98 )
+sleb51 posts small blind [$0.01]
+genarozhnov posts big blind [$0.02]
+** Dealing down cards **
+sleb51 calls [$0.01]
+genarozhnov checks
+** Dealing flop ** [ 6c, Qd, Td ]
+genarozhnov bets [$0.04]
+sleb51 folds
+** Summary **
+genarozhnov collected [ $0.04 ]
+
+
+#Game No : 505478196
+***** 888poker Hand History for Game 505478196 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:37:15
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1.04 )
+Seat 6: sleb51 ( $0.96 )
+genarozhnov posts small blind [$0.01]
+sleb51 posts big blind [$0.02]
+** Dealing down cards **
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.03 ]
+
+
+#Game No : 505478201
+***** 888poker Hand History for Game 505478201 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:37:21
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1.03 )
+Seat 6: sleb51 ( $0.97 )
+sleb51 posts small blind [$0.01]
+genarozhnov posts big blind [$0.02]
+** Dealing down cards **
+sleb51 raises [$0.03]
+genarozhnov folds
+** Summary **
+sleb51 collected [ $0.04 ]
+
+
+#Game No : 505478205
+***** 888poker Hand History for Game 505478205 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:37:27
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: genarozhnov ( $1.01 )
+Seat 6: sleb51 ( $0.99 )
+genarozhnov posts small blind [$0.01]
+sleb51 posts big blind [$0.02]
+** Dealing down cards **
+genarozhnov raises [$0.05]
+sleb51 calls [$0.04]
+** Dealing flop ** [ Tc, 6c, 3h ]
+sleb51 checks
+genarozhnov bets [$0.08]
+sleb51 folds
+** Summary **
+genarozhnov collected [ $0.12 ]
+
+
+#Game No : 505478325
+***** 888poker Hand History for Game 505478325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:40:17
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mmladen1988 ( $1 )
+Seat 7: vinaopinto ( $0.80 )
+mmladen1988 posts small blind [$0.01]
+vinaopinto posts big blind [$0.02]
+** Dealing down cards **
+mmladen1988 folds
+** Summary **
+vinaopinto collected [ $0.03 ]
+
+
+#Game No : 505478328
+***** 888poker Hand History for Game 505478328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 03:40:22
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: mmladen1988 ( $0.99 )
+Seat 7: vinaopinto ( $0.81 )
+vinaopinto posts small blind [$0.01]
+mmladen1988 posts big blind [$0.02]
+** Dealing down cards **
+vinaopinto calls [$0.01]
+mmladen1988 raises [$0.06]
+vinaopinto folds
+** Summary **
+mmladen1988 collected [ $0.04 ]
+
+
+#Game No : 505484435
+***** 888poker Hand History for Game 505484435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 06:09:55
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: SKRABL18 ( $1.64 )
+Seat 7: M4XIM4T0R ( $2.96 )
+M4XIM4T0R posts small blind [$0.01]
+SKRABL18 posts big blind [$0.02]
+** Dealing down cards **
+M4XIM4T0R calls [$0.01]
+SKRABL18 raises [$0.04]
+M4XIM4T0R calls [$0.04]
+** Dealing flop ** [ 3s, 7h, Qh ]
+SKRABL18 bets [$0.06]
+M4XIM4T0R raises [$0.12]
+SKRABL18 folds
+** Summary **
+M4XIM4T0R collected [ $0.23 ]
+
+
+#Game No : 505484457
+***** 888poker Hand History for Game 505484457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 06:10:33
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SKRABL18 ( $1.52 )
+Seat 7: M4XIM4T0R ( $3.07 )
+SKRABL18 posts small blind [$0.01]
+M4XIM4T0R posts big blind [$0.02]
+** Dealing down cards **
+SKRABL18 folds
+** Summary **
+M4XIM4T0R collected [ $0.03 ]
+
+
+#Game No : 505492606
+***** 888poker Hand History for Game 505492606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:05:08
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: asmak100 ( $1.44 )
+Seat 7: Taurus1010 ( $1.19 )
+Taurus1010 posts small blind [$0.01]
+asmak100 posts big blind [$0.02]
+** Dealing down cards **
+Taurus1010 raises [$0.05]
+asmak100 calls [$0.04]
+** Dealing flop ** [ 2h, Qd, 9d ]
+asmak100 checks
+Taurus1010 bets [$0.10]
+asmak100 folds
+** Summary **
+Taurus1010 did not show his hand
+Taurus1010 collected [ $0.12 ]
+
+
+#Game No : 505492648
+***** 888poker Hand History for Game 505492648 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:05:55
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: asmak100 ( $1.38 )
+Seat 7: Taurus1010 ( $1.25 )
+asmak100 posts small blind [$0.01]
+** Dealing down cards **
+Taurus1010 folds
+** Summary **
+asmak100 did not show his hand
+asmak100 collected [ $0.01 ]
+
+
+#Game No : 505493556
+***** 888poker Hand History for Game 505493556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:24:59
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mlm999 ( $1.68 )
+Seat 9: SlikvsSlik ( $1.24 )
+mlm999 posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+mlm999 calls [$0.01]
+SlikvsSlik checks
+** Dealing flop ** [ 6s, 8s, 8h ]
+SlikvsSlik checks
+mlm999 bets [$0.02]
+SlikvsSlik folds
+** Summary **
+mlm999 collected [ $0.04 ]
+
+
+#Game No : 505503439
+***** 888poker Hand History for Game 505503439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 12:15:51
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NNNddd11111 ( $5.63 )
+Seat 4: rubenskred14 ( $1.56 )
+NNNddd11111 posts small blind [$0.01]
+rubenskred14 posts big blind [$0.02]
+** Dealing down cards **
+NNNddd11111 raises [$0.03]
+rubenskred14 folds
+** Summary **
+NNNddd11111 collected [ $0.04 ]
+
+
+#Game No : 505503470
+***** 888poker Hand History for Game 505503470 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 12:16:18
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: NNNddd11111 ( $5.65 )
+Seat 4: rubenskred14 ( $1.54 )
+rubenskred14 posts small blind [$0.01]
+NNNddd11111 posts big blind [$0.02]
+** Dealing down cards **
+rubenskred14 raises [$0.05]
+NNNddd11111 folds
+** Summary **
+rubenskred14 collected [ $0.04 ]
+
+
+#Game No : 505504231
+***** 888poker Hand History for Game 505504231 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 12:31:36
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: rubenskred14 ( $1.46 )
+Seat 7: DementedDick ( $1.84 )
+rubenskred14 posts small blind [$0.01]
+** Dealing down cards **
+DementedDick folds
+** Summary **
+rubenskred14 collected [ $0.01 ]
+
+
+#Game No : 505505624
+***** 888poker Hand History for Game 505505624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 12:56:24
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Skyluck11 ( $1.03 )
+Seat 7: Agarroz ( $1.60 )
+Agarroz posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+Agarroz raises [$0.03]
+Skyluck11 folds
+** Summary **
+Agarroz collected [ $0.04 ]
+
+

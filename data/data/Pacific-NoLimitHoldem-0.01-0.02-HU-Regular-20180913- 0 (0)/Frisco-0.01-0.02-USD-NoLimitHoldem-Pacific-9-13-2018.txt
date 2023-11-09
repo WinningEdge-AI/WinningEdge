@@ -1,0 +1,152 @@
+#Game No : 502292057
+***** 888poker Hand History for Game 502292057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 13:08:11
+Table Frisco 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Pastelator ( $0.76 )
+Seat 9: OxiDima ( $1.12 )
+OxiDima posts small blind [$0.01]
+Pastelator posts big blind [$0.02]
+** Dealing down cards **
+OxiDima calls [$0.01]
+Pastelator checks
+** Dealing flop ** [ Td, 9d, 3d ]
+Pastelator bets [$0.04]
+OxiDima calls [$0.04]
+** Dealing turn ** [ Kc ]
+Pastelator bets [$0.12]
+OxiDima calls [$0.12]
+** Dealing river ** [ As ]
+Pastelator bets [$0.36]
+OxiDima folds
+** Summary **
+Pastelator collected [ $0.34 ]
+
+
+#Game No : 502292110
+***** 888poker Hand History for Game 502292110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 13:09:00
+Table Frisco 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pastelator ( $0.92 )
+Seat 9: OxiDima ( $1 )
+Pastelator posts small blind [$0.01]
+** Dealing down cards **
+OxiDima folds
+** Summary **
+Pastelator collected [ $0.01 ]
+
+
+#Game No : 502292114
+***** 888poker Hand History for Game 502292114 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 13:09:03
+Table Frisco 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pastelator ( $0.92 )
+Seat 7: sergeu28 ( $0.80 )
+Pastelator posts small blind [$0.01]
+sergeu28 posts big blind [$0.02]
+** Dealing down cards **
+Pastelator calls [$0.01]
+sergeu28 raises [$0.06]
+Pastelator folds
+** Summary **
+sergeu28 collected [ $0.04 ]
+
+
+#Game No : 502292157
+***** 888poker Hand History for Game 502292157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 13:09:38
+Table Frisco 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pastelator ( $0.90 )
+Seat 7: sergeu28 ( $0.82 )
+sergeu28 posts small blind [$0.01]
+Pastelator posts big blind [$0.02]
+** Dealing down cards **
+sergeu28 raises [$0.07]
+Pastelator calls [$0.06]
+** Dealing flop ** [ Ks, 8c, 9s ]
+Pastelator checks
+sergeu28 bets [$0.10]
+Pastelator folds
+** Summary **
+sergeu28 collected [ $0.15 ]
+
+
+#Game No : 502300033
+***** 888poker Hand History for Game 502300033 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 16:02:34
+Table Frisco 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ZZmagoZ ( $1.10 )
+Seat 6: FlintOB ( $1.85 )
+ZZmagoZ posts small blind [$0.01]
+FlintOB posts big blind [$0.02]
+** Dealing down cards **
+ZZmagoZ calls [$0.01]
+FlintOB checks
+** Dealing flop ** [ 6c, 9h, 4s ]
+FlintOB checks
+ZZmagoZ checks
+** Dealing turn ** [ 6d ]
+FlintOB checks
+ZZmagoZ checks
+** Dealing river ** [ Ac ]
+FlintOB checks
+ZZmagoZ checks
+** Summary **
+FlintOB shows [ Td, Qd ]
+ZZmagoZ shows [ Js, Kh ]
+ZZmagoZ collected [ $0.04 ]
+
+
+#Game No : 502300059
+***** 888poker Hand History for Game 502300059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 16:03:37
+Table Frisco 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ZZmagoZ ( $1.12 )
+Seat 6: FlintOB ( $1.83 )
+FlintOB posts small blind [$0.01]
+ZZmagoZ posts big blind [$0.02]
+** Dealing down cards **
+FlintOB calls [$0.01]
+ZZmagoZ checks
+** Dealing flop ** [ 2c, 5c, 6d ]
+ZZmagoZ checks
+FlintOB bets [$0.02]
+ZZmagoZ calls [$0.02]
+** Dealing turn ** [ Ks ]
+ZZmagoZ checks
+FlintOB checks
+** Dealing river ** [ Ad ]
+ZZmagoZ bets [$0.08]
+FlintOB folds
+** Summary **
+ZZmagoZ collected [ $0.08 ]
+
+
+#Game No : 502300085
+***** 888poker Hand History for Game 502300085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 16:04:30
+Table Frisco 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ZZmagoZ ( $1.16 )
+Seat 6: FlintOB ( $1.79 )
+ZZmagoZ posts small blind [$0.01]
+FlintOB posts big blind [$0.02]
+** Dealing down cards **
+ZZmagoZ raises [$0.05]
+FlintOB folds
+** Summary **
+ZZmagoZ collected [ $0.04 ]
+
+

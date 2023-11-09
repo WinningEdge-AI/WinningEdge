@@ -1,0 +1,46 @@
+#Game No : 620698836
+***** 888poker Hand History for Game 620698836 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 06 2019 02:35:07
+Table Balakovo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: NAKATAVA ( $1.55 )
+Seat 9: GARALD84 ( $1.01 )
+NAKATAVA posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+NAKATAVA raises [$0.05]
+GARALD84 folds
+** Summary **
+NAKATAVA collected [ $0.04 ]
+
+
+#Game No : 620698839
+***** 888poker Hand History for Game 620698839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 06 2019 02:35:16
+Table Balakovo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: NAKATAVA ( $1.57 )
+Seat 9: GARALD84 ( $1 )
+GARALD84 posts small blind [$0.01]
+NAKATAVA posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+NAKATAVA checks
+** Dealing flop ** [ Kc, Js, Ts ]
+NAKATAVA checks
+GARALD84 bets [$0.02]
+NAKATAVA calls [$0.02]
+** Dealing turn ** [ Tc ]
+NAKATAVA checks
+GARALD84 checks
+** Dealing river ** [ 3c ]
+NAKATAVA bets [$0.04]
+GARALD84 calls [$0.04]
+** Summary **
+NAKATAVA shows [ Td, 2s ]
+GARALD84 mucks [ Jc, 7d ]
+NAKATAVA collected [ $0.15 ]
+
+

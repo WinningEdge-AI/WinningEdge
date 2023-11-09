@@ -1,0 +1,85 @@
+#Game No : 506462076
+***** 888poker Hand History for Game 506462076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 02:39:29
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.70 )
+Seat 10: mrmoneyman00 ( $0.80 )
+mrmoneyman00 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+mrmoneyman00 raises [$0.03]
+avramia1 folds
+** Summary **
+mrmoneyman00 did not show his hand
+mrmoneyman00 collected [ $0.04 ]
+
+
+#Game No : 506462087
+***** 888poker Hand History for Game 506462087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 02:40:04
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.68 )
+Seat 10: mrmoneyman00 ( $0.82 )
+mrmoneyman00 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+mrmoneyman00 raises [$0.03]
+avramia1 calls [$0.02]
+** Dealing flop ** [ Kh, 9c, Jc ]
+avramia1 checks
+mrmoneyman00 bets [$0.04]
+avramia1 folds
+** Summary **
+mrmoneyman00 did not show his hand
+mrmoneyman00 collected [ $0.08 ]
+
+
+#Game No : 506462096
+***** 888poker Hand History for Game 506462096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 02:40:39
+Table Canberra 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.64 )
+Seat 10: mrmoneyman00 ( $0.86 )
+avramia1 posts small blind [$0.01]
+** Dealing down cards **
+mrmoneyman00 folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.01 ]
+
+
+#Game No : 506462121
+***** 888poker Hand History for Game 506462121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 02:41:48
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.64 )
+Seat 10: mrmoneyman00 ( $0.86 )
+mrmoneyman00 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+mrmoneyman00 raises [$0.03]
+avramia1 raises [$0.10]
+mrmoneyman00 calls [$0.08]
+** Dealing flop ** [ 8s, 6s, Ts ]
+avramia1 bets [$0.12]
+mrmoneyman00 raises [$0.44]
+avramia1 calls [$0.32]
+** Dealing turn ** [ 4c ]
+avramia1 checks
+mrmoneyman00 bets [$0.30]
+avramia1 calls [$0.30]
+** Dealing river ** [ 7c ]
+** Summary **
+avramia1 shows [ Kd, Td ]
+mrmoneyman00 shows [ Ac, 6d ]
+avramia1 collected [ $1.62 ]
+
+

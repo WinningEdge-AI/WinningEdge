@@ -1,0 +1,52 @@
+#Game No : 619117751
+***** 888poker Hand History for Game 619117751 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 02:50:59
+Table Geneva 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: AlucarD_17 ( $3.44 )
+Seat 7: Bless_RNG ( $1.23 )
+AlucarD_17 posts small blind [$0.01]
+Bless_RNG posts big blind [$0.02]
+** Dealing down cards **
+AlucarD_17 calls [$0.01]
+Bless_RNG checks
+** Dealing flop ** [ Jc, 7s, Kh ]
+AlucarD_17 checks
+Bless_RNG checks
+** Dealing turn ** [ Jd ]
+AlucarD_17 bets [$0.02]
+Bless_RNG folds
+** Summary **
+AlucarD_17 collected [ $0.04 ]
+
+
+#Game No : 619120635
+***** 888poker Hand History for Game 619120635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 05:03:25
+Table Geneva 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: GARALD84 ( $4.42 )
+Seat 4: Denworld911 ( $0.81 )
+GARALD84 posts small blind [$0.01]
+Denworld911 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.07]
+Denworld911 calls [$0.06]
+** Dealing flop ** [ Ac, 7c, 8d ]
+Denworld911 checks
+GARALD84 bets [$0.10]
+Denworld911 calls [$0.10]
+** Dealing turn ** [ Ts ]
+Denworld911 checks
+GARALD84 checks
+** Dealing river ** [ Qs ]
+Denworld911 checks
+GARALD84 checks
+** Summary **
+Denworld911 shows [ 2d, 8c ]
+GARALD84 shows [ Kc, Kd ]
+GARALD84 collected [ $0.34 ]
+
+

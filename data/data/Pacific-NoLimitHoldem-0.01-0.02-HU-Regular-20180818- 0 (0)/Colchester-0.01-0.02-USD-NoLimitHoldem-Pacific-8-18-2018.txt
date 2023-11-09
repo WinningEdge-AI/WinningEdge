@@ -1,0 +1,196 @@
+#Game No : 506046933
+***** 888poker Hand History for Game 506046933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 09:20:44
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Mr.BigBean ( $2.05 )
+Seat 5: juneera ( $1.95 )
+juneera posts small blind [$0.01]
+Mr.BigBean posts big blind [$0.02]
+** Dealing down cards **
+juneera folds
+** Summary **
+Mr.BigBean did not show his hand
+Mr.BigBean collected [ $0.03 ]
+
+
+#Game No : 506046939
+***** 888poker Hand History for Game 506046939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 09:20:49
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mr.BigBean ( $2.06 )
+Seat 5: juneera ( $1.94 )
+Mr.BigBean posts small blind [$0.01]
+juneera posts big blind [$0.02]
+** Dealing down cards **
+Mr.BigBean raises [$0.03]
+juneera calls [$0.02]
+** Dealing flop ** [ 3s, 7c, Tc ]
+juneera checks
+Mr.BigBean checks
+** Dealing turn ** [ 8c ]
+juneera checks
+Mr.BigBean bets [$0.02]
+juneera calls [$0.02]
+** Dealing river ** [ Js ]
+juneera bets [$0.12]
+Mr.BigBean folds
+** Summary **
+juneera did not show his hand
+juneera collected [ $0.12 ]
+
+
+#Game No : 506046949
+***** 888poker Hand History for Game 506046949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 09:21:11
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Mr.BigBean ( $2 )
+Seat 5: juneera ( $2 )
+juneera posts small blind [$0.01]
+Mr.BigBean posts big blind [$0.02]
+** Dealing down cards **
+juneera folds
+** Summary **
+Mr.BigBean did not show his hand
+Mr.BigBean collected [ $0.03 ]
+
+
+#Game No : 506046955
+***** 888poker Hand History for Game 506046955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 09:21:16
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mr.BigBean ( $2.01 )
+Seat 5: juneera ( $1.99 )
+Mr.BigBean posts small blind [$0.01]
+juneera posts big blind [$0.02]
+** Dealing down cards **
+Mr.BigBean calls [$0.01]
+juneera raises [$0.06]
+Mr.BigBean folds
+** Summary **
+juneera collected [ $0.04 ]
+
+
+#Game No : 506046960
+***** 888poker Hand History for Game 506046960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 09:21:28
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Mr.BigBean ( $1.99 )
+Seat 5: juneera ( $2.01 )
+juneera posts small blind [$0.01]
+Mr.BigBean posts big blind [$0.02]
+** Dealing down cards **
+juneera raises [$0.05]
+Mr.BigBean raises [$0.08]
+juneera calls [$0.04]
+** Dealing flop ** [ Tc, 5h, 9s ]
+Mr.BigBean bets [$0.04]
+juneera calls [$0.04]
+** Dealing turn ** [ 3s ]
+Mr.BigBean bets [$0.06]
+juneera calls [$0.06]
+** Dealing river ** [ 7c ]
+Mr.BigBean bets [$0.10]
+juneera calls [$0.10]
+** Summary **
+Mr.BigBean shows [ 6d, 6s ]
+juneera mucks [ Ac, Qd ]
+Mr.BigBean collected [ $0.57 ]
+
+
+#Game No : 506056571
+***** 888poker Hand History for Game 506056571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 13:05:17
+Table Colchester 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: avramia1 ( $2.65 )
+Seat 9: psychopathko ( $1.22 )
+psychopathko posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+psychopathko raises [$0.03]
+avramia1 calls [$0.02]
+** Dealing flop ** [ Js, 3c, Kd ]
+avramia1 checks
+psychopathko checks
+** Dealing turn ** [ 7h ]
+avramia1 checks
+psychopathko checks
+** Dealing river ** [ 6h ]
+avramia1 checks
+psychopathko checks
+** Summary **
+avramia1 shows [ 8s, Ac ]
+psychopathko shows [ 2s, 2c ]
+psychopathko collected [ $0.08 ]
+
+
+#Game No : 506056591
+***** 888poker Hand History for Game 506056591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 13:05:43
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: avramia1 ( $2.61 )
+Seat 9: psychopathko ( $1.26 )
+avramia1 posts small blind [$0.01]
+psychopathko posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+psychopathko calls [$0.02]
+** Dealing flop ** [ 9h, 6h, 7h ]
+psychopathko checks
+avramia1 checks
+** Dealing turn ** [ 6c ]
+psychopathko checks
+avramia1 checks
+** Dealing river ** [ Tc ]
+psychopathko checks
+avramia1 checks
+** Summary **
+psychopathko shows [ 3s, Ac ]
+avramia1 shows [ Ks, Ad ]
+avramia1 collected [ $0.08 ]
+
+
+#Game No : 506056616
+***** 888poker Hand History for Game 506056616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 13:06:11
+Table Colchester 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: avramia1 ( $2.65 )
+Seat 9: psychopathko ( $1.22 )
+psychopathko posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+psychopathko folds
+** Summary **
+avramia1 collected [ $0.03 ]
+
+
+#Game No : 506056623
+***** 888poker Hand History for Game 506056623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 13:06:17
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: avramia1 ( $2.66 )
+Seat 9: psychopathko ( $1.21 )
+avramia1 posts small blind [$0.01]
+** Dealing down cards **
+psychopathko folds
+** Summary **
+avramia1 collected [ $0.01 ]
+
+

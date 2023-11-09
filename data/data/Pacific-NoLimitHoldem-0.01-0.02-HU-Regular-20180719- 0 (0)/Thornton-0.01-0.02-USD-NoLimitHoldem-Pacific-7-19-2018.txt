@@ -1,0 +1,438 @@
+#Game No : 506336862
+***** 888poker Hand History for Game 506336862 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 04:36:00
+Table Thornton 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DeduchkaXO ( $1.96 )
+Seat 2: TeqSam1 ( $2.04 )
+TeqSam1 posts small blind [$0.01]
+DeduchkaXO posts big blind [$0.02]
+** Dealing down cards **
+TeqSam1 calls [$0.01]
+DeduchkaXO checks
+** Dealing flop ** [ 9d, Td, Ks ]
+DeduchkaXO bets [$0.04]
+TeqSam1 folds
+** Summary **
+DeduchkaXO collected [ $0.04 ]
+
+
+#Game No : 506338850
+***** 888poker Hand History for Game 506338850 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:14:27
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: DownStreak ( $2.73 )
+Seat 9: Mil_Alves ( $3.36 )
+Mil_Alves posts small blind [$0.01]
+DownStreak posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves raises [$0.03]
+DownStreak folds
+** Summary **
+Mil_Alves collected [ $0.04 ]
+
+
+#Game No : 506338865
+***** 888poker Hand History for Game 506338865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:14:45
+Table Thornton 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: DownStreak ( $2.71 )
+Seat 9: Mil_Alves ( $3.38 )
+DownStreak posts small blind [$0.01]
+Mil_Alves posts big blind [$0.02]
+** Dealing down cards **
+DownStreak raises [$0.03]
+Mil_Alves calls [$0.02]
+** Dealing flop ** [ Td, Kd, 9s ]
+Mil_Alves checks
+DownStreak bets [$0.05]
+Mil_Alves calls [$0.05]
+** Dealing turn ** [ Ah ]
+Mil_Alves checks
+DownStreak bets [$0.12]
+Mil_Alves calls [$0.12]
+** Dealing river ** [ 6c ]
+Mil_Alves checks
+DownStreak checks
+** Summary **
+Mil_Alves shows [ Js, 5h ]
+DownStreak shows [ As, 9c ]
+DownStreak collected [ $0.40 ]
+
+
+#Game No : 506338992
+***** 888poker Hand History for Game 506338992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:17:13
+Table Thornton 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $3.17 )
+Seat 10: ekonievic ( $2 )
+ekonievic posts small blind [$0.01]
+Mil_Alves posts big blind [$0.02]
+** Dealing down cards **
+ekonievic folds
+** Summary **
+Mil_Alves did not show his hand
+Mil_Alves collected [ $0.03 ]
+
+
+#Game No : 506339004
+***** 888poker Hand History for Game 506339004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:17:21
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $3.18 )
+Seat 10: ekonievic ( $2 )
+Mil_Alves posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves calls [$0.01]
+ekonievic checks
+** Dealing flop ** [ 7s, Qd, 7c ]
+ekonievic checks
+Mil_Alves checks
+** Dealing turn ** [ 8d ]
+ekonievic checks
+Mil_Alves checks
+** Dealing river ** [ Qc ]
+ekonievic checks
+Mil_Alves checks
+** Summary **
+ekonievic shows [ 9h, 2s ]
+Mil_Alves mucks [ 6s, 5h ]
+ekonievic collected [ $0.04 ]
+
+
+#Game No : 506339060
+***** 888poker Hand History for Game 506339060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:18:15
+Table Thornton 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $3.16 )
+Seat 10: ekonievic ( $2.02 )
+ekonievic posts small blind [$0.01]
+Mil_Alves posts big blind [$0.02]
+** Dealing down cards **
+ekonievic raises [$0.05]
+Mil_Alves folds
+** Summary **
+ekonievic did not show his hand
+ekonievic collected [ $0.04 ]
+
+
+#Game No : 506339091
+***** 888poker Hand History for Game 506339091 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:18:37
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $3.14 )
+Seat 10: ekonievic ( $2.04 )
+Mil_Alves posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves calls [$0.01]
+ekonievic checks
+** Dealing flop ** [ 5d, Td, 2s ]
+ekonievic checks
+Mil_Alves checks
+** Dealing turn ** [ Qc ]
+ekonievic checks
+Mil_Alves checks
+** Dealing river ** [ 9d ]
+ekonievic checks
+Mil_Alves checks
+** Summary **
+ekonievic shows [ 7c, 6h ]
+Mil_Alves shows [ 3h, Jd ]
+Mil_Alves collected [ $0.04 ]
+
+
+#Game No : 506339124
+***** 888poker Hand History for Game 506339124 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:19:12
+Table Thornton 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $3.16 )
+Seat 10: ekonievic ( $2.02 )
+ekonievic posts small blind [$0.01]
+Mil_Alves posts big blind [$0.02]
+** Dealing down cards **
+ekonievic raises [$0.05]
+Mil_Alves calls [$0.04]
+** Dealing flop ** [ 9c, 3s, 6h ]
+Mil_Alves bets [$0.06]
+ekonievic folds
+** Summary **
+Mil_Alves did not show his hand
+Mil_Alves collected [ $0.12 ]
+
+
+#Game No : 506339143
+***** 888poker Hand History for Game 506339143 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:19:38
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $3.22 )
+Seat 10: ekonievic ( $2 )
+Mil_Alves posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves folds
+** Summary **
+ekonievic did not show his hand
+ekonievic collected [ $0.03 ]
+
+
+#Game No : 506339147
+***** 888poker Hand History for Game 506339147 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:19:43
+Table Thornton 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $3.21 )
+Seat 10: ekonievic ( $2.01 )
+ekonievic posts small blind [$0.01]
+Mil_Alves posts big blind [$0.02]
+** Dealing down cards **
+ekonievic folds
+** Summary **
+Mil_Alves did not show his hand
+Mil_Alves collected [ $0.03 ]
+
+
+#Game No : 506339157
+***** 888poker Hand History for Game 506339157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:19:49
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $3.22 )
+Seat 10: ekonievic ( $2 )
+Mil_Alves posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves raises [$0.03]
+ekonievic calls [$0.02]
+** Dealing flop ** [ 3s, Kh, Kd ]
+ekonievic checks
+Mil_Alves checks
+** Dealing turn ** [ 5d ]
+ekonievic checks
+Mil_Alves bets [$0.04]
+ekonievic calls [$0.04]
+** Dealing river ** [ 8d ]
+ekonievic checks
+Mil_Alves checks
+** Summary **
+ekonievic shows [ 2s, 4s ]
+Mil_Alves shows [ Td, 8c ]
+Mil_Alves collected [ $0.15 ]
+
+
+#Game No : 506339212
+***** 888poker Hand History for Game 506339212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:20:38
+Table Thornton 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $3.29 )
+Seat 10: ekonievic ( $2 )
+ekonievic posts small blind [$0.01]
+Mil_Alves posts big blind [$0.02]
+** Dealing down cards **
+ekonievic raises [$0.03]
+Mil_Alves calls [$0.02]
+** Dealing flop ** [ 9c, 2s, 3c ]
+Mil_Alves bets [$0.04]
+ekonievic calls [$0.04]
+** Dealing turn ** [ Ah ]
+Mil_Alves checks
+ekonievic bets [$0.12]
+Mil_Alves calls [$0.12]
+** Dealing river ** [ 7h ]
+Mil_Alves checks
+ekonievic bets [$0.26]
+Mil_Alves calls [$0.26]
+** Summary **
+ekonievic shows [ 4s, Ad ]
+Mil_Alves mucks [ 5c, 5d ]
+ekonievic collected [ $0.87 ]
+
+
+#Game No : 506339247
+***** 888poker Hand History for Game 506339247 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:21:07
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $2.83 )
+Seat 10: ekonievic ( $2.41 )
+Mil_Alves posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves folds
+** Summary **
+ekonievic did not show his hand
+ekonievic collected [ $0.03 ]
+
+
+#Game No : 506339253
+***** 888poker Hand History for Game 506339253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:21:12
+Table Thornton 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $2.82 )
+Seat 10: ekonievic ( $2.42 )
+ekonievic posts small blind [$0.01]
+Mil_Alves posts big blind [$0.02]
+** Dealing down cards **
+ekonievic raises [$0.03]
+Mil_Alves calls [$0.02]
+** Dealing flop ** [ 5c, Ts, 7h ]
+Mil_Alves bets [$0.04]
+ekonievic folds
+** Summary **
+Mil_Alves did not show his hand
+Mil_Alves collected [ $0.08 ]
+
+
+#Game No : 506339266
+***** 888poker Hand History for Game 506339266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:21:28
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $2.86 )
+Seat 10: ekonievic ( $2.38 )
+Mil_Alves posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves calls [$0.01]
+ekonievic checks
+** Dealing flop ** [ 3d, 2s, 8s ]
+ekonievic checks
+Mil_Alves checks
+** Dealing turn ** [ 3h ]
+ekonievic checks
+Mil_Alves checks
+** Dealing river ** [ Ts ]
+ekonievic checks
+Mil_Alves bets [$0.04]
+ekonievic folds
+** Summary **
+Mil_Alves did not show his hand
+Mil_Alves collected [ $0.04 ]
+
+
+#Game No : 506339298
+***** 888poker Hand History for Game 506339298 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:22:03
+Table Thornton 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $2.88 )
+Seat 10: ekonievic ( $2.36 )
+ekonievic posts small blind [$0.01]
+Mil_Alves posts big blind [$0.02]
+** Dealing down cards **
+ekonievic raises [$0.03]
+Mil_Alves folds
+** Summary **
+ekonievic did not show his hand
+ekonievic collected [ $0.04 ]
+
+
+#Game No : 506339316
+***** 888poker Hand History for Game 506339316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:22:19
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Mil_Alves ( $2.86 )
+Seat 10: ekonievic ( $2.38 )
+Mil_Alves posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves calls [$0.01]
+ekonievic checks
+** Dealing flop ** [ Qs, 7s, 9d ]
+ekonievic checks
+Mil_Alves checks
+** Dealing turn ** [ Kc ]
+ekonievic checks
+Mil_Alves bets [$0.04]
+ekonievic folds
+** Summary **
+Mil_Alves did not show his hand
+Mil_Alves collected [ $0.04 ]
+
+
+#Game No : 506339414
+***** 888poker Hand History for Game 506339414 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:23:46
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: scotblu9 ( $2 )
+Seat 9: Mil_Alves ( $2.88 )
+Mil_Alves posts small blind [$0.01]
+scotblu9 posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves calls [$0.01]
+scotblu9 checks
+** Dealing flop ** [ Kc, 7h, 9s ]
+scotblu9 checks
+Mil_Alves checks
+** Dealing turn ** [ 2s ]
+scotblu9 checks
+Mil_Alves checks
+** Dealing river ** [ 7c ]
+scotblu9 checks
+Mil_Alves checks
+** Summary **
+scotblu9 shows [ 3s, 8s ]
+Mil_Alves shows [ 5h, 8d ]
+Mil_Alves collected [ $0.02 ]
+scotblu9 collected [ $0.02 ]
+
+
+#Game No : 506339501
+***** 888poker Hand History for Game 506339501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 05:25:10
+Table Thornton 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: turnernhooc1 ( $2 )
+Seat 9: Mil_Alves ( $2.88 )
+Mil_Alves posts small blind [$0.01]
+turnernhooc1 posts big blind [$0.02]
+** Dealing down cards **
+Mil_Alves calls [$0.01]
+turnernhooc1 checks
+** Dealing flop ** [ 4s, 4d, 4h ]
+turnernhooc1 checks
+Mil_Alves checks
+** Dealing turn ** [ 6c ]
+turnernhooc1 checks
+Mil_Alves bets [$0.02]
+turnernhooc1 calls [$0.02]
+** Dealing river ** [ 3s ]
+turnernhooc1 checks
+Mil_Alves bets [$0.05]
+turnernhooc1 folds
+** Summary **
+Mil_Alves collected [ $0.08 ]
+
+

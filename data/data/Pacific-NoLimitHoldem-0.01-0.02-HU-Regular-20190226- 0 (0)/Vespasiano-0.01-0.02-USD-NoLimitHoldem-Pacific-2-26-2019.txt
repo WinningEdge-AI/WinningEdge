@@ -1,0 +1,101 @@
+#Game No : 514258071
+***** 888poker Hand History for Game 514258071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 16:15:29
+Table Vespasiano 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: wawiwawi ( $1.24 )
+Seat 6: richbranson ( $0.20 )
+richbranson posts small blind [$0.01]
+wawiwawi posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+wawiwawi collected [ $0.03 ]
+
+
+#Game No : 514258076
+***** 888poker Hand History for Game 514258076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 16:15:35
+Table Vespasiano 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: wawiwawi ( $1.25 )
+Seat 6: richbranson ( $0.19 )
+wawiwawi posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+wawiwawi raises [$1.17]
+richbranson folds
+** Summary **
+wawiwawi did not show his hand
+wawiwawi collected [ $0.04 ]
+
+
+#Game No : 514258082
+***** 888poker Hand History for Game 514258082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 16:15:43
+Table Vespasiano 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: wawiwawi ( $1.27 )
+Seat 6: richbranson ( $0.17 )
+richbranson posts small blind [$0.01]
+wawiwawi posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+wawiwawi did not show his hand
+wawiwawi collected [ $0.03 ]
+
+
+#Game No : 514258086
+***** 888poker Hand History for Game 514258086 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 16:15:48
+Table Vespasiano 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: wawiwawi ( $1.28 )
+Seat 6: richbranson ( $0.16 )
+wawiwawi posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+wawiwawi raises [$1.27]
+richbranson calls [$0.14]
+** Dealing flop ** [ Jh, Qc, As ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ Ac ]
+** Summary **
+wawiwawi shows [ 3c, Ah ]
+richbranson shows [ Jc, Kc ]
+wawiwawi collected [ $0.30 ]
+
+
+#Game No : 525283079
+***** 888poker Hand History for Game 525283079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 15:17:13
+Table Vespasiano 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: vietalva ( $1.49 )
+Seat 9: thdantas ( $0.98 )
+thdantas posts small blind [$0.01]
+vietalva posts big blind [$0.02]
+** Dealing down cards **
+thdantas calls [$0.01]
+vietalva checks
+** Dealing flop ** [ 4d, 2s, Ad ]
+vietalva checks
+thdantas checks
+** Dealing turn ** [ Qc ]
+vietalva checks
+thdantas checks
+** Dealing river ** [ Qd ]
+vietalva checks
+thdantas checks
+** Summary **
+vietalva shows [ Jh, 5d ]
+thdantas mucks [ Th, 6d ]
+vietalva collected [ $0.04 ]
+
+

@@ -1,0 +1,616 @@
+#Game No : 1196236884
+***** 888poker Hand History for Game 1196236884 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:13:28
+Table Bratislava 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ETH0j ( $0.59 )
+Seat 2: Gymdose ( $1.11 )
+ETH0j posts small blind [$0.01]
+Gymdose posts big blind [$0.02]
+** Dealing down cards **
+ETH0j raises [$0.03]
+Gymdose raises [$0.10]
+ETH0j calls [$0.08]
+** Dealing flop ** [ 7s, 3c, As ]
+Gymdose bets [$0.10]
+ETH0j calls [$0.10]
+** Dealing turn ** [ 5s ]
+Gymdose checks
+ETH0j bets [$0.37]
+Gymdose calls [$0.37]
+** Dealing river ** [ Tc ]
+** Summary **
+ETH0j shows [ Ah, 9h ]
+Gymdose shows [ Js, Ad ]
+Gymdose collected [ $1.11 ]
+
+
+#Game No : 1196237012
+***** 888poker Hand History for Game 1196237012 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:13:58
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Gymdose ( $1.63 )
+Seat 5: Hobbit1964 ( $2 )
+Gymdose posts small blind [$0.01]
+Hobbit1964 posts big blind [$0.02]
+** Dealing down cards **
+Gymdose calls [$0.01]
+Hobbit1964 checks
+** Dealing flop ** [ 4c, Qs, 4s ]
+Hobbit1964 checks
+Gymdose checks
+** Dealing turn ** [ Kd ]
+Hobbit1964 checks
+Gymdose checks
+** Dealing river ** [ 8d ]
+Hobbit1964 checks
+Gymdose bets [$0.02]
+Hobbit1964 folds
+** Summary **
+Gymdose did not show his hand
+Gymdose collected [ $0.04 ]
+
+
+#Game No : 1196237146
+***** 888poker Hand History for Game 1196237146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:14:32
+Table Bratislava 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Gymdose ( $1.65 )
+Seat 5: Hobbit1964 ( $1.98 )
+Hobbit1964 posts small blind [$0.01]
+Gymdose posts big blind [$0.02]
+** Dealing down cards **
+Hobbit1964 folds
+** Summary **
+Gymdose did not show his hand
+Gymdose collected [ $0.03 ]
+
+
+#Game No : 1196237172
+***** 888poker Hand History for Game 1196237172 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:14:39
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Gymdose ( $1.66 )
+Seat 5: Hobbit1964 ( $1.97 )
+Gymdose posts small blind [$0.01]
+Hobbit1964 posts big blind [$0.02]
+** Dealing down cards **
+Gymdose calls [$0.01]
+Hobbit1964 raises [$0.06]
+Gymdose folds
+** Summary **
+Hobbit1964 collected [ $0.04 ]
+
+
+#Game No : 1196243225
+***** 888poker Hand History for Game 1196243225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:43:14
+Table Bratislava 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Kreeks49 ( $0.69 )
+Seat 7: Lupul55 ( $2.41 )
+Lupul55 posts small blind [$0.01]
+Kreeks49 posts big blind [$0.02]
+** Dealing down cards **
+Lupul55 calls [$0.01]
+Kreeks49 checks
+** Dealing flop ** [ Qh, 3c, 7h ]
+Kreeks49 checks
+Lupul55 checks
+** Dealing turn ** [ Qc ]
+Kreeks49 bets [$0.02]
+Lupul55 folds
+** Summary **
+Kreeks49 collected [ $0.04 ]
+
+
+#Game No : 1196243277
+***** 888poker Hand History for Game 1196243277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:43:30
+Table Bratislava 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kreeks49 ( $0.71 )
+Seat 7: Lupul55 ( $2.39 )
+Kreeks49 posts small blind [$0.01]
+Lupul55 posts big blind [$0.02]
+** Dealing down cards **
+Kreeks49 calls [$0.01]
+Lupul55 checks
+** Dealing flop ** [ 8d, 7h, 8c ]
+Lupul55 checks
+Kreeks49 bets [$0.02]
+Lupul55 folds
+** Summary **
+Kreeks49 collected [ $0.04 ]
+
+
+#Game No : 1196243322
+***** 888poker Hand History for Game 1196243322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:43:42
+Table Bratislava 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Kreeks49 ( $0.73 )
+Seat 7: Lupul55 ( $2.37 )
+Lupul55 posts small blind [$0.01]
+Kreeks49 posts big blind [$0.02]
+** Dealing down cards **
+Lupul55 calls [$0.01]
+Kreeks49 checks
+** Dealing flop ** [ 5s, 4h, 8s ]
+Kreeks49 bets [$0.04]
+Lupul55 calls [$0.04]
+** Dealing turn ** [ Qs ]
+Kreeks49 checks
+Lupul55 bets [$0.06]
+Kreeks49 folds
+** Summary **
+Lupul55 collected [ $0.12 ]
+
+
+#Game No : 1196243424
+***** 888poker Hand History for Game 1196243424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:44:06
+Table Bratislava 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kreeks49 ( $0.67 )
+Seat 7: Lupul55 ( $2.43 )
+Kreeks49 posts small blind [$0.01]
+Lupul55 posts big blind [$0.02]
+** Dealing down cards **
+Kreeks49 calls [$0.01]
+Lupul55 checks
+** Dealing flop ** [ 7s, Kd, Qd ]
+Lupul55 checks
+Kreeks49 bets [$0.04]
+Lupul55 folds
+** Summary **
+Kreeks49 collected [ $0.04 ]
+
+
+#Game No : 1196243488
+***** 888poker Hand History for Game 1196243488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:44:21
+Table Bratislava 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Kreeks49 ( $0.69 )
+Seat 7: Lupul55 ( $2.41 )
+Lupul55 posts small blind [$0.01]
+Kreeks49 posts big blind [$0.02]
+** Dealing down cards **
+Lupul55 calls [$0.01]
+Kreeks49 checks
+** Dealing flop ** [ 8s, 5s, 3d ]
+Kreeks49 checks
+Lupul55 bets [$0.02]
+Kreeks49 folds
+** Summary **
+Lupul55 collected [ $0.04 ]
+
+
+#Game No : 1196243526
+***** 888poker Hand History for Game 1196243526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:44:34
+Table Bratislava 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kreeks49 ( $0.67 )
+Seat 7: Lupul55 ( $2.43 )
+Kreeks49 posts small blind [$0.01]
+Lupul55 posts big blind [$0.02]
+** Dealing down cards **
+Kreeks49 calls [$0.01]
+Lupul55 checks
+** Dealing flop ** [ Ts, 3d, 9h ]
+Lupul55 checks
+Kreeks49 bets [$0.02]
+Lupul55 folds
+** Summary **
+Kreeks49 did not show his hand
+Kreeks49 collected [ $0.04 ]
+
+
+#Game No : 1196243586
+***** 888poker Hand History for Game 1196243586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:44:49
+Table Bratislava 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Kreeks49 ( $0.69 )
+Seat 7: Lupul55 ( $2.41 )
+Lupul55 posts small blind [$0.01]
+Kreeks49 posts big blind [$0.02]
+** Dealing down cards **
+Lupul55 calls [$0.01]
+Kreeks49 checks
+** Dealing flop ** [ 6h, Kh, 2c ]
+Kreeks49 checks
+Lupul55 checks
+** Dealing turn ** [ 9c ]
+Kreeks49 checks
+Lupul55 bets [$0.02]
+Kreeks49 folds
+** Summary **
+Lupul55 did not show his hand
+Lupul55 collected [ $0.04 ]
+
+
+#Game No : 1196243663
+***** 888poker Hand History for Game 1196243663 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 08:45:11
+Table Bratislava 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kreeks49 ( $0.67 )
+Seat 7: Lupul55 ( $2.43 )
+Kreeks49 posts small blind [$0.01]
+Lupul55 posts big blind [$0.02]
+** Dealing down cards **
+Kreeks49 calls [$0.01]
+Lupul55 checks
+** Dealing flop ** [ 4c, 5c, 9c ]
+Lupul55 bets [$0.02]
+Kreeks49 calls [$0.02]
+** Dealing turn ** [ 6c ]
+Lupul55 bets [$0.02]
+Kreeks49 raises [$0.04]
+Lupul55 raises [$0.04]
+Kreeks49 raises [$0.59]
+Lupul55 calls [$0.57]
+** Dealing river ** [ Jd ]
+** Summary **
+Kreeks49 shows [ Jc, 2s ]
+Lupul55 shows [ 4h, Ac ]
+Lupul55 collected [ $1.26 ]
+
+
+#Game No : 499987412
+***** 888poker Hand History for Game 499987412 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:37:45
+Table Bratislava 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bar_ce15 ( $0.93 )
+Seat 2: Zer0Cool321 ( $1.86 )
+Bar_ce15 posts small blind [$0.01]
+Zer0Cool321 posts big blind [$0.02]
+** Dealing down cards **
+Bar_ce15 raises [$0.05]
+Zer0Cool321 folds
+** Summary **
+Bar_ce15 collected [ $0.04 ]
+
+
+#Game No : 499987445
+***** 888poker Hand History for Game 499987445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:38:34
+Table Bratislava 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bar_ce15 ( $0.95 )
+Seat 4: vnuk36 ( $0.80 )
+Bar_ce15 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Bar_ce15 raises [$0.05]
+vnuk36 calls [$0.04]
+** Dealing flop ** [ 5d, 6s, Ad ]
+vnuk36 checks
+Bar_ce15 bets [$0.04]
+vnuk36 calls [$0.04]
+** Dealing turn ** [ 4d ]
+vnuk36 checks
+Bar_ce15 checks
+** Dealing river ** [ 8s ]
+vnuk36 checks
+Bar_ce15 bets [$0.20]
+vnuk36 folds
+** Summary **
+Bar_ce15 collected [ $0.19 ]
+
+
+#Game No : 499987478
+***** 888poker Hand History for Game 499987478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:39:16
+Table Bratislava 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Bar_ce15 ( $1.04 )
+Seat 4: vnuk36 ( $0.70 )
+vnuk36 posts small blind [$0.01]
+Bar_ce15 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 raises [$0.05]
+Bar_ce15 folds
+** Summary **
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 499988155
+***** 888poker Hand History for Game 499988155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:53:00
+Table Bratislava 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bar_ce15 ( $0.85 )
+Seat 7: AAOksana ( $1.21 )
+Bar_ce15 posts small blind [$0.01]
+AAOksana posts big blind [$0.02]
+** Dealing down cards **
+Bar_ce15 folds
+** Summary **
+AAOksana collected [ $0.03 ]
+
+
+#Game No : 499988160
+***** 888poker Hand History for Game 499988160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:53:09
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Bar_ce15 ( $0.84 )
+Seat 7: AAOksana ( $1.22 )
+AAOksana posts small blind [$0.01]
+Bar_ce15 posts big blind [$0.02]
+** Dealing down cards **
+AAOksana folds
+** Summary **
+Bar_ce15 collected [ $0.03 ]
+
+
+#Game No : 499988164
+***** 888poker Hand History for Game 499988164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:53:14
+Table Bratislava 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bar_ce15 ( $0.85 )
+Seat 7: AAOksana ( $1.21 )
+Bar_ce15 posts small blind [$0.01]
+** Dealing down cards **
+AAOksana folds
+** Summary **
+Bar_ce15 collected [ $0.01 ]
+
+
+#Game No : 499988194
+***** 888poker Hand History for Game 499988194 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:53:42
+Table Bratislava 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bar_ce15 ( $0.85 )
+Seat 6: romankr933 ( $0.80 )
+romankr933 posts small blind [$0.01]
+Bar_ce15 posts big blind [$0.02]
+** Dealing down cards **
+romankr933 raises [$0.03]
+Bar_ce15 calls [$0.02]
+** Dealing flop ** [ Qc, 4d, 2c ]
+Bar_ce15 checks
+romankr933 bets [$0.04]
+Bar_ce15 calls [$0.04]
+** Dealing turn ** [ 9d ]
+Bar_ce15 checks
+romankr933 bets [$0.08]
+Bar_ce15 folds
+** Summary **
+romankr933 collected [ $0.15 ]
+
+
+#Game No : 499988218
+***** 888poker Hand History for Game 499988218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:54:11
+Table Bratislava 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bar_ce15 ( $0.77 )
+Seat 6: romankr933 ( $0.87 )
+Bar_ce15 posts small blind [$0.01]
+romankr933 posts big blind [$0.02]
+** Dealing down cards **
+Bar_ce15 raises [$0.05]
+romankr933 calls [$0.04]
+** Dealing flop ** [ 3d, 3c, Jc ]
+romankr933 bets [$0.06]
+Bar_ce15 raises [$0.22]
+romankr933 raises [$0.32]
+Bar_ce15 calls [$0.16]
+** Dealing turn ** [ 6c ]
+romankr933 bets [$0.06]
+Bar_ce15 raises [$0.33]
+romankr933 calls [$0.27]
+** Dealing river ** [ 7c ]
+** Summary **
+Bar_ce15 shows [ Qs, Tc ]
+romankr933 shows [ Js, 8h ]
+Bar_ce15 collected [ $1.45 ]
+
+
+#Game No : 499991311
+***** 888poker Hand History for Game 499991311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:55:17
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: vlad_ul ( $1.03 )
+Seat 7: Ra_bona ( $1.53 )
+Ra_bona posts small blind [$0.01]
+vlad_ul posts big blind [$0.02]
+** Dealing down cards **
+Ra_bona calls [$0.01]
+vlad_ul checks
+** Dealing flop ** [ 6h, 3d, Qd ]
+vlad_ul checks
+Ra_bona bets [$0.04]
+vlad_ul folds
+** Summary **
+Ra_bona collected [ $0.04 ]
+
+
+#Game No : 499991415
+***** 888poker Hand History for Game 499991415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:57:16
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Ra_bona ( $1.55 )
+Seat 9: Aspirin1980 ( $0.80 )
+Ra_bona posts small blind [$0.01]
+Aspirin1980 posts big blind [$0.02]
+** Dealing down cards **
+Ra_bona calls [$0.01]
+Aspirin1980 checks
+** Dealing flop ** [ Kc, Jd, 3c ]
+Aspirin1980 checks
+Ra_bona checks
+** Dealing turn ** [ Jc ]
+Aspirin1980 checks
+Ra_bona checks
+** Dealing river ** [ 4h ]
+Aspirin1980 checks
+Ra_bona checks
+** Summary **
+Aspirin1980 shows [ 5s, 6s ]
+Ra_bona shows [ Th, 8h ]
+Ra_bona collected [ $0.04 ]
+
+
+#Game No : 499991511
+***** 888poker Hand History for Game 499991511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:59:14
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: vlad_ul ( $1.01 )
+Seat 9: Aspirin1980 ( $0.78 )
+Aspirin1980 posts small blind [$0.01]
+vlad_ul posts big blind [$0.02]
+** Dealing down cards **
+Aspirin1980 calls [$0.01]
+vlad_ul raises [$0.04]
+Aspirin1980 calls [$0.04]
+** Dealing flop ** [ Ts, 3c, 9s ]
+vlad_ul bets [$0.08]
+Aspirin1980 calls [$0.08]
+** Dealing turn ** [ 9h ]
+vlad_ul bets [$0.18]
+Aspirin1980 folds
+** Summary **
+vlad_ul collected [ $0.27 ]
+
+
+#Game No : 499994653
+***** 888poker Hand History for Game 499994653 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 14:13:42
+Table Bratislava 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: a1plumber ( $2.12 )
+Seat 4: Damonf1 ( $0.90 )
+a1plumber posts small blind [$0.01]
+Damonf1 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber folds
+** Summary **
+Damonf1 collected [ $0.03 ]
+
+
+#Game No : 499994657
+***** 888poker Hand History for Game 499994657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 14:13:49
+Table Bratislava 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: a1plumber ( $2.11 )
+Seat 4: Damonf1 ( $0.91 )
+Damonf1 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+Damonf1 calls [$0.01]
+a1plumber checks
+** Dealing flop ** [ 7s, 6c, 8s ]
+a1plumber bets [$0.02]
+Damonf1 calls [$0.02]
+** Dealing turn ** [ Qh ]
+a1plumber bets [$0.02]
+Damonf1 calls [$0.02]
+** Dealing river ** [ Js ]
+a1plumber bets [$0.08]
+Damonf1 raises [$0.16]
+a1plumber folds
+** Summary **
+Damonf1 collected [ $0.27 ]
+
+
+#Game No : 499994686
+***** 888poker Hand History for Game 499994686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 14:14:31
+Table Bratislava 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: a1plumber ( $1.97 )
+Seat 4: Damonf1 ( $1.04 )
+a1plumber posts small blind [$0.01]
+Damonf1 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+Damonf1 checks
+** Dealing flop ** [ 3s, Jd, Ac ]
+Damonf1 checks
+a1plumber checks
+** Dealing turn ** [ Ad ]
+Damonf1 bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing river ** [ 7h ]
+Damonf1 checks
+a1plumber checks
+** Summary **
+Damonf1 shows [ 4h, 3d ]
+a1plumber mucks [ 5d, Td ]
+Damonf1 collected [ $0.08 ]
+
+
+#Game No : 499997189
+***** 888poker Hand History for Game 499997189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 15:08:48
+Table Bratislava 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: mamba304 ( $2.25 )
+Seat 7: Noir_Noir ( $0.71 )
+mamba304 posts small blind [$0.01]
+Noir_Noir posts big blind [$0.02]
+** Dealing down cards **
+mamba304 raises [$0.05]
+Noir_Noir folds
+** Summary **
+mamba304 collected [ $0.04 ]
+
+
+#Game No : 499997192
+***** 888poker Hand History for Game 499997192 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 15:08:56
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: mamba304 ( $2.27 )
+Seat 7: Noir_Noir ( $0.69 )
+Noir_Noir posts small blind [$0.01]
+** Dealing down cards **
+mamba304 folds
+** Summary **
+Noir_Noir collected [ $0.01 ]
+
+

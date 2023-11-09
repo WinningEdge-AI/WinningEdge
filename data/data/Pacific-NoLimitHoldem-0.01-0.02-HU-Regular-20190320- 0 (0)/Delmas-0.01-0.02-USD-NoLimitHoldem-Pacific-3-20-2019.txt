@@ -1,0 +1,106 @@
+#Game No : 527038869
+***** 888poker Hand History for Game 527038869 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 00:14:11
+Table Delmas 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: ILPAE7 ( $2.89 )
+Seat 3: meDIbel ( $2.01 )
+meDIbel posts small blind [$0.01]
+ILPAE7 posts big blind [$0.02]
+** Dealing down cards **
+meDIbel raises [$0.05]
+ILPAE7 folds
+** Summary **
+meDIbel collected [ $0.04 ]
+
+
+#Game No : 527038942
+***** 888poker Hand History for Game 527038942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 00:16:58
+Table Delmas 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: MarianDeres ( $2 )
+Seat 5: Puhalskiy91 ( $2 )
+MarianDeres posts small blind [$0.01]
+Puhalskiy91 posts big blind [$0.02]
+** Dealing down cards **
+MarianDeres folds
+** Summary **
+Puhalskiy91 collected [ $0.03 ]
+
+
+#Game No : 527038947
+***** 888poker Hand History for Game 527038947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 00:17:08
+Table Delmas 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: MarianDeres ( $1.99 )
+Seat 5: Puhalskiy91 ( $2.01 )
+Puhalskiy91 posts small blind [$0.01]
+MarianDeres posts big blind [$0.02]
+** Dealing down cards **
+Puhalskiy91 folds
+** Summary **
+MarianDeres collected [ $0.03 ]
+
+
+#Game No : 527038951
+***** 888poker Hand History for Game 527038951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 00:17:13
+Table Delmas 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: MarianDeres ( $2 )
+Seat 5: Puhalskiy91 ( $2 )
+MarianDeres posts small blind [$0.01]
+Puhalskiy91 posts big blind [$0.02]
+** Dealing down cards **
+MarianDeres calls [$0.01]
+Puhalskiy91 checks
+** Dealing flop ** [ 2c, 9s, 8c ]
+Puhalskiy91 bets [$0.02]
+MarianDeres calls [$0.02]
+** Dealing turn ** [ 5d ]
+Puhalskiy91 bets [$0.08]
+MarianDeres raises [$0.16]
+Puhalskiy91 raises [$1.88]
+MarianDeres calls [$1.80]
+** Dealing river ** [ 8h ]
+** Summary **
+MarianDeres shows [ 6s, 7s ]
+Puhalskiy91 shows [ 7d, 6d ]
+Puhalskiy91 collected [ $1.88 ]
+MarianDeres collected [ $1.87 ]
+
+
+#Game No : 527064041
+***** 888poker Hand History for Game 527064041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 08:53:13
+Table Delmas 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: xrystuks ( $4.20 )
+Seat 9: SergeiBlidar ( $1.27 )
+xrystuks posts small blind [$0.01]
+SergeiBlidar posts big blind [$0.02]
+** Dealing down cards **
+xrystuks calls [$0.01]
+SergeiBlidar checks
+** Dealing flop ** [ 5s, 2h, 2s ]
+SergeiBlidar checks
+xrystuks checks
+** Dealing turn ** [ 2c ]
+SergeiBlidar checks
+xrystuks checks
+** Dealing river ** [ 3s ]
+SergeiBlidar checks
+xrystuks checks
+** Summary **
+SergeiBlidar shows [ Jc, 7d ]
+xrystuks mucks [ 9d, 8h ]
+SergeiBlidar collected [ $0.04 ]
+
+

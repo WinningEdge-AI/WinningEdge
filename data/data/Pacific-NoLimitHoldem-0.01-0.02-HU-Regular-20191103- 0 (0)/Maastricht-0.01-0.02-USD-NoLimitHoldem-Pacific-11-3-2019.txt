@@ -1,0 +1,47 @@
+#Game No : 470867388
+***** 888poker Hand History for Game 470867388 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2019 21:49:45
+Table Maastricht 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Monax1108 ( $0.94 )
+Seat 6: animalboy14 ( $2.75 )
+Monax1108 posts small blind [$0.01]
+animalboy14 posts big blind [$0.02]
+** Dealing down cards **
+Monax1108 calls [$0.01]
+animalboy14 checks
+** Dealing flop ** [ 4h, 3d, Ac ]
+animalboy14 checks
+Monax1108 bets [$0.02]
+animalboy14 calls [$0.02]
+** Dealing turn ** [ 5s ]
+animalboy14 checks
+Monax1108 checks
+** Dealing river ** [ Kc ]
+animalboy14 checks
+Monax1108 bets [$0.02]
+animalboy14 calls [$0.02]
+** Summary **
+Monax1108 shows [ 8s, Ad ]
+animalboy14 mucks [ 3s, 9d ]
+Monax1108 collected [ $0.12 ]
+
+
+#Game No : 470867391
+***** 888poker Hand History for Game 470867391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2019 21:49:57
+Table Maastricht 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Monax1108 ( $1 )
+Seat 6: animalboy14 ( $2.69 )
+animalboy14 posts small blind [$0.01]
+Monax1108 posts big blind [$0.02]
+** Dealing down cards **
+animalboy14 raises [$0.05]
+Monax1108 folds
+** Summary **
+animalboy14 collected [ $0.04 ]
+
+

@@ -1,0 +1,28 @@
+#Game No : 509252959
+***** 888poker Hand History for Game 509252959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 17:46:31
+Table La Serena 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: 8mobius8 ( $2 )
+Seat 7: CORNFLAKE64 ( $1.26 )
+CORNFLAKE64 posts small blind [$0.01]
+8mobius8 posts big blind [$0.02]
+** Dealing down cards **
+CORNFLAKE64 calls [$0.01]
+8mobius8 checks
+** Dealing flop ** [ 4c, 5h, 6c ]
+8mobius8 bets [$0.04]
+CORNFLAKE64 calls [$0.04]
+** Dealing turn ** [ 4d ]
+8mobius8 bets [$0.12]
+CORNFLAKE64 calls [$0.12]
+** Dealing river ** [ Ts ]
+8mobius8 checks
+CORNFLAKE64 checks
+** Summary **
+8mobius8 shows [ Qs, 6d ]
+CORNFLAKE64 shows [ 6s, As ]
+CORNFLAKE64 collected [ $0.34 ]
+
+

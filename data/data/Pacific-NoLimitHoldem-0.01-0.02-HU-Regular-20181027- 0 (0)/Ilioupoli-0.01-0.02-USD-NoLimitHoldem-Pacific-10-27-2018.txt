@@ -1,0 +1,101 @@
+#Game No : 610009561
+***** 888poker Hand History for Game 610009561 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 13:19:40
+Table Ilioupoli 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $2.32 )
+Seat 10: Mickyjegero ( $2 )
+klerik170 posts small blind [$0.01]
+Mickyjegero posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+Mickyjegero raises [$0.04]
+klerik170 calls [$0.04]
+** Dealing flop ** [ Ks, Kh, Kd ]
+Mickyjegero bets [$0.08]
+klerik170 raises [$0.36]
+Mickyjegero folds
+** Summary **
+klerik170 collected [ $0.27 ]
+
+
+#Game No : 610009722
+***** 888poker Hand History for Game 610009722 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 13:22:12
+Table Ilioupoli 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: djamfish ( $0.76 )
+Seat 9: sargyba ( $1.24 )
+djamfish posts small blind [$0.01]
+sargyba posts big blind [$0.02]
+** Dealing down cards **
+djamfish raises [$0.03]
+sargyba calls [$0.02]
+** Dealing flop ** [ 6c, Kh, 8d ]
+sargyba checks
+djamfish checks
+** Dealing turn ** [ 6h ]
+sargyba bets [$1.20]
+djamfish calls [$0.72]
+** Dealing river ** [ 6s ]
+** Summary **
+djamfish shows [ Jh, Ks ]
+sargyba shows [ 6d, 8s ]
+sargyba collected [ $1.43 ]
+
+
+#Game No : 610009749
+***** 888poker Hand History for Game 610009749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 13:22:45
+Table Ilioupoli 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: djamfish ( $0.81 )
+Seat 9: sargyba ( $1.91 )
+sargyba posts small blind [$0.01]
+djamfish posts big blind [$0.02]
+** Dealing down cards **
+sargyba calls [$0.01]
+djamfish checks
+** Dealing flop ** [ 6c, 6d, Th ]
+djamfish checks
+sargyba checks
+** Dealing turn ** [ 9s ]
+djamfish checks
+sargyba bets [$1.89]
+djamfish folds
+** Summary **
+sargyba did not show his hand
+sargyba collected [ $0.04 ]
+
+
+#Game No : 610009762
+***** 888poker Hand History for Game 610009762 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 13:23:01
+Table Ilioupoli 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: djamfish ( $0.79 )
+Seat 9: sargyba ( $1.93 )
+djamfish posts small blind [$0.01]
+sargyba posts big blind [$0.02]
+** Dealing down cards **
+djamfish raises [$0.03]
+sargyba calls [$0.02]
+** Dealing flop ** [ Jc, Ad, 7d ]
+sargyba checks
+djamfish checks
+** Dealing turn ** [ 4d ]
+sargyba checks
+djamfish checks
+** Dealing river ** [ 6h ]
+sargyba checks
+djamfish checks
+** Summary **
+sargyba shows [ 8s, Qd ]
+djamfish shows [ Kd, 9c ]
+djamfish collected [ $0.08 ]
+
+

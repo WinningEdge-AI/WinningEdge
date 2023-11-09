@@ -1,0 +1,30 @@
+#Game No : 505816506
+***** 888poker Hand History for Game 505816506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 10:29:02
+Table Jequie 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: evgruzdevsp ( $0.80 )
+Seat 10: KenAston88 ( $2 )
+evgruzdevsp posts small blind [$0.01]
+KenAston88 posts big blind [$0.02]
+** Dealing down cards **
+evgruzdevsp calls [$0.01]
+KenAston88 checks
+** Dealing flop ** [ Kh, Jh, Ks ]
+KenAston88 bets [$0.02]
+evgruzdevsp raises [$0.10]
+KenAston88 calls [$0.08]
+** Dealing turn ** [ 3s ]
+KenAston88 checks
+evgruzdevsp bets [$0.12]
+KenAston88 calls [$0.12]
+** Dealing river ** [ 8h ]
+KenAston88 checks
+evgruzdevsp checks
+** Summary **
+KenAston88 shows [ Kd, 6d ]
+evgruzdevsp mucks [ 6c, Js ]
+KenAston88 collected [ $0.45 ]
+
+

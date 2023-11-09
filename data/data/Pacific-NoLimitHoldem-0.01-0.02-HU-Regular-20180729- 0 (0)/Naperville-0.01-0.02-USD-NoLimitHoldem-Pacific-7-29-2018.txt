@@ -1,0 +1,73 @@
+#Game No : 505267107
+***** 888poker Hand History for Game 505267107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:00:41
+Table Naperville 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $1.33 )
+Seat 5: vasi66 ( $0.17 )
+vasi66 posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+vasi66 calls [$0.01]
+scs1914 checks
+** Dealing flop ** [ Jd, 2d, 7d ]
+scs1914 checks
+vasi66 checks
+** Dealing turn ** [ Kh ]
+scs1914 checks
+vasi66 checks
+** Dealing river ** [ 3h ]
+scs1914 checks
+vasi66 checks
+** Summary **
+scs1914 shows [ Ks, 9c ]
+vasi66 mucks [ 8c, 4s ]
+scs1914 collected [ $0.04 ]
+
+
+#Game No : 505267125
+***** 888poker Hand History for Game 505267125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:01:01
+Table Naperville 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $1.35 )
+Seat 5: vasi66 ( $0.15 )
+scs1914 posts small blind [$0.01]
+vasi66 posts big blind [$0.02]
+** Dealing down cards **
+scs1914 folds
+** Summary **
+vasi66 did not show his hand
+vasi66 collected [ $0.03 ]
+
+
+#Game No : 505267131
+***** 888poker Hand History for Game 505267131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:01:05
+Table Naperville 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $1.34 )
+Seat 5: vasi66 ( $0.16 )
+vasi66 posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+vasi66 calls [$0.01]
+scs1914 raises [$0.02]
+vasi66 calls [$0.02]
+** Dealing flop ** [ 4h, Td, Js ]
+scs1914 checks
+vasi66 checks
+** Dealing turn ** [ 7c ]
+scs1914 bets [$0.02]
+vasi66 calls [$0.02]
+** Dealing river ** [ 2d ]
+scs1914 bets [$0.10]
+vasi66 folds
+** Summary **
+scs1914 did not show his hand
+scs1914 collected [ $0.12 ]
+
+

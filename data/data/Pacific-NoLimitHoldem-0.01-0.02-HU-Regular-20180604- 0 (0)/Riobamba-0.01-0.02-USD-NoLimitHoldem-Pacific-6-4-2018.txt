@@ -1,0 +1,48 @@
+#Game No : 1180919750
+***** 888poker Hand History for Game 1180919750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2018 03:41:43
+Table Riobamba 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: netineta4 ( $2 )
+Seat 5: archigem72 ( $1 )
+netineta4 posts small blind [$0.01]
+archigem72 posts big blind [$0.02]
+** Dealing down cards **
+netineta4 calls [$0.01]
+archigem72 checks
+** Dealing flop ** [ Tc, Th, 9c ]
+archigem72 checks
+netineta4 bets [$0.02]
+archigem72 calls [$0.02]
+** Dealing turn ** [ 9h ]
+archigem72 checks
+netineta4 bets [$0.02]
+archigem72 calls [$0.02]
+** Dealing river ** [ 4d ]
+archigem72 bets [$0.12]
+netineta4 calls [$0.12]
+** Summary **
+archigem72 shows [ Ts, 7s ]
+netineta4 mucks [ 9d, 2s ]
+archigem72 collected [ $0.34 ]
+
+
+#Game No : 1180919839
+***** 888poker Hand History for Game 1180919839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2018 03:41:48
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: netineta4 ( $1.82 )
+Seat 5: archigem72 ( $1.16 )
+archigem72 posts small blind [$0.01]
+netineta4 posts big blind [$0.02]
+** Dealing down cards **
+archigem72 calls [$0.01]
+netineta4 raises [$0.06]
+archigem72 folds
+** Summary **
+netineta4 collected [ $0.04 ]
+
+

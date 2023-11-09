@@ -1,0 +1,79 @@
+#Game No : 499607431
+***** 888poker Hand History for Game 499607431 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 08:05:10
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: SAXWIND14 ( $2.50 )
+Seat 9: CHAMPIONT688 ( $1.22 )
+CHAMPIONT688 posts small blind [$0.01]
+SAXWIND14 posts big blind [$0.02]
+** Dealing down cards **
+CHAMPIONT688 raises [$0.07]
+SAXWIND14 calls [$0.06]
+** Dealing flop ** [ Ah, 8s, 5c ]
+CHAMPIONT688 checks
+SAXWIND14 bets [$0.08]
+CHAMPIONT688 raises [$0.27]
+SAXWIND14 calls [$0.19]
+** Dealing turn ** [ 7c ]
+CHAMPIONT688 bets [$0.87]
+SAXWIND14 folds
+** Summary **
+CHAMPIONT688 collected [ $0.66 ]
+
+
+#Game No : 499623892
+***** 888poker Hand History for Game 499623892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 13:18:07
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: vesermech ( $0.89 )
+Seat 9: iks2s ( $0.68 )
+iks2s posts small blind [$0.01]
+vesermech posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+vesermech checks
+** Dealing flop ** [ 7d, Tc, 3c ]
+vesermech checks
+iks2s checks
+** Dealing turn ** [ Ks ]
+vesermech checks
+iks2s checks
+** Dealing river ** [ 5h ]
+vesermech checks
+iks2s checks
+** Summary **
+vesermech shows [ 9c, 4h ]
+iks2s shows [ Jc, 6s ]
+iks2s collected [ $0.04 ]
+
+
+#Game No : 499628008
+***** 888poker Hand History for Game 499628008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 14:34:28
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Roschin367 ( $1.30 )
+Seat 4: Boehm302 ( $0.83 )
+Boehm302 posts small blind [$0.01]
+Roschin367 posts big blind [$0.02]
+** Dealing down cards **
+Boehm302 calls [$0.01]
+Roschin367 checks
+** Dealing flop ** [ Jc, 2h, Ah ]
+Roschin367 bets [$0.04]
+Boehm302 calls [$0.04]
+** Dealing turn ** [ 4s ]
+Roschin367 bets [$0.08]
+Boehm302 calls [$0.08]
+** Dealing river ** [ Jd ]
+Roschin367 bets [$0.10]
+Boehm302 folds
+** Summary **
+Roschin367 collected [ $0.27 ]
+
+

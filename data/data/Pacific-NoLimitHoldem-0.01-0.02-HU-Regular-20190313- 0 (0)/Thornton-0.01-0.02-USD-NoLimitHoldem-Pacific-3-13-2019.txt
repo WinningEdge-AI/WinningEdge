@@ -1,0 +1,98 @@
+#Game No : 462832285
+***** 888poker Hand History for Game 462832285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 03 2019 15:21:17
+Table Thornton 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: poompah ( $1.01 )
+Seat 6: bigHaki ( $1.35 )
+bigHaki posts small blind [$0.01]
+** Dealing down cards **
+poompah folds
+** Summary **
+bigHaki collected [ $0.01 ]
+
+
+#Game No : 526529269
+***** 888poker Hand History for Game 526529269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 03 2019 15:41:44
+Table Thornton 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: protasden ( $0.44 )
+Seat 2: IveGot4Nips ( $2.72 )
+IveGot4Nips posts small blind [$0.01]
+protasden posts big blind [$0.02]
+** Dealing down cards **
+IveGot4Nips calls [$0.01]
+protasden raises [$0.02]
+IveGot4Nips calls [$0.02]
+** Dealing flop ** [ 4c, 6c, 5h ]
+protasden bets [$0.08]
+IveGot4Nips calls [$0.08]
+** Dealing turn ** [ Jc ]
+protasden bets [$0.02]
+IveGot4Nips calls [$0.02]
+** Dealing river ** [ 7d ]
+protasden bets [$0.02]
+IveGot4Nips calls [$0.02]
+** Summary **
+protasden shows [ 4s, 9s ]
+IveGot4Nips shows [ 8s, 6d ]
+IveGot4Nips collected [ $0.30 ]
+
+
+#Game No : 526529299
+***** 888poker Hand History for Game 526529299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 03 2019 15:42:10
+Table Thornton 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: protasden ( $0.28 )
+Seat 2: IveGot4Nips ( $2.86 )
+protasden posts small blind [$0.01]
+IveGot4Nips posts big blind [$0.02]
+** Dealing down cards **
+protasden raises [$0.03]
+IveGot4Nips calls [$0.02]
+** Dealing flop ** [ Jh, Td, 5h ]
+IveGot4Nips checks
+protasden bets [$0.02]
+IveGot4Nips calls [$0.02]
+** Dealing turn ** [ 4h ]
+IveGot4Nips checks
+protasden checks
+** Dealing river ** [ 9s ]
+IveGot4Nips checks
+protasden bets [$0.02]
+IveGot4Nips folds
+** Summary **
+protasden collected [ $0.12 ]
+
+
+#Game No : 526529318
+***** 888poker Hand History for Game 526529318 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 03 2019 15:42:29
+Table Thornton 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: protasden ( $0.34 )
+Seat 2: IveGot4Nips ( $2.80 )
+IveGot4Nips posts small blind [$0.01]
+protasden posts big blind [$0.02]
+** Dealing down cards **
+IveGot4Nips calls [$0.01]
+protasden checks
+** Dealing flop ** [ Ad, Tc, Td ]
+protasden checks
+IveGot4Nips checks
+** Dealing turn ** [ 8s ]
+protasden checks
+IveGot4Nips checks
+** Dealing river ** [ Qc ]
+protasden bets [$0.02]
+IveGot4Nips folds
+** Summary **
+protasden collected [ $0.04 ]
+
+

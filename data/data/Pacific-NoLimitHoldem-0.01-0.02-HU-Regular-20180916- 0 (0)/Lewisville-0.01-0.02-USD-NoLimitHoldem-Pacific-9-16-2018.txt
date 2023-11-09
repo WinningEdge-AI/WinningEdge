@@ -1,0 +1,65 @@
+#Game No : 502441290
+***** 888poker Hand History for Game 502441290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 13:37:54
+Table Lewisville 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: liviu_lb ( $0.81 )
+Seat 2: BenW747 ( $0.99 )
+liviu_lb posts small blind [$0.01]
+BenW747 posts big blind [$0.02]
+** Dealing down cards **
+liviu_lb calls [$0.01]
+BenW747 checks
+** Dealing flop ** [ Js, Ah, 7h ]
+BenW747 checks
+liviu_lb bets [$0.02]
+BenW747 calls [$0.02]
+** Dealing turn ** [ 9d ]
+BenW747 bets [$0.02]
+liviu_lb calls [$0.02]
+** Dealing river ** [ Qc ]
+BenW747 checks
+liviu_lb checks
+** Summary **
+BenW747 shows [ 6s, Jh ]
+liviu_lb mucks [ Th, 3s ]
+BenW747 collected [ $0.12 ]
+
+
+#Game No : 502441336
+***** 888poker Hand History for Game 502441336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 13:38:24
+Table Lewisville 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: liviu_lb ( $0.75 )
+Seat 2: BenW747 ( $1.05 )
+BenW747 posts small blind [$0.01]
+liviu_lb posts big blind [$0.02]
+** Dealing down cards **
+BenW747 calls [$0.01]
+liviu_lb raises [$0.04]
+BenW747 calls [$0.04]
+** Dealing flop ** [ 4h, 7c, 8d ]
+liviu_lb bets [$0.69]
+BenW747 folds
+** Summary **
+liviu_lb collected [ $0.12 ]
+
+
+#Game No : 502443749
+***** 888poker Hand History for Game 502443749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 14:19:48
+Table Lewisville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: JasonBenz ( $1.87 )
+Seat 9: dimzeml ( $1.37 )
+JasonBenz posts small blind [$0.01]
+** Dealing down cards **
+dimzeml folds
+** Summary **
+JasonBenz collected [ $0.01 ]
+
+

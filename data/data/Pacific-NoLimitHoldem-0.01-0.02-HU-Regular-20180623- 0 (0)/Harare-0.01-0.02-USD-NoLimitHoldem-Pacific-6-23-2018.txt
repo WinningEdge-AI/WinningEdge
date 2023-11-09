@@ -1,0 +1,105 @@
+#Game No : 499045648
+***** 888poker Hand History for Game 499045648 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2018 06:20:06
+Table Harare 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Stevenafc ( $0.85 )
+Seat 4: KpecT_92RUS ( $0.75 )
+Stevenafc posts small blind [$0.01]
+KpecT_92RUS posts big blind [$0.02]
+** Dealing down cards **
+Stevenafc calls [$0.01]
+KpecT_92RUS checks
+** Dealing flop ** [ 8c, 5d, 8h ]
+KpecT_92RUS checks
+Stevenafc bets [$0.02]
+KpecT_92RUS folds
+** Summary **
+Stevenafc did not show his hand
+Stevenafc collected [ $0.04 ]
+
+
+#Game No : 499045652
+***** 888poker Hand History for Game 499045652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2018 06:20:20
+Table Harare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Stevenafc ( $0.87 )
+Seat 4: KpecT_92RUS ( $0.73 )
+KpecT_92RUS posts small blind [$0.01]
+Stevenafc posts big blind [$0.02]
+** Dealing down cards **
+KpecT_92RUS calls [$0.01]
+Stevenafc checks
+** Dealing flop ** [ Qs, As, 5s ]
+Stevenafc checks
+KpecT_92RUS checks
+** Dealing turn ** [ Ks ]
+Stevenafc bets [$0.02]
+KpecT_92RUS calls [$0.02]
+** Dealing river ** [ 5h ]
+Stevenafc bets [$0.02]
+KpecT_92RUS calls [$0.02]
+** Summary **
+Stevenafc shows [ 4h, 9s ]
+KpecT_92RUS mucks [ 8d, Kc ]
+Stevenafc collected [ $0.12 ]
+
+
+#Game No : 499047618
+***** 888poker Hand History for Game 499047618 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2018 07:40:46
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: nezPKR ( $0.28 )
+Seat 9: hikkky ( $1 )
+nezPKR posts small blind [$0.01]
+hikkky posts big blind [$0.02]
+** Dealing down cards **
+nezPKR folds
+** Summary **
+hikkky collected [ $0.03 ]
+
+
+#Game No : 499047620
+***** 888poker Hand History for Game 499047620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2018 07:40:51
+Table Harare 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: nezPKR ( $0.27 )
+Seat 9: hikkky ( $1.01 )
+hikkky posts small blind [$0.01]
+nezPKR posts big blind [$0.02]
+** Dealing down cards **
+hikkky raises [$0.05]
+nezPKR folds
+** Summary **
+hikkky did not show his hand
+hikkky collected [ $0.04 ]
+
+
+#Game No : 499047627
+***** 888poker Hand History for Game 499047627 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2018 07:41:00
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: nezPKR ( $0.25 )
+Seat 9: hikkky ( $1.03 )
+nezPKR posts small blind [$0.01]
+hikkky posts big blind [$0.02]
+** Dealing down cards **
+nezPKR raises [$0.04]
+hikkky calls [$0.03]
+** Dealing flop ** [ Qc, 8d, Jh ]
+hikkky bets [$0.10]
+nezPKR folds
+** Summary **
+hikkky did not show his hand
+hikkky collected [ $0.10 ]
+
+

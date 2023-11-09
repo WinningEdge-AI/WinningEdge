@@ -1,0 +1,101 @@
+#Game No : 517656578
+***** 888poker Hand History for Game 517656578 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 20:18:25
+Table Delft 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: TiranoSalvo ( $6.05 )
+Seat 5: Hindelooper ( $2.04 )
+TiranoSalvo posts small blind [$0.01]
+** Dealing down cards **
+Hindelooper folds
+** Summary **
+TiranoSalvo collected [ $0.01 ]
+
+
+#Game No : 620211901
+***** 888poker Hand History for Game 620211901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 02:07:20
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: tab11ball ( $1.03 )
+Seat 9: SuperPappe ( $2 )
+SuperPappe posts small blind [$0.01]
+tab11ball posts big blind [$0.02]
+** Dealing down cards **
+SuperPappe raises [$0.04]
+tab11ball folds
+** Summary **
+SuperPappe collected [ $0.04 ]
+
+
+#Game No : 620211904
+***** 888poker Hand History for Game 620211904 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 02:07:28
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tab11ball ( $1.01 )
+Seat 9: SuperPappe ( $2.02 )
+tab11ball posts small blind [$0.01]
+SuperPappe posts big blind [$0.02]
+** Dealing down cards **
+tab11ball raises [$0.03]
+SuperPappe folds
+** Summary **
+tab11ball collected [ $0.04 ]
+
+
+#Game No : 620216674
+***** 888poker Hand History for Game 620216674 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 05:29:01
+Table Delft 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: QMoneyTalksQ ( $1.12 )
+Seat 9: Sam888Lorec ( $2.07 )
+QMoneyTalksQ posts small blind [$0.01]
+Sam888Lorec posts big blind [$0.02]
+** Dealing down cards **
+QMoneyTalksQ raises [$0.05]
+Sam888Lorec calls [$0.04]
+** Dealing flop ** [ Kd, Jh, 8c ]
+Sam888Lorec checks
+QMoneyTalksQ checks
+** Dealing turn ** [ 9d ]
+Sam888Lorec bets [$0.06]
+QMoneyTalksQ raises [$0.24]
+Sam888Lorec calls [$0.18]
+** Dealing river ** [ Js ]
+Sam888Lorec checks
+QMoneyTalksQ bets [$0.39]
+Sam888Lorec folds
+** Summary **
+QMoneyTalksQ collected [ $0.57 ]
+
+
+#Game No : 620216692
+***** 888poker Hand History for Game 620216692 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 05 2019 05:29:48
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: QMoneyTalksQ ( $1.39 )
+Seat 9: Sam888Lorec ( $1.77 )
+Sam888Lorec posts small blind [$0.01]
+QMoneyTalksQ posts big blind [$0.02]
+** Dealing down cards **
+Sam888Lorec raises [$0.03]
+QMoneyTalksQ calls [$0.02]
+** Dealing flop ** [ Qd, 7s, 5c ]
+QMoneyTalksQ checks
+Sam888Lorec checks
+** Dealing turn ** [ 7c ]
+QMoneyTalksQ checks
+Sam888Lorec bets [$0.04]
+QMoneyTalksQ folds
+** Summary **
+Sam888Lorec collected [ $0.08 ]
+
+

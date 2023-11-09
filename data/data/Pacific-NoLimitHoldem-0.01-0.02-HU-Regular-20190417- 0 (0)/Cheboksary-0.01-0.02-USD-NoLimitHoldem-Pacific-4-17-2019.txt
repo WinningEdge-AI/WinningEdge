@@ -1,0 +1,139 @@
+#Game No : 464204082
+***** 888poker Hand History for Game 464204082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 04 2019 20:15:41
+Table Cheboksary 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: santiagocuba ( $0.80 )
+Seat 2: sasifish ( $1 )
+sasifish posts small blind [$0.01]
+santiagocuba posts big blind [$0.02]
+** Dealing down cards **
+sasifish raises [$0.03]
+santiagocuba calls [$0.02]
+** Dealing flop ** [ Th, 6h, Qd ]
+santiagocuba checks
+sasifish bets [$0.04]
+santiagocuba calls [$0.04]
+** Dealing turn ** [ Ah ]
+santiagocuba checks
+sasifish bets [$0.08]
+santiagocuba raises [$0.16]
+sasifish calls [$0.08]
+** Dealing river ** [ 2c ]
+santiagocuba bets [$0.48]
+sasifish folds
+** Summary **
+santiagocuba did not show his hand
+santiagocuba collected [ $0.45 ]
+
+
+#Game No : 464204097
+***** 888poker Hand History for Game 464204097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 04 2019 20:16:33
+Table Cheboksary 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: santiagocuba ( $1.02 )
+Seat 2: sasifish ( $1 )
+sasifish posts small blind [$0.01]
+santiagocuba posts big blind [$0.02]
+** Dealing down cards **
+sasifish raises [$0.03]
+santiagocuba calls [$0.02]
+** Dealing flop ** [ Th, Ad, 5c ]
+santiagocuba checks
+sasifish bets [$0.04]
+santiagocuba calls [$0.04]
+** Dealing turn ** [ Ts ]
+santiagocuba checks
+sasifish bets [$0.08]
+santiagocuba folds
+** Summary **
+sasifish collected [ $0.15 ]
+
+
+#Game No : 464204477
+***** 888poker Hand History for Game 464204477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 04 2019 20:38:12
+Table Cheboksary 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Jhon1916 ( $1.27 )
+Seat 9: Agarroz ( $1 )
+Jhon1916 posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+Jhon1916 calls [$0.01]
+Agarroz checks
+** Dealing flop ** [ 4s, 9d, 9c ]
+Agarroz checks
+Jhon1916 checks
+** Dealing turn ** [ 3c ]
+Agarroz checks
+Jhon1916 checks
+** Dealing river ** [ 6h ]
+Agarroz bets [$0.02]
+Jhon1916 folds
+** Summary **
+Agarroz collected [ $0.04 ]
+
+
+#Game No : 464204493
+***** 888poker Hand History for Game 464204493 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 04 2019 20:38:55
+Table Cheboksary 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Jhon1916 ( $1.25 )
+Seat 9: Agarroz ( $1.02 )
+Agarroz posts small blind [$0.01]
+Jhon1916 posts big blind [$0.02]
+** Dealing down cards **
+Agarroz folds
+** Summary **
+Jhon1916 collected [ $0.03 ]
+
+
+#Game No : 464205262
+***** 888poker Hand History for Game 464205262 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 04 2019 21:38:50
+Table Cheboksary 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: URVARIANCE ( $2.23 )
+Seat 9: Agarroz ( $2.71 )
+URVARIANCE posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+URVARIANCE raises [$0.05]
+Agarroz folds
+** Summary **
+URVARIANCE did not show his hand
+URVARIANCE collected [ $0.04 ]
+
+
+#Game No : 464205268
+***** 888poker Hand History for Game 464205268 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 04 2019 21:39:10
+Table Cheboksary 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: URVARIANCE ( $2.25 )
+Seat 9: Agarroz ( $2.69 )
+Agarroz posts small blind [$0.01]
+URVARIANCE posts big blind [$0.02]
+** Dealing down cards **
+Agarroz calls [$0.01]
+URVARIANCE checks
+** Dealing flop ** [ 9c, 9s, 4c ]
+URVARIANCE checks
+Agarroz checks
+** Dealing turn ** [ 3c ]
+URVARIANCE checks
+Agarroz bets [$0.02]
+URVARIANCE folds
+** Summary **
+Agarroz collected [ $0.04 ]
+
+

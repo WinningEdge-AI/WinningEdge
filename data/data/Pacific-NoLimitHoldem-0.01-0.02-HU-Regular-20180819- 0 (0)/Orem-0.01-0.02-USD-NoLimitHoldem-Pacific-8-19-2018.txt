@@ -1,0 +1,81 @@
+#Game No : 501098378
+***** 888poker Hand History for Game 501098378 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:03:59
+Table Orem 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: abbbas_3009 ( $0.44 )
+Seat 6: skuzmanovski ( $1.88 )
+abbbas_3009 posts small blind [$0.01]
+skuzmanovski posts big blind [$0.02]
+** Dealing down cards **
+abbbas_3009 calls [$0.01]
+skuzmanovski checks
+** Dealing flop ** [ 4h, 5h, 5c ]
+skuzmanovski bets [$0.02]
+abbbas_3009 raises [$0.04]
+skuzmanovski raises [$0.04]
+abbbas_3009 raises [$0.04]
+skuzmanovski calls [$0.02]
+** Dealing turn ** [ 2d ]
+skuzmanovski checks
+abbbas_3009 bets [$0.02]
+skuzmanovski calls [$0.02]
+** Dealing river ** [ 7h ]
+skuzmanovski bets [$1.76]
+abbbas_3009 calls [$0.32]
+** Summary **
+abbbas_3009 shows [ Th, 2h ]
+skuzmanovski shows [ Qh, 3h ]
+skuzmanovski collected [ $0.83 ]
+
+
+#Game No : 501100983
+***** 888poker Hand History for Game 501100983 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 04:05:04
+Table Orem 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: ArmsPeddler ( $0.97 )
+Seat 6: fanchou_127 ( $1.27 )
+fanchou_127 posts small blind [$0.01]
+ArmsPeddler posts big blind [$0.02]
+** Dealing down cards **
+fanchou_127 raises [$0.03]
+ArmsPeddler folds
+** Summary **
+fanchou_127 collected [ $0.04 ]
+
+
+#Game No : 501100994
+***** 888poker Hand History for Game 501100994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 04:05:13
+Table Orem 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ArmsPeddler ( $0.95 )
+Seat 6: fanchou_127 ( $1.29 )
+ArmsPeddler posts small blind [$0.01]
+fanchou_127 posts big blind [$0.02]
+** Dealing down cards **
+ArmsPeddler raises [$0.05]
+fanchou_127 folds
+** Summary **
+ArmsPeddler collected [ $0.04 ]
+
+
+#Game No : 501100997
+***** 888poker Hand History for Game 501100997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 04:05:21
+Table Orem 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: ArmsPeddler ( $0.97 )
+Seat 6: fanchou_127 ( $1.27 )
+fanchou_127 posts small blind [$0.01]
+** Dealing down cards **
+ArmsPeddler folds
+** Summary **
+fanchou_127 collected [ $0.01 ]
+
+

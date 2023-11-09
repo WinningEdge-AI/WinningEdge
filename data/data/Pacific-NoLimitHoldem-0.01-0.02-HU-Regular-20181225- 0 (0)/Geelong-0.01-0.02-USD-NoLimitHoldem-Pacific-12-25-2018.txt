@@ -1,0 +1,72 @@
+#Game No : 511156480
+***** 888poker Hand History for Game 511156480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 08:02:06
+Table Geelong 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Peterl_poker ( $2.11 )
+Seat 5: toem1980 ( $1.08 )
+toem1980 posts small blind [$0.01]
+Peterl_poker posts big blind [$0.02]
+** Dealing down cards **
+toem1980 calls [$0.01]
+Peterl_poker checks
+** Dealing flop ** [ 3s, 8c, Qc ]
+Peterl_poker checks
+toem1980 bets [$0.06]
+Peterl_poker folds
+** Summary **
+toem1980 collected [ $0.04 ]
+
+
+#Game No : 511156497
+***** 888poker Hand History for Game 511156497 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 08:02:19
+Table Geelong 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Peterl_poker ( $2.09 )
+Seat 5: toem1980 ( $1.10 )
+Peterl_poker posts small blind [$0.01]
+toem1980 posts big blind [$0.02]
+** Dealing down cards **
+Peterl_poker calls [$0.01]
+toem1980 checks
+** Dealing flop ** [ Kd, 6d, Js ]
+toem1980 bets [$0.02]
+Peterl_poker calls [$0.02]
+** Dealing turn ** [ 3h ]
+toem1980 bets [$0.02]
+Peterl_poker calls [$0.02]
+** Dealing river ** [ 9s ]
+toem1980 bets [$0.04]
+Peterl_poker calls [$0.04]
+** Summary **
+toem1980 shows [ Ah, 7h ]
+Peterl_poker shows [ 6h, 2d ]
+Peterl_poker collected [ $0.19 ]
+
+
+#Game No : 511156526
+***** 888poker Hand History for Game 511156526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 08:02:56
+Table Geelong 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Peterl_poker ( $2.18 )
+Seat 5: toem1980 ( $1 )
+toem1980 posts small blind [$0.01]
+Peterl_poker posts big blind [$0.02]
+** Dealing down cards **
+toem1980 calls [$0.01]
+Peterl_poker checks
+** Dealing flop ** [ Ts, Tc, 6s ]
+Peterl_poker bets [$0.02]
+toem1980 calls [$0.02]
+** Dealing turn ** [ 6c ]
+Peterl_poker bets [$0.06]
+toem1980 folds
+** Summary **
+Peterl_poker collected [ $0.08 ]
+
+

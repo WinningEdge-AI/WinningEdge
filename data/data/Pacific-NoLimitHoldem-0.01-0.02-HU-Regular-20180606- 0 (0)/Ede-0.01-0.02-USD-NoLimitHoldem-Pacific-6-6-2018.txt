@@ -1,0 +1,636 @@
+#Game No : 502961658
+***** 888poker Hand History for Game 502961658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 17:58:41
+Table Ede 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BigALsFlush ( $1.78 )
+Seat 2: avramia1 ( $2.19 )
+BigALsFlush posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+BigALsFlush raises [$1.77]
+avramia1 folds
+** Summary **
+BigALsFlush did not show his hand
+BigALsFlush collected [ $0.04 ]
+
+
+#Game No : 502727938
+***** 888poker Hand History for Game 502727938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 22:17:12
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: staplegun ( $0.80 )
+Seat 4: njdevils21 ( $0.80 )
+njdevils21 posts small blind [$0.01]
+staplegun posts big blind [$0.02]
+** Dealing down cards **
+njdevils21 calls [$0.01]
+staplegun checks
+** Dealing flop ** [ Qd, 5h, Qs ]
+staplegun checks
+njdevils21 checks
+** Dealing turn ** [ 3c ]
+staplegun bets [$0.02]
+njdevils21 folds
+** Summary **
+staplegun did not show his hand
+staplegun collected [ $0.04 ]
+
+
+#Game No : 502727960
+***** 888poker Hand History for Game 502727960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 22:18:07
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: staplegun ( $0.82 )
+Seat 4: njdevils21 ( $0.78 )
+staplegun posts small blind [$0.01]
+njdevils21 posts big blind [$0.02]
+** Dealing down cards **
+staplegun folds
+** Summary **
+njdevils21 did not show his hand
+njdevils21 collected [ $0.03 ]
+
+
+#Game No : 502727964
+***** 888poker Hand History for Game 502727964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 22:18:15
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: staplegun ( $0.81 )
+Seat 4: njdevils21 ( $0.79 )
+njdevils21 posts small blind [$0.01]
+staplegun posts big blind [$0.02]
+** Dealing down cards **
+njdevils21 calls [$0.01]
+staplegun checks
+** Dealing flop ** [ Kc, Ah, 3s ]
+staplegun checks
+njdevils21 checks
+** Dealing turn ** [ Ac ]
+staplegun checks
+njdevils21 checks
+** Dealing river ** [ Kd ]
+staplegun bets [$0.02]
+njdevils21 folds
+** Summary **
+staplegun did not show his hand
+staplegun collected [ $0.04 ]
+
+
+#Game No : 502727974
+***** 888poker Hand History for Game 502727974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 22:18:31
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: staplegun ( $0.83 )
+Seat 4: njdevils21 ( $0.77 )
+staplegun posts small blind [$0.01]
+njdevils21 posts big blind [$0.02]
+** Dealing down cards **
+staplegun folds
+** Summary **
+njdevils21 did not show his hand
+njdevils21 collected [ $0.03 ]
+
+
+#Game No : 502727976
+***** 888poker Hand History for Game 502727976 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 22:18:37
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: staplegun ( $0.82 )
+Seat 4: njdevils21 ( $0.78 )
+njdevils21 posts small blind [$0.01]
+staplegun posts big blind [$0.02]
+** Dealing down cards **
+njdevils21 raises [$0.77]
+staplegun calls [$0.76]
+** Dealing flop ** [ Th, Js, Jh ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ Qc ]
+** Summary **
+staplegun shows [ 2s, 2d ]
+njdevils21 shows [ Kd, Ad ]
+njdevils21 collected [ $1.47 ]
+
+
+#Game No : 502728046
+***** 888poker Hand History for Game 502728046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 22:20:40
+Table Ede 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: echomaia ( $0.80 )
+Seat 4: njdevils21 ( $1.47 )
+echomaia posts small blind [$0.01]
+njdevils21 posts big blind [$0.02]
+** Dealing down cards **
+echomaia raises [$0.03]
+njdevils21 folds
+** Summary **
+echomaia collected [ $0.04 ]
+
+
+#Game No : 502728051
+***** 888poker Hand History for Game 502728051 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 22:20:47
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: echomaia ( $0.82 )
+Seat 4: njdevils21 ( $1.45 )
+njdevils21 posts small blind [$0.01]
+echomaia posts big blind [$0.02]
+** Dealing down cards **
+njdevils21 raises [$1.44]
+echomaia calls [$0.80]
+** Dealing flop ** [ Qh, 5h, 2d ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 3s ]
+** Summary **
+echomaia shows [ As, 9s ]
+njdevils21 shows [ 4c, 4h ]
+njdevils21 collected [ $1.54 ]
+njdevils21 collected [ $0.63 ]
+
+
+#Game No : 502731521
+***** 888poker Hand History for Game 502731521 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 00:03:39
+Table Ede 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: catchtherain ( $1.06 )
+Seat 6: growlow1 ( $1.42 )
+catchtherain posts small blind [$0.01]
+growlow1 posts big blind [$0.02]
+** Dealing down cards **
+catchtherain folds
+** Summary **
+growlow1 did not show his hand
+growlow1 collected [ $0.03 ]
+
+
+#Game No : 451643520
+***** 888poker Hand History for Game 451643520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 00:42:45
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: maskitys ( $1 )
+Seat 7: BCCK. ( $1.02 )
+maskitys posts small blind [$0.01]
+BCCK. posts big blind [$0.02]
+** Dealing down cards **
+maskitys raises [$0.03]
+BCCK. calls [$0.02]
+** Dealing flop ** [ Kd, 3s, 2d ]
+BCCK. bets [$0.02]
+maskitys raises [$0.06]
+BCCK. calls [$0.04]
+** Dealing turn ** [ Jd ]
+BCCK. checks
+maskitys bets [$0.14]
+BCCK. calls [$0.14]
+** Dealing river ** [ 2s ]
+BCCK. bets [$0.02]
+maskitys raises [$0.38]
+BCCK. folds
+** Summary **
+maskitys collected [ $0.49 ]
+
+
+#Game No : 451644111
+***** 888poker Hand History for Game 451644111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 01:19:05
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: maskitys ( $2.68 )
+Seat 4: Asteriks010 ( $2.18 )
+Asteriks010 posts small blind [$0.01]
+maskitys posts big blind [$0.02]
+** Dealing down cards **
+Asteriks010 raises [$0.05]
+maskitys folds
+** Summary **
+Asteriks010 collected [ $0.04 ]
+
+
+#Game No : 451644112
+***** 888poker Hand History for Game 451644112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 01:19:14
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: maskitys ( $2.66 )
+Seat 4: Asteriks010 ( $2.20 )
+maskitys posts small blind [$0.01]
+Asteriks010 posts big blind [$0.02]
+** Dealing down cards **
+maskitys raises [$0.03]
+Asteriks010 folds
+** Summary **
+maskitys collected [ $0.04 ]
+
+
+#Game No : 451644117
+***** 888poker Hand History for Game 451644117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 01:19:30
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: maskitys ( $2.68 )
+Seat 4: Asteriks010 ( $2.18 )
+Asteriks010 posts small blind [$0.01]
+maskitys posts big blind [$0.02]
+** Dealing down cards **
+Asteriks010 folds
+** Summary **
+maskitys collected [ $0.03 ]
+
+
+#Game No : 451644199
+***** 888poker Hand History for Game 451644199 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 01:24:09
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1.46 )
+Seat 4: Asteriks010 ( $2.21 )
+Asteriks010 posts small blind [$0.01]
+Spenser88 posts big blind [$0.02]
+** Dealing down cards **
+Asteriks010 folds
+** Summary **
+Spenser88 did not show his hand
+Spenser88 collected [ $0.03 ]
+
+
+#Game No : 451644202
+***** 888poker Hand History for Game 451644202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 01:24:16
+Table Ede 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1.47 )
+Seat 4: Asteriks010 ( $2.20 )
+Spenser88 posts small blind [$0.01]
+Asteriks010 posts big blind [$0.02]
+** Dealing down cards **
+Spenser88 raises [$0.05]
+Asteriks010 folds
+** Summary **
+Spenser88 did not show his hand
+Spenser88 collected [ $0.04 ]
+
+
+#Game No : 451644205
+***** 888poker Hand History for Game 451644205 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 01:24:25
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1.49 )
+Seat 4: Asteriks010 ( $2.18 )
+Asteriks010 posts small blind [$0.01]
+Spenser88 posts big blind [$0.02]
+** Dealing down cards **
+Asteriks010 folds
+** Summary **
+Spenser88 did not show his hand
+Spenser88 collected [ $0.03 ]
+
+
+#Game No : 451644325
+***** 888poker Hand History for Game 451644325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 01:31:17
+Table Ede 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ALEXANDR9956 ( $0.87 )
+Seat 7: zimboboy53 ( $0.72 )
+ALEXANDR9956 posts small blind [$0.01]
+zimboboy53 posts big blind [$0.02]
+** Dealing down cards **
+ALEXANDR9956 calls [$0.01]
+zimboboy53 raises [$0.04]
+ALEXANDR9956 calls [$0.04]
+** Dealing flop ** [ Ts, Jc, Ac ]
+zimboboy53 checks
+ALEXANDR9956 bets [$0.09]
+zimboboy53 raises [$0.24]
+ALEXANDR9956 calls [$0.15]
+** Dealing turn ** [ 3h ]
+zimboboy53 bets [$0.42]
+ALEXANDR9956 folds
+** Summary **
+zimboboy53 did not show his hand
+zimboboy53 collected [ $0.57 ]
+
+
+#Game No : 451644335
+***** 888poker Hand History for Game 451644335 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 01:31:50
+Table Ede 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ALEXANDR9956 ( $0.57 )
+Seat 7: zimboboy53 ( $0.99 )
+zimboboy53 posts small blind [$0.01]
+ALEXANDR9956 posts big blind [$0.02]
+** Dealing down cards **
+zimboboy53 calls [$0.01]
+ALEXANDR9956 checks
+** Dealing flop ** [ 9h, As, 5h ]
+ALEXANDR9956 bets [$0.03]
+zimboboy53 calls [$0.03]
+** Dealing turn ** [ Qd ]
+ALEXANDR9956 checks
+zimboboy53 bets [$0.10]
+ALEXANDR9956 calls [$0.10]
+** Dealing river ** [ 4s ]
+ALEXANDR9956 bets [$0.30]
+zimboboy53 calls [$0.30]
+** Summary **
+ALEXANDR9956 shows [ 6s, Qh ]
+zimboboy53 shows [ Ah, Js ]
+zimboboy53 collected [ $0.85 ]
+
+
+#Game No : 451645045
+***** 888poker Hand History for Game 451645045 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 02:00:48
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LoveURstack ( $1 )
+Seat 9: krestofer77 ( $1.22 )
+LoveURstack posts small blind [$0.01]
+krestofer77 posts big blind [$0.02]
+** Dealing down cards **
+LoveURstack folds
+** Summary **
+krestofer77 did not show his hand
+krestofer77 collected [ $0.03 ]
+
+
+#Game No : 451645053
+***** 888poker Hand History for Game 451645053 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 02:01:06
+Table Ede 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: LoveURstack ( $1 )
+Seat 9: krestofer77 ( $1.23 )
+krestofer77 posts small blind [$0.01]
+LoveURstack posts big blind [$0.02]
+** Dealing down cards **
+krestofer77 folds
+** Summary **
+LoveURstack collected [ $0.03 ]
+
+
+#Game No : 451645057
+***** 888poker Hand History for Game 451645057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 02:01:16
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LoveURstack ( $1.01 )
+Seat 9: krestofer77 ( $1.22 )
+LoveURstack posts small blind [$0.01]
+** Dealing down cards **
+krestofer77 folds
+** Summary **
+LoveURstack collected [ $0.01 ]
+
+
+#Game No : 451645058
+***** 888poker Hand History for Game 451645058 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 02:01:19
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LoveURstack ( $1.01 )
+Seat 2: RAMAZAH ( $1 )
+LoveURstack posts small blind [$0.01]
+RAMAZAH posts big blind [$0.02]
+** Dealing down cards **
+LoveURstack folds
+** Summary **
+RAMAZAH collected [ $0.03 ]
+
+
+#Game No : 451645064
+***** 888poker Hand History for Game 451645064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 02:01:28
+Table Ede 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: LoveURstack ( $1 )
+Seat 2: RAMAZAH ( $1.01 )
+RAMAZAH posts small blind [$0.01]
+LoveURstack posts big blind [$0.02]
+** Dealing down cards **
+RAMAZAH raises [$0.03]
+LoveURstack folds
+** Summary **
+RAMAZAH did not show his hand
+RAMAZAH collected [ $0.04 ]
+
+
+#Game No : 451645068
+***** 888poker Hand History for Game 451645068 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 02:01:37
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LoveURstack ( $1 )
+Seat 2: RAMAZAH ( $1.03 )
+LoveURstack posts small blind [$0.01]
+RAMAZAH posts big blind [$0.02]
+** Dealing down cards **
+LoveURstack raises [$0.06]
+RAMAZAH raises [$0.10]
+LoveURstack calls [$0.05]
+** Dealing flop ** [ Th, Qc, 7d ]
+RAMAZAH bets [$0.02]
+LoveURstack raises [$0.16]
+RAMAZAH raises [$0.28]
+LoveURstack folds
+** Summary **
+RAMAZAH collected [ $0.53 ]
+
+
+#Game No : 451645076
+***** 888poker Hand History for Game 451645076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 02:02:04
+Table Ede 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: LoveURstack ( $1 )
+Seat 2: RAMAZAH ( $1.28 )
+RAMAZAH posts small blind [$0.01]
+LoveURstack posts big blind [$0.02]
+** Dealing down cards **
+RAMAZAH calls [$0.01]
+LoveURstack checks
+** Dealing flop ** [ 2d, Kh, 7d ]
+LoveURstack checks
+RAMAZAH checks
+** Dealing turn ** [ 7h ]
+LoveURstack checks
+RAMAZAH checks
+** Dealing river ** [ 4d ]
+LoveURstack checks
+RAMAZAH bets [$0.02]
+LoveURstack folds
+** Summary **
+RAMAZAH collected [ $0.04 ]
+
+
+#Game No : 603759675
+***** 888poker Hand History for Game 603759675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 14:55:25
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: salofaina89 ( $2.21 )
+Seat 4: richbranson ( $1.47 )
+salofaina89 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+salofaina89 raises [$0.03]
+richbranson folds
+** Summary **
+salofaina89 did not show his hand
+salofaina89 collected [ $0.04 ]
+
+
+#Game No : 603759683
+***** 888poker Hand History for Game 603759683 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 14:55:32
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: salofaina89 ( $2.23 )
+Seat 4: richbranson ( $1.45 )
+richbranson posts small blind [$0.01]
+salofaina89 posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+salofaina89 did not show his hand
+salofaina89 collected [ $0.03 ]
+
+
+#Game No : 603759716
+***** 888poker Hand History for Game 603759716 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 14:56:07
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: salofaina89 ( $2.18 )
+Seat 4: richbranson ( $1.50 )
+richbranson posts small blind [$0.01]
+salofaina89 posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+salofaina89 collected [ $0.03 ]
+
+
+#Game No : 603759725
+***** 888poker Hand History for Game 603759725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 14:56:12
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: salofaina89 ( $2.19 )
+Seat 4: richbranson ( $1.49 )
+salofaina89 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+salofaina89 folds
+** Summary **
+richbranson collected [ $0.03 ]
+
+
+#Game No : 603759729
+***** 888poker Hand History for Game 603759729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 14:56:17
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: salofaina89 ( $2.18 )
+Seat 4: richbranson ( $1.50 )
+richbranson posts small blind [$0.01]
+salofaina89 posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+salofaina89 collected [ $0.03 ]
+
+
+#Game No : 603759739
+***** 888poker Hand History for Game 603759739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 14:56:26
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: salofaina89 ( $2.19 )
+Seat 4: richbranson ( $1.49 )
+salofaina89 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+salofaina89 raises [$0.03]
+richbranson folds
+** Summary **
+salofaina89 collected [ $0.04 ]
+
+
+#Game No : 603759746
+***** 888poker Hand History for Game 603759746 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 14:56:33
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: salofaina89 ( $2.21 )
+Seat 4: richbranson ( $1.47 )
+richbranson posts small blind [$0.01]
+salofaina89 posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+salofaina89 calls [$0.04]
+** Dealing flop ** [ 7h, Qc, Ts ]
+salofaina89 bets [$0.02]
+richbranson folds
+** Summary **
+salofaina89 collected [ $0.12 ]
+
+
+#Game No : 603759763
+***** 888poker Hand History for Game 603759763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 14:56:52
+Table Ede 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: salofaina89 ( $2.27 )
+Seat 4: richbranson ( $1.41 )
+salofaina89 posts small blind [$0.01]
+** Dealing down cards **
+richbranson folds
+** Summary **
+salofaina89 collected [ $0.01 ]
+
+

@@ -1,0 +1,86 @@
+#Game No : 506860698
+***** 888poker Hand History for Game 506860698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 21:43:02
+Table Castanhal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KarnakSin2.0 ( $2 )
+Seat 2: almahmud47 ( $1 )
+KarnakSin2.0 posts small blind [$0.01]
+almahmud47 posts big blind [$0.02]
+** Dealing down cards **
+KarnakSin2.0 raises [$0.05]
+almahmud47 calls [$0.04]
+** Dealing flop ** [ 4c, 5c, As ]
+almahmud47 bets [$0.02]
+KarnakSin2.0 raises [$0.10]
+almahmud47 calls [$0.08]
+** Dealing turn ** [ 9h ]
+almahmud47 checks
+KarnakSin2.0 checks
+** Dealing river ** [ 4h ]
+almahmud47 bets [$0.02]
+KarnakSin2.0 calls [$0.02]
+** Summary **
+almahmud47 shows [ 4s, 2s ]
+KarnakSin2.0 mucks [ 3s, Th ]
+almahmud47 collected [ $0.34 ]
+
+
+#Game No : 506860747
+***** 888poker Hand History for Game 506860747 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 21:43:49
+Table Castanhal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: KarnakSin2.0 ( $1.82 )
+Seat 2: almahmud47 ( $1.16 )
+almahmud47 posts small blind [$0.01]
+KarnakSin2.0 posts big blind [$0.02]
+** Dealing down cards **
+almahmud47 calls [$0.01]
+KarnakSin2.0 checks
+** Dealing flop ** [ 6s, 8h, Td ]
+KarnakSin2.0 checks
+almahmud47 bets [$0.04]
+KarnakSin2.0 calls [$0.04]
+** Dealing turn ** [ Kc ]
+KarnakSin2.0 checks
+almahmud47 bets [$0.12]
+KarnakSin2.0 calls [$0.12]
+** Dealing river ** [ Ah ]
+KarnakSin2.0 checks
+almahmud47 bets [$0.36]
+KarnakSin2.0 folds
+** Summary **
+almahmud47 collected [ $0.34 ]
+
+
+#Game No : 506865642
+***** 888poker Hand History for Game 506865642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:03:28
+Table Castanhal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: Gadik11 ( $2.11 )
+Seat 10: suriel666 ( $3.64 )
+suriel666 posts small blind [$0.01]
+Gadik11 posts big blind [$0.02]
+** Dealing down cards **
+suriel666 raises [$0.08]
+Gadik11 calls [$0.07]
+** Dealing flop ** [ 7c, Qc, 4d ]
+Gadik11 checks
+suriel666 checks
+** Dealing turn ** [ Kh ]
+Gadik11 checks
+suriel666 checks
+** Dealing river ** [ Qh ]
+Gadik11 checks
+suriel666 checks
+** Summary **
+Gadik11 shows [ Th, 8h ]
+suriel666 shows [ Jc, Td ]
+suriel666 collected [ $0.17 ]
+
+

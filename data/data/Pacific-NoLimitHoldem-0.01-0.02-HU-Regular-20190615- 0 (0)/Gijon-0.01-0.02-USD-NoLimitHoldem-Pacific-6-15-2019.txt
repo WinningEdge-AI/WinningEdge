@@ -1,0 +1,78 @@
+#Game No : 1273974345
+***** 888poker Hand History for Game 1273974345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2019 22:45:23
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Edisrevir ( $2 )
+Seat 6: adbk_ ( $1.09 )
+adbk_ posts small blind [$0.01]
+Edisrevir posts big blind [$0.02]
+** Dealing down cards **
+adbk_ calls [$0.01]
+Edisrevir checks
+** Dealing flop ** [ Qc, 9h, Jc ]
+Edisrevir checks
+adbk_ bets [$0.06]
+Edisrevir folds
+** Summary **
+adbk_ collected [ $0.04 ]
+
+
+#Game No : 1273974369
+***** 888poker Hand History for Game 1273974369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2019 22:45:37
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Edisrevir ( $2 )
+Seat 6: adbk_ ( $1.11 )
+Edisrevir posts small blind [$0.01]
+adbk_ posts big blind [$0.02]
+** Dealing down cards **
+Edisrevir raises [$0.03]
+adbk_ calls [$0.02]
+** Dealing flop ** [ 4s, Kd, Jc ]
+adbk_ bets [$0.11]
+Edisrevir calls [$0.11]
+** Dealing turn ** [ As ]
+adbk_ checks
+Edisrevir bets [$0.10]
+adbk_ calls [$0.10]
+** Dealing river ** [ Jd ]
+adbk_ bets [$0.86]
+Edisrevir folds
+** Summary **
+adbk_ collected [ $0.47 ]
+
+
+#Game No : 1273974432
+***** 888poker Hand History for Game 1273974432 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2019 22:46:37
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Edisrevir ( $2 )
+Seat 6: adbk_ ( $1.33 )
+adbk_ posts small blind [$0.01]
+Edisrevir posts big blind [$0.02]
+** Dealing down cards **
+adbk_ calls [$0.01]
+Edisrevir raises [$0.02]
+adbk_ calls [$0.02]
+** Dealing flop ** [ 8c, Th, Kc ]
+Edisrevir checks
+adbk_ checks
+** Dealing turn ** [ Kd ]
+Edisrevir bets [$0.02]
+adbk_ calls [$0.02]
+** Dealing river ** [ 2s ]
+Edisrevir bets [$0.02]
+adbk_ raises [$0.08]
+Edisrevir calls [$0.06]
+** Summary **
+adbk_ shows [ Ac, 7d ]
+Edisrevir shows [ Ad, 2c ]
+Edisrevir collected [ $0.27 ]
+
+

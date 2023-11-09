@@ -1,0 +1,71 @@
+#Game No : 473032064
+***** 888poker Hand History for Game 473032064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2020 19:44:48
+Table Lome 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: NoobyPRO ( $1.95 )
+Seat 9: thundress ( $2.15 )
+thundress posts small blind [$0.01]
+NoobyPRO posts big blind [$0.02]
+** Dealing down cards **
+thundress raises [$0.03]
+NoobyPRO calls [$0.02]
+** Dealing flop ** [ Js, Jd, 6d ]
+NoobyPRO checks
+thundress bets [$0.02]
+NoobyPRO folds
+** Summary **
+thundress did not show his hand
+thundress collected [ $0.08 ]
+
+
+#Game No : 473032068
+***** 888poker Hand History for Game 473032068 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2020 19:45:05
+Table Lome 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: NoobyPRO ( $1.91 )
+Seat 9: thundress ( $2.19 )
+NoobyPRO posts small blind [$0.01]
+thundress posts big blind [$0.02]
+** Dealing down cards **
+NoobyPRO raises [$0.07]
+thundress folds
+** Summary **
+NoobyPRO did not show his hand
+NoobyPRO collected [ $0.04 ]
+
+
+#Game No : 473032069
+***** 888poker Hand History for Game 473032069 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2020 19:45:12
+Table Lome 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: NoobyPRO ( $1.93 )
+Seat 9: thundress ( $2.17 )
+thundress posts small blind [$0.01]
+NoobyPRO posts big blind [$0.02]
+** Dealing down cards **
+thundress raises [$0.03]
+NoobyPRO calls [$0.02]
+** Dealing flop ** [ Jd, 2c, 4s ]
+NoobyPRO checks
+thundress bets [$0.02]
+NoobyPRO calls [$0.02]
+** Dealing turn ** [ 8c ]
+NoobyPRO checks
+thundress bets [$0.07]
+NoobyPRO calls [$0.07]
+** Dealing river ** [ Tc ]
+NoobyPRO bets [$0.13]
+thundress raises [$2.04]
+NoobyPRO calls [$1.67]
+** Summary **
+NoobyPRO shows [ 9d, Jh ]
+thundress shows [ Kc, Ac ]
+thundress collected [ $3.62 ]
+
+

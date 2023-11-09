@@ -1,0 +1,416 @@
+#Game No : 505815070
+***** 888poker Hand History for Game 505815070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 02:31:55
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Seant91 ( $1 )
+Seat 6: rayscotty62 ( $1 )
+rayscotty62 posts small blind [$0.01]
+Seant91 posts big blind [$0.02]
+** Dealing down cards **
+rayscotty62 calls [$0.01]
+Seant91 checks
+** Dealing flop ** [ 4d, Ac, As ]
+Seant91 checks
+rayscotty62 bets [$0.02]
+Seant91 calls [$0.02]
+** Dealing turn ** [ 3c ]
+Seant91 checks
+rayscotty62 checks
+** Dealing river ** [ Tc ]
+Seant91 checks
+rayscotty62 checks
+** Summary **
+Seant91 shows [ 2s, Qc ]
+rayscotty62 shows [ Qh, 5s ]
+rayscotty62 collected [ $0.08 ]
+
+
+#Game No : 505815073
+***** 888poker Hand History for Game 505815073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 02:32:29
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Seant91 ( $0.96 )
+Seat 6: rayscotty62 ( $1.04 )
+Seant91 posts small blind [$0.01]
+rayscotty62 posts big blind [$0.02]
+** Dealing down cards **
+Seant91 folds
+** Summary **
+rayscotty62 collected [ $0.03 ]
+
+
+#Game No : 505815413
+***** 888poker Hand History for Game 505815413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 03:49:03
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $2.79 )
+Seat 7: KoAlRy ( $0.88 )
+KoAlRy posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+KoAlRy raises [$0.05]
+Skyluck11 folds
+** Summary **
+KoAlRy did not show his hand
+KoAlRy collected [ $0.04 ]
+
+
+#Game No : 505815414
+***** 888poker Hand History for Game 505815414 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 03:49:13
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $2.77 )
+Seat 7: KoAlRy ( $0.90 )
+Skyluck11 posts small blind [$0.01]
+KoAlRy posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+KoAlRy collected [ $0.03 ]
+
+
+#Game No : 505815557
+***** 888poker Hand History for Game 505815557 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 04:16:50
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Bigpluis ( $1.26 )
+Seat 9: PokerBJ21 ( $1.54 )
+PokerBJ21 posts small blind [$0.01]
+Bigpluis posts big blind [$0.02]
+** Dealing down cards **
+PokerBJ21 calls [$0.01]
+Bigpluis checks
+** Dealing flop ** [ 4s, 3c, Ad ]
+Bigpluis checks
+PokerBJ21 checks
+** Dealing turn ** [ Kd ]
+Bigpluis checks
+PokerBJ21 checks
+** Dealing river ** [ 5h ]
+Bigpluis checks
+PokerBJ21 checks
+** Summary **
+Bigpluis shows [ Qs, 3d ]
+PokerBJ21 mucks [ 8c, Th ]
+Bigpluis collected [ $0.04 ]
+
+
+#Game No : 505815589
+***** 888poker Hand History for Game 505815589 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 04:25:19
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bigpluis ( $1.14 )
+Seat 9: PokerBJ21 ( $2.41 )
+Bigpluis posts small blind [$0.01]
+PokerBJ21 posts big blind [$0.02]
+** Dealing down cards **
+Bigpluis raises [$0.03]
+PokerBJ21 calls [$0.02]
+** Dealing flop ** [ Qh, Kd, 2s ]
+PokerBJ21 checks
+Bigpluis checks
+** Dealing turn ** [ Ad ]
+PokerBJ21 checks
+Bigpluis bets [$0.05]
+PokerBJ21 folds
+** Summary **
+Bigpluis did not show his hand
+Bigpluis collected [ $0.08 ]
+
+
+#Game No : 505815591
+***** 888poker Hand History for Game 505815591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 04:25:45
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Bigpluis ( $1.18 )
+Seat 9: PokerBJ21 ( $2.37 )
+PokerBJ21 posts small blind [$0.01]
+Bigpluis posts big blind [$0.02]
+** Dealing down cards **
+PokerBJ21 calls [$0.01]
+Bigpluis checks
+** Dealing flop ** [ 5h, Jd, 8d ]
+Bigpluis checks
+PokerBJ21 checks
+** Dealing turn ** [ 3h ]
+Bigpluis checks
+PokerBJ21 checks
+** Dealing river ** [ Ad ]
+Bigpluis checks
+PokerBJ21 checks
+** Summary **
+Bigpluis shows [ 9h, 2d ]
+PokerBJ21 shows [ 4h, Kd ]
+PokerBJ21 collected [ $0.04 ]
+
+
+#Game No : 505815592
+***** 888poker Hand History for Game 505815592 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 04:26:16
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bigpluis ( $1.16 )
+Seat 9: PokerBJ21 ( $2.39 )
+Bigpluis posts small blind [$0.01]
+PokerBJ21 posts big blind [$0.02]
+** Dealing down cards **
+Bigpluis raises [$0.03]
+PokerBJ21 calls [$0.02]
+** Dealing flop ** [ 4h, 4c, 8c ]
+PokerBJ21 checks
+Bigpluis bets [$0.05]
+PokerBJ21 folds
+** Summary **
+Bigpluis did not show his hand
+Bigpluis collected [ $0.08 ]
+
+
+#Game No : 505815593
+***** 888poker Hand History for Game 505815593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 04:26:38
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Bigpluis ( $1.20 )
+Seat 9: PokerBJ21 ( $2.35 )
+PokerBJ21 posts small blind [$0.01]
+Bigpluis posts big blind [$0.02]
+** Dealing down cards **
+PokerBJ21 calls [$0.01]
+Bigpluis checks
+** Dealing flop ** [ Td, 8d, 3h ]
+Bigpluis checks
+PokerBJ21 checks
+** Dealing turn ** [ Ts ]
+Bigpluis bets [$0.02]
+PokerBJ21 folds
+** Summary **
+Bigpluis collected [ $0.04 ]
+
+
+#Game No : 505815594
+***** 888poker Hand History for Game 505815594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 04:27:06
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bigpluis ( $1.22 )
+Seat 9: PokerBJ21 ( $2.33 )
+Bigpluis posts small blind [$0.01]
+PokerBJ21 posts big blind [$0.02]
+** Dealing down cards **
+Bigpluis folds
+** Summary **
+PokerBJ21 collected [ $0.03 ]
+
+
+#Game No : 505815598
+***** 888poker Hand History for Game 505815598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 04:29:04
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Bigpluis ( $1.05 )
+Seat 9: PokerBJ21 ( $2.89 )
+PokerBJ21 posts small blind [$0.01]
+Bigpluis posts big blind [$0.02]
+** Dealing down cards **
+PokerBJ21 calls [$0.01]
+Bigpluis checks
+** Dealing flop ** [ 7c, 7d, Td ]
+Bigpluis checks
+PokerBJ21 checks
+** Dealing turn ** [ Qc ]
+Bigpluis checks
+PokerBJ21 checks
+** Dealing river ** [ 6s ]
+Bigpluis checks
+PokerBJ21 checks
+** Summary **
+Bigpluis shows [ 4s, 6c ]
+PokerBJ21 mucks [ As, 8d ]
+Bigpluis collected [ $0.04 ]
+
+
+#Game No : 505815863
+***** 888poker Hand History for Game 505815863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 05:25:20
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Lisshura ( $0.96 )
+Seat 9: asmak100 ( $2.42 )
+Lisshura posts small blind [$0.01]
+asmak100 posts big blind [$0.02]
+** Dealing down cards **
+Lisshura folds
+** Summary **
+asmak100 collected [ $0.03 ]
+
+
+#Game No : 505815864
+***** 888poker Hand History for Game 505815864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 05:25:25
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Lisshura ( $0.95 )
+Seat 9: asmak100 ( $2.43 )
+asmak100 posts small blind [$0.01]
+** Dealing down cards **
+Lisshura folds
+** Summary **
+asmak100 collected [ $0.01 ]
+
+
+#Game No : 505815866
+***** 888poker Hand History for Game 505815866 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 05:26:18
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: PauljohnWard ( $0.80 )
+Seat 6: dimon250478 ( $0.80 )
+dimon250478 posts small blind [$0.01]
+PauljohnWard posts big blind [$0.02]
+** Dealing down cards **
+dimon250478 calls [$0.01]
+PauljohnWard checks
+** Dealing flop ** [ 8s, 7d, 6s ]
+PauljohnWard bets [$0.02]
+dimon250478 raises [$0.78]
+PauljohnWard folds
+** Summary **
+dimon250478 collected [ $0.08 ]
+
+
+#Game No : 505815902
+***** 888poker Hand History for Game 505815902 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 05:42:48
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: boxoftricks ( $1.22 )
+Seat 4: PauljohnWard ( $1.02 )
+boxoftricks posts small blind [$0.01]
+PauljohnWard posts big blind [$0.02]
+** Dealing down cards **
+boxoftricks raises [$0.06]
+PauljohnWard raises [$0.10]
+boxoftricks folds
+** Summary **
+PauljohnWard collected [ $0.14 ]
+
+
+#Game No : 505819451
+***** 888poker Hand History for Game 505819451 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 13:55:35
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: mgrths ( $0.72 )
+Seat 6: BeastmanJD ( $2.54 )
+BeastmanJD posts small blind [$0.01]
+mgrths posts big blind [$0.02]
+** Dealing down cards **
+BeastmanJD folds
+** Summary **
+mgrths did not show his hand
+mgrths collected [ $0.03 ]
+
+
+#Game No : 505819453
+***** 888poker Hand History for Game 505819453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 13:55:42
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: mgrths ( $0.73 )
+Seat 6: BeastmanJD ( $2.53 )
+mgrths posts small blind [$0.01]
+BeastmanJD posts big blind [$0.02]
+** Dealing down cards **
+mgrths calls [$0.01]
+BeastmanJD checks
+** Dealing flop ** [ 5h, 9c, 7s ]
+BeastmanJD checks
+mgrths checks
+** Dealing turn ** [ Ah ]
+BeastmanJD bets [$0.04]
+mgrths calls [$0.04]
+** Dealing river ** [ 5d ]
+BeastmanJD checks
+mgrths checks
+** Summary **
+BeastmanJD shows [ 9d, Jd ]
+mgrths shows [ Ac, 6d ]
+mgrths collected [ $0.12 ]
+
+
+#Game No : 505819457
+***** 888poker Hand History for Game 505819457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 13:56:09
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: mgrths ( $0.79 )
+Seat 6: BeastmanJD ( $2.47 )
+BeastmanJD posts small blind [$0.01]
+mgrths posts big blind [$0.02]
+** Dealing down cards **
+BeastmanJD raises [$0.05]
+mgrths calls [$0.04]
+** Dealing flop ** [ 6h, Jh, 6c ]
+mgrths checks
+BeastmanJD checks
+** Dealing turn ** [ 3h ]
+mgrths checks
+BeastmanJD checks
+** Dealing river ** [ 6d ]
+mgrths checks
+BeastmanJD checks
+** Summary **
+mgrths shows [ Qd, Ac ]
+BeastmanJD mucks [ 2h, Ad ]
+mgrths collected [ $0.12 ]
+
+
+#Game No : 505819470
+***** 888poker Hand History for Game 505819470 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 13:57:17
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: BeastmanJD ( $2.40 )
+Seat 7: Rplaco ( $0.95 )
+Rplaco posts small blind [$0.01]
+BeastmanJD posts big blind [$0.02]
+** Dealing down cards **
+Rplaco calls [$0.01]
+BeastmanJD checks
+** Dealing flop ** [ Kd, 9h, 9s ]
+BeastmanJD checks
+Rplaco checks
+** Dealing turn ** [ Th ]
+BeastmanJD checks
+Rplaco bets [$0.04]
+BeastmanJD folds
+** Summary **
+Rplaco collected [ $0.04 ]
+
+

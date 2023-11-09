@@ -1,0 +1,135 @@
+#Game No : 457757215
+***** 888poker Hand History for Game 457757215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2018 17:58:15
+Table Lima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: luigi_obenza ( $2.25 )
+Seat 7: OTalDeFull ( $4.32 )
+luigi_obenza posts small blind [$0.01]
+OTalDeFull posts big blind [$0.02]
+** Dealing down cards **
+luigi_obenza calls [$0.01]
+OTalDeFull raises [$0.06]
+luigi_obenza calls [$0.06]
+** Dealing flop ** [ 9d, Kc, Ts ]
+OTalDeFull checks
+luigi_obenza checks
+** Dealing turn ** [ 7c ]
+OTalDeFull bets [$0.16]
+luigi_obenza folds
+** Summary **
+OTalDeFull collected [ $0.15 ]
+
+
+#Game No : 457757222
+***** 888poker Hand History for Game 457757222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2018 17:58:46
+Table Lima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: luigi_obenza ( $2.17 )
+Seat 7: OTalDeFull ( $4.39 )
+OTalDeFull posts small blind [$0.01]
+luigi_obenza posts big blind [$0.02]
+** Dealing down cards **
+OTalDeFull folds
+** Summary **
+luigi_obenza collected [ $0.03 ]
+
+
+#Game No : 457758186
+***** 888poker Hand History for Game 457758186 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2018 19:21:43
+Table Lima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: elPeanuto ( $1.26 )
+Seat 7: OTalDeFull ( $5.08 )
+OTalDeFull posts small blind [$0.01]
+elPeanuto posts big blind [$0.02]
+** Dealing down cards **
+OTalDeFull calls [$0.01]
+elPeanuto checks
+** Dealing flop ** [ 3s, 6d, Qd ]
+elPeanuto checks
+OTalDeFull checks
+** Dealing turn ** [ 9s ]
+elPeanuto checks
+OTalDeFull checks
+** Dealing river ** [ Ah ]
+elPeanuto checks
+OTalDeFull checks
+** Summary **
+elPeanuto shows [ 7d, 2c ]
+OTalDeFull shows [ Td, Kc ]
+OTalDeFull collected [ $0.04 ]
+
+
+#Game No : 457758195
+***** 888poker Hand History for Game 457758195 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2018 19:22:27
+Table Lima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: elPeanuto ( $1.24 )
+Seat 7: OTalDeFull ( $5.10 )
+elPeanuto posts small blind [$0.01]
+OTalDeFull posts big blind [$0.02]
+** Dealing down cards **
+elPeanuto calls [$0.01]
+OTalDeFull checks
+** Dealing flop ** [ Ac, 8h, 9c ]
+OTalDeFull checks
+elPeanuto bets [$0.04]
+OTalDeFull folds
+** Summary **
+elPeanuto collected [ $0.04 ]
+
+
+#Game No : 457758207
+***** 888poker Hand History for Game 457758207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2018 19:23:52
+Table Lima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: elPeanuto ( $1.25 )
+Seat 2: Sergeich88 ( $2.01 )
+elPeanuto posts small blind [$0.01]
+Sergeich88 posts big blind [$0.02]
+** Dealing down cards **
+elPeanuto calls [$0.01]
+Sergeich88 checks
+** Dealing flop ** [ 2d, 9c, 9s ]
+Sergeich88 checks
+elPeanuto checks
+** Dealing turn ** [ 3c ]
+Sergeich88 bets [$0.03]
+elPeanuto folds
+** Summary **
+Sergeich88 collected [ $0.04 ]
+
+
+#Game No : 457758209
+***** 888poker Hand History for Game 457758209 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2018 19:24:09
+Table Lima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: elPeanuto ( $1.23 )
+Seat 2: Sergeich88 ( $2.03 )
+Sergeich88 posts small blind [$0.01]
+elPeanuto posts big blind [$0.02]
+** Dealing down cards **
+Sergeich88 raises [$0.03]
+elPeanuto calls [$0.02]
+** Dealing flop ** [ 3h, 4h, Ad ]
+elPeanuto checks
+Sergeich88 checks
+** Dealing turn ** [ 6d ]
+elPeanuto bets [$0.08]
+Sergeich88 folds
+** Summary **
+elPeanuto collected [ $0.08 ]
+
+

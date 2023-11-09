@@ -1,0 +1,44 @@
+#Game No : 603885044
+***** 888poker Hand History for Game 603885044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 23:20:14
+Table Kirov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: lordmoredon ( $0.71 )
+Seat 4: salsal74 ( $1.09 )
+salsal74 posts small blind [$0.01]
+lordmoredon posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+lordmoredon collected [ $0.03 ]
+
+
+#Game No : 1182595783
+***** 888poker Hand History for Game 1182595783 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 06:33:57
+Table Kirov 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: T0rvald ( $0.77 )
+Seat 2: eagle_vn ( $2.03 )
+T0rvald posts small blind [$0.01]
+eagle_vn posts big blind [$0.02]
+** Dealing down cards **
+T0rvald raises [$0.03]
+eagle_vn calls [$0.02]
+** Dealing flop ** [ 3s, 7h, Kc ]
+eagle_vn checks
+T0rvald bets [$0.06]
+eagle_vn raises [$0.26]
+T0rvald calls [$0.20]
+** Dealing turn ** [ Tc ]
+eagle_vn bets [$1.73]
+T0rvald calls [$0.47]
+** Dealing river ** [ Ks ]
+** Summary **
+T0rvald shows [ Jh, Jc ]
+eagle_vn shows [ 3h, 3d ]
+eagle_vn collected [ $1.45 ]
+
+

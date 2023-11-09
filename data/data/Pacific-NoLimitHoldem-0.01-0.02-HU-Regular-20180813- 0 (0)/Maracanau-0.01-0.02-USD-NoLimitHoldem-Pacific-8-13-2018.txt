@@ -1,0 +1,85 @@
+#Game No : 1201071594
+***** 888poker Hand History for Game 1201071594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2018 02:33:34
+Table Maracanau 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: carlibraun ( $1.92 )
+Seat 9: Pinvax ( $0.87 )
+carlibraun posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+carlibraun calls [$0.01]
+Pinvax checks
+** Dealing flop ** [ 5d, Tc, Kd ]
+Pinvax bets [$0.02]
+carlibraun folds
+** Summary **
+Pinvax collected [ $0.04 ]
+
+
+#Game No : 1201071638
+***** 888poker Hand History for Game 1201071638 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2018 02:33:41
+Table Maracanau 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: carlibraun ( $1.90 )
+Seat 9: Pinvax ( $0.89 )
+Pinvax posts small blind [$0.01]
+carlibraun posts big blind [$0.02]
+** Dealing down cards **
+Pinvax calls [$0.01]
+carlibraun raises [$0.06]
+Pinvax folds
+** Summary **
+carlibraun collected [ $0.04 ]
+
+
+#Game No : 1201071665
+***** 888poker Hand History for Game 1201071665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2018 02:33:52
+Table Maracanau 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: carlibraun ( $1.92 )
+Seat 9: Pinvax ( $0.87 )
+carlibraun posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+carlibraun calls [$0.01]
+Pinvax checks
+** Dealing flop ** [ 6h, Qs, 7h ]
+Pinvax bets [$0.02]
+carlibraun folds
+** Summary **
+Pinvax collected [ $0.04 ]
+
+
+#Game No : 1201071695
+***** 888poker Hand History for Game 1201071695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2018 02:34:02
+Table Maracanau 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: carlibraun ( $1.90 )
+Seat 9: Pinvax ( $0.89 )
+Pinvax posts small blind [$0.01]
+carlibraun posts big blind [$0.02]
+** Dealing down cards **
+Pinvax calls [$0.01]
+carlibraun checks
+** Dealing flop ** [ 4s, 2s, Qh ]
+carlibraun checks
+Pinvax checks
+** Dealing turn ** [ Ah ]
+carlibraun checks
+Pinvax checks
+** Dealing river ** [ 2h ]
+carlibraun checks
+Pinvax bets [$0.06]
+carlibraun folds
+** Summary **
+Pinvax collected [ $0.04 ]
+
+

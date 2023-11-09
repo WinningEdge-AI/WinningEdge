@@ -1,0 +1,308 @@
+#Game No : 500237614
+***** 888poker Hand History for Game 500237614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 22:27:55
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: steinarel1 ( $0.96 )
+Seat 4: Aleksand743 ( $1.04 )
+Aleksand743 posts small blind [$0.01]
+steinarel1 posts big blind [$0.02]
+** Dealing down cards **
+Aleksand743 calls [$0.01]
+steinarel1 checks
+** Dealing flop ** [ 8d, 6d, 2c ]
+steinarel1 bets [$0.02]
+Aleksand743 calls [$0.02]
+** Dealing turn ** [ Ac ]
+steinarel1 checks
+Aleksand743 checks
+** Dealing river ** [ 6s ]
+steinarel1 bets [$0.08]
+Aleksand743 raises [$0.20]
+steinarel1 calls [$0.12]
+** Summary **
+Aleksand743 shows [ 6h, Th ]
+steinarel1 mucks [ Tc, Ah ]
+Aleksand743 collected [ $0.45 ]
+
+
+#Game No : 500237622
+***** 888poker Hand History for Game 500237622 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 22:28:09
+Table Baku 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: steinarel1 ( $0.72 )
+Seat 4: Aleksand743 ( $1.25 )
+steinarel1 posts small blind [$0.01]
+Aleksand743 posts big blind [$0.02]
+** Dealing down cards **
+steinarel1 calls [$0.01]
+Aleksand743 raises [$0.02]
+steinarel1 calls [$0.02]
+** Dealing flop ** [ Ks, Jd, 3d ]
+Aleksand743 checks
+steinarel1 checks
+** Dealing turn ** [ Td ]
+Aleksand743 checks
+steinarel1 checks
+** Dealing river ** [ Tc ]
+Aleksand743 checks
+steinarel1 checks
+** Summary **
+Aleksand743 shows [ As, 2h ]
+steinarel1 mucks [ 5s, 6c ]
+Aleksand743 collected [ $0.08 ]
+
+
+#Game No : 500237629
+***** 888poker Hand History for Game 500237629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 22:28:35
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: steinarel1 ( $0.68 )
+Seat 4: Aleksand743 ( $1.29 )
+Aleksand743 posts small blind [$0.01]
+steinarel1 posts big blind [$0.02]
+** Dealing down cards **
+Aleksand743 raises [$0.03]
+steinarel1 calls [$0.02]
+** Dealing flop ** [ 2d, 5h, 8h ]
+steinarel1 bets [$0.02]
+Aleksand743 calls [$0.02]
+** Dealing turn ** [ 6d ]
+steinarel1 bets [$0.12]
+Aleksand743 calls [$0.12]
+** Dealing river ** [ 9s ]
+steinarel1 bets [$0.36]
+Aleksand743 calls [$0.36]
+** Summary **
+steinarel1 shows [ 5d, 7d ]
+Aleksand743 mucks [ Ad, 6c ]
+steinarel1 collected [ $1.02 ]
+
+
+#Game No : 500238206
+***** 888poker Hand History for Game 500238206 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 23:02:47
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Aleksand743 ( $1.82 )
+Seat 6: melnichennko ( $0.64 )
+melnichennko posts small blind [$0.01]
+Aleksand743 posts big blind [$0.02]
+** Dealing down cards **
+melnichennko folds
+** Summary **
+Aleksand743 did not show his hand
+Aleksand743 collected [ $0.03 ]
+
+
+#Game No : 500238210
+***** 888poker Hand History for Game 500238210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 23:02:52
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Aleksand743 ( $1.83 )
+Seat 6: melnichennko ( $0.63 )
+Aleksand743 posts small blind [$0.01]
+melnichennko posts big blind [$0.02]
+** Dealing down cards **
+Aleksand743 folds
+** Summary **
+melnichennko did not show his hand
+melnichennko collected [ $0.03 ]
+
+
+#Game No : 500238215
+***** 888poker Hand History for Game 500238215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 23:03:01
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Aleksand743 ( $1.82 )
+Seat 6: melnichennko ( $0.64 )
+melnichennko posts small blind [$0.01]
+** Dealing down cards **
+Aleksand743 folds
+** Summary **
+melnichennko did not show his hand
+melnichennko collected [ $0.01 ]
+
+
+#Game No : 500238237
+***** 888poker Hand History for Game 500238237 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 23:04:19
+Table Baku 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: melnichennko ( $0.64 )
+Seat 7: redSmoog ( $1 )
+redSmoog posts small blind [$0.01]
+melnichennko posts big blind [$0.02]
+** Dealing down cards **
+redSmoog calls [$0.01]
+melnichennko checks
+** Dealing flop ** [ 2h, Kd, Tc ]
+melnichennko checks
+redSmoog checks
+** Dealing turn ** [ 6h ]
+melnichennko checks
+redSmoog checks
+** Dealing river ** [ 3c ]
+melnichennko checks
+redSmoog checks
+** Summary **
+melnichennko shows [ 7h, 3d ]
+redSmoog shows [ Td, 4d ]
+redSmoog collected [ $0.04 ]
+
+
+#Game No : 500238248
+***** 888poker Hand History for Game 500238248 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 23:04:50
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: melnichennko ( $0.62 )
+Seat 7: redSmoog ( $1.02 )
+melnichennko posts small blind [$0.01]
+redSmoog posts big blind [$0.02]
+** Dealing down cards **
+melnichennko folds
+** Summary **
+redSmoog did not show his hand
+redSmoog collected [ $0.03 ]
+
+
+#Game No : 500238252
+***** 888poker Hand History for Game 500238252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 23:05:01
+Table Baku 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: melnichennko ( $0.61 )
+Seat 7: redSmoog ( $1.03 )
+redSmoog posts small blind [$0.01]
+melnichennko posts big blind [$0.02]
+** Dealing down cards **
+redSmoog calls [$0.01]
+melnichennko checks
+** Dealing flop ** [ 7d, Tc, 7c ]
+melnichennko bets [$0.04]
+redSmoog folds
+** Summary **
+melnichennko collected [ $0.04 ]
+
+
+#Game No : 500238655
+***** 888poker Hand History for Game 500238655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 23:26:36
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: melnichennko ( $0.87 )
+Seat 7: redSmoog ( $2.43 )
+melnichennko posts small blind [$0.01]
+redSmoog posts big blind [$0.02]
+** Dealing down cards **
+melnichennko calls [$0.01]
+redSmoog checks
+** Dealing flop ** [ 7h, Qs, 3h ]
+redSmoog checks
+melnichennko checks
+** Dealing turn ** [ 9c ]
+redSmoog bets [$0.02]
+melnichennko folds
+** Summary **
+redSmoog collected [ $0.04 ]
+
+
+#Game No : 500240364
+***** 888poker Hand History for Game 500240364 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 08 2018 00:54:39
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: melnichennko ( $3.72 )
+Seat 9: go_atirez ( $1.23 )
+go_atirez posts small blind [$0.01]
+melnichennko posts big blind [$0.02]
+** Dealing down cards **
+go_atirez folds
+** Summary **
+melnichennko collected [ $0.03 ]
+
+
+#Game No : 500240367
+***** 888poker Hand History for Game 500240367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 08 2018 00:54:44
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: melnichennko ( $3.73 )
+Seat 9: go_atirez ( $1.22 )
+melnichennko posts small blind [$0.01]
+go_atirez posts big blind [$0.02]
+** Dealing down cards **
+melnichennko folds
+** Summary **
+go_atirez did not show his hand
+go_atirez collected [ $0.03 ]
+
+
+#Game No : 500240371
+***** 888poker Hand History for Game 500240371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 08 2018 00:54:52
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: melnichennko ( $3.72 )
+Seat 9: go_atirez ( $1.23 )
+go_atirez posts small blind [$0.01]
+melnichennko posts big blind [$0.02]
+** Dealing down cards **
+go_atirez folds
+** Summary **
+melnichennko did not show his hand
+melnichennko collected [ $0.03 ]
+
+
+#Game No : 500240377
+***** 888poker Hand History for Game 500240377 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 08 2018 00:54:59
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: melnichennko ( $3.73 )
+Seat 9: go_atirez ( $1.22 )
+melnichennko posts small blind [$0.01]
+go_atirez posts big blind [$0.02]
+** Dealing down cards **
+melnichennko raises [$0.05]
+go_atirez folds
+** Summary **
+melnichennko did not show his hand
+melnichennko collected [ $0.04 ]
+
+
+#Game No : 500240382
+***** 888poker Hand History for Game 500240382 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 08 2018 00:55:18
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: melnichennko ( $3.75 )
+Seat 9: go_atirez ( $1.20 )
+go_atirez posts small blind [$0.01]
+** Dealing down cards **
+melnichennko folds
+** Summary **
+go_atirez did not show his hand
+go_atirez collected [ $0.01 ]
+
+

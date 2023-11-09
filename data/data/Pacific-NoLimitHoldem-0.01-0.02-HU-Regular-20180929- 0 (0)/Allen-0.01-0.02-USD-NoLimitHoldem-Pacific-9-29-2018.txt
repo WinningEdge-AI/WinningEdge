@@ -1,0 +1,48 @@
+#Game No : 507545913
+***** 888poker Hand History for Game 507545913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:35:29
+Table Allen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nik0190 ( $0.80 )
+Seat 5: Btobin14 ( $0.80 )
+Nik0190 posts small blind [$0.01]
+Btobin14 posts big blind [$0.02]
+** Dealing down cards **
+Nik0190 calls [$0.01]
+Btobin14 checks
+** Dealing flop ** [ 6c, Tc, Jh ]
+Btobin14 checks
+Nik0190 checks
+** Dealing turn ** [ 3h ]
+Btobin14 checks
+Nik0190 checks
+** Dealing river ** [ 4s ]
+Btobin14 bets [$0.04]
+Nik0190 calls [$0.04]
+** Summary **
+Btobin14 shows [ 7h, 5c ]
+Nik0190 mucks [ Ah, 6d ]
+Btobin14 collected [ $0.12 ]
+
+
+#Game No : 507545948
+***** 888poker Hand History for Game 507545948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:35:39
+Table Allen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Nik0190 ( $0.74 )
+Seat 5: Btobin14 ( $0.86 )
+Btobin14 posts small blind [$0.01]
+Nik0190 posts big blind [$0.02]
+** Dealing down cards **
+Btobin14 calls [$0.01]
+Nik0190 checks
+** Dealing flop ** [ Qd, 7s, 9s ]
+Nik0190 bets [$0.04]
+Btobin14 folds
+** Summary **
+Nik0190 collected [ $0.04 ]
+
+

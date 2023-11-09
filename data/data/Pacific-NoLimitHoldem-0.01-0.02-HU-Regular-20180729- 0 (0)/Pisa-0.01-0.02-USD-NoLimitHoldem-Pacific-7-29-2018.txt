@@ -1,0 +1,28 @@
+#Game No : 606202820
+***** 888poker Hand History for Game 606202820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 13:27:40
+Table Pisa 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: shaghash ( $2.08 )
+Seat 3: kaifysha ( $1.35 )
+kaifysha posts small blind [$0.01]
+shaghash posts big blind [$0.02]
+** Dealing down cards **
+kaifysha calls [$0.01]
+shaghash checks
+** Dealing flop ** [ Jc, 2h, Ts ]
+shaghash checks
+kaifysha checks
+** Dealing turn ** [ 5s ]
+shaghash checks
+kaifysha checks
+** Dealing river ** [ 9d ]
+shaghash checks
+kaifysha checks
+** Summary **
+shaghash shows [ 8c, 3c ]
+kaifysha shows [ Qc, 7h ]
+kaifysha collected [ $0.04 ]
+
+

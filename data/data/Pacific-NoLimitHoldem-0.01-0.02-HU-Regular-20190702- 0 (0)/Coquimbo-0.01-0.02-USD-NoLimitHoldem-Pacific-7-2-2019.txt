@@ -1,0 +1,45 @@
+#Game No : 621828248
+***** 888poker Hand History for Game 621828248 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2019 01:49:20
+Table Coquimbo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: INtlrNc ( $2.02 )
+Seat 6: flodda84 ( $0.80 )
+INtlrNc posts small blind [$0.01]
+flodda84 posts big blind [$0.02]
+** Dealing down cards **
+INtlrNc raises [$0.05]
+flodda84 calls [$0.04]
+** Dealing flop ** [ 2d, 5h, Tc ]
+flodda84 checks
+INtlrNc checks
+** Dealing turn ** [ 2s ]
+flodda84 checks
+INtlrNc bets [$0.09]
+flodda84 folds
+** Summary **
+INtlrNc collected [ $0.12 ]
+
+
+#Game No : 621828263
+***** 888poker Hand History for Game 621828263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2019 01:49:59
+Table Coquimbo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: INtlrNc ( $2.08 )
+Seat 6: flodda84 ( $0.80 )
+flodda84 posts small blind [$0.01]
+INtlrNc posts big blind [$0.02]
+** Dealing down cards **
+flodda84 calls [$0.01]
+INtlrNc checks
+** Dealing flop ** [ 2s, Ts, Ah ]
+INtlrNc checks
+flodda84 bets [$0.02]
+INtlrNc folds
+** Summary **
+flodda84 collected [ $0.04 ]
+
+

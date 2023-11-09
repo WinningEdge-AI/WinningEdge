@@ -1,0 +1,78 @@
+#Game No : 515655783
+***** 888poker Hand History for Game 515655783 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 03 2019 16:53:10
+Table Lawton 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: drummerboy31 ( $2.04 )
+Seat 5: dentistua ( $0.92 )
+drummerboy31 posts small blind [$0.01]
+dentistua posts big blind [$0.02]
+** Dealing down cards **
+drummerboy31 calls [$0.01]
+dentistua checks
+** Dealing flop ** [ Qd, Th, 2s ]
+dentistua checks
+drummerboy31 bets [$0.04]
+dentistua folds
+** Summary **
+drummerboy31 did not show his hand
+drummerboy31 collected [ $0.04 ]
+
+
+#Game No : 515655804
+***** 888poker Hand History for Game 515655804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 03 2019 16:53:34
+Table Lawton 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: drummerboy31 ( $2.06 )
+Seat 5: dentistua ( $0.90 )
+dentistua posts small blind [$0.01]
+drummerboy31 posts big blind [$0.02]
+** Dealing down cards **
+dentistua calls [$0.01]
+drummerboy31 checks
+** Dealing flop ** [ Ac, 8c, Qc ]
+drummerboy31 bets [$0.04]
+dentistua calls [$0.04]
+** Dealing turn ** [ 8d ]
+drummerboy31 bets [$0.02]
+dentistua calls [$0.02]
+** Dealing river ** [ 7c ]
+drummerboy31 checks
+dentistua bets [$0.10]
+drummerboy31 folds
+** Summary **
+dentistua did not show his hand
+dentistua collected [ $0.15 ]
+
+
+#Game No : 515655828
+***** 888poker Hand History for Game 515655828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 03 2019 16:54:09
+Table Lawton 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: drummerboy31 ( $1.98 )
+Seat 5: dentistua ( $0.97 )
+drummerboy31 posts small blind [$0.01]
+dentistua posts big blind [$0.02]
+** Dealing down cards **
+drummerboy31 calls [$0.01]
+dentistua checks
+** Dealing flop ** [ Td, 6c, 8h ]
+dentistua checks
+drummerboy31 checks
+** Dealing turn ** [ 7s ]
+dentistua bets [$0.02]
+drummerboy31 calls [$0.02]
+** Dealing river ** [ Jh ]
+dentistua checks
+drummerboy31 checks
+** Summary **
+dentistua shows [ 6d, Tc ]
+drummerboy31 mucks [ 5c, 7d ]
+dentistua collected [ $0.08 ]
+
+

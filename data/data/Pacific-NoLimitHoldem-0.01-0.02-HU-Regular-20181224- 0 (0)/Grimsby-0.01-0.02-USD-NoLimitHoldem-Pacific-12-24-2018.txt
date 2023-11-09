@@ -1,0 +1,530 @@
+#Game No : 511084186
+***** 888poker Hand History for Game 511084186 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 16:50:52
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $6.12 )
+Seat 6: AldanShilDim ( $3.40 )
+rustaman76 posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 folds
+** Summary **
+AldanShilDim collected [ $0.03 ]
+
+
+#Game No : 511084215
+***** 888poker Hand History for Game 511084215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 16:51:36
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Joki3 ( $0.74 )
+Seat 6: AldanShilDim ( $3.48 )
+Joki3 posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+Joki3 calls [$0.01]
+AldanShilDim raises [$0.06]
+Joki3 folds
+** Summary **
+AldanShilDim collected [ $0.04 ]
+
+
+#Game No : 511084224
+***** 888poker Hand History for Game 511084224 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 16:51:50
+Table Grimsby 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Joki3 ( $0.72 )
+Seat 6: AldanShilDim ( $3.50 )
+AldanShilDim posts small blind [$0.01]
+Joki3 posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+Joki3 collected [ $0.03 ]
+
+
+#Game No : 511087966
+***** 888poker Hand History for Game 511087966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 18:43:05
+Table Grimsby 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Booask ( $1.12 )
+Seat 7: Kohevnikov ( $1.88 )
+Kohevnikov posts small blind [$0.01]
+Booask posts big blind [$0.02]
+** Dealing down cards **
+Kohevnikov calls [$0.01]
+Booask checks
+** Dealing flop ** [ 3h, 8h, Ad ]
+Booask checks
+Kohevnikov bets [$0.02]
+Booask folds
+** Summary **
+Kohevnikov did not show his hand
+Kohevnikov collected [ $0.04 ]
+
+
+#Game No : 511087975
+***** 888poker Hand History for Game 511087975 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 18:43:21
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Booask ( $1.10 )
+Seat 7: Kohevnikov ( $1.90 )
+Booask posts small blind [$0.01]
+Kohevnikov posts big blind [$0.02]
+** Dealing down cards **
+Booask calls [$0.01]
+Kohevnikov checks
+** Dealing flop ** [ Th, 6d, 5d ]
+Kohevnikov checks
+Booask bets [$0.04]
+Kohevnikov calls [$0.04]
+** Dealing turn ** [ 9d ]
+Kohevnikov checks
+Booask bets [$0.06]
+Kohevnikov calls [$0.06]
+** Dealing river ** [ Ks ]
+Kohevnikov checks
+Booask checks
+** Summary **
+Kohevnikov shows [ 6h, 8h ]
+Booask shows [ Ts, 8d ]
+Booask collected [ $0.23 ]
+
+
+#Game No : 511089779
+***** 888poker Hand History for Game 511089779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 20:00:48
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Booask ( $4.32 )
+Seat 6: Oksirius ( $1.74 )
+Booask posts small blind [$0.01]
+Oksirius posts big blind [$0.02]
+** Dealing down cards **
+Booask raises [$0.03]
+Oksirius calls [$0.02]
+** Dealing flop ** [ Tc, 9d, 4d ]
+Oksirius checks
+Booask checks
+** Dealing turn ** [ 5d ]
+Oksirius bets [$0.05]
+Booask folds
+** Summary **
+Oksirius did not show his hand
+Oksirius collected [ $0.08 ]
+
+
+#Game No : 511089791
+***** 888poker Hand History for Game 511089791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 20:01:27
+Table Grimsby 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Booask ( $4.28 )
+Seat 6: Oksirius ( $1.78 )
+Oksirius posts small blind [$0.01]
+Booask posts big blind [$0.02]
+** Dealing down cards **
+Oksirius folds
+** Summary **
+Booask did not show his hand
+Booask collected [ $0.03 ]
+
+
+#Game No : 511089794
+***** 888poker Hand History for Game 511089794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 20:01:33
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Booask ( $4.29 )
+Seat 6: Oksirius ( $1.77 )
+Booask posts small blind [$0.01]
+Oksirius posts big blind [$0.02]
+** Dealing down cards **
+Booask calls [$0.01]
+Oksirius checks
+** Dealing flop ** [ Qh, 9d, Tc ]
+Oksirius checks
+Booask bets [$0.04]
+Oksirius folds
+** Summary **
+Booask collected [ $0.04 ]
+
+
+#Game No : 511089803
+***** 888poker Hand History for Game 511089803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 20:01:54
+Table Grimsby 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Booask ( $4.31 )
+Seat 6: Oksirius ( $1.75 )
+Oksirius posts small blind [$0.01]
+Booask posts big blind [$0.02]
+** Dealing down cards **
+Oksirius calls [$0.01]
+Booask checks
+** Dealing flop ** [ Kc, 3d, 5h ]
+Booask checks
+Oksirius checks
+** Dealing turn ** [ Qc ]
+Booask bets [$0.04]
+Oksirius calls [$0.04]
+** Dealing river ** [ Qh ]
+Booask bets [$0.14]
+Oksirius calls [$0.14]
+** Summary **
+Booask shows [ 8s, 4s ]
+Oksirius shows [ 7h, Qs ]
+Oksirius collected [ $0.38 ]
+
+
+#Game No : 511092883
+***** 888poker Hand History for Game 511092883 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 23:09:46
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Armata777 ( $1.13 )
+Seat 7: jayson001 ( $1.18 )
+Armata777 posts small blind [$0.01]
+jayson001 posts big blind [$0.02]
+** Dealing down cards **
+Armata777 raises [$0.03]
+jayson001 calls [$0.02]
+** Dealing flop ** [ 5h, 4d, Ks ]
+jayson001 checks
+Armata777 bets [$0.04]
+jayson001 folds
+** Summary **
+Armata777 collected [ $0.08 ]
+
+
+#Game No : 511093128
+***** 888poker Hand History for Game 511093128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 23:26:56
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Skyluck11 ( $1.01 )
+Seat 4: greedpiccolo ( $1.08 )
+Skyluck11 posts small blind [$0.01]
+greedpiccolo posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+greedpiccolo collected [ $0.03 ]
+
+
+#Game No : 511093129
+***** 888poker Hand History for Game 511093129 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 23:27:01
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Skyluck11 ( $1 )
+Seat 4: greedpiccolo ( $1.09 )
+greedpiccolo posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+greedpiccolo calls [$0.01]
+Skyluck11 checks
+** Dealing flop ** [ 4d, Qs, 7d ]
+Skyluck11 checks
+greedpiccolo bets [$0.02]
+Skyluck11 folds
+** Summary **
+greedpiccolo collected [ $0.04 ]
+
+
+#Game No : 511093144
+***** 888poker Hand History for Game 511093144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 23:27:50
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Skyluck11 ( $1.01 )
+Seat 4: greedpiccolo ( $1.10 )
+greedpiccolo posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+greedpiccolo calls [$0.01]
+Skyluck11 raises [$0.06]
+greedpiccolo calls [$0.06]
+** Dealing flop ** [ 8d, Kc, Ac ]
+Skyluck11 bets [$0.08]
+greedpiccolo folds
+** Summary **
+Skyluck11 collected [ $0.15 ]
+
+
+#Game No : 511094789
+***** 888poker Hand History for Game 511094789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 00:57:24
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $0.80 )
+Seat 9: wynngetsital ( $1.62 )
+bymer06 posts small blind [$0.01]
+wynngetsital posts big blind [$0.02]
+** Dealing down cards **
+bymer06 raises [$0.06]
+wynngetsital calls [$0.05]
+** Dealing flop ** [ Ts, Kd, 7s ]
+wynngetsital checks
+bymer06 checks
+** Dealing turn ** [ 9s ]
+wynngetsital checks
+bymer06 checks
+** Dealing river ** [ 3s ]
+wynngetsital checks
+bymer06 checks
+** Summary **
+wynngetsital shows [ 6d, 2c ]
+bymer06 shows [ 4h, Ah ]
+bymer06 collected [ $0.14 ]
+
+
+#Game No : 511094794
+***** 888poker Hand History for Game 511094794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 00:57:50
+Table Grimsby 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $0.87 )
+Seat 9: wynngetsital ( $1.55 )
+wynngetsital posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+wynngetsital calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ 5s, 7h, Td ]
+bymer06 checks
+wynngetsital checks
+** Dealing turn ** [ 6s ]
+bymer06 checks
+wynngetsital checks
+** Dealing river ** [ 3s ]
+bymer06 checks
+wynngetsital bets [$0.02]
+bymer06 folds
+** Summary **
+wynngetsital collected [ $0.04 ]
+
+
+#Game No : 511094804
+***** 888poker Hand History for Game 511094804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 00:58:31
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $0.85 )
+Seat 9: wynngetsital ( $1.57 )
+bymer06 posts small blind [$0.01]
+wynngetsital posts big blind [$0.02]
+** Dealing down cards **
+bymer06 folds
+** Summary **
+wynngetsital collected [ $0.03 ]
+
+
+#Game No : 511094813
+***** 888poker Hand History for Game 511094813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 00:59:29
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $0.84 )
+Seat 6: eStefano1401 ( $0.80 )
+bymer06 posts small blind [$0.01]
+eStefano1401 posts big blind [$0.02]
+** Dealing down cards **
+bymer06 raises [$0.06]
+eStefano1401 calls [$0.05]
+** Dealing flop ** [ 9c, 8h, Qd ]
+eStefano1401 checks
+bymer06 bets [$0.07]
+eStefano1401 calls [$0.07]
+** Dealing turn ** [ 9s ]
+eStefano1401 checks
+bymer06 checks
+** Dealing river ** [ Jc ]
+eStefano1401 checks
+bymer06 bets [$0.18]
+eStefano1401 raises [$0.66]
+bymer06 calls [$0.48]
+** Summary **
+bymer06 shows [ Qs, 9d ]
+eStefano1401 shows [ 5s, 5d ]
+bymer06 collected [ $1.50 ]
+
+
+#Game No : 511094824
+***** 888poker Hand History for Game 511094824 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 01:00:15
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $1.54 )
+Seat 4: Lans1987 ( $1.16 )
+bymer06 posts small blind [$0.01]
+Lans1987 posts big blind [$0.02]
+** Dealing down cards **
+bymer06 folds
+** Summary **
+Lans1987 did not show his hand
+Lans1987 collected [ $0.03 ]
+
+
+#Game No : 511094826
+***** 888poker Hand History for Game 511094826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 01:00:24
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $1.53 )
+Seat 4: Lans1987 ( $1.17 )
+Lans1987 posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+Lans1987 raises [$0.03]
+bymer06 raises [$0.06]
+Lans1987 calls [$0.04]
+** Dealing flop ** [ 6d, 6c, Kc ]
+bymer06 bets [$0.08]
+Lans1987 raises [$0.20]
+bymer06 raises [$1.37]
+Lans1987 folds
+** Summary **
+bymer06 did not show his hand
+bymer06 collected [ $0.53 ]
+
+
+#Game No : 511094833
+***** 888poker Hand History for Game 511094833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 01:00:50
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $1.78 )
+Seat 4: Lans1987 ( $0.89 )
+bymer06 posts small blind [$0.01]
+Lans1987 posts big blind [$0.02]
+** Dealing down cards **
+bymer06 folds
+** Summary **
+Lans1987 did not show his hand
+Lans1987 collected [ $0.03 ]
+
+
+#Game No : 511094834
+***** 888poker Hand History for Game 511094834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 01:00:55
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $1.77 )
+Seat 4: Lans1987 ( $0.90 )
+Lans1987 posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+Lans1987 folds
+** Summary **
+bymer06 did not show his hand
+bymer06 collected [ $0.03 ]
+
+
+#Game No : 511094838
+***** 888poker Hand History for Game 511094838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 01:01:01
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $1.78 )
+Seat 4: Lans1987 ( $0.89 )
+bymer06 posts small blind [$0.01]
+Lans1987 posts big blind [$0.02]
+** Dealing down cards **
+bymer06 folds
+** Summary **
+Lans1987 did not show his hand
+Lans1987 collected [ $0.03 ]
+
+
+#Game No : 511094843
+***** 888poker Hand History for Game 511094843 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 01:01:25
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $1.77 )
+Seat 4: Lans1987 ( $0.90 )
+Lans1987 posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+Lans1987 calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ 3s, 8h, 4c ]
+bymer06 checks
+Lans1987 bets [$0.02]
+bymer06 folds
+** Summary **
+Lans1987 did not show his hand
+Lans1987 collected [ $0.04 ]
+
+
+#Game No : 511094849
+***** 888poker Hand History for Game 511094849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 01:01:54
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $1.75 )
+Seat 4: Lans1987 ( $0.92 )
+bymer06 posts small blind [$0.01]
+Lans1987 posts big blind [$0.02]
+** Dealing down cards **
+bymer06 folds
+** Summary **
+Lans1987 did not show his hand
+Lans1987 collected [ $0.03 ]
+
+
+#Game No : 511094852
+***** 888poker Hand History for Game 511094852 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 01:02:02
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: bymer06 ( $1.74 )
+Seat 4: Lans1987 ( $0.93 )
+Lans1987 posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+Lans1987 calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ Kc, 7d, 5c ]
+bymer06 checks
+Lans1987 bets [$0.02]
+bymer06 calls [$0.02]
+** Dealing turn ** [ 7h ]
+bymer06 checks
+Lans1987 bets [$0.05]
+bymer06 folds
+** Summary **
+Lans1987 did not show his hand
+Lans1987 collected [ $0.08 ]
+
+

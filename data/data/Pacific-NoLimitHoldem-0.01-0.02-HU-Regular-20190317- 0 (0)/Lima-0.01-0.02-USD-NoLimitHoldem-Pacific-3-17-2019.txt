@@ -1,0 +1,195 @@
+#Game No : 515136309
+***** 888poker Hand History for Game 515136309 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 01:27:23
+Table Lima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ShipPunisher ( $2 )
+Seat 5: WorstShark ( $1.20 )
+WorstShark posts small blind [$0.01]
+ShipPunisher posts big blind [$0.02]
+** Dealing down cards **
+WorstShark calls [$0.01]
+ShipPunisher checks
+** Dealing flop ** [ 2s, Qc, 7s ]
+ShipPunisher checks
+WorstShark checks
+** Dealing turn ** [ 3h ]
+ShipPunisher checks
+WorstShark checks
+** Dealing river ** [ 6c ]
+ShipPunisher checks
+WorstShark checks
+** Summary **
+ShipPunisher shows [ 2c, Kd ]
+WorstShark mucks [ Ah, Ts ]
+ShipPunisher collected [ $0.04 ]
+
+
+#Game No : 515137292
+***** 888poker Hand History for Game 515137292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 02:13:32
+Table Lima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: _Doberman_ ( $2.03 )
+Seat 10: _carpe_diem_ ( $1.53 )
+_carpe_diem_ posts small blind [$0.01]
+_Doberman_ posts big blind [$0.02]
+** Dealing down cards **
+_carpe_diem_ calls [$0.01]
+_Doberman_ checks
+** Dealing flop ** [ As, 7d, 9d ]
+_Doberman_ checks
+_carpe_diem_ bets [$0.02]
+_Doberman_ folds
+** Summary **
+_carpe_diem_ collected [ $0.04 ]
+
+
+#Game No : 515137294
+***** 888poker Hand History for Game 515137294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 02:13:44
+Table Lima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: _Doberman_ ( $2.01 )
+Seat 10: _carpe_diem_ ( $1.55 )
+_Doberman_ posts small blind [$0.01]
+_carpe_diem_ posts big blind [$0.02]
+** Dealing down cards **
+_Doberman_ raises [$0.05]
+_carpe_diem_ folds
+** Summary **
+_Doberman_ collected [ $0.04 ]
+
+
+#Game No : 515137296
+***** 888poker Hand History for Game 515137296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 02:13:50
+Table Lima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: _Doberman_ ( $2.03 )
+Seat 10: _carpe_diem_ ( $1.53 )
+_carpe_diem_ posts small blind [$0.01]
+** Dealing down cards **
+_Doberman_ folds
+** Summary **
+_carpe_diem_ collected [ $0.01 ]
+
+
+#Game No : 515137471
+***** 888poker Hand History for Game 515137471 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 02:22:34
+Table Lima 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: rb1bka ( $2.95 )
+Seat 6: fxgreen ( $3.35 )
+fxgreen posts small blind [$0.01]
+rb1bka posts big blind [$0.02]
+** Dealing down cards **
+fxgreen folds
+** Summary **
+rb1bka did not show his hand
+rb1bka collected [ $0.03 ]
+
+
+#Game No : 617362975
+***** 888poker Hand History for Game 617362975 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 04:14:16
+Table Lima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Torbjrn99 ( $1.29 )
+Seat 6: MediumC ( $0.62 )
+MediumC posts small blind [$0.01]
+Torbjrn99 posts big blind [$0.02]
+** Dealing down cards **
+MediumC folds
+** Summary **
+Torbjrn99 collected [ $0.03 ]
+
+
+#Game No : 617362978
+***** 888poker Hand History for Game 617362978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 04:14:22
+Table Lima 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Torbjrn99 ( $1.30 )
+Seat 6: MediumC ( $0.61 )
+Torbjrn99 posts small blind [$0.01]
+MediumC posts big blind [$0.02]
+** Dealing down cards **
+Torbjrn99 raises [$0.03]
+MediumC calls [$0.02]
+** Dealing flop ** [ 7s, 2c, Jh ]
+MediumC checks
+Torbjrn99 bets [$0.05]
+MediumC calls [$0.05]
+** Dealing turn ** [ Qc ]
+MediumC bets [$0.05]
+Torbjrn99 calls [$0.05]
+** Dealing river ** [ 3c ]
+MediumC bets [$0.18]
+Torbjrn99 folds
+** Summary **
+MediumC collected [ $0.27 ]
+
+
+#Game No : 617362997
+***** 888poker Hand History for Game 617362997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 04:14:51
+Table Lima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Torbjrn99 ( $1.16 )
+Seat 6: MediumC ( $0.74 )
+MediumC posts small blind [$0.01]
+Torbjrn99 posts big blind [$0.02]
+** Dealing down cards **
+MediumC folds
+** Summary **
+Torbjrn99 collected [ $0.03 ]
+
+
+#Game No : 617363107
+***** 888poker Hand History for Game 617363107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 04:18:57
+Table Lima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MediumC ( $1.17 )
+Seat 7: Zanoza54 ( $0.65 )
+MediumC posts small blind [$0.01]
+Zanoza54 posts big blind [$0.02]
+** Dealing down cards **
+MediumC folds
+** Summary **
+Zanoza54 did not show his hand
+Zanoza54 collected [ $0.03 ]
+
+
+#Game No : 617363108
+***** 888poker Hand History for Game 617363108 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 04:19:04
+Table Lima 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: MediumC ( $1.16 )
+Seat 7: Zanoza54 ( $0.66 )
+Zanoza54 posts small blind [$0.01]
+MediumC posts big blind [$0.02]
+** Dealing down cards **
+Zanoza54 raises [$0.03]
+MediumC calls [$0.02]
+** Dealing flop ** [ Ks, 9d, As ]
+MediumC bets [$0.04]
+Zanoza54 folds
+** Summary **
+MediumC did not show his hand
+MediumC collected [ $0.08 ]
+
+

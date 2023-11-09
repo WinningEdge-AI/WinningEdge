@@ -1,0 +1,145 @@
+#Game No : 500491880
+***** 888poker Hand History for Game 500491880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 09:08:02
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tbaggio73 ( $1.02 )
+Seat 4: vnuk36 ( $0.78 )
+tbaggio73 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+tbaggio73 calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ Jh, 4s, 8h ]
+vnuk36 bets [$0.04]
+tbaggio73 calls [$0.04]
+** Dealing turn ** [ Ac ]
+vnuk36 checks
+tbaggio73 checks
+** Dealing river ** [ 6h ]
+vnuk36 bets [$0.06]
+tbaggio73 calls [$0.06]
+** Summary **
+vnuk36 shows [ Jc, 9c ]
+tbaggio73 mucks [ 7s, 6d ]
+vnuk36 collected [ $0.23 ]
+
+
+#Game No : 500511418
+***** 888poker Hand History for Game 500511418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 14:48:25
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: RatherShort ( $4.54 )
+Seat 6: daragela14 ( $1.08 )
+daragela14 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+daragela14 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 9h, 3h, Ks ]
+RatherShort checks
+daragela14 checks
+** Dealing turn ** [ Tc ]
+RatherShort checks
+daragela14 checks
+** Dealing river ** [ 5d ]
+RatherShort checks
+daragela14 checks
+** Summary **
+RatherShort shows [ 6c, Td ]
+daragela14 mucks [ 6h, 5c ]
+RatherShort collected [ $0.04 ]
+
+
+#Game No : 500511458
+***** 888poker Hand History for Game 500511458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 14:49:11
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: RatherShort ( $4.56 )
+Seat 6: daragela14 ( $1.06 )
+RatherShort posts small blind [$0.01]
+daragela14 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort calls [$0.01]
+daragela14 checks
+** Dealing flop ** [ Kd, 3s, 7h ]
+daragela14 checks
+RatherShort checks
+** Dealing turn ** [ 8d ]
+daragela14 checks
+RatherShort bets [$0.02]
+daragela14 calls [$0.02]
+** Dealing river ** [ Jd ]
+daragela14 checks
+RatherShort bets [$0.05]
+daragela14 calls [$0.05]
+** Summary **
+RatherShort shows [ 4d, 2d ]
+daragela14 mucks [ 6d, As ]
+RatherShort collected [ $0.17 ]
+
+
+#Game No : 500511496
+***** 888poker Hand History for Game 500511496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 14:49:47
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: RatherShort ( $4.64 )
+Seat 6: daragela14 ( $0.97 )
+daragela14 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+daragela14 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 2s, 5s, Ts ]
+RatherShort checks
+daragela14 bets [$0.02]
+RatherShort folds
+** Summary **
+daragela14 collected [ $0.04 ]
+
+
+#Game No : 500511856
+***** 888poker Hand History for Game 500511856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 14:57:21
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: RatherShort ( $4.49 )
+Seat 9: Adrirwin ( $2.91 )
+Adrirwin posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Adrirwin calls [$0.01]
+RatherShort raises [$0.04]
+Adrirwin calls [$0.04]
+** Dealing flop ** [ Kd, 8s, 5h ]
+RatherShort bets [$0.08]
+Adrirwin raises [$0.16]
+RatherShort folds
+** Summary **
+Adrirwin collected [ $0.27 ]
+
+
+#Game No : 500511882
+***** 888poker Hand History for Game 500511882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 14:57:50
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: RatherShort ( $4.35 )
+Seat 9: Adrirwin ( $3.04 )
+RatherShort posts small blind [$0.01]
+Adrirwin posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+Adrirwin collected [ $0.03 ]
+
+

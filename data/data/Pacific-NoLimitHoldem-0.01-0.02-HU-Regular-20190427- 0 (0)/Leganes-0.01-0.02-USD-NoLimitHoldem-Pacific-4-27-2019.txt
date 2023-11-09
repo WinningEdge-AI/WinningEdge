@@ -1,0 +1,119 @@
+#Game No : 176984
+***** 888poker Hand History for Game 176984 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 04 2019 19:29:06
+Table Leganes 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.26 )
+Seat 4: Cimer23 ( $2.90 )
+rustaman76 posts small blind [$0.01]
+Cimer23 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+Cimer23 calls [$0.02]
+** Dealing flop ** [ Qd, 8c, 8d ]
+Cimer23 checks
+rustaman76 bets [$0.05]
+Cimer23 calls [$0.05]
+** Dealing turn ** [ Jc ]
+Cimer23 checks
+rustaman76 checks
+** Dealing river ** [ Th ]
+Cimer23 checks
+rustaman76 bets [$0.12]
+Cimer23 calls [$0.12]
+** Summary **
+rustaman76 shows [ Kh, 9s ]
+Cimer23 mucks [ 5c, Qh ]
+rustaman76 collected [ $0.40 ]
+
+
+#Game No : 176986
+***** 888poker Hand History for Game 176986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 04 2019 19:29:47
+Table Leganes 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.45 )
+Seat 7: fireballfoy ( $0.80 )
+rustaman76 posts small blind [$0.01]
+fireballfoy posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 folds
+** Summary **
+fireballfoy did not show his hand
+fireballfoy collected [ $0.03 ]
+
+
+#Game No : 176987
+***** 888poker Hand History for Game 176987 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 04 2019 19:29:55
+Table Leganes 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.44 )
+Seat 7: fireballfoy ( $0.81 )
+fireballfoy posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+fireballfoy raises [$0.03]
+rustaman76 folds
+** Summary **
+fireballfoy did not show his hand
+fireballfoy collected [ $0.04 ]
+
+
+#Game No : 176989
+***** 888poker Hand History for Game 176989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 04 2019 19:30:24
+Table Leganes 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.42 )
+Seat 7: fireballfoy ( $0.83 )
+rustaman76 posts small blind [$0.01]
+fireballfoy posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+fireballfoy calls [$0.02]
+** Dealing flop ** [ Js, Ks, Kc ]
+fireballfoy bets [$0.02]
+rustaman76 raises [$0.10]
+fireballfoy calls [$0.08]
+** Dealing turn ** [ Td ]
+fireballfoy checks
+rustaman76 bets [$0.18]
+fireballfoy folds
+** Summary **
+rustaman76 did not show his hand
+rustaman76 collected [ $0.27 ]
+
+
+#Game No : 176991
+***** 888poker Hand History for Game 176991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 04 2019 19:31:02
+Table Leganes 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.55 )
+Seat 7: fireballfoy ( $0.69 )
+fireballfoy posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+fireballfoy calls [$0.01]
+rustaman76 checks
+** Dealing flop ** [ 5c, 2c, Tc ]
+rustaman76 checks
+fireballfoy bets [$0.20]
+rustaman76 raises [$0.40]
+fireballfoy calls [$0.20]
+** Dealing turn ** [ 7c ]
+rustaman76 bets [$0.42]
+fireballfoy calls [$0.27]
+** Dealing river ** [ 9c ]
+** Summary **
+rustaman76 shows [ 6c, Ac ]
+fireballfoy shows [ Kc, 4d ]
+rustaman76 collected [ $1.30 ]
+
+

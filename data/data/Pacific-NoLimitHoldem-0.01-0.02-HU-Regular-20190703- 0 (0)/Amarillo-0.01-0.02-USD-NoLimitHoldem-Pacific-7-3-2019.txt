@@ -1,0 +1,74 @@
+#Game No : 621858886
+***** 888poker Hand History for Game 621858886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2019 17:27:10
+Table Amarillo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: vbshka1 ( $1.58 )
+Seat 6: FARTECKIY ( $0.80 )
+FARTECKIY posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+FARTECKIY raises [$0.03]
+vbshka1 folds
+** Summary **
+FARTECKIY did not show his hand
+FARTECKIY collected [ $0.04 ]
+
+
+#Game No : 621858892
+***** 888poker Hand History for Game 621858892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2019 17:27:34
+Table Amarillo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: vbshka1 ( $1.56 )
+Seat 6: FARTECKIY ( $0.82 )
+vbshka1 posts small blind [$0.01]
+FARTECKIY posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 raises [$0.03]
+FARTECKIY calls [$0.02]
+** Dealing flop ** [ 3h, 4h, 4c ]
+FARTECKIY checks
+vbshka1 checks
+** Dealing turn ** [ 8s ]
+FARTECKIY checks
+vbshka1 checks
+** Dealing river ** [ 7d ]
+FARTECKIY checks
+vbshka1 checks
+** Summary **
+FARTECKIY shows [ 9h, 7c ]
+vbshka1 mucks [ Qc, 2c ]
+FARTECKIY collected [ $0.08 ]
+
+
+#Game No : 621858903
+***** 888poker Hand History for Game 621858903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2019 17:28:06
+Table Amarillo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: vbshka1 ( $1.52 )
+Seat 6: FARTECKIY ( $0.86 )
+FARTECKIY posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+FARTECKIY raises [$0.04]
+vbshka1 calls [$0.03]
+** Dealing flop ** [ Jc, 6h, 5s ]
+vbshka1 checks
+FARTECKIY bets [$0.05]
+vbshka1 calls [$0.05]
+** Dealing turn ** [ 3s ]
+vbshka1 checks
+FARTECKIY checks
+** Dealing river ** [ Ts ]
+vbshka1 bets [$0.20]
+FARTECKIY folds
+** Summary **
+vbshka1 did not show his hand
+vbshka1 collected [ $0.19 ]
+
+

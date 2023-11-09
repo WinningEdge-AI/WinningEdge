@@ -1,0 +1,100 @@
+#Game No : 459004296
+***** 888poker Hand History for Game 459004296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2018 22:40:17
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Armata777 ( $1.13 )
+Seat 2: Jangarex ( $1.14 )
+Jangarex posts small blind [$0.01]
+Armata777 posts big blind [$0.02]
+** Dealing down cards **
+Jangarex raises [$0.04]
+Armata777 calls [$0.03]
+** Dealing flop ** [ Jd, 7h, 8c ]
+Armata777 checks
+Jangarex bets [$0.06]
+Armata777 folds
+** Summary **
+Jangarex collected [ $0.10 ]
+
+
+#Game No : 459004300
+***** 888poker Hand History for Game 459004300 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2018 22:40:36
+Table Berkeley 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Armata777 ( $1.08 )
+Seat 2: Jangarex ( $1.19 )
+Armata777 posts small blind [$0.01]
+** Dealing down cards **
+Jangarex folds
+** Summary **
+Armata777 collected [ $0.01 ]
+
+
+#Game No : 459004340
+***** 888poker Hand History for Game 459004340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2018 22:42:30
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Volker1159 ( $1 )
+Seat 9: Kan7t_Wayt ( $7.06 )
+Volker1159 posts small blind [$0.01]
+Kan7t_Wayt posts big blind [$0.02]
+** Dealing down cards **
+Volker1159 raises [$0.03]
+Kan7t_Wayt calls [$0.02]
+** Dealing flop ** [ Jd, Tc, Ks ]
+Kan7t_Wayt bets [$0.05]
+Volker1159 folds
+** Summary **
+Kan7t_Wayt did not show his hand
+Kan7t_Wayt collected [ $0.08 ]
+
+
+#Game No : 459004347
+***** 888poker Hand History for Game 459004347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2018 22:42:45
+Table Berkeley 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Volker1159 ( $0.96 )
+Seat 9: Kan7t_Wayt ( $7.10 )
+Kan7t_Wayt posts small blind [$0.01]
+Volker1159 posts big blind [$0.02]
+** Dealing down cards **
+Kan7t_Wayt raises [$0.95]
+Volker1159 calls [$0.94]
+** Dealing flop ** [ 6d, 2c, Kc ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 4d ]
+** Summary **
+Volker1159 shows [ 5h, Qd ]
+Kan7t_Wayt shows [ Qh, Ac ]
+Kan7t_Wayt collected [ $1.80 ]
+
+
+#Game No : 459004567
+***** 888poker Hand History for Game 459004567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2018 22:55:12
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: AldanShilDim ( $1.90 )
+Seat 6: kingdene ( $1.69 )
+kingdene posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+kingdene calls [$0.01]
+AldanShilDim checks
+** Dealing flop ** [ 2d, Tc, 6s ]
+AldanShilDim checks
+kingdene bets [$0.16]
+AldanShilDim folds
+** Summary **
+kingdene collected [ $0.04 ]
+
+

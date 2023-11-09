@@ -1,0 +1,101 @@
+#Game No : 463002791
+***** 888poker Hand History for Game 463002791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 15:41:11
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: GreenGreeny ( $1.20 )
+Seat 7: PancakePoker ( $0.72 )
+GreenGreeny posts small blind [$0.01]
+PancakePoker posts big blind [$0.02]
+** Dealing down cards **
+GreenGreeny raises [$0.05]
+PancakePoker folds
+** Summary **
+GreenGreeny collected [ $0.04 ]
+
+
+#Game No : 463002850
+***** 888poker Hand History for Game 463002850 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 15:42:32
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: GreenGreeny ( $2.10 )
+Seat 7: PancakePoker ( $0.70 )
+GreenGreeny posts small blind [$0.01]
+PancakePoker posts big blind [$0.02]
+** Dealing down cards **
+GreenGreeny raises [$0.05]
+PancakePoker folds
+** Summary **
+GreenGreeny did not show his hand
+GreenGreeny collected [ $0.04 ]
+
+
+#Game No : 463002864
+***** 888poker Hand History for Game 463002864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 15:42:47
+Table Sochi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: GreenGreeny ( $2.12 )
+Seat 7: PancakePoker ( $0.68 )
+PancakePoker posts small blind [$0.01]
+GreenGreeny posts big blind [$0.02]
+** Dealing down cards **
+PancakePoker raises [$0.05]
+GreenGreeny calls [$0.04]
+** Dealing flop ** [ 7h, Ts, Qc ]
+GreenGreeny checks
+PancakePoker bets [$0.12]
+GreenGreeny folds
+** Summary **
+PancakePoker did not show his hand
+PancakePoker collected [ $0.12 ]
+
+
+#Game No : 463002882
+***** 888poker Hand History for Game 463002882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 15:43:17
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: GreenGreeny ( $2.06 )
+Seat 7: PancakePoker ( $0.74 )
+GreenGreeny posts small blind [$0.01]
+PancakePoker posts big blind [$0.02]
+** Dealing down cards **
+GreenGreeny calls [$0.01]
+PancakePoker checks
+** Dealing flop ** [ 8h, 6c, 9c ]
+PancakePoker bets [$0.04]
+GreenGreeny calls [$0.04]
+** Dealing turn ** [ 4h ]
+PancakePoker checks
+GreenGreeny checks
+** Dealing river ** [ Qs ]
+PancakePoker checks
+GreenGreeny checks
+** Summary **
+PancakePoker shows [ 9h, 5c ]
+GreenGreeny mucks [ Kh, 7d ]
+PancakePoker collected [ $0.12 ]
+
+
+#Game No : 463002920
+***** 888poker Hand History for Game 463002920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 15:44:10
+Table Sochi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: GreenGreeny ( $2 )
+Seat 7: PancakePoker ( $0.80 )
+PancakePoker posts small blind [$0.01]
+GreenGreeny posts big blind [$0.02]
+** Dealing down cards **
+PancakePoker folds
+** Summary **
+GreenGreeny collected [ $0.03 ]
+
+

@@ -1,0 +1,70 @@
+#Game No : 1274476863
+***** 888poker Hand History for Game 1274476863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 11:31:50
+Table Coslada 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: VIKTORGAJDAR ( $0.80 )
+Seat 4: dmitb ( $1 )
+dmitb posts small blind [$0.01]
+VIKTORGAJDAR posts big blind [$0.02]
+** Dealing down cards **
+dmitb raises [$0.05]
+VIKTORGAJDAR folds
+** Summary **
+dmitb did not show his hand
+dmitb collected [ $0.04 ]
+
+
+#Game No : 1274476892
+***** 888poker Hand History for Game 1274476892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 11:31:59
+Table Coslada 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: VIKTORGAJDAR ( $0.78 )
+Seat 4: dmitb ( $1.02 )
+VIKTORGAJDAR posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+VIKTORGAJDAR calls [$0.01]
+dmitb checks
+** Dealing flop ** [ 5h, Qc, 4d ]
+dmitb checks
+VIKTORGAJDAR checks
+** Dealing turn ** [ 9c ]
+dmitb checks
+VIKTORGAJDAR bets [$0.04]
+dmitb folds
+** Summary **
+VIKTORGAJDAR did not show his hand
+VIKTORGAJDAR collected [ $0.04 ]
+
+
+#Game No : 1274477043
+***** 888poker Hand History for Game 1274477043 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 11:32:47
+Table Coslada 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: VIKTORGAJDAR ( $0.80 )
+Seat 4: dmitb ( $1 )
+dmitb posts small blind [$0.01]
+VIKTORGAJDAR posts big blind [$0.02]
+** Dealing down cards **
+dmitb calls [$0.01]
+VIKTORGAJDAR checks
+** Dealing flop ** [ Ks, 6c, 5c ]
+VIKTORGAJDAR checks
+dmitb checks
+** Dealing turn ** [ 4c ]
+VIKTORGAJDAR checks
+dmitb checks
+** Dealing river ** [ Kc ]
+VIKTORGAJDAR checks
+dmitb bets [$0.03]
+VIKTORGAJDAR folds
+** Summary **
+dmitb collected [ $0.04 ]
+
+

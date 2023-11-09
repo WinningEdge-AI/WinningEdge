@@ -1,0 +1,45 @@
+#Game No : 1212183582
+***** 888poker Hand History for Game 1212183582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 11:40:17
+Table Tilburg 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: makklaudi ( $2.02 )
+Seat 10: rici4214 ( $2.05 )
+rici4214 posts small blind [$0.01]
+makklaudi posts big blind [$0.02]
+** Dealing down cards **
+rici4214 calls [$0.01]
+makklaudi checks
+** Dealing flop ** [ 2h, 8s, 4h ]
+makklaudi checks
+rici4214 bets [$0.04]
+makklaudi calls [$0.04]
+** Dealing turn ** [ 5h ]
+makklaudi bets [$0.06]
+rici4214 calls [$0.06]
+** Dealing river ** [ Ah ]
+makklaudi bets [$0.16]
+rici4214 calls [$0.16]
+** Summary **
+makklaudi shows [ 9h, 4s ]
+rici4214 mucks [ 8c, 3c ]
+makklaudi collected [ $0.53 ]
+
+
+#Game No : 1212183957
+***** 888poker Hand History for Game 1212183957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 11:41:36
+Table Tilburg 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: makklaudi ( $2.27 )
+Seat 10: rici4214 ( $2 )
+makklaudi posts small blind [$0.01]
+** Dealing down cards **
+rici4214 folds
+** Summary **
+makklaudi did not show his hand
+makklaudi collected [ $0.01 ]
+
+

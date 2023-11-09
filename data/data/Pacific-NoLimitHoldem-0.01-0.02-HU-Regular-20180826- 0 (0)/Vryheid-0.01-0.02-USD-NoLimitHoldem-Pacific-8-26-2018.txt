@@ -1,0 +1,153 @@
+#Game No : 509616453
+***** 888poker Hand History for Game 509616453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:42:50
+Table Vryheid 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ShipPunisher ( $2 )
+Seat 4: tataha ( $0.80 )
+ShipPunisher posts small blind [$0.01]
+tataha posts big blind [$0.02]
+** Dealing down cards **
+ShipPunisher calls [$0.01]
+tataha checks
+** Dealing flop ** [ 5s, Kh, Tc ]
+tataha checks
+ShipPunisher checks
+** Dealing turn ** [ 7c ]
+tataha checks
+ShipPunisher checks
+** Dealing river ** [ Ah ]
+tataha checks
+ShipPunisher checks
+** Summary **
+tataha shows [ 6h, 2c ]
+ShipPunisher shows [ 9c, 3c ]
+ShipPunisher collected [ $0.04 ]
+
+
+#Game No : 509616749
+***** 888poker Hand History for Game 509616749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:47:16
+Table Vryheid 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Vladimir_Pv ( $0.80 )
+Seat 5: Strelok34 ( $1.92 )
+Strelok34 posts small blind [$0.01]
+Vladimir_Pv posts big blind [$0.02]
+** Dealing down cards **
+Strelok34 calls [$0.01]
+Vladimir_Pv checks
+** Dealing flop ** [ Qs, As, 9s ]
+Vladimir_Pv checks
+Strelok34 checks
+** Dealing turn ** [ 3c ]
+Vladimir_Pv checks
+Strelok34 checks
+** Dealing river ** [ 5c ]
+Vladimir_Pv bets [$0.02]
+Strelok34 folds
+** Summary **
+Vladimir_Pv did not show his hand
+Vladimir_Pv collected [ $0.04 ]
+
+
+#Game No : 509616775
+***** 888poker Hand History for Game 509616775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:47:40
+Table Vryheid 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Vladimir_Pv ( $0.82 )
+Seat 5: Strelok34 ( $1.90 )
+Vladimir_Pv posts small blind [$0.01]
+Strelok34 posts big blind [$0.02]
+** Dealing down cards **
+Vladimir_Pv calls [$0.01]
+Strelok34 checks
+** Dealing flop ** [ Qh, Ac, 8c ]
+Strelok34 checks
+Vladimir_Pv checks
+** Dealing turn ** [ 7h ]
+Strelok34 checks
+Vladimir_Pv checks
+** Dealing river ** [ 7c ]
+Strelok34 checks
+Vladimir_Pv checks
+** Summary **
+Strelok34 shows [ 5c, 6s ]
+Vladimir_Pv shows [ Jc, Qs ]
+Vladimir_Pv collected [ $0.04 ]
+
+
+#Game No : 509616798
+***** 888poker Hand History for Game 509616798 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:48:07
+Table Vryheid 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Vladimir_Pv ( $0.84 )
+Seat 5: Strelok34 ( $1.88 )
+Strelok34 posts small blind [$0.01]
+Vladimir_Pv posts big blind [$0.02]
+** Dealing down cards **
+Strelok34 calls [$0.01]
+Vladimir_Pv checks
+** Dealing flop ** [ 2h, 5h, 8h ]
+Vladimir_Pv checks
+Strelok34 checks
+** Dealing turn ** [ Qs ]
+Vladimir_Pv checks
+Strelok34 checks
+** Dealing river ** [ Ts ]
+Vladimir_Pv checks
+Strelok34 bets [$0.04]
+Vladimir_Pv folds
+** Summary **
+Strelok34 did not show his hand
+Strelok34 collected [ $0.04 ]
+
+
+#Game No : 509616818
+***** 888poker Hand History for Game 509616818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:48:32
+Table Vryheid 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Vladimir_Pv ( $0.82 )
+Seat 5: Strelok34 ( $1.90 )
+Vladimir_Pv posts small blind [$0.01]
+Strelok34 posts big blind [$0.02]
+** Dealing down cards **
+Vladimir_Pv calls [$0.01]
+Strelok34 checks
+** Dealing flop ** [ Jd, 6c, Kh ]
+Strelok34 bets [$0.02]
+Vladimir_Pv folds
+** Summary **
+Strelok34 did not show his hand
+Strelok34 collected [ $0.04 ]
+
+
+#Game No : 509616830
+***** 888poker Hand History for Game 509616830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:48:47
+Table Vryheid 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Vladimir_Pv ( $0.80 )
+Seat 5: Strelok34 ( $1.92 )
+Strelok34 posts small blind [$0.01]
+Vladimir_Pv posts big blind [$0.02]
+** Dealing down cards **
+Strelok34 raises [$0.03]
+Vladimir_Pv calls [$0.02]
+** Dealing flop ** [ 5h, 7s, Kd ]
+Vladimir_Pv checks
+Strelok34 bets [$0.08]
+Vladimir_Pv folds
+** Summary **
+Strelok34 collected [ $0.08 ]
+
+

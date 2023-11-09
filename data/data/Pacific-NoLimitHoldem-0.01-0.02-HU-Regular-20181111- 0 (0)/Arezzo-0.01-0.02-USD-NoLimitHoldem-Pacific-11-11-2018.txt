@@ -1,0 +1,622 @@
+#Game No : 505181672
+***** 888poker Hand History for Game 505181672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:42:49
+Table Arezzo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: r0me00 ( $3.82 )
+Seat 9: Ki55_my_Ace ( $1.02 )
+r0me00 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+r0me00 folds
+** Summary **
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 505181679
+***** 888poker Hand History for Game 505181679 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:43:00
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: r0me00 ( $3.81 )
+Seat 9: Ki55_my_Ace ( $1.03 )
+Ki55_my_Ace posts small blind [$0.01]
+** Dealing down cards **
+r0me00 folds
+** Summary **
+Ki55_my_Ace collected [ $0.01 ]
+
+
+#Game No : 505181710
+***** 888poker Hand History for Game 505181710 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:44:38
+Table Arezzo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: kiilcwb ( $0.80 )
+Seat 9: Ki55_my_Ace ( $1.03 )
+kiilcwb posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+kiilcwb calls [$0.01]
+Ki55_my_Ace checks
+** Dealing flop ** [ As, 8s, 6c ]
+Ki55_my_Ace checks
+kiilcwb bets [$0.08]
+Ki55_my_Ace folds
+** Summary **
+kiilcwb collected [ $0.04 ]
+
+
+#Game No : 505181723
+***** 888poker Hand History for Game 505181723 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:45:06
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: kiilcwb ( $0.82 )
+Seat 9: Ki55_my_Ace ( $1.01 )
+Ki55_my_Ace posts small blind [$0.01]
+kiilcwb posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.03]
+kiilcwb calls [$0.02]
+** Dealing flop ** [ 9c, 6c, Ts ]
+kiilcwb checks
+Ki55_my_Ace checks
+** Dealing turn ** [ 2h ]
+kiilcwb bets [$0.02]
+Ki55_my_Ace calls [$0.02]
+** Dealing river ** [ Qd ]
+kiilcwb checks
+Ki55_my_Ace checks
+** Summary **
+kiilcwb shows [ 5s, 8d ]
+Ki55_my_Ace shows [ 6h, 3s ]
+Ki55_my_Ace collected [ $0.12 ]
+
+
+#Game No : 505181738
+***** 888poker Hand History for Game 505181738 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:45:48
+Table Arezzo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: kiilcwb ( $0.76 )
+Seat 9: Ki55_my_Ace ( $1.07 )
+kiilcwb posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+kiilcwb calls [$0.01]
+Ki55_my_Ace checks
+** Dealing flop ** [ 2h, Ah, 3h ]
+Ki55_my_Ace checks
+kiilcwb bets [$0.02]
+Ki55_my_Ace folds
+** Summary **
+kiilcwb collected [ $0.04 ]
+
+
+#Game No : 505181745
+***** 888poker Hand History for Game 505181745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:46:04
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: kiilcwb ( $0.78 )
+Seat 9: Ki55_my_Ace ( $1.05 )
+Ki55_my_Ace posts small blind [$0.01]
+kiilcwb posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace folds
+** Summary **
+kiilcwb collected [ $0.03 ]
+
+
+#Game No : 505181748
+***** 888poker Hand History for Game 505181748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:46:14
+Table Arezzo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: kiilcwb ( $0.79 )
+Seat 9: Ki55_my_Ace ( $1.04 )
+kiilcwb posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+kiilcwb raises [$0.03]
+Ki55_my_Ace folds
+** Summary **
+kiilcwb collected [ $0.04 ]
+
+
+#Game No : 505181759
+***** 888poker Hand History for Game 505181759 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:46:39
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: kiilcwb ( $0.81 )
+Seat 9: Ki55_my_Ace ( $1.02 )
+Ki55_my_Ace posts small blind [$0.01]
+kiilcwb posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.03]
+kiilcwb calls [$0.02]
+** Dealing flop ** [ 9d, Ks, 7s ]
+kiilcwb checks
+Ki55_my_Ace checks
+** Dealing turn ** [ 4c ]
+kiilcwb checks
+Ki55_my_Ace checks
+** Dealing river ** [ 2d ]
+kiilcwb checks
+Ki55_my_Ace bets [$0.05]
+kiilcwb calls [$0.05]
+** Summary **
+Ki55_my_Ace shows [ 8d, 7h ]
+kiilcwb mucks [ 3h, 4d ]
+Ki55_my_Ace collected [ $0.17 ]
+
+
+#Game No : 505181805
+***** 888poker Hand History for Game 505181805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:48:34
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: kiilcwb ( $0.78 )
+Seat 9: Ki55_my_Ace ( $1.04 )
+Ki55_my_Ace posts small blind [$0.01]
+kiilcwb posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace folds
+** Summary **
+kiilcwb collected [ $0.03 ]
+
+
+#Game No : 505181860
+***** 888poker Hand History for Game 505181860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:50:25
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Di99999 ( $1.62 )
+Seat 9: Ki55_my_Ace ( $1 )
+Ki55_my_Ace posts small blind [$0.01]
+Di99999 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace folds
+** Summary **
+Di99999 collected [ $0.03 ]
+
+
+#Game No : 505181867
+***** 888poker Hand History for Game 505181867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:50:35
+Table Arezzo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Di99999 ( $1.63 )
+Seat 9: Ki55_my_Ace ( $1 )
+Di99999 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+Di99999 calls [$0.01]
+Ki55_my_Ace checks
+** Dealing flop ** [ 7h, Qd, Qh ]
+Ki55_my_Ace checks
+Di99999 bets [$0.04]
+Ki55_my_Ace folds
+** Summary **
+Di99999 collected [ $0.04 ]
+
+
+#Game No : 505181882
+***** 888poker Hand History for Game 505181882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:51:12
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Di99999 ( $1.65 )
+Seat 9: Ki55_my_Ace ( $1 )
+Ki55_my_Ace posts small blind [$0.01]
+Di99999 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace folds
+** Summary **
+Di99999 collected [ $0.03 ]
+
+
+#Game No : 505181901
+***** 888poker Hand History for Game 505181901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 18:52:06
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: CanadaQ14 ( $0.80 )
+Seat 9: Ki55_my_Ace ( $1 )
+Ki55_my_Ace posts small blind [$0.01]
+** Dealing down cards **
+CanadaQ14 folds
+** Summary **
+Ki55_my_Ace collected [ $0.01 ]
+
+
+#Game No : 505187720
+***** 888poker Hand History for Game 505187720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 23:28:08
+Table Arezzo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sweetaon ( $1.53 )
+Seat 7: elec_7773 ( $1 )
+sweetaon posts small blind [$0.01]
+** Dealing down cards **
+elec_7773 folds
+** Summary **
+sweetaon collected [ $0.01 ]
+
+
+#Game No : 505187728
+***** 888poker Hand History for Game 505187728 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 23:28:16
+Table Arezzo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sweetaon ( $1.53 )
+Seat 9: Bitjay ( $1 )
+sweetaon posts small blind [$0.01]
+Bitjay posts big blind [$0.02]
+** Dealing down cards **
+sweetaon raises [$0.05]
+Bitjay calls [$0.04]
+** Dealing flop ** [ 7s, 3d, 2s ]
+Bitjay checks
+sweetaon bets [$0.09]
+Bitjay folds
+** Summary **
+sweetaon collected [ $0.12 ]
+
+
+#Game No : 505187737
+***** 888poker Hand History for Game 505187737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 23:28:35
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: sweetaon ( $1.59 )
+Seat 9: Bitjay ( $0.94 )
+Bitjay posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+Bitjay raises [$0.03]
+sweetaon raises [$0.12]
+Bitjay raises [$0.90]
+sweetaon folds
+** Summary **
+Bitjay collected [ $0.28 ]
+
+
+#Game No : 505187752
+***** 888poker Hand History for Game 505187752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 23:28:57
+Table Arezzo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sweetaon ( $1.45 )
+Seat 9: Bitjay ( $1.08 )
+sweetaon posts small blind [$0.01]
+Bitjay posts big blind [$0.02]
+** Dealing down cards **
+sweetaon raises [$0.05]
+Bitjay calls [$0.04]
+** Dealing flop ** [ 2d, 2c, 6s ]
+Bitjay checks
+sweetaon bets [$0.09]
+Bitjay raises [$0.24]
+sweetaon folds
+** Summary **
+Bitjay collected [ $0.29 ]
+
+
+#Game No : 505187763
+***** 888poker Hand History for Game 505187763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 23:29:15
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: sweetaon ( $1.30 )
+Seat 9: Bitjay ( $1.22 )
+Bitjay posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+Bitjay raises [$0.03]
+sweetaon raises [$0.12]
+Bitjay calls [$0.10]
+** Dealing flop ** [ 6s, 7c, Js ]
+sweetaon bets [$0.20]
+Bitjay folds
+** Summary **
+sweetaon collected [ $0.27 ]
+
+
+#Game No : 505187772
+***** 888poker Hand History for Game 505187772 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 23:29:29
+Table Arezzo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sweetaon ( $1.43 )
+Seat 9: Bitjay ( $1.08 )
+sweetaon posts small blind [$0.01]
+Bitjay posts big blind [$0.02]
+** Dealing down cards **
+sweetaon raises [$0.05]
+Bitjay calls [$0.04]
+** Dealing flop ** [ 8c, 7h, 7d ]
+Bitjay checks
+sweetaon bets [$0.09]
+Bitjay calls [$0.09]
+** Dealing turn ** [ 8d ]
+Bitjay checks
+sweetaon checks
+** Dealing river ** [ 7c ]
+Bitjay checks
+sweetaon checks
+** Summary **
+Bitjay shows [ 6s, 5c ]
+sweetaon shows [ Kc, Jc ]
+Bitjay collected [ $0.15 ]
+sweetaon collected [ $0.14 ]
+
+
+#Game No : 505189820
+***** 888poker Hand History for Game 505189820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 00:49:35
+Table Arezzo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: sweetaon ( $1 )
+Seat 4: iks2s ( $1.33 )
+iks2s posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+sweetaon folds
+** Summary **
+iks2s collected [ $0.04 ]
+
+
+#Game No : 505204734
+***** 888poker Hand History for Game 505204734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 07:03:47
+Table Arezzo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Himerios ( $2.60 )
+Seat 9: SlikvsSlik ( $1.01 )
+Himerios posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+Himerios folds
+** Summary **
+SlikvsSlik collected [ $0.03 ]
+
+
+#Game No : 505204739
+***** 888poker Hand History for Game 505204739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 07:03:52
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Himerios ( $2.59 )
+Seat 9: SlikvsSlik ( $1.02 )
+SlikvsSlik posts small blind [$0.01]
+** Dealing down cards **
+Himerios folds
+** Summary **
+SlikvsSlik collected [ $0.01 ]
+
+
+#Game No : 505208881
+***** 888poker Hand History for Game 505208881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 08:28:27
+Table Arezzo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: watchyerback ( $0.82 )
+Seat 7: everyme77 ( $1.51 )
+watchyerback posts small blind [$0.01]
+everyme77 posts big blind [$0.02]
+** Dealing down cards **
+watchyerback calls [$0.01]
+everyme77 raises [$0.04]
+watchyerback folds
+** Summary **
+everyme77 collected [ $0.04 ]
+
+
+#Game No : 505208892
+***** 888poker Hand History for Game 505208892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 08:28:41
+Table Arezzo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: watchyerback ( $0.80 )
+Seat 7: everyme77 ( $1.53 )
+everyme77 posts small blind [$0.01]
+watchyerback posts big blind [$0.02]
+** Dealing down cards **
+everyme77 calls [$0.01]
+watchyerback checks
+** Dealing flop ** [ Qs, 4s, Jd ]
+watchyerback checks
+everyme77 checks
+** Dealing turn ** [ 6h ]
+watchyerback checks
+everyme77 checks
+** Dealing river ** [ Ad ]
+watchyerback checks
+everyme77 checks
+** Summary **
+watchyerback shows [ 8c, 9d ]
+everyme77 shows [ 8h, As ]
+everyme77 collected [ $0.04 ]
+
+
+#Game No : 505215125
+***** 888poker Hand History for Game 505215125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 10:12:17
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Andryufan ( $1.01 )
+Seat 9: BobsDadWard ( $1.36 )
+BobsDadWard posts small blind [$0.01]
+Andryufan posts big blind [$0.02]
+** Dealing down cards **
+BobsDadWard folds
+** Summary **
+Andryufan collected [ $0.03 ]
+
+
+#Game No : 505215229
+***** 888poker Hand History for Game 505215229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 10:13:40
+Table Arezzo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Andryufan ( $1.11 )
+Seat 4: Ivan4950 ( $0.80 )
+Andryufan posts small blind [$0.01]
+Ivan4950 posts big blind [$0.02]
+** Dealing down cards **
+Andryufan raises [$0.05]
+Ivan4950 raises [$0.08]
+Andryufan calls [$0.04]
+** Dealing flop ** [ 9c, 2d, 4s ]
+Ivan4950 bets [$0.13]
+Andryufan folds
+** Summary **
+Ivan4950 collected [ $0.19 ]
+
+
+#Game No : 505215263
+***** 888poker Hand History for Game 505215263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 10:14:05
+Table Arezzo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Andryufan ( $1.01 )
+Seat 4: Ivan4950 ( $0.89 )
+Ivan4950 posts small blind [$0.01]
+** Dealing down cards **
+Andryufan folds
+** Summary **
+Ivan4950 collected [ $0.01 ]
+
+
+#Game No : 505215269
+***** 888poker Hand History for Game 505215269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 10:14:08
+Table Arezzo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Ivan4950 ( $0.89 )
+Seat 7: Fehu34199 ( $0.80 )
+Ivan4950 posts small blind [$0.01]
+** Dealing down cards **
+Fehu34199 folds
+** Summary **
+Ivan4950 collected [ $0.01 ]
+
+
+#Game No : 505215279
+***** 888poker Hand History for Game 505215279 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 10:14:15
+Table Arezzo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Ivan4950 ( $0.89 )
+Seat 7: Fehu34199 ( $0.80 )
+Ivan4950 posts small blind [$0.01]
+Fehu34199 posts big blind [$0.02]
+** Dealing down cards **
+Ivan4950 raises [$0.03]
+Fehu34199 calls [$0.02]
+** Dealing flop ** [ 3h, Qs, 2h ]
+Fehu34199 checks
+Ivan4950 checks
+** Dealing turn ** [ 8d ]
+Fehu34199 checks
+Ivan4950 bets [$0.02]
+Fehu34199 calls [$0.02]
+** Dealing river ** [ Qh ]
+Fehu34199 checks
+Ivan4950 checks
+** Summary **
+Fehu34199 shows [ 3d, 7d ]
+Ivan4950 shows [ 8c, 7c ]
+Ivan4950 collected [ $0.12 ]
+
+
+#Game No : 505217008
+***** 888poker Hand History for Game 505217008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 10:37:47
+Table Arezzo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.64 )
+Seat 4: Ivan4950 ( $0.83 )
+salsal74 posts small blind [$0.01]
+Ivan4950 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+Ivan4950 collected [ $0.03 ]
+
+
+#Game No : 505217025
+***** 888poker Hand History for Game 505217025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 10:38:03
+Table Arezzo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.63 )
+Seat 4: Ivan4950 ( $0.84 )
+salsal74 posts small blind [$0.01]
+Ivan4950 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+Ivan4950 collected [ $0.03 ]
+
+
+#Game No : 505217029
+***** 888poker Hand History for Game 505217029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 11 2018 10:38:09
+Table Arezzo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.62 )
+Seat 4: Ivan4950 ( $0.85 )
+Ivan4950 posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+Ivan4950 raises [$0.03]
+salsal74 calls [$0.02]
+** Dealing flop ** [ Qs, Ts, 6s ]
+salsal74 checks
+Ivan4950 bets [$0.08]
+salsal74 calls [$0.08]
+** Dealing turn ** [ Th ]
+salsal74 checks
+Ivan4950 bets [$0.16]
+salsal74 folds
+** Summary **
+Ivan4950 collected [ $0.23 ]
+
+

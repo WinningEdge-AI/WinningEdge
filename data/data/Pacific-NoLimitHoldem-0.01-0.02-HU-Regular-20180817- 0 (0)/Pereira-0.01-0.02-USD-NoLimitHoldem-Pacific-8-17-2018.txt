@@ -1,0 +1,397 @@
+#Game No : 501015219
+***** 888poker Hand History for Game 501015219 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 08:23:52
+Table Pereira 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Chuksa ( $2.17 )
+Seat 7: sh.s.o ( $1.07 )
+Chuksa posts small blind [$0.01]
+sh.s.o posts big blind [$0.02]
+** Dealing down cards **
+Chuksa folds
+** Summary **
+sh.s.o did not show his hand
+sh.s.o collected [ $0.03 ]
+
+
+#Game No : 501015230
+***** 888poker Hand History for Game 501015230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 08:24:01
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Chuksa ( $2.16 )
+Seat 7: sh.s.o ( $1.08 )
+sh.s.o posts small blind [$0.01]
+Chuksa posts big blind [$0.02]
+** Dealing down cards **
+sh.s.o raises [$0.05]
+Chuksa calls [$0.04]
+** Dealing flop ** [ 8h, 9s, Qh ]
+Chuksa checks
+sh.s.o bets [$0.09]
+Chuksa calls [$0.09]
+** Dealing turn ** [ 5d ]
+Chuksa checks
+sh.s.o checks
+** Dealing river ** [ Kh ]
+Chuksa checks
+sh.s.o checks
+** Summary **
+Chuksa shows [ Kd, Jc ]
+sh.s.o mucks [ Ad, Jd ]
+Chuksa collected [ $0.29 ]
+
+
+#Game No : 501015252
+***** 888poker Hand History for Game 501015252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 08:24:30
+Table Pereira 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Chuksa ( $2.30 )
+Seat 7: sh.s.o ( $1 )
+Chuksa posts small blind [$0.01]
+** Dealing down cards **
+sh.s.o folds
+** Summary **
+Chuksa did not show his hand
+Chuksa collected [ $0.01 ]
+
+
+#Game No : 501019697
+***** 888poker Hand History for Game 501019697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 10:01:19
+Table Pereira 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: richbranson ( $1.14 )
+Seat 2: Vldmr963 ( $1.04 )
+Vldmr963 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Vldmr963 calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Kh, Th, 9h ]
+richbranson checks
+Vldmr963 checks
+** Dealing turn ** [ 6h ]
+richbranson bets [$0.04]
+Vldmr963 calls [$0.04]
+** Dealing river ** [ 8c ]
+richbranson bets [$0.08]
+Vldmr963 calls [$0.08]
+** Summary **
+richbranson shows [ 5s, 2h ]
+Vldmr963 shows [ 4s, 5h ]
+Vldmr963 collected [ $0.27 ]
+
+
+#Game No : 501026674
+***** 888poker Hand History for Game 501026674 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 12:13:07
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1.05 )
+Seat 7: Imurpokergod ( $1.43 )
+Imurpokergod posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Imurpokergod raises [$0.05]
+RatherShort folds
+** Summary **
+Imurpokergod collected [ $0.04 ]
+
+
+#Game No : 501026685
+***** 888poker Hand History for Game 501026685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 12:13:16
+Table Pereira 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1.03 )
+Seat 7: Imurpokergod ( $1.45 )
+RatherShort posts small blind [$0.01]
+Imurpokergod posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+Imurpokergod collected [ $0.03 ]
+
+
+#Game No : 501026696
+***** 888poker Hand History for Game 501026696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 12:13:28
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1.02 )
+Seat 7: Imurpokergod ( $1.46 )
+Imurpokergod posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Imurpokergod raises [$0.05]
+RatherShort folds
+** Summary **
+Imurpokergod collected [ $0.04 ]
+
+
+#Game No : 501026710
+***** 888poker Hand History for Game 501026710 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 12:13:39
+Table Pereira 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1 )
+Seat 7: Imurpokergod ( $1.48 )
+RatherShort posts small blind [$0.01]
+Imurpokergod posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+Imurpokergod collected [ $0.03 ]
+
+
+#Game No : 501026724
+***** 888poker Hand History for Game 501026724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 12:13:53
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1 )
+Seat 7: Imurpokergod ( $1.49 )
+Imurpokergod posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Imurpokergod folds
+** Summary **
+RatherShort collected [ $0.03 ]
+
+
+#Game No : 501026733
+***** 888poker Hand History for Game 501026733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 12:13:58
+Table Pereira 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1.01 )
+Seat 7: Imurpokergod ( $1.48 )
+RatherShort posts small blind [$0.01]
+Imurpokergod posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+Imurpokergod collected [ $0.03 ]
+
+
+#Game No : 501034223
+***** 888poker Hand History for Game 501034223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 14:37:49
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1.01 )
+Seat 7: CloudzLoudz ( $2.66 )
+CloudzLoudz posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+CloudzLoudz calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ Qd, 7h, Td ]
+RatherShort checks
+CloudzLoudz bets [$0.04]
+RatherShort folds
+** Summary **
+CloudzLoudz collected [ $0.04 ]
+
+
+#Game No : 501034255
+***** 888poker Hand History for Game 501034255 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 14:38:24
+Table Pereira 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1 )
+Seat 7: CloudzLoudz ( $2.68 )
+RatherShort posts small blind [$0.01]
+CloudzLoudz posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.05]
+CloudzLoudz folds
+** Summary **
+RatherShort collected [ $0.04 ]
+
+
+#Game No : 501034312
+***** 888poker Hand History for Game 501034312 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 14:39:36
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1 )
+Seat 4: faurr373 ( $1.12 )
+faurr373 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+faurr373 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 4s, 2d, 9d ]
+RatherShort checks
+faurr373 checks
+** Dealing turn ** [ 6h ]
+RatherShort checks
+faurr373 bets [$0.02]
+RatherShort folds
+** Summary **
+faurr373 collected [ $0.04 ]
+
+
+#Game No : 501037364
+***** 888poker Hand History for Game 501037364 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 15:49:54
+Table Pereira 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BHCAD ( $1.14 )
+Seat 9: PfisterM ( $1 )
+PfisterM posts small blind [$0.01]
+BHCAD posts big blind [$0.02]
+** Dealing down cards **
+PfisterM folds
+** Summary **
+BHCAD collected [ $0.03 ]
+
+
+#Game No : 501037368
+***** 888poker Hand History for Game 501037368 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 15:50:07
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: BHCAD ( $1.15 )
+Seat 9: PfisterM ( $0.99 )
+BHCAD posts small blind [$0.01]
+PfisterM posts big blind [$0.02]
+** Dealing down cards **
+BHCAD folds
+** Summary **
+PfisterM collected [ $0.03 ]
+
+
+#Game No : 501037372
+***** 888poker Hand History for Game 501037372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 15:50:16
+Table Pereira 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BHCAD ( $1.14 )
+Seat 9: PfisterM ( $1 )
+PfisterM posts small blind [$0.01]
+BHCAD posts big blind [$0.02]
+** Dealing down cards **
+PfisterM folds
+** Summary **
+BHCAD collected [ $0.03 ]
+
+
+#Game No : 501037376
+***** 888poker Hand History for Game 501037376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 15:50:24
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: BHCAD ( $1.15 )
+Seat 9: PfisterM ( $0.99 )
+BHCAD posts small blind [$0.01]
+PfisterM posts big blind [$0.02]
+** Dealing down cards **
+BHCAD raises [$0.05]
+PfisterM folds
+** Summary **
+BHCAD collected [ $0.04 ]
+
+
+#Game No : 501037404
+***** 888poker Hand History for Game 501037404 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 15:50:50
+Table Pereira 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BHCAD ( $1.17 )
+Seat 9: PfisterM ( $0.97 )
+PfisterM posts small blind [$0.01]
+BHCAD posts big blind [$0.02]
+** Dealing down cards **
+PfisterM calls [$0.01]
+BHCAD checks
+** Dealing flop ** [ 2d, Qd, Kh ]
+BHCAD checks
+PfisterM checks
+** Dealing turn ** [ Kc ]
+BHCAD checks
+PfisterM checks
+** Dealing river ** [ Jh ]
+BHCAD checks
+PfisterM checks
+** Summary **
+BHCAD shows [ 4c, 9s ]
+PfisterM mucks [ 5c, 3d ]
+BHCAD collected [ $0.04 ]
+
+
+#Game No : 501037442
+***** 888poker Hand History for Game 501037442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 15:51:42
+Table Pereira 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BHCAD ( $1.20 )
+Seat 9: PfisterM ( $0.94 )
+PfisterM posts small blind [$0.01]
+BHCAD posts big blind [$0.02]
+** Dealing down cards **
+PfisterM calls [$0.01]
+BHCAD checks
+** Dealing flop ** [ 5c, 3c, Ts ]
+BHCAD bets [$0.04]
+PfisterM calls [$0.04]
+** Dealing turn ** [ Jd ]
+BHCAD checks
+PfisterM checks
+** Dealing river ** [ Qd ]
+BHCAD bets [$0.04]
+PfisterM folds
+** Summary **
+BHCAD collected [ $0.12 ]
+
+
+#Game No : 501037520
+***** 888poker Hand History for Game 501037520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 15:53:57
+Table Pereira 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BHCAD ( $1.97 )
+Seat 9: PfisterM ( $0.87 )
+PfisterM posts small blind [$0.01]
+BHCAD posts big blind [$0.02]
+** Dealing down cards **
+PfisterM calls [$0.01]
+BHCAD checks
+** Dealing flop ** [ 3s, As, 2c ]
+BHCAD checks
+PfisterM checks
+** Dealing turn ** [ 8d ]
+BHCAD checks
+PfisterM checks
+** Dealing river ** [ Ah ]
+BHCAD checks
+PfisterM checks
+** Summary **
+BHCAD shows [ 3c, Kd ]
+PfisterM mucks [ Qh, 4h ]
+BHCAD collected [ $0.04 ]
+
+

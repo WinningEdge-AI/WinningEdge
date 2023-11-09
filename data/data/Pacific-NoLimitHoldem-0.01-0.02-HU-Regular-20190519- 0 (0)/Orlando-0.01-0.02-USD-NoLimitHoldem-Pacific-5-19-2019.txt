@@ -1,0 +1,47 @@
+#Game No : 1268719208
+***** 888poker Hand History for Game 1268719208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 18:01:05
+Table Orlando 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AceVigilante ( $2.07 )
+Seat 2: Kazah72 ( $1.42 )
+AceVigilante posts small blind [$0.01]
+Kazah72 posts big blind [$0.02]
+** Dealing down cards **
+AceVigilante calls [$0.01]
+Kazah72 checks
+** Dealing flop ** [ 4c, Qc, 3c ]
+Kazah72 bets [$0.02]
+AceVigilante folds
+** Summary **
+Kazah72 did not show his hand
+Kazah72 collected [ $0.04 ]
+
+
+#Game No : 1268719469
+***** 888poker Hand History for Game 1268719469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 18:03:51
+Table Orlando 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AceVigilante ( $2.06 )
+Seat 2: Kazah72 ( $1.42 )
+Kazah72 posts small blind [$0.01]
+AceVigilante posts big blind [$0.02]
+** Dealing down cards **
+Kazah72 calls [$0.01]
+AceVigilante checks
+** Dealing flop ** [ Ah, Th, 6s ]
+AceVigilante checks
+Kazah72 checks
+** Dealing turn ** [ 9h ]
+AceVigilante bets [$0.02]
+Kazah72 calls [$0.02]
+** Dealing river ** [ Qs ]
+AceVigilante bets [$0.08]
+Kazah72 folds
+** Summary **
+AceVigilante collected [ $0.08 ]
+
+

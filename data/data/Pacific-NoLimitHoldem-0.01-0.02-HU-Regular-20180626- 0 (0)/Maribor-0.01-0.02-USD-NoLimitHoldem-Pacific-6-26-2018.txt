@@ -1,0 +1,485 @@
+#Game No : 1187813590
+***** 888poker Hand History for Game 1187813590 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 03:33:06
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AlexEnz0 ( $0.94 )
+Seat 4: ArtZver ( $1.77 )
+AlexEnz0 posts small blind [$0.01]
+ArtZver posts big blind [$0.02]
+** Dealing down cards **
+AlexEnz0 folds
+** Summary **
+ArtZver collected [ $0.03 ]
+
+
+#Game No : 1187813609
+***** 888poker Hand History for Game 1187813609 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 03:33:11
+Table Maribor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: AlexEnz0 ( $0.93 )
+Seat 4: ArtZver ( $1.78 )
+ArtZver posts small blind [$0.01]
+AlexEnz0 posts big blind [$0.02]
+** Dealing down cards **
+ArtZver calls [$0.01]
+AlexEnz0 checks
+** Dealing flop ** [ 4h, Kc, Kd ]
+AlexEnz0 checks
+ArtZver checks
+** Dealing turn ** [ 5h ]
+AlexEnz0 checks
+ArtZver checks
+** Dealing river ** [ Qh ]
+AlexEnz0 checks
+ArtZver bets [$0.02]
+AlexEnz0 folds
+** Summary **
+ArtZver collected [ $0.04 ]
+
+
+#Game No : 1187825040
+***** 888poker Hand History for Game 1187825040 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 04:30:47
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Nikonov1973 ( $1.88 )
+Seat 6: jlenin13 ( $0.80 )
+Nikonov1973 posts small blind [$0.01]
+jlenin13 posts big blind [$0.02]
+** Dealing down cards **
+Nikonov1973 calls [$0.01]
+jlenin13 raises [$0.06]
+Nikonov1973 calls [$0.06]
+** Dealing flop ** [ 5c, Ts, Th ]
+jlenin13 bets [$0.02]
+Nikonov1973 calls [$0.02]
+** Dealing turn ** [ 3s ]
+jlenin13 checks
+Nikonov1973 checks
+** Dealing river ** [ 4c ]
+jlenin13 checks
+Nikonov1973 checks
+** Summary **
+jlenin13 shows [ 8s, Qs ]
+Nikonov1973 shows [ Kd, 8h ]
+Nikonov1973 collected [ $0.19 ]
+
+
+#Game No : 1187825153
+***** 888poker Hand History for Game 1187825153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 04:31:16
+Table Maribor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Nikonov1973 ( $1.97 )
+Seat 6: jlenin13 ( $0.70 )
+jlenin13 posts small blind [$0.01]
+Nikonov1973 posts big blind [$0.02]
+** Dealing down cards **
+jlenin13 calls [$0.01]
+Nikonov1973 checks
+** Dealing flop ** [ 4d, 7d, 2c ]
+Nikonov1973 checks
+jlenin13 checks
+** Dealing turn ** [ 2s ]
+Nikonov1973 checks
+jlenin13 checks
+** Dealing river ** [ Ah ]
+Nikonov1973 checks
+jlenin13 checks
+** Summary **
+Nikonov1973 shows [ 6c, 9c ]
+jlenin13 shows [ 8h, Js ]
+jlenin13 collected [ $0.04 ]
+
+
+#Game No : 1187830734
+***** 888poker Hand History for Game 1187830734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 04:59:40
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Donmecon ( $0.75 )
+Seat 2: JetfireDee ( $2.86 )
+Donmecon posts small blind [$0.01]
+JetfireDee posts big blind [$0.02]
+** Dealing down cards **
+Donmecon raises [$0.03]
+JetfireDee folds
+** Summary **
+Donmecon collected [ $0.04 ]
+
+
+#Game No : 1187830791
+***** 888poker Hand History for Game 1187830791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 04:59:57
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Donmecon ( $0.77 )
+Seat 2: JetfireDee ( $2.84 )
+JetfireDee posts small blind [$0.01]
+Donmecon posts big blind [$0.02]
+** Dealing down cards **
+JetfireDee raises [$0.06]
+Donmecon folds
+** Summary **
+JetfireDee collected [ $0.04 ]
+
+
+#Game No : 1187830840
+***** 888poker Hand History for Game 1187830840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 05:00:11
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Donmecon ( $0.75 )
+Seat 4: Mtip1987 ( $1 )
+Donmecon posts small blind [$0.01]
+Mtip1987 posts big blind [$0.02]
+** Dealing down cards **
+Donmecon raises [$0.03]
+Mtip1987 calls [$0.02]
+** Dealing flop ** [ Kh, 4s, 3s ]
+Mtip1987 checks
+Donmecon bets [$0.04]
+Mtip1987 calls [$0.04]
+** Dealing turn ** [ Jd ]
+Mtip1987 checks
+Donmecon bets [$0.08]
+Mtip1987 calls [$0.08]
+** Dealing river ** [ 2c ]
+Mtip1987 checks
+Donmecon checks
+** Summary **
+Mtip1987 shows [ Ah, 9s ]
+Donmecon shows [ 9d, Ks ]
+Donmecon collected [ $0.30 ]
+
+
+#Game No : 1187830986
+***** 888poker Hand History for Game 1187830986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 05:00:54
+Table Maribor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Donmecon ( $0.89 )
+Seat 4: Mtip1987 ( $0.84 )
+Mtip1987 posts small blind [$0.01]
+Donmecon posts big blind [$0.02]
+** Dealing down cards **
+Mtip1987 folds
+** Summary **
+Donmecon collected [ $0.03 ]
+
+
+#Game No : 1187936848
+***** 888poker Hand History for Game 1187936848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 11:56:08
+Table Maribor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pavel_Invest ( $2.18 )
+Seat 7: BetShowMaker ( $0.99 )
+Pavel_Invest posts small blind [$0.01]
+BetShowMaker posts big blind [$0.02]
+** Dealing down cards **
+Pavel_Invest folds
+** Summary **
+BetShowMaker collected [ $0.03 ]
+
+
+#Game No : 1187936898
+***** 888poker Hand History for Game 1187936898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 11:56:16
+Table Maribor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pavel_Invest ( $2.17 )
+Seat 7: BetShowMaker ( $1 )
+BetShowMaker posts small blind [$0.01]
+Pavel_Invest posts big blind [$0.02]
+** Dealing down cards **
+BetShowMaker raises [$0.05]
+Pavel_Invest folds
+** Summary **
+BetShowMaker did not show his hand
+BetShowMaker collected [ $0.04 ]
+
+
+#Game No : 1187947376
+***** 888poker Hand History for Game 1187947376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 12:27:13
+Table Maribor 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Churekovo ( $1.32 )
+Seat 9: milankaran13 ( $0.81 )
+milankaran13 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+milankaran13 calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ 9s, 8c, Qd ]
+Churekovo checks
+milankaran13 checks
+** Dealing turn ** [ Ah ]
+Churekovo checks
+milankaran13 checks
+** Dealing river ** [ 5s ]
+Churekovo checks
+milankaran13 checks
+** Summary **
+Churekovo shows [ Td, 4d ]
+milankaran13 shows [ 2d, Ts ]
+milankaran13 collected [ $0.02 ]
+Churekovo collected [ $0.02 ]
+
+
+#Game No : 1187948529
+***** 888poker Hand History for Game 1187948529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 12:30:28
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Churekovo ( $1.34 )
+Seat 2: dmitriDZY14 ( $0.78 )
+Churekovo posts small blind [$0.01]
+dmitriDZY14 posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+dmitriDZY14 calls [$0.02]
+** Dealing flop ** [ 8h, 6h, Qh ]
+dmitriDZY14 checks
+Churekovo bets [$0.08]
+dmitriDZY14 raises [$0.16]
+Churekovo raises [$1.22]
+dmitriDZY14 calls [$0.58]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 7c ]
+** Summary **
+Churekovo shows [ 6d, 8c ]
+dmitriDZY14 shows [ 7h, Th ]
+dmitriDZY14 collected [ $1.47 ]
+
+
+#Game No : 1187948733
+***** 888poker Hand History for Game 1187948733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 12:31:04
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Churekovo ( $1 )
+Seat 2: dmitriDZY14 ( $1.47 )
+dmitriDZY14 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+dmitriDZY14 calls [$0.01]
+Churekovo raises [$0.06]
+dmitriDZY14 folds
+** Summary **
+Churekovo collected [ $0.04 ]
+
+
+#Game No : 1187977125
+***** 888poker Hand History for Game 1187977125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 13:56:06
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Churekovo ( $3.26 )
+Seat 2: manochaco998 ( $1.20 )
+manochaco998 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+manochaco998 calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ 7h, 2d, Td ]
+Churekovo checks
+manochaco998 checks
+** Dealing turn ** [ 7c ]
+Churekovo checks
+manochaco998 bets [$0.02]
+Churekovo folds
+** Summary **
+manochaco998 collected [ $0.04 ]
+
+
+#Game No : 1187984852
+***** 888poker Hand History for Game 1187984852 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 14:18:07
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Churekovo ( $3.87 )
+Seat 4: DenVL ( $2.52 )
+Churekovo posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+DenVL calls [$0.02]
+** Dealing flop ** [ 6h, 9d, Ah ]
+DenVL checks
+Churekovo bets [$0.05]
+DenVL calls [$0.05]
+** Dealing turn ** [ 8d ]
+DenVL checks
+Churekovo bets [$0.12]
+DenVL raises [$0.30]
+Churekovo calls [$0.18]
+** Dealing river ** [ 2h ]
+DenVL bets [$0.52]
+Churekovo folds
+** Summary **
+DenVL collected [ $0.74 ]
+
+
+#Game No : 1187985230
+***** 888poker Hand History for Game 1187985230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 14:19:08
+Table Maribor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Churekovo ( $3.48 )
+Seat 4: DenVL ( $2.87 )
+DenVL posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+DenVL raises [$0.05]
+Churekovo folds
+** Summary **
+DenVL collected [ $0.04 ]
+
+
+#Game No : 1188002546
+***** 888poker Hand History for Game 1188002546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 15:16:40
+Table Maribor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: DenVL ( $2.29 )
+Seat 7: kinedyne ( $1.55 )
+kinedyne posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+kinedyne calls [$0.01]
+DenVL checks
+** Dealing flop ** [ 6c, Ac, 8h ]
+DenVL bets [$0.04]
+kinedyne folds
+** Summary **
+DenVL collected [ $0.04 ]
+
+
+#Game No : 1188002616
+***** 888poker Hand History for Game 1188002616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 15:16:58
+Table Maribor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DenVL ( $2.31 )
+Seat 7: kinedyne ( $1.53 )
+DenVL posts small blind [$0.01]
+kinedyne posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+kinedyne collected [ $0.03 ]
+
+
+#Game No : 1188002640
+***** 888poker Hand History for Game 1188002640 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 15:17:04
+Table Maribor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: DenVL ( $2.30 )
+Seat 7: kinedyne ( $1.54 )
+kinedyne posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+kinedyne calls [$0.01]
+DenVL raises [$0.04]
+kinedyne calls [$0.04]
+** Dealing flop ** [ 6s, 5d, Jd ]
+DenVL checks
+kinedyne checks
+** Dealing turn ** [ 9c ]
+DenVL bets [$0.06]
+kinedyne calls [$0.06]
+** Dealing river ** [ 9s ]
+DenVL checks
+kinedyne checks
+** Summary **
+DenVL shows [ Ah, Kh ]
+kinedyne shows [ 5s, 3c ]
+kinedyne collected [ $0.23 ]
+
+
+#Game No : 1188002808
+***** 888poker Hand History for Game 1188002808 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 15:17:45
+Table Maribor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DenVL ( $2.18 )
+Seat 7: kinedyne ( $1.65 )
+DenVL posts small blind [$0.01]
+kinedyne posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+kinedyne collected [ $0.03 ]
+
+
+#Game No : 1188003215
+***** 888poker Hand History for Game 1188003215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 15:19:21
+Table Maribor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DenVL ( $2.13 )
+Seat 7: kinedyne ( $0.86 )
+DenVL posts small blind [$0.01]
+kinedyne posts big blind [$0.02]
+** Dealing down cards **
+DenVL raises [$0.03]
+kinedyne calls [$0.02]
+** Dealing flop ** [ 6s, 6c, 5s ]
+kinedyne checks
+DenVL bets [$0.04]
+kinedyne calls [$0.04]
+** Dealing turn ** [ 4c ]
+kinedyne checks
+DenVL bets [$0.08]
+kinedyne calls [$0.08]
+** Dealing river ** [ 3h ]
+kinedyne checks
+DenVL checks
+** Summary **
+kinedyne shows [ 7h, Kh ]
+DenVL mucks [ Ah, As ]
+kinedyne collected [ $0.30 ]
+
+
+#Game No : 1188003346
+***** 888poker Hand History for Game 1188003346 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 15:19:52
+Table Maribor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: DenVL ( $1.97 )
+Seat 7: kinedyne ( $1 )
+kinedyne posts small blind [$0.01]
+** Dealing down cards **
+DenVL folds
+** Summary **
+kinedyne did not show his hand
+kinedyne collected [ $0.01 ]
+
+

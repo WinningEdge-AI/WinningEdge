@@ -1,0 +1,99 @@
+#Game No : 1484314
+***** 888poker Hand History for Game 1484314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2019 02:53:57
+Table Avignon 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GoldenTouch ( $1.10 )
+Seat 7: FedorBulat ( $2.14 )
+FedorBulat posts small blind [$0.01]
+GoldenTouch posts big blind [$0.02]
+** Dealing down cards **
+FedorBulat calls [$0.01]
+GoldenTouch checks
+** Dealing flop ** [ Js, 3d, 3s ]
+GoldenTouch checks
+FedorBulat bets [$0.02]
+GoldenTouch folds
+** Summary **
+FedorBulat collected [ $0.04 ]
+
+
+#Game No : 1484315
+***** 888poker Hand History for Game 1484315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2019 02:54:02
+Table Avignon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GoldenTouch ( $1.08 )
+Seat 7: FedorBulat ( $2.16 )
+GoldenTouch posts small blind [$0.01]
+FedorBulat posts big blind [$0.02]
+** Dealing down cards **
+GoldenTouch calls [$0.01]
+FedorBulat checks
+** Dealing flop ** [ 5d, Ts, Qd ]
+FedorBulat checks
+GoldenTouch checks
+** Dealing turn ** [ 5c ]
+FedorBulat checks
+GoldenTouch checks
+** Dealing river ** [ 3d ]
+FedorBulat bets [$0.02]
+GoldenTouch folds
+** Summary **
+FedorBulat collected [ $0.04 ]
+
+
+#Game No : 1484319
+***** 888poker Hand History for Game 1484319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2019 02:54:32
+Table Avignon 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GoldenTouch ( $1.06 )
+Seat 7: FedorBulat ( $2.18 )
+FedorBulat posts small blind [$0.01]
+GoldenTouch posts big blind [$0.02]
+** Dealing down cards **
+FedorBulat calls [$0.01]
+GoldenTouch checks
+** Dealing flop ** [ 2s, Qc, 4s ]
+GoldenTouch checks
+FedorBulat checks
+** Dealing turn ** [ Jh ]
+GoldenTouch checks
+FedorBulat bets [$0.02]
+GoldenTouch folds
+** Summary **
+FedorBulat collected [ $0.04 ]
+
+
+#Game No : 1484322
+***** 888poker Hand History for Game 1484322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2019 02:55:01
+Table Avignon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GoldenTouch ( $1.04 )
+Seat 7: FedorBulat ( $2.20 )
+GoldenTouch posts small blind [$0.01]
+FedorBulat posts big blind [$0.02]
+** Dealing down cards **
+GoldenTouch calls [$0.01]
+FedorBulat checks
+** Dealing flop ** [ Th, 9c, 2c ]
+FedorBulat checks
+GoldenTouch checks
+** Dealing turn ** [ Ks ]
+FedorBulat bets [$0.02]
+GoldenTouch calls [$0.02]
+** Dealing river ** [ 5s ]
+FedorBulat bets [$0.02]
+GoldenTouch calls [$0.02]
+** Summary **
+FedorBulat shows [ 7s, 9d ]
+GoldenTouch mucks [ 7c, Ah ]
+FedorBulat collected [ $0.12 ]
+
+

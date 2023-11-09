@@ -1,0 +1,63 @@
+#Game No : 461184539
+***** 888poker Hand History for Game 461184539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:03:12
+Table Barletta 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: hnilomedov ( $1.88 )
+Seat 10: Jodsder ( $1.12 )
+Jodsder posts small blind [$0.01]
+hnilomedov posts big blind [$0.02]
+** Dealing down cards **
+Jodsder calls [$0.01]
+hnilomedov checks
+** Dealing flop ** [ 3h, Th, 9c ]
+hnilomedov checks
+Jodsder checks
+** Dealing turn ** [ 5d ]
+hnilomedov checks
+Jodsder checks
+** Dealing river ** [ 7d ]
+hnilomedov checks
+Jodsder checks
+** Summary **
+hnilomedov shows [ Ah, 8s ]
+Jodsder mucks [ Kh, 6c ]
+hnilomedov collected [ $0.04 ]
+
+
+#Game No : 461184582
+***** 888poker Hand History for Game 461184582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:03:46
+Table Barletta 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hnilomedov ( $1.90 )
+Seat 10: Jodsder ( $1.10 )
+hnilomedov posts small blind [$0.01]
+Jodsder posts big blind [$0.02]
+** Dealing down cards **
+hnilomedov folds
+** Summary **
+Jodsder did not show his hand
+Jodsder collected [ $0.03 ]
+
+
+#Game No : 461184600
+***** 888poker Hand History for Game 461184600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:04:02
+Table Barletta 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: hnilomedov ( $1.89 )
+Seat 10: Jodsder ( $1.11 )
+Jodsder posts small blind [$0.01]
+hnilomedov posts big blind [$0.02]
+** Dealing down cards **
+Jodsder raises [$0.03]
+hnilomedov folds
+** Summary **
+Jodsder did not show his hand
+Jodsder collected [ $0.04 ]
+
+

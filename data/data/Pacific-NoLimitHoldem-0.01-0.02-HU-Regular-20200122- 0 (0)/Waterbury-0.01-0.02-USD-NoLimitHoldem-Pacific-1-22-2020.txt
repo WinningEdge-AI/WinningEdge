@@ -1,0 +1,28 @@
+#Game No : 549925795
+***** 888poker Hand History for Game 549925795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2020 01:20:51
+Table Waterbury 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SergunK ( $2.52 )
+Seat 6: airforme ( $2.01 )
+SergunK posts small blind [$0.01]
+airforme posts big blind [$0.02]
+** Dealing down cards **
+SergunK raises [$0.04]
+airforme calls [$0.03]
+** Dealing flop ** [ 4h, 2d, As ]
+airforme bets [$0.06]
+SergunK calls [$0.06]
+** Dealing turn ** [ 5h ]
+airforme checks
+SergunK checks
+** Dealing river ** [ Ad ]
+airforme checks
+SergunK checks
+** Summary **
+airforme shows [ 7d, 5d ]
+SergunK shows [ Ac, Th ]
+SergunK collected [ $0.21 ]
+
+

@@ -1,0 +1,475 @@
+#Game No : 461165495
+***** 888poker Hand History for Game 461165495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 04:15:19
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: vladwalk ( $0.83 )
+Seat 6: thenausea ( $0.77 )
+vladwalk posts small blind [$0.01]
+thenausea posts big blind [$0.02]
+** Dealing down cards **
+vladwalk calls [$0.01]
+thenausea checks
+** Dealing flop ** [ 5h, 9c, Js ]
+thenausea bets [$0.04]
+vladwalk calls [$0.04]
+** Dealing turn ** [ Jh ]
+thenausea bets [$0.04]
+vladwalk raises [$0.14]
+thenausea calls [$0.10]
+** Dealing river ** [ 5s ]
+thenausea checks
+vladwalk bets [$0.20]
+thenausea folds
+** Summary **
+vladwalk did not show his hand
+vladwalk collected [ $0.38 ]
+
+
+#Game No : 461165517
+***** 888poker Hand History for Game 461165517 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 04:15:46
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: vladwalk ( $1.01 )
+Seat 6: thenausea ( $0.57 )
+thenausea posts small blind [$0.01]
+vladwalk posts big blind [$0.02]
+** Dealing down cards **
+thenausea calls [$0.01]
+vladwalk checks
+** Dealing flop ** [ 6s, Kc, 7h ]
+vladwalk checks
+thenausea checks
+** Dealing turn ** [ 4d ]
+vladwalk checks
+thenausea bets [$0.04]
+vladwalk folds
+** Summary **
+thenausea did not show his hand
+thenausea collected [ $0.04 ]
+
+
+#Game No : 461165526
+***** 888poker Hand History for Game 461165526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 04:16:09
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: vladwalk ( $0.99 )
+Seat 6: thenausea ( $0.59 )
+vladwalk posts small blind [$0.01]
+thenausea posts big blind [$0.02]
+** Dealing down cards **
+vladwalk folds
+** Summary **
+thenausea collected [ $0.03 ]
+
+
+#Game No : 461165532
+***** 888poker Hand History for Game 461165532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 04:16:28
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: vladwalk ( $0.98 )
+Seat 6: thenausea ( $0.60 )
+thenausea posts small blind [$0.01]
+vladwalk posts big blind [$0.02]
+** Dealing down cards **
+thenausea folds
+** Summary **
+vladwalk collected [ $0.03 ]
+
+
+#Game No : 461165725
+***** 888poker Hand History for Game 461165725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 04:24:11
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: vladwalk ( $1.45 )
+Seat 7: moffe11 ( $0.74 )
+moffe11 posts small blind [$0.01]
+vladwalk posts big blind [$0.02]
+** Dealing down cards **
+moffe11 calls [$0.01]
+vladwalk checks
+** Dealing flop ** [ 3h, 5s, 6c ]
+vladwalk bets [$0.02]
+moffe11 calls [$0.02]
+** Dealing turn ** [ 8d ]
+vladwalk bets [$0.02]
+moffe11 calls [$0.02]
+** Dealing river ** [ 2c ]
+vladwalk bets [$0.06]
+moffe11 calls [$0.06]
+** Summary **
+vladwalk shows [ Td, 4d ]
+moffe11 shows [ 4s, Qd ]
+moffe11 collected [ $0.11 ]
+vladwalk collected [ $0.12 ]
+
+
+#Game No : 461167854
+***** 888poker Hand History for Game 461167854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 05:34:10
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: walkman88 ( $0.98 )
+Seat 9: Jitchana ( $0.36 )
+Jitchana posts small blind [$0.01]
+walkman88 posts big blind [$0.02]
+** Dealing down cards **
+Jitchana raises [$0.03]
+walkman88 folds
+** Summary **
+Jitchana collected [ $0.04 ]
+
+
+#Game No : 461167859
+***** 888poker Hand History for Game 461167859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 05:34:19
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: walkman88 ( $0.96 )
+Seat 9: Jitchana ( $0.38 )
+walkman88 posts small blind [$0.01]
+Jitchana posts big blind [$0.02]
+** Dealing down cards **
+walkman88 calls [$0.01]
+Jitchana checks
+** Dealing flop ** [ 5d, 9c, 2s ]
+Jitchana bets [$0.02]
+walkman88 calls [$0.02]
+** Dealing turn ** [ Ad ]
+Jitchana bets [$0.08]
+walkman88 calls [$0.08]
+** Dealing river ** [ Td ]
+Jitchana bets [$0.24]
+walkman88 calls [$0.24]
+** Summary **
+Jitchana shows [ 4d, 3d ]
+walkman88 mucks [ Jd, 9s ]
+Jitchana collected [ $0.68 ]
+
+
+#Game No : 461167893
+***** 888poker Hand History for Game 461167893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 05:35:27
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: walkman88 ( $0.80 )
+Seat 9: Jitchana ( $0.70 )
+Jitchana posts small blind [$0.01]
+walkman88 posts big blind [$0.02]
+** Dealing down cards **
+Jitchana folds
+** Summary **
+walkman88 did not show his hand
+walkman88 collected [ $0.03 ]
+
+
+#Game No : 461167899
+***** 888poker Hand History for Game 461167899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 05:35:33
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: walkman88 ( $0.81 )
+Seat 9: Jitchana ( $0.69 )
+walkman88 posts small blind [$0.01]
+Jitchana posts big blind [$0.02]
+** Dealing down cards **
+walkman88 raises [$0.03]
+Jitchana folds
+** Summary **
+walkman88 collected [ $0.04 ]
+
+
+#Game No : 461184829
+***** 888poker Hand History for Game 461184829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:07:45
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.02 )
+Seat 6: UltrAArm ( $2.13 )
+UltrAArm posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+UltrAArm folds
+** Summary **
+arcticdawn collected [ $0.03 ]
+
+
+#Game No : 461184836
+***** 888poker Hand History for Game 461184836 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:07:50
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.03 )
+Seat 6: UltrAArm ( $2.12 )
+arcticdawn posts small blind [$0.01]
+UltrAArm posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn folds
+** Summary **
+UltrAArm collected [ $0.03 ]
+
+
+#Game No : 461184839
+***** 888poker Hand History for Game 461184839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:07:56
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.02 )
+Seat 6: UltrAArm ( $2.13 )
+UltrAArm posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+UltrAArm raises [$2.12]
+arcticdawn folds
+** Summary **
+UltrAArm collected [ $2.15 ]
+
+
+#Game No : 461184848
+***** 888poker Hand History for Game 461184848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:08:09
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1 )
+Seat 6: UltrAArm ( $2.15 )
+arcticdawn posts small blind [$0.01]
+UltrAArm posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn calls [$0.01]
+UltrAArm raises [$2.13]
+arcticdawn folds
+** Summary **
+UltrAArm collected [ $0.04 ]
+
+
+#Game No : 461184860
+***** 888poker Hand History for Game 461184860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:08:23
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1 )
+Seat 6: UltrAArm ( $2.17 )
+UltrAArm posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+UltrAArm raises [$0.03]
+arcticdawn calls [$0.02]
+** Dealing flop ** [ Kd, 6h, 2c ]
+arcticdawn checks
+UltrAArm checks
+** Dealing turn ** [ 4s ]
+arcticdawn checks
+UltrAArm checks
+** Dealing river ** [ Jc ]
+arcticdawn checks
+UltrAArm checks
+** Summary **
+arcticdawn shows [ Ac, 9h ]
+UltrAArm mucks [ 5s, Qc ]
+arcticdawn collected [ $0.08 ]
+
+
+#Game No : 461184890
+***** 888poker Hand History for Game 461184890 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:08:53
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.04 )
+Seat 6: UltrAArm ( $2.13 )
+arcticdawn posts small blind [$0.01]
+UltrAArm posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn folds
+** Summary **
+UltrAArm collected [ $0.03 ]
+
+
+#Game No : 461184898
+***** 888poker Hand History for Game 461184898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:08:59
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.03 )
+Seat 6: UltrAArm ( $2.14 )
+UltrAArm posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+UltrAArm raises [$0.03]
+arcticdawn calls [$0.02]
+** Dealing flop ** [ Td, 2h, Jd ]
+arcticdawn checks
+UltrAArm checks
+** Dealing turn ** [ 2c ]
+arcticdawn checks
+UltrAArm checks
+** Dealing river ** [ Qd ]
+arcticdawn checks
+UltrAArm checks
+** Summary **
+arcticdawn shows [ Ts, Kd ]
+UltrAArm mucks [ Kc, 3d ]
+arcticdawn collected [ $0.08 ]
+
+
+#Game No : 461185139
+***** 888poker Hand History for Game 461185139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:12:25
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.41 )
+Seat 6: UltrAArm ( $2.54 )
+UltrAArm posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+UltrAArm folds
+** Summary **
+arcticdawn did not show his hand
+arcticdawn collected [ $0.03 ]
+
+
+#Game No : 461185146
+***** 888poker Hand History for Game 461185146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:12:30
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.42 )
+Seat 6: UltrAArm ( $2.53 )
+arcticdawn posts small blind [$0.01]
+UltrAArm posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn calls [$0.01]
+UltrAArm checks
+** Dealing flop ** [ Jc, 5h, Jd ]
+UltrAArm checks
+arcticdawn checks
+** Dealing turn ** [ 2h ]
+UltrAArm checks
+arcticdawn checks
+** Dealing river ** [ Th ]
+UltrAArm checks
+arcticdawn checks
+** Summary **
+UltrAArm shows [ 2s, 9c ]
+arcticdawn shows [ 6h, 6c ]
+arcticdawn collected [ $0.04 ]
+
+
+#Game No : 461185170
+***** 888poker Hand History for Game 461185170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:12:57
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.44 )
+Seat 6: UltrAArm ( $2.51 )
+UltrAArm posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+UltrAArm raises [$2.50]
+arcticdawn folds
+** Summary **
+UltrAArm collected [ $2.53 ]
+
+
+#Game No : 461189085
+***** 888poker Hand History for Game 461189085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 13:20:48
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Agarroz ( $1.01 )
+Seat 9: yorke132 ( $2.64 )
+Agarroz posts small blind [$0.01]
+yorke132 posts big blind [$0.02]
+** Dealing down cards **
+Agarroz raises [$0.05]
+yorke132 calls [$0.04]
+** Dealing flop ** [ 9d, Th, Td ]
+yorke132 checks
+Agarroz checks
+** Dealing turn ** [ Kh ]
+yorke132 checks
+Agarroz bets [$0.08]
+yorke132 folds
+** Summary **
+Agarroz collected [ $0.12 ]
+
+
+#Game No : 461189159
+***** 888poker Hand History for Game 461189159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 13:22:07
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Agarroz ( $1.12 )
+Seat 7: sany4bet ( $1 )
+sany4bet posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+sany4bet calls [$0.01]
+Agarroz checks
+** Dealing flop ** [ As, 3h, 8c ]
+Agarroz bets [$0.04]
+sany4bet folds
+** Summary **
+Agarroz collected [ $0.04 ]
+
+
+#Game No : 461189260
+***** 888poker Hand History for Game 461189260 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 13:23:55
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Agarroz ( $1.07 )
+Seat 7: sany4bet ( $1.28 )
+sany4bet posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+sany4bet calls [$0.01]
+Agarroz checks
+** Dealing flop ** [ 7h, 7d, 3d ]
+Agarroz checks
+sany4bet bets [$0.02]
+Agarroz folds
+** Summary **
+sany4bet collected [ $0.04 ]
+
+
+#Game No : 461195371
+***** 888poker Hand History for Game 461195371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 15:46:18
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Shit_Stars ( $0.58 )
+Seat 9: Maury8511 ( $2.02 )
+Shit_Stars posts small blind [$0.01]
+** Dealing down cards **
+Maury8511 folds
+** Summary **
+Shit_Stars collected [ $0.01 ]
+
+

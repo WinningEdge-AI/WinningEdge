@@ -1,0 +1,236 @@
+#Game No : 460450171
+***** 888poker Hand History for Game 460450171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 05:25:38
+Table Muscat 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Zamglai ( $1.09 )
+Seat 6: LYM888 ( $1 )
+LYM888 posts small blind [$0.01]
+Zamglai posts big blind [$0.02]
+** Dealing down cards **
+LYM888 folds
+** Summary **
+Zamglai collected [ $0.03 ]
+
+
+#Game No : 460452626
+***** 888poker Hand History for Game 460452626 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 06:32:18
+Table Muscat 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: euv13 ( $1.50 )
+Seat 4: mad_colonel ( $1.17 )
+mad_colonel posts small blind [$0.01]
+euv13 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel raises [$0.05]
+euv13 folds
+** Summary **
+mad_colonel collected [ $0.04 ]
+
+
+#Game No : 460452925
+***** 888poker Hand History for Game 460452925 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 06:40:04
+Table Muscat 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: euv13 ( $2.13 )
+Seat 4: mad_colonel ( $1.04 )
+euv13 posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+euv13 calls [$0.01]
+mad_colonel raises [$0.04]
+euv13 calls [$0.04]
+** Dealing flop ** [ 6d, Jc, 5c ]
+mad_colonel bets [$0.06]
+euv13 calls [$0.06]
+** Dealing turn ** [ 8h ]
+mad_colonel checks
+euv13 checks
+** Dealing river ** [ 9d ]
+mad_colonel checks
+euv13 bets [$0.16]
+mad_colonel folds
+** Summary **
+euv13 collected [ $0.23 ]
+
+
+#Game No : 460452957
+***** 888poker Hand History for Game 460452957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 06:40:55
+Table Muscat 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: euv13 ( $2.24 )
+Seat 4: mad_colonel ( $1 )
+mad_colonel posts small blind [$0.01]
+euv13 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel calls [$0.01]
+euv13 checks
+** Dealing flop ** [ Tc, 2s, 9s ]
+euv13 checks
+mad_colonel checks
+** Dealing turn ** [ 5d ]
+euv13 checks
+mad_colonel checks
+** Dealing river ** [ 4d ]
+euv13 checks
+mad_colonel checks
+** Summary **
+euv13 shows [ 3c, Ks ]
+mad_colonel mucks [ Qd, 7h ]
+euv13 collected [ $0.04 ]
+
+
+#Game No : 460453946
+***** 888poker Hand History for Game 460453946 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 07:07:15
+Table Muscat 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Rebelyell15 ( $1.09 )
+Seat 7: Terrycoles24 ( $1.17 )
+Terrycoles24 posts small blind [$0.01]
+Rebelyell15 posts big blind [$0.02]
+** Dealing down cards **
+Terrycoles24 raises [$0.03]
+Rebelyell15 calls [$0.02]
+** Dealing flop ** [ 6d, 5s, 6h ]
+Rebelyell15 checks
+Terrycoles24 bets [$0.04]
+Rebelyell15 raises [$0.08]
+Terrycoles24 calls [$0.04]
+** Dealing turn ** [ 3h ]
+Rebelyell15 bets [$0.24]
+Terrycoles24 calls [$0.24]
+** Dealing river ** [ 7c ]
+Rebelyell15 bets [$0.02]
+Terrycoles24 calls [$0.02]
+** Summary **
+Rebelyell15 shows [ Ah, 5h ]
+Terrycoles24 shows [ 9d, 9h ]
+Terrycoles24 collected [ $0.72 ]
+
+
+#Game No : 460453972
+***** 888poker Hand History for Game 460453972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 07:07:47
+Table Muscat 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Rebelyell15 ( $0.71 )
+Seat 7: Terrycoles24 ( $1.51 )
+Rebelyell15 posts small blind [$0.01]
+Terrycoles24 posts big blind [$0.02]
+** Dealing down cards **
+Rebelyell15 calls [$0.01]
+Terrycoles24 checks
+** Dealing flop ** [ Qh, 8c, 6h ]
+Terrycoles24 checks
+Rebelyell15 checks
+** Dealing turn ** [ Jh ]
+Terrycoles24 checks
+Rebelyell15 checks
+** Dealing river ** [ Kd ]
+Terrycoles24 checks
+Rebelyell15 checks
+** Summary **
+Terrycoles24 shows [ Th, 5d ]
+Rebelyell15 shows [ 6s, Td ]
+Rebelyell15 collected [ $0.04 ]
+
+
+#Game No : 460453998
+***** 888poker Hand History for Game 460453998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 07:08:20
+Table Muscat 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Rebelyell15 ( $0.73 )
+Seat 7: Terrycoles24 ( $1.49 )
+Terrycoles24 posts small blind [$0.01]
+Rebelyell15 posts big blind [$0.02]
+** Dealing down cards **
+Terrycoles24 folds
+** Summary **
+Rebelyell15 collected [ $0.03 ]
+
+
+#Game No : 460454003
+***** 888poker Hand History for Game 460454003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 07:08:27
+Table Muscat 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Rebelyell15 ( $0.74 )
+Seat 7: Terrycoles24 ( $1.48 )
+Rebelyell15 posts small blind [$0.01]
+Terrycoles24 posts big blind [$0.02]
+** Dealing down cards **
+Rebelyell15 folds
+** Summary **
+Terrycoles24 collected [ $0.03 ]
+
+
+#Game No : 460454007
+***** 888poker Hand History for Game 460454007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 07:08:33
+Table Muscat 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Rebelyell15 ( $0.73 )
+Seat 7: Terrycoles24 ( $1.49 )
+Terrycoles24 posts small blind [$0.01]
+Rebelyell15 posts big blind [$0.02]
+** Dealing down cards **
+Terrycoles24 calls [$0.01]
+Rebelyell15 checks
+** Dealing flop ** [ 8d, Ah, Ad ]
+Rebelyell15 checks
+Terrycoles24 checks
+** Dealing turn ** [ Kd ]
+Rebelyell15 checks
+Terrycoles24 bets [$0.02]
+Rebelyell15 calls [$0.02]
+** Dealing river ** [ 2h ]
+Rebelyell15 checks
+Terrycoles24 checks
+** Summary **
+Rebelyell15 shows [ 8s, Ac ]
+Terrycoles24 mucks [ Td, 7c ]
+Rebelyell15 collected [ $0.08 ]
+
+
+#Game No : 460454024
+***** 888poker Hand History for Game 460454024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 07:09:03
+Table Muscat 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Rebelyell15 ( $0.77 )
+Seat 7: Terrycoles24 ( $1.45 )
+Rebelyell15 posts small blind [$0.01]
+Terrycoles24 posts big blind [$0.02]
+** Dealing down cards **
+Rebelyell15 calls [$0.01]
+Terrycoles24 checks
+** Dealing flop ** [ 6d, 2s, Tc ]
+Terrycoles24 checks
+Rebelyell15 checks
+** Dealing turn ** [ 4h ]
+Terrycoles24 checks
+Rebelyell15 checks
+** Dealing river ** [ 9c ]
+Terrycoles24 checks
+Rebelyell15 checks
+** Summary **
+Terrycoles24 shows [ Qd, 5c ]
+Rebelyell15 shows [ 5d, Ah ]
+Rebelyell15 collected [ $0.04 ]
+
+

@@ -1,0 +1,185 @@
+#Game No : 454859020
+***** 888poker Hand History for Game 454859020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 08:38:39
+Table Waterford 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Colota14 ( $0.81 )
+Seat 3: LaZaR_hOg ( $1.95 )
+Colota14 posts small blind [$0.01]
+LaZaR_hOg posts big blind [$0.02]
+** Dealing down cards **
+Colota14 calls [$0.01]
+LaZaR_hOg checks
+** Dealing flop ** [ Tc, 5s, Qh ]
+LaZaR_hOg checks
+Colota14 bets [$0.02]
+LaZaR_hOg folds
+** Summary **
+Colota14 did not show his hand
+Colota14 collected [ $0.04 ]
+
+
+#Game No : 501565443
+***** 888poker Hand History for Game 501565443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 13:47:10
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eduardo_um ( $1.10 )
+Seat 7: Ap0_sgk ( $2.27 )
+eduardo_um posts small blind [$0.01]
+Ap0_sgk posts big blind [$0.02]
+** Dealing down cards **
+eduardo_um calls [$0.01]
+Ap0_sgk raises [$0.04]
+eduardo_um folds
+** Summary **
+Ap0_sgk collected [ $0.04 ]
+
+
+#Game No : 501565450
+***** 888poker Hand History for Game 501565450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 13:47:21
+Table Waterford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: eduardo_um ( $1.08 )
+Seat 7: Ap0_sgk ( $2.29 )
+Ap0_sgk posts small blind [$0.01]
+eduardo_um posts big blind [$0.02]
+** Dealing down cards **
+Ap0_sgk raises [$0.03]
+eduardo_um calls [$0.02]
+** Dealing flop ** [ Tc, 5c, Kd ]
+eduardo_um bets [$0.02]
+Ap0_sgk calls [$0.02]
+** Dealing turn ** [ Kh ]
+eduardo_um bets [$0.02]
+Ap0_sgk raises [$0.08]
+eduardo_um folds
+** Summary **
+Ap0_sgk collected [ $0.15 ]
+
+
+#Game No : 501565466
+***** 888poker Hand History for Game 501565466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 13:47:42
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eduardo_um ( $1 )
+Seat 7: Ap0_sgk ( $2.36 )
+eduardo_um posts small blind [$0.01]
+Ap0_sgk posts big blind [$0.02]
+** Dealing down cards **
+eduardo_um raises [$0.03]
+Ap0_sgk calls [$0.02]
+** Dealing flop ** [ Ah, 2c, 5s ]
+Ap0_sgk bets [$0.04]
+eduardo_um calls [$0.04]
+** Dealing turn ** [ As ]
+Ap0_sgk checks
+eduardo_um bets [$0.02]
+Ap0_sgk calls [$0.02]
+** Dealing river ** [ 3c ]
+Ap0_sgk checks
+eduardo_um bets [$0.10]
+Ap0_sgk folds
+** Summary **
+eduardo_um collected [ $0.19 ]
+
+
+#Game No : 501565856
+***** 888poker Hand History for Game 501565856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 13:55:27
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eduardo_um ( $1.10 )
+Seat 6: nl_jagger ( $0.79 )
+eduardo_um posts small blind [$0.01]
+nl_jagger posts big blind [$0.02]
+** Dealing down cards **
+eduardo_um calls [$0.01]
+nl_jagger raises [$0.04]
+eduardo_um calls [$0.04]
+** Dealing flop ** [ 2s, Qc, 5d ]
+nl_jagger bets [$0.08]
+eduardo_um calls [$0.08]
+** Dealing turn ** [ Ac ]
+nl_jagger bets [$0.18]
+eduardo_um calls [$0.18]
+** Dealing river ** [ 2d ]
+nl_jagger bets [$0.47]
+eduardo_um calls [$0.47]
+** Summary **
+eduardo_um shows [ Kh, Ad ]
+nl_jagger shows [ 8d, Js ]
+eduardo_um collected [ $1.49 ]
+
+
+#Game No : 501567923
+***** 888poker Hand History for Game 501567923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 14:33:43
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eduardo_um ( $1.22 )
+Seat 6: nl_jagger ( $3.22 )
+eduardo_um posts small blind [$0.01]
+nl_jagger posts big blind [$0.02]
+** Dealing down cards **
+eduardo_um calls [$0.01]
+nl_jagger raises [$0.04]
+eduardo_um folds
+** Summary **
+nl_jagger collected [ $0.04 ]
+
+
+#Game No : 501567934
+***** 888poker Hand History for Game 501567934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 14:34:02
+Table Waterford 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: eduardo_um ( $1.20 )
+Seat 6: nl_jagger ( $3.24 )
+nl_jagger posts small blind [$0.01]
+eduardo_um posts big blind [$0.02]
+** Dealing down cards **
+nl_jagger calls [$0.01]
+eduardo_um checks
+** Dealing flop ** [ Qs, Td, Ac ]
+eduardo_um bets [$0.04]
+nl_jagger calls [$0.04]
+** Dealing turn ** [ 8h ]
+eduardo_um bets [$0.02]
+nl_jagger calls [$0.02]
+** Dealing river ** [ 5d ]
+eduardo_um checks
+nl_jagger checks
+** Summary **
+eduardo_um shows [ 3d, 4d ]
+nl_jagger shows [ 7d, Qc ]
+nl_jagger collected [ $0.15 ]
+
+
+#Game No : 501570200
+***** 888poker Hand History for Game 501570200 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 15:40:51
+Table Waterford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: momomokuk ( $1 )
+Seat 2: UnderTheGon ( $2.40 )
+UnderTheGon posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon raises [$0.05]
+momomokuk folds
+** Summary **
+UnderTheGon did not show his hand
+UnderTheGon collected [ $0.04 ]
+
+

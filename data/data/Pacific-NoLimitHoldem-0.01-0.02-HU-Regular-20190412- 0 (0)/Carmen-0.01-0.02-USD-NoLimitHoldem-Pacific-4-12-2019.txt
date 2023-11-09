@@ -1,0 +1,647 @@
+#Game No : 516265671
+***** 888poker Hand History for Game 516265671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 18:58:16
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $0.95 )
+Seat 6: lebgamer ( $1.05 )
+vbshka1 posts small blind [$0.01]
+lebgamer posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 raises [$0.05]
+lebgamer calls [$0.04]
+** Dealing flop ** [ 8s, 7c, 2c ]
+lebgamer bets [$0.06]
+vbshka1 raises [$0.12]
+lebgamer calls [$0.06]
+** Dealing turn ** [ 9h ]
+lebgamer checks
+vbshka1 bets [$0.24]
+lebgamer calls [$0.24]
+** Dealing river ** [ Qc ]
+lebgamer bets [$0.63]
+vbshka1 folds
+** Summary **
+lebgamer collected [ $0.79 ]
+
+
+#Game No : 516265921
+***** 888poker Hand History for Game 516265921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 19:18:22
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $0.83 )
+Seat 6: lebgamer ( $0.74 )
+vbshka1 posts small blind [$0.01]
+lebgamer posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 folds
+** Summary **
+lebgamer did not show his hand
+lebgamer collected [ $0.03 ]
+
+
+#Game No : 516265926
+***** 888poker Hand History for Game 516265926 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 19:18:34
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $0.82 )
+Seat 6: lebgamer ( $0.75 )
+lebgamer posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+lebgamer raises [$0.03]
+vbshka1 folds
+** Summary **
+lebgamer did not show his hand
+lebgamer collected [ $0.04 ]
+
+
+#Game No : 516265930
+***** 888poker Hand History for Game 516265930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 19:18:53
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $0.80 )
+Seat 6: lebgamer ( $0.77 )
+vbshka1 posts small blind [$0.01]
+lebgamer posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 calls [$0.01]
+lebgamer checks
+** Dealing flop ** [ 7s, Kc, 6c ]
+lebgamer checks
+vbshka1 checks
+** Dealing turn ** [ 9d ]
+lebgamer bets [$0.05]
+vbshka1 calls [$0.05]
+** Dealing river ** [ Qd ]
+lebgamer bets [$0.07]
+vbshka1 raises [$0.14]
+lebgamer calls [$0.07]
+** Summary **
+vbshka1 shows [ Kd, 8d ]
+lebgamer mucks [ 4d, 9c ]
+vbshka1 collected [ $0.40 ]
+
+
+#Game No : 516265937
+***** 888poker Hand History for Game 516265937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 19:19:23
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $0.99 )
+Seat 6: lebgamer ( $0.56 )
+lebgamer posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+lebgamer raises [$0.07]
+vbshka1 folds
+** Summary **
+lebgamer collected [ $0.04 ]
+
+
+#Game No : 516266721
+***** 888poker Hand History for Game 516266721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:17:21
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Repairion ( $1.86 )
+Seat 6: AleksandR400 ( $0.89 )
+AleksandR400 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.03]
+Repairion folds
+** Summary **
+AleksandR400 collected [ $0.04 ]
+
+
+#Game No : 516266724
+***** 888poker Hand History for Game 516266724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:17:28
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Repairion ( $1.84 )
+Seat 6: AleksandR400 ( $0.91 )
+Repairion posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 516266727
+***** 888poker Hand History for Game 516266727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:17:33
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Repairion ( $1.83 )
+Seat 6: AleksandR400 ( $0.92 )
+AleksandR400 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 calls [$0.01]
+Repairion checks
+** Dealing flop ** [ 7s, 5d, 6s ]
+Repairion checks
+AleksandR400 bets [$0.04]
+Repairion folds
+** Summary **
+AleksandR400 collected [ $0.04 ]
+
+
+#Game No : 516266736
+***** 888poker Hand History for Game 516266736 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:18:16
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Repairion ( $1.81 )
+Seat 6: AleksandR400 ( $0.94 )
+Repairion posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 516266739
+***** 888poker Hand History for Game 516266739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:18:25
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Repairion ( $1.80 )
+Seat 6: AleksandR400 ( $0.95 )
+AleksandR400 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 calls [$0.01]
+Repairion checks
+** Dealing flop ** [ 2c, 8h, Jc ]
+Repairion checks
+AleksandR400 bets [$0.02]
+Repairion folds
+** Summary **
+AleksandR400 collected [ $0.04 ]
+
+
+#Game No : 516266749
+***** 888poker Hand History for Game 516266749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:18:58
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Repairion ( $1.78 )
+Seat 6: AleksandR400 ( $0.97 )
+Repairion posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 516266752
+***** 888poker Hand History for Game 516266752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:19:03
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Repairion ( $1.77 )
+Seat 6: AleksandR400 ( $0.98 )
+AleksandR400 posts small blind [$0.01]
+** Dealing down cards **
+Repairion folds
+** Summary **
+AleksandR400 collected [ $0.01 ]
+
+
+#Game No : 516266800
+***** 888poker Hand History for Game 516266800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:23:06
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.80 )
+Seat 6: AleksandR400 ( $0.98 )
+Pinvax posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Pinvax raises [$0.03]
+AleksandR400 calls [$0.02]
+** Dealing flop ** [ 4h, 9d, 3s ]
+AleksandR400 checks
+Pinvax checks
+** Dealing turn ** [ Kh ]
+AleksandR400 checks
+Pinvax bets [$0.08]
+AleksandR400 folds
+** Summary **
+Pinvax collected [ $0.08 ]
+
+
+#Game No : 516266806
+***** 888poker Hand History for Game 516266806 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:23:39
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.84 )
+Seat 6: AleksandR400 ( $0.94 )
+AleksandR400 posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.05]
+Pinvax folds
+** Summary **
+AleksandR400 collected [ $0.04 ]
+
+
+#Game No : 516266813
+***** 888poker Hand History for Game 516266813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:23:57
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.82 )
+Seat 6: AleksandR400 ( $0.96 )
+Pinvax posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Pinvax folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 516266816
+***** 888poker Hand History for Game 516266816 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:24:07
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.81 )
+Seat 6: AleksandR400 ( $0.97 )
+AleksandR400 posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 calls [$0.01]
+Pinvax checks
+** Dealing flop ** [ 4s, 4c, Jd ]
+Pinvax bets [$0.02]
+AleksandR400 raises [$0.07]
+Pinvax folds
+** Summary **
+AleksandR400 collected [ $0.08 ]
+
+
+#Game No : 516266820
+***** 888poker Hand History for Game 516266820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:24:24
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.77 )
+Seat 6: AleksandR400 ( $1.01 )
+Pinvax posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Pinvax folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 516266822
+***** 888poker Hand History for Game 516266822 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:24:31
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.76 )
+Seat 6: AleksandR400 ( $1.02 )
+AleksandR400 posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 folds
+** Summary **
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 516266825
+***** 888poker Hand History for Game 516266825 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:24:37
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.77 )
+Seat 6: AleksandR400 ( $1.01 )
+Pinvax posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Pinvax calls [$0.01]
+AleksandR400 checks
+** Dealing flop ** [ 8d, 6s, Th ]
+AleksandR400 checks
+Pinvax bets [$0.02]
+AleksandR400 calls [$0.02]
+** Dealing turn ** [ Ks ]
+AleksandR400 checks
+Pinvax bets [$0.02]
+AleksandR400 calls [$0.02]
+** Dealing river ** [ 9s ]
+AleksandR400 checks
+Pinvax bets [$0.02]
+AleksandR400 calls [$0.02]
+** Summary **
+Pinvax shows [ Tc, 9d ]
+AleksandR400 mucks [ 9h, 5c ]
+Pinvax collected [ $0.15 ]
+
+
+#Game No : 516266839
+***** 888poker Hand History for Game 516266839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:25:28
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.84 )
+Seat 6: AleksandR400 ( $0.93 )
+AleksandR400 posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 folds
+** Summary **
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 516266841
+***** 888poker Hand History for Game 516266841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:25:36
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.85 )
+Seat 6: AleksandR400 ( $0.92 )
+Pinvax posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Pinvax raises [$0.05]
+AleksandR400 calls [$0.04]
+** Dealing flop ** [ Qc, Tc, Ks ]
+AleksandR400 checks
+Pinvax checks
+** Dealing turn ** [ Ad ]
+AleksandR400 bets [$0.06]
+Pinvax raises [$0.12]
+AleksandR400 folds
+** Summary **
+Pinvax collected [ $0.23 ]
+
+
+#Game No : 516266846
+***** 888poker Hand History for Game 516266846 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:26:09
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Pinvax ( $0.96 )
+Seat 6: AleksandR400 ( $0.80 )
+AleksandR400 posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.05]
+Pinvax folds
+** Summary **
+AleksandR400 collected [ $0.04 ]
+
+
+#Game No : 516267073
+***** 888poker Hand History for Game 516267073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:41:40
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.06 )
+Seat 9: terry1951999 ( $0.47 )
+iks2s posts small blind [$0.01]
+terry1951999 posts big blind [$0.02]
+** Dealing down cards **
+iks2s folds
+** Summary **
+terry1951999 collected [ $0.03 ]
+
+
+#Game No : 516267074
+***** 888poker Hand History for Game 516267074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:41:45
+Table Carmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.05 )
+Seat 9: terry1951999 ( $0.48 )
+terry1951999 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+terry1951999 calls [$0.01]
+iks2s checks
+** Dealing flop ** [ 7c, Ad, 4c ]
+iks2s checks
+terry1951999 bets [$0.02]
+iks2s calls [$0.02]
+** Dealing turn ** [ Qh ]
+iks2s checks
+terry1951999 bets [$0.02]
+iks2s calls [$0.02]
+** Dealing river ** [ 7h ]
+iks2s checks
+terry1951999 bets [$0.06]
+iks2s calls [$0.06]
+** Summary **
+terry1951999 shows [ Jd, 7s ]
+iks2s mucks [ 6c, 6h ]
+terry1951999 collected [ $0.23 ]
+
+
+#Game No : 516267089
+***** 888poker Hand History for Game 516267089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:42:29
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $0.93 )
+Seat 9: terry1951999 ( $0.59 )
+iks2s posts small blind [$0.01]
+terry1951999 posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+terry1951999 calls [$0.04]
+** Dealing flop ** [ 5d, 5c, Qh ]
+terry1951999 bets [$0.02]
+iks2s raises [$0.18]
+terry1951999 calls [$0.16]
+** Dealing turn ** [ 7c ]
+terry1951999 checks
+iks2s bets [$0.69]
+terry1951999 calls [$0.35]
+** Dealing river ** [ 9c ]
+** Summary **
+iks2s shows [ 8c, 8d ]
+terry1951999 shows [ Td, Qc ]
+terry1951999 collected [ $1.11 ]
+
+
+#Game No : 516267107
+***** 888poker Hand History for Game 516267107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:43:45
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $0.30 )
+Seat 9: terry1951999 ( $1.15 )
+iks2s posts small blind [$0.01]
+terry1951999 posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+terry1951999 checks
+** Dealing flop ** [ 9c, Qs, 8c ]
+terry1951999 bets [$0.02]
+iks2s folds
+** Summary **
+terry1951999 collected [ $0.04 ]
+
+
+#Game No : 516267110
+***** 888poker Hand History for Game 516267110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:44:05
+Table Carmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: iks2s ( $0.28 )
+Seat 9: terry1951999 ( $1.17 )
+terry1951999 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+terry1951999 calls [$0.01]
+iks2s raises [$0.26]
+terry1951999 folds
+** Summary **
+iks2s collected [ $0.04 ]
+
+
+#Game No : 516267114
+***** 888poker Hand History for Game 516267114 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:44:21
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $0.52 )
+Seat 9: terry1951999 ( $1.15 )
+iks2s posts small blind [$0.01]
+terry1951999 posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+terry1951999 checks
+** Dealing flop ** [ 6d, 4d, 2s ]
+terry1951999 bets [$0.02]
+iks2s calls [$0.02]
+** Dealing turn ** [ 7h ]
+terry1951999 bets [$0.02]
+iks2s calls [$0.02]
+** Dealing river ** [ 8h ]
+terry1951999 bets [$0.02]
+iks2s calls [$0.02]
+** Summary **
+terry1951999 shows [ 8c, 6s ]
+iks2s mucks [ Kc, 3h ]
+terry1951999 collected [ $0.15 ]
+
+
+#Game No : 516267123
+***** 888poker Hand History for Game 516267123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:45:04
+Table Carmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: iks2s ( $0.44 )
+Seat 9: terry1951999 ( $1.22 )
+terry1951999 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+terry1951999 calls [$0.01]
+iks2s checks
+** Dealing flop ** [ 7d, 4c, Jc ]
+iks2s checks
+terry1951999 checks
+** Dealing turn ** [ 2d ]
+iks2s checks
+terry1951999 checks
+** Dealing river ** [ Ts ]
+iks2s checks
+terry1951999 checks
+** Summary **
+iks2s shows [ Kd, 9s ]
+terry1951999 mucks [ 5h, 9d ]
+iks2s collected [ $0.04 ]
+
+
+#Game No : 516267133
+***** 888poker Hand History for Game 516267133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:45:33
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $0.46 )
+Seat 9: terry1951999 ( $1.20 )
+iks2s posts small blind [$0.01]
+terry1951999 posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+terry1951999 checks
+** Dealing flop ** [ 2d, Js, 4s ]
+terry1951999 bets [$0.02]
+iks2s calls [$0.02]
+** Dealing turn ** [ 8d ]
+terry1951999 checks
+iks2s checks
+** Dealing river ** [ Jd ]
+terry1951999 bets [$0.02]
+iks2s calls [$0.02]
+** Summary **
+terry1951999 shows [ Th, 4d ]
+iks2s mucks [ Ks, 7d ]
+terry1951999 collected [ $0.12 ]
+
+
+#Game No : 516267235
+***** 888poker Hand History for Game 516267235 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:52:14
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.08 )
+Seat 6: Vorkout ( $1.98 )
+iks2s posts small blind [$0.01]
+Vorkout posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+Vorkout checks
+** Dealing flop ** [ Kh, 8s, 7c ]
+Vorkout checks
+iks2s bets [$0.02]
+Vorkout folds
+** Summary **
+iks2s collected [ $0.04 ]
+
+

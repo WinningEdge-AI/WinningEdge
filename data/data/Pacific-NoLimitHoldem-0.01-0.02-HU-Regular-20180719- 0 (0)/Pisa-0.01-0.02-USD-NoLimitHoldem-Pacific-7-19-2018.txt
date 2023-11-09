@@ -1,0 +1,58 @@
+#Game No : 504887880
+***** 888poker Hand History for Game 504887880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 11:06:59
+Table Pisa 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cezar6000 ( $2 )
+Seat 2: DinoCrow ( $2 )
+Cezar6000 posts small blind [$0.01]
+DinoCrow posts big blind [$0.02]
+** Dealing down cards **
+Cezar6000 calls [$0.01]
+DinoCrow checks
+** Dealing flop ** [ 8h, 6s, 6d ]
+DinoCrow checks
+Cezar6000 checks
+** Dealing turn ** [ 3d ]
+DinoCrow checks
+Cezar6000 bets [$0.02]
+DinoCrow raises [$0.04]
+Cezar6000 calls [$0.02]
+** Dealing river ** [ Jc ]
+DinoCrow checks
+Cezar6000 bets [$0.08]
+DinoCrow calls [$0.08]
+** Summary **
+Cezar6000 shows [ 4c, 6c ]
+DinoCrow mucks [ Ad, Td ]
+Cezar6000 collected [ $0.27 ]
+
+
+#Game No : 504887911
+***** 888poker Hand History for Game 504887911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 11:07:08
+Table Pisa 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Cezar6000 ( $2.13 )
+Seat 2: DinoCrow ( $1.86 )
+DinoCrow posts small blind [$0.01]
+Cezar6000 posts big blind [$0.02]
+** Dealing down cards **
+DinoCrow calls [$0.01]
+Cezar6000 checks
+** Dealing flop ** [ Qs, Ah, 3h ]
+Cezar6000 checks
+DinoCrow checks
+** Dealing turn ** [ 4s ]
+Cezar6000 bets [$0.02]
+DinoCrow calls [$0.02]
+** Dealing river ** [ 5d ]
+Cezar6000 checks
+DinoCrow bets [$1.82]
+Cezar6000 folds
+** Summary **
+DinoCrow collected [ $0.08 ]
+
+

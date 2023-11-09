@@ -1,0 +1,61 @@
+#Game No : 516929539
+***** 888poker Hand History for Game 516929539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 05:37:33
+Table Asmara 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Soulhunter21 ( $0.90 )
+Seat 6: paradice14 ( $2 )
+paradice14 posts small blind [$0.01]
+Soulhunter21 posts big blind [$0.02]
+** Dealing down cards **
+paradice14 raises [$0.03]
+Soulhunter21 calls [$0.02]
+** Dealing flop ** [ Kd, 7c, Jd ]
+Soulhunter21 checks
+paradice14 bets [$0.02]
+Soulhunter21 calls [$0.02]
+** Dealing turn ** [ 6d ]
+Soulhunter21 checks
+paradice14 bets [$0.02]
+Soulhunter21 calls [$0.02]
+** Dealing river ** [ 6s ]
+Soulhunter21 checks
+paradice14 bets [$0.02]
+Soulhunter21 calls [$0.02]
+** Summary **
+paradice14 shows [ 2h, Jh ]
+Soulhunter21 shows [ 7s, Kh ]
+Soulhunter21 collected [ $0.19 ]
+
+
+#Game No : 516929551
+***** 888poker Hand History for Game 516929551 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 05:37:44
+Table Asmara 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Soulhunter21 ( $0.99 )
+Seat 6: paradice14 ( $1.90 )
+Soulhunter21 posts small blind [$0.01]
+paradice14 posts big blind [$0.02]
+** Dealing down cards **
+Soulhunter21 calls [$0.01]
+paradice14 raises [$0.02]
+Soulhunter21 calls [$0.02]
+** Dealing flop ** [ Qc, Qh, 5h ]
+paradice14 checks
+Soulhunter21 checks
+** Dealing turn ** [ 6c ]
+paradice14 checks
+Soulhunter21 checks
+** Dealing river ** [ Jh ]
+paradice14 checks
+Soulhunter21 bets [$0.02]
+paradice14 calls [$0.02]
+** Summary **
+Soulhunter21 shows [ 6d, Qd ]
+paradice14 shows [ Ah, 2d ]
+Soulhunter21 collected [ $0.12 ]
+
+

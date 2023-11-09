@@ -1,0 +1,61 @@
+#Game No : 503766774
+***** 888poker Hand History for Game 503766774 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 06:55:48
+Table Arezzo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: hemingway9 ( $1.08 )
+Seat 2: BOT11735 ( $1.68 )
+BOT11735 posts small blind [$0.01]
+hemingway9 posts big blind [$0.02]
+** Dealing down cards **
+BOT11735 folds
+** Summary **
+hemingway9 did not show his hand
+hemingway9 collected [ $0.03 ]
+
+
+#Game No : 503766777
+***** 888poker Hand History for Game 503766777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 06:55:54
+Table Arezzo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hemingway9 ( $1.09 )
+Seat 2: BOT11735 ( $1.67 )
+hemingway9 posts small blind [$0.01]
+BOT11735 posts big blind [$0.02]
+** Dealing down cards **
+hemingway9 raises [$0.04]
+BOT11735 raises [$0.09]
+hemingway9 calls [$0.06]
+** Dealing flop ** [ Js, 3h, Kc ]
+BOT11735 checks
+hemingway9 checks
+** Dealing turn ** [ Td ]
+BOT11735 checks
+hemingway9 checks
+** Dealing river ** [ Ah ]
+BOT11735 bets [$0.11]
+hemingway9 folds
+** Summary **
+BOT11735 did not show his hand
+BOT11735 collected [ $0.21 ]
+
+
+#Game No : 503766826
+***** 888poker Hand History for Game 503766826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 06:56:36
+Table Arezzo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: hemingway9 ( $1 )
+Seat 2: BOT11735 ( $1.77 )
+BOT11735 posts small blind [$0.01]
+** Dealing down cards **
+hemingway9 folds
+** Summary **
+BOT11735 did not show his hand
+BOT11735 collected [ $0.01 ]
+
+

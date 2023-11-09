@@ -1,0 +1,95 @@
+#Game No : 525403561
+***** 888poker Hand History for Game 525403561 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 12 2019 03:21:35
+Table Copenhagen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Paisting ( $3.01 )
+Seat 6: Fan_001 ( $3.95 )
+Fan_001 posts small blind [$0.01]
+** Dealing down cards **
+Paisting folds
+** Summary **
+Fan_001 collected [ $0.01 ]
+
+
+#Game No : 525403564
+***** 888poker Hand History for Game 525403564 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 12 2019 03:21:38
+Table Copenhagen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Ki55_my_Ace ( $2.55 )
+Seat 6: Fan_001 ( $3.95 )
+Fan_001 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+Fan_001 folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 525403595
+***** 888poker Hand History for Game 525403595 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 12 2019 03:23:40
+Table Copenhagen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Ki55_my_Ace ( $2.56 )
+Seat 6: bespalovr ( $2 )
+bespalovr posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+bespalovr folds
+** Summary **
+Ki55_my_Ace did not show his hand
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 525403597
+***** 888poker Hand History for Game 525403597 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 12 2019 03:23:45
+Table Copenhagen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Ki55_my_Ace ( $2.57 )
+Seat 6: bespalovr ( $2 )
+Ki55_my_Ace posts small blind [$0.01]
+bespalovr posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace folds
+** Summary **
+bespalovr did not show his hand
+bespalovr collected [ $0.03 ]
+
+
+#Game No : 525403601
+***** 888poker Hand History for Game 525403601 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 12 2019 03:23:51
+Table Copenhagen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Ki55_my_Ace ( $2.56 )
+Seat 6: bespalovr ( $2.01 )
+bespalovr posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+bespalovr raises [$0.05]
+Ki55_my_Ace calls [$0.04]
+** Dealing flop ** [ 5h, 9c, 2h ]
+Ki55_my_Ace checks
+bespalovr checks
+** Dealing turn ** [ Ah ]
+Ki55_my_Ace bets [$0.12]
+bespalovr calls [$0.12]
+** Dealing river ** [ 4d ]
+Ki55_my_Ace checks
+bespalovr bets [$0.17]
+Ki55_my_Ace calls [$0.17]
+** Summary **
+bespalovr shows [ Ac, Ks ]
+Ki55_my_Ace shows [ 7h, 9h ]
+Ki55_my_Ace collected [ $0.66 ]
+
+

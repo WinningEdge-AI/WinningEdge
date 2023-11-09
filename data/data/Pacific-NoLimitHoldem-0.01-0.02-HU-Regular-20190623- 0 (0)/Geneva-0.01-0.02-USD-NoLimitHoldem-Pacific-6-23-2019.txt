@@ -1,0 +1,76 @@
+#Game No : 511635
+***** 888poker Hand History for Game 511635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 02:42:30
+Table Geneva 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: fredplev ( $0.48 )
+Seat 9: KentaUA ( $1.16 )
+fredplev posts small blind [$0.01]
+KentaUA posts big blind [$0.02]
+** Dealing down cards **
+fredplev calls [$0.01]
+KentaUA checks
+** Dealing flop ** [ 2c, Kd, 9s ]
+KentaUA bets [$0.04]
+fredplev raises [$0.08]
+KentaUA raises [$1.10]
+fredplev calls [$0.38]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ 4c ]
+** Summary **
+fredplev shows [ 4h, 9d ]
+KentaUA shows [ 2h, Kh ]
+KentaUA collected [ $0.90 ]
+
+
+#Game No : 511638
+***** 888poker Hand History for Game 511638 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 02:43:06
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: fredplev ( $1 )
+Seat 9: KentaUA ( $1.58 )
+KentaUA posts small blind [$0.01]
+fredplev posts big blind [$0.02]
+** Dealing down cards **
+KentaUA raises [$0.05]
+fredplev calls [$0.04]
+** Dealing flop ** [ 8h, Tc, 3c ]
+fredplev checks
+KentaUA bets [$0.12]
+fredplev folds
+** Summary **
+KentaUA collected [ $0.12 ]
+
+
+#Game No : 512063
+***** 888poker Hand History for Game 512063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 04:08:19
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bubblegum41 ( $2.04 )
+Seat 6: Skyluck11 ( $4.14 )
+bubblegum41 posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+bubblegum41 raises [$0.04]
+Skyluck11 calls [$0.03]
+** Dealing flop ** [ 2h, 3s, 9h ]
+Skyluck11 checks
+bubblegum41 bets [$0.03]
+Skyluck11 calls [$0.03]
+** Dealing turn ** [ Qs ]
+Skyluck11 checks
+bubblegum41 checks
+** Dealing river ** [ 6c ]
+Skyluck11 checks
+bubblegum41 checks
+** Summary **
+Skyluck11 shows [ Kd, 9d ]
+bubblegum41 mucks [ As, 6s ]
+Skyluck11 collected [ $0.15 ]
+
+

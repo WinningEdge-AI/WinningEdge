@@ -1,0 +1,163 @@
+#Game No : 1287813653
+***** 888poker Hand History for Game 1287813653 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2019 23:45:22
+Table Maastricht 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: andy9147 ( $2 )
+Seat 2: JungFu ( $2 )
+andy9147 posts small blind [$0.01]
+** Dealing down cards **
+JungFu folds
+** Summary **
+andy9147 did not show his hand
+andy9147 collected [ $0.01 ]
+
+
+#Game No : 1287813770
+***** 888poker Hand History for Game 1287813770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2019 23:46:28
+Table Maastricht 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: andy9147 ( $2 )
+Seat 4: KAMILO_888 ( $2 )
+andy9147 posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+andy9147 calls [$0.01]
+KAMILO_888 checks
+** Dealing flop ** [ 4h, 5d, Kd ]
+KAMILO_888 bets [$0.02]
+andy9147 calls [$0.02]
+** Dealing turn ** [ 8h ]
+KAMILO_888 bets [$0.02]
+andy9147 calls [$0.02]
+** Dealing river ** [ As ]
+KAMILO_888 bets [$1.94]
+andy9147 calls [$1.94]
+** Summary **
+andy9147 shows [ Ad, 4c ]
+KAMILO_888 shows [ 2c, 3d ]
+KAMILO_888 collected [ $3.75 ]
+
+
+#Game No : 1287813829
+***** 888poker Hand History for Game 1287813829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2019 23:47:00
+Table Maastricht 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: andy9147 ( $2 )
+Seat 4: KAMILO_888 ( $3.75 )
+KAMILO_888 posts small blind [$0.01]
+andy9147 posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 calls [$0.01]
+andy9147 checks
+** Dealing flop ** [ As, 2c, Td ]
+andy9147 checks
+KAMILO_888 bets [$0.04]
+andy9147 calls [$0.04]
+** Dealing turn ** [ Ad ]
+andy9147 checks
+KAMILO_888 bets [$0.10]
+andy9147 calls [$0.10]
+** Dealing river ** [ 2h ]
+andy9147 checks
+KAMILO_888 bets [$0.34]
+andy9147 calls [$0.34]
+** Summary **
+KAMILO_888 shows [ Tc, Qs ]
+andy9147 mucks [ Ts, 3c ]
+KAMILO_888 collected [ $0.94 ]
+
+
+#Game No : 1287821877
+***** 888poker Hand History for Game 1287821877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2019 00:53:10
+Table Maastricht 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lexagersh ( $1.22 )
+Seat 6: NNNddd111 ( $2.06 )
+lexagersh posts small blind [$0.01]
+NNNddd111 posts big blind [$0.02]
+** Dealing down cards **
+lexagersh folds
+** Summary **
+NNNddd111 collected [ $0.03 ]
+
+
+#Game No : 1287821894
+***** 888poker Hand History for Game 1287821894 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2019 00:53:17
+Table Maastricht 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: lexagersh ( $1.21 )
+Seat 6: NNNddd111 ( $2.07 )
+NNNddd111 posts small blind [$0.01]
+lexagersh posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 calls [$0.01]
+lexagersh checks
+** Dealing flop ** [ Tc, Jh, 7c ]
+lexagersh checks
+NNNddd111 checks
+** Dealing turn ** [ Ks ]
+lexagersh checks
+NNNddd111 checks
+** Dealing river ** [ 4s ]
+lexagersh checks
+NNNddd111 checks
+** Summary **
+lexagersh shows [ 5c, 7h ]
+NNNddd111 shows [ 7d, Qh ]
+NNNddd111 collected [ $0.04 ]
+
+
+#Game No : 1287821968
+***** 888poker Hand History for Game 1287821968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2019 00:53:47
+Table Maastricht 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lexagersh ( $1.19 )
+Seat 6: NNNddd111 ( $2.09 )
+lexagersh posts small blind [$0.01]
+NNNddd111 posts big blind [$0.02]
+** Dealing down cards **
+lexagersh calls [$0.01]
+NNNddd111 checks
+** Dealing flop ** [ 2s, Jh, Kd ]
+NNNddd111 checks
+lexagersh checks
+** Dealing turn ** [ 6h ]
+NNNddd111 checks
+lexagersh checks
+** Dealing river ** [ Ad ]
+NNNddd111 bets [$0.02]
+lexagersh calls [$0.02]
+** Summary **
+NNNddd111 shows [ As, 7c ]
+lexagersh mucks [ Jc, Qc ]
+NNNddd111 collected [ $0.08 ]
+
+
+#Game No : 1287822041
+***** 888poker Hand History for Game 1287822041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2019 00:54:18
+Table Maastricht 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: lexagersh ( $1.15 )
+Seat 6: NNNddd111 ( $2.13 )
+NNNddd111 posts small blind [$0.01]
+lexagersh posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 folds
+** Summary **
+lexagersh collected [ $0.03 ]
+
+

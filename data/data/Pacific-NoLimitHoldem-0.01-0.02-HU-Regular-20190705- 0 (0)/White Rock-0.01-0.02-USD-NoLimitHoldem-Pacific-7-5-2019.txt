@@ -1,0 +1,31 @@
+#Game No : 534635911
+***** 888poker Hand History for Game 534635911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 07 2019 22:52:56
+Table White Rock 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: TheBullNeck ( $2.04 )
+Seat 2: Cyman22 ( $2.06 )
+Cyman22 posts small blind [$0.01]
+TheBullNeck posts big blind [$0.02]
+** Dealing down cards **
+Cyman22 calls [$0.01]
+TheBullNeck checks
+** Dealing flop ** [ 2c, 3s, 3h ]
+TheBullNeck bets [$0.02]
+Cyman22 raises [$0.04]
+TheBullNeck calls [$0.02]
+** Dealing turn ** [ Js ]
+TheBullNeck checks
+Cyman22 checks
+** Dealing river ** [ 3d ]
+TheBullNeck checks
+Cyman22 bets [$0.08]
+TheBullNeck raises [$0.18]
+Cyman22 calls [$0.10]
+** Summary **
+TheBullNeck shows [ 3c, 4d ]
+Cyman22 mucks [ 2d, As ]
+TheBullNeck collected [ $0.45 ]
+
+

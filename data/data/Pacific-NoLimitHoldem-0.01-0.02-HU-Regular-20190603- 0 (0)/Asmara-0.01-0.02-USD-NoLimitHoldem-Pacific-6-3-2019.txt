@@ -1,0 +1,129 @@
+#Game No : 465674679
+***** 888poker Hand History for Game 465674679 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 06 2019 03:45:22
+Table Asmara 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ARTEM_LUCKY ( $1.40 )
+Seat 2: GARALD84 ( $1.40 )
+ARTEM_LUCKY posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+ARTEM_LUCKY raises [$0.04]
+GARALD84 calls [$0.03]
+** Dealing flop ** [ 9h, 4d, 5s ]
+GARALD84 checks
+ARTEM_LUCKY checks
+** Dealing turn ** [ Qh ]
+GARALD84 bets [$0.06]
+ARTEM_LUCKY calls [$0.06]
+** Dealing river ** [ Kd ]
+GARALD84 bets [$0.14]
+ARTEM_LUCKY folds
+** Summary **
+GARALD84 collected [ $0.21 ]
+
+
+#Game No : 465674685
+***** 888poker Hand History for Game 465674685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 06 2019 03:45:42
+Table Asmara 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ARTEM_LUCKY ( $1.29 )
+Seat 2: GARALD84 ( $1.50 )
+GARALD84 posts small blind [$0.01]
+** Dealing down cards **
+ARTEM_LUCKY folds
+** Summary **
+GARALD84 collected [ $0.01 ]
+
+
+#Game No : 465674687
+***** 888poker Hand History for Game 465674687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 06 2019 03:45:45
+Table Asmara 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.50 )
+Seat 4: Slin83 ( $0.80 )
+GARALD84 posts small blind [$0.01]
+Slin83 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+Slin83 checks
+** Dealing flop ** [ 4d, 8c, As ]
+Slin83 checks
+GARALD84 checks
+** Dealing turn ** [ 3c ]
+Slin83 checks
+GARALD84 bets [$0.02]
+Slin83 folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 465674696
+***** 888poker Hand History for Game 465674696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 06 2019 03:46:07
+Table Asmara 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.52 )
+Seat 4: Slin83 ( $0.78 )
+Slin83 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+Slin83 calls [$0.01]
+GARALD84 raises [$0.06]
+Slin83 calls [$0.06]
+** Dealing flop ** [ 3c, 3h, 7c ]
+GARALD84 bets [$0.10]
+Slin83 calls [$0.10]
+** Dealing turn ** [ Ts ]
+GARALD84 bets [$0.23]
+Slin83 raises [$0.46]
+GARALD84 raises [$0.46]
+Slin83 calls [$0.14]
+** Dealing river ** [ 3s ]
+** Summary **
+GARALD84 shows [ Jh, Js ]
+Slin83 shows [ 6c, 6d ]
+GARALD84 collected [ $1.47 ]
+
+
+#Game No : 465676134
+***** 888poker Hand History for Game 465676134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 06 2019 05:02:53
+Table Asmara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Nikolai512 ( $0.76 )
+Seat 9: toska21 ( $1.42 )
+toska21 posts small blind [$0.01]
+Nikolai512 posts big blind [$0.02]
+** Dealing down cards **
+toska21 raises [$0.05]
+Nikolai512 folds
+** Summary **
+toska21 did not show his hand
+toska21 collected [ $0.04 ]
+
+
+#Game No : 465676144
+***** 888poker Hand History for Game 465676144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 06 2019 05:03:08
+Table Asmara 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Nikolai512 ( $0.74 )
+Seat 9: toska21 ( $1.44 )
+Nikolai512 posts small blind [$0.01]
+** Dealing down cards **
+toska21 folds
+** Summary **
+Nikolai512 did not show his hand
+Nikolai512 collected [ $0.01 ]
+
+

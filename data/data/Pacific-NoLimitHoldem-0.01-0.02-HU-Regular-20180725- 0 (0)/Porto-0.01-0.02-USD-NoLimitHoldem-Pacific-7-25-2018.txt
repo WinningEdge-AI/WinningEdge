@@ -1,0 +1,87 @@
+#Game No : 499915641
+***** 888poker Hand History for Game 499915641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 19:18:57
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Shiizanra2 ( $0.80 )
+Seat 9: MrHachiman ( $1.70 )
+MrHachiman posts small blind [$0.01]
+Shiizanra2 posts big blind [$0.02]
+** Dealing down cards **
+MrHachiman calls [$0.01]
+Shiizanra2 checks
+** Dealing flop ** [ Js, Qc, Kh ]
+Shiizanra2 bets [$0.02]
+MrHachiman calls [$0.02]
+** Dealing turn ** [ 3c ]
+Shiizanra2 bets [$0.02]
+MrHachiman calls [$0.02]
+** Dealing river ** [ Kd ]
+Shiizanra2 bets [$0.02]
+MrHachiman calls [$0.02]
+** Summary **
+Shiizanra2 shows [ 7d, Qh ]
+MrHachiman mucks [ Ts, 5c ]
+Shiizanra2 collected [ $0.15 ]
+
+
+#Game No : 499915646
+***** 888poker Hand History for Game 499915646 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 19:19:22
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Shiizanra2 ( $0.87 )
+Seat 9: MrHachiman ( $1.62 )
+Shiizanra2 posts small blind [$0.01]
+MrHachiman posts big blind [$0.02]
+** Dealing down cards **
+Shiizanra2 calls [$0.01]
+MrHachiman raises [$0.04]
+Shiizanra2 calls [$0.04]
+** Dealing flop ** [ Jc, 5c, 4h ]
+MrHachiman checks
+Shiizanra2 checks
+** Dealing turn ** [ Js ]
+MrHachiman checks
+Shiizanra2 checks
+** Dealing river ** [ 6c ]
+MrHachiman checks
+Shiizanra2 bets [$0.02]
+MrHachiman calls [$0.02]
+** Summary **
+Shiizanra2 shows [ As, Qs ]
+MrHachiman mucks [ 9d, Ah ]
+Shiizanra2 collected [ $0.15 ]
+
+
+#Game No : 499915698
+***** 888poker Hand History for Game 499915698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 19:22:28
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: peterobrien4 ( $2.16 )
+Seat 9: MrHachiman ( $1 )
+peterobrien4 posts small blind [$0.01]
+MrHachiman posts big blind [$0.02]
+** Dealing down cards **
+peterobrien4 raises [$0.03]
+MrHachiman calls [$0.02]
+** Dealing flop ** [ 2h, 2s, 8d ]
+MrHachiman checks
+peterobrien4 checks
+** Dealing turn ** [ 6s ]
+MrHachiman bets [$0.04]
+peterobrien4 raises [$0.20]
+MrHachiman raises [$0.32]
+peterobrien4 raises [$1.92]
+MrHachiman calls [$0.60]
+** Dealing river ** [ Jd ]
+** Summary **
+peterobrien4 shows [ Kh, Kc ]
+MrHachiman shows [ Qh, 6h ]
+peterobrien4 collected [ $1.88 ]
+
+

@@ -1,0 +1,75 @@
+#Game No : 503064376
+***** 888poker Hand History for Game 503064376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 06 2018 04:49:01
+Table Santos 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: logikco ( $2 )
+Seat 6: svenskakex ( $2 )
+logikco posts small blind [$0.01]
+svenskakex posts big blind [$0.02]
+** Dealing down cards **
+logikco calls [$0.01]
+svenskakex raises [$0.04]
+logikco calls [$0.04]
+** Dealing flop ** [ Qs, 8s, Td ]
+svenskakex bets [$0.08]
+logikco calls [$0.08]
+** Dealing turn ** [ Th ]
+svenskakex checks
+logikco bets [$0.02]
+svenskakex calls [$0.02]
+** Dealing river ** [ Js ]
+svenskakex checks
+logikco checks
+** Summary **
+svenskakex shows [ Ad, 7h ]
+logikco mucks [ 3h, 7d ]
+svenskakex collected [ $0.30 ]
+
+
+#Game No : 503064425
+***** 888poker Hand History for Game 503064425 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 06 2018 04:49:11
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: logikco ( $1.84 )
+Seat 6: svenskakex ( $2.14 )
+svenskakex posts small blind [$0.01]
+logikco posts big blind [$0.02]
+** Dealing down cards **
+svenskakex folds
+** Summary **
+logikco collected [ $0.03 ]
+
+
+#Game No : 503073084
+***** 888poker Hand History for Game 503073084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 06 2018 07:00:40
+Table Santos 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: aspbr ( $1.03 )
+Seat 7: Ash.05 ( $2.16 )
+Ash.05 posts small blind [$0.01]
+aspbr posts big blind [$0.02]
+** Dealing down cards **
+Ash.05 calls [$0.01]
+aspbr checks
+** Dealing flop ** [ Kc, 3c, Qs ]
+aspbr checks
+Ash.05 bets [$0.02]
+aspbr calls [$0.02]
+** Dealing turn ** [ 5c ]
+aspbr checks
+Ash.05 checks
+** Dealing river ** [ 5h ]
+aspbr checks
+Ash.05 checks
+** Summary **
+aspbr shows [ Ah, 8h ]
+Ash.05 mucks [ Jd, Th ]
+aspbr collected [ $0.08 ]
+
+

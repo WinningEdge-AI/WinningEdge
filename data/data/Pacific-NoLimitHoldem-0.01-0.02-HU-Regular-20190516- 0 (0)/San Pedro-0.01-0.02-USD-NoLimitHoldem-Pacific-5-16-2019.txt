@@ -1,0 +1,81 @@
+#Game No : 295703
+***** 888poker Hand History for Game 295703 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 02:37:06
+Table San Pedro 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Whitesnake89 ( $0.81 )
+Seat 6: Xaxaxa99999 ( $1.02 )
+Xaxaxa99999 posts small blind [$0.01]
+Whitesnake89 posts big blind [$0.02]
+** Dealing down cards **
+Xaxaxa99999 raises [$0.04]
+Whitesnake89 calls [$0.03]
+** Dealing flop ** [ Qc, 4c, Td ]
+Whitesnake89 checks
+Xaxaxa99999 bets [$0.07]
+Whitesnake89 raises [$0.76]
+Xaxaxa99999 folds
+** Summary **
+Whitesnake89 collected [ $0.23 ]
+
+
+#Game No : 295890
+***** 888poker Hand History for Game 295890 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 03:20:37
+Table San Pedro 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Buduram ( $0.76 )
+Seat 6: shezzabee ( $1.03 )
+shezzabee posts small blind [$0.01]
+Buduram posts big blind [$0.02]
+** Dealing down cards **
+shezzabee calls [$0.01]
+Buduram checks
+** Dealing flop ** [ Ts, Js, 9c ]
+Buduram checks
+shezzabee checks
+** Dealing turn ** [ 9d ]
+Buduram checks
+shezzabee bets [$0.02]
+Buduram calls [$0.02]
+** Dealing river ** [ 6d ]
+Buduram checks
+shezzabee bets [$0.04]
+Buduram folds
+** Summary **
+shezzabee collected [ $0.08 ]
+
+
+#Game No : 295949
+***** 888poker Hand History for Game 295949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 03:33:00
+Table San Pedro 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: richbranson ( $1.76 )
+Seat 6: shezzabee ( $2.70 )
+shezzabee posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+shezzabee calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Qh, 9c, Kd ]
+richbranson checks
+shezzabee checks
+** Dealing turn ** [ Th ]
+richbranson bets [$0.04]
+shezzabee raises [$0.13]
+richbranson calls [$0.09]
+** Dealing river ** [ 5h ]
+richbranson checks
+shezzabee bets [$0.30]
+richbranson raises [$0.72]
+shezzabee calls [$0.42]
+** Summary **
+richbranson shows [ 3h, Jh ]
+shezzabee mucks [ Jd, 8s ]
+richbranson collected [ $1.64 ]
+
+

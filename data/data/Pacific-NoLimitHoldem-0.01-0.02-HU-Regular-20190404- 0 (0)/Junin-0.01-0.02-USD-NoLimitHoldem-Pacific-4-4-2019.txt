@@ -1,0 +1,28 @@
+#Game No : 1259486691
+***** 888poker Hand History for Game 1259486691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 04 2019 03:00:20
+Table Junin 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: schneiderrad ( $1.71 )
+Seat 2: tinbin14 ( $1.41 )
+tinbin14 posts small blind [$0.01]
+schneiderrad posts big blind [$0.02]
+** Dealing down cards **
+tinbin14 calls [$0.01]
+schneiderrad checks
+** Dealing flop ** [ Tc, Qd, Kd ]
+schneiderrad checks
+tinbin14 checks
+** Dealing turn ** [ 3c ]
+schneiderrad checks
+tinbin14 checks
+** Dealing river ** [ 9d ]
+schneiderrad bets [$0.02]
+tinbin14 calls [$0.02]
+** Summary **
+schneiderrad shows [ Ad, 8d ]
+tinbin14 mucks [ Qc, 6h ]
+schneiderrad collected [ $0.08 ]
+
+

@@ -1,0 +1,238 @@
+#Game No : 1256525887
+***** 888poker Hand History for Game 1256525887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 22:45:38
+Table Charleroi 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: ShipPunisher ( $1.45 )
+Seat 4: Mobilfox ( $2 )
+ShipPunisher posts small blind [$0.01]
+Mobilfox posts big blind [$0.02]
+** Dealing down cards **
+ShipPunisher calls [$0.01]
+Mobilfox checks
+** Dealing flop ** [ Ah, 4d, 9s ]
+Mobilfox checks
+ShipPunisher checks
+** Dealing turn ** [ 4c ]
+Mobilfox checks
+ShipPunisher checks
+** Dealing river ** [ Jc ]
+Mobilfox checks
+ShipPunisher checks
+** Summary **
+Mobilfox shows [ Jh, 7d ]
+ShipPunisher mucks [ Tc, 2h ]
+Mobilfox collected [ $0.04 ]
+
+
+#Game No : 1256527037
+***** 888poker Hand History for Game 1256527037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 22:57:19
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Mobilfox ( $2.02 )
+Seat 5: ogeorgii ( $0.80 )
+ogeorgii posts small blind [$0.01]
+Mobilfox posts big blind [$0.02]
+** Dealing down cards **
+ogeorgii calls [$0.01]
+Mobilfox checks
+** Dealing flop ** [ 6d, Ts, Ah ]
+Mobilfox checks
+ogeorgii checks
+** Dealing turn ** [ 6s ]
+Mobilfox bets [$0.03]
+ogeorgii calls [$0.03]
+** Dealing river ** [ Tc ]
+Mobilfox checks
+ogeorgii checks
+** Summary **
+Mobilfox shows [ 7s, 6c ]
+ogeorgii mucks [ Kd, 5d ]
+Mobilfox collected [ $0.10 ]
+
+
+#Game No : 1256527081
+***** 888poker Hand History for Game 1256527081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 22:57:41
+Table Charleroi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Mobilfox ( $2.07 )
+Seat 5: ogeorgii ( $0.75 )
+Mobilfox posts small blind [$0.01]
+ogeorgii posts big blind [$0.02]
+** Dealing down cards **
+Mobilfox raises [$0.05]
+ogeorgii folds
+** Summary **
+Mobilfox collected [ $0.04 ]
+
+
+#Game No : 1256527097
+***** 888poker Hand History for Game 1256527097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 22:57:50
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Mobilfox ( $2.09 )
+Seat 5: ogeorgii ( $0.73 )
+ogeorgii posts small blind [$0.01]
+Mobilfox posts big blind [$0.02]
+** Dealing down cards **
+ogeorgii raises [$0.03]
+Mobilfox calls [$0.02]
+** Dealing flop ** [ Kc, Ac, 5s ]
+Mobilfox checks
+ogeorgii bets [$0.08]
+Mobilfox folds
+** Summary **
+ogeorgii collected [ $0.08 ]
+
+
+#Game No : 1256527475
+***** 888poker Hand History for Game 1256527475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 23:01:42
+Table Charleroi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ogeorgii ( $0.70 )
+Seat 6: toaster17mb ( $0.99 )
+toaster17mb posts small blind [$0.01]
+ogeorgii posts big blind [$0.02]
+** Dealing down cards **
+toaster17mb calls [$0.01]
+ogeorgii checks
+** Dealing flop ** [ 4d, 4c, 7h ]
+ogeorgii checks
+toaster17mb checks
+** Dealing turn ** [ Kd ]
+ogeorgii bets [$0.02]
+toaster17mb raises [$0.06]
+ogeorgii calls [$0.04]
+** Dealing river ** [ 4s ]
+ogeorgii checks
+toaster17mb bets [$0.91]
+ogeorgii folds
+** Summary **
+toaster17mb did not show his hand
+toaster17mb collected [ $0.15 ]
+
+
+#Game No : 1256527545
+***** 888poker Hand History for Game 1256527545 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 23:01:53
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ogeorgii ( $0.62 )
+Seat 6: toaster17mb ( $1.06 )
+ogeorgii posts small blind [$0.01]
+toaster17mb posts big blind [$0.02]
+** Dealing down cards **
+ogeorgii raises [$0.05]
+toaster17mb calls [$0.04]
+** Dealing flop ** [ 7c, 3s, 8d ]
+toaster17mb checks
+ogeorgii bets [$0.12]
+toaster17mb folds
+** Summary **
+ogeorgii collected [ $0.12 ]
+
+
+#Game No : 1256527575
+***** 888poker Hand History for Game 1256527575 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 23:02:12
+Table Charleroi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ogeorgii ( $0.68 )
+Seat 6: toaster17mb ( $1 )
+toaster17mb posts small blind [$0.01]
+ogeorgii posts big blind [$0.02]
+** Dealing down cards **
+toaster17mb raises [$0.07]
+ogeorgii calls [$0.06]
+** Dealing flop ** [ 2h, 4c, Tc ]
+ogeorgii checks
+toaster17mb bets [$0.08]
+ogeorgii calls [$0.08]
+** Dealing turn ** [ 3h ]
+ogeorgii checks
+toaster17mb bets [$0.16]
+ogeorgii folds
+** Summary **
+toaster17mb collected [ $0.30 ]
+
+
+#Game No : 1256543875
+***** 888poker Hand History for Game 1256543875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 01:26:32
+Table Charleroi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: iskander2000 ( $0.80 )
+Seat 7: VICTORY888 ( $1.82 )
+VICTORY888 posts small blind [$0.01]
+** Dealing down cards **
+iskander2000 folds
+** Summary **
+VICTORY888 collected [ $0.01 ]
+
+
+#Game No : 1256545074
+***** 888poker Hand History for Game 1256545074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 01:34:51
+Table Charleroi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $0.80 )
+Seat 6: salakytta ( $0.80 )
+salakytta posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+salakytta calls [$0.01]
+scs1914 checks
+** Dealing flop ** [ 8s, 5s, Jd ]
+scs1914 bets [$0.02]
+salakytta calls [$0.02]
+** Dealing turn ** [ 3d ]
+scs1914 bets [$0.02]
+salakytta calls [$0.02]
+** Dealing river ** [ 8d ]
+scs1914 bets [$0.20]
+salakytta folds
+** Summary **
+scs1914 collected [ $0.12 ]
+
+
+#Game No : 1256620364
+***** 888poker Hand History for Game 1256620364 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:38:32
+Table Charleroi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: kmlm73 ( $2 )
+Seat 10: Colota14 ( $2.23 )
+Colota14 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+Colota14 calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ Kh, Jd, 9h ]
+kmlm73 checks
+Colota14 checks
+** Dealing turn ** [ Jh ]
+kmlm73 checks
+Colota14 checks
+** Dealing river ** [ 6d ]
+kmlm73 checks
+Colota14 checks
+** Summary **
+kmlm73 shows [ 7h, 3c ]
+Colota14 shows [ Ts, 8d ]
+Colota14 collected [ $0.04 ]
+
+

@@ -1,0 +1,312 @@
+#Game No : 502864840
+***** 888poker Hand History for Game 502864840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:36:01
+Table Paterson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: sm21byvoovik ( $1.03 )
+Seat 7: Bacchant ( $2.17 )
+sm21byvoovik posts small blind [$0.01]
+** Dealing down cards **
+Bacchant folds
+** Summary **
+sm21byvoovik collected [ $0.01 ]
+
+
+#Game No : 502864849
+***** 888poker Hand History for Game 502864849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:36:12
+Table Paterson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: sm21byvoovik ( $1.03 )
+Seat 7: Bacchant ( $2.17 )
+sm21byvoovik posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+sm21byvoovik folds
+** Summary **
+Bacchant collected [ $0.03 ]
+
+
+#Game No : 502865025
+***** 888poker Hand History for Game 502865025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:40:52
+Table Paterson 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: emirone ( $0.80 )
+Seat 2: fireballfoy ( $1 )
+fireballfoy posts small blind [$0.01]
+emirone posts big blind [$0.02]
+** Dealing down cards **
+fireballfoy raises [$0.03]
+emirone calls [$0.02]
+** Dealing flop ** [ 3d, Th, 9c ]
+emirone checks
+fireballfoy bets [$0.02]
+emirone calls [$0.02]
+** Dealing turn ** [ As ]
+emirone checks
+fireballfoy bets [$0.16]
+emirone calls [$0.16]
+** Dealing river ** [ 2c ]
+emirone checks
+fireballfoy bets [$0.40]
+emirone folds
+** Summary **
+fireballfoy collected [ $0.42 ]
+
+
+#Game No : 502865067
+***** 888poker Hand History for Game 502865067 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:41:55
+Table Paterson 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: emirone ( $0.58 )
+Seat 2: fireballfoy ( $1.20 )
+emirone posts small blind [$0.01]
+fireballfoy posts big blind [$0.02]
+** Dealing down cards **
+emirone calls [$0.01]
+fireballfoy raises [$0.02]
+emirone calls [$0.02]
+** Dealing flop ** [ 3h, 5h, 3s ]
+fireballfoy bets [$0.02]
+emirone calls [$0.02]
+** Dealing turn ** [ Ah ]
+fireballfoy bets [$0.02]
+emirone calls [$0.02]
+** Dealing river ** [ 7d ]
+fireballfoy checks
+emirone bets [$0.08]
+fireballfoy folds
+** Summary **
+emirone collected [ $0.15 ]
+
+
+#Game No : 502865156
+***** 888poker Hand History for Game 502865156 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:44:15
+Table Paterson 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: emirone ( $0.65 )
+Seat 2: fireballfoy ( $1.12 )
+fireballfoy posts small blind [$0.01]
+emirone posts big blind [$0.02]
+** Dealing down cards **
+fireballfoy calls [$0.01]
+emirone raises [$0.08]
+fireballfoy calls [$0.08]
+** Dealing flop ** [ Js, Kd, 2c ]
+emirone bets [$0.10]
+fireballfoy calls [$0.10]
+** Dealing turn ** [ 2s ]
+emirone bets [$0.20]
+fireballfoy calls [$0.20]
+** Dealing river ** [ Ac ]
+emirone bets [$0.25]
+fireballfoy calls [$0.25]
+** Summary **
+emirone shows [ Qd, Qc ]
+fireballfoy shows [ Ah, 3d ]
+fireballfoy collected [ $1.22 ]
+
+
+#Game No : 502865215
+***** 888poker Hand History for Game 502865215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:45:43
+Table Paterson 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: emirone ( $1 )
+Seat 2: fireballfoy ( $1.69 )
+emirone posts small blind [$0.01]
+fireballfoy posts big blind [$0.02]
+** Dealing down cards **
+emirone calls [$0.01]
+fireballfoy checks
+** Dealing flop ** [ Jc, Kd, As ]
+fireballfoy bets [$0.02]
+emirone raises [$0.04]
+fireballfoy calls [$0.02]
+** Dealing turn ** [ 4c ]
+fireballfoy checks
+emirone bets [$0.12]
+fireballfoy folds
+** Summary **
+emirone collected [ $0.12 ]
+
+
+#Game No : 502865251
+***** 888poker Hand History for Game 502865251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:46:30
+Table Paterson 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: emirone ( $1.06 )
+Seat 2: fireballfoy ( $1.63 )
+fireballfoy posts small blind [$0.01]
+emirone posts big blind [$0.02]
+** Dealing down cards **
+fireballfoy calls [$0.01]
+emirone checks
+** Dealing flop ** [ 2c, 3c, Jd ]
+emirone bets [$0.04]
+fireballfoy calls [$0.04]
+** Dealing turn ** [ 9c ]
+emirone bets [$0.12]
+fireballfoy calls [$0.12]
+** Dealing river ** [ Jh ]
+emirone checks
+fireballfoy checks
+** Summary **
+emirone shows [ 9h, Tc ]
+fireballfoy mucks [ Qs, 6s ]
+emirone collected [ $0.34 ]
+
+
+#Game No : 502865380
+***** 888poker Hand History for Game 502865380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:50:17
+Table Paterson 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: emirone ( $1.34 )
+Seat 4: sm21byvoovik ( $1 )
+sm21byvoovik posts small blind [$0.01]
+emirone posts big blind [$0.02]
+** Dealing down cards **
+sm21byvoovik folds
+** Summary **
+emirone collected [ $0.03 ]
+
+
+#Game No : 502865389
+***** 888poker Hand History for Game 502865389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:50:33
+Table Paterson 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: emirone ( $1.35 )
+Seat 4: sm21byvoovik ( $1 )
+emirone posts small blind [$0.01]
+sm21byvoovik posts big blind [$0.02]
+** Dealing down cards **
+emirone folds
+** Summary **
+sm21byvoovik collected [ $0.03 ]
+
+
+#Game No : 502865576
+***** 888poker Hand History for Game 502865576 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:55:44
+Table Paterson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: emirone ( $1.07 )
+Seat 4: sm21byvoovik ( $1.03 )
+emirone posts small blind [$0.01]
+sm21byvoovik posts big blind [$0.02]
+** Dealing down cards **
+emirone raises [$0.05]
+sm21byvoovik calls [$0.04]
+** Dealing flop ** [ 3h, 8h, Qs ]
+emirone checks
+sm21byvoovik bets [$0.08]
+emirone calls [$0.08]
+** Dealing turn ** [ 6s ]
+emirone checks
+sm21byvoovik bets [$0.14]
+emirone folds
+** Summary **
+sm21byvoovik collected [ $0.27 ]
+
+
+#Game No : 502865681
+***** 888poker Hand History for Game 502865681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 15:59:34
+Table Paterson 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: emirone ( $0.89 )
+Seat 6: Mcoy290690 ( $1.05 )
+emirone posts small blind [$0.01]
+Mcoy290690 posts big blind [$0.02]
+** Dealing down cards **
+emirone calls [$0.01]
+Mcoy290690 raises [$0.04]
+emirone calls [$0.04]
+** Dealing flop ** [ 5h, Ks, 4s ]
+Mcoy290690 bets [$0.02]
+emirone calls [$0.02]
+** Dealing turn ** [ Ts ]
+Mcoy290690 bets [$0.02]
+emirone calls [$0.02]
+** Dealing river ** [ 6h ]
+Mcoy290690 checks
+emirone checks
+** Summary **
+Mcoy290690 shows [ Js, 4d ]
+emirone mucks [ Qc, 2s ]
+Mcoy290690 collected [ $0.19 ]
+
+
+#Game No : 502865693
+***** 888poker Hand History for Game 502865693 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:00:02
+Table Paterson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: emirone ( $0.79 )
+Seat 6: Mcoy290690 ( $1.14 )
+Mcoy290690 posts small blind [$0.01]
+emirone posts big blind [$0.02]
+** Dealing down cards **
+Mcoy290690 raises [$0.03]
+emirone calls [$0.02]
+** Dealing flop ** [ 7s, 7d, Th ]
+emirone checks
+Mcoy290690 bets [$0.02]
+emirone calls [$0.02]
+** Dealing turn ** [ 4s ]
+emirone checks
+Mcoy290690 checks
+** Dealing river ** [ Qh ]
+emirone checks
+Mcoy290690 checks
+** Summary **
+emirone shows [ 2d, Qs ]
+Mcoy290690 mucks [ 6c, 6h ]
+emirone collected [ $0.12 ]
+
+
+#Game No : 502865706
+***** 888poker Hand History for Game 502865706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 16:00:31
+Table Paterson 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: emirone ( $0.85 )
+Seat 6: Mcoy290690 ( $1.08 )
+emirone posts small blind [$0.01]
+Mcoy290690 posts big blind [$0.02]
+** Dealing down cards **
+emirone calls [$0.01]
+Mcoy290690 checks
+** Dealing flop ** [ Qs, 9s, 2d ]
+Mcoy290690 checks
+emirone bets [$0.04]
+Mcoy290690 calls [$0.04]
+** Dealing turn ** [ 8d ]
+Mcoy290690 checks
+emirone checks
+** Dealing river ** [ 6c ]
+Mcoy290690 bets [$0.36]
+emirone folds
+** Summary **
+Mcoy290690 collected [ $0.12 ]
+
+

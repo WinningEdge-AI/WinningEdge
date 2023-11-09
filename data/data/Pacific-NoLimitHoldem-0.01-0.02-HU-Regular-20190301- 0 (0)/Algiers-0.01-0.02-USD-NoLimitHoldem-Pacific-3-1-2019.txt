@@ -1,0 +1,86 @@
+#Game No : 462302287
+***** 888poker Hand History for Game 462302287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 10:17:02
+Table Algiers 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: YuriMr ( $0.45 )
+Seat 7: balder8 ( $0.80 )
+balder8 posts small blind [$0.01]
+YuriMr posts big blind [$0.02]
+** Dealing down cards **
+balder8 calls [$0.01]
+YuriMr checks
+** Dealing flop ** [ 5c, 9d, 9s ]
+YuriMr checks
+balder8 checks
+** Dealing turn ** [ 7s ]
+YuriMr checks
+balder8 checks
+** Dealing river ** [ Ks ]
+YuriMr bets [$0.02]
+balder8 folds
+** Summary **
+YuriMr did not show his hand
+YuriMr collected [ $0.04 ]
+
+
+#Game No : 462302301
+***** 888poker Hand History for Game 462302301 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 10:17:21
+Table Algiers 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: YuriMr ( $0.47 )
+Seat 7: balder8 ( $0.78 )
+YuriMr posts small blind [$0.01]
+balder8 posts big blind [$0.02]
+** Dealing down cards **
+YuriMr calls [$0.01]
+balder8 checks
+** Dealing flop ** [ Kc, 7h, 6h ]
+balder8 checks
+YuriMr checks
+** Dealing turn ** [ 8s ]
+balder8 checks
+YuriMr bets [$0.02]
+balder8 calls [$0.02]
+** Dealing river ** [ Qc ]
+balder8 checks
+YuriMr bets [$0.02]
+balder8 calls [$0.02]
+** Summary **
+YuriMr shows [ 5c, 4h ]
+balder8 mucks [ 6d, Ts ]
+YuriMr collected [ $0.12 ]
+
+
+#Game No : 462302323
+***** 888poker Hand History for Game 462302323 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 10:17:49
+Table Algiers 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: YuriMr ( $0.53 )
+Seat 7: balder8 ( $0.72 )
+balder8 posts small blind [$0.01]
+YuriMr posts big blind [$0.02]
+** Dealing down cards **
+balder8 raises [$0.03]
+YuriMr calls [$0.02]
+** Dealing flop ** [ 6c, 7s, 3s ]
+YuriMr checks
+balder8 bets [$0.08]
+YuriMr calls [$0.08]
+** Dealing turn ** [ 8s ]
+YuriMr checks
+balder8 checks
+** Dealing river ** [ 9s ]
+YuriMr checks
+balder8 checks
+** Summary **
+YuriMr shows [ 4c, Kc ]
+balder8 shows [ Ah, 9c ]
+balder8 collected [ $0.23 ]
+
+

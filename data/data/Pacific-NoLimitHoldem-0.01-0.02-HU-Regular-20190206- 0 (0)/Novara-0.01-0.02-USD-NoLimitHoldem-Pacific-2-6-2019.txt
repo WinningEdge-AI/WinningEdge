@@ -1,0 +1,93 @@
+#Game No : 523568354
+***** 888poker Hand History for Game 523568354 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 14:17:57
+Table Novara 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JarvisFunk ( $2.36 )
+Seat 2: GARALD84 ( $6.72 )
+JarvisFunk posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+JarvisFunk raises [$0.05]
+GARALD84 folds
+** Summary **
+JarvisFunk did not show his hand
+JarvisFunk collected [ $0.04 ]
+
+
+#Game No : 523568372
+***** 888poker Hand History for Game 523568372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 14:18:05
+Table Novara 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: JarvisFunk ( $2.38 )
+Seat 2: GARALD84 ( $6.70 )
+GARALD84 posts small blind [$0.01]
+JarvisFunk posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.05]
+JarvisFunk calls [$0.04]
+** Dealing flop ** [ 8c, 8h, 6d ]
+JarvisFunk checks
+GARALD84 bets [$0.08]
+JarvisFunk calls [$0.08]
+** Dealing turn ** [ 9c ]
+JarvisFunk checks
+GARALD84 checks
+** Dealing river ** [ 5h ]
+JarvisFunk checks
+GARALD84 checks
+** Summary **
+JarvisFunk shows [ 3s, Kc ]
+GARALD84 shows [ Ac, Qd ]
+GARALD84 collected [ $0.27 ]
+
+
+#Game No : 523568422
+***** 888poker Hand History for Game 523568422 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 14:18:42
+Table Novara 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JarvisFunk ( $2.24 )
+Seat 2: GARALD84 ( $6.83 )
+JarvisFunk posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+JarvisFunk raises [$0.05]
+GARALD84 folds
+** Summary **
+JarvisFunk did not show his hand
+JarvisFunk collected [ $0.04 ]
+
+
+#Game No : 523568441
+***** 888poker Hand History for Game 523568441 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 14:18:53
+Table Novara 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: JarvisFunk ( $2.26 )
+Seat 2: GARALD84 ( $6.81 )
+GARALD84 posts small blind [$0.01]
+JarvisFunk posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+JarvisFunk raises [$0.04]
+GARALD84 calls [$0.04]
+** Dealing flop ** [ 3h, 3s, 4c ]
+JarvisFunk bets [$0.06]
+GARALD84 raises [$0.22]
+JarvisFunk calls [$0.16]
+** Dealing turn ** [ 4h ]
+JarvisFunk checks
+GARALD84 checks
+** Dealing river ** [ Ah ]
+JarvisFunk bets [$0.28]
+GARALD84 folds
+** Summary **
+JarvisFunk collected [ $0.53 ]
+
+

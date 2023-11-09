@@ -1,0 +1,92 @@
+#Game No : 466658064
+***** 888poker Hand History for Game 466658064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 07 2019 19:10:10
+Table Piracicaba 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: FARTECKIY ( $0.74 )
+Seat 7: zay76 ( $1.06 )
+FARTECKIY posts small blind [$0.01]
+zay76 posts big blind [$0.02]
+** Dealing down cards **
+FARTECKIY folds
+** Summary **
+zay76 collected [ $0.03 ]
+
+
+#Game No : 466658078
+***** 888poker Hand History for Game 466658078 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 07 2019 19:13:13
+Table Piracicaba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: FARTECKIY ( $0.89 )
+Seat 2: ningwut ( $2.09 )
+ningwut posts small blind [$0.01]
+FARTECKIY posts big blind [$0.02]
+** Dealing down cards **
+ningwut calls [$0.01]
+FARTECKIY checks
+** Dealing flop ** [ 4s, Tc, 5d ]
+FARTECKIY checks
+ningwut checks
+** Dealing turn ** [ Qc ]
+FARTECKIY checks
+ningwut checks
+** Dealing river ** [ 7d ]
+FARTECKIY bets [$0.02]
+ningwut calls [$0.02]
+** Summary **
+FARTECKIY shows [ 9d, 7c ]
+ningwut mucks [ 6c, Ah ]
+FARTECKIY collected [ $0.08 ]
+
+
+#Game No : 466660062
+***** 888poker Hand History for Game 466660062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 07 2019 22:21:53
+Table Piracicaba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: crashband14 ( $2.01 )
+Seat 6: Zalo05 ( $1 )
+crashband14 posts small blind [$0.01]
+Zalo05 posts big blind [$0.02]
+** Dealing down cards **
+crashband14 raises [$0.05]
+Zalo05 raises [$0.08]
+crashband14 folds
+** Summary **
+Zalo05 collected [ $0.12 ]
+
+
+#Game No : 466660065
+***** 888poker Hand History for Game 466660065 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 07 2019 22:22:12
+Table Piracicaba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: crashband14 ( $2 )
+Seat 6: Zalo05 ( $1.06 )
+Zalo05 posts small blind [$0.01]
+crashband14 posts big blind [$0.02]
+** Dealing down cards **
+Zalo05 calls [$0.01]
+crashband14 checks
+** Dealing flop ** [ 2s, Tc, 2c ]
+crashband14 bets [$0.02]
+Zalo05 raises [$0.04]
+crashband14 calls [$0.02]
+** Dealing turn ** [ Kc ]
+crashband14 checks
+Zalo05 checks
+** Dealing river ** [ Ac ]
+crashband14 checks
+Zalo05 bets [$0.04]
+crashband14 calls [$0.04]
+** Summary **
+Zalo05 shows [ 2d, Js ]
+crashband14 mucks [ 5s, Td ]
+Zalo05 collected [ $0.19 ]
+
+

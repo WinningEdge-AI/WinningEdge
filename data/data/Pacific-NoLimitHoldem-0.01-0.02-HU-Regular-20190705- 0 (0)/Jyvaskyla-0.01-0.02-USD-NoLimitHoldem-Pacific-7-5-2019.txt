@@ -1,0 +1,105 @@
+#Game No : 519087024
+***** 888poker Hand History for Game 519087024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 01:46:20
+Table Jyvaskyla 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: tuananhbui86 ( $3.91 )
+Seat 7: IlqubeTsF ( $5.02 )
+IlqubeTsF posts small blind [$0.01]
+tuananhbui86 posts big blind [$0.02]
+** Dealing down cards **
+IlqubeTsF calls [$0.01]
+tuananhbui86 checks
+** Dealing flop ** [ Qh, 4h, Td ]
+tuananhbui86 checks
+IlqubeTsF checks
+** Dealing turn ** [ 2d ]
+tuananhbui86 checks
+IlqubeTsF checks
+** Dealing river ** [ Js ]
+tuananhbui86 checks
+IlqubeTsF bets [$0.02]
+tuananhbui86 calls [$0.02]
+** Summary **
+IlqubeTsF shows [ Qd, 7s ]
+tuananhbui86 mucks [ Ts, 7d ]
+IlqubeTsF collected [ $0.08 ]
+
+
+#Game No : 519087062
+***** 888poker Hand History for Game 519087062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 01:49:20
+Table Jyvaskyla 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: timeforcoffe ( $1 )
+Seat 6: joaodraque ( $0.80 )
+joaodraque posts small blind [$0.01]
+timeforcoffe posts big blind [$0.02]
+** Dealing down cards **
+joaodraque calls [$0.01]
+timeforcoffe checks
+** Dealing flop ** [ Kh, Js, Qc ]
+timeforcoffe bets [$0.02]
+joaodraque folds
+** Summary **
+timeforcoffe collected [ $0.04 ]
+
+
+#Game No : 519087069
+***** 888poker Hand History for Game 519087069 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 01:49:44
+Table Jyvaskyla 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: timeforcoffe ( $1.02 )
+Seat 6: joaodraque ( $0.78 )
+timeforcoffe posts small blind [$0.01]
+joaodraque posts big blind [$0.02]
+** Dealing down cards **
+timeforcoffe calls [$0.01]
+joaodraque checks
+** Dealing flop ** [ 3d, 3h, Qc ]
+joaodraque checks
+timeforcoffe bets [$0.02]
+joaodraque calls [$0.02]
+** Dealing turn ** [ Qh ]
+joaodraque checks
+timeforcoffe bets [$0.02]
+joaodraque calls [$0.02]
+** Dealing river ** [ Ks ]
+joaodraque bets [$0.02]
+timeforcoffe raises [$0.04]
+joaodraque folds
+** Summary **
+timeforcoffe collected [ $0.15 ]
+
+
+#Game No : 519087078
+***** 888poker Hand History for Game 519087078 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 01:50:14
+Table Jyvaskyla 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: timeforcoffe ( $1.09 )
+Seat 6: joaodraque ( $0.70 )
+joaodraque posts small blind [$0.01]
+timeforcoffe posts big blind [$0.02]
+** Dealing down cards **
+joaodraque calls [$0.01]
+timeforcoffe raises [$0.02]
+joaodraque calls [$0.02]
+** Dealing flop ** [ Ad, Ks, 3h ]
+timeforcoffe bets [$0.02]
+joaodraque calls [$0.02]
+** Dealing turn ** [ 8c ]
+timeforcoffe bets [$0.06]
+joaodraque calls [$0.06]
+** Dealing river ** [ Jd ]
+timeforcoffe bets [$0.02]
+joaodraque folds
+** Summary **
+timeforcoffe collected [ $0.23 ]
+
+

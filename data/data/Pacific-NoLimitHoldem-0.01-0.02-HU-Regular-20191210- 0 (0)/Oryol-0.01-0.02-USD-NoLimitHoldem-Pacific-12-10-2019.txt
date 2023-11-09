@@ -1,0 +1,585 @@
+#Game No : 525093340
+***** 888poker Hand History for Game 525093340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 21:31:36
+Table Oryol 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Oshea2020 ( $2 )
+Seat 9: Ferson998 ( $2.06 )
+Oshea2020 posts small blind [$0.01]
+Ferson998 posts big blind [$0.02]
+** Dealing down cards **
+Oshea2020 raises [$0.03]
+Ferson998 folds
+** Summary **
+Oshea2020 did not show his hand
+Oshea2020 collected [ $0.04 ]
+
+
+#Game No : 525093344
+***** 888poker Hand History for Game 525093344 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 21:31:49
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Oshea2020 ( $2.02 )
+Seat 9: Ferson998 ( $2.04 )
+Ferson998 posts small blind [$0.01]
+Oshea2020 posts big blind [$0.02]
+** Dealing down cards **
+Ferson998 raises [$0.05]
+Oshea2020 calls [$0.04]
+** Dealing flop ** [ 7c, 5c, 9h ]
+Oshea2020 bets [$0.02]
+Ferson998 calls [$0.02]
+** Dealing turn ** [ Jh ]
+Oshea2020 bets [$0.02]
+Ferson998 calls [$0.02]
+** Dealing river ** [ Kh ]
+Oshea2020 bets [$0.13]
+Ferson998 folds
+** Summary **
+Oshea2020 did not show his hand
+Oshea2020 collected [ $0.19 ]
+
+
+#Game No : 525093353
+***** 888poker Hand History for Game 525093353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 21:32:25
+Table Oryol 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Oshea2020 ( $2.11 )
+Seat 9: Ferson998 ( $2 )
+Oshea2020 posts small blind [$0.01]
+Ferson998 posts big blind [$0.02]
+** Dealing down cards **
+Oshea2020 raises [$0.03]
+Ferson998 calls [$0.02]
+** Dealing flop ** [ 9h, Jh, 3s ]
+Ferson998 checks
+Oshea2020 bets [$0.05]
+Ferson998 calls [$0.05]
+** Dealing turn ** [ 9d ]
+Ferson998 checks
+Oshea2020 checks
+** Dealing river ** [ 9c ]
+Ferson998 bets [$0.06]
+Oshea2020 calls [$0.06]
+** Summary **
+Ferson998 shows [ Jd, Qd ]
+Oshea2020 mucks [ 8h, Qs ]
+Ferson998 collected [ $0.29 ]
+
+
+#Game No : 525093359
+***** 888poker Hand History for Game 525093359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 21:33:06
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Oshea2020 ( $1.96 )
+Seat 9: Ferson998 ( $2.14 )
+Ferson998 posts small blind [$0.01]
+Oshea2020 posts big blind [$0.02]
+** Dealing down cards **
+Ferson998 raises [$0.05]
+Oshea2020 folds
+** Summary **
+Ferson998 collected [ $0.04 ]
+
+
+#Game No : 525095263
+***** 888poker Hand History for Game 525095263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 23:37:42
+Table Oryol 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $3.88 )
+Seat 7: Buychik ( $2.01 )
+Buychik posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Buychik raises [$0.06]
+Kattazo folds
+** Summary **
+Buychik collected [ $0.04 ]
+
+
+#Game No : 525095266
+***** 888poker Hand History for Game 525095266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 23:37:51
+Table Oryol 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $3.86 )
+Seat 7: Buychik ( $2.03 )
+Kattazo posts small blind [$0.01]
+Buychik posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.05]
+Buychik folds
+** Summary **
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 525095270
+***** 888poker Hand History for Game 525095270 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 23:37:59
+Table Oryol 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $3.88 )
+Seat 7: Buychik ( $2.01 )
+Buychik posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Buychik calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ 8h, 7c, Ts ]
+Kattazo checks
+Buychik checks
+** Dealing turn ** [ 5d ]
+Kattazo checks
+Buychik checks
+** Dealing river ** [ 6s ]
+Kattazo checks
+Buychik checks
+** Summary **
+Kattazo shows [ Th, Qh ]
+Buychik mucks [ 5s, Jc ]
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 525095273
+***** 888poker Hand History for Game 525095273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 23:38:35
+Table Oryol 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $3.90 )
+Seat 7: Buychik ( $1.99 )
+Kattazo posts small blind [$0.01]
+Buychik posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.05]
+Buychik folds
+** Summary **
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 525095280
+***** 888poker Hand History for Game 525095280 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 23:39:19
+Table Oryol 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $3.92 )
+Seat 9: cocosasa ( $2 )
+Kattazo posts small blind [$0.01]
+cocosasa posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.05]
+cocosasa calls [$0.04]
+** Dealing flop ** [ 6d, 3s, Kc ]
+cocosasa checks
+Kattazo checks
+** Dealing turn ** [ 3d ]
+cocosasa checks
+Kattazo checks
+** Dealing river ** [ Qc ]
+cocosasa checks
+Kattazo checks
+** Summary **
+cocosasa shows [ 8h, Jc ]
+Kattazo shows [ Ah, Tc ]
+Kattazo collected [ $0.12 ]
+
+
+#Game No : 525095285
+***** 888poker Hand History for Game 525095285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 23:39:51
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $3.98 )
+Seat 9: cocosasa ( $1.94 )
+cocosasa posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+cocosasa calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ 2d, Jd, 5s ]
+Kattazo checks
+cocosasa bets [$0.04]
+Kattazo calls [$0.04]
+** Dealing turn ** [ 7c ]
+Kattazo checks
+cocosasa bets [$0.06]
+Kattazo calls [$0.06]
+** Dealing river ** [ Tc ]
+Kattazo checks
+cocosasa bets [$0.10]
+Kattazo folds
+** Summary **
+cocosasa collected [ $0.23 ]
+
+
+#Game No : 525095289
+***** 888poker Hand History for Game 525095289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 23:40:19
+Table Oryol 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $3.86 )
+Seat 9: cocosasa ( $2.05 )
+Kattazo posts small blind [$0.01]
+cocosasa posts big blind [$0.02]
+** Dealing down cards **
+Kattazo folds
+** Summary **
+cocosasa collected [ $0.03 ]
+
+
+#Game No : 525095329
+***** 888poker Hand History for Game 525095329 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2019 23:43:01
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $3.63 )
+Seat 9: cocosasa ( $2.60 )
+cocosasa posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+cocosasa calls [$0.01]
+Kattazo raises [$0.04]
+cocosasa calls [$0.04]
+** Dealing flop ** [ Jh, Jc, 9s ]
+Kattazo bets [$0.04]
+cocosasa folds
+** Summary **
+Kattazo collected [ $0.12 ]
+
+
+#Game No : 525095776
+***** 888poker Hand History for Game 525095776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 00:15:28
+Table Oryol 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ToommCawte ( $2.01 )
+Seat 4: F1nans ( $2.12 )
+ToommCawte posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+ToommCawte raises [$0.03]
+F1nans raises [$0.10]
+ToommCawte calls [$0.08]
+** Dealing flop ** [ Ks, 4s, 2d ]
+F1nans bets [$0.16]
+ToommCawte folds
+** Summary **
+F1nans collected [ $0.23 ]
+
+
+#Game No : 525095779
+***** 888poker Hand History for Game 525095779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 00:15:45
+Table Oryol 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ToommCawte ( $1.89 )
+Seat 4: F1nans ( $2.23 )
+F1nans posts small blind [$0.01]
+ToommCawte posts big blind [$0.02]
+** Dealing down cards **
+F1nans raises [$0.05]
+ToommCawte folds
+** Summary **
+F1nans collected [ $0.04 ]
+
+
+#Game No : 525096459
+***** 888poker Hand History for Game 525096459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:02:20
+Table Oryol 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Intelligent8 ( $2.12 )
+Seat 7: Kattazo ( $3.47 )
+Intelligent8 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 525096462
+***** 888poker Hand History for Game 525096462 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:02:30
+Table Oryol 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Intelligent8 ( $2.11 )
+Seat 7: Kattazo ( $3.48 )
+Kattazo posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo folds
+** Summary **
+Intelligent8 did not show his hand
+Intelligent8 collected [ $0.03 ]
+
+
+#Game No : 525096463
+***** 888poker Hand History for Game 525096463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:02:35
+Table Oryol 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Intelligent8 ( $2.12 )
+Seat 7: Kattazo ( $3.47 )
+Intelligent8 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 525096488
+***** 888poker Hand History for Game 525096488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:04:09
+Table Oryol 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.48 )
+Seat 9: KAMILO_888 ( $2 )
+Kattazo posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.05]
+KAMILO_888 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 525096492
+***** 888poker Hand History for Game 525096492 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:04:16
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.50 )
+Seat 9: KAMILO_888 ( $1.98 )
+KAMILO_888 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 525096497
+***** 888poker Hand History for Game 525096497 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:04:23
+Table Oryol 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.51 )
+Seat 9: KAMILO_888 ( $1.97 )
+Kattazo posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo folds
+** Summary **
+KAMILO_888 did not show his hand
+KAMILO_888 collected [ $0.03 ]
+
+
+#Game No : 525096500
+***** 888poker Hand History for Game 525096500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:04:28
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.50 )
+Seat 9: KAMILO_888 ( $1.98 )
+KAMILO_888 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 calls [$0.01]
+Kattazo raises [$0.04]
+KAMILO_888 calls [$0.04]
+** Dealing flop ** [ 9d, Tc, 7h ]
+Kattazo checks
+KAMILO_888 bets [$0.04]
+Kattazo calls [$0.04]
+** Dealing turn ** [ Qs ]
+Kattazo checks
+KAMILO_888 bets [$0.10]
+Kattazo folds
+** Summary **
+KAMILO_888 did not show his hand
+KAMILO_888 collected [ $0.19 ]
+
+
+#Game No : 525096508
+***** 888poker Hand History for Game 525096508 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:04:59
+Table Oryol 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.40 )
+Seat 9: KAMILO_888 ( $2.07 )
+Kattazo posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.05]
+KAMILO_888 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 525096511
+***** 888poker Hand History for Game 525096511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:05:06
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.42 )
+Seat 9: KAMILO_888 ( $2.05 )
+KAMILO_888 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 525096515
+***** 888poker Hand History for Game 525096515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:05:13
+Table Oryol 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.43 )
+Seat 9: KAMILO_888 ( $2.04 )
+Kattazo posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.05]
+KAMILO_888 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 525096519
+***** 888poker Hand History for Game 525096519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:05:21
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.45 )
+Seat 9: KAMILO_888 ( $2.02 )
+KAMILO_888 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 525096525
+***** 888poker Hand History for Game 525096525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:05:29
+Table Oryol 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.46 )
+Seat 9: KAMILO_888 ( $2.01 )
+Kattazo posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.05]
+KAMILO_888 calls [$0.04]
+** Dealing flop ** [ Kd, 5s, 3c ]
+KAMILO_888 checks
+Kattazo checks
+** Dealing turn ** [ 4s ]
+KAMILO_888 bets [$0.06]
+Kattazo folds
+** Summary **
+KAMILO_888 did not show his hand
+KAMILO_888 collected [ $0.12 ]
+
+
+#Game No : 525096530
+***** 888poker Hand History for Game 525096530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:05:47
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.40 )
+Seat 9: KAMILO_888 ( $2.07 )
+KAMILO_888 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 calls [$0.01]
+Kattazo raises [$0.04]
+KAMILO_888 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 525096534
+***** 888poker Hand History for Game 525096534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:05:58
+Table Oryol 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.42 )
+Seat 9: KAMILO_888 ( $2.05 )
+Kattazo posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.05]
+KAMILO_888 calls [$0.04]
+** Dealing flop ** [ Qc, 8s, 3h ]
+KAMILO_888 checks
+Kattazo bets [$0.08]
+KAMILO_888 raises [$0.20]
+Kattazo folds
+** Summary **
+KAMILO_888 did not show his hand
+KAMILO_888 collected [ $0.27 ]
+
+
+#Game No : 525096540
+***** 888poker Hand History for Game 525096540 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2019 01:06:16
+Table Oryol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Kattazo ( $3.28 )
+Seat 9: KAMILO_888 ( $2.18 )
+KAMILO_888 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.03 ]
+
+

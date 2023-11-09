@@ -1,0 +1,45 @@
+#Game No : 621465558
+***** 888poker Hand History for Game 621465558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 05:24:28
+Table Athens 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Skyluck11 ( $2.21 )
+Seat 9: vip.chapaev ( $2.36 )
+vip.chapaev posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev calls [$0.01]
+Skyluck11 checks
+** Dealing flop ** [ 6h, Ad, Qc ]
+Skyluck11 checks
+vip.chapaev checks
+** Dealing turn ** [ 3d ]
+Skyluck11 checks
+vip.chapaev bets [$0.02]
+Skyluck11 calls [$0.02]
+** Dealing river ** [ 9s ]
+Skyluck11 checks
+vip.chapaev checks
+** Summary **
+Skyluck11 shows [ 6s, 8c ]
+vip.chapaev shows [ Kd, Qd ]
+vip.chapaev collected [ $0.08 ]
+
+
+#Game No : 621465573
+***** 888poker Hand History for Game 621465573 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 05:25:06
+Table Athens 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Skyluck11 ( $2.17 )
+Seat 9: vip.chapaev ( $2.40 )
+Skyluck11 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+vip.chapaev collected [ $0.03 ]
+
+

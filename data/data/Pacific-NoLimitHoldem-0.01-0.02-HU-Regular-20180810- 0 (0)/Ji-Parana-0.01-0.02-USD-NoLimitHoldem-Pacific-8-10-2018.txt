@@ -1,0 +1,115 @@
+#Game No : 505732729
+***** 888poker Hand History for Game 505732729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2018 10:57:19
+Table Ji-Parana 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: xyligan14 ( $1.08 )
+Seat 10: rafaelkazuo3 ( $0.96 )
+xyligan14 posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+xyligan14 calls [$0.01]
+rafaelkazuo3 checks
+** Dealing flop ** [ 8s, 5d, 9s ]
+rafaelkazuo3 bets [$0.02]
+xyligan14 calls [$0.02]
+** Dealing turn ** [ 2s ]
+rafaelkazuo3 checks
+xyligan14 bets [$0.02]
+rafaelkazuo3 calls [$0.02]
+** Dealing river ** [ 6s ]
+rafaelkazuo3 bets [$0.12]
+xyligan14 calls [$0.12]
+** Summary **
+rafaelkazuo3 shows [ 5c, 4s ]
+xyligan14 mucks [ 3d, 6d ]
+rafaelkazuo3 collected [ $0.34 ]
+
+
+#Game No : 505732746
+***** 888poker Hand History for Game 505732746 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2018 10:57:32
+Table Ji-Parana 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: xyligan14 ( $0.90 )
+Seat 10: rafaelkazuo3 ( $1.12 )
+rafaelkazuo3 posts small blind [$0.01]
+xyligan14 posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+xyligan14 calls [$0.02]
+** Dealing flop ** [ 8h, 4c, 2h ]
+xyligan14 checks
+rafaelkazuo3 bets [$0.02]
+xyligan14 calls [$0.02]
+** Dealing turn ** [ Qs ]
+xyligan14 checks
+rafaelkazuo3 checks
+** Dealing river ** [ 9h ]
+xyligan14 bets [$0.02]
+rafaelkazuo3 calls [$0.02]
+** Summary **
+xyligan14 shows [ 2s, Js ]
+rafaelkazuo3 shows [ Jh, 2c ]
+xyligan14 collected [ $0.08 ]
+rafaelkazuo3 collected [ $0.07 ]
+
+
+#Game No : 505743898
+***** 888poker Hand History for Game 505743898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2018 14:57:24
+Table Ji-Parana 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: VasilijZavgo ( $2.24 )
+Seat 5: klerik170 ( $5.99 )
+klerik170 posts small blind [$0.01]
+VasilijZavgo posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+VasilijZavgo checks
+** Dealing flop ** [ 5s, Ah, Ts ]
+VasilijZavgo checks
+klerik170 checks
+** Dealing turn ** [ 8h ]
+VasilijZavgo bets [$0.02]
+klerik170 calls [$0.02]
+** Dealing river ** [ 6d ]
+VasilijZavgo checks
+klerik170 checks
+** Summary **
+VasilijZavgo shows [ 4h, 8d ]
+klerik170 mucks [ 9s, 6s ]
+VasilijZavgo collected [ $0.08 ]
+
+
+#Game No : 505743931
+***** 888poker Hand History for Game 505743931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2018 14:58:09
+Table Ji-Parana 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: VasilijZavgo ( $2.28 )
+Seat 5: klerik170 ( $5.95 )
+VasilijZavgo posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+VasilijZavgo calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ 3d, 8h, 7d ]
+klerik170 bets [$0.04]
+VasilijZavgo calls [$0.04]
+** Dealing turn ** [ 2h ]
+klerik170 bets [$0.06]
+VasilijZavgo calls [$0.06]
+** Dealing river ** [ Kc ]
+klerik170 bets [$0.02]
+VasilijZavgo raises [$0.10]
+klerik170 folds
+** Summary **
+VasilijZavgo did not show his hand
+VasilijZavgo collected [ $0.27 ]
+
+

@@ -1,0 +1,47 @@
+#Game No : 462473401
+***** 888poker Hand History for Game 462473401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 08:22:21
+Table Whittier 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $2.23 )
+Seat 3: NMelisa ( $2.01 )
+NMelisa posts small blind [$0.01]
+1LadyMary posts big blind [$0.02]
+** Dealing down cards **
+NMelisa raises [$0.04]
+1LadyMary calls [$0.03]
+** Dealing flop ** [ 5h, 5s, 7h ]
+1LadyMary checks
+NMelisa bets [$0.08]
+1LadyMary calls [$0.08]
+** Dealing turn ** [ Qc ]
+1LadyMary checks
+NMelisa bets [$0.15]
+1LadyMary calls [$0.15]
+** Dealing river ** [ 3h ]
+1LadyMary checks
+NMelisa bets [$0.43]
+1LadyMary folds
+** Summary **
+NMelisa did not show his hand
+NMelisa collected [ $0.53 ]
+
+
+#Game No : 462473430
+***** 888poker Hand History for Game 462473430 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 08:22:34
+Table Whittier 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $1.95 )
+Seat 3: NMelisa ( $2.26 )
+1LadyMary posts small blind [$0.01]
+NMelisa posts big blind [$0.02]
+** Dealing down cards **
+1LadyMary folds
+** Summary **
+NMelisa did not show his hand
+NMelisa collected [ $0.03 ]
+
+

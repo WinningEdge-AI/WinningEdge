@@ -1,0 +1,889 @@
+#Game No : 1195393920
+***** 888poker Hand History for Game 1195393920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 05:41:21
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: mrbruks787 ( $3.65 )
+Seat 5: scs1914 ( $0.80 )
+scs1914 posts small blind [$0.01]
+mrbruks787 posts big blind [$0.02]
+** Dealing down cards **
+scs1914 raises [$0.03]
+mrbruks787 raises [$0.04]
+scs1914 calls [$0.02]
+** Dealing flop ** [ 8s, 3c, 8c ]
+mrbruks787 bets [$0.12]
+scs1914 folds
+** Summary **
+mrbruks787 collected [ $0.12 ]
+
+
+#Game No : 1195393993
+***** 888poker Hand History for Game 1195393993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 05:41:44
+Table Riobamba 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mrbruks787 ( $3.71 )
+Seat 5: scs1914 ( $0.74 )
+mrbruks787 posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+mrbruks787 calls [$0.01]
+scs1914 checks
+** Dealing flop ** [ 3h, Tc, Th ]
+scs1914 checks
+mrbruks787 checks
+** Dealing turn ** [ Jh ]
+scs1914 bets [$0.02]
+mrbruks787 folds
+** Summary **
+scs1914 collected [ $0.04 ]
+
+
+#Game No : 1195394169
+***** 888poker Hand History for Game 1195394169 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 05:42:38
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: mrbruks787 ( $3.69 )
+Seat 5: scs1914 ( $0.76 )
+scs1914 posts small blind [$0.01]
+mrbruks787 posts big blind [$0.02]
+** Dealing down cards **
+scs1914 folds
+** Summary **
+mrbruks787 collected [ $0.03 ]
+
+
+#Game No : 1195394187
+***** 888poker Hand History for Game 1195394187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 05:42:43
+Table Riobamba 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mrbruks787 ( $3.70 )
+Seat 5: scs1914 ( $0.75 )
+mrbruks787 posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+mrbruks787 calls [$0.01]
+scs1914 checks
+** Dealing flop ** [ 2c, 9d, 9c ]
+scs1914 checks
+mrbruks787 checks
+** Dealing turn ** [ 6c ]
+scs1914 bets [$0.02]
+mrbruks787 raises [$0.04]
+scs1914 calls [$0.02]
+** Dealing river ** [ 3d ]
+scs1914 checks
+mrbruks787 bets [$0.02]
+scs1914 calls [$0.02]
+** Summary **
+mrbruks787 shows [ 6s, Qh ]
+scs1914 mucks [ 6d, 7d ]
+mrbruks787 collected [ $0.15 ]
+
+
+#Game No : 1195396156
+***** 888poker Hand History for Game 1195396156 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 05:53:37
+Table Riobamba 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: MCL52 ( $2.60 )
+Seat 5: scs1914 ( $0.61 )
+MCL52 posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+MCL52 calls [$0.01]
+scs1914 raises [$0.02]
+MCL52 calls [$0.02]
+** Dealing flop ** [ 5c, 5h, 9d ]
+scs1914 bets [$0.08]
+MCL52 folds
+** Summary **
+scs1914 did not show his hand
+scs1914 collected [ $0.08 ]
+
+
+#Game No : 1195396211
+***** 888poker Hand History for Game 1195396211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 05:53:55
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: MCL52 ( $2.56 )
+Seat 5: scs1914 ( $0.65 )
+scs1914 posts small blind [$0.01]
+MCL52 posts big blind [$0.02]
+** Dealing down cards **
+scs1914 raises [$0.03]
+MCL52 folds
+** Summary **
+scs1914 did not show his hand
+scs1914 collected [ $0.04 ]
+
+
+#Game No : 499843729
+***** 888poker Hand History for Game 499843729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:26:04
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RedRabbit1 ( $0.62 )
+Seat 6: Pfefferhund ( $0.76 )
+RedRabbit1 posts small blind [$0.01]
+Pfefferhund posts big blind [$0.02]
+** Dealing down cards **
+RedRabbit1 raises [$0.03]
+Pfefferhund calls [$0.02]
+** Dealing flop ** [ 5h, 9h, 4d ]
+Pfefferhund checks
+RedRabbit1 checks
+** Dealing turn ** [ 6s ]
+Pfefferhund checks
+RedRabbit1 checks
+** Dealing river ** [ Jh ]
+Pfefferhund bets [$0.04]
+RedRabbit1 folds
+** Summary **
+Pfefferhund collected [ $0.08 ]
+
+
+#Game No : 499843750
+***** 888poker Hand History for Game 499843750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:26:11
+Table Riobamba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: RedRabbit1 ( $0.58 )
+Seat 6: Pfefferhund ( $0.80 )
+Pfefferhund posts small blind [$0.01]
+RedRabbit1 posts big blind [$0.02]
+** Dealing down cards **
+Pfefferhund raises [$0.03]
+RedRabbit1 calls [$0.02]
+** Dealing flop ** [ 8s, Jh, 2d ]
+RedRabbit1 bets [$0.06]
+Pfefferhund folds
+** Summary **
+RedRabbit1 collected [ $0.08 ]
+
+
+#Game No : 499843757
+***** 888poker Hand History for Game 499843757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:26:27
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RedRabbit1 ( $0.62 )
+Seat 6: Pfefferhund ( $0.76 )
+RedRabbit1 posts small blind [$0.01]
+Pfefferhund posts big blind [$0.02]
+** Dealing down cards **
+RedRabbit1 raises [$0.03]
+Pfefferhund folds
+** Summary **
+RedRabbit1 collected [ $0.04 ]
+
+
+#Game No : 499843765
+***** 888poker Hand History for Game 499843765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:26:34
+Table Riobamba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: RedRabbit1 ( $0.64 )
+Seat 6: Pfefferhund ( $0.74 )
+Pfefferhund posts small blind [$0.01]
+RedRabbit1 posts big blind [$0.02]
+** Dealing down cards **
+Pfefferhund folds
+** Summary **
+RedRabbit1 did not show his hand
+RedRabbit1 collected [ $0.03 ]
+
+
+#Game No : 499843771
+***** 888poker Hand History for Game 499843771 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:26:40
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RedRabbit1 ( $0.65 )
+Seat 6: Pfefferhund ( $0.73 )
+RedRabbit1 posts small blind [$0.01]
+Pfefferhund posts big blind [$0.02]
+** Dealing down cards **
+RedRabbit1 raises [$0.03]
+Pfefferhund calls [$0.02]
+** Dealing flop ** [ 2s, 8h, 2d ]
+Pfefferhund checks
+RedRabbit1 bets [$0.04]
+Pfefferhund folds
+** Summary **
+RedRabbit1 collected [ $0.08 ]
+
+
+#Game No : 499843778
+***** 888poker Hand History for Game 499843778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:26:54
+Table Riobamba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: RedRabbit1 ( $0.69 )
+Seat 6: Pfefferhund ( $0.69 )
+Pfefferhund posts small blind [$0.01]
+RedRabbit1 posts big blind [$0.02]
+** Dealing down cards **
+Pfefferhund folds
+** Summary **
+RedRabbit1 collected [ $0.03 ]
+
+
+#Game No : 499844872
+***** 888poker Hand History for Game 499844872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:56:00
+Table Riobamba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $1.97 )
+Seat 4: kopchik_574 ( $1.03 )
+kopchik_574 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+kopchik_574 folds
+** Summary **
+AntonioKaz did not show his hand
+AntonioKaz collected [ $0.03 ]
+
+
+#Game No : 499844876
+***** 888poker Hand History for Game 499844876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:56:06
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $1.98 )
+Seat 4: kopchik_574 ( $1.02 )
+AntonioKaz posts small blind [$0.01]
+** Dealing down cards **
+kopchik_574 folds
+** Summary **
+AntonioKaz did not show his hand
+AntonioKaz collected [ $0.01 ]
+
+
+#Game No : 499844988
+***** 888poker Hand History for Game 499844988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:58:29
+Table Riobamba 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $1.98 )
+Seat 7: zews331 ( $0.80 )
+zews331 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+zews331 raises [$0.03]
+AntonioKaz folds
+** Summary **
+zews331 collected [ $0.04 ]
+
+
+#Game No : 499845003
+***** 888poker Hand History for Game 499845003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 08:58:41
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $1.96 )
+Seat 7: zews331 ( $0.82 )
+AntonioKaz posts small blind [$0.01]
+zews331 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz folds
+** Summary **
+zews331 collected [ $0.03 ]
+
+
+#Game No : 499845198
+***** 888poker Hand History for Game 499845198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:02:46
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.45 )
+Seat 7: zews331 ( $0.67 )
+AntonioKaz posts small blind [$0.01]
+zews331 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz folds
+** Summary **
+zews331 collected [ $0.03 ]
+
+
+#Game No : 499845202
+***** 888poker Hand History for Game 499845202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:02:52
+Table Riobamba 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.44 )
+Seat 7: zews331 ( $0.68 )
+zews331 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+zews331 raises [$0.03]
+AntonioKaz calls [$0.02]
+** Dealing flop ** [ 6c, 5d, 7d ]
+AntonioKaz bets [$0.05]
+zews331 folds
+** Summary **
+AntonioKaz collected [ $0.08 ]
+
+
+#Game No : 499845218
+***** 888poker Hand History for Game 499845218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:03:10
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.48 )
+Seat 7: zews331 ( $0.64 )
+AntonioKaz posts small blind [$0.01]
+zews331 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.05]
+zews331 folds
+** Summary **
+AntonioKaz collected [ $0.04 ]
+
+
+#Game No : 499845222
+***** 888poker Hand History for Game 499845222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:03:17
+Table Riobamba 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.50 )
+Seat 7: zews331 ( $0.62 )
+zews331 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+zews331 calls [$0.01]
+AntonioKaz checks
+** Dealing flop ** [ 5h, 2d, 6h ]
+AntonioKaz checks
+zews331 bets [$0.06]
+AntonioKaz calls [$0.06]
+** Dealing turn ** [ Ts ]
+AntonioKaz checks
+zews331 checks
+** Dealing river ** [ 3c ]
+AntonioKaz bets [$0.02]
+zews331 calls [$0.02]
+** Summary **
+AntonioKaz shows [ As, Th ]
+zews331 mucks [ 6d, Js ]
+AntonioKaz collected [ $0.19 ]
+
+
+#Game No : 499845236
+***** 888poker Hand History for Game 499845236 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:03:37
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.59 )
+Seat 7: zews331 ( $0.52 )
+AntonioKaz posts small blind [$0.01]
+zews331 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.05]
+zews331 folds
+** Summary **
+AntonioKaz collected [ $0.04 ]
+
+
+#Game No : 499845530
+***** 888poker Hand History for Game 499845530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:09:30
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.71 )
+Seat 4: mixatrenin15 ( $0.94 )
+AntonioKaz posts small blind [$0.01]
+mixatrenin15 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz folds
+** Summary **
+mixatrenin15 collected [ $0.03 ]
+
+
+#Game No : 499845536
+***** 888poker Hand History for Game 499845536 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:09:37
+Table Riobamba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.70 )
+Seat 4: mixatrenin15 ( $0.95 )
+mixatrenin15 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+mixatrenin15 calls [$0.01]
+AntonioKaz checks
+** Dealing flop ** [ 4s, Ts, Qc ]
+AntonioKaz checks
+mixatrenin15 checks
+** Dealing turn ** [ Js ]
+AntonioKaz checks
+mixatrenin15 checks
+** Dealing river ** [ 2h ]
+AntonioKaz bets [$0.02]
+mixatrenin15 calls [$0.02]
+** Summary **
+AntonioKaz shows [ Jd, 7c ]
+mixatrenin15 shows [ 2s, 2d ]
+mixatrenin15 collected [ $0.08 ]
+
+
+#Game No : 499845558
+***** 888poker Hand History for Game 499845558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:10:03
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.66 )
+Seat 4: mixatrenin15 ( $0.99 )
+AntonioKaz posts small blind [$0.01]
+mixatrenin15 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.03]
+mixatrenin15 calls [$0.02]
+** Dealing flop ** [ 4c, Jd, 5h ]
+mixatrenin15 checks
+AntonioKaz checks
+** Dealing turn ** [ 8s ]
+mixatrenin15 checks
+AntonioKaz checks
+** Dealing river ** [ 6c ]
+mixatrenin15 bets [$0.02]
+AntonioKaz raises [$0.08]
+mixatrenin15 calls [$0.06]
+** Summary **
+AntonioKaz shows [ 7s, 4s ]
+mixatrenin15 mucks [ 5c, 6d ]
+AntonioKaz collected [ $0.23 ]
+
+
+#Game No : 499845603
+***** 888poker Hand History for Game 499845603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:10:48
+Table Riobamba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.77 )
+Seat 4: mixatrenin15 ( $0.87 )
+mixatrenin15 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+mixatrenin15 calls [$0.01]
+AntonioKaz checks
+** Dealing flop ** [ Js, Kd, 4c ]
+AntonioKaz checks
+mixatrenin15 checks
+** Dealing turn ** [ As ]
+AntonioKaz checks
+mixatrenin15 checks
+** Dealing river ** [ 8c ]
+AntonioKaz checks
+mixatrenin15 checks
+** Summary **
+AntonioKaz shows [ Ts, 9d ]
+mixatrenin15 shows [ 9c, Qs ]
+mixatrenin15 collected [ $0.04 ]
+
+
+#Game No : 499845622
+***** 888poker Hand History for Game 499845622 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:11:16
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.75 )
+Seat 4: mixatrenin15 ( $0.89 )
+AntonioKaz posts small blind [$0.01]
+mixatrenin15 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.03]
+mixatrenin15 calls [$0.02]
+** Dealing flop ** [ Jd, Ac, 4s ]
+mixatrenin15 checks
+AntonioKaz bets [$0.02]
+mixatrenin15 folds
+** Summary **
+AntonioKaz collected [ $0.08 ]
+
+
+#Game No : 499845645
+***** 888poker Hand History for Game 499845645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:11:39
+Table Riobamba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.79 )
+Seat 4: mixatrenin15 ( $0.85 )
+mixatrenin15 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+mixatrenin15 calls [$0.01]
+AntonioKaz checks
+** Dealing flop ** [ Jc, 7c, Kh ]
+AntonioKaz checks
+mixatrenin15 checks
+** Dealing turn ** [ 5s ]
+AntonioKaz checks
+mixatrenin15 checks
+** Dealing river ** [ 2h ]
+AntonioKaz checks
+mixatrenin15 checks
+** Summary **
+AntonioKaz shows [ 4d, 3h ]
+mixatrenin15 shows [ Ac, Ts ]
+mixatrenin15 collected [ $0.04 ]
+
+
+#Game No : 499845669
+***** 888poker Hand History for Game 499845669 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:12:06
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.77 )
+Seat 4: mixatrenin15 ( $0.87 )
+AntonioKaz posts small blind [$0.01]
+mixatrenin15 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.03]
+mixatrenin15 calls [$0.02]
+** Dealing flop ** [ 3s, 7h, 2h ]
+mixatrenin15 checks
+AntonioKaz bets [$0.04]
+mixatrenin15 calls [$0.04]
+** Dealing turn ** [ Qs ]
+mixatrenin15 checks
+AntonioKaz checks
+** Dealing river ** [ 3h ]
+mixatrenin15 bets [$0.02]
+AntonioKaz raises [$0.12]
+mixatrenin15 folds
+** Summary **
+AntonioKaz collected [ $0.19 ]
+
+
+#Game No : 499845700
+***** 888poker Hand History for Game 499845700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:12:46
+Table Riobamba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.86 )
+Seat 4: mixatrenin15 ( $0.77 )
+mixatrenin15 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+mixatrenin15 calls [$0.01]
+AntonioKaz checks
+** Dealing flop ** [ 9h, Qh, 2c ]
+AntonioKaz checks
+mixatrenin15 checks
+** Dealing turn ** [ 8d ]
+AntonioKaz checks
+mixatrenin15 checks
+** Dealing river ** [ Ts ]
+AntonioKaz bets [$0.02]
+mixatrenin15 folds
+** Summary **
+AntonioKaz collected [ $0.04 ]
+
+
+#Game No : 499845990
+***** 888poker Hand History for Game 499845990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:19:23
+Table Riobamba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.94 )
+Seat 6: vnuk36 ( $1.34 )
+vnuk36 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+AntonioKaz checks
+** Dealing flop ** [ 4d, 6h, 8c ]
+AntonioKaz checks
+vnuk36 checks
+** Dealing turn ** [ 7c ]
+AntonioKaz checks
+vnuk36 bets [$0.04]
+AntonioKaz calls [$0.04]
+** Dealing river ** [ Qs ]
+AntonioKaz checks
+vnuk36 checks
+** Summary **
+AntonioKaz shows [ Th, 4c ]
+vnuk36 shows [ 9h, 6d ]
+vnuk36 collected [ $0.12 ]
+
+
+#Game No : 499846074
+***** 888poker Hand History for Game 499846074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:21:32
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: NAKATAVA ( $1 )
+Seat 2: AntonioKaz ( $2.83 )
+AntonioKaz posts small blind [$0.01]
+** Dealing down cards **
+NAKATAVA folds
+** Summary **
+AntonioKaz collected [ $0.01 ]
+
+
+#Game No : 499846089
+***** 888poker Hand History for Game 499846089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:22:00
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.83 )
+Seat 6: vaxi000 ( $0.80 )
+AntonioKaz posts small blind [$0.01]
+vaxi000 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz calls [$0.01]
+vaxi000 raises [$0.04]
+AntonioKaz folds
+** Summary **
+vaxi000 did not show his hand
+vaxi000 collected [ $0.04 ]
+
+
+#Game No : 499846095
+***** 888poker Hand History for Game 499846095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:22:09
+Table Riobamba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.81 )
+Seat 6: vaxi000 ( $0.82 )
+vaxi000 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+vaxi000 raises [$0.05]
+AntonioKaz calls [$0.04]
+** Dealing flop ** [ 7h, Th, 7c ]
+AntonioKaz checks
+vaxi000 bets [$0.12]
+AntonioKaz folds
+** Summary **
+vaxi000 did not show his hand
+vaxi000 collected [ $0.12 ]
+
+
+#Game No : 499846117
+***** 888poker Hand History for Game 499846117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:22:39
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.75 )
+Seat 6: vaxi000 ( $0.88 )
+AntonioKaz posts small blind [$0.01]
+vaxi000 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz folds
+** Summary **
+vaxi000 did not show his hand
+vaxi000 collected [ $0.03 ]
+
+
+#Game No : 499846123
+***** 888poker Hand History for Game 499846123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 09:22:44
+Table Riobamba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: AntonioKaz ( $2.74 )
+Seat 6: vaxi000 ( $0.89 )
+vaxi000 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+vaxi000 calls [$0.01]
+AntonioKaz raises [$0.06]
+vaxi000 calls [$0.06]
+** Dealing flop ** [ 5h, 3h, Ac ]
+AntonioKaz bets [$0.08]
+vaxi000 folds
+** Summary **
+AntonioKaz collected [ $0.15 ]
+
+
+#Game No : 499852051
+***** 888poker Hand History for Game 499852051 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 11:18:11
+Table Riobamba 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Bob777888 ( $0.98 )
+Seat 7: xBesikx ( $2.12 )
+xBesikx posts small blind [$0.01]
+Bob777888 posts big blind [$0.02]
+** Dealing down cards **
+xBesikx folds
+** Summary **
+Bob777888 collected [ $0.03 ]
+
+
+#Game No : 499852096
+***** 888poker Hand History for Game 499852096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 11:18:55
+Table Riobamba 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: mmmkeh ( $1 )
+Seat 9: Remo8814 ( $0.80 )
+mmmkeh posts small blind [$0.01]
+Remo8814 posts big blind [$0.02]
+** Dealing down cards **
+mmmkeh calls [$0.01]
+Remo8814 raises [$0.02]
+mmmkeh calls [$0.02]
+** Dealing flop ** [ 4c, Kd, 3h ]
+Remo8814 bets [$0.02]
+mmmkeh folds
+** Summary **
+Remo8814 did not show his hand
+Remo8814 collected [ $0.08 ]
+
+
+#Game No : 499852138
+***** 888poker Hand History for Game 499852138 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 11:19:34
+Table Riobamba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: mmmkeh ( $0.96 )
+Seat 9: Remo8814 ( $0.84 )
+Remo8814 posts small blind [$0.01]
+mmmkeh posts big blind [$0.02]
+** Dealing down cards **
+Remo8814 calls [$0.01]
+mmmkeh checks
+** Dealing flop ** [ 6h, 2d, 2s ]
+mmmkeh checks
+Remo8814 checks
+** Dealing turn ** [ 7d ]
+mmmkeh checks
+Remo8814 bets [$0.02]
+mmmkeh calls [$0.02]
+** Dealing river ** [ 3c ]
+mmmkeh checks
+Remo8814 bets [$0.06]
+mmmkeh calls [$0.06]
+** Summary **
+Remo8814 shows [ Ah, 2h ]
+mmmkeh mucks [ Qh, 6s ]
+Remo8814 collected [ $0.19 ]
+
+
+#Game No : 499852512
+***** 888poker Hand History for Game 499852512 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 11:26:03
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: CHAMPIONT688 ( $1.03 )
+Seat 2: AlexEnz0 ( $0.81 )
+AlexEnz0 posts small blind [$0.01]
+CHAMPIONT688 posts big blind [$0.02]
+** Dealing down cards **
+AlexEnz0 folds
+** Summary **
+CHAMPIONT688 collected [ $0.03 ]
+
+
+#Game No : 499852515
+***** 888poker Hand History for Game 499852515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 11:26:08
+Table Riobamba 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CHAMPIONT688 ( $1.04 )
+Seat 2: AlexEnz0 ( $0.80 )
+CHAMPIONT688 posts small blind [$0.01]
+AlexEnz0 posts big blind [$0.02]
+** Dealing down cards **
+CHAMPIONT688 raises [$0.04]
+AlexEnz0 raises [$0.14]
+CHAMPIONT688 folds
+** Summary **
+AlexEnz0 collected [ $0.10 ]
+
+
+#Game No : 499852578
+***** 888poker Hand History for Game 499852578 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 11:27:21
+Table Riobamba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AlexEnz0 ( $0.85 )
+Seat 4: dmcq2004 ( $1 )
+AlexEnz0 posts small blind [$0.01]
+dmcq2004 posts big blind [$0.02]
+** Dealing down cards **
+AlexEnz0 folds
+** Summary **
+dmcq2004 collected [ $0.03 ]
+
+
+#Game No : 499852582
+***** 888poker Hand History for Game 499852582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 11:27:26
+Table Riobamba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: AlexEnz0 ( $0.84 )
+Seat 4: dmcq2004 ( $1.01 )
+dmcq2004 posts small blind [$0.01]
+AlexEnz0 posts big blind [$0.02]
+** Dealing down cards **
+dmcq2004 folds
+** Summary **
+AlexEnz0 collected [ $0.03 ]
+
+
+#Game No : 499861840
+***** 888poker Hand History for Game 499861840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 14:23:45
+Table Riobamba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: nabres14 ( $1.74 )
+Seat 4: Realroma2220 ( $3.81 )
+Realroma2220 posts small blind [$0.01]
+nabres14 posts big blind [$0.02]
+** Dealing down cards **
+Realroma2220 folds
+** Summary **
+nabres14 collected [ $0.03 ]
+
+

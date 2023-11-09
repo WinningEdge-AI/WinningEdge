@@ -1,0 +1,91 @@
+#Game No : 454429701
+***** 888poker Hand History for Game 454429701 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 06:13:22
+Table Jerez 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Buh_Alex ( $4.67 )
+Seat 9: Terminator8 ( $1.38 )
+Buh_Alex posts small blind [$0.01]
+Terminator8 posts big blind [$0.02]
+** Dealing down cards **
+Buh_Alex folds
+** Summary **
+Terminator8 collected [ $0.03 ]
+
+
+#Game No : 454429704
+***** 888poker Hand History for Game 454429704 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 06:13:27
+Table Jerez 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Buh_Alex ( $4.66 )
+Seat 9: Terminator8 ( $1.39 )
+Terminator8 posts small blind [$0.01]
+Buh_Alex posts big blind [$0.02]
+** Dealing down cards **
+Terminator8 calls [$0.01]
+Buh_Alex checks
+** Dealing flop ** [ 9d, 3h, 5s ]
+Buh_Alex bets [$0.04]
+Terminator8 raises [$0.08]
+Buh_Alex calls [$0.04]
+** Dealing turn ** [ 2s ]
+Buh_Alex checks
+Terminator8 bets [$0.13]
+Buh_Alex calls [$0.13]
+** Dealing river ** [ 3s ]
+Buh_Alex checks
+Terminator8 checks
+** Summary **
+Buh_Alex shows [ 9h, 4s ]
+Terminator8 mucks [ 7d, 7c ]
+Buh_Alex collected [ $0.44 ]
+
+
+#Game No : 454429719
+***** 888poker Hand History for Game 454429719 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 06:14:08
+Table Jerez 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Buh_Alex ( $4.87 )
+Seat 9: Terminator8 ( $1.16 )
+Buh_Alex posts small blind [$0.01]
+Terminator8 posts big blind [$0.02]
+** Dealing down cards **
+Buh_Alex raises [$0.05]
+Terminator8 calls [$0.04]
+** Dealing flop ** [ Ad, 8c, Td ]
+Terminator8 checks
+Buh_Alex bets [$0.06]
+Terminator8 calls [$0.06]
+** Dealing turn ** [ Ts ]
+Terminator8 checks
+Buh_Alex checks
+** Dealing river ** [ 4c ]
+Terminator8 checks
+Buh_Alex checks
+** Summary **
+Terminator8 shows [ Ks, Qd ]
+Buh_Alex mucks [ Kh, 2h ]
+Terminator8 collected [ $0.23 ]
+
+
+#Game No : 454429728
+***** 888poker Hand History for Game 454429728 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 06:14:29
+Table Jerez 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Buh_Alex ( $4.75 )
+Seat 9: Terminator8 ( $1.27 )
+Terminator8 posts small blind [$0.01]
+Buh_Alex posts big blind [$0.02]
+** Dealing down cards **
+Terminator8 folds
+** Summary **
+Buh_Alex collected [ $0.03 ]
+
+

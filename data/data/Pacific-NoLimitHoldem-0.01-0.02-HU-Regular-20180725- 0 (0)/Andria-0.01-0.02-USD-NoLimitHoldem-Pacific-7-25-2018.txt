@@ -1,0 +1,123 @@
+#Game No : 499935486
+***** 888poker Hand History for Game 499935486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 08:15:31
+Table Andria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Smoeggifaen ( $1.01 )
+Seat 2: Fasterk ( $1.87 )
+Smoeggifaen posts small blind [$0.01]
+Fasterk posts big blind [$0.02]
+** Dealing down cards **
+Smoeggifaen raises [$0.03]
+Fasterk folds
+** Summary **
+Smoeggifaen did not show his hand
+Smoeggifaen collected [ $0.04 ]
+
+
+#Game No : 499935490
+***** 888poker Hand History for Game 499935490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 08:15:34
+Table Andria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Smoeggifaen ( $1.03 )
+Seat 2: Fasterk ( $1.85 )
+Fasterk posts small blind [$0.01]
+Smoeggifaen posts big blind [$0.02]
+** Dealing down cards **
+Fasterk raises [$0.03]
+Smoeggifaen calls [$0.02]
+** Dealing flop ** [ 6s, Jc, 6d ]
+Smoeggifaen checks
+Fasterk checks
+** Dealing turn ** [ Kh ]
+Smoeggifaen checks
+Fasterk bets [$0.08]
+Smoeggifaen calls [$0.08]
+** Dealing river ** [ 9c ]
+Smoeggifaen checks
+Fasterk checks
+** Summary **
+Smoeggifaen shows [ 9s, Ad ]
+Fasterk mucks [ Qh, 8c ]
+Smoeggifaen collected [ $0.23 ]
+
+
+#Game No : 499935508
+***** 888poker Hand History for Game 499935508 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 08:15:58
+Table Andria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Smoeggifaen ( $1.14 )
+Seat 2: Fasterk ( $1.73 )
+Smoeggifaen posts small blind [$0.01]
+Fasterk posts big blind [$0.02]
+** Dealing down cards **
+Smoeggifaen raises [$0.03]
+Fasterk calls [$0.02]
+** Dealing flop ** [ 9d, 8h, 9c ]
+Fasterk checks
+Smoeggifaen bets [$0.04]
+Fasterk folds
+** Summary **
+Smoeggifaen did not show his hand
+Smoeggifaen collected [ $0.08 ]
+
+
+#Game No : 499935514
+***** 888poker Hand History for Game 499935514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 08:16:13
+Table Andria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Smoeggifaen ( $1.18 )
+Seat 2: Fasterk ( $1.69 )
+Fasterk posts small blind [$0.01]
+Smoeggifaen posts big blind [$0.02]
+** Dealing down cards **
+Fasterk raises [$0.05]
+Smoeggifaen calls [$0.04]
+** Dealing flop ** [ 3h, 6d, Kc ]
+Smoeggifaen checks
+Fasterk checks
+** Dealing turn ** [ Jd ]
+Smoeggifaen bets [$0.06]
+Fasterk calls [$0.06]
+** Dealing river ** [ 5h ]
+Smoeggifaen bets [$0.16]
+Fasterk folds
+** Summary **
+Smoeggifaen did not show his hand
+Smoeggifaen collected [ $0.23 ]
+
+
+#Game No : 499935543
+***** 888poker Hand History for Game 499935543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 08:16:39
+Table Andria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Smoeggifaen ( $1.29 )
+Seat 2: Fasterk ( $1.57 )
+Smoeggifaen posts small blind [$0.01]
+Fasterk posts big blind [$0.02]
+** Dealing down cards **
+Smoeggifaen raises [$0.03]
+Fasterk raises [$0.10]
+Smoeggifaen calls [$0.08]
+** Dealing flop ** [ 4s, 3c, As ]
+Fasterk bets [$0.24]
+Smoeggifaen calls [$0.24]
+** Dealing turn ** [ Tc ]
+Fasterk bets [$1.21]
+Smoeggifaen calls [$0.93]
+** Dealing river ** [ 4d ]
+** Summary **
+Smoeggifaen shows [ 3h, 5h ]
+Fasterk shows [ 9c, Ac ]
+Fasterk collected [ $2.42 ]
+
+

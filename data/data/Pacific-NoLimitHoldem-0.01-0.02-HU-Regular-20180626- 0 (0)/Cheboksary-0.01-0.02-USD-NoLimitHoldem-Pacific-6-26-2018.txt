@@ -1,0 +1,29 @@
+#Game No : 499103188
+***** 888poker Hand History for Game 499103188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 16:57:59
+Table Cheboksary 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dimple7777 ( $0.80 )
+Seat 6: Mr_Morgan14 ( $4.95 )
+dimple7777 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+dimple7777 calls [$0.01]
+Mr_Morgan14 raises [$0.04]
+dimple7777 raises [$0.08]
+Mr_Morgan14 raises [$0.24]
+dimple7777 calls [$0.20]
+** Dealing flop ** [ Kh, 2c, Kd ]
+Mr_Morgan14 checks
+dimple7777 bets [$0.30]
+Mr_Morgan14 raises [$0.60]
+dimple7777 calls [$0.20]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ 8d ]
+** Summary **
+dimple7777 shows [ 2h, 5c ]
+Mr_Morgan14 shows [ Qh, Qc ]
+Mr_Morgan14 collected [ $1.50 ]
+
+

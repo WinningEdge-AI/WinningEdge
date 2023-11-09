@@ -1,0 +1,626 @@
+#Game No : 525847178
+***** 888poker Hand History for Game 525847178 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:24:22
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $0.83 )
+Seat 4: richbranson ( $1 )
+Pinvax posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pinvax calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Jd, 9h, Jc ]
+richbranson checks
+Pinvax checks
+** Dealing turn ** [ 2d ]
+richbranson checks
+Pinvax checks
+** Dealing river ** [ 6d ]
+richbranson checks
+Pinvax bets [$0.04]
+richbranson folds
+** Summary **
+Pinvax collected [ $0.04 ]
+
+
+#Game No : 525847212
+***** 888poker Hand History for Game 525847212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:24:27
+Table Portland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $0.85 )
+Seat 4: richbranson ( $1 )
+richbranson posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 525847787
+***** 888poker Hand History for Game 525847787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:32:05
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $0.90 )
+Seat 9: dr.House_ ( $1 )
+dr.House_ posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ raises [$0.05]
+Pinvax calls [$0.04]
+** Dealing flop ** [ 3s, Td, Ts ]
+Pinvax checks
+dr.House_ checks
+** Dealing turn ** [ 6h ]
+Pinvax checks
+dr.House_ bets [$0.06]
+Pinvax folds
+** Summary **
+dr.House_ did not show his hand
+dr.House_ collected [ $0.12 ]
+
+
+#Game No : 525847811
+***** 888poker Hand History for Game 525847811 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:32:25
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $0.84 )
+Seat 9: dr.House_ ( $1.06 )
+Pinvax posts small blind [$0.01]
+dr.House_ posts big blind [$0.02]
+** Dealing down cards **
+Pinvax raises [$0.03]
+dr.House_ calls [$0.02]
+** Dealing flop ** [ Kc, Ks, Ad ]
+dr.House_ checks
+Pinvax checks
+** Dealing turn ** [ 2c ]
+dr.House_ bets [$0.05]
+Pinvax folds
+** Summary **
+dr.House_ did not show his hand
+dr.House_ collected [ $0.08 ]
+
+
+#Game No : 525847833
+***** 888poker Hand History for Game 525847833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:32:42
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $0.80 )
+Seat 9: dr.House_ ( $1.10 )
+dr.House_ posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+Pinvax did not show his hand
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 525848046
+***** 888poker Hand History for Game 525848046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:35:30
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $1.78 )
+Seat 9: dr.House_ ( $1.01 )
+Pinvax posts small blind [$0.01]
+dr.House_ posts big blind [$0.02]
+** Dealing down cards **
+Pinvax calls [$0.01]
+dr.House_ raises [$0.06]
+Pinvax folds
+** Summary **
+dr.House_ collected [ $0.04 ]
+
+
+#Game No : 525848058
+***** 888poker Hand History for Game 525848058 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:35:40
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $1.76 )
+Seat 9: dr.House_ ( $1.03 )
+dr.House_ posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 525848063
+***** 888poker Hand History for Game 525848063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:35:45
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $1.77 )
+Seat 9: dr.House_ ( $1.02 )
+Pinvax posts small blind [$0.01]
+dr.House_ posts big blind [$0.02]
+** Dealing down cards **
+Pinvax calls [$0.01]
+dr.House_ checks
+** Dealing flop ** [ 3h, 7h, 7s ]
+dr.House_ checks
+Pinvax checks
+** Dealing turn ** [ Td ]
+dr.House_ bets [$0.02]
+Pinvax folds
+** Summary **
+dr.House_ did not show his hand
+dr.House_ collected [ $0.04 ]
+
+
+#Game No : 525848087
+***** 888poker Hand History for Game 525848087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:36:02
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $1.75 )
+Seat 9: dr.House_ ( $1.04 )
+dr.House_ posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ raises [$0.05]
+Pinvax calls [$0.04]
+** Dealing flop ** [ 4s, 2c, Qd ]
+Pinvax bets [$0.06]
+dr.House_ raises [$0.12]
+Pinvax folds
+** Summary **
+dr.House_ did not show his hand
+dr.House_ collected [ $0.23 ]
+
+
+#Game No : 525848107
+***** 888poker Hand History for Game 525848107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:36:21
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $1.63 )
+Seat 9: dr.House_ ( $1.15 )
+Pinvax posts small blind [$0.01]
+dr.House_ posts big blind [$0.02]
+** Dealing down cards **
+Pinvax calls [$0.01]
+dr.House_ checks
+** Dealing flop ** [ Jd, 3h, 8h ]
+dr.House_ checks
+Pinvax bets [$0.02]
+dr.House_ folds
+** Summary **
+Pinvax did not show his hand
+Pinvax collected [ $0.04 ]
+
+
+#Game No : 525848133
+***** 888poker Hand History for Game 525848133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:36:40
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $1.65 )
+Seat 9: dr.House_ ( $1.13 )
+dr.House_ posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+Pinvax did not show his hand
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 525848135
+***** 888poker Hand History for Game 525848135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:36:45
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $1.66 )
+Seat 9: dr.House_ ( $1.12 )
+Pinvax posts small blind [$0.01]
+dr.House_ posts big blind [$0.02]
+** Dealing down cards **
+Pinvax raises [$0.03]
+dr.House_ calls [$0.02]
+** Dealing flop ** [ 2d, 9s, 5s ]
+dr.House_ checks
+Pinvax checks
+** Dealing turn ** [ Th ]
+dr.House_ checks
+Pinvax bets [$0.08]
+dr.House_ calls [$0.08]
+** Dealing river ** [ Qh ]
+dr.House_ checks
+Pinvax checks
+** Summary **
+dr.House_ shows [ As, Qc ]
+Pinvax mucks [ Ts, Jh ]
+dr.House_ collected [ $0.23 ]
+
+
+#Game No : 525848164
+***** 888poker Hand History for Game 525848164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:37:10
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $1.54 )
+Seat 9: dr.House_ ( $1.23 )
+dr.House_ posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 525848199
+***** 888poker Hand History for Game 525848199 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:37:31
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Pinvax ( $1.56 )
+Seat 9: dr.House_ ( $1.21 )
+dr.House_ posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 525848795
+***** 888poker Hand History for Game 525848795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:45:09
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Maldder13 ( $0.81 )
+Seat 9: dr.House_ ( $1.01 )
+dr.House_ posts small blind [$0.01]
+Maldder13 posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+Maldder13 collected [ $0.03 ]
+
+
+#Game No : 525848806
+***** 888poker Hand History for Game 525848806 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 06:45:14
+Table Portland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Maldder13 ( $0.82 )
+Seat 9: dr.House_ ( $1 )
+Maldder13 posts small blind [$0.01]
+dr.House_ posts big blind [$0.02]
+** Dealing down cards **
+Maldder13 calls [$0.01]
+dr.House_ checks
+** Dealing flop ** [ 6s, As, Qh ]
+dr.House_ checks
+Maldder13 checks
+** Dealing turn ** [ 6d ]
+dr.House_ bets [$0.02]
+Maldder13 calls [$0.02]
+** Dealing river ** [ 8c ]
+dr.House_ bets [$0.04]
+Maldder13 calls [$0.04]
+** Summary **
+dr.House_ shows [ 2c, Qd ]
+Maldder13 mucks [ 3d, 3h ]
+dr.House_ collected [ $0.15 ]
+
+
+#Game No : 525853046
+***** 888poker Hand History for Game 525853046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:40:23
+Table Portland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: lBAXAl ( $2.01 )
+Seat 7: TheDentalist ( $0.80 )
+TheDentalist posts small blind [$0.01]
+lBAXAl posts big blind [$0.02]
+** Dealing down cards **
+TheDentalist raises [$0.37]
+lBAXAl calls [$0.36]
+** Dealing flop ** [ Kc, Ks, 6s ]
+lBAXAl checks
+TheDentalist checks
+** Dealing turn ** [ 9c ]
+lBAXAl bets [$0.14]
+TheDentalist folds
+** Summary **
+lBAXAl collected [ $0.72 ]
+
+
+#Game No : 525853089
+***** 888poker Hand History for Game 525853089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:40:56
+Table Portland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: lBAXAl ( $2.35 )
+Seat 7: TheDentalist ( $0.42 )
+lBAXAl posts small blind [$0.01]
+TheDentalist posts big blind [$0.02]
+** Dealing down cards **
+lBAXAl calls [$0.01]
+TheDentalist raises [$0.40]
+lBAXAl calls [$0.40]
+** Dealing flop ** [ Td, Qc, 2d ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ 4h ]
+** Summary **
+lBAXAl shows [ 3h, Ah ]
+TheDentalist shows [ Qh, 9s ]
+TheDentalist collected [ $0.79 ]
+
+
+#Game No : 525853138
+***** 888poker Hand History for Game 525853138 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:41:29
+Table Portland 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: lBAXAl ( $1.93 )
+Seat 7: TheDentalist ( $0.79 )
+TheDentalist posts small blind [$0.01]
+lBAXAl posts big blind [$0.02]
+** Dealing down cards **
+TheDentalist calls [$0.01]
+lBAXAl checks
+** Dealing flop ** [ 5c, 5s, 4s ]
+lBAXAl bets [$0.02]
+TheDentalist calls [$0.02]
+** Dealing turn ** [ 7d ]
+lBAXAl bets [$0.04]
+TheDentalist calls [$0.04]
+** Dealing river ** [ 6h ]
+lBAXAl bets [$0.10]
+TheDentalist calls [$0.10]
+** Summary **
+lBAXAl shows [ Ts, 2s ]
+TheDentalist shows [ 8d, 7c ]
+TheDentalist collected [ $0.34 ]
+
+
+#Game No : 525853200
+***** 888poker Hand History for Game 525853200 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:42:17
+Table Portland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: lBAXAl ( $1.75 )
+Seat 7: TheDentalist ( $0.95 )
+lBAXAl posts small blind [$0.01]
+TheDentalist posts big blind [$0.02]
+** Dealing down cards **
+lBAXAl calls [$0.01]
+TheDentalist checks
+** Dealing flop ** [ 4s, 2h, 6s ]
+TheDentalist checks
+lBAXAl bets [$0.02]
+TheDentalist raises [$0.10]
+lBAXAl calls [$0.08]
+** Dealing turn ** [ 3s ]
+TheDentalist bets [$0.62]
+lBAXAl raises [$1.24]
+TheDentalist calls [$0.21]
+** Dealing river ** [ 6c ]
+** Summary **
+lBAXAl shows [ 2s, Ks ]
+TheDentalist shows [ 4c, 3h ]
+lBAXAl collected [ $1.79 ]
+
+
+#Game No : 525853571
+***** 888poker Hand History for Game 525853571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:46:32
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $1 )
+Seat 9: 3PSY3 ( $1.61 )
+3PSY3 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+3PSY3 raises [$0.05]
+i_am_you_ calls [$0.04]
+** Dealing flop ** [ 3h, Js, Qc ]
+i_am_you_ checks
+3PSY3 bets [$0.12]
+i_am_you_ folds
+** Summary **
+3PSY3 collected [ $0.12 ]
+
+
+#Game No : 525853596
+***** 888poker Hand History for Game 525853596 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:46:47
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $1 )
+Seat 9: 3PSY3 ( $1.67 )
+i_am_you_ posts small blind [$0.01]
+3PSY3 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+3PSY3 calls [$0.04]
+** Dealing flop ** [ 7h, 4s, Jd ]
+3PSY3 checks
+i_am_you_ bets [$0.05]
+3PSY3 calls [$0.05]
+** Dealing turn ** [ 6h ]
+3PSY3 checks
+i_am_you_ bets [$0.11]
+3PSY3 folds
+** Summary **
+i_am_you_ collected [ $0.21 ]
+
+
+#Game No : 525853614
+***** 888poker Hand History for Game 525853614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:47:01
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $1.10 )
+Seat 9: 3PSY3 ( $1.56 )
+3PSY3 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+3PSY3 folds
+** Summary **
+i_am_you_ collected [ $0.03 ]
+
+
+#Game No : 525853623
+***** 888poker Hand History for Game 525853623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:47:06
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $1.11 )
+Seat 9: 3PSY3 ( $1.55 )
+i_am_you_ posts small blind [$0.01]
+3PSY3 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ calls [$0.01]
+3PSY3 raises [$0.04]
+i_am_you_ folds
+** Summary **
+3PSY3 collected [ $0.04 ]
+
+
+#Game No : 525853635
+***** 888poker Hand History for Game 525853635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:47:17
+Table Portland 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $1.09 )
+Seat 9: 3PSY3 ( $1.57 )
+3PSY3 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+3PSY3 folds
+** Summary **
+i_am_you_ collected [ $0.03 ]
+
+
+#Game No : 525853644
+***** 888poker Hand History for Game 525853644 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:47:22
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $1.10 )
+Seat 9: 3PSY3 ( $1.56 )
+i_am_you_ posts small blind [$0.01]
+3PSY3 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+3PSY3 calls [$0.04]
+** Dealing flop ** [ 9c, 3c, 3s ]
+3PSY3 checks
+i_am_you_ checks
+** Dealing turn ** [ Jh ]
+3PSY3 checks
+i_am_you_ checks
+** Dealing river ** [ 2h ]
+3PSY3 checks
+i_am_you_ checks
+** Summary **
+3PSY3 shows [ Td, Ad ]
+i_am_you_ mucks [ Ac, 8h ]
+3PSY3 collected [ $0.12 ]
+
+
+#Game No : 525865341
+***** 888poker Hand History for Game 525865341 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 10:13:47
+Table Portland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tuman80 ( $1 )
+Seat 7: Kennypoker27 ( $1.21 )
+tuman80 posts small blind [$0.01]
+Kennypoker27 posts big blind [$0.02]
+** Dealing down cards **
+tuman80 raises [$0.03]
+Kennypoker27 calls [$0.02]
+** Dealing flop ** [ Ks, 9d, Th ]
+Kennypoker27 checks
+tuman80 bets [$0.04]
+Kennypoker27 folds
+** Summary **
+tuman80 collected [ $0.08 ]
+
+
+#Game No : 525866438
+***** 888poker Hand History for Game 525866438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 10:25:48
+Table Portland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: buraiv ( $2.13 )
+Seat 4: highmaninho ( $1.27 )
+highmaninho posts small blind [$0.01]
+buraiv posts big blind [$0.02]
+** Dealing down cards **
+highmaninho raises [$0.05]
+buraiv calls [$0.04]
+** Dealing flop ** [ Jh, 4c, Js ]
+buraiv checks
+highmaninho checks
+** Dealing turn ** [ Jd ]
+buraiv checks
+highmaninho checks
+** Dealing river ** [ 5d ]
+buraiv checks
+highmaninho checks
+** Summary **
+buraiv shows [ Ac, 6h ]
+highmaninho shows [ 6s, Ad ]
+highmaninho collected [ $0.06 ]
+buraiv collected [ $0.06 ]
+
+
+#Game No : 525866533
+***** 888poker Hand History for Game 525866533 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 10:26:41
+Table Portland 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: buraiv ( $2.13 )
+Seat 4: highmaninho ( $1.27 )
+buraiv posts small blind [$0.01]
+** Dealing down cards **
+highmaninho folds
+** Summary **
+buraiv did not show his hand
+buraiv collected [ $0.01 ]
+
+

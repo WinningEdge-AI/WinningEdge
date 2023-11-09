@@ -1,0 +1,63 @@
+#Game No : 1264845032
+***** 888poker Hand History for Game 1264845032 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 01:19:53
+Table Downey 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Dziban ( $1.62 )
+Seat 7: Kan7t_Wayt ( $1.02 )
+Kan7t_Wayt posts small blind [$0.01]
+Dziban posts big blind [$0.02]
+** Dealing down cards **
+Kan7t_Wayt raises [$0.03]
+Dziban raises [$0.06]
+Kan7t_Wayt calls [$0.04]
+** Dealing flop ** [ Qd, 2s, Ad ]
+Dziban checks
+Kan7t_Wayt checks
+** Dealing turn ** [ Qh ]
+Dziban checks
+Kan7t_Wayt checks
+** Dealing river ** [ Jc ]
+Dziban bets [$0.08]
+Kan7t_Wayt calls [$0.08]
+** Summary **
+Dziban shows [ 3s, Ks ]
+Kan7t_Wayt shows [ Ts, Tc ]
+Kan7t_Wayt collected [ $0.30 ]
+
+
+#Game No : 1264845092
+***** 888poker Hand History for Game 1264845092 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 01:20:35
+Table Downey 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Dziban ( $1.46 )
+Seat 7: Kan7t_Wayt ( $1.16 )
+Dziban posts small blind [$0.01]
+Kan7t_Wayt posts big blind [$0.02]
+** Dealing down cards **
+Dziban raises [$0.05]
+Kan7t_Wayt folds
+** Summary **
+Dziban collected [ $0.04 ]
+
+
+#Game No : 1264845115
+***** 888poker Hand History for Game 1264845115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 01:20:48
+Table Downey 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Dziban ( $1.48 )
+Seat 7: Kan7t_Wayt ( $1.14 )
+Kan7t_Wayt posts small blind [$0.01]
+Dziban posts big blind [$0.02]
+** Dealing down cards **
+Kan7t_Wayt raises [$0.05]
+Dziban folds
+** Summary **
+Kan7t_Wayt collected [ $0.04 ]
+
+

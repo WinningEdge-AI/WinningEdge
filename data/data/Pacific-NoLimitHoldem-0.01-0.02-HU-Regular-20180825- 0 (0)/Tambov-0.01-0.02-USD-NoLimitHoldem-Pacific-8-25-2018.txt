@@ -1,0 +1,27 @@
+#Game No : 454751838
+***** 888poker Hand History for Game 454751838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 10:34:06
+Table Tambov 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: S7ARK ( $2.09 )
+Seat 10: ProAkio ( $0.76 )
+S7ARK posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+S7ARK raises [$0.05]
+ProAkio calls [$0.04]
+** Dealing flop ** [ 8h, 5s, Th ]
+ProAkio checks
+S7ARK bets [$0.08]
+ProAkio calls [$0.08]
+** Dealing turn ** [ As ]
+ProAkio checks
+S7ARK checks
+** Dealing river ** [ 4s ]
+ProAkio bets [$0.14]
+S7ARK folds
+** Summary **
+ProAkio collected [ $0.27 ]
+
+

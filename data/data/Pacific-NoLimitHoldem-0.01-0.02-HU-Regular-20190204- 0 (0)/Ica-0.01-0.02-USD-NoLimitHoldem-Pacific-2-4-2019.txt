@@ -1,0 +1,80 @@
+#Game No : 461163719
+***** 888poker Hand History for Game 461163719 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:06:40
+Table Ica 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: meDIbel ( $3.04 )
+Seat 2: Ds_tK ( $2 )
+meDIbel posts small blind [$0.01]
+Ds_tK posts big blind [$0.02]
+** Dealing down cards **
+meDIbel folds
+** Summary **
+Ds_tK collected [ $0.03 ]
+
+
+#Game No : 461163731
+***** 888poker Hand History for Game 461163731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:07:00
+Table Ica 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: meDIbel ( $3.03 )
+Seat 2: Ds_tK ( $2.01 )
+Ds_tK posts small blind [$0.01]
+meDIbel posts big blind [$0.02]
+** Dealing down cards **
+Ds_tK folds
+** Summary **
+meDIbel collected [ $0.03 ]
+
+
+#Game No : 461163733
+***** 888poker Hand History for Game 461163733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:07:08
+Table Ica 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: meDIbel ( $3.04 )
+Seat 2: Ds_tK ( $2 )
+meDIbel posts small blind [$0.01]
+Ds_tK posts big blind [$0.02]
+** Dealing down cards **
+meDIbel raises [$0.03]
+Ds_tK calls [$0.02]
+** Dealing flop ** [ 4h, Tc, 5h ]
+Ds_tK checks
+meDIbel bets [$0.05]
+Ds_tK raises [$0.14]
+meDIbel calls [$0.09]
+** Dealing turn ** [ Ts ]
+Ds_tK bets [$0.18]
+meDIbel calls [$0.18]
+** Dealing river ** [ Ks ]
+Ds_tK checks
+meDIbel bets [$0.36]
+Ds_tK calls [$0.36]
+** Summary **
+meDIbel shows [ Ac, Td ]
+Ds_tK mucks [ Ad, Ah ]
+meDIbel collected [ $1.35 ]
+
+
+#Game No : 461163770
+***** 888poker Hand History for Game 461163770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:08:41
+Table Ica 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: meDIbel ( $3.67 )
+Seat 2: Ds_tK ( $2 )
+Ds_tK posts small blind [$0.01]
+meDIbel posts big blind [$0.02]
+** Dealing down cards **
+Ds_tK raises [$0.05]
+meDIbel folds
+** Summary **
+Ds_tK collected [ $0.04 ]
+
+

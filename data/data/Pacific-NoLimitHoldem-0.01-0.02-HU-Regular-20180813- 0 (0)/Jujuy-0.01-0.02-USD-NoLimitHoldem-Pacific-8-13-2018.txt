@@ -1,0 +1,29 @@
+#Game No : 1201002750
+***** 888poker Hand History for Game 1201002750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 16:15:31
+Table Jujuy 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: AleandroB ( $5.15 )
+Seat 10: Vzla_Libre ( $0.66 )
+AleandroB posts small blind [$0.01]
+Vzla_Libre posts big blind [$0.02]
+** Dealing down cards **
+AleandroB raises [$0.05]
+Vzla_Libre calls [$0.04]
+** Dealing flop ** [ 8c, 2h, Jc ]
+Vzla_Libre checks
+AleandroB bets [$0.06]
+Vzla_Libre raises [$0.12]
+AleandroB calls [$0.06]
+** Dealing turn ** [ 9h ]
+Vzla_Libre bets [$0.06]
+AleandroB raises [$4.97]
+Vzla_Libre calls [$0.42]
+** Dealing river ** [ 8d ]
+** Summary **
+AleandroB shows [ Qh, Td ]
+Vzla_Libre shows [ Jh, Qd ]
+AleandroB collected [ $1.24 ]
+
+

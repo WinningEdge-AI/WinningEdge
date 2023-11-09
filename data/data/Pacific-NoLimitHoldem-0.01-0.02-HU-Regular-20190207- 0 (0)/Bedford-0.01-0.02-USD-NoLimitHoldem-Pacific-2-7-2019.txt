@@ -1,0 +1,533 @@
+#Game No : 1245913082
+***** 888poker Hand History for Game 1245913082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 22:07:59
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: serhion14 ( $1.88 )
+Seat 2: LuckTilt ( $2.94 )
+serhion14 posts small blind [$0.01]
+LuckTilt posts big blind [$0.02]
+** Dealing down cards **
+serhion14 raises [$0.03]
+LuckTilt raises [$0.12]
+serhion14 raises [$0.28]
+LuckTilt calls [$0.18]
+** Dealing flop ** [ 5d, Ah, 6d ]
+LuckTilt checks
+serhion14 checks
+** Dealing turn ** [ 4c ]
+LuckTilt checks
+serhion14 bets [$0.32]
+LuckTilt calls [$0.32]
+** Dealing river ** [ Ks ]
+LuckTilt checks
+serhion14 bets [$0.34]
+LuckTilt calls [$0.34]
+** Summary **
+serhion14 shows [ 4s, Ad ]
+LuckTilt mucks [ Jd, As ]
+serhion14 collected [ $1.84 ]
+
+
+#Game No : 1245913183
+***** 888poker Hand History for Game 1245913183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 22:09:23
+Table Bedford 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: serhion14 ( $2.74 )
+Seat 6: LisaTropical ( $0.80 )
+LisaTropical posts small blind [$0.01]
+serhion14 posts big blind [$0.02]
+** Dealing down cards **
+LisaTropical calls [$0.01]
+serhion14 checks
+** Dealing flop ** [ Tc, 5d, Jd ]
+serhion14 bets [$0.02]
+LisaTropical calls [$0.02]
+** Dealing turn ** [ 3h ]
+serhion14 bets [$0.04]
+LisaTropical calls [$0.04]
+** Dealing river ** [ Kc ]
+serhion14 checks
+LisaTropical bets [$0.06]
+serhion14 calls [$0.06]
+** Summary **
+LisaTropical shows [ 9s, Qc ]
+serhion14 mucks [ 7h, Js ]
+LisaTropical collected [ $0.27 ]
+
+
+#Game No : 1245913243
+***** 888poker Hand History for Game 1245913243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 22:10:07
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: serhion14 ( $2.60 )
+Seat 6: LisaTropical ( $0.93 )
+serhion14 posts small blind [$0.01]
+LisaTropical posts big blind [$0.02]
+** Dealing down cards **
+serhion14 raises [$0.05]
+LisaTropical calls [$0.04]
+** Dealing flop ** [ 9s, Th, Kc ]
+LisaTropical checks
+serhion14 bets [$0.06]
+LisaTropical calls [$0.06]
+** Dealing turn ** [ 8d ]
+LisaTropical checks
+serhion14 bets [$0.08]
+LisaTropical calls [$0.08]
+** Dealing river ** [ Ac ]
+LisaTropical checks
+serhion14 checks
+** Summary **
+LisaTropical shows [ Qh, 7h ]
+serhion14 shows [ Ad, Js ]
+serhion14 collected [ $0.38 ]
+
+
+#Game No : 1245951641
+***** 888poker Hand History for Game 1245951641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:34:57
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.54 )
+Seat 4: SkrudGu ( $1.91 )
+GreenSaRed posts small blind [$0.01]
+SkrudGu posts big blind [$0.02]
+** Dealing down cards **
+GreenSaRed raises [$0.05]
+SkrudGu folds
+** Summary **
+GreenSaRed collected [ $0.04 ]
+
+
+#Game No : 1245951672
+***** 888poker Hand History for Game 1245951672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:35:07
+Table Bedford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.56 )
+Seat 4: SkrudGu ( $1.89 )
+SkrudGu posts small blind [$0.01]
+GreenSaRed posts big blind [$0.02]
+** Dealing down cards **
+SkrudGu raises [$0.05]
+GreenSaRed folds
+** Summary **
+SkrudGu collected [ $0.04 ]
+
+
+#Game No : 1245951916
+***** 888poker Hand History for Game 1245951916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:36:27
+Table Bedford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.57 )
+Seat 7: 1moretry1 ( $1.04 )
+1moretry1 posts small blind [$0.01]
+GreenSaRed posts big blind [$0.02]
+** Dealing down cards **
+1moretry1 folds
+** Summary **
+GreenSaRed collected [ $0.03 ]
+
+
+#Game No : 1245951931
+***** 888poker Hand History for Game 1245951931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:36:33
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.58 )
+Seat 7: 1moretry1 ( $1.03 )
+GreenSaRed posts small blind [$0.01]
+1moretry1 posts big blind [$0.02]
+** Dealing down cards **
+GreenSaRed raises [$0.05]
+1moretry1 folds
+** Summary **
+GreenSaRed collected [ $0.04 ]
+
+
+#Game No : 1245951963
+***** 888poker Hand History for Game 1245951963 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:36:44
+Table Bedford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.60 )
+Seat 7: 1moretry1 ( $1.01 )
+1moretry1 posts small blind [$0.01]
+** Dealing down cards **
+GreenSaRed folds
+** Summary **
+1moretry1 collected [ $0.01 ]
+
+
+#Game No : 1245951972
+***** 888poker Hand History for Game 1245951972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:36:48
+Table Bedford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: 1moretry1 ( $1.01 )
+Seat 9: Stormwallare ( $0.80 )
+1moretry1 posts small blind [$0.01]
+** Dealing down cards **
+Stormwallare folds
+** Summary **
+1moretry1 collected [ $0.01 ]
+
+
+#Game No : 1245952044
+***** 888poker Hand History for Game 1245952044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:37:13
+Table Bedford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: 1moretry1 ( $1.01 )
+Seat 9: Stormwallare ( $0.80 )
+1moretry1 posts small blind [$0.01]
+Stormwallare posts big blind [$0.02]
+** Dealing down cards **
+1moretry1 raises [$0.04]
+Stormwallare folds
+** Summary **
+1moretry1 collected [ $0.04 ]
+
+
+#Game No : 1245952096
+***** 888poker Hand History for Game 1245952096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:37:32
+Table Bedford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: 1moretry1 ( $1.03 )
+Seat 9: Stormwallare ( $0.78 )
+Stormwallare posts small blind [$0.01]
+** Dealing down cards **
+1moretry1 folds
+** Summary **
+Stormwallare collected [ $0.01 ]
+
+
+#Game No : 1245955321
+***** 888poker Hand History for Game 1245955321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:56:01
+Table Bedford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.23 )
+Seat 7: vityel ( $1.22 )
+vityel posts small blind [$0.01]
+GreenSaRed posts big blind [$0.02]
+** Dealing down cards **
+vityel calls [$0.01]
+GreenSaRed checks
+** Dealing flop ** [ 4d, 8s, Ts ]
+GreenSaRed bets [$0.02]
+vityel calls [$0.02]
+** Dealing turn ** [ 6c ]
+GreenSaRed checks
+vityel bets [$0.08]
+GreenSaRed folds
+** Summary **
+vityel collected [ $0.08 ]
+
+
+#Game No : 1245955460
+***** 888poker Hand History for Game 1245955460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:56:48
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.19 )
+Seat 7: vityel ( $1.26 )
+GreenSaRed posts small blind [$0.01]
+** Dealing down cards **
+vityel folds
+** Summary **
+GreenSaRed collected [ $0.01 ]
+
+
+#Game No : 1245955467
+***** 888poker Hand History for Game 1245955467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:56:52
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.19 )
+Seat 4: AleksandR400 ( $0.80 )
+GreenSaRed posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+GreenSaRed folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 1245955502
+***** 888poker Hand History for Game 1245955502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:57:02
+Table Bedford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.18 )
+Seat 4: AleksandR400 ( $0.81 )
+AleksandR400 posts small blind [$0.01]
+GreenSaRed posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 folds
+** Summary **
+GreenSaRed collected [ $0.03 ]
+
+
+#Game No : 1245955766
+***** 888poker Hand History for Game 1245955766 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:58:32
+Table Bedford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.13 )
+Seat 4: AleksandR400 ( $0.76 )
+AleksandR400 posts small blind [$0.01]
+GreenSaRed posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 folds
+** Summary **
+GreenSaRed did not show his hand
+GreenSaRed collected [ $0.03 ]
+
+
+#Game No : 1245955789
+***** 888poker Hand History for Game 1245955789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:58:39
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.14 )
+Seat 4: AleksandR400 ( $0.75 )
+GreenSaRed posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+GreenSaRed folds
+** Summary **
+AleksandR400 did not show his hand
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 1245955800
+***** 888poker Hand History for Game 1245955800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:58:45
+Table Bedford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.13 )
+Seat 4: AleksandR400 ( $0.76 )
+AleksandR400 posts small blind [$0.01]
+GreenSaRed posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 calls [$0.01]
+GreenSaRed raises [$0.04]
+AleksandR400 calls [$0.04]
+** Dealing flop ** [ 3c, Td, 2s ]
+GreenSaRed bets [$0.06]
+AleksandR400 folds
+** Summary **
+GreenSaRed collected [ $0.12 ]
+
+
+#Game No : 1245961198
+***** 888poker Hand History for Game 1245961198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 04:28:54
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.91 )
+Seat 6: DenisPylypov ( $1.65 )
+GreenSaRed posts small blind [$0.01]
+DenisPylypov posts big blind [$0.02]
+** Dealing down cards **
+GreenSaRed folds
+** Summary **
+DenisPylypov collected [ $0.03 ]
+
+
+#Game No : 1245961217
+***** 888poker Hand History for Game 1245961217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 04:28:59
+Table Bedford 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GreenSaRed ( $1.90 )
+Seat 6: DenisPylypov ( $1.66 )
+DenisPylypov posts small blind [$0.01]
+** Dealing down cards **
+GreenSaRed folds
+** Summary **
+DenisPylypov did not show his hand
+DenisPylypov collected [ $0.01 ]
+
+
+#Game No : 1245961567
+***** 888poker Hand History for Game 1245961567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 04:30:49
+Table Bedford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Mendham90 ( $0.67 )
+Seat 6: DenisPylypov ( $1.73 )
+Mendham90 posts small blind [$0.01]
+DenisPylypov posts big blind [$0.02]
+** Dealing down cards **
+Mendham90 calls [$0.01]
+DenisPylypov raises [$0.06]
+Mendham90 raises [$0.12]
+DenisPylypov calls [$0.06]
+** Dealing flop ** [ Jh, 9s, 9c ]
+DenisPylypov checks
+Mendham90 checks
+** Dealing turn ** [ Ac ]
+DenisPylypov checks
+Mendham90 checks
+** Dealing river ** [ Kd ]
+DenisPylypov bets [$0.14]
+Mendham90 folds
+** Summary **
+DenisPylypov did not show his hand
+DenisPylypov collected [ $0.27 ]
+
+
+#Game No : 1245961662
+***** 888poker Hand History for Game 1245961662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 04:31:18
+Table Bedford 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Mendham90 ( $0.53 )
+Seat 6: DenisPylypov ( $1.86 )
+DenisPylypov posts small blind [$0.01]
+Mendham90 posts big blind [$0.02]
+** Dealing down cards **
+DenisPylypov raises [$0.07]
+Mendham90 calls [$0.06]
+** Dealing flop ** [ 3h, 6d, Js ]
+Mendham90 checks
+DenisPylypov bets [$0.10]
+Mendham90 folds
+** Summary **
+DenisPylypov did not show his hand
+DenisPylypov collected [ $0.15 ]
+
+
+#Game No : 1245961770
+***** 888poker Hand History for Game 1245961770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 04:31:51
+Table Bedford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Mendham90 ( $0.45 )
+Seat 6: DenisPylypov ( $1.93 )
+Mendham90 posts small blind [$0.01]
+DenisPylypov posts big blind [$0.02]
+** Dealing down cards **
+Mendham90 calls [$0.01]
+DenisPylypov checks
+** Dealing flop ** [ 3d, 4d, 5h ]
+DenisPylypov checks
+Mendham90 bets [$0.02]
+DenisPylypov calls [$0.02]
+** Dealing turn ** [ 9c ]
+DenisPylypov checks
+Mendham90 bets [$0.02]
+DenisPylypov calls [$0.02]
+** Dealing river ** [ Jh ]
+DenisPylypov bets [$0.08]
+Mendham90 calls [$0.08]
+** Summary **
+DenisPylypov shows [ 2c, Jd ]
+Mendham90 mucks [ Qd, 5s ]
+DenisPylypov collected [ $0.27 ]
+
+
+#Game No : 1245961928
+***** 888poker Hand History for Game 1245961928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 04:32:38
+Table Bedford 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Mendham90 ( $0.31 )
+Seat 6: DenisPylypov ( $2.06 )
+DenisPylypov posts small blind [$0.01]
+Mendham90 posts big blind [$0.02]
+** Dealing down cards **
+DenisPylypov folds
+** Summary **
+Mendham90 collected [ $0.03 ]
+
+
+#Game No : 1246000745
+***** 888poker Hand History for Game 1246000745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 07:47:16
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SlikvsSlik ( $1.76 )
+Seat 4: Vayaka121 ( $1.56 )
+SlikvsSlik posts small blind [$0.01]
+Vayaka121 posts big blind [$0.02]
+** Dealing down cards **
+SlikvsSlik folds
+** Summary **
+Vayaka121 collected [ $0.03 ]
+
+
+#Game No : 1246000769
+***** 888poker Hand History for Game 1246000769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 07:47:23
+Table Bedford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: SlikvsSlik ( $1.75 )
+Seat 4: Vayaka121 ( $1.57 )
+Vayaka121 posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+Vayaka121 calls [$0.01]
+SlikvsSlik checks
+** Dealing flop ** [ 4h, 9c, Ah ]
+SlikvsSlik checks
+Vayaka121 bets [$0.04]
+SlikvsSlik folds
+** Summary **
+Vayaka121 collected [ $0.04 ]
+
+
+#Game No : 1246000916
+***** 888poker Hand History for Game 1246000916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 07:48:05
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SlikvsSlik ( $1.73 )
+Seat 4: Vayaka121 ( $1.59 )
+SlikvsSlik posts small blind [$0.01]
+Vayaka121 posts big blind [$0.02]
+** Dealing down cards **
+SlikvsSlik raises [$0.04]
+Vayaka121 calls [$0.03]
+** Dealing flop ** [ Jh, Kh, 2h ]
+Vayaka121 checks
+SlikvsSlik bets [$0.05]
+Vayaka121 folds
+** Summary **
+SlikvsSlik collected [ $0.10 ]
+
+

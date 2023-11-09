@@ -1,0 +1,62 @@
+#Game No : 515247051
+***** 888poker Hand History for Game 515247051 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 03 2019 15:47:50
+Table Alacant 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: arcticdawn ( $1.28 )
+Seat 9: vietalva ( $1.09 )
+arcticdawn posts small blind [$0.01]
+vietalva posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn raises [$0.05]
+vietalva folds
+** Summary **
+arcticdawn collected [ $0.04 ]
+
+
+#Game No : 515247063
+***** 888poker Hand History for Game 515247063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 03 2019 15:48:07
+Table Alacant 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: arcticdawn ( $1.30 )
+Seat 9: vietalva ( $1.07 )
+vietalva posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+vietalva raises [$0.05]
+arcticdawn folds
+** Summary **
+vietalva collected [ $0.04 ]
+
+
+#Game No : 515247146
+***** 888poker Hand History for Game 515247146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 03 2019 15:50:13
+Table Alacant 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Louieee14 ( $0.80 )
+Seat 9: vietalva ( $1.09 )
+Louieee14 posts small blind [$0.01]
+vietalva posts big blind [$0.02]
+** Dealing down cards **
+Louieee14 calls [$0.01]
+vietalva checks
+** Dealing flop ** [ 4c, 4h, 6c ]
+vietalva checks
+Louieee14 checks
+** Dealing turn ** [ Tc ]
+vietalva bets [$0.08]
+Louieee14 calls [$0.08]
+** Dealing river ** [ 8d ]
+vietalva bets [$0.10]
+Louieee14 calls [$0.10]
+** Summary **
+vietalva shows [ Jc, 8c ]
+Louieee14 mucks [ 9c, Td ]
+vietalva collected [ $0.38 ]
+
+

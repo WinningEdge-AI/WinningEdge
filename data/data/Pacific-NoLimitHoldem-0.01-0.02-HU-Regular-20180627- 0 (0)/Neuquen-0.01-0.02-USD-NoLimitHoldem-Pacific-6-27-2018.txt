@@ -1,0 +1,134 @@
+#Game No : 499133009
+***** 888poker Hand History for Game 499133009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 07:03:25
+Table Neuquen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: egoist28 ( $1.02 )
+Seat 2: Sevyanych201 ( $1 )
+Sevyanych201 posts small blind [$0.01]
+egoist28 posts big blind [$0.02]
+** Dealing down cards **
+Sevyanych201 raises [$0.05]
+egoist28 folds
+** Summary **
+Sevyanych201 did not show his hand
+Sevyanych201 collected [ $0.04 ]
+
+
+#Game No : 1188158357
+***** 888poker Hand History for Game 1188158357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 07:39:21
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Divenez ( $2.01 )
+Seat 5: pracka10 ( $0.99 )
+Divenez posts small blind [$0.01]
+pracka10 posts big blind [$0.02]
+** Dealing down cards **
+Divenez folds
+** Summary **
+pracka10 collected [ $0.03 ]
+
+
+#Game No : 1188158376
+***** 888poker Hand History for Game 1188158376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 07:39:27
+Table Neuquen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Divenez ( $2 )
+Seat 5: pracka10 ( $1 )
+pracka10 posts small blind [$0.01]
+Divenez posts big blind [$0.02]
+** Dealing down cards **
+pracka10 raises [$0.03]
+Divenez folds
+** Summary **
+pracka10 collected [ $0.04 ]
+
+
+#Game No : 1188158396
+***** 888poker Hand History for Game 1188158396 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 07:39:35
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Divenez ( $1.98 )
+Seat 5: pracka10 ( $1.02 )
+Divenez posts small blind [$0.01]
+pracka10 posts big blind [$0.02]
+** Dealing down cards **
+Divenez raises [$0.03]
+pracka10 calls [$0.02]
+** Dealing flop ** [ 8c, Jc, Ac ]
+pracka10 checks
+Divenez bets [$0.02]
+pracka10 calls [$0.02]
+** Dealing turn ** [ 4c ]
+pracka10 checks
+Divenez bets [$0.02]
+pracka10 calls [$0.02]
+** Dealing river ** [ 2s ]
+pracka10 checks
+Divenez bets [$0.02]
+pracka10 calls [$0.02]
+** Summary **
+Divenez shows [ 7h, As ]
+pracka10 shows [ 7d, Ah ]
+pracka10 collected [ $0.10 ]
+Divenez collected [ $0.09 ]
+
+
+#Game No : 1188158464
+***** 888poker Hand History for Game 1188158464 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 07:39:58
+Table Neuquen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Divenez ( $1.97 )
+Seat 5: pracka10 ( $1.02 )
+pracka10 posts small blind [$0.01]
+Divenez posts big blind [$0.02]
+** Dealing down cards **
+pracka10 raises [$0.03]
+Divenez calls [$0.02]
+** Dealing flop ** [ 5s, Kd, 3h ]
+Divenez checks
+pracka10 checks
+** Dealing turn ** [ 3s ]
+Divenez bets [$0.02]
+pracka10 folds
+** Summary **
+Divenez collected [ $0.08 ]
+
+
+#Game No : 1188283938
+***** 888poker Hand History for Game 1188283938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 15:45:16
+Table Neuquen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: klerik170 ( $3.53 )
+Seat 10: NightMoth ( $3.55 )
+klerik170 posts small blind [$0.01]
+NightMoth posts big blind [$0.02]
+** Dealing down cards **
+klerik170 raises [$0.03]
+NightMoth calls [$0.02]
+** Dealing flop ** [ 9h, 2h, 7d ]
+NightMoth checks
+klerik170 checks
+** Dealing turn ** [ Ah ]
+NightMoth bets [$0.05]
+klerik170 calls [$0.05]
+** Dealing river ** [ 5h ]
+NightMoth checks
+klerik170 checks
+** Summary **
+NightMoth shows [ 5s, 8c ]
+klerik170 shows [ Ks, As ]
+klerik170 collected [ $0.17 ]
+
+

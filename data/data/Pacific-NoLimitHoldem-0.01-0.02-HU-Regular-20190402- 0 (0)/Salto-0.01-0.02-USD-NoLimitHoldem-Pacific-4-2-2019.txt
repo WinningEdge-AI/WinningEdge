@@ -1,0 +1,45 @@
+#Game No : 1259057913
+***** 888poker Hand History for Game 1259057913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 04 2019 03:14:10
+Table Salto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Seloop_888 ( $3.79 )
+Seat 2: koupin ( $1.95 )
+koupin posts small blind [$0.01]
+Seloop_888 posts big blind [$0.02]
+** Dealing down cards **
+koupin calls [$0.01]
+Seloop_888 raises [$0.02]
+koupin calls [$0.02]
+** Dealing flop ** [ 5h, 9d, Kh ]
+Seloop_888 bets [$0.02]
+koupin calls [$0.02]
+** Dealing turn ** [ Qs ]
+Seloop_888 bets [$0.02]
+koupin calls [$0.02]
+** Dealing river ** [ 3s ]
+Seloop_888 bets [$0.02]
+koupin folds
+** Summary **
+Seloop_888 did not show his hand
+Seloop_888 collected [ $0.15 ]
+
+
+#Game No : 1259058038
+***** 888poker Hand History for Game 1259058038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 04 2019 03:14:15
+Table Salto 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Seloop_888 ( $3.86 )
+Seat 2: koupin ( $1.87 )
+Seloop_888 posts small blind [$0.01]
+koupin posts big blind [$0.02]
+** Dealing down cards **
+Seloop_888 folds
+** Summary **
+koupin did not show his hand
+koupin collected [ $0.03 ]
+
+

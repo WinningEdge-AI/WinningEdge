@@ -1,0 +1,64 @@
+#Game No : 512954121
+***** 888poker Hand History for Game 512954121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 17:26:52
+Table Babrujsk 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.52 )
+Seat 9: Drdonk00 ( $1.03 )
+Drdonk00 posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+Drdonk00 folds
+** Summary **
+arcticdawn did not show his hand
+arcticdawn collected [ $0.03 ]
+
+
+#Game No : 512954131
+***** 888poker Hand History for Game 512954131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 17:27:04
+Table Babrujsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $1.53 )
+Seat 9: Drdonk00 ( $1.02 )
+arcticdawn posts small blind [$0.01]
+Drdonk00 posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn calls [$0.01]
+Drdonk00 checks
+** Dealing flop ** [ 7s, 5c, Ts ]
+Drdonk00 checks
+arcticdawn bets [$0.04]
+Drdonk00 folds
+** Summary **
+arcticdawn collected [ $0.04 ]
+
+
+#Game No : 512954170
+***** 888poker Hand History for Game 512954170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 17:28:24
+Table Babrujsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Tocheg ( $0.80 )
+Seat 4: arcticdawn ( $1.55 )
+arcticdawn posts small blind [$0.01]
+Tocheg posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn calls [$0.01]
+Tocheg raises [$0.12]
+arcticdawn calls [$0.12]
+** Dealing flop ** [ Js, 6c, 9c ]
+Tocheg bets [$0.14]
+arcticdawn raises [$1.41]
+Tocheg calls [$0.52]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Ad ]
+** Summary **
+Tocheg shows [ Th, 8d ]
+arcticdawn shows [ 9d, 7d ]
+arcticdawn collected [ $1.50 ]
+
+

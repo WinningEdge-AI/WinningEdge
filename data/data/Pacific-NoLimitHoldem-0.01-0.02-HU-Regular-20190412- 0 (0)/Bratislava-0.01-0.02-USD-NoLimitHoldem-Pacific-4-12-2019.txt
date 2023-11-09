@@ -1,0 +1,790 @@
+#Game No : 618575140
+***** 888poker Hand History for Game 618575140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:37:59
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: dfc1000 ( $0.12 )
+Seat 7: Zanoza54 ( $1.01 )
+Zanoza54 posts small blind [$0.01]
+dfc1000 posts big blind [$0.02]
+** Dealing down cards **
+Zanoza54 calls [$0.01]
+dfc1000 raises [$0.02]
+Zanoza54 calls [$0.02]
+** Dealing flop ** [ 4h, Qd, 8c ]
+dfc1000 bets [$0.08]
+Zanoza54 calls [$0.08]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ 9h ]
+** Summary **
+dfc1000 shows [ Ad, 8s ]
+Zanoza54 shows [ 8d, Kh ]
+dfc1000 collected [ $0.23 ]
+
+
+#Game No : 618575153
+***** 888poker Hand History for Game 618575153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:38:33
+Table Bratislava 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dfc1000 ( $0.23 )
+Seat 7: Zanoza54 ( $0.89 )
+dfc1000 posts small blind [$0.01]
+Zanoza54 posts big blind [$0.02]
+** Dealing down cards **
+dfc1000 calls [$0.01]
+Zanoza54 checks
+** Dealing flop ** [ 4s, 9d, 3s ]
+Zanoza54 checks
+dfc1000 checks
+** Dealing turn ** [ 9c ]
+Zanoza54 checks
+dfc1000 checks
+** Dealing river ** [ Qd ]
+Zanoza54 bets [$0.02]
+dfc1000 calls [$0.02]
+** Summary **
+Zanoza54 shows [ Ah, 2s ]
+dfc1000 shows [ 3h, Kc ]
+dfc1000 collected [ $0.08 ]
+
+
+#Game No : 618575170
+***** 888poker Hand History for Game 618575170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:39:15
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: dfc1000 ( $0.27 )
+Seat 7: Zanoza54 ( $0.85 )
+Zanoza54 posts small blind [$0.01]
+dfc1000 posts big blind [$0.02]
+** Dealing down cards **
+Zanoza54 folds
+** Summary **
+dfc1000 collected [ $0.03 ]
+
+
+#Game No : 618575176
+***** 888poker Hand History for Game 618575176 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:39:25
+Table Bratislava 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dfc1000 ( $0.28 )
+Seat 7: Zanoza54 ( $0.84 )
+dfc1000 posts small blind [$0.01]
+Zanoza54 posts big blind [$0.02]
+** Dealing down cards **
+dfc1000 calls [$0.01]
+Zanoza54 checks
+** Dealing flop ** [ 6d, 3d, Js ]
+Zanoza54 checks
+dfc1000 checks
+** Dealing turn ** [ 5s ]
+Zanoza54 checks
+dfc1000 checks
+** Dealing river ** [ 4h ]
+Zanoza54 bets [$0.02]
+dfc1000 folds
+** Summary **
+Zanoza54 collected [ $0.04 ]
+
+
+#Game No : 618575196
+***** 888poker Hand History for Game 618575196 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:39:58
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: dfc1000 ( $0.26 )
+Seat 7: Zanoza54 ( $0.86 )
+Zanoza54 posts small blind [$0.01]
+dfc1000 posts big blind [$0.02]
+** Dealing down cards **
+Zanoza54 raises [$0.03]
+dfc1000 calls [$0.02]
+** Dealing flop ** [ Ts, Kc, 9s ]
+dfc1000 checks
+Zanoza54 bets [$0.02]
+dfc1000 folds
+** Summary **
+Zanoza54 collected [ $0.08 ]
+
+
+#Game No : 618575249
+***** 888poker Hand History for Game 618575249 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:42:06
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Zanoza54 ( $1.01 )
+Seat 9: Arlequina_ ( $0.78 )
+Zanoza54 posts small blind [$0.01]
+Arlequina_ posts big blind [$0.02]
+** Dealing down cards **
+Zanoza54 folds
+** Summary **
+Arlequina_ collected [ $0.03 ]
+
+
+#Game No : 618575253
+***** 888poker Hand History for Game 618575253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:42:14
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Zanoza54 ( $1 )
+Seat 9: Arlequina_ ( $0.79 )
+Arlequina_ posts small blind [$0.01]
+Zanoza54 posts big blind [$0.02]
+** Dealing down cards **
+Arlequina_ calls [$0.01]
+Zanoza54 checks
+** Dealing flop ** [ 6h, 5c, Ks ]
+Zanoza54 checks
+Arlequina_ checks
+** Dealing turn ** [ 4h ]
+Zanoza54 checks
+Arlequina_ checks
+** Dealing river ** [ Tc ]
+Zanoza54 checks
+Arlequina_ checks
+** Summary **
+Zanoza54 shows [ 3d, Jc ]
+Arlequina_ shows [ 2h, Qc ]
+Arlequina_ collected [ $0.04 ]
+
+
+#Game No : 618575271
+***** 888poker Hand History for Game 618575271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:42:51
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Zanoza54 ( $0.98 )
+Seat 9: Arlequina_ ( $0.81 )
+Zanoza54 posts small blind [$0.01]
+Arlequina_ posts big blind [$0.02]
+** Dealing down cards **
+Zanoza54 folds
+** Summary **
+Arlequina_ collected [ $0.03 ]
+
+
+#Game No : 618575276
+***** 888poker Hand History for Game 618575276 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:42:59
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Zanoza54 ( $0.97 )
+Seat 9: Arlequina_ ( $0.82 )
+Arlequina_ posts small blind [$0.01]
+Zanoza54 posts big blind [$0.02]
+** Dealing down cards **
+Arlequina_ calls [$0.01]
+Zanoza54 checks
+** Dealing flop ** [ 7c, Qh, Js ]
+Zanoza54 checks
+Arlequina_ checks
+** Dealing turn ** [ 9d ]
+Zanoza54 checks
+Arlequina_ checks
+** Dealing river ** [ 9h ]
+Zanoza54 checks
+Arlequina_ checks
+** Summary **
+Zanoza54 shows [ 3h, Ks ]
+Arlequina_ mucks [ 8c, 2h ]
+Zanoza54 collected [ $0.04 ]
+
+
+#Game No : 618575573
+***** 888poker Hand History for Game 618575573 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:54:57
+Table Bratislava 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: esbjorn3 ( $1 )
+Seat 7: teco_surf_ ( $1 )
+esbjorn3 posts small blind [$0.01]
+teco_surf_ posts big blind [$0.02]
+** Dealing down cards **
+esbjorn3 raises [$0.04]
+teco_surf_ folds
+** Summary **
+esbjorn3 collected [ $0.04 ]
+
+
+#Game No : 618575579
+***** 888poker Hand History for Game 618575579 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 17:55:10
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: esbjorn3 ( $1.02 )
+Seat 7: teco_surf_ ( $0.98 )
+teco_surf_ posts small blind [$0.01]
+esbjorn3 posts big blind [$0.02]
+** Dealing down cards **
+teco_surf_ calls [$0.01]
+esbjorn3 checks
+** Dealing flop ** [ 7h, 9c, Jd ]
+esbjorn3 checks
+teco_surf_ bets [$0.02]
+esbjorn3 folds
+** Summary **
+teco_surf_ collected [ $0.04 ]
+
+
+#Game No : 618576108
+***** 888poker Hand History for Game 618576108 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 18:18:17
+Table Bratislava 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pinkshott ( $1.83 )
+Seat 2: yuraro ( $1 )
+pinkshott posts small blind [$0.01]
+yuraro posts big blind [$0.02]
+** Dealing down cards **
+pinkshott calls [$0.01]
+yuraro checks
+** Dealing flop ** [ Ac, 8c, 9c ]
+yuraro checks
+pinkshott bets [$0.02]
+yuraro folds
+** Summary **
+pinkshott did not show his hand
+pinkshott collected [ $0.04 ]
+
+
+#Game No : 618577568
+***** 888poker Hand History for Game 618577568 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 19:44:03
+Table Bratislava 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bud2011 ( $2.67 )
+Seat 9: esbjorn3 ( $1.06 )
+bud2011 posts small blind [$0.01]
+esbjorn3 posts big blind [$0.02]
+** Dealing down cards **
+bud2011 calls [$0.01]
+esbjorn3 checks
+** Dealing flop ** [ Ts, 4c, 3d ]
+esbjorn3 checks
+bud2011 checks
+** Dealing turn ** [ Qd ]
+esbjorn3 checks
+bud2011 checks
+** Dealing river ** [ 5s ]
+esbjorn3 checks
+bud2011 checks
+** Summary **
+esbjorn3 shows [ 6h, 8s ]
+bud2011 shows [ Ah, 7d ]
+bud2011 collected [ $0.04 ]
+
+
+#Game No : 618577579
+***** 888poker Hand History for Game 618577579 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 19:44:30
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bud2011 ( $2.69 )
+Seat 9: esbjorn3 ( $1.04 )
+esbjorn3 posts small blind [$0.01]
+bud2011 posts big blind [$0.02]
+** Dealing down cards **
+esbjorn3 raises [$0.04]
+bud2011 calls [$0.03]
+** Dealing flop ** [ Qd, 7c, 9c ]
+bud2011 folds
+** Summary **
+esbjorn3 collected [ $0.10 ]
+
+
+#Game No : 618578423
+***** 888poker Hand History for Game 618578423 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:23:07
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ELZAPOO ( $3.50 )
+Seat 9: Antonio66scl ( $1.54 )
+ELZAPOO posts small blind [$0.01]
+Antonio66scl posts big blind [$0.02]
+** Dealing down cards **
+ELZAPOO folds
+** Summary **
+Antonio66scl collected [ $0.03 ]
+
+
+#Game No : 618578429
+***** 888poker Hand History for Game 618578429 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:23:16
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ELZAPOO ( $3.49 )
+Seat 9: Antonio66scl ( $1.55 )
+Antonio66scl posts small blind [$0.01]
+ELZAPOO posts big blind [$0.02]
+** Dealing down cards **
+Antonio66scl folds
+** Summary **
+ELZAPOO collected [ $0.03 ]
+
+
+#Game No : 618578473
+***** 888poker Hand History for Game 618578473 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 20:25:03
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ELZAPOO ( $3.50 )
+Seat 9: esbjorn3 ( $1 )
+esbjorn3 posts small blind [$0.01]
+ELZAPOO posts big blind [$0.02]
+** Dealing down cards **
+esbjorn3 raises [$0.04]
+ELZAPOO folds
+** Summary **
+esbjorn3 collected [ $0.04 ]
+
+
+#Game No : 618579273
+***** 888poker Hand History for Game 618579273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 21:00:36
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: 4u4elooo ( $1 )
+Seat 9: esbjorn3 ( $1.69 )
+esbjorn3 posts small blind [$0.01]
+4u4elooo posts big blind [$0.02]
+** Dealing down cards **
+esbjorn3 raises [$0.04]
+4u4elooo raises [$0.13]
+esbjorn3 raises [$0.40]
+4u4elooo raises [$0.85]
+esbjorn3 calls [$0.55]
+** Dealing flop ** [ Ad, Ah, 2h ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 3c ]
+** Summary **
+4u4elooo shows [ Jh, Jd ]
+esbjorn3 shows [ Kc, Ks ]
+esbjorn3 collected [ $1.88 ]
+
+
+#Game No : 618579316
+***** 888poker Hand History for Game 618579316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 21:02:09
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Dread887 ( $1.07 )
+Seat 9: esbjorn3 ( $2.27 )
+esbjorn3 posts small blind [$0.01]
+Dread887 posts big blind [$0.02]
+** Dealing down cards **
+esbjorn3 folds
+** Summary **
+Dread887 collected [ $0.03 ]
+
+
+#Game No : 618579319
+***** 888poker Hand History for Game 618579319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 21:02:16
+Table Bratislava 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dread887 ( $1.08 )
+Seat 9: esbjorn3 ( $2.26 )
+Dread887 posts small blind [$0.01]
+esbjorn3 posts big blind [$0.02]
+** Dealing down cards **
+Dread887 calls [$0.01]
+esbjorn3 checks
+** Dealing flop ** [ 7d, 5d, 9s ]
+esbjorn3 checks
+Dread887 checks
+** Dealing turn ** [ 9h ]
+esbjorn3 checks
+Dread887 checks
+** Dealing river ** [ 6s ]
+esbjorn3 checks
+Dread887 checks
+** Summary **
+esbjorn3 shows [ 7c, Qh ]
+Dread887 mucks [ 3s, Qd ]
+esbjorn3 collected [ $0.04 ]
+
+
+#Game No : 618579336
+***** 888poker Hand History for Game 618579336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 21:02:54
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Dread887 ( $1.06 )
+Seat 9: esbjorn3 ( $2.28 )
+esbjorn3 posts small blind [$0.01]
+Dread887 posts big blind [$0.02]
+** Dealing down cards **
+esbjorn3 raises [$0.04]
+Dread887 calls [$0.03]
+** Dealing flop ** [ 7d, Qc, Ks ]
+Dread887 checks
+esbjorn3 checks
+** Dealing turn ** [ 4d ]
+Dread887 checks
+esbjorn3 checks
+** Dealing river ** [ 3d ]
+Dread887 bets [$0.08]
+esbjorn3 folds
+** Summary **
+Dread887 collected [ $0.10 ]
+
+
+#Game No : 618579345
+***** 888poker Hand History for Game 618579345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 21:03:23
+Table Bratislava 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dread887 ( $1.11 )
+Seat 9: esbjorn3 ( $2.23 )
+Dread887 posts small blind [$0.01]
+esbjorn3 posts big blind [$0.02]
+** Dealing down cards **
+Dread887 calls [$0.01]
+esbjorn3 checks
+** Dealing flop ** [ 4c, 4s, Qd ]
+esbjorn3 checks
+Dread887 checks
+** Dealing turn ** [ Qc ]
+esbjorn3 checks
+Dread887 checks
+** Dealing river ** [ 5s ]
+esbjorn3 checks
+Dread887 checks
+** Summary **
+esbjorn3 shows [ Kd, 8c ]
+Dread887 mucks [ 6d, 2s ]
+esbjorn3 collected [ $0.04 ]
+
+
+#Game No : 618579566
+***** 888poker Hand History for Game 618579566 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 21:12:44
+Table Bratislava 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lckwill ( $1.58 )
+Seat 7: ELZAPOO ( $5.43 )
+lckwill posts small blind [$0.01]
+ELZAPOO posts big blind [$0.02]
+** Dealing down cards **
+lckwill raises [$0.04]
+ELZAPOO calls [$0.03]
+** Dealing flop ** [ Td, 2h, 2s ]
+ELZAPOO checks
+lckwill checks
+** Dealing turn ** [ 5h ]
+ELZAPOO bets [$0.07]
+lckwill folds
+** Summary **
+ELZAPOO collected [ $0.10 ]
+
+
+#Game No : 618580418
+***** 888poker Hand History for Game 618580418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 21:59:26
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: rayv94 ( $1 )
+Seat 7: Biss8989 ( $1.29 )
+Biss8989 posts small blind [$0.01]
+rayv94 posts big blind [$0.02]
+** Dealing down cards **
+Biss8989 raises [$0.05]
+rayv94 folds
+** Summary **
+Biss8989 did not show his hand
+Biss8989 collected [ $0.04 ]
+
+
+#Game No : 618580424
+***** 888poker Hand History for Game 618580424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 21:59:48
+Table Bratislava 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: rayv94 ( $1 )
+Seat 7: Biss8989 ( $1.31 )
+rayv94 posts small blind [$0.01]
+** Dealing down cards **
+Biss8989 folds
+** Summary **
+rayv94 did not show his hand
+rayv94 collected [ $0.01 ]
+
+
+#Game No : 618580742
+***** 888poker Hand History for Game 618580742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:19:03
+Table Bratislava 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.87 )
+Seat 9: ilars0404 ( $0.72 )
+HogRider01 posts small blind [$0.01]
+ilars0404 posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 folds
+** Summary **
+ilars0404 did not show his hand
+ilars0404 collected [ $0.03 ]
+
+
+#Game No : 618580746
+***** 888poker Hand History for Game 618580746 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:19:08
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.86 )
+Seat 9: ilars0404 ( $0.73 )
+ilars0404 posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+ilars0404 calls [$0.01]
+HogRider01 checks
+** Dealing flop ** [ Kh, Ah, 6s ]
+HogRider01 checks
+ilars0404 bets [$0.02]
+HogRider01 calls [$0.02]
+** Dealing turn ** [ 8s ]
+HogRider01 checks
+ilars0404 bets [$0.02]
+HogRider01 calls [$0.02]
+** Dealing river ** [ 5h ]
+HogRider01 bets [$0.12]
+ilars0404 calls [$0.12]
+** Summary **
+HogRider01 shows [ 2h, 7s ]
+ilars0404 shows [ Jd, 5c ]
+ilars0404 collected [ $0.34 ]
+
+
+#Game No : 618580756
+***** 888poker Hand History for Game 618580756 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:19:37
+Table Bratislava 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.68 )
+Seat 9: ilars0404 ( $0.89 )
+HogRider01 posts small blind [$0.01]
+ilars0404 posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 calls [$0.01]
+ilars0404 raises [$0.06]
+HogRider01 calls [$0.06]
+** Dealing flop ** [ 7s, Js, 2c ]
+ilars0404 bets [$0.02]
+HogRider01 calls [$0.02]
+** Dealing turn ** [ 8h ]
+ilars0404 bets [$0.02]
+HogRider01 calls [$0.02]
+** Dealing river ** [ Kc ]
+ilars0404 bets [$0.02]
+HogRider01 calls [$0.02]
+** Summary **
+ilars0404 shows [ 3s, Ac ]
+HogRider01 shows [ 9s, 8c ]
+HogRider01 collected [ $0.27 ]
+
+
+#Game No : 618580764
+***** 888poker Hand History for Game 618580764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:20:02
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.81 )
+Seat 9: ilars0404 ( $0.75 )
+ilars0404 posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+ilars0404 raises [$0.03]
+HogRider01 raises [$0.79]
+ilars0404 calls [$0.71]
+** Dealing flop ** [ 6c, 9h, Jh ]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 6d ]
+** Summary **
+HogRider01 shows [ 2h, Ah ]
+ilars0404 shows [ Th, 9c ]
+ilars0404 collected [ $1.41 ]
+
+
+#Game No : 618580772
+***** 888poker Hand History for Game 618580772 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:20:25
+Table Bratislava 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.06 )
+Seat 9: ilars0404 ( $1.41 )
+HogRider01 posts small blind [$0.01]
+ilars0404 posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 folds
+** Summary **
+ilars0404 did not show his hand
+ilars0404 collected [ $0.03 ]
+
+
+#Game No : 618580773
+***** 888poker Hand History for Game 618580773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:20:31
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.05 )
+Seat 9: ilars0404 ( $1.42 )
+ilars0404 posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+ilars0404 raises [$0.03]
+HogRider01 raises [$0.03]
+ilars0404 calls [$0.01]
+** Dealing flop ** [ 4h, 3s, 6h ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 9s ]
+** Summary **
+HogRider01 shows [ Ks, 2c ]
+ilars0404 shows [ Ad, 3c ]
+ilars0404 collected [ $0.10 ]
+
+
+#Game No : 618580783
+***** 888poker Hand History for Game 618580783 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:20:54
+Table Bratislava 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.80 )
+Seat 9: ilars0404 ( $1.47 )
+HogRider01 posts small blind [$0.01]
+ilars0404 posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 raises [$0.03]
+ilars0404 calls [$0.02]
+** Dealing flop ** [ Qh, 2d, 4d ]
+ilars0404 checks
+HogRider01 bets [$0.08]
+ilars0404 calls [$0.08]
+** Dealing turn ** [ Qs ]
+ilars0404 checks
+HogRider01 bets [$0.24]
+ilars0404 calls [$0.24]
+** Dealing river ** [ 8h ]
+ilars0404 checks
+HogRider01 checks
+** Summary **
+ilars0404 shows [ Ad, 4h ]
+HogRider01 mucks [ 2s, 3h ]
+ilars0404 collected [ $0.68 ]
+
+
+#Game No : 618580984
+***** 888poker Hand History for Game 618580984 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:30:55
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: AleksandR400 ( $0.86 )
+Seat 7: KAMILO_888 ( $1.35 )
+KAMILO_888 posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 618580999
+***** 888poker Hand History for Game 618580999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:31:28
+Table Bratislava 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: AleksandR400 ( $0.92 )
+Seat 9: 7Casual_Arms ( $0.76 )
+7Casual_Arms posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+7Casual_Arms raises [$0.07]
+AleksandR400 folds
+** Summary **
+7Casual_Arms collected [ $0.04 ]
+
+
+#Game No : 618581001
+***** 888poker Hand History for Game 618581001 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 22:31:39
+Table Bratislava 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: AleksandR400 ( $0.90 )
+Seat 9: 7Casual_Arms ( $0.78 )
+AleksandR400 posts small blind [$0.01]
+7Casual_Arms posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 folds
+** Summary **
+7Casual_Arms collected [ $0.03 ]
+
+
+#Game No : 618583323
+***** 888poker Hand History for Game 618583323 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 00:51:14
+Table Bratislava 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Thramun ( $1.39 )
+Seat 4: quinnlin226 ( $2.15 )
+Thramun posts small blind [$0.01]
+quinnlin226 posts big blind [$0.02]
+** Dealing down cards **
+Thramun raises [$0.03]
+quinnlin226 folds
+** Summary **
+Thramun collected [ $0.04 ]
+
+
+#Game No : 618583328
+***** 888poker Hand History for Game 618583328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 00:51:26
+Table Bratislava 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Thramun ( $1.41 )
+Seat 4: quinnlin226 ( $2.13 )
+quinnlin226 posts small blind [$0.01]
+** Dealing down cards **
+Thramun folds
+** Summary **
+quinnlin226 collected [ $0.01 ]
+
+

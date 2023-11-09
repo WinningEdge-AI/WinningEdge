@@ -1,0 +1,45 @@
+#Game No : 521101827
+***** 888poker Hand History for Game 521101827 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 18:42:13
+Table Le Mans 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Rud1k111 ( $1.85 )
+Seat 9: Kafullmack ( $1.78 )
+Rud1k111 posts small blind [$0.01]
+Kafullmack posts big blind [$0.02]
+** Dealing down cards **
+Rud1k111 folds
+** Summary **
+Kafullmack collected [ $0.03 ]
+
+
+#Game No : 521101831
+***** 888poker Hand History for Game 521101831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 18:42:18
+Table Le Mans 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Rud1k111 ( $1.84 )
+Seat 9: Kafullmack ( $1.79 )
+Kafullmack posts small blind [$0.01]
+Rud1k111 posts big blind [$0.02]
+** Dealing down cards **
+Kafullmack raises [$0.05]
+Rud1k111 raises [$0.16]
+Kafullmack calls [$0.12]
+** Dealing flop ** [ 4h, 2d, 9s ]
+Rud1k111 checks
+Kafullmack bets [$0.36]
+Rud1k111 calls [$0.36]
+** Dealing turn ** [ Qs ]
+Rud1k111 checks
+Kafullmack bets [$1.25]
+Rud1k111 calls [$1.25]
+** Dealing river ** [ 2c ]
+** Summary **
+Rud1k111 shows [ Qd, Qh ]
+Kafullmack shows [ 9h, Qc ]
+Rud1k111 collected [ $3.36 ]
+
+

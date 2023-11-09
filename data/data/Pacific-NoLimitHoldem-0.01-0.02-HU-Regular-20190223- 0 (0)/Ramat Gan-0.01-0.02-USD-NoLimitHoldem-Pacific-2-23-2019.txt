@@ -1,0 +1,84 @@
+#Game No : 514132645
+***** 888poker Hand History for Game 514132645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 02:55:45
+Table Ramat Gan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 17radik17 ( $2 )
+Seat 3: Sara77777 ( $2 )
+17radik17 posts small blind [$0.01]
+Sara77777 posts big blind [$0.02]
+** Dealing down cards **
+17radik17 raises [$0.05]
+Sara77777 folds
+** Summary **
+17radik17 collected [ $0.04 ]
+
+
+#Game No : 514132656
+***** 888poker Hand History for Game 514132656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 02:55:59
+Table Ramat Gan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: 17radik17 ( $2.02 )
+Seat 3: Sara77777 ( $1.98 )
+Sara77777 posts small blind [$0.01]
+17radik17 posts big blind [$0.02]
+** Dealing down cards **
+Sara77777 calls [$0.01]
+17radik17 checks
+** Dealing flop ** [ 5c, 6c, 9c ]
+17radik17 checks
+Sara77777 checks
+** Dealing turn ** [ 3c ]
+17radik17 bets [$0.04]
+Sara77777 folds
+** Summary **
+17radik17 collected [ $0.04 ]
+
+
+#Game No : 514142818
+***** 888poker Hand History for Game 514142818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 07:50:41
+Table Ramat Gan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sprinterrock ( $5.03 )
+Seat 7: gorohov78 ( $2.58 )
+sprinterrock posts small blind [$0.01]
+** Dealing down cards **
+gorohov78 folds
+** Summary **
+sprinterrock collected [ $0.01 ]
+
+
+#Game No : 514143733
+***** 888poker Hand History for Game 514143733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 08:11:18
+Table Ramat Gan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $2.01 )
+Seat 9: 17radik17 ( $1.99 )
+BLUBOTA posts small blind [$0.01]
+17radik17 posts big blind [$0.02]
+** Dealing down cards **
+BLUBOTA calls [$0.01]
+17radik17 checks
+** Dealing flop ** [ Kh, 9d, 9s ]
+17radik17 checks
+BLUBOTA checks
+** Dealing turn ** [ Ks ]
+17radik17 checks
+BLUBOTA checks
+** Dealing river ** [ Kd ]
+17radik17 bets [$0.04]
+BLUBOTA calls [$0.04]
+** Summary **
+17radik17 shows [ 4h, 8s ]
+BLUBOTA shows [ 5c, 3c ]
+17radik17 collected [ $0.06 ]
+BLUBOTA collected [ $0.06 ]
+
+

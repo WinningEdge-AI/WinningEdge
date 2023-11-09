@@ -1,0 +1,141 @@
+#Game No : 472439139
+***** 888poker Hand History for Game 472439139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 22:04:35
+Table Heerlen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $3.80 )
+Seat 4: Adam_Sussein ( $4.18 )
+yrik222 posts small blind [$0.01]
+** Dealing down cards **
+Adam_Sussein folds
+** Summary **
+yrik222 collected [ $0.01 ]
+
+
+#Game No : 472439140
+***** 888poker Hand History for Game 472439140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 22:04:39
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $3.80 )
+Seat 9: AAB7014 ( $2.05 )
+yrik222 posts small blind [$0.01]
+** Dealing down cards **
+AAB7014 folds
+** Summary **
+yrik222 did not show his hand
+yrik222 collected [ $0.01 ]
+
+
+#Game No : 472439146
+***** 888poker Hand History for Game 472439146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 22:05:51
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Bishthefis ( $2 )
+Seat 2: Marina6912 ( $1 )
+Marina6912 posts small blind [$0.01]
+Bishthefis posts big blind [$0.02]
+** Dealing down cards **
+Marina6912 calls [$0.01]
+Bishthefis checks
+** Dealing flop ** [ Ah, 2s, 4h ]
+Bishthefis checks
+Marina6912 checks
+** Dealing turn ** [ Qd ]
+Bishthefis checks
+Marina6912 checks
+** Dealing river ** [ Jh ]
+Bishthefis bets [$0.02]
+Marina6912 calls [$0.02]
+** Summary **
+Bishthefis shows [ 9h, 5d ]
+Marina6912 shows [ 4s, 9s ]
+Marina6912 collected [ $0.08 ]
+
+
+#Game No : 472439549
+***** 888poker Hand History for Game 472439549 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 23:05:11
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: lazarustrike ( $0.69 )
+Seat 4: quaxgax ( $4.06 )
+quaxgax posts small blind [$0.01]
+lazarustrike posts big blind [$0.02]
+** Dealing down cards **
+quaxgax raises [$0.05]
+lazarustrike calls [$0.04]
+** Dealing flop ** [ 9c, Qs, 3h ]
+lazarustrike checks
+quaxgax checks
+** Dealing turn ** [ 3c ]
+lazarustrike checks
+quaxgax checks
+** Dealing river ** [ Qh ]
+lazarustrike bets [$0.12]
+quaxgax calls [$0.12]
+** Summary **
+lazarustrike shows [ 9s, 8h ]
+quaxgax mucks [ As, 4s ]
+lazarustrike collected [ $0.34 ]
+
+
+#Game No : 472439551
+***** 888poker Hand History for Game 472439551 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 23:05:49
+Table Heerlen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: lazarustrike ( $0.85 )
+Seat 4: quaxgax ( $3.88 )
+lazarustrike posts small blind [$0.01]
+quaxgax posts big blind [$0.02]
+** Dealing down cards **
+lazarustrike calls [$0.01]
+quaxgax raises [$0.06]
+lazarustrike raises [$0.12]
+quaxgax calls [$0.06]
+** Dealing flop ** [ 2d, 9d, 9c ]
+quaxgax checks
+lazarustrike checks
+** Dealing turn ** [ Kc ]
+quaxgax checks
+lazarustrike bets [$0.28]
+quaxgax folds
+** Summary **
+lazarustrike collected [ $0.27 ]
+
+
+#Game No : 472439556
+***** 888poker Hand History for Game 472439556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 23:06:39
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: lazarustrike ( $0.98 )
+Seat 4: quaxgax ( $3.74 )
+quaxgax posts small blind [$0.01]
+lazarustrike posts big blind [$0.02]
+** Dealing down cards **
+quaxgax calls [$0.01]
+lazarustrike checks
+** Dealing flop ** [ Ah, Th, 8h ]
+lazarustrike checks
+quaxgax checks
+** Dealing turn ** [ 3h ]
+lazarustrike checks
+quaxgax checks
+** Dealing river ** [ Tc ]
+lazarustrike checks
+quaxgax checks
+** Summary **
+lazarustrike shows [ 3c, 2c ]
+quaxgax shows [ Ts, 9d ]
+quaxgax collected [ $0.04 ]
+
+

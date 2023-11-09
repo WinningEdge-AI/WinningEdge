@@ -1,0 +1,512 @@
+#Game No : 502367948
+***** 888poker Hand History for Game 502367948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 07:00:15
+Table Damascus 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: kevmacdonald ( $1.29 )
+Seat 9: TheChair1 ( $1.02 )
+TheChair1 posts small blind [$0.01]
+kevmacdonald posts big blind [$0.02]
+** Dealing down cards **
+TheChair1 folds
+** Summary **
+kevmacdonald collected [ $0.03 ]
+
+
+#Game No : 502367954
+***** 888poker Hand History for Game 502367954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 07:00:22
+Table Damascus 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kevmacdonald ( $1.30 )
+Seat 9: TheChair1 ( $1.01 )
+kevmacdonald posts small blind [$0.01]
+TheChair1 posts big blind [$0.02]
+** Dealing down cards **
+kevmacdonald calls [$0.01]
+TheChair1 raises [$0.06]
+kevmacdonald folds
+** Summary **
+TheChair1 collected [ $0.04 ]
+
+
+#Game No : 502367977
+***** 888poker Hand History for Game 502367977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 07:00:47
+Table Damascus 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: kevmacdonald ( $1.28 )
+Seat 9: TheChair1 ( $1.03 )
+TheChair1 posts small blind [$0.01]
+kevmacdonald posts big blind [$0.02]
+** Dealing down cards **
+TheChair1 calls [$0.01]
+kevmacdonald checks
+** Dealing flop ** [ 4h, 6h, 3d ]
+kevmacdonald checks
+TheChair1 checks
+** Dealing turn ** [ 2s ]
+kevmacdonald checks
+TheChair1 checks
+** Dealing river ** [ 9d ]
+kevmacdonald checks
+TheChair1 checks
+** Summary **
+kevmacdonald shows [ Kc, 7d ]
+TheChair1 mucks [ Td, Jc ]
+kevmacdonald collected [ $0.04 ]
+
+
+#Game No : 502367997
+***** 888poker Hand History for Game 502367997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 07:01:18
+Table Damascus 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kevmacdonald ( $1.30 )
+Seat 9: TheChair1 ( $1.01 )
+kevmacdonald posts small blind [$0.01]
+TheChair1 posts big blind [$0.02]
+** Dealing down cards **
+kevmacdonald calls [$0.01]
+TheChair1 checks
+** Dealing flop ** [ 7c, Th, Ac ]
+TheChair1 checks
+kevmacdonald checks
+** Dealing turn ** [ Qc ]
+TheChair1 checks
+kevmacdonald checks
+** Dealing river ** [ Ah ]
+TheChair1 checks
+kevmacdonald checks
+** Summary **
+TheChair1 shows [ 9s, Kd ]
+kevmacdonald shows [ 7h, 6h ]
+kevmacdonald collected [ $0.04 ]
+
+
+#Game No : 502370944
+***** 888poker Hand History for Game 502370944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 08:02:52
+Table Damascus 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 6: blackpanter9 ( $1.88 )
+Seat 7: Bumper09 ( $1.45 )
+blackpanter9 posts small blind [$0.01]
+Bumper09 posts big blind [$0.02]
+** Dealing down cards **
+blackpanter9 folds
+** Summary **
+Bumper09 did not show his hand
+Bumper09 collected [ $0.03 ]
+
+
+#Game No : 502370955
+***** 888poker Hand History for Game 502370955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 08:03:08
+Table Damascus 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: blackpanter9 ( $1.87 )
+Seat 7: Bumper09 ( $1.46 )
+blackpanter9 posts small blind [$0.01]
+Bumper09 posts big blind [$0.02]
+** Dealing down cards **
+blackpanter9 folds
+** Summary **
+Bumper09 did not show his hand
+Bumper09 collected [ $0.03 ]
+
+
+#Game No : 502370963
+***** 888poker Hand History for Game 502370963 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 08:03:15
+Table Damascus 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: blackpanter9 ( $1.86 )
+Seat 7: Bumper09 ( $1.47 )
+Bumper09 posts small blind [$0.01]
+blackpanter9 posts big blind [$0.02]
+** Dealing down cards **
+Bumper09 calls [$0.01]
+blackpanter9 checks
+** Dealing flop ** [ Ad, 9s, Kc ]
+blackpanter9 checks
+Bumper09 bets [$0.02]
+blackpanter9 folds
+** Summary **
+Bumper09 collected [ $0.04 ]
+
+
+#Game No : 502370993
+***** 888poker Hand History for Game 502370993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 08:04:04
+Table Damascus 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Lilalaune19 ( $0.80 )
+Seat 7: Bumper09 ( $1.49 )
+Lilalaune19 posts small blind [$0.01]
+Bumper09 posts big blind [$0.02]
+** Dealing down cards **
+Lilalaune19 calls [$0.01]
+Bumper09 checks
+** Dealing flop ** [ Jh, 3s, 4c ]
+Bumper09 checks
+Lilalaune19 bets [$0.04]
+Bumper09 folds
+** Summary **
+Lilalaune19 did not show his hand
+Lilalaune19 collected [ $0.04 ]
+
+
+#Game No : 502371003
+***** 888poker Hand History for Game 502371003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 08:04:20
+Table Damascus 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Lilalaune19 ( $0.82 )
+Seat 7: Bumper09 ( $1.47 )
+Bumper09 posts small blind [$0.01]
+Lilalaune19 posts big blind [$0.02]
+** Dealing down cards **
+Bumper09 calls [$0.01]
+Lilalaune19 checks
+** Dealing flop ** [ 9h, 7d, Js ]
+Lilalaune19 checks
+Bumper09 checks
+** Dealing turn ** [ 6c ]
+Lilalaune19 bets [$0.02]
+Bumper09 folds
+** Summary **
+Lilalaune19 did not show his hand
+Lilalaune19 collected [ $0.04 ]
+
+
+#Game No : 502371017
+***** 888poker Hand History for Game 502371017 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 08:04:40
+Table Damascus 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Lilalaune19 ( $0.84 )
+Seat 7: Bumper09 ( $1.45 )
+Lilalaune19 posts small blind [$0.01]
+Bumper09 posts big blind [$0.02]
+** Dealing down cards **
+Lilalaune19 calls [$0.01]
+Bumper09 raises [$0.04]
+Lilalaune19 calls [$0.04]
+** Dealing flop ** [ Jh, 4c, 4d ]
+Bumper09 bets [$0.06]
+Lilalaune19 calls [$0.06]
+** Dealing turn ** [ 8c ]
+Bumper09 bets [$0.12]
+Lilalaune19 calls [$0.12]
+** Dealing river ** [ 6h ]
+Bumper09 bets [$0.24]
+Lilalaune19 folds
+** Summary **
+Bumper09 collected [ $0.45 ]
+
+
+#Game No : 502371043
+***** 888poker Hand History for Game 502371043 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 08:05:21
+Table Damascus 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Lilalaune19 ( $0.60 )
+Seat 7: Bumper09 ( $1.66 )
+Bumper09 posts small blind [$0.01]
+Lilalaune19 posts big blind [$0.02]
+** Dealing down cards **
+Bumper09 folds
+** Summary **
+Lilalaune19 collected [ $0.03 ]
+
+
+#Game No : 502375355
+***** 888poker Hand History for Game 502375355 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:44:46
+Table Damascus 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: AngelinA155 ( $0.64 )
+Seat 7: Karunos86 ( $1.36 )
+Karunos86 posts small blind [$0.01]
+AngelinA155 posts big blind [$0.02]
+** Dealing down cards **
+Karunos86 folds
+** Summary **
+AngelinA155 collected [ $0.03 ]
+
+
+#Game No : 502375361
+***** 888poker Hand History for Game 502375361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:44:52
+Table Damascus 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: AngelinA155 ( $0.65 )
+Seat 7: Karunos86 ( $1.35 )
+AngelinA155 posts small blind [$0.01]
+** Dealing down cards **
+Karunos86 folds
+** Summary **
+AngelinA155 collected [ $0.01 ]
+
+
+#Game No : 502375475
+***** 888poker Hand History for Game 502375475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:47:12
+Table Damascus 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ponte1001 ( $0.86 )
+Seat 9: tonyabarab ( $0.74 )
+tonyabarab posts small blind [$0.01]
+ponte1001 posts big blind [$0.02]
+** Dealing down cards **
+tonyabarab raises [$0.03]
+ponte1001 calls [$0.02]
+** Dealing flop ** [ 3d, 6s, 7h ]
+ponte1001 checks
+tonyabarab checks
+** Dealing turn ** [ 8s ]
+ponte1001 bets [$0.08]
+tonyabarab calls [$0.08]
+** Dealing river ** [ As ]
+ponte1001 checks
+tonyabarab bets [$0.12]
+ponte1001 calls [$0.12]
+** Summary **
+tonyabarab shows [ 9d, Js ]
+ponte1001 shows [ 7c, Qh ]
+ponte1001 collected [ $0.45 ]
+
+
+#Game No : 502375496
+***** 888poker Hand History for Game 502375496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:47:41
+Table Damascus 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ponte1001 ( $1.07 )
+Seat 9: tonyabarab ( $0.50 )
+ponte1001 posts small blind [$0.01]
+tonyabarab posts big blind [$0.02]
+** Dealing down cards **
+ponte1001 calls [$0.01]
+tonyabarab checks
+** Dealing flop ** [ Ks, 5c, 8h ]
+tonyabarab checks
+ponte1001 bets [$0.02]
+tonyabarab folds
+** Summary **
+ponte1001 did not show his hand
+ponte1001 collected [ $0.04 ]
+
+
+#Game No : 502375511
+***** 888poker Hand History for Game 502375511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:47:57
+Table Damascus 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ponte1001 ( $1.09 )
+Seat 9: tonyabarab ( $0.48 )
+tonyabarab posts small blind [$0.01]
+ponte1001 posts big blind [$0.02]
+** Dealing down cards **
+tonyabarab raises [$0.03]
+ponte1001 folds
+** Summary **
+tonyabarab did not show his hand
+tonyabarab collected [ $0.04 ]
+
+
+#Game No : 502375520
+***** 888poker Hand History for Game 502375520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:48:07
+Table Damascus 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ponte1001 ( $1.07 )
+Seat 9: tonyabarab ( $0.50 )
+ponte1001 posts small blind [$0.01]
+tonyabarab posts big blind [$0.02]
+** Dealing down cards **
+ponte1001 folds
+** Summary **
+tonyabarab did not show his hand
+tonyabarab collected [ $0.03 ]
+
+
+#Game No : 502375584
+***** 888poker Hand History for Game 502375584 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:49:18
+Table Damascus 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: EdouardMouss ( $0.80 )
+Seat 9: tonyabarab ( $0.51 )
+tonyabarab posts small blind [$0.01]
+EdouardMouss posts big blind [$0.02]
+** Dealing down cards **
+tonyabarab raises [$0.05]
+EdouardMouss calls [$0.04]
+** Dealing flop ** [ Tc, 5d, 8c ]
+EdouardMouss checks
+tonyabarab bets [$0.12]
+EdouardMouss calls [$0.12]
+** Dealing turn ** [ Qs ]
+EdouardMouss checks
+tonyabarab bets [$0.18]
+EdouardMouss calls [$0.18]
+** Dealing river ** [ 5c ]
+EdouardMouss checks
+tonyabarab bets [$0.15]
+EdouardMouss calls [$0.15]
+** Summary **
+EdouardMouss shows [ Kh, Jh ]
+tonyabarab shows [ As, Ad ]
+tonyabarab collected [ $0.96 ]
+
+
+#Game No : 502375616
+***** 888poker Hand History for Game 502375616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:49:55
+Table Damascus 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: EdouardMouss ( $0.29 )
+Seat 9: tonyabarab ( $0.96 )
+EdouardMouss posts small blind [$0.01]
+tonyabarab posts big blind [$0.02]
+** Dealing down cards **
+EdouardMouss calls [$0.01]
+tonyabarab raises [$0.06]
+EdouardMouss raises [$0.27]
+tonyabarab calls [$0.21]
+** Dealing flop ** [ 3d, Td, Jc ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ Th ]
+** Summary **
+EdouardMouss shows [ 9d, 8h ]
+tonyabarab shows [ Kh, Qc ]
+tonyabarab collected [ $0.55 ]
+
+
+#Game No : 502375635
+***** 888poker Hand History for Game 502375635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:50:22
+Table Damascus 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Legenda01 ( $1 )
+Seat 9: tonyabarab ( $1.22 )
+tonyabarab posts small blind [$0.01]
+Legenda01 posts big blind [$0.02]
+** Dealing down cards **
+tonyabarab folds
+** Summary **
+Legenda01 collected [ $0.03 ]
+
+
+#Game No : 502375705
+***** 888poker Hand History for Game 502375705 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:51:36
+Table Damascus 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Volvo177 ( $0.77 )
+Seat 9: tonyabarab ( $1.22 )
+tonyabarab posts small blind [$0.01]
+Volvo177 posts big blind [$0.02]
+** Dealing down cards **
+tonyabarab raises [$0.05]
+Volvo177 folds
+** Summary **
+tonyabarab did not show his hand
+tonyabarab collected [ $0.04 ]
+
+
+#Game No : 502375726
+***** 888poker Hand History for Game 502375726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:51:58
+Table Damascus 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Volvo177 ( $0.75 )
+Seat 9: tonyabarab ( $1.24 )
+tonyabarab posts small blind [$0.01]
+Volvo177 posts big blind [$0.02]
+** Dealing down cards **
+tonyabarab raises [$0.03]
+Volvo177 calls [$0.02]
+** Dealing flop ** [ 2s, 4d, 9s ]
+Volvo177 checks
+tonyabarab checks
+** Dealing turn ** [ 9d ]
+Volvo177 bets [$0.04]
+tonyabarab folds
+** Summary **
+Volvo177 collected [ $0.08 ]
+
+
+#Game No : 502375751
+***** 888poker Hand History for Game 502375751 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 09:52:31
+Table Damascus 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Volvo177 ( $0.79 )
+Seat 9: tonyabarab ( $1.20 )
+Volvo177 posts small blind [$0.01]
+tonyabarab posts big blind [$0.02]
+** Dealing down cards **
+Volvo177 calls [$0.01]
+tonyabarab checks
+** Dealing flop ** [ Qs, 4h, Jd ]
+tonyabarab bets [$0.02]
+Volvo177 folds
+** Summary **
+tonyabarab collected [ $0.04 ]
+
+
+#Game No : 502376173
+***** 888poker Hand History for Game 502376173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 10:00:28
+Table Damascus 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Renat399 ( $0.62 )
+Seat 7: Onlyou22 ( $1.01 )
+Onlyou22 posts small blind [$0.01]
+Renat399 posts big blind [$0.02]
+** Dealing down cards **
+Onlyou22 raises [$0.05]
+Renat399 calls [$0.04]
+** Dealing flop ** [ 6d, 6c, 3d ]
+Onlyou22 checks
+Renat399 bets [$0.06]
+Onlyou22 calls [$0.06]
+** Dealing turn ** [ 4d ]
+Onlyou22 checks
+Renat399 checks
+** Dealing river ** [ 7s ]
+Onlyou22 checks
+Renat399 bets [$0.12]
+Onlyou22 folds
+** Summary **
+Renat399 did not show his hand
+Renat399 collected [ $0.23 ]
+
+

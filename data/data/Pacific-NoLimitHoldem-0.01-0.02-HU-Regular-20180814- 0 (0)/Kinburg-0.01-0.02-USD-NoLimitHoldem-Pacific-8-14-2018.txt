@@ -1,0 +1,28 @@
+#Game No : 505878787
+***** 888poker Hand History for Game 505878787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 02:12:04
+Table Kinburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Csarfirst1 ( $2.01 )
+Seat 5: iG.ErlinGho ( $2 )
+iG.ErlinGho posts small blind [$0.01]
+Csarfirst1 posts big blind [$0.02]
+** Dealing down cards **
+iG.ErlinGho raises [$0.05]
+Csarfirst1 calls [$0.04]
+** Dealing flop ** [ Jd, 3c, 9s ]
+Csarfirst1 bets [$0.06]
+iG.ErlinGho calls [$0.06]
+** Dealing turn ** [ 6c ]
+Csarfirst1 checks
+iG.ErlinGho checks
+** Dealing river ** [ 7h ]
+Csarfirst1 bets [$0.05]
+iG.ErlinGho calls [$0.05]
+** Summary **
+Csarfirst1 shows [ Ah, 5h ]
+iG.ErlinGho shows [ Qc, 9h ]
+iG.ErlinGho collected [ $0.32 ]
+
+

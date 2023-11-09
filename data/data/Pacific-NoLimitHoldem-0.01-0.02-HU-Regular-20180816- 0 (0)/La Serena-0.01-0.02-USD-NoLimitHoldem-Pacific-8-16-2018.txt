@@ -1,0 +1,79 @@
+#Game No : 500978218
+***** 888poker Hand History for Game 500978218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 12:04:44
+Table La Serena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kalamari87 ( $0.98 )
+Seat 4: Sudik ( $1.02 )
+kalamari87 posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+kalamari87 raises [$0.05]
+Sudik calls [$0.04]
+** Dealing flop ** [ Ks, 9c, Jd ]
+Sudik checks
+kalamari87 bets [$0.08]
+Sudik calls [$0.08]
+** Dealing turn ** [ 3h ]
+Sudik checks
+kalamari87 bets [$0.18]
+Sudik calls [$0.18]
+** Dealing river ** [ 8h ]
+Sudik checks
+kalamari87 bets [$0.32]
+Sudik folds
+** Summary **
+kalamari87 collected [ $0.60 ]
+
+
+#Game No : 500978311
+***** 888poker Hand History for Game 500978311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 12:04:59
+Table La Serena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: kalamari87 ( $1.26 )
+Seat 4: Sudik ( $1 )
+Sudik posts small blind [$0.01]
+kalamari87 posts big blind [$0.02]
+** Dealing down cards **
+Sudik raises [$0.05]
+kalamari87 folds
+** Summary **
+Sudik collected [ $0.04 ]
+
+
+#Game No : 500978347
+***** 888poker Hand History for Game 500978347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 12:05:25
+Table La Serena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sudik ( $1.04 )
+Seat 6: IFriendYou ( $1 )
+Sudik posts small blind [$0.01]
+IFriendYou posts big blind [$0.02]
+** Dealing down cards **
+Sudik folds
+** Summary **
+IFriendYou did not show his hand
+IFriendYou collected [ $0.03 ]
+
+
+#Game No : 500978363
+***** 888poker Hand History for Game 500978363 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 12:05:33
+Table La Serena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Sudik ( $1.03 )
+Seat 6: IFriendYou ( $1.01 )
+IFriendYou posts small blind [$0.01]
+** Dealing down cards **
+Sudik folds
+** Summary **
+IFriendYou did not show his hand
+IFriendYou collected [ $0.01 ]
+
+

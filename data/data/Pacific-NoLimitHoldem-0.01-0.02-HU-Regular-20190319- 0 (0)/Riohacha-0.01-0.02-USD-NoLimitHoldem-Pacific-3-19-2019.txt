@@ -1,0 +1,48 @@
+#Game No : 1255796835
+***** 888poker Hand History for Game 1255796835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 03 2019 18:04:24
+Table Riohacha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DrWatson94 ( $1.48 )
+Seat 6: meDIbel ( $3.03 )
+DrWatson94 posts small blind [$0.01]
+meDIbel posts big blind [$0.02]
+** Dealing down cards **
+DrWatson94 raises [$0.03]
+meDIbel calls [$0.02]
+** Dealing flop ** [ Ah, 4c, Ad ]
+meDIbel checks
+DrWatson94 bets [$0.02]
+meDIbel calls [$0.02]
+** Dealing turn ** [ 9c ]
+meDIbel checks
+DrWatson94 bets [$0.02]
+meDIbel raises [$0.10]
+DrWatson94 calls [$0.08]
+** Dealing river ** [ Td ]
+meDIbel bets [$0.25]
+DrWatson94 folds
+** Summary **
+meDIbel did not show his hand
+meDIbel collected [ $0.30 ]
+
+
+#Game No : 1255796922
+***** 888poker Hand History for Game 1255796922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 03 2019 18:05:06
+Table Riohacha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: DrWatson94 ( $1.32 )
+Seat 6: meDIbel ( $3.17 )
+meDIbel posts small blind [$0.01]
+DrWatson94 posts big blind [$0.02]
+** Dealing down cards **
+meDIbel raises [$0.05]
+DrWatson94 folds
+** Summary **
+meDIbel did not show his hand
+meDIbel collected [ $0.04 ]
+
+

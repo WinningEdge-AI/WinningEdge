@@ -1,0 +1,327 @@
+#Game No : 1289557174
+***** 888poker Hand History for Game 1289557174 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:34:53
+Table Syktyvkar 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.85 )
+Seat 7: BIGPAG ( $2.20 )
+porttileman posts small blind [$0.01]
+BIGPAG posts big blind [$0.02]
+** Dealing down cards **
+porttileman calls [$0.01]
+BIGPAG checks
+** Dealing flop ** [ Ad, As, 4c ]
+BIGPAG checks
+porttileman checks
+** Dealing turn ** [ 7c ]
+BIGPAG bets [$0.06]
+porttileman folds
+** Summary **
+BIGPAG collected [ $0.04 ]
+
+
+#Game No : 1289557261
+***** 888poker Hand History for Game 1289557261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:35:37
+Table Syktyvkar 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.83 )
+Seat 7: BIGPAG ( $2.22 )
+BIGPAG posts small blind [$0.01]
+porttileman posts big blind [$0.02]
+** Dealing down cards **
+BIGPAG calls [$0.01]
+porttileman checks
+** Dealing flop ** [ Qh, Jd, 5h ]
+porttileman checks
+BIGPAG bets [$0.04]
+porttileman raises [$0.08]
+BIGPAG calls [$0.04]
+** Dealing turn ** [ 2d ]
+porttileman bets [$0.13]
+BIGPAG calls [$0.13]
+** Dealing river ** [ 8h ]
+porttileman bets [$0.02]
+BIGPAG calls [$0.02]
+** Summary **
+porttileman shows [ 7d, Qs ]
+BIGPAG shows [ Qc, Ks ]
+BIGPAG collected [ $0.47 ]
+
+
+#Game No : 1289557340
+***** 888poker Hand History for Game 1289557340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:36:18
+Table Syktyvkar 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.58 )
+Seat 7: BIGPAG ( $2.44 )
+porttileman posts small blind [$0.01]
+BIGPAG posts big blind [$0.02]
+** Dealing down cards **
+porttileman folds
+** Summary **
+BIGPAG collected [ $0.03 ]
+
+
+#Game No : 1289557357
+***** 888poker Hand History for Game 1289557357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:36:25
+Table Syktyvkar 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.57 )
+Seat 7: BIGPAG ( $2.45 )
+BIGPAG posts small blind [$0.01]
+porttileman posts big blind [$0.02]
+** Dealing down cards **
+BIGPAG calls [$0.01]
+porttileman checks
+** Dealing flop ** [ 4c, 4h, 8h ]
+porttileman checks
+BIGPAG checks
+** Dealing turn ** [ 9s ]
+porttileman bets [$0.02]
+BIGPAG calls [$0.02]
+** Dealing river ** [ 5h ]
+porttileman bets [$0.02]
+BIGPAG calls [$0.02]
+** Summary **
+porttileman shows [ 2c, Kc ]
+BIGPAG mucks [ Jd, Tc ]
+porttileman collected [ $0.12 ]
+
+
+#Game No : 1289557427
+***** 888poker Hand History for Game 1289557427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:36:58
+Table Syktyvkar 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.63 )
+Seat 7: BIGPAG ( $2.39 )
+porttileman posts small blind [$0.01]
+BIGPAG posts big blind [$0.02]
+** Dealing down cards **
+porttileman folds
+** Summary **
+BIGPAG collected [ $0.03 ]
+
+
+#Game No : 1289557440
+***** 888poker Hand History for Game 1289557440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:37:05
+Table Syktyvkar 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.62 )
+Seat 7: BIGPAG ( $2.40 )
+BIGPAG posts small blind [$0.01]
+porttileman posts big blind [$0.02]
+** Dealing down cards **
+BIGPAG calls [$0.01]
+porttileman checks
+** Dealing flop ** [ 3s, As, Ts ]
+porttileman checks
+BIGPAG bets [$0.06]
+porttileman calls [$0.06]
+** Dealing turn ** [ 9c ]
+porttileman checks
+BIGPAG checks
+** Dealing river ** [ 5s ]
+porttileman checks
+BIGPAG checks
+** Summary **
+porttileman shows [ Jh, Qs ]
+BIGPAG mucks [ Th, Qh ]
+porttileman collected [ $0.15 ]
+
+
+#Game No : 1289557502
+***** 888poker Hand History for Game 1289557502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:37:39
+Table Syktyvkar 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.69 )
+Seat 7: BIGPAG ( $2.32 )
+porttileman posts small blind [$0.01]
+BIGPAG posts big blind [$0.02]
+** Dealing down cards **
+porttileman calls [$0.01]
+BIGPAG checks
+** Dealing flop ** [ 7h, 3h, Ah ]
+BIGPAG checks
+porttileman checks
+** Dealing turn ** [ Th ]
+BIGPAG checks
+porttileman checks
+** Dealing river ** [ Qh ]
+BIGPAG bets [$2.30]
+porttileman folds
+** Summary **
+BIGPAG collected [ $0.04 ]
+
+
+#Game No : 1289557557
+***** 888poker Hand History for Game 1289557557 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:38:10
+Table Syktyvkar 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.67 )
+Seat 7: BIGPAG ( $2.34 )
+BIGPAG posts small blind [$0.01]
+porttileman posts big blind [$0.02]
+** Dealing down cards **
+BIGPAG calls [$0.01]
+porttileman checks
+** Dealing flop ** [ Kd, 5h, 2c ]
+porttileman checks
+BIGPAG bets [$0.02]
+porttileman calls [$0.02]
+** Dealing turn ** [ Tc ]
+porttileman checks
+BIGPAG bets [$0.04]
+porttileman folds
+** Summary **
+BIGPAG collected [ $0.08 ]
+
+
+#Game No : 1289557606
+***** 888poker Hand History for Game 1289557606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:38:36
+Table Syktyvkar 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.63 )
+Seat 7: BIGPAG ( $2.38 )
+porttileman posts small blind [$0.01]
+BIGPAG posts big blind [$0.02]
+** Dealing down cards **
+porttileman folds
+** Summary **
+BIGPAG collected [ $0.03 ]
+
+
+#Game No : 1289557619
+***** 888poker Hand History for Game 1289557619 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:38:42
+Table Syktyvkar 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.62 )
+Seat 7: BIGPAG ( $2.39 )
+BIGPAG posts small blind [$0.01]
+porttileman posts big blind [$0.02]
+** Dealing down cards **
+BIGPAG calls [$0.01]
+porttileman checks
+** Dealing flop ** [ 4c, Ad, As ]
+porttileman checks
+BIGPAG checks
+** Dealing turn ** [ Kh ]
+porttileman checks
+BIGPAG bets [$0.02]
+porttileman folds
+** Summary **
+BIGPAG collected [ $0.04 ]
+
+
+#Game No : 1289557659
+***** 888poker Hand History for Game 1289557659 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:39:04
+Table Syktyvkar 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.60 )
+Seat 7: BIGPAG ( $2.41 )
+porttileman posts small blind [$0.01]
+BIGPAG posts big blind [$0.02]
+** Dealing down cards **
+porttileman calls [$0.01]
+BIGPAG checks
+** Dealing flop ** [ 5s, 4c, 7s ]
+BIGPAG checks
+porttileman bets [$0.02]
+BIGPAG calls [$0.02]
+** Dealing turn ** [ 5d ]
+BIGPAG checks
+porttileman bets [$0.05]
+BIGPAG calls [$0.05]
+** Dealing river ** [ 7d ]
+BIGPAG checks
+porttileman bets [$0.11]
+BIGPAG folds
+** Summary **
+porttileman did not show his hand
+porttileman collected [ $0.17 ]
+
+
+#Game No : 1289557741
+***** 888poker Hand History for Game 1289557741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:39:45
+Table Syktyvkar 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.68 )
+Seat 7: BIGPAG ( $2.32 )
+BIGPAG posts small blind [$0.01]
+porttileman posts big blind [$0.02]
+** Dealing down cards **
+BIGPAG folds
+** Summary **
+porttileman did not show his hand
+porttileman collected [ $0.03 ]
+
+
+#Game No : 1289557757
+***** 888poker Hand History for Game 1289557757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:39:52
+Table Syktyvkar 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.69 )
+Seat 7: BIGPAG ( $2.31 )
+porttileman posts small blind [$0.01]
+BIGPAG posts big blind [$0.02]
+** Dealing down cards **
+porttileman folds
+** Summary **
+BIGPAG did not show his hand
+BIGPAG collected [ $0.03 ]
+
+
+#Game No : 1289557774
+***** 888poker Hand History for Game 1289557774 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2019 19:40:00
+Table Syktyvkar 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: porttileman ( $0.68 )
+Seat 7: BIGPAG ( $2.32 )
+BIGPAG posts small blind [$0.01]
+porttileman posts big blind [$0.02]
+** Dealing down cards **
+BIGPAG calls [$0.01]
+porttileman checks
+** Dealing flop ** [ 8c, 7s, 5d ]
+porttileman bets [$0.02]
+BIGPAG calls [$0.02]
+** Dealing turn ** [ 5h ]
+porttileman bets [$0.05]
+BIGPAG calls [$0.05]
+** Dealing river ** [ 6h ]
+porttileman bets [$0.11]
+BIGPAG raises [$0.50]
+porttileman raises [$0.48]
+BIGPAG calls [$0.09]
+** Summary **
+porttileman shows [ 9c, 7h ]
+BIGPAG shows [ 6d, 6c ]
+BIGPAG collected [ $1.28 ]
+
+

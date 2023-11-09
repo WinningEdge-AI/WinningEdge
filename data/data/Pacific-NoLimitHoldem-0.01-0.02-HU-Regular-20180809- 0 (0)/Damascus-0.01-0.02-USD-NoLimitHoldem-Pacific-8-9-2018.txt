@@ -1,0 +1,136 @@
+#Game No : 500609771
+***** 888poker Hand History for Game 500609771 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 16:17:08
+Table Damascus 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: petrgriffin ( $1.01 )
+Seat 9: Dread887 ( $1.41 )
+petrgriffin posts small blind [$0.01]
+Dread887 posts big blind [$0.02]
+** Dealing down cards **
+petrgriffin folds
+** Summary **
+Dread887 collected [ $0.03 ]
+
+
+#Game No : 500609784
+***** 888poker Hand History for Game 500609784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 16:17:28
+Table Damascus 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: BigEvs231080 ( $1.36 )
+Seat 6: petrgriffin ( $1 )
+petrgriffin posts small blind [$0.01]
+BigEvs231080 posts big blind [$0.02]
+** Dealing down cards **
+petrgriffin raises [$0.06]
+BigEvs231080 calls [$0.05]
+** Dealing flop ** [ 5c, Kh, 8s ]
+BigEvs231080 checks
+petrgriffin bets [$0.09]
+BigEvs231080 calls [$0.09]
+** Dealing turn ** [ 7s ]
+BigEvs231080 checks
+petrgriffin checks
+** Dealing river ** [ Kc ]
+BigEvs231080 checks
+petrgriffin checks
+** Summary **
+BigEvs231080 shows [ 6h, 6s ]
+petrgriffin mucks [ Ah, 9c ]
+BigEvs231080 collected [ $0.30 ]
+
+
+#Game No : 500609805
+***** 888poker Hand History for Game 500609805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 16:18:02
+Table Damascus 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BigEvs231080 ( $1.50 )
+Seat 6: petrgriffin ( $1 )
+BigEvs231080 posts small blind [$0.01]
+petrgriffin posts big blind [$0.02]
+** Dealing down cards **
+BigEvs231080 calls [$0.01]
+petrgriffin checks
+** Dealing flop ** [ Jh, Jd, 5s ]
+petrgriffin checks
+BigEvs231080 checks
+** Dealing turn ** [ 5h ]
+petrgriffin checks
+BigEvs231080 checks
+** Dealing river ** [ 3d ]
+petrgriffin checks
+BigEvs231080 checks
+** Summary **
+petrgriffin shows [ 8s, 3h ]
+BigEvs231080 shows [ Ts, 9d ]
+BigEvs231080 collected [ $0.04 ]
+
+
+#Game No : 500609856
+***** 888poker Hand History for Game 500609856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 16:19:40
+Table Damascus 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: olafarson ( $1.08 )
+Seat 6: petrgriffin ( $1.01 )
+petrgriffin posts small blind [$0.01]
+olafarson posts big blind [$0.02]
+** Dealing down cards **
+petrgriffin calls [$0.01]
+olafarson checks
+** Dealing flop ** [ Jc, 3s, 3h ]
+olafarson checks
+petrgriffin checks
+** Dealing turn ** [ 2d ]
+olafarson checks
+petrgriffin checks
+** Dealing river ** [ 2c ]
+olafarson checks
+petrgriffin checks
+** Summary **
+olafarson shows [ 8d, 7h ]
+petrgriffin shows [ 8s, Tc ]
+petrgriffin collected [ $0.02 ]
+olafarson collected [ $0.02 ]
+
+
+#Game No : 500611072
+***** 888poker Hand History for Game 500611072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 17:00:21
+Table Damascus 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: FlintOB ( $1 )
+Seat 7: M8uzilov ( $1.38 )
+M8uzilov posts small blind [$0.01]
+FlintOB posts big blind [$0.02]
+** Dealing down cards **
+M8uzilov raises [$0.05]
+FlintOB folds
+** Summary **
+M8uzilov did not show his hand
+M8uzilov collected [ $0.04 ]
+
+
+#Game No : 500611080
+***** 888poker Hand History for Game 500611080 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 17:00:34
+Table Damascus 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: FlintOB ( $1 )
+Seat 7: M8uzilov ( $1.40 )
+FlintOB posts small blind [$0.01]
+** Dealing down cards **
+M8uzilov folds
+** Summary **
+FlintOB did not show his hand
+FlintOB collected [ $0.01 ]
+
+

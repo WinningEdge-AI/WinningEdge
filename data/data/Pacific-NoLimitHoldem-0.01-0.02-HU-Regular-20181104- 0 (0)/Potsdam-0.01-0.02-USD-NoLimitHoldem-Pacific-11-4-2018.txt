@@ -1,0 +1,473 @@
+#Game No : 504826640
+***** 888poker Hand History for Game 504826640 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 04:01:31
+Table Potsdam 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: iconqueror ( $1 )
+Seat 9: Hook1236 ( $1.15 )
+Hook1236 posts small blind [$0.01]
+** Dealing down cards **
+iconqueror folds
+** Summary **
+Hook1236 collected [ $0.01 ]
+
+
+#Game No : 504856828
+***** 888poker Hand History for Game 504856828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 13:04:03
+Table Potsdam 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dynamo232 ( $2.15 )
+Seat 6: jam821 ( $1 )
+Dynamo232 posts small blind [$0.01]
+jam821 posts big blind [$0.02]
+** Dealing down cards **
+Dynamo232 calls [$0.01]
+jam821 checks
+** Dealing flop ** [ Kc, As, Td ]
+jam821 checks
+Dynamo232 bets [$0.04]
+jam821 folds
+** Summary **
+Dynamo232 collected [ $0.04 ]
+
+
+#Game No : 504859506
+***** 888poker Hand History for Game 504859506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:10:39
+Table Potsdam 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $1.29 )
+Seat 4: YarFight ( $1.15 )
+YarFight posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+YarFight raises [$0.03]
+IGr0lk folds
+** Summary **
+YarFight collected [ $0.04 ]
+
+
+#Game No : 504859510
+***** 888poker Hand History for Game 504859510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:10:49
+Table Potsdam 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $1.27 )
+Seat 4: YarFight ( $1.17 )
+IGr0lk posts small blind [$0.01]
+YarFight posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+YarFight calls [$0.02]
+** Dealing flop ** [ Kh, 4c, 8s ]
+YarFight checks
+IGr0lk bets [$0.04]
+YarFight calls [$0.04]
+** Dealing turn ** [ Kc ]
+YarFight checks
+IGr0lk checks
+** Dealing river ** [ Qc ]
+YarFight bets [$0.12]
+IGr0lk calls [$0.12]
+** Summary **
+YarFight shows [ 4d, 6d ]
+IGr0lk mucks [ Ac, 9s ]
+YarFight collected [ $0.38 ]
+
+
+#Game No : 504859536
+***** 888poker Hand History for Game 504859536 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:11:36
+Table Potsdam 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $1.07 )
+Seat 4: YarFight ( $1.35 )
+YarFight posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+YarFight raises [$0.03]
+IGr0lk calls [$0.02]
+** Dealing flop ** [ Ts, 5d, 7s ]
+IGr0lk bets [$0.05]
+YarFight calls [$0.05]
+** Dealing turn ** [ 9d ]
+IGr0lk bets [$0.12]
+YarFight calls [$0.12]
+** Dealing river ** [ 8h ]
+IGr0lk checks
+YarFight bets [$0.36]
+IGr0lk calls [$0.36]
+** Summary **
+YarFight shows [ Js, 6s ]
+IGr0lk mucks [ 6d, 4d ]
+YarFight collected [ $1.07 ]
+
+
+#Game No : 504859623
+***** 888poker Hand History for Game 504859623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:14:00
+Table Potsdam 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $1.04 )
+Seat 6: Slavik9719 ( $1 )
+IGr0lk posts small blind [$0.01]
+Slavik9719 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+Slavik9719 calls [$0.02]
+** Dealing flop ** [ Ah, Qs, 9c ]
+Slavik9719 checks
+IGr0lk checks
+** Dealing turn ** [ 9h ]
+Slavik9719 checks
+IGr0lk bets [$0.05]
+Slavik9719 raises [$0.10]
+IGr0lk folds
+** Summary **
+Slavik9719 did not show his hand
+Slavik9719 collected [ $0.17 ]
+
+
+#Game No : 504859654
+***** 888poker Hand History for Game 504859654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:14:48
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $1 )
+Seat 6: Slavik9719 ( $1.08 )
+Slavik9719 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+Slavik9719 calls [$0.01]
+IGr0lk checks
+** Dealing flop ** [ 5s, Th, 2c ]
+IGr0lk checks
+Slavik9719 checks
+** Dealing turn ** [ As ]
+IGr0lk bets [$0.04]
+Slavik9719 folds
+** Summary **
+IGr0lk did not show his hand
+IGr0lk collected [ $0.04 ]
+
+
+#Game No : 504859667
+***** 888poker Hand History for Game 504859667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:15:09
+Table Potsdam 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $1.02 )
+Seat 6: Slavik9719 ( $1.06 )
+IGr0lk posts small blind [$0.01]
+Slavik9719 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+Slavik9719 calls [$0.02]
+** Dealing flop ** [ Qd, Jc, 4d ]
+Slavik9719 bets [$0.06]
+IGr0lk folds
+** Summary **
+Slavik9719 did not show his hand
+Slavik9719 collected [ $0.08 ]
+
+
+#Game No : 504860709
+***** 888poker Hand History for Game 504860709 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:40:44
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: arcrom14 ( $0.59 )
+Seat 6: Slavik9719 ( $1.99 )
+Slavik9719 posts small blind [$0.01]
+arcrom14 posts big blind [$0.02]
+** Dealing down cards **
+Slavik9719 raises [$0.03]
+arcrom14 folds
+** Summary **
+Slavik9719 collected [ $0.04 ]
+
+
+#Game No : 504860714
+***** 888poker Hand History for Game 504860714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:40:55
+Table Potsdam 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: arcrom14 ( $0.57 )
+Seat 6: Slavik9719 ( $2.01 )
+arcrom14 posts small blind [$0.01]
+Slavik9719 posts big blind [$0.02]
+** Dealing down cards **
+arcrom14 raises [$0.03]
+Slavik9719 folds
+** Summary **
+arcrom14 collected [ $0.04 ]
+
+
+#Game No : 504860722
+***** 888poker Hand History for Game 504860722 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:41:02
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: arcrom14 ( $0.59 )
+Seat 6: Slavik9719 ( $1.99 )
+Slavik9719 posts small blind [$0.01]
+arcrom14 posts big blind [$0.02]
+** Dealing down cards **
+Slavik9719 raises [$0.03]
+arcrom14 raises [$0.04]
+Slavik9719 calls [$0.02]
+** Dealing flop ** [ 6h, Jh, Ah ]
+arcrom14 checks
+Slavik9719 bets [$0.08]
+arcrom14 calls [$0.08]
+** Dealing turn ** [ 8s ]
+arcrom14 checks
+Slavik9719 bets [$0.18]
+arcrom14 calls [$0.18]
+** Dealing river ** [ Th ]
+arcrom14 checks
+Slavik9719 bets [$1.67]
+arcrom14 calls [$0.27]
+** Summary **
+arcrom14 shows [ Qh, 9d ]
+Slavik9719 shows [ Ac, 2d ]
+arcrom14 collected [ $1.11 ]
+
+
+#Game No : 504861314
+***** 888poker Hand History for Game 504861314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:56:33
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.96 )
+Seat 6: Slavik9719 ( $0.51 )
+Slavik9719 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+Slavik9719 calls [$0.01]
+IGr0lk checks
+** Dealing flop ** [ Jh, 9d, 9s ]
+IGr0lk checks
+Slavik9719 checks
+** Dealing turn ** [ 4d ]
+IGr0lk checks
+Slavik9719 bets [$0.04]
+IGr0lk calls [$0.04]
+** Dealing river ** [ 7h ]
+IGr0lk checks
+Slavik9719 bets [$0.12]
+IGr0lk folds
+** Summary **
+Slavik9719 collected [ $0.12 ]
+
+
+#Game No : 504861342
+***** 888poker Hand History for Game 504861342 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:57:22
+Table Potsdam 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.90 )
+Seat 6: Slavik9719 ( $0.57 )
+IGr0lk posts small blind [$0.01]
+Slavik9719 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+Slavik9719 raises [$0.04]
+IGr0lk calls [$0.02]
+** Dealing flop ** [ Qc, 8h, 2d ]
+Slavik9719 checks
+IGr0lk checks
+** Dealing turn ** [ 4d ]
+Slavik9719 bets [$0.06]
+IGr0lk folds
+** Summary **
+Slavik9719 collected [ $0.12 ]
+
+
+#Game No : 504861351
+***** 888poker Hand History for Game 504861351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:57:40
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.84 )
+Seat 6: Slavik9719 ( $0.63 )
+Slavik9719 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+Slavik9719 raises [$0.03]
+IGr0lk calls [$0.02]
+** Dealing flop ** [ Jd, 7h, 4h ]
+IGr0lk checks
+Slavik9719 bets [$0.04]
+IGr0lk calls [$0.04]
+** Dealing turn ** [ 4s ]
+IGr0lk checks
+Slavik9719 bets [$0.16]
+IGr0lk calls [$0.16]
+** Dealing river ** [ Qh ]
+IGr0lk checks
+Slavik9719 bets [$0.39]
+IGr0lk calls [$0.39]
+** Summary **
+IGr0lk shows [ 9c, 9d ]
+Slavik9719 shows [ Jc, Js ]
+Slavik9719 collected [ $1.19 ]
+
+
+#Game No : 504861376
+***** 888poker Hand History for Game 504861376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:58:14
+Table Potsdam 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.21 )
+Seat 6: Slavik9719 ( $1.19 )
+IGr0lk posts small blind [$0.01]
+Slavik9719 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+Slavik9719 calls [$0.02]
+** Dealing flop ** [ Td, Kh, 2d ]
+Slavik9719 checks
+IGr0lk bets [$0.05]
+Slavik9719 calls [$0.05]
+** Dealing turn ** [ 6s ]
+Slavik9719 checks
+IGr0lk checks
+** Dealing river ** [ 2h ]
+Slavik9719 bets [$0.09]
+IGr0lk calls [$0.09]
+** Summary **
+Slavik9719 shows [ 6d, 4d ]
+IGr0lk shows [ 8s, 8h ]
+IGr0lk collected [ $0.34 ]
+
+
+#Game No : 504861399
+***** 888poker Hand History for Game 504861399 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:58:43
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.37 )
+Seat 6: Slavik9719 ( $1.01 )
+Slavik9719 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+Slavik9719 raises [$0.05]
+IGr0lk folds
+** Summary **
+Slavik9719 collected [ $0.04 ]
+
+
+#Game No : 504861408
+***** 888poker Hand History for Game 504861408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:58:58
+Table Potsdam 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.35 )
+Seat 6: Slavik9719 ( $1.03 )
+IGr0lk posts small blind [$0.01]
+Slavik9719 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk folds
+** Summary **
+Slavik9719 collected [ $0.03 ]
+
+
+#Game No : 504861413
+***** 888poker Hand History for Game 504861413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:59:07
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.34 )
+Seat 6: Slavik9719 ( $1.04 )
+Slavik9719 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+Slavik9719 raises [$0.05]
+IGr0lk calls [$0.04]
+** Dealing flop ** [ Ad, 6s, 6c ]
+IGr0lk checks
+Slavik9719 bets [$0.06]
+IGr0lk folds
+** Summary **
+Slavik9719 collected [ $0.12 ]
+
+
+#Game No : 504861432
+***** 888poker Hand History for Game 504861432 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:59:37
+Table Potsdam 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.28 )
+Seat 6: Slavik9719 ( $1.10 )
+IGr0lk posts small blind [$0.01]
+Slavik9719 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+Slavik9719 calls [$0.02]
+** Dealing flop ** [ 3s, Ks, Qc ]
+Slavik9719 checks
+IGr0lk bets [$0.04]
+Slavik9719 raises [$0.08]
+IGr0lk folds
+** Summary **
+Slavik9719 collected [ $0.15 ]
+
+
+#Game No : 504861444
+***** 888poker Hand History for Game 504861444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 14:59:55
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.20 )
+Seat 6: Slavik9719 ( $1.17 )
+Slavik9719 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+Slavik9719 calls [$0.01]
+IGr0lk checks
+** Dealing flop ** [ 5d, Kh, 5s ]
+IGr0lk checks
+Slavik9719 bets [$0.04]
+IGr0lk folds
+** Summary **
+Slavik9719 collected [ $0.04 ]
+
+
+#Game No : 504861453
+***** 888poker Hand History for Game 504861453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 15:00:11
+Table Potsdam 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: IGr0lk ( $2.18 )
+Seat 6: Slavik9719 ( $1.19 )
+IGr0lk posts small blind [$0.01]
+Slavik9719 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk folds
+** Summary **
+Slavik9719 collected [ $0.03 ]
+
+

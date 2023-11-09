@@ -1,0 +1,147 @@
+#Game No : 501763281
+***** 888poker Hand History for Game 501763281 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 10:47:54
+Table Eugene 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ramjan420 ( $0.80 )
+Seat 4: vnuk36 ( $0.80 )
+vnuk36 posts small blind [$0.01]
+ramjan420 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+ramjan420 checks
+** Dealing flop ** [ Tc, 8s, 6d ]
+ramjan420 bets [$0.02]
+vnuk36 raises [$0.10]
+ramjan420 calls [$0.08]
+** Dealing turn ** [ 5h ]
+ramjan420 checks
+vnuk36 bets [$0.24]
+ramjan420 folds
+** Summary **
+vnuk36 collected [ $0.23 ]
+
+
+#Game No : 501763913
+***** 888poker Hand History for Game 501763913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 10:58:41
+Table Eugene 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: vadimka104 ( $1.01 )
+Seat 7: dylanmike ( $1.51 )
+dylanmike posts small blind [$0.01]
+vadimka104 posts big blind [$0.02]
+** Dealing down cards **
+dylanmike calls [$0.01]
+vadimka104 checks
+** Dealing flop ** [ 8h, Qc, Ts ]
+vadimka104 checks
+dylanmike bets [$0.02]
+vadimka104 folds
+** Summary **
+dylanmike collected [ $0.04 ]
+
+
+#Game No : 501763930
+***** 888poker Hand History for Game 501763930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 10:58:57
+Table Eugene 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: vadimka104 ( $0.99 )
+Seat 7: dylanmike ( $1.53 )
+vadimka104 posts small blind [$0.01]
+dylanmike posts big blind [$0.02]
+** Dealing down cards **
+vadimka104 calls [$0.01]
+dylanmike raises [$0.02]
+vadimka104 calls [$0.02]
+** Dealing flop ** [ 3c, 8s, 2d ]
+dylanmike bets [$0.04]
+vadimka104 calls [$0.04]
+** Dealing turn ** [ 6h ]
+dylanmike bets [$0.08]
+vadimka104 calls [$0.08]
+** Dealing river ** [ 4c ]
+dylanmike checks
+vadimka104 checks
+** Summary **
+dylanmike shows [ 7d, 7s ]
+vadimka104 shows [ 8h, 3h ]
+vadimka104 collected [ $0.30 ]
+
+
+#Game No : 501763968
+***** 888poker Hand History for Game 501763968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 10:59:32
+Table Eugene 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: vadimka104 ( $1.13 )
+Seat 7: dylanmike ( $1.37 )
+dylanmike posts small blind [$0.01]
+vadimka104 posts big blind [$0.02]
+** Dealing down cards **
+dylanmike calls [$0.01]
+vadimka104 checks
+** Dealing flop ** [ 3d, 3h, 4h ]
+vadimka104 checks
+dylanmike bets [$0.02]
+vadimka104 calls [$0.02]
+** Dealing turn ** [ 9s ]
+vadimka104 checks
+dylanmike bets [$0.02]
+vadimka104 folds
+** Summary **
+dylanmike collected [ $0.08 ]
+
+
+#Game No : 501764621
+***** 888poker Hand History for Game 501764621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 11:10:21
+Table Eugene 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sever727 ( $1.36 )
+Seat 9: Ivan1031 ( $1.01 )
+Ivan1031 posts small blind [$0.01]
+sever727 posts big blind [$0.02]
+** Dealing down cards **
+Ivan1031 raises [$0.05]
+sever727 calls [$0.04]
+** Dealing flop ** [ 9c, 4c, 8s ]
+sever727 checks
+Ivan1031 bets [$0.06]
+sever727 calls [$0.06]
+** Dealing turn ** [ 8c ]
+sever727 checks
+Ivan1031 bets [$0.14]
+sever727 folds
+** Summary **
+Ivan1031 did not show his hand
+Ivan1031 collected [ $0.23 ]
+
+
+#Game No : 501764659
+***** 888poker Hand History for Game 501764659 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 11:10:52
+Table Eugene 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sever727 ( $1.24 )
+Seat 9: Ivan1031 ( $1.12 )
+sever727 posts small blind [$0.01]
+Ivan1031 posts big blind [$0.02]
+** Dealing down cards **
+sever727 raises [$0.05]
+Ivan1031 calls [$0.04]
+** Dealing flop ** [ Qc, 6s, 3c ]
+Ivan1031 checks
+sever727 bets [$0.08]
+Ivan1031 folds
+** Summary **
+sever727 collected [ $0.12 ]
+
+

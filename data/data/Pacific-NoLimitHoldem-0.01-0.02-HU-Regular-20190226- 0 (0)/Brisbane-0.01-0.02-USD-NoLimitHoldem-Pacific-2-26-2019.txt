@@ -1,0 +1,29 @@
+#Game No : 1250923305
+***** 888poker Hand History for Game 1250923305 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 11:35:16
+Table Brisbane 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: DMCT87 ( $0.92 )
+Seat 9: bartik555 ( $4.03 )
+bartik555 posts small blind [$0.01]
+DMCT87 posts big blind [$0.02]
+** Dealing down cards **
+bartik555 raises [$0.05]
+DMCT87 calls [$0.04]
+** Dealing flop ** [ Qh, 3c, Kh ]
+DMCT87 bets [$0.06]
+bartik555 raises [$0.18]
+DMCT87 calls [$0.12]
+** Dealing turn ** [ 5c ]
+DMCT87 bets [$0.12]
+bartik555 raises [$0.60]
+DMCT87 raises [$0.56]
+bartik555 calls [$0.08]
+** Dealing river ** [ 4c ]
+** Summary **
+DMCT87 shows [ As, Kd ]
+bartik555 shows [ Qc, 6s ]
+DMCT87 collected [ $1.73 ]
+
+

@@ -1,0 +1,431 @@
+#Game No : 503060968
+***** 888poker Hand History for Game 503060968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 17:19:05
+Table Colchester 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: conklave ( $2.08 )
+Seat 2: 777luckyfish ( $1.39 )
+conklave posts small blind [$0.01]
+777luckyfish posts big blind [$0.02]
+** Dealing down cards **
+conklave calls [$0.01]
+777luckyfish raises [$0.04]
+conklave folds
+** Summary **
+777luckyfish did not show his hand
+777luckyfish collected [ $0.04 ]
+
+
+#Game No : 503079117
+***** 888poker Hand History for Game 503079117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 05:48:42
+Table Colchester 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Bigpluis ( $1 )
+Seat 7: DrugQazaq ( $0.84 )
+DrugQazaq posts small blind [$0.01]
+Bigpluis posts big blind [$0.02]
+** Dealing down cards **
+DrugQazaq calls [$0.01]
+Bigpluis raises [$0.04]
+DrugQazaq calls [$0.04]
+** Dealing flop ** [ 6h, 5s, 4s ]
+Bigpluis checks
+DrugQazaq checks
+** Dealing turn ** [ Qh ]
+Bigpluis checks
+DrugQazaq checks
+** Dealing river ** [ 3d ]
+Bigpluis checks
+DrugQazaq bets [$0.08]
+Bigpluis folds
+** Summary **
+DrugQazaq collected [ $0.12 ]
+
+
+#Game No : 503082761
+***** 888poker Hand History for Game 503082761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:20:56
+Table Colchester 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DRAGONGALL ( $2.60 )
+Seat 7: philosov01 ( $1 )
+DRAGONGALL posts small blind [$0.01]
+philosov01 posts big blind [$0.02]
+** Dealing down cards **
+DRAGONGALL calls [$0.01]
+philosov01 checks
+** Dealing flop ** [ 2c, 5h, Ac ]
+philosov01 checks
+DRAGONGALL bets [$0.04]
+philosov01 calls [$0.04]
+** Dealing turn ** [ 7h ]
+philosov01 checks
+DRAGONGALL bets [$0.02]
+philosov01 calls [$0.02]
+** Dealing river ** [ Qc ]
+philosov01 checks
+DRAGONGALL checks
+** Summary **
+philosov01 shows [ 5s, 8d ]
+DRAGONGALL mucks [ 3s, Td ]
+philosov01 collected [ $0.15 ]
+
+
+#Game No : 503082791
+***** 888poker Hand History for Game 503082791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:21:45
+Table Colchester 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: DRAGONGALL ( $2.52 )
+Seat 7: philosov01 ( $1.07 )
+philosov01 posts small blind [$0.01]
+DRAGONGALL posts big blind [$0.02]
+** Dealing down cards **
+philosov01 raises [$0.05]
+DRAGONGALL calls [$0.04]
+** Dealing flop ** [ 6s, 4c, 3h ]
+DRAGONGALL bets [$0.02]
+philosov01 raises [$0.10]
+DRAGONGALL folds
+** Summary **
+philosov01 collected [ $0.15 ]
+
+
+#Game No : 503082804
+***** 888poker Hand History for Game 503082804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:22:05
+Table Colchester 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DRAGONGALL ( $2.44 )
+Seat 7: philosov01 ( $1.14 )
+DRAGONGALL posts small blind [$0.01]
+philosov01 posts big blind [$0.02]
+** Dealing down cards **
+DRAGONGALL calls [$0.01]
+philosov01 raises [$0.04]
+DRAGONGALL folds
+** Summary **
+philosov01 collected [ $0.04 ]
+
+
+#Game No : 503088873
+***** 888poker Hand History for Game 503088873 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 09:49:23
+Table Colchester 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: aron4ik ( $1.12 )
+Seat 9: 13chriso13 ( $1 )
+13chriso13 posts small blind [$0.01]
+aron4ik posts big blind [$0.02]
+** Dealing down cards **
+13chriso13 calls [$0.01]
+aron4ik checks
+** Dealing flop ** [ 2d, 6h, Js ]
+aron4ik checks
+13chriso13 checks
+** Dealing turn ** [ 2s ]
+aron4ik checks
+13chriso13 checks
+** Dealing river ** [ Kc ]
+aron4ik checks
+13chriso13 checks
+** Summary **
+aron4ik shows [ Qh, 5h ]
+13chriso13 mucks [ 4h, 9s ]
+aron4ik collected [ $0.04 ]
+
+
+#Game No : 503088905
+***** 888poker Hand History for Game 503088905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 09:50:04
+Table Colchester 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: aron4ik ( $1.14 )
+Seat 9: 13chriso13 ( $0.98 )
+aron4ik posts small blind [$0.01]
+13chriso13 posts big blind [$0.02]
+** Dealing down cards **
+aron4ik raises [$0.03]
+13chriso13 folds
+** Summary **
+aron4ik collected [ $0.04 ]
+
+
+#Game No : 503090458
+***** 888poker Hand History for Game 503090458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:17:32
+Table Colchester 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nicee_twice ( $1 )
+Seat 7: Repairion ( $1.94 )
+Repairion posts small blind [$0.01]
+nicee_twice posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+nicee_twice collected [ $0.03 ]
+
+
+#Game No : 503093275
+***** 888poker Hand History for Game 503093275 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:09:14
+Table Colchester 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.78 )
+Seat 7: Repairion ( $1.01 )
+13DAZ13 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+13DAZ13 raises [$0.05]
+Repairion raises [$0.18]
+13DAZ13 calls [$0.14]
+** Dealing flop ** [ 3c, 3h, 6s ]
+Repairion bets [$0.20]
+13DAZ13 folds
+** Summary **
+Repairion did not show his hand
+Repairion collected [ $0.38 ]
+
+
+#Game No : 503093322
+***** 888poker Hand History for Game 503093322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:10:14
+Table Colchester 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.58 )
+Seat 7: Repairion ( $1.19 )
+Repairion posts small blind [$0.01]
+13DAZ13 posts big blind [$0.02]
+** Dealing down cards **
+Repairion calls [$0.01]
+13DAZ13 checks
+** Dealing flop ** [ 5c, Ks, Ah ]
+13DAZ13 checks
+Repairion bets [$0.03]
+13DAZ13 folds
+** Summary **
+Repairion did not show his hand
+Repairion collected [ $0.04 ]
+
+
+#Game No : 503093343
+***** 888poker Hand History for Game 503093343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:10:37
+Table Colchester 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.56 )
+Seat 7: Repairion ( $1.21 )
+13DAZ13 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+13DAZ13 folds
+** Summary **
+Repairion did not show his hand
+Repairion collected [ $0.03 ]
+
+
+#Game No : 503093358
+***** 888poker Hand History for Game 503093358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:10:57
+Table Colchester 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.55 )
+Seat 7: Repairion ( $1.22 )
+Repairion posts small blind [$0.01]
+13DAZ13 posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+13DAZ13 did not show his hand
+13DAZ13 collected [ $0.03 ]
+
+
+#Game No : 503093366
+***** 888poker Hand History for Game 503093366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:11:08
+Table Colchester 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.56 )
+Seat 7: Repairion ( $1.21 )
+13DAZ13 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+13DAZ13 raises [$0.03]
+Repairion folds
+** Summary **
+13DAZ13 did not show his hand
+13DAZ13 collected [ $0.04 ]
+
+
+#Game No : 503093381
+***** 888poker Hand History for Game 503093381 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:11:21
+Table Colchester 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.58 )
+Seat 7: Repairion ( $1.19 )
+Repairion posts small blind [$0.01]
+13DAZ13 posts big blind [$0.02]
+** Dealing down cards **
+Repairion calls [$0.01]
+13DAZ13 checks
+** Dealing flop ** [ Jd, As, Qs ]
+13DAZ13 checks
+Repairion checks
+** Dealing turn ** [ 3h ]
+13DAZ13 checks
+Repairion checks
+** Dealing river ** [ Ks ]
+13DAZ13 checks
+Repairion checks
+** Summary **
+13DAZ13 shows [ 2d, Kh ]
+Repairion mucks [ 9c, 8s ]
+13DAZ13 collected [ $0.04 ]
+
+
+#Game No : 503093446
+***** 888poker Hand History for Game 503093446 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 11:12:32
+Table Colchester 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.60 )
+Seat 7: Repairion ( $1.17 )
+13DAZ13 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+13DAZ13 folds
+** Summary **
+Repairion collected [ $0.03 ]
+
+
+#Game No : 503104716
+***** 888poker Hand History for Game 503104716 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 14:23:36
+Table Colchester 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.03 )
+Seat 4: jam86032 ( $1.08 )
+jam86032 posts small blind [$0.01]
+13DAZ13 posts big blind [$0.02]
+** Dealing down cards **
+jam86032 folds
+** Summary **
+13DAZ13 collected [ $0.03 ]
+
+
+#Game No : 503104724
+***** 888poker Hand History for Game 503104724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 14:23:44
+Table Colchester 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.04 )
+Seat 4: jam86032 ( $1.07 )
+13DAZ13 posts small blind [$0.01]
+jam86032 posts big blind [$0.02]
+** Dealing down cards **
+13DAZ13 folds
+** Summary **
+jam86032 collected [ $0.03 ]
+
+
+#Game No : 503104731
+***** 888poker Hand History for Game 503104731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 14:23:53
+Table Colchester 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.03 )
+Seat 4: jam86032 ( $1.08 )
+jam86032 posts small blind [$0.01]
+13DAZ13 posts big blind [$0.02]
+** Dealing down cards **
+jam86032 calls [$0.01]
+13DAZ13 checks
+** Dealing flop ** [ 2d, 3c, 2h ]
+13DAZ13 checks
+jam86032 checks
+** Dealing turn ** [ Tc ]
+13DAZ13 checks
+jam86032 checks
+** Dealing river ** [ 5d ]
+13DAZ13 checks
+jam86032 checks
+** Summary **
+13DAZ13 shows [ Kh, 5s ]
+jam86032 mucks [ 9c, Ad ]
+13DAZ13 collected [ $0.04 ]
+
+
+#Game No : 503105072
+***** 888poker Hand History for Game 503105072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 14:29:59
+Table Colchester 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.74 )
+Seat 4: jam86032 ( $1.10 )
+13DAZ13 posts small blind [$0.01]
+jam86032 posts big blind [$0.02]
+** Dealing down cards **
+13DAZ13 raises [$0.05]
+jam86032 folds
+** Summary **
+13DAZ13 collected [ $0.04 ]
+
+
+#Game No : 503109761
+***** 888poker Hand History for Game 503109761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 16:23:36
+Table Colchester 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.12 )
+Seat 9: CannaDurrrrU ( $2.76 )
+CannaDurrrrU posts small blind [$0.01]
+13DAZ13 posts big blind [$0.02]
+** Dealing down cards **
+CannaDurrrrU calls [$0.01]
+13DAZ13 checks
+** Dealing flop ** [ 3s, Tc, 3h ]
+13DAZ13 checks
+CannaDurrrrU bets [$0.03]
+13DAZ13 folds
+** Summary **
+CannaDurrrrU collected [ $0.04 ]
+
+
+#Game No : 503109772
+***** 888poker Hand History for Game 503109772 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 16:24:09
+Table Colchester 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 13DAZ13 ( $1.10 )
+Seat 9: CannaDurrrrU ( $2.78 )
+13DAZ13 posts small blind [$0.01]
+CannaDurrrrU posts big blind [$0.02]
+** Dealing down cards **
+13DAZ13 folds
+** Summary **
+CannaDurrrrU collected [ $0.03 ]
+
+

@@ -1,0 +1,432 @@
+#Game No : 468787680
+***** 888poker Hand History for Game 468787680 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 19:47:47
+Table Eindhoven 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.38 )
+Seat 6: h0_od ( $3.90 )
+h0_od posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+h0_od raises [$0.05]
+iks2s folds
+** Summary **
+h0_od collected [ $0.04 ]
+
+
+#Game No : 468787685
+***** 888poker Hand History for Game 468787685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 19:48:06
+Table Eindhoven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.36 )
+Seat 6: h0_od ( $3.92 )
+iks2s posts small blind [$0.01]
+h0_od posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+h0_od checks
+** Dealing flop ** [ 3h, 4d, 7h ]
+h0_od checks
+iks2s checks
+** Dealing turn ** [ Th ]
+h0_od checks
+iks2s bets [$0.04]
+h0_od folds
+** Summary **
+iks2s collected [ $0.04 ]
+
+
+#Game No : 468787806
+***** 888poker Hand History for Game 468787806 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 19:56:59
+Table Eindhoven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.07 )
+Seat 7: Fatbull23 ( $2.21 )
+iks2s posts small blind [$0.01]
+Fatbull23 posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+Fatbull23 checks
+** Dealing flop ** [ 8h, Th, Ah ]
+Fatbull23 checks
+iks2s bets [$0.04]
+Fatbull23 folds
+** Summary **
+iks2s collected [ $0.04 ]
+
+
+#Game No : 468787814
+***** 888poker Hand History for Game 468787814 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 19:57:18
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.09 )
+Seat 7: Fatbull23 ( $2.19 )
+Fatbull23 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+Fatbull23 folds
+** Summary **
+iks2s collected [ $0.03 ]
+
+
+#Game No : 468787816
+***** 888poker Hand History for Game 468787816 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 19:57:24
+Table Eindhoven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.10 )
+Seat 7: Fatbull23 ( $2.18 )
+iks2s posts small blind [$0.01]
+Fatbull23 posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+Fatbull23 calls [$0.04]
+** Dealing flop ** [ 4d, 6s, 8c ]
+Fatbull23 checks
+iks2s bets [$0.08]
+Fatbull23 calls [$0.08]
+** Dealing turn ** [ Tc ]
+Fatbull23 checks
+iks2s checks
+** Dealing river ** [ 9d ]
+Fatbull23 checks
+iks2s checks
+** Summary **
+Fatbull23 shows [ Th, Js ]
+iks2s mucks [ Kc, Ad ]
+Fatbull23 collected [ $0.27 ]
+
+
+#Game No : 468787824
+***** 888poker Hand History for Game 468787824 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 19:58:01
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: iks2s ( $0.96 )
+Seat 7: Fatbull23 ( $2.31 )
+Fatbull23 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+Fatbull23 folds
+** Summary **
+iks2s collected [ $0.03 ]
+
+
+#Game No : 468787907
+***** 888poker Hand History for Game 468787907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 20:03:53
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.40 )
+Seat 7: Fatbull23 ( $2 )
+Fatbull23 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+Fatbull23 folds
+** Summary **
+iks2s did not show his hand
+iks2s collected [ $0.03 ]
+
+
+#Game No : 468787910
+***** 888poker Hand History for Game 468787910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 20:03:58
+Table Eindhoven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.41 )
+Seat 7: Fatbull23 ( $2 )
+iks2s posts small blind [$0.01]
+Fatbull23 posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+Fatbull23 checks
+** Dealing flop ** [ Td, 4h, Ah ]
+Fatbull23 checks
+iks2s checks
+** Dealing turn ** [ Jd ]
+Fatbull23 checks
+iks2s bets [$0.02]
+Fatbull23 calls [$0.02]
+** Dealing river ** [ 8h ]
+Fatbull23 checks
+iks2s checks
+** Summary **
+Fatbull23 shows [ Kh, 7d ]
+iks2s shows [ 3s, Js ]
+iks2s collected [ $0.08 ]
+
+
+#Game No : 468787916
+***** 888poker Hand History for Game 468787916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 20:04:17
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: iks2s ( $1.45 )
+Seat 7: Fatbull23 ( $2 )
+Fatbull23 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+Fatbull23 raises [$0.05]
+iks2s calls [$0.04]
+** Dealing flop ** [ Js, As, 5s ]
+iks2s checks
+Fatbull23 checks
+** Dealing turn ** [ 8c ]
+iks2s checks
+Fatbull23 checks
+** Dealing river ** [ Ad ]
+iks2s checks
+Fatbull23 checks
+** Summary **
+iks2s shows [ 6h, 6d ]
+Fatbull23 mucks [ 4h, 5h ]
+iks2s collected [ $0.12 ]
+
+
+#Game No : 468788367
+***** 888poker Hand History for Game 468788367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 20:33:45
+Table Eindhoven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $2.79 )
+Seat 4: pirat0nation ( $2.23 )
+iks2s posts small blind [$0.01]
+pirat0nation posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+pirat0nation folds
+** Summary **
+iks2s collected [ $0.04 ]
+
+
+#Game No : 468788380
+***** 888poker Hand History for Game 468788380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 20:34:27
+Table Eindhoven 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: iks2s ( $2.81 )
+Seat 4: pirat0nation ( $2.21 )
+pirat0nation posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+pirat0nation raises [$0.05]
+iks2s folds
+** Summary **
+pirat0nation collected [ $0.04 ]
+
+
+#Game No : 468788385
+***** 888poker Hand History for Game 468788385 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 20:34:44
+Table Eindhoven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $2.79 )
+Seat 4: pirat0nation ( $2.23 )
+iks2s posts small blind [$0.01]
+** Dealing down cards **
+pirat0nation folds
+** Summary **
+iks2s collected [ $0.01 ]
+
+
+#Game No : 468788399
+***** 888poker Hand History for Game 468788399 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 20:35:57
+Table Eindhoven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: iks2s ( $2.79 )
+Seat 9: fuaran2006 ( $1.99 )
+iks2s posts small blind [$0.01]
+fuaran2006 posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+fuaran2006 folds
+** Summary **
+iks2s did not show his hand
+iks2s collected [ $0.04 ]
+
+
+#Game No : 468788402
+***** 888poker Hand History for Game 468788402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 20:36:07
+Table Eindhoven 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: iks2s ( $2.81 )
+Seat 9: fuaran2006 ( $2 )
+fuaran2006 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+fuaran2006 folds
+** Summary **
+iks2s did not show his hand
+iks2s collected [ $0.03 ]
+
+
+#Game No : 468789069
+***** 888poker Hand History for Game 468789069 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 21:38:46
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: putanica ( $2.26 )
+Seat 7: tuananhbui86 ( $2.49 )
+tuananhbui86 posts small blind [$0.01]
+putanica posts big blind [$0.02]
+** Dealing down cards **
+tuananhbui86 raises [$0.04]
+putanica folds
+** Summary **
+tuananhbui86 collected [ $0.04 ]
+
+
+#Game No : 468789070
+***** 888poker Hand History for Game 468789070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 21:38:58
+Table Eindhoven 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: putanica ( $2.24 )
+Seat 7: tuananhbui86 ( $2.51 )
+putanica posts small blind [$0.01]
+tuananhbui86 posts big blind [$0.02]
+** Dealing down cards **
+putanica raises [$0.05]
+tuananhbui86 raises [$0.16]
+putanica calls [$0.12]
+** Dealing flop ** [ Ks, 3d, Tc ]
+tuananhbui86 checks
+putanica checks
+** Dealing turn ** [ 9c ]
+tuananhbui86 checks
+putanica checks
+** Dealing river ** [ 8s ]
+tuananhbui86 bets [$0.20]
+putanica folds
+** Summary **
+tuananhbui86 collected [ $0.34 ]
+
+
+#Game No : 468789082
+***** 888poker Hand History for Game 468789082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 21:40:17
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: putanica ( $2.06 )
+Seat 7: tuananhbui86 ( $2.67 )
+tuananhbui86 posts small blind [$0.01]
+** Dealing down cards **
+putanica folds
+** Summary **
+tuananhbui86 collected [ $0.01 ]
+
+
+#Game No : 468789085
+***** 888poker Hand History for Game 468789085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 21:40:35
+Table Eindhoven 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: rafaelsb2002 ( $0.80 )
+Seat 7: tuananhbui86 ( $2.67 )
+rafaelsb2002 posts small blind [$0.01]
+tuananhbui86 posts big blind [$0.02]
+** Dealing down cards **
+rafaelsb2002 calls [$0.01]
+tuananhbui86 checks
+** Dealing flop ** [ 3c, 9c, 7d ]
+tuananhbui86 checks
+rafaelsb2002 bets [$0.02]
+tuananhbui86 calls [$0.02]
+** Dealing turn ** [ 6h ]
+tuananhbui86 checks
+rafaelsb2002 bets [$0.02]
+tuananhbui86 calls [$0.02]
+** Dealing river ** [ 8d ]
+tuananhbui86 checks
+rafaelsb2002 checks
+** Summary **
+tuananhbui86 shows [ Qs, 7s ]
+rafaelsb2002 mucks [ As, 3d ]
+tuananhbui86 collected [ $0.12 ]
+
+
+#Game No : 468789095
+***** 888poker Hand History for Game 468789095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 21:41:31
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: rafaelsb2002 ( $0.74 )
+Seat 7: tuananhbui86 ( $2.73 )
+tuananhbui86 posts small blind [$0.01]
+rafaelsb2002 posts big blind [$0.02]
+** Dealing down cards **
+tuananhbui86 folds
+** Summary **
+rafaelsb2002 collected [ $0.03 ]
+
+
+#Game No : 468789096
+***** 888poker Hand History for Game 468789096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 21:41:38
+Table Eindhoven 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: rafaelsb2002 ( $0.75 )
+Seat 7: tuananhbui86 ( $2.72 )
+rafaelsb2002 posts small blind [$0.01]
+tuananhbui86 posts big blind [$0.02]
+** Dealing down cards **
+rafaelsb2002 calls [$0.01]
+tuananhbui86 checks
+** Dealing flop ** [ 7d, Ks, 4h ]
+tuananhbui86 checks
+rafaelsb2002 checks
+** Dealing turn ** [ Tc ]
+tuananhbui86 bets [$0.02]
+rafaelsb2002 calls [$0.02]
+** Dealing river ** [ Jh ]
+tuananhbui86 checks
+rafaelsb2002 bets [$0.02]
+tuananhbui86 calls [$0.02]
+** Summary **
+rafaelsb2002 shows [ Jd, 9d ]
+tuananhbui86 shows [ Qc, Js ]
+tuananhbui86 collected [ $0.12 ]
+
+
+#Game No : 468789100
+***** 888poker Hand History for Game 468789100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2019 21:42:10
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: rafaelsb2002 ( $0.69 )
+Seat 7: tuananhbui86 ( $2.78 )
+tuananhbui86 posts small blind [$0.01]
+rafaelsb2002 posts big blind [$0.02]
+** Dealing down cards **
+tuananhbui86 raises [$0.04]
+rafaelsb2002 folds
+** Summary **
+tuananhbui86 collected [ $0.04 ]
+
+

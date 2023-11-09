@@ -1,0 +1,29 @@
+#Game No : 466818371
+***** 888poker Hand History for Game 466818371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 07 2019 20:32:26
+Table Parnamirim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: seadubbs ( $2.06 )
+Seat 6: richbranson ( $2.61 )
+richbranson posts small blind [$0.01]
+seadubbs posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+seadubbs raises [$0.22]
+richbranson calls [$0.18]
+** Dealing flop ** [ Jd, Ah, 2d ]
+seadubbs checks
+richbranson checks
+** Dealing turn ** [ 3d ]
+seadubbs bets [$0.15]
+richbranson calls [$0.15]
+** Dealing river ** [ Ac ]
+seadubbs bets [$0.39]
+richbranson calls [$0.39]
+** Summary **
+seadubbs shows [ Qc, 3c ]
+richbranson shows [ Qh, Qs ]
+richbranson collected [ $1.47 ]
+
+

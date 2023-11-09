@@ -1,0 +1,825 @@
+#Game No : 501428804
+***** 888poker Hand History for Game 501428804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 01:44:49
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: buttercupblu ( $0.98 )
+Seat 9: SuperCube ( $0.82 )
+SuperCube posts small blind [$0.01]
+buttercupblu posts big blind [$0.02]
+** Dealing down cards **
+SuperCube raises [$0.03]
+buttercupblu calls [$0.02]
+** Dealing flop ** [ 2h, 4s, Qd ]
+buttercupblu bets [$0.02]
+SuperCube calls [$0.02]
+** Dealing turn ** [ 7c ]
+buttercupblu bets [$0.02]
+SuperCube folds
+** Summary **
+buttercupblu collected [ $0.12 ]
+
+
+#Game No : 501428933
+***** 888poker Hand History for Game 501428933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 01:47:30
+Table Guarenas 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: buttercupblu ( $1.77 )
+Seat 9: SuperCube ( $0.66 )
+buttercupblu posts small blind [$0.01]
+SuperCube posts big blind [$0.02]
+** Dealing down cards **
+buttercupblu calls [$0.01]
+SuperCube checks
+** Dealing flop ** [ Tc, Qd, 7d ]
+SuperCube bets [$0.02]
+buttercupblu raises [$0.04]
+SuperCube calls [$0.02]
+** Dealing turn ** [ 6c ]
+SuperCube checks
+buttercupblu bets [$0.04]
+SuperCube folds
+** Summary **
+buttercupblu did not show his hand
+buttercupblu collected [ $0.12 ]
+
+
+#Game No : 501428958
+***** 888poker Hand History for Game 501428958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 01:47:54
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: buttercupblu ( $1.83 )
+Seat 9: SuperCube ( $0.60 )
+SuperCube posts small blind [$0.01]
+buttercupblu posts big blind [$0.02]
+** Dealing down cards **
+SuperCube calls [$0.01]
+buttercupblu raises [$0.02]
+SuperCube calls [$0.02]
+** Dealing flop ** [ 5s, 7h, 8s ]
+buttercupblu bets [$0.04]
+SuperCube calls [$0.04]
+** Dealing turn ** [ Th ]
+buttercupblu checks
+SuperCube checks
+** Dealing river ** [ 4c ]
+buttercupblu bets [$0.16]
+SuperCube folds
+** Summary **
+buttercupblu collected [ $0.15 ]
+
+
+#Game No : 501435864
+***** 888poker Hand History for Game 501435864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 04:15:56
+Table Guarenas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: AlexEnz0 ( $2.76 )
+Seat 9: nvde12 ( $1.06 )
+AlexEnz0 posts small blind [$0.01]
+nvde12 posts big blind [$0.02]
+** Dealing down cards **
+AlexEnz0 raises [$0.05]
+nvde12 calls [$0.04]
+** Dealing flop ** [ 5d, 3s, 4d ]
+nvde12 checks
+AlexEnz0 bets [$0.08]
+nvde12 folds
+** Summary **
+AlexEnz0 collected [ $0.12 ]
+
+
+#Game No : 501435880
+***** 888poker Hand History for Game 501435880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 04:16:18
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: AlexEnz0 ( $2.82 )
+Seat 9: nvde12 ( $1 )
+nvde12 posts small blind [$0.01]
+AlexEnz0 posts big blind [$0.02]
+** Dealing down cards **
+nvde12 folds
+** Summary **
+AlexEnz0 collected [ $0.03 ]
+
+
+#Game No : 501441038
+***** 888poker Hand History for Game 501441038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:11:36
+Table Guarenas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Claydefrosch ( $3.79 )
+Seat 6: estedemadera ( $0.87 )
+estedemadera posts small blind [$0.01]
+Claydefrosch posts big blind [$0.02]
+** Dealing down cards **
+estedemadera calls [$0.01]
+Claydefrosch checks
+** Dealing flop ** [ Kd, Jd, 5d ]
+Claydefrosch checks
+estedemadera bets [$0.03]
+Claydefrosch folds
+** Summary **
+estedemadera collected [ $0.04 ]
+
+
+#Game No : 501441128
+***** 888poker Hand History for Game 501441128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:13:21
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Claydefrosch ( $3.79 )
+Seat 9: iks2s ( $0.82 )
+iks2s posts small blind [$0.01]
+Claydefrosch posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+Claydefrosch checks
+** Dealing flop ** [ 4s, 8s, 8h ]
+Claydefrosch checks
+iks2s checks
+** Dealing turn ** [ 3d ]
+Claydefrosch checks
+iks2s bets [$0.04]
+Claydefrosch calls [$0.04]
+** Dealing river ** [ Ts ]
+Claydefrosch bets [$0.12]
+iks2s raises [$0.76]
+Claydefrosch calls [$0.64]
+** Summary **
+Claydefrosch shows [ 4d, 8c ]
+iks2s shows [ Ks, 5s ]
+Claydefrosch collected [ $1.54 ]
+
+
+#Game No : 501441209
+***** 888poker Hand History for Game 501441209 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 06:15:13
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Claydefrosch ( $4.51 )
+Seat 9: iks2s ( $0.80 )
+Claydefrosch posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+Claydefrosch folds
+** Summary **
+iks2s collected [ $0.03 ]
+
+
+#Game No : 501450819
+***** 888poker Hand History for Game 501450819 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 09:33:40
+Table Guarenas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: ILUCKY555 ( $0.80 )
+Seat 6: harris528 ( $0.86 )
+harris528 posts small blind [$0.01]
+ILUCKY555 posts big blind [$0.02]
+** Dealing down cards **
+harris528 raises [$0.03]
+ILUCKY555 folds
+** Summary **
+harris528 collected [ $0.04 ]
+
+
+#Game No : 501451376
+***** 888poker Hand History for Game 501451376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 09:42:44
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: ILUCKY555 ( $0.87 )
+Seat 9: Ghaiss888 ( $1.07 )
+Ghaiss888 posts small blind [$0.01]
+ILUCKY555 posts big blind [$0.02]
+** Dealing down cards **
+Ghaiss888 calls [$0.01]
+ILUCKY555 raises [$0.04]
+Ghaiss888 calls [$0.04]
+** Dealing flop ** [ 3c, Kh, 5h ]
+ILUCKY555 bets [$0.08]
+Ghaiss888 folds
+** Summary **
+ILUCKY555 collected [ $0.12 ]
+
+
+#Game No : 501451390
+***** 888poker Hand History for Game 501451390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 09:42:58
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILUCKY555 ( $0.93 )
+Seat 9: Ghaiss888 ( $1.01 )
+ILUCKY555 posts small blind [$0.01]
+Ghaiss888 posts big blind [$0.02]
+** Dealing down cards **
+ILUCKY555 folds
+** Summary **
+Ghaiss888 collected [ $0.03 ]
+
+
+#Game No : 501451396
+***** 888poker Hand History for Game 501451396 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 09:43:04
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: ILUCKY555 ( $0.92 )
+Seat 9: Ghaiss888 ( $1.02 )
+Ghaiss888 posts small blind [$0.01]
+** Dealing down cards **
+ILUCKY555 folds
+** Summary **
+Ghaiss888 collected [ $0.01 ]
+
+
+#Game No : 501451473
+***** 888poker Hand History for Game 501451473 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 09:44:23
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.80 )
+Seat 9: Ghaiss888 ( $1.02 )
+Ghaiss888 posts small blind [$0.01]
+estedemadera posts big blind [$0.02]
+** Dealing down cards **
+Ghaiss888 calls [$0.01]
+estedemadera checks
+** Dealing flop ** [ Qd, 2d, 5s ]
+estedemadera checks
+Ghaiss888 checks
+** Dealing turn ** [ Ts ]
+estedemadera bets [$0.04]
+Ghaiss888 folds
+** Summary **
+estedemadera collected [ $0.04 ]
+
+
+#Game No : 501451492
+***** 888poker Hand History for Game 501451492 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 09:44:37
+Table Guarenas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.82 )
+Seat 9: Ghaiss888 ( $1 )
+estedemadera posts small blind [$0.01]
+Ghaiss888 posts big blind [$0.02]
+** Dealing down cards **
+estedemadera raises [$0.03]
+Ghaiss888 calls [$0.02]
+** Dealing flop ** [ Jh, Ad, Kc ]
+Ghaiss888 bets [$0.08]
+estedemadera folds
+** Summary **
+Ghaiss888 collected [ $0.08 ]
+
+
+#Game No : 501451502
+***** 888poker Hand History for Game 501451502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 09:44:49
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.78 )
+Seat 9: Ghaiss888 ( $1.04 )
+Ghaiss888 posts small blind [$0.01]
+estedemadera posts big blind [$0.02]
+** Dealing down cards **
+Ghaiss888 raises [$0.03]
+estedemadera calls [$0.02]
+** Dealing flop ** [ Ac, 7s, 6h ]
+estedemadera bets [$0.05]
+Ghaiss888 calls [$0.05]
+** Dealing turn ** [ 9c ]
+estedemadera bets [$0.04]
+Ghaiss888 raises [$0.30]
+estedemadera folds
+** Summary **
+Ghaiss888 collected [ $0.25 ]
+
+
+#Game No : 501451533
+***** 888poker Hand History for Game 501451533 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 09:45:11
+Table Guarenas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.65 )
+Seat 9: Ghaiss888 ( $1.16 )
+estedemadera posts small blind [$0.01]
+Ghaiss888 posts big blind [$0.02]
+** Dealing down cards **
+estedemadera calls [$0.01]
+Ghaiss888 checks
+** Dealing flop ** [ 9d, 2d, Tc ]
+Ghaiss888 bets [$0.04]
+estedemadera calls [$0.04]
+** Dealing turn ** [ 8c ]
+Ghaiss888 bets [$0.12]
+estedemadera calls [$0.12]
+** Dealing river ** [ 8s ]
+Ghaiss888 checks
+estedemadera bets [$0.16]
+Ghaiss888 calls [$0.16]
+** Summary **
+estedemadera shows [ Ks, 8h ]
+Ghaiss888 mucks [ Td, 4s ]
+estedemadera collected [ $0.64 ]
+
+
+#Game No : 501469570
+***** 888poker Hand History for Game 501469570 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 14:57:19
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Denworld911 ( $0.80 )
+Seat 9: alexzetnord ( $2.60 )
+alexzetnord posts small blind [$0.01]
+Denworld911 posts big blind [$0.02]
+** Dealing down cards **
+alexzetnord raises [$0.05]
+Denworld911 folds
+** Summary **
+alexzetnord collected [ $0.04 ]
+
+
+#Game No : 501469628
+***** 888poker Hand History for Game 501469628 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 14:58:38
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: fredd7979 ( $1 )
+Seat 9: alexzetnord ( $2.62 )
+alexzetnord posts small blind [$0.01]
+fredd7979 posts big blind [$0.02]
+** Dealing down cards **
+alexzetnord folds
+** Summary **
+fredd7979 collected [ $0.03 ]
+
+
+#Game No : 501469650
+***** 888poker Hand History for Game 501469650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 14:59:09
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: fredd7979 ( $0.99 )
+Seat 9: alexzetnord ( $2.63 )
+alexzetnord posts small blind [$0.01]
+fredd7979 posts big blind [$0.02]
+** Dealing down cards **
+alexzetnord folds
+** Summary **
+fredd7979 collected [ $0.03 ]
+
+
+#Game No : 501469654
+***** 888poker Hand History for Game 501469654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 14:59:14
+Table Guarenas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fredd7979 ( $1 )
+Seat 9: alexzetnord ( $2.62 )
+fredd7979 posts small blind [$0.01]
+** Dealing down cards **
+alexzetnord folds
+** Summary **
+fredd7979 collected [ $0.01 ]
+
+
+#Game No : 501469658
+***** 888poker Hand History for Game 501469658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 14:59:17
+Table Guarenas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fredd7979 ( $1 )
+Seat 9: alexzetnord ( $2.62 )
+fredd7979 posts small blind [$0.01]
+alexzetnord posts big blind [$0.02]
+** Dealing down cards **
+fredd7979 folds
+** Summary **
+alexzetnord collected [ $0.03 ]
+
+
+#Game No : 501469673
+***** 888poker Hand History for Game 501469673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 14:59:40
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: fredd7979 ( $0.99 )
+Seat 4: darkdepill ( $1 )
+darkdepill posts small blind [$0.01]
+fredd7979 posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.03]
+fredd7979 raises [$0.04]
+darkdepill calls [$0.02]
+** Dealing flop ** [ 2h, 6c, Qc ]
+fredd7979 checks
+darkdepill checks
+** Dealing turn ** [ 7h ]
+fredd7979 checks
+darkdepill checks
+** Dealing river ** [ 4h ]
+fredd7979 bets [$0.08]
+darkdepill folds
+** Summary **
+fredd7979 collected [ $0.12 ]
+
+
+#Game No : 501470285
+***** 888poker Hand History for Game 501470285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:15:28
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.18 )
+Seat 9: OlegH1 ( $1.07 )
+OlegH1 posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+darkdepill collected [ $0.03 ]
+
+
+#Game No : 501470290
+***** 888poker Hand History for Game 501470290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:15:37
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.19 )
+Seat 9: OlegH1 ( $1.06 )
+darkdepill posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ Ks, 2d, Ts ]
+OlegH1 checks
+darkdepill bets [$0.02]
+OlegH1 folds
+** Summary **
+darkdepill collected [ $0.08 ]
+
+
+#Game No : 501470301
+***** 888poker Hand History for Game 501470301 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:15:53
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.23 )
+Seat 9: OlegH1 ( $1.02 )
+OlegH1 posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+darkdepill folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 501470311
+***** 888poker Hand History for Game 501470311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:16:09
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.21 )
+Seat 9: OlegH1 ( $1.04 )
+darkdepill posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.05]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ 5h, 6s, 4s ]
+OlegH1 checks
+darkdepill checks
+** Dealing turn ** [ Tc ]
+OlegH1 checks
+darkdepill checks
+** Dealing river ** [ Qd ]
+OlegH1 bets [$0.08]
+darkdepill folds
+** Summary **
+OlegH1 collected [ $0.12 ]
+
+
+#Game No : 501470322
+***** 888poker Hand History for Game 501470322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:16:30
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.15 )
+Seat 9: OlegH1 ( $1.10 )
+OlegH1 posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+darkdepill calls [$0.04]
+** Dealing flop ** [ 4d, 3d, 3s ]
+darkdepill bets [$0.09]
+OlegH1 calls [$0.09]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ 6c ]
+** Summary **
+darkdepill shows [ 9c, Qh ]
+OlegH1 shows [ Td, 5c ]
+darkdepill collected [ $0.29 ]
+
+
+#Game No : 501470343
+***** 888poker Hand History for Game 501470343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:16:55
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.29 )
+Seat 9: OlegH1 ( $1 )
+darkdepill posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+darkdepill calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 5s, Kd, 6c ]
+OlegH1 checks
+darkdepill bets [$0.02]
+OlegH1 raises [$0.07]
+darkdepill raises [$0.10]
+OlegH1 raises [$0.91]
+darkdepill calls [$0.15]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 4c ]
+** Summary **
+darkdepill shows [ Ks, Ah ]
+OlegH1 shows [ Kh, 2d ]
+darkdepill collected [ $0.55 ]
+
+
+#Game No : 501470365
+***** 888poker Hand History for Game 501470365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:17:27
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.55 )
+Seat 9: OlegH1 ( $1 )
+OlegH1 posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.99]
+darkdepill folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 501470371
+***** 888poker Hand History for Game 501470371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:17:36
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.53 )
+Seat 9: OlegH1 ( $1.02 )
+darkdepill posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+darkdepill folds
+** Summary **
+OlegH1 collected [ $0.03 ]
+
+
+#Game No : 501470372
+***** 888poker Hand History for Game 501470372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:17:41
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.52 )
+Seat 9: OlegH1 ( $1.03 )
+OlegH1 posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+darkdepill calls [$0.04]
+** Dealing flop ** [ Jh, Kh, 3d ]
+darkdepill checks
+OlegH1 bets [$0.08]
+darkdepill folds
+** Summary **
+OlegH1 collected [ $0.12 ]
+
+
+#Game No : 501470388
+***** 888poker Hand History for Game 501470388 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:18:04
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.46 )
+Seat 9: OlegH1 ( $1.09 )
+darkdepill posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.05]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ 3s, Jh, 6d ]
+OlegH1 checks
+darkdepill bets [$0.08]
+OlegH1 folds
+** Summary **
+darkdepill collected [ $0.12 ]
+
+
+#Game No : 501470405
+***** 888poker Hand History for Game 501470405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:18:19
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.52 )
+Seat 9: OlegH1 ( $1.03 )
+OlegH1 posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+darkdepill calls [$0.04]
+** Dealing flop ** [ 5c, 7d, 4d ]
+darkdepill bets [$0.06]
+OlegH1 raises [$0.97]
+darkdepill folds
+** Summary **
+OlegH1 collected [ $0.23 ]
+
+
+#Game No : 501470418
+***** 888poker Hand History for Game 501470418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:18:36
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.40 )
+Seat 9: OlegH1 ( $1.14 )
+darkdepill posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ 2c, Ah, 7d ]
+OlegH1 checks
+darkdepill bets [$0.05]
+OlegH1 folds
+** Summary **
+darkdepill collected [ $0.08 ]
+
+
+#Game No : 501470431
+***** 888poker Hand History for Game 501470431 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:18:57
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.44 )
+Seat 9: OlegH1 ( $1.10 )
+OlegH1 posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+darkdepill calls [$0.04]
+** Dealing flop ** [ Ts, 5s, 6c ]
+darkdepill checks
+OlegH1 bets [$0.08]
+darkdepill raises [$0.16]
+OlegH1 raises [$0.96]
+darkdepill calls [$0.22]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ Ah ]
+** Summary **
+darkdepill shows [ 6h, Qh ]
+OlegH1 shows [ 9s, 9c ]
+OlegH1 collected [ $0.83 ]
+
+
+#Game No : 501470448
+***** 888poker Hand History for Game 501470448 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:19:24
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $1 )
+Seat 9: OlegH1 ( $1.49 )
+darkdepill posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+darkdepill folds
+** Summary **
+OlegH1 collected [ $0.03 ]
+
+
+#Game No : 501470450
+***** 888poker Hand History for Game 501470450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:19:29
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.99 )
+Seat 9: OlegH1 ( $1.50 )
+OlegH1 posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+darkdepill collected [ $0.03 ]
+
+
+#Game No : 501470461
+***** 888poker Hand History for Game 501470461 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:19:46
+Table Guarenas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $1 )
+Seat 9: OlegH1 ( $1.49 )
+darkdepill posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ Qs, 7s, 6c ]
+OlegH1 checks
+darkdepill bets [$0.04]
+OlegH1 calls [$0.04]
+** Dealing turn ** [ Kd ]
+OlegH1 checks
+darkdepill bets [$0.08]
+OlegH1 calls [$0.08]
+** Dealing river ** [ Ks ]
+OlegH1 checks
+darkdepill bets [$0.10]
+OlegH1 calls [$0.10]
+** Summary **
+darkdepill shows [ 5d, Qh ]
+OlegH1 shows [ Qc, 4h ]
+darkdepill collected [ $0.24 ]
+OlegH1 collected [ $0.25 ]
+
+
+#Game No : 501470481
+***** 888poker Hand History for Game 501470481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 15:20:20
+Table Guarenas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: darkdepill ( $0.98 )
+Seat 9: OlegH1 ( $1.48 )
+OlegH1 posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+darkdepill folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 501471867
+***** 888poker Hand History for Game 501471867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 16:01:52
+Table Guarenas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 6: Jota0182 ( $1.01 )
+Seat 9: OlegH1 ( $1.09 )
+Jota0182 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Jota0182 folds
+** Summary **
+OlegH1 collected [ $0.03 ]
+
+

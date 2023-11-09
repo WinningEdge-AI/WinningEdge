@@ -1,0 +1,127 @@
+#Game No : 507275402
+***** 888poker Hand History for Game 507275402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 21:39:27
+Table Duisburg 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: wunderlasse ( $2 )
+Seat 5: zukalek ( $2 )
+wunderlasse posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+wunderlasse calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 7d, 9d, 5s ]
+zukalek checks
+wunderlasse bets [$0.02]
+zukalek calls [$0.02]
+** Dealing turn ** [ Ad ]
+zukalek checks
+wunderlasse checks
+** Dealing river ** [ 8s ]
+zukalek bets [$0.07]
+wunderlasse calls [$0.07]
+** Summary **
+zukalek shows [ Ts, 6s ]
+wunderlasse mucks [ Th, 8h ]
+zukalek collected [ $0.21 ]
+
+
+#Game No : 507275417
+***** 888poker Hand History for Game 507275417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 21:39:33
+Table Duisburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: wunderlasse ( $1.89 )
+Seat 5: zukalek ( $2.10 )
+zukalek posts small blind [$0.01]
+wunderlasse posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+wunderlasse did not show his hand
+wunderlasse collected [ $0.03 ]
+
+
+#Game No : 507275420
+***** 888poker Hand History for Game 507275420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 21:39:40
+Table Duisburg 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: wunderlasse ( $1.90 )
+Seat 5: zukalek ( $2.09 )
+wunderlasse posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+wunderlasse calls [$0.01]
+zukalek raises [$0.08]
+wunderlasse calls [$0.08]
+** Dealing flop ** [ Qc, 6h, Kd ]
+zukalek bets [$0.08]
+wunderlasse calls [$0.08]
+** Dealing turn ** [ 7h ]
+zukalek checks
+wunderlasse bets [$0.02]
+zukalek calls [$0.02]
+** Dealing river ** [ 5d ]
+zukalek checks
+wunderlasse checks
+** Summary **
+zukalek shows [ Jc, Jd ]
+wunderlasse mucks [ Ad, 6s ]
+zukalek collected [ $0.38 ]
+
+
+#Game No : 507275440
+***** 888poker Hand History for Game 507275440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 21:40:38
+Table Duisburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: wunderlasse ( $1.70 )
+Seat 5: zukalek ( $2.27 )
+zukalek posts small blind [$0.01]
+wunderlasse posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+wunderlasse did not show his hand
+wunderlasse collected [ $0.03 ]
+
+
+#Game No : 507278288
+***** 888poker Hand History for Game 507278288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 00:19:55
+Table Duisburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Pahen721 ( $2 )
+Seat 7: Gromex_x ( $2.20 )
+Pahen721 posts small blind [$0.01]
+Gromex_x posts big blind [$0.02]
+** Dealing down cards **
+Pahen721 raises [$0.05]
+Gromex_x folds
+** Summary **
+Pahen721 did not show his hand
+Pahen721 collected [ $0.04 ]
+
+
+#Game No : 507278291
+***** 888poker Hand History for Game 507278291 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 00:20:06
+Table Duisburg 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: Pahen721 ( $2.02 )
+Seat 7: Gromex_x ( $2.18 )
+Gromex_x posts small blind [$0.01]
+** Dealing down cards **
+Pahen721 folds
+** Summary **
+Gromex_x did not show his hand
+Gromex_x collected [ $0.01 ]
+
+

@@ -1,0 +1,89 @@
+#Game No : 516056853
+***** 888poker Hand History for Game 516056853 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 04 2019 22:33:53
+Table Barinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dedtk ( $1.13 )
+Seat 7: Kingsgood ( $1.90 )
+dedtk posts small blind [$0.01]
+Kingsgood posts big blind [$0.02]
+** Dealing down cards **
+dedtk folds
+** Summary **
+Kingsgood collected [ $0.03 ]
+
+
+#Game No : 516056856
+***** 888poker Hand History for Game 516056856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 04 2019 22:33:59
+Table Barinas 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: dedtk ( $1.12 )
+Seat 7: Kingsgood ( $1.91 )
+Kingsgood posts small blind [$0.01]
+dedtk posts big blind [$0.02]
+** Dealing down cards **
+Kingsgood raises [$0.03]
+dedtk folds
+** Summary **
+Kingsgood collected [ $0.04 ]
+
+
+#Game No : 516056927
+***** 888poker Hand History for Game 516056927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 04 2019 22:37:31
+Table Barinas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Trangia ( $0.78 )
+Seat 9: ALIAKSANDR44 ( $0.88 )
+ALIAKSANDR44 posts small blind [$0.01]
+Trangia posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+Trangia checks
+** Dealing flop ** [ 4c, Ts, 7d ]
+Trangia checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ 7s ]
+Trangia checks
+ALIAKSANDR44 checks
+** Dealing river ** [ Td ]
+Trangia checks
+ALIAKSANDR44 checks
+** Summary **
+Trangia shows [ Jc, 9d ]
+ALIAKSANDR44 shows [ 8s, Qc ]
+ALIAKSANDR44 collected [ $0.04 ]
+
+
+#Game No : 516056935
+***** 888poker Hand History for Game 516056935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 04 2019 22:38:04
+Table Barinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trangia ( $0.76 )
+Seat 9: ALIAKSANDR44 ( $0.90 )
+Trangia posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+Trangia calls [$0.01]
+ALIAKSANDR44 checks
+** Dealing flop ** [ Ts, 7s, 7c ]
+ALIAKSANDR44 bets [$0.04]
+Trangia calls [$0.04]
+** Dealing turn ** [ 4h ]
+ALIAKSANDR44 bets [$0.04]
+Trangia calls [$0.04]
+** Dealing river ** [ Ac ]
+ALIAKSANDR44 bets [$0.04]
+Trangia calls [$0.04]
+** Summary **
+ALIAKSANDR44 shows [ 7h, Qh ]
+Trangia mucks [ 4c, 5c ]
+ALIAKSANDR44 collected [ $0.27 ]
+
+

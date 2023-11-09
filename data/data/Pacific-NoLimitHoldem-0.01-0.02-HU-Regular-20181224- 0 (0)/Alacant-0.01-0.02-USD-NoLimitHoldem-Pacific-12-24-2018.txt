@@ -1,0 +1,216 @@
+#Game No : 511100571
+***** 888poker Hand History for Game 511100571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 04:58:25
+Table Alacant 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Aniskin1969 ( $1.61 )
+Seat 3: Griboedow ( $1.59 )
+Aniskin1969 posts small blind [$0.01]
+Griboedow posts big blind [$0.02]
+** Dealing down cards **
+Aniskin1969 raises [$0.05]
+Griboedow folds
+** Summary **
+Aniskin1969 collected [ $0.04 ]
+
+
+#Game No : 511100576
+***** 888poker Hand History for Game 511100576 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 04:58:35
+Table Alacant 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: Aniskin1969 ( $1.63 )
+Seat 3: Griboedow ( $1.57 )
+Griboedow posts small blind [$0.01]
+Aniskin1969 posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+Aniskin1969 checks
+** Dealing flop ** [ 9d, 4h, 3c ]
+Aniskin1969 checks
+Griboedow checks
+** Dealing turn ** [ Ts ]
+Aniskin1969 checks
+Griboedow bets [$0.02]
+Aniskin1969 calls [$0.02]
+** Dealing river ** [ Ad ]
+Aniskin1969 checks
+Griboedow checks
+** Summary **
+Aniskin1969 shows [ 6h, 9h ]
+Griboedow mucks [ 9c, 2c ]
+Aniskin1969 collected [ $0.08 ]
+
+
+#Game No : 511112083
+***** 888poker Hand History for Game 511112083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 09:48:50
+Table Alacant 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Ranen014 ( $1.89 )
+Seat 9: 888party ( $0.63 )
+Ranen014 posts small blind [$0.01]
+888party posts big blind [$0.02]
+** Dealing down cards **
+Ranen014 calls [$0.01]
+888party checks
+** Dealing flop ** [ Ad, 6c, Kc ]
+888party bets [$0.02]
+Ranen014 calls [$0.02]
+** Dealing turn ** [ 2h ]
+888party checks
+Ranen014 checks
+** Dealing river ** [ 9s ]
+888party bets [$0.06]
+Ranen014 calls [$0.06]
+** Summary **
+888party shows [ 3d, Ts ]
+Ranen014 shows [ 9c, Tc ]
+Ranen014 collected [ $0.19 ]
+
+
+#Game No : 511112099
+***** 888poker Hand History for Game 511112099 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 09:49:06
+Table Alacant 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Ranen014 ( $1.98 )
+Seat 9: 888party ( $0.53 )
+888party posts small blind [$0.01]
+Ranen014 posts big blind [$0.02]
+** Dealing down cards **
+888party calls [$0.01]
+Ranen014 checks
+** Dealing flop ** [ 5c, Jd, 4h ]
+Ranen014 bets [$0.02]
+888party calls [$0.02]
+** Dealing turn ** [ Ad ]
+Ranen014 bets [$0.02]
+888party calls [$0.02]
+** Dealing river ** [ 3d ]
+Ranen014 bets [$0.14]
+888party folds
+** Summary **
+Ranen014 collected [ $0.12 ]
+
+
+#Game No : 511112131
+***** 888poker Hand History for Game 511112131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 09:49:52
+Table Alacant 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: DimaGoldis14 ( $0.81 )
+Seat 9: 888party ( $0.46 )
+888party posts small blind [$0.01]
+DimaGoldis14 posts big blind [$0.02]
+** Dealing down cards **
+888party folds
+** Summary **
+DimaGoldis14 collected [ $0.03 ]
+
+
+#Game No : 511112136
+***** 888poker Hand History for Game 511112136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 09:49:59
+Table Alacant 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DimaGoldis14 ( $0.82 )
+Seat 9: 888party ( $0.45 )
+DimaGoldis14 posts small blind [$0.01]
+888party posts big blind [$0.02]
+** Dealing down cards **
+DimaGoldis14 raises [$0.03]
+888party calls [$0.02]
+** Dealing flop ** [ Ad, Jd, Ts ]
+888party checks
+DimaGoldis14 checks
+** Dealing turn ** [ 4c ]
+888party bets [$0.04]
+DimaGoldis14 calls [$0.04]
+** Dealing river ** [ Qh ]
+888party checks
+DimaGoldis14 bets [$0.16]
+888party folds
+** Summary **
+DimaGoldis14 collected [ $0.15 ]
+
+
+#Game No : 511112153
+***** 888poker Hand History for Game 511112153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 09:50:28
+Table Alacant 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: DimaGoldis14 ( $0.89 )
+Seat 9: 888party ( $0.37 )
+888party posts small blind [$0.01]
+DimaGoldis14 posts big blind [$0.02]
+** Dealing down cards **
+888party raises [$0.05]
+DimaGoldis14 calls [$0.04]
+** Dealing flop ** [ 7s, Ts, 3c ]
+DimaGoldis14 checks
+888party checks
+** Dealing turn ** [ 4h ]
+DimaGoldis14 bets [$0.12]
+888party folds
+** Summary **
+DimaGoldis14 collected [ $0.12 ]
+
+
+#Game No : 511112189
+***** 888poker Hand History for Game 511112189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 09:51:16
+Table Alacant 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DimaGoldis14 ( $0.95 )
+Seat 9: 888party ( $0.31 )
+DimaGoldis14 posts small blind [$0.01]
+888party posts big blind [$0.02]
+** Dealing down cards **
+DimaGoldis14 folds
+** Summary **
+888party collected [ $0.03 ]
+
+
+#Game No : 511112678
+***** 888poker Hand History for Game 511112678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 10:02:17
+Table Alacant 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: zrito ( $0.82 )
+Seat 7: Wuchtamsel ( $1.08 )
+Wuchtamsel posts small blind [$0.01]
+zrito posts big blind [$0.02]
+** Dealing down cards **
+Wuchtamsel raises [$0.05]
+zrito folds
+** Summary **
+Wuchtamsel did not show his hand
+Wuchtamsel collected [ $0.04 ]
+
+
+#Game No : 511112690
+***** 888poker Hand History for Game 511112690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 10:02:31
+Table Alacant 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: zrito ( $0.80 )
+Seat 7: Wuchtamsel ( $1.10 )
+zrito posts small blind [$0.01]
+** Dealing down cards **
+Wuchtamsel folds
+** Summary **
+zrito did not show his hand
+zrito collected [ $0.01 ]
+
+

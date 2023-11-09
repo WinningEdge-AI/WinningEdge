@@ -1,0 +1,154 @@
+#Game No : 501351174
+***** 888poker Hand History for Game 501351174 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 11:23:31
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bolshoiman ( $1.12 )
+Seat 9: PulitzerPriz ( $3.76 )
+Bolshoiman posts small blind [$0.01]
+PulitzerPriz posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.05]
+PulitzerPriz calls [$0.04]
+** Dealing flop ** [ Ah, 4c, Qd ]
+PulitzerPriz checks
+Bolshoiman bets [$0.08]
+PulitzerPriz calls [$0.08]
+** Dealing turn ** [ Td ]
+PulitzerPriz checks
+Bolshoiman checks
+** Dealing river ** [ 4d ]
+PulitzerPriz checks
+Bolshoiman checks
+** Summary **
+PulitzerPriz shows [ Qc, 9c ]
+Bolshoiman shows [ Ac, 2d ]
+Bolshoiman collected [ $0.27 ]
+
+
+#Game No : 501351207
+***** 888poker Hand History for Game 501351207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 11:24:02
+Table Pforzheim 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Bolshoiman ( $1.25 )
+Seat 9: PulitzerPriz ( $3.62 )
+PulitzerPriz posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+PulitzerPriz calls [$0.01]
+Bolshoiman checks
+** Dealing flop ** [ Jd, Kc, 3d ]
+Bolshoiman checks
+PulitzerPriz bets [$0.02]
+Bolshoiman folds
+** Summary **
+PulitzerPriz collected [ $0.04 ]
+
+
+#Game No : 501351230
+***** 888poker Hand History for Game 501351230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 11:24:16
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bolshoiman ( $1.23 )
+Seat 9: PulitzerPriz ( $3.64 )
+Bolshoiman posts small blind [$0.01]
+PulitzerPriz posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.05]
+PulitzerPriz folds
+** Summary **
+Bolshoiman collected [ $0.04 ]
+
+
+#Game No : 501351233
+***** 888poker Hand History for Game 501351233 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 11:24:22
+Table Pforzheim 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Bolshoiman ( $1.25 )
+Seat 9: PulitzerPriz ( $3.62 )
+PulitzerPriz posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+PulitzerPriz raises [$0.03]
+Bolshoiman folds
+** Summary **
+PulitzerPriz collected [ $0.04 ]
+
+
+#Game No : 501351243
+***** 888poker Hand History for Game 501351243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 11:24:29
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bolshoiman ( $1.23 )
+Seat 9: PulitzerPriz ( $3.64 )
+Bolshoiman posts small blind [$0.01]
+PulitzerPriz posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.05]
+PulitzerPriz folds
+** Summary **
+Bolshoiman collected [ $0.04 ]
+
+
+#Game No : 501351251
+***** 888poker Hand History for Game 501351251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 11:24:36
+Table Pforzheim 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Bolshoiman ( $1.25 )
+Seat 9: PulitzerPriz ( $3.62 )
+PulitzerPriz posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+PulitzerPriz raises [$0.05]
+Bolshoiman calls [$0.04]
+** Dealing flop ** [ Th, 9c, Ad ]
+Bolshoiman checks
+PulitzerPriz bets [$0.08]
+Bolshoiman calls [$0.08]
+** Dealing turn ** [ 8s ]
+Bolshoiman checks
+PulitzerPriz checks
+** Dealing river ** [ Ah ]
+Bolshoiman checks
+PulitzerPriz checks
+** Summary **
+Bolshoiman shows [ 6d, 8d ]
+PulitzerPriz mucks [ Js, Kd ]
+Bolshoiman collected [ $0.27 ]
+
+
+#Game No : 501351274
+***** 888poker Hand History for Game 501351274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 11:25:04
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bolshoiman ( $1.38 )
+Seat 9: PulitzerPriz ( $3.48 )
+Bolshoiman posts small blind [$0.01]
+PulitzerPriz posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.05]
+PulitzerPriz calls [$0.04]
+** Dealing flop ** [ 7d, 3s, As ]
+PulitzerPriz checks
+Bolshoiman checks
+** Dealing turn ** [ Ah ]
+PulitzerPriz checks
+Bolshoiman bets [$0.08]
+PulitzerPriz folds
+** Summary **
+Bolshoiman collected [ $0.12 ]
+
+

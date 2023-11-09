@@ -1,0 +1,54 @@
+#Game No : 522692299
+***** 888poker Hand History for Game 522692299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2019 00:02:10
+Table Peking 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: mikejones144 ( $0.74 )
+Seat 6: JS888FU ( $2.03 )
+mikejones144 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+mikejones144 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ Kd, 4d, 7s ]
+JS888FU checks
+mikejones144 checks
+** Dealing turn ** [ 6h ]
+JS888FU bets [$0.08]
+mikejones144 calls [$0.08]
+** Dealing river ** [ Qd ]
+JS888FU bets [$0.13]
+mikejones144 calls [$0.13]
+** Summary **
+JS888FU shows [ Qs, 7c ]
+mikejones144 mucks [ 5c, 6d ]
+JS888FU collected [ $0.44 ]
+
+
+#Game No : 522692303
+***** 888poker Hand History for Game 522692303 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2019 00:02:22
+Table Peking 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: mikejones144 ( $0.51 )
+Seat 6: JS888FU ( $2.24 )
+JS888FU posts small blind [$0.01]
+mikejones144 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+mikejones144 checks
+** Dealing flop ** [ 2s, Ac, 7h ]
+mikejones144 checks
+JS888FU checks
+** Dealing turn ** [ Ad ]
+mikejones144 checks
+JS888FU checks
+** Dealing river ** [ Qh ]
+mikejones144 bets [$0.02]
+JS888FU folds
+** Summary **
+mikejones144 collected [ $0.04 ]
+
+

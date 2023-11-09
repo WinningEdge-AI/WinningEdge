@@ -1,0 +1,28 @@
+#Game No : 518667877
+***** 888poker Hand History for Game 518667877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2018 18:50:03
+Table Moscow 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kiewnaja ( $0.65 )
+Seat 2: flidhip ( $1.15 )
+flidhip posts small blind [$0.01]
+kiewnaja posts big blind [$0.02]
+** Dealing down cards **
+flidhip calls [$0.01]
+kiewnaja checks
+** Dealing flop ** [ 6h, 9s, As ]
+kiewnaja checks
+flidhip checks
+** Dealing turn ** [ 9d ]
+kiewnaja checks
+flidhip checks
+** Dealing river ** [ Jd ]
+kiewnaja checks
+flidhip checks
+** Summary **
+kiewnaja shows [ Qc, 7s ]
+flidhip shows [ Kc, 7h ]
+flidhip collected [ $0.04 ]
+
+

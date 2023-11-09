@@ -1,0 +1,189 @@
+#Game No : 520294572
+***** 888poker Hand History for Game 520294572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 08 2019 18:06:36
+Table Guayaquil 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 6: Reuben869 ( $1.97 )
+Seat 10: Benjamin100F ( $2 )
+Reuben869 posts small blind [$0.01]
+Benjamin100F posts big blind [$0.02]
+** Dealing down cards **
+Reuben869 folds
+** Summary **
+Benjamin100F collected [ $0.03 ]
+
+
+#Game No : 520294574
+***** 888poker Hand History for Game 520294574 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 08 2019 18:06:45
+Table Guayaquil 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Reuben869 ( $1.96 )
+Seat 10: Benjamin100F ( $2.01 )
+Reuben869 posts small blind [$0.01]
+Benjamin100F posts big blind [$0.02]
+** Dealing down cards **
+Reuben869 folds
+** Summary **
+Benjamin100F collected [ $0.03 ]
+
+
+#Game No : 520295148
+***** 888poker Hand History for Game 520295148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 08 2019 18:49:57
+Table Guayaquil 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: catpapi ( $1.33 )
+Seat 6: mahonzcs ( $2 )
+catpapi posts small blind [$0.01]
+mahonzcs posts big blind [$0.02]
+** Dealing down cards **
+catpapi calls [$0.01]
+mahonzcs raises [$0.02]
+catpapi calls [$0.02]
+** Dealing flop ** [ 9h, 2d, Qd ]
+mahonzcs bets [$0.04]
+catpapi folds
+** Summary **
+mahonzcs did not show his hand
+mahonzcs collected [ $0.08 ]
+
+
+#Game No : 520295155
+***** 888poker Hand History for Game 520295155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 08 2019 18:50:21
+Table Guayaquil 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: catpapi ( $1.29 )
+Seat 6: mahonzcs ( $2.04 )
+mahonzcs posts small blind [$0.01]
+catpapi posts big blind [$0.02]
+** Dealing down cards **
+mahonzcs raises [$0.03]
+catpapi raises [$0.08]
+mahonzcs calls [$0.06]
+** Dealing flop ** [ 4d, 5c, 2h ]
+catpapi bets [$0.10]
+mahonzcs calls [$0.10]
+** Dealing turn ** [ Tc ]
+catpapi checks
+mahonzcs bets [$0.34]
+catpapi calls [$0.34]
+** Dealing river ** [ 2d ]
+catpapi checks
+mahonzcs bets [$0.50]
+catpapi calls [$0.50]
+** Summary **
+mahonzcs shows [ 5h, 5d ]
+catpapi mucks [ 8s, 8c ]
+mahonzcs collected [ $1.95 ]
+
+
+#Game No : 520295170
+***** 888poker Hand History for Game 520295170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 08 2019 18:51:23
+Table Guayaquil 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: catpapi ( $0.25 )
+Seat 6: mahonzcs ( $2.95 )
+catpapi posts small blind [$0.01]
+mahonzcs posts big blind [$0.02]
+** Dealing down cards **
+catpapi calls [$0.01]
+mahonzcs raises [$0.04]
+catpapi raises [$0.23]
+mahonzcs calls [$0.19]
+** Dealing flop ** [ 4s, Ac, 2d ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ Qc ]
+** Summary **
+catpapi shows [ 9c, Jc ]
+mahonzcs shows [ Js, Td ]
+mahonzcs collected [ $0.47 ]
+
+
+#Game No : 520295485
+***** 888poker Hand History for Game 520295485 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 08 2019 19:15:50
+Table Guayaquil 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: mahonzcs ( $3.31 )
+Seat 7: marvinflips ( $1.85 )
+mahonzcs posts small blind [$0.01]
+marvinflips posts big blind [$0.02]
+** Dealing down cards **
+mahonzcs raises [$0.05]
+marvinflips calls [$0.04]
+** Dealing flop ** [ 8d, Kh, Qd ]
+marvinflips checks
+mahonzcs checks
+** Dealing turn ** [ 2s ]
+marvinflips bets [$0.02]
+mahonzcs calls [$0.02]
+** Dealing river ** [ 5c ]
+marvinflips bets [$0.02]
+mahonzcs calls [$0.02]
+** Summary **
+marvinflips shows [ 2c, 9c ]
+mahonzcs shows [ 5d, 9d ]
+mahonzcs collected [ $0.19 ]
+
+
+#Game No : 520295495
+***** 888poker Hand History for Game 520295495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 08 2019 19:15:57
+Table Guayaquil 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: mahonzcs ( $3.40 )
+Seat 7: marvinflips ( $1.75 )
+marvinflips posts small blind [$0.01]
+mahonzcs posts big blind [$0.02]
+** Dealing down cards **
+marvinflips calls [$0.01]
+mahonzcs checks
+** Dealing flop ** [ Jc, 8d, Jh ]
+mahonzcs checks
+marvinflips checks
+** Dealing turn ** [ 4d ]
+mahonzcs bets [$0.03]
+marvinflips raises [$0.06]
+mahonzcs folds
+** Summary **
+marvinflips collected [ $0.10 ]
+
+
+#Game No : 520295950
+***** 888poker Hand History for Game 520295950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 08 2019 19:54:29
+Table Guayaquil 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Dottorre ( $3.86 )
+Seat 10: dcnvmenezes ( $2.32 )
+Dottorre posts small blind [$0.01]
+dcnvmenezes posts big blind [$0.02]
+** Dealing down cards **
+Dottorre calls [$0.01]
+dcnvmenezes checks
+** Dealing flop ** [ 7s, Js, 8h ]
+dcnvmenezes checks
+Dottorre checks
+** Dealing turn ** [ 5s ]
+dcnvmenezes checks
+Dottorre checks
+** Dealing river ** [ 4s ]
+dcnvmenezes checks
+Dottorre checks
+** Summary **
+dcnvmenezes shows [ Jd, Th ]
+Dottorre mucks [ 8d, 9h ]
+dcnvmenezes collected [ $0.04 ]
+
+

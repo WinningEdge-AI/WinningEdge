@@ -1,0 +1,107 @@
+#Game No : 502357584
+***** 888poker Hand History for Game 502357584 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 01:35:24
+Table Madrid 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 236Rsa89 ( $0.26 )
+Seat 6: LexieMurphy ( $1.04 )
+236Rsa89 posts small blind [$0.01]
+LexieMurphy posts big blind [$0.02]
+** Dealing down cards **
+236Rsa89 raises [$0.03]
+LexieMurphy folds
+** Summary **
+236Rsa89 collected [ $0.04 ]
+
+
+#Game No : 502358479
+***** 888poker Hand History for Game 502358479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 02:10:08
+Table Madrid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mypoknow ( $1.52 )
+Seat 4: PRAID789 ( $0.52 )
+mypoknow posts small blind [$0.01]
+PRAID789 posts big blind [$0.02]
+** Dealing down cards **
+mypoknow folds
+** Summary **
+PRAID789 collected [ $0.03 ]
+
+
+#Game No : 502358489
+***** 888poker Hand History for Game 502358489 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 02:10:27
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: 236Rsa89 ( $1 )
+Seat 4: PRAID789 ( $0.53 )
+PRAID789 posts small blind [$0.01]
+236Rsa89 posts big blind [$0.02]
+** Dealing down cards **
+PRAID789 calls [$0.01]
+236Rsa89 checks
+** Dealing flop ** [ 9s, 7c, 3h ]
+236Rsa89 bets [$0.02]
+PRAID789 folds
+** Summary **
+236Rsa89 collected [ $0.04 ]
+
+
+#Game No : 502358923
+***** 888poker Hand History for Game 502358923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 02:29:27
+Table Madrid 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 236Rsa89 ( $1.26 )
+Seat 9: jvalecio ( $1.05 )
+236Rsa89 posts small blind [$0.01]
+jvalecio posts big blind [$0.02]
+** Dealing down cards **
+236Rsa89 raises [$0.03]
+jvalecio calls [$0.02]
+** Dealing flop ** [ 9c, 9d, 6d ]
+jvalecio checks
+236Rsa89 bets [$0.04]
+jvalecio calls [$0.04]
+** Dealing turn ** [ 2c ]
+jvalecio checks
+236Rsa89 bets [$0.02]
+jvalecio raises [$0.07]
+236Rsa89 calls [$0.05]
+** Dealing river ** [ 2d ]
+jvalecio checks
+236Rsa89 checks
+** Summary **
+jvalecio shows [ 6c, 3s ]
+236Rsa89 mucks [ 7s, As ]
+jvalecio collected [ $0.29 ]
+
+
+#Game No : 502358936
+***** 888poker Hand History for Game 502358936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 02:30:12
+Table Madrid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: 236Rsa89 ( $1.11 )
+Seat 9: jvalecio ( $1.19 )
+jvalecio posts small blind [$0.01]
+236Rsa89 posts big blind [$0.02]
+** Dealing down cards **
+jvalecio raises [$0.03]
+236Rsa89 calls [$0.02]
+** Dealing flop ** [ 2s, 6d, 3s ]
+236Rsa89 bets [$0.08]
+jvalecio calls [$0.08]
+** Dealing turn ** [ 2d ]
+236Rsa89 bets [$0.24]
+jvalecio folds
+** Summary **
+236Rsa89 collected [ $0.23 ]
+
+

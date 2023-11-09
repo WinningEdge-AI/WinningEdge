@@ -1,0 +1,65 @@
+#Game No : 515439259
+***** 888poker Hand History for Game 515439259 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 01:37:13
+Table Madison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Hartlepool63 ( $1 )
+Seat 6: zzzzkkkk ( $0.88 )
+Hartlepool63 posts small blind [$0.01]
+zzzzkkkk posts big blind [$0.02]
+** Dealing down cards **
+Hartlepool63 calls [$0.01]
+zzzzkkkk checks
+** Dealing flop ** [ Jc, 5c, Ts ]
+zzzzkkkk bets [$0.02]
+Hartlepool63 raises [$0.04]
+zzzzkkkk raises [$0.04]
+Hartlepool63 calls [$0.02]
+** Dealing turn ** [ Kh ]
+zzzzkkkk bets [$0.02]
+Hartlepool63 calls [$0.02]
+** Dealing river ** [ Qc ]
+zzzzkkkk bets [$0.02]
+Hartlepool63 raises [$0.80]
+zzzzkkkk folds
+** Summary **
+Hartlepool63 collected [ $0.23 ]
+
+
+#Game No : 515439273
+***** 888poker Hand History for Game 515439273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 01:37:24
+Table Madison 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Hartlepool63 ( $1.11 )
+Seat 6: zzzzkkkk ( $0.76 )
+zzzzkkkk posts small blind [$0.01]
+Hartlepool63 posts big blind [$0.02]
+** Dealing down cards **
+zzzzkkkk folds
+** Summary **
+Hartlepool63 collected [ $0.03 ]
+
+
+#Game No : 515439312
+***** 888poker Hand History for Game 515439312 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 01:38:53
+Table Madison 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Byk1994 ( $1.14 )
+Seat 9: ezoterica ( $1 )
+ezoterica posts small blind [$0.01]
+Byk1994 posts big blind [$0.02]
+** Dealing down cards **
+ezoterica raises [$0.05]
+Byk1994 calls [$0.04]
+** Dealing flop ** [ 4c, Ah, 8h ]
+Byk1994 bets [$0.02]
+ezoterica folds
+** Summary **
+Byk1994 collected [ $0.12 ]
+
+

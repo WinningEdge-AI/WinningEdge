@@ -1,0 +1,47 @@
+#Game No : 1208068324
+***** 888poker Hand History for Game 1208068324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 05:49:47
+Table Bridgeport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nmdrms ( $1.06 )
+Seat 7: TomRoss666 ( $1.56 )
+nmdrms posts small blind [$0.01]
+TomRoss666 posts big blind [$0.02]
+** Dealing down cards **
+nmdrms raises [$0.05]
+TomRoss666 calls [$0.04]
+** Dealing flop ** [ 2c, 3h, 3s ]
+TomRoss666 checks
+nmdrms bets [$0.06]
+TomRoss666 calls [$0.06]
+** Dealing turn ** [ 9s ]
+TomRoss666 checks
+nmdrms bets [$0.12]
+TomRoss666 calls [$0.12]
+** Dealing river ** [ Tc ]
+TomRoss666 checks
+nmdrms bets [$0.24]
+TomRoss666 calls [$0.24]
+** Summary **
+nmdrms shows [ Kd, 2d ]
+TomRoss666 mucks [ Js, Ad ]
+nmdrms collected [ $0.90 ]
+
+
+#Game No : 1208068458
+***** 888poker Hand History for Game 1208068458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 05:50:31
+Table Bridgeport 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: nmdrms ( $1.48 )
+Seat 7: TomRoss666 ( $1.08 )
+TomRoss666 posts small blind [$0.01]
+** Dealing down cards **
+nmdrms folds
+** Summary **
+TomRoss666 did not show his hand
+TomRoss666 collected [ $0.01 ]
+
+

@@ -1,0 +1,172 @@
+#Game No : 546856780
+***** 888poker Hand History for Game 546856780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 19:29:05
+Table Emmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: klodianAA83 ( $2.12 )
+Seat 6: edgarfbi ( $2.03 )
+klodianAA83 posts small blind [$0.01]
+** Dealing down cards **
+edgarfbi folds
+** Summary **
+klodianAA83 collected [ $0.01 ]
+
+
+#Game No : 546856781
+***** 888poker Hand History for Game 546856781 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 19:29:08
+Table Emmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: klodianAA83 ( $2.12 )
+Seat 7: yrik222 ( $3.90 )
+klodianAA83 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+klodianAA83 folds
+** Summary **
+yrik222 collected [ $0.03 ]
+
+
+#Game No : 546856786
+***** 888poker Hand History for Game 546856786 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 19:29:15
+Table Emmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: klodianAA83 ( $2.11 )
+Seat 7: yrik222 ( $3.91 )
+yrik222 posts small blind [$0.01]
+klodianAA83 posts big blind [$0.02]
+** Dealing down cards **
+yrik222 raises [$0.05]
+klodianAA83 folds
+** Summary **
+yrik222 collected [ $0.04 ]
+
+
+#Game No : 546856791
+***** 888poker Hand History for Game 546856791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 19:29:28
+Table Emmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: klodianAA83 ( $2.09 )
+Seat 7: yrik222 ( $3.93 )
+klodianAA83 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+klodianAA83 folds
+** Summary **
+yrik222 collected [ $0.03 ]
+
+
+#Game No : 546856805
+***** 888poker Hand History for Game 546856805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 19:30:00
+Table Emmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: yrik222 ( $3.94 )
+Seat 9: Eliak_Saul14 ( $0.80 )
+Eliak_Saul14 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+Eliak_Saul14 calls [$0.01]
+yrik222 checks
+** Dealing flop ** [ Kc, 3h, 6s ]
+yrik222 checks
+Eliak_Saul14 bets [$0.02]
+yrik222 folds
+** Summary **
+Eliak_Saul14 collected [ $0.04 ]
+
+
+#Game No : 546856815
+***** 888poker Hand History for Game 546856815 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 19:30:20
+Table Emmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: yrik222 ( $3.92 )
+Seat 9: Eliak_Saul14 ( $0.82 )
+yrik222 posts small blind [$0.01]
+Eliak_Saul14 posts big blind [$0.02]
+** Dealing down cards **
+yrik222 raises [$0.03]
+Eliak_Saul14 folds
+** Summary **
+yrik222 collected [ $0.04 ]
+
+
+#Game No : 546856820
+***** 888poker Hand History for Game 546856820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 19:30:28
+Table Emmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: yrik222 ( $3.94 )
+Seat 9: Eliak_Saul14 ( $0.80 )
+Eliak_Saul14 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+Eliak_Saul14 calls [$0.01]
+yrik222 checks
+** Dealing flop ** [ 8c, 2h, As ]
+yrik222 checks
+Eliak_Saul14 bets [$0.02]
+yrik222 folds
+** Summary **
+Eliak_Saul14 collected [ $0.04 ]
+
+
+#Game No : 546856829
+***** 888poker Hand History for Game 546856829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 19:30:42
+Table Emmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: yrik222 ( $3.92 )
+Seat 9: Eliak_Saul14 ( $0.82 )
+yrik222 posts small blind [$0.01]
+Eliak_Saul14 posts big blind [$0.02]
+** Dealing down cards **
+yrik222 calls [$0.01]
+Eliak_Saul14 checks
+** Dealing flop ** [ 6h, 6d, Qc ]
+Eliak_Saul14 bets [$0.02]
+yrik222 calls [$0.02]
+** Dealing turn ** [ 5s ]
+Eliak_Saul14 bets [$0.04]
+yrik222 calls [$0.04]
+** Dealing river ** [ Th ]
+Eliak_Saul14 bets [$0.10]
+yrik222 calls [$0.10]
+** Summary **
+Eliak_Saul14 shows [ Kc, 6s ]
+yrik222 mucks [ 4s, Qs ]
+Eliak_Saul14 collected [ $0.34 ]
+
+
+#Game No : 546856853
+***** 888poker Hand History for Game 546856853 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 19:31:24
+Table Emmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: yrik222 ( $3.74 )
+Seat 9: Eliak_Saul14 ( $0.98 )
+Eliak_Saul14 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+Eliak_Saul14 calls [$0.01]
+yrik222 checks
+** Dealing flop ** [ 2c, As, Ah ]
+yrik222 checks
+Eliak_Saul14 bets [$0.02]
+yrik222 folds
+** Summary **
+Eliak_Saul14 collected [ $0.04 ]
+
+

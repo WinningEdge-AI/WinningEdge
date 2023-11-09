@@ -1,0 +1,28 @@
+#Game No : 1196079764
+***** 888poker Hand History for Game 1196079764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 15:22:27
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: agustin8888 ( $0.64 )
+Seat 3: pvpez ( $1.90 )
+agustin8888 posts small blind [$0.01]
+pvpez posts big blind [$0.02]
+** Dealing down cards **
+agustin8888 calls [$0.01]
+pvpez checks
+** Dealing flop ** [ 8d, Qs, 8h ]
+pvpez bets [$0.02]
+agustin8888 raises [$0.08]
+pvpez calls [$0.06]
+** Dealing turn ** [ 3d ]
+pvpez checks
+agustin8888 bets [$0.54]
+pvpez calls [$0.54]
+** Dealing river ** [ 4c ]
+** Summary **
+agustin8888 shows [ Ah, 8c ]
+pvpez shows [ Qc, Ks ]
+agustin8888 collected [ $1.20 ]
+
+

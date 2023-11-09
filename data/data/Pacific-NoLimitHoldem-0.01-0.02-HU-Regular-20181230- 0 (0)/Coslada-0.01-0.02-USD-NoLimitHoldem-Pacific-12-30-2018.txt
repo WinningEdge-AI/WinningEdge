@@ -1,0 +1,80 @@
+#Game No : 459459133
+***** 888poker Hand History for Game 459459133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 16:22:39
+Table Coslada 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ZERO_SUM ( $0.62 )
+Seat 6: KennethCox ( $1.32 )
+KennethCox posts small blind [$0.01]
+ZERO_SUM posts big blind [$0.02]
+** Dealing down cards **
+KennethCox raises [$0.03]
+ZERO_SUM calls [$0.02]
+** Dealing flop ** [ 7c, 6d, 8h ]
+ZERO_SUM checks
+KennethCox bets [$0.04]
+ZERO_SUM raises [$0.12]
+KennethCox raises [$1.24]
+ZERO_SUM calls [$0.46]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 7s ]
+** Summary **
+ZERO_SUM shows [ 8s, Jd ]
+KennethCox shows [ 7h, Jh ]
+KennethCox collected [ $1.17 ]
+
+
+#Game No : 459459188
+***** 888poker Hand History for Game 459459188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 16:24:19
+Table Coslada 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: kasekinis ( $0.89 )
+Seat 6: vilhex ( $2 )
+kasekinis posts small blind [$0.01]
+vilhex posts big blind [$0.02]
+** Dealing down cards **
+kasekinis calls [$0.01]
+vilhex checks
+** Dealing flop ** [ 5d, Js, Qh ]
+vilhex checks
+kasekinis checks
+** Dealing turn ** [ 4c ]
+vilhex checks
+kasekinis checks
+** Dealing river ** [ 7d ]
+vilhex bets [$0.02]
+kasekinis calls [$0.02]
+** Summary **
+vilhex shows [ 6d, 8h ]
+kasekinis mucks [ 9d, 3d ]
+vilhex collected [ $0.08 ]
+
+
+#Game No : 459459197
+***** 888poker Hand History for Game 459459197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 16:24:41
+Table Coslada 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: kasekinis ( $0.85 )
+Seat 6: vilhex ( $2.04 )
+vilhex posts small blind [$0.01]
+kasekinis posts big blind [$0.02]
+** Dealing down cards **
+vilhex calls [$0.01]
+kasekinis checks
+** Dealing flop ** [ 6d, 5d, 7d ]
+kasekinis checks
+vilhex bets [$2.02]
+kasekinis calls [$0.83]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ Js ]
+** Summary **
+kasekinis shows [ 3s, Th ]
+vilhex shows [ 6c, Ah ]
+vilhex collected [ $1.60 ]
+
+

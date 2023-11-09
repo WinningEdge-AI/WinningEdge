@@ -1,0 +1,401 @@
+#Game No : 462233591
+***** 888poker Hand History for Game 462233591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 16:56:58
+Table Allen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: GSINC70 ( $2.52 )
+Seat 6: litros958 ( $1.50 )
+litros958 posts small blind [$0.01]
+GSINC70 posts big blind [$0.02]
+** Dealing down cards **
+litros958 folds
+** Summary **
+GSINC70 did not show his hand
+GSINC70 collected [ $0.03 ]
+
+
+#Game No : 462233601
+***** 888poker Hand History for Game 462233601 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 16:57:23
+Table Allen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: litros958 ( $1.49 )
+Seat 7: Bennygibtdir ( $0.80 )
+litros958 posts small blind [$0.01]
+Bennygibtdir posts big blind [$0.02]
+** Dealing down cards **
+litros958 folds
+** Summary **
+Bennygibtdir did not show his hand
+Bennygibtdir collected [ $0.03 ]
+
+
+#Game No : 462233604
+***** 888poker Hand History for Game 462233604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 16:57:33
+Table Allen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: litros958 ( $1.48 )
+Seat 7: Bennygibtdir ( $0.81 )
+Bennygibtdir posts small blind [$0.01]
+litros958 posts big blind [$0.02]
+** Dealing down cards **
+Bennygibtdir calls [$0.01]
+litros958 checks
+** Dealing flop ** [ 5d, Qh, 4h ]
+litros958 checks
+Bennygibtdir bets [$0.02]
+litros958 folds
+** Summary **
+Bennygibtdir did not show his hand
+Bennygibtdir collected [ $0.04 ]
+
+
+#Game No : 462233612
+***** 888poker Hand History for Game 462233612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 16:57:51
+Table Allen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: litros958 ( $1.46 )
+Seat 7: Bennygibtdir ( $0.83 )
+litros958 posts small blind [$0.01]
+Bennygibtdir posts big blind [$0.02]
+** Dealing down cards **
+litros958 raises [$0.04]
+Bennygibtdir calls [$0.03]
+** Dealing flop ** [ 3c, As, Kc ]
+Bennygibtdir checks
+litros958 bets [$0.06]
+Bennygibtdir folds
+** Summary **
+litros958 collected [ $0.10 ]
+
+
+#Game No : 462233626
+***** 888poker Hand History for Game 462233626 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 16:58:14
+Table Allen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: litros958 ( $1.51 )
+Seat 7: Bennygibtdir ( $0.78 )
+Bennygibtdir posts small blind [$0.01]
+litros958 posts big blind [$0.02]
+** Dealing down cards **
+Bennygibtdir calls [$0.01]
+litros958 checks
+** Dealing flop ** [ Kd, Jc, 6c ]
+litros958 checks
+Bennygibtdir bets [$0.02]
+litros958 calls [$0.02]
+** Dealing turn ** [ Qh ]
+litros958 checks
+Bennygibtdir bets [$0.02]
+litros958 calls [$0.02]
+** Dealing river ** [ 3s ]
+litros958 checks
+Bennygibtdir bets [$0.02]
+litros958 folds
+** Summary **
+Bennygibtdir collected [ $0.12 ]
+
+
+#Game No : 462234239
+***** 888poker Hand History for Game 462234239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 17:30:44
+Table Allen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: andres027 ( $0.86 )
+Seat 7: Bennygibtdir ( $0.80 )
+andres027 posts small blind [$0.01]
+Bennygibtdir posts big blind [$0.02]
+** Dealing down cards **
+andres027 calls [$0.01]
+Bennygibtdir checks
+** Dealing flop ** [ Ah, 7d, 3h ]
+Bennygibtdir checks
+andres027 checks
+** Dealing turn ** [ 9s ]
+Bennygibtdir checks
+andres027 checks
+** Dealing river ** [ 4c ]
+Bennygibtdir bets [$0.16]
+andres027 folds
+** Summary **
+Bennygibtdir did not show his hand
+Bennygibtdir collected [ $0.04 ]
+
+
+#Game No : 462234255
+***** 888poker Hand History for Game 462234255 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 17:31:24
+Table Allen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: andres027 ( $0.84 )
+Seat 7: Bennygibtdir ( $0.82 )
+Bennygibtdir posts small blind [$0.01]
+andres027 posts big blind [$0.02]
+** Dealing down cards **
+Bennygibtdir calls [$0.01]
+andres027 checks
+** Dealing flop ** [ 2c, Ac, Kd ]
+andres027 checks
+Bennygibtdir checks
+** Dealing turn ** [ 8c ]
+andres027 checks
+Bennygibtdir checks
+** Dealing river ** [ 5d ]
+andres027 checks
+Bennygibtdir checks
+** Summary **
+andres027 shows [ 9h, 6c ]
+Bennygibtdir shows [ 8s, Th ]
+Bennygibtdir collected [ $0.04 ]
+
+
+#Game No : 462234265
+***** 888poker Hand History for Game 462234265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 17:32:00
+Table Allen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: andres027 ( $0.82 )
+Seat 7: Bennygibtdir ( $0.84 )
+andres027 posts small blind [$0.01]
+Bennygibtdir posts big blind [$0.02]
+** Dealing down cards **
+andres027 folds
+** Summary **
+Bennygibtdir collected [ $0.03 ]
+
+
+#Game No : 462234267
+***** 888poker Hand History for Game 462234267 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 17:32:10
+Table Allen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: JeffPoker18 ( $0.80 )
+Seat 7: Bennygibtdir ( $0.85 )
+Bennygibtdir posts small blind [$0.01]
+JeffPoker18 posts big blind [$0.02]
+** Dealing down cards **
+Bennygibtdir calls [$0.01]
+JeffPoker18 checks
+** Dealing flop ** [ 7c, 5s, Qh ]
+JeffPoker18 bets [$0.02]
+Bennygibtdir folds
+** Summary **
+JeffPoker18 collected [ $0.04 ]
+
+
+#Game No : 462234274
+***** 888poker Hand History for Game 462234274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 17:32:30
+Table Allen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JeffPoker18 ( $0.82 )
+Seat 7: Bennygibtdir ( $0.83 )
+JeffPoker18 posts small blind [$0.01]
+Bennygibtdir posts big blind [$0.02]
+** Dealing down cards **
+JeffPoker18 calls [$0.01]
+Bennygibtdir checks
+** Dealing flop ** [ Ts, Td, 7h ]
+Bennygibtdir checks
+JeffPoker18 checks
+** Dealing turn ** [ Qh ]
+Bennygibtdir checks
+JeffPoker18 checks
+** Dealing river ** [ Kh ]
+Bennygibtdir checks
+JeffPoker18 checks
+** Summary **
+Bennygibtdir shows [ 4d, 9c ]
+JeffPoker18 shows [ As, 5s ]
+JeffPoker18 collected [ $0.04 ]
+
+
+#Game No : 462234408
+***** 888poker Hand History for Game 462234408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 17:40:22
+Table Allen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: JimmyZero ( $0.81 )
+Seat 9: yasha17 ( $2.44 )
+yasha17 posts small blind [$0.01]
+JimmyZero posts big blind [$0.02]
+** Dealing down cards **
+yasha17 raises [$0.05]
+JimmyZero calls [$0.04]
+** Dealing flop ** [ Td, Qs, 4d ]
+JimmyZero checks
+yasha17 checks
+** Dealing turn ** [ Jd ]
+JimmyZero bets [$0.06]
+yasha17 folds
+** Summary **
+JimmyZero collected [ $0.12 ]
+
+
+#Game No : 525414431
+***** 888poker Hand History for Game 525414431 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 08:26:14
+Table Allen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: AWT1551 ( $0.78 )
+Seat 6: skuzmanovski ( $1.02 )
+skuzmanovski posts small blind [$0.01]
+AWT1551 posts big blind [$0.02]
+** Dealing down cards **
+skuzmanovski raises [$0.05]
+AWT1551 folds
+** Summary **
+skuzmanovski collected [ $0.04 ]
+
+
+#Game No : 525430625
+***** 888poker Hand History for Game 525430625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 11:19:48
+Table Allen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Kiyanka ( $1.18 )
+Seat 7: dmitb ( $1.12 )
+dmitb posts small blind [$0.01]
+Kiyanka posts big blind [$0.02]
+** Dealing down cards **
+dmitb raises [$0.05]
+Kiyanka folds
+** Summary **
+dmitb collected [ $0.04 ]
+
+
+#Game No : 525430676
+***** 888poker Hand History for Game 525430676 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 11:20:17
+Table Allen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kiyanka ( $1.16 )
+Seat 7: dmitb ( $1.14 )
+Kiyanka posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+Kiyanka folds
+** Summary **
+dmitb collected [ $0.03 ]
+
+
+#Game No : 525446010
+***** 888poker Hand History for Game 525446010 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 13:54:18
+Table Allen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tahur0 ( $1 )
+Seat 7: Tevo667 ( $2.09 )
+tahur0 posts small blind [$0.01]
+Tevo667 posts big blind [$0.02]
+** Dealing down cards **
+tahur0 raises [$0.05]
+Tevo667 folds
+** Summary **
+tahur0 collected [ $0.04 ]
+
+
+#Game No : 525446230
+***** 888poker Hand History for Game 525446230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 13:56:47
+Table Allen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: tahur0 ( $1.32 )
+Seat 4: Ziffa008 ( $0.46 )
+Ziffa008 posts small blind [$0.01]
+** Dealing down cards **
+tahur0 folds
+** Summary **
+Ziffa008 collected [ $0.01 ]
+
+
+#Game No : 525446271
+***** 888poker Hand History for Game 525446271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 13:57:10
+Table Allen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Ziffa008 ( $0.46 )
+Seat 6: Salazar21 ( $0.80 )
+Salazar21 posts small blind [$0.01]
+Ziffa008 posts big blind [$0.02]
+** Dealing down cards **
+Salazar21 raises [$0.03]
+Ziffa008 calls [$0.02]
+** Dealing flop ** [ 6d, 5d, Jh ]
+Ziffa008 checks
+Salazar21 bets [$0.02]
+Ziffa008 raises [$0.06]
+Salazar21 folds
+** Summary **
+Ziffa008 collected [ $0.12 ]
+
+
+#Game No : 525446304
+***** 888poker Hand History for Game 525446304 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 13:57:34
+Table Allen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Ziffa008 ( $0.52 )
+Seat 6: Salazar21 ( $0.74 )
+Ziffa008 posts small blind [$0.01]
+Salazar21 posts big blind [$0.02]
+** Dealing down cards **
+Ziffa008 raises [$0.03]
+Salazar21 calls [$0.02]
+** Dealing flop ** [ 8d, 8c, 6c ]
+Salazar21 checks
+Ziffa008 checks
+** Dealing turn ** [ 4s ]
+Salazar21 checks
+Ziffa008 bets [$0.04]
+Salazar21 calls [$0.04]
+** Dealing river ** [ Ks ]
+Salazar21 bets [$0.08]
+Ziffa008 calls [$0.08]
+** Summary **
+Salazar21 shows [ 3s, 7s ]
+Ziffa008 shows [ Kh, 9d ]
+Ziffa008 collected [ $0.30 ]
+
+
+#Game No : 525446355
+***** 888poker Hand History for Game 525446355 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 13:58:09
+Table Allen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Ziffa008 ( $0.66 )
+Seat 6: Salazar21 ( $0.58 )
+Salazar21 posts small blind [$0.01]
+Ziffa008 posts big blind [$0.02]
+** Dealing down cards **
+Salazar21 calls [$0.01]
+Ziffa008 checks
+** Dealing flop ** [ Tc, 9c, 6d ]
+Ziffa008 bets [$0.02]
+Salazar21 folds
+** Summary **
+Ziffa008 collected [ $0.04 ]
+
+

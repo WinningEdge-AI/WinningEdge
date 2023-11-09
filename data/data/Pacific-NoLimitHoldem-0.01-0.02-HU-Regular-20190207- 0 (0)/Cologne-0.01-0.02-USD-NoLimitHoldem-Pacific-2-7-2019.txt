@@ -1,0 +1,29 @@
+#Game No : 615318319
+***** 888poker Hand History for Game 615318319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 04:11:27
+Table Cologne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: maryannvenz ( $2 )
+Seat 6: zdarova8729 ( $2 )
+maryannvenz posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+maryannvenz calls [$0.01]
+zdarova8729 raises [$0.06]
+maryannvenz calls [$0.06]
+** Dealing flop ** [ Qh, As, 3h ]
+zdarova8729 bets [$0.12]
+maryannvenz calls [$0.12]
+** Dealing turn ** [ Qs ]
+zdarova8729 checks
+maryannvenz checks
+** Dealing river ** [ 7d ]
+zdarova8729 checks
+maryannvenz checks
+** Summary **
+zdarova8729 shows [ 2s, 2h ]
+maryannvenz shows [ Th, Qc ]
+maryannvenz collected [ $0.38 ]
+
+

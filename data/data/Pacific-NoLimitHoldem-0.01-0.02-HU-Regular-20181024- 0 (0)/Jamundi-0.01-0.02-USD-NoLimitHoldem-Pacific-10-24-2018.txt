@@ -1,0 +1,521 @@
+#Game No : 504268482
+***** 888poker Hand History for Game 504268482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 10:56:52
+Table Jamundi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Karpotravma ( $1.39 )
+Seat 9: Art.service ( $0.97 )
+Karpotravma posts small blind [$0.01]
+Art.service posts big blind [$0.02]
+** Dealing down cards **
+Karpotravma folds
+** Summary **
+Art.service collected [ $0.03 ]
+
+
+#Game No : 504268492
+***** 888poker Hand History for Game 504268492 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 10:56:59
+Table Jamundi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Karpotravma ( $1.38 )
+Seat 9: Art.service ( $0.98 )
+Art.service posts small blind [$0.01]
+Karpotravma posts big blind [$0.02]
+** Dealing down cards **
+Art.service raises [$0.03]
+Karpotravma calls [$0.02]
+** Dealing flop ** [ 6h, 5h, 6s ]
+Karpotravma checks
+Art.service folds
+** Summary **
+Karpotravma collected [ $0.08 ]
+
+
+#Game No : 504268518
+***** 888poker Hand History for Game 504268518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 10:57:22
+Table Jamundi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Karpotravma ( $1.42 )
+Seat 9: Art.service ( $0.94 )
+Karpotravma posts small blind [$0.01]
+Art.service posts big blind [$0.02]
+** Dealing down cards **
+Karpotravma calls [$0.01]
+Art.service raises [$0.02]
+Karpotravma calls [$0.02]
+** Dealing flop ** [ As, 2h, 3s ]
+Art.service checks
+Karpotravma checks
+** Dealing turn ** [ Kh ]
+Art.service checks
+Karpotravma checks
+** Dealing river ** [ 6c ]
+Art.service checks
+Karpotravma checks
+** Summary **
+Art.service shows [ 5c, 5h ]
+Karpotravma mucks [ 5s, 8s ]
+Art.service collected [ $0.08 ]
+
+
+#Game No : 504268564
+***** 888poker Hand History for Game 504268564 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 10:58:03
+Table Jamundi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Karpotravma ( $1.38 )
+Seat 9: Art.service ( $0.98 )
+Art.service posts small blind [$0.01]
+Karpotravma posts big blind [$0.02]
+** Dealing down cards **
+Art.service folds
+** Summary **
+Karpotravma collected [ $0.03 ]
+
+
+#Game No : 504270630
+***** 888poker Hand History for Game 504270630 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:29:50
+Table Jamundi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: C.T.A.B.K.A ( $2.08 )
+Seat 9: PauljohnWard ( $1 )
+PauljohnWard posts small blind [$0.01]
+C.T.A.B.K.A posts big blind [$0.02]
+** Dealing down cards **
+PauljohnWard calls [$0.01]
+C.T.A.B.K.A raises [$0.06]
+PauljohnWard calls [$0.06]
+** Dealing flop ** [ 7h, Th, 8c ]
+C.T.A.B.K.A bets [$0.10]
+PauljohnWard raises [$0.46]
+C.T.A.B.K.A folds
+** Summary **
+PauljohnWard collected [ $0.34 ]
+
+
+#Game No : 504270667
+***** 888poker Hand History for Game 504270667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:30:22
+Table Jamundi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: C.T.A.B.K.A ( $1.90 )
+Seat 9: PauljohnWard ( $1.16 )
+C.T.A.B.K.A posts small blind [$0.01]
+PauljohnWard posts big blind [$0.02]
+** Dealing down cards **
+C.T.A.B.K.A raises [$0.05]
+PauljohnWard calls [$0.04]
+** Dealing flop ** [ As, 4s, 5s ]
+PauljohnWard bets [$0.02]
+C.T.A.B.K.A folds
+** Summary **
+PauljohnWard collected [ $0.12 ]
+
+
+#Game No : 504270828
+***** 888poker Hand History for Game 504270828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:32:45
+Table Jamundi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $1.11 )
+Seat 9: PauljohnWard ( $1.09 )
+PauljohnWard posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+PauljohnWard calls [$0.01]
+jeromakay checks
+** Dealing flop ** [ 2h, As, 5c ]
+jeromakay checks
+PauljohnWard checks
+** Dealing turn ** [ 5s ]
+jeromakay checks
+PauljohnWard checks
+** Dealing river ** [ 7d ]
+jeromakay bets [$0.04]
+PauljohnWard calls [$0.04]
+** Summary **
+jeromakay shows [ Qc, 5d ]
+PauljohnWard mucks [ Jd, 7h ]
+jeromakay collected [ $0.12 ]
+
+
+#Game No : 504270863
+***** 888poker Hand History for Game 504270863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:33:17
+Table Jamundi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $1.17 )
+Seat 9: PauljohnWard ( $1.03 )
+jeromakay posts small blind [$0.01]
+PauljohnWard posts big blind [$0.02]
+** Dealing down cards **
+jeromakay calls [$0.01]
+PauljohnWard checks
+** Dealing flop ** [ 3c, 9c, Kc ]
+PauljohnWard checks
+jeromakay bets [$0.02]
+PauljohnWard folds
+** Summary **
+jeromakay collected [ $0.04 ]
+
+
+#Game No : 504270885
+***** 888poker Hand History for Game 504270885 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:33:39
+Table Jamundi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $1.19 )
+Seat 9: PauljohnWard ( $1.01 )
+PauljohnWard posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+PauljohnWard raises [$0.03]
+jeromakay folds
+** Summary **
+PauljohnWard collected [ $0.04 ]
+
+
+#Game No : 504271047
+***** 888poker Hand History for Game 504271047 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:35:59
+Table Jamundi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $2.06 )
+Seat 6: proc69 ( $1 )
+proc69 posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+proc69 folds
+** Summary **
+jeromakay collected [ $0.03 ]
+
+
+#Game No : 504271052
+***** 888poker Hand History for Game 504271052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:36:05
+Table Jamundi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $2.07 )
+Seat 6: proc69 ( $0.99 )
+jeromakay posts small blind [$0.01]
+proc69 posts big blind [$0.02]
+** Dealing down cards **
+jeromakay calls [$0.01]
+proc69 checks
+** Dealing flop ** [ Kh, 3s, Jd ]
+proc69 checks
+jeromakay checks
+** Dealing turn ** [ 8h ]
+proc69 checks
+jeromakay checks
+** Dealing river ** [ 6h ]
+proc69 checks
+jeromakay checks
+** Summary **
+proc69 shows [ 5s, Td ]
+jeromakay mucks [ 4s, 9s ]
+proc69 collected [ $0.04 ]
+
+
+#Game No : 504271087
+***** 888poker Hand History for Game 504271087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:36:35
+Table Jamundi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $2.05 )
+Seat 6: proc69 ( $1.01 )
+proc69 posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+proc69 folds
+** Summary **
+jeromakay collected [ $0.03 ]
+
+
+#Game No : 504271097
+***** 888poker Hand History for Game 504271097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:36:41
+Table Jamundi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $2.06 )
+Seat 6: proc69 ( $1 )
+jeromakay posts small blind [$0.01]
+proc69 posts big blind [$0.02]
+** Dealing down cards **
+jeromakay folds
+** Summary **
+proc69 collected [ $0.03 ]
+
+
+#Game No : 504271115
+***** 888poker Hand History for Game 504271115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:36:50
+Table Jamundi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $2.05 )
+Seat 6: proc69 ( $1.01 )
+proc69 posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+proc69 folds
+** Summary **
+jeromakay collected [ $0.03 ]
+
+
+#Game No : 504271138
+***** 888poker Hand History for Game 504271138 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:37:10
+Table Jamundi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $2.07 )
+Seat 6: proc69 ( $0.99 )
+proc69 posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+proc69 folds
+** Summary **
+jeromakay collected [ $0.03 ]
+
+
+#Game No : 504271150
+***** 888poker Hand History for Game 504271150 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:37:18
+Table Jamundi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $2.08 )
+Seat 6: proc69 ( $0.98 )
+jeromakay posts small blind [$0.01]
+proc69 posts big blind [$0.02]
+** Dealing down cards **
+jeromakay calls [$0.01]
+proc69 checks
+** Dealing flop ** [ 4s, 6s, Ad ]
+proc69 checks
+jeromakay checks
+** Dealing turn ** [ 9c ]
+proc69 bets [$0.04]
+jeromakay calls [$0.04]
+** Dealing river ** [ 5s ]
+proc69 checks
+jeromakay checks
+** Summary **
+proc69 shows [ 8s, 9d ]
+jeromakay mucks [ 8c, 6c ]
+proc69 collected [ $0.12 ]
+
+
+#Game No : 504271215
+***** 888poker Hand History for Game 504271215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:38:08
+Table Jamundi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $2.02 )
+Seat 6: proc69 ( $1.04 )
+proc69 posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+proc69 folds
+** Summary **
+jeromakay collected [ $0.03 ]
+
+
+#Game No : 504271226
+***** 888poker Hand History for Game 504271226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:38:17
+Table Jamundi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $2.03 )
+Seat 6: proc69 ( $1.03 )
+jeromakay posts small blind [$0.01]
+proc69 posts big blind [$0.02]
+** Dealing down cards **
+jeromakay calls [$0.01]
+proc69 checks
+** Dealing flop ** [ 8c, 4s, Qd ]
+proc69 checks
+jeromakay checks
+** Dealing turn ** [ Ac ]
+proc69 bets [$0.04]
+jeromakay calls [$0.04]
+** Dealing river ** [ Jh ]
+proc69 bets [$0.06]
+jeromakay calls [$0.06]
+** Summary **
+proc69 shows [ 7h, Ad ]
+jeromakay mucks [ Tc, Qs ]
+proc69 collected [ $0.23 ]
+
+
+#Game No : 504271274
+***** 888poker Hand History for Game 504271274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:39:00
+Table Jamundi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $1.91 )
+Seat 6: proc69 ( $1.14 )
+proc69 posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+proc69 folds
+** Summary **
+jeromakay collected [ $0.03 ]
+
+
+#Game No : 504271284
+***** 888poker Hand History for Game 504271284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:39:07
+Table Jamundi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $1.92 )
+Seat 6: proc69 ( $1.13 )
+jeromakay posts small blind [$0.01]
+proc69 posts big blind [$0.02]
+** Dealing down cards **
+jeromakay raises [$0.03]
+proc69 folds
+** Summary **
+jeromakay collected [ $0.04 ]
+
+
+#Game No : 504271299
+***** 888poker Hand History for Game 504271299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:39:18
+Table Jamundi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $1.94 )
+Seat 6: proc69 ( $1.11 )
+proc69 posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+proc69 calls [$0.01]
+jeromakay raises [$0.04]
+proc69 folds
+** Summary **
+jeromakay did not show his hand
+jeromakay collected [ $0.04 ]
+
+
+#Game No : 504271345
+***** 888poker Hand History for Game 504271345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:39:57
+Table Jamundi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $1.96 )
+Seat 6: proc69 ( $1.09 )
+jeromakay posts small blind [$0.01]
+proc69 posts big blind [$0.02]
+** Dealing down cards **
+jeromakay raises [$0.03]
+proc69 folds
+** Summary **
+jeromakay did not show his hand
+jeromakay collected [ $0.04 ]
+
+
+#Game No : 504271371
+***** 888poker Hand History for Game 504271371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:40:15
+Table Jamundi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jeromakay ( $1.98 )
+Seat 6: proc69 ( $1.07 )
+proc69 posts small blind [$0.01]
+jeromakay posts big blind [$0.02]
+** Dealing down cards **
+proc69 calls [$0.01]
+jeromakay checks
+** Dealing flop ** [ 9h, Jh, Ks ]
+jeromakay checks
+proc69 bets [$0.04]
+jeromakay calls [$0.04]
+** Dealing turn ** [ 8d ]
+jeromakay checks
+proc69 checks
+** Dealing river ** [ 3h ]
+jeromakay bets [$0.04]
+proc69 folds
+** Summary **
+jeromakay collected [ $0.12 ]
+
+
+#Game No : 504272456
+***** 888poker Hand History for Game 504272456 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:55:17
+Table Jamundi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ChiliCall ( $1.97 )
+Seat 6: kazbek6469 ( $2.34 )
+kazbek6469 posts small blind [$0.01]
+ChiliCall posts big blind [$0.02]
+** Dealing down cards **
+kazbek6469 calls [$0.01]
+ChiliCall checks
+** Dealing flop ** [ 5s, 6c, 4d ]
+ChiliCall bets [$0.04]
+kazbek6469 raises [$0.12]
+ChiliCall calls [$0.08]
+** Dealing turn ** [ Qd ]
+ChiliCall checks
+kazbek6469 checks
+** Dealing river ** [ Ts ]
+ChiliCall checks
+kazbek6469 checks
+** Summary **
+ChiliCall shows [ 7c, 4h ]
+kazbek6469 mucks [ As, 9c ]
+ChiliCall collected [ $0.27 ]
+
+
+#Game No : 504272500
+***** 888poker Hand History for Game 504272500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 11:55:55
+Table Jamundi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ChiliCall ( $2.10 )
+Seat 7: vik72manu ( $1 )
+ChiliCall posts small blind [$0.01]
+vik72manu posts big blind [$0.02]
+** Dealing down cards **
+ChiliCall raises [$0.05]
+vik72manu calls [$0.04]
+** Dealing flop ** [ Qh, 4h, 3s ]
+vik72manu checks
+ChiliCall checks
+** Dealing turn ** [ Ad ]
+vik72manu checks
+ChiliCall checks
+** Dealing river ** [ 8d ]
+vik72manu bets [$0.12]
+ChiliCall folds
+** Summary **
+vik72manu collected [ $0.12 ]
+
+

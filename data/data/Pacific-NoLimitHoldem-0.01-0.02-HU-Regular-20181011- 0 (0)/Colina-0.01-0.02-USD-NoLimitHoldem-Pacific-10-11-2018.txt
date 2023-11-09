@@ -1,0 +1,890 @@
+#Game No : 503646747
+***** 888poker Hand History for Game 503646747 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 10:00:14
+Table Colina 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.81 )
+Seat 6: kevmacdonald ( $0.99 )
+JS888FU posts small blind [$0.01]
+kevmacdonald posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+kevmacdonald checks
+** Dealing flop ** [ 3d, 9c, Kc ]
+kevmacdonald bets [$0.04]
+JS888FU calls [$0.04]
+** Dealing turn ** [ 8h ]
+kevmacdonald bets [$0.12]
+JS888FU calls [$0.12]
+** Dealing river ** [ As ]
+kevmacdonald checks
+JS888FU checks
+** Summary **
+kevmacdonald shows [ Jc, Js ]
+JS888FU shows [ Kh, 6c ]
+JS888FU collected [ $0.34 ]
+
+
+#Game No : 503646769
+***** 888poker Hand History for Game 503646769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 10:00:25
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.97 )
+Seat 6: kevmacdonald ( $0.81 )
+kevmacdonald posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+kevmacdonald calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 6h, 7c, Td ]
+JS888FU checks
+kevmacdonald checks
+** Dealing turn ** [ 8c ]
+JS888FU checks
+kevmacdonald checks
+** Dealing river ** [ 2c ]
+JS888FU checks
+kevmacdonald checks
+** Summary **
+JS888FU shows [ 6d, Kd ]
+kevmacdonald mucks [ 5c, 5h ]
+JS888FU collected [ $0.04 ]
+
+
+#Game No : 503657251
+***** 888poker Hand History for Game 503657251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 12:59:49
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $4.09 )
+Seat 7: Varmint777 ( $1.70 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.03 ]
+
+
+#Game No : 503657260
+***** 888poker Hand History for Game 503657260 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 12:59:59
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $4.08 )
+Seat 7: Varmint777 ( $1.71 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 raises [$0.05]
+monkey3389 calls [$0.04]
+** Dealing flop ** [ As, Qs, 7d ]
+monkey3389 bets [$0.06]
+Varmint777 raises [$1.65]
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.23 ]
+
+
+#Game No : 503657274
+***** 888poker Hand History for Game 503657274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:00:18
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $3.96 )
+Seat 7: Varmint777 ( $1.82 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 raises [$0.05]
+Varmint777 calls [$0.04]
+** Dealing flop ** [ 3d, As, Td ]
+Varmint777 checks
+monkey3389 bets [$0.04]
+Varmint777 raises [$0.17]
+monkey3389 raises [$0.52]
+Varmint777 calls [$0.39]
+** Dealing turn ** [ Ac ]
+Varmint777 checks
+monkey3389 checks
+** Dealing river ** [ 5d ]
+Varmint777 bets [$0.62]
+monkey3389 raises [$1.38]
+Varmint777 calls [$0.58]
+** Summary **
+monkey3389 shows [ Th, Ts ]
+Varmint777 shows [ 8d, 9d ]
+monkey3389 collected [ $3.42 ]
+
+
+#Game No : 503657319
+***** 888poker Hand History for Game 503657319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:01
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.56 )
+Seat 7: Varmint777 ( $1 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 raises [$0.05]
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.04 ]
+
+
+#Game No : 503657326
+***** 888poker Hand History for Game 503657326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:09
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.54 )
+Seat 7: Varmint777 ( $1.02 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 raises [$0.05]
+Varmint777 raises [$0.16]
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.12 ]
+
+
+#Game No : 503657335
+***** 888poker Hand History for Game 503657335 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:20
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.48 )
+Seat 7: Varmint777 ( $1.08 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 folds
+** Summary **
+monkey3389 collected [ $0.03 ]
+
+
+#Game No : 503657339
+***** 888poker Hand History for Game 503657339 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:24
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.49 )
+Seat 7: Varmint777 ( $1.07 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.03 ]
+
+
+#Game No : 503657345
+***** 888poker Hand History for Game 503657345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:29
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.48 )
+Seat 7: Varmint777 ( $1.08 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 folds
+** Summary **
+monkey3389 collected [ $0.03 ]
+
+
+#Game No : 503657357
+***** 888poker Hand History for Game 503657357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:34
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.49 )
+Seat 7: Varmint777 ( $1.07 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.03 ]
+
+
+#Game No : 503657365
+***** 888poker Hand History for Game 503657365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:41
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.48 )
+Seat 7: Varmint777 ( $1.08 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 folds
+** Summary **
+monkey3389 collected [ $0.03 ]
+
+
+#Game No : 503657370
+***** 888poker Hand History for Game 503657370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:46
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.49 )
+Seat 7: Varmint777 ( $1.07 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.03 ]
+
+
+#Game No : 503657376
+***** 888poker Hand History for Game 503657376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:54
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.48 )
+Seat 7: Varmint777 ( $1.08 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 folds
+** Summary **
+monkey3389 collected [ $0.03 ]
+
+
+#Game No : 503657381
+***** 888poker Hand History for Game 503657381 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:01:59
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.49 )
+Seat 7: Varmint777 ( $1.07 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 raises [$0.05]
+Varmint777 raises [$0.16]
+monkey3389 raises [$0.46]
+Varmint777 folds
+** Summary **
+monkey3389 collected [ $0.36 ]
+
+
+#Game No : 503657405
+***** 888poker Hand History for Game 503657405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:02:15
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.67 )
+Seat 7: Varmint777 ( $1 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 folds
+** Summary **
+monkey3389 collected [ $0.03 ]
+
+
+#Game No : 503657409
+***** 888poker Hand History for Game 503657409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:02:21
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.68 )
+Seat 7: Varmint777 ( $1 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.03 ]
+
+
+#Game No : 503657413
+***** 888poker Hand History for Game 503657413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:02:26
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $5.67 )
+Seat 7: Varmint777 ( $1.01 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 raises [$0.05]
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.04 ]
+
+
+#Game No : 503657913
+***** 888poker Hand History for Game 503657913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:10:42
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $4.99 )
+Seat 7: Varmint777 ( $2.33 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.03 ]
+
+
+#Game No : 503657920
+***** 888poker Hand History for Game 503657920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:10:47
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $4.98 )
+Seat 7: Varmint777 ( $2.34 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 raises [$0.05]
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.04 ]
+
+
+#Game No : 503657930
+***** 888poker Hand History for Game 503657930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:10:58
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $4.96 )
+Seat 7: Varmint777 ( $2.36 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 calls [$0.01]
+Varmint777 raises [$0.04]
+monkey3389 calls [$0.04]
+** Dealing flop ** [ Ks, Td, 9s ]
+Varmint777 checks
+monkey3389 bets [$0.06]
+Varmint777 raises [$0.18]
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.23 ]
+
+
+#Game No : 503657960
+***** 888poker Hand History for Game 503657960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:11:21
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $4.84 )
+Seat 7: Varmint777 ( $2.47 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 raises [$0.05]
+monkey3389 calls [$0.04]
+** Dealing flop ** [ Kd, 8c, 8s ]
+monkey3389 checks
+Varmint777 bets [$0.08]
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.12 ]
+
+
+#Game No : 503657985
+***** 888poker Hand History for Game 503657985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:11:55
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $4.78 )
+Seat 7: Varmint777 ( $2.53 )
+monkey3389 posts small blind [$0.01]
+Varmint777 posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.03 ]
+
+
+#Game No : 503658000
+***** 888poker Hand History for Game 503658000 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:12:10
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: monkey3389 ( $4.77 )
+Seat 7: Varmint777 ( $2.54 )
+Varmint777 posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+Varmint777 raises [$0.05]
+monkey3389 folds
+** Summary **
+Varmint777 collected [ $0.04 ]
+
+
+#Game No : 503658568
+***** 888poker Hand History for Game 503658568 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:21:40
+Table Colina 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: LukaPup ( $0.76 )
+Seat 6: monkey3389 ( $5.08 )
+LukaPup posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+LukaPup calls [$0.01]
+monkey3389 checks
+** Dealing flop ** [ 6s, 9c, 5c ]
+LukaPup checks
+monkey3389 checks
+** Dealing turn ** [ Qd ]
+LukaPup bets [$0.02]
+monkey3389 folds
+** Summary **
+LukaPup collected [ $0.04 ]
+
+
+#Game No : 503658592
+***** 888poker Hand History for Game 503658592 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:22:03
+Table Colina 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LukaPup ( $0.78 )
+Seat 6: monkey3389 ( $5.06 )
+LukaPup posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+LukaPup calls [$0.01]
+monkey3389 checks
+** Dealing flop ** [ Tc, Kh, 7s ]
+monkey3389 checks
+LukaPup checks
+** Dealing turn ** [ 8s ]
+monkey3389 bets [$0.02]
+LukaPup calls [$0.02]
+** Dealing river ** [ 6d ]
+monkey3389 bets [$0.04]
+LukaPup raises [$0.34]
+monkey3389 folds
+** Summary **
+LukaPup collected [ $0.15 ]
+
+
+#Game No : 503658616
+***** 888poker Hand History for Game 503658616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:22:30
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: LukaPup ( $0.85 )
+Seat 6: monkey3389 ( $4.98 )
+monkey3389 posts small blind [$0.01]
+LukaPup posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+LukaPup collected [ $0.03 ]
+
+
+#Game No : 503658620
+***** 888poker Hand History for Game 503658620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:22:35
+Table Colina 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LukaPup ( $0.86 )
+Seat 6: monkey3389 ( $4.97 )
+LukaPup posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+LukaPup calls [$0.01]
+monkey3389 checks
+** Dealing flop ** [ 7h, Qs, 3s ]
+monkey3389 checks
+LukaPup checks
+** Dealing turn ** [ 8c ]
+monkey3389 checks
+LukaPup checks
+** Dealing river ** [ Kd ]
+monkey3389 bets [$0.02]
+LukaPup folds
+** Summary **
+monkey3389 collected [ $0.04 ]
+
+
+#Game No : 503658632
+***** 888poker Hand History for Game 503658632 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:22:52
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: LukaPup ( $0.84 )
+Seat 6: monkey3389 ( $4.99 )
+monkey3389 posts small blind [$0.01]
+LukaPup posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 raises [$0.03]
+LukaPup calls [$0.02]
+** Dealing flop ** [ Tc, Qh, Ah ]
+LukaPup bets [$0.02]
+monkey3389 calls [$0.02]
+** Dealing turn ** [ 4c ]
+LukaPup bets [$0.10]
+monkey3389 folds
+** Summary **
+LukaPup collected [ $0.12 ]
+
+
+#Game No : 503658655
+***** 888poker Hand History for Game 503658655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:23:17
+Table Colina 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LukaPup ( $0.90 )
+Seat 6: monkey3389 ( $4.93 )
+LukaPup posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+LukaPup raises [$0.03]
+monkey3389 folds
+** Summary **
+LukaPup collected [ $0.04 ]
+
+
+#Game No : 503658664
+***** 888poker Hand History for Game 503658664 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:23:27
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: LukaPup ( $0.92 )
+Seat 6: monkey3389 ( $4.91 )
+monkey3389 posts small blind [$0.01]
+LukaPup posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+LukaPup collected [ $0.03 ]
+
+
+#Game No : 503658672
+***** 888poker Hand History for Game 503658672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:23:32
+Table Colina 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LukaPup ( $0.93 )
+Seat 6: monkey3389 ( $4.90 )
+LukaPup posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+LukaPup calls [$0.01]
+monkey3389 checks
+** Dealing flop ** [ Qh, Jd, Js ]
+monkey3389 bets [$0.04]
+LukaPup raises [$0.08]
+monkey3389 folds
+** Summary **
+LukaPup collected [ $0.12 ]
+
+
+#Game No : 503658686
+***** 888poker Hand History for Game 503658686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:23:47
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: LukaPup ( $0.99 )
+Seat 6: monkey3389 ( $4.84 )
+monkey3389 posts small blind [$0.01]
+LukaPup posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+LukaPup collected [ $0.03 ]
+
+
+#Game No : 503660109
+***** 888poker Hand History for Game 503660109 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:49:28
+Table Colina 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SteinsXI ( $0.80 )
+Seat 6: monkey3389 ( $4.85 )
+SteinsXI posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+SteinsXI raises [$0.03]
+monkey3389 raises [$0.08]
+SteinsXI calls [$0.06]
+** Dealing flop ** [ 4s, 5h, Td ]
+monkey3389 bets [$0.08]
+SteinsXI calls [$0.08]
+** Dealing turn ** [ 7d ]
+monkey3389 bets [$0.04]
+SteinsXI calls [$0.04]
+** Dealing river ** [ Jd ]
+monkey3389 bets [$0.02]
+SteinsXI raises [$0.08]
+monkey3389 calls [$0.06]
+** Summary **
+SteinsXI shows [ Ac, 3c ]
+monkey3389 shows [ Ad, Kc ]
+monkey3389 collected [ $0.57 ]
+
+
+#Game No : 503660144
+***** 888poker Hand History for Game 503660144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:50:09
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: SteinsXI ( $0.50 )
+Seat 6: monkey3389 ( $5.12 )
+monkey3389 posts small blind [$0.01]
+SteinsXI posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 raises [$0.05]
+SteinsXI raises [$0.08]
+monkey3389 calls [$0.04]
+** Dealing flop ** [ Th, Jc, 4d ]
+SteinsXI bets [$0.08]
+monkey3389 calls [$0.08]
+** Dealing turn ** [ As ]
+SteinsXI bets [$0.08]
+monkey3389 calls [$0.08]
+** Dealing river ** [ 5s ]
+SteinsXI bets [$0.10]
+monkey3389 raises [$0.26]
+SteinsXI calls [$0.14]
+** Summary **
+SteinsXI shows [ 6c, 6s ]
+monkey3389 shows [ Ks, Qh ]
+monkey3389 collected [ $0.94 ]
+
+
+#Game No : 503660656
+***** 888poker Hand History for Game 503660656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:01:16
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: SteinsXI ( $1.43 )
+Seat 6: monkey3389 ( $5.06 )
+monkey3389 posts small blind [$0.01]
+SteinsXI posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 calls [$0.01]
+SteinsXI checks
+** Dealing flop ** [ Qs, Tc, 5d ]
+SteinsXI checks
+monkey3389 bets [$0.02]
+SteinsXI calls [$0.02]
+** Dealing turn ** [ 6s ]
+SteinsXI bets [$0.02]
+monkey3389 raises [$0.06]
+SteinsXI calls [$0.04]
+** Dealing river ** [ 3d ]
+SteinsXI checks
+monkey3389 bets [$0.10]
+SteinsXI folds
+** Summary **
+monkey3389 collected [ $0.19 ]
+
+
+#Game No : 503662625
+***** 888poker Hand History for Game 503662625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:46:59
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SabikVip ( $1.92 )
+Seat 6: monkey3389 ( $6.52 )
+monkey3389 posts small blind [$0.01]
+SabikVip posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 raises [$0.03]
+SabikVip calls [$0.02]
+** Dealing flop ** [ 8s, 6d, 9h ]
+SabikVip checks
+monkey3389 bets [$0.04]
+SabikVip folds
+** Summary **
+monkey3389 collected [ $0.08 ]
+
+
+#Game No : 503662868
+***** 888poker Hand History for Game 503662868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:52:07
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: hejomocr ( $1.28 )
+Seat 6: monkey3389 ( $6.50 )
+monkey3389 posts small blind [$0.01]
+hejomocr posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 raises [$0.03]
+hejomocr calls [$0.02]
+** Dealing flop ** [ 7h, Jd, 5c ]
+hejomocr checks
+monkey3389 bets [$0.04]
+hejomocr folds
+** Summary **
+monkey3389 did not show his hand
+monkey3389 collected [ $0.08 ]
+
+
+#Game No : 503662892
+***** 888poker Hand History for Game 503662892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:52:37
+Table Colina 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hejomocr ( $1.24 )
+Seat 6: monkey3389 ( $6.54 )
+hejomocr posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+hejomocr raises [$0.07]
+monkey3389 calls [$0.06]
+** Dealing flop ** [ Kd, Ks, 5d ]
+monkey3389 bets [$0.02]
+hejomocr calls [$0.02]
+** Dealing turn ** [ Qc ]
+monkey3389 bets [$0.10]
+hejomocr folds
+** Summary **
+monkey3389 did not show his hand
+monkey3389 collected [ $0.19 ]
+
+
+#Game No : 503662911
+***** 888poker Hand History for Game 503662911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:53:03
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: hejomocr ( $1.14 )
+Seat 6: monkey3389 ( $6.63 )
+monkey3389 posts small blind [$0.01]
+hejomocr posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+hejomocr did not show his hand
+hejomocr collected [ $0.03 ]
+
+
+#Game No : 503662917
+***** 888poker Hand History for Game 503662917 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:53:07
+Table Colina 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hejomocr ( $1.15 )
+Seat 6: monkey3389 ( $6.62 )
+hejomocr posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+hejomocr raises [$0.05]
+monkey3389 folds
+** Summary **
+hejomocr did not show his hand
+hejomocr collected [ $0.04 ]
+
+
+#Game No : 503662921
+***** 888poker Hand History for Game 503662921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:53:16
+Table Colina 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: hejomocr ( $1.17 )
+Seat 6: monkey3389 ( $6.60 )
+monkey3389 posts small blind [$0.01]
+hejomocr posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 calls [$0.01]
+hejomocr checks
+** Dealing flop ** [ 5c, 6c, 9d ]
+hejomocr checks
+monkey3389 bets [$0.02]
+hejomocr calls [$0.02]
+** Dealing turn ** [ 6h ]
+hejomocr checks
+monkey3389 bets [$0.06]
+hejomocr calls [$0.06]
+** Dealing river ** [ Ks ]
+hejomocr checks
+monkey3389 bets [$0.13]
+hejomocr calls [$0.13]
+** Summary **
+monkey3389 shows [ 8c, Tc ]
+hejomocr shows [ 5d, 8h ]
+hejomocr collected [ $0.44 ]
+
+
+#Game No : 503662942
+***** 888poker Hand History for Game 503662942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:53:46
+Table Colina 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hejomocr ( $1.38 )
+Seat 6: monkey3389 ( $6.37 )
+hejomocr posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+hejomocr calls [$0.01]
+monkey3389 raises [$0.04]
+hejomocr folds
+** Summary **
+monkey3389 collected [ $0.04 ]
+
+
+#Game No : 503663167
+***** 888poker Hand History for Game 503663167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:58:49
+Table Colina 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: hejomocr ( $1.21 )
+Seat 2: KellyCoward ( $1.04 )
+KellyCoward posts small blind [$0.01]
+** Dealing down cards **
+hejomocr folds
+** Summary **
+KellyCoward collected [ $0.01 ]
+
+

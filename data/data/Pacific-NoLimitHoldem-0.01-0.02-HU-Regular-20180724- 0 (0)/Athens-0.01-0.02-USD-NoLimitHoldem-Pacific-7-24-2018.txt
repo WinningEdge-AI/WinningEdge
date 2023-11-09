@@ -1,0 +1,133 @@
+#Game No : 605969232
+***** 888poker Hand History for Game 605969232 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 04:02:49
+Table Athens 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: mikhailo1969 ( $2 )
+Seat 4: Smoeggifaen ( $2 )
+Smoeggifaen posts small blind [$0.01]
+mikhailo1969 posts big blind [$0.02]
+** Dealing down cards **
+Smoeggifaen raises [$0.03]
+mikhailo1969 calls [$0.02]
+** Dealing flop ** [ 9s, Td, Ah ]
+mikhailo1969 bets [$0.02]
+Smoeggifaen calls [$0.02]
+** Dealing turn ** [ Ts ]
+mikhailo1969 bets [$0.02]
+Smoeggifaen calls [$0.02]
+** Dealing river ** [ Kc ]
+mikhailo1969 checks
+Smoeggifaen bets [$0.16]
+mikhailo1969 folds
+** Summary **
+Smoeggifaen did not show his hand
+Smoeggifaen collected [ $0.15 ]
+
+
+#Game No : 605969243
+***** 888poker Hand History for Game 605969243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 04:03:18
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: mikhailo1969 ( $1.92 )
+Seat 4: Smoeggifaen ( $2.07 )
+mikhailo1969 posts small blind [$0.01]
+Smoeggifaen posts big blind [$0.02]
+** Dealing down cards **
+mikhailo1969 raises [$0.03]
+Smoeggifaen calls [$0.02]
+** Dealing flop ** [ 5h, 6h, Qc ]
+Smoeggifaen checks
+mikhailo1969 bets [$0.06]
+Smoeggifaen calls [$0.06]
+** Dealing turn ** [ Ah ]
+Smoeggifaen checks
+mikhailo1969 bets [$0.13]
+Smoeggifaen folds
+** Summary **
+mikhailo1969 did not show his hand
+mikhailo1969 collected [ $0.19 ]
+
+
+#Game No : 605969257
+***** 888poker Hand History for Game 605969257 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 04:03:51
+Table Athens 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: mikhailo1969 ( $2.01 )
+Seat 4: Smoeggifaen ( $1.97 )
+Smoeggifaen posts small blind [$0.01]
+mikhailo1969 posts big blind [$0.02]
+** Dealing down cards **
+Smoeggifaen raises [$0.03]
+mikhailo1969 calls [$0.02]
+** Dealing flop ** [ Kd, Jh, 5c ]
+mikhailo1969 checks
+Smoeggifaen bets [$0.04]
+mikhailo1969 raises [$0.14]
+Smoeggifaen folds
+** Summary **
+mikhailo1969 collected [ $0.15 ]
+
+
+#Game No : 605969276
+***** 888poker Hand History for Game 605969276 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 04:04:50
+Table Athens 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: mikhailo1969 ( $2 )
+Seat 4: Smoeggifaen ( $1.96 )
+Smoeggifaen posts small blind [$0.01]
+mikhailo1969 posts big blind [$0.02]
+** Dealing down cards **
+Smoeggifaen raises [$0.03]
+mikhailo1969 calls [$0.02]
+** Dealing flop ** [ 4d, 2d, Th ]
+mikhailo1969 bets [$0.04]
+Smoeggifaen raises [$0.20]
+mikhailo1969 raises [$0.48]
+Smoeggifaen calls [$0.32]
+** Dealing turn ** [ 9d ]
+mikhailo1969 bets [$0.02]
+Smoeggifaen calls [$0.02]
+** Dealing river ** [ 6c ]
+mikhailo1969 bets [$0.77]
+Smoeggifaen calls [$0.77]
+** Summary **
+mikhailo1969 shows [ 2c, 4c ]
+Smoeggifaen mucks [ 3d, Ts ]
+mikhailo1969 collected [ $2.54 ]
+
+
+#Game No : 605974727
+***** 888poker Hand History for Game 605974727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 07:14:13
+Table Athens 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: gsricardog ( $0.97 )
+Seat 9: triple8poke1 ( $2.21 )
+triple8poke1 posts small blind [$0.01]
+gsricardog posts big blind [$0.02]
+** Dealing down cards **
+triple8poke1 calls [$0.01]
+gsricardog raises [$0.06]
+triple8poke1 calls [$0.06]
+** Dealing flop ** [ 3d, 3c, 2s ]
+gsricardog bets [$0.10]
+triple8poke1 raises [$0.20]
+gsricardog raises [$0.79]
+triple8poke1 calls [$0.69]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ 5d ]
+** Summary **
+gsricardog shows [ Tc, Th ]
+triple8poke1 shows [ 2d, Kh ]
+gsricardog collected [ $1.82 ]
+
+

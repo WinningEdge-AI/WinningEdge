@@ -1,0 +1,53 @@
+#Game No : 612253034
+***** 888poker Hand History for Game 612253034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2018 06:25:41
+Table Paulista 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: BYSPPAVEL ( $1.02 )
+Seat 9: Deeez888 ( $0.78 )
+BYSPPAVEL posts small blind [$0.01]
+Deeez888 posts big blind [$0.02]
+** Dealing down cards **
+BYSPPAVEL calls [$0.01]
+Deeez888 checks
+** Dealing flop ** [ 4c, Js, 3s ]
+Deeez888 checks
+BYSPPAVEL bets [$0.02]
+Deeez888 calls [$0.02]
+** Dealing turn ** [ 2c ]
+Deeez888 checks
+BYSPPAVEL bets [$0.08]
+Deeez888 calls [$0.08]
+** Dealing river ** [ As ]
+Deeez888 bets [$0.24]
+BYSPPAVEL calls [$0.24]
+** Summary **
+Deeez888 shows [ 9s, Ks ]
+BYSPPAVEL mucks [ Jd, 8s ]
+Deeez888 collected [ $0.68 ]
+
+
+#Game No : 612253073
+***** 888poker Hand History for Game 612253073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2018 06:26:50
+Table Paulista 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BYSPPAVEL ( $0.66 )
+Seat 9: Deeez888 ( $1.10 )
+Deeez888 posts small blind [$0.01]
+BYSPPAVEL posts big blind [$0.02]
+** Dealing down cards **
+Deeez888 calls [$0.01]
+BYSPPAVEL checks
+** Dealing flop ** [ 7c, 7h, Qh ]
+BYSPPAVEL checks
+Deeez888 checks
+** Dealing turn ** [ 3d ]
+BYSPPAVEL bets [$0.02]
+Deeez888 folds
+** Summary **
+BYSPPAVEL collected [ $0.04 ]
+
+

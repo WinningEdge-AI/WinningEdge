@@ -1,0 +1,65 @@
+#Game No : 514611857
+***** 888poker Hand History for Game 514611857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:35:30
+Table Verona 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: jchen210 ( $2 )
+Seat 3: AntiError14 ( $2 )
+jchen210 posts small blind [$0.01]
+AntiError14 posts big blind [$0.02]
+** Dealing down cards **
+jchen210 raises [$0.05]
+AntiError14 calls [$0.04]
+** Dealing flop ** [ 6c, 8c, 4s ]
+AntiError14 checks
+jchen210 checks
+** Dealing turn ** [ 9c ]
+AntiError14 bets [$0.02]
+jchen210 calls [$0.02]
+** Dealing river ** [ 3h ]
+AntiError14 bets [$0.02]
+jchen210 folds
+** Summary **
+AntiError14 collected [ $0.15 ]
+
+
+#Game No : 514611877
+***** 888poker Hand History for Game 514611877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 07:36:01
+Table Verona 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: jchen210 ( $1.92 )
+Seat 3: AntiError14 ( $2.07 )
+AntiError14 posts small blind [$0.01]
+jchen210 posts big blind [$0.02]
+** Dealing down cards **
+AntiError14 calls [$0.01]
+jchen210 checks
+** Dealing flop ** [ Ad, Js, Ah ]
+jchen210 checks
+AntiError14 checks
+** Dealing turn ** [ 2h ]
+jchen210 bets [$0.02]
+AntiError14 folds
+** Summary **
+jchen210 collected [ $0.04 ]
+
+
+#Game No : 514625900
+***** 888poker Hand History for Game 514625900 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 12:04:56
+Table Verona 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: adic24 ( $1.94 )
+Seat 7: BigLez6969 ( $2.99 )
+BigLez6969 posts small blind [$0.01]
+adic24 posts big blind [$0.02]
+** Dealing down cards **
+BigLez6969 folds
+** Summary **
+adic24 collected [ $0.03 ]
+
+

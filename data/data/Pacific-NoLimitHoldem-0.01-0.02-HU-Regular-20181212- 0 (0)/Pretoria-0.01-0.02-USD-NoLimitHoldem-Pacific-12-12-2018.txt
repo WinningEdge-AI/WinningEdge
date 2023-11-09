@@ -1,0 +1,59 @@
+#Game No : 458650018
+***** 888poker Hand History for Game 458650018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 12 2018 04:31:15
+Table Pretoria 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: scotblu9 ( $2 )
+Seat 5: RamzesAltay ( $2 )
+scotblu9 posts small blind [$0.01]
+RamzesAltay posts big blind [$0.02]
+** Dealing down cards **
+scotblu9 calls [$0.01]
+RamzesAltay raises [$0.04]
+scotblu9 calls [$0.04]
+** Dealing flop ** [ 9d, 6h, Td ]
+RamzesAltay bets [$0.06]
+scotblu9 calls [$0.06]
+** Dealing turn ** [ 4c ]
+RamzesAltay bets [$0.12]
+scotblu9 calls [$0.12]
+** Dealing river ** [ Kc ]
+RamzesAltay bets [$0.24]
+scotblu9 raises [$0.48]
+RamzesAltay calls [$0.24]
+** Summary **
+scotblu9 shows [ Ks, Ts ]
+RamzesAltay shows [ 6s, 6d ]
+RamzesAltay collected [ $1.35 ]
+
+
+#Game No : 458650031
+***** 888poker Hand History for Game 458650031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 12 2018 04:32:02
+Table Pretoria 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: scotblu9 ( $1.28 )
+Seat 5: RamzesAltay ( $2.63 )
+RamzesAltay posts small blind [$0.01]
+scotblu9 posts big blind [$0.02]
+** Dealing down cards **
+RamzesAltay calls [$0.01]
+scotblu9 checks
+** Dealing flop ** [ 3h, 4c, 8h ]
+scotblu9 checks
+RamzesAltay bets [$0.04]
+scotblu9 calls [$0.04]
+** Dealing turn ** [ 5s ]
+scotblu9 bets [$0.06]
+RamzesAltay calls [$0.06]
+** Dealing river ** [ Ad ]
+scotblu9 bets [$0.18]
+RamzesAltay calls [$0.18]
+** Summary **
+scotblu9 shows [ 5d, 5h ]
+RamzesAltay mucks [ 3s, 4s ]
+scotblu9 collected [ $0.57 ]
+
+

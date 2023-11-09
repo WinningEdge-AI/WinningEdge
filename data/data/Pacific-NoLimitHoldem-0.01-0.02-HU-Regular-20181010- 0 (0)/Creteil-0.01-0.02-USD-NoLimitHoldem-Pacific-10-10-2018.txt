@@ -1,0 +1,269 @@
+#Game No : 503576625
+***** 888poker Hand History for Game 503576625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 16:58:52
+Table Creteil 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: med763 ( $3.14 )
+Seat 7: Zhooshedup ( $2.13 )
+Zhooshedup posts small blind [$0.01]
+med763 posts big blind [$0.02]
+** Dealing down cards **
+Zhooshedup raises [$0.03]
+med763 calls [$0.02]
+** Dealing flop ** [ 3s, 7d, As ]
+med763 bets [$0.08]
+Zhooshedup calls [$0.08]
+** Dealing turn ** [ 9h ]
+med763 checks
+Zhooshedup checks
+** Dealing river ** [ Ks ]
+med763 bets [$0.24]
+Zhooshedup calls [$0.24]
+** Summary **
+med763 shows [ 6d, Qd ]
+Zhooshedup shows [ Ac, 8d ]
+Zhooshedup collected [ $0.68 ]
+
+
+#Game No : 503576900
+***** 888poker Hand History for Game 503576900 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 17:14:45
+Table Creteil 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: med763 ( $2.85 )
+Seat 9: bastek28 ( $0.75 )
+bastek28 posts small blind [$0.01]
+med763 posts big blind [$0.02]
+** Dealing down cards **
+bastek28 raises [$0.03]
+med763 calls [$0.02]
+** Dealing flop ** [ 4s, 7d, 2d ]
+med763 bets [$0.08]
+bastek28 calls [$0.08]
+** Dealing turn ** [ Ks ]
+med763 checks
+bastek28 bets [$0.16]
+med763 raises [$0.73]
+bastek28 calls [$0.47]
+** Dealing river ** [ 7s ]
+** Summary **
+med763 shows [ 7h, 5d ]
+bastek28 shows [ 5h, 9d ]
+med763 collected [ $1.41 ]
+
+
+#Game No : 503576909
+***** 888poker Hand History for Game 503576909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 17:15:21
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: med763 ( $3.51 )
+Seat 9: bastek28 ( $0.80 )
+med763 posts small blind [$0.01]
+bastek28 posts big blind [$0.02]
+** Dealing down cards **
+med763 raises [$0.03]
+bastek28 calls [$0.02]
+** Dealing flop ** [ Qd, 8s, 7d ]
+bastek28 checks
+med763 bets [$0.02]
+bastek28 calls [$0.02]
+** Dealing turn ** [ Ts ]
+bastek28 bets [$0.08]
+med763 calls [$0.08]
+** Dealing river ** [ 8c ]
+bastek28 checks
+med763 checks
+** Summary **
+bastek28 shows [ Td, 6s ]
+med763 mucks [ Kh, 9c ]
+bastek28 collected [ $0.27 ]
+
+
+#Game No : 503576918
+***** 888poker Hand History for Game 503576918 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 17:16:00
+Table Creteil 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: med763 ( $3.37 )
+Seat 9: bastek28 ( $0.93 )
+bastek28 posts small blind [$0.01]
+med763 posts big blind [$0.02]
+** Dealing down cards **
+bastek28 calls [$0.01]
+med763 checks
+** Dealing flop ** [ Td, 7d, 2d ]
+med763 checks
+bastek28 bets [$0.91]
+med763 calls [$0.91]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ Qc ]
+** Summary **
+med763 shows [ 7c, Th ]
+bastek28 shows [ Ad, Qd ]
+bastek28 collected [ $1.75 ]
+
+
+#Game No : 503576930
+***** 888poker Hand History for Game 503576930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 17:16:33
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: med763 ( $2.44 )
+Seat 9: bastek28 ( $1.75 )
+med763 posts small blind [$0.01]
+** Dealing down cards **
+bastek28 folds
+** Summary **
+med763 did not show his hand
+med763 collected [ $0.01 ]
+
+
+#Game No : 503576938
+***** 888poker Hand History for Game 503576938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 17:17:05
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: lucasorcajo ( $1 )
+Seat 2: med763 ( $2.44 )
+med763 posts small blind [$0.01]
+lucasorcajo posts big blind [$0.02]
+** Dealing down cards **
+med763 calls [$0.01]
+lucasorcajo checks
+** Dealing flop ** [ Kd, Js, Qs ]
+lucasorcajo checks
+med763 bets [$0.04]
+lucasorcajo folds
+** Summary **
+med763 did not show his hand
+med763 collected [ $0.04 ]
+
+
+#Game No : 503576951
+***** 888poker Hand History for Game 503576951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 17:18:03
+Table Creteil 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: lucasorcajo ( $0.98 )
+Seat 2: med763 ( $2.46 )
+lucasorcajo posts small blind [$0.01]
+med763 posts big blind [$0.02]
+** Dealing down cards **
+lucasorcajo calls [$0.01]
+med763 checks
+** Dealing flop ** [ 7c, Qs, 6s ]
+med763 checks
+lucasorcajo checks
+** Dealing turn ** [ Tc ]
+med763 checks
+lucasorcajo bets [$0.02]
+med763 folds
+** Summary **
+lucasorcajo did not show his hand
+lucasorcajo collected [ $0.04 ]
+
+
+#Game No : 503576965
+***** 888poker Hand History for Game 503576965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 17:19:01
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: lucasorcajo ( $1 )
+Seat 2: med763 ( $2.44 )
+med763 posts small blind [$0.01]
+lucasorcajo posts big blind [$0.02]
+** Dealing down cards **
+med763 calls [$0.01]
+lucasorcajo checks
+** Dealing flop ** [ 9c, 4h, Ad ]
+lucasorcajo bets [$0.02]
+med763 calls [$0.02]
+** Dealing turn ** [ 9d ]
+lucasorcajo bets [$0.02]
+med763 calls [$0.02]
+** Dealing river ** [ Qd ]
+lucasorcajo bets [$0.02]
+med763 raises [$0.18]
+lucasorcajo calls [$0.16]
+** Summary **
+med763 shows [ Td, Qs ]
+lucasorcajo shows [ 3s, As ]
+lucasorcajo collected [ $0.45 ]
+
+
+#Game No : 503576980
+***** 888poker Hand History for Game 503576980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 17:20:26
+Table Creteil 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: lucasorcajo ( $1.21 )
+Seat 2: med763 ( $2.20 )
+lucasorcajo posts small blind [$0.01]
+med763 posts big blind [$0.02]
+** Dealing down cards **
+lucasorcajo calls [$0.01]
+med763 checks
+** Dealing flop ** [ Js, 3d, 5h ]
+med763 bets [$0.18]
+lucasorcajo folds
+** Summary **
+med763 collected [ $0.04 ]
+
+
+#Game No : 503576988
+***** 888poker Hand History for Game 503576988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 17:21:15
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: lucasorcajo ( $1.19 )
+Seat 2: med763 ( $2.22 )
+med763 posts small blind [$0.01]
+lucasorcajo posts big blind [$0.02]
+** Dealing down cards **
+med763 calls [$0.01]
+lucasorcajo checks
+** Dealing flop ** [ 6c, 2d, Jd ]
+lucasorcajo bets [$0.02]
+med763 raises [$0.10]
+lucasorcajo calls [$0.08]
+** Dealing turn ** [ Qh ]
+lucasorcajo checks
+med763 checks
+** Dealing river ** [ Jc ]
+lucasorcajo checks
+med763 checks
+** Summary **
+lucasorcajo shows [ 8s, 6d ]
+med763 shows [ 6h, 4d ]
+med763 collected [ $0.11 ]
+lucasorcajo collected [ $0.12 ]
+
+
+#Game No : 503578052
+***** 888poker Hand History for Game 503578052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 18:44:58
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: adrianx100pr ( $1.17 )
+Seat 4: jgvasso26 ( $2.71 )
+adrianx100pr posts small blind [$0.01]
+jgvasso26 posts big blind [$0.02]
+** Dealing down cards **
+adrianx100pr folds
+** Summary **
+jgvasso26 did not show his hand
+jgvasso26 collected [ $0.03 ]
+
+

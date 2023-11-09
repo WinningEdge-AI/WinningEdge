@@ -1,0 +1,99 @@
+#Game No : 542494868
+***** 888poker Hand History for Game 542494868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 03:56:00
+Table Wollongong 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ankitp06 ( $2.52 )
+Seat 6: geo_rezi ( $2.83 )
+Ankitp06 posts small blind [$0.01]
+geo_rezi posts big blind [$0.02]
+** Dealing down cards **
+Ankitp06 raises [$0.03]
+geo_rezi calls [$0.02]
+** Dealing flop ** [ Qd, 2h, 8s ]
+geo_rezi checks
+Ankitp06 checks
+** Dealing turn ** [ 6h ]
+geo_rezi checks
+Ankitp06 bets [$0.02]
+geo_rezi folds
+** Summary **
+Ankitp06 collected [ $0.08 ]
+
+
+#Game No : 542494971
+***** 888poker Hand History for Game 542494971 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 03:58:29
+Table Wollongong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ankitp06 ( $0.56 )
+Seat 9: poker0223 ( $3.75 )
+poker0223 posts small blind [$0.01]
+Ankitp06 posts big blind [$0.02]
+** Dealing down cards **
+poker0223 calls [$0.01]
+Ankitp06 raises [$0.04]
+poker0223 calls [$0.04]
+** Dealing flop ** [ Ah, 8c, 8h ]
+Ankitp06 bets [$0.02]
+poker0223 calls [$0.02]
+** Dealing turn ** [ 6s ]
+Ankitp06 bets [$0.02]
+poker0223 raises [$0.12]
+Ankitp06 raises [$0.20]
+poker0223 folds
+** Summary **
+Ankitp06 collected [ $0.38 ]
+
+
+#Game No : 542494991
+***** 888poker Hand History for Game 542494991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 03:59:02
+Table Wollongong 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ankitp06 ( $0.74 )
+Seat 9: poker0223 ( $3.55 )
+Ankitp06 posts small blind [$0.01]
+poker0223 posts big blind [$0.02]
+** Dealing down cards **
+Ankitp06 folds
+** Summary **
+poker0223 collected [ $0.03 ]
+
+
+#Game No : 542494996
+***** 888poker Hand History for Game 542494996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 03:59:11
+Table Wollongong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ankitp06 ( $0.73 )
+Seat 9: poker0223 ( $3.56 )
+poker0223 posts small blind [$0.01]
+Ankitp06 posts big blind [$0.02]
+** Dealing down cards **
+poker0223 calls [$0.01]
+Ankitp06 raises [$0.04]
+poker0223 raises [$0.08]
+Ankitp06 calls [$0.04]
+** Dealing flop ** [ 8c, Jh, Ac ]
+Ankitp06 checks
+poker0223 bets [$0.16]
+Ankitp06 calls [$0.16]
+** Dealing turn ** [ 7d ]
+Ankitp06 checks
+poker0223 bets [$0.16]
+Ankitp06 calls [$0.16]
+** Dealing river ** [ Ad ]
+Ankitp06 checks
+poker0223 bets [$0.34]
+Ankitp06 calls [$0.31]
+** Summary **
+Ankitp06 shows [ Qh, 3h ]
+poker0223 shows [ 9s, Kc ]
+poker0223 collected [ $1.37 ]
+
+

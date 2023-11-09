@@ -1,0 +1,28 @@
+#Game No : 604175114
+***** 888poker Hand History for Game 604175114 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 09:17:05
+Table Arica 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dabl75 ( $2.54 )
+Seat 5: bethmix ( $0.19 )
+dabl75 posts small blind [$0.01]
+bethmix posts big blind [$0.02]
+** Dealing down cards **
+dabl75 calls [$0.01]
+bethmix checks
+** Dealing flop ** [ 5h, Js, 9h ]
+bethmix checks
+dabl75 checks
+** Dealing turn ** [ 9c ]
+bethmix checks
+dabl75 checks
+** Dealing river ** [ 4s ]
+bethmix checks
+dabl75 checks
+** Summary **
+bethmix shows [ Kc, 8s ]
+dabl75 mucks [ 2d, 3d ]
+bethmix collected [ $0.04 ]
+
+

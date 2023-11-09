@@ -1,0 +1,43 @@
+#Game No : 612616392
+***** 888poker Hand History for Game 612616392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 01:41:19
+Table La Plata 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: laschko ( $1.18 )
+Seat 7: nagasaki999 ( $1.93 )
+laschko posts small blind [$0.01]
+nagasaki999 posts big blind [$0.02]
+** Dealing down cards **
+laschko calls [$0.01]
+nagasaki999 checks
+** Dealing flop ** [ 2h, 6h, Ah ]
+nagasaki999 checks
+laschko checks
+** Dealing turn ** [ Ad ]
+nagasaki999 checks
+laschko checks
+** Dealing river ** [ 5d ]
+nagasaki999 bets [$0.04]
+laschko folds
+** Summary **
+nagasaki999 collected [ $0.04 ]
+
+
+#Game No : 612616415
+***** 888poker Hand History for Game 612616415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 01:42:07
+Table La Plata 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: laschko ( $1.16 )
+Seat 7: nagasaki999 ( $1.95 )
+nagasaki999 posts small blind [$0.01]
+laschko posts big blind [$0.02]
+** Dealing down cards **
+nagasaki999 raises [$0.05]
+laschko folds
+** Summary **
+nagasaki999 collected [ $0.04 ]
+
+

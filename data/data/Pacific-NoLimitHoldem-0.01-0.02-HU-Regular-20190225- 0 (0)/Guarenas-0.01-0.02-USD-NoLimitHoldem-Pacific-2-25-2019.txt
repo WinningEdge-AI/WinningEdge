@@ -1,0 +1,87 @@
+#Game No : 1250540873
+***** 888poker Hand History for Game 1250540873 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2019 22:50:27
+Table Guarenas 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Viva_calman ( $2 )
+Seat 5: skubator ( $2 )
+Viva_calman posts small blind [$0.01]
+skubator posts big blind [$0.02]
+** Dealing down cards **
+Viva_calman calls [$0.01]
+skubator raises [$0.04]
+Viva_calman calls [$0.04]
+** Dealing flop ** [ 9d, Ad, 7c ]
+skubator bets [$0.06]
+Viva_calman calls [$0.06]
+** Dealing turn ** [ Jd ]
+skubator bets [$0.16]
+Viva_calman calls [$0.16]
+** Dealing river ** [ 2s ]
+skubator bets [$0.28]
+Viva_calman raises [$0.56]
+skubator calls [$0.28]
+** Summary **
+Viva_calman shows [ Ah, 2h ]
+skubator shows [ Js, As ]
+skubator collected [ $1.58 ]
+
+
+#Game No : 1250540926
+***** 888poker Hand History for Game 1250540926 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2019 22:50:31
+Table Guarenas 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Viva_calman ( $1.16 )
+Seat 5: skubator ( $2.74 )
+skubator posts small blind [$0.01]
+Viva_calman posts big blind [$0.02]
+** Dealing down cards **
+skubator calls [$0.01]
+Viva_calman checks
+** Dealing flop ** [ 7d, As, Ad ]
+Viva_calman checks
+skubator bets [$0.02]
+Viva_calman calls [$0.02]
+** Dealing turn ** [ 7s ]
+Viva_calman bets [$0.08]
+skubator folds
+** Summary **
+Viva_calman collected [ $0.08 ]
+
+
+#Game No : 1250582061
+***** 888poker Hand History for Game 1250582061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 04:02:24
+Table Guarenas 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: BHCAD ( $0.93 )
+Seat 7: serogaqqq ( $2.57 )
+BHCAD posts small blind [$0.01]
+serogaqqq posts big blind [$0.02]
+** Dealing down cards **
+BHCAD raises [$0.05]
+serogaqqq folds
+** Summary **
+BHCAD collected [ $0.04 ]
+
+
+#Game No : 1250582095
+***** 888poker Hand History for Game 1250582095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 04:02:37
+Table Guarenas 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: BHCAD ( $0.95 )
+Seat 7: serogaqqq ( $2.55 )
+serogaqqq posts small blind [$0.01]
+** Dealing down cards **
+BHCAD folds
+** Summary **
+serogaqqq did not show his hand
+serogaqqq collected [ $0.01 ]
+
+

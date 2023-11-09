@@ -1,0 +1,52 @@
+#Game No : 505044769
+***** 888poker Hand History for Game 505044769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 07:53:22
+Table Tolyatti 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Lilidzan92 ( $0.83 )
+Seat 2: okokok113 ( $0.94 )
+Lilidzan92 posts small blind [$0.01]
+okokok113 posts big blind [$0.02]
+** Dealing down cards **
+Lilidzan92 calls [$0.01]
+okokok113 checks
+** Dealing flop ** [ 4d, 8d, As ]
+okokok113 checks
+Lilidzan92 checks
+** Dealing turn ** [ Qh ]
+okokok113 checks
+Lilidzan92 checks
+** Dealing river ** [ Jh ]
+okokok113 checks
+Lilidzan92 checks
+** Summary **
+okokok113 shows [ 3h, 5h ]
+Lilidzan92 shows [ Ks, 5d ]
+Lilidzan92 collected [ $0.04 ]
+
+
+#Game No : 505044804
+***** 888poker Hand History for Game 505044804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 07:53:54
+Table Tolyatti 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Lilidzan92 ( $0.85 )
+Seat 2: okokok113 ( $0.92 )
+okokok113 posts small blind [$0.01]
+Lilidzan92 posts big blind [$0.02]
+** Dealing down cards **
+okokok113 calls [$0.01]
+Lilidzan92 checks
+** Dealing flop ** [ 7h, 6d, 6h ]
+Lilidzan92 checks
+okokok113 checks
+** Dealing turn ** [ 4c ]
+Lilidzan92 checks
+okokok113 bets [$0.04]
+Lilidzan92 folds
+** Summary **
+okokok113 collected [ $0.04 ]
+
+

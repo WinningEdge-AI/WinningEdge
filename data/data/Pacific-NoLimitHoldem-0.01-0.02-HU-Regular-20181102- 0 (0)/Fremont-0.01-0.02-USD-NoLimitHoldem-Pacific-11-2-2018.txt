@@ -1,0 +1,45 @@
+#Game No : 515033583
+***** 888poker Hand History for Game 515033583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 09:36:17
+Table Fremont 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Sargtath ( $3.50 )
+Seat 6: damirzzz ( $4.01 )
+damirzzz posts small blind [$0.01]
+Sargtath posts big blind [$0.02]
+** Dealing down cards **
+damirzzz folds
+** Summary **
+Sargtath collected [ $0.03 ]
+
+
+#Game No : 515033593
+***** 888poker Hand History for Game 515033593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 09:36:25
+Table Fremont 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Sargtath ( $3.51 )
+Seat 9: PythonDev ( $2 )
+Sargtath posts small blind [$0.01]
+PythonDev posts big blind [$0.02]
+** Dealing down cards **
+Sargtath raises [$0.05]
+PythonDev calls [$0.04]
+** Dealing flop ** [ 4s, 9s, 8d ]
+PythonDev checks
+Sargtath bets [$0.06]
+PythonDev calls [$0.06]
+** Dealing turn ** [ Ks ]
+PythonDev checks
+Sargtath checks
+** Dealing river ** [ Ac ]
+PythonDev checks
+Sargtath checks
+** Summary **
+PythonDev shows [ Js, Ah ]
+Sargtath mucks [ 8c, Qd ]
+PythonDev collected [ $0.23 ]
+
+

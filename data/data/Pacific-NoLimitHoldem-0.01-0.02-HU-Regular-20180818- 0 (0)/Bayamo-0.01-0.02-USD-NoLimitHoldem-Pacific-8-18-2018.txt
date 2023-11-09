@@ -1,0 +1,711 @@
+#Game No : 501045664
+***** 888poker Hand History for Game 501045664 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 23:56:10
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $1.02 )
+Seat 2: ig_chkh ( $0.78 )
+ig_chkh posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+ig_chkh calls [$0.01]
+SlavikMark79 checks
+** Dealing flop ** [ 7s, Ts, Ah ]
+SlavikMark79 checks
+ig_chkh checks
+** Dealing turn ** [ 4h ]
+SlavikMark79 checks
+ig_chkh checks
+** Dealing river ** [ Qc ]
+SlavikMark79 checks
+ig_chkh bets [$0.10]
+SlavikMark79 folds
+** Summary **
+ig_chkh collected [ $0.04 ]
+
+
+#Game No : 501047112
+***** 888poker Hand History for Game 501047112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 00:51:15
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ig_chkh ( $2.24 )
+Seat 4: yrik222 ( $1.27 )
+ig_chkh posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+ig_chkh folds
+** Summary **
+yrik222 collected [ $0.03 ]
+
+
+#Game No : 501047115
+***** 888poker Hand History for Game 501047115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 00:51:21
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ig_chkh ( $2.23 )
+Seat 4: yrik222 ( $1.28 )
+yrik222 posts small blind [$0.01]
+ig_chkh posts big blind [$0.02]
+** Dealing down cards **
+yrik222 raises [$0.05]
+ig_chkh calls [$0.04]
+** Dealing flop ** [ 5h, 5d, 3c ]
+ig_chkh checks
+yrik222 bets [$0.12]
+ig_chkh folds
+** Summary **
+yrik222 collected [ $0.12 ]
+
+
+#Game No : 501047120
+***** 888poker Hand History for Game 501047120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 00:51:35
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ig_chkh ( $2.17 )
+Seat 4: yrik222 ( $1.34 )
+ig_chkh posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+ig_chkh raises [$0.03]
+yrik222 calls [$0.02]
+** Dealing flop ** [ Jh, 5h, Tc ]
+yrik222 bets [$0.05]
+ig_chkh calls [$0.05]
+** Dealing turn ** [ 4d ]
+yrik222 bets [$0.12]
+ig_chkh calls [$0.12]
+** Dealing river ** [ 8c ]
+yrik222 checks
+ig_chkh checks
+** Summary **
+yrik222 shows [ 9c, Js ]
+ig_chkh mucks [ Ah, Kc ]
+yrik222 collected [ $0.40 ]
+
+
+#Game No : 501047136
+***** 888poker Hand History for Game 501047136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 00:52:07
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ig_chkh ( $1.96 )
+Seat 4: yrik222 ( $1.53 )
+yrik222 posts small blind [$0.01]
+** Dealing down cards **
+ig_chkh folds
+** Summary **
+yrik222 collected [ $0.01 ]
+
+
+#Game No : 501047147
+***** 888poker Hand History for Game 501047147 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 00:52:32
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: yrik222 ( $1.53 )
+Seat 6: Luvex94 ( $0.80 )
+Luvex94 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+Luvex94 calls [$0.01]
+yrik222 raises [$0.02]
+Luvex94 calls [$0.02]
+** Dealing flop ** [ 7d, Ts, Kc ]
+yrik222 checks
+Luvex94 checks
+** Dealing turn ** [ 9c ]
+yrik222 bets [$1.49]
+Luvex94 folds
+** Summary **
+yrik222 collected [ $0.08 ]
+
+
+#Game No : 501047157
+***** 888poker Hand History for Game 501047157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 00:52:56
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: yrik222 ( $1.57 )
+Seat 6: Luvex94 ( $0.76 )
+yrik222 posts small blind [$0.01]
+Luvex94 posts big blind [$0.02]
+** Dealing down cards **
+yrik222 raises [$0.03]
+Luvex94 calls [$0.02]
+** Dealing flop ** [ Qd, Tc, 2c ]
+Luvex94 checks
+yrik222 checks
+** Dealing turn ** [ 7d ]
+Luvex94 checks
+yrik222 checks
+** Dealing river ** [ 8d ]
+Luvex94 checks
+yrik222 checks
+** Summary **
+Luvex94 shows [ 9c, 3h ]
+yrik222 shows [ 9d, 7h ]
+yrik222 collected [ $0.08 ]
+
+
+#Game No : 501047171
+***** 888poker Hand History for Game 501047171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 00:53:30
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: yrik222 ( $1.61 )
+Seat 6: Luvex94 ( $0.72 )
+Luvex94 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+Luvex94 calls [$0.01]
+yrik222 checks
+** Dealing flop ** [ 9h, Jd, 6s ]
+yrik222 checks
+Luvex94 checks
+** Dealing turn ** [ Ac ]
+yrik222 checks
+Luvex94 bets [$0.02]
+yrik222 calls [$0.02]
+** Dealing river ** [ Td ]
+yrik222 checks
+Luvex94 bets [$0.04]
+yrik222 folds
+** Summary **
+Luvex94 collected [ $0.08 ]
+
+
+#Game No : 501049018
+***** 888poker Hand History for Game 501049018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:03:05
+Table Bayamo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Brenntag2014 ( $1.34 )
+Seat 9: obeypls ( $0.79 )
+obeypls posts small blind [$0.01]
+Brenntag2014 posts big blind [$0.02]
+** Dealing down cards **
+obeypls calls [$0.01]
+Brenntag2014 checks
+** Dealing flop ** [ 6h, Ts, 7c ]
+Brenntag2014 checks
+obeypls checks
+** Dealing turn ** [ 4d ]
+Brenntag2014 checks
+obeypls checks
+** Dealing river ** [ As ]
+Brenntag2014 checks
+obeypls bets [$0.02]
+Brenntag2014 folds
+** Summary **
+obeypls collected [ $0.04 ]
+
+
+#Game No : 501049044
+***** 888poker Hand History for Game 501049044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:03:50
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Brenntag2014 ( $1.32 )
+Seat 9: obeypls ( $0.81 )
+Brenntag2014 posts small blind [$0.01]
+obeypls posts big blind [$0.02]
+** Dealing down cards **
+Brenntag2014 calls [$0.01]
+obeypls checks
+** Dealing flop ** [ Kc, As, 2d ]
+obeypls checks
+Brenntag2014 checks
+** Dealing turn ** [ 4s ]
+obeypls checks
+Brenntag2014 checks
+** Dealing river ** [ 7h ]
+obeypls bets [$0.02]
+Brenntag2014 folds
+** Summary **
+obeypls collected [ $0.04 ]
+
+
+#Game No : 501049994
+***** 888poker Hand History for Game 501049994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:37:53
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pashok4490 ( $1.92 )
+Seat 9: SlavikMark79 ( $1.24 )
+Pashok4490 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Pashok4490 raises [$0.03]
+SlavikMark79 calls [$0.02]
+** Dealing flop ** [ Ts, 7h, 7s ]
+SlavikMark79 checks
+Pashok4490 bets [$0.05]
+SlavikMark79 folds
+** Summary **
+Pashok4490 did not show his hand
+Pashok4490 collected [ $0.08 ]
+
+
+#Game No : 501050008
+***** 888poker Hand History for Game 501050008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:38:17
+Table Bayamo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Pashok4490 ( $1.96 )
+Seat 9: SlavikMark79 ( $1.20 )
+SlavikMark79 posts small blind [$0.01]
+Pashok4490 posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 raises [$0.05]
+Pashok4490 folds
+** Summary **
+SlavikMark79 did not show his hand
+SlavikMark79 collected [ $0.04 ]
+
+
+#Game No : 501050013
+***** 888poker Hand History for Game 501050013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:38:35
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pashok4490 ( $1.94 )
+Seat 9: SlavikMark79 ( $1.22 )
+Pashok4490 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Pashok4490 raises [$0.05]
+SlavikMark79 folds
+** Summary **
+Pashok4490 did not show his hand
+Pashok4490 collected [ $0.04 ]
+
+
+#Game No : 501050017
+***** 888poker Hand History for Game 501050017 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:38:46
+Table Bayamo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Pashok4490 ( $1.96 )
+Seat 9: SlavikMark79 ( $1.20 )
+SlavikMark79 posts small blind [$0.01]
+Pashok4490 posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 calls [$0.01]
+Pashok4490 checks
+** Dealing flop ** [ 3h, Th, Qs ]
+Pashok4490 checks
+SlavikMark79 checks
+** Dealing turn ** [ Ad ]
+Pashok4490 bets [$0.04]
+SlavikMark79 folds
+** Summary **
+Pashok4490 collected [ $0.04 ]
+
+
+#Game No : 501050029
+***** 888poker Hand History for Game 501050029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:39:12
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pashok4490 ( $1.98 )
+Seat 9: SlavikMark79 ( $1.18 )
+Pashok4490 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Pashok4490 calls [$0.01]
+SlavikMark79 checks
+** Dealing flop ** [ 3c, Qs, Ah ]
+SlavikMark79 checks
+Pashok4490 checks
+** Dealing turn ** [ 9c ]
+SlavikMark79 checks
+Pashok4490 bets [$0.04]
+SlavikMark79 folds
+** Summary **
+Pashok4490 collected [ $0.04 ]
+
+
+#Game No : 501050059
+***** 888poker Hand History for Game 501050059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:40:23
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pashok4490 ( $2.02 )
+Seat 9: SlavikMark79 ( $1.14 )
+Pashok4490 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Pashok4490 raises [$0.03]
+SlavikMark79 folds
+** Summary **
+Pashok4490 collected [ $0.04 ]
+
+
+#Game No : 501050086
+***** 888poker Hand History for Game 501050086 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:41:11
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pashok4490 ( $2.10 )
+Seat 9: SlavikMark79 ( $1.06 )
+Pashok4490 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Pashok4490 calls [$0.01]
+SlavikMark79 checks
+** Dealing flop ** [ 9s, 6d, Qc ]
+SlavikMark79 checks
+Pashok4490 bets [$0.04]
+SlavikMark79 folds
+** Summary **
+Pashok4490 collected [ $0.04 ]
+
+
+#Game No : 501052726
+***** 888poker Hand History for Game 501052726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 04:01:47
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: StandartYes ( $1.05 )
+Seat 9: CerealRobber ( $1.15 )
+StandartYes posts small blind [$0.01]
+CerealRobber posts big blind [$0.02]
+** Dealing down cards **
+StandartYes folds
+** Summary **
+CerealRobber did not show his hand
+CerealRobber collected [ $0.03 ]
+
+
+#Game No : 501052731
+***** 888poker Hand History for Game 501052731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 04:02:00
+Table Bayamo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: StandartYes ( $1.04 )
+Seat 9: CerealRobber ( $1.16 )
+CerealRobber posts small blind [$0.01]
+StandartYes posts big blind [$0.02]
+** Dealing down cards **
+CerealRobber folds
+** Summary **
+StandartYes collected [ $0.03 ]
+
+
+#Game No : 501055736
+***** 888poker Hand History for Game 501055736 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:11:51
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vipbear ( $2.63 )
+Seat 6: xBesikx ( $1.02 )
+vipbear posts small blind [$0.01]
+** Dealing down cards **
+xBesikx folds
+** Summary **
+vipbear collected [ $0.01 ]
+
+
+#Game No : 501055739
+***** 888poker Hand History for Game 501055739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:11:54
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vipbear ( $2.63 )
+Seat 4: kokos707 ( $1 )
+vipbear posts small blind [$0.01]
+kokos707 posts big blind [$0.02]
+** Dealing down cards **
+vipbear folds
+** Summary **
+kokos707 collected [ $0.03 ]
+
+
+#Game No : 501055746
+***** 888poker Hand History for Game 501055746 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:12:01
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: vipbear ( $2.62 )
+Seat 4: kokos707 ( $1.01 )
+kokos707 posts small blind [$0.01]
+vipbear posts big blind [$0.02]
+** Dealing down cards **
+kokos707 raises [$0.05]
+vipbear folds
+** Summary **
+kokos707 collected [ $0.04 ]
+
+
+#Game No : 501055755
+***** 888poker Hand History for Game 501055755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:12:13
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vipbear ( $2.60 )
+Seat 4: kokos707 ( $1.03 )
+vipbear posts small blind [$0.01]
+kokos707 posts big blind [$0.02]
+** Dealing down cards **
+vipbear raises [$0.03]
+kokos707 folds
+** Summary **
+vipbear collected [ $0.04 ]
+
+
+#Game No : 501055762
+***** 888poker Hand History for Game 501055762 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:12:26
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: vipbear ( $2.62 )
+Seat 4: kokos707 ( $1.01 )
+kokos707 posts small blind [$0.01]
+vipbear posts big blind [$0.02]
+** Dealing down cards **
+kokos707 raises [$0.05]
+vipbear folds
+** Summary **
+kokos707 collected [ $0.04 ]
+
+
+#Game No : 501055773
+***** 888poker Hand History for Game 501055773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:12:49
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kokos707 ( $1.03 )
+Seat 6: TheShark45 ( $1 )
+TheShark45 posts small blind [$0.01]
+** Dealing down cards **
+kokos707 folds
+** Summary **
+TheShark45 collected [ $0.01 ]
+
+
+#Game No : 501065527
+***** 888poker Hand History for Game 501065527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 09:06:35
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CushionHands ( $0.84 )
+Seat 2: razamanaz60 ( $1.25 )
+CushionHands posts small blind [$0.01]
+razamanaz60 posts big blind [$0.02]
+** Dealing down cards **
+CushionHands folds
+** Summary **
+razamanaz60 collected [ $0.03 ]
+
+
+#Game No : 501065531
+***** 888poker Hand History for Game 501065531 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 09:06:41
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: CushionHands ( $0.83 )
+Seat 2: razamanaz60 ( $1.26 )
+razamanaz60 posts small blind [$0.01]
+CushionHands posts big blind [$0.02]
+** Dealing down cards **
+razamanaz60 raises [$0.05]
+CushionHands calls [$0.04]
+** Dealing flop ** [ 9c, Jc, 8c ]
+CushionHands bets [$0.08]
+razamanaz60 folds
+** Summary **
+CushionHands collected [ $0.12 ]
+
+
+#Game No : 501065551
+***** 888poker Hand History for Game 501065551 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 09:07:06
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CushionHands ( $0.89 )
+Seat 2: razamanaz60 ( $1.20 )
+CushionHands posts small blind [$0.01]
+** Dealing down cards **
+razamanaz60 folds
+** Summary **
+CushionHands collected [ $0.01 ]
+
+
+#Game No : 501068332
+***** 888poker Hand History for Game 501068332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:05:07
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: hennessy35 ( $1.61 )
+Seat 4: xxxkasyanxx1 ( $1.17 )
+xxxkasyanxx1 posts small blind [$0.01]
+hennessy35 posts big blind [$0.02]
+** Dealing down cards **
+xxxkasyanxx1 folds
+** Summary **
+hennessy35 collected [ $0.03 ]
+
+
+#Game No : 501068339
+***** 888poker Hand History for Game 501068339 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:05:13
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hennessy35 ( $1.62 )
+Seat 4: xxxkasyanxx1 ( $1.16 )
+hennessy35 posts small blind [$0.01]
+xxxkasyanxx1 posts big blind [$0.02]
+** Dealing down cards **
+hennessy35 calls [$0.01]
+xxxkasyanxx1 checks
+** Dealing flop ** [ Tc, Ts, 5h ]
+xxxkasyanxx1 checks
+hennessy35 checks
+** Dealing turn ** [ Qs ]
+xxxkasyanxx1 checks
+hennessy35 checks
+** Dealing river ** [ 8d ]
+xxxkasyanxx1 checks
+hennessy35 checks
+** Summary **
+xxxkasyanxx1 shows [ Ks, Jc ]
+hennessy35 shows [ As, Kd ]
+hennessy35 collected [ $0.04 ]
+
+
+#Game No : 501068357
+***** 888poker Hand History for Game 501068357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:05:41
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: hennessy35 ( $1.64 )
+Seat 4: xxxkasyanxx1 ( $1.14 )
+xxxkasyanxx1 posts small blind [$0.01]
+hennessy35 posts big blind [$0.02]
+** Dealing down cards **
+xxxkasyanxx1 folds
+** Summary **
+hennessy35 collected [ $0.03 ]
+
+
+#Game No : 501068361
+***** 888poker Hand History for Game 501068361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:05:46
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hennessy35 ( $1.65 )
+Seat 4: xxxkasyanxx1 ( $1.13 )
+hennessy35 posts small blind [$0.01]
+xxxkasyanxx1 posts big blind [$0.02]
+** Dealing down cards **
+hennessy35 calls [$0.01]
+xxxkasyanxx1 checks
+** Dealing flop ** [ Tc, 9c, 5c ]
+xxxkasyanxx1 checks
+hennessy35 checks
+** Dealing turn ** [ 9d ]
+xxxkasyanxx1 checks
+hennessy35 checks
+** Dealing river ** [ Js ]
+xxxkasyanxx1 checks
+hennessy35 checks
+** Summary **
+xxxkasyanxx1 shows [ 2c, As ]
+hennessy35 mucks [ 8s, 4h ]
+xxxkasyanxx1 collected [ $0.04 ]
+
+
+#Game No : 501068382
+***** 888poker Hand History for Game 501068382 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:06:13
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: hennessy35 ( $1.63 )
+Seat 4: xxxkasyanxx1 ( $1.15 )
+xxxkasyanxx1 posts small blind [$0.01]
+hennessy35 posts big blind [$0.02]
+** Dealing down cards **
+xxxkasyanxx1 folds
+** Summary **
+hennessy35 collected [ $0.03 ]
+
+
+#Game No : 501068390
+***** 888poker Hand History for Game 501068390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:06:19
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hennessy35 ( $1.64 )
+Seat 4: xxxkasyanxx1 ( $1.14 )
+hennessy35 posts small blind [$0.01]
+xxxkasyanxx1 posts big blind [$0.02]
+** Dealing down cards **
+hennessy35 calls [$0.01]
+xxxkasyanxx1 checks
+** Dealing flop ** [ 2c, 2s, Jc ]
+xxxkasyanxx1 checks
+hennessy35 checks
+** Dealing turn ** [ 4h ]
+xxxkasyanxx1 checks
+hennessy35 checks
+** Dealing river ** [ 3s ]
+xxxkasyanxx1 checks
+hennessy35 checks
+** Summary **
+xxxkasyanxx1 shows [ 9c, Th ]
+hennessy35 shows [ Kd, 4d ]
+hennessy35 collected [ $0.04 ]
+
+
+#Game No : 501068506
+***** 888poker Hand History for Game 501068506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:08:49
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: argemdihh ( $0.80 )
+Seat 7: umka2514 ( $0.80 )
+argemdihh posts small blind [$0.01]
+** Dealing down cards **
+umka2514 folds
+** Summary **
+argemdihh collected [ $0.01 ]
+
+

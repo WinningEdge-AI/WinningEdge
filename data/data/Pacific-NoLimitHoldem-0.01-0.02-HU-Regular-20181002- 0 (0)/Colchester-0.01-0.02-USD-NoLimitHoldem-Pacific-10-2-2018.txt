@@ -1,0 +1,336 @@
+#Game No : 507665520
+***** 888poker Hand History for Game 507665520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:56:10
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.09 )
+Seat 7: RememberName ( $2 )
+RememberName posts small blind [$0.01]
+EvgenScala posts big blind [$0.02]
+** Dealing down cards **
+RememberName raises [$0.04]
+EvgenScala calls [$0.03]
+** Dealing flop ** [ Kh, 2d, 3d ]
+EvgenScala checks
+RememberName bets [$0.06]
+EvgenScala folds
+** Summary **
+RememberName did not show his hand
+RememberName collected [ $0.10 ]
+
+
+#Game No : 507665531
+***** 888poker Hand History for Game 507665531 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:56:33
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.04 )
+Seat 7: RememberName ( $2.05 )
+EvgenScala posts small blind [$0.01]
+RememberName posts big blind [$0.02]
+** Dealing down cards **
+EvgenScala raises [$0.03]
+RememberName folds
+** Summary **
+EvgenScala did not show his hand
+EvgenScala collected [ $0.04 ]
+
+
+#Game No : 507665536
+***** 888poker Hand History for Game 507665536 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:56:45
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.06 )
+Seat 7: RememberName ( $2.03 )
+RememberName posts small blind [$0.01]
+EvgenScala posts big blind [$0.02]
+** Dealing down cards **
+RememberName raises [$0.04]
+EvgenScala calls [$0.03]
+** Dealing flop ** [ Jh, 7d, Ks ]
+EvgenScala checks
+RememberName checks
+** Dealing turn ** [ 2s ]
+EvgenScala checks
+RememberName checks
+** Dealing river ** [ 4h ]
+EvgenScala checks
+RememberName checks
+** Summary **
+EvgenScala shows [ 3d, As ]
+RememberName mucks [ Qh, 9c ]
+EvgenScala collected [ $0.10 ]
+
+
+#Game No : 507665545
+***** 888poker Hand History for Game 507665545 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:57:10
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.11 )
+Seat 7: RememberName ( $2 )
+EvgenScala posts small blind [$0.01]
+RememberName posts big blind [$0.02]
+** Dealing down cards **
+EvgenScala calls [$0.01]
+RememberName checks
+** Dealing flop ** [ 2d, Qd, Tc ]
+RememberName checks
+EvgenScala checks
+** Dealing turn ** [ 5c ]
+RememberName checks
+EvgenScala checks
+** Dealing river ** [ Js ]
+RememberName bets [$0.06]
+EvgenScala folds
+** Summary **
+RememberName did not show his hand
+RememberName collected [ $0.04 ]
+
+
+#Game No : 507665556
+***** 888poker Hand History for Game 507665556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:57:31
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.09 )
+Seat 7: RememberName ( $2.02 )
+RememberName posts small blind [$0.01]
+EvgenScala posts big blind [$0.02]
+** Dealing down cards **
+RememberName folds
+** Summary **
+EvgenScala did not show his hand
+EvgenScala collected [ $0.03 ]
+
+
+#Game No : 507665558
+***** 888poker Hand History for Game 507665558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:57:36
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.10 )
+Seat 7: RememberName ( $2.01 )
+EvgenScala posts small blind [$0.01]
+RememberName posts big blind [$0.02]
+** Dealing down cards **
+EvgenScala calls [$0.01]
+RememberName checks
+** Dealing flop ** [ Td, 6h, Kd ]
+RememberName checks
+EvgenScala checks
+** Dealing turn ** [ 8s ]
+RememberName bets [$0.02]
+EvgenScala folds
+** Summary **
+RememberName did not show his hand
+RememberName collected [ $0.04 ]
+
+
+#Game No : 507665563
+***** 888poker Hand History for Game 507665563 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:57:51
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.08 )
+Seat 7: RememberName ( $2.03 )
+RememberName posts small blind [$0.01]
+EvgenScala posts big blind [$0.02]
+** Dealing down cards **
+RememberName calls [$0.01]
+EvgenScala checks
+** Dealing flop ** [ Ac, 9d, Qh ]
+EvgenScala checks
+RememberName checks
+** Dealing turn ** [ Tc ]
+EvgenScala checks
+RememberName checks
+** Dealing river ** [ Kc ]
+EvgenScala checks
+RememberName checks
+** Summary **
+EvgenScala shows [ Js, 3s ]
+RememberName mucks [ 6d, 5h ]
+EvgenScala collected [ $0.04 ]
+
+
+#Game No : 507665572
+***** 888poker Hand History for Game 507665572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:58:10
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.10 )
+Seat 7: RememberName ( $2.01 )
+EvgenScala posts small blind [$0.01]
+RememberName posts big blind [$0.02]
+** Dealing down cards **
+EvgenScala calls [$0.01]
+RememberName checks
+** Dealing flop ** [ Jc, Kd, 7h ]
+RememberName checks
+EvgenScala checks
+** Dealing turn ** [ 6d ]
+RememberName checks
+EvgenScala checks
+** Dealing river ** [ Ts ]
+RememberName checks
+EvgenScala checks
+** Summary **
+RememberName shows [ 3s, 9s ]
+EvgenScala shows [ 2c, Ah ]
+EvgenScala collected [ $0.04 ]
+
+
+#Game No : 507665579
+***** 888poker Hand History for Game 507665579 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:58:28
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.12 )
+Seat 7: RememberName ( $2 )
+RememberName posts small blind [$0.01]
+EvgenScala posts big blind [$0.02]
+** Dealing down cards **
+RememberName calls [$0.01]
+EvgenScala checks
+** Dealing flop ** [ Qd, Qs, 2s ]
+EvgenScala checks
+RememberName bets [$0.04]
+EvgenScala folds
+** Summary **
+RememberName did not show his hand
+RememberName collected [ $0.04 ]
+
+
+#Game No : 507665589
+***** 888poker Hand History for Game 507665589 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:58:48
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.10 )
+Seat 7: RememberName ( $2.02 )
+EvgenScala posts small blind [$0.01]
+RememberName posts big blind [$0.02]
+** Dealing down cards **
+EvgenScala calls [$0.01]
+RememberName checks
+** Dealing flop ** [ 9c, 8c, 9h ]
+RememberName checks
+EvgenScala bets [$0.02]
+RememberName calls [$0.02]
+** Dealing turn ** [ 6h ]
+RememberName checks
+EvgenScala checks
+** Dealing river ** [ Kh ]
+RememberName checks
+EvgenScala checks
+** Summary **
+RememberName shows [ Kc, Qh ]
+EvgenScala mucks [ 7s, Ad ]
+RememberName collected [ $0.08 ]
+
+
+#Game No : 507665599
+***** 888poker Hand History for Game 507665599 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:59:09
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.06 )
+Seat 7: RememberName ( $2.06 )
+RememberName posts small blind [$0.01]
+EvgenScala posts big blind [$0.02]
+** Dealing down cards **
+RememberName folds
+** Summary **
+EvgenScala did not show his hand
+EvgenScala collected [ $0.03 ]
+
+
+#Game No : 507665600
+***** 888poker Hand History for Game 507665600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:59:14
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.07 )
+Seat 7: RememberName ( $2.05 )
+EvgenScala posts small blind [$0.01]
+RememberName posts big blind [$0.02]
+** Dealing down cards **
+EvgenScala calls [$0.01]
+RememberName checks
+** Dealing flop ** [ 5s, Kc, Ac ]
+RememberName checks
+EvgenScala folds
+** Summary **
+RememberName did not show his hand
+RememberName collected [ $0.04 ]
+
+
+#Game No : 507665608
+***** 888poker Hand History for Game 507665608 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:59:28
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.05 )
+Seat 7: RememberName ( $2.07 )
+RememberName posts small blind [$0.01]
+EvgenScala posts big blind [$0.02]
+** Dealing down cards **
+RememberName raises [$0.03]
+EvgenScala calls [$0.02]
+** Dealing flop ** [ 7s, 6d, Kh ]
+EvgenScala bets [$0.02]
+RememberName calls [$0.02]
+** Dealing turn ** [ 3c ]
+EvgenScala bets [$0.02]
+RememberName calls [$0.02]
+** Dealing river ** [ Jh ]
+EvgenScala bets [$0.08]
+RememberName folds
+** Summary **
+EvgenScala did not show his hand
+EvgenScala collected [ $0.15 ]
+
+
+#Game No : 507665620
+***** 888poker Hand History for Game 507665620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 06:59:54
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EvgenScala ( $1.12 )
+Seat 7: RememberName ( $2 )
+EvgenScala posts small blind [$0.01]
+RememberName posts big blind [$0.02]
+** Dealing down cards **
+EvgenScala calls [$0.01]
+RememberName checks
+** Dealing flop ** [ Ac, 8s, 5d ]
+RememberName checks
+EvgenScala checks
+** Dealing turn ** [ Ts ]
+RememberName checks
+EvgenScala checks
+** Dealing river ** [ Qh ]
+RememberName checks
+EvgenScala checks
+** Summary **
+RememberName shows [ 3s, Jc ]
+EvgenScala shows [ Kc, 4h ]
+EvgenScala collected [ $0.04 ]
+
+

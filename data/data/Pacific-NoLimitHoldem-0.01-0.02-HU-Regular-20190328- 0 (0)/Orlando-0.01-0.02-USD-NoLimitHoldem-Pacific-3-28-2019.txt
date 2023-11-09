@@ -1,0 +1,90 @@
+#Game No : 617884317
+***** 888poker Hand History for Game 617884317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 03 2019 21:24:25
+Table Orlando 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jimbob201 ( $0.80 )
+Seat 2: Turkmenabat ( $1 )
+jimbob201 posts small blind [$0.01]
+Turkmenabat posts big blind [$0.02]
+** Dealing down cards **
+jimbob201 folds
+** Summary **
+Turkmenabat did not show his hand
+Turkmenabat collected [ $0.03 ]
+
+
+#Game No : 463427379
+***** 888poker Hand History for Game 463427379 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 03 2019 23:00:34
+Table Orlando 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kuzankin ( $1.29 )
+Seat 7: Yorikyohoho ( $3.94 )
+Kuzankin posts small blind [$0.01]
+Yorikyohoho posts big blind [$0.02]
+** Dealing down cards **
+Kuzankin calls [$0.01]
+Yorikyohoho checks
+** Dealing flop ** [ Qc, 4c, 9h ]
+Yorikyohoho checks
+Kuzankin checks
+** Dealing turn ** [ 7h ]
+Yorikyohoho checks
+Kuzankin checks
+** Dealing river ** [ Th ]
+Yorikyohoho checks
+Kuzankin checks
+** Summary **
+Yorikyohoho shows [ Js, 4h ]
+Kuzankin mucks [ Jc, Ad ]
+Yorikyohoho collected [ $0.04 ]
+
+
+#Game No : 463431664
+***** 888poker Hand History for Game 463431664 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 03 2019 03:28:15
+Table Orlando 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: QMoneyTalksQ ( $1.12 )
+Seat 9: Natan1989 ( $0.80 )
+Natan1989 posts small blind [$0.01]
+QMoneyTalksQ posts big blind [$0.02]
+** Dealing down cards **
+Natan1989 calls [$0.01]
+QMoneyTalksQ checks
+** Dealing flop ** [ 7c, Qh, Jd ]
+QMoneyTalksQ bets [$0.04]
+Natan1989 calls [$0.04]
+** Dealing turn ** [ 5s ]
+QMoneyTalksQ bets [$0.12]
+Natan1989 calls [$0.12]
+** Dealing river ** [ 6d ]
+QMoneyTalksQ bets [$0.36]
+Natan1989 calls [$0.36]
+** Summary **
+QMoneyTalksQ shows [ Qd, 5h ]
+Natan1989 mucks [ 8d, Qc ]
+QMoneyTalksQ collected [ $1.02 ]
+
+
+#Game No : 463431678
+***** 888poker Hand History for Game 463431678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 03 2019 03:28:22
+Table Orlando 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: QMoneyTalksQ ( $1.60 )
+Seat 9: Natan1989 ( $0.26 )
+QMoneyTalksQ posts small blind [$0.01]
+Natan1989 posts big blind [$0.02]
+** Dealing down cards **
+QMoneyTalksQ raises [$0.05]
+Natan1989 folds
+** Summary **
+QMoneyTalksQ collected [ $0.04 ]
+
+

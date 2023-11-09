@@ -1,0 +1,91 @@
+#Game No : 608748267
+***** 888poker Hand History for Game 608748267 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:18:02
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Sanekkent13 ( $0.81 )
+Seat 6: shaaarkyyy1 ( $2 )
+Sanekkent13 posts small blind [$0.01]
+shaaarkyyy1 posts big blind [$0.02]
+** Dealing down cards **
+Sanekkent13 calls [$0.01]
+shaaarkyyy1 raises [$0.04]
+Sanekkent13 calls [$0.04]
+** Dealing flop ** [ 7s, 9d, 8h ]
+shaaarkyyy1 bets [$0.06]
+Sanekkent13 calls [$0.06]
+** Dealing turn ** [ Ac ]
+shaaarkyyy1 checks
+Sanekkent13 bets [$0.12]
+shaaarkyyy1 calls [$0.12]
+** Dealing river ** [ Kc ]
+shaaarkyyy1 checks
+Sanekkent13 checks
+** Summary **
+shaaarkyyy1 shows [ As, 5c ]
+Sanekkent13 mucks [ 4c, 5s ]
+shaaarkyyy1 collected [ $0.45 ]
+
+
+#Game No : 608748281
+***** 888poker Hand History for Game 608748281 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:18:13
+Table Tehuacan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Sanekkent13 ( $0.57 )
+Seat 6: shaaarkyyy1 ( $2.21 )
+shaaarkyyy1 posts small blind [$0.01]
+Sanekkent13 posts big blind [$0.02]
+** Dealing down cards **
+shaaarkyyy1 folds
+** Summary **
+Sanekkent13 collected [ $0.03 ]
+
+
+#Game No : 608771135
+***** 888poker Hand History for Game 608771135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:39:28
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: moochcat ( $2 )
+Seat 10: asmak100 ( $2.73 )
+moochcat posts small blind [$0.01]
+asmak100 posts big blind [$0.02]
+** Dealing down cards **
+moochcat calls [$0.01]
+asmak100 checks
+** Dealing flop ** [ 8c, 8h, 2s ]
+asmak100 checks
+moochcat checks
+** Dealing turn ** [ Ah ]
+asmak100 checks
+moochcat checks
+** Dealing river ** [ 9s ]
+asmak100 checks
+moochcat bets [$0.04]
+asmak100 raises [$0.16]
+moochcat calls [$0.12]
+** Summary **
+asmak100 shows [ 8d, 5h ]
+moochcat mucks [ 9h, Kh ]
+asmak100 collected [ $0.34 ]
+
+
+#Game No : 608771160
+***** 888poker Hand History for Game 608771160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:40:24
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: moochcat ( $1.82 )
+Seat 10: asmak100 ( $2.89 )
+asmak100 posts small blind [$0.01]
+** Dealing down cards **
+moochcat folds
+** Summary **
+asmak100 collected [ $0.01 ]
+
+

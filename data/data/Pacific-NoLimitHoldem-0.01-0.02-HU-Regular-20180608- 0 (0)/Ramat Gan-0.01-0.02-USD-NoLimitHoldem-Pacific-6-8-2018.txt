@@ -1,0 +1,29 @@
+#Game No : 503078764
+***** 888poker Hand History for Game 503078764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 07:12:57
+Table Ramat Gan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Neilionionio ( $3.93 )
+Seat 7: Makey1 ( $1.94 )
+Neilionionio posts small blind [$0.01]
+Makey1 posts big blind [$0.02]
+** Dealing down cards **
+Neilionionio calls [$0.01]
+Makey1 checks
+** Dealing flop ** [ 8c, Js, 7d ]
+Makey1 bets [$0.02]
+Neilionionio calls [$0.02]
+** Dealing turn ** [ 6c ]
+Makey1 checks
+Neilionionio bets [$0.04]
+Makey1 calls [$0.04]
+** Dealing river ** [ 3s ]
+Makey1 checks
+Neilionionio checks
+** Summary **
+Makey1 shows [ Ah, 7c ]
+Neilionionio shows [ Ks, Jh ]
+Neilionionio collected [ $0.15 ]
+
+

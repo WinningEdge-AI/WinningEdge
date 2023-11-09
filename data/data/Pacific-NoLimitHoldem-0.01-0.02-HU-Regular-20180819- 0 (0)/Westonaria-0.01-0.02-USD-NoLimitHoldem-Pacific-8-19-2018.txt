@@ -1,0 +1,932 @@
+#Game No : 501090594
+***** 888poker Hand History for Game 501090594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:17:24
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.06 )
+Seat 2: VKarmanovich ( $0.74 )
+vesk12 posts small blind [$0.01]
+VKarmanovich posts big blind [$0.02]
+** Dealing down cards **
+vesk12 calls [$0.01]
+VKarmanovich checks
+** Dealing flop ** [ 3s, Ts, 6c ]
+VKarmanovich checks
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Dealing turn ** [ Kd ]
+VKarmanovich checks
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Dealing river ** [ Th ]
+VKarmanovich checks
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Summary **
+vesk12 shows [ 7c, 6d ]
+VKarmanovich mucks [ 3c, Ad ]
+vesk12 collected [ $0.15 ]
+
+
+#Game No : 501090600
+***** 888poker Hand History for Game 501090600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:17:33
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.13 )
+Seat 2: VKarmanovich ( $0.66 )
+VKarmanovich posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+VKarmanovich calls [$0.01]
+vesk12 checks
+** Dealing flop ** [ 2d, Jd, 2c ]
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Dealing turn ** [ Qh ]
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Dealing river ** [ Ts ]
+vesk12 bets [$0.02]
+VKarmanovich raises [$0.06]
+vesk12 calls [$0.04]
+** Summary **
+VKarmanovich shows [ 3s, 2s ]
+vesk12 mucks [ 9c, 9s ]
+VKarmanovich collected [ $0.23 ]
+
+
+#Game No : 501090607
+***** 888poker Hand History for Game 501090607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:17:58
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.01 )
+Seat 2: VKarmanovich ( $0.77 )
+vesk12 posts small blind [$0.01]
+VKarmanovich posts big blind [$0.02]
+** Dealing down cards **
+vesk12 calls [$0.01]
+VKarmanovich checks
+** Dealing flop ** [ 9c, Tc, 7h ]
+VKarmanovich checks
+vesk12 checks
+** Dealing turn ** [ 6c ]
+VKarmanovich checks
+vesk12 checks
+** Dealing river ** [ 2h ]
+VKarmanovich bets [$0.02]
+vesk12 calls [$0.02]
+** Summary **
+VKarmanovich shows [ 7s, Ad ]
+vesk12 mucks [ 2s, Kd ]
+VKarmanovich collected [ $0.08 ]
+
+
+#Game No : 501090610
+***** 888poker Hand History for Game 501090610 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:18:21
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $0.97 )
+Seat 2: VKarmanovich ( $0.81 )
+VKarmanovich posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+VKarmanovich folds
+** Summary **
+vesk12 did not show his hand
+vesk12 collected [ $0.03 ]
+
+
+#Game No : 501090613
+***** 888poker Hand History for Game 501090613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:18:30
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $0.98 )
+Seat 2: VKarmanovich ( $0.80 )
+vesk12 posts small blind [$0.01]
+VKarmanovich posts big blind [$0.02]
+** Dealing down cards **
+vesk12 calls [$0.01]
+VKarmanovich checks
+** Dealing flop ** [ Ac, Ks, 3s ]
+VKarmanovich checks
+vesk12 checks
+** Dealing turn ** [ 3c ]
+VKarmanovich checks
+vesk12 checks
+** Dealing river ** [ 8s ]
+VKarmanovich checks
+vesk12 bets [$0.02]
+VKarmanovich folds
+** Summary **
+vesk12 did not show his hand
+vesk12 collected [ $0.04 ]
+
+
+#Game No : 501090620
+***** 888poker Hand History for Game 501090620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:18:54
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1 )
+Seat 2: VKarmanovich ( $0.78 )
+VKarmanovich posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+VKarmanovich calls [$0.01]
+vesk12 checks
+** Dealing flop ** [ Qs, 5s, 6d ]
+vesk12 checks
+VKarmanovich checks
+** Dealing turn ** [ Kh ]
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Dealing river ** [ 6s ]
+vesk12 bets [$0.02]
+VKarmanovich folds
+** Summary **
+vesk12 did not show his hand
+vesk12 collected [ $0.08 ]
+
+
+#Game No : 501090631
+***** 888poker Hand History for Game 501090631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:19:42
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.04 )
+Seat 2: VKarmanovich ( $0.74 )
+vesk12 posts small blind [$0.01]
+VKarmanovich posts big blind [$0.02]
+** Dealing down cards **
+vesk12 calls [$0.01]
+VKarmanovich checks
+** Dealing flop ** [ 7s, Th, 7c ]
+VKarmanovich checks
+vesk12 bets [$0.02]
+VKarmanovich folds
+** Summary **
+vesk12 did not show his hand
+vesk12 collected [ $0.04 ]
+
+
+#Game No : 501090636
+***** 888poker Hand History for Game 501090636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:20:10
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.06 )
+Seat 2: VKarmanovich ( $0.72 )
+VKarmanovich posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+VKarmanovich calls [$0.01]
+vesk12 checks
+** Dealing flop ** [ 8h, 9s, 2d ]
+vesk12 checks
+VKarmanovich checks
+** Dealing turn ** [ Tc ]
+vesk12 checks
+VKarmanovich checks
+** Dealing river ** [ 6h ]
+vesk12 checks
+VKarmanovich bets [$0.02]
+vesk12 folds
+** Summary **
+VKarmanovich collected [ $0.04 ]
+
+
+#Game No : 501090652
+***** 888poker Hand History for Game 501090652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:21:22
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.08 )
+Seat 2: VKarmanovich ( $0.70 )
+VKarmanovich posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+VKarmanovich calls [$0.01]
+vesk12 checks
+** Dealing flop ** [ 3h, 8d, Qh ]
+vesk12 checks
+VKarmanovich checks
+** Dealing turn ** [ 3s ]
+vesk12 checks
+VKarmanovich checks
+** Dealing river ** [ Jh ]
+vesk12 bets [$0.02]
+VKarmanovich folds
+** Summary **
+vesk12 did not show his hand
+vesk12 collected [ $0.04 ]
+
+
+#Game No : 501090656
+***** 888poker Hand History for Game 501090656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:21:42
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.10 )
+Seat 2: VKarmanovich ( $0.68 )
+vesk12 posts small blind [$0.01]
+VKarmanovich posts big blind [$0.02]
+** Dealing down cards **
+vesk12 calls [$0.01]
+VKarmanovich checks
+** Dealing flop ** [ 8h, 9s, 3d ]
+VKarmanovich checks
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Dealing turn ** [ 5s ]
+VKarmanovich checks
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Dealing river ** [ Js ]
+VKarmanovich checks
+vesk12 bets [$0.02]
+VKarmanovich folds
+** Summary **
+vesk12 collected [ $0.12 ]
+
+
+#Game No : 501090672
+***** 888poker Hand History for Game 501090672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 21:22:36
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.16 )
+Seat 2: VKarmanovich ( $0.62 )
+VKarmanovich posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+VKarmanovich calls [$0.01]
+vesk12 checks
+** Dealing flop ** [ 9c, 4c, 6s ]
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Dealing turn ** [ 2d ]
+vesk12 bets [$0.02]
+VKarmanovich calls [$0.02]
+** Dealing river ** [ 5c ]
+vesk12 bets [$0.02]
+VKarmanovich raises [$0.04]
+vesk12 calls [$0.02]
+** Summary **
+VKarmanovich shows [ 3h, 3d ]
+vesk12 mucks [ Ad, 6c ]
+VKarmanovich collected [ $0.19 ]
+
+
+#Game No : 501094305
+***** 888poker Hand History for Game 501094305 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 00:45:36
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: CTAPOCTA23 ( $1.02 )
+Seat 7: LePoulpe75 ( $1.51 )
+CTAPOCTA23 posts small blind [$0.01]
+LePoulpe75 posts big blind [$0.02]
+** Dealing down cards **
+CTAPOCTA23 folds
+** Summary **
+LePoulpe75 did not show his hand
+LePoulpe75 collected [ $0.03 ]
+
+
+#Game No : 501099887
+***** 888poker Hand History for Game 501099887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:39:58
+Table Westonaria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ArmsPeddler ( $1.55 )
+Seat 4: Enemy_of_y ( $0.85 )
+Enemy_of_y posts small blind [$0.01]
+** Dealing down cards **
+ArmsPeddler folds
+** Summary **
+Enemy_of_y collected [ $0.01 ]
+
+
+#Game No : 501099929
+***** 888poker Hand History for Game 501099929 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:41:12
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1 )
+Seat 4: Enemy_of_y ( $0.85 )
+Cheeta01 posts small blind [$0.01]
+Enemy_of_y posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+Enemy_of_y raises [$0.04]
+Cheeta01 folds
+** Summary **
+Enemy_of_y collected [ $0.04 ]
+
+
+#Game No : 501099938
+***** 888poker Hand History for Game 501099938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:41:24
+Table Westonaria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $0.98 )
+Seat 4: Enemy_of_y ( $0.87 )
+Enemy_of_y posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Enemy_of_y calls [$0.01]
+Cheeta01 checks
+** Dealing flop ** [ 5h, Tc, Js ]
+Cheeta01 checks
+Enemy_of_y bets [$0.02]
+Cheeta01 calls [$0.02]
+** Dealing turn ** [ 6h ]
+Cheeta01 checks
+Enemy_of_y bets [$0.05]
+Cheeta01 folds
+** Summary **
+Enemy_of_y collected [ $0.08 ]
+
+
+#Game No : 501099959
+***** 888poker Hand History for Game 501099959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:42:00
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $0.94 )
+Seat 4: Enemy_of_y ( $0.91 )
+Cheeta01 posts small blind [$0.01]
+Enemy_of_y posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 folds
+** Summary **
+Enemy_of_y collected [ $0.03 ]
+
+
+#Game No : 501100401
+***** 888poker Hand History for Game 501100401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:51:58
+Table Westonaria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.37 )
+Seat 4: Enemy_of_y ( $1.14 )
+Enemy_of_y posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Enemy_of_y raises [$0.03]
+Cheeta01 folds
+** Summary **
+Enemy_of_y collected [ $0.04 ]
+
+
+#Game No : 501100405
+***** 888poker Hand History for Game 501100405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:52:05
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.35 )
+Seat 4: Enemy_of_y ( $1.16 )
+Cheeta01 posts small blind [$0.01]
+Enemy_of_y posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 raises [$0.07]
+Enemy_of_y calls [$0.06]
+** Dealing flop ** [ 4d, 5c, 6h ]
+Enemy_of_y checks
+Cheeta01 bets [$0.02]
+Enemy_of_y raises [$0.06]
+Cheeta01 calls [$0.04]
+** Dealing turn ** [ 2s ]
+Enemy_of_y bets [$0.10]
+Cheeta01 calls [$0.10]
+** Dealing river ** [ 4c ]
+Enemy_of_y bets [$0.32]
+Cheeta01 calls [$0.32]
+** Summary **
+Enemy_of_y shows [ Ad, 7h ]
+Cheeta01 shows [ Jh, Ac ]
+Cheeta01 collected [ $1.05 ]
+
+
+#Game No : 501100488
+***** 888poker Hand History for Game 501100488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:53:48
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BantikJR ( $0.95 )
+Seat 6: AntonioKaz ( $0.80 )
+BantikJR posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+BantikJR raises [$0.05]
+AntonioKaz folds
+** Summary **
+BantikJR collected [ $0.04 ]
+
+
+#Game No : 501100492
+***** 888poker Hand History for Game 501100492 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:53:55
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: BantikJR ( $0.97 )
+Seat 4: Enemy_of_y ( $0.98 )
+BantikJR posts small blind [$0.01]
+Enemy_of_y posts big blind [$0.02]
+** Dealing down cards **
+BantikJR raises [$0.05]
+Enemy_of_y raises [$0.16]
+BantikJR calls [$0.12]
+** Dealing flop ** [ 5h, 7s, 7d ]
+BantikJR bets [$0.14]
+Enemy_of_y calls [$0.14]
+** Dealing turn ** [ 4c ]
+BantikJR checks
+Enemy_of_y checks
+** Dealing river ** [ Jd ]
+BantikJR bets [$0.45]
+Enemy_of_y calls [$0.45]
+** Summary **
+BantikJR shows [ Kh, Jc ]
+Enemy_of_y mucks [ 5d, Kd ]
+BantikJR collected [ $1.45 ]
+
+
+#Game No : 501100517
+***** 888poker Hand History for Game 501100517 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 03:54:37
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BantikJR ( $1.65 )
+Seat 4: Enemy_of_y ( $0.21 )
+BantikJR posts small blind [$0.01]
+Enemy_of_y posts big blind [$0.02]
+** Dealing down cards **
+BantikJR folds
+** Summary **
+Enemy_of_y collected [ $0.03 ]
+
+
+#Game No : 501101973
+***** 888poker Hand History for Game 501101973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 04:31:49
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 5piller1 ( $1.02 )
+Seat 9: BillyboyVB ( $1.04 )
+5piller1 posts small blind [$0.01]
+BillyboyVB posts big blind [$0.02]
+** Dealing down cards **
+5piller1 raises [$0.05]
+BillyboyVB calls [$0.04]
+** Dealing flop ** [ 7c, 3s, 4h ]
+BillyboyVB checks
+5piller1 bets [$0.08]
+BillyboyVB folds
+** Summary **
+5piller1 collected [ $0.12 ]
+
+
+#Game No : 501117752
+***** 888poker Hand History for Game 501117752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 11:16:48
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: tonyadamson ( $0.92 )
+Seat 6: StndBune ( $0.87 )
+StndBune posts small blind [$0.01]
+tonyadamson posts big blind [$0.02]
+** Dealing down cards **
+StndBune calls [$0.01]
+tonyadamson checks
+** Dealing flop ** [ 8s, 9d, 6c ]
+tonyadamson checks
+StndBune checks
+** Dealing turn ** [ 8h ]
+tonyadamson checks
+StndBune bets [$0.06]
+tonyadamson calls [$0.06]
+** Dealing river ** [ 3s ]
+tonyadamson checks
+StndBune bets [$0.16]
+tonyadamson folds
+** Summary **
+StndBune collected [ $0.15 ]
+
+
+#Game No : 501117861
+***** 888poker Hand History for Game 501117861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 11:18:57
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Wowka8989 ( $0.80 )
+Seat 6: StndBune ( $0.94 )
+Wowka8989 posts small blind [$0.01]
+StndBune posts big blind [$0.02]
+** Dealing down cards **
+Wowka8989 calls [$0.01]
+StndBune checks
+** Dealing flop ** [ 3h, 6c, 7h ]
+StndBune checks
+Wowka8989 checks
+** Dealing turn ** [ 5h ]
+StndBune checks
+Wowka8989 bets [$0.02]
+StndBune folds
+** Summary **
+Wowka8989 collected [ $0.04 ]
+
+
+#Game No : 501117882
+***** 888poker Hand History for Game 501117882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 11:19:19
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Wowka8989 ( $0.82 )
+Seat 6: StndBune ( $0.92 )
+StndBune posts small blind [$0.01]
+Wowka8989 posts big blind [$0.02]
+** Dealing down cards **
+StndBune folds
+** Summary **
+Wowka8989 collected [ $0.03 ]
+
+
+#Game No : 501124464
+***** 888poker Hand History for Game 501124464 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 13:36:49
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: IGr0lk ( $1 )
+Seat 9: iuriitcarev ( $1.22 )
+IGr0lk posts small blind [$0.01]
+iuriitcarev posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+iuriitcarev folds
+** Summary **
+IGr0lk did not show his hand
+IGr0lk collected [ $0.04 ]
+
+
+#Game No : 501124481
+***** 888poker Hand History for Game 501124481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 13:37:11
+Table Westonaria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: IGr0lk ( $1.02 )
+Seat 9: iuriitcarev ( $1.20 )
+IGr0lk posts small blind [$0.01]
+** Dealing down cards **
+iuriitcarev folds
+** Summary **
+IGr0lk did not show his hand
+IGr0lk collected [ $0.01 ]
+
+
+#Game No : 501124631
+***** 888poker Hand History for Game 501124631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 13:40:16
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 5piller1 ( $1.04 )
+Seat 6: abbbas_3009 ( $0.76 )
+5piller1 posts small blind [$0.01]
+abbbas_3009 posts big blind [$0.02]
+** Dealing down cards **
+5piller1 raises [$0.05]
+abbbas_3009 calls [$0.04]
+** Dealing flop ** [ 7s, Qc, Qd ]
+abbbas_3009 checks
+5piller1 bets [$0.12]
+abbbas_3009 folds
+** Summary **
+5piller1 collected [ $0.12 ]
+
+
+#Game No : 501128328
+***** 888poker Hand History for Game 501128328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 14:59:39
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: jchan1128 ( $0.79 )
+Seat 9: lemmeGuess ( $1 )
+lemmeGuess posts small blind [$0.01]
+jchan1128 posts big blind [$0.02]
+** Dealing down cards **
+lemmeGuess folds
+** Summary **
+jchan1128 collected [ $0.03 ]
+
+
+#Game No : 501128346
+***** 888poker Hand History for Game 501128346 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 14:59:58
+Table Westonaria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: jchan1128 ( $0.80 )
+Seat 9: lemmeGuess ( $1 )
+lemmeGuess posts small blind [$0.01]
+jchan1128 posts big blind [$0.02]
+** Dealing down cards **
+lemmeGuess raises [$0.05]
+jchan1128 folds
+** Summary **
+lemmeGuess collected [ $0.04 ]
+
+
+#Game No : 501128354
+***** 888poker Hand History for Game 501128354 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 15:00:06
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: jchan1128 ( $0.78 )
+Seat 9: lemmeGuess ( $1.02 )
+jchan1128 posts small blind [$0.01]
+lemmeGuess posts big blind [$0.02]
+** Dealing down cards **
+jchan1128 raises [$0.03]
+lemmeGuess calls [$0.02]
+** Dealing flop ** [ Ts, 7h, 2h ]
+lemmeGuess checks
+jchan1128 bets [$0.05]
+lemmeGuess calls [$0.05]
+** Dealing turn ** [ Kd ]
+lemmeGuess checks
+jchan1128 checks
+** Dealing river ** [ 3h ]
+lemmeGuess bets [$0.08]
+jchan1128 folds
+** Summary **
+lemmeGuess collected [ $0.17 ]
+
+
+#Game No : 501128433
+***** 888poker Hand History for Game 501128433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 15:01:32
+Table Westonaria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Delpoker1970 ( $1.60 )
+Seat 9: lemmeGuess ( $1.73 )
+Delpoker1970 posts small blind [$0.01]
+lemmeGuess posts big blind [$0.02]
+** Dealing down cards **
+Delpoker1970 calls [$0.01]
+lemmeGuess checks
+** Dealing flop ** [ 9s, 4d, 7h ]
+lemmeGuess checks
+Delpoker1970 checks
+** Dealing turn ** [ Js ]
+lemmeGuess checks
+Delpoker1970 checks
+** Dealing river ** [ Ad ]
+lemmeGuess checks
+Delpoker1970 checks
+** Summary **
+lemmeGuess shows [ 2c, 8c ]
+Delpoker1970 shows [ Qh, Tc ]
+Delpoker1970 collected [ $0.04 ]
+
+
+#Game No : 501130762
+***** 888poker Hand History for Game 501130762 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:00:49
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $3.23 )
+Seat 6: LePoulpe75 ( $2.74 )
+LePoulpe75 posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+LePoulpe75 folds
+** Summary **
+UnderTheGon collected [ $0.03 ]
+
+
+#Game No : 501130765
+***** 888poker Hand History for Game 501130765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:00:54
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $3.24 )
+Seat 6: LePoulpe75 ( $2.73 )
+UnderTheGon posts small blind [$0.01]
+LePoulpe75 posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon raises [$0.04]
+LePoulpe75 calls [$0.03]
+** Dealing flop ** [ 6c, 2s, 4s ]
+LePoulpe75 checks
+UnderTheGon checks
+** Dealing turn ** [ 6h ]
+LePoulpe75 checks
+UnderTheGon checks
+** Dealing river ** [ 9d ]
+LePoulpe75 checks
+UnderTheGon checks
+** Summary **
+LePoulpe75 shows [ Ts, Qh ]
+UnderTheGon shows [ 7c, Ah ]
+UnderTheGon collected [ $0.10 ]
+
+
+#Game No : 501130784
+***** 888poker Hand History for Game 501130784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:01:22
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $3.29 )
+Seat 6: LePoulpe75 ( $2.68 )
+LePoulpe75 posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+LePoulpe75 raises [$0.05]
+UnderTheGon folds
+** Summary **
+LePoulpe75 did not show his hand
+LePoulpe75 collected [ $0.04 ]
+
+
+#Game No : 501130791
+***** 888poker Hand History for Game 501130791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:01:32
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $3.27 )
+Seat 6: LePoulpe75 ( $2.70 )
+UnderTheGon posts small blind [$0.01]
+LePoulpe75 posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+LePoulpe75 collected [ $0.03 ]
+
+
+#Game No : 501130825
+***** 888poker Hand History for Game 501130825 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:02:35
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $2.26 )
+Seat 6: LePoulpe75 ( $2.67 )
+LePoulpe75 posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+LePoulpe75 raises [$0.05]
+UnderTheGon raises [$0.16]
+LePoulpe75 calls [$0.12]
+** Dealing flop ** [ 4c, 6s, 8s ]
+UnderTheGon bets [$0.24]
+LePoulpe75 calls [$0.24]
+** Dealing turn ** [ 5d ]
+UnderTheGon bets [$1.84]
+LePoulpe75 folds
+** Summary **
+UnderTheGon did not show his hand
+UnderTheGon collected [ $0.79 ]
+
+
+#Game No : 501130848
+***** 888poker Hand History for Game 501130848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:03:20
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $2.63 )
+Seat 6: LePoulpe75 ( $2.25 )
+UnderTheGon posts small blind [$0.01]
+LePoulpe75 posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon raises [$0.04]
+LePoulpe75 folds
+** Summary **
+UnderTheGon did not show his hand
+UnderTheGon collected [ $0.04 ]
+
+
+#Game No : 501130853
+***** 888poker Hand History for Game 501130853 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:03:30
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $2.65 )
+Seat 6: LePoulpe75 ( $2.23 )
+LePoulpe75 posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+LePoulpe75 folds
+** Summary **
+UnderTheGon did not show his hand
+UnderTheGon collected [ $0.03 ]
+
+
+#Game No : 501130857
+***** 888poker Hand History for Game 501130857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:03:38
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $2.66 )
+Seat 6: LePoulpe75 ( $2.22 )
+UnderTheGon posts small blind [$0.01]
+LePoulpe75 posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+LePoulpe75 did not show his hand
+LePoulpe75 collected [ $0.03 ]
+
+
+#Game No : 501130864
+***** 888poker Hand History for Game 501130864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:03:44
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $2.65 )
+Seat 6: LePoulpe75 ( $2.23 )
+LePoulpe75 posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+LePoulpe75 raises [$0.05]
+UnderTheGon folds
+** Summary **
+LePoulpe75 did not show his hand
+LePoulpe75 collected [ $0.04 ]
+
+
+#Game No : 501130875
+***** 888poker Hand History for Game 501130875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:04:03
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $2.63 )
+Seat 6: LePoulpe75 ( $2.25 )
+UnderTheGon posts small blind [$0.01]
+LePoulpe75 posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+LePoulpe75 did not show his hand
+LePoulpe75 collected [ $0.03 ]
+
+
+#Game No : 501130879
+***** 888poker Hand History for Game 501130879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:04:09
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: UnderTheGon ( $2.62 )
+Seat 6: LePoulpe75 ( $2.26 )
+LePoulpe75 posts small blind [$0.01]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+LePoulpe75 did not show his hand
+LePoulpe75 collected [ $0.01 ]
+
+

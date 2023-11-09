@@ -1,0 +1,41 @@
+#Game No : 1254838887
+***** 888poker Hand History for Game 1254838887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 13:52:47
+Table Jerez 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: H4rd_W0rk ( $2.01 )
+Seat 9: histor15 ( $2.13 )
+histor15 posts small blind [$0.01]
+H4rd_W0rk posts big blind [$0.02]
+** Dealing down cards **
+histor15 folds
+** Summary **
+H4rd_W0rk collected [ $0.03 ]
+
+
+#Game No : 1254839132
+***** 888poker Hand History for Game 1254839132 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 13:53:39
+Table Jerez 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: _DruS_ ( $0.77 )
+Seat 9: histor15 ( $2.23 )
+_DruS_ posts small blind [$0.01]
+histor15 posts big blind [$0.02]
+** Dealing down cards **
+_DruS_ raises [$0.03]
+histor15 raises [$0.16]
+_DruS_ raises [$0.42]
+histor15 raises [$0.86]
+_DruS_ calls [$0.31]
+** Dealing flop ** [ 2c, Qh, Ah ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 4d ]
+** Summary **
+_DruS_ shows [ Qd, Jh ]
+histor15 shows [ Ac, Kh ]
+histor15 collected [ $1.45 ]
+
+

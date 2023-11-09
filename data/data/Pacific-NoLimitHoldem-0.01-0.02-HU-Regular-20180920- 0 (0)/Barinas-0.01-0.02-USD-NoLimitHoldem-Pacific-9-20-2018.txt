@@ -1,0 +1,28 @@
+#Game No : 608432115
+***** 888poker Hand History for Game 608432115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 15:06:47
+Table Barinas 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: davidwyper ( $2.56 )
+Seat 2: BognorfoX ( $2.83 )
+davidwyper posts small blind [$0.01]
+BognorfoX posts big blind [$0.02]
+** Dealing down cards **
+davidwyper calls [$0.01]
+BognorfoX checks
+** Dealing flop ** [ 2d, Ad, 5d ]
+BognorfoX checks
+davidwyper checks
+** Dealing turn ** [ Ah ]
+BognorfoX checks
+davidwyper checks
+** Dealing river ** [ As ]
+BognorfoX checks
+davidwyper checks
+** Summary **
+BognorfoX shows [ 9h, Th ]
+davidwyper shows [ Jc, Td ]
+davidwyper collected [ $0.04 ]
+
+

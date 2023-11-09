@@ -1,0 +1,44 @@
+#Game No : 455905740
+***** 888poker Hand History for Game 455905740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 07:16:06
+Table Frisco 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Lasatriop ( $1.60 )
+Seat 6: KROHN_MM ( $2.42 )
+Lasatriop posts small blind [$0.01]
+KROHN_MM posts big blind [$0.02]
+** Dealing down cards **
+Lasatriop calls [$0.01]
+KROHN_MM checks
+** Dealing flop ** [ 6c, 3h, 6d ]
+KROHN_MM checks
+Lasatriop checks
+** Dealing turn ** [ 6s ]
+KROHN_MM checks
+Lasatriop checks
+** Dealing river ** [ 4s ]
+KROHN_MM checks
+Lasatriop checks
+** Summary **
+KROHN_MM shows [ Ks, 2c ]
+Lasatriop mucks [ 8s, Qd ]
+KROHN_MM collected [ $0.04 ]
+
+
+#Game No : 455905761
+***** 888poker Hand History for Game 455905761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 07:16:52
+Table Frisco 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Lasatriop ( $1.60 )
+Seat 6: KROHN_MM ( $2.44 )
+KROHN_MM posts small blind [$0.01]
+Lasatriop posts big blind [$0.02]
+** Dealing down cards **
+KROHN_MM folds
+** Summary **
+Lasatriop collected [ $0.03 ]
+
+

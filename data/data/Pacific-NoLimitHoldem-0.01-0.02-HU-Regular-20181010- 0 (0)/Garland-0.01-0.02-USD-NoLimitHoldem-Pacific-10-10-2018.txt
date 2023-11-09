@@ -1,0 +1,114 @@
+#Game No : 503600139
+***** 888poker Hand History for Game 503600139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 08:38:35
+Table Garland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AceOSpades91 ( $0.80 )
+Seat 2: melugi ( $0.80 )
+melugi posts small blind [$0.01]
+AceOSpades91 posts big blind [$0.02]
+** Dealing down cards **
+melugi raises [$0.03]
+AceOSpades91 folds
+** Summary **
+melugi collected [ $0.04 ]
+
+
+#Game No : 503616365
+***** 888poker Hand History for Game 503616365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 13:11:59
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bacchant ( $3.12 )
+Seat 4: Beer2512 ( $0.05 )
+Beer2512 posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+Beer2512 raises [$0.03]
+Bacchant calls [$0.02]
+** Dealing flop ** [ Ah, 3d, 5s ]
+Bacchant checks
+Beer2512 bets [$0.01]
+Bacchant folds
+** Summary **
+Beer2512 collected [ $0.08 ]
+
+
+#Game No : 503616397
+***** 888poker Hand History for Game 503616397 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 13:12:24
+Table Garland 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bacchant ( $3.08 )
+Seat 4: Beer2512 ( $0.09 )
+Bacchant posts small blind [$0.01]
+Beer2512 posts big blind [$0.02]
+** Dealing down cards **
+Bacchant raises [$0.03]
+Beer2512 calls [$0.02]
+** Dealing flop ** [ 7h, 3c, 7c ]
+Beer2512 checks
+Bacchant checks
+** Dealing turn ** [ 6h ]
+Beer2512 checks
+Bacchant bets [$0.04]
+Beer2512 raises [$0.05]
+Bacchant calls [$0.01]
+** Dealing river ** [ 8s ]
+** Summary **
+Bacchant shows [ Ac, Th ]
+Beer2512 shows [ 2s, 2d ]
+Beer2512 collected [ $0.17 ]
+
+
+#Game No : 503616453
+***** 888poker Hand History for Game 503616453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 13:13:04
+Table Garland 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bacchant ( $2.99 )
+Seat 4: Beer2512 ( $0.17 )
+Beer2512 posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+Beer2512 calls [$0.01]
+Bacchant raises [$0.06]
+Beer2512 folds
+** Summary **
+Bacchant collected [ $0.04 ]
+
+
+#Game No : 503616708
+***** 888poker Hand History for Game 503616708 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 13:16:57
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Beer2512 ( $0.15 )
+Seat 6: vasi66 ( $1.14 )
+vasi66 posts small blind [$0.01]
+Beer2512 posts big blind [$0.02]
+** Dealing down cards **
+vasi66 calls [$0.01]
+Beer2512 checks
+** Dealing flop ** [ 4h, 8h, 2c ]
+Beer2512 checks
+vasi66 bets [$0.02]
+Beer2512 calls [$0.02]
+** Dealing turn ** [ 5c ]
+Beer2512 checks
+vasi66 bets [$0.02]
+Beer2512 calls [$0.02]
+** Dealing river ** [ 4d ]
+Beer2512 checks
+vasi66 checks
+** Summary **
+Beer2512 shows [ Jd, 9h ]
+vasi66 shows [ 2s, 6h ]
+vasi66 collected [ $0.12 ]
+
+

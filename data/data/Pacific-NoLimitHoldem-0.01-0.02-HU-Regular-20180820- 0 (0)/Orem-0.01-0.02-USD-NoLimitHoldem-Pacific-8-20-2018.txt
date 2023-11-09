@@ -1,0 +1,105 @@
+#Game No : 501156794
+***** 888poker Hand History for Game 501156794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 09:58:02
+Table Orem 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: zuendi15 ( $0.78 )
+Seat 2: Ivan1031 ( $1.02 )
+zuendi15 posts small blind [$0.01]
+Ivan1031 posts big blind [$0.02]
+** Dealing down cards **
+zuendi15 folds
+** Summary **
+Ivan1031 did not show his hand
+Ivan1031 collected [ $0.03 ]
+
+
+#Game No : 501156803
+***** 888poker Hand History for Game 501156803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 09:58:10
+Table Orem 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: zuendi15 ( $0.77 )
+Seat 2: Ivan1031 ( $1.03 )
+Ivan1031 posts small blind [$0.01]
+zuendi15 posts big blind [$0.02]
+** Dealing down cards **
+Ivan1031 raises [$0.05]
+zuendi15 folds
+** Summary **
+Ivan1031 collected [ $0.04 ]
+
+
+#Game No : 501161587
+***** 888poker Hand History for Game 501161587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 11:25:19
+Table Orem 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: IPetrovichSh ( $1.23 )
+Seat 4: 123aigo ( $2.69 )
+IPetrovichSh posts small blind [$0.01]
+** Dealing down cards **
+123aigo folds
+** Summary **
+IPetrovichSh collected [ $0.01 ]
+
+
+#Game No : 454575081
+***** 888poker Hand History for Game 454575081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 11:32:35
+Table Orem 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CheapSofa ( $2 )
+Seat 2: sarasimo91 ( $2 )
+CheapSofa posts small blind [$0.01]
+sarasimo91 posts big blind [$0.02]
+** Dealing down cards **
+CheapSofa raises [$0.03]
+sarasimo91 calls [$0.02]
+** Dealing flop ** [ 9c, Ac, 4d ]
+sarasimo91 bets [$0.04]
+CheapSofa calls [$0.04]
+** Dealing turn ** [ Qd ]
+sarasimo91 bets [$0.08]
+CheapSofa calls [$0.08]
+** Dealing river ** [ 7s ]
+sarasimo91 checks
+CheapSofa bets [$0.21]
+sarasimo91 folds
+** Summary **
+CheapSofa collected [ $0.30 ]
+
+
+#Game No : 454575141
+***** 888poker Hand History for Game 454575141 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 11:33:03
+Table Orem 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: CheapSofa ( $2.14 )
+Seat 2: sarasimo91 ( $1.84 )
+sarasimo91 posts small blind [$0.01]
+CheapSofa posts big blind [$0.02]
+** Dealing down cards **
+sarasimo91 raises [$0.03]
+CheapSofa calls [$0.02]
+** Dealing flop ** [ Js, 9c, 3h ]
+CheapSofa checks
+sarasimo91 checks
+** Dealing turn ** [ 6h ]
+CheapSofa checks
+sarasimo91 bets [$0.04]
+CheapSofa calls [$0.04]
+** Dealing river ** [ 5h ]
+CheapSofa checks
+sarasimo91 checks
+** Summary **
+CheapSofa shows [ 6s, Kh ]
+sarasimo91 mucks [ Qc, 5c ]
+CheapSofa collected [ $0.15 ]
+
+

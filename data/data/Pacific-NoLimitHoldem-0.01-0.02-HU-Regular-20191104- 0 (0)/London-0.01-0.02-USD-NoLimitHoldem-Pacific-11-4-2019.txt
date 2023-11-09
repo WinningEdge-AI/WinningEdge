@@ -1,0 +1,502 @@
+#Game No : 627074726
+***** 888poker Hand History for Game 627074726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:25:08
+Table London 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: yrik222 ( $2 )
+Seat 6: Lightzues ( $2.64 )
+Lightzues posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+Lightzues raises [$0.05]
+yrik222 folds
+** Summary **
+Lightzues did not show his hand
+Lightzues collected [ $0.04 ]
+
+
+#Game No : 627074737
+***** 888poker Hand History for Game 627074737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:25:41
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: yrik222 ( $2 )
+Seat 2: Kattazo ( $2 )
+Kattazo posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo folds
+** Summary **
+yrik222 did not show his hand
+yrik222 collected [ $0.03 ]
+
+
+#Game No : 627074738
+***** 888poker Hand History for Game 627074738 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:25:47
+Table London 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: yrik222 ( $2.01 )
+Seat 2: Kattazo ( $2 )
+yrik222 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+yrik222 folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 627074813
+***** 888poker Hand History for Game 627074813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:29:22
+Table London 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $2.01 )
+Seat 4: Berstone1978 ( $1.02 )
+Berstone1978 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Berstone1978 calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ 6h, 7h, Kd ]
+Kattazo checks
+Berstone1978 checks
+** Dealing turn ** [ 8d ]
+Kattazo checks
+Berstone1978 bets [$0.02]
+Kattazo folds
+** Summary **
+Berstone1978 did not show his hand
+Berstone1978 collected [ $0.04 ]
+
+
+#Game No : 627074821
+***** 888poker Hand History for Game 627074821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:29:43
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $2 )
+Seat 4: Berstone1978 ( $1.04 )
+Kattazo posts small blind [$0.01]
+Berstone1978 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo folds
+** Summary **
+Berstone1978 did not show his hand
+Berstone1978 collected [ $0.03 ]
+
+
+#Game No : 627074824
+***** 888poker Hand History for Game 627074824 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:29:47
+Table London 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $2 )
+Seat 4: Berstone1978 ( $1.05 )
+Berstone1978 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Berstone1978 calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ 4d, 6d, 7s ]
+Kattazo checks
+Berstone1978 bets [$0.04]
+Kattazo folds
+** Summary **
+Berstone1978 did not show his hand
+Berstone1978 collected [ $0.04 ]
+
+
+#Game No : 627074830
+***** 888poker Hand History for Game 627074830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:30:00
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $2 )
+Seat 4: Berstone1978 ( $1.07 )
+Kattazo posts small blind [$0.01]
+Berstone1978 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.04]
+Berstone1978 calls [$0.03]
+** Dealing flop ** [ 4s, 7s, 7d ]
+Berstone1978 checks
+Kattazo checks
+** Dealing turn ** [ 6h ]
+Berstone1978 bets [$0.10]
+Kattazo folds
+** Summary **
+Berstone1978 did not show his hand
+Berstone1978 collected [ $0.10 ]
+
+
+#Game No : 627074838
+***** 888poker Hand History for Game 627074838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:30:19
+Table London 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $2 )
+Seat 4: Berstone1978 ( $1.12 )
+Berstone1978 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Berstone1978 calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ Js, Jd, Ah ]
+Kattazo checks
+Berstone1978 checks
+** Dealing turn ** [ Ts ]
+Kattazo checks
+Berstone1978 bets [$0.04]
+Kattazo folds
+** Summary **
+Berstone1978 did not show his hand
+Berstone1978 collected [ $0.04 ]
+
+
+#Game No : 627074846
+***** 888poker Hand History for Game 627074846 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:30:35
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $2 )
+Seat 4: Berstone1978 ( $1.14 )
+Kattazo posts small blind [$0.01]
+Berstone1978 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.04]
+Berstone1978 calls [$0.03]
+** Dealing flop ** [ 4d, Td, Jh ]
+Berstone1978 checks
+Kattazo checks
+** Dealing turn ** [ 5h ]
+Berstone1978 checks
+Kattazo checks
+** Dealing river ** [ 2d ]
+Berstone1978 checks
+Kattazo checks
+** Summary **
+Berstone1978 shows [ 9c, 8h ]
+Kattazo shows [ 6h, 4h ]
+Kattazo collected [ $0.10 ]
+
+
+#Game No : 627074852
+***** 888poker Hand History for Game 627074852 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:30:56
+Table London 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $2.05 )
+Seat 4: Berstone1978 ( $1.09 )
+Berstone1978 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Berstone1978 calls [$0.01]
+Kattazo raises [$0.06]
+Berstone1978 folds
+** Summary **
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 627074861
+***** 888poker Hand History for Game 627074861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:31:19
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $2.07 )
+Seat 7: Jelchen0478 ( $0.80 )
+Kattazo posts small blind [$0.01]
+Jelchen0478 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.04]
+Jelchen0478 calls [$0.03]
+** Dealing flop ** [ 9s, 4c, 7h ]
+Jelchen0478 checks
+Kattazo checks
+** Dealing turn ** [ 6s ]
+Jelchen0478 checks
+Kattazo checks
+** Dealing river ** [ 3s ]
+Jelchen0478 checks
+Kattazo checks
+** Summary **
+Jelchen0478 shows [ Th, Ah ]
+Kattazo shows [ 8c, 7d ]
+Kattazo collected [ $0.10 ]
+
+
+#Game No : 627074878
+***** 888poker Hand History for Game 627074878 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:31:49
+Table London 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $2.12 )
+Seat 7: Jelchen0478 ( $0.75 )
+Jelchen0478 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Jelchen0478 calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ 7c, 7s, 6h ]
+Kattazo checks
+Jelchen0478 checks
+** Dealing turn ** [ Ks ]
+Kattazo checks
+Jelchen0478 checks
+** Dealing river ** [ 8c ]
+Kattazo checks
+Jelchen0478 checks
+** Summary **
+Kattazo shows [ 8d, 4d ]
+Jelchen0478 mucks [ 4c, Qd ]
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 627075164
+***** 888poker Hand History for Game 627075164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:45:15
+Table London 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.70 )
+Seat 6: Didenok007 ( $2.17 )
+Didenok007 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 folds
+** Summary **
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 627075165
+***** 888poker Hand History for Game 627075165 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:45:21
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.71 )
+Seat 6: Didenok007 ( $2.16 )
+Kattazo posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.04]
+Didenok007 folds
+** Summary **
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 627075168
+***** 888poker Hand History for Game 627075168 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:45:27
+Table London 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.73 )
+Seat 6: Didenok007 ( $2.14 )
+Didenok007 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 folds
+** Summary **
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 627075172
+***** 888poker Hand History for Game 627075172 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:45:31
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.74 )
+Seat 6: Didenok007 ( $2.13 )
+Kattazo posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.04]
+Didenok007 folds
+** Summary **
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 627075173
+***** 888poker Hand History for Game 627075173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:45:36
+Table London 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.76 )
+Seat 6: Didenok007 ( $2.11 )
+Didenok007 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ 9d, Ah, Ad ]
+Kattazo checks
+Didenok007 bets [$0.02]
+Kattazo folds
+** Summary **
+Didenok007 collected [ $0.04 ]
+
+
+#Game No : 627075178
+***** 888poker Hand History for Game 627075178 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:45:53
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.74 )
+Seat 6: Didenok007 ( $2.13 )
+Kattazo posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo folds
+** Summary **
+Didenok007 collected [ $0.03 ]
+
+
+#Game No : 627075180
+***** 888poker Hand History for Game 627075180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:45:57
+Table London 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.73 )
+Seat 6: Didenok007 ( $2.14 )
+Didenok007 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 raises [$0.05]
+Kattazo calls [$0.04]
+** Dealing flop ** [ 4d, 6h, 9s ]
+Kattazo checks
+Didenok007 bets [$0.07]
+Kattazo calls [$0.07]
+** Dealing turn ** [ 3h ]
+Kattazo checks
+Didenok007 bets [$0.17]
+Kattazo folds
+** Summary **
+Didenok007 collected [ $0.25 ]
+
+
+#Game No : 627075190
+***** 888poker Hand History for Game 627075190 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:46:22
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.60 )
+Seat 6: Didenok007 ( $2.26 )
+Kattazo posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo folds
+** Summary **
+Didenok007 collected [ $0.03 ]
+
+
+#Game No : 627075191
+***** 888poker Hand History for Game 627075191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:46:27
+Table London 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.59 )
+Seat 6: Didenok007 ( $2.27 )
+Didenok007 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 folds
+** Summary **
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 627075195
+***** 888poker Hand History for Game 627075195 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:46:31
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.60 )
+Seat 6: Didenok007 ( $2.26 )
+Kattazo posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo folds
+** Summary **
+Didenok007 collected [ $0.03 ]
+
+
+#Game No : 627075198
+***** 888poker Hand History for Game 627075198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:46:39
+Table London 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.59 )
+Seat 6: Didenok007 ( $2.27 )
+Didenok007 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ Qd, 4c, Kc ]
+Kattazo checks
+Didenok007 checks
+** Dealing turn ** [ 9h ]
+Kattazo checks
+Didenok007 checks
+** Dealing river ** [ 3s ]
+Kattazo checks
+Didenok007 checks
+** Summary **
+Kattazo shows [ Ad, 2s ]
+Didenok007 mucks [ 5d, 8d ]
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 627075204
+***** 888poker Hand History for Game 627075204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 21:47:01
+Table London 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kattazo ( $3.61 )
+Seat 6: Didenok007 ( $2.25 )
+Kattazo posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.04]
+Didenok007 calls [$0.03]
+** Dealing flop ** [ 9c, As, Qd ]
+Didenok007 checks
+Kattazo bets [$0.05]
+Didenok007 calls [$0.05]
+** Dealing turn ** [ 9s ]
+Didenok007 checks
+Kattazo bets [$0.13]
+Didenok007 calls [$0.13]
+** Dealing river ** [ 3h ]
+Didenok007 checks
+Kattazo checks
+** Summary **
+Didenok007 shows [ Ks, Ts ]
+Kattazo shows [ Kd, 7d ]
+Didenok007 collected [ $0.22 ]
+Kattazo collected [ $0.22 ]
+
+

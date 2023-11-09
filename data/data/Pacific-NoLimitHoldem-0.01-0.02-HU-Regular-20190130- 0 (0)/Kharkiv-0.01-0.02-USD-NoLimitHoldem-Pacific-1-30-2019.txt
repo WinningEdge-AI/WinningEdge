@@ -1,0 +1,63 @@
+#Game No : 512957478
+***** 888poker Hand History for Game 512957478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 19:44:22
+Table Kharkiv 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kdp989 ( $2 )
+Seat 7: sunefy ( $2.72 )
+Kdp989 posts small blind [$0.01]
+sunefy posts big blind [$0.02]
+** Dealing down cards **
+Kdp989 calls [$0.01]
+sunefy raises [$0.04]
+Kdp989 folds
+** Summary **
+sunefy collected [ $0.04 ]
+
+
+#Game No : 512957487
+***** 888poker Hand History for Game 512957487 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 19:44:50
+Table Kharkiv 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Kdp989 ( $2 )
+Seat 7: sunefy ( $2.74 )
+sunefy posts small blind [$0.01]
+Kdp989 posts big blind [$0.02]
+** Dealing down cards **
+sunefy raises [$0.05]
+Kdp989 folds
+** Summary **
+sunefy collected [ $0.04 ]
+
+
+#Game No : 512957491
+***** 888poker Hand History for Game 512957491 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 19:45:06
+Table Kharkiv 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kdp989 ( $2 )
+Seat 7: sunefy ( $2.76 )
+Kdp989 posts small blind [$0.01]
+sunefy posts big blind [$0.02]
+** Dealing down cards **
+Kdp989 calls [$0.01]
+sunefy checks
+** Dealing flop ** [ 7d, Tc, Kh ]
+sunefy checks
+Kdp989 checks
+** Dealing turn ** [ 3s ]
+sunefy checks
+Kdp989 checks
+** Dealing river ** [ 4d ]
+sunefy checks
+Kdp989 checks
+** Summary **
+sunefy shows [ Qc, 9h ]
+Kdp989 shows [ 2h, Ah ]
+Kdp989 collected [ $0.04 ]
+
+

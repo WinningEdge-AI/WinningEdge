@@ -1,0 +1,28 @@
+#Game No : 462764569
+***** 888poker Hand History for Game 462764569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 01:14:15
+Table Calabozo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: SolomonCA ( $1.76 )
+Seat 7: gunchozaurs ( $2.21 )
+SolomonCA posts small blind [$0.01]
+gunchozaurs posts big blind [$0.02]
+** Dealing down cards **
+SolomonCA calls [$0.01]
+gunchozaurs checks
+** Dealing flop ** [ 5h, Th, 5d ]
+gunchozaurs checks
+SolomonCA checks
+** Dealing turn ** [ Jd ]
+gunchozaurs checks
+SolomonCA checks
+** Dealing river ** [ 4c ]
+gunchozaurs checks
+SolomonCA checks
+** Summary **
+gunchozaurs shows [ 2c, 8h ]
+SolomonCA shows [ 9s, 8s ]
+SolomonCA collected [ $0.04 ]
+
+

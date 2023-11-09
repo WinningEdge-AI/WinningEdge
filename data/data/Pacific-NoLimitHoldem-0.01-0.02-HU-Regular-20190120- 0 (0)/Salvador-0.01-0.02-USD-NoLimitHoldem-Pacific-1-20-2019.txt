@@ -1,0 +1,53 @@
+#Game No : 512442446
+***** 888poker Hand History for Game 512442446 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 04:51:19
+Table Salvador 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: EGaranina ( $1 )
+Seat 5: rumivas ( $1.20 )
+rumivas posts small blind [$0.01]
+EGaranina posts big blind [$0.02]
+** Dealing down cards **
+rumivas calls [$0.01]
+EGaranina checks
+** Dealing flop ** [ 4h, 7s, 3h ]
+EGaranina bets [$0.04]
+rumivas calls [$0.04]
+** Dealing turn ** [ 4d ]
+EGaranina bets [$0.12]
+rumivas folds
+** Summary **
+EGaranina collected [ $0.12 ]
+
+
+#Game No : 512442466
+***** 888poker Hand History for Game 512442466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 04:51:30
+Table Salvador 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EGaranina ( $1.06 )
+Seat 5: rumivas ( $1.14 )
+EGaranina posts small blind [$0.01]
+rumivas posts big blind [$0.02]
+** Dealing down cards **
+EGaranina calls [$0.01]
+rumivas checks
+** Dealing flop ** [ 8c, 6h, 9d ]
+rumivas bets [$0.02]
+EGaranina calls [$0.02]
+** Dealing turn ** [ 5s ]
+rumivas bets [$0.02]
+EGaranina raises [$0.14]
+rumivas calls [$0.12]
+** Dealing river ** [ 2c ]
+rumivas bets [$0.36]
+EGaranina raises [$0.88]
+rumivas calls [$0.52]
+** Summary **
+EGaranina shows [ 5h, 9h ]
+rumivas shows [ 2s, 9c ]
+EGaranina collected [ $1.99 ]
+
+

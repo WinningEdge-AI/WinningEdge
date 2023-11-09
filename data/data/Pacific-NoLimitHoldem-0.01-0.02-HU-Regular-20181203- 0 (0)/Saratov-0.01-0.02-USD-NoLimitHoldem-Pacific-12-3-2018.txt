@@ -1,0 +1,46 @@
+#Game No : 611709824
+***** 888poker Hand History for Game 611709824 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 12 2018 10:28:26
+Table Saratov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: snarfoldito ( $1.07 )
+Seat 9: mrohogger ( $1.04 )
+mrohogger posts small blind [$0.01]
+snarfoldito posts big blind [$0.02]
+** Dealing down cards **
+mrohogger calls [$0.01]
+snarfoldito raises [$0.02]
+mrohogger calls [$0.02]
+** Dealing flop ** [ Ac, 7s, 3c ]
+snarfoldito checks
+mrohogger checks
+** Dealing turn ** [ Ah ]
+snarfoldito bets [$0.04]
+mrohogger calls [$0.04]
+** Dealing river ** [ 7h ]
+snarfoldito bets [$0.08]
+mrohogger calls [$0.08]
+** Summary **
+snarfoldito shows [ Qs, Qc ]
+mrohogger mucks [ Jd, 3d ]
+snarfoldito collected [ $0.30 ]
+
+
+#Game No : 611709865
+***** 888poker Hand History for Game 611709865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 12 2018 10:29:00
+Table Saratov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: snarfoldito ( $1.21 )
+Seat 9: mrohogger ( $0.88 )
+snarfoldito posts small blind [$0.01]
+mrohogger posts big blind [$0.02]
+** Dealing down cards **
+snarfoldito folds
+** Summary **
+mrohogger did not show his hand
+mrohogger collected [ $0.03 ]
+
+

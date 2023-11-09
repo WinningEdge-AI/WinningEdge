@@ -1,0 +1,103 @@
+#Game No : 505966625
+***** 888poker Hand History for Game 505966625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 09:32:44
+Table Elk Grove 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VPET49L ( $0.80 )
+Seat 2: Griboedow ( $1.20 )
+VPET49L posts small blind [$0.01]
+Griboedow posts big blind [$0.02]
+** Dealing down cards **
+VPET49L calls [$0.01]
+Griboedow checks
+** Dealing flop ** [ 8c, 9s, Jd ]
+Griboedow checks
+VPET49L checks
+** Dealing turn ** [ 4c ]
+Griboedow checks
+VPET49L checks
+** Dealing river ** [ Td ]
+Griboedow checks
+VPET49L checks
+** Summary **
+Griboedow shows [ 6d, 3h ]
+VPET49L shows [ 5c, 6s ]
+VPET49L collected [ $0.02 ]
+Griboedow collected [ $0.02 ]
+
+
+#Game No : 505966648
+***** 888poker Hand History for Game 505966648 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 09:33:13
+Table Elk Grove 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: VPET49L ( $0.80 )
+Seat 2: Griboedow ( $1.20 )
+Griboedow posts small blind [$0.01]
+VPET49L posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+VPET49L checks
+** Dealing flop ** [ 9d, 2s, Qd ]
+VPET49L checks
+Griboedow checks
+** Dealing turn ** [ 4d ]
+VPET49L bets [$0.02]
+Griboedow folds
+** Summary **
+VPET49L collected [ $0.04 ]
+
+
+#Game No : 505966660
+***** 888poker Hand History for Game 505966660 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 09:33:32
+Table Elk Grove 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VPET49L ( $0.82 )
+Seat 2: Griboedow ( $1.18 )
+VPET49L posts small blind [$0.01]
+Griboedow posts big blind [$0.02]
+** Dealing down cards **
+VPET49L calls [$0.01]
+Griboedow checks
+** Dealing flop ** [ 5d, 2s, 6c ]
+Griboedow checks
+VPET49L bets [$0.02]
+Griboedow calls [$0.02]
+** Dealing turn ** [ 7s ]
+Griboedow checks
+VPET49L bets [$0.02]
+Griboedow calls [$0.02]
+** Dealing river ** [ Js ]
+Griboedow checks
+VPET49L checks
+** Summary **
+Griboedow shows [ Kh, 4h ]
+VPET49L shows [ 6h, 3d ]
+VPET49L collected [ $0.12 ]
+
+
+#Game No : 505966690
+***** 888poker Hand History for Game 505966690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 09:34:05
+Table Elk Grove 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: VPET49L ( $0.88 )
+Seat 2: Griboedow ( $1.12 )
+Griboedow posts small blind [$0.01]
+VPET49L posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+VPET49L raises [$0.02]
+Griboedow calls [$0.02]
+** Dealing flop ** [ Qd, Qs, 9d ]
+VPET49L bets [$0.02]
+Griboedow folds
+** Summary **
+VPET49L collected [ $0.08 ]
+
+

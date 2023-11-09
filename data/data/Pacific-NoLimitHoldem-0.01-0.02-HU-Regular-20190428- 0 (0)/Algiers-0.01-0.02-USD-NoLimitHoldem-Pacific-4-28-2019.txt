@@ -1,0 +1,28 @@
+#Game No : 516872890
+***** 888poker Hand History for Game 516872890 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 04 2019 09:15:27
+Table Algiers 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Skyluck11 ( $1.06 )
+Seat 9: tuman80 ( $0.85 )
+Skyluck11 posts small blind [$0.01]
+tuman80 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+tuman80 calls [$0.04]
+** Dealing flop ** [ 6d, 7c, 9d ]
+tuman80 checks
+Skyluck11 checks
+** Dealing turn ** [ 4c ]
+tuman80 checks
+Skyluck11 checks
+** Dealing river ** [ Kh ]
+tuman80 checks
+Skyluck11 checks
+** Summary **
+tuman80 shows [ Js, Qc ]
+Skyluck11 mucks [ Qh, Tc ]
+tuman80 collected [ $0.12 ]
+
+

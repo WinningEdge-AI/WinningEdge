@@ -1,0 +1,31 @@
+#Game No : 458919005
+***** 888poker Hand History for Game 458919005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 12 2018 00:32:05
+Table Heerlen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Li180556 ( $1.95 )
+Seat 2: SergioHardt ( $2.05 )
+SergioHardt posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+SergioHardt calls [$0.01]
+Li180556 raises [$0.02]
+SergioHardt calls [$0.02]
+** Dealing flop ** [ Jc, Js, 9c ]
+Li180556 bets [$0.02]
+SergioHardt raises [$0.04]
+Li180556 calls [$0.02]
+** Dealing turn ** [ 8h ]
+Li180556 bets [$0.02]
+SergioHardt raises [$0.04]
+Li180556 calls [$0.02]
+** Dealing river ** [ 2h ]
+Li180556 bets [$0.02]
+SergioHardt calls [$0.02]
+** Summary **
+Li180556 shows [ Ts, 8s ]
+SergioHardt mucks [ 7c, 4c ]
+Li180556 collected [ $0.27 ]
+
+

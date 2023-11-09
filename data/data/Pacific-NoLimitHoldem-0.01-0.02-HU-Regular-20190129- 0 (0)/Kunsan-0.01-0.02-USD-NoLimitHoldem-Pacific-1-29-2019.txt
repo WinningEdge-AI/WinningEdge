@@ -1,0 +1,80 @@
+#Game No : 614837715
+***** 888poker Hand History for Game 614837715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 01:32:57
+Table Kunsan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.93 )
+Seat 2: Puwiguto ( $0.93 )
+Puwiguto posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Puwiguto calls [$0.01]
+avramia1 raises [$0.02]
+Puwiguto calls [$0.02]
+** Dealing flop ** [ 8d, 7s, 6h ]
+avramia1 bets [$0.02]
+Puwiguto calls [$0.02]
+** Dealing turn ** [ 4h ]
+avramia1 bets [$0.02]
+Puwiguto calls [$0.02]
+** Dealing river ** [ 2h ]
+avramia1 bets [$0.02]
+Puwiguto calls [$0.02]
+** Summary **
+avramia1 shows [ Tc, 6c ]
+Puwiguto mucks [ 4d, Qd ]
+avramia1 collected [ $0.19 ]
+
+
+#Game No : 614837720
+***** 888poker Hand History for Game 614837720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 01:33:00
+Table Kunsan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.02 )
+Seat 2: Puwiguto ( $0.83 )
+avramia1 posts small blind [$0.01]
+Puwiguto posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+Puwiguto checks
+** Dealing flop ** [ 2h, 7c, 6s ]
+Puwiguto checks
+avramia1 checks
+** Dealing turn ** [ 9s ]
+Puwiguto bets [$0.04]
+avramia1 folds
+** Summary **
+Puwiguto collected [ $0.04 ]
+
+
+#Game No : 614837727
+***** 888poker Hand History for Game 614837727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 01:33:30
+Table Kunsan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2 )
+Seat 2: Puwiguto ( $0.85 )
+Puwiguto posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Puwiguto raises [$0.03]
+avramia1 raises [$0.04]
+Puwiguto calls [$0.02]
+** Dealing flop ** [ 4d, 5c, 4s ]
+avramia1 bets [$0.02]
+Puwiguto calls [$0.02]
+** Dealing turn ** [ As ]
+avramia1 checks
+Puwiguto checks
+** Dealing river ** [ 7c ]
+avramia1 checks
+Puwiguto bets [$0.16]
+avramia1 folds
+** Summary **
+Puwiguto collected [ $0.15 ]
+
+

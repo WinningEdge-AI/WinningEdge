@@ -1,0 +1,44 @@
+#Game No : 527225413
+***** 888poker Hand History for Game 527225413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 06:02:02
+Table Harare 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $1.96 )
+Seat 3: Tetsunami ( $0.84 )
+Tetsunami posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Tetsunami calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 3d, Ts, 4h ]
+avramia1 checks
+Tetsunami checks
+** Dealing turn ** [ 6h ]
+avramia1 checks
+Tetsunami checks
+** Dealing river ** [ 7h ]
+avramia1 checks
+Tetsunami checks
+** Summary **
+avramia1 shows [ 8h, 4d ]
+Tetsunami mucks [ 8s, Ks ]
+avramia1 collected [ $0.04 ]
+
+
+#Game No : 527225468
+***** 888poker Hand History for Game 527225468 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 06:02:46
+Table Harare 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $1.96 )
+Seat 3: Tetsunami ( $0.84 )
+Tetsunami posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Tetsunami folds
+** Summary **
+avramia1 collected [ $0.03 ]
+
+

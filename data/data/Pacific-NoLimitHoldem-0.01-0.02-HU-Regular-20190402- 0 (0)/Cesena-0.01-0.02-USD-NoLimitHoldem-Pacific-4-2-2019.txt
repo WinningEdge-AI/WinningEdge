@@ -1,0 +1,268 @@
+#Game No : 463626440
+***** 888poker Hand History for Game 463626440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 20:06:16
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ArmanXXXV ( $0.78 )
+Seat 9: iks2s ( $0.86 )
+iks2s posts small blind [$0.01]
+ArmanXXXV posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+ArmanXXXV calls [$0.04]
+** Dealing flop ** [ 6d, Th, 9c ]
+ArmanXXXV bets [$0.12]
+iks2s folds
+** Summary **
+ArmanXXXV collected [ $0.12 ]
+
+
+#Game No : 463626443
+***** 888poker Hand History for Game 463626443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 20:06:34
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ArmanXXXV ( $0.84 )
+Seat 9: iks2s ( $0.80 )
+ArmanXXXV posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+ArmanXXXV calls [$0.01]
+iks2s checks
+** Dealing flop ** [ 4d, Kh, 7h ]
+iks2s checks
+ArmanXXXV checks
+** Dealing turn ** [ 8c ]
+iks2s checks
+ArmanXXXV checks
+** Dealing river ** [ Qh ]
+iks2s checks
+ArmanXXXV checks
+** Summary **
+iks2s shows [ As, 6c ]
+ArmanXXXV shows [ 3d, Ac ]
+iks2s collected [ $0.02 ]
+ArmanXXXV collected [ $0.02 ]
+
+
+#Game No : 463627782
+***** 888poker Hand History for Game 463627782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:02:10
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ribnik ( $1.26 )
+Seat 2: AleksandR400 ( $0.61 )
+ribnik posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+ribnik calls [$0.01]
+AleksandR400 checks
+** Dealing flop ** [ Ac, Ah, 7h ]
+AleksandR400 checks
+ribnik checks
+** Dealing turn ** [ 9s ]
+AleksandR400 checks
+ribnik checks
+** Dealing river ** [ 5c ]
+AleksandR400 checks
+ribnik checks
+** Summary **
+AleksandR400 shows [ Jc, 3s ]
+ribnik shows [ 2h, Kh ]
+ribnik collected [ $0.04 ]
+
+
+#Game No : 463627786
+***** 888poker Hand History for Game 463627786 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:02:35
+Table Cesena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ribnik ( $1.28 )
+Seat 2: AleksandR400 ( $0.59 )
+AleksandR400 posts small blind [$0.01]
+ribnik posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 calls [$0.01]
+ribnik checks
+** Dealing flop ** [ 7c, 5h, Ah ]
+ribnik checks
+AleksandR400 checks
+** Dealing turn ** [ Js ]
+ribnik checks
+AleksandR400 bets [$0.02]
+ribnik folds
+** Summary **
+AleksandR400 collected [ $0.04 ]
+
+
+#Game No : 463627789
+***** 888poker Hand History for Game 463627789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:03:01
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ribnik ( $1.26 )
+Seat 2: AleksandR400 ( $0.61 )
+ribnik posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+ribnik folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 463627790
+***** 888poker Hand History for Game 463627790 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:03:07
+Table Cesena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ribnik ( $1.25 )
+Seat 2: AleksandR400 ( $0.62 )
+AleksandR400 posts small blind [$0.01]
+ribnik posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 calls [$0.01]
+ribnik checks
+** Dealing flop ** [ 3d, 9d, 4d ]
+ribnik checks
+AleksandR400 bets [$0.04]
+ribnik calls [$0.04]
+** Dealing turn ** [ Ad ]
+ribnik checks
+AleksandR400 checks
+** Dealing river ** [ Qc ]
+ribnik bets [$0.08]
+AleksandR400 calls [$0.08]
+** Summary **
+ribnik shows [ Qd, 3h ]
+AleksandR400 mucks [ 9h, Td ]
+ribnik collected [ $0.27 ]
+
+
+#Game No : 463627795
+***** 888poker Hand History for Game 463627795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:03:37
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ribnik ( $1.38 )
+Seat 2: AleksandR400 ( $0.48 )
+ribnik posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+ribnik calls [$0.01]
+AleksandR400 checks
+** Dealing flop ** [ Jc, 2s, Js ]
+AleksandR400 checks
+ribnik checks
+** Dealing turn ** [ 9s ]
+AleksandR400 checks
+ribnik checks
+** Dealing river ** [ Th ]
+AleksandR400 checks
+ribnik checks
+** Summary **
+AleksandR400 shows [ 3c, 4s ]
+ribnik shows [ Ac, 3d ]
+ribnik collected [ $0.04 ]
+
+
+#Game No : 463627799
+***** 888poker Hand History for Game 463627799 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:04:06
+Table Cesena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ribnik ( $1.40 )
+Seat 2: AleksandR400 ( $0.46 )
+AleksandR400 posts small blind [$0.01]
+ribnik posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 folds
+** Summary **
+ribnik collected [ $0.03 ]
+
+
+#Game No : 463627805
+***** 888poker Hand History for Game 463627805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:05:00
+Table Cesena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AleksandR400 ( $0.43 )
+Seat 7: barbas80 ( $2.11 )
+AleksandR400 posts small blind [$0.01]
+barbas80 posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.03]
+barbas80 calls [$0.02]
+** Dealing flop ** [ 6h, 7c, 2s ]
+barbas80 checks
+AleksandR400 checks
+** Dealing turn ** [ 2c ]
+barbas80 checks
+AleksandR400 checks
+** Dealing river ** [ Ad ]
+barbas80 checks
+AleksandR400 bets [$0.04]
+barbas80 folds
+** Summary **
+AleksandR400 collected [ $0.08 ]
+
+
+#Game No : 463628306
+***** 888poker Hand History for Game 463628306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:48:38
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: HECTOP_MAXH0 ( $1.77 )
+Seat 9: fish4103 ( $1.89 )
+fish4103 posts small blind [$0.01]
+HECTOP_MAXH0 posts big blind [$0.02]
+** Dealing down cards **
+fish4103 raises [$0.05]
+HECTOP_MAXH0 folds
+** Summary **
+fish4103 collected [ $0.04 ]
+
+
+#Game No : 463628308
+***** 888poker Hand History for Game 463628308 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:48:53
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: HECTOP_MAXH0 ( $1.75 )
+Seat 9: fish4103 ( $1.91 )
+HECTOP_MAXH0 posts small blind [$0.01]
+fish4103 posts big blind [$0.02]
+** Dealing down cards **
+HECTOP_MAXH0 folds
+** Summary **
+fish4103 collected [ $0.03 ]
+
+
+#Game No : 463628313
+***** 888poker Hand History for Game 463628313 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 22:49:26
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: HECTOP_MAXH0 ( $1.76 )
+Seat 7: fuaran2006 ( $1.07 )
+HECTOP_MAXH0 posts small blind [$0.01]
+fuaran2006 posts big blind [$0.02]
+** Dealing down cards **
+HECTOP_MAXH0 calls [$0.01]
+fuaran2006 raises [$0.07]
+HECTOP_MAXH0 folds
+** Summary **
+fuaran2006 collected [ $0.04 ]
+
+

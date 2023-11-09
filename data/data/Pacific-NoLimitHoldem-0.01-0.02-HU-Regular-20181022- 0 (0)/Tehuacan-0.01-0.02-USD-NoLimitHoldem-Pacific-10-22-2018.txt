@@ -1,0 +1,43 @@
+#Game No : 1218261170
+***** 888poker Hand History for Game 1218261170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2018 15:00:28
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Fabric0x ( $3.64 )
+Seat 5: Lightzues ( $4 )
+Fabric0x posts small blind [$0.01]
+Lightzues posts big blind [$0.02]
+** Dealing down cards **
+Fabric0x raises [$0.05]
+Lightzues calls [$0.04]
+** Dealing flop ** [ 7c, 2c, 7d ]
+Lightzues bets [$0.09]
+Fabric0x calls [$0.09]
+** Dealing turn ** [ Jh ]
+Lightzues bets [$0.22]
+Fabric0x calls [$0.22]
+** Dealing river ** [ 6d ]
+Lightzues bets [$0.70]
+Fabric0x folds
+** Summary **
+Lightzues did not show his hand
+Lightzues collected [ $0.70 ]
+
+
+#Game No : 1218261425
+***** 888poker Hand History for Game 1218261425 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2018 15:01:45
+Table Tehuacan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Fabric0x ( $3.27 )
+Seat 5: Lightzues ( $4.33 )
+Lightzues posts small blind [$0.01]
+** Dealing down cards **
+Fabric0x folds
+** Summary **
+Lightzues did not show his hand
+Lightzues collected [ $0.01 ]
+
+

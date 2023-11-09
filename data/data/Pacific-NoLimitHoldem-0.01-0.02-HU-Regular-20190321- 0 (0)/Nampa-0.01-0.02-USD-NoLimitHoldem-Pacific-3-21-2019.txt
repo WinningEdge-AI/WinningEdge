@@ -1,0 +1,117 @@
+#Game No : 463136607
+***** 888poker Hand History for Game 463136607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 09:02:05
+Table Nampa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Viacha ( $1.43 )
+Seat 9: F1nans ( $3.12 )
+Viacha posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Viacha folds
+** Summary **
+F1nans collected [ $0.03 ]
+
+
+#Game No : 463136838
+***** 888poker Hand History for Game 463136838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 09:07:50
+Table Nampa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Viacha ( $1.40 )
+Seat 6: stakinmill ( $0.91 )
+stakinmill posts small blind [$0.01]
+Viacha posts big blind [$0.02]
+** Dealing down cards **
+stakinmill raises [$0.03]
+Viacha calls [$0.02]
+** Dealing flop ** [ 5h, 7d, Jd ]
+Viacha checks
+stakinmill bets [$0.04]
+Viacha calls [$0.04]
+** Dealing turn ** [ 8h ]
+Viacha checks
+stakinmill checks
+** Dealing river ** [ 9s ]
+Viacha checks
+stakinmill checks
+** Summary **
+Viacha shows [ Ad, Tc ]
+stakinmill mucks [ Qh, 9c ]
+Viacha collected [ $0.15 ]
+
+
+#Game No : 463136856
+***** 888poker Hand History for Game 463136856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 09:08:25
+Table Nampa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Viacha ( $1.47 )
+Seat 6: stakinmill ( $0.83 )
+Viacha posts small blind [$0.01]
+stakinmill posts big blind [$0.02]
+** Dealing down cards **
+Viacha raises [$0.04]
+stakinmill folds
+** Summary **
+Viacha collected [ $0.04 ]
+
+
+#Game No : 463140654
+***** 888poker Hand History for Game 463140654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:39:05
+Table Nampa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: algrud ( $1 )
+Seat 4: MediumC ( $0.79 )
+MediumC posts small blind [$0.01]
+algrud posts big blind [$0.02]
+** Dealing down cards **
+MediumC calls [$0.01]
+algrud checks
+** Dealing flop ** [ 2s, Tc, Kc ]
+algrud checks
+MediumC bets [$0.02]
+algrud folds
+** Summary **
+MediumC collected [ $0.04 ]
+
+
+#Game No : 463140684
+***** 888poker Hand History for Game 463140684 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:39:40
+Table Nampa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: algrud ( $1 )
+Seat 4: MediumC ( $0.81 )
+algrud posts small blind [$0.01]
+MediumC posts big blind [$0.02]
+** Dealing down cards **
+algrud folds
+** Summary **
+MediumC did not show his hand
+MediumC collected [ $0.03 ]
+
+
+#Game No : 463140700
+***** 888poker Hand History for Game 463140700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:39:49
+Table Nampa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: algrud ( $1 )
+Seat 4: MediumC ( $0.82 )
+MediumC posts small blind [$0.01]
+algrud posts big blind [$0.02]
+** Dealing down cards **
+MediumC folds
+** Summary **
+algrud did not show his hand
+algrud collected [ $0.03 ]
+
+

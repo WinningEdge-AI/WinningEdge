@@ -1,0 +1,88 @@
+#Game No : 617403118
+***** 888poker Hand History for Game 617403118 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 20:47:11
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: baggies38 ( $3.34 )
+Seat 9: frencisdreyk ( $1.48 )
+frencisdreyk posts small blind [$0.01]
+baggies38 posts big blind [$0.02]
+** Dealing down cards **
+frencisdreyk raises [$0.04]
+baggies38 calls [$0.03]
+** Dealing flop ** [ Jc, 9h, 2d ]
+frencisdreyk bets [$0.06]
+baggies38 raises [$0.12]
+frencisdreyk calls [$0.06]
+** Dealing turn ** [ 3c ]
+frencisdreyk checks
+baggies38 checks
+** Dealing river ** [ 8h ]
+frencisdreyk checks
+baggies38 bets [$3.17]
+frencisdreyk folds
+** Summary **
+baggies38 collected [ $0.32 ]
+
+
+#Game No : 617403126
+***** 888poker Hand History for Game 617403126 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 20:47:46
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: baggies38 ( $3.49 )
+Seat 9: frencisdreyk ( $1.31 )
+frencisdreyk posts small blind [$0.01]
+baggies38 posts big blind [$0.02]
+** Dealing down cards **
+frencisdreyk calls [$0.01]
+baggies38 raises [$0.04]
+frencisdreyk calls [$0.04]
+** Dealing flop ** [ Kc, Td, 9h ]
+baggies38 checks
+frencisdreyk checks
+** Dealing turn ** [ Kd ]
+baggies38 checks
+frencisdreyk bets [$0.06]
+baggies38 raises [$0.30]
+frencisdreyk calls [$0.24]
+** Dealing river ** [ 8d ]
+baggies38 checks
+frencisdreyk checks
+** Summary **
+baggies38 shows [ Ah, Kh ]
+frencisdreyk mucks [ 4s, 9s ]
+baggies38 collected [ $0.68 ]
+
+
+#Game No : 617403257
+***** 888poker Hand History for Game 617403257 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 20:54:49
+Table Debrecen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GetToasted ( $1.08 )
+Seat 6: Bobbi_133 ( $0.65 )
+Bobbi_133 posts small blind [$0.01]
+GetToasted posts big blind [$0.02]
+** Dealing down cards **
+Bobbi_133 calls [$0.01]
+GetToasted raises [$0.04]
+Bobbi_133 calls [$0.04]
+** Dealing flop ** [ 6h, 8s, 4d ]
+GetToasted checks
+Bobbi_133 checks
+** Dealing turn ** [ 4h ]
+GetToasted bets [$0.06]
+Bobbi_133 calls [$0.06]
+** Dealing river ** [ Ad ]
+GetToasted checks
+Bobbi_133 checks
+** Summary **
+GetToasted shows [ Kh, Td ]
+Bobbi_133 mucks [ Js, 7s ]
+GetToasted collected [ $0.23 ]
+
+

@@ -1,0 +1,223 @@
+#Game No : 501175189
+***** 888poker Hand History for Game 501175189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:34:27
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $2.24 )
+Seat 2: Repairion ( $5.05 )
+ccfc_miller posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller raises [$0.04]
+Repairion folds
+** Summary **
+ccfc_miller collected [ $0.04 ]
+
+
+#Game No : 501175199
+***** 888poker Hand History for Game 501175199 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:34:41
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $2.26 )
+Seat 2: Repairion ( $5.03 )
+Repairion posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+ccfc_miller collected [ $0.03 ]
+
+
+#Game No : 501175206
+***** 888poker Hand History for Game 501175206 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:34:58
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $2.27 )
+Seat 2: Repairion ( $5.02 )
+ccfc_miller posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller raises [$0.04]
+Repairion calls [$0.03]
+** Dealing flop ** [ 7s, Td, Js ]
+Repairion checks
+ccfc_miller checks
+** Dealing turn ** [ 9c ]
+Repairion checks
+ccfc_miller checks
+** Dealing river ** [ Kc ]
+Repairion checks
+ccfc_miller checks
+** Summary **
+Repairion shows [ 4s, 4c ]
+ccfc_miller shows [ 4d, Jd ]
+ccfc_miller collected [ $0.10 ]
+
+
+#Game No : 501175235
+***** 888poker Hand History for Game 501175235 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:35:52
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $2.32 )
+Seat 2: Repairion ( $4.97 )
+Repairion posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+ccfc_miller collected [ $0.03 ]
+
+
+#Game No : 501175261
+***** 888poker Hand History for Game 501175261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:36:45
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $2.28 )
+Seat 2: Repairion ( $5.89 )
+Repairion posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Repairion calls [$0.01]
+ccfc_miller checks
+** Dealing flop ** [ Ad, 4d, Tc ]
+ccfc_miller checks
+Repairion checks
+** Dealing turn ** [ 4c ]
+ccfc_miller checks
+Repairion checks
+** Dealing river ** [ 2c ]
+ccfc_miller checks
+Repairion checks
+** Summary **
+ccfc_miller shows [ 2h, 4s ]
+Repairion mucks [ 6s, 5c ]
+ccfc_miller collected [ $0.04 ]
+
+
+#Game No : 501175467
+***** 888poker Hand History for Game 501175467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:43:47
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Repairion ( $5.01 )
+Seat 4: hwy112 ( $1.30 )
+hwy112 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+hwy112 raises [$0.03]
+Repairion folds
+** Summary **
+hwy112 did not show his hand
+hwy112 collected [ $0.04 ]
+
+
+#Game No : 501175473
+***** 888poker Hand History for Game 501175473 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:43:56
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Repairion ( $4.99 )
+Seat 4: hwy112 ( $1.32 )
+Repairion posts small blind [$0.01]
+hwy112 posts big blind [$0.02]
+** Dealing down cards **
+Repairion calls [$0.01]
+hwy112 checks
+** Dealing flop ** [ 5d, 3s, Tc ]
+hwy112 checks
+Repairion bets [$0.03]
+hwy112 folds
+** Summary **
+Repairion collected [ $0.04 ]
+
+
+#Game No : 501175486
+***** 888poker Hand History for Game 501175486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:44:15
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Repairion ( $5.01 )
+Seat 4: hwy112 ( $1.30 )
+hwy112 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+hwy112 calls [$0.01]
+Repairion checks
+** Dealing flop ** [ Kh, Kd, 8h ]
+Repairion bets [$0.03]
+hwy112 folds
+** Summary **
+Repairion collected [ $0.04 ]
+
+
+#Game No : 501176110
+***** 888poker Hand History for Game 501176110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 17:06:52
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Repairion ( $5.01 )
+Seat 4: hwy112 ( $0.78 )
+hwy112 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+hwy112 calls [$0.01]
+Repairion checks
+** Dealing flop ** [ 7s, 5c, 4d ]
+Repairion checks
+hwy112 checks
+** Dealing turn ** [ Kd ]
+Repairion checks
+hwy112 checks
+** Dealing river ** [ 8c ]
+Repairion checks
+hwy112 checks
+** Summary **
+Repairion shows [ 5h, 6s ]
+hwy112 mucks [ Qc, Th ]
+Repairion collected [ $0.04 ]
+
+
+#Game No : 501176125
+***** 888poker Hand History for Game 501176125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 17:07:30
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Repairion ( $5.03 )
+Seat 4: hwy112 ( $0.76 )
+Repairion posts small blind [$0.01]
+hwy112 posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+hwy112 collected [ $0.03 ]
+
+
+#Game No : 607232144
+***** 888poker Hand History for Game 607232144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 15:43:32
+Table Bayamo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JJPRDD ( $1.14 )
+Seat 9: chuk112 ( $3.14 )
+JJPRDD posts small blind [$0.01]
+** Dealing down cards **
+chuk112 folds
+** Summary **
+JJPRDD collected [ $0.01 ]
+
+

@@ -1,0 +1,308 @@
+#Game No : 501945834
+***** 888poker Hand History for Game 501945834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 03:33:47
+Table Athens 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: user821 ( $0.86 )
+Seat 2: Aremb ( $0.73 )
+Aremb posts small blind [$0.01]
+user821 posts big blind [$0.02]
+** Dealing down cards **
+Aremb raises [$0.05]
+user821 calls [$0.04]
+** Dealing flop ** [ 7s, 9h, 9s ]
+user821 checks
+Aremb bets [$0.08]
+user821 folds
+** Summary **
+Aremb did not show his hand
+Aremb collected [ $0.12 ]
+
+
+#Game No : 501945845
+***** 888poker Hand History for Game 501945845 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 03:34:01
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: user821 ( $0.80 )
+Seat 2: Aremb ( $0.79 )
+user821 posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+user821 calls [$0.01]
+Aremb checks
+** Dealing flop ** [ Ks, Th, 4c ]
+Aremb bets [$0.02]
+user821 folds
+** Summary **
+Aremb did not show his hand
+Aremb collected [ $0.04 ]
+
+
+#Game No : 501945858
+***** 888poker Hand History for Game 501945858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 03:34:19
+Table Athens 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: user821 ( $0.78 )
+Seat 2: Aremb ( $0.81 )
+Aremb posts small blind [$0.01]
+user821 posts big blind [$0.02]
+** Dealing down cards **
+Aremb calls [$0.01]
+user821 raises [$0.04]
+Aremb folds
+** Summary **
+user821 did not show his hand
+user821 collected [ $0.04 ]
+
+
+#Game No : 501945863
+***** 888poker Hand History for Game 501945863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 03:34:31
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: user821 ( $0.80 )
+Seat 2: Aremb ( $0.79 )
+user821 posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+user821 raises [$0.03]
+Aremb calls [$0.02]
+** Dealing flop ** [ 7d, 4c, Jc ]
+Aremb checks
+user821 bets [$0.02]
+Aremb calls [$0.02]
+** Dealing turn ** [ Qd ]
+Aremb checks
+user821 checks
+** Dealing river ** [ 9c ]
+Aremb bets [$0.06]
+user821 folds
+** Summary **
+Aremb did not show his hand
+Aremb collected [ $0.12 ]
+
+
+#Game No : 501945876
+***** 888poker Hand History for Game 501945876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 03:34:53
+Table Athens 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: user821 ( $0.74 )
+Seat 2: Aremb ( $0.85 )
+Aremb posts small blind [$0.01]
+user821 posts big blind [$0.02]
+** Dealing down cards **
+Aremb raises [$0.03]
+user821 folds
+** Summary **
+Aremb did not show his hand
+Aremb collected [ $0.04 ]
+
+
+#Game No : 501945880
+***** 888poker Hand History for Game 501945880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 03:35:10
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: user821 ( $0.72 )
+Seat 2: Aremb ( $0.87 )
+user821 posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+user821 raises [$0.03]
+Aremb calls [$0.02]
+** Dealing flop ** [ 7h, 4s, Tc ]
+Aremb checks
+user821 bets [$0.05]
+Aremb raises [$0.23]
+user821 raises [$0.36]
+Aremb raises [$0.60]
+user821 calls [$0.27]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ Jc ]
+** Summary **
+user821 shows [ Ad, 7d ]
+Aremb shows [ Th, Kd ]
+Aremb collected [ $1.35 ]
+
+
+#Game No : 501945903
+***** 888poker Hand History for Game 501945903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 03:35:55
+Table Athens 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Aremb ( $1.50 )
+Seat 4: G.Gatsby ( $1 )
+G.Gatsby posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+G.Gatsby calls [$0.01]
+Aremb checks
+** Dealing flop ** [ 4d, 6d, 4s ]
+Aremb checks
+G.Gatsby checks
+** Dealing turn ** [ Ts ]
+Aremb bets [$0.02]
+G.Gatsby calls [$0.02]
+** Dealing river ** [ Qc ]
+Aremb bets [$0.05]
+G.Gatsby raises [$0.12]
+Aremb calls [$0.07]
+** Summary **
+G.Gatsby shows [ Jc, 4c ]
+Aremb mucks [ Qs, 9c ]
+G.Gatsby collected [ $0.30 ]
+
+
+#Game No : 501945915
+***** 888poker Hand History for Game 501945915 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 03:36:27
+Table Athens 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Aremb ( $1.34 )
+Seat 4: G.Gatsby ( $1.14 )
+Aremb posts small blind [$0.01]
+G.Gatsby posts big blind [$0.02]
+** Dealing down cards **
+Aremb raises [$0.03]
+G.Gatsby folds
+** Summary **
+Aremb did not show his hand
+Aremb collected [ $0.04 ]
+
+
+#Game No : 501945921
+***** 888poker Hand History for Game 501945921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 03:36:36
+Table Athens 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Aremb ( $1.36 )
+Seat 4: G.Gatsby ( $1.12 )
+G.Gatsby posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+G.Gatsby calls [$0.01]
+Aremb checks
+** Dealing flop ** [ As, 4d, 8c ]
+Aremb bets [$0.02]
+G.Gatsby folds
+** Summary **
+Aremb collected [ $0.04 ]
+
+
+#Game No : 501952488
+***** 888poker Hand History for Game 501952488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 06:31:34
+Table Athens 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Bingo787 ( $1.06 )
+Seat 6: lemuriic ( $1 )
+lemuriic posts small blind [$0.01]
+Bingo787 posts big blind [$0.02]
+** Dealing down cards **
+lemuriic raises [$0.05]
+Bingo787 folds
+** Summary **
+lemuriic collected [ $0.04 ]
+
+
+#Game No : 501952497
+***** 888poker Hand History for Game 501952497 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 06:31:43
+Table Athens 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bingo787 ( $1.04 )
+Seat 6: lemuriic ( $1.02 )
+Bingo787 posts small blind [$0.01]
+lemuriic posts big blind [$0.02]
+** Dealing down cards **
+Bingo787 raises [$0.05]
+lemuriic folds
+** Summary **
+Bingo787 collected [ $0.04 ]
+
+
+#Game No : 501952522
+***** 888poker Hand History for Game 501952522 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 06:32:00
+Table Athens 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Bingo787 ( $1.06 )
+Seat 6: lemuriic ( $1 )
+lemuriic posts small blind [$0.01]
+Bingo787 posts big blind [$0.02]
+** Dealing down cards **
+lemuriic raises [$0.05]
+Bingo787 folds
+** Summary **
+lemuriic collected [ $0.04 ]
+
+
+#Game No : 501952542
+***** 888poker Hand History for Game 501952542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 06:32:32
+Table Athens 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Bingo787 ( $1.05 )
+Seat 6: lemuriic ( $1.01 )
+lemuriic posts small blind [$0.01]
+Bingo787 posts big blind [$0.02]
+** Dealing down cards **
+lemuriic raises [$0.05]
+Bingo787 raises [$0.16]
+lemuriic calls [$0.12]
+** Dealing flop ** [ 6d, 2s, 8h ]
+Bingo787 bets [$0.24]
+lemuriic raises [$0.83]
+Bingo787 calls [$0.59]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ As ]
+** Summary **
+Bingo787 shows [ Qd, Ac ]
+lemuriic shows [ Ts, Td ]
+Bingo787 collected [ $1.90 ]
+
+
+#Game No : 501953188
+***** 888poker Hand History for Game 501953188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 06:45:22
+Table Athens 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Bingo787 ( $1.05 )
+Seat 7: Wishingchaff ( $1.02 )
+Wishingchaff posts small blind [$0.01]
+Bingo787 posts big blind [$0.02]
+** Dealing down cards **
+Wishingchaff calls [$0.01]
+Bingo787 checks
+** Dealing flop ** [ Ks, 6h, Ah ]
+Bingo787 checks
+Wishingchaff bets [$0.04]
+Bingo787 calls [$0.04]
+** Dealing turn ** [ 9h ]
+Bingo787 checks
+Wishingchaff checks
+** Dealing river ** [ Kh ]
+Bingo787 checks
+Wishingchaff bets [$0.20]
+Bingo787 folds
+** Summary **
+Wishingchaff collected [ $0.12 ]
+
+

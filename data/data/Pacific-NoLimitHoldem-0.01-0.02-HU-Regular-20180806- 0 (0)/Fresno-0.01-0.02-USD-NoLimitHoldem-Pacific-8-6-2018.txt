@@ -1,0 +1,90 @@
+#Game No : 1199254195
+***** 888poker Hand History for Game 1199254195 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 10:14:22
+Table Fresno 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Ghost9Rowe ( $1.70 )
+Seat 4: JayceeSenat1 ( $2 )
+Ghost9Rowe posts small blind [$0.01]
+JayceeSenat1 posts big blind [$0.02]
+** Dealing down cards **
+Ghost9Rowe calls [$0.01]
+JayceeSenat1 checks
+** Dealing flop ** [ Ts, Ad, Td ]
+JayceeSenat1 checks
+Ghost9Rowe checks
+** Dealing turn ** [ 7d ]
+JayceeSenat1 checks
+Ghost9Rowe bets [$0.02]
+JayceeSenat1 folds
+** Summary **
+Ghost9Rowe collected [ $0.04 ]
+
+
+#Game No : 1199254398
+***** 888poker Hand History for Game 1199254398 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 10:15:06
+Table Fresno 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Ghost9Rowe ( $1.72 )
+Seat 4: JayceeSenat1 ( $1.98 )
+JayceeSenat1 posts small blind [$0.01]
+** Dealing down cards **
+Ghost9Rowe folds
+** Summary **
+JayceeSenat1 collected [ $0.01 ]
+
+
+#Game No : 1199254439
+***** 888poker Hand History for Game 1199254439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 10:15:16
+Table Fresno 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: taurusvit ( $2 )
+Seat 4: JayceeSenat1 ( $1.98 )
+JayceeSenat1 posts small blind [$0.01]
+taurusvit posts big blind [$0.02]
+** Dealing down cards **
+JayceeSenat1 calls [$0.01]
+taurusvit checks
+** Dealing flop ** [ 2c, 6c, 8c ]
+taurusvit checks
+JayceeSenat1 bets [$0.02]
+taurusvit folds
+** Summary **
+JayceeSenat1 collected [ $0.04 ]
+
+
+#Game No : 1199306510
+***** 888poker Hand History for Game 1199306510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 13:16:16
+Table Fresno 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: juanmike7 ( $1.16 )
+Seat 2: Jura499 ( $2.18 )
+juanmike7 posts small blind [$0.01]
+Jura499 posts big blind [$0.02]
+** Dealing down cards **
+juanmike7 raises [$0.03]
+Jura499 calls [$0.02]
+** Dealing flop ** [ 8d, Th, 2d ]
+Jura499 checks
+juanmike7 bets [$0.06]
+Jura499 calls [$0.06]
+** Dealing turn ** [ Qh ]
+Jura499 bets [$0.02]
+juanmike7 calls [$0.02]
+** Dealing river ** [ Td ]
+Jura499 checks
+juanmike7 bets [$0.12]
+Jura499 calls [$0.12]
+** Summary **
+juanmike7 shows [ Tc, 6c ]
+Jura499 mucks [ 9s, 3h ]
+juanmike7 collected [ $0.45 ]
+
+

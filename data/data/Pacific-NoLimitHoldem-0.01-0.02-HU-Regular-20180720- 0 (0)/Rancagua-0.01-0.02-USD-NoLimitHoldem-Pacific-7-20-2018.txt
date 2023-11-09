@@ -1,0 +1,351 @@
+#Game No : 504912403
+***** 888poker Hand History for Game 504912403 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 05:01:57
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: AlexEarle ( $1.98 )
+Seat 5: Androgen99 ( $0.82 )
+Androgen99 posts small blind [$0.01]
+AlexEarle posts big blind [$0.02]
+** Dealing down cards **
+Androgen99 raises [$0.03]
+AlexEarle raises [$0.06]
+Androgen99 calls [$0.04]
+** Dealing flop ** [ 9c, 3c, 6c ]
+AlexEarle bets [$0.08]
+Androgen99 calls [$0.08]
+** Dealing turn ** [ Jd ]
+AlexEarle bets [$0.21]
+Androgen99 calls [$0.21]
+** Dealing river ** [ 9s ]
+AlexEarle bets [$0.74]
+Androgen99 calls [$0.45]
+** Summary **
+AlexEarle shows [ Js, Jc ]
+Androgen99 shows [ Qc, 9h ]
+AlexEarle collected [ $1.54 ]
+
+
+#Game No : 504912422
+***** 888poker Hand History for Game 504912422 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 05:02:36
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AlexEarle ( $2.70 )
+Seat 9: milissa333 ( $1 )
+AlexEarle posts small blind [$0.01]
+milissa333 posts big blind [$0.02]
+** Dealing down cards **
+AlexEarle calls [$0.01]
+milissa333 checks
+** Dealing flop ** [ 8h, As, Td ]
+milissa333 checks
+AlexEarle checks
+** Dealing turn ** [ 8d ]
+milissa333 bets [$0.02]
+AlexEarle folds
+** Summary **
+milissa333 did not show his hand
+milissa333 collected [ $0.04 ]
+
+
+#Game No : 504912432
+***** 888poker Hand History for Game 504912432 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 05:02:56
+Table Rancagua 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: AlexEarle ( $2.68 )
+Seat 9: milissa333 ( $1.02 )
+milissa333 posts small blind [$0.01]
+AlexEarle posts big blind [$0.02]
+** Dealing down cards **
+milissa333 calls [$0.01]
+AlexEarle checks
+** Dealing flop ** [ Ad, 3h, 6s ]
+AlexEarle bets [$0.02]
+milissa333 calls [$0.02]
+** Dealing turn ** [ 6c ]
+AlexEarle bets [$0.02]
+milissa333 folds
+** Summary **
+AlexEarle did not show his hand
+AlexEarle collected [ $0.08 ]
+
+
+#Game No : 504912439
+***** 888poker Hand History for Game 504912439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 05:03:16
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AlexEarle ( $2.72 )
+Seat 9: milissa333 ( $0.98 )
+AlexEarle posts small blind [$0.01]
+milissa333 posts big blind [$0.02]
+** Dealing down cards **
+AlexEarle calls [$0.01]
+milissa333 checks
+** Dealing flop ** [ 9d, Kh, Td ]
+milissa333 checks
+AlexEarle checks
+** Dealing turn ** [ 8c ]
+milissa333 bets [$0.02]
+AlexEarle calls [$0.02]
+** Dealing river ** [ 9c ]
+milissa333 bets [$0.02]
+AlexEarle calls [$0.02]
+** Summary **
+milissa333 shows [ Tc, 8d ]
+AlexEarle mucks [ 6d, 8h ]
+milissa333 collected [ $0.12 ]
+
+
+#Game No : 504912449
+***** 888poker Hand History for Game 504912449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 05:03:41
+Table Rancagua 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: AlexEarle ( $2.66 )
+Seat 9: milissa333 ( $1.04 )
+milissa333 posts small blind [$0.01]
+AlexEarle posts big blind [$0.02]
+** Dealing down cards **
+milissa333 raises [$0.03]
+AlexEarle calls [$0.02]
+** Dealing flop ** [ 9h, 9d, 2s ]
+AlexEarle checks
+milissa333 checks
+** Dealing turn ** [ 8c ]
+AlexEarle checks
+milissa333 bets [$0.02]
+AlexEarle folds
+** Summary **
+milissa333 did not show his hand
+milissa333 collected [ $0.08 ]
+
+
+#Game No : 504912460
+***** 888poker Hand History for Game 504912460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 05:03:58
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AlexEarle ( $2.62 )
+Seat 9: milissa333 ( $1.08 )
+AlexEarle posts small blind [$0.01]
+milissa333 posts big blind [$0.02]
+** Dealing down cards **
+AlexEarle raises [$0.03]
+milissa333 calls [$0.02]
+** Dealing flop ** [ 3h, Kd, 2c ]
+milissa333 checks
+AlexEarle checks
+** Dealing turn ** [ Jd ]
+milissa333 checks
+AlexEarle checks
+** Dealing river ** [ 7d ]
+milissa333 checks
+AlexEarle checks
+** Summary **
+milissa333 shows [ 6s, 7c ]
+AlexEarle shows [ Ts, Td ]
+AlexEarle collected [ $0.08 ]
+
+
+#Game No : 504912474
+***** 888poker Hand History for Game 504912474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 05:04:20
+Table Rancagua 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: AlexEarle ( $2.66 )
+Seat 9: milissa333 ( $1.04 )
+milissa333 posts small blind [$0.01]
+AlexEarle posts big blind [$0.02]
+** Dealing down cards **
+milissa333 raises [$0.03]
+AlexEarle folds
+** Summary **
+milissa333 did not show his hand
+milissa333 collected [ $0.04 ]
+
+
+#Game No : 504912479
+***** 888poker Hand History for Game 504912479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 05:04:29
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AlexEarle ( $2.64 )
+Seat 9: milissa333 ( $1.06 )
+AlexEarle posts small blind [$0.01]
+milissa333 posts big blind [$0.02]
+** Dealing down cards **
+AlexEarle folds
+** Summary **
+milissa333 did not show his hand
+milissa333 collected [ $0.03 ]
+
+
+#Game No : 504926643
+***** 888poker Hand History for Game 504926643 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 12:17:13
+Table Rancagua 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: gamepovar ( $2.65 )
+Seat 5: rafaelkazuo3 ( $1.20 )
+gamepovar posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+gamepovar raises [$0.05]
+rafaelkazuo3 calls [$0.04]
+** Dealing flop ** [ Jc, 5h, 9h ]
+rafaelkazuo3 bets [$0.02]
+gamepovar calls [$0.02]
+** Dealing turn ** [ 9d ]
+rafaelkazuo3 bets [$0.04]
+gamepovar calls [$0.04]
+** Dealing river ** [ 4h ]
+rafaelkazuo3 checks
+gamepovar bets [$0.16]
+rafaelkazuo3 folds
+** Summary **
+gamepovar collected [ $0.23 ]
+
+
+#Game No : 504926668
+***** 888poker Hand History for Game 504926668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 12:17:43
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: gamepovar ( $2.76 )
+Seat 5: rafaelkazuo3 ( $1.08 )
+rafaelkazuo3 posts small blind [$0.01]
+gamepovar posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+gamepovar calls [$0.02]
+** Dealing flop ** [ 2d, Ks, 2s ]
+gamepovar checks
+rafaelkazuo3 bets [$0.05]
+gamepovar folds
+** Summary **
+rafaelkazuo3 collected [ $0.08 ]
+
+
+#Game No : 504927078
+***** 888poker Hand History for Game 504927078 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 12:26:36
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: gamepovar ( $4.46 )
+Seat 5: rafaelkazuo3 ( $0.97 )
+rafaelkazuo3 posts small blind [$0.01]
+gamepovar posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+gamepovar folds
+** Summary **
+rafaelkazuo3 collected [ $0.04 ]
+
+
+#Game No : 504927085
+***** 888poker Hand History for Game 504927085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 12:26:42
+Table Rancagua 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: gamepovar ( $4.44 )
+Seat 5: rafaelkazuo3 ( $0.99 )
+gamepovar posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+gamepovar raises [$0.05]
+rafaelkazuo3 calls [$0.04]
+** Dealing flop ** [ As, 4h, Qh ]
+rafaelkazuo3 checks
+gamepovar bets [$0.08]
+rafaelkazuo3 folds
+** Summary **
+gamepovar did not show his hand
+gamepovar collected [ $0.12 ]
+
+
+#Game No : 504927101
+***** 888poker Hand History for Game 504927101 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 12:26:56
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: gamepovar ( $4.50 )
+Seat 5: rafaelkazuo3 ( $0.93 )
+rafaelkazuo3 posts small blind [$0.01]
+gamepovar posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+gamepovar folds
+** Summary **
+rafaelkazuo3 did not show his hand
+rafaelkazuo3 collected [ $0.04 ]
+
+
+#Game No : 504927104
+***** 888poker Hand History for Game 504927104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 12:27:01
+Table Rancagua 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: gamepovar ( $4.48 )
+Seat 5: rafaelkazuo3 ( $0.95 )
+gamepovar posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+gamepovar raises [$0.05]
+rafaelkazuo3 raises [$0.16]
+gamepovar calls [$0.12]
+** Dealing flop ** [ Tc, Th, Qh ]
+rafaelkazuo3 bets [$0.06]
+gamepovar calls [$0.06]
+** Dealing turn ** [ 4d ]
+rafaelkazuo3 bets [$0.08]
+gamepovar calls [$0.08]
+** Dealing river ** [ 9d ]
+rafaelkazuo3 bets [$0.12]
+gamepovar calls [$0.12]
+** Summary **
+rafaelkazuo3 shows [ Ac, Kc ]
+gamepovar shows [ As, 4s ]
+gamepovar collected [ $0.83 ]
+
+
+#Game No : 504927124
+***** 888poker Hand History for Game 504927124 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 12:27:36
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: gamepovar ( $4.87 )
+Seat 5: rafaelkazuo3 ( $0.51 )
+rafaelkazuo3 posts small blind [$0.01]
+gamepovar posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+gamepovar raises [$0.06]
+rafaelkazuo3 raises [$0.47]
+gamepovar calls [$0.43]
+** Dealing flop ** [ As, Tc, 6s ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ 8h ]
+** Summary **
+gamepovar shows [ Kh, Ad ]
+rafaelkazuo3 shows [ Th, 9c ]
+gamepovar collected [ $0.96 ]
+
+

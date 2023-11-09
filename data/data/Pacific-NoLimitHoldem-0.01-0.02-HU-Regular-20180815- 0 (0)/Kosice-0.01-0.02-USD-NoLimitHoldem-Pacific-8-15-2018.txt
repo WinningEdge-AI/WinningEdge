@@ -1,0 +1,636 @@
+#Game No : 500903879
+***** 888poker Hand History for Game 500903879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:03:45
+Table Kosice 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Loin1985 ( $0.72 )
+Seat 4: NINJASKILLZ ( $1.07 )
+Loin1985 posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+Loin1985 raises [$0.03]
+NINJASKILLZ calls [$0.02]
+** Dealing flop ** [ 2d, Ad, Jh ]
+NINJASKILLZ checks
+Loin1985 bets [$0.05]
+NINJASKILLZ calls [$0.05]
+** Dealing turn ** [ 2h ]
+NINJASKILLZ checks
+Loin1985 bets [$0.12]
+NINJASKILLZ calls [$0.12]
+** Dealing river ** [ 6h ]
+NINJASKILLZ checks
+Loin1985 checks
+** Summary **
+NINJASKILLZ shows [ 7d, 8d ]
+Loin1985 shows [ 9s, Ts ]
+Loin1985 collected [ $0.40 ]
+
+
+#Game No : 500903896
+***** 888poker Hand History for Game 500903896 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:04:30
+Table Kosice 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Loin1985 ( $0.91 )
+Seat 4: NINJASKILLZ ( $1 )
+NINJASKILLZ posts small blind [$0.01]
+Loin1985 posts big blind [$0.02]
+** Dealing down cards **
+NINJASKILLZ raises [$0.03]
+Loin1985 calls [$0.02]
+** Dealing flop ** [ 8c, 2h, 9s ]
+Loin1985 checks
+NINJASKILLZ bets [$0.04]
+Loin1985 folds
+** Summary **
+NINJASKILLZ collected [ $0.08 ]
+
+
+#Game No : 500903903
+***** 888poker Hand History for Game 500903903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:04:56
+Table Kosice 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Loin1985 ( $0.87 )
+Seat 4: NINJASKILLZ ( $1.04 )
+Loin1985 posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+Loin1985 calls [$0.01]
+NINJASKILLZ checks
+** Dealing flop ** [ 9d, 9c, Ts ]
+NINJASKILLZ checks
+Loin1985 checks
+** Dealing turn ** [ 9h ]
+NINJASKILLZ checks
+Loin1985 bets [$0.02]
+NINJASKILLZ folds
+** Summary **
+Loin1985 collected [ $0.04 ]
+
+
+#Game No : 500905447
+***** 888poker Hand History for Game 500905447 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:10:41
+Table Kosice 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.44 )
+Seat 6: go_atirez ( $1.08 )
+NINJASKILLZ posts small blind [$0.01]
+go_atirez posts big blind [$0.02]
+** Dealing down cards **
+NINJASKILLZ raises [$0.03]
+go_atirez folds
+** Summary **
+NINJASKILLZ collected [ $0.04 ]
+
+
+#Game No : 500905452
+***** 888poker Hand History for Game 500905452 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:10:51
+Table Kosice 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.46 )
+Seat 6: go_atirez ( $1.06 )
+go_atirez posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+go_atirez raises [$0.03]
+NINJASKILLZ raises [$0.10]
+go_atirez folds
+** Summary **
+NINJASKILLZ collected [ $0.08 ]
+
+
+#Game No : 500905495
+***** 888poker Hand History for Game 500905495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:12:19
+Table Kosice 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.50 )
+Seat 6: MarryM20 ( $1 )
+MarryM20 posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+MarryM20 calls [$0.01]
+NINJASKILLZ checks
+** Dealing flop ** [ Ah, 9h, 8s ]
+NINJASKILLZ checks
+MarryM20 checks
+** Dealing turn ** [ 8h ]
+NINJASKILLZ checks
+MarryM20 bets [$0.02]
+NINJASKILLZ folds
+** Summary **
+MarryM20 collected [ $0.04 ]
+
+
+#Game No : 500905532
+***** 888poker Hand History for Game 500905532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:13:55
+Table Kosice 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.44 )
+Seat 7: AndreiBugajv ( $1 )
+AndreiBugajv posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+AndreiBugajv calls [$0.01]
+NINJASKILLZ checks
+** Dealing flop ** [ 5d, 3c, As ]
+NINJASKILLZ checks
+AndreiBugajv checks
+** Dealing turn ** [ 2h ]
+NINJASKILLZ checks
+AndreiBugajv checks
+** Dealing river ** [ Tc ]
+NINJASKILLZ checks
+AndreiBugajv bets [$0.02]
+NINJASKILLZ calls [$0.02]
+** Summary **
+AndreiBugajv shows [ 9h, Ac ]
+NINJASKILLZ mucks [ Qd, 5c ]
+AndreiBugajv collected [ $0.08 ]
+
+
+#Game No : 500905544
+***** 888poker Hand History for Game 500905544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:14:26
+Table Kosice 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.40 )
+Seat 7: AndreiBugajv ( $1.04 )
+NINJASKILLZ posts small blind [$0.01]
+AndreiBugajv posts big blind [$0.02]
+** Dealing down cards **
+NINJASKILLZ raises [$0.03]
+AndreiBugajv calls [$0.02]
+** Dealing flop ** [ 9d, 9c, 3s ]
+AndreiBugajv checks
+NINJASKILLZ bets [$0.04]
+AndreiBugajv calls [$0.04]
+** Dealing turn ** [ 2h ]
+AndreiBugajv checks
+NINJASKILLZ bets [$0.08]
+AndreiBugajv calls [$0.08]
+** Dealing river ** [ 6s ]
+AndreiBugajv checks
+NINJASKILLZ checks
+** Summary **
+AndreiBugajv shows [ 8s, 8c ]
+NINJASKILLZ mucks [ Kd, As ]
+AndreiBugajv collected [ $0.30 ]
+
+
+#Game No : 500905560
+***** 888poker Hand History for Game 500905560 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:15:07
+Table Kosice 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.24 )
+Seat 7: AndreiBugajv ( $1.18 )
+AndreiBugajv posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+AndreiBugajv calls [$0.01]
+NINJASKILLZ checks
+** Dealing flop ** [ 3h, 5s, 2d ]
+NINJASKILLZ checks
+AndreiBugajv checks
+** Dealing turn ** [ Kd ]
+NINJASKILLZ checks
+AndreiBugajv checks
+** Dealing river ** [ As ]
+NINJASKILLZ checks
+AndreiBugajv bets [$0.02]
+NINJASKILLZ folds
+** Summary **
+AndreiBugajv did not show his hand
+AndreiBugajv collected [ $0.04 ]
+
+
+#Game No : 500905578
+***** 888poker Hand History for Game 500905578 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:16:04
+Table Kosice 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.22 )
+Seat 7: AndreiBugajv ( $1.20 )
+NINJASKILLZ posts small blind [$0.01]
+AndreiBugajv posts big blind [$0.02]
+** Dealing down cards **
+NINJASKILLZ raises [$0.03]
+AndreiBugajv folds
+** Summary **
+NINJASKILLZ did not show his hand
+NINJASKILLZ collected [ $0.04 ]
+
+
+#Game No : 500905583
+***** 888poker Hand History for Game 500905583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:16:19
+Table Kosice 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.24 )
+Seat 7: AndreiBugajv ( $1.18 )
+AndreiBugajv posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+AndreiBugajv folds
+** Summary **
+NINJASKILLZ did not show his hand
+NINJASKILLZ collected [ $0.03 ]
+
+
+#Game No : 500905585
+***** 888poker Hand History for Game 500905585 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:16:24
+Table Kosice 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.25 )
+Seat 7: AndreiBugajv ( $1.17 )
+NINJASKILLZ posts small blind [$0.01]
+AndreiBugajv posts big blind [$0.02]
+** Dealing down cards **
+NINJASKILLZ folds
+** Summary **
+AndreiBugajv did not show his hand
+AndreiBugajv collected [ $0.03 ]
+
+
+#Game No : 500905588
+***** 888poker Hand History for Game 500905588 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:16:31
+Table Kosice 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.24 )
+Seat 7: AndreiBugajv ( $1.18 )
+AndreiBugajv posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+AndreiBugajv calls [$0.01]
+NINJASKILLZ checks
+** Dealing flop ** [ 9c, Tc, 5c ]
+NINJASKILLZ checks
+AndreiBugajv checks
+** Dealing turn ** [ Kd ]
+NINJASKILLZ bets [$0.04]
+AndreiBugajv folds
+** Summary **
+NINJASKILLZ did not show his hand
+NINJASKILLZ collected [ $0.04 ]
+
+
+#Game No : 500905597
+***** 888poker Hand History for Game 500905597 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:16:53
+Table Kosice 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.26 )
+Seat 7: AndreiBugajv ( $1.16 )
+NINJASKILLZ posts small blind [$0.01]
+AndreiBugajv posts big blind [$0.02]
+** Dealing down cards **
+NINJASKILLZ raises [$0.03]
+AndreiBugajv calls [$0.02]
+** Dealing flop ** [ Js, 6h, Jc ]
+AndreiBugajv checks
+NINJASKILLZ bets [$0.04]
+AndreiBugajv folds
+** Summary **
+NINJASKILLZ collected [ $0.08 ]
+
+
+#Game No : 500905609
+***** 888poker Hand History for Game 500905609 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 01:17:15
+Table Kosice 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: NINJASKILLZ ( $2.30 )
+Seat 7: AndreiBugajv ( $1.12 )
+AndreiBugajv posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+AndreiBugajv folds
+** Summary **
+NINJASKILLZ collected [ $0.03 ]
+
+
+#Game No : 500908785
+***** 888poker Hand History for Game 500908785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:00:31
+Table Kosice 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.21 )
+Seat 6: RatherShort ( $1.04 )
+GARALD84 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ Jh, Kd, 7h ]
+RatherShort checks
+GARALD84 bets [$0.02]
+RatherShort folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 500908804
+***** 888poker Hand History for Game 500908804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:01:03
+Table Kosice 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.23 )
+Seat 6: RatherShort ( $1.02 )
+RatherShort posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.05]
+GARALD84 folds
+** Summary **
+RatherShort did not show his hand
+RatherShort collected [ $0.04 ]
+
+
+#Game No : 500908810
+***** 888poker Hand History for Game 500908810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:01:14
+Table Kosice 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.21 )
+Seat 6: RatherShort ( $1.04 )
+GARALD84 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 8d, 6s, Ks ]
+RatherShort checks
+GARALD84 bets [$0.02]
+RatherShort calls [$0.02]
+** Dealing turn ** [ Kd ]
+RatherShort checks
+GARALD84 checks
+** Dealing river ** [ 3d ]
+RatherShort checks
+GARALD84 checks
+** Summary **
+RatherShort shows [ 9h, 7s ]
+GARALD84 shows [ 5h, 6d ]
+GARALD84 collected [ $0.08 ]
+
+
+#Game No : 500908841
+***** 888poker Hand History for Game 500908841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:02:04
+Table Kosice 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.25 )
+Seat 6: RatherShort ( $1 )
+RatherShort posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 500908847
+***** 888poker Hand History for Game 500908847 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:02:13
+Table Kosice 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.26 )
+Seat 6: RatherShort ( $1 )
+GARALD84 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 2d, 2h, 7c ]
+RatherShort checks
+GARALD84 bets [$0.02]
+RatherShort calls [$0.02]
+** Dealing turn ** [ 9c ]
+RatherShort checks
+GARALD84 checks
+** Dealing river ** [ 3c ]
+RatherShort bets [$0.04]
+GARALD84 folds
+** Summary **
+RatherShort did not show his hand
+RatherShort collected [ $0.08 ]
+
+
+#Game No : 500908868
+***** 888poker Hand History for Game 500908868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:02:47
+Table Kosice 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.22 )
+Seat 6: RatherShort ( $1.04 )
+RatherShort posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 500908871
+***** 888poker Hand History for Game 500908871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:02:51
+Table Kosice 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.23 )
+Seat 6: RatherShort ( $1.03 )
+GARALD84 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 7d, 5d, Th ]
+RatherShort checks
+GARALD84 bets [$0.02]
+RatherShort calls [$0.02]
+** Dealing turn ** [ Qd ]
+RatherShort checks
+GARALD84 checks
+** Dealing river ** [ Td ]
+RatherShort bets [$0.04]
+GARALD84 folds
+** Summary **
+RatherShort did not show his hand
+RatherShort collected [ $0.08 ]
+
+
+#Game No : 500908903
+***** 888poker Hand History for Game 500908903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:03:41
+Table Kosice 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.19 )
+Seat 6: RatherShort ( $1.07 )
+RatherShort posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 500908908
+***** 888poker Hand History for Game 500908908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:03:46
+Table Kosice 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.20 )
+Seat 6: RatherShort ( $1.06 )
+GARALD84 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 7c, Jh, Kh ]
+RatherShort checks
+GARALD84 bets [$0.02]
+RatherShort folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 500908925
+***** 888poker Hand History for Game 500908925 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:04:14
+Table Kosice 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.22 )
+Seat 6: RatherShort ( $1.04 )
+RatherShort posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.03]
+GARALD84 folds
+** Summary **
+RatherShort did not show his hand
+RatherShort collected [ $0.04 ]
+
+
+#Game No : 500908941
+***** 888poker Hand History for Game 500908941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:04:43
+Table Kosice 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.20 )
+Seat 6: RatherShort ( $1.06 )
+GARALD84 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ As, 8h, 6s ]
+RatherShort checks
+GARALD84 bets [$0.02]
+RatherShort folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 500908950
+***** 888poker Hand History for Game 500908950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:05:01
+Table Kosice 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.22 )
+Seat 6: RatherShort ( $1.04 )
+RatherShort posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 500908956
+***** 888poker Hand History for Game 500908956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:05:16
+Table Kosice 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.23 )
+Seat 6: RatherShort ( $1.03 )
+GARALD84 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 3s, Ac, 2s ]
+RatherShort checks
+GARALD84 bets [$0.02]
+RatherShort calls [$0.02]
+** Dealing turn ** [ 4s ]
+RatherShort checks
+GARALD84 bets [$0.05]
+RatherShort calls [$0.05]
+** Dealing river ** [ 5h ]
+RatherShort checks
+GARALD84 bets [$0.12]
+RatherShort folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.17 ]
+
+
+#Game No : 500908992
+***** 888poker Hand History for Game 500908992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:06:12
+Table Kosice 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $3.31 )
+Seat 6: RatherShort ( $1 )
+RatherShort posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.03 ]
+
+

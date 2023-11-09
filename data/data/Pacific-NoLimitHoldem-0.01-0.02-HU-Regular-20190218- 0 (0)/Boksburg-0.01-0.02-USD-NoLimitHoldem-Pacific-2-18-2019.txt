@@ -1,0 +1,364 @@
+#Game No : 524600050
+***** 888poker Hand History for Game 524600050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 11:54:44
+Table Boksburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: FruFrank ( $1.11 )
+Seat 9: oleg_sss ( $1.24 )
+FruFrank posts small blind [$0.01]
+oleg_sss posts big blind [$0.02]
+** Dealing down cards **
+FruFrank folds
+** Summary **
+oleg_sss collected [ $0.03 ]
+
+
+#Game No : 524600072
+***** 888poker Hand History for Game 524600072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 11:54:54
+Table Boksburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: FruFrank ( $1.10 )
+Seat 9: oleg_sss ( $1.25 )
+oleg_sss posts small blind [$0.01]
+FruFrank posts big blind [$0.02]
+** Dealing down cards **
+oleg_sss calls [$0.01]
+FruFrank raises [$0.04]
+oleg_sss calls [$0.04]
+** Dealing flop ** [ Jd, 6s, 8c ]
+FruFrank checks
+oleg_sss bets [$0.02]
+FruFrank calls [$0.02]
+** Dealing turn ** [ 8s ]
+FruFrank checks
+oleg_sss bets [$0.02]
+FruFrank folds
+** Summary **
+oleg_sss collected [ $0.15 ]
+
+
+#Game No : 524600120
+***** 888poker Hand History for Game 524600120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 11:55:24
+Table Boksburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: FruFrank ( $1.02 )
+Seat 9: oleg_sss ( $1.32 )
+FruFrank posts small blind [$0.01]
+oleg_sss posts big blind [$0.02]
+** Dealing down cards **
+FruFrank folds
+** Summary **
+oleg_sss did not show his hand
+oleg_sss collected [ $0.03 ]
+
+
+#Game No : 524600140
+***** 888poker Hand History for Game 524600140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 11:55:34
+Table Boksburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: FruFrank ( $1.01 )
+Seat 9: oleg_sss ( $1.33 )
+oleg_sss posts small blind [$0.01]
+FruFrank posts big blind [$0.02]
+** Dealing down cards **
+oleg_sss calls [$0.01]
+FruFrank checks
+** Dealing flop ** [ Kh, 8h, 5h ]
+FruFrank checks
+oleg_sss checks
+** Dealing turn ** [ 6d ]
+FruFrank bets [$0.04]
+oleg_sss folds
+** Summary **
+FruFrank did not show his hand
+FruFrank collected [ $0.04 ]
+
+
+#Game No : 524600171
+***** 888poker Hand History for Game 524600171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 11:55:52
+Table Boksburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: FruFrank ( $1.03 )
+Seat 9: oleg_sss ( $1.31 )
+FruFrank posts small blind [$0.01]
+oleg_sss posts big blind [$0.02]
+** Dealing down cards **
+FruFrank raises [$0.05]
+oleg_sss calls [$0.04]
+** Dealing flop ** [ 9h, Kh, Jd ]
+oleg_sss bets [$0.02]
+FruFrank raises [$0.10]
+oleg_sss folds
+** Summary **
+FruFrank collected [ $0.15 ]
+
+
+#Game No : 524601354
+***** 888poker Hand History for Game 524601354 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 12:06:45
+Table Boksburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: FruFrank ( $1.01 )
+Seat 9: oleg_sss ( $1.23 )
+oleg_sss posts small blind [$0.01]
+FruFrank posts big blind [$0.02]
+** Dealing down cards **
+oleg_sss calls [$0.01]
+FruFrank checks
+** Dealing flop ** [ 4c, 9s, 7d ]
+FruFrank checks
+oleg_sss bets [$0.02]
+FruFrank folds
+** Summary **
+oleg_sss collected [ $0.04 ]
+
+
+#Game No : 524602542
+***** 888poker Hand History for Game 524602542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 12:18:33
+Table Boksburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: APetravets ( $1.06 )
+Seat 9: oleg_sss ( $1.31 )
+APetravets posts small blind [$0.01]
+oleg_sss posts big blind [$0.02]
+** Dealing down cards **
+APetravets folds
+** Summary **
+oleg_sss collected [ $0.03 ]
+
+
+#Game No : 524602556
+***** 888poker Hand History for Game 524602556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 12:18:39
+Table Boksburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: APetravets ( $1.05 )
+Seat 9: oleg_sss ( $1.32 )
+oleg_sss posts small blind [$0.01]
+APetravets posts big blind [$0.02]
+** Dealing down cards **
+oleg_sss calls [$0.01]
+APetravets checks
+** Dealing flop ** [ Ad, Ks, 3s ]
+APetravets checks
+oleg_sss checks
+** Dealing turn ** [ 6h ]
+APetravets checks
+oleg_sss checks
+** Dealing river ** [ 5s ]
+APetravets checks
+oleg_sss checks
+** Summary **
+APetravets shows [ 7h, 2h ]
+oleg_sss shows [ 2c, 5c ]
+oleg_sss collected [ $0.04 ]
+
+
+#Game No : 524602642
+***** 888poker Hand History for Game 524602642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 12:19:36
+Table Boksburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: APetravets ( $1.03 )
+Seat 9: oleg_sss ( $1.34 )
+APetravets posts small blind [$0.01]
+oleg_sss posts big blind [$0.02]
+** Dealing down cards **
+APetravets folds
+** Summary **
+oleg_sss collected [ $0.03 ]
+
+
+#Game No : 524602722
+***** 888poker Hand History for Game 524602722 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 12:20:28
+Table Boksburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bozznian85 ( $0.98 )
+Seat 9: oleg_sss ( $1.35 )
+oleg_sss posts small blind [$0.01]
+bozznian85 posts big blind [$0.02]
+** Dealing down cards **
+oleg_sss calls [$0.01]
+bozznian85 checks
+** Dealing flop ** [ 4h, 5d, 5h ]
+bozznian85 checks
+oleg_sss checks
+** Dealing turn ** [ Ac ]
+bozznian85 checks
+oleg_sss checks
+** Dealing river ** [ 6h ]
+bozznian85 checks
+oleg_sss bets [$1.33]
+bozznian85 folds
+** Summary **
+oleg_sss collected [ $0.04 ]
+
+
+#Game No : 524602767
+***** 888poker Hand History for Game 524602767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 12:20:53
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bozznian85 ( $0.96 )
+Seat 9: oleg_sss ( $1.37 )
+bozznian85 posts small blind [$0.01]
+oleg_sss posts big blind [$0.02]
+** Dealing down cards **
+bozznian85 folds
+** Summary **
+oleg_sss collected [ $0.03 ]
+
+
+#Game No : 524602789
+***** 888poker Hand History for Game 524602789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 12:21:04
+Table Boksburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bozznian85 ( $0.95 )
+Seat 9: oleg_sss ( $1.38 )
+oleg_sss posts small blind [$0.01]
+bozznian85 posts big blind [$0.02]
+** Dealing down cards **
+oleg_sss calls [$0.01]
+bozznian85 checks
+** Dealing flop ** [ Th, 4d, 5h ]
+bozznian85 checks
+oleg_sss checks
+** Dealing turn ** [ Kd ]
+bozznian85 checks
+oleg_sss checks
+** Dealing river ** [ 8c ]
+bozznian85 bets [$0.06]
+oleg_sss folds
+** Summary **
+bozznian85 collected [ $0.04 ]
+
+
+#Game No : 524613110
+***** 888poker Hand History for Game 524613110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 14:10:55
+Table Boksburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Nobody7699 ( $1.30 )
+Seat 9: BobajanPs ( $2.81 )
+BobajanPs posts small blind [$0.01]
+Nobody7699 posts big blind [$0.02]
+** Dealing down cards **
+BobajanPs raises [$0.05]
+Nobody7699 folds
+** Summary **
+BobajanPs collected [ $0.04 ]
+
+
+#Game No : 524613128
+***** 888poker Hand History for Game 524613128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 14:11:06
+Table Boksburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nobody7699 ( $1.28 )
+Seat 9: BobajanPs ( $2.83 )
+Nobody7699 posts small blind [$0.01]
+** Dealing down cards **
+BobajanPs folds
+** Summary **
+Nobody7699 collected [ $0.01 ]
+
+
+#Game No : 524613303
+***** 888poker Hand History for Game 524613303 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 14:12:54
+Table Boksburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Fibedi ( $0.80 )
+Seat 2: mo9cel ( $1 )
+Fibedi posts small blind [$0.01]
+mo9cel posts big blind [$0.02]
+** Dealing down cards **
+Fibedi calls [$0.01]
+mo9cel checks
+** Dealing flop ** [ As, 6s, 5h ]
+mo9cel checks
+Fibedi bets [$0.04]
+mo9cel calls [$0.04]
+** Dealing turn ** [ 5s ]
+mo9cel checks
+Fibedi checks
+** Dealing river ** [ 4d ]
+mo9cel bets [$0.04]
+Fibedi folds
+** Summary **
+mo9cel collected [ $0.12 ]
+
+
+#Game No : 524613369
+***** 888poker Hand History for Game 524613369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 14:13:33
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Fibedi ( $0.74 )
+Seat 2: mo9cel ( $1.06 )
+mo9cel posts small blind [$0.01]
+Fibedi posts big blind [$0.02]
+** Dealing down cards **
+mo9cel calls [$0.01]
+Fibedi raises [$0.04]
+mo9cel folds
+** Summary **
+Fibedi collected [ $0.04 ]
+
+
+#Game No : 524614988
+***** 888poker Hand History for Game 524614988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 14:31:50
+Table Boksburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Fibedi ( $0.90 )
+Seat 2: mo9cel ( $1.16 )
+Fibedi posts small blind [$0.01]
+mo9cel posts big blind [$0.02]
+** Dealing down cards **
+Fibedi folds
+** Summary **
+mo9cel did not show his hand
+mo9cel collected [ $0.03 ]
+
+
+#Game No : 524614998
+***** 888poker Hand History for Game 524614998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 14:31:56
+Table Boksburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Fibedi ( $0.89 )
+Seat 2: mo9cel ( $1.17 )
+Fibedi posts small blind [$0.01]
+** Dealing down cards **
+mo9cel folds
+** Summary **
+Fibedi did not show his hand
+Fibedi collected [ $0.01 ]
+
+

@@ -1,0 +1,48 @@
+#Game No : 456872176
+***** 888poker Hand History for Game 456872176 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 23:04:10
+Table Henderson 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: Tokkenpaul ( $1.98 )
+Seat 3: smeghead17 ( $2.02 )
+smeghead17 posts small blind [$0.01]
+Tokkenpaul posts big blind [$0.02]
+** Dealing down cards **
+smeghead17 calls [$0.01]
+Tokkenpaul checks
+** Dealing flop ** [ Kc, 5d, 8c ]
+Tokkenpaul bets [$0.02]
+smeghead17 folds
+** Summary **
+Tokkenpaul collected [ $0.04 ]
+
+
+#Game No : 456903164
+***** 888poker Hand History for Game 456903164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 16:00:46
+Table Henderson 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: menortj ( $2.55 )
+Seat 9: Zamglai ( $2.03 )
+Zamglai posts small blind [$0.01]
+menortj posts big blind [$0.02]
+** Dealing down cards **
+Zamglai raises [$0.05]
+menortj calls [$0.04]
+** Dealing flop ** [ 3h, Ah, 8c ]
+Zamglai bets [$0.08]
+menortj calls [$0.08]
+** Dealing turn ** [ As ]
+Zamglai bets [$0.18]
+menortj calls [$0.18]
+** Dealing river ** [ Qd ]
+Zamglai checks
+menortj checks
+** Summary **
+Zamglai shows [ Js, Ks ]
+menortj shows [ 4h, 3c ]
+menortj collected [ $0.60 ]
+
+

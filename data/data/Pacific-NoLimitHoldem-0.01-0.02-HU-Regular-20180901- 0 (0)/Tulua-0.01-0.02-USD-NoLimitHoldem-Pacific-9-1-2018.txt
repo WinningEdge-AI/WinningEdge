@@ -1,0 +1,43 @@
+#Game No : 607664623
+***** 888poker Hand History for Game 607664623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 17:15:39
+Table Tulua 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: CSXbot ( $2.73 )
+Seat 6: ludik787 ( $1.46 )
+ludik787 posts small blind [$0.01]
+CSXbot posts big blind [$0.02]
+** Dealing down cards **
+ludik787 calls [$0.01]
+CSXbot checks
+** Dealing flop ** [ 6c, Qc, 8d ]
+CSXbot checks
+ludik787 checks
+** Dealing turn ** [ Kh ]
+CSXbot checks
+ludik787 bets [$0.04]
+CSXbot folds
+** Summary **
+ludik787 did not show his hand
+ludik787 collected [ $0.04 ]
+
+
+#Game No : 607664638
+***** 888poker Hand History for Game 607664638 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 17:16:05
+Table Tulua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: CSXbot ( $2.71 )
+Seat 6: ludik787 ( $1.48 )
+CSXbot posts small blind [$0.01]
+ludik787 posts big blind [$0.02]
+** Dealing down cards **
+CSXbot raises [$0.15]
+ludik787 folds
+** Summary **
+CSXbot did not show his hand
+CSXbot collected [ $0.04 ]
+
+

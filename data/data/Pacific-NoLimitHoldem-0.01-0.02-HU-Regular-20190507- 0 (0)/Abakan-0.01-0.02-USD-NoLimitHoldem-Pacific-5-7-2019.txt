@@ -1,0 +1,277 @@
+#Game No : 240858
+***** 888poker Hand History for Game 240858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 04:47:44
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $1 )
+Seat 6: flodda84 ( $0.80 )
+i_am_you_ posts small blind [$0.01]
+flodda84 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ calls [$0.01]
+flodda84 checks
+** Dealing flop ** [ Qh, Kc, 7d ]
+flodda84 bets [$0.02]
+i_am_you_ calls [$0.02]
+** Dealing turn ** [ Jc ]
+flodda84 checks
+i_am_you_ bets [$0.05]
+flodda84 folds
+** Summary **
+i_am_you_ collected [ $0.08 ]
+
+
+#Game No : 240863
+***** 888poker Hand History for Game 240863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 04:48:09
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $1.04 )
+Seat 6: flodda84 ( $0.80 )
+flodda84 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+flodda84 folds
+** Summary **
+i_am_you_ collected [ $0.03 ]
+
+
+#Game No : 241556
+***** 888poker Hand History for Game 241556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 06:56:14
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: temorus ( $2.14 )
+Seat 6: Akhenatenn ( $1 )
+temorus posts small blind [$0.01]
+Akhenatenn posts big blind [$0.02]
+** Dealing down cards **
+temorus calls [$0.01]
+Akhenatenn checks
+** Dealing flop ** [ 4c, Ts, 3d ]
+Akhenatenn checks
+temorus bets [$0.02]
+Akhenatenn folds
+** Summary **
+temorus collected [ $0.04 ]
+
+
+#Game No : 241560
+***** 888poker Hand History for Game 241560 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 06:56:59
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: temorus ( $2.16 )
+Seat 7: xippisa14 ( $0.80 )
+temorus posts small blind [$0.01]
+xippisa14 posts big blind [$0.02]
+** Dealing down cards **
+temorus calls [$0.01]
+xippisa14 checks
+** Dealing flop ** [ 7s, 5h, 5c ]
+xippisa14 checks
+temorus bets [$0.02]
+xippisa14 calls [$0.02]
+** Dealing turn ** [ Js ]
+xippisa14 checks
+temorus checks
+** Dealing river ** [ 6d ]
+xippisa14 checks
+temorus checks
+** Summary **
+xippisa14 shows [ 7c, 3c ]
+temorus mucks [ 2h, 9h ]
+xippisa14 collected [ $0.08 ]
+
+
+#Game No : 241561
+***** 888poker Hand History for Game 241561 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 06:57:22
+Table Abakan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: temorus ( $2.12 )
+Seat 7: xippisa14 ( $0.84 )
+xippisa14 posts small blind [$0.01]
+temorus posts big blind [$0.02]
+** Dealing down cards **
+xippisa14 calls [$0.01]
+temorus checks
+** Dealing flop ** [ Kc, 4s, 5s ]
+temorus checks
+xippisa14 checks
+** Dealing turn ** [ 6c ]
+temorus bets [$0.02]
+xippisa14 calls [$0.02]
+** Dealing river ** [ 7h ]
+temorus bets [$0.02]
+xippisa14 calls [$0.02]
+** Summary **
+temorus shows [ 7c, 3s ]
+xippisa14 shows [ Jc, 3c ]
+xippisa14 collected [ $0.06 ]
+temorus collected [ $0.06 ]
+
+
+#Game No : 242153
+***** 888poker Hand History for Game 242153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 08:22:45
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Manowi_11 ( $1.73 )
+Seat 6: Cheeta01 ( $1.44 )
+Manowi_11 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Manowi_11 folds
+** Summary **
+Cheeta01 collected [ $0.03 ]
+
+
+#Game No : 242154
+***** 888poker Hand History for Game 242154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 08:22:50
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Manowi_11 ( $1.72 )
+Seat 6: Cheeta01 ( $1.45 )
+Cheeta01 posts small blind [$0.01]
+Manowi_11 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+Manowi_11 raises [$0.06]
+Cheeta01 calls [$0.06]
+** Dealing flop ** [ Td, 3s, 4c ]
+Manowi_11 checks
+Cheeta01 checks
+** Dealing turn ** [ 8d ]
+Manowi_11 checks
+Cheeta01 checks
+** Dealing river ** [ Ad ]
+Manowi_11 checks
+Cheeta01 checks
+** Summary **
+Manowi_11 shows [ Jc, Qh ]
+Cheeta01 mucks [ 6d, 5h ]
+Manowi_11 collected [ $0.15 ]
+
+
+#Game No : 242159
+***** 888poker Hand History for Game 242159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 08:23:18
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Manowi_11 ( $1.79 )
+Seat 6: Cheeta01 ( $1.37 )
+Manowi_11 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Manowi_11 raises [$0.05]
+Cheeta01 calls [$0.04]
+** Dealing flop ** [ 2h, Kh, 3h ]
+Cheeta01 bets [$0.02]
+Manowi_11 raises [$0.08]
+Cheeta01 calls [$0.06]
+** Dealing turn ** [ Ks ]
+Cheeta01 bets [$0.02]
+Manowi_11 raises [$0.19]
+Cheeta01 calls [$0.17]
+** Dealing river ** [ Th ]
+Cheeta01 checks
+Manowi_11 bets [$0.50]
+Cheeta01 folds
+** Summary **
+Manowi_11 did not show his hand
+Manowi_11 collected [ $0.62 ]
+
+
+#Game No : 242169
+***** 888poker Hand History for Game 242169 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 08:24:00
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Manowi_11 ( $2.08 )
+Seat 6: Cheeta01 ( $1.04 )
+Cheeta01 posts small blind [$0.01]
+Manowi_11 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 raises [$0.31]
+Manowi_11 folds
+** Summary **
+Cheeta01 did not show his hand
+Cheeta01 collected [ $0.04 ]
+
+
+#Game No : 242173
+***** 888poker Hand History for Game 242173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 08:24:07
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Manowi_11 ( $2.06 )
+Seat 6: Cheeta01 ( $1.06 )
+Manowi_11 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Manowi_11 raises [$0.05]
+Cheeta01 calls [$0.04]
+** Dealing flop ** [ 2c, 6h, 7s ]
+Cheeta01 bets [$1]
+Manowi_11 folds
+** Summary **
+Cheeta01 collected [ $0.12 ]
+
+
+#Game No : 242176
+***** 888poker Hand History for Game 242176 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 08:24:24
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Manowi_11 ( $2 )
+Seat 6: Cheeta01 ( $1.12 )
+Cheeta01 posts small blind [$0.01]
+Manowi_11 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+Manowi_11 raises [$0.06]
+Cheeta01 calls [$0.06]
+** Dealing flop ** [ Jh, Qc, 9h ]
+Manowi_11 bets [$0.09]
+Cheeta01 calls [$0.09]
+** Dealing turn ** [ 6s ]
+Manowi_11 bets [$0.24]
+Cheeta01 calls [$0.24]
+** Dealing river ** [ Qd ]
+Manowi_11 bets [$0.59]
+Cheeta01 folds
+** Summary **
+Manowi_11 collected [ $0.77 ]
+
+
+#Game No : 245071
+***** 888poker Hand History for Game 245071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 16:21:46
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 888RUB ( $0.93 )
+Seat 6: Zheka5256 ( $3.10 )
+Zheka5256 posts small blind [$0.01]
+888RUB posts big blind [$0.02]
+** Dealing down cards **
+Zheka5256 raises [$0.05]
+888RUB folds
+** Summary **
+Zheka5256 did not show his hand
+Zheka5256 collected [ $0.04 ]
+
+

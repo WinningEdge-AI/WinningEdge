@@ -1,0 +1,44 @@
+#Game No : 462673337
+***** 888poker Hand History for Game 462673337 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 20:31:00
+Table Tampere 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: Taras848 ( $0.99 )
+Seat 10: mrtufnel ( $1.81 )
+mrtufnel posts small blind [$0.01]
+Taras848 posts big blind [$0.02]
+** Dealing down cards **
+mrtufnel raises [$0.03]
+Taras848 folds
+** Summary **
+mrtufnel collected [ $0.04 ]
+
+
+#Game No : 462700719
+***** 888poker Hand History for Game 462700719 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 12:26:26
+Table Tampere 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: agregator1 ( $3.51 )
+Seat 6: kmlm73 ( $1.81 )
+kmlm73 posts small blind [$0.01]
+agregator1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+agregator1 calls [$0.02]
+** Dealing flop ** [ Th, Ts, 4c ]
+agregator1 checks
+kmlm73 bets [$0.02]
+agregator1 calls [$0.02]
+** Dealing turn ** [ 2d ]
+agregator1 checks
+kmlm73 checks
+** Dealing river ** [ Kh ]
+agregator1 bets [$0.06]
+kmlm73 folds
+** Summary **
+agregator1 collected [ $0.12 ]
+
+

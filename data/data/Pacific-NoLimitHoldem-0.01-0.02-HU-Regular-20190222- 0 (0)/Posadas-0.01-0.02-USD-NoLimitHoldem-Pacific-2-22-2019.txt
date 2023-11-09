@@ -1,0 +1,89 @@
+#Game No : 1249748005
+***** 888poker Hand History for Game 1249748005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 02 2019 15:59:14
+Table Posadas 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: vader105 ( $1.34 )
+Seat 9: ostegarka ( $0.89 )
+vader105 posts small blind [$0.01]
+ostegarka posts big blind [$0.02]
+** Dealing down cards **
+vader105 calls [$0.01]
+ostegarka checks
+** Dealing flop ** [ Kd, 5s, 4s ]
+ostegarka checks
+vader105 bets [$0.02]
+ostegarka calls [$0.02]
+** Dealing turn ** [ 7h ]
+ostegarka bets [$0.02]
+vader105 raises [$0.08]
+ostegarka calls [$0.06]
+** Dealing river ** [ 9s ]
+ostegarka checks
+vader105 bets [$0.16]
+ostegarka calls [$0.16]
+** Summary **
+vader105 shows [ 7s, Ks ]
+ostegarka mucks [ Ad, Kc ]
+vader105 collected [ $0.53 ]
+
+
+#Game No : 1249748162
+***** 888poker Hand History for Game 1249748162 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 02 2019 16:00:06
+Table Posadas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: vader105 ( $1.59 )
+Seat 9: ostegarka ( $0.61 )
+ostegarka posts small blind [$0.01]
+vader105 posts big blind [$0.02]
+** Dealing down cards **
+ostegarka calls [$0.01]
+vader105 checks
+** Dealing flop ** [ 9c, As, Jc ]
+vader105 bets [$0.02]
+ostegarka calls [$0.02]
+** Dealing turn ** [ 8h ]
+vader105 checks
+ostegarka checks
+** Dealing river ** [ 2s ]
+vader105 bets [$0.02]
+ostegarka calls [$0.02]
+** Summary **
+vader105 shows [ Js, Qd ]
+ostegarka mucks [ 3h, 8d ]
+vader105 collected [ $0.12 ]
+
+
+#Game No : 1249748248
+***** 888poker Hand History for Game 1249748248 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 02 2019 16:00:37
+Table Posadas 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: vader105 ( $1.65 )
+Seat 9: ostegarka ( $0.55 )
+vader105 posts small blind [$0.01]
+ostegarka posts big blind [$0.02]
+** Dealing down cards **
+vader105 calls [$0.01]
+ostegarka raises [$0.02]
+vader105 calls [$0.02]
+** Dealing flop ** [ 3c, As, 4s ]
+ostegarka bets [$0.02]
+vader105 raises [$0.10]
+ostegarka calls [$0.08]
+** Dealing turn ** [ Jd ]
+ostegarka checks
+vader105 bets [$0.18]
+ostegarka raises [$0.41]
+vader105 calls [$0.23]
+** Dealing river ** [ 3s ]
+** Summary **
+vader105 shows [ 3d, 4h ]
+ostegarka shows [ Ad, 4d ]
+vader105 collected [ $1.04 ]
+
+

@@ -1,0 +1,155 @@
+#Game No : 1263039741
+***** 888poker Hand History for Game 1263039741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:40:09
+Table Downey 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Fred8822 ( $1.78 )
+Seat 6: yoda198709 ( $2.01 )
+yoda198709 posts small blind [$0.01]
+Fred8822 posts big blind [$0.02]
+** Dealing down cards **
+yoda198709 raises [$0.05]
+Fred8822 folds
+** Summary **
+yoda198709 collected [ $0.04 ]
+
+
+#Game No : 1263039994
+***** 888poker Hand History for Game 1263039994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:42:47
+Table Downey 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Wanheda187 ( $1.68 )
+Seat 5: Asiandriver ( $2 )
+Wanheda187 posts small blind [$0.01]
+Asiandriver posts big blind [$0.02]
+** Dealing down cards **
+Wanheda187 raises [$1.09]
+Asiandriver folds
+** Summary **
+Wanheda187 did not show his hand
+Wanheda187 collected [ $0.04 ]
+
+
+#Game No : 1263040043
+***** 888poker Hand History for Game 1263040043 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:43:17
+Table Downey 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Wanheda187 ( $1.70 )
+Seat 5: Asiandriver ( $1.98 )
+Asiandriver posts small blind [$0.01]
+Wanheda187 posts big blind [$0.02]
+** Dealing down cards **
+Asiandriver raises [$0.63]
+Wanheda187 raises [$1.24]
+Asiandriver calls [$0.62]
+** Dealing flop ** [ Td, 5s, Qc ]
+Wanheda187 bets [$0.44]
+Asiandriver folds
+** Summary **
+Wanheda187 did not show his hand
+Wanheda187 collected [ $2.37 ]
+
+
+#Game No : 1263040201
+***** 888poker Hand History for Game 1263040201 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:44:42
+Table Downey 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Wanheda187 ( $5.01 )
+Seat 5: Asiandriver ( $0.24 )
+Wanheda187 posts small blind [$0.01]
+Asiandriver posts big blind [$0.02]
+** Dealing down cards **
+Wanheda187 raises [$0.13]
+Asiandriver calls [$0.12]
+** Dealing flop ** [ 5h, 5d, 8h ]
+Asiandriver bets [$0.10]
+Wanheda187 calls [$0.10]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Qh ]
+** Summary **
+Wanheda187 shows [ Qc, 9c ]
+Asiandriver shows [ 7h, Th ]
+Asiandriver collected [ $0.45 ]
+
+
+#Game No : 1263040269
+***** 888poker Hand History for Game 1263040269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:45:21
+Table Downey 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Wanheda187 ( $4.77 )
+Seat 5: Asiandriver ( $2 )
+Asiandriver posts small blind [$0.01]
+Wanheda187 posts big blind [$0.02]
+** Dealing down cards **
+Asiandriver raises [$1.63]
+Wanheda187 raises [$3.24]
+Asiandriver folds
+** Summary **
+Wanheda187 did not show his hand
+Wanheda187 collected [ $3.28 ]
+
+
+#Game No : 1263040830
+***** 888poker Hand History for Game 1263040830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:51:01
+Table Downey 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Wanheda187 ( $11.42 )
+Seat 6: Griboedow ( $1.28 )
+Griboedow posts small blind [$0.01]
+Wanheda187 posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+Wanheda187 checks
+** Dealing flop ** [ Th, Tc, 5c ]
+Wanheda187 checks
+Griboedow checks
+** Dealing turn ** [ Ts ]
+Wanheda187 checks
+Griboedow checks
+** Dealing river ** [ 9s ]
+Wanheda187 checks
+Griboedow checks
+** Summary **
+Wanheda187 shows [ Qd, 4d ]
+Griboedow shows [ Ad, 2s ]
+Griboedow collected [ $0.04 ]
+
+
+#Game No : 1263040876
+***** 888poker Hand History for Game 1263040876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 23:51:26
+Table Downey 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Wanheda187 ( $11.40 )
+Seat 6: Griboedow ( $1.30 )
+Wanheda187 posts small blind [$0.01]
+Griboedow posts big blind [$0.02]
+** Dealing down cards **
+Wanheda187 calls [$0.01]
+Griboedow checks
+** Dealing flop ** [ Jc, Qs, Js ]
+Griboedow checks
+Wanheda187 checks
+** Dealing turn ** [ Tc ]
+Griboedow checks
+Wanheda187 checks
+** Dealing river ** [ 7s ]
+Griboedow checks
+Wanheda187 bets [$0.05]
+Griboedow folds
+** Summary **
+Wanheda187 collected [ $0.04 ]
+
+

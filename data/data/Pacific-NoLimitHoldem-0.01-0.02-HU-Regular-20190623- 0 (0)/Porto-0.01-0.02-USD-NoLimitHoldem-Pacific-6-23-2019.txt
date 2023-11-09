@@ -1,0 +1,2050 @@
+#Game No : 533777916
+***** 888poker Hand History for Game 533777916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:21:04
+Table Porto 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Sargtath ( $2 )
+Seat 10: NikoOrlov ( $3.05 )
+Sargtath posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+Sargtath folds
+** Summary **
+NikoOrlov collected [ $0.03 ]
+
+
+#Game No : 533777924
+***** 888poker Hand History for Game 533777924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:21:12
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Sargtath ( $2 )
+Seat 10: NikoOrlov ( $3.06 )
+NikoOrlov posts small blind [$0.01]
+** Dealing down cards **
+Sargtath folds
+** Summary **
+NikoOrlov collected [ $0.01 ]
+
+
+#Game No : 533777940
+***** 888poker Hand History for Game 533777940 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:21:51
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2 )
+Seat 10: NikoOrlov ( $3.06 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.04]
+NikoOrlov calls [$0.03]
+** Dealing flop ** [ Js, 8h, 9d ]
+NikoOrlov checks
+run_it_once checks
+** Dealing turn ** [ 7d ]
+NikoOrlov checks
+run_it_once bets [$0.05]
+NikoOrlov folds
+** Summary **
+run_it_once collected [ $0.10 ]
+
+
+#Game No : 533777959
+***** 888poker Hand History for Game 533777959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:22:33
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.05 )
+Seat 10: NikoOrlov ( $3.01 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.05]
+run_it_once raises [$2.03]
+NikoOrlov folds
+** Summary **
+run_it_once collected [ $0.12 ]
+
+
+#Game No : 533777970
+***** 888poker Hand History for Game 533777970 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:22:56
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.11 )
+Seat 10: NikoOrlov ( $2.95 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.03]
+NikoOrlov calls [$0.02]
+** Dealing flop ** [ 8c, 2d, Ks ]
+NikoOrlov checks
+run_it_once bets [$0.04]
+NikoOrlov calls [$0.04]
+** Dealing turn ** [ 8d ]
+NikoOrlov checks
+run_it_once checks
+** Dealing river ** [ 3d ]
+NikoOrlov checks
+run_it_once checks
+** Summary **
+NikoOrlov shows [ 5c, 5s ]
+run_it_once mucks [ Qs, Th ]
+NikoOrlov collected [ $0.15 ]
+
+
+#Game No : 533778014
+***** 888poker Hand History for Game 533778014 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:24:31
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.02 )
+Seat 10: NikoOrlov ( $3.05 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once folds
+** Summary **
+NikoOrlov collected [ $0.03 ]
+
+
+#Game No : 533778034
+***** 888poker Hand History for Game 533778034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:25:16
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2 )
+Seat 10: NikoOrlov ( $2.93 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once folds
+** Summary **
+NikoOrlov collected [ $0.03 ]
+
+
+#Game No : 533778037
+***** 888poker Hand History for Game 533778037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:25:25
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2 )
+Seat 10: NikoOrlov ( $2.94 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.03]
+run_it_once calls [$0.02]
+** Dealing flop ** [ 4d, 9s, 2h ]
+run_it_once checks
+NikoOrlov bets [$0.05]
+run_it_once calls [$0.05]
+** Dealing turn ** [ Kd ]
+run_it_once checks
+NikoOrlov checks
+** Dealing river ** [ Ts ]
+run_it_once checks
+NikoOrlov bets [$0.11]
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.17 ]
+
+
+#Game No : 533778049
+***** 888poker Hand History for Game 533778049 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:25:57
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2 )
+Seat 10: NikoOrlov ( $3.02 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.05]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.04 ]
+
+
+#Game No : 533778054
+***** 888poker Hand History for Game 533778054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:26:05
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.02 )
+Seat 10: NikoOrlov ( $3 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.03 ]
+
+
+#Game No : 533778058
+***** 888poker Hand History for Game 533778058 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:26:12
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.03 )
+Seat 10: NikoOrlov ( $2.99 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.03 ]
+
+
+#Game No : 533778061
+***** 888poker Hand History for Game 533778061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:26:28
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.02 )
+Seat 10: NikoOrlov ( $3 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once checks
+** Dealing flop ** [ 7s, 5d, Kd ]
+run_it_once checks
+NikoOrlov bets [$0.04]
+run_it_once raises [$0.16]
+NikoOrlov calls [$0.12]
+** Dealing turn ** [ 6h ]
+run_it_once checks
+NikoOrlov checks
+** Dealing river ** [ 4d ]
+run_it_once checks
+NikoOrlov checks
+** Summary **
+run_it_once shows [ Ks, 2d ]
+NikoOrlov shows [ 2c, Kc ]
+NikoOrlov collected [ $0.17 ]
+run_it_once collected [ $0.17 ]
+
+
+#Game No : 533778084
+***** 888poker Hand History for Game 533778084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:27:25
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.01 )
+Seat 10: NikoOrlov ( $2.99 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once calls [$0.01]
+NikoOrlov checks
+** Dealing flop ** [ 9h, 6s, 8d ]
+NikoOrlov checks
+run_it_once bets [$0.02]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.04 ]
+
+
+#Game No : 533778098
+***** 888poker Hand History for Game 533778098 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:28:02
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.03 )
+Seat 10: NikoOrlov ( $2.97 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.03]
+run_it_once raises [$0.14]
+NikoOrlov calls [$0.12]
+** Dealing flop ** [ 5d, Jh, 2s ]
+run_it_once bets [$0.10]
+NikoOrlov raises [$0.25]
+run_it_once calls [$0.15]
+** Dealing turn ** [ 7h ]
+run_it_once checks
+NikoOrlov bets [$0.54]
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.77 ]
+
+
+#Game No : 533778112
+***** 888poker Hand History for Game 533778112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:28:37
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2 )
+Seat 10: NikoOrlov ( $3.33 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.03]
+NikoOrlov calls [$0.02]
+** Dealing flop ** [ Qh, 8h, 9h ]
+NikoOrlov checks
+run_it_once bets [$0.05]
+NikoOrlov calls [$0.05]
+** Dealing turn ** [ 6c ]
+NikoOrlov checks
+run_it_once bets [$0.11]
+NikoOrlov calls [$0.11]
+** Dealing river ** [ 3s ]
+NikoOrlov checks
+run_it_once bets [$0.26]
+NikoOrlov calls [$0.26]
+** Summary **
+run_it_once shows [ 9d, 6h ]
+NikoOrlov mucks [ Jh, 9s ]
+run_it_once collected [ $0.87 ]
+
+
+#Game No : 533778450
+***** 888poker Hand History for Game 533778450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:41:57
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.80 )
+Seat 10: NikoOrlov ( $2.98 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once checks
+** Dealing flop ** [ 4s, Th, 7h ]
+run_it_once checks
+NikoOrlov bets [$0.04]
+run_it_once raises [$0.16]
+NikoOrlov calls [$0.12]
+** Dealing turn ** [ Kd ]
+run_it_once bets [$0.18]
+NikoOrlov calls [$0.18]
+** Dealing river ** [ 9d ]
+run_it_once checks
+NikoOrlov checks
+** Summary **
+run_it_once shows [ 9h, 3d ]
+NikoOrlov shows [ 8d, 9s ]
+NikoOrlov collected [ $0.68 ]
+
+
+#Game No : 533778478
+***** 888poker Hand History for Game 533778478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:42:57
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.44 )
+Seat 10: NikoOrlov ( $3.30 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.05]
+NikoOrlov calls [$0.04]
+** Dealing flop ** [ 5d, 4c, 4s ]
+NikoOrlov checks
+run_it_once bets [$0.06]
+NikoOrlov calls [$0.06]
+** Dealing turn ** [ 6h ]
+NikoOrlov checks
+run_it_once bets [$0.15]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.23 ]
+
+
+#Game No : 533778490
+***** 888poker Hand History for Game 533778490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 19:43:31
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.55 )
+Seat 10: NikoOrlov ( $3.18 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once checks
+** Dealing flop ** [ Qh, Qs, 9s ]
+run_it_once checks
+NikoOrlov checks
+** Dealing turn ** [ 8s ]
+run_it_once checks
+NikoOrlov bets [$0.02]
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.04 ]
+
+
+#Game No : 533778989
+***** 888poker Hand History for Game 533778989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:00:46
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $4.15 )
+Seat 10: NikoOrlov ( $3.35 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.03]
+NikoOrlov calls [$0.02]
+** Dealing flop ** [ 2d, 2c, Jc ]
+NikoOrlov checks
+run_it_once checks
+** Dealing turn ** [ Qd ]
+NikoOrlov checks
+run_it_once bets [$0.05]
+NikoOrlov calls [$0.05]
+** Dealing river ** [ 6d ]
+NikoOrlov checks
+run_it_once bets [$0.11]
+NikoOrlov calls [$0.11]
+** Summary **
+run_it_once shows [ 5c, Qs ]
+NikoOrlov shows [ Qh, 7c ]
+NikoOrlov collected [ $0.19 ]
+run_it_once collected [ $0.19 ]
+
+
+#Game No : 533779015
+***** 888poker Hand History for Game 533779015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:01:00
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $4.14 )
+Seat 10: NikoOrlov ( $3.34 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.05]
+run_it_once calls [$0.04]
+** Dealing flop ** [ Td, 2d, 7h ]
+run_it_once checks
+NikoOrlov checks
+** Dealing turn ** [ Jh ]
+run_it_once checks
+NikoOrlov bets [$0.07]
+run_it_once calls [$0.07]
+** Dealing river ** [ 3d ]
+run_it_once checks
+NikoOrlov checks
+** Summary **
+run_it_once shows [ 6c, Kd ]
+NikoOrlov shows [ 6h, Ad ]
+NikoOrlov collected [ $0.25 ]
+
+
+#Game No : 533779034
+***** 888poker Hand History for Game 533779034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:01:41
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $4.01 )
+Seat 10: NikoOrlov ( $3.46 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.07]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.04 ]
+
+
+#Game No : 533779039
+***** 888poker Hand History for Game 533779039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:01:52
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $4.03 )
+Seat 10: NikoOrlov ( $3.44 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.03 ]
+
+
+#Game No : 533779044
+***** 888poker Hand History for Game 533779044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:02:00
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $4.04 )
+Seat 10: NikoOrlov ( $3.43 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.07]
+NikoOrlov calls [$0.06]
+** Dealing flop ** [ 6s, Ad, 5d ]
+NikoOrlov checks
+run_it_once bets [$0.10]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.15 ]
+
+
+#Game No : 533779050
+***** 888poker Hand History for Game 533779050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:02:19
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $4.11 )
+Seat 10: NikoOrlov ( $3.35 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.05]
+run_it_once raises [$0.22]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.12 ]
+
+
+#Game No : 533779061
+***** 888poker Hand History for Game 533779061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:02:35
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $4.17 )
+Seat 10: NikoOrlov ( $3.29 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.05]
+NikoOrlov raises [$0.16]
+run_it_once calls [$0.12]
+** Dealing flop ** [ Jc, 7d, 3s ]
+NikoOrlov bets [$0.23]
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.34 ]
+
+
+#Game No : 533779070
+***** 888poker Hand History for Game 533779070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:02:57
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.99 )
+Seat 10: NikoOrlov ( $3.45 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.05]
+run_it_once raises [$0.22]
+NikoOrlov calls [$0.18]
+** Dealing flop ** [ Jd, 8h, 6c ]
+run_it_once bets [$0.24]
+NikoOrlov calls [$0.24]
+** Dealing turn ** [ 6h ]
+run_it_once checks
+NikoOrlov bets [$0.48]
+run_it_once calls [$0.48]
+** Dealing river ** [ Kh ]
+run_it_once checks
+NikoOrlov checks
+** Summary **
+run_it_once shows [ Th, 7s ]
+NikoOrlov shows [ 9c, Kd ]
+NikoOrlov collected [ $1.80 ]
+
+
+#Game No : 533779082
+***** 888poker Hand History for Game 533779082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:03:28
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.03 )
+Seat 10: NikoOrlov ( $4.29 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.07]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.04 ]
+
+
+#Game No : 533779090
+***** 888poker Hand History for Game 533779090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:03:44
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.05 )
+Seat 10: NikoOrlov ( $4.27 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once checks
+** Dealing flop ** [ Kc, Ks, Qc ]
+run_it_once checks
+NikoOrlov bets [$0.04]
+run_it_once raises [$3.03]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.12 ]
+
+
+#Game No : 533779098
+***** 888poker Hand History for Game 533779098 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:04:01
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.11 )
+Seat 10: NikoOrlov ( $4.21 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.03]
+NikoOrlov calls [$0.02]
+** Dealing flop ** [ 4s, Jh, 7s ]
+NikoOrlov checks
+run_it_once checks
+** Dealing turn ** [ 4h ]
+NikoOrlov checks
+run_it_once bets [$0.05]
+NikoOrlov calls [$0.05]
+** Dealing river ** [ 2h ]
+NikoOrlov checks
+run_it_once checks
+** Summary **
+NikoOrlov shows [ 5h, 3s ]
+run_it_once shows [ Th, Ad ]
+run_it_once collected [ $0.17 ]
+
+
+#Game No : 533779109
+***** 888poker Hand History for Game 533779109 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:04:34
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.19 )
+Seat 10: NikoOrlov ( $4.12 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.03 ]
+
+
+#Game No : 533779114
+***** 888poker Hand History for Game 533779114 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:04:41
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.20 )
+Seat 10: NikoOrlov ( $4.11 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.03]
+NikoOrlov calls [$0.02]
+** Dealing flop ** [ As, 2h, 5c ]
+NikoOrlov checks
+run_it_once checks
+** Dealing turn ** [ 2d ]
+NikoOrlov checks
+run_it_once checks
+** Dealing river ** [ 8c ]
+NikoOrlov checks
+run_it_once checks
+** Summary **
+NikoOrlov shows [ 5h, Kd ]
+run_it_once mucks [ Qh, 7d ]
+NikoOrlov collected [ $0.08 ]
+
+
+#Game No : 533779122
+***** 888poker Hand History for Game 533779122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:05:04
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.16 )
+Seat 10: NikoOrlov ( $4.15 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once checks
+** Dealing flop ** [ Kd, 4s, Ac ]
+run_it_once checks
+NikoOrlov bets [$0.04]
+run_it_once raises [$0.12]
+NikoOrlov calls [$0.08]
+** Dealing turn ** [ 4d ]
+run_it_once checks
+NikoOrlov bets [$0.18]
+run_it_once calls [$0.18]
+** Dealing river ** [ Qc ]
+run_it_once checks
+NikoOrlov bets [$0.42]
+run_it_once calls [$0.42]
+** Summary **
+NikoOrlov shows [ 4h, 7h ]
+run_it_once mucks [ Kc, 5s ]
+NikoOrlov collected [ $1.39 ]
+
+
+#Game No : 533779140
+***** 888poker Hand History for Game 533779140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:05:44
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.42 )
+Seat 10: NikoOrlov ( $4.80 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.07]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.04 ]
+
+
+#Game No : 533779146
+***** 888poker Hand History for Game 533779146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:05:54
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.44 )
+Seat 10: NikoOrlov ( $4.78 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once raises [$0.06]
+NikoOrlov calls [$0.06]
+** Dealing flop ** [ 6h, 8c, Kh ]
+run_it_once bets [$0.10]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.15 ]
+
+
+#Game No : 533779154
+***** 888poker Hand History for Game 533779154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:06:11
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.51 )
+Seat 10: NikoOrlov ( $4.70 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.07]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.04 ]
+
+
+#Game No : 533779157
+***** 888poker Hand History for Game 533779157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:06:19
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.53 )
+Seat 10: NikoOrlov ( $4.68 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.03]
+run_it_once calls [$0.02]
+** Dealing flop ** [ 7h, Qc, 4c ]
+run_it_once checks
+NikoOrlov checks
+** Dealing turn ** [ 8d ]
+run_it_once checks
+NikoOrlov checks
+** Dealing river ** [ Td ]
+run_it_once checks
+NikoOrlov checks
+** Summary **
+run_it_once shows [ 6h, Ac ]
+NikoOrlov shows [ 7d, Jh ]
+NikoOrlov collected [ $0.08 ]
+
+
+#Game No : 533779173
+***** 888poker Hand History for Game 533779173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:06:56
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.49 )
+Seat 10: NikoOrlov ( $4.72 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.03 ]
+
+
+#Game No : 533779177
+***** 888poker Hand History for Game 533779177 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:07:02
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.48 )
+Seat 10: NikoOrlov ( $4.73 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.03 ]
+
+
+#Game No : 533779181
+***** 888poker Hand History for Game 533779181 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:07:09
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.49 )
+Seat 10: NikoOrlov ( $4.72 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.07]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.04 ]
+
+
+#Game No : 533779185
+***** 888poker Hand History for Game 533779185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:07:18
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.51 )
+Seat 10: NikoOrlov ( $4.70 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.05]
+run_it_once raises [$2.49]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.12 ]
+
+
+#Game No : 533779194
+***** 888poker Hand History for Game 533779194 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:07:30
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.57 )
+Seat 10: NikoOrlov ( $4.64 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.03]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.04 ]
+
+
+#Game No : 533779198
+***** 888poker Hand History for Game 533779198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:07:37
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.59 )
+Seat 10: NikoOrlov ( $4.62 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once checks
+** Dealing flop ** [ 9c, Qs, Jd ]
+run_it_once checks
+NikoOrlov bets [$0.04]
+run_it_once raises [$0.16]
+NikoOrlov calls [$0.12]
+** Dealing turn ** [ Qc ]
+run_it_once bets [$0.23]
+NikoOrlov calls [$0.23]
+** Dealing river ** [ 4h ]
+run_it_once bets [$0.54]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.77 ]
+
+
+#Game No : 533779212
+***** 888poker Hand History for Game 533779212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:08:08
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.95 )
+Seat 10: NikoOrlov ( $4.21 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.03]
+NikoOrlov calls [$0.02]
+** Dealing flop ** [ Jc, 5d, 3c ]
+NikoOrlov checks
+run_it_once bets [$0.05]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.08 ]
+
+
+#Game No : 533779225
+***** 888poker Hand History for Game 533779225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:08:26
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.99 )
+Seat 10: NikoOrlov ( $4.17 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once checks
+** Dealing flop ** [ Ad, Jc, Td ]
+run_it_once checks
+NikoOrlov bets [$0.04]
+run_it_once calls [$0.04]
+** Dealing turn ** [ 8h ]
+run_it_once checks
+NikoOrlov checks
+** Dealing river ** [ 9d ]
+run_it_once checks
+NikoOrlov checks
+** Summary **
+run_it_once shows [ 9c, Js ]
+NikoOrlov shows [ 7c, 4h ]
+NikoOrlov collected [ $0.12 ]
+
+
+#Game No : 533779237
+***** 888poker Hand History for Game 533779237 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:08:49
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.93 )
+Seat 10: NikoOrlov ( $4.23 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.03 ]
+
+
+#Game No : 533779240
+***** 888poker Hand History for Game 533779240 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:08:55
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.92 )
+Seat 10: NikoOrlov ( $4.24 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once raises [$0.06]
+NikoOrlov calls [$0.06]
+** Dealing flop ** [ Qh, Ts, Th ]
+run_it_once bets [$0.10]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.15 ]
+
+
+#Game No : 533779249
+***** 888poker Hand History for Game 533779249 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:09:19
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.99 )
+Seat 10: NikoOrlov ( $4.16 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.03 ]
+
+
+#Game No : 533779254
+***** 888poker Hand History for Game 533779254 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:09:24
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.98 )
+Seat 10: NikoOrlov ( $4.17 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.05]
+run_it_once calls [$0.04]
+** Dealing flop ** [ Qs, 7s, 4h ]
+run_it_once checks
+NikoOrlov checks
+** Dealing turn ** [ Jd ]
+run_it_once checks
+NikoOrlov bets [$0.07]
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.12 ]
+
+
+#Game No : 533779268
+***** 888poker Hand History for Game 533779268 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:09:46
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.92 )
+Seat 10: NikoOrlov ( $4.23 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.07]
+NikoOrlov calls [$0.06]
+** Dealing flop ** [ Qs, 3d, 2c ]
+NikoOrlov checks
+run_it_once bets [$0.10]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.15 ]
+
+
+#Game No : 533779278
+***** 888poker Hand History for Game 533779278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:10:06
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.99 )
+Seat 10: NikoOrlov ( $4.15 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.03 ]
+
+
+#Game No : 533779283
+***** 888poker Hand History for Game 533779283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:10:13
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3 )
+Seat 10: NikoOrlov ( $4.14 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.03]
+NikoOrlov calls [$0.02]
+** Dealing flop ** [ Td, Kd, 8h ]
+NikoOrlov checks
+run_it_once checks
+** Dealing turn ** [ Tc ]
+NikoOrlov checks
+run_it_once bets [$0.05]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.08 ]
+
+
+#Game No : 533779295
+***** 888poker Hand History for Game 533779295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:10:34
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.04 )
+Seat 10: NikoOrlov ( $4.10 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.04]
+run_it_once calls [$0.03]
+** Dealing flop ** [ Ac, Td, 4d ]
+run_it_once checks
+NikoOrlov bets [$0.06]
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.10 ]
+
+
+#Game No : 533779306
+***** 888poker Hand History for Game 533779306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:10:52
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.99 )
+Seat 10: NikoOrlov ( $4.15 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.05]
+NikoOrlov calls [$0.04]
+** Dealing flop ** [ 2h, 3c, 9h ]
+NikoOrlov checks
+run_it_once checks
+** Dealing turn ** [ Jc ]
+NikoOrlov checks
+run_it_once checks
+** Dealing river ** [ 3d ]
+NikoOrlov bets [$0.12]
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.12 ]
+
+
+#Game No : 533779323
+***** 888poker Hand History for Game 533779323 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:11:17
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.93 )
+Seat 10: NikoOrlov ( $4.21 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.05]
+run_it_once calls [$0.04]
+** Dealing flop ** [ Js, 5c, Ad ]
+run_it_once checks
+NikoOrlov bets [$0.07]
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.12 ]
+
+
+#Game No : 533779332
+***** 888poker Hand History for Game 533779332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:11:34
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.87 )
+Seat 10: NikoOrlov ( $4.27 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once raises [$0.03]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.04 ]
+
+
+#Game No : 533779336
+***** 888poker Hand History for Game 533779336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:11:43
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.89 )
+Seat 10: NikoOrlov ( $4.25 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov calls [$0.01]
+run_it_once raises [$0.04]
+NikoOrlov calls [$0.04]
+** Dealing flop ** [ 3h, 7s, Jd ]
+run_it_once bets [$0.07]
+NikoOrlov calls [$0.07]
+** Dealing turn ** [ 4d ]
+run_it_once bets [$0.25]
+NikoOrlov folds
+** Summary **
+run_it_once did not show his hand
+run_it_once collected [ $0.25 ]
+
+
+#Game No : 533779357
+***** 888poker Hand History for Game 533779357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:12:16
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3.01 )
+Seat 10: NikoOrlov ( $4.12 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.03 ]
+
+
+#Game No : 533779360
+***** 888poker Hand History for Game 533779360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:12:22
+Table Porto 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $3 )
+Seat 10: NikoOrlov ( $4.13 )
+NikoOrlov posts small blind [$0.01]
+run_it_once posts big blind [$0.02]
+** Dealing down cards **
+NikoOrlov raises [$0.05]
+run_it_once calls [$0.04]
+** Dealing flop ** [ 2h, Kd, As ]
+run_it_once checks
+NikoOrlov bets [$0.07]
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.12 ]
+
+
+#Game No : 533779371
+***** 888poker Hand History for Game 533779371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 20:12:43
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: run_it_once ( $2.94 )
+Seat 10: NikoOrlov ( $4.19 )
+run_it_once posts small blind [$0.01]
+NikoOrlov posts big blind [$0.02]
+** Dealing down cards **
+run_it_once folds
+** Summary **
+NikoOrlov did not show his hand
+NikoOrlov collected [ $0.03 ]
+
+
+#Game No : 533782400
+***** 888poker Hand History for Game 533782400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:10:03
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: mrak___ ( $0.79 )
+Seat 2: Davbras ( $1.97 )
+Davbras posts small blind [$0.01]
+mrak___ posts big blind [$0.02]
+** Dealing down cards **
+Davbras calls [$0.01]
+mrak___ raises [$0.04]
+Davbras folds
+** Summary **
+mrak___ did not show his hand
+mrak___ collected [ $0.04 ]
+
+
+#Game No : 533782407
+***** 888poker Hand History for Game 533782407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:10:27
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mrak___ ( $0.81 )
+Seat 2: Davbras ( $1.95 )
+mrak___ posts small blind [$0.01]
+Davbras posts big blind [$0.02]
+** Dealing down cards **
+mrak___ folds
+** Summary **
+Davbras did not show his hand
+Davbras collected [ $0.03 ]
+
+
+#Game No : 533782411
+***** 888poker Hand History for Game 533782411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:10:33
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: mrak___ ( $0.80 )
+Seat 2: Davbras ( $1.96 )
+Davbras posts small blind [$0.01]
+mrak___ posts big blind [$0.02]
+** Dealing down cards **
+Davbras folds
+** Summary **
+mrak___ did not show his hand
+mrak___ collected [ $0.03 ]
+
+
+#Game No : 533782416
+***** 888poker Hand History for Game 533782416 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:10:39
+Table Porto 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mrak___ ( $0.81 )
+Seat 2: Davbras ( $1.95 )
+mrak___ posts small blind [$0.01]
+Davbras posts big blind [$0.02]
+** Dealing down cards **
+mrak___ folds
+** Summary **
+Davbras did not show his hand
+Davbras collected [ $0.03 ]
+
+
+#Game No : 533782420
+***** 888poker Hand History for Game 533782420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:10:45
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: mrak___ ( $0.80 )
+Seat 2: Davbras ( $1.96 )
+Davbras posts small blind [$0.01]
+mrak___ posts big blind [$0.02]
+** Dealing down cards **
+Davbras calls [$0.01]
+mrak___ checks
+** Dealing flop ** [ Ah, Js, 4d ]
+mrak___ checks
+Davbras bets [$0.02]
+mrak___ folds
+** Summary **
+Davbras collected [ $0.04 ]
+
+
+#Game No : 533782850
+***** 888poker Hand History for Game 533782850 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:31:07
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2.06 )
+Seat 6: heyoka27 ( $1.48 )
+heyoka27 posts small blind [$0.01]
+Pastyr777 posts big blind [$0.02]
+** Dealing down cards **
+heyoka27 folds
+** Summary **
+Pastyr777 did not show his hand
+Pastyr777 collected [ $0.03 ]
+
+
+#Game No : 533782854
+***** 888poker Hand History for Game 533782854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:31:14
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2.07 )
+Seat 6: heyoka27 ( $1.47 )
+Pastyr777 posts small blind [$0.01]
+heyoka27 posts big blind [$0.02]
+** Dealing down cards **
+Pastyr777 raises [$0.05]
+heyoka27 calls [$0.04]
+** Dealing flop ** [ Qh, Kh, Jc ]
+heyoka27 checks
+Pastyr777 checks
+** Dealing turn ** [ 2s ]
+heyoka27 bets [$0.06]
+Pastyr777 folds
+** Summary **
+heyoka27 did not show his hand
+heyoka27 collected [ $0.12 ]
+
+
+#Game No : 533782858
+***** 888poker Hand History for Game 533782858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:31:34
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2.01 )
+Seat 6: heyoka27 ( $1.53 )
+heyoka27 posts small blind [$0.01]
+Pastyr777 posts big blind [$0.02]
+** Dealing down cards **
+heyoka27 calls [$0.01]
+Pastyr777 checks
+** Dealing flop ** [ 7d, Kh, 5h ]
+Pastyr777 checks
+heyoka27 bets [$0.02]
+Pastyr777 folds
+** Summary **
+heyoka27 did not show his hand
+heyoka27 collected [ $0.04 ]
+
+
+#Game No : 533782865
+***** 888poker Hand History for Game 533782865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:31:52
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2 )
+Seat 6: heyoka27 ( $1.55 )
+Pastyr777 posts small blind [$0.01]
+heyoka27 posts big blind [$0.02]
+** Dealing down cards **
+Pastyr777 folds
+** Summary **
+heyoka27 did not show his hand
+heyoka27 collected [ $0.03 ]
+
+
+#Game No : 533782868
+***** 888poker Hand History for Game 533782868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:31:57
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2 )
+Seat 6: heyoka27 ( $1.56 )
+heyoka27 posts small blind [$0.01]
+Pastyr777 posts big blind [$0.02]
+** Dealing down cards **
+heyoka27 calls [$0.01]
+Pastyr777 checks
+** Dealing flop ** [ 2c, 4d, Ks ]
+Pastyr777 checks
+heyoka27 bets [$0.02]
+Pastyr777 folds
+** Summary **
+heyoka27 did not show his hand
+heyoka27 collected [ $0.04 ]
+
+
+#Game No : 533782874
+***** 888poker Hand History for Game 533782874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:32:17
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2 )
+Seat 6: heyoka27 ( $1.58 )
+Pastyr777 posts small blind [$0.01]
+heyoka27 posts big blind [$0.02]
+** Dealing down cards **
+Pastyr777 raises [$0.05]
+heyoka27 folds
+** Summary **
+Pastyr777 did not show his hand
+Pastyr777 collected [ $0.04 ]
+
+
+#Game No : 533782875
+***** 888poker Hand History for Game 533782875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:32:24
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2.02 )
+Seat 6: heyoka27 ( $1.56 )
+heyoka27 posts small blind [$0.01]
+Pastyr777 posts big blind [$0.02]
+** Dealing down cards **
+heyoka27 raises [$0.03]
+Pastyr777 raises [$0.10]
+heyoka27 calls [$0.08]
+** Dealing flop ** [ Jd, Qh, Jc ]
+Pastyr777 checks
+heyoka27 bets [$0.15]
+Pastyr777 folds
+** Summary **
+heyoka27 did not show his hand
+heyoka27 collected [ $0.23 ]
+
+
+#Game No : 533782886
+***** 888poker Hand History for Game 533782886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:32:43
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2 )
+Seat 6: heyoka27 ( $1.67 )
+Pastyr777 posts small blind [$0.01]
+heyoka27 posts big blind [$0.02]
+** Dealing down cards **
+Pastyr777 calls [$0.01]
+heyoka27 raises [$0.02]
+Pastyr777 calls [$0.02]
+** Dealing flop ** [ 3h, Kh, 9c ]
+heyoka27 bets [$0.05]
+Pastyr777 folds
+** Summary **
+heyoka27 collected [ $0.08 ]
+
+
+#Game No : 533782891
+***** 888poker Hand History for Game 533782891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:32:59
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2 )
+Seat 6: heyoka27 ( $1.71 )
+heyoka27 posts small blind [$0.01]
+Pastyr777 posts big blind [$0.02]
+** Dealing down cards **
+heyoka27 calls [$0.01]
+Pastyr777 checks
+** Dealing flop ** [ 5s, 8d, 7c ]
+Pastyr777 checks
+heyoka27 bets [$0.02]
+Pastyr777 calls [$0.02]
+** Dealing turn ** [ Kh ]
+Pastyr777 checks
+heyoka27 bets [$0.05]
+Pastyr777 calls [$0.05]
+** Dealing river ** [ 4h ]
+Pastyr777 bets [$0.09]
+heyoka27 raises [$0.18]
+Pastyr777 raises [$0.27]
+heyoka27 calls [$0.18]
+** Summary **
+Pastyr777 shows [ 6d, 5d ]
+heyoka27 mucks [ 8h, 5c ]
+Pastyr777 collected [ $0.85 ]
+
+
+#Game No : 533782920
+***** 888poker Hand History for Game 533782920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:34:42
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2.40 )
+Seat 7: Trotar92 ( $0.81 )
+Trotar92 posts small blind [$0.01]
+Pastyr777 posts big blind [$0.02]
+** Dealing down cards **
+Trotar92 calls [$0.01]
+Pastyr777 raises [$0.06]
+Trotar92 calls [$0.06]
+** Dealing flop ** [ 9c, 8d, 2d ]
+Pastyr777 checks
+Trotar92 bets [$0.02]
+Pastyr777 calls [$0.02]
+** Dealing turn ** [ 6d ]
+Pastyr777 checks
+Trotar92 bets [$0.08]
+Pastyr777 folds
+** Summary **
+Trotar92 did not show his hand
+Trotar92 collected [ $0.19 ]
+
+
+#Game No : 533782930
+***** 888poker Hand History for Game 533782930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:35:10
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2.30 )
+Seat 7: Trotar92 ( $0.90 )
+Pastyr777 posts small blind [$0.01]
+Trotar92 posts big blind [$0.02]
+** Dealing down cards **
+Pastyr777 folds
+** Summary **
+Trotar92 did not show his hand
+Trotar92 collected [ $0.03 ]
+
+
+#Game No : 533782934
+***** 888poker Hand History for Game 533782934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:35:15
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2.29 )
+Seat 7: Trotar92 ( $0.91 )
+Trotar92 posts small blind [$0.01]
+Pastyr777 posts big blind [$0.02]
+** Dealing down cards **
+Trotar92 calls [$0.01]
+Pastyr777 checks
+** Dealing flop ** [ 2s, 7s, 5s ]
+Pastyr777 checks
+Trotar92 bets [$0.02]
+Pastyr777 calls [$0.02]
+** Dealing turn ** [ Kc ]
+Pastyr777 checks
+Trotar92 bets [$0.02]
+Pastyr777 calls [$0.02]
+** Dealing river ** [ Ad ]
+Pastyr777 checks
+Trotar92 bets [$0.02]
+Pastyr777 calls [$0.02]
+** Summary **
+Trotar92 shows [ Qh, Qd ]
+Pastyr777 mucks [ 7c, 4c ]
+Trotar92 collected [ $0.15 ]
+
+
+#Game No : 533782942
+***** 888poker Hand History for Game 533782942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 22:35:42
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pastyr777 ( $2.21 )
+Seat 7: Trotar92 ( $0.98 )
+Pastyr777 posts small blind [$0.01]
+Trotar92 posts big blind [$0.02]
+** Dealing down cards **
+Pastyr777 folds
+** Summary **
+Trotar92 collected [ $0.03 ]
+
+
+#Game No : 533783769
+***** 888poker Hand History for Game 533783769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:07:16
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: sm00k1 ( $2.15 )
+Seat 9: Riolyk ( $2.16 )
+sm00k1 posts small blind [$0.01]
+Riolyk posts big blind [$0.02]
+** Dealing down cards **
+sm00k1 raises [$0.05]
+Riolyk folds
+** Summary **
+sm00k1 did not show his hand
+sm00k1 collected [ $0.04 ]
+
+
+#Game No : 533783773
+***** 888poker Hand History for Game 533783773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:07:27
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: sm00k1 ( $2.17 )
+Seat 9: Riolyk ( $2.14 )
+Riolyk posts small blind [$0.01]
+sm00k1 posts big blind [$0.02]
+** Dealing down cards **
+Riolyk raises [$0.04]
+sm00k1 calls [$0.03]
+** Dealing flop ** [ 3s, 6s, Ac ]
+sm00k1 checks
+Riolyk checks
+** Dealing turn ** [ Th ]
+sm00k1 bets [$0.08]
+Riolyk folds
+** Summary **
+sm00k1 collected [ $0.10 ]
+
+
+#Game No : 533784284
+***** 888poker Hand History for Game 533784284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:25:03
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: sm00k1 ( $2.56 )
+Seat 9: Riolyk ( $2.22 )
+sm00k1 posts small blind [$0.01]
+Riolyk posts big blind [$0.02]
+** Dealing down cards **
+sm00k1 calls [$0.01]
+Riolyk checks
+** Dealing flop ** [ 4d, Tc, Qs ]
+Riolyk checks
+sm00k1 checks
+** Dealing turn ** [ 5h ]
+Riolyk checks
+sm00k1 checks
+** Dealing river ** [ Kh ]
+Riolyk checks
+sm00k1 checks
+** Summary **
+Riolyk shows [ 2d, Js ]
+sm00k1 shows [ 5d, 3s ]
+sm00k1 collected [ $0.04 ]
+
+
+#Game No : 533784301
+***** 888poker Hand History for Game 533784301 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:25:41
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: sm00k1 ( $2.58 )
+Seat 9: Riolyk ( $2.20 )
+Riolyk posts small blind [$0.01]
+sm00k1 posts big blind [$0.02]
+** Dealing down cards **
+Riolyk raises [$0.04]
+sm00k1 folds
+** Summary **
+Riolyk did not show his hand
+Riolyk collected [ $0.04 ]
+
+
+#Game No : 533784306
+***** 888poker Hand History for Game 533784306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:25:51
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: sm00k1 ( $2.56 )
+Seat 9: Riolyk ( $2.22 )
+sm00k1 posts small blind [$0.01]
+Riolyk posts big blind [$0.02]
+** Dealing down cards **
+sm00k1 folds
+** Summary **
+Riolyk did not show his hand
+Riolyk collected [ $0.03 ]
+
+
+#Game No : 533784310
+***** 888poker Hand History for Game 533784310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:25:56
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: sm00k1 ( $2.55 )
+Seat 9: Riolyk ( $2.23 )
+Riolyk posts small blind [$0.01]
+sm00k1 posts big blind [$0.02]
+** Dealing down cards **
+Riolyk folds
+** Summary **
+sm00k1 did not show his hand
+sm00k1 collected [ $0.03 ]
+
+
+#Game No : 533784315
+***** 888poker Hand History for Game 533784315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:26:10
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: sm00k1 ( $2.56 )
+Seat 9: Riolyk ( $2.22 )
+sm00k1 posts small blind [$0.01]
+Riolyk posts big blind [$0.02]
+** Dealing down cards **
+sm00k1 raises [$0.04]
+Riolyk calls [$0.03]
+** Dealing flop ** [ Th, Ts, As ]
+Riolyk checks
+sm00k1 checks
+** Dealing turn ** [ Ks ]
+Riolyk bets [$0.05]
+sm00k1 calls [$0.05]
+** Dealing river ** [ 9c ]
+Riolyk bets [$0.15]
+sm00k1 folds
+** Summary **
+Riolyk did not show his hand
+Riolyk collected [ $0.19 ]
+
+
+#Game No : 533784330
+***** 888poker Hand History for Game 533784330 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:26:48
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: sm00k1 ( $2.46 )
+Seat 9: Riolyk ( $2.31 )
+Riolyk posts small blind [$0.01]
+sm00k1 posts big blind [$0.02]
+** Dealing down cards **
+Riolyk raises [$0.04]
+sm00k1 calls [$0.03]
+** Dealing flop ** [ Th, Kh, 8s ]
+sm00k1 bets [$0.06]
+Riolyk folds
+** Summary **
+sm00k1 collected [ $0.10 ]
+
+
+#Game No : 533784345
+***** 888poker Hand History for Game 533784345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:27:23
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: sm00k1 ( $2.51 )
+Seat 9: Riolyk ( $2.26 )
+sm00k1 posts small blind [$0.01]
+Riolyk posts big blind [$0.02]
+** Dealing down cards **
+sm00k1 raises [$0.05]
+Riolyk folds
+** Summary **
+sm00k1 collected [ $0.04 ]
+
+
+#Game No : 533784860
+***** 888poker Hand History for Game 533784860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:45:53
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dalegreene ( $0.78 )
+Seat 9: richbranson ( $2 )
+dalegreene posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+dalegreene raises [$0.03]
+richbranson raises [$0.10]
+dalegreene calls [$0.08]
+** Dealing flop ** [ Ks, 7s, Ad ]
+richbranson bets [$0.04]
+dalegreene calls [$0.04]
+** Dealing turn ** [ 7d ]
+richbranson bets [$0.04]
+dalegreene calls [$0.04]
+** Dealing river ** [ 3c ]
+richbranson bets [$0.04]
+dalegreene raises [$0.08]
+richbranson calls [$0.04]
+** Summary **
+dalegreene shows [ Ts, Kh ]
+richbranson mucks [ Qc, Qs ]
+dalegreene collected [ $0.53 ]
+
+
+#Game No : 533784876
+***** 888poker Hand History for Game 533784876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 23:46:29
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: dalegreene ( $1.03 )
+Seat 9: richbranson ( $2 )
+richbranson posts small blind [$0.01]
+dalegreene posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.09]
+dalegreene folds
+** Summary **
+richbranson collected [ $0.04 ]
+
+
+#Game No : 533785185
+***** 888poker Hand History for Game 533785185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 00:03:03
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: dalegreene ( $3.59 )
+Seat 4: mrdojijiar ( $0.19 )
+mrdojijiar posts small blind [$0.01]
+dalegreene posts big blind [$0.02]
+** Dealing down cards **
+mrdojijiar folds
+** Summary **
+dalegreene collected [ $0.03 ]
+
+
+#Game No : 533785191
+***** 888poker Hand History for Game 533785191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 00:03:09
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dalegreene ( $3.60 )
+Seat 4: mrdojijiar ( $0.18 )
+dalegreene posts small blind [$0.01]
+mrdojijiar posts big blind [$0.02]
+** Dealing down cards **
+dalegreene calls [$0.01]
+mrdojijiar raises [$0.06]
+dalegreene folds
+** Summary **
+mrdojijiar collected [ $0.04 ]
+
+
+#Game No : 533785196
+***** 888poker Hand History for Game 533785196 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 00:03:21
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: dalegreene ( $3.58 )
+Seat 4: mrdojijiar ( $0.20 )
+mrdojijiar posts small blind [$0.01]
+dalegreene posts big blind [$0.02]
+** Dealing down cards **
+mrdojijiar folds
+** Summary **
+dalegreene collected [ $0.03 ]
+
+
+#Game No : 533785200
+***** 888poker Hand History for Game 533785200 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 00:03:27
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dalegreene ( $3.59 )
+Seat 4: mrdojijiar ( $0.19 )
+dalegreene posts small blind [$0.01]
+mrdojijiar posts big blind [$0.02]
+** Dealing down cards **
+dalegreene folds
+** Summary **
+mrdojijiar collected [ $0.03 ]
+
+
+#Game No : 533785202
+***** 888poker Hand History for Game 533785202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 00:03:35
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: dalegreene ( $3.58 )
+Seat 4: mrdojijiar ( $0.20 )
+mrdojijiar posts small blind [$0.01]
+dalegreene posts big blind [$0.02]
+** Dealing down cards **
+mrdojijiar folds
+** Summary **
+dalegreene collected [ $0.03 ]
+
+
+#Game No : 533785207
+***** 888poker Hand History for Game 533785207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 00:03:41
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dalegreene ( $3.59 )
+Seat 4: mrdojijiar ( $0.19 )
+dalegreene posts small blind [$0.01]
+mrdojijiar posts big blind [$0.02]
+** Dealing down cards **
+dalegreene calls [$0.01]
+mrdojijiar checks
+** Dealing flop ** [ Ac, 5d, Qd ]
+mrdojijiar checks
+dalegreene bets [$0.02]
+mrdojijiar folds
+** Summary **
+dalegreene collected [ $0.04 ]
+
+
+#Game No : 533785214
+***** 888poker Hand History for Game 533785214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 00:03:56
+Table Porto 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: dalegreene ( $3.61 )
+Seat 4: mrdojijiar ( $0.17 )
+mrdojijiar posts small blind [$0.01]
+dalegreene posts big blind [$0.02]
+** Dealing down cards **
+mrdojijiar calls [$0.01]
+dalegreene raises [$0.02]
+mrdojijiar raises [$0.06]
+dalegreene raises [$3.57]
+mrdojijiar calls [$0.09]
+** Dealing flop ** [ Qs, 6h, Kc ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ 3s ]
+** Summary **
+dalegreene shows [ Ad, Ac ]
+mrdojijiar shows [ 7c, As ]
+dalegreene collected [ $0.32 ]
+
+

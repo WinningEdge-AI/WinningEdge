@@ -1,0 +1,66 @@
+#Game No : 610096683
+***** 888poker Hand History for Game 610096683 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 14:15:52
+Table Aachen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: tonycastell1 ( $1.20 )
+Seat 10: ProvidedPlay ( $2.75 )
+ProvidedPlay posts small blind [$0.01]
+** Dealing down cards **
+tonycastell1 folds
+** Summary **
+ProvidedPlay collected [ $0.01 ]
+
+
+#Game No : 610097922
+***** 888poker Hand History for Game 610097922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 14:41:31
+Table Aachen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: moustique27 ( $2.02 )
+Seat 6: klerik170 ( $2.11 )
+moustique27 posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+moustique27 calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ 5h, Ah, 4h ]
+klerik170 checks
+moustique27 checks
+** Dealing turn ** [ Td ]
+klerik170 checks
+moustique27 bets [$0.02]
+klerik170 folds
+** Summary **
+moustique27 collected [ $0.04 ]
+
+
+#Game No : 610097944
+***** 888poker Hand History for Game 610097944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 14:42:05
+Table Aachen 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: moustique27 ( $2.04 )
+Seat 6: klerik170 ( $2.09 )
+klerik170 posts small blind [$0.01]
+moustique27 posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+moustique27 checks
+** Dealing flop ** [ 2d, Ah, 4s ]
+moustique27 checks
+klerik170 checks
+** Dealing turn ** [ 2h ]
+moustique27 checks
+klerik170 checks
+** Dealing river ** [ 9h ]
+moustique27 checks
+klerik170 bets [$0.04]
+moustique27 folds
+** Summary **
+klerik170 collected [ $0.04 ]
+
+

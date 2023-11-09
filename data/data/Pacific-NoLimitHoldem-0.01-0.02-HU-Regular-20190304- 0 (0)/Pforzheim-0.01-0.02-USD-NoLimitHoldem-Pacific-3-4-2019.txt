@@ -1,0 +1,57 @@
+#Game No : 462424762
+***** 888poker Hand History for Game 462424762 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 03 2019 04:21:40
+Table Pforzheim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MBoncalo ( $0.76 )
+Seat 2: 1AUE1 ( $0.84 )
+MBoncalo posts small blind [$0.01]
+1AUE1 posts big blind [$0.02]
+** Dealing down cards **
+MBoncalo calls [$0.01]
+1AUE1 checks
+** Dealing flop ** [ Ts, 4h, Kc ]
+1AUE1 checks
+MBoncalo checks
+** Dealing turn ** [ 6c ]
+1AUE1 checks
+MBoncalo checks
+** Dealing river ** [ Ah ]
+1AUE1 checks
+MBoncalo checks
+** Summary **
+1AUE1 shows [ Qd, 8s ]
+MBoncalo shows [ 9h, Td ]
+MBoncalo collected [ $0.04 ]
+
+
+#Game No : 462424778
+***** 888poker Hand History for Game 462424778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 03 2019 04:21:51
+Table Pforzheim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: MBoncalo ( $0.78 )
+Seat 2: 1AUE1 ( $0.82 )
+1AUE1 posts small blind [$0.01]
+MBoncalo posts big blind [$0.02]
+** Dealing down cards **
+1AUE1 calls [$0.01]
+MBoncalo checks
+** Dealing flop ** [ 3h, Ah, Ts ]
+MBoncalo checks
+1AUE1 bets [$0.02]
+MBoncalo calls [$0.02]
+** Dealing turn ** [ 8h ]
+MBoncalo checks
+1AUE1 checks
+** Dealing river ** [ Kd ]
+MBoncalo checks
+1AUE1 checks
+** Summary **
+MBoncalo shows [ Qh, 6d ]
+1AUE1 shows [ 3c, 4h ]
+1AUE1 collected [ $0.08 ]
+
+

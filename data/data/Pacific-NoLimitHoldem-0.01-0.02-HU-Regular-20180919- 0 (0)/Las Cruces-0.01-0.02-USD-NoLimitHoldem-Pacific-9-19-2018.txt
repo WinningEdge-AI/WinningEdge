@@ -1,0 +1,45 @@
+#Game No : 502555477
+***** 888poker Hand History for Game 502555477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 01:09:27
+Table Las Cruces 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: cecenas1234 ( $0.87 )
+Seat 6: Valya201034 ( $0.73 )
+Valya201034 posts small blind [$0.01]
+cecenas1234 posts big blind [$0.02]
+** Dealing down cards **
+Valya201034 raises [$0.03]
+cecenas1234 raises [$0.06]
+Valya201034 calls [$0.04]
+** Dealing flop ** [ 7c, 6c, Ah ]
+cecenas1234 checks
+Valya201034 checks
+** Dealing turn ** [ Tc ]
+cecenas1234 checks
+Valya201034 checks
+** Dealing river ** [ 3h ]
+cecenas1234 bets [$0.10]
+Valya201034 calls [$0.10]
+** Summary **
+cecenas1234 shows [ Jc, Ac ]
+Valya201034 mucks [ Qc, Ks ]
+cecenas1234 collected [ $0.34 ]
+
+
+#Game No : 502556367
+***** 888poker Hand History for Game 502556367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 01:39:57
+Table Las Cruces 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: cecenas1234 ( $1.08 )
+Seat 6: fxgreen ( $1.36 )
+fxgreen posts small blind [$0.01]
+cecenas1234 posts big blind [$0.02]
+** Dealing down cards **
+fxgreen folds
+** Summary **
+cecenas1234 collected [ $0.03 ]
+
+

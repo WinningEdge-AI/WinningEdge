@@ -1,0 +1,63 @@
+#Game No : 1302108486
+***** 888poker Hand History for Game 1302108486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 10 2019 00:37:42
+Table Barnaul 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: professor09 ( $0.81 )
+Seat 10: Munkhgal ( $1.60 )
+professor09 posts small blind [$0.01]
+Munkhgal posts big blind [$0.02]
+** Dealing down cards **
+professor09 calls [$0.01]
+Munkhgal checks
+** Dealing flop ** [ Tc, Jc, 5h ]
+Munkhgal checks
+professor09 bets [$0.02]
+Munkhgal folds
+** Summary **
+professor09 collected [ $0.04 ]
+
+
+#Game No : 1302108777
+***** 888poker Hand History for Game 1302108777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 10 2019 00:40:21
+Table Barnaul 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Chris_Davos ( $2 )
+Seat 2: FISHBOT1985 ( $2 )
+FISHBOT1985 posts small blind [$0.01]
+Chris_Davos posts big blind [$0.02]
+** Dealing down cards **
+FISHBOT1985 calls [$0.01]
+Chris_Davos checks
+** Dealing flop ** [ 9h, Qs, Kd ]
+Chris_Davos checks
+FISHBOT1985 checks
+** Dealing turn ** [ 2c ]
+Chris_Davos bets [$0.02]
+FISHBOT1985 folds
+** Summary **
+Chris_Davos did not show his hand
+Chris_Davos collected [ $0.04 ]
+
+
+#Game No : 1302108829
+***** 888poker Hand History for Game 1302108829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 10 2019 00:40:47
+Table Barnaul 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Chris_Davos ( $2.02 )
+Seat 2: FISHBOT1985 ( $1.98 )
+Chris_Davos posts small blind [$0.01]
+FISHBOT1985 posts big blind [$0.02]
+** Dealing down cards **
+Chris_Davos raises [$0.03]
+FISHBOT1985 folds
+** Summary **
+Chris_Davos did not show his hand
+Chris_Davos collected [ $0.04 ]
+
+

@@ -1,0 +1,100 @@
+#Game No : 513407394
+***** 888poker Hand History for Game 513407394 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 16:41:00
+Table Frisco 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: x_GOPHER_x ( $1.01 )
+Seat 7: rustaman76 ( $1.68 )
+rustaman76 posts small blind [$0.01]
+** Dealing down cards **
+x_GOPHER_x folds
+** Summary **
+rustaman76 collected [ $0.01 ]
+
+
+#Game No : 615406513
+***** 888poker Hand History for Game 615406513 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 02 2019 14:22:30
+Table Frisco 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SocratTesla ( $1.38 )
+Seat 7: raygym ( $1.81 )
+SocratTesla posts small blind [$0.01]
+raygym posts big blind [$0.02]
+** Dealing down cards **
+SocratTesla folds
+** Summary **
+raygym collected [ $0.03 ]
+
+
+#Game No : 615406524
+***** 888poker Hand History for Game 615406524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 02 2019 14:22:36
+Table Frisco 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: SocratTesla ( $1.37 )
+Seat 7: raygym ( $1.82 )
+raygym posts small blind [$0.01]
+SocratTesla posts big blind [$0.02]
+** Dealing down cards **
+raygym folds
+** Summary **
+SocratTesla collected [ $0.03 ]
+
+
+#Game No : 615406526
+***** 888poker Hand History for Game 615406526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 02 2019 14:22:41
+Table Frisco 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SocratTesla ( $1.38 )
+Seat 7: raygym ( $1.81 )
+SocratTesla posts small blind [$0.01]
+raygym posts big blind [$0.02]
+** Dealing down cards **
+SocratTesla raises [$0.03]
+raygym calls [$0.02]
+** Dealing flop ** [ 7d, Th, 6c ]
+raygym bets [$0.04]
+SocratTesla calls [$0.04]
+** Dealing turn ** [ 8h ]
+raygym bets [$0.08]
+SocratTesla folds
+** Summary **
+raygym collected [ $0.15 ]
+
+
+#Game No : 615406546
+***** 888poker Hand History for Game 615406546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 02 2019 14:23:03
+Table Frisco 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: SocratTesla ( $1.30 )
+Seat 7: raygym ( $1.88 )
+raygym posts small blind [$0.01]
+SocratTesla posts big blind [$0.02]
+** Dealing down cards **
+raygym raises [$0.05]
+SocratTesla calls [$0.04]
+** Dealing flop ** [ Jh, 4d, Td ]
+SocratTesla checks
+raygym bets [$0.06]
+SocratTesla calls [$0.06]
+** Dealing turn ** [ 8d ]
+SocratTesla checks
+raygym bets [$0.12]
+SocratTesla calls [$0.12]
+** Dealing river ** [ Kd ]
+SocratTesla checks
+raygym checks
+** Summary **
+SocratTesla shows [ Jc, 9s ]
+raygym mucks [ Ac, Tc ]
+SocratTesla collected [ $0.45 ]
+
+

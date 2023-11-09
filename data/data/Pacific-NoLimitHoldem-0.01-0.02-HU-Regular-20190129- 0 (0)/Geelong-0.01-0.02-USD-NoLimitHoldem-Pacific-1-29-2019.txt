@@ -1,0 +1,88 @@
+#Game No : 1243768842
+***** 888poker Hand History for Game 1243768842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 15:06:19
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Danderdandan ( $3.32 )
+Seat 6: vityel ( $1.86 )
+vityel posts small blind [$0.01]
+Danderdandan posts big blind [$0.02]
+** Dealing down cards **
+vityel calls [$0.01]
+Danderdandan checks
+** Dealing flop ** [ 4d, 5d, 3d ]
+Danderdandan checks
+vityel checks
+** Dealing turn ** [ Kd ]
+Danderdandan checks
+vityel bets [$0.04]
+Danderdandan calls [$0.04]
+** Dealing river ** [ As ]
+Danderdandan bets [$0.12]
+vityel calls [$0.12]
+** Summary **
+Danderdandan shows [ 5s, Qd ]
+vityel mucks [ Td, 7c ]
+Danderdandan collected [ $0.34 ]
+
+
+#Game No : 1243768976
+***** 888poker Hand History for Game 1243768976 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 15:06:55
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Danderdandan ( $3.48 )
+Seat 6: vityel ( $1.68 )
+Danderdandan posts small blind [$0.01]
+vityel posts big blind [$0.02]
+** Dealing down cards **
+Danderdandan calls [$0.01]
+vityel checks
+** Dealing flop ** [ 4h, 4d, 6d ]
+vityel bets [$0.02]
+Danderdandan calls [$0.02]
+** Dealing turn ** [ 4s ]
+vityel checks
+Danderdandan bets [$0.02]
+vityel calls [$0.02]
+** Dealing river ** [ 9s ]
+vityel bets [$0.12]
+Danderdandan calls [$0.12]
+** Summary **
+vityel shows [ Qd, 9d ]
+Danderdandan mucks [ Qh, 6c ]
+vityel collected [ $0.34 ]
+
+
+#Game No : 1243769140
+***** 888poker Hand History for Game 1243769140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 15:07:35
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Danderdandan ( $3.30 )
+Seat 6: vityel ( $1.84 )
+vityel posts small blind [$0.01]
+Danderdandan posts big blind [$0.02]
+** Dealing down cards **
+vityel calls [$0.01]
+Danderdandan checks
+** Dealing flop ** [ 3h, 3s, Jc ]
+Danderdandan checks
+vityel checks
+** Dealing turn ** [ Qc ]
+Danderdandan checks
+vityel bets [$0.02]
+Danderdandan raises [$0.07]
+vityel calls [$0.05]
+** Dealing river ** [ Kc ]
+Danderdandan bets [$0.18]
+vityel calls [$0.18]
+** Summary **
+Danderdandan shows [ Ks, Kd ]
+vityel mucks [ 2c, 8c ]
+Danderdandan collected [ $0.51 ]
+
+

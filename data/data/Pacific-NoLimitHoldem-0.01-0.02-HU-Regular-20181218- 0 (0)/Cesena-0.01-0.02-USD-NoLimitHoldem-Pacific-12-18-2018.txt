@@ -1,0 +1,28 @@
+#Game No : 510795419
+***** 888poker Hand History for Game 510795419 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 23:49:24
+Table Cesena 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: emersonana ( $1 )
+Seat 6: Maremkd1234 ( $2 )
+emersonana posts small blind [$0.01]
+Maremkd1234 posts big blind [$0.02]
+** Dealing down cards **
+emersonana raises [$0.05]
+Maremkd1234 calls [$0.04]
+** Dealing flop ** [ Jd, 5h, 8c ]
+emersonana checks
+Maremkd1234 bets [$0.12]
+emersonana raises [$0.32]
+Maremkd1234 calls [$0.20]
+** Dealing turn ** [ 5d ]
+emersonana bets [$0.62]
+Maremkd1234 calls [$0.62]
+** Dealing river ** [ 9d ]
+** Summary **
+emersonana shows [ Ac, Ad ]
+Maremkd1234 shows [ 6s, 6c ]
+emersonana collected [ $1.88 ]
+
+

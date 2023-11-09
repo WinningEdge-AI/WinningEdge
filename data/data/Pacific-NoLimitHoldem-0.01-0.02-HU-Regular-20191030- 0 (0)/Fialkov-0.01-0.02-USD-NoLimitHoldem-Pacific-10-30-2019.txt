@@ -1,0 +1,76 @@
+#Game No : 470721859
+***** 888poker Hand History for Game 470721859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2019 21:47:48
+Table Fialkov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: teco_surf_ ( $2.58 )
+Seat 2: Physoker ( $3.47 )
+Physoker posts small blind [$0.01]
+teco_surf_ posts big blind [$0.02]
+** Dealing down cards **
+Physoker calls [$0.01]
+teco_surf_ checks
+** Dealing flop ** [ Tc, 3s, Ah ]
+teco_surf_ checks
+Physoker checks
+** Dealing turn ** [ Ac ]
+teco_surf_ checks
+Physoker checks
+** Dealing river ** [ Kh ]
+teco_surf_ bets [$0.04]
+Physoker calls [$0.04]
+** Summary **
+teco_surf_ shows [ 4d, 4h ]
+Physoker mucks [ 7d, 3d ]
+teco_surf_ collected [ $0.12 ]
+
+
+#Game No : 470722635
+***** 888poker Hand History for Game 470722635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2019 23:32:08
+Table Fialkov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Alicization ( $2.06 )
+Seat 7: Intelligent8 ( $4.54 )
+Intelligent8 posts small blind [$0.01]
+Alicization posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+Alicization collected [ $0.03 ]
+
+
+#Game No : 470722646
+***** 888poker Hand History for Game 470722646 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2019 23:34:37
+Table Fialkov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Niala1 ( $1.40 )
+Seat 7: Intelligent8 ( $4.53 )
+Intelligent8 posts small blind [$0.01]
+Niala1 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+Niala1 collected [ $0.03 ]
+
+
+#Game No : 470722648
+***** 888poker Hand History for Game 470722648 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2019 23:34:43
+Table Fialkov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Niala1 ( $1.41 )
+Seat 7: Intelligent8 ( $4.52 )
+Niala1 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+Niala1 folds
+** Summary **
+Intelligent8 collected [ $0.03 ]
+
+

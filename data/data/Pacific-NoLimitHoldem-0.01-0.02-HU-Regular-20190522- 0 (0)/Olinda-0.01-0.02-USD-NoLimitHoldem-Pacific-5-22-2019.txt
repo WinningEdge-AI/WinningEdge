@@ -1,0 +1,214 @@
+#Game No : 620205282
+***** 888poker Hand History for Game 620205282 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:50:09
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 4u4elooo ( $1.38 )
+Seat 2: LinuxOrNot ( $1.23 )
+4u4elooo posts small blind [$0.01]
+LinuxOrNot posts big blind [$0.02]
+** Dealing down cards **
+4u4elooo raises [$0.05]
+LinuxOrNot folds
+** Summary **
+4u4elooo collected [ $0.04 ]
+
+
+#Game No : 620205287
+***** 888poker Hand History for Game 620205287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:50:28
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 4u4elooo ( $1.40 )
+Seat 2: LinuxOrNot ( $1.21 )
+LinuxOrNot posts small blind [$0.01]
+** Dealing down cards **
+4u4elooo folds
+** Summary **
+LinuxOrNot collected [ $0.01 ]
+
+
+#Game No : 620205290
+***** 888poker Hand History for Game 620205290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:50:31
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LinuxOrNot ( $1.21 )
+Seat 4: ArdentPlay16 ( $1 )
+LinuxOrNot posts small blind [$0.01]
+ArdentPlay16 posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot raises [$0.04]
+ArdentPlay16 folds
+** Summary **
+LinuxOrNot collected [ $0.04 ]
+
+
+#Game No : 620205299
+***** 888poker Hand History for Game 620205299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:50:49
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: LinuxOrNot ( $1.23 )
+Seat 4: ArdentPlay16 ( $0.98 )
+ArdentPlay16 posts small blind [$0.01]
+LinuxOrNot posts big blind [$0.02]
+** Dealing down cards **
+ArdentPlay16 raises [$0.05]
+LinuxOrNot folds
+** Summary **
+ArdentPlay16 collected [ $0.04 ]
+
+
+#Game No : 620205307
+***** 888poker Hand History for Game 620205307 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:51:06
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LinuxOrNot ( $1.21 )
+Seat 4: ArdentPlay16 ( $1 )
+LinuxOrNot posts small blind [$0.01]
+ArdentPlay16 posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot raises [$0.04]
+ArdentPlay16 calls [$0.03]
+** Dealing flop ** [ 3c, 7d, 4c ]
+ArdentPlay16 checks
+LinuxOrNot bets [$0.03]
+ArdentPlay16 calls [$0.03]
+** Dealing turn ** [ Jh ]
+ArdentPlay16 bets [$0.08]
+LinuxOrNot folds
+** Summary **
+ArdentPlay16 collected [ $0.15 ]
+
+
+#Game No : 620205329
+***** 888poker Hand History for Game 620205329 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:52:03
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: LinuxOrNot ( $1.13 )
+Seat 4: ArdentPlay16 ( $1.07 )
+ArdentPlay16 posts small blind [$0.01]
+LinuxOrNot posts big blind [$0.02]
+** Dealing down cards **
+ArdentPlay16 calls [$0.01]
+LinuxOrNot checks
+** Dealing flop ** [ 5s, 8d, 3c ]
+LinuxOrNot checks
+ArdentPlay16 checks
+** Dealing turn ** [ Qc ]
+LinuxOrNot checks
+ArdentPlay16 bets [$0.07]
+LinuxOrNot folds
+** Summary **
+ArdentPlay16 collected [ $0.04 ]
+
+
+#Game No : 620205349
+***** 888poker Hand History for Game 620205349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:52:53
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LinuxOrNot ( $1.11 )
+Seat 4: ArdentPlay16 ( $1.09 )
+LinuxOrNot posts small blind [$0.01]
+ArdentPlay16 posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot folds
+** Summary **
+ArdentPlay16 collected [ $0.03 ]
+
+
+#Game No : 620205352
+***** 888poker Hand History for Game 620205352 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:52:59
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: LinuxOrNot ( $1.10 )
+Seat 4: ArdentPlay16 ( $1.10 )
+ArdentPlay16 posts small blind [$0.01]
+LinuxOrNot posts big blind [$0.02]
+** Dealing down cards **
+ArdentPlay16 raises [$0.07]
+LinuxOrNot calls [$0.06]
+** Dealing flop ** [ 7d, 5s, 2c ]
+LinuxOrNot checks
+ArdentPlay16 bets [$0.10]
+LinuxOrNot raises [$0.30]
+ArdentPlay16 calls [$0.20]
+** Dealing turn ** [ 5h ]
+LinuxOrNot checks
+ArdentPlay16 checks
+** Dealing river ** [ Tc ]
+LinuxOrNot bets [$0.72]
+ArdentPlay16 folds
+** Summary **
+LinuxOrNot collected [ $0.72 ]
+
+
+#Game No : 620205402
+***** 888poker Hand History for Game 620205402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:56:15
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ArdentPlay16 ( $0.76 )
+Seat 7: BoumBoum100 ( $1.11 )
+ArdentPlay16 posts small blind [$0.01]
+BoumBoum100 posts big blind [$0.02]
+** Dealing down cards **
+ArdentPlay16 calls [$0.01]
+BoumBoum100 checks
+** Dealing flop ** [ 9c, Ts, Ah ]
+BoumBoum100 bets [$0.04]
+ArdentPlay16 calls [$0.04]
+** Dealing turn ** [ Jh ]
+BoumBoum100 bets [$0.06]
+ArdentPlay16 raises [$0.24]
+BoumBoum100 folds
+** Summary **
+ArdentPlay16 collected [ $0.23 ]
+
+
+#Game No : 620205426
+***** 888poker Hand History for Game 620205426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 18:57:42
+Table Olinda 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: ArdentPlay16 ( $0.87 )
+Seat 7: BoumBoum100 ( $1 )
+BoumBoum100 posts small blind [$0.01]
+ArdentPlay16 posts big blind [$0.02]
+** Dealing down cards **
+BoumBoum100 folds
+** Summary **
+ArdentPlay16 collected [ $0.03 ]
+
+
+#Game No : 620206652
+***** 888poker Hand History for Game 620206652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 20:13:44
+Table Olinda 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: tientiendl86 ( $2.13 )
+Seat 7: i_am_you_ ( $1.15 )
+i_am_you_ posts small blind [$0.01]
+tientiendl86 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+tientiendl86 collected [ $0.03 ]
+
+

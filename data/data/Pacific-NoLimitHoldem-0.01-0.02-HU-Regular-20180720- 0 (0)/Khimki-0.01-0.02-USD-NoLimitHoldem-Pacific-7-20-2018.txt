@@ -1,0 +1,89 @@
+#Game No : 605789155
+***** 888poker Hand History for Game 605789155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 19:14:02
+Table Khimki 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: lucifergaia ( $4.80 )
+Seat 9: Terminator8 ( $4.02 )
+lucifergaia posts small blind [$0.01]
+Terminator8 posts big blind [$0.02]
+** Dealing down cards **
+lucifergaia folds
+** Summary **
+Terminator8 collected [ $0.03 ]
+
+
+#Game No : 605789200
+***** 888poker Hand History for Game 605789200 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 19:16:17
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: lucifergaia ( $4.79 )
+Seat 5: rafaelkazuo3 ( $0.84 )
+rafaelkazuo3 posts small blind [$0.01]
+lucifergaia posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+lucifergaia calls [$0.02]
+** Dealing flop ** [ 5d, 6h, Kd ]
+lucifergaia checks
+rafaelkazuo3 bets [$0.07]
+lucifergaia calls [$0.07]
+** Dealing turn ** [ 4d ]
+lucifergaia checks
+rafaelkazuo3 checks
+** Dealing river ** [ Qc ]
+lucifergaia checks
+rafaelkazuo3 checks
+** Summary **
+lucifergaia shows [ 2d, Jd ]
+rafaelkazuo3 mucks [ 9c, Jc ]
+lucifergaia collected [ $0.21 ]
+
+
+#Game No : 605789212
+***** 888poker Hand History for Game 605789212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 19:16:36
+Table Khimki 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: lucifergaia ( $4.89 )
+Seat 5: rafaelkazuo3 ( $0.73 )
+lucifergaia posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+lucifergaia raises [$0.03]
+rafaelkazuo3 calls [$0.02]
+** Dealing flop ** [ 5h, 5c, Qd ]
+rafaelkazuo3 checks
+lucifergaia checks
+** Dealing turn ** [ Ad ]
+rafaelkazuo3 checks
+lucifergaia checks
+** Dealing river ** [ 7h ]
+rafaelkazuo3 checks
+lucifergaia bets [$0.05]
+rafaelkazuo3 folds
+** Summary **
+lucifergaia collected [ $0.08 ]
+
+
+#Game No : 605789220
+***** 888poker Hand History for Game 605789220 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 07 2018 19:17:01
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: lucifergaia ( $4.93 )
+Seat 5: rafaelkazuo3 ( $0.69 )
+rafaelkazuo3 posts small blind [$0.01]
+lucifergaia posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+lucifergaia folds
+** Summary **
+rafaelkazuo3 collected [ $0.04 ]
+
+

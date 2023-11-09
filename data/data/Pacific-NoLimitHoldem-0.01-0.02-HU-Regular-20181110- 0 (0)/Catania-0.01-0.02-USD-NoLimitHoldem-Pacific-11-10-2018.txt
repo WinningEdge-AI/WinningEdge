@@ -1,0 +1,27 @@
+#Game No : 505164871
+***** 888poker Hand History for Game 505164871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 12:06:52
+Table Catania 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: marivalter ( $1.58 )
+Seat 7: boxoftricks ( $1.39 )
+marivalter posts small blind [$0.01]
+boxoftricks posts big blind [$0.02]
+** Dealing down cards **
+marivalter raises [$0.03]
+boxoftricks calls [$0.02]
+** Dealing flop ** [ Kc, 2d, Ah ]
+boxoftricks bets [$0.04]
+marivalter calls [$0.04]
+** Dealing turn ** [ Jc ]
+boxoftricks bets [$0.08]
+marivalter calls [$0.08]
+** Dealing river ** [ 7c ]
+boxoftricks checks
+marivalter bets [$0.14]
+boxoftricks folds
+** Summary **
+marivalter collected [ $0.30 ]
+
+

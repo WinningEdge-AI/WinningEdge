@@ -1,0 +1,53 @@
+#Game No : 462021461
+***** 888poker Hand History for Game 462021461 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 21:09:01
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Patricolor ( $1.04 )
+Seat 2: SANYA659 ( $0.96 )
+Patricolor posts small blind [$0.01]
+SANYA659 posts big blind [$0.02]
+** Dealing down cards **
+Patricolor calls [$0.01]
+SANYA659 raises [$0.04]
+Patricolor calls [$0.04]
+** Dealing flop ** [ Js, Kc, Qh ]
+SANYA659 bets [$0.12]
+Patricolor calls [$0.12]
+** Dealing turn ** [ 7d ]
+SANYA659 bets [$0.36]
+Patricolor calls [$0.36]
+** Dealing river ** [ Kd ]
+SANYA659 bets [$0.42]
+Patricolor calls [$0.42]
+** Summary **
+Patricolor shows [ 9h, Qs ]
+SANYA659 shows [ Kh, Th ]
+SANYA659 collected [ $1.80 ]
+
+
+#Game No : 462021475
+***** 888poker Hand History for Game 462021475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 21:09:26
+Table Caserta 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Patricolor ( $0.08 )
+Seat 2: SANYA659 ( $1.80 )
+SANYA659 posts small blind [$0.01]
+Patricolor posts big blind [$0.02]
+** Dealing down cards **
+SANYA659 raises [$0.03]
+Patricolor raises [$0.04]
+SANYA659 raises [$0.04]
+Patricolor calls [$0.02]
+** Dealing flop ** [ 4h, 2c, Jh ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 3s ]
+** Summary **
+Patricolor shows [ 5h, Kc ]
+SANYA659 shows [ Ts, Jc ]
+SANYA659 collected [ $0.15 ]
+
+

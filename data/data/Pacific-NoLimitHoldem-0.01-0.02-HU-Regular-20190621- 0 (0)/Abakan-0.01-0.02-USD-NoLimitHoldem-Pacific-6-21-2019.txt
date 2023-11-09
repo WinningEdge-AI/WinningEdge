@@ -1,0 +1,69 @@
+#Game No : 466219905
+***** 888poker Hand History for Game 466219905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2019 00:34:21
+Table Abakan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.24 )
+Seat 6: bdog86boag ( $0.69 )
+bdog86boag posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+bdog86boag calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 8d, Jd, 9d ]
+avramia1 checks
+bdog86boag checks
+** Dealing turn ** [ 6d ]
+avramia1 checks
+bdog86boag bets [$0.02]
+avramia1 folds
+** Summary **
+bdog86boag collected [ $0.04 ]
+
+
+#Game No : 466219906
+***** 888poker Hand History for Game 466219906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2019 00:34:43
+Table Abakan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.22 )
+Seat 6: bdog86boag ( $0.71 )
+avramia1 posts small blind [$0.01]
+bdog86boag posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+bdog86boag raises [$0.69]
+avramia1 calls [$0.69]
+** Dealing flop ** [ 2s, 2d, 9d ]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ Ac ]
+** Summary **
+avramia1 shows [ Td, 5d ]
+bdog86boag shows [ 3d, Jh ]
+bdog86boag collected [ $1.34 ]
+
+
+#Game No : 466219910
+***** 888poker Hand History for Game 466219910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2019 00:35:12
+Table Abakan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2 )
+Seat 6: bdog86boag ( $1.34 )
+bdog86boag posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+bdog86boag raises [$1.33]
+avramia1 calls [$1.32]
+** Dealing flop ** [ 3d, Js, Ah ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ Jd ]
+** Summary **
+avramia1 shows [ Jh, Qs ]
+bdog86boag shows [ Td, Kc ]
+avramia1 collected [ $2.52 ]
+
+

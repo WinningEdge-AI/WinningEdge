@@ -1,0 +1,286 @@
+#Game No : 551140650
+***** 888poker Hand History for Game 551140650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:30:22
+Table Kumi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: OIvanov ( $0.63 )
+Seat 4: Fan_001 ( $4.15 )
+OIvanov posts small blind [$0.01]
+** Dealing down cards **
+Fan_001 folds
+** Summary **
+OIvanov collected [ $0.01 ]
+
+
+#Game No : 551140654
+***** 888poker Hand History for Game 551140654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:30:25
+Table Kumi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: OIvanov ( $0.63 )
+Seat 9: Sizikov ( $2.01 )
+OIvanov posts small blind [$0.01]
+Sizikov posts big blind [$0.02]
+** Dealing down cards **
+OIvanov calls [$0.01]
+Sizikov checks
+** Dealing flop ** [ 7h, 5h, 3c ]
+Sizikov checks
+OIvanov bets [$0.02]
+Sizikov folds
+** Summary **
+OIvanov collected [ $0.04 ]
+
+
+#Game No : 551140671
+***** 888poker Hand History for Game 551140671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:30:45
+Table Kumi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: OIvanov ( $0.65 )
+Seat 9: Sizikov ( $2 )
+Sizikov posts small blind [$0.01]
+OIvanov posts big blind [$0.02]
+** Dealing down cards **
+Sizikov calls [$0.01]
+OIvanov raises [$0.02]
+Sizikov calls [$0.02]
+** Dealing flop ** [ 3s, 7d, Qs ]
+OIvanov checks
+Sizikov checks
+** Dealing turn ** [ 5c ]
+OIvanov checks
+Sizikov bets [$0.05]
+OIvanov calls [$0.05]
+** Dealing river ** [ Td ]
+OIvanov checks
+Sizikov checks
+** Summary **
+OIvanov shows [ 4c, 4d ]
+Sizikov shows [ 7c, Ah ]
+Sizikov collected [ $0.17 ]
+
+
+#Game No : 551140726
+***** 888poker Hand History for Game 551140726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:31:39
+Table Kumi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: OIvanov ( $0.56 )
+Seat 9: Sizikov ( $2.08 )
+OIvanov posts small blind [$0.01]
+Sizikov posts big blind [$0.02]
+** Dealing down cards **
+OIvanov raises [$0.03]
+Sizikov raises [$0.10]
+OIvanov calls [$0.08]
+** Dealing flop ** [ 5h, 6s, 2s ]
+Sizikov bets [$0.24]
+OIvanov folds
+** Summary **
+Sizikov collected [ $0.23 ]
+
+
+#Game No : 551140756
+***** 888poker Hand History for Game 551140756 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:32:09
+Table Kumi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: OIvanov ( $0.44 )
+Seat 9: Sizikov ( $2.19 )
+Sizikov posts small blind [$0.01]
+OIvanov posts big blind [$0.02]
+** Dealing down cards **
+Sizikov calls [$0.01]
+OIvanov checks
+** Dealing flop ** [ 4d, Th, 9d ]
+OIvanov checks
+Sizikov bets [$0.04]
+OIvanov calls [$0.04]
+** Dealing turn ** [ Kd ]
+OIvanov bets [$0.38]
+Sizikov calls [$0.38]
+** Dealing river ** [ 5h ]
+** Summary **
+OIvanov shows [ 9c, 4s ]
+Sizikov shows [ Ts, Jc ]
+OIvanov collected [ $0.83 ]
+
+
+#Game No : 551140796
+***** 888poker Hand History for Game 551140796 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:32:54
+Table Kumi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: OIvanov ( $0.83 )
+Seat 9: Sizikov ( $2 )
+OIvanov posts small blind [$0.01]
+Sizikov posts big blind [$0.02]
+** Dealing down cards **
+OIvanov calls [$0.01]
+Sizikov checks
+** Dealing flop ** [ 9s, 8s, Qh ]
+Sizikov checks
+OIvanov checks
+** Dealing turn ** [ 8h ]
+Sizikov checks
+OIvanov checks
+** Dealing river ** [ 2s ]
+Sizikov checks
+OIvanov bets [$0.08]
+Sizikov folds
+** Summary **
+OIvanov collected [ $0.04 ]
+
+
+#Game No : 551140836
+***** 888poker Hand History for Game 551140836 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:33:39
+Table Kumi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: OIvanov ( $0.85 )
+Seat 9: Sizikov ( $2 )
+Sizikov posts small blind [$0.01]
+OIvanov posts big blind [$0.02]
+** Dealing down cards **
+Sizikov folds
+** Summary **
+OIvanov collected [ $0.03 ]
+
+
+#Game No : 551140847
+***** 888poker Hand History for Game 551140847 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:33:45
+Table Kumi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: OIvanov ( $0.86 )
+Seat 9: Sizikov ( $2 )
+OIvanov posts small blind [$0.01]
+Sizikov posts big blind [$0.02]
+** Dealing down cards **
+OIvanov calls [$0.01]
+Sizikov checks
+** Dealing flop ** [ 7h, Ah, Kd ]
+Sizikov checks
+OIvanov checks
+** Dealing turn ** [ 2d ]
+Sizikov bets [$0.02]
+OIvanov folds
+** Summary **
+Sizikov collected [ $0.04 ]
+
+
+#Game No : 551140869
+***** 888poker Hand History for Game 551140869 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:34:11
+Table Kumi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: OIvanov ( $0.84 )
+Seat 9: Sizikov ( $2.02 )
+Sizikov posts small blind [$0.01]
+OIvanov posts big blind [$0.02]
+** Dealing down cards **
+Sizikov calls [$0.01]
+OIvanov checks
+** Dealing flop ** [ 4d, 2s, 8c ]
+OIvanov checks
+Sizikov checks
+** Dealing turn ** [ 3c ]
+OIvanov checks
+Sizikov checks
+** Dealing river ** [ 6s ]
+OIvanov checks
+Sizikov checks
+** Summary **
+OIvanov shows [ 7d, 6c ]
+Sizikov mucks [ Qc, 2c ]
+OIvanov collected [ $0.04 ]
+
+
+#Game No : 551141752
+***** 888poker Hand History for Game 551141752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:51:47
+Table Kumi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 7: Bombardian90 ( $2.65 )
+Seat 9: Sizikov ( $2.80 )
+Bombardian90 posts small blind [$0.01]
+** Dealing down cards **
+Sizikov folds
+** Summary **
+Bombardian90 collected [ $0.01 ]
+
+
+#Game No : 551141754
+***** 888poker Hand History for Game 551141754 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:51:51
+Table Kumi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: svidrak14 ( $1 )
+Seat 7: Bombardian90 ( $2.65 )
+Bombardian90 posts small blind [$0.01]
+svidrak14 posts big blind [$0.02]
+** Dealing down cards **
+Bombardian90 raises [$0.05]
+svidrak14 folds
+** Summary **
+Bombardian90 collected [ $0.04 ]
+
+
+#Game No : 551141760
+***** 888poker Hand History for Game 551141760 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:52:00
+Table Kumi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: svidrak14 ( $0.98 )
+Seat 7: Bombardian90 ( $2.67 )
+svidrak14 posts small blind [$0.01]
+Bombardian90 posts big blind [$0.02]
+** Dealing down cards **
+svidrak14 raises [$0.05]
+Bombardian90 folds
+** Summary **
+svidrak14 collected [ $0.04 ]
+
+
+#Game No : 551141767
+***** 888poker Hand History for Game 551141767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 00:52:11
+Table Kumi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: svidrak14 ( $1 )
+Seat 7: Bombardian90 ( $2.65 )
+Bombardian90 posts small blind [$0.01]
+svidrak14 posts big blind [$0.02]
+** Dealing down cards **
+Bombardian90 calls [$0.01]
+svidrak14 checks
+** Dealing flop ** [ Js, 2h, Jh ]
+svidrak14 checks
+Bombardian90 checks
+** Dealing turn ** [ 2s ]
+svidrak14 bets [$0.04]
+Bombardian90 calls [$0.04]
+** Dealing river ** [ 2d ]
+svidrak14 bets [$0.04]
+Bombardian90 calls [$0.04]
+** Summary **
+svidrak14 shows [ As, 4h ]
+Bombardian90 shows [ 8s, 3s ]
+Bombardian90 collected [ $0.09 ]
+svidrak14 collected [ $0.10 ]
+
+

@@ -1,0 +1,71 @@
+#Game No : 454381054
+***** 888poker Hand History for Game 454381054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 18:36:13
+Table Long Beach 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: klerik170 ( $2 )
+Seat 4: Terminator8 ( $5.47 )
+klerik170 posts small blind [$0.01]
+Terminator8 posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+Terminator8 checks
+** Dealing flop ** [ Td, Kd, Jc ]
+klerik170 checks
+Terminator8 bets [$0.04]
+klerik170 folds
+** Summary **
+Terminator8 collected [ $0.04 ]
+
+
+#Game No : 454381064
+***** 888poker Hand History for Game 454381064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 18:36:57
+Table Long Beach 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: klerik170 ( $2 )
+Seat 4: Terminator8 ( $5.49 )
+klerik170 posts small blind [$0.01]
+Terminator8 posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+Terminator8 checks
+** Dealing flop ** [ 4d, 5d, 9c ]
+Terminator8 checks
+klerik170 checks
+** Dealing turn ** [ Tc ]
+Terminator8 checks
+klerik170 checks
+** Dealing river ** [ Kc ]
+Terminator8 checks
+klerik170 checks
+** Summary **
+Terminator8 shows [ 7d, 4c ]
+klerik170 mucks [ Qc, 6d ]
+Terminator8 collected [ $0.04 ]
+
+
+#Game No : 454381079
+***** 888poker Hand History for Game 454381079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 18:38:08
+Table Long Beach 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: klerik170 ( $2 )
+Seat 4: Terminator8 ( $5.51 )
+Terminator8 posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+Terminator8 raises [$0.03]
+klerik170 calls [$0.02]
+** Dealing flop ** [ Qc, Qd, 4s ]
+klerik170 checks
+Terminator8 bets [$0.05]
+klerik170 folds
+** Summary **
+Terminator8 did not show his hand
+Terminator8 collected [ $0.08 ]
+
+

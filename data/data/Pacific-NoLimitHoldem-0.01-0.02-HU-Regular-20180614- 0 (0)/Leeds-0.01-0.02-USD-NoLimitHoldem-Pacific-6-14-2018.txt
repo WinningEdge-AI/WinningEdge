@@ -1,0 +1,57 @@
+#Game No : 604170040
+***** 888poker Hand History for Game 604170040 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 06:41:14
+Table Leeds 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Richspeech ( $0.78 )
+Seat 2: MattBovey ( $0.83 )
+Richspeech posts small blind [$0.01]
+MattBovey posts big blind [$0.02]
+** Dealing down cards **
+Richspeech calls [$0.01]
+MattBovey checks
+** Dealing flop ** [ 4c, Th, 7d ]
+MattBovey checks
+Richspeech bets [$0.04]
+MattBovey calls [$0.04]
+** Dealing turn ** [ Jd ]
+MattBovey checks
+Richspeech bets [$0.04]
+MattBovey calls [$0.04]
+** Dealing river ** [ Qs ]
+MattBovey checks
+Richspeech bets [$0.04]
+MattBovey folds
+** Summary **
+Richspeech collected [ $0.19 ]
+
+
+#Game No : 604170063
+***** 888poker Hand History for Game 604170063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 06:41:45
+Table Leeds 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Richspeech ( $0.87 )
+Seat 2: MattBovey ( $0.73 )
+MattBovey posts small blind [$0.01]
+Richspeech posts big blind [$0.02]
+** Dealing down cards **
+MattBovey calls [$0.01]
+Richspeech checks
+** Dealing flop ** [ 4c, 4s, Th ]
+Richspeech checks
+MattBovey checks
+** Dealing turn ** [ 6s ]
+Richspeech checks
+MattBovey checks
+** Dealing river ** [ 7c ]
+Richspeech bets [$0.02]
+MattBovey calls [$0.02]
+** Summary **
+Richspeech shows [ 3c, Kh ]
+MattBovey mucks [ Js, Qh ]
+Richspeech collected [ $0.08 ]
+
+

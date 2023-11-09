@@ -1,0 +1,58 @@
+#Game No : 456875409
+***** 888poker Hand History for Game 456875409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 02:17:46
+Table Elk Grove 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: petervo ( $1.92 )
+Seat 9: Nostromo101 ( $2.07 )
+petervo posts small blind [$0.01]
+Nostromo101 posts big blind [$0.02]
+** Dealing down cards **
+petervo calls [$0.01]
+Nostromo101 checks
+** Dealing flop ** [ Qc, 9c, Jh ]
+Nostromo101 checks
+petervo bets [$0.02]
+Nostromo101 calls [$0.02]
+** Dealing turn ** [ 2d ]
+Nostromo101 checks
+petervo bets [$0.02]
+Nostromo101 calls [$0.02]
+** Dealing river ** [ 2s ]
+Nostromo101 checks
+petervo checks
+** Summary **
+Nostromo101 shows [ Qd, 6c ]
+petervo mucks [ Kh, 6h ]
+Nostromo101 collected [ $0.12 ]
+
+
+#Game No : 456875423
+***** 888poker Hand History for Game 456875423 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 02:18:10
+Table Elk Grove 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: petervo ( $1.86 )
+Seat 9: Nostromo101 ( $2.13 )
+Nostromo101 posts small blind [$0.01]
+petervo posts big blind [$0.02]
+** Dealing down cards **
+Nostromo101 calls [$0.01]
+petervo checks
+** Dealing flop ** [ Jd, 5d, Qs ]
+petervo checks
+Nostromo101 checks
+** Dealing turn ** [ Jc ]
+petervo checks
+Nostromo101 checks
+** Dealing river ** [ 6s ]
+petervo checks
+Nostromo101 checks
+** Summary **
+petervo shows [ 2h, Kc ]
+Nostromo101 mucks [ 8c, 4c ]
+petervo collected [ $0.04 ]
+
+

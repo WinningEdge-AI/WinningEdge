@@ -1,0 +1,29 @@
+#Game No : 527433251
+***** 888poker Hand History for Game 527433251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 22:11:21
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: xOldsch00x ( $0.82 )
+Seat 6: akong37 ( $0.98 )
+akong37 posts small blind [$0.01]
+xOldsch00x posts big blind [$0.02]
+** Dealing down cards **
+akong37 calls [$0.01]
+xOldsch00x checks
+** Dealing flop ** [ 2s, 7s, 2h ]
+xOldsch00x checks
+akong37 checks
+** Dealing turn ** [ 4d ]
+xOldsch00x bets [$0.02]
+akong37 calls [$0.02]
+** Dealing river ** [ 9d ]
+xOldsch00x bets [$0.04]
+akong37 raises [$0.08]
+xOldsch00x calls [$0.04]
+** Summary **
+akong37 shows [ Jd, 9s ]
+xOldsch00x mucks [ 7h, Qd ]
+akong37 collected [ $0.23 ]
+
+

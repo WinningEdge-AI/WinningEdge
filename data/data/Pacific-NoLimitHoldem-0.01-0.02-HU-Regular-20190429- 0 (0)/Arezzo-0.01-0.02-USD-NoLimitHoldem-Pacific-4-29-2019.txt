@@ -1,0 +1,74 @@
+#Game No : 1264676926
+***** 888poker Hand History for Game 1264676926 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 04 2019 05:44:47
+Table Arezzo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: AAB7014 ( $1.80 )
+Seat 9: Daut94AA ( $0.06 )
+Daut94AA posts small blind [$0.01]
+AAB7014 posts big blind [$0.02]
+** Dealing down cards **
+Daut94AA calls [$0.01]
+AAB7014 checks
+** Dealing flop ** [ 7d, Ts, Jd ]
+AAB7014 checks
+Daut94AA bets [$0.04]
+AAB7014 folds
+** Summary **
+Daut94AA collected [ $0.04 ]
+
+
+#Game No : 1264676986
+***** 888poker Hand History for Game 1264676986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 04 2019 05:45:10
+Table Arezzo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AAB7014 ( $1.78 )
+Seat 9: Daut94AA ( $0.08 )
+AAB7014 posts small blind [$0.01]
+Daut94AA posts big blind [$0.02]
+** Dealing down cards **
+AAB7014 raises [$0.03]
+Daut94AA raises [$0.04]
+AAB7014 calls [$0.02]
+** Dealing flop ** [ 4h, 3d, Js ]
+Daut94AA bets [$0.02]
+AAB7014 calls [$0.02]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 3c ]
+** Summary **
+AAB7014 shows [ As, Qd ]
+Daut94AA shows [ Ad, Kd ]
+Daut94AA collected [ $0.15 ]
+
+
+#Game No : 1264677211
+***** 888poker Hand History for Game 1264677211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 04 2019 05:46:49
+Table Arezzo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: AAB7014 ( $1.72 )
+Seat 4: Tori587 ( $0.78 )
+Tori587 posts small blind [$0.01]
+AAB7014 posts big blind [$0.02]
+** Dealing down cards **
+Tori587 calls [$0.01]
+AAB7014 checks
+** Dealing flop ** [ Td, 3s, 5d ]
+AAB7014 checks
+Tori587 checks
+** Dealing turn ** [ Qs ]
+AAB7014 checks
+Tori587 checks
+** Dealing river ** [ Th ]
+AAB7014 checks
+Tori587 checks
+** Summary **
+AAB7014 shows [ 7c, 8c ]
+Tori587 mucks [ 7d, 6s ]
+AAB7014 collected [ $0.04 ]
+
+

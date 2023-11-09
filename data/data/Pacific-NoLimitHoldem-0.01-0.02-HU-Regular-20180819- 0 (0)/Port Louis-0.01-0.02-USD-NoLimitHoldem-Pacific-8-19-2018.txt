@@ -1,0 +1,370 @@
+#Game No : 501104984
+***** 888poker Hand History for Game 501104984 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 05:44:32
+Table Port Louis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: emirone ( $3.51 )
+Seat 4: NSergw ( $2.36 )
+emirone posts small blind [$0.01]
+** Dealing down cards **
+NSergw folds
+** Summary **
+emirone did not show his hand
+emirone collected [ $0.01 ]
+
+
+#Game No : 501116353
+***** 888poker Hand History for Game 501116353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 10:45:15
+Table Port Louis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: NoIgLeo ( $0.99 )
+Seat 7: Groker10 ( $1.04 )
+NoIgLeo posts small blind [$0.01]
+Groker10 posts big blind [$0.02]
+** Dealing down cards **
+NoIgLeo folds
+** Summary **
+Groker10 did not show his hand
+Groker10 collected [ $0.03 ]
+
+
+#Game No : 501116519
+***** 888poker Hand History for Game 501116519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 10:49:21
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Uspih ( $0.80 )
+Seat 2: ITamlyankin ( $0.80 )
+ITamlyankin posts small blind [$0.01]
+** Dealing down cards **
+Uspih folds
+** Summary **
+ITamlyankin did not show his hand
+ITamlyankin collected [ $0.01 ]
+
+
+#Game No : 501116532
+***** 888poker Hand History for Game 501116532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 10:49:39
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ITamlyankin ( $0.80 )
+Seat 4: justdave02 ( $1 )
+justdave02 posts small blind [$0.01]
+ITamlyankin posts big blind [$0.02]
+** Dealing down cards **
+justdave02 calls [$0.01]
+ITamlyankin checks
+** Dealing flop ** [ 9c, 2s, 4s ]
+ITamlyankin checks
+justdave02 checks
+** Dealing turn ** [ 9h ]
+ITamlyankin checks
+justdave02 checks
+** Dealing river ** [ 7h ]
+ITamlyankin checks
+justdave02 checks
+** Summary **
+ITamlyankin shows [ Qh, Jc ]
+justdave02 shows [ 4h, 3h ]
+justdave02 collected [ $0.04 ]
+
+
+#Game No : 501116544
+***** 888poker Hand History for Game 501116544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 10:50:00
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ITamlyankin ( $0.78 )
+Seat 4: justdave02 ( $1.02 )
+ITamlyankin posts small blind [$0.01]
+justdave02 posts big blind [$0.02]
+** Dealing down cards **
+ITamlyankin calls [$0.01]
+justdave02 checks
+** Dealing flop ** [ 6d, 5h, Ks ]
+justdave02 checks
+ITamlyankin checks
+** Dealing turn ** [ 7h ]
+justdave02 checks
+ITamlyankin checks
+** Dealing river ** [ 8d ]
+justdave02 checks
+ITamlyankin bets [$0.02]
+justdave02 calls [$0.02]
+** Summary **
+ITamlyankin shows [ Ts, 9d ]
+justdave02 mucks [ 4s, 6s ]
+ITamlyankin collected [ $0.08 ]
+
+
+#Game No : 501116565
+***** 888poker Hand History for Game 501116565 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 10:50:24
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ITamlyankin ( $0.82 )
+Seat 4: justdave02 ( $0.98 )
+justdave02 posts small blind [$0.01]
+ITamlyankin posts big blind [$0.02]
+** Dealing down cards **
+justdave02 calls [$0.01]
+ITamlyankin checks
+** Dealing flop ** [ 6c, As, 5c ]
+ITamlyankin checks
+justdave02 checks
+** Dealing turn ** [ Kh ]
+ITamlyankin checks
+justdave02 checks
+** Dealing river ** [ Th ]
+ITamlyankin checks
+justdave02 checks
+** Summary **
+ITamlyankin shows [ 4d, Jh ]
+justdave02 mucks [ 8c, 3d ]
+ITamlyankin collected [ $0.04 ]
+
+
+#Game No : 501116572
+***** 888poker Hand History for Game 501116572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 10:50:42
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ITamlyankin ( $0.84 )
+Seat 4: justdave02 ( $0.96 )
+ITamlyankin posts small blind [$0.01]
+justdave02 posts big blind [$0.02]
+** Dealing down cards **
+ITamlyankin calls [$0.01]
+justdave02 checks
+** Dealing flop ** [ 8d, Ac, Qs ]
+justdave02 checks
+ITamlyankin checks
+** Dealing turn ** [ 7s ]
+justdave02 checks
+ITamlyankin checks
+** Dealing river ** [ Th ]
+justdave02 checks
+ITamlyankin bets [$0.02]
+justdave02 calls [$0.02]
+** Summary **
+ITamlyankin shows [ 6d, Qc ]
+justdave02 mucks [ 6c, 7d ]
+ITamlyankin collected [ $0.08 ]
+
+
+#Game No : 501116586
+***** 888poker Hand History for Game 501116586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 10:51:03
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ITamlyankin ( $0.88 )
+Seat 4: justdave02 ( $0.92 )
+justdave02 posts small blind [$0.01]
+ITamlyankin posts big blind [$0.02]
+** Dealing down cards **
+justdave02 calls [$0.01]
+ITamlyankin checks
+** Dealing flop ** [ 7s, Tc, 3h ]
+ITamlyankin checks
+justdave02 checks
+** Dealing turn ** [ 9s ]
+ITamlyankin checks
+justdave02 checks
+** Dealing river ** [ Th ]
+ITamlyankin bets [$0.04]
+justdave02 calls [$0.04]
+** Summary **
+ITamlyankin shows [ 7h, Td ]
+justdave02 mucks [ 5h, 4h ]
+ITamlyankin collected [ $0.12 ]
+
+
+#Game No : 501118394
+***** 888poker Hand History for Game 501118394 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 11:29:03
+Table Port Louis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: vitasia15 ( $1.14 )
+Seat 9: WhatAHell ( $1.05 )
+WhatAHell posts small blind [$0.01]
+vitasia15 posts big blind [$0.02]
+** Dealing down cards **
+WhatAHell folds
+** Summary **
+vitasia15 collected [ $0.03 ]
+
+
+#Game No : 501118401
+***** 888poker Hand History for Game 501118401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 11:29:14
+Table Port Louis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: vitasia15 ( $1.15 )
+Seat 9: WhatAHell ( $1.04 )
+vitasia15 posts small blind [$0.01]
+WhatAHell posts big blind [$0.02]
+** Dealing down cards **
+vitasia15 raises [$0.05]
+WhatAHell folds
+** Summary **
+vitasia15 collected [ $0.04 ]
+
+
+#Game No : 501118415
+***** 888poker Hand History for Game 501118415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 11:29:28
+Table Port Louis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: vitasia15 ( $1.17 )
+Seat 9: WhatAHell ( $1.02 )
+WhatAHell posts small blind [$0.01]
+vitasia15 posts big blind [$0.02]
+** Dealing down cards **
+WhatAHell calls [$0.01]
+vitasia15 checks
+** Dealing flop ** [ Js, 8s, 7c ]
+vitasia15 bets [$0.04]
+WhatAHell calls [$0.04]
+** Dealing turn ** [ 7d ]
+vitasia15 bets [$0.12]
+WhatAHell folds
+** Summary **
+vitasia15 did not show his hand
+vitasia15 collected [ $0.12 ]
+
+
+#Game No : 501118458
+***** 888poker Hand History for Game 501118458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 11:30:19
+Table Port Louis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: vitasia15 ( $1.23 )
+Seat 9: WhatAHell ( $0.96 )
+vitasia15 posts small blind [$0.01]
+WhatAHell posts big blind [$0.02]
+** Dealing down cards **
+vitasia15 calls [$0.01]
+WhatAHell checks
+** Dealing flop ** [ Kc, 2d, 7d ]
+WhatAHell checks
+vitasia15 bets [$0.04]
+WhatAHell folds
+** Summary **
+vitasia15 collected [ $0.04 ]
+
+
+#Game No : 501118489
+***** 888poker Hand History for Game 501118489 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 11:30:55
+Table Port Louis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: vitasia15 ( $1.25 )
+Seat 9: WhatAHell ( $0.94 )
+WhatAHell posts small blind [$0.01]
+vitasia15 posts big blind [$0.02]
+** Dealing down cards **
+WhatAHell calls [$0.01]
+vitasia15 raises [$0.04]
+WhatAHell calls [$0.04]
+** Dealing flop ** [ Js, Qh, 2h ]
+vitasia15 checks
+WhatAHell bets [$0.06]
+vitasia15 raises [$0.12]
+WhatAHell calls [$0.06]
+** Dealing turn ** [ 5h ]
+vitasia15 bets [$0.36]
+WhatAHell folds
+** Summary **
+vitasia15 collected [ $0.34 ]
+
+
+#Game No : 501121890
+***** 888poker Hand History for Game 501121890 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 12:40:04
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: omaster8888 ( $1.19 )
+Seat 4: emirone ( $1.22 )
+omaster8888 posts small blind [$0.01]
+emirone posts big blind [$0.02]
+** Dealing down cards **
+omaster8888 calls [$0.01]
+emirone checks
+** Dealing flop ** [ Kd, 3d, 6s ]
+emirone checks
+omaster8888 bets [$0.02]
+emirone calls [$0.02]
+** Dealing turn ** [ 7s ]
+emirone checks
+omaster8888 bets [$0.06]
+emirone calls [$0.06]
+** Dealing river ** [ Td ]
+emirone checks
+omaster8888 bets [$0.28]
+emirone folds
+** Summary **
+omaster8888 collected [ $0.19 ]
+
+
+#Game No : 501121929
+***** 888poker Hand History for Game 501121929 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 12:40:51
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: omaster8888 ( $1.28 )
+Seat 4: emirone ( $1.12 )
+emirone posts small blind [$0.01]
+omaster8888 posts big blind [$0.02]
+** Dealing down cards **
+emirone calls [$0.01]
+omaster8888 raises [$0.02]
+emirone calls [$0.02]
+** Dealing flop ** [ Qd, 4d, 4c ]
+omaster8888 checks
+emirone checks
+** Dealing turn ** [ Ts ]
+omaster8888 checks
+emirone checks
+** Dealing river ** [ 3c ]
+omaster8888 checks
+emirone bets [$0.02]
+omaster8888 calls [$0.02]
+** Summary **
+emirone shows [ 9h, Th ]
+omaster8888 mucks [ Ah, Js ]
+emirone collected [ $0.12 ]
+
+
+#Game No : 501124136
+***** 888poker Hand History for Game 501124136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 13:30:24
+Table Port Louis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: etipacbormla ( $1.29 )
+Seat 6: iuriitcarev ( $1.80 )
+iuriitcarev posts small blind [$0.01]
+** Dealing down cards **
+etipacbormla folds
+** Summary **
+iuriitcarev did not show his hand
+iuriitcarev collected [ $0.01 ]
+
+

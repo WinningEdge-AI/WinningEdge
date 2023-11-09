@@ -1,0 +1,255 @@
+#Game No : 503034007
+***** 888poker Hand History for Game 503034007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 06:50:55
+Table Kinburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: killer_is_me ( $2.13 )
+Seat 6: Murugov03 ( $1 )
+killer_is_me posts small blind [$0.01]
+Murugov03 posts big blind [$0.02]
+** Dealing down cards **
+killer_is_me folds
+** Summary **
+Murugov03 did not show his hand
+Murugov03 collected [ $0.03 ]
+
+
+#Game No : 503034026
+***** 888poker Hand History for Game 503034026 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 06:51:18
+Table Kinburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: killer_is_me ( $2.12 )
+Seat 6: Murugov03 ( $1.01 )
+Murugov03 posts small blind [$0.01]
+killer_is_me posts big blind [$0.02]
+** Dealing down cards **
+Murugov03 calls [$0.01]
+killer_is_me checks
+** Dealing flop ** [ 7c, 3h, 2d ]
+killer_is_me checks
+Murugov03 checks
+** Dealing turn ** [ As ]
+killer_is_me checks
+Murugov03 bets [$0.02]
+killer_is_me folds
+** Summary **
+Murugov03 collected [ $0.04 ]
+
+
+#Game No : 503034096
+***** 888poker Hand History for Game 503034096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 06:53:06
+Table Kinburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: killer_is_me ( $3.02 )
+Seat 6: Murugov03 ( $0.95 )
+killer_is_me posts small blind [$0.01]
+Murugov03 posts big blind [$0.02]
+** Dealing down cards **
+killer_is_me raises [$0.05]
+Murugov03 calls [$0.04]
+** Dealing flop ** [ 3h, Qs, 4s ]
+Murugov03 checks
+killer_is_me checks
+** Dealing turn ** [ As ]
+Murugov03 checks
+killer_is_me checks
+** Dealing river ** [ 4c ]
+Murugov03 bets [$0.08]
+killer_is_me calls [$0.08]
+** Summary **
+Murugov03 shows [ 9s, Js ]
+killer_is_me mucks [ Qd, 7c ]
+Murugov03 collected [ $0.27 ]
+
+
+#Game No : 503034116
+***** 888poker Hand History for Game 503034116 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 06:53:43
+Table Kinburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: killer_is_me ( $2.88 )
+Seat 6: Murugov03 ( $1.08 )
+Murugov03 posts small blind [$0.01]
+killer_is_me posts big blind [$0.02]
+** Dealing down cards **
+Murugov03 raises [$0.03]
+killer_is_me folds
+** Summary **
+Murugov03 collected [ $0.04 ]
+
+
+#Game No : 503034132
+***** 888poker Hand History for Game 503034132 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 06:54:07
+Table Kinburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: killer_is_me ( $2.86 )
+Seat 6: Murugov03 ( $1.10 )
+killer_is_me posts small blind [$0.01]
+Murugov03 posts big blind [$0.02]
+** Dealing down cards **
+killer_is_me raises [$0.05]
+Murugov03 folds
+** Summary **
+killer_is_me collected [ $0.04 ]
+
+
+#Game No : 503034152
+***** 888poker Hand History for Game 503034152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 06:54:26
+Table Kinburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: killer_is_me ( $2.88 )
+Seat 6: Murugov03 ( $1.08 )
+Murugov03 posts small blind [$0.01]
+killer_is_me posts big blind [$0.02]
+** Dealing down cards **
+Murugov03 folds
+** Summary **
+killer_is_me collected [ $0.03 ]
+
+
+#Game No : 503034796
+***** 888poker Hand History for Game 503034796 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:08:40
+Table Kinburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gazoo44444 ( $0.38 )
+Seat 7: Jackofheart8 ( $1.67 )
+gazoo44444 posts small blind [$0.01]
+Jackofheart8 posts big blind [$0.02]
+** Dealing down cards **
+gazoo44444 raises [$0.37]
+Jackofheart8 folds
+** Summary **
+gazoo44444 collected [ $0.40 ]
+
+
+#Game No : 503034803
+***** 888poker Hand History for Game 503034803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:08:49
+Table Kinburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: gazoo44444 ( $0.40 )
+Seat 7: Jackofheart8 ( $1.65 )
+Jackofheart8 posts small blind [$0.01]
+gazoo44444 posts big blind [$0.02]
+** Dealing down cards **
+Jackofheart8 calls [$0.01]
+gazoo44444 checks
+** Dealing flop ** [ Ts, 8d, Tc ]
+gazoo44444 checks
+Jackofheart8 checks
+** Dealing turn ** [ 3c ]
+gazoo44444 checks
+Jackofheart8 bets [$0.02]
+gazoo44444 folds
+** Summary **
+Jackofheart8 collected [ $0.04 ]
+
+
+#Game No : 503034819
+***** 888poker Hand History for Game 503034819 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:09:09
+Table Kinburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gazoo44444 ( $0.38 )
+Seat 7: Jackofheart8 ( $1.67 )
+gazoo44444 posts small blind [$0.01]
+Jackofheart8 posts big blind [$0.02]
+** Dealing down cards **
+gazoo44444 calls [$0.01]
+Jackofheart8 checks
+** Dealing flop ** [ Js, Qd, 6c ]
+Jackofheart8 checks
+gazoo44444 bets [$0.02]
+Jackofheart8 raises [$0.04]
+gazoo44444 raises [$0.04]
+Jackofheart8 raises [$0.18]
+gazoo44444 raises [$0.30]
+Jackofheart8 calls [$0.14]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ 6d ]
+** Summary **
+gazoo44444 shows [ Qh, 4s ]
+Jackofheart8 shows [ Jh, Qc ]
+Jackofheart8 collected [ $0.72 ]
+
+
+#Game No : 1212448350
+***** 888poker Hand History for Game 1212448350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 12:54:56
+Table Kinburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: staticFlagg ( $1.31 )
+Seat 5: malafei8 ( $1.88 )
+malafei8 posts small blind [$0.01]
+staticFlagg posts big blind [$0.02]
+** Dealing down cards **
+malafei8 raises [$0.05]
+staticFlagg folds
+** Summary **
+malafei8 did not show his hand
+malafei8 collected [ $0.04 ]
+
+
+#Game No : 1212483715
+***** 888poker Hand History for Game 1212483715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:00:40
+Table Kinburg 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Fabric0x ( $2.75 )
+Seat 9: sergh23 ( $1.94 )
+Fabric0x posts small blind [$0.01]
+sergh23 posts big blind [$0.02]
+** Dealing down cards **
+Fabric0x raises [$0.05]
+sergh23 folds
+** Summary **
+Fabric0x collected [ $0.04 ]
+
+
+#Game No : 1212483753
+***** 888poker Hand History for Game 1212483753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:00:51
+Table Kinburg 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Fabric0x ( $2.77 )
+Seat 9: sergh23 ( $1.92 )
+sergh23 posts small blind [$0.01]
+Fabric0x posts big blind [$0.02]
+** Dealing down cards **
+sergh23 folds
+** Summary **
+Fabric0x collected [ $0.03 ]
+
+
+#Game No : 1212483821
+***** 888poker Hand History for Game 1212483821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:01:10
+Table Kinburg 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Fabric0x ( $2.78 )
+Seat 9: sergh23 ( $1.91 )
+Fabric0x posts small blind [$0.01]
+** Dealing down cards **
+sergh23 folds
+** Summary **
+Fabric0x collected [ $0.01 ]
+
+

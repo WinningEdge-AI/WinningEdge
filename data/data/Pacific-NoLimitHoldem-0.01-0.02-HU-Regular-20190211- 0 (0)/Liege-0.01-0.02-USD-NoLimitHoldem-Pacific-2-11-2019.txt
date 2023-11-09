@@ -1,0 +1,54 @@
+#Game No : 615540872
+***** 888poker Hand History for Game 615540872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 20:55:00
+Table Liege 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: asdrof ( $1.89 )
+Seat 2: os.tin ( $2 )
+asdrof posts small blind [$0.01]
+os.tin posts big blind [$0.02]
+** Dealing down cards **
+asdrof calls [$0.01]
+os.tin checks
+** Dealing flop ** [ As, 7s, 7c ]
+os.tin checks
+asdrof checks
+** Dealing turn ** [ Ah ]
+os.tin bets [$0.04]
+asdrof folds
+** Summary **
+os.tin did not show his hand
+os.tin collected [ $0.04 ]
+
+
+#Game No : 615540878
+***** 888poker Hand History for Game 615540878 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 20:55:12
+Table Liege 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: asdrof ( $1.87 )
+Seat 2: os.tin ( $2.02 )
+os.tin posts small blind [$0.01]
+asdrof posts big blind [$0.02]
+** Dealing down cards **
+os.tin raises [$0.03]
+asdrof raises [$0.04]
+os.tin calls [$0.02]
+** Dealing flop ** [ 3c, 4c, 3h ]
+asdrof bets [$0.12]
+os.tin calls [$0.12]
+** Dealing turn ** [ 2c ]
+asdrof checks
+os.tin bets [$0.18]
+asdrof calls [$0.18]
+** Dealing river ** [ 6d ]
+asdrof checks
+os.tin checks
+** Summary **
+asdrof shows [ 9c, 9h ]
+os.tin mucks [ Kd, 7h ]
+asdrof collected [ $0.68 ]
+
+

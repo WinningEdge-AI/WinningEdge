@@ -1,0 +1,1462 @@
+#Game No : 503970479
+***** 888poker Hand History for Game 503970479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 17:56:11
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: korolevaMM ( $0.96 )
+Seat 2: UnderTheGon ( $3.37 )
+korolevaMM posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+korolevaMM raises [$0.03]
+UnderTheGon calls [$0.02]
+** Dealing flop ** [ 7d, Ah, 2h ]
+UnderTheGon checks
+korolevaMM bets [$0.04]
+UnderTheGon calls [$0.04]
+** Dealing turn ** [ 6s ]
+UnderTheGon checks
+korolevaMM bets [$0.08]
+UnderTheGon raises [$0.29]
+korolevaMM calls [$0.21]
+** Dealing river ** [ 4s ]
+UnderTheGon bets [$0.49]
+korolevaMM calls [$0.49]
+** Summary **
+UnderTheGon shows [ Ad, 6d ]
+korolevaMM mucks [ Ks, Kh ]
+UnderTheGon collected [ $1.62 ]
+
+
+#Game No : 503970504
+***** 888poker Hand History for Game 503970504 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 17:56:59
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: korolevaMM ( $0.10 )
+Seat 2: UnderTheGon ( $4.13 )
+UnderTheGon posts small blind [$0.01]
+korolevaMM posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+korolevaMM collected [ $0.03 ]
+
+
+#Game No : 503970528
+***** 888poker Hand History for Game 503970528 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 17:57:54
+Table Hyderabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: korolevaMM ( $0.27 )
+Seat 7: barao55 ( $0.84 )
+barao55 posts small blind [$0.01]
+korolevaMM posts big blind [$0.02]
+** Dealing down cards **
+barao55 calls [$0.01]
+korolevaMM raises [$0.25]
+barao55 folds
+** Summary **
+korolevaMM collected [ $0.04 ]
+
+
+#Game No : 503970538
+***** 888poker Hand History for Game 503970538 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 17:58:12
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: korolevaMM ( $0.29 )
+Seat 7: barao55 ( $0.82 )
+korolevaMM posts small blind [$0.01]
+barao55 posts big blind [$0.02]
+** Dealing down cards **
+korolevaMM raises [$0.28]
+barao55 calls [$0.27]
+** Dealing flop ** [ 9h, Qs, 4h ]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ Jh ]
+** Summary **
+korolevaMM shows [ 3d, Ac ]
+barao55 shows [ Ah, 9d ]
+barao55 collected [ $0.55 ]
+
+
+#Game No : 503970545
+***** 888poker Hand History for Game 503970545 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 17:58:33
+Table Hyderabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: korolevaMM ( $0.80 )
+Seat 7: barao55 ( $1.08 )
+barao55 posts small blind [$0.01]
+korolevaMM posts big blind [$0.02]
+** Dealing down cards **
+barao55 calls [$0.01]
+korolevaMM checks
+** Dealing flop ** [ Qd, 2c, Ts ]
+korolevaMM bets [$0.02]
+barao55 folds
+** Summary **
+korolevaMM collected [ $0.04 ]
+
+
+#Game No : 503970553
+***** 888poker Hand History for Game 503970553 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 17:58:49
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: korolevaMM ( $0.82 )
+Seat 7: barao55 ( $1.06 )
+korolevaMM posts small blind [$0.01]
+barao55 posts big blind [$0.02]
+** Dealing down cards **
+korolevaMM raises [$0.03]
+barao55 raises [$0.06]
+korolevaMM calls [$0.04]
+** Dealing flop ** [ 6s, 9s, 3d ]
+barao55 checks
+korolevaMM checks
+** Dealing turn ** [ 8c ]
+barao55 checks
+korolevaMM checks
+** Dealing river ** [ 4d ]
+barao55 checks
+korolevaMM checks
+** Summary **
+barao55 shows [ Kd, Jd ]
+korolevaMM shows [ Kc, 3s ]
+korolevaMM collected [ $0.15 ]
+
+
+#Game No : 503970569
+***** 888poker Hand History for Game 503970569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 17:59:25
+Table Hyderabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: korolevaMM ( $0.89 )
+Seat 7: barao55 ( $0.98 )
+barao55 posts small blind [$0.01]
+korolevaMM posts big blind [$0.02]
+** Dealing down cards **
+barao55 calls [$0.01]
+korolevaMM checks
+** Dealing flop ** [ Qh, 7h, 5d ]
+korolevaMM checks
+barao55 checks
+** Dealing turn ** [ 7c ]
+korolevaMM bets [$0.02]
+barao55 folds
+** Summary **
+korolevaMM collected [ $0.04 ]
+
+
+#Game No : 503970580
+***** 888poker Hand History for Game 503970580 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 17:59:49
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: korolevaMM ( $0.91 )
+Seat 7: barao55 ( $0.96 )
+korolevaMM posts small blind [$0.01]
+barao55 posts big blind [$0.02]
+** Dealing down cards **
+korolevaMM raises [$0.03]
+barao55 raises [$0.08]
+korolevaMM raises [$0.87]
+barao55 calls [$0.81]
+** Dealing flop ** [ 8c, 5d, Th ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ 3s ]
+** Summary **
+korolevaMM shows [ Ah, Kh ]
+barao55 shows [ As, 9c ]
+korolevaMM collected [ $1.71 ]
+
+
+#Game No : 503972419
+***** 888poker Hand History for Game 503972419 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 19:52:47
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: echoesofmj ( $0.78 )
+Seat 9: xtianvaca ( $0.90 )
+xtianvaca posts small blind [$0.01]
+echoesofmj posts big blind [$0.02]
+** Dealing down cards **
+xtianvaca raises [$0.05]
+echoesofmj folds
+** Summary **
+xtianvaca did not show his hand
+xtianvaca collected [ $0.04 ]
+
+
+#Game No : 503986934
+***** 888poker Hand History for Game 503986934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 06:44:37
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: luckydertien ( $0.97 )
+Seat 9: Yancco ( $1.39 )
+luckydertien posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+luckydertien folds
+** Summary **
+Yancco collected [ $0.03 ]
+
+
+#Game No : 503986938
+***** 888poker Hand History for Game 503986938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 06:44:42
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: luckydertien ( $0.96 )
+Seat 9: Yancco ( $1.40 )
+Yancco posts small blind [$0.01]
+luckydertien posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+luckydertien collected [ $0.03 ]
+
+
+#Game No : 503986943
+***** 888poker Hand History for Game 503986943 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 06:44:46
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: luckydertien ( $0.97 )
+Seat 9: Yancco ( $1.39 )
+luckydertien posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+luckydertien raises [$0.03]
+Yancco raises [$0.10]
+luckydertien folds
+** Summary **
+Yancco collected [ $0.08 ]
+
+
+#Game No : 503989056
+***** 888poker Hand History for Game 503989056 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 07:55:03
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DJRUSAKOV ( $0.80 )
+Seat 2: Hibacho ( $0.80 )
+Hibacho posts small blind [$0.01]
+DJRUSAKOV posts big blind [$0.02]
+** Dealing down cards **
+Hibacho raises [$0.03]
+DJRUSAKOV calls [$0.02]
+** Dealing flop ** [ Qc, As, 7c ]
+DJRUSAKOV bets [$0.04]
+Hibacho calls [$0.04]
+** Dealing turn ** [ 2s ]
+DJRUSAKOV bets [$0.10]
+Hibacho calls [$0.10]
+** Dealing river ** [ Ah ]
+DJRUSAKOV bets [$0.20]
+Hibacho calls [$0.20]
+** Summary **
+DJRUSAKOV shows [ 8d, 4c ]
+Hibacho shows [ Qh, 6c ]
+Hibacho collected [ $0.72 ]
+
+
+#Game No : 503994145
+***** 888poker Hand History for Game 503994145 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 10:04:34
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.61 )
+Seat 9: BCS158 ( $1.04 )
+Viplala218 posts small blind [$0.01]
+BCS158 posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 folds
+** Summary **
+BCS158 collected [ $0.03 ]
+
+
+#Game No : 503994153
+***** 888poker Hand History for Game 503994153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 10:04:40
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.60 )
+Seat 9: BCS158 ( $1.05 )
+BCS158 posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+BCS158 raises [$0.05]
+Viplala218 folds
+** Summary **
+BCS158 collected [ $0.04 ]
+
+
+#Game No : 503994163
+***** 888poker Hand History for Game 503994163 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 10:04:51
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.58 )
+Seat 9: BCS158 ( $1.07 )
+Viplala218 posts small blind [$0.01]
+BCS158 posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 folds
+** Summary **
+BCS158 collected [ $0.03 ]
+
+
+#Game No : 503994165
+***** 888poker Hand History for Game 503994165 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 10:04:56
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.57 )
+Seat 9: BCS158 ( $1.08 )
+BCS158 posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+BCS158 raises [$0.05]
+Viplala218 folds
+** Summary **
+BCS158 did not show his hand
+BCS158 collected [ $0.04 ]
+
+
+#Game No : 503994171
+***** 888poker Hand History for Game 503994171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 10:05:06
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.55 )
+Seat 9: BCS158 ( $1.10 )
+Viplala218 posts small blind [$0.01]
+BCS158 posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 folds
+** Summary **
+BCS158 did not show his hand
+BCS158 collected [ $0.03 ]
+
+
+#Game No : 503994173
+***** 888poker Hand History for Game 503994173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 10:05:10
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.54 )
+Seat 9: BCS158 ( $1.11 )
+BCS158 posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+BCS158 raises [$0.05]
+Viplala218 folds
+** Summary **
+BCS158 did not show his hand
+BCS158 collected [ $0.04 ]
+
+
+#Game No : 503994181
+***** 888poker Hand History for Game 503994181 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 10:05:24
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.52 )
+Seat 9: BCS158 ( $1.13 )
+Viplala218 posts small blind [$0.01]
+BCS158 posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 folds
+** Summary **
+BCS158 did not show his hand
+BCS158 collected [ $0.03 ]
+
+
+#Game No : 503994185
+***** 888poker Hand History for Game 503994185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 10:05:29
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.51 )
+Seat 9: BCS158 ( $1.14 )
+BCS158 posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+BCS158 raises [$0.05]
+Viplala218 calls [$0.04]
+** Dealing flop ** [ 6c, 3s, 9s ]
+Viplala218 checks
+BCS158 checks
+** Dealing turn ** [ Js ]
+Viplala218 bets [$0.08]
+BCS158 folds
+** Summary **
+Viplala218 collected [ $0.12 ]
+
+
+#Game No : 503996524
+***** 888poker Hand History for Game 503996524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:01:21
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.94 )
+Seat 6: OlegH1 ( $1.12 )
+OlegH1 posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+Viplala218 collected [ $0.03 ]
+
+
+#Game No : 503996613
+***** 888poker Hand History for Game 503996613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:03:02
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.95 )
+Seat 4: Hibacho ( $0.80 )
+Viplala218 posts small blind [$0.01]
+Hibacho posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 raises [$0.06]
+Hibacho calls [$0.05]
+** Dealing flop ** [ Jd, Th, Qd ]
+Hibacho checks
+Viplala218 bets [$0.14]
+Hibacho raises [$0.28]
+Viplala218 raises [$1.74]
+Hibacho calls [$0.45]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 3h ]
+** Summary **
+Viplala218 shows [ Kc, Ts ]
+Hibacho shows [ Ad, 3s ]
+Hibacho collected [ $1.50 ]
+
+
+#Game No : 503996669
+***** 888poker Hand History for Game 503996669 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:04:16
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.15 )
+Seat 4: Hibacho ( $1.50 )
+Hibacho posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+Hibacho folds
+** Summary **
+Viplala218 collected [ $0.03 ]
+
+
+#Game No : 503996681
+***** 888poker Hand History for Game 503996681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:04:32
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.16 )
+Seat 4: Hibacho ( $1.49 )
+Viplala218 posts small blind [$0.01]
+Hibacho posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 folds
+** Summary **
+Hibacho collected [ $0.03 ]
+
+
+#Game No : 503996690
+***** 888poker Hand History for Game 503996690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:04:39
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.15 )
+Seat 4: Hibacho ( $1.50 )
+Hibacho posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+Hibacho raises [$0.03]
+Viplala218 folds
+** Summary **
+Hibacho collected [ $0.04 ]
+
+
+#Game No : 503996697
+***** 888poker Hand History for Game 503996697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:04:48
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.13 )
+Seat 4: Hibacho ( $1.52 )
+Viplala218 posts small blind [$0.01]
+Hibacho posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 raises [$0.04]
+Hibacho raises [$0.08]
+Viplala218 calls [$0.05]
+** Dealing flop ** [ 8h, 7d, 9c ]
+Hibacho checks
+Viplala218 bets [$0.10]
+Hibacho calls [$0.10]
+** Dealing turn ** [ 4s ]
+Hibacho checks
+Viplala218 checks
+** Dealing river ** [ Ts ]
+Hibacho bets [$0.16]
+Viplala218 calls [$0.16]
+** Summary **
+Hibacho shows [ Tc, Ac ]
+Viplala218 mucks [ Kd, 8d ]
+Hibacho collected [ $0.68 ]
+
+
+#Game No : 503996740
+***** 888poker Hand History for Game 503996740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:05:40
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1 )
+Seat 4: Hibacho ( $1.84 )
+Hibacho posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+Hibacho raises [$0.05]
+Viplala218 folds
+** Summary **
+Hibacho collected [ $0.04 ]
+
+
+#Game No : 503996749
+***** 888poker Hand History for Game 503996749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:05:51
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1 )
+Seat 4: Hibacho ( $1.86 )
+Viplala218 posts small blind [$0.01]
+Hibacho posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 folds
+** Summary **
+Hibacho collected [ $0.03 ]
+
+
+#Game No : 503996753
+***** 888poker Hand History for Game 503996753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:05:57
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1 )
+Seat 4: Hibacho ( $1.87 )
+Hibacho posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+Hibacho calls [$0.01]
+Viplala218 checks
+** Dealing flop ** [ 7d, Qs, 2d ]
+Viplala218 checks
+Hibacho checks
+** Dealing turn ** [ 9s ]
+Viplala218 checks
+Hibacho checks
+** Dealing river ** [ 9d ]
+Viplala218 checks
+Hibacho checks
+** Summary **
+Viplala218 shows [ 6d, Kh ]
+Hibacho shows [ Kc, 3d ]
+Viplala218 collected [ $0.02 ]
+Hibacho collected [ $0.02 ]
+
+
+#Game No : 503996771
+***** 888poker Hand History for Game 503996771 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:06:29
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1 )
+Seat 4: Hibacho ( $1.87 )
+Viplala218 posts small blind [$0.01]
+Hibacho posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 raises [$0.04]
+Hibacho folds
+** Summary **
+Viplala218 collected [ $0.04 ]
+
+
+#Game No : 503996777
+***** 888poker Hand History for Game 503996777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:06:40
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.02 )
+Seat 4: Hibacho ( $1.85 )
+Hibacho posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+Hibacho calls [$0.01]
+Viplala218 checks
+** Dealing flop ** [ 8d, 7c, 3h ]
+Viplala218 checks
+Hibacho bets [$0.02]
+Viplala218 calls [$0.02]
+** Dealing turn ** [ 7d ]
+Viplala218 checks
+Hibacho bets [$0.04]
+Viplala218 calls [$0.04]
+** Dealing river ** [ 2h ]
+Viplala218 checks
+Hibacho checks
+** Summary **
+Viplala218 shows [ 3s, Kc ]
+Hibacho mucks [ Js, 5c ]
+Viplala218 collected [ $0.15 ]
+
+
+#Game No : 503996804
+***** 888poker Hand History for Game 503996804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:07:17
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.09 )
+Seat 4: Hibacho ( $1.77 )
+Viplala218 posts small blind [$0.01]
+Hibacho posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 folds
+** Summary **
+Hibacho collected [ $0.03 ]
+
+
+#Game No : 503996809
+***** 888poker Hand History for Game 503996809 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:07:24
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.08 )
+Seat 4: Hibacho ( $1.78 )
+Hibacho posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+Hibacho folds
+** Summary **
+Viplala218 collected [ $0.03 ]
+
+
+#Game No : 503996812
+***** 888poker Hand History for Game 503996812 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:07:32
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.09 )
+Seat 4: Hibacho ( $1.77 )
+Viplala218 posts small blind [$0.01]
+Hibacho posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 folds
+** Summary **
+Hibacho collected [ $0.03 ]
+
+
+#Game No : 503996822
+***** 888poker Hand History for Game 503996822 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:07:41
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.08 )
+Seat 4: Hibacho ( $1.78 )
+Hibacho posts small blind [$0.01]
+Viplala218 posts big blind [$0.02]
+** Dealing down cards **
+Hibacho raises [$0.03]
+Viplala218 folds
+** Summary **
+Hibacho collected [ $0.04 ]
+
+
+#Game No : 503996829
+***** 888poker Hand History for Game 503996829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:07:51
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Viplala218 ( $1.06 )
+Seat 4: Hibacho ( $1.80 )
+Viplala218 posts small blind [$0.01]
+Hibacho posts big blind [$0.02]
+** Dealing down cards **
+Viplala218 folds
+** Summary **
+Hibacho collected [ $0.03 ]
+
+
+#Game No : 503997042
+***** 888poker Hand History for Game 503997042 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:13:13
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Frantonto ( $0.95 )
+Seat 6: OlegH1 ( $1.11 )
+OlegH1 posts small blind [$0.01]
+Frantonto posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+Frantonto collected [ $0.03 ]
+
+
+#Game No : 503997047
+***** 888poker Hand History for Game 503997047 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:13:19
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Frantonto ( $0.96 )
+Seat 6: OlegH1 ( $1.10 )
+Frantonto posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Frantonto calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ Js, Qd, Kh ]
+OlegH1 checks
+Frantonto checks
+** Dealing turn ** [ 5s ]
+OlegH1 checks
+Frantonto bets [$0.04]
+OlegH1 calls [$0.04]
+** Dealing river ** [ Ks ]
+OlegH1 checks
+Frantonto bets [$0.12]
+OlegH1 folds
+** Summary **
+Frantonto collected [ $0.12 ]
+
+
+#Game No : 503997072
+***** 888poker Hand History for Game 503997072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:13:49
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Frantonto ( $1.02 )
+Seat 6: OlegH1 ( $1.04 )
+OlegH1 posts small blind [$0.01]
+Frantonto posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+Frantonto raises [$0.04]
+OlegH1 folds
+** Summary **
+Frantonto collected [ $0.04 ]
+
+
+#Game No : 503997088
+***** 888poker Hand History for Game 503997088 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 11:14:12
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Frantonto ( $1.04 )
+Seat 6: OlegH1 ( $1.02 )
+Frantonto posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Frantonto raises [$0.03]
+OlegH1 folds
+** Summary **
+Frantonto collected [ $0.04 ]
+
+
+#Game No : 504007625
+***** 888poker Hand History for Game 504007625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:10:36
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RiderofRohan ( $1.06 )
+Seat 9: rippenlappen ( $1.74 )
+RiderofRohan posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+RiderofRohan raises [$0.03]
+rippenlappen folds
+** Summary **
+RiderofRohan did not show his hand
+RiderofRohan collected [ $0.04 ]
+
+
+#Game No : 504007633
+***** 888poker Hand History for Game 504007633 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:10:47
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: RiderofRohan ( $1.08 )
+Seat 9: rippenlappen ( $1.72 )
+rippenlappen posts small blind [$0.01]
+RiderofRohan posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen raises [$0.05]
+RiderofRohan folds
+** Summary **
+rippenlappen did not show his hand
+rippenlappen collected [ $0.04 ]
+
+
+#Game No : 504007670
+***** 888poker Hand History for Game 504007670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:11:30
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: shmikel ( $1 )
+Seat 9: rippenlappen ( $1.74 )
+rippenlappen posts small blind [$0.01]
+shmikel posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen folds
+** Summary **
+shmikel did not show his hand
+shmikel collected [ $0.03 ]
+
+
+#Game No : 504007682
+***** 888poker Hand History for Game 504007682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:11:41
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: shmikel ( $1.01 )
+Seat 9: rippenlappen ( $1.73 )
+shmikel posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+shmikel calls [$0.01]
+rippenlappen checks
+** Dealing flop ** [ 2c, Td, 4h ]
+rippenlappen checks
+shmikel bets [$0.02]
+rippenlappen calls [$0.02]
+** Dealing turn ** [ Kh ]
+rippenlappen checks
+shmikel bets [$0.02]
+rippenlappen calls [$0.02]
+** Dealing river ** [ Kd ]
+rippenlappen checks
+shmikel bets [$0.06]
+rippenlappen calls [$0.06]
+** Summary **
+shmikel shows [ 8c, 2d ]
+rippenlappen shows [ 6h, 4s ]
+rippenlappen collected [ $0.23 ]
+
+
+#Game No : 504007705
+***** 888poker Hand History for Game 504007705 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:12:11
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: shmikel ( $0.89 )
+Seat 9: rippenlappen ( $1.84 )
+rippenlappen posts small blind [$0.01]
+shmikel posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen folds
+** Summary **
+shmikel collected [ $0.03 ]
+
+
+#Game No : 504008409
+***** 888poker Hand History for Game 504008409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:28:14
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: gangstreet15 ( $0.80 )
+Seat 9: rippenlappen ( $1.18 )
+gangstreet15 posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+gangstreet15 calls [$0.01]
+rippenlappen raises [$0.04]
+gangstreet15 calls [$0.04]
+** Dealing flop ** [ Ks, Kd, 7h ]
+rippenlappen checks
+gangstreet15 checks
+** Dealing turn ** [ Jc ]
+rippenlappen bets [$0.08]
+gangstreet15 calls [$0.08]
+** Dealing river ** [ Qh ]
+rippenlappen bets [$0.18]
+gangstreet15 calls [$0.18]
+** Summary **
+rippenlappen shows [ Ts, Kc ]
+gangstreet15 shows [ 9c, Td ]
+gangstreet15 collected [ $0.60 ]
+
+
+#Game No : 504008426
+***** 888poker Hand History for Game 504008426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:28:45
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: gangstreet15 ( $1.08 )
+Seat 9: rippenlappen ( $1 )
+rippenlappen posts small blind [$0.01]
+gangstreet15 posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen folds
+** Summary **
+gangstreet15 collected [ $0.03 ]
+
+
+#Game No : 504008966
+***** 888poker Hand History for Game 504008966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:43:20
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: gangstreet15 ( $1.01 )
+Seat 9: rippenlappen ( $1.02 )
+rippenlappen posts small blind [$0.01]
+gangstreet15 posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen raises [$0.05]
+gangstreet15 folds
+** Summary **
+rippenlappen collected [ $0.04 ]
+
+
+#Game No : 504009048
+***** 888poker Hand History for Game 504009048 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:45:26
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $0.60 )
+Seat 9: rippenlappen ( $1.39 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.03 ]
+
+
+#Game No : 504009050
+***** 888poker Hand History for Game 504009050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:45:31
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $0.59 )
+Seat 9: rippenlappen ( $1.40 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen folds
+** Summary **
+Superwinne collected [ $0.03 ]
+
+
+#Game No : 504009054
+***** 888poker Hand History for Game 504009054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:45:38
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $0.60 )
+Seat 9: rippenlappen ( $1.39 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.03 ]
+
+
+#Game No : 504009056
+***** 888poker Hand History for Game 504009056 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:45:44
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $0.59 )
+Seat 9: rippenlappen ( $1.40 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen raises [$0.05]
+Superwinne calls [$0.04]
+** Dealing flop ** [ 9s, 5s, 8c ]
+Superwinne checks
+rippenlappen checks
+** Dealing turn ** [ 4h ]
+Superwinne checks
+rippenlappen checks
+** Dealing river ** [ 7h ]
+Superwinne checks
+rippenlappen checks
+** Summary **
+Superwinne shows [ 2h, 2d ]
+rippenlappen mucks [ 3c, Kd ]
+Superwinne collected [ $0.12 ]
+
+
+#Game No : 504009073
+***** 888poker Hand History for Game 504009073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:46:15
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $0.65 )
+Seat 9: rippenlappen ( $1.34 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne calls [$0.01]
+rippenlappen checks
+** Dealing flop ** [ Ts, 9d, 3c ]
+rippenlappen checks
+Superwinne checks
+** Dealing turn ** [ 8h ]
+rippenlappen bets [$0.04]
+Superwinne calls [$0.04]
+** Dealing river ** [ Kd ]
+rippenlappen checks
+Superwinne checks
+** Summary **
+rippenlappen shows [ Td, 6d ]
+Superwinne mucks [ Qc, 2d ]
+rippenlappen collected [ $0.12 ]
+
+
+#Game No : 504009155
+***** 888poker Hand History for Game 504009155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:48:28
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.62 )
+Seat 9: rippenlappen ( $1.40 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen raises [$0.05]
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.04 ]
+
+
+#Game No : 504009159
+***** 888poker Hand History for Game 504009159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:48:36
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.60 )
+Seat 9: rippenlappen ( $1.42 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne calls [$0.01]
+rippenlappen raises [$0.06]
+Superwinne calls [$0.06]
+** Dealing flop ** [ Qd, Ts, 3s ]
+rippenlappen bets [$0.10]
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.15 ]
+
+
+#Game No : 504009165
+***** 888poker Hand History for Game 504009165 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:48:51
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.52 )
+Seat 9: rippenlappen ( $1.49 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen calls [$0.01]
+Superwinne raises [$0.02]
+rippenlappen calls [$0.02]
+** Dealing flop ** [ Jh, 2d, 4h ]
+Superwinne bets [$0.02]
+rippenlappen calls [$0.02]
+** Dealing turn ** [ Qh ]
+Superwinne bets [$0.06]
+rippenlappen calls [$0.06]
+** Dealing river ** [ Ts ]
+Superwinne bets [$0.16]
+rippenlappen folds
+** Summary **
+Superwinne collected [ $0.23 ]
+
+
+#Game No : 504009181
+***** 888poker Hand History for Game 504009181 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:49:17
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.63 )
+Seat 9: rippenlappen ( $1.37 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.03 ]
+
+
+#Game No : 504009183
+***** 888poker Hand History for Game 504009183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:49:22
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.62 )
+Seat 9: rippenlappen ( $1.38 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen raises [$0.05]
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.04 ]
+
+
+#Game No : 504009186
+***** 888poker Hand History for Game 504009186 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:49:29
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.60 )
+Seat 9: rippenlappen ( $1.40 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.03 ]
+
+
+#Game No : 504009191
+***** 888poker Hand History for Game 504009191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:49:35
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.59 )
+Seat 9: rippenlappen ( $1.41 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen calls [$0.01]
+Superwinne checks
+** Dealing flop ** [ 5s, Ks, 2s ]
+Superwinne bets [$0.02]
+rippenlappen calls [$0.02]
+** Dealing turn ** [ 4d ]
+Superwinne bets [$0.02]
+rippenlappen calls [$0.02]
+** Dealing river ** [ Th ]
+Superwinne bets [$0.06]
+rippenlappen calls [$0.06]
+** Summary **
+Superwinne shows [ Jd, 3s ]
+rippenlappen shows [ 8h, 5h ]
+rippenlappen collected [ $0.23 ]
+
+
+#Game No : 504009208
+***** 888poker Hand History for Game 504009208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:50:03
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.47 )
+Seat 9: rippenlappen ( $1.52 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.03 ]
+
+
+#Game No : 504009210
+***** 888poker Hand History for Game 504009210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:50:09
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.46 )
+Seat 9: rippenlappen ( $1.53 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen folds
+** Summary **
+Superwinne collected [ $0.03 ]
+
+
+#Game No : 504009214
+***** 888poker Hand History for Game 504009214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:50:15
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.47 )
+Seat 9: rippenlappen ( $1.52 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne calls [$0.01]
+rippenlappen raises [$0.06]
+Superwinne calls [$0.06]
+** Dealing flop ** [ 9h, 9d, 2h ]
+rippenlappen checks
+Superwinne bets [$0.02]
+rippenlappen calls [$0.02]
+** Dealing turn ** [ 3d ]
+rippenlappen checks
+Superwinne bets [$0.13]
+rippenlappen folds
+** Summary **
+Superwinne collected [ $0.19 ]
+
+
+#Game No : 504009223
+***** 888poker Hand History for Game 504009223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:50:35
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.56 )
+Seat 9: rippenlappen ( $1.42 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen raises [$0.03]
+Superwinne calls [$0.02]
+** Dealing flop ** [ 5c, 3d, 7h ]
+Superwinne checks
+rippenlappen checks
+** Dealing turn ** [ 7d ]
+Superwinne checks
+rippenlappen bets [$0.05]
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.08 ]
+
+
+#Game No : 504009245
+***** 888poker Hand History for Game 504009245 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:51:13
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.52 )
+Seat 9: rippenlappen ( $1.46 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne raises [$0.03]
+rippenlappen calls [$0.02]
+** Dealing flop ** [ Ad, 5c, Qs ]
+rippenlappen checks
+Superwinne bets [$0.05]
+rippenlappen folds
+** Summary **
+Superwinne collected [ $0.08 ]
+
+
+#Game No : 504009252
+***** 888poker Hand History for Game 504009252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:51:26
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.56 )
+Seat 9: rippenlappen ( $1.42 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen folds
+** Summary **
+Superwinne collected [ $0.03 ]
+
+
+#Game No : 504009255
+***** 888poker Hand History for Game 504009255 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:51:34
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.57 )
+Seat 9: rippenlappen ( $1.41 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.03 ]
+
+
+#Game No : 504009258
+***** 888poker Hand History for Game 504009258 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:51:39
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.56 )
+Seat 9: rippenlappen ( $1.42 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen raises [$0.05]
+Superwinne folds
+** Summary **
+rippenlappen collected [ $0.04 ]
+
+
+#Game No : 504009262
+***** 888poker Hand History for Game 504009262 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:51:47
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.54 )
+Seat 9: rippenlappen ( $1.44 )
+Superwinne posts small blind [$0.01]
+rippenlappen posts big blind [$0.02]
+** Dealing down cards **
+Superwinne raises [$0.03]
+rippenlappen raises [$0.12]
+Superwinne calls [$0.10]
+** Dealing flop ** [ Jc, Qc, 8h ]
+rippenlappen bets [$0.18]
+Superwinne raises [$0.36]
+rippenlappen calls [$0.18]
+** Dealing turn ** [ 4c ]
+rippenlappen checks
+Superwinne bets [$0.50]
+rippenlappen folds
+** Summary **
+Superwinne collected [ $0.94 ]
+
+
+#Game No : 504009275
+***** 888poker Hand History for Game 504009275 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 15:52:17
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Superwinne ( $1.98 )
+Seat 9: rippenlappen ( $1 )
+rippenlappen posts small blind [$0.01]
+Superwinne posts big blind [$0.02]
+** Dealing down cards **
+rippenlappen raises [$0.05]
+Superwinne calls [$0.04]
+** Dealing flop ** [ Ts, Qc, 3c ]
+Superwinne bets [$0.02]
+rippenlappen raises [$0.12]
+Superwinne calls [$0.10]
+** Dealing turn ** [ 6d ]
+Superwinne bets [$0.02]
+rippenlappen calls [$0.02]
+** Dealing river ** [ 5d ]
+Superwinne bets [$0.02]
+rippenlappen folds
+** Summary **
+Superwinne collected [ $0.38 ]
+
+
+#Game No : 504011173
+***** 888poker Hand History for Game 504011173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 16:57:23
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DPForte ( $2.11 )
+Seat 6: UNKORE ( $1.14 )
+DPForte posts small blind [$0.01]
+UNKORE posts big blind [$0.02]
+** Dealing down cards **
+DPForte raises [$0.03]
+UNKORE folds
+** Summary **
+DPForte collected [ $0.04 ]
+
+
+#Game No : 504011185
+***** 888poker Hand History for Game 504011185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 16:57:53
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DPForte ( $2.13 )
+Seat 7: Joshdavey14 ( $0.80 )
+DPForte posts small blind [$0.01]
+Joshdavey14 posts big blind [$0.02]
+** Dealing down cards **
+DPForte calls [$0.01]
+Joshdavey14 checks
+** Dealing flop ** [ 5c, Qc, Jd ]
+Joshdavey14 bets [$0.02]
+DPForte folds
+** Summary **
+Joshdavey14 collected [ $0.04 ]
+
+

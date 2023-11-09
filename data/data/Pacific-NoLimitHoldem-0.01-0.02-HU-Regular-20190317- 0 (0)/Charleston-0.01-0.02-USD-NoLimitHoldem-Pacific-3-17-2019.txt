@@ -1,0 +1,189 @@
+#Game No : 617350008
+***** 888poker Hand History for Game 617350008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 18:17:52
+Table Charleston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $3.20 )
+Seat 7: bigHaki ( $3.16 )
+bigHaki posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+VictimVIP raises [$0.16]
+bigHaki calls [$0.12]
+** Dealing flop ** [ 9c, Ac, 4h ]
+VictimVIP bets [$0.12]
+bigHaki calls [$0.12]
+** Dealing turn ** [ Js ]
+VictimVIP bets [$0.31]
+bigHaki calls [$0.31]
+** Dealing river ** [ Tc ]
+VictimVIP checks
+bigHaki checks
+** Summary **
+VictimVIP shows [ Kc, Ah ]
+bigHaki mucks [ Qh, As ]
+VictimVIP collected [ $1.15 ]
+
+
+#Game No : 617350030
+***** 888poker Hand History for Game 617350030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 18:18:40
+Table Charleston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $3.74 )
+Seat 7: bigHaki ( $2.55 )
+VictimVIP posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.05]
+bigHaki folds
+** Summary **
+VictimVIP collected [ $0.04 ]
+
+
+#Game No : 617350399
+***** 888poker Hand History for Game 617350399 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 18:30:48
+Table Charleston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $4.42 )
+Seat 4: robielennon ( $1.26 )
+VictimVIP posts small blind [$0.01]
+robielennon posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.05]
+robielennon folds
+** Summary **
+VictimVIP collected [ $0.04 ]
+
+
+#Game No : 617350483
+***** 888poker Hand History for Game 617350483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 18:33:26
+Table Charleston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $4.35 )
+Seat 4: robielennon ( $2.19 )
+robielennon posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+robielennon calls [$0.01]
+VictimVIP checks
+** Dealing flop ** [ Jd, 4s, Ah ]
+VictimVIP checks
+robielennon bets [$0.04]
+VictimVIP folds
+** Summary **
+robielennon collected [ $0.04 ]
+
+
+#Game No : 617350494
+***** 888poker Hand History for Game 617350494 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 18:33:46
+Table Charleston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $4.33 )
+Seat 4: robielennon ( $2.21 )
+VictimVIP posts small blind [$0.01]
+robielennon posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.03]
+robielennon calls [$0.02]
+** Dealing flop ** [ 2d, 8h, Td ]
+robielennon checks
+VictimVIP checks
+** Dealing turn ** [ 2s ]
+robielennon checks
+VictimVIP checks
+** Dealing river ** [ As ]
+robielennon checks
+VictimVIP checks
+** Summary **
+robielennon shows [ 9s, 4c ]
+VictimVIP shows [ Kc, 4d ]
+VictimVIP collected [ $0.08 ]
+
+
+#Game No : 617350561
+***** 888poker Hand History for Game 617350561 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 18:35:42
+Table Charleston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: jchen210 ( $1.04 )
+Seat 4: robielennon ( $2.14 )
+robielennon posts small blind [$0.01]
+jchen210 posts big blind [$0.02]
+** Dealing down cards **
+robielennon calls [$0.01]
+jchen210 checks
+** Dealing flop ** [ 8c, Ah, Ad ]
+jchen210 checks
+robielennon checks
+** Dealing turn ** [ Qd ]
+jchen210 bets [$0.04]
+robielennon folds
+** Summary **
+jchen210 collected [ $0.04 ]
+
+
+#Game No : 617350572
+***** 888poker Hand History for Game 617350572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 18:36:03
+Table Charleston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: jchen210 ( $1.06 )
+Seat 4: robielennon ( $2.12 )
+jchen210 posts small blind [$0.01]
+robielennon posts big blind [$0.02]
+** Dealing down cards **
+jchen210 raises [$0.05]
+robielennon folds
+** Summary **
+jchen210 collected [ $0.04 ]
+
+
+#Game No : 617350577
+***** 888poker Hand History for Game 617350577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 18:36:12
+Table Charleston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: jchen210 ( $1.08 )
+Seat 4: robielennon ( $2.10 )
+robielennon posts small blind [$0.01]
+jchen210 posts big blind [$0.02]
+** Dealing down cards **
+robielennon calls [$0.01]
+jchen210 checks
+** Dealing flop ** [ 8s, 6s, Td ]
+jchen210 checks
+robielennon bets [$0.04]
+jchen210 folds
+** Summary **
+robielennon collected [ $0.04 ]
+
+
+#Game No : 617350887
+***** 888poker Hand History for Game 617350887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 18:47:11
+Table Charleston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: jchen210 ( $1.56 )
+Seat 7: Debz6394 ( $1.16 )
+jchen210 posts small blind [$0.01]
+Debz6394 posts big blind [$0.02]
+** Dealing down cards **
+jchen210 folds
+** Summary **
+Debz6394 collected [ $0.03 ]
+
+

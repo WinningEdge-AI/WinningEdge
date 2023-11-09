@@ -1,0 +1,62 @@
+#Game No : 617513013
+***** 888poker Hand History for Game 617513013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 11:33:01
+Table Dusseldorf 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: Scuzzball ( $0.73 )
+Seat 4: AndryDan ( $3.54 )
+AndryDan posts small blind [$0.01]
+Scuzzball posts big blind [$0.02]
+** Dealing down cards **
+AndryDan raises [$0.05]
+Scuzzball calls [$0.04]
+** Dealing flop ** [ Kc, 4s, 3c ]
+AndryDan bets [$0.12]
+Scuzzball calls [$0.12]
+** Dealing turn ** [ Td ]
+AndryDan checks
+Scuzzball bets [$0.24]
+AndryDan folds
+** Summary **
+Scuzzball collected [ $0.34 ]
+
+
+#Game No : 617513067
+***** 888poker Hand History for Game 617513067 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 11:33:43
+Table Dusseldorf 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Scuzzball ( $0.89 )
+Seat 4: AndryDan ( $3.36 )
+AndryDan posts small blind [$0.01]
+Scuzzball posts big blind [$0.02]
+** Dealing down cards **
+AndryDan folds
+** Summary **
+Scuzzball collected [ $0.03 ]
+
+
+#Game No : 617518831
+***** 888poker Hand History for Game 617518831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 13:05:33
+Table Dusseldorf 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: slagter16 ( $0.80 )
+Seat 9: Roni767 ( $1.32 )
+slagter16 posts small blind [$0.01]
+Roni767 posts big blind [$0.02]
+** Dealing down cards **
+slagter16 raises [$0.79]
+Roni767 calls [$0.78]
+** Dealing flop ** [ Tc, 7h, 7s ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ Jd ]
+** Summary **
+slagter16 shows [ Th, Ad ]
+Roni767 shows [ Jc, As ]
+Roni767 collected [ $1.50 ]
+
+

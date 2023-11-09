@@ -1,0 +1,424 @@
+#Game No : 621534292
+***** 888poker Hand History for Game 621534292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 21:34:38
+Table Tilburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: veXer10 ( $0.80 )
+Seat 6: dedtk ( $1.45 )
+dedtk posts small blind [$0.01]
+veXer10 posts big blind [$0.02]
+** Dealing down cards **
+dedtk raises [$0.04]
+veXer10 calls [$0.03]
+** Dealing flop ** [ 4c, 9s, 6s ]
+veXer10 checks
+dedtk checks
+** Dealing turn ** [ 2c ]
+veXer10 bets [$0.04]
+dedtk folds
+** Summary **
+veXer10 collected [ $0.10 ]
+
+
+#Game No : 621534302
+***** 888poker Hand History for Game 621534302 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 21:35:01
+Table Tilburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Taboulii1 ( $1 )
+Seat 6: dedtk ( $1.40 )
+dedtk posts small blind [$0.01]
+Taboulii1 posts big blind [$0.02]
+** Dealing down cards **
+dedtk folds
+** Summary **
+Taboulii1 did not show his hand
+Taboulii1 collected [ $0.03 ]
+
+
+#Game No : 621534305
+***** 888poker Hand History for Game 621534305 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 21:35:13
+Table Tilburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Taboulii1 ( $1.01 )
+Seat 6: dedtk ( $1.39 )
+Taboulii1 posts small blind [$0.01]
+dedtk posts big blind [$0.02]
+** Dealing down cards **
+Taboulii1 calls [$0.01]
+dedtk checks
+** Dealing flop ** [ 6s, As, Ad ]
+dedtk bets [$0.02]
+Taboulii1 calls [$0.02]
+** Dealing turn ** [ 3s ]
+dedtk bets [$0.05]
+Taboulii1 calls [$0.05]
+** Dealing river ** [ Qs ]
+dedtk checks
+Taboulii1 bets [$0.12]
+dedtk calls [$0.12]
+** Summary **
+Taboulii1 shows [ Ah, 6c ]
+dedtk mucks [ 6h, 9s ]
+Taboulii1 collected [ $0.40 ]
+
+
+#Game No : 621534315
+***** 888poker Hand History for Game 621534315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 21:35:56
+Table Tilburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Taboulii1 ( $1.20 )
+Seat 6: dedtk ( $1.18 )
+dedtk posts small blind [$0.01]
+Taboulii1 posts big blind [$0.02]
+** Dealing down cards **
+dedtk raises [$0.04]
+Taboulii1 calls [$0.03]
+** Dealing flop ** [ Qh, 9h, Kd ]
+Taboulii1 checks
+dedtk bets [$0.06]
+Taboulii1 calls [$0.06]
+** Dealing turn ** [ Ad ]
+Taboulii1 checks
+dedtk checks
+** Dealing river ** [ 4s ]
+Taboulii1 checks
+dedtk checks
+** Summary **
+Taboulii1 shows [ 6c, Tc ]
+dedtk mucks [ 6d, 7s ]
+Taboulii1 collected [ $0.21 ]
+
+
+#Game No : 621534833
+***** 888poker Hand History for Game 621534833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 22:16:00
+Table Tilburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: MustBeN1ice ( $1.13 )
+Seat 9: ikoshkarev13 ( $2 )
+ikoshkarev13 posts small blind [$0.01]
+MustBeN1ice posts big blind [$0.02]
+** Dealing down cards **
+ikoshkarev13 raises [$0.05]
+MustBeN1ice raises [$0.20]
+ikoshkarev13 calls [$0.16]
+** Dealing flop ** [ 2c, Ts, 5s ]
+MustBeN1ice bets [$0.91]
+ikoshkarev13 calls [$0.91]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ 6s ]
+** Summary **
+MustBeN1ice shows [ Ac, Jc ]
+ikoshkarev13 shows [ Js, Jd ]
+MustBeN1ice collected [ $2.12 ]
+
+
+#Game No : 621534936
+***** 888poker Hand History for Game 621534936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 22:23:29
+Table Tilburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Unassuming1 ( $2 )
+Seat 9: Pulsaryes ( $0.80 )
+Unassuming1 posts small blind [$0.01]
+Pulsaryes posts big blind [$0.02]
+** Dealing down cards **
+Unassuming1 raises [$0.03]
+Pulsaryes calls [$0.02]
+** Dealing flop ** [ 2d, 9h, 3d ]
+Pulsaryes checks
+Unassuming1 checks
+** Dealing turn ** [ Qh ]
+Pulsaryes checks
+Unassuming1 checks
+** Dealing river ** [ Tc ]
+Pulsaryes checks
+Unassuming1 checks
+** Summary **
+Pulsaryes shows [ 8s, As ]
+Unassuming1 mucks [ 6h, Jc ]
+Pulsaryes collected [ $0.08 ]
+
+
+#Game No : 621534948
+***** 888poker Hand History for Game 621534948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 22:23:51
+Table Tilburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Unassuming1 ( $1.96 )
+Seat 9: Pulsaryes ( $0.84 )
+Pulsaryes posts small blind [$0.01]
+Unassuming1 posts big blind [$0.02]
+** Dealing down cards **
+Pulsaryes raises [$0.03]
+Unassuming1 calls [$0.02]
+** Dealing flop ** [ 9d, 3d, 5h ]
+Unassuming1 checks
+Pulsaryes bets [$0.04]
+Unassuming1 folds
+** Summary **
+Pulsaryes did not show his hand
+Pulsaryes collected [ $0.08 ]
+
+
+#Game No : 621534956
+***** 888poker Hand History for Game 621534956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 22:24:15
+Table Tilburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Unassuming1 ( $1.92 )
+Seat 9: Pulsaryes ( $0.88 )
+Unassuming1 posts small blind [$0.01]
+Pulsaryes posts big blind [$0.02]
+** Dealing down cards **
+Unassuming1 raises [$0.03]
+Pulsaryes folds
+** Summary **
+Unassuming1 collected [ $0.04 ]
+
+
+#Game No : 621535347
+***** 888poker Hand History for Game 621535347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 22:57:37
+Table Tilburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Rx84rx84 ( $5.41 )
+Seat 7: mioriso ( $2.86 )
+mioriso posts small blind [$0.01]
+Rx84rx84 posts big blind [$0.02]
+** Dealing down cards **
+mioriso folds
+** Summary **
+Rx84rx84 collected [ $0.03 ]
+
+
+#Game No : 621535401
+***** 888poker Hand History for Game 621535401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:01:55
+Table Tilburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Li180556 ( $2.09 )
+Seat 4: Didenok007 ( $2.06 )
+Li180556 posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Li180556 folds
+** Summary **
+Didenok007 did not show his hand
+Didenok007 collected [ $0.03 ]
+
+
+#Game No : 621535404
+***** 888poker Hand History for Game 621535404 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:02:02
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Li180556 ( $2.08 )
+Seat 4: Didenok007 ( $2.07 )
+Didenok007 posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 raises [$0.05]
+Li180556 folds
+** Summary **
+Didenok007 did not show his hand
+Didenok007 collected [ $0.04 ]
+
+
+#Game No : 621535406
+***** 888poker Hand History for Game 621535406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:02:16
+Table Tilburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Li180556 ( $2.06 )
+Seat 4: Didenok007 ( $2.09 )
+Li180556 posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Li180556 raises [$0.03]
+Didenok007 folds
+** Summary **
+Li180556 did not show his hand
+Li180556 collected [ $0.04 ]
+
+
+#Game No : 621535410
+***** 888poker Hand History for Game 621535410 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:02:24
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Li180556 ( $2.08 )
+Seat 4: Didenok007 ( $2.07 )
+Didenok007 posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 folds
+** Summary **
+Li180556 did not show his hand
+Li180556 collected [ $0.03 ]
+
+
+#Game No : 621535412
+***** 888poker Hand History for Game 621535412 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:02:30
+Table Tilburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Li180556 ( $2.09 )
+Seat 4: Didenok007 ( $2.06 )
+Li180556 posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Li180556 raises [$0.03]
+Didenok007 folds
+** Summary **
+Li180556 did not show his hand
+Li180556 collected [ $0.04 ]
+
+
+#Game No : 621535417
+***** 888poker Hand History for Game 621535417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:02:42
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Li180556 ( $2.11 )
+Seat 4: Didenok007 ( $2.04 )
+Didenok007 posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 folds
+** Summary **
+Li180556 did not show his hand
+Li180556 collected [ $0.03 ]
+
+
+#Game No : 621535419
+***** 888poker Hand History for Game 621535419 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:02:49
+Table Tilburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Li180556 ( $2.12 )
+Seat 4: Didenok007 ( $2.03 )
+Li180556 posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Li180556 raises [$0.03]
+Didenok007 folds
+** Summary **
+Li180556 did not show his hand
+Li180556 collected [ $0.04 ]
+
+
+#Game No : 621535421
+***** 888poker Hand History for Game 621535421 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:03:03
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Li180556 ( $2.14 )
+Seat 4: Didenok007 ( $2.01 )
+Didenok007 posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 raises [$0.05]
+Li180556 raises [$0.08]
+Didenok007 calls [$0.04]
+** Dealing flop ** [ 4d, Ts, Qd ]
+Li180556 bets [$0.08]
+Didenok007 calls [$0.08]
+** Dealing turn ** [ Kc ]
+Li180556 bets [$0.02]
+Didenok007 raises [$0.08]
+Li180556 calls [$0.06]
+** Dealing river ** [ 6d ]
+Li180556 bets [$0.12]
+Didenok007 raises [$0.48]
+Li180556 raises [$0.72]
+Didenok007 calls [$0.36]
+** Summary **
+Li180556 shows [ Ad, Td ]
+Didenok007 mucks [ Kd, 9d ]
+Li180556 collected [ $2.07 ]
+
+
+#Game No : 621535433
+***** 888poker Hand History for Game 621535433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:03:50
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Didenok007 ( $2 )
+Seat 6: Kepey111 ( $0.81 )
+Kepey111 posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Kepey111 raises [$0.03]
+Didenok007 folds
+** Summary **
+Kepey111 did not show his hand
+Kepey111 collected [ $0.04 ]
+
+
+#Game No : 621535435
+***** 888poker Hand History for Game 621535435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:04:00
+Table Tilburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Didenok007 ( $2 )
+Seat 6: Kepey111 ( $0.83 )
+Kepey111 posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Kepey111 calls [$0.01]
+Didenok007 checks
+** Dealing flop ** [ Qh, 8h, Ts ]
+Didenok007 checks
+Kepey111 checks
+** Dealing turn ** [ 3s ]
+Didenok007 bets [$0.02]
+Kepey111 calls [$0.02]
+** Dealing river ** [ Ac ]
+Didenok007 bets [$0.04]
+Kepey111 folds
+** Summary **
+Didenok007 did not show his hand
+Didenok007 collected [ $0.08 ]
+
+
+#Game No : 621535443
+***** 888poker Hand History for Game 621535443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:04:22
+Table Tilburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Didenok007 ( $2.04 )
+Seat 6: Kepey111 ( $0.79 )
+Didenok007 posts small blind [$0.01]
+Kepey111 posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 raises [$0.05]
+Kepey111 folds
+** Summary **
+Didenok007 did not show his hand
+Didenok007 collected [ $0.04 ]
+
+

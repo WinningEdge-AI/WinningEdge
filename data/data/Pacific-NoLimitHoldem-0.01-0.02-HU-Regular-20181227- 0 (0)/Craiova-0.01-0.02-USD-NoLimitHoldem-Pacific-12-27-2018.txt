@@ -1,0 +1,125 @@
+#Game No : 612994035
+***** 888poker Hand History for Game 612994035 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 10:49:32
+Table Craiova 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: OlegH1 ( $1 )
+Seat 7: Vitek1903 ( $1.67 )
+Vitek1903 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Vitek1903 raises [$0.05]
+OlegH1 folds
+** Summary **
+Vitek1903 collected [ $0.04 ]
+
+
+#Game No : 612996427
+***** 888poker Hand History for Game 612996427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 11:26:19
+Table Craiova 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Intelligent8 ( $0.79 )
+Seat 9: KINGs_HAND ( $1.01 )
+KINGs_HAND posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+KINGs_HAND calls [$0.01]
+Intelligent8 checks
+** Dealing flop ** [ 4d, 6c, Jc ]
+Intelligent8 checks
+KINGs_HAND checks
+** Dealing turn ** [ Ac ]
+Intelligent8 checks
+KINGs_HAND checks
+** Dealing river ** [ 5s ]
+Intelligent8 checks
+KINGs_HAND checks
+** Summary **
+Intelligent8 shows [ 6d, Th ]
+KINGs_HAND mucks [ Qh, 8s ]
+Intelligent8 collected [ $0.04 ]
+
+
+#Game No : 612996479
+***** 888poker Hand History for Game 612996479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 11:27:04
+Table Craiova 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Intelligent8 ( $0.81 )
+Seat 9: KINGs_HAND ( $1 )
+Intelligent8 posts small blind [$0.01]
+** Dealing down cards **
+KINGs_HAND folds
+** Summary **
+Intelligent8 collected [ $0.01 ]
+
+
+#Game No : 612996483
+***** 888poker Hand History for Game 612996483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 11:27:07
+Table Craiova 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Intelligent8 ( $0.81 )
+Seat 6: 14erndel ( $0.80 )
+Intelligent8 posts small blind [$0.01]
+14erndel posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+14erndel did not show his hand
+14erndel collected [ $0.03 ]
+
+
+#Game No : 612996494
+***** 888poker Hand History for Game 612996494 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 11:27:16
+Table Craiova 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Intelligent8 ( $0.80 )
+Seat 6: 14erndel ( $0.81 )
+14erndel posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+14erndel raises [$0.03]
+Intelligent8 calls [$0.02]
+** Dealing flop ** [ Kc, Th, 8c ]
+Intelligent8 checks
+14erndel bets [$0.04]
+Intelligent8 folds
+** Summary **
+14erndel collected [ $0.08 ]
+
+
+#Game No : 613001221
+***** 888poker Hand History for Game 613001221 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 12:54:31
+Table Craiova 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Antiken00 ( $0.94 )
+Seat 6: BestRaymond ( $1.06 )
+BestRaymond posts small blind [$0.01]
+Antiken00 posts big blind [$0.02]
+** Dealing down cards **
+BestRaymond raises [$0.03]
+Antiken00 calls [$0.02]
+** Dealing flop ** [ 5h, 3c, 8s ]
+Antiken00 checks
+BestRaymond checks
+** Dealing turn ** [ 6d ]
+Antiken00 bets [$0.02]
+BestRaymond calls [$0.02]
+** Dealing river ** [ 2s ]
+Antiken00 checks
+BestRaymond bets [$0.06]
+Antiken00 folds
+** Summary **
+BestRaymond collected [ $0.12 ]
+
+

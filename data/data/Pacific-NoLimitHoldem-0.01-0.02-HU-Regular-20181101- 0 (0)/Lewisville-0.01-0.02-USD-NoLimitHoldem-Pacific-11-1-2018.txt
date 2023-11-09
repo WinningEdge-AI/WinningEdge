@@ -1,0 +1,156 @@
+#Game No : 457042204
+***** 888poker Hand History for Game 457042204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 15:43:37
+Table Lewisville 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: del202020 ( $0.80 )
+Seat 5: mrgbg94 ( $2 )
+del202020 posts small blind [$0.01]
+mrgbg94 posts big blind [$0.02]
+** Dealing down cards **
+del202020 calls [$0.01]
+mrgbg94 checks
+** Dealing flop ** [ 3h, 2d, 4c ]
+mrgbg94 checks
+del202020 checks
+** Dealing turn ** [ Qh ]
+mrgbg94 bets [$0.06]
+del202020 calls [$0.06]
+** Dealing river ** [ Kd ]
+mrgbg94 bets [$0.16]
+del202020 folds
+** Summary **
+mrgbg94 collected [ $0.15 ]
+
+
+#Game No : 457042214
+***** 888poker Hand History for Game 457042214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 15:44:06
+Table Lewisville 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: del202020 ( $0.72 )
+Seat 5: mrgbg94 ( $2.07 )
+mrgbg94 posts small blind [$0.01]
+del202020 posts big blind [$0.02]
+** Dealing down cards **
+mrgbg94 calls [$0.01]
+del202020 checks
+** Dealing flop ** [ 9c, Kd, Qs ]
+del202020 checks
+mrgbg94 checks
+** Dealing turn ** [ 7s ]
+del202020 checks
+mrgbg94 checks
+** Dealing river ** [ 7h ]
+del202020 bets [$0.04]
+mrgbg94 folds
+** Summary **
+del202020 collected [ $0.04 ]
+
+
+#Game No : 457042234
+***** 888poker Hand History for Game 457042234 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 15:44:34
+Table Lewisville 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: del202020 ( $0.74 )
+Seat 5: mrgbg94 ( $2.05 )
+del202020 posts small blind [$0.01]
+mrgbg94 posts big blind [$0.02]
+** Dealing down cards **
+del202020 folds
+** Summary **
+mrgbg94 collected [ $0.03 ]
+
+
+#Game No : 457042240
+***** 888poker Hand History for Game 457042240 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 15:44:42
+Table Lewisville 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: del202020 ( $0.73 )
+Seat 5: mrgbg94 ( $2.06 )
+mrgbg94 posts small blind [$0.01]
+del202020 posts big blind [$0.02]
+** Dealing down cards **
+mrgbg94 raises [$0.04]
+del202020 calls [$0.03]
+** Dealing flop ** [ 8h, 3c, 4c ]
+del202020 checks
+mrgbg94 bets [$0.06]
+del202020 calls [$0.06]
+** Dealing turn ** [ Th ]
+del202020 checks
+mrgbg94 bets [$0.11]
+del202020 calls [$0.11]
+** Dealing river ** [ 6s ]
+del202020 checks
+mrgbg94 bets [$0.22]
+del202020 calls [$0.22]
+** Summary **
+mrgbg94 shows [ Ts, 9s ]
+del202020 mucks [ Qc, 4d ]
+mrgbg94 collected [ $0.83 ]
+
+
+#Game No : 457042364
+***** 888poker Hand History for Game 457042364 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 15:47:46
+Table Lewisville 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: del202020 ( $0.37 )
+Seat 9: blewinyaface ( $1.97 )
+del202020 posts small blind [$0.01]
+blewinyaface posts big blind [$0.02]
+** Dealing down cards **
+del202020 calls [$0.01]
+blewinyaface checks
+** Dealing flop ** [ 6h, 2s, 2d ]
+blewinyaface bets [$0.04]
+del202020 calls [$0.04]
+** Dealing turn ** [ 2c ]
+blewinyaface bets [$0.12]
+del202020 calls [$0.12]
+** Dealing river ** [ Js ]
+blewinyaface checks
+del202020 checks
+** Summary **
+blewinyaface shows [ 5d, Th ]
+del202020 shows [ Qd, Kc ]
+del202020 collected [ $0.34 ]
+
+
+#Game No : 457042380
+***** 888poker Hand History for Game 457042380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 15:48:10
+Table Lewisville 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: del202020 ( $0.53 )
+Seat 9: blewinyaface ( $1.79 )
+blewinyaface posts small blind [$0.01]
+del202020 posts big blind [$0.02]
+** Dealing down cards **
+blewinyaface calls [$0.01]
+del202020 checks
+** Dealing flop ** [ Ks, 2d, Th ]
+del202020 checks
+blewinyaface checks
+** Dealing turn ** [ 3c ]
+del202020 checks
+blewinyaface checks
+** Dealing river ** [ 4h ]
+del202020 checks
+blewinyaface bets [$1.77]
+del202020 calls [$0.51]
+** Summary **
+del202020 shows [ Ac, 2c ]
+blewinyaface shows [ 4c, 3d ]
+blewinyaface collected [ $1 ]
+
+

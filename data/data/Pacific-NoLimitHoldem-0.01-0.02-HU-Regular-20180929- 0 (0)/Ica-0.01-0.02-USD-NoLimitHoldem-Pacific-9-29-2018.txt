@@ -1,0 +1,727 @@
+#Game No : 503068161
+***** 888poker Hand History for Game 503068161 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:14:47
+Table Ica 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kosamui999 ( $1 )
+Seat 2: BShaw6 ( $1 )
+Kosamui999 posts small blind [$0.01]
+BShaw6 posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 folds
+** Summary **
+BShaw6 did not show his hand
+BShaw6 collected [ $0.03 ]
+
+
+#Game No : 503068166
+***** 888poker Hand History for Game 503068166 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:14:59
+Table Ica 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Kosamui999 ( $0.99 )
+Seat 2: BShaw6 ( $1.01 )
+BShaw6 posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+BShaw6 calls [$0.01]
+Kosamui999 raises [$0.06]
+BShaw6 calls [$0.06]
+** Dealing flop ** [ Kh, 6h, 5h ]
+Kosamui999 bets [$0.10]
+BShaw6 folds
+** Summary **
+Kosamui999 collected [ $0.15 ]
+
+
+#Game No : 503068739
+***** 888poker Hand History for Game 503068739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:34:25
+Table Ica 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Johnuper1 ( $0.82 )
+Seat 7: SoloTalent90 ( $1.78 )
+Johnuper1 posts small blind [$0.01]
+** Dealing down cards **
+SoloTalent90 folds
+** Summary **
+Johnuper1 did not show his hand
+Johnuper1 collected [ $0.01 ]
+
+
+#Game No : 503068754
+***** 888poker Hand History for Game 503068754 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:34:48
+Table Ica 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Johnuper1 ( $0.82 )
+Seat 9: hotsauce88 ( $0.80 )
+hotsauce88 posts small blind [$0.01]
+Johnuper1 posts big blind [$0.02]
+** Dealing down cards **
+hotsauce88 folds
+** Summary **
+Johnuper1 did not show his hand
+Johnuper1 collected [ $0.03 ]
+
+
+#Game No : 503068762
+***** 888poker Hand History for Game 503068762 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:35:01
+Table Ica 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Johnuper1 ( $0.83 )
+Seat 9: hotsauce88 ( $0.79 )
+Johnuper1 posts small blind [$0.01]
+hotsauce88 posts big blind [$0.02]
+** Dealing down cards **
+Johnuper1 raises [$0.03]
+hotsauce88 calls [$0.02]
+** Dealing flop ** [ 4h, 7d, Kh ]
+hotsauce88 checks
+Johnuper1 bets [$0.02]
+hotsauce88 calls [$0.02]
+** Dealing turn ** [ Kc ]
+hotsauce88 bets [$0.02]
+Johnuper1 calls [$0.02]
+** Dealing river ** [ 5h ]
+hotsauce88 checks
+Johnuper1 checks
+** Summary **
+hotsauce88 shows [ 8c, 2c ]
+Johnuper1 shows [ Ad, 8s ]
+Johnuper1 collected [ $0.15 ]
+
+
+#Game No : 503068773
+***** 888poker Hand History for Game 503068773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:35:29
+Table Ica 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Johnuper1 ( $0.90 )
+Seat 9: hotsauce88 ( $0.71 )
+hotsauce88 posts small blind [$0.01]
+Johnuper1 posts big blind [$0.02]
+** Dealing down cards **
+hotsauce88 calls [$0.01]
+Johnuper1 checks
+** Dealing flop ** [ 5h, Ts, 3d ]
+Johnuper1 bets [$0.02]
+hotsauce88 calls [$0.02]
+** Dealing turn ** [ 9h ]
+Johnuper1 checks
+hotsauce88 checks
+** Dealing river ** [ As ]
+Johnuper1 checks
+hotsauce88 checks
+** Summary **
+Johnuper1 shows [ 3c, Qd ]
+hotsauce88 mucks [ Jh, 6h ]
+Johnuper1 collected [ $0.08 ]
+
+
+#Game No : 503068786
+***** 888poker Hand History for Game 503068786 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:35:53
+Table Ica 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Johnuper1 ( $0.94 )
+Seat 9: hotsauce88 ( $0.67 )
+Johnuper1 posts small blind [$0.01]
+hotsauce88 posts big blind [$0.02]
+** Dealing down cards **
+Johnuper1 calls [$0.01]
+hotsauce88 checks
+** Dealing flop ** [ Ts, 6d, 6s ]
+hotsauce88 checks
+Johnuper1 bets [$0.02]
+hotsauce88 calls [$0.02]
+** Dealing turn ** [ Ac ]
+hotsauce88 checks
+Johnuper1 checks
+** Dealing river ** [ 5h ]
+hotsauce88 bets [$0.63]
+Johnuper1 folds
+** Summary **
+hotsauce88 collected [ $0.08 ]
+
+
+#Game No : 503069502
+***** 888poker Hand History for Game 503069502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 01:06:42
+Table Ica 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AAOksana ( $1.07 )
+Seat 4: ZOrG01 ( $2.01 )
+AAOksana posts small blind [$0.01]
+ZOrG01 posts big blind [$0.02]
+** Dealing down cards **
+AAOksana raises [$0.05]
+ZOrG01 folds
+** Summary **
+AAOksana did not show his hand
+AAOksana collected [ $0.04 ]
+
+
+#Game No : 503069505
+***** 888poker Hand History for Game 503069505 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 01:06:49
+Table Ica 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: AAOksana ( $1.09 )
+Seat 4: ZOrG01 ( $1.99 )
+ZOrG01 posts small blind [$0.01]
+** Dealing down cards **
+AAOksana folds
+** Summary **
+ZOrG01 did not show his hand
+ZOrG01 collected [ $0.01 ]
+
+
+#Game No : 503069571
+***** 888poker Hand History for Game 503069571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 01:09:12
+Table Ica 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: AAOksana ( $1.87 )
+Seat 4: ZOrG01 ( $1.91 )
+ZOrG01 posts small blind [$0.01]
+AAOksana posts big blind [$0.02]
+** Dealing down cards **
+ZOrG01 folds
+** Summary **
+AAOksana collected [ $0.03 ]
+
+
+#Game No : 503071811
+***** 888poker Hand History for Game 503071811 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 02:35:59
+Table Ica 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: dylanrkt ( $0.20 )
+Seat 4: RProchorovas ( $1.50 )
+RProchorovas posts small blind [$0.01]
+dylanrkt posts big blind [$0.02]
+** Dealing down cards **
+RProchorovas calls [$0.01]
+dylanrkt raises [$0.18]
+RProchorovas folds
+** Summary **
+dylanrkt collected [ $0.04 ]
+
+
+#Game No : 503075421
+***** 888poker Hand History for Game 503075421 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:10:33
+Table Ica 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Dagmaer ( $2.74 )
+Seat 9: ableson ( $1.31 )
+Dagmaer posts small blind [$0.01]
+ableson posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer raises [$0.04]
+ableson calls [$0.03]
+** Dealing flop ** [ 4h, Ah, Kh ]
+ableson checks
+Dagmaer checks
+** Dealing turn ** [ 9h ]
+ableson checks
+Dagmaer checks
+** Dealing river ** [ 8s ]
+ableson checks
+Dagmaer checks
+** Summary **
+ableson shows [ 2c, Qc ]
+Dagmaer shows [ 9c, Ts ]
+Dagmaer collected [ $0.10 ]
+
+
+#Game No : 503075438
+***** 888poker Hand History for Game 503075438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:10:56
+Table Ica 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Dagmaer ( $2.79 )
+Seat 9: ableson ( $1.26 )
+ableson posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+ableson raises [$0.03]
+Dagmaer calls [$0.02]
+** Dealing flop ** [ 3h, 4d, 6s ]
+Dagmaer checks
+ableson checks
+** Dealing turn ** [ 2d ]
+Dagmaer checks
+ableson checks
+** Dealing river ** [ 4c ]
+Dagmaer checks
+ableson checks
+** Summary **
+Dagmaer shows [ 8c, Kh ]
+ableson mucks [ Th, Jd ]
+Dagmaer collected [ $0.08 ]
+
+
+#Game No : 503075457
+***** 888poker Hand History for Game 503075457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:11:28
+Table Ica 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Dagmaer ( $2.83 )
+Seat 9: ableson ( $1.22 )
+Dagmaer posts small blind [$0.01]
+ableson posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer folds
+** Summary **
+ableson collected [ $0.03 ]
+
+
+#Game No : 503075460
+***** 888poker Hand History for Game 503075460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:11:33
+Table Ica 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Dagmaer ( $2.82 )
+Seat 9: ableson ( $1.23 )
+ableson posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+ableson raises [$0.05]
+Dagmaer folds
+** Summary **
+ableson collected [ $0.04 ]
+
+
+#Game No : 503075477
+***** 888poker Hand History for Game 503075477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:11:54
+Table Ica 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Dagmaer ( $2.80 )
+Seat 9: ableson ( $1.25 )
+Dagmaer posts small blind [$0.01]
+ableson posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer folds
+** Summary **
+ableson collected [ $0.03 ]
+
+
+#Game No : 503075484
+***** 888poker Hand History for Game 503075484 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:12:05
+Table Ica 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Dagmaer ( $2.79 )
+Seat 9: ableson ( $1.26 )
+ableson posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+ableson folds
+** Summary **
+Dagmaer collected [ $0.03 ]
+
+
+#Game No : 503078658
+***** 888poker Hand History for Game 503078658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 05:36:34
+Table Ica 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Tehhy ( $1.91 )
+Seat 6: Delem70 ( $1.29 )
+Delem70 posts small blind [$0.01]
+Tehhy posts big blind [$0.02]
+** Dealing down cards **
+Delem70 folds
+** Summary **
+Tehhy collected [ $0.03 ]
+
+
+#Game No : 503078661
+***** 888poker Hand History for Game 503078661 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 05:36:40
+Table Ica 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Tehhy ( $1.92 )
+Seat 6: Delem70 ( $1.28 )
+Tehhy posts small blind [$0.01]
+Delem70 posts big blind [$0.02]
+** Dealing down cards **
+Tehhy folds
+** Summary **
+Delem70 collected [ $0.03 ]
+
+
+#Game No : 503078671
+***** 888poker Hand History for Game 503078671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 05:36:50
+Table Ica 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Tehhy ( $1.91 )
+Seat 4: petr19600908 ( $1 )
+Tehhy posts small blind [$0.01]
+petr19600908 posts big blind [$0.02]
+** Dealing down cards **
+Tehhy raises [$0.05]
+petr19600908 calls [$0.04]
+** Dealing flop ** [ 8c, Kd, Qc ]
+petr19600908 checks
+Tehhy bets [$0.06]
+petr19600908 calls [$0.06]
+** Dealing turn ** [ 3h ]
+petr19600908 checks
+Tehhy bets [$0.12]
+petr19600908 calls [$0.12]
+** Dealing river ** [ 2h ]
+petr19600908 checks
+Tehhy checks
+** Summary **
+petr19600908 shows [ Qs, 7d ]
+Tehhy shows [ Td, Qd ]
+Tehhy collected [ $0.45 ]
+
+
+#Game No : 503078704
+***** 888poker Hand History for Game 503078704 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 05:37:33
+Table Ica 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Tehhy ( $2.12 )
+Seat 4: petr19600908 ( $0.76 )
+petr19600908 posts small blind [$0.01]
+Tehhy posts big blind [$0.02]
+** Dealing down cards **
+petr19600908 calls [$0.01]
+Tehhy checks
+** Dealing flop ** [ 2d, 3h, Tc ]
+Tehhy bets [$0.02]
+petr19600908 calls [$0.02]
+** Dealing turn ** [ 5d ]
+Tehhy checks
+petr19600908 checks
+** Dealing river ** [ 3s ]
+Tehhy bets [$0.02]
+petr19600908 calls [$0.02]
+** Summary **
+Tehhy shows [ 4d, 2s ]
+petr19600908 mucks [ 4c, 9h ]
+Tehhy collected [ $0.12 ]
+
+
+#Game No : 503083228
+***** 888poker Hand History for Game 503083228 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:34:17
+Table Ica 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $2.27 )
+Seat 4: MannyP9009 ( $1 )
+Angrydota posts small blind [$0.01]
+MannyP9009 posts big blind [$0.02]
+** Dealing down cards **
+Angrydota folds
+** Summary **
+MannyP9009 collected [ $0.03 ]
+
+
+#Game No : 503083235
+***** 888poker Hand History for Game 503083235 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:34:23
+Table Ica 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $2.26 )
+Seat 4: MannyP9009 ( $1.01 )
+MannyP9009 posts small blind [$0.01]
+Angrydota posts big blind [$0.02]
+** Dealing down cards **
+MannyP9009 calls [$0.01]
+Angrydota raises [$0.02]
+MannyP9009 calls [$0.02]
+** Dealing flop ** [ Th, Td, 3h ]
+Angrydota checks
+MannyP9009 checks
+** Dealing turn ** [ Jd ]
+Angrydota bets [$0.05]
+MannyP9009 calls [$0.05]
+** Dealing river ** [ Ad ]
+Angrydota checks
+MannyP9009 bets [$0.02]
+Angrydota calls [$0.02]
+** Summary **
+MannyP9009 shows [ Qd, Jc ]
+Angrydota shows [ 8c, Js ]
+Angrydota collected [ $0.11 ]
+MannyP9009 collected [ $0.10 ]
+
+
+#Game No : 503083265
+***** 888poker Hand History for Game 503083265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:35:11
+Table Ica 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $2.26 )
+Seat 4: MannyP9009 ( $1 )
+Angrydota posts small blind [$0.01]
+MannyP9009 posts big blind [$0.02]
+** Dealing down cards **
+Angrydota folds
+** Summary **
+MannyP9009 collected [ $0.03 ]
+
+
+#Game No : 503083276
+***** 888poker Hand History for Game 503083276 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:35:30
+Table Ica 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $2.24 )
+Seat 4: MannyP9009 ( $1.02 )
+Angrydota posts small blind [$0.01]
+MannyP9009 posts big blind [$0.02]
+** Dealing down cards **
+Angrydota raises [$0.05]
+MannyP9009 calls [$0.04]
+** Dealing flop ** [ 2d, 4h, Ks ]
+MannyP9009 checks
+Angrydota checks
+** Dealing turn ** [ 3c ]
+MannyP9009 checks
+Angrydota checks
+** Dealing river ** [ 9s ]
+MannyP9009 checks
+Angrydota checks
+** Summary **
+MannyP9009 shows [ Tc, 7c ]
+Angrydota shows [ 7d, Qd ]
+Angrydota collected [ $0.12 ]
+
+
+#Game No : 503083861
+***** 888poker Hand History for Game 503083861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:50:59
+Table Ica 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $0.94 )
+Seat 4: MannyP9009 ( $0.51 )
+Angrydota posts small blind [$0.01]
+MannyP9009 posts big blind [$0.02]
+** Dealing down cards **
+Angrydota raises [$0.05]
+MannyP9009 calls [$0.04]
+** Dealing flop ** [ Qs, Ac, Jd ]
+MannyP9009 checks
+Angrydota bets [$0.08]
+MannyP9009 folds
+** Summary **
+Angrydota collected [ $0.12 ]
+
+
+#Game No : 503083877
+***** 888poker Hand History for Game 503083877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:51:18
+Table Ica 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Angrydota ( $1 )
+Seat 4: MannyP9009 ( $0.45 )
+MannyP9009 posts small blind [$0.01]
+Angrydota posts big blind [$0.02]
+** Dealing down cards **
+MannyP9009 calls [$0.01]
+Angrydota checks
+** Dealing flop ** [ Tc, 5h, 7h ]
+Angrydota checks
+MannyP9009 checks
+** Dealing turn ** [ 8c ]
+Angrydota checks
+MannyP9009 checks
+** Dealing river ** [ 6s ]
+Angrydota checks
+MannyP9009 bets [$0.02]
+Angrydota calls [$0.02]
+** Summary **
+MannyP9009 shows [ Ts, Js ]
+Angrydota mucks [ 3s, 5s ]
+MannyP9009 collected [ $0.08 ]
+
+
+#Game No : 503084378
+***** 888poker Hand History for Game 503084378 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 08:03:12
+Table Ica 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: OK_3_AAA ( $0.74 )
+Seat 9: Asteroide22 ( $1.38 )
+Asteroide22 posts small blind [$0.01]
+OK_3_AAA posts big blind [$0.02]
+** Dealing down cards **
+Asteroide22 folds
+** Summary **
+OK_3_AAA did not show his hand
+OK_3_AAA collected [ $0.03 ]
+
+
+#Game No : 503084390
+***** 888poker Hand History for Game 503084390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 08:03:29
+Table Ica 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: OK_3_AAA ( $0.75 )
+Seat 9: Asteroide22 ( $1.37 )
+OK_3_AAA posts small blind [$0.01]
+** Dealing down cards **
+Asteroide22 folds
+** Summary **
+OK_3_AAA collected [ $0.01 ]
+
+
+#Game No : 503084392
+***** 888poker Hand History for Game 503084392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 08:03:32
+Table Ica 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: OK_3_AAA ( $0.75 )
+Seat 7: wajdibelfeki ( $1 )
+OK_3_AAA posts small blind [$0.01]
+wajdibelfeki posts big blind [$0.02]
+** Dealing down cards **
+OK_3_AAA calls [$0.01]
+wajdibelfeki checks
+** Dealing flop ** [ 3c, Tc, 9s ]
+wajdibelfeki checks
+OK_3_AAA checks
+** Dealing turn ** [ 4h ]
+wajdibelfeki checks
+OK_3_AAA checks
+** Dealing river ** [ 9h ]
+wajdibelfeki bets [$0.16]
+OK_3_AAA folds
+** Summary **
+wajdibelfeki did not show his hand
+wajdibelfeki collected [ $0.04 ]
+
+
+#Game No : 503084417
+***** 888poker Hand History for Game 503084417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 08:04:11
+Table Ica 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: OK_3_AAA ( $0.73 )
+Seat 7: wajdibelfeki ( $1.02 )
+wajdibelfeki posts small blind [$0.01]
+OK_3_AAA posts big blind [$0.02]
+** Dealing down cards **
+wajdibelfeki calls [$0.01]
+OK_3_AAA raises [$0.06]
+wajdibelfeki calls [$0.06]
+** Dealing flop ** [ 2h, 4s, 5c ]
+OK_3_AAA bets [$0.16]
+wajdibelfeki raises [$0.32]
+OK_3_AAA calls [$0.16]
+** Dealing turn ** [ 6s ]
+OK_3_AAA checks
+wajdibelfeki bets [$0.53]
+OK_3_AAA calls [$0.33]
+** Dealing river ** [ Tc ]
+** Summary **
+OK_3_AAA shows [ Qh, Qc ]
+wajdibelfeki shows [ 5d, Td ]
+wajdibelfeki collected [ $1.37 ]
+
+
+#Game No : 503089636
+***** 888poker Hand History for Game 503089636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:02:44
+Table Ica 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 444Gali15 ( $1.24 )
+Seat 7: Et_Arrows ( $1.38 )
+444Gali15 posts small blind [$0.01]
+Et_Arrows posts big blind [$0.02]
+** Dealing down cards **
+444Gali15 calls [$0.01]
+Et_Arrows checks
+** Dealing flop ** [ Kc, Kh, Td ]
+Et_Arrows bets [$0.04]
+444Gali15 folds
+** Summary **
+Et_Arrows did not show his hand
+Et_Arrows collected [ $0.04 ]
+
+
+#Game No : 503089648
+***** 888poker Hand History for Game 503089648 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:02:58
+Table Ica 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: 444Gali15 ( $1.22 )
+Seat 7: Et_Arrows ( $1.40 )
+Et_Arrows posts small blind [$0.01]
+444Gali15 posts big blind [$0.02]
+** Dealing down cards **
+Et_Arrows calls [$0.01]
+444Gali15 checks
+** Dealing flop ** [ 2c, Kh, 4s ]
+444Gali15 checks
+Et_Arrows checks
+** Dealing turn ** [ 6h ]
+444Gali15 bets [$0.02]
+Et_Arrows calls [$0.02]
+** Dealing river ** [ Kd ]
+444Gali15 bets [$0.02]
+Et_Arrows folds
+** Summary **
+444Gali15 did not show his hand
+444Gali15 collected [ $0.08 ]
+
+
+#Game No : 503089673
+***** 888poker Hand History for Game 503089673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:03:32
+Table Ica 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 444Gali15 ( $1.26 )
+Seat 7: Et_Arrows ( $1.36 )
+444Gali15 posts small blind [$0.01]
+** Dealing down cards **
+Et_Arrows folds
+** Summary **
+444Gali15 did not show his hand
+444Gali15 collected [ $0.01 ]
+
+

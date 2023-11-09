@@ -1,0 +1,108 @@
+#Game No : 1247377199
+***** 888poker Hand History for Game 1247377199 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2019 10:53:49
+Table Wakayama 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DimachoDi ( $0.73 )
+Seat 2: i_am_you_ ( $1.01 )
+i_am_you_ posts small blind [$0.01]
+DimachoDi posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+DimachoDi calls [$0.04]
+** Dealing flop ** [ 2h, Td, Qd ]
+DimachoDi bets [$0.02]
+i_am_you_ raises [$0.12]
+DimachoDi calls [$0.10]
+** Dealing turn ** [ 9h ]
+DimachoDi bets [$0.12]
+i_am_you_ calls [$0.12]
+** Dealing river ** [ 3s ]
+DimachoDi bets [$0.18]
+i_am_you_ calls [$0.18]
+** Summary **
+DimachoDi shows [ Js, Kc ]
+i_am_you_ mucks [ Qs, 8h ]
+DimachoDi collected [ $0.90 ]
+
+
+#Game No : 1247377477
+***** 888poker Hand History for Game 1247377477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2019 10:54:45
+Table Wakayama 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DimachoDi ( $1.15 )
+Seat 2: i_am_you_ ( $1 )
+DimachoDi posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+DimachoDi raises [$0.03]
+i_am_you_ calls [$0.02]
+** Dealing flop ** [ 4h, 7d, 7h ]
+i_am_you_ checks
+DimachoDi bets [$0.04]
+i_am_you_ folds
+** Summary **
+DimachoDi collected [ $0.08 ]
+
+
+#Game No : 1247377569
+***** 888poker Hand History for Game 1247377569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2019 10:55:02
+Table Wakayama 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DimachoDi ( $1.19 )
+Seat 2: i_am_you_ ( $1 )
+i_am_you_ posts small blind [$0.01]
+DimachoDi posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+DimachoDi folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 1247377603
+***** 888poker Hand History for Game 1247377603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2019 10:55:09
+Table Wakayama 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DimachoDi ( $1.17 )
+Seat 2: i_am_you_ ( $1.02 )
+DimachoDi posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+DimachoDi calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 4c, 3h, 5s ]
+i_am_you_ checks
+DimachoDi bets [$0.04]
+i_am_you_ raises [$0.12]
+DimachoDi calls [$0.08]
+** Dealing turn ** [ Jd ]
+i_am_you_ bets [$0.17]
+DimachoDi folds
+** Summary **
+i_am_you_ collected [ $0.27 ]
+
+
+#Game No : 1247377761
+***** 888poker Hand History for Game 1247377761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2019 10:55:37
+Table Wakayama 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DimachoDi ( $1.03 )
+Seat 2: i_am_you_ ( $1.15 )
+i_am_you_ posts small blind [$0.01]
+DimachoDi posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+DimachoDi collected [ $0.03 ]
+
+

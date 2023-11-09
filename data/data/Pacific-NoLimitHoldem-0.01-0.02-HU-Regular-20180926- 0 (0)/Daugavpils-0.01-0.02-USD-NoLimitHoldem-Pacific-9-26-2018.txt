@@ -1,0 +1,97 @@
+#Game No : 502930048
+***** 888poker Hand History for Game 502930048 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:06:45
+Table Daugavpils 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SlavikMark79 ( $1.28 )
+Seat 7: doyledane ( $1.03 )
+SlavikMark79 posts small blind [$0.01]
+doyledane posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 folds
+** Summary **
+doyledane collected [ $0.03 ]
+
+
+#Game No : 502931687
+***** 888poker Hand History for Game 502931687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:59:34
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1 )
+Seat 6: no1612 ( $1 )
+no1612 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+no1612 calls [$0.01]
+richbranson raises [$0.04]
+no1612 calls [$0.04]
+** Dealing flop ** [ 2d, 4h, 5s ]
+richbranson checks
+no1612 checks
+** Dealing turn ** [ Qs ]
+richbranson checks
+no1612 checks
+** Dealing river ** [ 6d ]
+richbranson checks
+no1612 folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.12 ]
+
+
+#Game No : 502931711
+***** 888poker Hand History for Game 502931711 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 03:00:30
+Table Daugavpils 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.06 )
+Seat 6: no1612 ( $0.94 )
+richbranson posts small blind [$0.01]
+no1612 posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+no1612 calls [$0.04]
+** Dealing flop ** [ Ks, 6h, 5d ]
+no1612 bets [$0.02]
+richbranson calls [$0.02]
+** Dealing turn ** [ Jc ]
+no1612 checks
+richbranson bets [$0.16]
+no1612 calls [$0.16]
+** Dealing river ** [ 6c ]
+no1612 bets [$0.02]
+richbranson raises [$0.60]
+no1612 calls [$0.58]
+** Summary **
+richbranson shows [ 6d, 4d ]
+no1612 mucks [ Kd, 8s ]
+richbranson collected [ $1.58 ]
+
+
+#Game No : 502931729
+***** 888poker Hand History for Game 502931729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 03:01:11
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.80 )
+Seat 6: no1612 ( $0.10 )
+no1612 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+no1612 raises [$0.03]
+richbranson calls [$0.02]
+** Dealing flop ** [ Qd, 3h, 7s ]
+richbranson checks
+no1612 checks
+** Dealing turn ** [ 3s ]
+richbranson bets [$0.08]
+no1612 folds
+** Summary **
+richbranson collected [ $0.08 ]
+
+

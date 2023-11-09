@@ -1,0 +1,118 @@
+#Game No : 542309029
+***** 888poker Hand History for Game 542309029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 02:28:00
+Table Colombo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: LesyaGL ( $2 )
+Seat 9: teleshred ( $1.70 )
+LesyaGL posts small blind [$0.01]
+teleshred posts big blind [$0.02]
+** Dealing down cards **
+LesyaGL folds
+** Summary **
+teleshred collected [ $0.03 ]
+
+
+#Game No : 542309031
+***** 888poker Hand History for Game 542309031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 02:28:05
+Table Colombo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: LesyaGL ( $2 )
+Seat 9: teleshred ( $1.71 )
+teleshred posts small blind [$0.01]
+LesyaGL posts big blind [$0.02]
+** Dealing down cards **
+teleshred calls [$0.01]
+LesyaGL checks
+** Dealing flop ** [ 5c, 9h, 8h ]
+LesyaGL checks
+teleshred checks
+** Dealing turn ** [ 9s ]
+LesyaGL checks
+teleshred checks
+** Dealing river ** [ 6c ]
+LesyaGL checks
+teleshred bets [$0.02]
+LesyaGL folds
+** Summary **
+teleshred collected [ $0.04 ]
+
+
+#Game No : 542313653
+***** 888poker Hand History for Game 542313653 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 04:49:15
+Table Colombo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: ulPokerist ( $1 )
+Seat 6: A13245 ( $2.21 )
+A13245 posts small blind [$0.01]
+ulPokerist posts big blind [$0.02]
+** Dealing down cards **
+A13245 raises [$0.05]
+ulPokerist calls [$0.04]
+** Dealing flop ** [ Ac, 6s, Kh ]
+ulPokerist checks
+A13245 bets [$0.06]
+ulPokerist calls [$0.06]
+** Dealing turn ** [ Qd ]
+ulPokerist checks
+A13245 bets [$0.12]
+ulPokerist folds
+** Summary **
+A13245 collected [ $0.23 ]
+
+
+#Game No : 542313675
+***** 888poker Hand History for Game 542313675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 04:49:50
+Table Colombo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ulPokerist ( $0.88 )
+Seat 6: A13245 ( $2.32 )
+ulPokerist posts small blind [$0.01]
+A13245 posts big blind [$0.02]
+** Dealing down cards **
+ulPokerist raises [$0.05]
+A13245 calls [$0.04]
+** Dealing flop ** [ Ah, 8c, 7s ]
+A13245 bets [$0.06]
+ulPokerist raises [$0.18]
+A13245 calls [$0.12]
+** Dealing turn ** [ Jc ]
+A13245 bets [$0.24]
+ulPokerist raises [$0.64]
+A13245 folds
+** Summary **
+ulPokerist did not show his hand
+ulPokerist collected [ $0.90 ]
+
+
+#Game No : 542313703
+***** 888poker Hand History for Game 542313703 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 04:50:41
+Table Colombo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: ulPokerist ( $1.30 )
+Seat 6: A13245 ( $1.84 )
+A13245 posts small blind [$0.01]
+ulPokerist posts big blind [$0.02]
+** Dealing down cards **
+A13245 raises [$0.05]
+ulPokerist calls [$0.04]
+** Dealing flop ** [ Js, 2d, 4d ]
+ulPokerist checks
+A13245 bets [$0.08]
+ulPokerist calls [$0.08]
+** Dealing turn ** [ 3c ]
+ulPokerist bets [$0.18]
+A13245 folds
+** Summary **
+ulPokerist collected [ $0.27 ]
+
+

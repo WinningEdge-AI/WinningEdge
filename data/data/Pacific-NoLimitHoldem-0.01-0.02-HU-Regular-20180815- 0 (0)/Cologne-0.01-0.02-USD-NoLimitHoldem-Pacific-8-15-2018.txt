@@ -1,0 +1,59 @@
+#Game No : 508694319
+***** 888poker Hand History for Game 508694319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 10:27:06
+Table Cologne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dulcebombon ( $2.04 )
+Seat 2: justdave02 ( $1.96 )
+dulcebombon posts small blind [$0.01]
+justdave02 posts big blind [$0.02]
+** Dealing down cards **
+dulcebombon calls [$0.01]
+justdave02 checks
+** Dealing flop ** [ Jh, Qh, 6d ]
+justdave02 checks
+dulcebombon bets [$0.02]
+justdave02 calls [$0.02]
+** Dealing turn ** [ 2d ]
+justdave02 checks
+dulcebombon bets [$0.02]
+justdave02 calls [$0.02]
+** Dealing river ** [ Td ]
+justdave02 checks
+dulcebombon bets [$0.02]
+justdave02 calls [$0.02]
+** Summary **
+dulcebombon shows [ Qd, Js ]
+justdave02 mucks [ Ts, 6h ]
+dulcebombon collected [ $0.15 ]
+
+
+#Game No : 508694358
+***** 888poker Hand History for Game 508694358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 10:27:32
+Table Cologne 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: dulcebombon ( $2.11 )
+Seat 2: justdave02 ( $1.88 )
+justdave02 posts small blind [$0.01]
+dulcebombon posts big blind [$0.02]
+** Dealing down cards **
+justdave02 calls [$0.01]
+dulcebombon checks
+** Dealing flop ** [ Js, Jh, 6d ]
+dulcebombon checks
+justdave02 checks
+** Dealing turn ** [ Qc ]
+dulcebombon checks
+justdave02 checks
+** Dealing river ** [ Th ]
+dulcebombon checks
+justdave02 checks
+** Summary **
+dulcebombon shows [ 3s, Ks ]
+justdave02 shows [ Ts, Ah ]
+justdave02 collected [ $0.04 ]
+
+

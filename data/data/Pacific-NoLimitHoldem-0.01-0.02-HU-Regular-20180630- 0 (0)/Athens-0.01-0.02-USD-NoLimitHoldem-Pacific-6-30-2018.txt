@@ -1,0 +1,965 @@
+#Game No : 1188858159
+***** 888poker Hand History for Game 1188858159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 16:59:47
+Table Athens 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: njdevils21 ( $0.76 )
+Seat 10: TeamBrett ( $2.04 )
+njdevils21 posts small blind [$0.01]
+TeamBrett posts big blind [$0.02]
+** Dealing down cards **
+njdevils21 calls [$0.01]
+TeamBrett checks
+** Dealing flop ** [ 4d, 3c, 6s ]
+TeamBrett bets [$0.02]
+njdevils21 calls [$0.02]
+** Dealing turn ** [ 2d ]
+TeamBrett bets [$0.04]
+njdevils21 calls [$0.04]
+** Dealing river ** [ 8s ]
+TeamBrett bets [$0.10]
+njdevils21 calls [$0.10]
+** Summary **
+TeamBrett shows [ 4c, 5h ]
+njdevils21 mucks [ 7c, 4s ]
+TeamBrett collected [ $0.34 ]
+
+
+#Game No : 1188858360
+***** 888poker Hand History for Game 1188858360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 17:00:43
+Table Athens 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Michelakiki1 ( $2 )
+Seat 5: njdevils21 ( $0.58 )
+njdevils21 posts small blind [$0.01]
+Michelakiki1 posts big blind [$0.02]
+** Dealing down cards **
+njdevils21 calls [$0.01]
+Michelakiki1 raises [$0.50]
+njdevils21 folds
+** Summary **
+Michelakiki1 did not show his hand
+Michelakiki1 collected [ $0.04 ]
+
+
+#Game No : 1188858421
+***** 888poker Hand History for Game 1188858421 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 17:00:57
+Table Athens 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Michelakiki1 ( $2.02 )
+Seat 5: njdevils21 ( $0.56 )
+Michelakiki1 posts small blind [$0.01]
+njdevils21 posts big blind [$0.02]
+** Dealing down cards **
+Michelakiki1 calls [$0.01]
+njdevils21 checks
+** Dealing flop ** [ 8s, Jd, 2c ]
+njdevils21 checks
+Michelakiki1 bets [$0.34]
+njdevils21 folds
+** Summary **
+Michelakiki1 did not show his hand
+Michelakiki1 collected [ $0.04 ]
+
+
+#Game No : 1188861970
+***** 888poker Hand History for Game 1188861970 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 17:17:53
+Table Athens 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: MProkopev ( $0.80 )
+Seat 9: dabl75 ( $2 )
+dabl75 posts small blind [$0.01]
+MProkopev posts big blind [$0.02]
+** Dealing down cards **
+dabl75 raises [$0.05]
+MProkopev calls [$0.04]
+** Dealing flop ** [ 3d, Qd, 4s ]
+MProkopev checks
+dabl75 bets [$0.06]
+MProkopev raises [$0.12]
+dabl75 raises [$0.28]
+MProkopev raises [$0.62]
+dabl75 calls [$0.40]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 2c ]
+** Summary **
+MProkopev shows [ Qc, 4h ]
+dabl75 shows [ 6h, 9h ]
+MProkopev collected [ $1.50 ]
+
+
+#Game No : 1188862288
+***** 888poker Hand History for Game 1188862288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 17:19:29
+Table Athens 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: MProkopev ( $1.48 )
+Seat 9: dabl75 ( $1.24 )
+dabl75 posts small blind [$0.01]
+MProkopev posts big blind [$0.02]
+** Dealing down cards **
+dabl75 raises [$0.03]
+MProkopev raises [$0.07]
+dabl75 calls [$0.05]
+** Dealing flop ** [ 4h, 8d, 3d ]
+MProkopev checks
+dabl75 bets [$0.14]
+MProkopev folds
+** Summary **
+dabl75 collected [ $0.17 ]
+
+
+#Game No : 1188888104
+***** 888poker Hand History for Game 1188888104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:00:09
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2 )
+Seat 6: tragota ( $2.78 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188888127
+***** 888poker Hand History for Game 1188888127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:00:25
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.98 )
+Seat 6: tragota ( $2.80 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 calls [$0.01]
+tragota raises [$0.03]
+Hendrixx14 calls [$0.03]
+** Dealing flop ** [ Ts, 6h, 7h ]
+tragota bets [$0.07]
+Hendrixx14 calls [$0.07]
+** Dealing turn ** [ As ]
+tragota bets [$0.17]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.23 ]
+
+
+#Game No : 1188888203
+***** 888poker Hand History for Game 1188888203 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:01:07
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.86 )
+Seat 6: tragota ( $2.91 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+Hendrixx14 calls [$0.04]
+** Dealing flop ** [ Th, 3c, 8s ]
+Hendrixx14 checks
+tragota bets [$0.08]
+Hendrixx14 calls [$0.08]
+** Dealing turn ** [ Td ]
+Hendrixx14 checks
+tragota checks
+** Dealing river ** [ 8h ]
+Hendrixx14 checks
+tragota checks
+** Summary **
+Hendrixx14 shows [ Jd, Qh ]
+tragota mucks [ 6c, 5c ]
+Hendrixx14 collected [ $0.27 ]
+
+
+#Game No : 1188888283
+***** 888poker Hand History for Game 1188888283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:01:59
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.99 )
+Seat 6: tragota ( $2.77 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 calls [$0.01]
+tragota checks
+** Dealing flop ** [ Jd, 3d, Qc ]
+tragota checks
+Hendrixx14 checks
+** Dealing turn ** [ 3s ]
+tragota bets [$0.03]
+Hendrixx14 calls [$0.03]
+** Dealing river ** [ 4h ]
+tragota checks
+Hendrixx14 checks
+** Summary **
+tragota shows [ Td, 6c ]
+Hendrixx14 shows [ Ad, 9h ]
+Hendrixx14 collected [ $0.10 ]
+
+
+#Game No : 1188888363
+***** 888poker Hand History for Game 1188888363 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:02:48
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2.04 )
+Seat 6: tragota ( $2.72 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+Hendrixx14 collected [ $0.03 ]
+
+
+#Game No : 1188888384
+***** 888poker Hand History for Game 1188888384 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:03:00
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2.05 )
+Seat 6: tragota ( $2.71 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 calls [$0.01]
+tragota checks
+** Dealing flop ** [ 6h, 5c, 6d ]
+tragota bets [$0.03]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188888427
+***** 888poker Hand History for Game 1188888427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:03:28
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2.03 )
+Seat 6: tragota ( $2.73 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+Hendrixx14 collected [ $0.03 ]
+
+
+#Game No : 1188888445
+***** 888poker Hand History for Game 1188888445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:03:40
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2.04 )
+Seat 6: tragota ( $2.72 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.03 ]
+
+
+#Game No : 1188888457
+***** 888poker Hand History for Game 1188888457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:03:45
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2.03 )
+Seat 6: tragota ( $2.73 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188888484
+***** 888poker Hand History for Game 1188888484 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:04:02
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2.01 )
+Seat 6: tragota ( $2.75 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.03 ]
+
+
+#Game No : 1188888493
+***** 888poker Hand History for Game 1188888493 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:04:07
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2 )
+Seat 6: tragota ( $2.76 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+Hendrixx14 collected [ $0.03 ]
+
+
+#Game No : 1188888516
+***** 888poker Hand History for Game 1188888516 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:04:19
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2.01 )
+Seat 6: tragota ( $2.75 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 calls [$0.01]
+tragota checks
+** Dealing flop ** [ 9c, Qs, 8c ]
+tragota checks
+Hendrixx14 bets [$0.08]
+tragota folds
+** Summary **
+Hendrixx14 collected [ $0.04 ]
+
+
+#Game No : 1188888573
+***** 888poker Hand History for Game 1188888573 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:04:53
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $2.03 )
+Seat 6: tragota ( $2.73 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+Hendrixx14 calls [$0.04]
+** Dealing flop ** [ 3h, As, 8h ]
+Hendrixx14 checks
+tragota bets [$0.08]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.12 ]
+
+
+#Game No : 1188888622
+***** 888poker Hand History for Game 1188888622 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:05:23
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.97 )
+Seat 6: tragota ( $2.79 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 calls [$0.01]
+tragota raises [$0.06]
+Hendrixx14 calls [$0.06]
+** Dealing flop ** [ 9h, Ac, 2s ]
+tragota bets [$0.10]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.15 ]
+
+
+#Game No : 1188888684
+***** 888poker Hand History for Game 1188888684 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:05:56
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.89 )
+Seat 6: tragota ( $2.86 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+Hendrixx14 calls [$0.04]
+** Dealing flop ** [ Jh, 9c, 7c ]
+Hendrixx14 checks
+tragota bets [$0.09]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.12 ]
+
+
+#Game No : 1188888741
+***** 888poker Hand History for Game 1188888741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:06:26
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.83 )
+Seat 6: tragota ( $2.92 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 calls [$0.01]
+tragota checks
+** Dealing flop ** [ Ks, 8h, Qh ]
+tragota checks
+Hendrixx14 checks
+** Dealing turn ** [ 6d ]
+tragota bets [$0.03]
+Hendrixx14 calls [$0.03]
+** Dealing river ** [ Kh ]
+tragota bets [$0.08]
+Hendrixx14 calls [$0.08]
+** Summary **
+tragota shows [ 3h, 9h ]
+Hendrixx14 mucks [ Jc, Js ]
+tragota collected [ $0.25 ]
+
+
+#Game No : 1188888821
+***** 888poker Hand History for Game 1188888821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:07:15
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.70 )
+Seat 6: tragota ( $3.04 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+Hendrixx14 collected [ $0.03 ]
+
+
+#Game No : 1188888835
+***** 888poker Hand History for Game 1188888835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:07:26
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.71 )
+Seat 6: tragota ( $3.03 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 raises [$0.07]
+tragota folds
+** Summary **
+Hendrixx14 collected [ $0.04 ]
+
+
+#Game No : 1188888854
+***** 888poker Hand History for Game 1188888854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:07:40
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.73 )
+Seat 6: tragota ( $3.01 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188888887
+***** 888poker Hand History for Game 1188888887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:07:56
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.71 )
+Seat 6: tragota ( $3.03 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 calls [$0.01]
+tragota raises [$0.06]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188888909
+***** 888poker Hand History for Game 1188888909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:08:12
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.69 )
+Seat 6: tragota ( $3.05 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188888931
+***** 888poker Hand History for Game 1188888931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:08:25
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.67 )
+Seat 6: tragota ( $3.07 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.03 ]
+
+
+#Game No : 1188888939
+***** 888poker Hand History for Game 1188888939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:08:32
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.66 )
+Seat 6: tragota ( $3.08 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+Hendrixx14 collected [ $0.03 ]
+
+
+#Game No : 1188888961
+***** 888poker Hand History for Game 1188888961 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:08:44
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.67 )
+Seat 6: tragota ( $3.07 )
+Hendrixx14 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+Hendrixx14 calls [$0.01]
+tragota checks
+** Dealing flop ** [ Qh, 2d, Ad ]
+tragota checks
+Hendrixx14 bets [$0.08]
+tragota folds
+** Summary **
+Hendrixx14 collected [ $0.04 ]
+
+
+#Game No : 1188889011
+***** 888poker Hand History for Game 1188889011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:09:21
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Hendrixx14 ( $1.69 )
+Seat 6: tragota ( $3.05 )
+tragota posts small blind [$0.01]
+Hendrixx14 posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+Hendrixx14 folds
+** Summary **
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188889678
+***** 888poker Hand History for Game 1188889678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:15:56
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.80 )
+Seat 6: tragota ( $3.07 )
+amtykaer posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+amtykaer raises [$0.03]
+tragota calls [$0.02]
+** Dealing flop ** [ Jh, 4s, 5c ]
+tragota checks
+amtykaer checks
+** Dealing turn ** [ 5h ]
+tragota bets [$0.06]
+amtykaer folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.08 ]
+
+
+#Game No : 1188889761
+***** 888poker Hand History for Game 1188889761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:16:38
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.76 )
+Seat 6: tragota ( $3.11 )
+tragota posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+amtykaer did not show his hand
+amtykaer collected [ $0.03 ]
+
+
+#Game No : 1188889777
+***** 888poker Hand History for Game 1188889777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:16:48
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.77 )
+Seat 6: tragota ( $3.10 )
+amtykaer posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+amtykaer folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.03 ]
+
+
+#Game No : 1188889790
+***** 888poker Hand History for Game 1188889790 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:16:55
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.76 )
+Seat 6: tragota ( $3.11 )
+tragota posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+amtykaer folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188889810
+***** 888poker Hand History for Game 1188889810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:17:07
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.74 )
+Seat 6: tragota ( $3.13 )
+amtykaer posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+amtykaer raises [$0.03]
+tragota calls [$0.02]
+** Dealing flop ** [ 5h, Th, Qd ]
+tragota checks
+amtykaer checks
+** Dealing turn ** [ 8c ]
+tragota bets [$0.06]
+amtykaer calls [$0.06]
+** Dealing river ** [ Ad ]
+tragota checks
+amtykaer checks
+** Summary **
+tragota shows [ Jh, 7d ]
+amtykaer mucks [ 6c, 7s ]
+tragota collected [ $0.19 ]
+
+
+#Game No : 1188889913
+***** 888poker Hand History for Game 1188889913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:18:00
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.64 )
+Seat 6: tragota ( $3.22 )
+tragota posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+amtykaer folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188889957
+***** 888poker Hand History for Game 1188889957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:18:21
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.62 )
+Seat 6: tragota ( $3.24 )
+amtykaer posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+amtykaer folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.03 ]
+
+
+#Game No : 1188889969
+***** 888poker Hand History for Game 1188889969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:18:26
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.61 )
+Seat 6: tragota ( $3.25 )
+tragota posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+amtykaer calls [$0.04]
+** Dealing flop ** [ 7h, 5d, 2d ]
+amtykaer bets [$0.06]
+tragota raises [$0.18]
+amtykaer raises [$0.24]
+tragota folds
+** Summary **
+amtykaer did not show his hand
+amtykaer collected [ $0.45 ]
+
+
+#Game No : 1188890034
+***** 888poker Hand History for Game 1188890034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:19:10
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.82 )
+Seat 6: tragota ( $3.01 )
+amtykaer posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+amtykaer raises [$0.03]
+tragota calls [$0.02]
+** Dealing flop ** [ 6c, 2c, Tc ]
+tragota checks
+amtykaer bets [$0.02]
+tragota calls [$0.02]
+** Dealing turn ** [ Jc ]
+tragota checks
+amtykaer bets [$0.02]
+tragota raises [$0.12]
+amtykaer calls [$0.10]
+** Dealing river ** [ 8s ]
+tragota checks
+amtykaer checks
+** Summary **
+tragota shows [ Kc, Th ]
+amtykaer mucks [ 7h, 8c ]
+tragota collected [ $0.34 ]
+
+
+#Game No : 1188890164
+***** 888poker Hand History for Game 1188890164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:20:23
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.64 )
+Seat 6: tragota ( $3.17 )
+tragota posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+amtykaer did not show his hand
+amtykaer collected [ $0.03 ]
+
+
+#Game No : 1188890187
+***** 888poker Hand History for Game 1188890187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:20:34
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.65 )
+Seat 6: tragota ( $3.16 )
+amtykaer posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+amtykaer raises [$0.03]
+tragota folds
+** Summary **
+amtykaer did not show his hand
+amtykaer collected [ $0.04 ]
+
+
+#Game No : 1188890215
+***** 888poker Hand History for Game 1188890215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:20:48
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.67 )
+Seat 6: tragota ( $3.14 )
+tragota posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+amtykaer did not show his hand
+amtykaer collected [ $0.03 ]
+
+
+#Game No : 1188890236
+***** 888poker Hand History for Game 1188890236 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:21:00
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.68 )
+Seat 6: tragota ( $3.13 )
+amtykaer posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+amtykaer calls [$0.01]
+tragota checks
+** Dealing flop ** [ 3s, Qh, Ah ]
+tragota checks
+amtykaer bets [$0.04]
+tragota folds
+** Summary **
+amtykaer did not show his hand
+amtykaer collected [ $0.04 ]
+
+
+#Game No : 1188890288
+***** 888poker Hand History for Game 1188890288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:21:30
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.70 )
+Seat 6: tragota ( $3.11 )
+tragota posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+amtykaer did not show his hand
+amtykaer collected [ $0.03 ]
+
+
+#Game No : 1188890305
+***** 888poker Hand History for Game 1188890305 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:21:41
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.71 )
+Seat 6: tragota ( $3.10 )
+amtykaer posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+amtykaer folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.03 ]
+
+
+#Game No : 1188890319
+***** 888poker Hand History for Game 1188890319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:21:48
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.70 )
+Seat 6: tragota ( $3.11 )
+tragota posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+amtykaer calls [$0.04]
+** Dealing flop ** [ 8h, Td, 2s ]
+amtykaer checks
+tragota bets [$0.09]
+amtykaer folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.12 ]
+
+
+#Game No : 1188890374
+***** 888poker Hand History for Game 1188890374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:22:17
+Table Athens 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.64 )
+Seat 6: tragota ( $3.17 )
+amtykaer posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+amtykaer calls [$0.01]
+tragota checks
+** Dealing flop ** [ 4h, Qh, 3s ]
+tragota checks
+amtykaer checks
+** Dealing turn ** [ Jd ]
+tragota bets [$0.03]
+amtykaer folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.04 ]
+
+
+#Game No : 1188890427
+***** 888poker Hand History for Game 1188890427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 21:22:49
+Table Athens 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: amtykaer ( $0.62 )
+Seat 6: tragota ( $3.19 )
+tragota posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+amtykaer did not show his hand
+amtykaer collected [ $0.03 ]
+
+

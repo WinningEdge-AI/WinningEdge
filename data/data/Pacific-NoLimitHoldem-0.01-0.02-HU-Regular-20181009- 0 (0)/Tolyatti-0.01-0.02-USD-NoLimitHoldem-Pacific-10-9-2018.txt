@@ -1,0 +1,310 @@
+#Game No : 503544148
+***** 888poker Hand History for Game 503544148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:48:06
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: zay76 ( $0.73 )
+Seat 6: dutchalex ( $0.81 )
+zay76 posts small blind [$0.01]
+dutchalex posts big blind [$0.02]
+** Dealing down cards **
+zay76 folds
+** Summary **
+dutchalex collected [ $0.03 ]
+
+
+#Game No : 503544152
+***** 888poker Hand History for Game 503544152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:48:12
+Table Tolyatti 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: zay76 ( $0.72 )
+Seat 6: dutchalex ( $0.82 )
+dutchalex posts small blind [$0.01]
+zay76 posts big blind [$0.02]
+** Dealing down cards **
+dutchalex calls [$0.01]
+zay76 checks
+** Dealing flop ** [ Qs, 8c, 2s ]
+zay76 checks
+dutchalex checks
+** Dealing turn ** [ 3c ]
+zay76 checks
+dutchalex checks
+** Dealing river ** [ 4s ]
+zay76 checks
+dutchalex bets [$0.02]
+zay76 folds
+** Summary **
+dutchalex collected [ $0.04 ]
+
+
+#Game No : 503544170
+***** 888poker Hand History for Game 503544170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:48:43
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: zay76 ( $0.70 )
+Seat 6: dutchalex ( $0.84 )
+zay76 posts small blind [$0.01]
+dutchalex posts big blind [$0.02]
+** Dealing down cards **
+zay76 raises [$0.05]
+dutchalex folds
+** Summary **
+zay76 collected [ $0.04 ]
+
+
+#Game No : 503544184
+***** 888poker Hand History for Game 503544184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:49:07
+Table Tolyatti 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: dutchalex ( $0.82 )
+Seat 7: isurue ( $1 )
+dutchalex posts small blind [$0.01]
+isurue posts big blind [$0.02]
+** Dealing down cards **
+dutchalex calls [$0.01]
+isurue raises [$0.02]
+dutchalex calls [$0.02]
+** Dealing flop ** [ 9h, 9d, Kd ]
+isurue checks
+dutchalex bets [$0.02]
+isurue raises [$0.04]
+dutchalex calls [$0.02]
+** Dealing turn ** [ Td ]
+isurue bets [$0.02]
+dutchalex calls [$0.02]
+** Dealing river ** [ Qh ]
+isurue bets [$0.72]
+dutchalex calls [$0.72]
+** Summary **
+dutchalex shows [ 7c, 7d ]
+isurue shows [ Jh, As ]
+isurue collected [ $1.54 ]
+
+
+#Game No : 503544232
+***** 888poker Hand History for Game 503544232 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:50:09
+Table Tolyatti 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: chapa1993 ( $1 )
+Seat 7: isurue ( $1.72 )
+isurue posts small blind [$0.01]
+chapa1993 posts big blind [$0.02]
+** Dealing down cards **
+isurue calls [$0.01]
+chapa1993 raises [$0.04]
+isurue calls [$0.04]
+** Dealing flop ** [ 8d, Qh, Th ]
+chapa1993 bets [$0.02]
+isurue raises [$0.04]
+chapa1993 calls [$0.02]
+** Dealing turn ** [ Jc ]
+chapa1993 bets [$0.02]
+isurue raises [$0.04]
+chapa1993 calls [$0.02]
+** Dealing river ** [ Ah ]
+chapa1993 bets [$0.08]
+isurue calls [$0.08]
+** Summary **
+chapa1993 shows [ As, 2s ]
+isurue mucks [ 8s, 4s ]
+chapa1993 collected [ $0.42 ]
+
+
+#Game No : 503544421
+***** 888poker Hand History for Game 503544421 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:54:48
+Table Tolyatti 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: chapa1993 ( $1.46 )
+Seat 7: isurue ( $1.88 )
+chapa1993 posts small blind [$0.01]
+isurue posts big blind [$0.02]
+** Dealing down cards **
+chapa1993 calls [$0.01]
+isurue checks
+** Dealing flop ** [ 5c, 8s, Qh ]
+isurue checks
+chapa1993 bets [$0.04]
+isurue folds
+** Summary **
+chapa1993 collected [ $0.04 ]
+
+
+#Game No : 503544482
+***** 888poker Hand History for Game 503544482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:56:34
+Table Tolyatti 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: 1denni1 ( $0.77 )
+Seat 7: isurue ( $5.01 )
+isurue posts small blind [$0.01]
+1denni1 posts big blind [$0.02]
+** Dealing down cards **
+isurue calls [$0.01]
+1denni1 checks
+** Dealing flop ** [ 8c, Js, Td ]
+1denni1 checks
+isurue checks
+** Dealing turn ** [ Jd ]
+1denni1 checks
+isurue checks
+** Dealing river ** [ Qc ]
+1denni1 checks
+isurue checks
+** Summary **
+1denni1 shows [ 3s, 7h ]
+isurue shows [ 3h, 4h ]
+isurue collected [ $0.02 ]
+1denni1 collected [ $0.02 ]
+
+
+#Game No : 503544547
+***** 888poker Hand History for Game 503544547 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:58:31
+Table Tolyatti 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: chapa1993 ( $0.94 )
+Seat 6: 1denni1 ( $0.71 )
+chapa1993 posts small blind [$0.01]
+1denni1 posts big blind [$0.02]
+** Dealing down cards **
+chapa1993 calls [$0.01]
+1denni1 checks
+** Dealing flop ** [ 7h, 4h, Ad ]
+1denni1 checks
+chapa1993 checks
+** Dealing turn ** [ Jd ]
+1denni1 bets [$0.04]
+chapa1993 folds
+** Summary **
+1denni1 collected [ $0.04 ]
+
+
+#Game No : 503544560
+***** 888poker Hand History for Game 503544560 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:58:53
+Table Tolyatti 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: chapa1993 ( $0.92 )
+Seat 6: 1denni1 ( $0.73 )
+1denni1 posts small blind [$0.01]
+chapa1993 posts big blind [$0.02]
+** Dealing down cards **
+1denni1 folds
+** Summary **
+chapa1993 collected [ $0.03 ]
+
+
+#Game No : 503547374
+***** 888poker Hand History for Game 503547374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 05:30:55
+Table Tolyatti 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Et_Arrows ( $1.11 )
+Seat 4: Pulshar ( $1 )
+Et_Arrows posts small blind [$0.01]
+Pulshar posts big blind [$0.02]
+** Dealing down cards **
+Et_Arrows raises [$0.05]
+Pulshar raises [$0.16]
+Et_Arrows folds
+** Summary **
+Pulshar collected [ $0.12 ]
+
+
+#Game No : 503562089
+***** 888poker Hand History for Game 503562089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 11:20:57
+Table Tolyatti 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ph7lOne ( $1.92 )
+Seat 9: Strogo69 ( $1.04 )
+Ph7lOne posts small blind [$0.01]
+Strogo69 posts big blind [$0.02]
+** Dealing down cards **
+Ph7lOne raises [$0.03]
+Strogo69 calls [$0.02]
+** Dealing flop ** [ 5s, 6d, Jh ]
+Strogo69 checks
+Ph7lOne bets [$0.04]
+Strogo69 calls [$0.04]
+** Dealing turn ** [ 7c ]
+Strogo69 checks
+Ph7lOne checks
+** Dealing river ** [ Qh ]
+Strogo69 checks
+Ph7lOne checks
+** Summary **
+Strogo69 shows [ 2d, 4h ]
+Ph7lOne shows [ 6c, Th ]
+Ph7lOne collected [ $0.15 ]
+
+
+#Game No : 503576517
+***** 888poker Hand History for Game 503576517 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 16:53:36
+Table Tolyatti 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: erwin393 ( $3.67 )
+Seat 9: Strugglezhop ( $1.85 )
+erwin393 posts small blind [$0.01]
+Strugglezhop posts big blind [$0.02]
+** Dealing down cards **
+erwin393 folds
+** Summary **
+Strugglezhop did not show his hand
+Strugglezhop collected [ $0.03 ]
+
+
+#Game No : 503576523
+***** 888poker Hand History for Game 503576523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 16:53:47
+Table Tolyatti 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: erwin393 ( $3.66 )
+Seat 9: Strugglezhop ( $1.86 )
+Strugglezhop posts small blind [$0.01]
+erwin393 posts big blind [$0.02]
+** Dealing down cards **
+Strugglezhop folds
+** Summary **
+erwin393 did not show his hand
+erwin393 collected [ $0.03 ]
+
+
+#Game No : 503576525
+***** 888poker Hand History for Game 503576525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 16:53:54
+Table Tolyatti 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: erwin393 ( $3.67 )
+Seat 9: Strugglezhop ( $1.85 )
+erwin393 posts small blind [$0.01]
+Strugglezhop posts big blind [$0.02]
+** Dealing down cards **
+erwin393 raises [$0.05]
+Strugglezhop folds
+** Summary **
+erwin393 did not show his hand
+erwin393 collected [ $0.04 ]
+
+

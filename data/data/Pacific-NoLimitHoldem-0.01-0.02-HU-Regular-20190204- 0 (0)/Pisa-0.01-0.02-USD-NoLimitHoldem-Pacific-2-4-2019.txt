@@ -1,0 +1,222 @@
+#Game No : 523331868
+***** 888poker Hand History for Game 523331868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:22:19
+Table Pisa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: shenjishidao ( $1.03 )
+Seat 6: LoveLuck12 ( $1.10 )
+shenjishidao posts small blind [$0.01]
+** Dealing down cards **
+LoveLuck12 folds
+** Summary **
+shenjishidao did not show his hand
+shenjishidao collected [ $0.01 ]
+
+
+#Game No : 523331895
+***** 888poker Hand History for Game 523331895 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:22:47
+Table Pisa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: shenjishidao ( $1.03 )
+Seat 7: ricardobluf ( $1 )
+ricardobluf posts small blind [$0.01]
+shenjishidao posts big blind [$0.02]
+** Dealing down cards **
+ricardobluf calls [$0.01]
+shenjishidao raises [$0.08]
+ricardobluf calls [$0.08]
+** Dealing flop ** [ Qc, Qh, Qd ]
+shenjishidao bets [$0.07]
+ricardobluf calls [$0.07]
+** Dealing turn ** [ 8h ]
+shenjishidao bets [$0.20]
+ricardobluf calls [$0.20]
+** Dealing river ** [ 8c ]
+shenjishidao checks
+ricardobluf checks
+** Summary **
+shenjishidao shows [ As, Ad ]
+ricardobluf mucks [ 7c, 6h ]
+shenjishidao collected [ $0.70 ]
+
+
+#Game No : 523331928
+***** 888poker Hand History for Game 523331928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:23:37
+Table Pisa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: shenjishidao ( $1.36 )
+Seat 7: ricardobluf ( $0.63 )
+shenjishidao posts small blind [$0.01]
+ricardobluf posts big blind [$0.02]
+** Dealing down cards **
+shenjishidao raises [$0.05]
+ricardobluf calls [$0.04]
+** Dealing flop ** [ 8d, 6h, Kh ]
+ricardobluf checks
+shenjishidao checks
+** Dealing turn ** [ Ks ]
+ricardobluf bets [$0.02]
+shenjishidao folds
+** Summary **
+ricardobluf collected [ $0.12 ]
+
+
+#Game No : 523331949
+***** 888poker Hand History for Game 523331949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:24:08
+Table Pisa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: shenjishidao ( $1.30 )
+Seat 7: ricardobluf ( $0.69 )
+ricardobluf posts small blind [$0.01]
+** Dealing down cards **
+shenjishidao folds
+** Summary **
+ricardobluf collected [ $0.01 ]
+
+
+#Game No : 523331951
+***** 888poker Hand History for Game 523331951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:24:11
+Table Pisa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ricardobluf ( $0.69 )
+Seat 9: MackaR57 ( $0.80 )
+ricardobluf posts small blind [$0.01]
+MackaR57 posts big blind [$0.02]
+** Dealing down cards **
+ricardobluf calls [$0.01]
+MackaR57 checks
+** Dealing flop ** [ 3d, 9c, Kc ]
+MackaR57 bets [$0.02]
+ricardobluf calls [$0.02]
+** Dealing turn ** [ Tc ]
+MackaR57 bets [$0.02]
+ricardobluf calls [$0.02]
+** Dealing river ** [ 7d ]
+MackaR57 bets [$0.02]
+ricardobluf calls [$0.02]
+** Summary **
+MackaR57 shows [ 3h, 4s ]
+ricardobluf shows [ Td, 4d ]
+ricardobluf collected [ $0.15 ]
+
+
+#Game No : 523331977
+***** 888poker Hand History for Game 523331977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:24:42
+Table Pisa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ricardobluf ( $0.76 )
+Seat 9: MackaR57 ( $0.72 )
+MackaR57 posts small blind [$0.01]
+ricardobluf posts big blind [$0.02]
+** Dealing down cards **
+MackaR57 raises [$0.03]
+ricardobluf raises [$0.04]
+MackaR57 calls [$0.02]
+** Dealing flop ** [ 4h, Qc, 5s ]
+ricardobluf bets [$0.02]
+MackaR57 calls [$0.02]
+** Dealing turn ** [ 6h ]
+ricardobluf bets [$0.02]
+MackaR57 calls [$0.02]
+** Dealing river ** [ Jd ]
+ricardobluf bets [$0.02]
+MackaR57 calls [$0.02]
+** Summary **
+ricardobluf shows [ Td, Ad ]
+MackaR57 mucks [ 3s, Ks ]
+ricardobluf collected [ $0.23 ]
+
+
+#Game No : 523332004
+***** 888poker Hand History for Game 523332004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:25:13
+Table Pisa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ricardobluf ( $0.87 )
+Seat 9: MackaR57 ( $0.60 )
+ricardobluf posts small blind [$0.01]
+MackaR57 posts big blind [$0.02]
+** Dealing down cards **
+ricardobluf raises [$0.03]
+MackaR57 calls [$0.02]
+** Dealing flop ** [ Td, Qd, Ad ]
+MackaR57 checks
+ricardobluf bets [$0.02]
+MackaR57 calls [$0.02]
+** Dealing turn ** [ Kc ]
+MackaR57 bets [$0.12]
+ricardobluf raises [$0.24]
+MackaR57 folds
+** Summary **
+ricardobluf collected [ $0.34 ]
+
+
+#Game No : 523332023
+***** 888poker Hand History for Game 523332023 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:25:45
+Table Pisa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ricardobluf ( $1.03 )
+Seat 9: MackaR57 ( $0.42 )
+MackaR57 posts small blind [$0.01]
+ricardobluf posts big blind [$0.02]
+** Dealing down cards **
+MackaR57 calls [$0.01]
+ricardobluf checks
+** Dealing flop ** [ Ts, 3c, 9c ]
+ricardobluf checks
+MackaR57 checks
+** Dealing turn ** [ 5d ]
+ricardobluf bets [$0.02]
+MackaR57 folds
+** Summary **
+ricardobluf collected [ $0.04 ]
+
+
+#Game No : 523332972
+***** 888poker Hand History for Game 523332972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:43:40
+Table Pisa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: meDIbel ( $2.35 )
+Seat 6: Bulley_03 ( $2.58 )
+Bulley_03 posts small blind [$0.01]
+meDIbel posts big blind [$0.02]
+** Dealing down cards **
+Bulley_03 raises [$0.05]
+meDIbel folds
+** Summary **
+Bulley_03 did not show his hand
+Bulley_03 collected [ $0.04 ]
+
+
+#Game No : 523332980
+***** 888poker Hand History for Game 523332980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 17:43:49
+Table Pisa 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: meDIbel ( $2.33 )
+Seat 6: Bulley_03 ( $2.60 )
+meDIbel posts small blind [$0.01]
+** Dealing down cards **
+Bulley_03 folds
+** Summary **
+meDIbel did not show his hand
+meDIbel collected [ $0.01 ]
+
+

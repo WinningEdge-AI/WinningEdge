@@ -1,0 +1,26 @@
+#Game No : 510388230
+***** 888poker Hand History for Game 510388230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 12:57:15
+Table Lewisville 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: PAOLDINI ( $1.24 )
+Seat 6: billybrims ( $2 )
+billybrims posts small blind [$0.01]
+PAOLDINI posts big blind [$0.02]
+** Dealing down cards **
+billybrims raises [$0.05]
+PAOLDINI calls [$0.04]
+** Dealing flop ** [ 7d, Tc, 2d ]
+PAOLDINI bets [$0.12]
+billybrims raises [$0.40]
+PAOLDINI raises [$1.06]
+billybrims calls [$0.78]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ Ts ]
+** Summary **
+PAOLDINI shows [ Td, 6d ]
+billybrims shows [ 2h, 2s ]
+PAOLDINI collected [ $2.33 ]
+
+

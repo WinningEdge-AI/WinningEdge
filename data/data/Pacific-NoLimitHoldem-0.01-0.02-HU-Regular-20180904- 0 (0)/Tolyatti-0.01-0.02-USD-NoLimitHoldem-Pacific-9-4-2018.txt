@@ -1,0 +1,196 @@
+#Game No : 501926266
+***** 888poker Hand History for Game 501926266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 14:01:33
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RatherShort ( $3.63 )
+Seat 7: darkdepill ( $0.73 )
+RatherShort posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+darkdepill collected [ $0.03 ]
+
+
+#Game No : 501926272
+***** 888poker Hand History for Game 501926272 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 14:01:39
+Table Tolyatti 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: RatherShort ( $3.62 )
+Seat 7: darkdepill ( $0.74 )
+darkdepill posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.05]
+RatherShort folds
+** Summary **
+darkdepill collected [ $0.04 ]
+
+
+#Game No : 501926288
+***** 888poker Hand History for Game 501926288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 14:01:52
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RatherShort ( $3.60 )
+Seat 7: darkdepill ( $0.76 )
+RatherShort posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.03]
+darkdepill calls [$0.02]
+** Dealing flop ** [ 4s, Jd, 2s ]
+darkdepill checks
+RatherShort bets [$0.04]
+darkdepill calls [$0.04]
+** Dealing turn ** [ 9s ]
+darkdepill checks
+RatherShort bets [$0.10]
+darkdepill calls [$0.10]
+** Dealing river ** [ 5s ]
+darkdepill checks
+RatherShort checks
+** Summary **
+darkdepill shows [ Jh, 7c ]
+RatherShort shows [ Js, 9h ]
+RatherShort collected [ $0.34 ]
+
+
+#Game No : 501926309
+***** 888poker Hand History for Game 501926309 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 14:02:15
+Table Tolyatti 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: RatherShort ( $3.76 )
+Seat 7: darkdepill ( $0.58 )
+darkdepill posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.03]
+RatherShort calls [$0.02]
+** Dealing flop ** [ Qs, 8s, 9c ]
+RatherShort checks
+darkdepill bets [$0.02]
+RatherShort calls [$0.02]
+** Dealing turn ** [ 3c ]
+RatherShort checks
+darkdepill bets [$0.08]
+RatherShort calls [$0.08]
+** Dealing river ** [ 8c ]
+RatherShort checks
+darkdepill checks
+** Summary **
+RatherShort shows [ 4c, Qc ]
+darkdepill mucks [ 2h, 9h ]
+RatherShort collected [ $0.27 ]
+
+
+#Game No : 501926360
+***** 888poker Hand History for Game 501926360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 14:03:05
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RatherShort ( $3.89 )
+Seat 7: darkdepill ( $0.44 )
+RatherShort posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.05]
+darkdepill folds
+** Summary **
+RatherShort collected [ $0.04 ]
+
+
+#Game No : 501926583
+***** 888poker Hand History for Game 501926583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 14:06:54
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: OlegH1 ( $1 )
+Seat 6: MichelWittig ( $2.44 )
+OlegH1 posts small blind [$0.01]
+MichelWittig posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+MichelWittig checks
+** Dealing flop ** [ 9s, Th, Td ]
+MichelWittig checks
+OlegH1 checks
+** Dealing turn ** [ Ah ]
+MichelWittig bets [$0.06]
+OlegH1 calls [$0.06]
+** Dealing river ** [ 2d ]
+MichelWittig bets [$0.06]
+OlegH1 calls [$0.06]
+** Summary **
+MichelWittig shows [ 4s, As ]
+OlegH1 mucks [ 8h, Kh ]
+MichelWittig collected [ $0.27 ]
+
+
+#Game No : 501926631
+***** 888poker Hand History for Game 501926631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 14:07:38
+Table Tolyatti 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: OlegH1 ( $1 )
+Seat 6: MichelWittig ( $2.57 )
+MichelWittig posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+MichelWittig calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 8h, 3h, Th ]
+OlegH1 checks
+MichelWittig checks
+** Dealing turn ** [ Qs ]
+OlegH1 checks
+MichelWittig checks
+** Dealing river ** [ 2h ]
+OlegH1 checks
+MichelWittig checks
+** Summary **
+OlegH1 shows [ 2c, 5h ]
+MichelWittig shows [ 6h, 9d ]
+MichelWittig collected [ $0.04 ]
+
+
+#Game No : 501926931
+***** 888poker Hand History for Game 501926931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 14:12:43
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: OlegH1 ( $2 )
+Seat 6: MichelWittig ( $1.62 )
+OlegH1 posts small blind [$0.01]
+MichelWittig posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+MichelWittig checks
+** Dealing flop ** [ 8h, Jc, 7d ]
+MichelWittig checks
+OlegH1 bets [$0.02]
+MichelWittig calls [$0.02]
+** Dealing turn ** [ 6d ]
+MichelWittig checks
+OlegH1 bets [$0.05]
+MichelWittig calls [$0.05]
+** Dealing river ** [ 8d ]
+MichelWittig checks
+OlegH1 checks
+** Summary **
+MichelWittig shows [ 6s, Ac ]
+OlegH1 shows [ Js, Ks ]
+OlegH1 collected [ $0.17 ]
+
+

@@ -1,0 +1,362 @@
+#Game No : 1275799824
+***** 888poker Hand History for Game 1275799824 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:32:04
+Table Providence 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: yrik222 ( $2.15 )
+Seat 4: vbshka1 ( $1.76 )
+yrik222 posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+yrik222 folds
+** Summary **
+vbshka1 collected [ $0.03 ]
+
+
+#Game No : 1275800021
+***** 888poker Hand History for Game 1275800021 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:33:01
+Table Providence 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: yrik222 ( $2.13 )
+Seat 4: vbshka1 ( $1.84 )
+vbshka1 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 raises [$0.05]
+yrik222 calls [$0.04]
+** Dealing flop ** [ 5h, 2d, 2c ]
+yrik222 checks
+vbshka1 bets [$0.08]
+yrik222 calls [$0.08]
+** Dealing turn ** [ 7d ]
+yrik222 checks
+vbshka1 checks
+** Dealing river ** [ Kd ]
+yrik222 checks
+vbshka1 bets [$0.18]
+yrik222 folds
+** Summary **
+vbshka1 collected [ $0.27 ]
+
+
+#Game No : 1275800131
+***** 888poker Hand History for Game 1275800131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:33:33
+Table Providence 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: yrik222 ( $2 )
+Seat 4: vbshka1 ( $1.97 )
+yrik222 posts small blind [$0.01]
+** Dealing down cards **
+vbshka1 folds
+** Summary **
+yrik222 collected [ $0.01 ]
+
+
+#Game No : 1275800496
+***** 888poker Hand History for Game 1275800496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:35:32
+Table Providence 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RaimikMik ( $2 )
+Seat 7: Marionella39 ( $2 )
+RaimikMik posts small blind [$0.01]
+Marionella39 posts big blind [$0.02]
+** Dealing down cards **
+RaimikMik raises [$0.03]
+Marionella39 folds
+** Summary **
+RaimikMik collected [ $0.04 ]
+
+
+#Game No : 1275800529
+***** 888poker Hand History for Game 1275800529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:35:41
+Table Providence 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RaimikMik ( $2.02 )
+Seat 7: Marionella39 ( $1.98 )
+Marionella39 posts small blind [$0.01]
+RaimikMik posts big blind [$0.02]
+** Dealing down cards **
+Marionella39 calls [$0.01]
+RaimikMik checks
+** Dealing flop ** [ Qh, 8d, 2c ]
+RaimikMik checks
+Marionella39 bets [$0.02]
+RaimikMik calls [$0.02]
+** Dealing turn ** [ 5s ]
+RaimikMik checks
+Marionella39 bets [$0.08]
+RaimikMik calls [$0.08]
+** Dealing river ** [ 3c ]
+RaimikMik checks
+Marionella39 checks
+** Summary **
+RaimikMik shows [ 2h, Ts ]
+Marionella39 shows [ 7d, Qd ]
+Marionella39 collected [ $0.23 ]
+
+
+#Game No : 1275800614
+***** 888poker Hand History for Game 1275800614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:36:09
+Table Providence 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RaimikMik ( $1.90 )
+Seat 7: Marionella39 ( $2.09 )
+RaimikMik posts small blind [$0.01]
+Marionella39 posts big blind [$0.02]
+** Dealing down cards **
+RaimikMik calls [$0.01]
+Marionella39 raises [$0.02]
+RaimikMik calls [$0.02]
+** Dealing flop ** [ 7c, Tc, 2c ]
+Marionella39 bets [$0.24]
+RaimikMik folds
+** Summary **
+Marionella39 collected [ $0.08 ]
+
+
+#Game No : 1275800669
+***** 888poker Hand History for Game 1275800669 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:36:24
+Table Providence 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RaimikMik ( $1.86 )
+Seat 7: Marionella39 ( $2.13 )
+Marionella39 posts small blind [$0.01]
+RaimikMik posts big blind [$0.02]
+** Dealing down cards **
+Marionella39 calls [$0.01]
+RaimikMik checks
+** Dealing flop ** [ 7d, 6h, 9h ]
+RaimikMik checks
+Marionella39 checks
+** Dealing turn ** [ As ]
+RaimikMik checks
+Marionella39 checks
+** Dealing river ** [ 3c ]
+RaimikMik bets [$0.02]
+Marionella39 calls [$0.02]
+** Summary **
+RaimikMik shows [ 3h, 3s ]
+Marionella39 mucks [ 5d, 5c ]
+RaimikMik collected [ $0.08 ]
+
+
+#Game No : 1275800735
+***** 888poker Hand History for Game 1275800735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:36:46
+Table Providence 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RaimikMik ( $1.90 )
+Seat 7: Marionella39 ( $2.09 )
+RaimikMik posts small blind [$0.01]
+Marionella39 posts big blind [$0.02]
+** Dealing down cards **
+RaimikMik calls [$0.01]
+Marionella39 checks
+** Dealing flop ** [ 6s, 3c, 4s ]
+Marionella39 checks
+RaimikMik checks
+** Dealing turn ** [ Th ]
+Marionella39 checks
+RaimikMik bets [$0.02]
+Marionella39 folds
+** Summary **
+RaimikMik collected [ $0.04 ]
+
+
+#Game No : 1275800793
+***** 888poker Hand History for Game 1275800793 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:37:05
+Table Providence 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RaimikMik ( $1.92 )
+Seat 7: Marionella39 ( $2.07 )
+Marionella39 posts small blind [$0.01]
+RaimikMik posts big blind [$0.02]
+** Dealing down cards **
+Marionella39 folds
+** Summary **
+RaimikMik collected [ $0.03 ]
+
+
+#Game No : 1275800811
+***** 888poker Hand History for Game 1275800811 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:37:10
+Table Providence 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RaimikMik ( $1.93 )
+Seat 7: Marionella39 ( $2.06 )
+RaimikMik posts small blind [$0.01]
+Marionella39 posts big blind [$0.02]
+** Dealing down cards **
+RaimikMik raises [$0.11]
+Marionella39 folds
+** Summary **
+RaimikMik collected [ $0.04 ]
+
+
+#Game No : 1275800857
+***** 888poker Hand History for Game 1275800857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:37:23
+Table Providence 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RaimikMik ( $1.95 )
+Seat 7: Marionella39 ( $2.04 )
+Marionella39 posts small blind [$0.01]
+RaimikMik posts big blind [$0.02]
+** Dealing down cards **
+Marionella39 calls [$0.01]
+RaimikMik checks
+** Dealing flop ** [ 3s, 3c, 9d ]
+RaimikMik checks
+Marionella39 checks
+** Dealing turn ** [ 8s ]
+RaimikMik checks
+Marionella39 checks
+** Dealing river ** [ 9c ]
+RaimikMik bets [$0.02]
+Marionella39 calls [$0.02]
+** Summary **
+RaimikMik shows [ Jd, 2h ]
+Marionella39 shows [ Ah, 7c ]
+Marionella39 collected [ $0.08 ]
+
+
+#Game No : 1275801879
+***** 888poker Hand History for Game 1275801879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:43:00
+Table Providence 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Fierlinger ( $1.85 )
+Seat 7: RUSLANYAR ( $0.80 )
+Fierlinger posts small blind [$0.01]
+RUSLANYAR posts big blind [$0.02]
+** Dealing down cards **
+Fierlinger raises [$0.03]
+RUSLANYAR calls [$0.02]
+** Dealing flop ** [ Tc, 2h, 4s ]
+RUSLANYAR checks
+Fierlinger bets [$0.08]
+RUSLANYAR folds
+** Summary **
+Fierlinger collected [ $0.08 ]
+
+
+#Game No : 1275801926
+***** 888poker Hand History for Game 1275801926 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:43:17
+Table Providence 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Fierlinger ( $1.89 )
+Seat 7: RUSLANYAR ( $0.76 )
+RUSLANYAR posts small blind [$0.01]
+Fierlinger posts big blind [$0.02]
+** Dealing down cards **
+RUSLANYAR calls [$0.01]
+Fierlinger raises [$0.06]
+RUSLANYAR calls [$0.06]
+** Dealing flop ** [ 6h, 6d, Ad ]
+Fierlinger bets [$0.10]
+RUSLANYAR folds
+** Summary **
+Fierlinger collected [ $0.15 ]
+
+
+#Game No : 1275801974
+***** 888poker Hand History for Game 1275801974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:43:34
+Table Providence 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Fierlinger ( $1.96 )
+Seat 7: RUSLANYAR ( $0.68 )
+Fierlinger posts small blind [$0.01]
+RUSLANYAR posts big blind [$0.02]
+** Dealing down cards **
+Fierlinger raises [$0.03]
+RUSLANYAR calls [$0.02]
+** Dealing flop ** [ 9d, 9s, 2c ]
+RUSLANYAR checks
+Fierlinger bets [$0.02]
+RUSLANYAR calls [$0.02]
+** Dealing turn ** [ 2d ]
+RUSLANYAR checks
+Fierlinger checks
+** Dealing river ** [ 8h ]
+RUSLANYAR bets [$0.07]
+Fierlinger calls [$0.07]
+** Summary **
+RUSLANYAR shows [ Ts, Qd ]
+Fierlinger shows [ Qc, Tc ]
+RUSLANYAR collected [ $0.13 ]
+Fierlinger collected [ $0.12 ]
+
+
+#Game No : 1275802044
+***** 888poker Hand History for Game 1275802044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:43:57
+Table Providence 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Fierlinger ( $1.95 )
+Seat 7: RUSLANYAR ( $0.68 )
+RUSLANYAR posts small blind [$0.01]
+Fierlinger posts big blind [$0.02]
+** Dealing down cards **
+RUSLANYAR raises [$0.03]
+Fierlinger raises [$0.10]
+RUSLANYAR calls [$0.08]
+** Dealing flop ** [ 4s, 5d, Js ]
+Fierlinger bets [$0.24]
+RUSLANYAR folds
+** Summary **
+Fierlinger collected [ $0.23 ]
+
+
+#Game No : 1275802117
+***** 888poker Hand History for Game 1275802117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 04:44:20
+Table Providence 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Fierlinger ( $2.06 )
+Seat 7: RUSLANYAR ( $0.56 )
+Fierlinger posts small blind [$0.01]
+RUSLANYAR posts big blind [$0.02]
+** Dealing down cards **
+Fierlinger calls [$0.01]
+RUSLANYAR checks
+** Dealing flop ** [ 9s, 6s, 9d ]
+RUSLANYAR checks
+Fierlinger checks
+** Dealing turn ** [ 9c ]
+RUSLANYAR checks
+Fierlinger bets [$0.06]
+RUSLANYAR calls [$0.06]
+** Dealing river ** [ 3h ]
+RUSLANYAR checks
+Fierlinger checks
+** Summary **
+RUSLANYAR shows [ 3d, 9h ]
+Fierlinger mucks [ 7c, Qs ]
+RUSLANYAR collected [ $0.15 ]
+
+

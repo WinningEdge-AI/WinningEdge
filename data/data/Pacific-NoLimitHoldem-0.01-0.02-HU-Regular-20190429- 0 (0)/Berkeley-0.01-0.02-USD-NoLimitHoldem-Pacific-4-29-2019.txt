@@ -1,0 +1,114 @@
+#Game No : 1264615740
+***** 888poker Hand History for Game 1264615740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 04 2019 19:20:18
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: LPehikino ( $1 )
+Seat 2: thehollowone ( $1 )
+thehollowone posts small blind [$0.01]
+LPehikino posts big blind [$0.02]
+** Dealing down cards **
+thehollowone calls [$0.01]
+LPehikino checks
+** Dealing flop ** [ 3d, Ks, 6s ]
+LPehikino checks
+thehollowone checks
+** Dealing turn ** [ Qc ]
+LPehikino checks
+thehollowone bets [$0.04]
+LPehikino folds
+** Summary **
+thehollowone did not show his hand
+thehollowone collected [ $0.04 ]
+
+
+#Game No : 1264615791
+***** 888poker Hand History for Game 1264615791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 04 2019 19:20:23
+Table Berkeley 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LPehikino ( $0.98 )
+Seat 2: thehollowone ( $1.02 )
+LPehikino posts small blind [$0.01]
+thehollowone posts big blind [$0.02]
+** Dealing down cards **
+LPehikino raises [$0.03]
+thehollowone calls [$0.02]
+** Dealing flop ** [ Ah, 9h, 5s ]
+thehollowone checks
+LPehikino checks
+** Dealing turn ** [ Qh ]
+thehollowone checks
+LPehikino checks
+** Dealing river ** [ Kc ]
+thehollowone checks
+LPehikino checks
+** Summary **
+thehollowone shows [ 6h, 2c ]
+LPehikino shows [ 6d, 7d ]
+LPehikino collected [ $0.08 ]
+
+
+#Game No : 1264615818
+***** 888poker Hand History for Game 1264615818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 04 2019 19:20:49
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: LPehikino ( $1.02 )
+Seat 2: thehollowone ( $0.98 )
+thehollowone posts small blind [$0.01]
+LPehikino posts big blind [$0.02]
+** Dealing down cards **
+thehollowone calls [$0.01]
+LPehikino checks
+** Dealing flop ** [ 4h, 6s, 9d ]
+LPehikino bets [$0.02]
+thehollowone calls [$0.02]
+** Dealing turn ** [ Qc ]
+LPehikino checks
+thehollowone checks
+** Dealing river ** [ Jh ]
+LPehikino checks
+thehollowone checks
+** Summary **
+LPehikino shows [ 5c, 5d ]
+thehollowone shows [ As, Js ]
+thehollowone collected [ $0.08 ]
+
+
+#Game No : 1264618244
+***** 888poker Hand History for Game 1264618244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 04 2019 19:58:06
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: novobibeevo ( $1.68 )
+Seat 7: DaveHi ( $0.93 )
+novobibeevo posts small blind [$0.01]
+DaveHi posts big blind [$0.02]
+** Dealing down cards **
+novobibeevo raises [$0.05]
+DaveHi folds
+** Summary **
+novobibeevo collected [ $0.04 ]
+
+
+#Game No : 1264618258
+***** 888poker Hand History for Game 1264618258 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 04 2019 19:58:17
+Table Berkeley 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: novobibeevo ( $1.70 )
+Seat 7: DaveHi ( $0.91 )
+DaveHi posts small blind [$0.01]
+novobibeevo posts big blind [$0.02]
+** Dealing down cards **
+DaveHi folds
+** Summary **
+novobibeevo collected [ $0.03 ]
+
+

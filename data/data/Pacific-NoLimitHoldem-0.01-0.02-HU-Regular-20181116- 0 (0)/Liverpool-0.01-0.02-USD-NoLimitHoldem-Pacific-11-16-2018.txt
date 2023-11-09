@@ -1,0 +1,972 @@
+#Game No : 505479994
+***** 888poker Hand History for Game 505479994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 04:19:29
+Table Liverpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: DenVL ( $1 )
+Seat 7: GARALD84 ( $1.61 )
+DenVL posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+DenVL raises [$0.05]
+GARALD84 calls [$0.04]
+** Dealing flop ** [ 3s, Kh, Qd ]
+GARALD84 checks
+DenVL checks
+** Dealing turn ** [ 3c ]
+GARALD84 checks
+DenVL checks
+** Dealing river ** [ 4d ]
+GARALD84 checks
+DenVL checks
+** Summary **
+GARALD84 shows [ 8c, 7c ]
+DenVL shows [ 6h, 9h ]
+DenVL collected [ $0.12 ]
+
+
+#Game No : 505480025
+***** 888poker Hand History for Game 505480025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 04:20:20
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: DenVL ( $1.06 )
+Seat 7: GARALD84 ( $1.55 )
+GARALD84 posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.05]
+DenVL folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 505480214
+***** 888poker Hand History for Game 505480214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 04:25:06
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: DenVL ( $1 )
+Seat 7: GARALD84 ( $1.48 )
+GARALD84 posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 folds
+** Summary **
+DenVL collected [ $0.03 ]
+
+
+#Game No : 505492656
+***** 888poker Hand History for Game 505492656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:06:08
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.36 )
+Seat 9: SS554 ( $0.81 )
+co98nst41 posts small blind [$0.01]
+SS554 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+SS554 checks
+** Dealing flop ** [ 5s, 8s, Kc ]
+SS554 checks
+co98nst41 checks
+** Dealing turn ** [ 6d ]
+SS554 checks
+co98nst41 checks
+** Dealing river ** [ 3s ]
+SS554 checks
+co98nst41 checks
+** Summary **
+SS554 shows [ 4c, 9s ]
+co98nst41 shows [ Tc, Js ]
+co98nst41 collected [ $0.04 ]
+
+
+#Game No : 505492676
+***** 888poker Hand History for Game 505492676 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:06:33
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.38 )
+Seat 9: SS554 ( $0.79 )
+SS554 posts small blind [$0.01]
+co98nst41 posts big blind [$0.02]
+** Dealing down cards **
+SS554 calls [$0.01]
+co98nst41 checks
+** Dealing flop ** [ 9c, Kh, 5h ]
+co98nst41 checks
+SS554 checks
+** Dealing turn ** [ Td ]
+co98nst41 checks
+SS554 checks
+** Dealing river ** [ As ]
+co98nst41 checks
+SS554 checks
+** Summary **
+co98nst41 shows [ 5d, 8d ]
+SS554 mucks [ 6c, 8h ]
+co98nst41 collected [ $0.04 ]
+
+
+#Game No : 505492692
+***** 888poker Hand History for Game 505492692 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:06:58
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.40 )
+Seat 9: SS554 ( $0.77 )
+co98nst41 posts small blind [$0.01]
+SS554 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+SS554 checks
+** Dealing flop ** [ Jh, 4c, Ah ]
+SS554 checks
+co98nst41 checks
+** Dealing turn ** [ Js ]
+SS554 checks
+co98nst41 checks
+** Dealing river ** [ Th ]
+SS554 checks
+co98nst41 checks
+** Summary **
+SS554 shows [ 9s, 6c ]
+co98nst41 shows [ 7c, 9h ]
+SS554 collected [ $0.02 ]
+co98nst41 collected [ $0.02 ]
+
+
+#Game No : 505492713
+***** 888poker Hand History for Game 505492713 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:07:24
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.40 )
+Seat 9: SS554 ( $0.77 )
+SS554 posts small blind [$0.01]
+co98nst41 posts big blind [$0.02]
+** Dealing down cards **
+SS554 raises [$0.03]
+co98nst41 calls [$0.02]
+** Dealing flop ** [ Qh, Kc, 5d ]
+co98nst41 checks
+SS554 bets [$0.02]
+co98nst41 calls [$0.02]
+** Dealing turn ** [ Jc ]
+co98nst41 checks
+SS554 bets [$0.02]
+co98nst41 calls [$0.02]
+** Dealing river ** [ 4c ]
+co98nst41 checks
+SS554 checks
+** Summary **
+co98nst41 shows [ Th, Qc ]
+SS554 mucks [ 5s, Ad ]
+co98nst41 collected [ $0.15 ]
+
+
+#Game No : 505492737
+***** 888poker Hand History for Game 505492737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:07:52
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.47 )
+Seat 9: SS554 ( $0.69 )
+co98nst41 posts small blind [$0.01]
+SS554 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+SS554 raises [$0.04]
+co98nst41 folds
+** Summary **
+SS554 collected [ $0.04 ]
+
+
+#Game No : 505492746
+***** 888poker Hand History for Game 505492746 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:08:03
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.45 )
+Seat 9: SS554 ( $0.71 )
+SS554 posts small blind [$0.01]
+co98nst41 posts big blind [$0.02]
+** Dealing down cards **
+SS554 calls [$0.01]
+co98nst41 checks
+** Dealing flop ** [ 3h, Kd, Ah ]
+co98nst41 checks
+SS554 checks
+** Dealing turn ** [ Jh ]
+co98nst41 checks
+SS554 checks
+** Dealing river ** [ As ]
+co98nst41 checks
+SS554 checks
+** Summary **
+co98nst41 shows [ Jd, 8c ]
+SS554 mucks [ 2d, 3d ]
+co98nst41 collected [ $0.04 ]
+
+
+#Game No : 505492770
+***** 888poker Hand History for Game 505492770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:08:25
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.47 )
+Seat 9: SS554 ( $0.69 )
+co98nst41 posts small blind [$0.01]
+SS554 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+SS554 checks
+** Dealing flop ** [ 3c, 7d, 8c ]
+SS554 checks
+co98nst41 checks
+** Dealing turn ** [ 9s ]
+SS554 checks
+co98nst41 checks
+** Dealing river ** [ 5c ]
+SS554 bets [$0.02]
+co98nst41 folds
+** Summary **
+SS554 collected [ $0.04 ]
+
+
+#Game No : 505492787
+***** 888poker Hand History for Game 505492787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:08:47
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.45 )
+Seat 9: SS554 ( $0.71 )
+SS554 posts small blind [$0.01]
+co98nst41 posts big blind [$0.02]
+** Dealing down cards **
+SS554 raises [$0.03]
+co98nst41 calls [$0.02]
+** Dealing flop ** [ 7h, Qd, Kh ]
+co98nst41 checks
+SS554 checks
+** Dealing turn ** [ 7c ]
+co98nst41 checks
+SS554 checks
+** Dealing river ** [ 7d ]
+co98nst41 bets [$0.04]
+SS554 calls [$0.04]
+** Summary **
+co98nst41 shows [ 5s, 5h ]
+SS554 mucks [ Ac, Ts ]
+co98nst41 collected [ $0.15 ]
+
+
+#Game No : 505492813
+***** 888poker Hand History for Game 505492813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:09:12
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.52 )
+Seat 9: SS554 ( $0.63 )
+co98nst41 posts small blind [$0.01]
+SS554 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 raises [$0.03]
+SS554 calls [$0.02]
+** Dealing flop ** [ 2s, 3s, Kh ]
+SS554 checks
+co98nst41 bets [$0.05]
+SS554 folds
+** Summary **
+co98nst41 collected [ $0.08 ]
+
+
+#Game No : 505492831
+***** 888poker Hand History for Game 505492831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:09:27
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.56 )
+Seat 9: SS554 ( $0.59 )
+SS554 posts small blind [$0.01]
+co98nst41 posts big blind [$0.02]
+** Dealing down cards **
+SS554 calls [$0.01]
+co98nst41 checks
+** Dealing flop ** [ 4c, 6s, 2d ]
+co98nst41 checks
+SS554 bets [$0.02]
+co98nst41 calls [$0.02]
+** Dealing turn ** [ Jc ]
+co98nst41 checks
+SS554 checks
+** Dealing river ** [ 4h ]
+co98nst41 checks
+SS554 bets [$0.02]
+co98nst41 folds
+** Summary **
+SS554 collected [ $0.08 ]
+
+
+#Game No : 505492852
+***** 888poker Hand History for Game 505492852 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 09:09:52
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.52 )
+Seat 9: SS554 ( $0.63 )
+co98nst41 posts small blind [$0.01]
+SS554 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+SS554 checks
+** Dealing flop ** [ 8d, 7d, Jh ]
+SS554 checks
+co98nst41 checks
+** Dealing turn ** [ 3d ]
+SS554 bets [$0.02]
+co98nst41 folds
+** Summary **
+SS554 collected [ $0.04 ]
+
+
+#Game No : 505497928
+***** 888poker Hand History for Game 505497928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 10:43:52
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: PreWis ( $1 )
+Seat 7: Serbilak ( $1.80 )
+Serbilak posts small blind [$0.01]
+PreWis posts big blind [$0.02]
+** Dealing down cards **
+Serbilak raises [$0.03]
+PreWis folds
+** Summary **
+Serbilak collected [ $0.04 ]
+
+
+#Game No : 505498050
+***** 888poker Hand History for Game 505498050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 10:46:01
+Table Liverpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: BobajanPs ( $1.05 )
+Seat 6: PreWis ( $1.02 )
+BobajanPs posts small blind [$0.01]
+PreWis posts big blind [$0.02]
+** Dealing down cards **
+BobajanPs calls [$0.01]
+PreWis checks
+** Dealing flop ** [ Ks, Td, As ]
+BobajanPs checks
+PreWis bets [$0.02]
+BobajanPs calls [$0.02]
+** Dealing turn ** [ Kh ]
+BobajanPs checks
+PreWis checks
+** Dealing river ** [ 4h ]
+BobajanPs checks
+PreWis checks
+** Summary **
+BobajanPs shows [ Qd, 6s ]
+PreWis shows [ Qs, Th ]
+PreWis collected [ $0.08 ]
+
+
+#Game No : 505498086
+***** 888poker Hand History for Game 505498086 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 10:46:35
+Table Liverpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: PreWis ( $1.06 )
+Seat 7: Hook928928 ( $0.80 )
+PreWis posts small blind [$0.01]
+Hook928928 posts big blind [$0.02]
+** Dealing down cards **
+PreWis calls [$0.01]
+Hook928928 checks
+** Dealing flop ** [ Qh, 8c, Js ]
+Hook928928 checks
+PreWis checks
+** Dealing turn ** [ 2c ]
+Hook928928 checks
+PreWis checks
+** Dealing river ** [ 8h ]
+Hook928928 bets [$0.04]
+PreWis folds
+** Summary **
+Hook928928 collected [ $0.04 ]
+
+
+#Game No : 505498124
+***** 888poker Hand History for Game 505498124 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 10:47:09
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: PreWis ( $1.04 )
+Seat 7: Hook928928 ( $0.82 )
+Hook928928 posts small blind [$0.01]
+PreWis posts big blind [$0.02]
+** Dealing down cards **
+Hook928928 folds
+** Summary **
+PreWis collected [ $0.03 ]
+
+
+#Game No : 505498128
+***** 888poker Hand History for Game 505498128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 10:47:19
+Table Liverpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: PreWis ( $1.05 )
+Seat 7: Hook928928 ( $0.81 )
+PreWis posts small blind [$0.01]
+Hook928928 posts big blind [$0.02]
+** Dealing down cards **
+PreWis folds
+** Summary **
+Hook928928 collected [ $0.03 ]
+
+
+#Game No : 505498133
+***** 888poker Hand History for Game 505498133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 10:47:25
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: PreWis ( $1.04 )
+Seat 7: Hook928928 ( $0.82 )
+Hook928928 posts small blind [$0.01]
+PreWis posts big blind [$0.02]
+** Dealing down cards **
+Hook928928 calls [$0.01]
+PreWis checks
+** Dealing flop ** [ Ts, 8d, 7h ]
+PreWis bets [$0.02]
+Hook928928 calls [$0.02]
+** Dealing turn ** [ Jd ]
+PreWis checks
+Hook928928 bets [$0.08]
+PreWis folds
+** Summary **
+Hook928928 collected [ $0.08 ]
+
+
+#Game No : 505499949
+***** 888poker Hand History for Game 505499949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 11:18:39
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Kolyuchka ( $1.75 )
+Seat 7: Hook928928 ( $0.53 )
+Hook928928 posts small blind [$0.01]
+** Dealing down cards **
+Kolyuchka folds
+** Summary **
+Hook928928 collected [ $0.01 ]
+
+
+#Game No : 505499952
+***** 888poker Hand History for Game 505499952 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 11:18:42
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Hook928928 ( $0.53 )
+Seat 9: PHREEKLTD ( $1 )
+Hook928928 posts small blind [$0.01]
+PHREEKLTD posts big blind [$0.02]
+** Dealing down cards **
+Hook928928 folds
+** Summary **
+PHREEKLTD collected [ $0.03 ]
+
+
+#Game No : 505499960
+***** 888poker Hand History for Game 505499960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 11:18:53
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Hook928928 ( $0.52 )
+Seat 9: PHREEKLTD ( $1.01 )
+PHREEKLTD posts small blind [$0.01]
+Hook928928 posts big blind [$0.02]
+** Dealing down cards **
+PHREEKLTD calls [$0.01]
+Hook928928 checks
+** Dealing flop ** [ Ts, 9s, 3s ]
+Hook928928 checks
+PHREEKLTD bets [$0.04]
+Hook928928 calls [$0.04]
+** Dealing turn ** [ Kh ]
+Hook928928 checks
+PHREEKLTD bets [$0.12]
+Hook928928 raises [$0.46]
+PHREEKLTD calls [$0.34]
+** Dealing river ** [ 3d ]
+** Summary **
+Hook928928 shows [ 5s, Js ]
+PHREEKLTD shows [ Qc, Qd ]
+Hook928928 collected [ $0.98 ]
+
+
+#Game No : 505499998
+***** 888poker Hand History for Game 505499998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 11:19:35
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Hook928928 ( $0.98 )
+Seat 9: PHREEKLTD ( $0.49 )
+Hook928928 posts small blind [$0.01]
+PHREEKLTD posts big blind [$0.02]
+** Dealing down cards **
+Hook928928 folds
+** Summary **
+PHREEKLTD collected [ $0.03 ]
+
+
+#Game No : 505500015
+***** 888poker Hand History for Game 505500015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 11:19:50
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Hook928928 ( $0.97 )
+Seat 9: PHREEKLTD ( $0.50 )
+PHREEKLTD posts small blind [$0.01]
+Hook928928 posts big blind [$0.02]
+** Dealing down cards **
+PHREEKLTD calls [$0.01]
+Hook928928 checks
+** Dealing flop ** [ Td, 9s, Ad ]
+Hook928928 checks
+PHREEKLTD bets [$0.04]
+Hook928928 folds
+** Summary **
+PHREEKLTD collected [ $0.04 ]
+
+
+#Game No : 505500042
+***** 888poker Hand History for Game 505500042 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 11:20:22
+Table Liverpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Hook928928 ( $0.95 )
+Seat 9: PHREEKLTD ( $0.52 )
+Hook928928 posts small blind [$0.01]
+PHREEKLTD posts big blind [$0.02]
+** Dealing down cards **
+Hook928928 folds
+** Summary **
+PHREEKLTD collected [ $0.03 ]
+
+
+#Game No : 505500052
+***** 888poker Hand History for Game 505500052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 11:20:32
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Hook928928 ( $0.94 )
+Seat 9: PHREEKLTD ( $0.53 )
+PHREEKLTD posts small blind [$0.01]
+Hook928928 posts big blind [$0.02]
+** Dealing down cards **
+PHREEKLTD calls [$0.01]
+Hook928928 raises [$0.92]
+PHREEKLTD calls [$0.51]
+** Dealing flop ** [ Tc, 3c, Th ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ Qs ]
+** Summary **
+Hook928928 shows [ Ks, Ah ]
+PHREEKLTD shows [ Js, Qh ]
+PHREEKLTD collected [ $1 ]
+
+
+#Game No : 505509593
+***** 888poker Hand History for Game 505509593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 14:54:36
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: NNNddd11111 ( $1.02 )
+Seat 4: noairneeded ( $1.74 )
+noairneeded posts small blind [$0.01]
+NNNddd11111 posts big blind [$0.02]
+** Dealing down cards **
+noairneeded calls [$0.01]
+NNNddd11111 checks
+** Dealing flop ** [ 3s, 6h, 9c ]
+NNNddd11111 checks
+noairneeded bets [$0.02]
+NNNddd11111 calls [$0.02]
+** Dealing turn ** [ 8d ]
+NNNddd11111 checks
+noairneeded checks
+** Dealing river ** [ Tc ]
+NNNddd11111 bets [$0.08]
+noairneeded calls [$0.08]
+** Summary **
+NNNddd11111 shows [ 5d, 7c ]
+noairneeded mucks [ As, 3c ]
+NNNddd11111 collected [ $0.23 ]
+
+
+#Game No : 505509619
+***** 888poker Hand History for Game 505509619 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 14:54:47
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NNNddd11111 ( $1.13 )
+Seat 4: noairneeded ( $1.62 )
+NNNddd11111 posts small blind [$0.01]
+noairneeded posts big blind [$0.02]
+** Dealing down cards **
+NNNddd11111 raises [$0.05]
+noairneeded folds
+** Summary **
+NNNddd11111 collected [ $0.04 ]
+
+
+#Game No : 505509628
+***** 888poker Hand History for Game 505509628 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 14:55:02
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: NNNddd11111 ( $1.15 )
+Seat 4: noairneeded ( $1.60 )
+noairneeded posts small blind [$0.01]
+NNNddd11111 posts big blind [$0.02]
+** Dealing down cards **
+noairneeded raises [$0.03]
+NNNddd11111 folds
+** Summary **
+noairneeded collected [ $0.04 ]
+
+
+#Game No : 505509642
+***** 888poker Hand History for Game 505509642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 14:55:26
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NNNddd11111 ( $1.13 )
+Seat 4: noairneeded ( $1.62 )
+NNNddd11111 posts small blind [$0.01]
+noairneeded posts big blind [$0.02]
+** Dealing down cards **
+NNNddd11111 folds
+** Summary **
+noairneeded collected [ $0.03 ]
+
+
+#Game No : 505509651
+***** 888poker Hand History for Game 505509651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 14:55:42
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: NNNddd11111 ( $1.12 )
+Seat 4: noairneeded ( $1.63 )
+noairneeded posts small blind [$0.01]
+NNNddd11111 posts big blind [$0.02]
+** Dealing down cards **
+noairneeded calls [$0.01]
+NNNddd11111 raises [$0.04]
+noairneeded calls [$0.04]
+** Dealing flop ** [ Td, 5h, 6d ]
+NNNddd11111 bets [$0.08]
+noairneeded calls [$0.08]
+** Dealing turn ** [ 4c ]
+NNNddd11111 bets [$0.14]
+noairneeded folds
+** Summary **
+NNNddd11111 collected [ $0.27 ]
+
+
+#Game No : 505509671
+***** 888poker Hand History for Game 505509671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 14:56:16
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: sk4rum ( $1 )
+Seat 4: noairneeded ( $1.49 )
+noairneeded posts small blind [$0.01]
+sk4rum posts big blind [$0.02]
+** Dealing down cards **
+noairneeded calls [$0.01]
+sk4rum checks
+** Dealing flop ** [ Kh, Ad, Tc ]
+sk4rum checks
+noairneeded checks
+** Dealing turn ** [ 6d ]
+sk4rum checks
+noairneeded checks
+** Dealing river ** [ Ac ]
+sk4rum bets [$0.04]
+noairneeded folds
+** Summary **
+sk4rum collected [ $0.04 ]
+
+
+#Game No : 505509730
+***** 888poker Hand History for Game 505509730 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 14:57:45
+Table Liverpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: NNNddd11111 ( $1.25 )
+Seat 2: sk4rum ( $1.02 )
+sk4rum posts small blind [$0.01]
+NNNddd11111 posts big blind [$0.02]
+** Dealing down cards **
+sk4rum raises [$0.05]
+NNNddd11111 folds
+** Summary **
+sk4rum collected [ $0.04 ]
+
+
+#Game No : 505509736
+***** 888poker Hand History for Game 505509736 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 14:58:03
+Table Liverpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NNNddd11111 ( $1.23 )
+Seat 2: sk4rum ( $1.04 )
+NNNddd11111 posts small blind [$0.01]
+** Dealing down cards **
+sk4rum folds
+** Summary **
+NNNddd11111 did not show his hand
+NNNddd11111 collected [ $0.01 ]
+
+
+#Game No : 505511437
+***** 888poker Hand History for Game 505511437 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:46:50
+Table Liverpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.78 )
+Seat 6: monkey3389 ( $1.19 )
+monkey3389 posts small blind [$0.01]
+_GoodBro_ posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 raises [$0.05]
+_GoodBro_ folds
+** Summary **
+monkey3389 collected [ $0.04 ]
+
+
+#Game No : 505511439
+***** 888poker Hand History for Game 505511439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:47:00
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.76 )
+Seat 6: monkey3389 ( $1.21 )
+_GoodBro_ posts small blind [$0.01]
+monkey3389 posts big blind [$0.02]
+** Dealing down cards **
+_GoodBro_ folds
+** Summary **
+monkey3389 collected [ $0.03 ]
+
+
+#Game No : 505511446
+***** 888poker Hand History for Game 505511446 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:47:08
+Table Liverpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.75 )
+Seat 6: monkey3389 ( $1.22 )
+monkey3389 posts small blind [$0.01]
+_GoodBro_ posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 raises [$0.05]
+_GoodBro_ calls [$0.04]
+** Dealing flop ** [ 6h, Ah, Qc ]
+_GoodBro_ checks
+monkey3389 bets [$0.06]
+_GoodBro_ raises [$0.18]
+monkey3389 folds
+** Summary **
+_GoodBro_ collected [ $0.23 ]
+
+
+#Game No : 505511469
+***** 888poker Hand History for Game 505511469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:47:46
+Table Liverpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.86 )
+Seat 6: monkey3389 ( $1.12 )
+monkey3389 posts small blind [$0.01]
+_GoodBro_ posts big blind [$0.02]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+_GoodBro_ collected [ $0.03 ]
+
+
+#Game No : 505511472
+***** 888poker Hand History for Game 505511472 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:47:53
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.87 )
+Seat 6: monkey3389 ( $1.11 )
+_GoodBro_ posts small blind [$0.01]
+** Dealing down cards **
+monkey3389 folds
+** Summary **
+_GoodBro_ collected [ $0.01 ]
+
+
+#Game No : 505511493
+***** 888poker Hand History for Game 505511493 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:48:31
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.87 )
+Seat 7: andyyy_17 ( $1 )
+_GoodBro_ posts small blind [$0.01]
+andyyy_17 posts big blind [$0.02]
+** Dealing down cards **
+_GoodBro_ raises [$0.05]
+andyyy_17 calls [$0.04]
+** Dealing flop ** [ 8d, Td, Qs ]
+andyyy_17 checks
+_GoodBro_ checks
+** Dealing turn ** [ 6h ]
+andyyy_17 checks
+_GoodBro_ checks
+** Dealing river ** [ 7s ]
+andyyy_17 checks
+_GoodBro_ bets [$0.06]
+andyyy_17 folds
+** Summary **
+_GoodBro_ collected [ $0.12 ]
+
+
+#Game No : 505511529
+***** 888poker Hand History for Game 505511529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:49:58
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.93 )
+Seat 9: dunemaster04 ( $1 )
+_GoodBro_ posts small blind [$0.01]
+dunemaster04 posts big blind [$0.02]
+** Dealing down cards **
+_GoodBro_ raises [$0.05]
+dunemaster04 folds
+** Summary **
+_GoodBro_ collected [ $0.04 ]
+
+
+#Game No : 505511539
+***** 888poker Hand History for Game 505511539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:50:10
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.95 )
+Seat 9: dunemaster04 ( $0.98 )
+dunemaster04 posts small blind [$0.01]
+_GoodBro_ posts big blind [$0.02]
+** Dealing down cards **
+dunemaster04 raises [$0.03]
+_GoodBro_ folds
+** Summary **
+dunemaster04 collected [ $0.04 ]
+
+
+#Game No : 505511542
+***** 888poker Hand History for Game 505511542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:50:15
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.93 )
+Seat 9: dunemaster04 ( $1 )
+_GoodBro_ posts small blind [$0.01]
+dunemaster04 posts big blind [$0.02]
+** Dealing down cards **
+_GoodBro_ folds
+** Summary **
+dunemaster04 collected [ $0.03 ]
+
+
+#Game No : 505511546
+***** 888poker Hand History for Game 505511546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:50:21
+Table Liverpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.92 )
+Seat 9: dunemaster04 ( $1.01 )
+dunemaster04 posts small blind [$0.01]
+_GoodBro_ posts big blind [$0.02]
+** Dealing down cards **
+dunemaster04 raises [$0.03]
+_GoodBro_ folds
+** Summary **
+dunemaster04 did not show his hand
+dunemaster04 collected [ $0.04 ]
+
+
+#Game No : 505511549
+***** 888poker Hand History for Game 505511549 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 11 2018 15:50:27
+Table Liverpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: _GoodBro_ ( $1.90 )
+Seat 9: dunemaster04 ( $1.03 )
+_GoodBro_ posts small blind [$0.01]
+dunemaster04 posts big blind [$0.02]
+** Dealing down cards **
+_GoodBro_ raises [$0.05]
+dunemaster04 folds
+** Summary **
+_GoodBro_ collected [ $0.04 ]
+
+

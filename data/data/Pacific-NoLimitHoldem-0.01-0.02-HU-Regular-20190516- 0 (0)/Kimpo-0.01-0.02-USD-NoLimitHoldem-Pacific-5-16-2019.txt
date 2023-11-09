@@ -1,0 +1,342 @@
+#Game No : 294776
+***** 888poker Hand History for Game 294776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 21:29:15
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: oriyocafe ( $0.81 )
+Seat 4: i_am_you_ ( $0.80 )
+oriyocafe posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+oriyocafe calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 6s, 2d, 6d ]
+i_am_you_ checks
+oriyocafe checks
+** Dealing turn ** [ 5s ]
+i_am_you_ bets [$0.02]
+oriyocafe calls [$0.02]
+** Dealing river ** [ Kh ]
+i_am_you_ checks
+oriyocafe bets [$0.02]
+i_am_you_ calls [$0.02]
+** Summary **
+oriyocafe shows [ Jc, 5d ]
+i_am_you_ shows [ 8h, 8c ]
+i_am_you_ collected [ $0.12 ]
+
+
+#Game No : 294777
+***** 888poker Hand History for Game 294777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 21:29:45
+Table Kimpo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: oriyocafe ( $0.75 )
+Seat 4: i_am_you_ ( $0.86 )
+i_am_you_ posts small blind [$0.01]
+oriyocafe posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+oriyocafe did not show his hand
+oriyocafe collected [ $0.03 ]
+
+
+#Game No : 294778
+***** 888poker Hand History for Game 294778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 21:29:50
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: oriyocafe ( $0.76 )
+Seat 4: i_am_you_ ( $0.85 )
+oriyocafe posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+oriyocafe calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ Qc, 7d, 3d ]
+i_am_you_ checks
+oriyocafe checks
+** Dealing turn ** [ 7c ]
+i_am_you_ bets [$0.02]
+oriyocafe folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 294779
+***** 888poker Hand History for Game 294779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 21:30:08
+Table Kimpo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: oriyocafe ( $0.74 )
+Seat 4: i_am_you_ ( $0.87 )
+i_am_you_ posts small blind [$0.01]
+oriyocafe posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+oriyocafe collected [ $0.03 ]
+
+
+#Game No : 294785
+***** 888poker Hand History for Game 294785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 21:31:42
+Table Kimpo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $0.91 )
+Seat 6: Whatnif ( $0.80 )
+i_am_you_ posts small blind [$0.01]
+Whatnif posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Whatnif collected [ $0.03 ]
+
+
+#Game No : 294786
+***** 888poker Hand History for Game 294786 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 21:31:47
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $0.90 )
+Seat 6: Whatnif ( $0.81 )
+Whatnif posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Whatnif calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 8s, Ts, Kc ]
+i_am_you_ checks
+Whatnif checks
+** Dealing turn ** [ 4c ]
+i_am_you_ checks
+Whatnif checks
+** Dealing river ** [ 9d ]
+i_am_you_ checks
+Whatnif checks
+** Summary **
+i_am_you_ shows [ 5c, 2d ]
+Whatnif shows [ 7d, 4s ]
+Whatnif collected [ $0.04 ]
+
+
+#Game No : 294927
+***** 888poker Hand History for Game 294927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 22:16:40
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1 )
+Seat 6: Whatnif ( $0.83 )
+Whatnif posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Whatnif calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ Ts, 6c, 6s ]
+i_am_you_ checks
+Whatnif checks
+** Dealing turn ** [ 4h ]
+i_am_you_ checks
+Whatnif checks
+** Dealing river ** [ 7s ]
+i_am_you_ bets [$0.02]
+Whatnif calls [$0.02]
+** Summary **
+i_am_you_ shows [ 3s, Qs ]
+Whatnif mucks [ 9d, Kd ]
+i_am_you_ collected [ $0.08 ]
+
+
+#Game No : 294930
+***** 888poker Hand History for Game 294930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 22:17:20
+Table Kimpo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1.04 )
+Seat 6: Whatnif ( $0.79 )
+i_am_you_ posts small blind [$0.01]
+Whatnif posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.03]
+Whatnif calls [$0.02]
+** Dealing flop ** [ Th, 3h, 7s ]
+Whatnif checks
+i_am_you_ bets [$0.05]
+Whatnif folds
+** Summary **
+i_am_you_ collected [ $0.08 ]
+
+
+#Game No : 294932
+***** 888poker Hand History for Game 294932 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 22:17:54
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1.08 )
+Seat 6: Whatnif ( $0.75 )
+Whatnif posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Whatnif calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 3d, Ah, Qs ]
+i_am_you_ checks
+Whatnif checks
+** Dealing turn ** [ 8c ]
+i_am_you_ checks
+Whatnif checks
+** Dealing river ** [ 5d ]
+i_am_you_ checks
+Whatnif checks
+** Summary **
+i_am_you_ shows [ 6c, 9d ]
+Whatnif shows [ Kd, Js ]
+Whatnif collected [ $0.04 ]
+
+
+#Game No : 294935
+***** 888poker Hand History for Game 294935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 22:18:28
+Table Kimpo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1.06 )
+Seat 6: Whatnif ( $0.77 )
+i_am_you_ posts small blind [$0.01]
+Whatnif posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.03]
+Whatnif folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 294937
+***** 888poker Hand History for Game 294937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 22:18:44
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1.08 )
+Seat 6: Whatnif ( $0.75 )
+Whatnif posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Whatnif calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 2c, Qh, Kd ]
+i_am_you_ checks
+Whatnif bets [$0.02]
+i_am_you_ folds
+** Summary **
+Whatnif collected [ $0.04 ]
+
+
+#Game No : 294938
+***** 888poker Hand History for Game 294938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 22:19:05
+Table Kimpo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1.06 )
+Seat 6: Whatnif ( $0.77 )
+i_am_you_ posts small blind [$0.01]
+Whatnif posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.03]
+Whatnif calls [$0.02]
+** Dealing flop ** [ Td, 4h, 7h ]
+Whatnif checks
+i_am_you_ checks
+** Dealing turn ** [ Kd ]
+Whatnif checks
+i_am_you_ bets [$0.05]
+Whatnif folds
+** Summary **
+i_am_you_ collected [ $0.08 ]
+
+
+#Game No : 294941
+***** 888poker Hand History for Game 294941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 22:19:43
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1.10 )
+Seat 6: Whatnif ( $0.73 )
+Whatnif posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Whatnif calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 4s, 6d, 3s ]
+i_am_you_ checks
+Whatnif checks
+** Dealing turn ** [ Ts ]
+i_am_you_ checks
+Whatnif bets [$0.02]
+i_am_you_ folds
+** Summary **
+Whatnif collected [ $0.04 ]
+
+
+#Game No : 294942
+***** 888poker Hand History for Game 294942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 22:20:16
+Table Kimpo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1.08 )
+Seat 6: Whatnif ( $0.75 )
+i_am_you_ posts small blind [$0.01]
+Whatnif posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.03]
+Whatnif calls [$0.02]
+** Dealing flop ** [ Qc, 3c, 7d ]
+Whatnif checks
+i_am_you_ bets [$0.03]
+Whatnif calls [$0.03]
+** Dealing turn ** [ 9d ]
+Whatnif checks
+i_am_you_ bets [$0.10]
+Whatnif calls [$0.10]
+** Dealing river ** [ Td ]
+Whatnif bets [$0.17]
+i_am_you_ calls [$0.17]
+** Summary **
+Whatnif shows [ Kh, Js ]
+i_am_you_ mucks [ Qd, Kc ]
+Whatnif collected [ $0.64 ]
+
+
+#Game No : 294945
+***** 888poker Hand History for Game 294945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 22:21:20
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $0.80 )
+Seat 6: Whatnif ( $1.05 )
+Whatnif posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Whatnif calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 8c, Js, Qc ]
+i_am_you_ bets [$0.02]
+Whatnif folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+

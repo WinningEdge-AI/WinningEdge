@@ -1,0 +1,973 @@
+#Game No : 506992181
+***** 888poker Hand History for Game 506992181 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:19:34
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.98 )
+Seat 5: zukalek ( $2.02 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek raises [$0.06]
+BECOCLA22 calls [$0.06]
+** Dealing flop ** [ Ad, 8c, 2d ]
+zukalek bets [$0.08]
+BECOCLA22 calls [$0.08]
+** Dealing turn ** [ 6s ]
+zukalek bets [$0.20]
+BECOCLA22 calls [$0.20]
+** Dealing river ** [ 7s ]
+zukalek bets [$0.52]
+BECOCLA22 calls [$0.52]
+** Summary **
+zukalek shows [ 6d, 6c ]
+BECOCLA22 mucks [ 2s, As ]
+zukalek collected [ $1.65 ]
+
+
+#Game No : 506992295
+***** 888poker Hand History for Game 506992295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:19:54
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.10 )
+Seat 5: zukalek ( $2.79 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.03 ]
+
+
+#Game No : 506992300
+***** 888poker Hand History for Game 506992300 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:19:59
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.11 )
+Seat 5: zukalek ( $2.78 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek raises [$0.06]
+BECOCLA22 calls [$0.06]
+** Dealing flop ** [ 6c, 8s, As ]
+zukalek checks
+BECOCLA22 bets [$0.20]
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.15 ]
+
+
+#Game No : 506992356
+***** 888poker Hand History for Game 506992356 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:20:35
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.18 )
+Seat 5: zukalek ( $2.70 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+BECOCLA22 calls [$0.04]
+** Dealing flop ** [ 3c, Th, Qd ]
+BECOCLA22 checks
+zukalek checks
+** Dealing turn ** [ 9h ]
+BECOCLA22 bets [$0.10]
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.12 ]
+
+
+#Game No : 506992397
+***** 888poker Hand History for Game 506992397 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:21:03
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.24 )
+Seat 5: zukalek ( $2.64 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 3c, As, 4h ]
+zukalek checks
+BECOCLA22 bets [$0.06]
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.04 ]
+
+
+#Game No : 506992439
+***** 888poker Hand History for Game 506992439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:21:29
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.26 )
+Seat 5: zukalek ( $2.62 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+BECOCLA22 raises [$0.12]
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.12 ]
+
+
+#Game No : 506992469
+***** 888poker Hand History for Game 506992469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:21:45
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.32 )
+Seat 5: zukalek ( $2.56 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ Qh, 7c, 5h ]
+zukalek checks
+BECOCLA22 checks
+** Dealing turn ** [ 3d ]
+zukalek checks
+BECOCLA22 checks
+** Dealing river ** [ 2h ]
+zukalek checks
+BECOCLA22 checks
+** Summary **
+zukalek shows [ 3h, 6s ]
+BECOCLA22 mucks [ 8h, Ad ]
+zukalek collected [ $0.04 ]
+
+
+#Game No : 506992508
+***** 888poker Hand History for Game 506992508 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:22:05
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.30 )
+Seat 5: zukalek ( $2.58 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+BECOCLA22 calls [$0.04]
+** Dealing flop ** [ 4h, 4d, 9c ]
+BECOCLA22 bets [$0.10]
+zukalek calls [$0.10]
+** Dealing turn ** [ 8s ]
+BECOCLA22 bets [$0.30]
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.30 ]
+
+
+#Game No : 506992565
+***** 888poker Hand History for Game 506992565 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:22:46
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.44 )
+Seat 5: zukalek ( $2.42 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 6c, 8c, 6h ]
+zukalek checks
+BECOCLA22 checks
+** Dealing turn ** [ 9s ]
+zukalek bets [$0.03]
+BECOCLA22 calls [$0.03]
+** Dealing river ** [ 5h ]
+zukalek checks
+BECOCLA22 checks
+** Summary **
+zukalek shows [ 5s, Th ]
+BECOCLA22 shows [ 9d, Kc ]
+BECOCLA22 collected [ $0.10 ]
+
+
+#Game No : 506992601
+***** 888poker Hand History for Game 506992601 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:23:10
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.49 )
+Seat 5: zukalek ( $2.37 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.03 ]
+
+
+#Game No : 506992604
+***** 888poker Hand History for Game 506992604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:23:15
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $1.50 )
+Seat 5: zukalek ( $2.36 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek raises [$0.08]
+BECOCLA22 calls [$0.08]
+** Dealing flop ** [ 6d, 4s, Qh ]
+zukalek bets [$0.12]
+BECOCLA22 calls [$0.12]
+** Dealing turn ** [ 4h ]
+zukalek bets [$0.27]
+BECOCLA22 calls [$0.27]
+** Dealing river ** [ 5h ]
+zukalek bets [$0.60]
+BECOCLA22 raises [$1.01]
+zukalek calls [$0.41]
+** Summary **
+BECOCLA22 shows [ 6c, 6h ]
+zukalek shows [ Kc, Ks ]
+BECOCLA22 collected [ $2.82 ]
+
+
+#Game No : 506992673
+***** 888poker Hand History for Game 506992673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:23:58
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.82 )
+Seat 5: zukalek ( $2 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.03 ]
+
+
+#Game No : 506992677
+***** 888poker Hand History for Game 506992677 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:24:03
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.83 )
+Seat 5: zukalek ( $2 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ Jd, 2h, 8h ]
+zukalek checks
+BECOCLA22 checks
+** Dealing turn ** [ 3c ]
+zukalek checks
+BECOCLA22 checks
+** Dealing river ** [ 2d ]
+zukalek checks
+BECOCLA22 checks
+** Summary **
+zukalek shows [ Kd, 6d ]
+BECOCLA22 shows [ 3h, 6h ]
+BECOCLA22 collected [ $0.04 ]
+
+
+#Game No : 506992709
+***** 888poker Hand History for Game 506992709 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:24:23
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.85 )
+Seat 5: zukalek ( $2 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.03 ]
+
+
+#Game No : 506992719
+***** 888poker Hand History for Game 506992719 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:24:28
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.86 )
+Seat 5: zukalek ( $2 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek raises [$0.08]
+BECOCLA22 calls [$0.08]
+** Dealing flop ** [ 8s, 7s, 4d ]
+zukalek bets [$0.13]
+BECOCLA22 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.19 ]
+
+
+#Game No : 506992742
+***** 888poker Hand History for Game 506992742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:24:45
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.76 )
+Seat 5: zukalek ( $2.09 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.03 ]
+
+
+#Game No : 506992748
+***** 888poker Hand History for Game 506992748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:24:50
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.77 )
+Seat 5: zukalek ( $2.08 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.03 ]
+
+
+#Game No : 506992755
+***** 888poker Hand History for Game 506992755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:24:55
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.76 )
+Seat 5: zukalek ( $2.09 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+BECOCLA22 calls [$0.04]
+** Dealing flop ** [ 6d, Jc, Tc ]
+BECOCLA22 checks
+zukalek checks
+** Dealing turn ** [ 3d ]
+BECOCLA22 checks
+zukalek bets [$0.08]
+BECOCLA22 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.12 ]
+
+
+#Game No : 506992784
+***** 888poker Hand History for Game 506992784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:25:14
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.70 )
+Seat 5: zukalek ( $2.15 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 2d, 2c, Jd ]
+zukalek checks
+BECOCLA22 checks
+** Dealing turn ** [ 7d ]
+zukalek checks
+BECOCLA22 bets [$0.04]
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.04 ]
+
+
+#Game No : 506992822
+***** 888poker Hand History for Game 506992822 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:25:40
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.72 )
+Seat 5: zukalek ( $2.13 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+BECOCLA22 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.04 ]
+
+
+#Game No : 506992841
+***** 888poker Hand History for Game 506992841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:25:51
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.70 )
+Seat 5: zukalek ( $2.15 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 calls [$0.01]
+zukalek raises [$0.08]
+BECOCLA22 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.04 ]
+
+
+#Game No : 506992861
+***** 888poker Hand History for Game 506992861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:26:01
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.68 )
+Seat 5: zukalek ( $2.17 )
+zukalek posts small blind [$0.01]
+BECOCLA22 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+BECOCLA22 did not show his hand
+BECOCLA22 collected [ $0.03 ]
+
+
+#Game No : 506992869
+***** 888poker Hand History for Game 506992869 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:26:06
+Table Rancagua 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BECOCLA22 ( $2.69 )
+Seat 5: zukalek ( $2.16 )
+BECOCLA22 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+BECOCLA22 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.03 ]
+
+
+#Game No : 506993428
+***** 888poker Hand History for Game 506993428 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:31:27
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.20 )
+Seat 5: zukalek ( $2.17 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.03 ]
+
+
+#Game No : 506993698
+***** 888poker Hand History for Game 506993698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:33:42
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.27 )
+Seat 5: zukalek ( $2.09 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu raises [$0.05]
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.04 ]
+
+
+#Game No : 506993711
+***** 888poker Hand History for Game 506993711 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:33:51
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.29 )
+Seat 5: zukalek ( $2.07 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+pepeuflu calls [$0.04]
+** Dealing flop ** [ Jd, 6h, 4c ]
+pepeuflu checks
+zukalek bets [$0.06]
+pepeuflu folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.12 ]
+
+
+#Game No : 506993742
+***** 888poker Hand History for Game 506993742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:34:05
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.23 )
+Seat 5: zukalek ( $2.13 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 2d, 5h, 2s ]
+zukalek checks
+pepeuflu checks
+** Dealing turn ** [ 9c ]
+zukalek checks
+pepeuflu bets [$0.02]
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.04 ]
+
+
+#Game No : 506993803
+***** 888poker Hand History for Game 506993803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:34:40
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.25 )
+Seat 5: zukalek ( $2.11 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+pepeuflu calls [$0.04]
+** Dealing flop ** [ Jc, 9c, 4c ]
+pepeuflu checks
+zukalek bets [$0.06]
+pepeuflu calls [$0.06]
+** Dealing turn ** [ 2d ]
+pepeuflu checks
+zukalek checks
+** Dealing river ** [ 8c ]
+pepeuflu checks
+zukalek checks
+** Summary **
+pepeuflu shows [ 5h, 5s ]
+zukalek shows [ Kh, 8d ]
+zukalek collected [ $0.23 ]
+
+
+#Game No : 506993879
+***** 888poker Hand History for Game 506993879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:35:25
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.13 )
+Seat 5: zukalek ( $2.22 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu calls [$0.01]
+zukalek raises [$0.08]
+pepeuflu calls [$0.08]
+** Dealing flop ** [ Qh, 4s, Qc ]
+zukalek bets [$0.10]
+pepeuflu folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.19 ]
+
+
+#Game No : 506993903
+***** 888poker Hand History for Game 506993903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:35:40
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.03 )
+Seat 5: zukalek ( $2.31 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.03 ]
+
+
+#Game No : 506993913
+***** 888poker Hand History for Game 506993913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:35:45
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.04 )
+Seat 5: zukalek ( $2.30 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu calls [$0.01]
+zukalek raises [$0.08]
+pepeuflu calls [$0.08]
+** Dealing flop ** [ Qd, 3s, Jd ]
+zukalek checks
+pepeuflu bets [$0.20]
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.19 ]
+
+
+#Game No : 506993967
+***** 888poker Hand History for Game 506993967 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:36:13
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.13 )
+Seat 5: zukalek ( $2.20 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+pepeuflu calls [$0.04]
+** Dealing flop ** [ 3s, 2d, As ]
+pepeuflu checks
+zukalek bets [$0.06]
+pepeuflu folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.12 ]
+
+
+#Game No : 506993989
+***** 888poker Hand History for Game 506993989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:36:28
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.07 )
+Seat 5: zukalek ( $2.26 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu raises [$0.03]
+zukalek calls [$0.02]
+** Dealing flop ** [ 6s, Kh, 9s ]
+zukalek checks
+pepeuflu bets [$0.08]
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.08 ]
+
+
+#Game No : 506994011
+***** 888poker Hand History for Game 506994011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:36:41
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.11 )
+Seat 5: zukalek ( $2.22 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+pepeuflu calls [$0.04]
+** Dealing flop ** [ 9c, Qd, 7s ]
+pepeuflu checks
+zukalek bets [$0.08]
+pepeuflu folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.12 ]
+
+
+#Game No : 506994038
+***** 888poker Hand History for Game 506994038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:36:57
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.05 )
+Seat 5: zukalek ( $2.28 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu raises [$0.03]
+zukalek calls [$0.02]
+** Dealing flop ** [ 8s, Ac, 7c ]
+zukalek checks
+pepeuflu bets [$0.02]
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.08 ]
+
+
+#Game No : 506994066
+***** 888poker Hand History for Game 506994066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:37:11
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.09 )
+Seat 5: zukalek ( $2.24 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.03 ]
+
+
+#Game No : 506994070
+***** 888poker Hand History for Game 506994070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:37:16
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.10 )
+Seat 5: zukalek ( $2.23 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu raises [$0.05]
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.04 ]
+
+
+#Game No : 506994084
+***** 888poker Hand History for Game 506994084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:37:24
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.12 )
+Seat 5: zukalek ( $2.21 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+pepeuflu calls [$0.04]
+** Dealing flop ** [ 8c, 2d, Ks ]
+pepeuflu checks
+zukalek bets [$0.06]
+pepeuflu folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.12 ]
+
+
+#Game No : 506994110
+***** 888poker Hand History for Game 506994110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:37:39
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $1.06 )
+Seat 5: zukalek ( $2.27 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu calls [$0.01]
+zukalek raises [$0.08]
+pepeuflu calls [$0.08]
+** Dealing flop ** [ Jd, 2h, Qc ]
+zukalek checks
+pepeuflu checks
+** Dealing turn ** [ 6d ]
+zukalek checks
+pepeuflu checks
+** Dealing river ** [ Jh ]
+zukalek checks
+pepeuflu checks
+** Summary **
+zukalek shows [ 8d, 8h ]
+pepeuflu mucks [ 8c, Kh ]
+zukalek collected [ $0.19 ]
+
+
+#Game No : 506994148
+***** 888poker Hand History for Game 506994148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:38:10
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $0.96 )
+Seat 5: zukalek ( $2.36 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.03 ]
+
+
+#Game No : 506994156
+***** 888poker Hand History for Game 506994156 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:38:16
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $0.97 )
+Seat 5: zukalek ( $2.35 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu calls [$0.01]
+zukalek raises [$0.08]
+pepeuflu folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.04 ]
+
+
+#Game No : 506994175
+***** 888poker Hand History for Game 506994175 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:38:27
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $0.95 )
+Seat 5: zukalek ( $2.37 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.03 ]
+
+
+#Game No : 506994185
+***** 888poker Hand History for Game 506994185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:38:32
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $0.96 )
+Seat 5: zukalek ( $2.36 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu raises [$0.05]
+zukalek folds
+** Summary **
+pepeuflu did not show his hand
+pepeuflu collected [ $0.04 ]
+
+
+#Game No : 506994197
+***** 888poker Hand History for Game 506994197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:38:40
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $0.98 )
+Seat 5: zukalek ( $2.34 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+pepeuflu folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.04 ]
+
+
+#Game No : 506994220
+***** 888poker Hand History for Game 506994220 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:38:56
+Table Rancagua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $0.96 )
+Seat 5: zukalek ( $2.36 )
+pepeuflu posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+pepeuflu calls [$0.01]
+zukalek raises [$0.08]
+pepeuflu calls [$0.08]
+** Dealing flop ** [ 7d, 4d, 7h ]
+zukalek bets [$0.12]
+pepeuflu folds
+** Summary **
+zukalek collected [ $0.19 ]
+
+
+#Game No : 506994244
+***** 888poker Hand History for Game 506994244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 12:39:15
+Table Rancagua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: pepeuflu ( $0.86 )
+Seat 5: zukalek ( $2.45 )
+zukalek posts small blind [$0.01]
+pepeuflu posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+pepeuflu collected [ $0.03 ]
+
+

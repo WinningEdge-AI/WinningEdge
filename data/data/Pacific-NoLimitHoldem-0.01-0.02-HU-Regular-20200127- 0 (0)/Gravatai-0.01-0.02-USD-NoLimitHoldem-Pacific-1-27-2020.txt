@@ -1,0 +1,28 @@
+#Game No : 550373714
+***** 888poker Hand History for Game 550373714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2020 00:14:23
+Table Gravatai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Amoro1302 ( $0.85 )
+Seat 6: waimanc ( $3.62 )
+Amoro1302 posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+Amoro1302 calls [$0.01]
+waimanc checks
+** Dealing flop ** [ 9s, 3d, 4h ]
+waimanc checks
+Amoro1302 checks
+** Dealing turn ** [ Jd ]
+waimanc checks
+Amoro1302 checks
+** Dealing river ** [ 7d ]
+waimanc checks
+Amoro1302 checks
+** Summary **
+waimanc shows [ 5d, 3c ]
+Amoro1302 mucks [ Kd, 2s ]
+waimanc collected [ $0.04 ]
+
+

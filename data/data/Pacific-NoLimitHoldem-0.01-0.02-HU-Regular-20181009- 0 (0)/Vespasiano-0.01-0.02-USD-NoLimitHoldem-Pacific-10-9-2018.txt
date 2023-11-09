@@ -1,0 +1,30 @@
+#Game No : 456246354
+***** 888poker Hand History for Game 456246354 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 16:16:34
+Table Vespasiano 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: profiorsk ( $0.95 )
+Seat 6: Hocusfocus ( $1.41 )
+profiorsk posts small blind [$0.01]
+Hocusfocus posts big blind [$0.02]
+** Dealing down cards **
+profiorsk calls [$0.01]
+Hocusfocus raises [$0.02]
+profiorsk calls [$0.02]
+** Dealing flop ** [ As, 8h, 3s ]
+Hocusfocus bets [$0.08]
+profiorsk raises [$0.16]
+Hocusfocus calls [$0.08]
+** Dealing turn ** [ 4s ]
+Hocusfocus bets [$0.40]
+profiorsk calls [$0.40]
+** Dealing river ** [ 8d ]
+Hocusfocus bets [$0.80]
+profiorsk calls [$0.35]
+** Summary **
+profiorsk shows [ Ad, 9s ]
+Hocusfocus shows [ 8s, Js ]
+Hocusfocus collected [ $1.79 ]
+
+

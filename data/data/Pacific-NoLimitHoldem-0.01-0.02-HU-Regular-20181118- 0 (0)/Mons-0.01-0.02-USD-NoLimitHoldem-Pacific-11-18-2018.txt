@@ -1,0 +1,157 @@
+#Game No : 505569530
+***** 888poker Hand History for Game 505569530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 18:01:57
+Table Mons 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: GenelynT ( $1 )
+Seat 2: f.rotti ( $1 )
+f.rotti posts small blind [$0.01]
+GenelynT posts big blind [$0.02]
+** Dealing down cards **
+f.rotti calls [$0.01]
+GenelynT checks
+** Dealing flop ** [ 6s, 8h, 7s ]
+GenelynT checks
+f.rotti checks
+** Dealing turn ** [ Ac ]
+GenelynT checks
+f.rotti bets [$0.02]
+GenelynT calls [$0.02]
+** Dealing river ** [ 4c ]
+GenelynT checks
+f.rotti bets [$0.02]
+GenelynT calls [$0.02]
+** Summary **
+f.rotti shows [ 7h, 3s ]
+GenelynT mucks [ Kh, 9h ]
+f.rotti collected [ $0.12 ]
+
+
+#Game No : 505569595
+***** 888poker Hand History for Game 505569595 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 18:03:25
+Table Mons 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: f.rotti ( $1.08 )
+Seat 4: Axlguy ( $0.98 )
+f.rotti posts small blind [$0.01]
+Axlguy posts big blind [$0.02]
+** Dealing down cards **
+f.rotti calls [$0.01]
+Axlguy checks
+** Dealing flop ** [ 5c, 2s, Ks ]
+Axlguy checks
+f.rotti checks
+** Dealing turn ** [ 7d ]
+Axlguy checks
+f.rotti checks
+** Dealing river ** [ 2d ]
+Axlguy bets [$0.08]
+f.rotti folds
+** Summary **
+Axlguy collected [ $0.04 ]
+
+
+#Game No : 505569615
+***** 888poker Hand History for Game 505569615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 18:04:12
+Table Mons 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: f.rotti ( $1.06 )
+Seat 4: Axlguy ( $1 )
+Axlguy posts small blind [$0.01]
+f.rotti posts big blind [$0.02]
+** Dealing down cards **
+Axlguy calls [$0.01]
+f.rotti checks
+** Dealing flop ** [ Qh, 5s, Js ]
+f.rotti checks
+Axlguy checks
+** Dealing turn ** [ 9d ]
+f.rotti checks
+Axlguy checks
+** Dealing river ** [ Ks ]
+f.rotti checks
+Axlguy checks
+** Summary **
+f.rotti shows [ 6h, 4h ]
+Axlguy shows [ 7h, 8d ]
+Axlguy collected [ $0.04 ]
+
+
+#Game No : 505569644
+***** 888poker Hand History for Game 505569644 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 18:05:11
+Table Mons 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Axlguy ( $1.02 )
+Seat 6: Yuvyy2016 ( $0.80 )
+Axlguy posts small blind [$0.01]
+Yuvyy2016 posts big blind [$0.02]
+** Dealing down cards **
+Axlguy calls [$0.01]
+Yuvyy2016 checks
+** Dealing flop ** [ Kh, 4d, 7h ]
+Yuvyy2016 checks
+Axlguy checks
+** Dealing turn ** [ Td ]
+Yuvyy2016 checks
+Axlguy bets [$0.04]
+Yuvyy2016 calls [$0.04]
+** Dealing river ** [ 6c ]
+Yuvyy2016 checks
+Axlguy bets [$0.12]
+Yuvyy2016 calls [$0.12]
+** Summary **
+Axlguy shows [ As, Ad ]
+Yuvyy2016 mucks [ Qc, Th ]
+Axlguy collected [ $0.34 ]
+
+
+#Game No : 505569668
+***** 888poker Hand History for Game 505569668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 18:06:19
+Table Mons 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Axlguy ( $1.18 )
+Seat 6: Yuvyy2016 ( $0.62 )
+Yuvyy2016 posts small blind [$0.01]
+Axlguy posts big blind [$0.02]
+** Dealing down cards **
+Yuvyy2016 calls [$0.01]
+Axlguy checks
+** Dealing flop ** [ 2d, 3d, 7c ]
+Axlguy checks
+Yuvyy2016 checks
+** Dealing turn ** [ Kd ]
+Axlguy checks
+Yuvyy2016 checks
+** Dealing river ** [ 2h ]
+Axlguy checks
+Yuvyy2016 checks
+** Summary **
+Axlguy shows [ Qs, 5c ]
+Yuvyy2016 mucks [ 5h, Ts ]
+Axlguy collected [ $0.04 ]
+
+
+#Game No : 505570998
+***** 888poker Hand History for Game 505570998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 19:03:27
+Table Mons 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Time_13 ( $2.21 )
+Seat 4: Axlguy ( $0.15 )
+Axlguy posts small blind [$0.01]
+** Dealing down cards **
+Time_13 folds
+** Summary **
+Axlguy collected [ $0.01 ]
+
+

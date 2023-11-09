@@ -1,0 +1,331 @@
+#Game No : 503062275
+***** 888poker Hand History for Game 503062275 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 18:32:00
+Table Stockholm 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Thxmoon1 ( $1.28 )
+Seat 7: Gobetween ( $1.68 )
+Thxmoon1 posts small blind [$0.01]
+Gobetween posts big blind [$0.02]
+** Dealing down cards **
+Thxmoon1 raises [$0.05]
+Gobetween calls [$0.04]
+** Dealing flop ** [ Kc, 8c, Tc ]
+Gobetween checks
+Thxmoon1 bets [$0.08]
+Gobetween calls [$0.08]
+** Dealing turn ** [ 3h ]
+Gobetween checks
+Thxmoon1 bets [$0.28]
+Gobetween folds
+** Summary **
+Thxmoon1 did not show his hand
+Thxmoon1 collected [ $0.27 ]
+
+
+#Game No : 503062285
+***** 888poker Hand History for Game 503062285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 18:32:19
+Table Stockholm 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Thxmoon1 ( $1.41 )
+Seat 7: Gobetween ( $1.54 )
+Gobetween posts small blind [$0.01]
+** Dealing down cards **
+Thxmoon1 folds
+** Summary **
+Gobetween did not show his hand
+Gobetween collected [ $0.01 ]
+
+
+#Game No : 503062620
+***** 888poker Hand History for Game 503062620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 18:50:52
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: malolam1 ( $1 )
+Seat 4: olAmeister ( $1 )
+olAmeister posts small blind [$0.01]
+malolam1 posts big blind [$0.02]
+** Dealing down cards **
+olAmeister calls [$0.01]
+malolam1 checks
+** Dealing flop ** [ 6s, 2s, 2d ]
+malolam1 bets [$0.02]
+olAmeister calls [$0.02]
+** Dealing turn ** [ 7d ]
+malolam1 bets [$0.04]
+olAmeister calls [$0.04]
+** Dealing river ** [ Tc ]
+malolam1 checks
+olAmeister bets [$0.08]
+malolam1 calls [$0.08]
+** Summary **
+olAmeister shows [ Ac, 6h ]
+malolam1 mucks [ 6d, 5s ]
+olAmeister collected [ $0.30 ]
+
+
+#Game No : 503062630
+***** 888poker Hand History for Game 503062630 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 18:51:13
+Table Stockholm 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: malolam1 ( $0.84 )
+Seat 4: olAmeister ( $1.14 )
+malolam1 posts small blind [$0.01]
+olAmeister posts big blind [$0.02]
+** Dealing down cards **
+malolam1 calls [$0.01]
+olAmeister checks
+** Dealing flop ** [ 7s, 2s, Jc ]
+olAmeister checks
+malolam1 bets [$0.02]
+olAmeister folds
+** Summary **
+malolam1 collected [ $0.04 ]
+
+
+#Game No : 503062644
+***** 888poker Hand History for Game 503062644 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 18:51:52
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: malolam1 ( $0.86 )
+Seat 4: olAmeister ( $1.12 )
+olAmeister posts small blind [$0.01]
+malolam1 posts big blind [$0.02]
+** Dealing down cards **
+olAmeister raises [$0.03]
+malolam1 calls [$0.02]
+** Dealing flop ** [ 9h, Ks, 5c ]
+malolam1 bets [$0.02]
+olAmeister calls [$0.02]
+** Dealing turn ** [ 3h ]
+malolam1 checks
+olAmeister bets [$0.06]
+malolam1 folds
+** Summary **
+olAmeister collected [ $0.12 ]
+
+
+#Game No : 503062769
+***** 888poker Hand History for Game 503062769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 18:58:04
+Table Stockholm 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: malolam1 ( $1.15 )
+Seat 4: olAmeister ( $1.53 )
+malolam1 posts small blind [$0.01]
+olAmeister posts big blind [$0.02]
+** Dealing down cards **
+malolam1 folds
+** Summary **
+olAmeister collected [ $0.03 ]
+
+
+#Game No : 503064096
+***** 888poker Hand History for Game 503064096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 20:01:25
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Hague_070 ( $0.22 )
+Seat 6: toottheroom ( $1.80 )
+Hague_070 posts small blind [$0.01]
+toottheroom posts big blind [$0.02]
+** Dealing down cards **
+Hague_070 calls [$0.01]
+toottheroom checks
+** Dealing flop ** [ 3c, As, 9d ]
+toottheroom checks
+Hague_070 bets [$0.02]
+toottheroom calls [$0.02]
+** Dealing turn ** [ 6h ]
+toottheroom checks
+Hague_070 checks
+** Dealing river ** [ 7h ]
+toottheroom checks
+Hague_070 bets [$0.02]
+toottheroom folds
+** Summary **
+Hague_070 did not show his hand
+Hague_070 collected [ $0.08 ]
+
+
+#Game No : 503064111
+***** 888poker Hand History for Game 503064111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 20:02:20
+Table Stockholm 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Hague_070 ( $0.26 )
+Seat 6: toottheroom ( $1.76 )
+toottheroom posts small blind [$0.01]
+Hague_070 posts big blind [$0.02]
+** Dealing down cards **
+toottheroom folds
+** Summary **
+Hague_070 did not show his hand
+Hague_070 collected [ $0.03 ]
+
+
+#Game No : 503064116
+***** 888poker Hand History for Game 503064116 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 20:02:32
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Hague_070 ( $0.27 )
+Seat 6: toottheroom ( $1.75 )
+Hague_070 posts small blind [$0.01]
+toottheroom posts big blind [$0.02]
+** Dealing down cards **
+Hague_070 calls [$0.01]
+toottheroom raises [$0.08]
+Hague_070 calls [$0.08]
+** Dealing flop ** [ Js, Ks, 7d ]
+toottheroom bets [$0.10]
+Hague_070 raises [$0.17]
+toottheroom folds
+** Summary **
+Hague_070 collected [ $0.38 ]
+
+
+#Game No : 503064130
+***** 888poker Hand History for Game 503064130 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 20:03:04
+Table Stockholm 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Hague_070 ( $0.45 )
+Seat 6: toottheroom ( $1.55 )
+toottheroom posts small blind [$0.01]
+Hague_070 posts big blind [$0.02]
+** Dealing down cards **
+toottheroom calls [$0.01]
+Hague_070 checks
+** Dealing flop ** [ 5h, Jd, 2s ]
+Hague_070 checks
+toottheroom checks
+** Dealing turn ** [ Ad ]
+Hague_070 checks
+toottheroom checks
+** Dealing river ** [ 5c ]
+Hague_070 bets [$0.02]
+toottheroom folds
+** Summary **
+Hague_070 collected [ $0.04 ]
+
+
+#Game No : 503064180
+***** 888poker Hand History for Game 503064180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 20:05:29
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Hague_070 ( $0.41 )
+Seat 6: toottheroom ( $2.47 )
+Hague_070 posts small blind [$0.01]
+toottheroom posts big blind [$0.02]
+** Dealing down cards **
+Hague_070 calls [$0.01]
+toottheroom checks
+** Dealing flop ** [ 2s, 3h, Ts ]
+toottheroom checks
+Hague_070 bets [$0.04]
+toottheroom calls [$0.04]
+** Dealing turn ** [ 2h ]
+toottheroom checks
+Hague_070 checks
+** Dealing river ** [ 4s ]
+toottheroom bets [$0.08]
+Hague_070 calls [$0.08]
+** Summary **
+toottheroom shows [ 2c, Tc ]
+Hague_070 mucks [ Qh, 3c ]
+toottheroom collected [ $0.27 ]
+
+
+#Game No : 503064199
+***** 888poker Hand History for Game 503064199 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 20:06:35
+Table Stockholm 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Hague_070 ( $0.27 )
+Seat 6: toottheroom ( $2.60 )
+toottheroom posts small blind [$0.01]
+Hague_070 posts big blind [$0.02]
+** Dealing down cards **
+toottheroom raises [$0.03]
+Hague_070 raises [$0.06]
+toottheroom calls [$0.04]
+** Dealing flop ** [ Ah, Ts, Jd ]
+Hague_070 bets [$0.19]
+toottheroom calls [$0.19]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ Ac ]
+** Summary **
+Hague_070 shows [ 3h, 6d ]
+toottheroom shows [ Qc, 8s ]
+toottheroom collected [ $0.51 ]
+
+
+#Game No : 503064213
+***** 888poker Hand History for Game 503064213 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 20:07:14
+Table Stockholm 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: toottheroom ( $2.84 )
+Seat 7: Yuskojesus ( $1 )
+toottheroom posts small blind [$0.01]
+Yuskojesus posts big blind [$0.02]
+** Dealing down cards **
+toottheroom folds
+** Summary **
+Yuskojesus collected [ $0.03 ]
+
+
+#Game No : 503064216
+***** 888poker Hand History for Game 503064216 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 20:07:23
+Table Stockholm 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: toottheroom ( $2.83 )
+Seat 7: Yuskojesus ( $1.01 )
+Yuskojesus posts small blind [$0.01]
+toottheroom posts big blind [$0.02]
+** Dealing down cards **
+Yuskojesus calls [$0.01]
+toottheroom checks
+** Dealing flop ** [ 8d, Ks, 5s ]
+toottheroom folds
+** Summary **
+Yuskojesus collected [ $0.04 ]
+
+
+#Game No : 503064226
+***** 888poker Hand History for Game 503064226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 20:07:36
+Table Stockholm 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: toottheroom ( $2.81 )
+Seat 7: Yuskojesus ( $1.03 )
+toottheroom posts small blind [$0.01]
+Yuskojesus posts big blind [$0.02]
+** Dealing down cards **
+toottheroom folds
+** Summary **
+Yuskojesus collected [ $0.03 ]
+
+

@@ -1,0 +1,617 @@
+#Game No : 499393607
+***** 888poker Hand History for Game 499393607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:40:31
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: bernd6464 ( $1.09 )
+Seat 9: ccfc_miller ( $1.07 )
+ccfc_miller posts small blind [$0.01]
+bernd6464 posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller raises [$0.05]
+bernd6464 folds
+** Summary **
+ccfc_miller collected [ $0.04 ]
+
+
+#Game No : 499393644
+***** 888poker Hand History for Game 499393644 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:44:44
+Table Nis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1.04 )
+Seat 9: ccfc_miller ( $1.07 )
+Kolkovskiy14 posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Kolkovskiy14 calls [$0.01]
+ccfc_miller checks
+** Dealing flop ** [ 5h, Qs, 7d ]
+ccfc_miller bets [$0.04]
+Kolkovskiy14 folds
+** Summary **
+ccfc_miller did not show his hand
+ccfc_miller collected [ $0.04 ]
+
+
+#Game No : 499393645
+***** 888poker Hand History for Game 499393645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:44:59
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1.02 )
+Seat 9: ccfc_miller ( $1.09 )
+ccfc_miller posts small blind [$0.01]
+Kolkovskiy14 posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller raises [$0.03]
+Kolkovskiy14 calls [$0.02]
+** Dealing flop ** [ 5d, Qh, Ac ]
+Kolkovskiy14 checks
+ccfc_miller bets [$0.05]
+Kolkovskiy14 folds
+** Summary **
+ccfc_miller did not show his hand
+ccfc_miller collected [ $0.08 ]
+
+
+#Game No : 499393649
+***** 888poker Hand History for Game 499393649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:45:20
+Table Nis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $0.98 )
+Seat 9: ccfc_miller ( $1.13 )
+Kolkovskiy14 posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Kolkovskiy14 calls [$0.01]
+ccfc_miller checks
+** Dealing flop ** [ 6s, 2s, 5s ]
+ccfc_miller checks
+Kolkovskiy14 checks
+** Dealing turn ** [ Td ]
+ccfc_miller checks
+Kolkovskiy14 checks
+** Dealing river ** [ 9h ]
+ccfc_miller checks
+Kolkovskiy14 bets [$0.06]
+ccfc_miller folds
+** Summary **
+Kolkovskiy14 did not show his hand
+Kolkovskiy14 collected [ $0.04 ]
+
+
+#Game No : 499393653
+***** 888poker Hand History for Game 499393653 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:45:58
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1 )
+Seat 9: ccfc_miller ( $1.11 )
+ccfc_miller posts small blind [$0.01]
+Kolkovskiy14 posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller folds
+** Summary **
+Kolkovskiy14 did not show his hand
+Kolkovskiy14 collected [ $0.03 ]
+
+
+#Game No : 499393655
+***** 888poker Hand History for Game 499393655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:46:04
+Table Nis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1.01 )
+Seat 9: ccfc_miller ( $1.10 )
+Kolkovskiy14 posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Kolkovskiy14 calls [$0.01]
+ccfc_miller raises [$0.02]
+Kolkovskiy14 calls [$0.02]
+** Dealing flop ** [ 4d, 4h, 6d ]
+ccfc_miller checks
+Kolkovskiy14 checks
+** Dealing turn ** [ 5c ]
+ccfc_miller checks
+Kolkovskiy14 checks
+** Dealing river ** [ Th ]
+ccfc_miller checks
+Kolkovskiy14 bets [$0.02]
+ccfc_miller calls [$0.02]
+** Summary **
+Kolkovskiy14 shows [ 9c, Kc ]
+ccfc_miller mucks [ Qh, 8h ]
+Kolkovskiy14 collected [ $0.12 ]
+
+
+#Game No : 499393681
+***** 888poker Hand History for Game 499393681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:49:58
+Table Nis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1.15 )
+Seat 4: FujiXx ( $1.69 )
+Kolkovskiy14 posts small blind [$0.01]
+FujiXx posts big blind [$0.02]
+** Dealing down cards **
+Kolkovskiy14 calls [$0.01]
+FujiXx checks
+** Dealing flop ** [ 3s, 9d, 4d ]
+FujiXx bets [$0.02]
+Kolkovskiy14 calls [$0.02]
+** Dealing turn ** [ 3c ]
+FujiXx bets [$0.08]
+Kolkovskiy14 folds
+** Summary **
+FujiXx did not show his hand
+FujiXx collected [ $0.08 ]
+
+
+#Game No : 499393686
+***** 888poker Hand History for Game 499393686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:50:24
+Table Nis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1.11 )
+Seat 4: FujiXx ( $1.73 )
+FujiXx posts small blind [$0.01]
+Kolkovskiy14 posts big blind [$0.02]
+** Dealing down cards **
+FujiXx folds
+** Summary **
+Kolkovskiy14 did not show his hand
+Kolkovskiy14 collected [ $0.03 ]
+
+
+#Game No : 499393692
+***** 888poker Hand History for Game 499393692 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:50:49
+Table Nis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1.12 )
+Seat 4: FujiXx ( $1.72 )
+Kolkovskiy14 posts small blind [$0.01]
+FujiXx posts big blind [$0.02]
+** Dealing down cards **
+Kolkovskiy14 calls [$0.01]
+FujiXx checks
+** Dealing flop ** [ 8s, Ac, Qh ]
+FujiXx checks
+Kolkovskiy14 checks
+** Dealing turn ** [ Tc ]
+FujiXx checks
+Kolkovskiy14 bets [$0.04]
+FujiXx folds
+** Summary **
+Kolkovskiy14 did not show his hand
+Kolkovskiy14 collected [ $0.04 ]
+
+
+#Game No : 499393694
+***** 888poker Hand History for Game 499393694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:51:19
+Table Nis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1.14 )
+Seat 4: FujiXx ( $1.70 )
+FujiXx posts small blind [$0.01]
+Kolkovskiy14 posts big blind [$0.02]
+** Dealing down cards **
+FujiXx calls [$0.01]
+Kolkovskiy14 checks
+** Dealing flop ** [ Kh, 3c, 6d ]
+Kolkovskiy14 checks
+FujiXx bets [$0.02]
+Kolkovskiy14 folds
+** Summary **
+FujiXx did not show his hand
+FujiXx collected [ $0.04 ]
+
+
+#Game No : 499393698
+***** 888poker Hand History for Game 499393698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:51:38
+Table Nis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kolkovskiy14 ( $1.12 )
+Seat 4: FujiXx ( $1.72 )
+Kolkovskiy14 posts small blind [$0.01]
+FujiXx posts big blind [$0.02]
+** Dealing down cards **
+Kolkovskiy14 calls [$0.01]
+FujiXx checks
+** Dealing flop ** [ As, 4h, Qs ]
+FujiXx checks
+Kolkovskiy14 checks
+** Dealing turn ** [ 3c ]
+FujiXx bets [$0.04]
+Kolkovskiy14 calls [$0.04]
+** Dealing river ** [ Qh ]
+FujiXx bets [$0.12]
+Kolkovskiy14 folds
+** Summary **
+FujiXx did not show his hand
+FujiXx collected [ $0.12 ]
+
+
+#Game No : 499393713
+***** 888poker Hand History for Game 499393713 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:53:53
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: 77ARM7 ( $0.80 )
+Seat 7: km34954 ( $1 )
+77ARM7 posts small blind [$0.01]
+km34954 posts big blind [$0.02]
+** Dealing down cards **
+77ARM7 calls [$0.01]
+km34954 checks
+** Dealing flop ** [ 3d, 9d, 6c ]
+km34954 bets [$0.04]
+77ARM7 folds
+** Summary **
+km34954 did not show his hand
+km34954 collected [ $0.04 ]
+
+
+#Game No : 499393716
+***** 888poker Hand History for Game 499393716 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:54:13
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: 77ARM7 ( $0.78 )
+Seat 7: km34954 ( $1.02 )
+km34954 posts small blind [$0.01]
+77ARM7 posts big blind [$0.02]
+** Dealing down cards **
+km34954 raises [$0.05]
+77ARM7 calls [$0.04]
+** Dealing flop ** [ 9d, Ac, 8s ]
+77ARM7 bets [$0.02]
+km34954 calls [$0.02]
+** Dealing turn ** [ Kh ]
+77ARM7 bets [$0.04]
+km34954 calls [$0.04]
+** Dealing river ** [ 8d ]
+77ARM7 bets [$0.66]
+km34954 folds
+** Summary **
+77ARM7 collected [ $0.23 ]
+
+
+#Game No : 499393744
+***** 888poker Hand History for Game 499393744 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:57:03
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: km34954 ( $1.72 )
+Seat 9: hwy112 ( $0.77 )
+hwy112 posts small blind [$0.01]
+km34954 posts big blind [$0.02]
+** Dealing down cards **
+hwy112 calls [$0.01]
+km34954 raises [$0.04]
+hwy112 calls [$0.04]
+** Dealing flop ** [ Jc, 7h, 5h ]
+km34954 bets [$0.06]
+hwy112 calls [$0.06]
+** Dealing turn ** [ Qd ]
+km34954 bets [$0.12]
+hwy112 calls [$0.12]
+** Dealing river ** [ Td ]
+km34954 bets [$0.32]
+hwy112 folds
+** Summary **
+km34954 collected [ $0.45 ]
+
+
+#Game No : 499393757
+***** 888poker Hand History for Game 499393757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:58:17
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: 77ARM7 ( $0.76 )
+Seat 7: km34954 ( $2.44 )
+77ARM7 posts small blind [$0.01]
+km34954 posts big blind [$0.02]
+** Dealing down cards **
+77ARM7 raises [$0.03]
+km34954 calls [$0.02]
+** Dealing flop ** [ 8c, 5s, 4d ]
+km34954 bets [$0.08]
+77ARM7 calls [$0.08]
+** Dealing turn ** [ Qh ]
+km34954 bets [$0.24]
+77ARM7 folds
+** Summary **
+km34954 did not show his hand
+km34954 collected [ $0.23 ]
+
+
+#Game No : 499393763
+***** 888poker Hand History for Game 499393763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 02:58:43
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: 77ARM7 ( $0.64 )
+Seat 7: km34954 ( $2.55 )
+km34954 posts small blind [$0.01]
+77ARM7 posts big blind [$0.02]
+** Dealing down cards **
+km34954 raises [$0.05]
+77ARM7 calls [$0.04]
+** Dealing flop ** [ 6c, Qc, 3h ]
+77ARM7 checks
+km34954 bets [$0.08]
+77ARM7 folds
+** Summary **
+km34954 did not show his hand
+km34954 collected [ $0.12 ]
+
+
+#Game No : 499393778
+***** 888poker Hand History for Game 499393778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:00:40
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: 77ARM7 ( $0.58 )
+Seat 9: IOpa. ( $1 )
+IOpa. posts small blind [$0.01]
+77ARM7 posts big blind [$0.02]
+** Dealing down cards **
+IOpa. raises [$0.03]
+77ARM7 calls [$0.02]
+** Dealing flop ** [ 2d, 4c, 2h ]
+77ARM7 bets [$0.02]
+IOpa. calls [$0.02]
+** Dealing turn ** [ Qs ]
+77ARM7 checks
+IOpa. checks
+** Dealing river ** [ Ac ]
+77ARM7 checks
+IOpa. bets [$0.02]
+77ARM7 calls [$0.02]
+** Summary **
+IOpa. shows [ Jh, As ]
+77ARM7 mucks [ 3d, Kh ]
+IOpa. collected [ $0.15 ]
+
+
+#Game No : 499393878
+***** 888poker Hand History for Game 499393878 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:09:56
+Table Nis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $0.84 )
+Seat 9: IOpa. ( $2.22 )
+AntonioKaz posts small blind [$0.01]
+IOpa. posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.05]
+IOpa. folds
+** Summary **
+AntonioKaz collected [ $0.04 ]
+
+
+#Game No : 499393880
+***** 888poker Hand History for Game 499393880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:10:07
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $0.86 )
+Seat 9: IOpa. ( $2.20 )
+IOpa. posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+IOpa. calls [$0.01]
+AntonioKaz checks
+** Dealing flop ** [ Ts, Jh, 3c ]
+AntonioKaz checks
+IOpa. bets [$0.10]
+AntonioKaz folds
+** Summary **
+IOpa. collected [ $0.04 ]
+
+
+#Game No : 499393886
+***** 888poker Hand History for Game 499393886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:10:30
+Table Nis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $0.84 )
+Seat 9: IOpa. ( $2.22 )
+AntonioKaz posts small blind [$0.01]
+IOpa. posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.05]
+IOpa. folds
+** Summary **
+AntonioKaz collected [ $0.04 ]
+
+
+#Game No : 499393924
+***** 888poker Hand History for Game 499393924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:13:33
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $0.81 )
+Seat 6: JnglMovement ( $1.11 )
+JnglMovement posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+JnglMovement raises [$0.04]
+AntonioKaz calls [$0.03]
+** Dealing flop ** [ 2s, 7d, Kc ]
+AntonioKaz checks
+JnglMovement bets [$0.03]
+AntonioKaz folds
+** Summary **
+JnglMovement collected [ $0.10 ]
+
+
+#Game No : 499393934
+***** 888poker Hand History for Game 499393934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:14:02
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $0.81 )
+Seat 6: JnglMovement ( $1.15 )
+JnglMovement posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+JnglMovement calls [$0.01]
+AntonioKaz checks
+** Dealing flop ** [ 9c, Qd, 4c ]
+AntonioKaz checks
+JnglMovement checks
+** Dealing turn ** [ 6h ]
+AntonioKaz checks
+JnglMovement bets [$0.04]
+AntonioKaz folds
+** Summary **
+JnglMovement collected [ $0.04 ]
+
+
+#Game No : 499394054
+***** 888poker Hand History for Game 499394054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:22:01
+Table Nis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $1.39 )
+Seat 7: Bolshoiman ( $1.03 )
+AntonioKaz posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz folds
+** Summary **
+Bolshoiman did not show his hand
+Bolshoiman collected [ $0.03 ]
+
+
+#Game No : 499394055
+***** 888poker Hand History for Game 499394055 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:22:08
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $1.38 )
+Seat 7: Bolshoiman ( $1.04 )
+Bolshoiman posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.05]
+AntonioKaz calls [$0.04]
+** Dealing flop ** [ Qs, 9h, Kd ]
+AntonioKaz checks
+Bolshoiman checks
+** Dealing turn ** [ 7c ]
+AntonioKaz checks
+Bolshoiman checks
+** Dealing river ** [ 2h ]
+AntonioKaz checks
+Bolshoiman checks
+** Summary **
+AntonioKaz shows [ Jh, Ac ]
+Bolshoiman mucks [ Tc, 5c ]
+AntonioKaz collected [ $0.12 ]
+
+
+#Game No : 499394061
+***** 888poker Hand History for Game 499394061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:22:31
+Table Nis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $1.44 )
+Seat 7: Bolshoiman ( $0.98 )
+AntonioKaz posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.03]
+Bolshoiman folds
+** Summary **
+AntonioKaz did not show his hand
+AntonioKaz collected [ $0.04 ]
+
+
+#Game No : 499394065
+***** 888poker Hand History for Game 499394065 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:22:39
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $1.46 )
+Seat 7: Bolshoiman ( $0.96 )
+Bolshoiman posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.05]
+AntonioKaz folds
+** Summary **
+Bolshoiman did not show his hand
+Bolshoiman collected [ $0.04 ]
+
+
+#Game No : 499394068
+***** 888poker Hand History for Game 499394068 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:22:52
+Table Nis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $1.44 )
+Seat 7: Bolshoiman ( $0.98 )
+AntonioKaz posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.05]
+Bolshoiman folds
+** Summary **
+AntonioKaz did not show his hand
+AntonioKaz collected [ $0.04 ]
+
+
+#Game No : 499394070
+***** 888poker Hand History for Game 499394070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2018 03:22:58
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: AntonioKaz ( $1.46 )
+Seat 7: Bolshoiman ( $0.96 )
+Bolshoiman posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.05]
+AntonioKaz raises [$0.12]
+Bolshoiman folds
+** Summary **
+AntonioKaz did not show his hand
+AntonioKaz collected [ $0.12 ]
+
+

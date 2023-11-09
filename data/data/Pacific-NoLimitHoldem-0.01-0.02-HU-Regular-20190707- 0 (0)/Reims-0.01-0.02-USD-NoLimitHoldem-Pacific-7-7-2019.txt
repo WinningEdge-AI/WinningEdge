@@ -1,0 +1,50 @@
+#Game No : 1278536452
+***** 888poker Hand History for Game 1278536452 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 07 2019 21:03:48
+Table Reims 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: mishgan71 ( $4.73 )
+Seat 6: Gezzer34 ( $1.66 )
+mishgan71 posts small blind [$0.01]
+Gezzer34 posts big blind [$0.02]
+** Dealing down cards **
+mishgan71 raises [$0.05]
+Gezzer34 raises [$0.08]
+mishgan71 calls [$0.04]
+** Dealing flop ** [ Ad, 2c, Qs ]
+Gezzer34 bets [$0.10]
+mishgan71 folds
+** Summary **
+Gezzer34 collected [ $0.19 ]
+
+
+#Game No : 534792574
+***** 888poker Hand History for Game 534792574 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 07 2019 01:39:32
+Table Reims 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: boxoftricks ( $0.80 )
+Seat 2: alexsan888 ( $0.80 )
+alexsan888 posts small blind [$0.01]
+boxoftricks posts big blind [$0.02]
+** Dealing down cards **
+alexsan888 calls [$0.01]
+boxoftricks raises [$0.02]
+alexsan888 calls [$0.02]
+** Dealing flop ** [ 7c, Ks, Ad ]
+boxoftricks checks
+alexsan888 checks
+** Dealing turn ** [ 5c ]
+boxoftricks bets [$0.05]
+alexsan888 calls [$0.05]
+** Dealing river ** [ Qh ]
+boxoftricks checks
+alexsan888 checks
+** Summary **
+boxoftricks shows [ 8d, 7d ]
+alexsan888 mucks [ 6s, 5d ]
+boxoftricks collected [ $0.17 ]
+
+

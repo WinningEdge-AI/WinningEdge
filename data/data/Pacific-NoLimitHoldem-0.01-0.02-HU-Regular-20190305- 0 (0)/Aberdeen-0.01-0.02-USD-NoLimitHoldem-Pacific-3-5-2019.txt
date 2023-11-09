@@ -1,0 +1,28 @@
+#Game No : 1252537969
+***** 888poker Hand History for Game 1252537969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 03 2019 00:18:35
+Table Aberdeen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AdmiralN26 ( $2.91 )
+Seat 9: joel_2702 ( $1.60 )
+AdmiralN26 posts small blind [$0.01]
+joel_2702 posts big blind [$0.02]
+** Dealing down cards **
+AdmiralN26 raises [$0.08]
+joel_2702 calls [$0.07]
+** Dealing flop ** [ Js, 2d, Ac ]
+joel_2702 checks
+AdmiralN26 checks
+** Dealing turn ** [ 9d ]
+joel_2702 checks
+AdmiralN26 checks
+** Dealing river ** [ 6c ]
+joel_2702 checks
+AdmiralN26 checks
+** Summary **
+joel_2702 shows [ Kc, Qh ]
+AdmiralN26 mucks [ 7h, Qd ]
+joel_2702 collected [ $0.17 ]
+
+

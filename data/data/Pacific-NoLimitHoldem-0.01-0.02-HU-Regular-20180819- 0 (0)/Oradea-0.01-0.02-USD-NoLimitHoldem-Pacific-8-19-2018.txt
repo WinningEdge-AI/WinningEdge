@@ -1,0 +1,28 @@
+#Game No : 501124377
+***** 888poker Hand History for Game 501124377 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 13:34:57
+Table Oradea 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: OlegH1 ( $1 )
+Seat 9: alex_mks ( $1.02 )
+OlegH1 posts small blind [$0.01]
+alex_mks posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+alex_mks checks
+** Dealing flop ** [ Ah, Qh, 9c ]
+alex_mks checks
+OlegH1 checks
+** Dealing turn ** [ Ts ]
+alex_mks checks
+OlegH1 checks
+** Dealing river ** [ 3d ]
+alex_mks checks
+OlegH1 checks
+** Summary **
+alex_mks shows [ Jd, 6c ]
+OlegH1 mucks [ 5h, 7d ]
+alex_mks collected [ $0.04 ]
+
+

@@ -1,0 +1,73 @@
+#Game No : 617261312
+***** 888poker Hand History for Game 617261312 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 05:52:58
+Table Miass 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Tungueteir0 ( $1.66 )
+Seat 4: Bcabrita1 ( $0.80 )
+Tungueteir0 posts small blind [$0.01]
+Bcabrita1 posts big blind [$0.02]
+** Dealing down cards **
+Tungueteir0 calls [$0.01]
+Bcabrita1 checks
+** Dealing flop ** [ Kc, 6s, 2c ]
+Bcabrita1 checks
+Tungueteir0 checks
+** Dealing turn ** [ 4c ]
+Bcabrita1 checks
+Tungueteir0 checks
+** Dealing river ** [ 2h ]
+Bcabrita1 checks
+Tungueteir0 checks
+** Summary **
+Bcabrita1 shows [ 8h, Kh ]
+Tungueteir0 mucks [ 7h, Ts ]
+Bcabrita1 collected [ $0.04 ]
+
+
+#Game No : 617261334
+***** 888poker Hand History for Game 617261334 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 05:53:35
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Tungueteir0 ( $1.64 )
+Seat 4: Bcabrita1 ( $0.82 )
+Bcabrita1 posts small blind [$0.01]
+Tungueteir0 posts big blind [$0.02]
+** Dealing down cards **
+Bcabrita1 calls [$0.01]
+Tungueteir0 checks
+** Dealing flop ** [ Ac, 4h, Tc ]
+Tungueteir0 checks
+Bcabrita1 checks
+** Dealing turn ** [ 9s ]
+Tungueteir0 checks
+Bcabrita1 checks
+** Dealing river ** [ 8d ]
+Tungueteir0 checks
+Bcabrita1 checks
+** Summary **
+Tungueteir0 shows [ 5d, 9d ]
+Bcabrita1 shows [ Qc, 9h ]
+Bcabrita1 collected [ $0.04 ]
+
+
+#Game No : 617261460
+***** 888poker Hand History for Game 617261460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 05:56:42
+Table Miass 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $1.41 )
+Seat 9: Amorozz ( $1 )
+Sarahsbear posts small blind [$0.01]
+Amorozz posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear folds
+** Summary **
+Amorozz did not show his hand
+Amorozz collected [ $0.03 ]
+
+

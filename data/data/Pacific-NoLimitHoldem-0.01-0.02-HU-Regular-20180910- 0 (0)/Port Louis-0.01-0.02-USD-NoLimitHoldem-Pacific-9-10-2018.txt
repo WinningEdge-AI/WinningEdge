@@ -1,0 +1,65 @@
+#Game No : 455265433
+***** 888poker Hand History for Game 455265433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 06:10:25
+Table Port Louis 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EneymHL55 ( $2.09 )
+Seat 7: Pat171077 ( $1.21 )
+EneymHL55 posts small blind [$0.01]
+Pat171077 posts big blind [$0.02]
+** Dealing down cards **
+EneymHL55 raises [$0.03]
+Pat171077 folds
+** Summary **
+EneymHL55 did not show his hand
+EneymHL55 collected [ $0.04 ]
+
+
+#Game No : 455265440
+***** 888poker Hand History for Game 455265440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 06:10:38
+Table Port Louis 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: EneymHL55 ( $2.11 )
+Seat 7: Pat171077 ( $1.19 )
+Pat171077 posts small blind [$0.01]
+EneymHL55 posts big blind [$0.02]
+** Dealing down cards **
+Pat171077 calls [$0.01]
+EneymHL55 raises [$0.04]
+Pat171077 calls [$0.04]
+** Dealing flop ** [ 2c, Ac, 5c ]
+EneymHL55 bets [$0.02]
+Pat171077 calls [$0.02]
+** Dealing turn ** [ Kd ]
+EneymHL55 bets [$0.04]
+Pat171077 calls [$0.04]
+** Dealing river ** [ 7c ]
+EneymHL55 checks
+Pat171077 bets [$0.02]
+EneymHL55 calls [$0.02]
+** Summary **
+Pat171077 shows [ 8d, Ad ]
+EneymHL55 mucks [ 9d, Ks ]
+Pat171077 collected [ $0.27 ]
+
+
+#Game No : 455265453
+***** 888poker Hand History for Game 455265453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 06:11:25
+Table Port Louis 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EneymHL55 ( $1.97 )
+Seat 7: Pat171077 ( $1.32 )
+EneymHL55 posts small blind [$0.01]
+Pat171077 posts big blind [$0.02]
+** Dealing down cards **
+EneymHL55 folds
+** Summary **
+Pat171077 did not show his hand
+Pat171077 collected [ $0.03 ]
+
+

@@ -1,0 +1,156 @@
+#Game No : 552771810
+***** 888poker Hand History for Game 552771810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2020 21:49:18
+Table Alcorcon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 7: Janos021 ( $4.15 )
+Seat 9: ogurez95 ( $3.23 )
+Janos021 posts small blind [$0.01]
+** Dealing down cards **
+ogurez95 folds
+** Summary **
+Janos021 collected [ $0.01 ]
+
+
+#Game No : 552771813
+***** 888poker Hand History for Game 552771813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2020 21:49:21
+Table Alcorcon 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: luigi_obenza ( $5.53 )
+Seat 7: Janos021 ( $4.15 )
+Janos021 posts small blind [$0.01]
+luigi_obenza posts big blind [$0.02]
+** Dealing down cards **
+Janos021 raises [$0.03]
+luigi_obenza calls [$0.02]
+** Dealing flop ** [ 5h, Ad, 3d ]
+luigi_obenza checks
+Janos021 bets [$0.04]
+luigi_obenza folds
+** Summary **
+Janos021 collected [ $0.08 ]
+
+
+#Game No : 552771817
+***** 888poker Hand History for Game 552771817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2020 21:49:40
+Table Alcorcon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: luigi_obenza ( $5.49 )
+Seat 7: Janos021 ( $4.19 )
+luigi_obenza posts small blind [$0.01]
+Janos021 posts big blind [$0.02]
+** Dealing down cards **
+luigi_obenza calls [$0.01]
+Janos021 raises [$0.04]
+luigi_obenza calls [$0.04]
+** Dealing flop ** [ Jc, Jh, Qd ]
+Janos021 bets [$0.04]
+luigi_obenza raises [$0.12]
+Janos021 calls [$0.08]
+** Dealing turn ** [ Th ]
+Janos021 checks
+luigi_obenza checks
+** Dealing river ** [ 7d ]
+Janos021 checks
+luigi_obenza bets [$0.18]
+Janos021 calls [$0.18]
+** Summary **
+luigi_obenza shows [ 3s, Js ]
+Janos021 shows [ Jd, Ah ]
+Janos021 collected [ $0.68 ]
+
+
+#Game No : 552771829
+***** 888poker Hand History for Game 552771829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2020 21:50:16
+Table Alcorcon 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: luigi_obenza ( $5.13 )
+Seat 7: Janos021 ( $4.51 )
+Janos021 posts small blind [$0.01]
+luigi_obenza posts big blind [$0.02]
+** Dealing down cards **
+Janos021 raises [$0.03]
+luigi_obenza calls [$0.02]
+** Dealing flop ** [ 8c, Kd, Kh ]
+luigi_obenza checks
+Janos021 checks
+** Dealing turn ** [ 4h ]
+luigi_obenza checks
+Janos021 checks
+** Dealing river ** [ 9c ]
+luigi_obenza checks
+Janos021 checks
+** Summary **
+luigi_obenza shows [ 7d, 4d ]
+Janos021 mucks [ Ad, Qs ]
+luigi_obenza collected [ $0.08 ]
+
+
+#Game No : 552771837
+***** 888poker Hand History for Game 552771837 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2020 21:50:40
+Table Alcorcon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: luigi_obenza ( $5.17 )
+Seat 7: Janos021 ( $4.47 )
+luigi_obenza posts small blind [$0.01]
+Janos021 posts big blind [$0.02]
+** Dealing down cards **
+luigi_obenza folds
+** Summary **
+Janos021 collected [ $0.03 ]
+
+
+#Game No : 552772528
+***** 888poker Hand History for Game 552772528 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2020 22:25:15
+Table Alcorcon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: telievision ( $2.52 )
+Seat 7: Janos021 ( $4.93 )
+telievision posts small blind [$0.01]
+Janos021 posts big blind [$0.02]
+** Dealing down cards **
+telievision raises [$2.51]
+Janos021 folds
+** Summary **
+telievision collected [ $0.04 ]
+
+
+#Game No : 552772535
+***** 888poker Hand History for Game 552772535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2020 22:25:27
+Table Alcorcon 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: telievision ( $2.54 )
+Seat 7: Janos021 ( $4.91 )
+Janos021 posts small blind [$0.01]
+telievision posts big blind [$0.02]
+** Dealing down cards **
+Janos021 raises [$0.03]
+telievision calls [$0.02]
+** Dealing flop ** [ 2s, 6c, Js ]
+telievision checks
+Janos021 checks
+** Dealing turn ** [ Th ]
+telievision checks
+Janos021 checks
+** Dealing river ** [ 8h ]
+telievision checks
+Janos021 checks
+** Summary **
+telievision shows [ As, 5h ]
+Janos021 shows [ Ac, 9c ]
+Janos021 collected [ $0.08 ]
+
+

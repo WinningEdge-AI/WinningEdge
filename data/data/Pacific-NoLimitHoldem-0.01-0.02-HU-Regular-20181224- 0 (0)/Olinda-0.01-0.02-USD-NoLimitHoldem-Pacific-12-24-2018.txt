@@ -1,0 +1,66 @@
+#Game No : 519674962
+***** 888poker Hand History for Game 519674962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 08:53:49
+Table Olinda 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: rustaman76 ( $1.02 )
+Seat 6: NikolasC14 ( $1.53 )
+NikolasC14 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+NikolasC14 calls [$0.01]
+rustaman76 checks
+** Dealing flop ** [ 3h, 2s, 7h ]
+rustaman76 checks
+NikolasC14 checks
+** Dealing turn ** [ Jc ]
+rustaman76 checks
+NikolasC14 checks
+** Dealing river ** [ 4s ]
+rustaman76 checks
+NikolasC14 checks
+** Summary **
+rustaman76 shows [ 4c, Tc ]
+NikolasC14 mucks [ Td, 6d ]
+rustaman76 collected [ $0.04 ]
+
+
+#Game No : 519674995
+***** 888poker Hand History for Game 519674995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 08:53:52
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: rustaman76 ( $1.04 )
+Seat 6: NikolasC14 ( $1.51 )
+rustaman76 posts small blind [$0.01]
+NikolasC14 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+NikolasC14 folds
+** Summary **
+rustaman76 collected [ $0.04 ]
+
+
+#Game No : 519675013
+***** 888poker Hand History for Game 519675013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 08:54:03
+Table Olinda 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: rustaman76 ( $1.06 )
+Seat 6: NikolasC14 ( $1.49 )
+NikolasC14 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+NikolasC14 calls [$0.01]
+rustaman76 checks
+** Dealing flop ** [ Kh, 3s, 4d ]
+rustaman76 checks
+NikolasC14 bets [$0.04]
+rustaman76 folds
+** Summary **
+NikolasC14 collected [ $0.04 ]
+
+

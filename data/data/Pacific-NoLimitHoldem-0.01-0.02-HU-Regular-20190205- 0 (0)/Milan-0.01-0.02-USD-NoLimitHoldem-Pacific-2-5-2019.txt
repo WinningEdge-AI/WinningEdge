@@ -1,0 +1,28 @@
+#Game No : 615210120
+***** 888poker Hand History for Game 615210120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2019 03:42:09
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ooamusing ( $2 )
+Seat 2: VaysB ( $0.80 )
+VaysB posts small blind [$0.01]
+ooamusing posts big blind [$0.02]
+** Dealing down cards **
+VaysB calls [$0.01]
+ooamusing raises [$0.04]
+VaysB calls [$0.04]
+** Dealing flop ** [ 8c, Kd, Ac ]
+ooamusing bets [$0.08]
+VaysB calls [$0.08]
+** Dealing turn ** [ Td ]
+ooamusing bets [$0.20]
+VaysB raises [$0.66]
+ooamusing calls [$0.46]
+** Dealing river ** [ Qh ]
+** Summary **
+ooamusing shows [ 9h, Jd ]
+VaysB shows [ 8h, 5c ]
+ooamusing collected [ $1.50 ]
+
+

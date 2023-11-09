@@ -1,0 +1,244 @@
+#Game No : 499545448
+***** 888poker Hand History for Game 499545448 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 12:44:16
+Table Maastricht 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.12 )
+Seat 9: RicklePick ( $1.61 )
+richbranson posts small blind [$0.01]
+RicklePick posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+RicklePick collected [ $0.03 ]
+
+
+#Game No : 499545456
+***** 888poker Hand History for Game 499545456 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 12:44:21
+Table Maastricht 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.11 )
+Seat 9: RicklePick ( $1.62 )
+RicklePick posts small blind [$0.01]
+** Dealing down cards **
+richbranson folds
+** Summary **
+RicklePick did not show his hand
+RicklePick collected [ $0.01 ]
+
+
+#Game No : 499545489
+***** 888poker Hand History for Game 499545489 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 12:44:54
+Table Maastricht 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: tinyptid ( $0.80 )
+Seat 9: RicklePick ( $1.62 )
+tinyptid posts small blind [$0.01]
+RicklePick posts big blind [$0.02]
+** Dealing down cards **
+tinyptid calls [$0.01]
+RicklePick checks
+** Dealing flop ** [ 6s, 5d, 8d ]
+RicklePick bets [$0.04]
+tinyptid calls [$0.04]
+** Dealing turn ** [ Kh ]
+RicklePick checks
+tinyptid bets [$0.06]
+RicklePick calls [$0.06]
+** Dealing river ** [ 4d ]
+RicklePick bets [$0.12]
+tinyptid calls [$0.12]
+** Summary **
+RicklePick shows [ 5s, 7c ]
+tinyptid mucks [ 5h, 6d ]
+RicklePick collected [ $0.45 ]
+
+
+#Game No : 499546661
+***** 888poker Hand History for Game 499546661 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 13:07:01
+Table Maastricht 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: richbranson ( $2.18 )
+Seat 2: Bob777888 ( $1.98 )
+richbranson posts small blind [$0.01]
+Bob777888 posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+Bob777888 collected [ $0.03 ]
+
+
+#Game No : 499546666
+***** 888poker Hand History for Game 499546666 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 13:07:06
+Table Maastricht 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: richbranson ( $2.17 )
+Seat 2: Bob777888 ( $1.99 )
+Bob777888 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Bob777888 calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 5s, 7d, 7c ]
+richbranson checks
+Bob777888 checks
+** Dealing turn ** [ 9s ]
+richbranson checks
+Bob777888 checks
+** Dealing river ** [ 3s ]
+richbranson checks
+Bob777888 bets [$0.02]
+richbranson folds
+** Summary **
+Bob777888 collected [ $0.04 ]
+
+
+#Game No : 499546695
+***** 888poker Hand History for Game 499546695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 13:07:44
+Table Maastricht 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: richbranson ( $2.15 )
+Seat 2: Bob777888 ( $2.01 )
+richbranson posts small blind [$0.01]
+Bob777888 posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+Bob777888 collected [ $0.03 ]
+
+
+#Game No : 499546702
+***** 888poker Hand History for Game 499546702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 13:07:49
+Table Maastricht 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: richbranson ( $2.14 )
+Seat 2: Bob777888 ( $2.02 )
+Bob777888 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Bob777888 calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 3s, 9c, Qh ]
+richbranson checks
+Bob777888 checks
+** Dealing turn ** [ 2d ]
+richbranson checks
+Bob777888 checks
+** Dealing river ** [ 2s ]
+richbranson checks
+Bob777888 bets [$0.14]
+richbranson folds
+** Summary **
+Bob777888 collected [ $0.04 ]
+
+
+#Game No : 499546741
+***** 888poker Hand History for Game 499546741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 13:08:41
+Table Maastricht 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: richbranson ( $2.12 )
+Seat 2: Bob777888 ( $2.04 )
+richbranson posts small blind [$0.01]
+Bob777888 posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+Bob777888 calls [$0.04]
+** Dealing flop ** [ Ks, 9s, 6h ]
+Bob777888 checks
+richbranson bets [$0.08]
+Bob777888 folds
+** Summary **
+richbranson collected [ $0.12 ]
+
+
+#Game No : 499546755
+***** 888poker Hand History for Game 499546755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 13:08:58
+Table Maastricht 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: richbranson ( $2.18 )
+Seat 2: Bob777888 ( $1.98 )
+Bob777888 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Bob777888 raises [$0.05]
+richbranson calls [$0.04]
+** Dealing flop ** [ Ks, Kh, 3s ]
+richbranson checks
+Bob777888 bets [$0.12]
+richbranson folds
+** Summary **
+Bob777888 collected [ $0.12 ]
+
+
+#Game No : 499546847
+***** 888poker Hand History for Game 499546847 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 13:11:04
+Table Maastricht 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: richbranson ( $2.12 )
+Seat 2: Bob777888 ( $2.67 )
+richbranson posts small blind [$0.01]
+Bob777888 posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+Bob777888 collected [ $0.03 ]
+
+
+#Game No : 499550631
+***** 888poker Hand History for Game 499550631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 14:29:42
+Table Maastricht 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: TeaBoy180 ( $1.35 )
+Seat 6: FalconeG7 ( $2.11 )
+TeaBoy180 posts small blind [$0.01]
+FalconeG7 posts big blind [$0.02]
+** Dealing down cards **
+TeaBoy180 raises [$0.05]
+FalconeG7 raises [$0.10]
+TeaBoy180 calls [$0.06]
+** Dealing flop ** [ 4h, 9s, 5s ]
+FalconeG7 bets [$0.12]
+TeaBoy180 raises [$0.36]
+FalconeG7 folds
+** Summary **
+TeaBoy180 did not show his hand
+TeaBoy180 collected [ $0.45 ]
+
+
+#Game No : 499550663
+***** 888poker Hand History for Game 499550663 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 14:30:25
+Table Maastricht 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: TeaBoy180 ( $1.56 )
+Seat 6: FalconeG7 ( $1.87 )
+FalconeG7 posts small blind [$0.01]
+** Dealing down cards **
+TeaBoy180 folds
+** Summary **
+FalconeG7 did not show his hand
+FalconeG7 collected [ $0.01 ]
+
+

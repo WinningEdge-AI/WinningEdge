@@ -1,0 +1,68 @@
+#Game No : 500516126
+***** 888poker Hand History for Game 500516126 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 16:56:04
+Table Sarnia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Metalheadz4L ( $1.44 )
+Seat 9: findmag ( $2.58 )
+Metalheadz4L posts small blind [$0.01]
+findmag posts big blind [$0.02]
+** Dealing down cards **
+Metalheadz4L raises [$0.06]
+findmag folds
+** Summary **
+Metalheadz4L collected [ $0.04 ]
+
+
+#Game No : 500516131
+***** 888poker Hand History for Game 500516131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 16:56:15
+Table Sarnia 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Metalheadz4L ( $1.46 )
+Seat 9: findmag ( $2.56 )
+findmag posts small blind [$0.01]
+Metalheadz4L posts big blind [$0.02]
+** Dealing down cards **
+findmag raises [$0.05]
+Metalheadz4L calls [$0.04]
+** Dealing flop ** [ 9d, Qd, Tc ]
+Metalheadz4L checks
+findmag bets [$0.06]
+Metalheadz4L folds
+** Summary **
+findmag collected [ $0.12 ]
+
+
+#Game No : 500516314
+***** 888poker Hand History for Game 500516314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 17:03:17
+Table Sarnia 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: azazel6644 ( $0.73 )
+Seat 6: MussoliniB ( $1 )
+MussoliniB posts small blind [$0.01]
+azazel6644 posts big blind [$0.02]
+** Dealing down cards **
+MussoliniB raises [$0.03]
+azazel6644 calls [$0.02]
+** Dealing flop ** [ 8d, 6h, Jh ]
+azazel6644 checks
+MussoliniB bets [$0.04]
+azazel6644 calls [$0.04]
+** Dealing turn ** [ 5d ]
+azazel6644 checks
+MussoliniB bets [$0.08]
+azazel6644 calls [$0.08]
+** Dealing river ** [ Qh ]
+azazel6644 bets [$0.02]
+MussoliniB raises [$0.36]
+azazel6644 folds
+** Summary **
+MussoliniB did not show his hand
+MussoliniB collected [ $0.34 ]
+
+

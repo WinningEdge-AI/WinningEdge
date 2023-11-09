@@ -1,0 +1,73 @@
+#Game No : 461008009
+***** 888poker Hand History for Game 461008009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 19:42:12
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: _Novaliz_ ( $1.04 )
+Seat 2: JamesBettger ( $0.76 )
+JamesBettger posts small blind [$0.01]
+_Novaliz_ posts big blind [$0.02]
+** Dealing down cards **
+JamesBettger calls [$0.01]
+_Novaliz_ raises [$0.02]
+JamesBettger calls [$0.02]
+** Dealing flop ** [ 3d, 6h, 9d ]
+_Novaliz_ bets [$0.08]
+JamesBettger raises [$0.16]
+_Novaliz_ calls [$0.08]
+** Dealing turn ** [ 3h ]
+_Novaliz_ checks
+JamesBettger bets [$0.26]
+_Novaliz_ calls [$0.26]
+** Dealing river ** [ 7c ]
+_Novaliz_ checks
+JamesBettger bets [$0.24]
+_Novaliz_ calls [$0.24]
+** Summary **
+JamesBettger shows [ 6s, 8s ]
+_Novaliz_ shows [ Tc, Ts ]
+_Novaliz_ collected [ $1.32 ]
+
+
+#Game No : 461008031
+***** 888poker Hand History for Game 461008031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 19:43:34
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: _Novaliz_ ( $1.78 )
+Seat 4: jrmacken ( $0.93 )
+jrmacken posts small blind [$0.01]
+_Novaliz_ posts big blind [$0.02]
+** Dealing down cards **
+jrmacken folds
+** Summary **
+_Novaliz_ collected [ $0.03 ]
+
+
+#Game No : 461009075
+***** 888poker Hand History for Game 461009075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 21:14:58
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: _Novaliz_ ( $2.32 )
+Seat 9: arcticdawn ( $1.07 )
+arcticdawn posts small blind [$0.01]
+_Novaliz_ posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn calls [$0.01]
+_Novaliz_ raises [$0.02]
+arcticdawn calls [$0.02]
+** Dealing flop ** [ Kh, 9h, 3h ]
+_Novaliz_ checks
+arcticdawn checks
+** Dealing turn ** [ 2h ]
+_Novaliz_ bets [$0.05]
+arcticdawn folds
+** Summary **
+_Novaliz_ did not show his hand
+_Novaliz_ collected [ $0.08 ]
+
+

@@ -1,0 +1,29 @@
+#Game No : 501228158
+***** 888poker Hand History for Game 501228158 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 00:09:28
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: osipova1963 ( $1 )
+Seat 2: kim19816 ( $1 )
+osipova1963 posts small blind [$0.01]
+kim19816 posts big blind [$0.02]
+** Dealing down cards **
+osipova1963 calls [$0.01]
+kim19816 checks
+** Dealing flop ** [ 5h, 5d, Ts ]
+kim19816 checks
+osipova1963 checks
+** Dealing turn ** [ 7d ]
+kim19816 checks
+osipova1963 checks
+** Dealing river ** [ Ah ]
+kim19816 checks
+osipova1963 bets [$0.98]
+kim19816 calls [$0.98]
+** Summary **
+osipova1963 shows [ Kh, 4s ]
+kim19816 shows [ As, 9h ]
+kim19816 collected [ $1.88 ]
+
+

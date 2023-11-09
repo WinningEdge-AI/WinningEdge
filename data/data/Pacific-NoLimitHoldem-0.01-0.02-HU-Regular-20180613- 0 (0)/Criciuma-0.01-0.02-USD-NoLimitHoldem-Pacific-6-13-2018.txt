@@ -1,0 +1,41 @@
+#Game No : 503321366
+***** 888poker Hand History for Game 503321366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 09:51:12
+Table Criciuma 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: artina15 ( $1 )
+Seat 5: hellu15 ( $1.99 )
+artina15 posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+hellu15 checks
+** Dealing flop ** [ Jc, Qd, 5c ]
+hellu15 bets [$0.04]
+artina15 folds
+** Summary **
+hellu15 collected [ $0.04 ]
+
+
+#Game No : 503321384
+***** 888poker Hand History for Game 503321384 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 09:51:21
+Table Criciuma 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: artina15 ( $0.98 )
+Seat 5: hellu15 ( $2.01 )
+hellu15 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+hellu15 raises [$0.05]
+artina15 calls [$0.04]
+** Dealing flop ** [ 3h, Qc, 2c ]
+artina15 checks
+hellu15 bets [$0.08]
+artina15 folds
+** Summary **
+hellu15 collected [ $0.12 ]
+
+

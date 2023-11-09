@@ -1,0 +1,44 @@
+#Game No : 609165893
+***** 888poker Hand History for Game 609165893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 05:59:49
+Table Caucasia 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DefaultJohn ( $2 )
+Seat 2: Sergeich88 ( $0.80 )
+DefaultJohn posts small blind [$0.01]
+Sergeich88 posts big blind [$0.02]
+** Dealing down cards **
+DefaultJohn calls [$0.01]
+Sergeich88 checks
+** Dealing flop ** [ Kd, 7h, 4d ]
+Sergeich88 checks
+DefaultJohn checks
+** Dealing turn ** [ 2d ]
+Sergeich88 bets [$0.03]
+DefaultJohn folds
+** Summary **
+Sergeich88 collected [ $0.04 ]
+
+
+#Game No : 609165927
+***** 888poker Hand History for Game 609165927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 06:00:36
+Table Caucasia 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DefaultJohn ( $1.98 )
+Seat 2: Sergeich88 ( $0.82 )
+Sergeich88 posts small blind [$0.01]
+DefaultJohn posts big blind [$0.02]
+** Dealing down cards **
+Sergeich88 raises [$0.03]
+DefaultJohn raises [$0.10]
+Sergeich88 calls [$0.08]
+** Dealing flop ** [ Kc, 7h, 6s ]
+DefaultJohn bets [$0.26]
+Sergeich88 folds
+** Summary **
+DefaultJohn collected [ $0.23 ]
+
+

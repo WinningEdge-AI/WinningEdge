@@ -1,0 +1,143 @@
+#Game No : 1235626467
+***** 888poker Hand History for Game 1235626467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 01:54:23
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: iralosch ( $2.84 )
+Seat 7: CDebarros21 ( $0.88 )
+iralosch posts small blind [$0.01]
+CDebarros21 posts big blind [$0.02]
+** Dealing down cards **
+iralosch raises [$0.03]
+CDebarros21 calls [$0.02]
+** Dealing flop ** [ Kc, Qd, Th ]
+CDebarros21 checks
+iralosch checks
+** Dealing turn ** [ 4c ]
+CDebarros21 checks
+iralosch checks
+** Dealing river ** [ 6s ]
+CDebarros21 bets [$0.02]
+iralosch folds
+** Summary **
+CDebarros21 collected [ $0.08 ]
+
+
+#Game No : 1235626545
+***** 888poker Hand History for Game 1235626545 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 01:54:56
+Table Berkeley 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: iralosch ( $2.80 )
+Seat 7: CDebarros21 ( $0.92 )
+CDebarros21 posts small blind [$0.01]
+iralosch posts big blind [$0.02]
+** Dealing down cards **
+CDebarros21 calls [$0.01]
+iralosch checks
+** Dealing flop ** [ 6h, Jc, Qh ]
+iralosch checks
+CDebarros21 bets [$0.02]
+iralosch folds
+** Summary **
+CDebarros21 collected [ $0.04 ]
+
+
+#Game No : 1235638663
+***** 888poker Hand History for Game 1235638663 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 03:13:18
+Table Berkeley 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: belkaleon ( $2.25 )
+Seat 2: NNNddd111 ( $1.29 )
+belkaleon posts small blind [$0.01]
+NNNddd111 posts big blind [$0.02]
+** Dealing down cards **
+belkaleon calls [$0.01]
+NNNddd111 checks
+** Dealing flop ** [ 2s, 3d, 8h ]
+NNNddd111 checks
+belkaleon checks
+** Dealing turn ** [ 6s ]
+NNNddd111 checks
+belkaleon checks
+** Dealing river ** [ Qh ]
+NNNddd111 checks
+belkaleon checks
+** Summary **
+NNNddd111 shows [ 2h, Td ]
+belkaleon mucks [ 5d, Ac ]
+NNNddd111 collected [ $0.04 ]
+
+
+#Game No : 1235638853
+***** 888poker Hand History for Game 1235638853 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 03:14:23
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: belkaleon ( $2.23 )
+Seat 2: NNNddd111 ( $1.31 )
+NNNddd111 posts small blind [$0.01]
+belkaleon posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 raises [$0.05]
+belkaleon calls [$0.04]
+** Dealing flop ** [ 4c, 6d, 7h ]
+belkaleon checks
+NNNddd111 bets [$0.08]
+belkaleon calls [$0.08]
+** Dealing turn ** [ 2h ]
+belkaleon checks
+NNNddd111 checks
+** Dealing river ** [ Qh ]
+belkaleon checks
+NNNddd111 checks
+** Summary **
+belkaleon shows [ 5c, Kc ]
+NNNddd111 mucks [ Jd, 8d ]
+belkaleon collected [ $0.27 ]
+
+
+#Game No : 1235696415
+***** 888poker Hand History for Game 1235696415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 07:52:36
+Table Berkeley 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Kn33_D33p919 ( $0.77 )
+Seat 7: NNNddd111 ( $2.14 )
+NNNddd111 posts small blind [$0.01]
+Kn33_D33p919 posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 raises [$0.03]
+Kn33_D33p919 folds
+** Summary **
+NNNddd111 did not show his hand
+NNNddd111 collected [ $0.04 ]
+
+
+#Game No : 1235696457
+***** 888poker Hand History for Game 1235696457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 07:52:46
+Table Berkeley 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kn33_D33p919 ( $0.75 )
+Seat 7: NNNddd111 ( $2.16 )
+Kn33_D33p919 posts small blind [$0.01]
+NNNddd111 posts big blind [$0.02]
+** Dealing down cards **
+Kn33_D33p919 calls [$0.01]
+NNNddd111 checks
+** Dealing flop ** [ 6h, 2d, As ]
+NNNddd111 checks
+Kn33_D33p919 bets [$0.02]
+NNNddd111 folds
+** Summary **
+Kn33_D33p919 collected [ $0.04 ]
+
+

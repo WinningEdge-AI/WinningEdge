@@ -1,0 +1,50 @@
+#Game No : 1201585137
+***** 888poker Hand History for Game 1201585137 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:41:23
+Table Sugar Land 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: OhJayy ( $2 )
+Seat 5: Puhalskiy91 ( $2 )
+OhJayy posts small blind [$0.01]
+Puhalskiy91 posts big blind [$0.02]
+** Dealing down cards **
+OhJayy raises [$0.03]
+Puhalskiy91 raises [$0.06]
+OhJayy calls [$0.04]
+** Dealing flop ** [ Qc, 6d, 6c ]
+Puhalskiy91 bets [$0.08]
+OhJayy calls [$0.08]
+** Dealing turn ** [ 4c ]
+Puhalskiy91 bets [$0.16]
+OhJayy calls [$0.16]
+** Dealing river ** [ 2s ]
+Puhalskiy91 bets [$0.32]
+OhJayy calls [$0.32]
+** Summary **
+Puhalskiy91 shows [ Kd, Qd ]
+OhJayy mucks [ 2d, Kc ]
+Puhalskiy91 collected [ $1.20 ]
+
+
+#Game No : 1201608935
+***** 888poker Hand History for Game 1201608935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 05:58:43
+Table Sugar Land 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: DDragu ( $1.54 )
+Seat 6: IivanoffI ( $2.47 )
+IivanoffI posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+IivanoffI raises [$0.03]
+DDragu calls [$0.02]
+** Dealing flop ** [ 2h, 4d, 7h ]
+DDragu checks
+IivanoffI bets [$0.04]
+DDragu folds
+** Summary **
+IivanoffI collected [ $0.08 ]
+
+

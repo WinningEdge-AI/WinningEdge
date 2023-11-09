@@ -1,0 +1,105 @@
+#Game No : 454692839
+***** 888poker Hand History for Game 454692839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:51:42
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: CMAPTA8 ( $0.74 )
+Seat 9: mcata14 ( $0.40 )
+mcata14 posts small blind [$0.01]
+CMAPTA8 posts big blind [$0.02]
+** Dealing down cards **
+mcata14 raises [$0.39]
+CMAPTA8 folds
+** Summary **
+mcata14 collected [ $0.42 ]
+
+
+#Game No : 454693018
+***** 888poker Hand History for Game 454693018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:56:28
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: CMAPTA8 ( $0.55 )
+Seat 9: mcata14 ( $0.38 )
+mcata14 posts small blind [$0.01]
+CMAPTA8 posts big blind [$0.02]
+** Dealing down cards **
+mcata14 calls [$0.01]
+CMAPTA8 raises [$0.04]
+mcata14 calls [$0.04]
+** Dealing flop ** [ 5c, Ah, Ac ]
+CMAPTA8 checks
+mcata14 checks
+** Dealing turn ** [ 7s ]
+CMAPTA8 checks
+mcata14 checks
+** Dealing river ** [ Qs ]
+CMAPTA8 bets [$0.02]
+mcata14 calls [$0.02]
+** Summary **
+CMAPTA8 shows [ 9h, Qd ]
+mcata14 mucks [ 3c, 3d ]
+CMAPTA8 collected [ $0.15 ]
+
+
+#Game No : 454693038
+***** 888poker Hand History for Game 454693038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:56:56
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: CMAPTA8 ( $0.62 )
+Seat 9: mcata14 ( $0.30 )
+CMAPTA8 posts small blind [$0.01]
+mcata14 posts big blind [$0.02]
+** Dealing down cards **
+CMAPTA8 raises [$0.03]
+mcata14 folds
+** Summary **
+CMAPTA8 did not show his hand
+CMAPTA8 collected [ $0.04 ]
+
+
+#Game No : 454693054
+***** 888poker Hand History for Game 454693054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:57:13
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: CMAPTA8 ( $0.64 )
+Seat 9: mcata14 ( $0.28 )
+mcata14 posts small blind [$0.01]
+CMAPTA8 posts big blind [$0.02]
+** Dealing down cards **
+mcata14 raises [$0.27]
+CMAPTA8 folds
+** Summary **
+mcata14 did not show his hand
+mcata14 collected [ $0.04 ]
+
+
+#Game No : 454693064
+***** 888poker Hand History for Game 454693064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:57:25
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: CMAPTA8 ( $0.62 )
+Seat 9: mcata14 ( $0.30 )
+CMAPTA8 posts small blind [$0.01]
+mcata14 posts big blind [$0.02]
+** Dealing down cards **
+CMAPTA8 raises [$0.03]
+mcata14 raises [$0.28]
+CMAPTA8 calls [$0.26]
+** Dealing flop ** [ 2c, 6c, Jc ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 3s ]
+** Summary **
+CMAPTA8 shows [ 3h, Th ]
+mcata14 shows [ Ac, 9h ]
+CMAPTA8 collected [ $0.57 ]
+
+

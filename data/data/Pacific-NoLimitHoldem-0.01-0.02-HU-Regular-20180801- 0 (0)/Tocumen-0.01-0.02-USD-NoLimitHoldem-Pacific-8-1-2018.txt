@@ -1,0 +1,90 @@
+#Game No : 500236555
+***** 888poker Hand History for Game 500236555 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 21:07:14
+Table Tocumen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: jkerni82 ( $0.93 )
+Seat 2: panotann ( $0.87 )
+panotann posts small blind [$0.01]
+jkerni82 posts big blind [$0.02]
+** Dealing down cards **
+panotann calls [$0.01]
+jkerni82 raises [$0.06]
+panotann calls [$0.06]
+** Dealing flop ** [ 3d, Ah, 4s ]
+jkerni82 bets [$0.08]
+panotann calls [$0.08]
+** Dealing turn ** [ 7c ]
+jkerni82 bets [$0.16]
+panotann calls [$0.16]
+** Dealing river ** [ Td ]
+jkerni82 checks
+panotann bets [$0.55]
+jkerni82 folds
+** Summary **
+panotann collected [ $0.60 ]
+
+
+#Game No : 500236577
+***** 888poker Hand History for Game 500236577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 21:08:25
+Table Tocumen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: jkerni82 ( $0.68 )
+Seat 2: panotann ( $1.07 )
+panotann posts small blind [$0.01]
+jkerni82 posts big blind [$0.02]
+** Dealing down cards **
+panotann calls [$0.01]
+jkerni82 raises [$0.06]
+panotann calls [$0.06]
+** Dealing flop ** [ Td, Jh, Tc ]
+jkerni82 bets [$0.08]
+panotann folds
+** Summary **
+jkerni82 collected [ $0.15 ]
+
+
+#Game No : 500236707
+***** 888poker Hand History for Game 500236707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 21:20:04
+Table Tocumen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: barbas80 ( $0.80 )
+Seat 6: live4bike ( $0.81 )
+barbas80 posts small blind [$0.01]
+live4bike posts big blind [$0.02]
+** Dealing down cards **
+barbas80 calls [$0.01]
+live4bike checks
+** Dealing flop ** [ 4h, As, 4s ]
+live4bike bets [$0.02]
+barbas80 folds
+** Summary **
+live4bike collected [ $0.04 ]
+
+
+#Game No : 500236712
+***** 888poker Hand History for Game 500236712 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 07 2018 21:20:21
+Table Tocumen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: barbas80 ( $0.78 )
+Seat 6: live4bike ( $0.83 )
+live4bike posts small blind [$0.01]
+barbas80 posts big blind [$0.02]
+** Dealing down cards **
+live4bike raises [$0.03]
+barbas80 calls [$0.02]
+** Dealing flop ** [ 7s, Qh, 3c ]
+barbas80 checks
+live4bike bets [$0.04]
+barbas80 folds
+** Summary **
+live4bike collected [ $0.08 ]
+
+

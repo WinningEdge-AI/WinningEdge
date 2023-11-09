@@ -1,0 +1,141 @@
+#Game No : 532214519
+***** 888poker Hand History for Game 532214519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 05 2019 19:42:12
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: el6cs ( $1.27 )
+Seat 4: r0me00 ( $1.15 )
+el6cs posts small blind [$0.01]
+r0me00 posts big blind [$0.02]
+** Dealing down cards **
+el6cs folds
+** Summary **
+r0me00 collected [ $0.03 ]
+
+
+#Game No : 532214524
+***** 888poker Hand History for Game 532214524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 05 2019 19:42:17
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: el6cs ( $1.26 )
+Seat 4: r0me00 ( $1.16 )
+r0me00 posts small blind [$0.01]
+el6cs posts big blind [$0.02]
+** Dealing down cards **
+r0me00 calls [$0.01]
+el6cs checks
+** Dealing flop ** [ 4d, 3h, 7c ]
+el6cs bets [$0.04]
+r0me00 folds
+** Summary **
+el6cs collected [ $0.04 ]
+
+
+#Game No : 532214535
+***** 888poker Hand History for Game 532214535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 05 2019 19:42:34
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: el6cs ( $1.28 )
+Seat 4: r0me00 ( $1.14 )
+el6cs posts small blind [$0.01]
+** Dealing down cards **
+r0me00 folds
+** Summary **
+el6cs collected [ $0.01 ]
+
+
+#Game No : 532214546
+***** 888poker Hand History for Game 532214546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 05 2019 19:42:53
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: el6cs ( $1.28 )
+Seat 6: imeolagi ( $1 )
+el6cs posts small blind [$0.01]
+imeolagi posts big blind [$0.02]
+** Dealing down cards **
+el6cs folds
+** Summary **
+imeolagi collected [ $0.03 ]
+
+
+#Game No : 532214552
+***** 888poker Hand History for Game 532214552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 05 2019 19:43:01
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: el6cs ( $1.27 )
+Seat 6: imeolagi ( $1.01 )
+imeolagi posts small blind [$0.01]
+** Dealing down cards **
+el6cs folds
+** Summary **
+imeolagi collected [ $0.01 ]
+
+
+#Game No : 532214699
+***** 888poker Hand History for Game 532214699 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 05 2019 19:46:54
+Table Hyderabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Lukaszsgz ( $0.80 )
+Seat 6: GawishK ( $0.80 )
+Lukaszsgz posts small blind [$0.01]
+GawishK posts big blind [$0.02]
+** Dealing down cards **
+Lukaszsgz calls [$0.01]
+GawishK checks
+** Dealing flop ** [ 3s, Th, 4c ]
+GawishK checks
+Lukaszsgz bets [$0.02]
+GawishK calls [$0.02]
+** Dealing turn ** [ 8s ]
+GawishK checks
+Lukaszsgz bets [$0.02]
+GawishK calls [$0.02]
+** Dealing river ** [ Jc ]
+GawishK checks
+Lukaszsgz checks
+** Summary **
+GawishK shows [ Qh, 9d ]
+Lukaszsgz mucks [ 5h, 7s ]
+GawishK collected [ $0.12 ]
+
+
+#Game No : 532214735
+***** 888poker Hand History for Game 532214735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 05 2019 19:47:59
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Lukaszsgz ( $0.74 )
+Seat 6: GawishK ( $0.86 )
+GawishK posts small blind [$0.01]
+Lukaszsgz posts big blind [$0.02]
+** Dealing down cards **
+GawishK raises [$0.03]
+Lukaszsgz calls [$0.02]
+** Dealing flop ** [ Td, 2d, Qd ]
+Lukaszsgz bets [$0.02]
+GawishK calls [$0.02]
+** Dealing turn ** [ Js ]
+Lukaszsgz bets [$0.02]
+GawishK calls [$0.02]
+** Dealing river ** [ 4c ]
+Lukaszsgz bets [$0.02]
+GawishK raises [$0.22]
+Lukaszsgz calls [$0.20]
+** Summary **
+GawishK shows [ 4h, 4d ]
+Lukaszsgz mucks [ 6d, Qs ]
+GawishK collected [ $0.57 ]
+
+

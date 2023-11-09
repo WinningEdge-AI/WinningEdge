@@ -1,0 +1,29 @@
+#Game No : 503648503
+***** 888poker Hand History for Game 503648503 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 10:36:21
+Table Brno 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: rino114 ( $1.06 )
+Seat 2: Hocusfocus ( $0.94 )
+Hocusfocus posts small blind [$0.01]
+rino114 posts big blind [$0.02]
+** Dealing down cards **
+Hocusfocus calls [$0.01]
+rino114 checks
+** Dealing flop ** [ 9d, 2d, Jd ]
+rino114 bets [$0.02]
+Hocusfocus raises [$0.06]
+rino114 calls [$0.04]
+** Dealing turn ** [ 9h ]
+rino114 bets [$0.02]
+Hocusfocus calls [$0.02]
+** Dealing river ** [ Ah ]
+rino114 checks
+Hocusfocus checks
+** Summary **
+rino114 shows [ Kd, Qc ]
+Hocusfocus mucks [ 8d, Kc ]
+rino114 collected [ $0.19 ]
+
+

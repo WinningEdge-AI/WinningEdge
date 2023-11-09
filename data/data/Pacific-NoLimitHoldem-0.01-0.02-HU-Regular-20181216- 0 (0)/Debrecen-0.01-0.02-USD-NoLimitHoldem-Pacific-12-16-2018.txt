@@ -1,0 +1,28 @@
+#Game No : 1232143728
+***** 888poker Hand History for Game 1232143728 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 08:03:49
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: dmitb ( $0.86 )
+Seat 9: JackPot2200 ( $0.37 )
+JackPot2200 posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+JackPot2200 calls [$0.01]
+dmitb checks
+** Dealing flop ** [ 2c, 4d, Kc ]
+dmitb checks
+JackPot2200 checks
+** Dealing turn ** [ 8s ]
+dmitb checks
+JackPot2200 checks
+** Dealing river ** [ 3h ]
+dmitb checks
+JackPot2200 checks
+** Summary **
+dmitb shows [ 4s, 9s ]
+JackPot2200 mucks [ 5h, Qc ]
+dmitb collected [ $0.04 ]
+
+

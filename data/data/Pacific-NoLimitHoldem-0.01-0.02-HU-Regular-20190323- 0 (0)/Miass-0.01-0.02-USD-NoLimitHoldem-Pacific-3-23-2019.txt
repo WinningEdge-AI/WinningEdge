@@ -1,0 +1,55 @@
+#Game No : 1256781063
+***** 888poker Hand History for Game 1256781063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 02:00:06
+Table Miass 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OksanaKhilch ( $0.83 )
+Seat 2: andantemoto ( $0.97 )
+OksanaKhilch posts small blind [$0.01]
+andantemoto posts big blind [$0.02]
+** Dealing down cards **
+OksanaKhilch calls [$0.01]
+andantemoto checks
+** Dealing flop ** [ 2s, 2d, 5h ]
+andantemoto bets [$0.02]
+OksanaKhilch calls [$0.02]
+** Dealing turn ** [ 5s ]
+andantemoto bets [$0.02]
+OksanaKhilch calls [$0.02]
+** Dealing river ** [ 6h ]
+andantemoto checks
+OksanaKhilch bets [$0.02]
+andantemoto calls [$0.02]
+** Summary **
+OksanaKhilch shows [ 5c, 7c ]
+andantemoto mucks [ Kd, Kc ]
+OksanaKhilch collected [ $0.15 ]
+
+
+#Game No : 1256781133
+***** 888poker Hand History for Game 1256781133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 02:00:23
+Table Miass 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: OksanaKhilch ( $0.90 )
+Seat 2: andantemoto ( $0.89 )
+andantemoto posts small blind [$0.01]
+OksanaKhilch posts big blind [$0.02]
+** Dealing down cards **
+andantemoto calls [$0.01]
+OksanaKhilch checks
+** Dealing flop ** [ 2d, 3h, Tc ]
+OksanaKhilch bets [$0.02]
+andantemoto calls [$0.02]
+** Dealing turn ** [ Ah ]
+OksanaKhilch checks
+andantemoto checks
+** Dealing river ** [ Jc ]
+OksanaKhilch bets [$0.02]
+andantemoto folds
+** Summary **
+OksanaKhilch collected [ $0.08 ]
+
+

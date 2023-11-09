@@ -1,0 +1,597 @@
+#Game No : 608524450
+***** 888poker Hand History for Game 608524450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 16:19:57
+Table Tashkent 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kobe24LSB ( $4.33 )
+Seat 10: Tiovitus ( $6.48 )
+Kobe24LSB posts small blind [$0.01]
+Tiovitus posts big blind [$0.02]
+** Dealing down cards **
+Kobe24LSB raises [$0.05]
+Tiovitus folds
+** Summary **
+Kobe24LSB collected [ $0.04 ]
+
+
+#Game No : 608528340
+***** 888poker Hand History for Game 608528340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 18:22:20
+Table Tashkent 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: elkroko ( $2 )
+Seat 5: Roketref ( $1.45 )
+elkroko posts small blind [$0.01]
+Roketref posts big blind [$0.02]
+** Dealing down cards **
+elkroko raises [$0.05]
+Roketref calls [$0.04]
+** Dealing flop ** [ 9c, As, 4s ]
+Roketref checks
+elkroko checks
+** Dealing turn ** [ Qh ]
+Roketref checks
+elkroko checks
+** Dealing river ** [ Qd ]
+Roketref checks
+elkroko bets [$0.12]
+Roketref folds
+** Summary **
+elkroko collected [ $0.12 ]
+
+
+#Game No : 608528361
+***** 888poker Hand History for Game 608528361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 18:22:57
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: elkroko ( $2.06 )
+Seat 5: Roketref ( $1.39 )
+Roketref posts small blind [$0.01]
+elkroko posts big blind [$0.02]
+** Dealing down cards **
+Roketref calls [$0.01]
+elkroko checks
+** Dealing flop ** [ Kh, 3d, 7h ]
+elkroko checks
+Roketref checks
+** Dealing turn ** [ Jh ]
+elkroko bets [$0.04]
+Roketref calls [$0.04]
+** Dealing river ** [ Ac ]
+elkroko bets [$0.12]
+Roketref raises [$0.24]
+elkroko calls [$0.12]
+** Summary **
+Roketref shows [ 3h, Ah ]
+elkroko mucks [ 9h, 5h ]
+Roketref collected [ $0.57 ]
+
+
+#Game No : 608528487
+***** 888poker Hand History for Game 608528487 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 18:27:22
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Roketref ( $1.80 )
+Seat 6: ProAkio ( $0.58 )
+Roketref posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+Roketref calls [$0.01]
+ProAkio raises [$0.04]
+Roketref folds
+** Summary **
+ProAkio did not show his hand
+ProAkio collected [ $0.04 ]
+
+
+#Game No : 608528495
+***** 888poker Hand History for Game 608528495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 18:27:36
+Table Tashkent 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Roketref ( $1.78 )
+Seat 6: ProAkio ( $0.60 )
+ProAkio posts small blind [$0.01]
+Roketref posts big blind [$0.02]
+** Dealing down cards **
+ProAkio raises [$0.03]
+Roketref calls [$0.02]
+** Dealing flop ** [ Jh, 9s, Ts ]
+Roketref checks
+ProAkio bets [$0.02]
+Roketref calls [$0.02]
+** Dealing turn ** [ Kd ]
+Roketref checks
+ProAkio checks
+** Dealing river ** [ 6c ]
+Roketref bets [$0.02]
+ProAkio calls [$0.02]
+** Summary **
+Roketref shows [ 5h, 6h ]
+ProAkio shows [ 7s, Js ]
+ProAkio collected [ $0.15 ]
+
+
+#Game No : 608528960
+***** 888poker Hand History for Game 608528960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 18:44:20
+Table Tashkent 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ProAkio ( $1.52 )
+Seat 7: Kobe24LSB ( $2.46 )
+Kobe24LSB posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+Kobe24LSB folds
+** Summary **
+ProAkio collected [ $0.03 ]
+
+
+#Game No : 608528962
+***** 888poker Hand History for Game 608528962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 18:44:26
+Table Tashkent 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: Roketref ( $1 )
+Seat 7: Kobe24LSB ( $2.45 )
+Kobe24LSB posts small blind [$0.01]
+Roketref posts big blind [$0.02]
+** Dealing down cards **
+Kobe24LSB raises [$0.05]
+Roketref calls [$0.04]
+** Dealing flop ** [ Ah, As, 4s ]
+Roketref bets [$0.02]
+Kobe24LSB raises [$0.12]
+Roketref folds
+** Summary **
+Kobe24LSB did not show his hand
+Kobe24LSB collected [ $0.15 ]
+
+
+#Game No : 608548577
+***** 888poker Hand History for Game 608548577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 07:53:09
+Table Tashkent 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: ILYICH777 ( $1.88 )
+Seat 3: Siamanto15 ( $0.91 )
+Siamanto15 posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+Siamanto15 calls [$0.01]
+ILYICH777 raises [$0.02]
+Siamanto15 calls [$0.02]
+** Dealing flop ** [ 4s, 6s, 3h ]
+ILYICH777 bets [$0.04]
+Siamanto15 calls [$0.04]
+** Dealing turn ** [ Jc ]
+ILYICH777 bets [$0.06]
+Siamanto15 calls [$0.06]
+** Dealing river ** [ 8s ]
+ILYICH777 bets [$0.08]
+Siamanto15 calls [$0.08]
+** Summary **
+ILYICH777 shows [ 8c, Qs ]
+Siamanto15 mucks [ 4h, Th ]
+ILYICH777 collected [ $0.42 ]
+
+
+#Game No : 608548599
+***** 888poker Hand History for Game 608548599 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 07:53:27
+Table Tashkent 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ILYICH777 ( $2.08 )
+Seat 3: Siamanto15 ( $0.69 )
+ILYICH777 posts small blind [$0.01]
+Siamanto15 posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 calls [$0.01]
+Siamanto15 checks
+** Dealing flop ** [ 3s, 5d, 8d ]
+Siamanto15 checks
+ILYICH777 checks
+** Dealing turn ** [ 6h ]
+Siamanto15 checks
+ILYICH777 checks
+** Dealing river ** [ 4d ]
+Siamanto15 bets [$0.02]
+ILYICH777 raises [$0.06]
+Siamanto15 calls [$0.04]
+** Summary **
+ILYICH777 shows [ 2s, 9d ]
+Siamanto15 mucks [ 3h, 4s ]
+ILYICH777 collected [ $0.15 ]
+
+
+#Game No : 608548629
+***** 888poker Hand History for Game 608548629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 07:54:21
+Table Tashkent 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: ILYICH777 ( $2.15 )
+Seat 3: Siamanto15 ( $0.61 )
+Siamanto15 posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+Siamanto15 raises [$0.05]
+ILYICH777 folds
+** Summary **
+Siamanto15 collected [ $0.04 ]
+
+
+#Game No : 608568768
+***** 888poker Hand History for Game 608568768 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:28:58
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: piratflint ( $1.33 )
+Seat 5: ProAkio ( $0.69 )
+ProAkio posts small blind [$0.01]
+piratflint posts big blind [$0.02]
+** Dealing down cards **
+ProAkio calls [$0.01]
+piratflint checks
+** Dealing flop ** [ Jc, Ac, 3s ]
+piratflint checks
+ProAkio checks
+** Dealing turn ** [ 9h ]
+piratflint bets [$0.02]
+ProAkio calls [$0.02]
+** Dealing river ** [ Td ]
+piratflint bets [$0.02]
+ProAkio calls [$0.02]
+** Summary **
+piratflint shows [ 4d, Qd ]
+ProAkio shows [ 8s, 3c ]
+ProAkio collected [ $0.12 ]
+
+
+#Game No : 608568777
+***** 888poker Hand History for Game 608568777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:29:24
+Table Tashkent 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: piratflint ( $1.27 )
+Seat 5: ProAkio ( $0.75 )
+piratflint posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+piratflint calls [$0.01]
+ProAkio checks
+** Dealing flop ** [ 8s, 8d, 6d ]
+ProAkio bets [$0.04]
+piratflint folds
+** Summary **
+ProAkio did not show his hand
+ProAkio collected [ $0.04 ]
+
+
+#Game No : 608568785
+***** 888poker Hand History for Game 608568785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:29:36
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: piratflint ( $1.25 )
+Seat 5: ProAkio ( $0.77 )
+ProAkio posts small blind [$0.01]
+piratflint posts big blind [$0.02]
+** Dealing down cards **
+ProAkio raises [$0.03]
+piratflint calls [$0.02]
+** Dealing flop ** [ 5c, Kh, Ad ]
+piratflint checks
+ProAkio bets [$0.08]
+piratflint folds
+** Summary **
+ProAkio did not show his hand
+ProAkio collected [ $0.08 ]
+
+
+#Game No : 608568796
+***** 888poker Hand History for Game 608568796 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:29:47
+Table Tashkent 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: piratflint ( $1.21 )
+Seat 5: ProAkio ( $0.81 )
+piratflint posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+piratflint calls [$0.01]
+ProAkio raises [$0.02]
+piratflint calls [$0.02]
+** Dealing flop ** [ Kc, 3h, 2s ]
+ProAkio bets [$0.04]
+piratflint calls [$0.04]
+** Dealing turn ** [ 8s ]
+ProAkio checks
+piratflint checks
+** Dealing river ** [ Td ]
+ProAkio bets [$0.16]
+piratflint raises [$0.32]
+ProAkio calls [$0.16]
+** Summary **
+piratflint shows [ Ad, Ac ]
+ProAkio shows [ 3c, 2c ]
+ProAkio collected [ $0.75 ]
+
+
+#Game No : 608568810
+***** 888poker Hand History for Game 608568810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:30:13
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: piratflint ( $0.81 )
+Seat 5: ProAkio ( $1.16 )
+ProAkio posts small blind [$0.01]
+piratflint posts big blind [$0.02]
+** Dealing down cards **
+ProAkio raises [$0.03]
+piratflint calls [$0.02]
+** Dealing flop ** [ 9h, Th, 9s ]
+piratflint checks
+ProAkio bets [$0.08]
+piratflint folds
+** Summary **
+ProAkio did not show his hand
+ProAkio collected [ $0.08 ]
+
+
+#Game No : 608568820
+***** 888poker Hand History for Game 608568820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:30:23
+Table Tashkent 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: piratflint ( $0.77 )
+Seat 5: ProAkio ( $1.20 )
+piratflint posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+piratflint calls [$0.01]
+ProAkio checks
+** Dealing flop ** [ As, 5s, 2c ]
+ProAkio bets [$0.02]
+piratflint raises [$0.04]
+ProAkio calls [$0.02]
+** Dealing turn ** [ 7s ]
+ProAkio checks
+piratflint bets [$0.06]
+ProAkio folds
+** Summary **
+piratflint did not show his hand
+piratflint collected [ $0.12 ]
+
+
+#Game No : 608568834
+***** 888poker Hand History for Game 608568834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:30:42
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: piratflint ( $0.83 )
+Seat 5: ProAkio ( $1.14 )
+ProAkio posts small blind [$0.01]
+piratflint posts big blind [$0.02]
+** Dealing down cards **
+ProAkio calls [$0.01]
+piratflint checks
+** Dealing flop ** [ Ac, 9c, 2c ]
+piratflint bets [$0.02]
+ProAkio calls [$0.02]
+** Dealing turn ** [ 8c ]
+piratflint bets [$0.02]
+ProAkio calls [$0.02]
+** Dealing river ** [ Ad ]
+piratflint bets [$0.02]
+ProAkio raises [$0.12]
+piratflint calls [$0.10]
+** Summary **
+ProAkio shows [ 5s, 2s ]
+piratflint shows [ Ks, 4c ]
+piratflint collected [ $0.34 ]
+
+
+#Game No : 608568856
+***** 888poker Hand History for Game 608568856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:31:08
+Table Tashkent 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: piratflint ( $0.99 )
+Seat 5: ProAkio ( $0.96 )
+piratflint posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+piratflint calls [$0.01]
+ProAkio checks
+** Dealing flop ** [ Kc, Js, Ac ]
+ProAkio bets [$0.02]
+piratflint calls [$0.02]
+** Dealing turn ** [ 5s ]
+ProAkio bets [$0.02]
+piratflint calls [$0.02]
+** Dealing river ** [ 8s ]
+ProAkio bets [$0.02]
+piratflint folds
+** Summary **
+ProAkio did not show his hand
+ProAkio collected [ $0.12 ]
+
+
+#Game No : 608568871
+***** 888poker Hand History for Game 608568871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:31:27
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: piratflint ( $0.93 )
+Seat 5: ProAkio ( $1.02 )
+ProAkio posts small blind [$0.01]
+piratflint posts big blind [$0.02]
+** Dealing down cards **
+ProAkio calls [$0.01]
+piratflint checks
+** Dealing flop ** [ Kh, 3c, 2s ]
+piratflint checks
+ProAkio bets [$0.04]
+piratflint folds
+** Summary **
+ProAkio did not show his hand
+ProAkio collected [ $0.04 ]
+
+
+#Game No : 608568881
+***** 888poker Hand History for Game 608568881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:31:39
+Table Tashkent 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: piratflint ( $0.91 )
+Seat 5: ProAkio ( $1.04 )
+piratflint posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+piratflint calls [$0.01]
+ProAkio raises [$0.04]
+piratflint calls [$0.04]
+** Dealing flop ** [ Jd, 2h, Qs ]
+ProAkio bets [$0.06]
+piratflint raises [$0.30]
+ProAkio folds
+** Summary **
+piratflint did not show his hand
+piratflint collected [ $0.23 ]
+
+
+#Game No : 608568887
+***** 888poker Hand History for Game 608568887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:31:55
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: piratflint ( $1.02 )
+Seat 5: ProAkio ( $0.92 )
+ProAkio posts small blind [$0.01]
+piratflint posts big blind [$0.02]
+** Dealing down cards **
+ProAkio raises [$0.05]
+piratflint folds
+** Summary **
+ProAkio did not show his hand
+ProAkio collected [ $0.04 ]
+
+
+#Game No : 608568893
+***** 888poker Hand History for Game 608568893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:32:02
+Table Tashkent 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: piratflint ( $1 )
+Seat 5: ProAkio ( $0.94 )
+piratflint posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+piratflint folds
+** Summary **
+ProAkio did not show his hand
+ProAkio collected [ $0.03 ]
+
+
+#Game No : 608568897
+***** 888poker Hand History for Game 608568897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:32:07
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: piratflint ( $0.99 )
+Seat 5: ProAkio ( $0.95 )
+ProAkio posts small blind [$0.01]
+piratflint posts big blind [$0.02]
+** Dealing down cards **
+ProAkio raises [$0.03]
+piratflint calls [$0.02]
+** Dealing flop ** [ Ad, 5c, 7c ]
+piratflint checks
+ProAkio checks
+** Dealing turn ** [ Jh ]
+piratflint bets [$0.04]
+ProAkio calls [$0.04]
+** Dealing river ** [ 6c ]
+piratflint bets [$0.10]
+ProAkio calls [$0.10]
+** Summary **
+piratflint shows [ Kd, 4c ]
+ProAkio shows [ 6h, Ac ]
+ProAkio collected [ $0.34 ]
+
+
+#Game No : 608568923
+***** 888poker Hand History for Game 608568923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:32:32
+Table Tashkent 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: piratflint ( $0.81 )
+Seat 5: ProAkio ( $1.11 )
+piratflint posts small blind [$0.01]
+ProAkio posts big blind [$0.02]
+** Dealing down cards **
+piratflint calls [$0.01]
+ProAkio checks
+** Dealing flop ** [ 8h, 5s, Js ]
+ProAkio bets [$0.04]
+piratflint folds
+** Summary **
+ProAkio did not show his hand
+ProAkio collected [ $0.04 ]
+
+
+#Game No : 608568934
+***** 888poker Hand History for Game 608568934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:32:43
+Table Tashkent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: piratflint ( $0.79 )
+Seat 5: ProAkio ( $1.13 )
+ProAkio posts small blind [$0.01]
+piratflint posts big blind [$0.02]
+** Dealing down cards **
+ProAkio calls [$0.01]
+piratflint raises [$0.02]
+ProAkio calls [$0.02]
+** Dealing flop ** [ 5d, Th, 4h ]
+piratflint bets [$0.08]
+ProAkio calls [$0.08]
+** Dealing turn ** [ Js ]
+piratflint bets [$0.24]
+ProAkio raises [$0.48]
+piratflint raises [$0.43]
+ProAkio calls [$0.19]
+** Dealing river ** [ 8d ]
+** Summary **
+piratflint shows [ Ks, Jc ]
+ProAkio shows [ 4s, Jh ]
+ProAkio collected [ $1.49 ]
+
+

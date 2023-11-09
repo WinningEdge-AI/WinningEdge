@@ -1,0 +1,414 @@
+#Game No : 1185863758
+***** 888poker Hand History for Game 1185863758 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:11:21
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.66 )
+Seat 10: MicroStack ( $3.17 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+MicroStack calls [$0.04]
+** Dealing flop ** [ 5c, Ah, Js ]
+MicroStack checks
+tragota bets [$0.09]
+MicroStack calls [$0.09]
+** Dealing turn ** [ Kd ]
+MicroStack checks
+tragota checks
+** Dealing river ** [ 8s ]
+MicroStack bets [$0.40]
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.29 ]
+
+
+#Game No : 1185863896
+***** 888poker Hand History for Game 1185863896 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:12:25
+Table Stockholm 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.51 )
+Seat 10: MicroStack ( $3.31 )
+MicroStack posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+MicroStack raises [$0.05]
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.04 ]
+
+
+#Game No : 1185863921
+***** 888poker Hand History for Game 1185863921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:12:40
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.49 )
+Seat 10: MicroStack ( $3.33 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+MicroStack calls [$0.04]
+** Dealing flop ** [ 3d, 2d, 7c ]
+MicroStack checks
+tragota bets [$0.09]
+MicroStack calls [$0.09]
+** Dealing turn ** [ 4s ]
+MicroStack checks
+tragota bets [$0.17]
+MicroStack calls [$0.17]
+** Dealing river ** [ 8s ]
+MicroStack bets [$0.40]
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.60 ]
+
+
+#Game No : 1185864041
+***** 888poker Hand History for Game 1185864041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:13:43
+Table Stockholm 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.17 )
+Seat 10: MicroStack ( $3.61 )
+MicroStack posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+MicroStack folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.03 ]
+
+
+#Game No : 1185864055
+***** 888poker Hand History for Game 1185864055 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:13:49
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.18 )
+Seat 10: MicroStack ( $3.60 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.03]
+MicroStack folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.04 ]
+
+
+#Game No : 1185864077
+***** 888poker Hand History for Game 1185864077 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:14:00
+Table Stockholm 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.20 )
+Seat 10: MicroStack ( $3.58 )
+MicroStack posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+MicroStack raises [$0.05]
+tragota calls [$0.04]
+** Dealing flop ** [ Qd, 7c, Qs ]
+tragota checks
+MicroStack bets [$0.05]
+tragota raises [$0.16]
+MicroStack calls [$0.11]
+** Dealing turn ** [ 9s ]
+tragota bets [$0.21]
+MicroStack calls [$0.21]
+** Dealing river ** [ 7d ]
+tragota checks
+MicroStack checks
+** Summary **
+tragota shows [ Kd, Tc ]
+MicroStack shows [ 9h, 3h ]
+MicroStack collected [ $0.81 ]
+
+
+#Game No : 1185864226
+***** 888poker Hand History for Game 1185864226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:15:10
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $5.77 )
+Seat 10: MicroStack ( $3.96 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.03 ]
+
+
+#Game No : 1185864251
+***** 888poker Hand History for Game 1185864251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:15:23
+Table Stockholm 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: tragota ( $5.76 )
+Seat 10: MicroStack ( $3.97 )
+MicroStack posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+MicroStack folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.03 ]
+
+
+#Game No : 1185864268
+***** 888poker Hand History for Game 1185864268 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:15:32
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $5.77 )
+Seat 10: MicroStack ( $3.96 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+MicroStack calls [$0.04]
+** Dealing flop ** [ Js, As, Qs ]
+MicroStack checks
+tragota bets [$0.08]
+MicroStack calls [$0.08]
+** Dealing turn ** [ 9s ]
+MicroStack bets [$0.20]
+tragota raises [$0.52]
+MicroStack calls [$0.32]
+** Dealing river ** [ 2c ]
+MicroStack bets [$0.66]
+tragota raises [$2.18]
+MicroStack folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $2.48 ]
+
+
+#Game No : 1185864439
+***** 888poker Hand History for Game 1185864439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:16:55
+Table Stockholm 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.93 )
+Seat 10: MicroStack ( $2.64 )
+MicroStack posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+MicroStack folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.03 ]
+
+
+#Game No : 1185864452
+***** 888poker Hand History for Game 1185864452 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:17:00
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.94 )
+Seat 10: MicroStack ( $2.63 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+MicroStack calls [$0.04]
+** Dealing flop ** [ Qc, 6c, 4c ]
+MicroStack checks
+tragota bets [$0.09]
+MicroStack calls [$0.09]
+** Dealing turn ** [ 5d ]
+MicroStack checks
+tragota checks
+** Dealing river ** [ Qd ]
+MicroStack bets [$0.18]
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.29 ]
+
+
+#Game No : 1185864632
+***** 888poker Hand History for Game 1185864632 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:18:25
+Table Stockholm 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.79 )
+Seat 10: MicroStack ( $2.77 )
+MicroStack posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+MicroStack raises [$0.05]
+tragota calls [$0.04]
+** Dealing flop ** [ Th, 8c, 8h ]
+tragota bets [$0.09]
+MicroStack calls [$0.09]
+** Dealing turn ** [ 7h ]
+tragota bets [$0.20]
+MicroStack calls [$0.20]
+** Dealing river ** [ 8d ]
+tragota bets [$0.49]
+MicroStack calls [$0.49]
+** Summary **
+tragota shows [ Kh, Ts ]
+MicroStack shows [ Td, 6d ]
+tragota collected [ $0.79 ]
+MicroStack collected [ $0.79 ]
+
+
+#Game No : 1185864767
+***** 888poker Hand History for Game 1185864767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:19:29
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.74 )
+Seat 10: MicroStack ( $2.72 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+MicroStack raises [$0.16]
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.12 ]
+
+
+#Game No : 1185864811
+***** 888poker Hand History for Game 1185864811 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:19:50
+Table Stockholm 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.68 )
+Seat 10: MicroStack ( $2.78 )
+MicroStack posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+MicroStack calls [$0.01]
+tragota checks
+** Dealing flop ** [ 4s, 5s, Kc ]
+tragota checks
+MicroStack bets [$0.02]
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.04 ]
+
+
+#Game No : 1185864886
+***** 888poker Hand History for Game 1185864886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:20:23
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.66 )
+Seat 10: MicroStack ( $2.80 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.03 ]
+
+
+#Game No : 1185864911
+***** 888poker Hand History for Game 1185864911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:20:35
+Table Stockholm 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.65 )
+Seat 10: MicroStack ( $2.81 )
+MicroStack posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+MicroStack raises [$0.05]
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.04 ]
+
+
+#Game No : 1185864933
+***** 888poker Hand History for Game 1185864933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:20:49
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.63 )
+Seat 10: MicroStack ( $2.83 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+MicroStack raises [$0.12]
+tragota folds
+** Summary **
+MicroStack did not show his hand
+MicroStack collected [ $0.12 ]
+
+
+#Game No : 1185864977
+***** 888poker Hand History for Game 1185864977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:21:15
+Table Stockholm 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.57 )
+Seat 10: MicroStack ( $2.89 )
+MicroStack posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+MicroStack calls [$0.01]
+tragota raises [$0.06]
+MicroStack raises [$0.22]
+tragota folds
+** Summary **
+MicroStack collected [ $0.16 ]
+
+
+#Game No : 1185865031
+***** 888poker Hand History for Game 1185865031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 19:21:44
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tragota ( $6.49 )
+Seat 10: MicroStack ( $2.97 )
+tragota posts small blind [$0.01]
+MicroStack posts big blind [$0.02]
+** Dealing down cards **
+tragota raises [$0.05]
+MicroStack calls [$0.04]
+** Dealing flop ** [ 5s, 9d, 9h ]
+MicroStack checks
+tragota bets [$0.09]
+MicroStack raises [$0.39]
+tragota folds
+** Summary **
+MicroStack collected [ $0.29 ]
+
+

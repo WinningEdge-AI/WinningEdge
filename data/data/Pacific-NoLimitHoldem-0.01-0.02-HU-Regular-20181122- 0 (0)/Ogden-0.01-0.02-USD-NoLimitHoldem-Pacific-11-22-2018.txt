@@ -1,0 +1,46 @@
+#Game No : 457762936
+***** 888poker Hand History for Game 457762936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 02:45:41
+Table Ogden 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: hjkl7890 ( $0.80 )
+Seat 5: SlikvsSlik ( $1 )
+SlikvsSlik posts small blind [$0.01]
+hjkl7890 posts big blind [$0.02]
+** Dealing down cards **
+SlikvsSlik calls [$0.01]
+hjkl7890 checks
+** Dealing flop ** [ 9d, Ts, 9s ]
+hjkl7890 checks
+SlikvsSlik checks
+** Dealing turn ** [ Qc ]
+hjkl7890 checks
+SlikvsSlik checks
+** Dealing river ** [ Ad ]
+hjkl7890 checks
+SlikvsSlik bets [$0.04]
+hjkl7890 folds
+** Summary **
+SlikvsSlik did not show his hand
+SlikvsSlik collected [ $0.04 ]
+
+
+#Game No : 457762953
+***** 888poker Hand History for Game 457762953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2018 02:46:05
+Table Ogden 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hjkl7890 ( $0.78 )
+Seat 5: SlikvsSlik ( $1.02 )
+hjkl7890 posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+hjkl7890 raises [$0.05]
+SlikvsSlik folds
+** Summary **
+hjkl7890 did not show his hand
+hjkl7890 collected [ $0.04 ]
+
+

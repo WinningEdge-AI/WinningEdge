@@ -1,0 +1,135 @@
+#Game No : 515079632
+***** 888poker Hand History for Game 515079632 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 15:35:38
+Table Lubbock 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: xeneks ( $1.40 )
+Seat 9: poompah ( $1.68 )
+poompah posts small blind [$0.01]
+xeneks posts big blind [$0.02]
+** Dealing down cards **
+poompah raises [$0.04]
+xeneks calls [$0.03]
+** Dealing flop ** [ Th, 9c, 4c ]
+xeneks checks
+poompah checks
+** Dealing turn ** [ 3c ]
+xeneks bets [$0.10]
+poompah folds
+** Summary **
+xeneks collected [ $0.10 ]
+
+
+#Game No : 515079649
+***** 888poker Hand History for Game 515079649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 15:36:04
+Table Lubbock 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: xeneks ( $1.45 )
+Seat 9: poompah ( $1.63 )
+xeneks posts small blind [$0.01]
+poompah posts big blind [$0.02]
+** Dealing down cards **
+xeneks raises [$0.05]
+poompah calls [$0.04]
+** Dealing flop ** [ 2c, 4d, 7h ]
+poompah checks
+xeneks bets [$0.32]
+poompah folds
+** Summary **
+xeneks collected [ $0.12 ]
+
+
+#Game No : 515080207
+***** 888poker Hand History for Game 515080207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 15:48:21
+Table Lubbock 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: xeneks ( $1.56 )
+Seat 7: Mimico68 ( $1.12 )
+xeneks posts small blind [$0.01]
+** Dealing down cards **
+Mimico68 folds
+** Summary **
+xeneks collected [ $0.01 ]
+
+
+#Game No : 515080316
+***** 888poker Hand History for Game 515080316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 15:50:49
+Table Lubbock 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: xeneks ( $1.56 )
+Seat 9: leon2509 ( $0.80 )
+xeneks posts small blind [$0.01]
+leon2509 posts big blind [$0.02]
+** Dealing down cards **
+xeneks raises [$0.05]
+leon2509 calls [$0.04]
+** Dealing flop ** [ 5s, 4c, As ]
+leon2509 checks
+xeneks checks
+** Dealing turn ** [ Ad ]
+leon2509 checks
+xeneks bets [$0.08]
+leon2509 raises [$0.16]
+xeneks calls [$0.08]
+** Dealing river ** [ 8h ]
+leon2509 bets [$0.16]
+xeneks calls [$0.16]
+** Summary **
+leon2509 shows [ Ac, Qc ]
+xeneks mucks [ 5h, Kd ]
+leon2509 collected [ $0.72 ]
+
+
+#Game No : 515080353
+***** 888poker Hand History for Game 515080353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 15:51:42
+Table Lubbock 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: xeneks ( $1.18 )
+Seat 9: leon2509 ( $1.14 )
+leon2509 posts small blind [$0.01]
+xeneks posts big blind [$0.02]
+** Dealing down cards **
+leon2509 calls [$0.01]
+xeneks checks
+** Dealing flop ** [ Kd, Ks, 9h ]
+xeneks checks
+leon2509 checks
+** Dealing turn ** [ Th ]
+xeneks checks
+leon2509 checks
+** Dealing river ** [ 5c ]
+xeneks bets [$0.12]
+leon2509 folds
+** Summary **
+xeneks collected [ $0.04 ]
+
+
+#Game No : 515080374
+***** 888poker Hand History for Game 515080374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 15:52:10
+Table Lubbock 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: xeneks ( $1.20 )
+Seat 9: leon2509 ( $1.12 )
+xeneks posts small blind [$0.01]
+leon2509 posts big blind [$0.02]
+** Dealing down cards **
+xeneks calls [$0.01]
+leon2509 checks
+** Dealing flop ** [ Qd, 2s, Qh ]
+leon2509 bets [$0.04]
+xeneks folds
+** Summary **
+leon2509 collected [ $0.04 ]
+
+

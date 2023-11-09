@@ -1,0 +1,109 @@
+#Game No : 503057931
+***** 888poker Hand History for Game 503057931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:39:01
+Table Darlington 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $1.01 )
+Seat 9: xnabi ( $1.27 )
+xnabi posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+xnabi raises [$0.03]
+VictimVIP raises [$0.10]
+xnabi folds
+** Summary **
+VictimVIP collected [ $0.08 ]
+
+
+#Game No : 503057944
+***** 888poker Hand History for Game 503057944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:39:28
+Table Darlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $1.05 )
+Seat 9: xnabi ( $1.23 )
+VictimVIP posts small blind [$0.01]
+xnabi posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.05]
+xnabi folds
+** Summary **
+VictimVIP collected [ $0.04 ]
+
+
+#Game No : 503058021
+***** 888poker Hand History for Game 503058021 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:41:16
+Table Darlington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Cparkin20 ( $0.80 )
+Seat 2: Magikka2011 ( $1 )
+Magikka2011 posts small blind [$0.01]
+Cparkin20 posts big blind [$0.02]
+** Dealing down cards **
+Magikka2011 raises [$0.05]
+Cparkin20 calls [$0.04]
+** Dealing flop ** [ Th, 6s, Qh ]
+Cparkin20 checks
+Magikka2011 checks
+** Dealing turn ** [ 3h ]
+Cparkin20 bets [$0.06]
+Magikka2011 calls [$0.06]
+** Dealing river ** [ 9h ]
+Cparkin20 bets [$0.12]
+Magikka2011 calls [$0.12]
+** Summary **
+Cparkin20 shows [ 4c, 5d ]
+Magikka2011 shows [ 9s, 9d ]
+Magikka2011 collected [ $0.45 ]
+
+
+#Game No : 503058047
+***** 888poker Hand History for Game 503058047 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:41:52
+Table Darlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cparkin20 ( $0.56 )
+Seat 2: Magikka2011 ( $1.21 )
+Cparkin20 posts small blind [$0.01]
+Magikka2011 posts big blind [$0.02]
+** Dealing down cards **
+Cparkin20 calls [$0.01]
+Magikka2011 checks
+** Dealing flop ** [ 9c, Jh, Kc ]
+Magikka2011 checks
+Cparkin20 bets [$0.02]
+Magikka2011 calls [$0.02]
+** Dealing turn ** [ Ks ]
+Magikka2011 checks
+Cparkin20 bets [$0.04]
+Magikka2011 calls [$0.04]
+** Dealing river ** [ As ]
+Magikka2011 checks
+Cparkin20 checks
+** Summary **
+Magikka2011 shows [ Jd, 3c ]
+Cparkin20 mucks [ 7s, 9d ]
+Magikka2011 collected [ $0.15 ]
+
+
+#Game No : 503058066
+***** 888poker Hand History for Game 503058066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:42:24
+Table Darlington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Cparkin20 ( $0.48 )
+Seat 2: Magikka2011 ( $1.28 )
+Magikka2011 posts small blind [$0.01]
+Cparkin20 posts big blind [$0.02]
+** Dealing down cards **
+Magikka2011 folds
+** Summary **
+Cparkin20 collected [ $0.03 ]
+
+

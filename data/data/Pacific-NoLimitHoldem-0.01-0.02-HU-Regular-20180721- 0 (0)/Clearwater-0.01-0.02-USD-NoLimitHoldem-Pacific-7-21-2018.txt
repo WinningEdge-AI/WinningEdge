@@ -1,0 +1,140 @@
+#Game No : 499760318
+***** 888poker Hand History for Game 499760318 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 11:53:11
+Table Clearwater 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Ipushbuttomz ( $0.91 )
+Seat 7: ccfc_miller ( $1.55 )
+ccfc_miller posts small blind [$0.01]
+Ipushbuttomz posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller raises [$0.05]
+Ipushbuttomz folds
+** Summary **
+ccfc_miller did not show his hand
+ccfc_miller collected [ $0.04 ]
+
+
+#Game No : 499760326
+***** 888poker Hand History for Game 499760326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 11:53:25
+Table Clearwater 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Ipushbuttomz ( $0.89 )
+Seat 7: ccfc_miller ( $1.57 )
+Ipushbuttomz posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Ipushbuttomz folds
+** Summary **
+ccfc_miller collected [ $0.03 ]
+
+
+#Game No : 499762153
+***** 888poker Hand History for Game 499762153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 12:25:49
+Table Clearwater 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Indianer500 ( $1.12 )
+Seat 9: salsal74 ( $1.41 )
+Indianer500 posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+Indianer500 calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ Kd, 7d, 3d ]
+salsal74 checks
+Indianer500 bets [$0.02]
+salsal74 folds
+** Summary **
+Indianer500 did not show his hand
+Indianer500 collected [ $0.04 ]
+
+
+#Game No : 499762186
+***** 888poker Hand History for Game 499762186 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 12:26:15
+Table Clearwater 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Indianer500 ( $1.14 )
+Seat 9: salsal74 ( $1.39 )
+salsal74 posts small blind [$0.01]
+Indianer500 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 calls [$0.01]
+Indianer500 checks
+** Dealing flop ** [ Js, 3h, 6s ]
+Indianer500 checks
+salsal74 checks
+** Dealing turn ** [ 8h ]
+Indianer500 checks
+salsal74 checks
+** Dealing river ** [ 6d ]
+Indianer500 checks
+salsal74 checks
+** Summary **
+Indianer500 shows [ 4d, 9s ]
+salsal74 shows [ Th, 4h ]
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 499762249
+***** 888poker Hand History for Game 499762249 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 12:27:16
+Table Clearwater 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Viktor111456 ( $0.80 )
+Seat 9: salsal74 ( $1.41 )
+salsal74 posts small blind [$0.01]
+Viktor111456 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 calls [$0.01]
+Viktor111456 checks
+** Dealing flop ** [ 4s, Td, Ks ]
+Viktor111456 checks
+salsal74 checks
+** Dealing turn ** [ 9h ]
+Viktor111456 bets [$0.02]
+salsal74 calls [$0.02]
+** Dealing river ** [ Jd ]
+Viktor111456 bets [$0.12]
+salsal74 folds
+** Summary **
+Viktor111456 collected [ $0.08 ]
+
+
+#Game No : 499762390
+***** 888poker Hand History for Game 499762390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 12:29:52
+Table Clearwater 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Schuffe ( $0.69 )
+Seat 9: salsal74 ( $2.22 )
+salsal74 posts small blind [$0.01]
+Schuffe posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+Schuffe raises [$0.04]
+salsal74 calls [$0.02]
+** Dealing flop ** [ Qd, 2h, 4d ]
+Schuffe bets [$0.06]
+salsal74 calls [$0.06]
+** Dealing turn ** [ 8d ]
+Schuffe bets [$0.12]
+salsal74 calls [$0.12]
+** Dealing river ** [ 4s ]
+Schuffe bets [$0.24]
+salsal74 raises [$0.48]
+Schuffe calls [$0.21]
+** Summary **
+Schuffe shows [ Qs, Kd ]
+salsal74 shows [ 4h, 5d ]
+salsal74 collected [ $1.30 ]
+
+

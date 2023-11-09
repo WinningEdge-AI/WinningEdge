@@ -1,0 +1,77 @@
+#Game No : 521093306
+***** 888poker Hand History for Game 521093306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 15:51:56
+Table Ambato 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $1.83 )
+Seat 4: grassmower ( $1.34 )
+grassmower posts small blind [$0.01]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+grassmower collected [ $0.01 ]
+
+
+#Game No : 521093477
+***** 888poker Hand History for Game 521093477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 15:54:39
+Table Ambato 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: fubei ( $1 )
+Seat 4: grassmower ( $1.34 )
+grassmower posts small blind [$0.01]
+fubei posts big blind [$0.02]
+** Dealing down cards **
+grassmower folds
+** Summary **
+fubei did not show his hand
+fubei collected [ $0.03 ]
+
+
+#Game No : 521093489
+***** 888poker Hand History for Game 521093489 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 15:54:48
+Table Ambato 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fubei ( $1.01 )
+Seat 4: grassmower ( $1.33 )
+fubei posts small blind [$0.01]
+grassmower posts big blind [$0.02]
+** Dealing down cards **
+fubei calls [$0.01]
+grassmower raises [$0.02]
+fubei calls [$0.02]
+** Dealing flop ** [ Ad, 3h, Jh ]
+grassmower bets [$0.04]
+fubei calls [$0.04]
+** Dealing turn ** [ 4c ]
+grassmower bets [$0.08]
+fubei calls [$0.08]
+** Dealing river ** [ Qc ]
+grassmower bets [$0.16]
+fubei calls [$0.16]
+** Summary **
+grassmower shows [ Jd, Qd ]
+fubei mucks [ Kd, 5h ]
+grassmower collected [ $0.60 ]
+
+
+#Game No : 521093526
+***** 888poker Hand History for Game 521093526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 15:55:26
+Table Ambato 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: fubei ( $0.69 )
+Seat 4: grassmower ( $1.61 )
+grassmower posts small blind [$0.01]
+fubei posts big blind [$0.02]
+** Dealing down cards **
+grassmower folds
+** Summary **
+fubei collected [ $0.03 ]
+
+

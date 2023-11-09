@@ -1,0 +1,939 @@
+#Game No : 617102703
+***** 888poker Hand History for Game 617102703 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 00:10:35
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tonymanero16 ( $1.01 )
+Seat 4: HiddenSoul ( $0.99 )
+tonymanero16 posts small blind [$0.01]
+HiddenSoul posts big blind [$0.02]
+** Dealing down cards **
+tonymanero16 calls [$0.01]
+HiddenSoul checks
+** Dealing flop ** [ 3d, 5c, 7h ]
+HiddenSoul checks
+tonymanero16 checks
+** Dealing turn ** [ 3s ]
+HiddenSoul checks
+tonymanero16 bets [$0.02]
+HiddenSoul folds
+** Summary **
+tonymanero16 collected [ $0.04 ]
+
+
+#Game No : 617102712
+***** 888poker Hand History for Game 617102712 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 00:11:07
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: tonymanero16 ( $1.03 )
+Seat 4: HiddenSoul ( $0.97 )
+HiddenSoul posts small blind [$0.01]
+tonymanero16 posts big blind [$0.02]
+** Dealing down cards **
+HiddenSoul raises [$0.05]
+tonymanero16 calls [$0.04]
+** Dealing flop ** [ 4d, 2s, Qs ]
+tonymanero16 checks
+HiddenSoul bets [$0.08]
+tonymanero16 calls [$0.08]
+** Dealing turn ** [ Jd ]
+tonymanero16 checks
+HiddenSoul checks
+** Dealing river ** [ 8c ]
+tonymanero16 checks
+HiddenSoul bets [$0.14]
+tonymanero16 calls [$0.14]
+** Summary **
+HiddenSoul shows [ 4s, As ]
+tonymanero16 shows [ Qc, 6c ]
+tonymanero16 collected [ $0.53 ]
+
+
+#Game No : 617104133
+***** 888poker Hand History for Game 617104133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 01:13:17
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: PuiDeDac69 ( $1.06 )
+Seat 9: cbhjnf ( $1.78 )
+cbhjnf posts small blind [$0.01]
+PuiDeDac69 posts big blind [$0.02]
+** Dealing down cards **
+cbhjnf raises [$0.05]
+PuiDeDac69 folds
+** Summary **
+cbhjnf did not show his hand
+cbhjnf collected [ $0.04 ]
+
+
+#Game No : 617104135
+***** 888poker Hand History for Game 617104135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 01:13:25
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: PuiDeDac69 ( $1.04 )
+Seat 9: cbhjnf ( $1.80 )
+PuiDeDac69 posts small blind [$0.01]
+cbhjnf posts big blind [$0.02]
+** Dealing down cards **
+PuiDeDac69 folds
+** Summary **
+cbhjnf did not show his hand
+cbhjnf collected [ $0.03 ]
+
+
+#Game No : 617104607
+***** 888poker Hand History for Game 617104607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 01:34:05
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SwaaaagG ( $0.76 )
+Seat 6: Rounderess ( $0.84 )
+Rounderess posts small blind [$0.01]
+SwaaaagG posts big blind [$0.02]
+** Dealing down cards **
+Rounderess calls [$0.01]
+SwaaaagG checks
+** Dealing flop ** [ Jc, 6c, Qs ]
+SwaaaagG checks
+Rounderess bets [$0.04]
+SwaaaagG folds
+** Summary **
+Rounderess did not show his hand
+Rounderess collected [ $0.04 ]
+
+
+#Game No : 617104612
+***** 888poker Hand History for Game 617104612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 01:34:14
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SwaaaagG ( $0.74 )
+Seat 6: Rounderess ( $0.86 )
+SwaaaagG posts small blind [$0.01]
+Rounderess posts big blind [$0.02]
+** Dealing down cards **
+SwaaaagG raises [$0.03]
+Rounderess calls [$0.02]
+** Dealing flop ** [ Th, Ah, 9d ]
+Rounderess checks
+SwaaaagG checks
+** Dealing turn ** [ Jc ]
+Rounderess bets [$0.02]
+SwaaaagG calls [$0.02]
+** Dealing river ** [ 3s ]
+Rounderess checks
+SwaaaagG checks
+** Summary **
+Rounderess shows [ 4d, 6c ]
+SwaaaagG shows [ 8s, 8d ]
+SwaaaagG collected [ $0.12 ]
+
+
+#Game No : 617104617
+***** 888poker Hand History for Game 617104617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 01:34:39
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SwaaaagG ( $0.80 )
+Seat 6: Rounderess ( $0.80 )
+Rounderess posts small blind [$0.01]
+SwaaaagG posts big blind [$0.02]
+** Dealing down cards **
+Rounderess calls [$0.01]
+SwaaaagG checks
+** Dealing flop ** [ 6c, 4h, 6s ]
+SwaaaagG checks
+Rounderess bets [$0.02]
+SwaaaagG calls [$0.02]
+** Dealing turn ** [ 2s ]
+SwaaaagG checks
+Rounderess bets [$0.02]
+SwaaaagG raises [$0.10]
+Rounderess folds
+** Summary **
+SwaaaagG collected [ $0.12 ]
+
+
+#Game No : 617104632
+***** 888poker Hand History for Game 617104632 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 01:35:40
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SwaaaagG ( $0.84 )
+Seat 6: Rounderess ( $0.76 )
+Rounderess posts small blind [$0.01]
+SwaaaagG posts big blind [$0.02]
+** Dealing down cards **
+Rounderess raises [$0.03]
+SwaaaagG folds
+** Summary **
+Rounderess collected [ $0.04 ]
+
+
+#Game No : 617105060
+***** 888poker Hand History for Game 617105060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 01:53:16
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: r0me00 ( $1.09 )
+Seat 9: luanmeira14 ( $2.66 )
+luanmeira14 posts small blind [$0.01]
+r0me00 posts big blind [$0.02]
+** Dealing down cards **
+luanmeira14 raises [$0.05]
+r0me00 calls [$0.04]
+** Dealing flop ** [ 7c, Qh, Jd ]
+r0me00 checks
+luanmeira14 checks
+** Dealing turn ** [ Jc ]
+r0me00 bets [$0.08]
+luanmeira14 folds
+** Summary **
+r0me00 collected [ $0.12 ]
+
+
+#Game No : 617105077
+***** 888poker Hand History for Game 617105077 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 01:53:45
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: r0me00 ( $1.15 )
+Seat 9: luanmeira14 ( $2.60 )
+r0me00 posts small blind [$0.01]
+** Dealing down cards **
+luanmeira14 folds
+** Summary **
+r0me00 collected [ $0.01 ]
+
+
+#Game No : 617105733
+***** 888poker Hand History for Game 617105733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 02:23:17
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: mihail108 ( $0.97 )
+Seat 9: fibitsch ( $1.20 )
+fibitsch posts small blind [$0.01]
+mihail108 posts big blind [$0.02]
+** Dealing down cards **
+fibitsch folds
+** Summary **
+mihail108 collected [ $0.03 ]
+
+
+#Game No : 617105735
+***** 888poker Hand History for Game 617105735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 02:23:25
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mihail108 ( $0.98 )
+Seat 9: fibitsch ( $1.19 )
+mihail108 posts small blind [$0.01]
+** Dealing down cards **
+fibitsch folds
+** Summary **
+mihail108 collected [ $0.01 ]
+
+
+#Game No : 617105789
+***** 888poker Hand History for Game 617105789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 02:26:48
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fluke149 ( $1 )
+Seat 6: Blade.Master ( $0.80 )
+fluke149 posts small blind [$0.01]
+Blade.Master posts big blind [$0.02]
+** Dealing down cards **
+fluke149 calls [$0.01]
+Blade.Master checks
+** Dealing flop ** [ 3c, Jd, 7c ]
+Blade.Master checks
+fluke149 bets [$0.02]
+Blade.Master calls [$0.02]
+** Dealing turn ** [ Kc ]
+Blade.Master checks
+fluke149 checks
+** Dealing river ** [ 5h ]
+Blade.Master checks
+fluke149 bets [$0.08]
+Blade.Master folds
+** Summary **
+fluke149 collected [ $0.08 ]
+
+
+#Game No : 617105800
+***** 888poker Hand History for Game 617105800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 02:27:33
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: fluke149 ( $1.04 )
+Seat 6: Blade.Master ( $0.76 )
+Blade.Master posts small blind [$0.01]
+fluke149 posts big blind [$0.02]
+** Dealing down cards **
+Blade.Master raises [$0.03]
+fluke149 calls [$0.02]
+** Dealing flop ** [ 5h, 6c, 4h ]
+fluke149 checks
+Blade.Master bets [$0.05]
+fluke149 folds
+** Summary **
+Blade.Master collected [ $0.08 ]
+
+
+#Game No : 617108608
+***** 888poker Hand History for Game 617108608 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:25:30
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: maomax1223 ( $0.92 )
+Seat 2: milkovich84 ( $1 )
+maomax1223 posts small blind [$0.01]
+milkovich84 posts big blind [$0.02]
+** Dealing down cards **
+maomax1223 calls [$0.01]
+milkovich84 checks
+** Dealing flop ** [ Jh, 8d, Qc ]
+milkovich84 checks
+maomax1223 checks
+** Dealing turn ** [ 9d ]
+milkovich84 checks
+maomax1223 checks
+** Dealing river ** [ 5h ]
+milkovich84 checks
+maomax1223 checks
+** Summary **
+milkovich84 shows [ 3s, 7d ]
+maomax1223 mucks [ 6s, 3h ]
+milkovich84 collected [ $0.04 ]
+
+
+#Game No : 617108625
+***** 888poker Hand History for Game 617108625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:25:57
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: maomax1223 ( $0.90 )
+Seat 2: milkovich84 ( $1.02 )
+milkovich84 posts small blind [$0.01]
+** Dealing down cards **
+maomax1223 folds
+** Summary **
+milkovich84 collected [ $0.01 ]
+
+
+#Game No : 617108684
+***** 888poker Hand History for Game 617108684 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:27:50
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: mishanya49 ( $0.80 )
+Seat 6: knezijanac66 ( $0.80 )
+knezijanac66 posts small blind [$0.01]
+mishanya49 posts big blind [$0.02]
+** Dealing down cards **
+knezijanac66 raises [$0.03]
+mishanya49 calls [$0.02]
+** Dealing flop ** [ Qh, Jc, Td ]
+mishanya49 bets [$0.02]
+knezijanac66 calls [$0.02]
+** Dealing turn ** [ Th ]
+mishanya49 checks
+knezijanac66 bets [$0.06]
+mishanya49 calls [$0.06]
+** Dealing river ** [ 3c ]
+mishanya49 checks
+knezijanac66 bets [$0.12]
+mishanya49 raises [$0.24]
+knezijanac66 raises [$0.56]
+mishanya49 calls [$0.44]
+** Summary **
+mishanya49 shows [ 2h, Ts ]
+knezijanac66 shows [ Js, Jd ]
+knezijanac66 collected [ $1.50 ]
+
+
+#Game No : 617108862
+***** 888poker Hand History for Game 617108862 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:32:38
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: flOwjOe14 ( $0.89 )
+Seat 6: domanator008 ( $1 )
+domanator008 posts small blind [$0.01]
+flOwjOe14 posts big blind [$0.02]
+** Dealing down cards **
+domanator008 calls [$0.01]
+flOwjOe14 checks
+** Dealing flop ** [ 2d, Js, 9d ]
+flOwjOe14 checks
+domanator008 checks
+** Dealing turn ** [ 6s ]
+flOwjOe14 bets [$0.04]
+domanator008 raises [$0.08]
+flOwjOe14 calls [$0.04]
+** Dealing river ** [ 2c ]
+flOwjOe14 checks
+domanator008 bets [$0.18]
+flOwjOe14 calls [$0.18]
+** Summary **
+domanator008 shows [ 8s, 9s ]
+flOwjOe14 shows [ 9h, 8h ]
+domanator008 collected [ $0.26 ]
+flOwjOe14 collected [ $0.27 ]
+
+
+#Game No : 617108985
+***** 888poker Hand History for Game 617108985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:35:59
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: domanator008 ( $0.30 )
+Seat 7: mogeil ( $0.73 )
+mogeil posts small blind [$0.01]
+domanator008 posts big blind [$0.02]
+** Dealing down cards **
+mogeil folds
+** Summary **
+domanator008 collected [ $0.03 ]
+
+
+#Game No : 617108990
+***** 888poker Hand History for Game 617108990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:36:06
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: domanator008 ( $0.31 )
+Seat 7: mogeil ( $0.72 )
+domanator008 posts small blind [$0.01]
+mogeil posts big blind [$0.02]
+** Dealing down cards **
+domanator008 raises [$0.05]
+mogeil raises [$0.08]
+domanator008 raises [$0.08]
+mogeil raises [$0.08]
+domanator008 raises [$0.17]
+mogeil calls [$0.13]
+** Dealing flop ** [ Jc, 7c, 9d ]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 8c ]
+** Summary **
+domanator008 shows [ 5h, Jh ]
+mogeil shows [ 5s, 5c ]
+mogeil collected [ $0.59 ]
+
+
+#Game No : 617109071
+***** 888poker Hand History for Game 617109071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:39:11
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Sarahsbear ( $1 )
+Seat 6: Cheeta01 ( $1 )
+Cheeta01 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 raises [$0.99]
+Sarahsbear calls [$0.98]
+** Dealing flop ** [ Qh, 7s, 4d ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 9s ]
+** Summary **
+Sarahsbear shows [ Ks, As ]
+Cheeta01 shows [ Ad, Th ]
+Sarahsbear collected [ $1.88 ]
+
+
+#Game No : 617109082
+***** 888poker Hand History for Game 617109082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:39:34
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Sarahsbear ( $1.88 )
+Seat 6: Cheeta01 ( $1 )
+Sarahsbear posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear folds
+** Summary **
+Cheeta01 collected [ $0.03 ]
+
+
+#Game No : 617109084
+***** 888poker Hand History for Game 617109084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:39:39
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Sarahsbear ( $1.87 )
+Seat 6: Cheeta01 ( $1.01 )
+Cheeta01 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 raises [$1]
+Sarahsbear folds
+** Summary **
+Cheeta01 collected [ $1.03 ]
+
+
+#Game No : 617109091
+***** 888poker Hand History for Game 617109091 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:39:48
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Sarahsbear ( $1.85 )
+Seat 6: Cheeta01 ( $1.03 )
+Sarahsbear posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.05]
+Cheeta01 raises [$1.01]
+Sarahsbear folds
+** Summary **
+Cheeta01 collected [ $0.12 ]
+
+
+#Game No : 617109096
+***** 888poker Hand History for Game 617109096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:40:03
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Sarahsbear ( $1.79 )
+Seat 6: Cheeta01 ( $1.09 )
+Cheeta01 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+Sarahsbear checks
+** Dealing flop ** [ 9c, 3c, 2h ]
+Sarahsbear checks
+Cheeta01 checks
+** Dealing turn ** [ 2c ]
+Sarahsbear checks
+Cheeta01 checks
+** Dealing river ** [ Jh ]
+Sarahsbear checks
+Cheeta01 checks
+** Summary **
+Sarahsbear shows [ Qd, 8h ]
+Cheeta01 mucks [ 5d, Tc ]
+Sarahsbear collected [ $0.04 ]
+
+
+#Game No : 617109216
+***** 888poker Hand History for Game 617109216 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 04:43:48
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Sarahsbear ( $1.65 )
+Seat 2: baldur2 ( $0.80 )
+baldur2 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+baldur2 calls [$0.01]
+Sarahsbear checks
+** Dealing flop ** [ Kh, 4c, 5h ]
+Sarahsbear checks
+baldur2 checks
+** Dealing turn ** [ Ac ]
+Sarahsbear checks
+baldur2 bets [$0.02]
+Sarahsbear calls [$0.02]
+** Dealing river ** [ Ah ]
+Sarahsbear checks
+baldur2 bets [$0.10]
+Sarahsbear calls [$0.10]
+** Summary **
+baldur2 shows [ 3s, 2s ]
+Sarahsbear mucks [ 5c, 3c ]
+baldur2 collected [ $0.27 ]
+
+
+#Game No : 617111641
+***** 888poker Hand History for Game 617111641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 05:53:12
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $2.06 )
+Seat 7: polomanij94 ( $1.41 )
+polomanij94 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+polomanij94 folds
+** Summary **
+i_am_you_ collected [ $0.03 ]
+
+
+#Game No : 617111664
+***** 888poker Hand History for Game 617111664 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 05:53:51
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: i_am_you_ ( $2.07 )
+Seat 7: polomanij94 ( $1.40 )
+i_am_you_ posts small blind [$0.01]
+polomanij94 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+polomanij94 folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 617113946
+***** 888poker Hand History for Game 617113946 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:47:06
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.91 )
+Seat 7: Intelligent8 ( $1.03 )
+eirih_67 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+eirih_67 raises [$0.03]
+Intelligent8 folds
+** Summary **
+eirih_67 collected [ $0.04 ]
+
+
+#Game No : 617113966
+***** 888poker Hand History for Game 617113966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:47:25
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.93 )
+Seat 7: Intelligent8 ( $1.01 )
+Intelligent8 posts small blind [$0.01]
+eirih_67 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+eirih_67 collected [ $0.03 ]
+
+
+#Game No : 617113972
+***** 888poker Hand History for Game 617113972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:47:32
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.94 )
+Seat 7: Intelligent8 ( $1 )
+eirih_67 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+eirih_67 folds
+** Summary **
+Intelligent8 collected [ $0.03 ]
+
+
+#Game No : 617113980
+***** 888poker Hand History for Game 617113980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:47:38
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.93 )
+Seat 7: Intelligent8 ( $1.01 )
+Intelligent8 posts small blind [$0.01]
+eirih_67 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 raises [$0.05]
+eirih_67 folds
+** Summary **
+Intelligent8 collected [ $0.04 ]
+
+
+#Game No : 617113988
+***** 888poker Hand History for Game 617113988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:47:51
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.91 )
+Seat 7: Intelligent8 ( $1.03 )
+eirih_67 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+eirih_67 raises [$0.05]
+Intelligent8 folds
+** Summary **
+eirih_67 collected [ $0.04 ]
+
+
+#Game No : 617114002
+***** 888poker Hand History for Game 617114002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:48:04
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.93 )
+Seat 7: Intelligent8 ( $1.01 )
+Intelligent8 posts small blind [$0.01]
+eirih_67 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 raises [$0.05]
+eirih_67 folds
+** Summary **
+Intelligent8 collected [ $0.04 ]
+
+
+#Game No : 617114013
+***** 888poker Hand History for Game 617114013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:48:13
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.91 )
+Seat 7: Intelligent8 ( $1.03 )
+eirih_67 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+eirih_67 raises [$0.03]
+Intelligent8 folds
+** Summary **
+eirih_67 collected [ $0.04 ]
+
+
+#Game No : 617114024
+***** 888poker Hand History for Game 617114024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:48:25
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.93 )
+Seat 7: Intelligent8 ( $1.01 )
+Intelligent8 posts small blind [$0.01]
+eirih_67 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+eirih_67 collected [ $0.03 ]
+
+
+#Game No : 617114031
+***** 888poker Hand History for Game 617114031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:48:34
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.94 )
+Seat 7: Intelligent8 ( $1 )
+eirih_67 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+eirih_67 raises [$0.05]
+Intelligent8 folds
+** Summary **
+eirih_67 collected [ $0.04 ]
+
+
+#Game No : 617114043
+***** 888poker Hand History for Game 617114043 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:48:46
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.96 )
+Seat 7: Intelligent8 ( $1 )
+Intelligent8 posts small blind [$0.01]
+eirih_67 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+eirih_67 collected [ $0.03 ]
+
+
+#Game No : 617114049
+***** 888poker Hand History for Game 617114049 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:48:51
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.97 )
+Seat 7: Intelligent8 ( $1 )
+eirih_67 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+eirih_67 folds
+** Summary **
+Intelligent8 did not show his hand
+Intelligent8 collected [ $0.03 ]
+
+
+#Game No : 617114057
+***** 888poker Hand History for Game 617114057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 06:48:58
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: eirih_67 ( $0.96 )
+Seat 7: Intelligent8 ( $1.01 )
+Intelligent8 posts small blind [$0.01]
+eirih_67 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+eirih_67 collected [ $0.03 ]
+
+
+#Game No : 617115053
+***** 888poker Hand History for Game 617115053 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 07:08:04
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Intelligent8 ( $1.56 )
+Seat 9: Keljd1987 ( $1.06 )
+Intelligent8 posts small blind [$0.01]
+Keljd1987 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+Keljd1987 did not show his hand
+Keljd1987 collected [ $0.03 ]
+
+
+#Game No : 617115066
+***** 888poker Hand History for Game 617115066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 07:08:18
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Intelligent8 ( $1.55 )
+Seat 9: Keljd1987 ( $1.07 )
+Keljd1987 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+Keljd1987 calls [$0.01]
+Intelligent8 checks
+** Dealing flop ** [ 8h, 6s, Kh ]
+Intelligent8 checks
+Keljd1987 checks
+** Dealing turn ** [ 3h ]
+Intelligent8 checks
+Keljd1987 checks
+** Dealing river ** [ 5c ]
+Intelligent8 checks
+Keljd1987 checks
+** Summary **
+Intelligent8 shows [ 4h, 8s ]
+Keljd1987 mucks [ Td, 2d ]
+Intelligent8 collected [ $0.04 ]
+
+
+#Game No : 617115110
+***** 888poker Hand History for Game 617115110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 07:09:09
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Intelligent8 ( $1.57 )
+Seat 9: Keljd1987 ( $1.05 )
+Intelligent8 posts small blind [$0.01]
+Keljd1987 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 raises [$0.05]
+Keljd1987 calls [$0.04]
+** Dealing flop ** [ Ad, 3c, 4s ]
+Keljd1987 checks
+Intelligent8 checks
+** Dealing turn ** [ 6s ]
+Keljd1987 checks
+Intelligent8 checks
+** Dealing river ** [ 2c ]
+Keljd1987 checks
+Intelligent8 checks
+** Summary **
+Keljd1987 shows [ 7h, 9c ]
+Intelligent8 shows [ 8h, 9s ]
+Intelligent8 collected [ $0.12 ]
+
+
+#Game No : 617115145
+***** 888poker Hand History for Game 617115145 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 07:09:48
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Intelligent8 ( $1.63 )
+Seat 9: Keljd1987 ( $0.99 )
+Keljd1987 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+Keljd1987 calls [$0.01]
+Intelligent8 raises [$0.04]
+Keljd1987 folds
+** Summary **
+Intelligent8 collected [ $0.04 ]
+
+
+#Game No : 617115170
+***** 888poker Hand History for Game 617115170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 07:10:16
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Intelligent8 ( $1.65 )
+Seat 9: Keljd1987 ( $0.97 )
+Intelligent8 posts small blind [$0.01]
+Keljd1987 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 raises [$0.05]
+Keljd1987 calls [$0.04]
+** Dealing flop ** [ Js, 5c, Ts ]
+Keljd1987 bets [$0.12]
+Intelligent8 folds
+** Summary **
+Keljd1987 collected [ $0.12 ]
+
+
+#Game No : 617115188
+***** 888poker Hand History for Game 617115188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 07:10:37
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Intelligent8 ( $1.59 )
+Seat 9: Keljd1987 ( $1.03 )
+Keljd1987 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+Keljd1987 raises [$0.11]
+Intelligent8 folds
+** Summary **
+Keljd1987 collected [ $0.04 ]
+
+

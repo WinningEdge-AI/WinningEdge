@@ -1,0 +1,155 @@
+#Game No : 500962879
+***** 888poker Hand History for Game 500962879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 06:32:00
+Table Arlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: gnevvlad ( $0.62 )
+Seat 4: Dartvader1 ( $1.16 )
+Dartvader1 posts small blind [$0.01]
+gnevvlad posts big blind [$0.02]
+** Dealing down cards **
+Dartvader1 raises [$0.05]
+gnevvlad raises [$0.08]
+Dartvader1 raises [$0.17]
+gnevvlad raises [$0.52]
+Dartvader1 calls [$0.39]
+** Dealing flop ** [ 6c, 4c, 5d ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ 6h ]
+** Summary **
+gnevvlad shows [ Qh, Qc ]
+Dartvader1 shows [ Jd, Jc ]
+gnevvlad collected [ $1.17 ]
+
+
+#Game No : 500962906
+***** 888poker Hand History for Game 500962906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 06:32:20
+Table Arlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gnevvlad ( $1.17 )
+Seat 4: Dartvader1 ( $1 )
+gnevvlad posts small blind [$0.01]
+Dartvader1 posts big blind [$0.02]
+** Dealing down cards **
+gnevvlad calls [$0.01]
+Dartvader1 checks
+** Dealing flop ** [ 8d, 5c, Tc ]
+Dartvader1 checks
+gnevvlad bets [$0.22]
+Dartvader1 calls [$0.22]
+** Dealing turn ** [ 4h ]
+Dartvader1 checks
+gnevvlad bets [$0.48]
+Dartvader1 folds
+** Summary **
+gnevvlad collected [ $0.45 ]
+
+
+#Game No : 500963961
+***** 888poker Hand History for Game 500963961 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 06:55:39
+Table Arlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 123aigo ( $1.07 )
+Seat 7: Ivanfeliu017 ( $1.27 )
+123aigo posts small blind [$0.01]
+Ivanfeliu017 posts big blind [$0.02]
+** Dealing down cards **
+123aigo folds
+** Summary **
+Ivanfeliu017 collected [ $0.03 ]
+
+
+#Game No : 500963966
+***** 888poker Hand History for Game 500963966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 06:55:44
+Table Arlington 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: 123aigo ( $1.06 )
+Seat 7: Ivanfeliu017 ( $1.28 )
+Ivanfeliu017 posts small blind [$0.01]
+123aigo posts big blind [$0.02]
+** Dealing down cards **
+Ivanfeliu017 calls [$0.01]
+123aigo checks
+** Dealing flop ** [ Th, 6d, Ts ]
+123aigo checks
+Ivanfeliu017 checks
+** Dealing turn ** [ Qs ]
+123aigo checks
+Ivanfeliu017 checks
+** Dealing river ** [ 9c ]
+123aigo checks
+Ivanfeliu017 checks
+** Summary **
+123aigo shows [ 3h, Kc ]
+Ivanfeliu017 shows [ As, 4c ]
+Ivanfeliu017 collected [ $0.04 ]
+
+
+#Game No : 500964011
+***** 888poker Hand History for Game 500964011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 06:56:41
+Table Arlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 123aigo ( $1.04 )
+Seat 7: Ivanfeliu017 ( $1.30 )
+123aigo posts small blind [$0.01]
+Ivanfeliu017 posts big blind [$0.02]
+** Dealing down cards **
+123aigo folds
+** Summary **
+Ivanfeliu017 collected [ $0.03 ]
+
+
+#Game No : 500964726
+***** 888poker Hand History for Game 500964726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 07:12:09
+Table Arlington 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Ivanfeliu017 ( $0.79 )
+Seat 9: maloy0716 ( $1.80 )
+Ivanfeliu017 posts small blind [$0.01]
+maloy0716 posts big blind [$0.02]
+** Dealing down cards **
+Ivanfeliu017 calls [$0.01]
+maloy0716 checks
+** Dealing flop ** [ 4d, Qc, Kc ]
+maloy0716 checks
+Ivanfeliu017 checks
+** Dealing turn ** [ 9c ]
+maloy0716 checks
+Ivanfeliu017 bets [$0.04]
+maloy0716 folds
+** Summary **
+Ivanfeliu017 collected [ $0.04 ]
+
+
+#Game No : 500964740
+***** 888poker Hand History for Game 500964740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 07:12:32
+Table Arlington 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Ivanfeliu017 ( $0.81 )
+Seat 9: maloy0716 ( $1.78 )
+maloy0716 posts small blind [$0.01]
+Ivanfeliu017 posts big blind [$0.02]
+** Dealing down cards **
+maloy0716 calls [$0.01]
+Ivanfeliu017 checks
+** Dealing flop ** [ 3h, Qd, 9c ]
+Ivanfeliu017 checks
+maloy0716 bets [$0.02]
+Ivanfeliu017 folds
+** Summary **
+maloy0716 collected [ $0.04 ]
+
+

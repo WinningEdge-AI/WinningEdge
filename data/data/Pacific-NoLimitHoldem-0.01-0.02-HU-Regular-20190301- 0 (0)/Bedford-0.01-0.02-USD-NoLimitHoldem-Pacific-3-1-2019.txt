@@ -1,0 +1,130 @@
+#Game No : 1251560332
+***** 888poker Hand History for Game 1251560332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 03:10:50
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JFKisDead ( $1.25 )
+Seat 6: FlashedHors1 ( $1 )
+JFKisDead posts small blind [$0.01]
+FlashedHors1 posts big blind [$0.02]
+** Dealing down cards **
+JFKisDead calls [$0.01]
+FlashedHors1 raises [$0.06]
+JFKisDead folds
+** Summary **
+FlashedHors1 collected [ $0.04 ]
+
+
+#Game No : 1251560361
+***** 888poker Hand History for Game 1251560361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 03:11:00
+Table Bedford 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: JFKisDead ( $1.23 )
+Seat 6: FlashedHors1 ( $1.02 )
+FlashedHors1 posts small blind [$0.01]
+JFKisDead posts big blind [$0.02]
+** Dealing down cards **
+FlashedHors1 raises [$0.04]
+JFKisDead calls [$0.03]
+** Dealing flop ** [ Qd, 3d, 5h ]
+JFKisDead checks
+FlashedHors1 bets [$0.06]
+JFKisDead calls [$0.06]
+** Dealing turn ** [ 7h ]
+JFKisDead checks
+FlashedHors1 checks
+** Dealing river ** [ Th ]
+JFKisDead checks
+FlashedHors1 checks
+** Summary **
+JFKisDead shows [ 5s, 8c ]
+FlashedHors1 mucks [ 3h, Ad ]
+JFKisDead collected [ $0.21 ]
+
+
+#Game No : 1251560460
+***** 888poker Hand History for Game 1251560460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 03:11:39
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JFKisDead ( $1.33 )
+Seat 6: FlashedHors1 ( $1 )
+JFKisDead posts small blind [$0.01]
+FlashedHors1 posts big blind [$0.02]
+** Dealing down cards **
+JFKisDead calls [$0.01]
+FlashedHors1 checks
+** Dealing flop ** [ Ac, 8s, 2h ]
+FlashedHors1 checks
+JFKisDead bets [$0.02]
+FlashedHors1 calls [$0.02]
+** Dealing turn ** [ 3c ]
+FlashedHors1 checks
+JFKisDead bets [$0.04]
+FlashedHors1 folds
+** Summary **
+JFKisDead collected [ $0.08 ]
+
+
+#Game No : 1251576075
+***** 888poker Hand History for Game 1251576075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 04:38:18
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cozzeman999 ( $1.06 )
+Seat 2: FlashedHors1 ( $1.61 )
+Cozzeman999 posts small blind [$0.01]
+FlashedHors1 posts big blind [$0.02]
+** Dealing down cards **
+Cozzeman999 calls [$0.01]
+FlashedHors1 checks
+** Dealing flop ** [ 7s, 3d, Tc ]
+FlashedHors1 checks
+Cozzeman999 checks
+** Dealing turn ** [ 7d ]
+FlashedHors1 bets [$0.03]
+Cozzeman999 folds
+** Summary **
+FlashedHors1 did not show his hand
+FlashedHors1 collected [ $0.04 ]
+
+
+#Game No : 1251576210
+***** 888poker Hand History for Game 1251576210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 04:38:57
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Cozzeman999 ( $1.04 )
+Seat 2: FlashedHors1 ( $1.63 )
+FlashedHors1 posts small blind [$0.01]
+Cozzeman999 posts big blind [$0.02]
+** Dealing down cards **
+FlashedHors1 raises [$0.04]
+Cozzeman999 folds
+** Summary **
+FlashedHors1 did not show his hand
+FlashedHors1 collected [ $0.04 ]
+
+
+#Game No : 1251576239
+***** 888poker Hand History for Game 1251576239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 04:39:05
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cozzeman999 ( $1.02 )
+Seat 2: FlashedHors1 ( $1.65 )
+Cozzeman999 posts small blind [$0.01]
+** Dealing down cards **
+FlashedHors1 folds
+** Summary **
+Cozzeman999 did not show his hand
+Cozzeman999 collected [ $0.01 ]
+
+

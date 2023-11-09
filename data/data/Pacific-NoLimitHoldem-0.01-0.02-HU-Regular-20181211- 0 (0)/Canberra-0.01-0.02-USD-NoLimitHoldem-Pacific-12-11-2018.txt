@@ -1,0 +1,45 @@
+#Game No : 1230740284
+***** 888poker Hand History for Game 1230740284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 06:35:27
+Table Canberra 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: sergaa14 ( $1.44 )
+Seat 9: rubenskred14 ( $1.50 )
+rubenskred14 posts small blind [$0.01]
+sergaa14 posts big blind [$0.02]
+** Dealing down cards **
+rubenskred14 folds
+** Summary **
+sergaa14 collected [ $0.03 ]
+
+
+#Game No : 1230819192
+***** 888poker Hand History for Game 1230819192 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 11:45:42
+Table Canberra 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: saimonmoon3 ( $1.32 )
+Seat 9: kabserg ( $0.99 )
+kabserg posts small blind [$0.01]
+saimonmoon3 posts big blind [$0.02]
+** Dealing down cards **
+kabserg raises [$0.05]
+saimonmoon3 calls [$0.04]
+** Dealing flop ** [ Th, 9c, Js ]
+saimonmoon3 bets [$0.06]
+kabserg calls [$0.06]
+** Dealing turn ** [ 9s ]
+saimonmoon3 checks
+kabserg checks
+** Dealing river ** [ 8c ]
+saimonmoon3 bets [$0.12]
+kabserg calls [$0.12]
+** Summary **
+saimonmoon3 shows [ Ts, 7d ]
+kabserg shows [ Ac, 7h ]
+kabserg collected [ $0.22 ]
+saimonmoon3 collected [ $0.23 ]
+
+

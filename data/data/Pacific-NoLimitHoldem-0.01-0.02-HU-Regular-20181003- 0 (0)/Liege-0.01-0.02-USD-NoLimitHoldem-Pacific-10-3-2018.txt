@@ -1,0 +1,190 @@
+#Game No : 503257280
+***** 888poker Hand History for Game 503257280 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 17:11:03
+Table Liege 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: azur1972 ( $0.93 )
+Seat 6: blackpanter9 ( $1.04 )
+azur1972 posts small blind [$0.01]
+blackpanter9 posts big blind [$0.02]
+** Dealing down cards **
+azur1972 calls [$0.01]
+blackpanter9 checks
+** Dealing flop ** [ Qs, 5d, 9c ]
+blackpanter9 checks
+azur1972 checks
+** Dealing turn ** [ 6s ]
+blackpanter9 checks
+azur1972 checks
+** Dealing river ** [ 6d ]
+blackpanter9 checks
+azur1972 checks
+** Summary **
+blackpanter9 shows [ 3c, 2c ]
+azur1972 shows [ 7h, Ac ]
+azur1972 collected [ $0.04 ]
+
+
+#Game No : 503257295
+***** 888poker Hand History for Game 503257295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 17:11:36
+Table Liege 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: azur1972 ( $0.95 )
+Seat 6: blackpanter9 ( $1.02 )
+blackpanter9 posts small blind [$0.01]
+azur1972 posts big blind [$0.02]
+** Dealing down cards **
+blackpanter9 raises [$0.05]
+azur1972 calls [$0.04]
+** Dealing flop ** [ 8s, Tc, Td ]
+azur1972 checks
+blackpanter9 bets [$0.06]
+azur1972 calls [$0.06]
+** Dealing turn ** [ Kh ]
+azur1972 checks
+blackpanter9 checks
+** Dealing river ** [ 9s ]
+azur1972 checks
+blackpanter9 checks
+** Summary **
+azur1972 shows [ Qd, Ts ]
+blackpanter9 mucks [ Qc, Qs ]
+azur1972 collected [ $0.23 ]
+
+
+#Game No : 503257397
+***** 888poker Hand History for Game 503257397 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 17:16:48
+Table Liege 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: azur1972 ( $1.15 )
+Seat 9: Beauville14 ( $0.78 )
+Beauville14 posts small blind [$0.01]
+azur1972 posts big blind [$0.02]
+** Dealing down cards **
+Beauville14 calls [$0.01]
+azur1972 checks
+** Dealing flop ** [ Qc, 4d, 8d ]
+azur1972 checks
+Beauville14 checks
+** Dealing turn ** [ 6c ]
+azur1972 checks
+Beauville14 checks
+** Dealing river ** [ 8s ]
+azur1972 checks
+Beauville14 checks
+** Summary **
+azur1972 shows [ Ah, 9s ]
+Beauville14 mucks [ 7h, Jc ]
+azur1972 collected [ $0.04 ]
+
+
+#Game No : 503257411
+***** 888poker Hand History for Game 503257411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 17:17:14
+Table Liege 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: azur1972 ( $1.17 )
+Seat 9: Beauville14 ( $0.76 )
+azur1972 posts small blind [$0.01]
+Beauville14 posts big blind [$0.02]
+** Dealing down cards **
+azur1972 calls [$0.01]
+Beauville14 checks
+** Dealing flop ** [ 2h, 3c, 5d ]
+Beauville14 bets [$0.02]
+azur1972 calls [$0.02]
+** Dealing turn ** [ 9c ]
+Beauville14 bets [$0.02]
+azur1972 calls [$0.02]
+** Dealing river ** [ 4s ]
+Beauville14 bets [$0.02]
+azur1972 calls [$0.02]
+** Summary **
+Beauville14 shows [ 7c, 7s ]
+azur1972 mucks [ Kh, 3d ]
+Beauville14 collected [ $0.15 ]
+
+
+#Game No : 503257419
+***** 888poker Hand History for Game 503257419 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 17:17:36
+Table Liege 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: azur1972 ( $1.09 )
+Seat 9: Beauville14 ( $0.83 )
+Beauville14 posts small blind [$0.01]
+azur1972 posts big blind [$0.02]
+** Dealing down cards **
+Beauville14 calls [$0.01]
+azur1972 raises [$0.06]
+Beauville14 folds
+** Summary **
+azur1972 collected [ $0.04 ]
+
+
+#Game No : 503257433
+***** 888poker Hand History for Game 503257433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 17:18:12
+Table Liege 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: GabiHoldem ( $1.02 )
+Seat 9: Beauville14 ( $0.79 )
+Beauville14 posts small blind [$0.01]
+GabiHoldem posts big blind [$0.02]
+** Dealing down cards **
+Beauville14 calls [$0.01]
+GabiHoldem checks
+** Dealing flop ** [ 8c, 6c, Kh ]
+GabiHoldem checks
+Beauville14 bets [$0.02]
+GabiHoldem calls [$0.02]
+** Dealing turn ** [ Kc ]
+GabiHoldem checks
+Beauville14 bets [$0.02]
+GabiHoldem folds
+** Summary **
+Beauville14 did not show his hand
+Beauville14 collected [ $0.08 ]
+
+
+#Game No : 503257447
+***** 888poker Hand History for Game 503257447 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 17:18:36
+Table Liege 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: GabiHoldem ( $1 )
+Seat 9: Beauville14 ( $0.83 )
+GabiHoldem posts small blind [$0.01]
+Beauville14 posts big blind [$0.02]
+** Dealing down cards **
+GabiHoldem folds
+** Summary **
+Beauville14 did not show his hand
+Beauville14 collected [ $0.03 ]
+
+
+#Game No : 503257457
+***** 888poker Hand History for Game 503257457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 17:18:57
+Table Liege 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: GabiHoldem ( $1 )
+Seat 9: Beauville14 ( $0.84 )
+Beauville14 posts small blind [$0.01]
+** Dealing down cards **
+GabiHoldem folds
+** Summary **
+Beauville14 did not show his hand
+Beauville14 collected [ $0.01 ]
+
+

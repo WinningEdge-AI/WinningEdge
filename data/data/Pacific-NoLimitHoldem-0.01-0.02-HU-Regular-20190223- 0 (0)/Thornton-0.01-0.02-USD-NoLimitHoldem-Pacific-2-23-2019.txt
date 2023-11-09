@@ -1,0 +1,625 @@
+#Game No : 524940523
+***** 888poker Hand History for Game 524940523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 16:11:23
+Table Thornton 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: t.jenks ( $1.20 )
+Seat 9: CrioloCV ( $1.40 )
+CrioloCV posts small blind [$0.01]
+t.jenks posts big blind [$0.02]
+** Dealing down cards **
+CrioloCV calls [$0.01]
+t.jenks checks
+** Dealing flop ** [ 9h, Qd, 4d ]
+t.jenks checks
+CrioloCV checks
+** Dealing turn ** [ Kh ]
+t.jenks checks
+CrioloCV bets [$0.02]
+t.jenks folds
+** Summary **
+CrioloCV collected [ $0.04 ]
+
+
+#Game No : 524940550
+***** 888poker Hand History for Game 524940550 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 16:11:53
+Table Thornton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Gibbaz1010 ( $0.80 )
+Seat 9: CrioloCV ( $1.42 )
+CrioloCV posts small blind [$0.01]
+** Dealing down cards **
+Gibbaz1010 folds
+** Summary **
+CrioloCV did not show his hand
+CrioloCV collected [ $0.01 ]
+
+
+#Game No : 524940567
+***** 888poker Hand History for Game 524940567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 16:12:03
+Table Thornton 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Gibbaz1010 ( $0.80 )
+Seat 9: CrioloCV ( $1.42 )
+CrioloCV posts small blind [$0.01]
+Gibbaz1010 posts big blind [$0.02]
+** Dealing down cards **
+CrioloCV calls [$0.01]
+Gibbaz1010 checks
+** Dealing flop ** [ 8s, 9s, Jh ]
+Gibbaz1010 checks
+CrioloCV checks
+** Dealing turn ** [ 5d ]
+Gibbaz1010 checks
+CrioloCV checks
+** Dealing river ** [ Ad ]
+Gibbaz1010 checks
+CrioloCV checks
+** Summary **
+Gibbaz1010 shows [ Kd, 2d ]
+CrioloCV mucks [ 2s, 4h ]
+Gibbaz1010 collected [ $0.04 ]
+
+
+#Game No : 524940625
+***** 888poker Hand History for Game 524940625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 16:12:51
+Table Thornton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Gibbaz1010 ( $0.82 )
+Seat 9: CrioloCV ( $1.40 )
+Gibbaz1010 posts small blind [$0.01]
+CrioloCV posts big blind [$0.02]
+** Dealing down cards **
+Gibbaz1010 folds
+** Summary **
+CrioloCV collected [ $0.03 ]
+
+
+#Game No : 524940634
+***** 888poker Hand History for Game 524940634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 16:12:58
+Table Thornton 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: dmitb ( $1 )
+Seat 9: CrioloCV ( $1.41 )
+CrioloCV posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+CrioloCV calls [$0.01]
+dmitb checks
+** Dealing flop ** [ 6d, 2d, 8d ]
+dmitb bets [$0.02]
+CrioloCV calls [$0.02]
+** Dealing turn ** [ Ac ]
+dmitb bets [$0.05]
+CrioloCV folds
+** Summary **
+dmitb collected [ $0.08 ]
+
+
+#Game No : 524940780
+***** 888poker Hand History for Game 524940780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 16:15:22
+Table Thornton 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: dmitb ( $1 )
+Seat 9: CrioloCV ( $3.09 )
+dmitb posts small blind [$0.01]
+CrioloCV posts big blind [$0.02]
+** Dealing down cards **
+dmitb calls [$0.01]
+CrioloCV checks
+** Dealing flop ** [ 7d, 9c, Jd ]
+CrioloCV checks
+dmitb bets [$0.02]
+CrioloCV folds
+** Summary **
+dmitb collected [ $0.04 ]
+
+
+#Game No : 524940821
+***** 888poker Hand History for Game 524940821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 16:16:03
+Table Thornton 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: dmitb ( $1.02 )
+Seat 9: CrioloCV ( $3.07 )
+CrioloCV posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+CrioloCV calls [$0.01]
+dmitb checks
+** Dealing flop ** [ Jc, 3c, Jh ]
+dmitb checks
+CrioloCV checks
+** Dealing turn ** [ Tc ]
+dmitb bets [$0.02]
+CrioloCV folds
+** Summary **
+dmitb collected [ $0.04 ]
+
+
+#Game No : 524944167
+***** 888poker Hand History for Game 524944167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 17:08:20
+Table Thornton 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 6: dmitb ( $2.28 )
+Seat 9: CrioloCV ( $1.26 )
+dmitb posts small blind [$0.01]
+CrioloCV posts big blind [$0.02]
+** Dealing down cards **
+dmitb raises [$0.04]
+CrioloCV calls [$0.03]
+** Dealing flop ** [ 6h, Ts, 5h ]
+dmitb bets [$0.05]
+CrioloCV calls [$0.05]
+** Dealing turn ** [ Kd ]
+dmitb bets [$0.15]
+CrioloCV folds
+** Summary **
+dmitb collected [ $0.19 ]
+
+
+#Game No : 524953125
+***** 888poker Hand History for Game 524953125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 20:09:07
+Table Thornton 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.14 )
+Seat 7: SmillaEvo ( $1.93 )
+rustaman76 posts small blind [$0.01]
+SmillaEvo posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+SmillaEvo raises [$0.04]
+rustaman76 calls [$0.02]
+** Dealing flop ** [ 8d, Kd, 9h ]
+SmillaEvo bets [$0.10]
+rustaman76 folds
+** Summary **
+SmillaEvo did not show his hand
+SmillaEvo collected [ $0.12 ]
+
+
+#Game No : 524953142
+***** 888poker Hand History for Game 524953142 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 20:09:35
+Table Thornton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.08 )
+Seat 7: SmillaEvo ( $1.99 )
+SmillaEvo posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+SmillaEvo calls [$0.01]
+rustaman76 checks
+** Dealing flop ** [ As, 6s, 2h ]
+rustaman76 checks
+SmillaEvo bets [$0.04]
+rustaman76 folds
+** Summary **
+SmillaEvo did not show his hand
+SmillaEvo collected [ $0.04 ]
+
+
+#Game No : 524953155
+***** 888poker Hand History for Game 524953155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 20:10:03
+Table Thornton 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.06 )
+Seat 7: SmillaEvo ( $2.01 )
+rustaman76 posts small blind [$0.01]
+SmillaEvo posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 folds
+** Summary **
+SmillaEvo did not show his hand
+SmillaEvo collected [ $0.03 ]
+
+
+#Game No : 524953158
+***** 888poker Hand History for Game 524953158 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 20:10:13
+Table Thornton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.05 )
+Seat 7: SmillaEvo ( $2.02 )
+SmillaEvo posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+SmillaEvo raises [$0.03]
+rustaman76 calls [$0.02]
+** Dealing flop ** [ Th, 4c, As ]
+rustaman76 checks
+SmillaEvo bets [$0.08]
+rustaman76 folds
+** Summary **
+SmillaEvo collected [ $0.08 ]
+
+
+#Game No : 524953215
+***** 888poker Hand History for Game 524953215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 20:11:41
+Table Thornton 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1 )
+Seat 7: SmillaEvo ( $2.07 )
+rustaman76 posts small blind [$0.01]
+SmillaEvo posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.05]
+SmillaEvo folds
+** Summary **
+rustaman76 collected [ $0.04 ]
+
+
+#Game No : 524953222
+***** 888poker Hand History for Game 524953222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 20:11:52
+Table Thornton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $1.02 )
+Seat 7: SmillaEvo ( $2.05 )
+SmillaEvo posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+SmillaEvo folds
+** Summary **
+rustaman76 did not show his hand
+rustaman76 collected [ $0.03 ]
+
+
+#Game No : 1250062849
+***** 888poker Hand History for Game 1250062849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 01:56:47
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $1.03 )
+Seat 4: Airesson ( $2.56 )
+Airesson posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+Airesson folds
+** Summary **
+Skyluck11 collected [ $0.03 ]
+
+
+#Game No : 1250062859
+***** 888poker Hand History for Game 1250062859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 01:56:51
+Table Thornton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $1.04 )
+Seat 4: Airesson ( $2.55 )
+Skyluck11 posts small blind [$0.01]
+Airesson posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+Airesson folds
+** Summary **
+Skyluck11 collected [ $0.04 ]
+
+
+#Game No : 1250062874
+***** 888poker Hand History for Game 1250062874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 01:56:58
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $1.06 )
+Seat 4: Airesson ( $2.53 )
+Airesson posts small blind [$0.01]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+Airesson collected [ $0.01 ]
+
+
+#Game No : 1250063370
+***** 888poker Hand History for Game 1250063370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 02:00:41
+Table Thornton 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Mommy1964 ( $1 )
+Seat 4: Hozeain ( $0.80 )
+Mommy1964 posts small blind [$0.01]
+Hozeain posts big blind [$0.02]
+** Dealing down cards **
+Mommy1964 raises [$0.05]
+Hozeain calls [$0.04]
+** Dealing flop ** [ 2d, Jc, 9s ]
+Hozeain bets [$0.08]
+Mommy1964 folds
+** Summary **
+Hozeain collected [ $0.12 ]
+
+
+#Game No : 1250063461
+***** 888poker Hand History for Game 1250063461 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 02:01:21
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Mommy1964 ( $0.94 )
+Seat 4: Hozeain ( $0.86 )
+Hozeain posts small blind [$0.01]
+Mommy1964 posts big blind [$0.02]
+** Dealing down cards **
+Hozeain calls [$0.01]
+Mommy1964 checks
+** Dealing flop ** [ Qs, 6d, 3d ]
+Mommy1964 checks
+Hozeain checks
+** Dealing turn ** [ Js ]
+Mommy1964 bets [$0.02]
+Hozeain folds
+** Summary **
+Mommy1964 collected [ $0.04 ]
+
+
+#Game No : 1250078099
+***** 888poker Hand History for Game 1250078099 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 03:34:21
+Table Thornton 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $2.38 )
+Seat 7: ALEXANDERLOP ( $1.73 )
+GARALD84 posts small blind [$0.01]
+ALEXANDERLOP posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+ALEXANDERLOP checks
+** Dealing flop ** [ 8c, Ts, Kc ]
+ALEXANDERLOP checks
+GARALD84 bets [$0.02]
+ALEXANDERLOP raises [$0.06]
+GARALD84 folds
+** Summary **
+ALEXANDERLOP collected [ $0.08 ]
+
+
+#Game No : 1250078166
+***** 888poker Hand History for Game 1250078166 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 03:34:46
+Table Thornton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $2.34 )
+Seat 7: ALEXANDERLOP ( $1.77 )
+ALEXANDERLOP posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+ALEXANDERLOP raises [$0.05]
+GARALD84 folds
+** Summary **
+ALEXANDERLOP collected [ $0.04 ]
+
+
+#Game No : 1250078205
+***** 888poker Hand History for Game 1250078205 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 03:34:59
+Table Thornton 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $2.32 )
+Seat 7: ALEXANDERLOP ( $1.79 )
+GARALD84 posts small blind [$0.01]
+ALEXANDERLOP posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 folds
+** Summary **
+ALEXANDERLOP collected [ $0.03 ]
+
+
+#Game No : 1250146413
+***** 888poker Hand History for Game 1250146413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 09:26:35
+Table Thornton 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Emmaatiara ( $1.26 )
+Seat 9: i_am_you_ ( $1.02 )
+i_am_you_ posts small blind [$0.01]
+Emmaatiara posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Emmaatiara did not show his hand
+Emmaatiara collected [ $0.03 ]
+
+
+#Game No : 1250146434
+***** 888poker Hand History for Game 1250146434 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 09:26:40
+Table Thornton 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Emmaatiara ( $1.27 )
+Seat 9: i_am_you_ ( $1.01 )
+Emmaatiara posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Emmaatiara raises [$0.03]
+i_am_you_ calls [$0.02]
+** Dealing flop ** [ 8c, 6s, 6d ]
+i_am_you_ checks
+Emmaatiara checks
+** Dealing turn ** [ Qs ]
+i_am_you_ checks
+Emmaatiara bets [$0.05]
+i_am_you_ calls [$0.05]
+** Dealing river ** [ 6h ]
+i_am_you_ checks
+Emmaatiara bets [$0.12]
+i_am_you_ folds
+** Summary **
+Emmaatiara did not show his hand
+Emmaatiara collected [ $0.17 ]
+
+
+#Game No : 1250146695
+***** 888poker Hand History for Game 1250146695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 09:27:46
+Table Thornton 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Emmaatiara ( $1.35 )
+Seat 9: i_am_you_ ( $1 )
+i_am_you_ posts small blind [$0.01]
+Emmaatiara posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+Emmaatiara calls [$0.04]
+** Dealing flop ** [ 7c, 7h, Ac ]
+Emmaatiara checks
+i_am_you_ bets [$0.06]
+Emmaatiara folds
+** Summary **
+i_am_you_ collected [ $0.12 ]
+
+
+#Game No : 1250148495
+***** 888poker Hand History for Game 1250148495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 09:35:19
+Table Thornton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JimboJonezz ( $1.25 )
+Seat 9: i_am_you_ ( $1.07 )
+JimboJonezz posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+JimboJonezz raises [$0.05]
+i_am_you_ raises [$0.16]
+JimboJonezz raises [$1.19]
+i_am_you_ calls [$0.89]
+** Dealing flop ** [ 2d, 7c, 2s ]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 3h ]
+** Summary **
+JimboJonezz shows [ 9s, 9c ]
+i_am_you_ shows [ Ah, Ad ]
+i_am_you_ collected [ $2.01 ]
+
+
+#Game No : 1250148919
+***** 888poker Hand History for Game 1250148919 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 09:37:06
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mestrericard ( $0.75 )
+Seat 9: i_am_you_ ( $2.21 )
+mestrericard posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+mestrericard calls [$0.01]
+i_am_you_ raises [$0.06]
+mestrericard calls [$0.06]
+** Dealing flop ** [ 5c, 3d, 2s ]
+i_am_you_ bets [$0.08]
+mestrericard calls [$0.08]
+** Dealing turn ** [ 2c ]
+i_am_you_ bets [$0.21]
+mestrericard calls [$0.21]
+** Dealing river ** [ Qh ]
+i_am_you_ bets [$1.84]
+mestrericard folds
+** Summary **
+i_am_you_ collected [ $0.70 ]
+
+
+#Game No : 1250180696
+***** 888poker Hand History for Game 1250180696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 11:46:57
+Table Thornton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: BobajanPs ( $1.38 )
+Seat 7: AdamPoirier ( $1.52 )
+AdamPoirier posts small blind [$0.01]
+BobajanPs posts big blind [$0.02]
+** Dealing down cards **
+AdamPoirier calls [$0.01]
+BobajanPs checks
+** Dealing flop ** [ 5h, As, 3c ]
+BobajanPs checks
+AdamPoirier bets [$0.02]
+BobajanPs calls [$0.02]
+** Dealing turn ** [ Kc ]
+BobajanPs checks
+AdamPoirier bets [$0.02]
+BobajanPs calls [$0.02]
+** Dealing river ** [ 8c ]
+BobajanPs checks
+AdamPoirier bets [$0.12]
+BobajanPs folds
+** Summary **
+AdamPoirier did not show his hand
+AdamPoirier collected [ $0.12 ]
+
+
+#Game No : 1250180856
+***** 888poker Hand History for Game 1250180856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 11:47:32
+Table Thornton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BobajanPs ( $1.32 )
+Seat 7: AdamPoirier ( $1.58 )
+BobajanPs posts small blind [$0.01]
+AdamPoirier posts big blind [$0.02]
+** Dealing down cards **
+BobajanPs raises [$0.05]
+AdamPoirier calls [$0.04]
+** Dealing flop ** [ 2c, Qc, 9s ]
+AdamPoirier checks
+BobajanPs checks
+** Dealing turn ** [ 7h ]
+AdamPoirier checks
+BobajanPs bets [$0.06]
+AdamPoirier folds
+** Summary **
+BobajanPs did not show his hand
+BobajanPs collected [ $0.12 ]
+
+
+#Game No : 1250180943
+***** 888poker Hand History for Game 1250180943 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 11:47:52
+Table Thornton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: BobajanPs ( $1.38 )
+Seat 7: AdamPoirier ( $1.52 )
+AdamPoirier posts small blind [$0.01]
+** Dealing down cards **
+BobajanPs folds
+** Summary **
+AdamPoirier did not show his hand
+AdamPoirier collected [ $0.01 ]
+
+

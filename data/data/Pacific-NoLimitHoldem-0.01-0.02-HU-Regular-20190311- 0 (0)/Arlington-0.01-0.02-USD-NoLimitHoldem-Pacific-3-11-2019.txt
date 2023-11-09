@@ -1,0 +1,600 @@
+#Game No : 526308407
+***** 888poker Hand History for Game 526308407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 18:55:07
+Table Arlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: chipbelle ( $0.99 )
+Seat 4: Alexasid ( $2.09 )
+chipbelle posts small blind [$0.01]
+Alexasid posts big blind [$0.02]
+** Dealing down cards **
+chipbelle calls [$0.01]
+Alexasid checks
+** Dealing flop ** [ Ad, 7s, 8h ]
+Alexasid bets [$0.02]
+chipbelle calls [$0.02]
+** Dealing turn ** [ Ac ]
+Alexasid bets [$0.02]
+chipbelle calls [$0.02]
+** Dealing river ** [ 8s ]
+Alexasid bets [$0.02]
+chipbelle calls [$0.02]
+** Summary **
+Alexasid shows [ 3d, 7h ]
+chipbelle shows [ Jc, Jd ]
+chipbelle collected [ $0.15 ]
+
+
+#Game No : 526308412
+***** 888poker Hand History for Game 526308412 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 18:55:31
+Table Arlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: chipbelle ( $1.06 )
+Seat 4: Alexasid ( $2.01 )
+Alexasid posts small blind [$0.01]
+chipbelle posts big blind [$0.02]
+** Dealing down cards **
+Alexasid calls [$0.01]
+chipbelle checks
+** Dealing flop ** [ Js, 5c, 8c ]
+chipbelle checks
+Alexasid bets [$0.02]
+chipbelle calls [$0.02]
+** Dealing turn ** [ Ts ]
+chipbelle checks
+Alexasid bets [$0.02]
+chipbelle calls [$0.02]
+** Dealing river ** [ Qd ]
+chipbelle checks
+Alexasid checks
+** Summary **
+chipbelle shows [ 8s, 9d ]
+Alexasid shows [ 5s, 9c ]
+Alexasid collected [ $0.06 ]
+chipbelle collected [ $0.06 ]
+
+
+#Game No : 526308433
+***** 888poker Hand History for Game 526308433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 18:56:06
+Table Arlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: chipbelle ( $1.06 )
+Seat 4: Alexasid ( $2.01 )
+chipbelle posts small blind [$0.01]
+Alexasid posts big blind [$0.02]
+** Dealing down cards **
+chipbelle folds
+** Summary **
+Alexasid collected [ $0.03 ]
+
+
+#Game No : 526308442
+***** 888poker Hand History for Game 526308442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 18:56:26
+Table Arlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: chipbelle ( $1.05 )
+Seat 6: JustCharlsWG ( $0.80 )
+chipbelle posts small blind [$0.01]
+JustCharlsWG posts big blind [$0.02]
+** Dealing down cards **
+chipbelle folds
+** Summary **
+JustCharlsWG collected [ $0.03 ]
+
+
+#Game No : 526308446
+***** 888poker Hand History for Game 526308446 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 18:56:36
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: chipbelle ( $1.04 )
+Seat 6: JustCharlsWG ( $0.81 )
+JustCharlsWG posts small blind [$0.01]
+chipbelle posts big blind [$0.02]
+** Dealing down cards **
+JustCharlsWG calls [$0.01]
+chipbelle checks
+** Dealing flop ** [ Jd, Qd, 6s ]
+chipbelle checks
+JustCharlsWG checks
+** Dealing turn ** [ Ts ]
+chipbelle checks
+JustCharlsWG checks
+** Dealing river ** [ 9s ]
+chipbelle bets [$0.02]
+JustCharlsWG raises [$0.04]
+chipbelle raises [$0.04]
+JustCharlsWG raises [$0.04]
+chipbelle raises [$0.08]
+JustCharlsWG calls [$0.06]
+** Summary **
+chipbelle shows [ As, 3s ]
+JustCharlsWG mucks [ 8s, Kc ]
+chipbelle collected [ $0.30 ]
+
+
+#Game No : 526308467
+***** 888poker Hand History for Game 526308467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 18:57:26
+Table Arlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: chipbelle ( $1.18 )
+Seat 6: JustCharlsWG ( $0.65 )
+chipbelle posts small blind [$0.01]
+JustCharlsWG posts big blind [$0.02]
+** Dealing down cards **
+chipbelle folds
+** Summary **
+JustCharlsWG collected [ $0.03 ]
+
+
+#Game No : 526308679
+***** 888poker Hand History for Game 526308679 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 19:05:44
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: chipbelle ( $0.96 )
+Seat 6: JustCharlsWG ( $0.85 )
+JustCharlsWG posts small blind [$0.01]
+chipbelle posts big blind [$0.02]
+** Dealing down cards **
+JustCharlsWG calls [$0.01]
+chipbelle checks
+** Dealing flop ** [ 2s, 6d, 2c ]
+chipbelle checks
+JustCharlsWG checks
+** Dealing turn ** [ 3d ]
+chipbelle checks
+JustCharlsWG checks
+** Dealing river ** [ 3c ]
+chipbelle checks
+JustCharlsWG checks
+** Summary **
+chipbelle shows [ 9s, Qc ]
+JustCharlsWG shows [ Kh, Js ]
+JustCharlsWG collected [ $0.04 ]
+
+
+#Game No : 526308699
+***** 888poker Hand History for Game 526308699 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 19:06:29
+Table Arlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: chipbelle ( $0.94 )
+Seat 6: JustCharlsWG ( $0.87 )
+chipbelle posts small blind [$0.01]
+JustCharlsWG posts big blind [$0.02]
+** Dealing down cards **
+chipbelle folds
+** Summary **
+JustCharlsWG collected [ $0.03 ]
+
+
+#Game No : 526309240
+***** 888poker Hand History for Game 526309240 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 19:26:11
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: JustCharlsWG ( $0.73 )
+Seat 9: zag.krd ( $1.49 )
+JustCharlsWG posts small blind [$0.01]
+zag.krd posts big blind [$0.02]
+** Dealing down cards **
+JustCharlsWG calls [$0.01]
+zag.krd checks
+** Dealing flop ** [ 8d, 9d, Qh ]
+zag.krd checks
+JustCharlsWG checks
+** Dealing turn ** [ 3c ]
+zag.krd checks
+JustCharlsWG checks
+** Dealing river ** [ Kc ]
+zag.krd checks
+JustCharlsWG bets [$0.02]
+zag.krd folds
+** Summary **
+JustCharlsWG did not show his hand
+JustCharlsWG collected [ $0.04 ]
+
+
+#Game No : 526309255
+***** 888poker Hand History for Game 526309255 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 19:26:44
+Table Arlington 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: JustCharlsWG ( $0.75 )
+Seat 9: zag.krd ( $1.47 )
+zag.krd posts small blind [$0.01]
+JustCharlsWG posts big blind [$0.02]
+** Dealing down cards **
+zag.krd raises [$0.05]
+JustCharlsWG folds
+** Summary **
+zag.krd did not show his hand
+zag.krd collected [ $0.04 ]
+
+
+#Game No : 526309260
+***** 888poker Hand History for Game 526309260 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 19:26:53
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: JustCharlsWG ( $0.73 )
+Seat 9: zag.krd ( $1.49 )
+JustCharlsWG posts small blind [$0.01]
+** Dealing down cards **
+zag.krd folds
+** Summary **
+JustCharlsWG did not show his hand
+JustCharlsWG collected [ $0.01 ]
+
+
+#Game No : 462722039
+***** 888poker Hand History for Game 462722039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 01:56:15
+Table Arlington 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Dimitriy72 ( $1.69 )
+Seat 7: kroko1949 ( $1 )
+kroko1949 posts small blind [$0.01]
+Dimitriy72 posts big blind [$0.02]
+** Dealing down cards **
+kroko1949 calls [$0.01]
+Dimitriy72 checks
+** Dealing flop ** [ 4c, Js, 3h ]
+Dimitriy72 checks
+kroko1949 bets [$0.04]
+Dimitriy72 folds
+** Summary **
+kroko1949 collected [ $0.04 ]
+
+
+#Game No : 462724351
+***** 888poker Hand History for Game 462724351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:34:11
+Table Arlington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.74 )
+Seat 6: Dimitriy72 ( $3.93 )
+AleksandR400 posts small blind [$0.01]
+Dimitriy72 posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 calls [$0.01]
+Dimitriy72 raises [$0.06]
+AleksandR400 calls [$0.06]
+** Dealing flop ** [ 7s, Qs, 4h ]
+Dimitriy72 bets [$0.10]
+AleksandR400 folds
+** Summary **
+Dimitriy72 collected [ $0.15 ]
+
+
+#Game No : 462724357
+***** 888poker Hand History for Game 462724357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:34:28
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: AleksandR400 ( $0.66 )
+Seat 6: Dimitriy72 ( $4 )
+Dimitriy72 posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Dimitriy72 folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 462724594
+***** 888poker Hand History for Game 462724594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:46:20
+Table Arlington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Jrfc676 ( $1 )
+Seat 4: 99paulo ( $0.80 )
+Jrfc676 posts small blind [$0.01]
+** Dealing down cards **
+99paulo folds
+** Summary **
+Jrfc676 did not show his hand
+Jrfc676 collected [ $0.01 ]
+
+
+#Game No : 462724602
+***** 888poker Hand History for Game 462724602 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:46:35
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: 99paulo ( $0.80 )
+Seat 6: valentindjer ( $1 )
+valentindjer posts small blind [$0.01]
+** Dealing down cards **
+99paulo folds
+** Summary **
+valentindjer did not show his hand
+valentindjer collected [ $0.01 ]
+
+
+#Game No : 462724611
+***** 888poker Hand History for Game 462724611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:47:06
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: 99paulo ( $0.80 )
+Seat 6: valentindjer ( $1 )
+valentindjer posts small blind [$0.01]
+99paulo posts big blind [$0.02]
+** Dealing down cards **
+valentindjer calls [$0.01]
+99paulo checks
+** Dealing flop ** [ Jd, Kh, Ks ]
+99paulo checks
+valentindjer bets [$0.02]
+99paulo folds
+** Summary **
+valentindjer did not show his hand
+valentindjer collected [ $0.04 ]
+
+
+#Game No : 462724618
+***** 888poker Hand History for Game 462724618 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:47:26
+Table Arlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 99paulo ( $0.78 )
+Seat 6: valentindjer ( $1.02 )
+99paulo posts small blind [$0.01]
+valentindjer posts big blind [$0.02]
+** Dealing down cards **
+99paulo calls [$0.01]
+valentindjer checks
+** Dealing flop ** [ 8h, 2c, 2s ]
+valentindjer checks
+99paulo checks
+** Dealing turn ** [ Td ]
+valentindjer bets [$0.02]
+99paulo folds
+** Summary **
+valentindjer did not show his hand
+valentindjer collected [ $0.04 ]
+
+
+#Game No : 462724630
+***** 888poker Hand History for Game 462724630 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:47:45
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: 99paulo ( $0.76 )
+Seat 6: valentindjer ( $1.04 )
+valentindjer posts small blind [$0.01]
+99paulo posts big blind [$0.02]
+** Dealing down cards **
+valentindjer raises [$0.05]
+99paulo folds
+** Summary **
+valentindjer did not show his hand
+valentindjer collected [ $0.04 ]
+
+
+#Game No : 462724634
+***** 888poker Hand History for Game 462724634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:47:54
+Table Arlington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 99paulo ( $0.74 )
+Seat 6: valentindjer ( $1.06 )
+99paulo posts small blind [$0.01]
+valentindjer posts big blind [$0.02]
+** Dealing down cards **
+99paulo folds
+** Summary **
+valentindjer collected [ $0.03 ]
+
+
+#Game No : 462724637
+***** 888poker Hand History for Game 462724637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:48:01
+Table Arlington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: 99paulo ( $0.73 )
+Seat 6: valentindjer ( $1.07 )
+valentindjer posts small blind [$0.01]
+99paulo posts big blind [$0.02]
+** Dealing down cards **
+valentindjer raises [$0.04]
+99paulo calls [$0.03]
+** Dealing flop ** [ As, Jc, Kd ]
+99paulo checks
+valentindjer checks
+** Dealing turn ** [ 5d ]
+99paulo checks
+valentindjer bets [$0.06]
+99paulo folds
+** Summary **
+valentindjer collected [ $0.10 ]
+
+
+#Game No : 462733582
+***** 888poker Hand History for Game 462733582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 09:26:06
+Table Arlington 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Griboedow ( $1.60 )
+Seat 6: Festerban ( $2.71 )
+Griboedow posts small blind [$0.01]
+Festerban posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+Festerban checks
+** Dealing flop ** [ 6h, 8c, 4h ]
+Festerban checks
+Griboedow checks
+** Dealing turn ** [ Jc ]
+Festerban checks
+Griboedow checks
+** Dealing river ** [ 3d ]
+Festerban checks
+Griboedow checks
+** Summary **
+Festerban shows [ 9h, Ad ]
+Griboedow mucks [ 2h, Qh ]
+Festerban collected [ $0.04 ]
+
+
+#Game No : 462733604
+***** 888poker Hand History for Game 462733604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 09:26:38
+Table Arlington 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Griboedow ( $1.58 )
+Seat 6: Festerban ( $2.73 )
+Festerban posts small blind [$0.01]
+Griboedow posts big blind [$0.02]
+** Dealing down cards **
+Festerban folds
+** Summary **
+Griboedow did not show his hand
+Griboedow collected [ $0.03 ]
+
+
+#Game No : 462733612
+***** 888poker Hand History for Game 462733612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 09:26:53
+Table Arlington 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Griboedow ( $1.59 )
+Seat 6: Festerban ( $2.72 )
+Griboedow posts small blind [$0.01]
+Festerban posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+Festerban checks
+** Dealing flop ** [ 7s, 6d, 8d ]
+Festerban checks
+Griboedow checks
+** Dealing turn ** [ Tc ]
+Festerban checks
+Griboedow checks
+** Dealing river ** [ 3c ]
+Festerban checks
+Griboedow checks
+** Summary **
+Festerban shows [ 7c, Kh ]
+Griboedow mucks [ 4c, 4s ]
+Festerban collected [ $0.04 ]
+
+
+#Game No : 462733627
+***** 888poker Hand History for Game 462733627 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 09:27:14
+Table Arlington 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Griboedow ( $1.57 )
+Seat 6: Festerban ( $2.74 )
+Festerban posts small blind [$0.01]
+** Dealing down cards **
+Griboedow folds
+** Summary **
+Festerban did not show his hand
+Festerban collected [ $0.01 ]
+
+
+#Game No : 462733726
+***** 888poker Hand History for Game 462733726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 09:30:02
+Table Arlington 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: ZIOBEST1 ( $0.80 )
+Seat 6: Festerban ( $2.74 )
+ZIOBEST1 posts small blind [$0.01]
+Festerban posts big blind [$0.02]
+** Dealing down cards **
+ZIOBEST1 calls [$0.01]
+Festerban checks
+** Dealing flop ** [ 7c, 8c, 4s ]
+Festerban checks
+ZIOBEST1 checks
+** Dealing turn ** [ Td ]
+Festerban checks
+ZIOBEST1 bets [$0.02]
+Festerban folds
+** Summary **
+ZIOBEST1 did not show his hand
+ZIOBEST1 collected [ $0.04 ]
+
+
+#Game No : 462733737
+***** 888poker Hand History for Game 462733737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 09:30:23
+Table Arlington 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: ZIOBEST1 ( $0.82 )
+Seat 6: Festerban ( $2.72 )
+Festerban posts small blind [$0.01]
+ZIOBEST1 posts big blind [$0.02]
+** Dealing down cards **
+Festerban folds
+** Summary **
+ZIOBEST1 collected [ $0.03 ]
+
+
+#Game No : 462753417
+***** 888poker Hand History for Game 462753417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 16:04:05
+Table Arlington 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: StreethawkUK ( $2.59 )
+Seat 10: TeeJay911 ( $3.44 )
+TeeJay911 posts small blind [$0.01]
+StreethawkUK posts big blind [$0.02]
+** Dealing down cards **
+TeeJay911 folds
+** Summary **
+StreethawkUK collected [ $0.03 ]
+
+
+#Game No : 462753424
+***** 888poker Hand History for Game 462753424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 16:04:12
+Table Arlington 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: StreethawkUK ( $2.60 )
+Seat 10: TeeJay911 ( $3.43 )
+StreethawkUK posts small blind [$0.01]
+** Dealing down cards **
+TeeJay911 folds
+** Summary **
+StreethawkUK collected [ $0.01 ]
+
+

@@ -1,0 +1,46 @@
+#Game No : 1306917523
+***** 888poker Hand History for Game 1306917523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 22:49:16
+Table Cartagena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: _clydefrogg_ ( $2.04 )
+Seat 6: Knort19 ( $1 )
+_clydefrogg_ posts small blind [$0.01]
+Knort19 posts big blind [$0.02]
+** Dealing down cards **
+_clydefrogg_ raises [$0.03]
+Knort19 calls [$0.02]
+** Dealing flop ** [ Qd, Qc, 3c ]
+Knort19 checks
+_clydefrogg_ bets [$0.04]
+Knort19 calls [$0.04]
+** Dealing turn ** [ 9c ]
+Knort19 checks
+_clydefrogg_ bets [$0.05]
+Knort19 calls [$0.05]
+** Dealing river ** [ 7s ]
+Knort19 checks
+_clydefrogg_ checks
+** Summary **
+Knort19 shows [ 5h, 5d ]
+_clydefrogg_ shows [ 7c, 9h ]
+_clydefrogg_ collected [ $0.25 ]
+
+
+#Game No : 1306917559
+***** 888poker Hand History for Game 1306917559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2019 22:49:54
+Table Cartagena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: _clydefrogg_ ( $2.16 )
+Seat 6: Knort19 ( $0.87 )
+Knort19 posts small blind [$0.01]
+_clydefrogg_ posts big blind [$0.02]
+** Dealing down cards **
+Knort19 folds
+** Summary **
+_clydefrogg_ collected [ $0.03 ]
+
+

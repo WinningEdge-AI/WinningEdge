@@ -1,0 +1,73 @@
+#Game No : 468489039
+***** 888poker Hand History for Game 468489039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 13:34:22
+Table Cuernavaca 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: siksikhafhaf ( $3.42 )
+Seat 6: Razdol.by ( $2 )
+siksikhafhaf posts small blind [$0.01]
+Razdol.by posts big blind [$0.02]
+** Dealing down cards **
+siksikhafhaf calls [$0.01]
+Razdol.by checks
+** Dealing flop ** [ 9c, Jc, 7d ]
+Razdol.by checks
+siksikhafhaf checks
+** Dealing turn ** [ 3h ]
+Razdol.by bets [$0.02]
+siksikhafhaf raises [$0.08]
+Razdol.by calls [$0.06]
+** Dealing river ** [ 6d ]
+Razdol.by checks
+siksikhafhaf bets [$0.17]
+Razdol.by calls [$0.17]
+** Summary **
+siksikhafhaf shows [ Ts, 8c ]
+Razdol.by mucks [ Qh, 9h ]
+siksikhafhaf collected [ $0.51 ]
+
+
+#Game No : 468489065
+***** 888poker Hand History for Game 468489065 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 13:35:03
+Table Cuernavaca 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: siksikhafhaf ( $3.66 )
+Seat 6: Razdol.by ( $2 )
+Razdol.by posts small blind [$0.01]
+siksikhafhaf posts big blind [$0.02]
+** Dealing down cards **
+Razdol.by calls [$0.01]
+siksikhafhaf raises [$0.06]
+Razdol.by calls [$0.06]
+** Dealing flop ** [ 8s, 6s, 8c ]
+siksikhafhaf checks
+Razdol.by bets [$0.08]
+siksikhafhaf folds
+** Summary **
+Razdol.by collected [ $0.15 ]
+
+
+#Game No : 468489084
+***** 888poker Hand History for Game 468489084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 13:35:25
+Table Cuernavaca 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: siksikhafhaf ( $3.58 )
+Seat 6: Razdol.by ( $2.07 )
+siksikhafhaf posts small blind [$0.01]
+Razdol.by posts big blind [$0.02]
+** Dealing down cards **
+siksikhafhaf calls [$0.01]
+Razdol.by raises [$0.06]
+siksikhafhaf calls [$0.06]
+** Dealing flop ** [ Ks, Kc, Jc ]
+Razdol.by bets [$0.08]
+siksikhafhaf folds
+** Summary **
+Razdol.by collected [ $0.15 ]
+
+

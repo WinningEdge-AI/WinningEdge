@@ -1,0 +1,44 @@
+#Game No : 553009920
+***** 888poker Hand History for Game 553009920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2020 05:13:46
+Table Bridgeport 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: PappaSBaby ( $2.14 )
+Seat 9: Busenysh ( $2.16 )
+PappaSBaby posts small blind [$0.01]
+Busenysh posts big blind [$0.02]
+** Dealing down cards **
+PappaSBaby raises [$2.13]
+Busenysh folds
+** Summary **
+PappaSBaby collected [ $0.04 ]
+
+
+#Game No : 553009932
+***** 888poker Hand History for Game 553009932 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2020 05:14:02
+Table Bridgeport 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: PappaSBaby ( $2.16 )
+Seat 9: Busenysh ( $2.14 )
+Busenysh posts small blind [$0.01]
+PappaSBaby posts big blind [$0.02]
+** Dealing down cards **
+Busenysh calls [$0.01]
+PappaSBaby checks
+** Dealing flop ** [ 9d, 8h, 8c ]
+PappaSBaby checks
+Busenysh checks
+** Dealing turn ** [ Ad ]
+PappaSBaby checks
+Busenysh checks
+** Dealing river ** [ Jc ]
+PappaSBaby checks
+Busenysh bets [$2]
+PappaSBaby folds
+** Summary **
+Busenysh collected [ $0.04 ]
+
+

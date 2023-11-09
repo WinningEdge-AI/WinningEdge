@@ -1,0 +1,87 @@
+#Game No : 1235765449
+***** 888poker Hand History for Game 1235765449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 12:22:00
+Table Whittier 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: cleopatra109 ( $0.79 )
+Seat 6: DEUS_XXL ( $2.27 )
+DEUS_XXL posts small blind [$0.01]
+cleopatra109 posts big blind [$0.02]
+** Dealing down cards **
+DEUS_XXL calls [$0.01]
+cleopatra109 checks
+** Dealing flop ** [ Jd, 9c, 8s ]
+cleopatra109 checks
+DEUS_XXL bets [$0.03]
+cleopatra109 calls [$0.03]
+** Dealing turn ** [ Kc ]
+cleopatra109 checks
+DEUS_XXL bets [$0.03]
+cleopatra109 calls [$0.03]
+** Dealing river ** [ 4s ]
+cleopatra109 bets [$0.02]
+DEUS_XXL calls [$0.02]
+** Summary **
+cleopatra109 shows [ 9d, 4c ]
+DEUS_XXL mucks [ 9s, 2s ]
+cleopatra109 collected [ $0.19 ]
+
+
+#Game No : 1235786534
+***** 888poker Hand History for Game 1235786534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 13:32:25
+Table Whittier 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: elad_den ( $1.47 )
+Seat 6: rustaman76 ( $4.01 )
+elad_den posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+elad_den raises [$0.03]
+rustaman76 folds
+** Summary **
+elad_den did not show his hand
+elad_den collected [ $0.04 ]
+
+
+#Game No : 1235786639
+***** 888poker Hand History for Game 1235786639 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 13:32:46
+Table Whittier 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: elad_den ( $1.49 )
+Seat 6: rustaman76 ( $3.99 )
+rustaman76 posts small blind [$0.01]
+elad_den posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+elad_den calls [$0.02]
+** Dealing flop ** [ 8c, Tc, 8d ]
+elad_den checks
+rustaman76 checks
+** Dealing turn ** [ 5c ]
+elad_den bets [$0.05]
+rustaman76 folds
+** Summary **
+elad_den collected [ $0.08 ]
+
+
+#Game No : 1235802448
+***** 888poker Hand History for Game 1235802448 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 14:31:30
+Table Whittier 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: nvde12 ( $1 )
+Seat 2: RedAnghel ( $1.08 )
+RedAnghel posts small blind [$0.01]
+** Dealing down cards **
+nvde12 folds
+** Summary **
+RedAnghel did not show his hand
+RedAnghel collected [ $0.01 ]
+
+

@@ -1,0 +1,77 @@
+#Game No : 513531608
+***** 888poker Hand History for Game 513531608 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 08:32:42
+Table Caxias 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: DonJoey777 ( $2.10 )
+Seat 6: kmlm73 ( $1.90 )
+kmlm73 posts small blind [$0.01]
+DonJoey777 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.05]
+DonJoey777 calls [$0.04]
+** Dealing flop ** [ Qc, 5d, 8h ]
+DonJoey777 checks
+kmlm73 bets [$0.06]
+DonJoey777 calls [$0.06]
+** Dealing turn ** [ Qs ]
+DonJoey777 checks
+kmlm73 bets [$0.06]
+DonJoey777 raises [$0.28]
+kmlm73 raises [$0.44]
+DonJoey777 raises [$1.70]
+kmlm73 calls [$1.28]
+** Dealing river ** [ Kd ]
+** Summary **
+DonJoey777 shows [ 8s, 8c ]
+kmlm73 shows [ Ks, Qd ]
+kmlm73 collected [ $3.57 ]
+
+
+#Game No : 513531683
+***** 888poker Hand History for Game 513531683 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 08:33:52
+Table Caxias 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: DonJoey777 ( $2 )
+Seat 6: kmlm73 ( $3.57 )
+DonJoey777 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+DonJoey777 raises [$0.05]
+kmlm73 folds
+** Summary **
+DonJoey777 did not show his hand
+DonJoey777 collected [ $0.04 ]
+
+
+#Game No : 513531696
+***** 888poker Hand History for Game 513531696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 08:34:02
+Table Caxias 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: DonJoey777 ( $2.02 )
+Seat 6: kmlm73 ( $3.55 )
+kmlm73 posts small blind [$0.01]
+DonJoey777 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 calls [$0.01]
+DonJoey777 checks
+** Dealing flop ** [ Kd, 4d, 2s ]
+DonJoey777 checks
+kmlm73 checks
+** Dealing turn ** [ Ad ]
+DonJoey777 checks
+kmlm73 checks
+** Dealing river ** [ 3h ]
+DonJoey777 checks
+kmlm73 checks
+** Summary **
+DonJoey777 shows [ 8c, Js ]
+kmlm73 mucks [ 7c, Ts ]
+DonJoey777 collected [ $0.04 ]
+
+

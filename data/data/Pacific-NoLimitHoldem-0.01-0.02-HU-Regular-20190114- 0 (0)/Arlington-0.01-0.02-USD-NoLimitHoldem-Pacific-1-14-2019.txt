@@ -1,0 +1,66 @@
+#Game No : 613986941
+***** 888poker Hand History for Game 613986941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 01 2019 18:18:17
+Table Arlington 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: andreluizk ( $2.76 )
+Seat 9: smutyan72 ( $1.41 )
+andreluizk posts small blind [$0.01]
+smutyan72 posts big blind [$0.02]
+** Dealing down cards **
+andreluizk raises [$0.03]
+smutyan72 raises [$0.08]
+andreluizk calls [$0.06]
+** Dealing flop ** [ 8d, 3s, Ad ]
+smutyan72 bets [$0.06]
+andreluizk folds
+** Summary **
+smutyan72 did not show his hand
+smutyan72 collected [ $0.19 ]
+
+
+#Game No : 613986965
+***** 888poker Hand History for Game 613986965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 01 2019 18:18:49
+Table Arlington 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: andreluizk ( $2.66 )
+Seat 9: smutyan72 ( $1.50 )
+smutyan72 posts small blind [$0.01]
+andreluizk posts big blind [$0.02]
+** Dealing down cards **
+smutyan72 calls [$0.01]
+andreluizk checks
+** Dealing flop ** [ 6s, Kd, Ks ]
+andreluizk checks
+smutyan72 checks
+** Dealing turn ** [ 6c ]
+andreluizk checks
+smutyan72 checks
+** Dealing river ** [ 8c ]
+andreluizk checks
+smutyan72 checks
+** Summary **
+andreluizk shows [ 4c, 9s ]
+smutyan72 shows [ Qs, Tc ]
+smutyan72 collected [ $0.04 ]
+
+
+#Game No : 613986979
+***** 888poker Hand History for Game 613986979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 01 2019 18:19:22
+Table Arlington 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: andreluizk ( $2.64 )
+Seat 9: smutyan72 ( $1.52 )
+andreluizk posts small blind [$0.01]
+** Dealing down cards **
+smutyan72 folds
+** Summary **
+andreluizk did not show his hand
+andreluizk collected [ $0.01 ]
+
+

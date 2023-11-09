@@ -1,0 +1,104 @@
+#Game No : 545627045
+***** 888poker Hand History for Game 545627045 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 12 2019 21:14:27
+Table Marilia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: ZmiterK ( $1.21 )
+Seat 7: Ing1neer ( $1.56 )
+Ing1neer posts small blind [$0.01]
+ZmiterK posts big blind [$0.02]
+** Dealing down cards **
+Ing1neer raises [$0.03]
+ZmiterK calls [$0.02]
+** Dealing flop ** [ 4d, 2d, 8c ]
+ZmiterK checks
+Ing1neer checks
+** Dealing turn ** [ 6h ]
+ZmiterK checks
+Ing1neer bets [$0.05]
+ZmiterK calls [$0.05]
+** Dealing river ** [ 7d ]
+ZmiterK bets [$0.09]
+Ing1neer calls [$0.09]
+** Summary **
+ZmiterK shows [ 5d, Ah ]
+Ing1neer mucks [ 9d, 6c ]
+ZmiterK collected [ $0.34 ]
+
+
+#Game No : 545627061
+***** 888poker Hand History for Game 545627061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 12 2019 21:14:52
+Table Marilia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ZmiterK ( $1.37 )
+Seat 7: Ing1neer ( $1.38 )
+ZmiterK posts small blind [$0.01]
+Ing1neer posts big blind [$0.02]
+** Dealing down cards **
+ZmiterK calls [$0.01]
+Ing1neer checks
+** Dealing flop ** [ Qd, 6d, 4s ]
+Ing1neer checks
+ZmiterK checks
+** Dealing turn ** [ Ks ]
+Ing1neer bets [$0.04]
+ZmiterK folds
+** Summary **
+Ing1neer did not show his hand
+Ing1neer collected [ $0.04 ]
+
+
+#Game No : 545627069
+***** 888poker Hand History for Game 545627069 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 12 2019 21:15:08
+Table Marilia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: ZmiterK ( $1.35 )
+Seat 7: Ing1neer ( $1.40 )
+Ing1neer posts small blind [$0.01]
+ZmiterK posts big blind [$0.02]
+** Dealing down cards **
+Ing1neer raises [$0.03]
+ZmiterK calls [$0.02]
+** Dealing flop ** [ Td, Qs, 8c ]
+ZmiterK bets [$0.02]
+Ing1neer calls [$0.02]
+** Dealing turn ** [ 9h ]
+ZmiterK bets [$0.02]
+Ing1neer calls [$0.02]
+** Dealing river ** [ Qd ]
+ZmiterK bets [$0.02]
+Ing1neer folds
+** Summary **
+ZmiterK collected [ $0.15 ]
+
+
+#Game No : 545627083
+***** 888poker Hand History for Game 545627083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 12 2019 21:15:35
+Table Marilia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ZmiterK ( $1.42 )
+Seat 7: Ing1neer ( $1.32 )
+ZmiterK posts small blind [$0.01]
+Ing1neer posts big blind [$0.02]
+** Dealing down cards **
+ZmiterK calls [$0.01]
+Ing1neer checks
+** Dealing flop ** [ 7s, Js, 8d ]
+Ing1neer checks
+ZmiterK bets [$0.04]
+Ing1neer calls [$0.04]
+** Dealing turn ** [ Ks ]
+Ing1neer checks
+ZmiterK bets [$0.04]
+Ing1neer folds
+** Summary **
+ZmiterK collected [ $0.12 ]
+
+

@@ -1,0 +1,271 @@
+#Game No : 513129599
+***** 888poker Hand History for Game 513129599 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 05:54:25
+Table Heerlen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: erwinaso ( $0.43 )
+Seat 9: i_am_you_ ( $3.81 )
+i_am_you_ posts small blind [$0.01]
+erwinaso posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ calls [$0.01]
+erwinaso checks
+** Dealing flop ** [ Qh, 5c, 6s ]
+erwinaso checks
+i_am_you_ bets [$0.02]
+erwinaso calls [$0.02]
+** Dealing turn ** [ 3h ]
+erwinaso checks
+i_am_you_ bets [$0.06]
+erwinaso folds
+** Summary **
+i_am_you_ collected [ $0.08 ]
+
+
+#Game No : 513129616
+***** 888poker Hand History for Game 513129616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 05:54:46
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: erwinaso ( $0.39 )
+Seat 9: i_am_you_ ( $3.85 )
+erwinaso posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+erwinaso calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 8h, 2d, Js ]
+i_am_you_ checks
+erwinaso checks
+** Dealing turn ** [ 6h ]
+i_am_you_ bets [$0.03]
+erwinaso folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 513129629
+***** 888poker Hand History for Game 513129629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 05:55:00
+Table Heerlen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: erwinaso ( $0.37 )
+Seat 9: i_am_you_ ( $3.87 )
+i_am_you_ posts small blind [$0.01]
+erwinaso posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ calls [$0.01]
+erwinaso checks
+** Dealing flop ** [ 6h, 4h, 8d ]
+erwinaso checks
+i_am_you_ bets [$0.02]
+erwinaso calls [$0.02]
+** Dealing turn ** [ Qs ]
+erwinaso checks
+i_am_you_ checks
+** Dealing river ** [ Tc ]
+erwinaso checks
+i_am_you_ checks
+** Summary **
+erwinaso shows [ 9c, Js ]
+i_am_you_ mucks [ 5d, Jd ]
+erwinaso collected [ $0.08 ]
+
+
+#Game No : 513129649
+***** 888poker Hand History for Game 513129649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 05:55:28
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: erwinaso ( $0.41 )
+Seat 9: i_am_you_ ( $3.83 )
+erwinaso posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+erwinaso calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 4h, 9s, 4s ]
+i_am_you_ checks
+erwinaso checks
+** Dealing turn ** [ 6s ]
+i_am_you_ checks
+erwinaso checks
+** Dealing river ** [ Jd ]
+i_am_you_ checks
+erwinaso checks
+** Summary **
+i_am_you_ shows [ 2c, 7c ]
+erwinaso shows [ As, Qc ]
+erwinaso collected [ $0.04 ]
+
+
+#Game No : 513130253
+***** 888poker Hand History for Game 513130253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 06:09:51
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: erwinaso ( $0.72 )
+Seat 9: i_am_you_ ( $4.28 )
+erwinaso posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+erwinaso calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ 2c, 7c, 3s ]
+i_am_you_ checks
+erwinaso checks
+** Dealing turn ** [ 8c ]
+i_am_you_ checks
+erwinaso checks
+** Dealing river ** [ 5h ]
+i_am_you_ checks
+erwinaso checks
+** Summary **
+i_am_you_ shows [ Ts, 3d ]
+erwinaso mucks [ Qc, 9d ]
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 513141204
+***** 888poker Hand History for Game 513141204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 09:59:58
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kiyanka ( $1.20 )
+Seat 7: mbearty ( $1.19 )
+Kiyanka posts small blind [$0.01]
+mbearty posts big blind [$0.02]
+** Dealing down cards **
+Kiyanka calls [$0.01]
+mbearty raises [$0.03]
+Kiyanka calls [$0.03]
+** Dealing flop ** [ Qc, 7d, Ah ]
+mbearty checks
+Kiyanka checks
+** Dealing turn ** [ 9h ]
+mbearty bets [$0.06]
+Kiyanka folds
+** Summary **
+mbearty collected [ $0.10 ]
+
+
+#Game No : 513141224
+***** 888poker Hand History for Game 513141224 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 10:00:30
+Table Heerlen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Kiyanka ( $1.15 )
+Seat 7: mbearty ( $1.24 )
+mbearty posts small blind [$0.01]
+Kiyanka posts big blind [$0.02]
+** Dealing down cards **
+mbearty raises [$0.05]
+Kiyanka calls [$0.04]
+** Dealing flop ** [ 4c, 5s, Qd ]
+Kiyanka checks
+mbearty bets [$0.07]
+Kiyanka folds
+** Summary **
+mbearty collected [ $0.12 ]
+
+
+#Game No : 513143186
+***** 888poker Hand History for Game 513143186 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 10:36:41
+Table Heerlen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Kiyanka ( $1.40 )
+Seat 7: mbearty ( $2.03 )
+mbearty posts small blind [$0.01]
+Kiyanka posts big blind [$0.02]
+** Dealing down cards **
+mbearty folds
+** Summary **
+Kiyanka collected [ $0.03 ]
+
+
+#Game No : 513143188
+***** 888poker Hand History for Game 513143188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 10:36:46
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kiyanka ( $1.41 )
+Seat 7: mbearty ( $2.02 )
+Kiyanka posts small blind [$0.01]
+** Dealing down cards **
+mbearty folds
+** Summary **
+Kiyanka collected [ $0.01 ]
+
+
+#Game No : 513145866
+***** 888poker Hand History for Game 513145866 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 11:27:59
+Table Heerlen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: cleopatra109 ( $0.62 )
+Seat 9: BEJIOMAH ( $1 )
+BEJIOMAH posts small blind [$0.01]
+cleopatra109 posts big blind [$0.02]
+** Dealing down cards **
+BEJIOMAH folds
+** Summary **
+cleopatra109 did not show his hand
+cleopatra109 collected [ $0.03 ]
+
+
+#Game No : 513145880
+***** 888poker Hand History for Game 513145880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 11:28:10
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cleopatra109 ( $0.63 )
+Seat 9: BEJIOMAH ( $1 )
+cleopatra109 posts small blind [$0.01]
+BEJIOMAH posts big blind [$0.02]
+** Dealing down cards **
+cleopatra109 calls [$0.01]
+BEJIOMAH checks
+** Dealing flop ** [ Td, 8c, Qh ]
+BEJIOMAH checks
+cleopatra109 checks
+** Dealing turn ** [ Ks ]
+BEJIOMAH bets [$0.04]
+cleopatra109 calls [$0.04]
+** Dealing river ** [ 5c ]
+BEJIOMAH checks
+cleopatra109 checks
+** Summary **
+BEJIOMAH shows [ 3s, Th ]
+cleopatra109 mucks [ Ah, 7h ]
+BEJIOMAH collected [ $0.12 ]
+
+
+#Game No : 513145904
+***** 888poker Hand History for Game 513145904 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 11:28:41
+Table Heerlen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: cleopatra109 ( $0.57 )
+Seat 9: BEJIOMAH ( $1.06 )
+BEJIOMAH posts small blind [$0.01]
+cleopatra109 posts big blind [$0.02]
+** Dealing down cards **
+BEJIOMAH folds
+** Summary **
+cleopatra109 did not show his hand
+cleopatra109 collected [ $0.03 ]
+
+

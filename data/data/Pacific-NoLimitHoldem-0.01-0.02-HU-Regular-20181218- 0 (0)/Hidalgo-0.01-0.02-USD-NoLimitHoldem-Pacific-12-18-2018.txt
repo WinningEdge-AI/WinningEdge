@@ -1,0 +1,44 @@
+#Game No : 1232607162
+***** 888poker Hand History for Game 1232607162 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 12 2018 00:05:22
+Table Hidalgo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 1gadfly1 ( $2 )
+Seat 2: DerIrrePolte ( $0.80 )
+1gadfly1 posts small blind [$0.01]
+DerIrrePolte posts big blind [$0.02]
+** Dealing down cards **
+1gadfly1 raises [$0.05]
+DerIrrePolte calls [$0.04]
+** Dealing flop ** [ 3s, Qh, Ad ]
+DerIrrePolte checks
+1gadfly1 bets [$0.08]
+DerIrrePolte calls [$0.08]
+** Dealing turn ** [ 5d ]
+DerIrrePolte checks
+1gadfly1 checks
+** Dealing river ** [ 3h ]
+DerIrrePolte bets [$0.10]
+1gadfly1 folds
+** Summary **
+DerIrrePolte collected [ $0.27 ]
+
+
+#Game No : 1232607261
+***** 888poker Hand History for Game 1232607261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 12 2018 00:05:32
+Table Hidalgo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 1gadfly1 ( $2 )
+Seat 2: DerIrrePolte ( $0.93 )
+DerIrrePolte posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+DerIrrePolte raises [$0.05]
+1gadfly1 folds
+** Summary **
+DerIrrePolte collected [ $0.04 ]
+
+

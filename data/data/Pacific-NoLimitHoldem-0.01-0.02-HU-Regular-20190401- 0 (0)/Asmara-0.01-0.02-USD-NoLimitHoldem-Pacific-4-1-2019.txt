@@ -1,0 +1,77 @@
+#Game No : 463591763
+***** 888poker Hand History for Game 463591763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 23:51:35
+Table Asmara 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: arkalykarman ( $2.02 )
+Seat 6: studiludi ( $0.84 )
+arkalykarman posts small blind [$0.01]
+studiludi posts big blind [$0.02]
+** Dealing down cards **
+arkalykarman calls [$0.01]
+studiludi checks
+** Dealing flop ** [ 2s, Qs, 9c ]
+studiludi bets [$0.02]
+arkalykarman calls [$0.02]
+** Dealing turn ** [ Ac ]
+studiludi bets [$0.06]
+arkalykarman calls [$0.06]
+** Dealing river ** [ 3s ]
+studiludi checks
+arkalykarman bets [$0.20]
+studiludi folds
+** Summary **
+arkalykarman did not show his hand
+arkalykarman collected [ $0.19 ]
+
+
+#Game No : 463591770
+***** 888poker Hand History for Game 463591770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 23:51:59
+Table Asmara 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: arkalykarman ( $2.11 )
+Seat 6: studiludi ( $0.74 )
+studiludi posts small blind [$0.01]
+arkalykarman posts big blind [$0.02]
+** Dealing down cards **
+studiludi calls [$0.01]
+arkalykarman checks
+** Dealing flop ** [ Qs, 3h, Qh ]
+arkalykarman checks
+studiludi checks
+** Dealing turn ** [ 5h ]
+arkalykarman checks
+studiludi bets [$0.02]
+arkalykarman folds
+** Summary **
+studiludi did not show his hand
+studiludi collected [ $0.04 ]
+
+
+#Game No : 463591775
+***** 888poker Hand History for Game 463591775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 23:52:22
+Table Asmara 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: arkalykarman ( $2.09 )
+Seat 6: studiludi ( $0.76 )
+arkalykarman posts small blind [$0.01]
+studiludi posts big blind [$0.02]
+** Dealing down cards **
+arkalykarman calls [$0.01]
+studiludi raises [$0.02]
+arkalykarman calls [$0.02]
+** Dealing flop ** [ 9h, 8h, Jh ]
+studiludi checks
+arkalykarman bets [$0.05]
+studiludi raises [$0.10]
+arkalykarman folds
+** Summary **
+studiludi did not show his hand
+studiludi collected [ $0.17 ]
+
+

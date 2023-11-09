@@ -1,0 +1,135 @@
+#Game No : 1184796478
+***** 888poker Hand History for Game 1184796478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 14:26:38
+Table Erechim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ItsNotJemma ( $1.20 )
+Seat 7: richbranson ( $2 )
+ItsNotJemma posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+ItsNotJemma calls [$0.01]
+richbranson raises [$0.06]
+ItsNotJemma calls [$0.06]
+** Dealing flop ** [ Jc, 6s, 8s ]
+richbranson checks
+ItsNotJemma checks
+** Dealing turn ** [ Kh ]
+richbranson checks
+ItsNotJemma bets [$0.10]
+richbranson folds
+** Summary **
+ItsNotJemma collected [ $0.16 ]
+
+
+#Game No : 1184796592
+***** 888poker Hand History for Game 1184796592 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 14:27:00
+Table Erechim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ItsNotJemma ( $1.28 )
+Seat 7: richbranson ( $2 )
+richbranson posts small blind [$0.01]
+ItsNotJemma posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.07]
+ItsNotJemma raises [$1.26]
+richbranson calls [$1.20]
+** Dealing flop ** [ 5c, 5h, 7h ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ 9c ]
+** Summary **
+ItsNotJemma shows [ As, Js ]
+richbranson shows [ Ad, Qd ]
+richbranson collected [ $2.44 ]
+
+
+#Game No : 1184796724
+***** 888poker Hand History for Game 1184796724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 14:27:26
+Table Erechim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ItsNotJemma ( $1.20 )
+Seat 7: richbranson ( $3.16 )
+ItsNotJemma posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+ItsNotJemma calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Jc, Kc, 3s ]
+richbranson checks
+ItsNotJemma checks
+** Dealing turn ** [ 4s ]
+richbranson checks
+ItsNotJemma checks
+** Dealing river ** [ 6d ]
+richbranson checks
+ItsNotJemma checks
+** Summary **
+richbranson shows [ 5h, 9s ]
+ItsNotJemma shows [ 9c, 8h ]
+ItsNotJemma collected [ $0.04 ]
+
+
+#Game No : 1184796870
+***** 888poker Hand History for Game 1184796870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 14:27:55
+Table Erechim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ItsNotJemma ( $1.22 )
+Seat 7: richbranson ( $3.14 )
+richbranson posts small blind [$0.01]
+ItsNotJemma posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+ItsNotJemma collected [ $0.03 ]
+
+
+#Game No : 1184796915
+***** 888poker Hand History for Game 1184796915 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 14:28:04
+Table Erechim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ItsNotJemma ( $1.23 )
+Seat 7: richbranson ( $3.13 )
+ItsNotJemma posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+ItsNotJemma raises [$0.05]
+richbranson folds
+** Summary **
+ItsNotJemma collected [ $0.04 ]
+
+
+#Game No : 1184796960
+***** 888poker Hand History for Game 1184796960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 14:28:12
+Table Erechim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ItsNotJemma ( $1.25 )
+Seat 7: richbranson ( $3.11 )
+richbranson posts small blind [$0.01]
+ItsNotJemma posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+ItsNotJemma calls [$0.04]
+** Dealing flop ** [ 3d, Js, 4s ]
+ItsNotJemma checks
+richbranson checks
+** Dealing turn ** [ 6h ]
+ItsNotJemma bets [$0.02]
+richbranson calls [$0.02]
+** Dealing river ** [ 6d ]
+ItsNotJemma bets [$0.16]
+richbranson folds
+** Summary **
+ItsNotJemma collected [ $0.16 ]
+
+

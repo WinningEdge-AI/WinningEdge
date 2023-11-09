@@ -1,0 +1,48 @@
+#Game No : 512865524
+***** 888poker Hand History for Game 512865524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 06:14:11
+Table Maribor 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Ash.05 ( $0.80 )
+Seat 5: emberstrike ( $2 )
+emberstrike posts small blind [$0.01]
+Ash.05 posts big blind [$0.02]
+** Dealing down cards **
+emberstrike raises [$0.03]
+Ash.05 calls [$0.02]
+** Dealing flop ** [ 5s, 2c, Th ]
+Ash.05 bets [$0.02]
+emberstrike raises [$0.06]
+Ash.05 calls [$0.04]
+** Dealing turn ** [ 8h ]
+Ash.05 checks
+emberstrike bets [$0.14]
+Ash.05 folds
+** Summary **
+emberstrike collected [ $0.19 ]
+
+
+#Game No : 512865537
+***** 888poker Hand History for Game 512865537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 06:14:15
+Table Maribor 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ash.05 ( $0.70 )
+Seat 5: emberstrike ( $2.09 )
+Ash.05 posts small blind [$0.01]
+emberstrike posts big blind [$0.02]
+** Dealing down cards **
+Ash.05 calls [$0.01]
+emberstrike checks
+** Dealing flop ** [ Ah, 5s, Jd ]
+emberstrike checks
+Ash.05 checks
+** Dealing turn ** [ 9d ]
+emberstrike bets [$0.04]
+Ash.05 folds
+** Summary **
+emberstrike collected [ $0.04 ]
+
+

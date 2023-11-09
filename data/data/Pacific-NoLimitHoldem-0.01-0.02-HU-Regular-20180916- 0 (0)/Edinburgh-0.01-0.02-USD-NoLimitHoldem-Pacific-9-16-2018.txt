@@ -1,0 +1,58 @@
+#Game No : 1209255679
+***** 888poker Hand History for Game 1209255679 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 16:20:11
+Table Edinburgh 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pitbull309 ( $2.01 )
+Seat 2: HerrCul ( $1.99 )
+pitbull309 posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+pitbull309 calls [$0.01]
+HerrCul raises [$0.04]
+pitbull309 calls [$0.04]
+** Dealing flop ** [ 4d, 3d, 6c ]
+HerrCul bets [$0.06]
+pitbull309 calls [$0.06]
+** Dealing turn ** [ 5c ]
+HerrCul bets [$0.12]
+pitbull309 calls [$0.12]
+** Dealing river ** [ 3s ]
+HerrCul checks
+pitbull309 checks
+** Summary **
+HerrCul shows [ 7c, Ad ]
+pitbull309 mucks [ Js, 6s ]
+HerrCul collected [ $0.45 ]
+
+
+#Game No : 1209255770
+***** 888poker Hand History for Game 1209255770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 16:20:25
+Table Edinburgh 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pitbull309 ( $1.77 )
+Seat 2: HerrCul ( $2.20 )
+HerrCul posts small blind [$0.01]
+pitbull309 posts big blind [$0.02]
+** Dealing down cards **
+HerrCul calls [$0.01]
+pitbull309 raises [$0.02]
+HerrCul calls [$0.02]
+** Dealing flop ** [ 4c, 9c, 7h ]
+pitbull309 bets [$0.04]
+HerrCul calls [$0.04]
+** Dealing turn ** [ 8s ]
+pitbull309 bets [$0.08]
+HerrCul calls [$0.08]
+** Dealing river ** [ 4s ]
+pitbull309 bets [$0.16]
+HerrCul calls [$0.16]
+** Summary **
+pitbull309 shows [ Ac, Ah ]
+HerrCul mucks [ 8c, 6c ]
+pitbull309 collected [ $0.60 ]
+
+

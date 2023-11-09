@@ -1,0 +1,54 @@
+#Game No : 511475434
+***** 888poker Hand History for Game 511475434 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 05:17:05
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: milenkoj19 ( $1.98 )
+Seat 5: mistree88 ( $1.22 )
+milenkoj19 posts small blind [$0.01]
+mistree88 posts big blind [$0.02]
+** Dealing down cards **
+milenkoj19 calls [$0.01]
+mistree88 checks
+** Dealing flop ** [ Ts, 3s, 6d ]
+mistree88 checks
+milenkoj19 checks
+** Dealing turn ** [ Qh ]
+mistree88 bets [$0.04]
+milenkoj19 folds
+** Summary **
+mistree88 collected [ $0.04 ]
+
+
+#Game No : 511475454
+***** 888poker Hand History for Game 511475454 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 05:17:27
+Table Yakima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: milenkoj19 ( $1.96 )
+Seat 5: mistree88 ( $1.24 )
+mistree88 posts small blind [$0.01]
+milenkoj19 posts big blind [$0.02]
+** Dealing down cards **
+mistree88 raises [$0.05]
+milenkoj19 calls [$0.04]
+** Dealing flop ** [ 9h, 4s, Js ]
+milenkoj19 checks
+mistree88 bets [$0.08]
+milenkoj19 calls [$0.08]
+** Dealing turn ** [ Tc ]
+milenkoj19 checks
+mistree88 bets [$0.26]
+milenkoj19 calls [$0.26]
+** Dealing river ** [ 3d ]
+milenkoj19 checks
+mistree88 bets [$0.42]
+milenkoj19 calls [$0.42]
+** Summary **
+mistree88 shows [ Qs, Qh ]
+milenkoj19 mucks [ Qd, Jh ]
+mistree88 collected [ $1.54 ]
+
+

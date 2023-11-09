@@ -1,0 +1,286 @@
+#Game No : 478937
+***** 888poker Hand History for Game 478937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 04:51:09
+Table Edinburgh 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Lisshura ( $0.83 )
+Seat 6: Fracknell ( $0.85 )
+Fracknell posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+Fracknell raises [$0.03]
+Lisshura calls [$0.02]
+** Dealing flop ** [ Jc, Kh, Tc ]
+Lisshura checks
+Fracknell bets [$0.04]
+Lisshura calls [$0.04]
+** Dealing turn ** [ Jh ]
+Lisshura bets [$0.10]
+Fracknell folds
+** Summary **
+Lisshura collected [ $0.15 ]
+
+
+#Game No : 478941
+***** 888poker Hand History for Game 478941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 04:51:52
+Table Edinburgh 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Lisshura ( $0.88 )
+Seat 6: Fracknell ( $0.79 )
+Fracknell posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+Fracknell raises [$0.03]
+Lisshura raises [$0.10]
+Fracknell folds
+** Summary **
+Lisshura collected [ $0.08 ]
+
+
+#Game No : 478943
+***** 888poker Hand History for Game 478943 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 04:52:07
+Table Edinburgh 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Lisshura ( $0.92 )
+Seat 6: Fracknell ( $0.75 )
+Lisshura posts small blind [$0.01]
+Fracknell posts big blind [$0.02]
+** Dealing down cards **
+Lisshura raises [$0.03]
+Fracknell calls [$0.02]
+** Dealing flop ** [ Ks, 4d, 5c ]
+Fracknell checks
+Lisshura bets [$0.05]
+Fracknell calls [$0.05]
+** Dealing turn ** [ Kh ]
+Fracknell checks
+Lisshura checks
+** Dealing river ** [ Qh ]
+Fracknell bets [$0.09]
+Lisshura folds
+** Summary **
+Fracknell collected [ $0.17 ]
+
+
+#Game No : 478944
+***** 888poker Hand History for Game 478944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 04:52:43
+Table Edinburgh 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Lisshura ( $0.83 )
+Seat 6: Fracknell ( $0.83 )
+Fracknell posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+Fracknell folds
+** Summary **
+Lisshura collected [ $0.03 ]
+
+
+#Game No : 479478
+***** 888poker Hand History for Game 479478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 07:05:05
+Table Edinburgh 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ben10uk ( $1.17 )
+Seat 9: RDeckert ( $1.74 )
+ben10uk posts small blind [$0.01]
+RDeckert posts big blind [$0.02]
+** Dealing down cards **
+ben10uk folds
+** Summary **
+RDeckert collected [ $0.03 ]
+
+
+#Game No : 479479
+***** 888poker Hand History for Game 479479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 07:05:11
+Table Edinburgh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ben10uk ( $1.16 )
+Seat 9: RDeckert ( $1.75 )
+RDeckert posts small blind [$0.01]
+ben10uk posts big blind [$0.02]
+** Dealing down cards **
+RDeckert calls [$0.01]
+ben10uk checks
+** Dealing flop ** [ 9h, 2d, 9s ]
+ben10uk bets [$0.02]
+RDeckert calls [$0.02]
+** Dealing turn ** [ Kd ]
+ben10uk checks
+RDeckert checks
+** Dealing river ** [ As ]
+ben10uk checks
+RDeckert bets [$0.20]
+ben10uk calls [$0.20]
+** Summary **
+RDeckert shows [ 9d, Td ]
+ben10uk mucks [ Ks, 7c ]
+RDeckert collected [ $0.45 ]
+
+
+#Game No : 479481
+***** 888poker Hand History for Game 479481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 07:05:35
+Table Edinburgh 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ben10uk ( $0.92 )
+Seat 9: RDeckert ( $1.96 )
+ben10uk posts small blind [$0.01]
+RDeckert posts big blind [$0.02]
+** Dealing down cards **
+ben10uk calls [$0.01]
+RDeckert checks
+** Dealing flop ** [ 2c, 7d, Jd ]
+RDeckert checks
+ben10uk checks
+** Dealing turn ** [ 3c ]
+RDeckert checks
+ben10uk checks
+** Dealing river ** [ 5h ]
+RDeckert checks
+ben10uk bets [$0.14]
+RDeckert folds
+** Summary **
+ben10uk collected [ $0.04 ]
+
+
+#Game No : 479486
+***** 888poker Hand History for Game 479486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 07:05:59
+Table Edinburgh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ben10uk ( $0.94 )
+Seat 4: TheBullNeck ( $1 )
+ben10uk posts small blind [$0.01]
+TheBullNeck posts big blind [$0.02]
+** Dealing down cards **
+ben10uk folds
+** Summary **
+TheBullNeck collected [ $0.03 ]
+
+
+#Game No : 479516
+***** 888poker Hand History for Game 479516 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 07:08:38
+Table Edinburgh 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Yorikyohoho ( $1.79 )
+Seat 4: TheBullNeck ( $1.13 )
+TheBullNeck posts small blind [$0.01]
+Yorikyohoho posts big blind [$0.02]
+** Dealing down cards **
+TheBullNeck raises [$0.03]
+Yorikyohoho folds
+** Summary **
+TheBullNeck did not show his hand
+TheBullNeck collected [ $0.04 ]
+
+
+#Game No : 479518
+***** 888poker Hand History for Game 479518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 07:08:50
+Table Edinburgh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yorikyohoho ( $1.77 )
+Seat 4: TheBullNeck ( $1.15 )
+Yorikyohoho posts small blind [$0.01]
+TheBullNeck posts big blind [$0.02]
+** Dealing down cards **
+Yorikyohoho raises [$0.05]
+TheBullNeck calls [$0.04]
+** Dealing flop ** [ 5c, 2h, Qs ]
+TheBullNeck checks
+Yorikyohoho bets [$0.06]
+TheBullNeck folds
+** Summary **
+Yorikyohoho did not show his hand
+Yorikyohoho collected [ $0.12 ]
+
+
+#Game No : 479523
+***** 888poker Hand History for Game 479523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 07:09:06
+Table Edinburgh 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Yorikyohoho ( $1.83 )
+Seat 4: TheBullNeck ( $1.09 )
+TheBullNeck posts small blind [$0.01]
+Yorikyohoho posts big blind [$0.02]
+** Dealing down cards **
+TheBullNeck raises [$0.03]
+Yorikyohoho folds
+** Summary **
+TheBullNeck did not show his hand
+TheBullNeck collected [ $0.04 ]
+
+
+#Game No : 479526
+***** 888poker Hand History for Game 479526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 07:09:21
+Table Edinburgh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yorikyohoho ( $1.81 )
+Seat 4: TheBullNeck ( $1.11 )
+Yorikyohoho posts small blind [$0.01]
+TheBullNeck posts big blind [$0.02]
+** Dealing down cards **
+Yorikyohoho calls [$0.01]
+TheBullNeck checks
+** Dealing flop ** [ Qh, 5s, Th ]
+TheBullNeck checks
+Yorikyohoho checks
+** Dealing turn ** [ 2c ]
+TheBullNeck bets [$0.02]
+Yorikyohoho folds
+** Summary **
+TheBullNeck collected [ $0.04 ]
+
+
+#Game No : 479530
+***** 888poker Hand History for Game 479530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 07:09:55
+Table Edinburgh 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Yorikyohoho ( $1.79 )
+Seat 4: TheBullNeck ( $1.13 )
+TheBullNeck posts small blind [$0.01]
+Yorikyohoho posts big blind [$0.02]
+** Dealing down cards **
+TheBullNeck folds
+** Summary **
+Yorikyohoho collected [ $0.03 ]
+
+
+#Game No : 481950
+***** 888poker Hand History for Game 481950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2019 16:16:05
+Table Edinburgh 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: willful53 ( $0.90 )
+Seat 6: FARTECKIY ( $1.01 )
+willful53 posts small blind [$0.01]
+FARTECKIY posts big blind [$0.02]
+** Dealing down cards **
+willful53 folds
+** Summary **
+FARTECKIY collected [ $0.03 ]
+
+

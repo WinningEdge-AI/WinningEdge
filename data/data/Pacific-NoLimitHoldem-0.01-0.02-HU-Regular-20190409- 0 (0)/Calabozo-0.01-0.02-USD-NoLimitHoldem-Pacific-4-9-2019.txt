@@ -1,0 +1,115 @@
+#Game No : 516139931
+***** 888poker Hand History for Game 516139931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 04 2019 02:12:29
+Table Calabozo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bar0nas ( $1.06 )
+Seat 9: QMoneyTalksQ ( $0.89 )
+Bar0nas posts small blind [$0.01]
+QMoneyTalksQ posts big blind [$0.02]
+** Dealing down cards **
+Bar0nas folds
+** Summary **
+QMoneyTalksQ did not show his hand
+QMoneyTalksQ collected [ $0.03 ]
+
+
+#Game No : 516139935
+***** 888poker Hand History for Game 516139935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 04 2019 02:12:37
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Bar0nas ( $1.05 )
+Seat 9: QMoneyTalksQ ( $0.90 )
+QMoneyTalksQ posts small blind [$0.01]
+Bar0nas posts big blind [$0.02]
+** Dealing down cards **
+QMoneyTalksQ raises [$0.03]
+Bar0nas folds
+** Summary **
+QMoneyTalksQ did not show his hand
+QMoneyTalksQ collected [ $0.04 ]
+
+
+#Game No : 516141993
+***** 888poker Hand History for Game 516141993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 04 2019 03:39:33
+Table Calabozo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Manuiacob ( $1.04 )
+Seat 2: Antonio66scl ( $1.24 )
+Antonio66scl posts small blind [$0.01]
+Manuiacob posts big blind [$0.02]
+** Dealing down cards **
+Antonio66scl raises [$0.05]
+Manuiacob calls [$0.04]
+** Dealing flop ** [ Ah, 3d, 8d ]
+Manuiacob checks
+Antonio66scl bets [$0.09]
+Manuiacob folds
+** Summary **
+Antonio66scl collected [ $0.12 ]
+
+
+#Game No : 516142001
+***** 888poker Hand History for Game 516142001 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 04 2019 03:39:53
+Table Calabozo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Manuiacob ( $0.98 )
+Seat 2: Antonio66scl ( $1.30 )
+Manuiacob posts small blind [$0.01]
+Antonio66scl posts big blind [$0.02]
+** Dealing down cards **
+Manuiacob calls [$0.01]
+Antonio66scl checks
+** Dealing flop ** [ 8s, Js, 9h ]
+Antonio66scl checks
+Manuiacob bets [$0.02]
+Antonio66scl calls [$0.02]
+** Dealing turn ** [ 5s ]
+Antonio66scl checks
+Manuiacob checks
+** Dealing river ** [ 3d ]
+Antonio66scl bets [$0.04]
+Manuiacob raises [$0.08]
+Antonio66scl calls [$0.04]
+** Summary **
+Manuiacob shows [ 3h, 8c ]
+Antonio66scl shows [ 6d, 7d ]
+Antonio66scl collected [ $0.23 ]
+
+
+#Game No : 516142017
+***** 888poker Hand History for Game 516142017 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 04 2019 03:40:28
+Table Calabozo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Manuiacob ( $0.86 )
+Seat 2: Antonio66scl ( $1.41 )
+Antonio66scl posts small blind [$0.01]
+Manuiacob posts big blind [$0.02]
+** Dealing down cards **
+Antonio66scl raises [$0.05]
+Manuiacob calls [$0.04]
+** Dealing flop ** [ Ks, 7h, 9c ]
+Manuiacob checks
+Antonio66scl bets [$0.09]
+Manuiacob calls [$0.09]
+** Dealing turn ** [ 3d ]
+Manuiacob checks
+Antonio66scl checks
+** Dealing river ** [ Qc ]
+Manuiacob checks
+Antonio66scl checks
+** Summary **
+Manuiacob shows [ 6c, 9h ]
+Antonio66scl mucks [ 2c, 2h ]
+Manuiacob collected [ $0.29 ]
+
+

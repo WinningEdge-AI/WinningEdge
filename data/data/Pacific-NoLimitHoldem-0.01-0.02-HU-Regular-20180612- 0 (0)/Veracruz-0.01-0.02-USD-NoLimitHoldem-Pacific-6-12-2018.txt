@@ -1,0 +1,545 @@
+#Game No : 604078110
+***** 888poker Hand History for Game 604078110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 10:53:13
+Table Veracruz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: baldur2 ( $0.92 )
+Seat 4: a1plumber ( $1.07 )
+baldur2 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+baldur2 calls [$0.01]
+a1plumber checks
+** Dealing flop ** [ 6d, 2d, Jc ]
+a1plumber checks
+baldur2 bets [$0.02]
+a1plumber folds
+** Summary **
+baldur2 did not show his hand
+baldur2 collected [ $0.04 ]
+
+
+#Game No : 604078133
+***** 888poker Hand History for Game 604078133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 10:53:18
+Table Veracruz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: baldur2 ( $0.94 )
+Seat 4: a1plumber ( $1.05 )
+a1plumber posts small blind [$0.01]
+baldur2 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+baldur2 checks
+** Dealing flop ** [ 2s, 9h, 2h ]
+baldur2 bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing turn ** [ 6s ]
+baldur2 bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing river ** [ 8h ]
+baldur2 bets [$0.02]
+a1plumber calls [$0.02]
+** Summary **
+baldur2 shows [ 5d, 2c ]
+a1plumber mucks [ As, 7h ]
+baldur2 collected [ $0.15 ]
+
+
+#Game No : 604078162
+***** 888poker Hand History for Game 604078162 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 10:53:55
+Table Veracruz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: baldur2 ( $1.01 )
+Seat 4: a1plumber ( $0.97 )
+baldur2 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+baldur2 calls [$0.01]
+a1plumber checks
+** Dealing flop ** [ 8d, 5d, 5h ]
+a1plumber checks
+baldur2 bets [$0.04]
+a1plumber folds
+** Summary **
+baldur2 did not show his hand
+baldur2 collected [ $0.04 ]
+
+
+#Game No : 604078183
+***** 888poker Hand History for Game 604078183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 10:54:18
+Table Veracruz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: baldur2 ( $1.03 )
+Seat 4: a1plumber ( $0.95 )
+a1plumber posts small blind [$0.01]
+baldur2 posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+baldur2 checks
+** Dealing flop ** [ 5s, Kd, 3d ]
+baldur2 bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing turn ** [ 4h ]
+baldur2 bets [$0.04]
+a1plumber calls [$0.04]
+** Dealing river ** [ 2d ]
+baldur2 bets [$0.04]
+a1plumber calls [$0.04]
+** Summary **
+baldur2 shows [ Ks, 3h ]
+a1plumber mucks [ Kc, Qc ]
+baldur2 collected [ $0.23 ]
+
+
+#Game No : 604078222
+***** 888poker Hand History for Game 604078222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 10:54:57
+Table Veracruz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: baldur2 ( $1.14 )
+Seat 4: a1plumber ( $0.83 )
+baldur2 posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+baldur2 calls [$0.01]
+a1plumber checks
+** Dealing flop ** [ Kh, Kc, 7c ]
+a1plumber checks
+baldur2 bets [$0.02]
+a1plumber folds
+** Summary **
+baldur2 collected [ $0.04 ]
+
+
+#Game No : 604079743
+***** 888poker Hand History for Game 604079743 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 11:22:11
+Table Veracruz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: baldur2 ( $1.33 )
+Seat 2: Dagmaer ( $1.17 )
+Dagmaer posts small blind [$0.01]
+baldur2 posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer folds
+** Summary **
+baldur2 collected [ $0.03 ]
+
+
+#Game No : 604079750
+***** 888poker Hand History for Game 604079750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 11:22:16
+Table Veracruz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: baldur2 ( $1.34 )
+Seat 2: Dagmaer ( $1.16 )
+baldur2 posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+baldur2 calls [$0.01]
+Dagmaer checks
+** Dealing flop ** [ Ah, 3c, Ac ]
+Dagmaer checks
+baldur2 bets [$0.08]
+Dagmaer folds
+** Summary **
+baldur2 collected [ $0.04 ]
+
+
+#Game No : 604079788
+***** 888poker Hand History for Game 604079788 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 11:22:54
+Table Veracruz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: baldur2 ( $1.36 )
+Seat 2: Dagmaer ( $1.14 )
+Dagmaer posts small blind [$0.01]
+baldur2 posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer raises [$0.04]
+baldur2 calls [$0.03]
+** Dealing flop ** [ 4c, Qd, Jh ]
+baldur2 checks
+Dagmaer checks
+** Dealing turn ** [ 6h ]
+baldur2 checks
+Dagmaer checks
+** Dealing river ** [ 7d ]
+baldur2 bets [$0.08]
+Dagmaer folds
+** Summary **
+baldur2 collected [ $0.10 ]
+
+
+#Game No : 604081226
+***** 888poker Hand History for Game 604081226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 11:48:37
+Table Veracruz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ruzuj ( $3.23 )
+Seat 7: Aprel16 ( $1.11 )
+Aprel16 posts small blind [$0.01]
+ruzuj posts big blind [$0.02]
+** Dealing down cards **
+Aprel16 raises [$0.05]
+ruzuj folds
+** Summary **
+Aprel16 collected [ $0.04 ]
+
+
+#Game No : 604081246
+***** 888poker Hand History for Game 604081246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 11:48:59
+Table Veracruz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ruzuj ( $3.22 )
+Seat 7: Aprel16 ( $1.12 )
+Aprel16 posts small blind [$0.01]
+ruzuj posts big blind [$0.02]
+** Dealing down cards **
+Aprel16 folds
+** Summary **
+ruzuj collected [ $0.03 ]
+
+
+#Game No : 604081269
+***** 888poker Hand History for Game 604081269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 11:49:19
+Table Veracruz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pokerman441 ( $1.12 )
+Seat 7: dimple7777 ( $1 )
+Pokerman441 posts small blind [$0.01]
+dimple7777 posts big blind [$0.02]
+** Dealing down cards **
+Pokerman441 raises [$0.05]
+dimple7777 calls [$0.04]
+** Dealing flop ** [ 7h, Kd, 6s ]
+dimple7777 bets [$0.06]
+Pokerman441 folds
+** Summary **
+dimple7777 collected [ $0.12 ]
+
+
+#Game No : 604081290
+***** 888poker Hand History for Game 604081290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 11:49:39
+Table Veracruz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Pokerman441 ( $1.06 )
+Seat 7: dimple7777 ( $1.06 )
+dimple7777 posts small blind [$0.01]
+Pokerman441 posts big blind [$0.02]
+** Dealing down cards **
+dimple7777 calls [$0.01]
+Pokerman441 raises [$0.02]
+dimple7777 raises [$0.10]
+Pokerman441 folds
+** Summary **
+dimple7777 collected [ $0.08 ]
+
+
+#Game No : 604082443
+***** 888poker Hand History for Game 604082443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 12:08:16
+Table Veracruz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 046West046 ( $0.75 )
+Seat 4: Pokerman441 ( $1.45 )
+046West046 posts small blind [$0.01]
+Pokerman441 posts big blind [$0.02]
+** Dealing down cards **
+046West046 folds
+** Summary **
+Pokerman441 did not show his hand
+Pokerman441 collected [ $0.03 ]
+
+
+#Game No : 604086928
+***** 888poker Hand History for Game 604086928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 13:20:27
+Table Veracruz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $1.27 )
+Seat 7: kli2000 ( $2.45 )
+Ki55_my_Ace posts small blind [$0.01]
+kli2000 posts big blind [$0.02]
+** Dealing down cards **
+Ki55_my_Ace raises [$0.03]
+kli2000 calls [$0.02]
+** Dealing flop ** [ 4c, Kd, 7s ]
+kli2000 checks
+Ki55_my_Ace checks
+** Dealing turn ** [ 3s ]
+kli2000 checks
+Ki55_my_Ace checks
+** Dealing river ** [ Qh ]
+kli2000 checks
+Ki55_my_Ace bets [$0.05]
+kli2000 calls [$0.05]
+** Summary **
+Ki55_my_Ace shows [ Qc, 7h ]
+kli2000 mucks [ Ah, 5s ]
+Ki55_my_Ace collected [ $0.17 ]
+
+
+#Game No : 604086980
+***** 888poker Hand History for Game 604086980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 13:21:22
+Table Veracruz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $1.35 )
+Seat 7: kli2000 ( $2.36 )
+kli2000 posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+kli2000 folds
+** Summary **
+Ki55_my_Ace collected [ $0.03 ]
+
+
+#Game No : 604088928
+***** 888poker Hand History for Game 604088928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 13:52:44
+Table Veracruz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $1.44 )
+Seat 2: richbranson ( $1.66 )
+richbranson posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+Ki55_my_Ace raises [$0.18]
+richbranson folds
+** Summary **
+Ki55_my_Ace collected [ $0.12 ]
+
+
+#Game No : 604091063
+***** 888poker Hand History for Game 604091063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 14:27:36
+Table Veracruz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Ki55_my_Ace ( $6.23 )
+Seat 6: l2pSoloQ ( $1.70 )
+l2pSoloQ posts small blind [$0.01]
+Ki55_my_Ace posts big blind [$0.02]
+** Dealing down cards **
+l2pSoloQ raises [$0.05]
+Ki55_my_Ace calls [$0.04]
+** Dealing flop ** [ 6h, 5h, 5s ]
+Ki55_my_Ace checks
+l2pSoloQ bets [$0.08]
+Ki55_my_Ace folds
+** Summary **
+l2pSoloQ collected [ $0.12 ]
+
+
+#Game No : 604092688
+***** 888poker Hand History for Game 604092688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 14:53:20
+Table Veracruz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: l2pSoloQ ( $4.05 )
+Seat 7: Yarlexa17 ( $0.38 )
+l2pSoloQ posts small blind [$0.01]
+Yarlexa17 posts big blind [$0.02]
+** Dealing down cards **
+l2pSoloQ raises [$0.05]
+Yarlexa17 calls [$0.04]
+** Dealing flop ** [ 7d, Th, 4d ]
+Yarlexa17 checks
+l2pSoloQ bets [$0.08]
+Yarlexa17 calls [$0.08]
+** Dealing turn ** [ 9h ]
+Yarlexa17 checks
+l2pSoloQ checks
+** Dealing river ** [ Kd ]
+Yarlexa17 checks
+l2pSoloQ bets [$0.18]
+Yarlexa17 folds
+** Summary **
+l2pSoloQ did not show his hand
+l2pSoloQ collected [ $0.27 ]
+
+
+#Game No : 604092734
+***** 888poker Hand History for Game 604092734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 14:54:05
+Table Veracruz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: l2pSoloQ ( $4.18 )
+Seat 7: Yarlexa17 ( $0.24 )
+Yarlexa17 posts small blind [$0.01]
+l2pSoloQ posts big blind [$0.02]
+** Dealing down cards **
+Yarlexa17 calls [$0.01]
+l2pSoloQ raises [$0.04]
+Yarlexa17 folds
+** Summary **
+l2pSoloQ did not show his hand
+l2pSoloQ collected [ $0.04 ]
+
+
+#Game No : 604092757
+***** 888poker Hand History for Game 604092757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 14:54:26
+Table Veracruz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: l2pSoloQ ( $4.20 )
+Seat 7: Yarlexa17 ( $0.22 )
+l2pSoloQ posts small blind [$0.01]
+Yarlexa17 posts big blind [$0.02]
+** Dealing down cards **
+l2pSoloQ raises [$0.05]
+Yarlexa17 calls [$0.04]
+** Dealing flop ** [ Kd, Jh, Ks ]
+Yarlexa17 checks
+l2pSoloQ checks
+** Dealing turn ** [ 5h ]
+Yarlexa17 checks
+l2pSoloQ bets [$0.12]
+Yarlexa17 folds
+** Summary **
+l2pSoloQ did not show his hand
+l2pSoloQ collected [ $0.12 ]
+
+
+#Game No : 604092777
+***** 888poker Hand History for Game 604092777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 14:54:50
+Table Veracruz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: l2pSoloQ ( $4.26 )
+Seat 7: Yarlexa17 ( $0.16 )
+Yarlexa17 posts small blind [$0.01]
+l2pSoloQ posts big blind [$0.02]
+** Dealing down cards **
+Yarlexa17 calls [$0.01]
+l2pSoloQ checks
+** Dealing flop ** [ 5d, 8h, 6c ]
+l2pSoloQ checks
+Yarlexa17 checks
+** Dealing turn ** [ Th ]
+l2pSoloQ checks
+Yarlexa17 checks
+** Dealing river ** [ 8c ]
+l2pSoloQ checks
+Yarlexa17 checks
+** Summary **
+l2pSoloQ shows [ 4d, 9c ]
+Yarlexa17 shows [ Kd, 9d ]
+Yarlexa17 collected [ $0.04 ]
+
+
+#Game No : 604092799
+***** 888poker Hand History for Game 604092799 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 14:55:16
+Table Veracruz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: l2pSoloQ ( $4.24 )
+Seat 7: Yarlexa17 ( $0.18 )
+l2pSoloQ posts small blind [$0.01]
+Yarlexa17 posts big blind [$0.02]
+** Dealing down cards **
+l2pSoloQ raises [$0.05]
+Yarlexa17 raises [$0.16]
+l2pSoloQ calls [$0.12]
+** Dealing flop ** [ 8c, Kh, 4h ]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ Ts ]
+** Summary **
+l2pSoloQ shows [ 9c, Qd ]
+Yarlexa17 shows [ Ks, Kc ]
+Yarlexa17 collected [ $0.34 ]
+
+
+#Game No : 604092819
+***** 888poker Hand History for Game 604092819 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 14:55:40
+Table Veracruz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: l2pSoloQ ( $4.06 )
+Seat 7: Yarlexa17 ( $0.34 )
+Yarlexa17 posts small blind [$0.01]
+l2pSoloQ posts big blind [$0.02]
+** Dealing down cards **
+Yarlexa17 calls [$0.01]
+l2pSoloQ checks
+** Dealing flop ** [ 4d, Jh, Th ]
+l2pSoloQ checks
+Yarlexa17 checks
+** Dealing turn ** [ 8c ]
+l2pSoloQ checks
+Yarlexa17 checks
+** Dealing river ** [ Ad ]
+l2pSoloQ checks
+Yarlexa17 checks
+** Summary **
+l2pSoloQ shows [ Qd, 2c ]
+Yarlexa17 shows [ 9d, Ts ]
+Yarlexa17 collected [ $0.04 ]
+
+
+#Game No : 604092872
+***** 888poker Hand History for Game 604092872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 14:56:38
+Table Veracruz 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: l2pSoloQ ( $4.38 )
+Seat 9: richbranson ( $1 )
+richbranson posts small blind [$0.01]
+l2pSoloQ posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+l2pSoloQ folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.04 ]
+
+
+#Game No : 604092888
+***** 888poker Hand History for Game 604092888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 14:56:52
+Table Veracruz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: l2pSoloQ ( $4.36 )
+Seat 9: richbranson ( $1.02 )
+l2pSoloQ posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+l2pSoloQ raises [$0.05]
+richbranson folds
+** Summary **
+l2pSoloQ did not show his hand
+l2pSoloQ collected [ $0.04 ]
+
+

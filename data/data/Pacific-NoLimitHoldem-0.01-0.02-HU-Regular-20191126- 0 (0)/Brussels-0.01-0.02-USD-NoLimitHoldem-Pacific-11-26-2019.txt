@@ -1,0 +1,44 @@
+#Game No : 628028725
+***** 888poker Hand History for Game 628028725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2019 19:46:06
+Table Brussels 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Edstoni ( $1.20 )
+Seat 10: Faultline1 ( $7.69 )
+Faultline1 posts small blind [$0.01]
+Edstoni posts big blind [$0.02]
+** Dealing down cards **
+Faultline1 folds
+** Summary **
+Edstoni did not show his hand
+Edstoni collected [ $0.03 ]
+
+
+#Game No : 628028728
+***** 888poker Hand History for Game 628028728 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2019 19:46:14
+Table Brussels 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: Edstoni ( $1.21 )
+Seat 10: Faultline1 ( $7.68 )
+Faultline1 posts small blind [$0.01]
+Edstoni posts big blind [$0.02]
+** Dealing down cards **
+Faultline1 raises [$0.03]
+Edstoni calls [$0.02]
+** Dealing flop ** [ Jc, 9h, Kh ]
+Edstoni checks
+Faultline1 checks
+** Dealing turn ** [ Kc ]
+Edstoni bets [$0.02]
+Faultline1 calls [$0.02]
+** Dealing river ** [ 3h ]
+Edstoni bets [$1.15]
+Faultline1 folds
+** Summary **
+Edstoni did not show his hand
+Edstoni collected [ $0.12 ]
+
+

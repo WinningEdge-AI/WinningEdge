@@ -1,0 +1,876 @@
+#Game No : 504347149
+***** 888poker Hand History for Game 504347149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 03:08:32
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 6: lipton4ai ( $1.28 )
+Seat 7: salsal74 ( $1 )
+lipton4ai posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+lipton4ai raises [$0.04]
+salsal74 raises [$0.13]
+lipton4ai folds
+** Summary **
+salsal74 collected [ $0.10 ]
+
+
+#Game No : 504347156
+***** 888poker Hand History for Game 504347156 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 03:08:48
+Table Charallave 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: lipton4ai ( $1.23 )
+Seat 7: salsal74 ( $1.05 )
+lipton4ai posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+lipton4ai folds
+** Summary **
+salsal74 collected [ $0.03 ]
+
+
+#Game No : 504347162
+***** 888poker Hand History for Game 504347162 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 03:08:54
+Table Charallave 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: lipton4ai ( $1.22 )
+Seat 7: salsal74 ( $1.06 )
+salsal74 posts small blind [$0.01]
+** Dealing down cards **
+lipton4ai folds
+** Summary **
+salsal74 collected [ $0.01 ]
+
+
+#Game No : 504348350
+***** 888poker Hand History for Game 504348350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 03:44:03
+Table Charallave 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: rino114 ( $1.22 )
+Seat 9: DRAGONGALL ( $3.13 )
+rino114 posts small blind [$0.01]
+DRAGONGALL posts big blind [$0.02]
+** Dealing down cards **
+rino114 folds
+** Summary **
+DRAGONGALL collected [ $0.03 ]
+
+
+#Game No : 504350666
+***** 888poker Hand History for Game 504350666 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 05:05:13
+Table Charallave 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: salsal74 ( $1.37 )
+Seat 9: DRAGONGALL ( $2.88 )
+DRAGONGALL posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+DRAGONGALL raises [$0.03]
+salsal74 calls [$0.02]
+** Dealing flop ** [ Jd, Tc, 7c ]
+salsal74 checks
+DRAGONGALL bets [$0.08]
+salsal74 calls [$0.08]
+** Dealing turn ** [ 3d ]
+salsal74 checks
+DRAGONGALL checks
+** Dealing river ** [ 6h ]
+salsal74 checks
+DRAGONGALL checks
+** Summary **
+salsal74 shows [ As, 8h ]
+DRAGONGALL shows [ 6d, 2c ]
+DRAGONGALL collected [ $0.23 ]
+
+
+#Game No : 504350686
+***** 888poker Hand History for Game 504350686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 05:05:41
+Table Charallave 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: salsal74 ( $1.25 )
+Seat 9: DRAGONGALL ( $2.99 )
+salsal74 posts small blind [$0.01]
+DRAGONGALL posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+DRAGONGALL collected [ $0.03 ]
+
+
+#Game No : 504350690
+***** 888poker Hand History for Game 504350690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 05:05:46
+Table Charallave 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: salsal74 ( $1.24 )
+Seat 9: DRAGONGALL ( $3 )
+DRAGONGALL posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+DRAGONGALL calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ 5c, 7c, 4d ]
+salsal74 checks
+DRAGONGALL bets [$0.04]
+salsal74 folds
+** Summary **
+DRAGONGALL collected [ $0.04 ]
+
+
+#Game No : 504350701
+***** 888poker Hand History for Game 504350701 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 05:06:02
+Table Charallave 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: salsal74 ( $1.22 )
+Seat 9: DRAGONGALL ( $3.02 )
+salsal74 posts small blind [$0.01]
+DRAGONGALL posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+DRAGONGALL calls [$0.02]
+** Dealing flop ** [ 7s, 3d, 8c ]
+DRAGONGALL checks
+salsal74 bets [$0.04]
+DRAGONGALL folds
+** Summary **
+salsal74 collected [ $0.08 ]
+
+
+#Game No : 504350717
+***** 888poker Hand History for Game 504350717 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 05:06:31
+Table Charallave 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: salsal74 ( $1.26 )
+Seat 9: DRAGONGALL ( $2.98 )
+DRAGONGALL posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+DRAGONGALL calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ Tc, 7c, Ts ]
+salsal74 checks
+DRAGONGALL checks
+** Dealing turn ** [ Qc ]
+salsal74 checks
+DRAGONGALL bets [$0.04]
+salsal74 calls [$0.04]
+** Dealing river ** [ Ah ]
+salsal74 checks
+DRAGONGALL checks
+** Summary **
+salsal74 shows [ Jc, Td ]
+DRAGONGALL mucks [ 2h, 4s ]
+salsal74 collected [ $0.12 ]
+
+
+#Game No : 504350739
+***** 888poker Hand History for Game 504350739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 05:07:01
+Table Charallave 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: salsal74 ( $1.32 )
+Seat 9: DRAGONGALL ( $2.92 )
+salsal74 posts small blind [$0.01]
+DRAGONGALL posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+DRAGONGALL calls [$0.02]
+** Dealing flop ** [ 7d, 5c, Jc ]
+DRAGONGALL checks
+salsal74 bets [$0.04]
+DRAGONGALL folds
+** Summary **
+salsal74 did not show his hand
+salsal74 collected [ $0.08 ]
+
+
+#Game No : 504350755
+***** 888poker Hand History for Game 504350755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 05:07:41
+Table Charallave 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: salsal74 ( $1.36 )
+Seat 9: DRAGONGALL ( $2.88 )
+DRAGONGALL posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+DRAGONGALL calls [$0.01]
+salsal74 raises [$0.02]
+DRAGONGALL calls [$0.02]
+** Dealing flop ** [ 3s, Js, Ah ]
+salsal74 bets [$0.05]
+DRAGONGALL folds
+** Summary **
+salsal74 collected [ $0.08 ]
+
+
+#Game No : 504353133
+***** 888poker Hand History for Game 504353133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:14:32
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.71 )
+Seat 7: salsal74 ( $1.64 )
+DenVL posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+salsal74 collected [ $0.03 ]
+
+
+#Game No : 504353150
+***** 888poker Hand History for Game 504353150 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:14:53
+Table Charallave 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.70 )
+Seat 7: salsal74 ( $1.65 )
+salsal74 posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+DenVL collected [ $0.03 ]
+
+
+#Game No : 504353198
+***** 888poker Hand History for Game 504353198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:16:18
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.71 )
+Seat 4: Bolshoiman ( $1 )
+Bolshoiman posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.06]
+DenVL folds
+** Summary **
+Bolshoiman collected [ $0.04 ]
+
+
+#Game No : 504353202
+***** 888poker Hand History for Game 504353202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:16:25
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.69 )
+Seat 4: Bolshoiman ( $1.02 )
+DenVL posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+DenVL raises [$0.05]
+Bolshoiman calls [$0.04]
+** Dealing flop ** [ 8s, Ks, Th ]
+Bolshoiman checks
+DenVL bets [$0.05]
+Bolshoiman raises [$0.16]
+DenVL calls [$0.11]
+** Dealing turn ** [ 4d ]
+Bolshoiman bets [$0.80]
+DenVL folds
+** Summary **
+Bolshoiman collected [ $0.42 ]
+
+
+#Game No : 504353223
+***** 888poker Hand History for Game 504353223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:16:59
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.47 )
+Seat 4: Bolshoiman ( $1.22 )
+Bolshoiman posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman folds
+** Summary **
+DenVL collected [ $0.03 ]
+
+
+#Game No : 504353228
+***** 888poker Hand History for Game 504353228 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:17:04
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.48 )
+Seat 4: Bolshoiman ( $1.21 )
+DenVL posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+DenVL raises [$0.05]
+Bolshoiman calls [$0.04]
+** Dealing flop ** [ Qh, 3d, 4h ]
+Bolshoiman checks
+DenVL checks
+** Dealing turn ** [ 8h ]
+Bolshoiman bets [$0.08]
+DenVL calls [$0.08]
+** Dealing river ** [ 5s ]
+Bolshoiman checks
+DenVL checks
+** Summary **
+Bolshoiman shows [ 9s, Jd ]
+DenVL shows [ Ks, Ac ]
+DenVL collected [ $0.27 ]
+
+
+#Game No : 504353251
+***** 888poker Hand History for Game 504353251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:17:39
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.61 )
+Seat 4: Bolshoiman ( $1.07 )
+Bolshoiman posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman folds
+** Summary **
+DenVL collected [ $0.03 ]
+
+
+#Game No : 504353261
+***** 888poker Hand History for Game 504353261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:17:44
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.62 )
+Seat 4: Bolshoiman ( $1.06 )
+DenVL posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+Bolshoiman collected [ $0.03 ]
+
+
+#Game No : 504353267
+***** 888poker Hand History for Game 504353267 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:17:55
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.61 )
+Seat 4: Bolshoiman ( $1.07 )
+Bolshoiman posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman folds
+** Summary **
+DenVL collected [ $0.03 ]
+
+
+#Game No : 504353271
+***** 888poker Hand History for Game 504353271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:17:59
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.62 )
+Seat 4: Bolshoiman ( $1.06 )
+DenVL posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+DenVL raises [$0.05]
+Bolshoiman folds
+** Summary **
+DenVL collected [ $0.04 ]
+
+
+#Game No : 504353278
+***** 888poker Hand History for Game 504353278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:18:07
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.64 )
+Seat 4: Bolshoiman ( $1.04 )
+Bolshoiman posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman folds
+** Summary **
+DenVL collected [ $0.03 ]
+
+
+#Game No : 504353286
+***** 888poker Hand History for Game 504353286 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:18:12
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.65 )
+Seat 4: Bolshoiman ( $1.03 )
+DenVL posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+DenVL raises [$0.05]
+Bolshoiman raises [$0.18]
+DenVL folds
+** Summary **
+Bolshoiman collected [ $0.12 ]
+
+
+#Game No : 504353292
+***** 888poker Hand History for Game 504353292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:18:23
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1.59 )
+Seat 4: Bolshoiman ( $1.09 )
+Bolshoiman posts small blind [$0.01]
+** Dealing down cards **
+DenVL folds
+** Summary **
+Bolshoiman collected [ $0.01 ]
+
+
+#Game No : 504353949
+***** 888poker Hand History for Game 504353949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:38:37
+Table Charallave 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: MaryamMaria ( $0.76 )
+Seat 6: DvckGrone22 ( $0.84 )
+DvckGrone22 posts small blind [$0.01]
+MaryamMaria posts big blind [$0.02]
+** Dealing down cards **
+DvckGrone22 calls [$0.01]
+MaryamMaria checks
+** Dealing flop ** [ Ks, 3h, Kc ]
+MaryamMaria checks
+DvckGrone22 bets [$0.02]
+MaryamMaria folds
+** Summary **
+DvckGrone22 collected [ $0.04 ]
+
+
+#Game No : 504354299
+***** 888poker Hand History for Game 504354299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:49:31
+Table Charallave 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.24 )
+Seat 9: pouii ( $1 )
+pouii posts small blind [$0.01]
+Brodholt posts big blind [$0.02]
+** Dealing down cards **
+pouii folds
+** Summary **
+Brodholt collected [ $0.03 ]
+
+
+#Game No : 504354301
+***** 888poker Hand History for Game 504354301 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:49:39
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.25 )
+Seat 9: pouii ( $0.99 )
+Brodholt posts small blind [$0.01]
+pouii posts big blind [$0.02]
+** Dealing down cards **
+Brodholt raises [$0.03]
+pouii folds
+** Summary **
+Brodholt collected [ $0.04 ]
+
+
+#Game No : 504354308
+***** 888poker Hand History for Game 504354308 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:49:48
+Table Charallave 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.27 )
+Seat 9: pouii ( $0.97 )
+pouii posts small blind [$0.01]
+Brodholt posts big blind [$0.02]
+** Dealing down cards **
+pouii folds
+** Summary **
+Brodholt collected [ $0.03 ]
+
+
+#Game No : 504354337
+***** 888poker Hand History for Game 504354337 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:50:43
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.28 )
+Seat 4: bigsimombasa ( $1 )
+bigsimombasa posts small blind [$0.01]
+Brodholt posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa raises [$0.05]
+Brodholt raises [$0.10]
+bigsimombasa calls [$0.06]
+** Dealing flop ** [ 9h, 3s, Kd ]
+Brodholt bets [$0.06]
+bigsimombasa folds
+** Summary **
+Brodholt collected [ $0.23 ]
+
+
+#Game No : 504354350
+***** 888poker Hand History for Game 504354350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:51:07
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.39 )
+Seat 4: bigsimombasa ( $1 )
+Brodholt posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Brodholt calls [$0.01]
+bigsimombasa raises [$0.06]
+Brodholt calls [$0.06]
+** Dealing flop ** [ As, 3c, 6h ]
+bigsimombasa bets [$0.08]
+Brodholt folds
+** Summary **
+bigsimombasa collected [ $0.15 ]
+
+
+#Game No : 504354358
+***** 888poker Hand History for Game 504354358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:51:30
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.31 )
+Seat 4: bigsimombasa ( $1.07 )
+bigsimombasa posts small blind [$0.01]
+Brodholt posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa raises [$0.05]
+Brodholt calls [$0.04]
+** Dealing flop ** [ 3c, 8s, 9s ]
+Brodholt bets [$0.02]
+bigsimombasa calls [$0.02]
+** Dealing turn ** [ 6s ]
+Brodholt bets [$0.06]
+bigsimombasa calls [$0.06]
+** Dealing river ** [ 2h ]
+Brodholt checks
+bigsimombasa bets [$0.14]
+Brodholt folds
+** Summary **
+bigsimombasa collected [ $0.27 ]
+
+
+#Game No : 504354379
+***** 888poker Hand History for Game 504354379 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:52:03
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.17 )
+Seat 4: bigsimombasa ( $1.20 )
+Brodholt posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Brodholt raises [$0.16]
+bigsimombasa folds
+** Summary **
+Brodholt collected [ $0.04 ]
+
+
+#Game No : 504354385
+***** 888poker Hand History for Game 504354385 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:52:13
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.19 )
+Seat 4: bigsimombasa ( $1.18 )
+bigsimombasa posts small blind [$0.01]
+Brodholt posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa folds
+** Summary **
+Brodholt collected [ $0.03 ]
+
+
+#Game No : 504354389
+***** 888poker Hand History for Game 504354389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:52:20
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.20 )
+Seat 4: bigsimombasa ( $1.17 )
+Brodholt posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Brodholt raises [$0.03]
+bigsimombasa calls [$0.02]
+** Dealing flop ** [ 3d, Ts, As ]
+bigsimombasa bets [$0.04]
+Brodholt calls [$0.04]
+** Dealing turn ** [ 8h ]
+bigsimombasa bets [$0.08]
+Brodholt raises [$0.12]
+bigsimombasa calls [$0.04]
+** Dealing river ** [ 3h ]
+** Summary **
+Brodholt shows [ 3c, Ad ]
+bigsimombasa shows [ 5s, 7s ]
+Brodholt collected [ $0.38 ]
+
+
+#Game No : 504354407
+***** 888poker Hand History for Game 504354407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:52:58
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.38 )
+Seat 4: bigsimombasa ( $1 )
+bigsimombasa posts small blind [$0.01]
+Brodholt posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa folds
+** Summary **
+Brodholt collected [ $0.03 ]
+
+
+#Game No : 504354410
+***** 888poker Hand History for Game 504354410 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:53:06
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.39 )
+Seat 4: bigsimombasa ( $1 )
+Brodholt posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Brodholt calls [$0.01]
+bigsimombasa raises [$0.06]
+Brodholt calls [$0.06]
+** Dealing flop ** [ 2h, 3h, 4h ]
+bigsimombasa bets [$0.08]
+Brodholt calls [$0.08]
+** Dealing turn ** [ Qc ]
+bigsimombasa checks
+Brodholt checks
+** Dealing river ** [ Th ]
+bigsimombasa bets [$0.16]
+Brodholt raises [$0.23]
+bigsimombasa folds
+** Summary **
+Brodholt collected [ $0.60 ]
+
+
+#Game No : 504354426
+***** 888poker Hand History for Game 504354426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:53:37
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.67 )
+Seat 4: bigsimombasa ( $1 )
+bigsimombasa posts small blind [$0.01]
+Brodholt posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa folds
+** Summary **
+Brodholt collected [ $0.03 ]
+
+
+#Game No : 504354433
+***** 888poker Hand History for Game 504354433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:53:46
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.68 )
+Seat 4: bigsimombasa ( $1 )
+Brodholt posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Brodholt calls [$0.01]
+bigsimombasa checks
+** Dealing flop ** [ Js, 6s, Ts ]
+bigsimombasa bets [$0.04]
+Brodholt folds
+** Summary **
+bigsimombasa collected [ $0.04 ]
+
+
+#Game No : 504354442
+***** 888poker Hand History for Game 504354442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 06:54:02
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Brodholt ( $0.66 )
+Seat 4: bigsimombasa ( $1.02 )
+bigsimombasa posts small blind [$0.01]
+Brodholt posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa folds
+** Summary **
+Brodholt collected [ $0.03 ]
+
+
+#Game No : 504359406
+***** 888poker Hand History for Game 504359406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 09:10:20
+Table Charallave 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.30 )
+Seat 7: prosperous65 ( $1.64 )
+prosperous65 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+prosperous65 calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ Qh, As, Kd ]
+GARALD84 bets [$0.02]
+prosperous65 calls [$0.02]
+** Dealing turn ** [ Jd ]
+GARALD84 checks
+prosperous65 checks
+** Dealing river ** [ 5s ]
+GARALD84 checks
+prosperous65 checks
+** Summary **
+GARALD84 shows [ 6d, 3h ]
+prosperous65 shows [ Qd, 3d ]
+prosperous65 collected [ $0.08 ]
+
+
+#Game No : 504359427
+***** 888poker Hand History for Game 504359427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 09:10:44
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.26 )
+Seat 7: prosperous65 ( $1.68 )
+GARALD84 posts small blind [$0.01]
+** Dealing down cards **
+prosperous65 folds
+** Summary **
+GARALD84 collected [ $0.01 ]
+
+
+#Game No : 504359429
+***** 888poker Hand History for Game 504359429 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 09:10:47
+Table Charallave 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.26 )
+Seat 4: Badr411 ( $0.80 )
+GARALD84 posts small blind [$0.01]
+Badr411 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+Badr411 raises [$0.16]
+GARALD84 folds
+** Summary **
+Badr411 collected [ $0.04 ]
+
+
+#Game No : 504359444
+***** 888poker Hand History for Game 504359444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 09:11:06
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.24 )
+Seat 4: Badr411 ( $0.82 )
+Badr411 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+Badr411 calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ Qh, Ah, Th ]
+GARALD84 bets [$0.02]
+Badr411 folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 504372085
+***** 888poker Hand History for Game 504372085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 12:41:35
+Table Charallave 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: nN0NAME ( $1.37 )
+Seat 7: ik.strix ( $1.37 )
+ik.strix posts small blind [$0.01]
+nN0NAME posts big blind [$0.02]
+** Dealing down cards **
+ik.strix raises [$0.05]
+nN0NAME calls [$0.04]
+** Dealing flop ** [ 5h, Kd, Qh ]
+nN0NAME checks
+ik.strix bets [$0.09]
+nN0NAME calls [$0.09]
+** Dealing turn ** [ Jc ]
+nN0NAME checks
+ik.strix checks
+** Dealing river ** [ 9h ]
+nN0NAME checks
+ik.strix checks
+** Summary **
+nN0NAME shows [ Qd, Kh ]
+ik.strix mucks [ 9d, Jh ]
+nN0NAME collected [ $0.29 ]
+
+
+#Game No : 504372140
+***** 888poker Hand History for Game 504372140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 12:42:17
+Table Charallave 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: nN0NAME ( $1.51 )
+Seat 7: ik.strix ( $1.22 )
+nN0NAME posts small blind [$0.01]
+** Dealing down cards **
+ik.strix folds
+** Summary **
+nN0NAME collected [ $0.01 ]
+
+

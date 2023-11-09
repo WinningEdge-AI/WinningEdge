@@ -1,0 +1,79 @@
+#Game No : 500147486
+***** 888poker Hand History for Game 500147486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:43:48
+Table Creteil 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bauerharms ( $2.65 )
+Seat 9: Erakkokala ( $1 )
+Bauerharms posts small blind [$0.01]
+Erakkokala posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms calls [$0.01]
+Erakkokala checks
+** Dealing flop ** [ Ad, 6d, 6s ]
+Erakkokala checks
+Bauerharms checks
+** Dealing turn ** [ 4d ]
+Erakkokala bets [$0.03]
+Bauerharms folds
+** Summary **
+Erakkokala collected [ $0.04 ]
+
+
+#Game No : 500147496
+***** 888poker Hand History for Game 500147496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:44:09
+Table Creteil 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Bauerharms ( $2.63 )
+Seat 9: Erakkokala ( $1.02 )
+Erakkokala posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+Erakkokala raises [$0.05]
+Bauerharms calls [$0.04]
+** Dealing flop ** [ Js, Qd, Kh ]
+Bauerharms bets [$0.02]
+Erakkokala calls [$0.02]
+** Dealing turn ** [ 2s ]
+Bauerharms bets [$0.02]
+Erakkokala calls [$0.02]
+** Dealing river ** [ 5d ]
+Bauerharms bets [$0.02]
+Erakkokala calls [$0.02]
+** Summary **
+Bauerharms shows [ Qc, 9s ]
+Erakkokala mucks [ Ad, 4d ]
+Bauerharms collected [ $0.23 ]
+
+
+#Game No : 500147510
+***** 888poker Hand History for Game 500147510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:44:40
+Table Creteil 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bauerharms ( $2.74 )
+Seat 9: Erakkokala ( $1 )
+Bauerharms posts small blind [$0.01]
+Erakkokala posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms calls [$0.01]
+Erakkokala checks
+** Dealing flop ** [ As, 8d, 3d ]
+Erakkokala checks
+Bauerharms bets [$0.02]
+Erakkokala calls [$0.02]
+** Dealing turn ** [ 8h ]
+Erakkokala checks
+Bauerharms bets [$0.02]
+Erakkokala raises [$0.08]
+Bauerharms raises [$2.68]
+Erakkokala folds
+** Summary **
+Bauerharms did not show his hand
+Bauerharms collected [ $0.23 ]
+
+

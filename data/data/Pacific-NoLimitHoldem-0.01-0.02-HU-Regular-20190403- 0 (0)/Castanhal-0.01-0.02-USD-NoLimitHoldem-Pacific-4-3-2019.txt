@@ -1,0 +1,42 @@
+#Game No : 528083869
+***** 888poker Hand History for Game 528083869 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 05:33:31
+Table Castanhal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: nazim00 ( $3.35 )
+Seat 7: atomace80 ( $0.64 )
+atomace80 posts small blind [$0.01]
+nazim00 posts big blind [$0.02]
+** Dealing down cards **
+atomace80 calls [$0.01]
+nazim00 raises [$0.04]
+atomace80 calls [$0.04]
+** Dealing flop ** [ Ah, 3d, 7d ]
+nazim00 bets [$0.06]
+atomace80 calls [$0.06]
+** Dealing turn ** [ 3h ]
+nazim00 checks
+atomace80 bets [$0.12]
+nazim00 folds
+** Summary **
+atomace80 collected [ $0.23 ]
+
+
+#Game No : 528083890
+***** 888poker Hand History for Game 528083890 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 05:34:03
+Table Castanhal 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nazim00 ( $3.23 )
+Seat 7: atomace80 ( $0.75 )
+nazim00 posts small blind [$0.01]
+atomace80 posts big blind [$0.02]
+** Dealing down cards **
+nazim00 raises [$0.05]
+atomace80 folds
+** Summary **
+nazim00 collected [ $0.04 ]
+
+

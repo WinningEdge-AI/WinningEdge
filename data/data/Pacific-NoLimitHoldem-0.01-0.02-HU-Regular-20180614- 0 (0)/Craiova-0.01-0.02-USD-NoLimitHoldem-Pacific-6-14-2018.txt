@@ -1,0 +1,62 @@
+#Game No : 604194204
+***** 888poker Hand History for Game 604194204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 15:11:13
+Table Craiova 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: aleklee6727 ( $2 )
+Seat 7: andreisuba14 ( $0.27 )
+aleklee6727 posts small blind [$0.01]
+andreisuba14 posts big blind [$0.02]
+** Dealing down cards **
+aleklee6727 raises [$0.05]
+andreisuba14 raises [$0.25]
+aleklee6727 calls [$0.21]
+** Dealing flop ** [ Qd, 9d, Td ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 6d ]
+** Summary **
+aleklee6727 shows [ Jd, Ad ]
+andreisuba14 shows [ Tc, Qs ]
+andreisuba14 collected [ $0.51 ]
+
+
+#Game No : 604194235
+***** 888poker Hand History for Game 604194235 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 15:11:47
+Table Craiova 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: aleklee6727 ( $2 )
+Seat 7: andreisuba14 ( $0.51 )
+andreisuba14 posts small blind [$0.01]
+aleklee6727 posts big blind [$0.02]
+** Dealing down cards **
+andreisuba14 folds
+** Summary **
+aleklee6727 collected [ $0.03 ]
+
+
+#Game No : 604194243
+***** 888poker Hand History for Game 604194243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 15:11:54
+Table Craiova 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: aleklee6727 ( $2.01 )
+Seat 7: andreisuba14 ( $0.50 )
+aleklee6727 posts small blind [$0.01]
+andreisuba14 posts big blind [$0.02]
+** Dealing down cards **
+aleklee6727 raises [$0.05]
+andreisuba14 raises [$0.48]
+aleklee6727 calls [$0.44]
+** Dealing flop ** [ 5h, 6s, Ks ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 4d ]
+** Summary **
+aleklee6727 shows [ Ad, 8s ]
+andreisuba14 shows [ Qh, Tc ]
+aleklee6727 collected [ $0.94 ]
+
+

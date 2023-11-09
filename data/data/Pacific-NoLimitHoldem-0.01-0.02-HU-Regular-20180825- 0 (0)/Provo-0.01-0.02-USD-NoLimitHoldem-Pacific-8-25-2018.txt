@@ -1,0 +1,28 @@
+#Game No : 509525999
+***** 888poker Hand History for Game 509525999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 04:51:26
+Table Provo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: zuioOp ( $1.98 )
+Seat 5: GEOjohn14 ( $2.02 )
+zuioOp posts small blind [$0.01]
+GEOjohn14 posts big blind [$0.02]
+** Dealing down cards **
+zuioOp raises [$0.05]
+GEOjohn14 calls [$0.04]
+** Dealing flop ** [ Ad, 3d, 7d ]
+GEOjohn14 checks
+zuioOp bets [$0.06]
+GEOjohn14 calls [$0.06]
+** Dealing turn ** [ Jd ]
+GEOjohn14 checks
+zuioOp bets [$0.16]
+GEOjohn14 calls [$0.16]
+** Dealing river ** [ 9h ]
+GEOjohn14 bets [$0.28]
+zuioOp folds
+** Summary **
+GEOjohn14 collected [ $0.53 ]
+
+

@@ -1,0 +1,441 @@
+#Game No : 526050974
+***** 888poker Hand History for Game 526050974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 17:15:47
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Dodotew ( $1.81 )
+Seat 4: LinuxOrNot ( $1 )
+LinuxOrNot posts small blind [$0.01]
+Dodotew posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot folds
+** Summary **
+Dodotew collected [ $0.03 ]
+
+
+#Game No : 526053605
+***** 888poker Hand History for Game 526053605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:32:38
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: turron3618 ( $1.73 )
+Seat 9: ethansy ( $2.59 )
+ethansy posts small blind [$0.01]
+turron3618 posts big blind [$0.02]
+** Dealing down cards **
+ethansy raises [$0.04]
+turron3618 folds
+** Summary **
+ethansy did not show his hand
+ethansy collected [ $0.04 ]
+
+
+#Game No : 526053613
+***** 888poker Hand History for Game 526053613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:32:52
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: turron3618 ( $1.71 )
+Seat 9: ethansy ( $2.61 )
+turron3618 posts small blind [$0.01]
+ethansy posts big blind [$0.02]
+** Dealing down cards **
+turron3618 calls [$0.01]
+ethansy raises [$0.04]
+turron3618 folds
+** Summary **
+ethansy did not show his hand
+ethansy collected [ $0.04 ]
+
+
+#Game No : 526053622
+***** 888poker Hand History for Game 526053622 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:33:17
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: turron3618 ( $1.69 )
+Seat 9: ethansy ( $2.63 )
+ethansy posts small blind [$0.01]
+turron3618 posts big blind [$0.02]
+** Dealing down cards **
+ethansy folds
+** Summary **
+turron3618 did not show his hand
+turron3618 collected [ $0.03 ]
+
+
+#Game No : 526053625
+***** 888poker Hand History for Game 526053625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:33:25
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: turron3618 ( $1.70 )
+Seat 9: ethansy ( $2.62 )
+turron3618 posts small blind [$0.01]
+ethansy posts big blind [$0.02]
+** Dealing down cards **
+turron3618 raises [$0.05]
+ethansy raises [$0.16]
+turron3618 calls [$0.12]
+** Dealing flop ** [ 3h, Qs, 6d ]
+ethansy checks
+turron3618 bets [$0.36]
+ethansy calls [$0.36]
+** Dealing turn ** [ Jh ]
+ethansy bets [$2.08]
+turron3618 calls [$1.16]
+** Dealing river ** [ 7h ]
+** Summary **
+turron3618 shows [ Qd, Ah ]
+ethansy shows [ Kc, Kh ]
+ethansy collected [ $3.19 ]
+
+
+#Game No : 526053658
+***** 888poker Hand History for Game 526053658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:34:32
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.80 )
+Seat 9: ethansy ( $4.11 )
+ethansy posts small blind [$0.01]
+Ngeordane posts big blind [$0.02]
+** Dealing down cards **
+ethansy raises [$0.04]
+Ngeordane calls [$0.03]
+** Dealing flop ** [ 9s, 9d, Ks ]
+Ngeordane checks
+ethansy bets [$0.06]
+Ngeordane folds
+** Summary **
+ethansy did not show his hand
+ethansy collected [ $0.10 ]
+
+
+#Game No : 526053670
+***** 888poker Hand History for Game 526053670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:34:59
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.75 )
+Seat 9: ethansy ( $4.16 )
+Ngeordane posts small blind [$0.01]
+ethansy posts big blind [$0.02]
+** Dealing down cards **
+Ngeordane raises [$0.03]
+ethansy folds
+** Summary **
+Ngeordane did not show his hand
+Ngeordane collected [ $0.04 ]
+
+
+#Game No : 526053680
+***** 888poker Hand History for Game 526053680 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:35:27
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.77 )
+Seat 9: ethansy ( $4.14 )
+ethansy posts small blind [$0.01]
+Ngeordane posts big blind [$0.02]
+** Dealing down cards **
+ethansy raises [$0.04]
+Ngeordane calls [$0.03]
+** Dealing flop ** [ 8s, 3c, Ac ]
+Ngeordane checks
+ethansy bets [$0.06]
+Ngeordane calls [$0.06]
+** Dealing turn ** [ 2d ]
+Ngeordane checks
+ethansy checks
+** Dealing river ** [ Td ]
+Ngeordane bets [$0.08]
+ethansy calls [$0.08]
+** Summary **
+Ngeordane shows [ Ks, 8c ]
+ethansy mucks [ Qd, 8h ]
+Ngeordane collected [ $0.36 ]
+
+
+#Game No : 526053709
+***** 888poker Hand History for Game 526053709 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:36:14
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.94 )
+Seat 9: ethansy ( $3.95 )
+Ngeordane posts small blind [$0.01]
+ethansy posts big blind [$0.02]
+** Dealing down cards **
+Ngeordane raises [$0.03]
+ethansy folds
+** Summary **
+Ngeordane did not show his hand
+Ngeordane collected [ $0.04 ]
+
+
+#Game No : 526053720
+***** 888poker Hand History for Game 526053720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:36:29
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.96 )
+Seat 9: ethansy ( $3.93 )
+ethansy posts small blind [$0.01]
+Ngeordane posts big blind [$0.02]
+** Dealing down cards **
+ethansy folds
+** Summary **
+Ngeordane did not show his hand
+Ngeordane collected [ $0.03 ]
+
+
+#Game No : 526053725
+***** 888poker Hand History for Game 526053725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:36:36
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.97 )
+Seat 9: ethansy ( $3.92 )
+Ngeordane posts small blind [$0.01]
+ethansy posts big blind [$0.02]
+** Dealing down cards **
+Ngeordane raises [$0.03]
+ethansy calls [$0.02]
+** Dealing flop ** [ 9h, 8s, 4c ]
+ethansy checks
+Ngeordane checks
+** Dealing turn ** [ 4s ]
+ethansy checks
+Ngeordane bets [$0.04]
+ethansy calls [$0.04]
+** Dealing river ** [ Ad ]
+ethansy checks
+Ngeordane bets [$0.16]
+ethansy raises [$0.32]
+Ngeordane calls [$0.16]
+** Summary **
+ethansy shows [ Qh, 4h ]
+Ngeordane mucks [ Ac, Qs ]
+ethansy collected [ $0.75 ]
+
+
+#Game No : 526053779
+***** 888poker Hand History for Game 526053779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:38:26
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.57 )
+Seat 9: ethansy ( $4.27 )
+ethansy posts small blind [$0.01]
+Ngeordane posts big blind [$0.02]
+** Dealing down cards **
+ethansy folds
+** Summary **
+Ngeordane did not show his hand
+Ngeordane collected [ $0.03 ]
+
+
+#Game No : 526053787
+***** 888poker Hand History for Game 526053787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:38:47
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.58 )
+Seat 9: ethansy ( $4.26 )
+Ngeordane posts small blind [$0.01]
+ethansy posts big blind [$0.02]
+** Dealing down cards **
+Ngeordane folds
+** Summary **
+ethansy did not show his hand
+ethansy collected [ $0.03 ]
+
+
+#Game No : 526053792
+***** 888poker Hand History for Game 526053792 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:38:55
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.57 )
+Seat 9: ethansy ( $4.27 )
+ethansy posts small blind [$0.01]
+Ngeordane posts big blind [$0.02]
+** Dealing down cards **
+ethansy folds
+** Summary **
+Ngeordane did not show his hand
+Ngeordane collected [ $0.03 ]
+
+
+#Game No : 526053801
+***** 888poker Hand History for Game 526053801 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:39:14
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.58 )
+Seat 9: ethansy ( $4.26 )
+Ngeordane posts small blind [$0.01]
+ethansy posts big blind [$0.02]
+** Dealing down cards **
+Ngeordane raises [$0.03]
+ethansy calls [$0.02]
+** Dealing flop ** [ Th, 7h, Tc ]
+ethansy checks
+Ngeordane checks
+** Dealing turn ** [ 4c ]
+ethansy bets [$0.05]
+Ngeordane folds
+** Summary **
+ethansy did not show his hand
+ethansy collected [ $0.08 ]
+
+
+#Game No : 526053823
+***** 888poker Hand History for Game 526053823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:39:56
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.54 )
+Seat 9: ethansy ( $4.30 )
+ethansy posts small blind [$0.01]
+Ngeordane posts big blind [$0.02]
+** Dealing down cards **
+ethansy calls [$0.01]
+Ngeordane checks
+** Dealing flop ** [ 9d, 9h, 5d ]
+Ngeordane checks
+ethansy bets [$0.04]
+Ngeordane folds
+** Summary **
+ethansy collected [ $0.04 ]
+
+
+#Game No : 526053841
+***** 888poker Hand History for Game 526053841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:40:31
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ngeordane ( $0.52 )
+Seat 9: ethansy ( $4.32 )
+Ngeordane posts small blind [$0.01]
+ethansy posts big blind [$0.02]
+** Dealing down cards **
+Ngeordane folds
+** Summary **
+ethansy collected [ $0.03 ]
+
+
+#Game No : 526053974
+***** 888poker Hand History for Game 526053974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:44:38
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: GRAA714 ( $0.76 )
+Seat 4: AAB7014 ( $1.59 )
+AAB7014 posts small blind [$0.01]
+GRAA714 posts big blind [$0.02]
+** Dealing down cards **
+AAB7014 raises [$0.05]
+GRAA714 calls [$0.04]
+** Dealing flop ** [ 3s, 9h, Td ]
+GRAA714 checks
+AAB7014 checks
+** Dealing turn ** [ Tc ]
+GRAA714 checks
+AAB7014 bets [$0.04]
+GRAA714 folds
+** Summary **
+AAB7014 collected [ $0.12 ]
+
+
+#Game No : 526053996
+***** 888poker Hand History for Game 526053996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:45:17
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: GRAA714 ( $0.70 )
+Seat 4: AAB7014 ( $1.65 )
+GRAA714 posts small blind [$0.01]
+AAB7014 posts big blind [$0.02]
+** Dealing down cards **
+GRAA714 folds
+** Summary **
+AAB7014 collected [ $0.03 ]
+
+
+#Game No : 526054241
+***** 888poker Hand History for Game 526054241 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 18:51:57
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JPER88 ( $1.03 )
+Seat 4: AAB7014 ( $2.06 )
+JPER88 posts small blind [$0.01]
+AAB7014 posts big blind [$0.02]
+** Dealing down cards **
+JPER88 calls [$0.01]
+AAB7014 checks
+** Dealing flop ** [ 2s, 8d, 8s ]
+AAB7014 checks
+JPER88 bets [$0.04]
+AAB7014 folds
+** Summary **
+JPER88 collected [ $0.04 ]
+
+
+#Game No : 526055546
+***** 888poker Hand History for Game 526055546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 19:26:44
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vbshka1 ( $1.81 )
+Seat 4: AAB7014 ( $2.44 )
+vbshka1 posts small blind [$0.01]
+AAB7014 posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 raises [$0.05]
+AAB7014 raises [$0.16]
+vbshka1 folds
+** Summary **
+AAB7014 did not show his hand
+AAB7014 collected [ $0.12 ]
+
+
+#Game No : 526055567
+***** 888poker Hand History for Game 526055567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 19:27:15
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vbshka1 ( $1.75 )
+Seat 4: AAB7014 ( $2.50 )
+AAB7014 posts small blind [$0.01]
+** Dealing down cards **
+vbshka1 folds
+** Summary **
+AAB7014 did not show his hand
+AAB7014 collected [ $0.01 ]
+
+

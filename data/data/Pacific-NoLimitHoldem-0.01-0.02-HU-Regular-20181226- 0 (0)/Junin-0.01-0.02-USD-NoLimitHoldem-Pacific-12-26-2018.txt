@@ -1,0 +1,61 @@
+#Game No : 519804810
+***** 888poker Hand History for Game 519804810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:03:01
+Table Junin 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dybando ( $1.36 )
+Seat 6: a1plumber ( $2.07 )
+a1plumber posts small blind [$0.01]
+dybando posts big blind [$0.02]
+** Dealing down cards **
+a1plumber folds
+** Summary **
+dybando collected [ $0.03 ]
+
+
+#Game No : 519804821
+***** 888poker Hand History for Game 519804821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:03:08
+Table Junin 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dybando ( $1.37 )
+Seat 6: a1plumber ( $2.06 )
+dybando posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+dybando calls [$0.01]
+a1plumber checks
+** Dealing flop ** [ Ah, 6d, Th ]
+a1plumber checks
+dybando bets [$0.04]
+a1plumber folds
+** Summary **
+dybando collected [ $0.04 ]
+
+
+#Game No : 519804861
+***** 888poker Hand History for Game 519804861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:03:33
+Table Junin 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dybando ( $1.39 )
+Seat 6: a1plumber ( $2.04 )
+a1plumber posts small blind [$0.01]
+dybando posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+dybando checks
+** Dealing flop ** [ 5h, 3s, Kc ]
+dybando checks
+a1plumber checks
+** Dealing turn ** [ 2s ]
+dybando checks
+a1plumber bets [$0.02]
+dybando folds
+** Summary **
+a1plumber collected [ $0.04 ]
+
+

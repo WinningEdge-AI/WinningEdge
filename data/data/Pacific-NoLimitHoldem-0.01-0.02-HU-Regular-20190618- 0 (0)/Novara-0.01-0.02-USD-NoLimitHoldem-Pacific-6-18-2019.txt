@@ -1,0 +1,57 @@
+#Game No : 1274626844
+***** 888poker Hand History for Game 1274626844 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2019 07:57:27
+Table Novara 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JQCAT ( $1.98 )
+Seat 2: Jimborose38 ( $0.82 )
+JQCAT posts small blind [$0.01]
+Jimborose38 posts big blind [$0.02]
+** Dealing down cards **
+JQCAT calls [$0.01]
+Jimborose38 checks
+** Dealing flop ** [ 9h, 7c, Qh ]
+Jimborose38 checks
+JQCAT checks
+** Dealing turn ** [ Js ]
+Jimborose38 checks
+JQCAT checks
+** Dealing river ** [ Qs ]
+Jimborose38 checks
+JQCAT checks
+** Summary **
+Jimborose38 shows [ 6s, 3c ]
+JQCAT shows [ Ac, 5c ]
+JQCAT collected [ $0.04 ]
+
+
+#Game No : 1274626897
+***** 888poker Hand History for Game 1274626897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2019 07:57:39
+Table Novara 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: JQCAT ( $2 )
+Seat 2: Jimborose38 ( $0.80 )
+Jimborose38 posts small blind [$0.01]
+JQCAT posts big blind [$0.02]
+** Dealing down cards **
+Jimborose38 calls [$0.01]
+JQCAT checks
+** Dealing flop ** [ 5c, Js, Td ]
+JQCAT checks
+Jimborose38 checks
+** Dealing turn ** [ Kh ]
+JQCAT checks
+Jimborose38 checks
+** Dealing river ** [ As ]
+JQCAT checks
+Jimborose38 checks
+** Summary **
+JQCAT shows [ 2d, 6s ]
+Jimborose38 shows [ 3c, 6d ]
+Jimborose38 collected [ $0.02 ]
+JQCAT collected [ $0.02 ]
+
+

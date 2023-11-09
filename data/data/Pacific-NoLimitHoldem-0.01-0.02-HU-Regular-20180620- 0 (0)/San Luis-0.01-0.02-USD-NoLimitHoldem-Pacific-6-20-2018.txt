@@ -1,0 +1,481 @@
+#Game No : 503811326
+***** 888poker Hand History for Game 503811326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 17:16:13
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Be3yN4uk19 ( $4.61 )
+Seat 4: simonerauch ( $1.90 )
+Be3yN4uk19 posts small blind [$0.01]
+simonerauch posts big blind [$0.02]
+** Dealing down cards **
+Be3yN4uk19 folds
+** Summary **
+simonerauch collected [ $0.03 ]
+
+
+#Game No : 1185953972
+***** 888poker Hand History for Game 1185953972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 04:42:11
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Churekovo ( $1.91 )
+Seat 9: Hype65 ( $1.04 )
+Churekovo posts small blind [$0.01]
+Hype65 posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+Hype65 calls [$0.02]
+** Dealing flop ** [ 6d, 9c, Kh ]
+Hype65 checks
+Churekovo bets [$0.04]
+Hype65 folds
+** Summary **
+Churekovo did not show his hand
+Churekovo collected [ $0.08 ]
+
+
+#Game No : 1185954065
+***** 888poker Hand History for Game 1185954065 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 04:42:32
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Churekovo ( $1.95 )
+Seat 9: Hype65 ( $1 )
+Hype65 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+Hype65 folds
+** Summary **
+Churekovo did not show his hand
+Churekovo collected [ $0.03 ]
+
+
+#Game No : 1185954085
+***** 888poker Hand History for Game 1185954085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 04:42:38
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Churekovo ( $1.96 )
+Seat 9: Hype65 ( $0.99 )
+Churekovo posts small blind [$0.01]
+** Dealing down cards **
+Hype65 folds
+** Summary **
+Churekovo did not show his hand
+Churekovo collected [ $0.01 ]
+
+
+#Game No : 1185954715
+***** 888poker Hand History for Game 1185954715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 04:45:12
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mac1driver ( $1 )
+Seat 7: Churekovo ( $1.96 )
+mac1driver posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+mac1driver calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ 8s, 7d, Qd ]
+Churekovo bets [$0.02]
+mac1driver calls [$0.02]
+** Dealing turn ** [ Ah ]
+Churekovo checks
+mac1driver checks
+** Dealing river ** [ 6h ]
+Churekovo checks
+mac1driver bets [$0.04]
+Churekovo folds
+** Summary **
+mac1driver collected [ $0.08 ]
+
+
+#Game No : 1185954858
+***** 888poker Hand History for Game 1185954858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 04:45:47
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: mac1driver ( $1.04 )
+Seat 7: Churekovo ( $1.92 )
+Churekovo posts small blind [$0.01]
+mac1driver posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+mac1driver calls [$0.02]
+** Dealing flop ** [ 7h, 5d, 9d ]
+mac1driver checks
+Churekovo bets [$0.04]
+mac1driver calls [$0.04]
+** Dealing turn ** [ 5c ]
+mac1driver checks
+Churekovo checks
+** Dealing river ** [ 2h ]
+mac1driver bets [$0.02]
+Churekovo raises [$0.22]
+mac1driver calls [$0.20]
+** Summary **
+Churekovo shows [ 2c, 2s ]
+mac1driver mucks [ 8c, 9c ]
+Churekovo collected [ $0.57 ]
+
+
+#Game No : 1185963486
+***** 888poker Hand History for Game 1185963486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:22:39
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $1.13 )
+Seat 9: Yancco ( $0.72 )
+BOT11735 posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+BOT11735 folds
+** Summary **
+Yancco did not show his hand
+Yancco collected [ $0.03 ]
+
+
+#Game No : 1185963524
+***** 888poker Hand History for Game 1185963524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:22:49
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $1.12 )
+Seat 9: Yancco ( $0.73 )
+Yancco posts small blind [$0.01]
+BOT11735 posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+BOT11735 did not show his hand
+BOT11735 collected [ $0.03 ]
+
+
+#Game No : 1185963542
+***** 888poker Hand History for Game 1185963542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:22:54
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $1.13 )
+Seat 9: Yancco ( $0.72 )
+BOT11735 posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+BOT11735 folds
+** Summary **
+Yancco did not show his hand
+Yancco collected [ $0.03 ]
+
+
+#Game No : 1185963577
+***** 888poker Hand History for Game 1185963577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:23:05
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $1.12 )
+Seat 9: Yancco ( $0.73 )
+Yancco posts small blind [$0.01]
+BOT11735 posts big blind [$0.02]
+** Dealing down cards **
+Yancco raises [$0.05]
+BOT11735 folds
+** Summary **
+Yancco did not show his hand
+Yancco collected [ $0.04 ]
+
+
+#Game No : 1185963606
+***** 888poker Hand History for Game 1185963606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:23:12
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $1.10 )
+Seat 9: Yancco ( $0.75 )
+BOT11735 posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+BOT11735 raises [$0.03]
+Yancco calls [$0.02]
+** Dealing flop ** [ 7h, 4c, 5h ]
+Yancco bets [$0.08]
+BOT11735 calls [$0.08]
+** Dealing turn ** [ Td ]
+Yancco bets [$0.12]
+BOT11735 folds
+** Summary **
+Yancco did not show his hand
+Yancco collected [ $0.23 ]
+
+
+#Game No : 1185963794
+***** 888poker Hand History for Game 1185963794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:24:01
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $0.98 )
+Seat 9: Yancco ( $0.86 )
+Yancco posts small blind [$0.01]
+BOT11735 posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+BOT11735 did not show his hand
+BOT11735 collected [ $0.03 ]
+
+
+#Game No : 1185963823
+***** 888poker Hand History for Game 1185963823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:24:10
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $0.99 )
+Seat 9: Yancco ( $0.85 )
+BOT11735 posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+BOT11735 folds
+** Summary **
+Yancco did not show his hand
+Yancco collected [ $0.03 ]
+
+
+#Game No : 1185963840
+***** 888poker Hand History for Game 1185963840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:24:15
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $0.98 )
+Seat 9: Yancco ( $0.86 )
+Yancco posts small blind [$0.01]
+BOT11735 posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+BOT11735 did not show his hand
+BOT11735 collected [ $0.03 ]
+
+
+#Game No : 1185963901
+***** 888poker Hand History for Game 1185963901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:24:31
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $0.99 )
+Seat 9: Yancco ( $0.85 )
+BOT11735 posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+BOT11735 folds
+** Summary **
+Yancco did not show his hand
+Yancco collected [ $0.03 ]
+
+
+#Game No : 1185963922
+***** 888poker Hand History for Game 1185963922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:24:36
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: BOT11735 ( $0.98 )
+Seat 9: Yancco ( $0.86 )
+Yancco posts small blind [$0.01]
+BOT11735 posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+BOT11735 did not show his hand
+BOT11735 collected [ $0.03 ]
+
+
+#Game No : 1185969606
+***** 888poker Hand History for Game 1185969606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:48:35
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Hydra2 ( $0.91 )
+Seat 6: 888kaithe ( $1 )
+Hydra2 posts small blind [$0.01]
+888kaithe posts big blind [$0.02]
+** Dealing down cards **
+Hydra2 calls [$0.01]
+888kaithe checks
+** Dealing flop ** [ 2c, 4s, 3c ]
+888kaithe bets [$0.02]
+Hydra2 calls [$0.02]
+** Dealing turn ** [ Ad ]
+888kaithe bets [$0.04]
+Hydra2 raises [$0.08]
+888kaithe raises [$0.28]
+Hydra2 calls [$0.24]
+** Dealing river ** [ 3s ]
+888kaithe bets [$0.64]
+Hydra2 folds
+** Summary **
+888kaithe collected [ $0.68 ]
+
+
+#Game No : 1185969800
+***** 888poker Hand History for Game 1185969800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 05:49:19
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Hydra2 ( $0.55 )
+Seat 6: 888kaithe ( $1.32 )
+888kaithe posts small blind [$0.01]
+Hydra2 posts big blind [$0.02]
+** Dealing down cards **
+888kaithe calls [$0.01]
+Hydra2 checks
+** Dealing flop ** [ Th, 4h, 9s ]
+Hydra2 checks
+888kaithe bets [$0.02]
+Hydra2 folds
+** Summary **
+888kaithe collected [ $0.04 ]
+
+
+#Game No : 1185978191
+***** 888poker Hand History for Game 1185978191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 06:25:15
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: g3neee ( $1.18 )
+Seat 4: AldanShilDim ( $1.87 )
+AldanShilDim posts small blind [$0.01]
+g3neee posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+g3neee collected [ $0.03 ]
+
+
+#Game No : 1185978482
+***** 888poker Hand History for Game 1185978482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 06:26:33
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: g3neee ( $1.19 )
+Seat 2: MashaLoba ( $1 )
+MashaLoba posts small blind [$0.01]
+g3neee posts big blind [$0.02]
+** Dealing down cards **
+MashaLoba raises [$0.05]
+g3neee raises [$0.16]
+MashaLoba raises [$0.94]
+g3neee folds
+** Summary **
+MashaLoba collected [ $0.36 ]
+
+
+#Game No : 1186000889
+***** 888poker Hand History for Game 1186000889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 07:55:31
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: WhiskyBiz_NI ( $2.29 )
+Seat 2: Karamboza ( $1 )
+Karamboza posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+Karamboza raises [$0.05]
+WhiskyBiz_NI raises [$0.16]
+Karamboza folds
+** Summary **
+WhiskyBiz_NI collected [ $0.12 ]
+
+
+#Game No : 1186000988
+***** 888poker Hand History for Game 1186000988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 07:55:51
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WhiskyBiz_NI ( $2.35 )
+Seat 2: Karamboza ( $1 )
+WhiskyBiz_NI posts small blind [$0.01]
+Karamboza posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.05]
+Karamboza calls [$0.04]
+** Dealing flop ** [ 2s, Ks, 8d ]
+Karamboza checks
+WhiskyBiz_NI bets [$0.08]
+Karamboza raises [$0.26]
+WhiskyBiz_NI folds
+** Summary **
+Karamboza collected [ $0.27 ]
+
+
+#Game No : 1186001105
+***** 888poker Hand History for Game 1186001105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 07:56:17
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: WhiskyBiz_NI ( $2.21 )
+Seat 2: Karamboza ( $1.13 )
+Karamboza posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+Karamboza raises [$0.05]
+WhiskyBiz_NI folds
+** Summary **
+Karamboza collected [ $0.04 ]
+
+
+#Game No : 1186001192
+***** 888poker Hand History for Game 1186001192 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 07:56:35
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Karamboza ( $1.14 )
+Seat 4: AGALS713 ( $1.01 )
+Karamboza posts small blind [$0.01]
+AGALS713 posts big blind [$0.02]
+** Dealing down cards **
+Karamboza folds
+** Summary **
+AGALS713 collected [ $0.03 ]
+
+
+#Game No : 1186001244
+***** 888poker Hand History for Game 1186001244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 07:56:44
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Karamboza ( $1.13 )
+Seat 4: AGALS713 ( $1.02 )
+AGALS713 posts small blind [$0.01]
+Karamboza posts big blind [$0.02]
+** Dealing down cards **
+AGALS713 raises [$0.05]
+Karamboza folds
+** Summary **
+AGALS713 did not show his hand
+AGALS713 collected [ $0.04 ]
+
+

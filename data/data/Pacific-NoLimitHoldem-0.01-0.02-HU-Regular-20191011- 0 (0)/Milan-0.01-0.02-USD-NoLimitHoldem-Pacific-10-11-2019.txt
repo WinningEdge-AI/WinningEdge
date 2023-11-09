@@ -1,0 +1,849 @@
+#Game No : 1301645100
+***** 888poker Hand History for Game 1301645100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2019 22:12:53
+Table Milan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Lex_Strong ( $2.09 )
+Seat 5: Sensere ( $3.17 )
+Lex_Strong posts small blind [$0.01]
+Sensere posts big blind [$0.02]
+** Dealing down cards **
+Lex_Strong calls [$0.01]
+Sensere raises [$0.02]
+Lex_Strong calls [$0.02]
+** Dealing flop ** [ 2c, Qs, As ]
+Sensere bets [$0.05]
+Lex_Strong calls [$0.05]
+** Dealing turn ** [ Kh ]
+Sensere checks
+Lex_Strong checks
+** Dealing river ** [ 8c ]
+Sensere bets [$0.10]
+Lex_Strong calls [$0.10]
+** Summary **
+Sensere shows [ Qc, Js ]
+Lex_Strong mucks [ Th, Tc ]
+Sensere collected [ $0.36 ]
+
+
+#Game No : 1301645147
+***** 888poker Hand History for Game 1301645147 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2019 22:13:07
+Table Milan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Lex_Strong ( $2 )
+Seat 5: Sensere ( $3.34 )
+Sensere posts small blind [$0.01]
+Lex_Strong posts big blind [$0.02]
+** Dealing down cards **
+Sensere raises [$0.03]
+Lex_Strong calls [$0.02]
+** Dealing flop ** [ Qc, 7c, 6c ]
+Lex_Strong bets [$0.05]
+Sensere folds
+** Summary **
+Lex_Strong did not show his hand
+Lex_Strong collected [ $0.08 ]
+
+
+#Game No : 1301659131
+***** 888poker Hand History for Game 1301659131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:19:36
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: EastVanKid ( $0.77 )
+Seat 9: pokerwil14 ( $2.26 )
+EastVanKid posts small blind [$0.01]
+pokerwil14 posts big blind [$0.02]
+** Dealing down cards **
+EastVanKid raises [$0.05]
+pokerwil14 folds
+** Summary **
+EastVanKid did not show his hand
+EastVanKid collected [ $0.04 ]
+
+
+#Game No : 1301659148
+***** 888poker Hand History for Game 1301659148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:19:46
+Table Milan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: EastVanKid ( $0.79 )
+Seat 9: pokerwil14 ( $2.24 )
+pokerwil14 posts small blind [$0.01]
+EastVanKid posts big blind [$0.02]
+** Dealing down cards **
+pokerwil14 calls [$0.01]
+EastVanKid checks
+** Dealing flop ** [ Qh, Tc, 7h ]
+EastVanKid bets [$0.02]
+pokerwil14 folds
+** Summary **
+EastVanKid did not show his hand
+EastVanKid collected [ $0.04 ]
+
+
+#Game No : 1301659168
+***** 888poker Hand History for Game 1301659168 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:20:02
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: EastVanKid ( $0.81 )
+Seat 9: pokerwil14 ( $2.22 )
+EastVanKid posts small blind [$0.01]
+pokerwil14 posts big blind [$0.02]
+** Dealing down cards **
+EastVanKid raises [$0.05]
+pokerwil14 folds
+** Summary **
+EastVanKid did not show his hand
+EastVanKid collected [ $0.04 ]
+
+
+#Game No : 1301659554
+***** 888poker Hand History for Game 1301659554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:24:19
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.40 )
+Seat 6: artina15 ( $1.40 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ 3s, 6d, As ]
+Roid12 bets [$0.02]
+artina15 calls [$0.02]
+** Dealing turn ** [ 2s ]
+Roid12 checks
+artina15 bets [$0.02]
+Roid12 folds
+** Summary **
+artina15 did not show his hand
+artina15 collected [ $0.08 ]
+
+
+#Game No : 1301659591
+***** 888poker Hand History for Game 1301659591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:24:39
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.36 )
+Seat 6: artina15 ( $1.44 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ 4d, Qd, 7c ]
+artina15 checks
+Roid12 checks
+** Dealing turn ** [ 6s ]
+artina15 checks
+Roid12 checks
+** Dealing river ** [ 8s ]
+artina15 checks
+Roid12 checks
+** Summary **
+artina15 shows [ Ac, Jc ]
+Roid12 mucks [ 3c, 2s ]
+artina15 collected [ $0.04 ]
+
+
+#Game No : 1301659624
+***** 888poker Hand History for Game 1301659624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:24:58
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.34 )
+Seat 6: artina15 ( $1.46 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ 7d, 4c, Qc ]
+Roid12 checks
+artina15 checks
+** Dealing turn ** [ 2h ]
+Roid12 checks
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Dealing river ** [ Js ]
+Roid12 checks
+artina15 bets [$0.02]
+Roid12 folds
+** Summary **
+artina15 did not show his hand
+artina15 collected [ $0.08 ]
+
+
+#Game No : 1301659652
+***** 888poker Hand History for Game 1301659652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:25:21
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.30 )
+Seat 6: artina15 ( $1.50 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ 7h, Ad, 7d ]
+artina15 checks
+Roid12 checks
+** Dealing turn ** [ Qh ]
+artina15 checks
+Roid12 checks
+** Dealing river ** [ Ts ]
+artina15 checks
+Roid12 checks
+** Summary **
+artina15 shows [ 6h, 9s ]
+Roid12 shows [ Kh, 6s ]
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301659678
+***** 888poker Hand History for Game 1301659678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:25:39
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.32 )
+Seat 6: artina15 ( $1.48 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ Qs, 4c, 8d ]
+Roid12 bets [$0.02]
+artina15 calls [$0.02]
+** Dealing turn ** [ 6s ]
+Roid12 bets [$0.02]
+artina15 calls [$0.02]
+** Dealing river ** [ 5h ]
+Roid12 checks
+artina15 checks
+** Summary **
+Roid12 shows [ 8s, 2d ]
+artina15 shows [ Qd, 9s ]
+artina15 collected [ $0.12 ]
+
+
+#Game No : 1301659715
+***** 888poker Hand History for Game 1301659715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:26:03
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.26 )
+Seat 6: artina15 ( $1.54 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ Qh, 4d, 5c ]
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Dealing turn ** [ 2c ]
+artina15 checks
+Roid12 checks
+** Dealing river ** [ Jc ]
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Summary **
+artina15 shows [ 5h, Js ]
+Roid12 mucks [ 6h, 5d ]
+artina15 collected [ $0.12 ]
+
+
+#Game No : 1301659745
+***** 888poker Hand History for Game 1301659745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:26:24
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.20 )
+Seat 6: artina15 ( $1.60 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ 4d, 9h, 2d ]
+Roid12 checks
+artina15 checks
+** Dealing turn ** [ Qs ]
+Roid12 checks
+artina15 checks
+** Dealing river ** [ Ac ]
+Roid12 bets [$0.02]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301659783
+***** 888poker Hand History for Game 1301659783 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:26:41
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.22 )
+Seat 6: artina15 ( $1.58 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ 3c, Jh, 8c ]
+artina15 checks
+Roid12 checks
+** Dealing turn ** [ Ks ]
+artina15 checks
+Roid12 checks
+** Dealing river ** [ 3h ]
+artina15 bets [$0.02]
+Roid12 folds
+** Summary **
+artina15 did not show his hand
+artina15 collected [ $0.04 ]
+
+
+#Game No : 1301659817
+***** 888poker Hand History for Game 1301659817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:26:58
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.20 )
+Seat 6: artina15 ( $1.60 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ 2s, Qh, 7h ]
+Roid12 checks
+artina15 checks
+** Dealing turn ** [ 6s ]
+Roid12 checks
+artina15 checks
+** Dealing river ** [ 8c ]
+Roid12 checks
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Summary **
+artina15 shows [ 8s, 9s ]
+Roid12 mucks [ Ad, Jd ]
+artina15 collected [ $0.08 ]
+
+
+#Game No : 1301659852
+***** 888poker Hand History for Game 1301659852 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:27:19
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.16 )
+Seat 6: artina15 ( $1.64 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ 6h, 3d, 6s ]
+artina15 checks
+Roid12 checks
+** Dealing turn ** [ Qd ]
+artina15 checks
+Roid12 checks
+** Dealing river ** [ Qs ]
+artina15 checks
+Roid12 checks
+** Summary **
+artina15 shows [ 2d, 9d ]
+Roid12 shows [ 8s, Th ]
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301659879
+***** 888poker Hand History for Game 1301659879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:27:37
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.18 )
+Seat 6: artina15 ( $1.62 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ Qs, 3h, 9d ]
+Roid12 bets [$0.02]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301659899
+***** 888poker Hand History for Game 1301659899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:27:48
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.20 )
+Seat 6: artina15 ( $1.60 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ 5s, 3d, 3s ]
+artina15 checks
+Roid12 bets [$0.02]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301659921
+***** 888poker Hand History for Game 1301659921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:28:01
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.22 )
+Seat 6: artina15 ( $1.58 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ 3c, 7s, 4d ]
+Roid12 checks
+artina15 checks
+** Dealing turn ** [ Ac ]
+Roid12 checks
+artina15 checks
+** Dealing river ** [ Kh ]
+Roid12 checks
+artina15 bets [$0.02]
+Roid12 folds
+** Summary **
+artina15 did not show his hand
+artina15 collected [ $0.04 ]
+
+
+#Game No : 1301659956
+***** 888poker Hand History for Game 1301659956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:28:20
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.20 )
+Seat 6: artina15 ( $1.60 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 raises [$0.03]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301659974
+***** 888poker Hand History for Game 1301659974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:28:28
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.22 )
+Seat 6: artina15 ( $1.58 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.03 ]
+
+
+#Game No : 1301659986
+***** 888poker Hand History for Game 1301659986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:28:33
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.23 )
+Seat 6: artina15 ( $1.57 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 raises [$0.03]
+artina15 calls [$0.02]
+** Dealing flop ** [ 6c, Ks, 9d ]
+artina15 checks
+Roid12 checks
+** Dealing turn ** [ Td ]
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Dealing river ** [ 3h ]
+artina15 checks
+Roid12 bets [$0.03]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.12 ]
+
+
+#Game No : 1301660019
+***** 888poker Hand History for Game 1301660019 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:28:57
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.29 )
+Seat 6: artina15 ( $1.51 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ Js, 9c, 9d ]
+Roid12 checks
+artina15 checks
+** Dealing turn ** [ 5s ]
+Roid12 checks
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Dealing river ** [ 7d ]
+Roid12 checks
+artina15 bets [$0.05]
+Roid12 folds
+** Summary **
+artina15 did not show his hand
+artina15 collected [ $0.08 ]
+
+
+#Game No : 1301660052
+***** 888poker Hand History for Game 1301660052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:29:19
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.25 )
+Seat 6: artina15 ( $1.55 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ 2c, 6s, Qs ]
+artina15 checks
+Roid12 bets [$0.02]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301660075
+***** 888poker Hand History for Game 1301660075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:29:32
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.27 )
+Seat 6: artina15 ( $1.53 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ 4h, 2h, Qh ]
+Roid12 checks
+artina15 checks
+** Dealing turn ** [ Ad ]
+Roid12 bets [$0.02]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301660104
+***** 888poker Hand History for Game 1301660104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:29:48
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.29 )
+Seat 6: artina15 ( $1.51 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ Ts, Tc, 9c ]
+artina15 checks
+Roid12 bets [$0.02]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301660124
+***** 888poker Hand History for Game 1301660124 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:30:00
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.31 )
+Seat 6: artina15 ( $1.49 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ 3s, Ac, Jd ]
+Roid12 bets [$0.02]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301660148
+***** 888poker Hand History for Game 1301660148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:30:13
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.33 )
+Seat 6: artina15 ( $1.47 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ 5d, 8h, 9h ]
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Dealing turn ** [ As ]
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Dealing river ** [ 7c ]
+artina15 checks
+Roid12 bets [$0.03]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.12 ]
+
+
+#Game No : 1301660189
+***** 888poker Hand History for Game 1301660189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:30:36
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.39 )
+Seat 6: artina15 ( $1.41 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.03 ]
+
+
+#Game No : 1301660197
+***** 888poker Hand History for Game 1301660197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:30:42
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.40 )
+Seat 6: artina15 ( $1.40 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ Kc, 5d, Qs ]
+artina15 checks
+Roid12 checks
+** Dealing turn ** [ Ts ]
+artina15 checks
+Roid12 checks
+** Dealing river ** [ 2d ]
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Summary **
+artina15 shows [ Th, 9h ]
+Roid12 mucks [ 2c, 7c ]
+artina15 collected [ $0.08 ]
+
+
+#Game No : 1301660226
+***** 888poker Hand History for Game 1301660226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:31:01
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.36 )
+Seat 6: artina15 ( $1.44 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.03 ]
+
+
+#Game No : 1301660239
+***** 888poker Hand History for Game 1301660239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:31:06
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.37 )
+Seat 6: artina15 ( $1.43 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ Qs, 3d, 5c ]
+artina15 checks
+Roid12 checks
+** Dealing turn ** [ 5d ]
+artina15 checks
+Roid12 checks
+** Dealing river ** [ 6h ]
+artina15 checks
+Roid12 bets [$0.02]
+artina15 folds
+** Summary **
+Roid12 did not show his hand
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301660269
+***** 888poker Hand History for Game 1301660269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:31:23
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.39 )
+Seat 6: artina15 ( $1.41 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ Ah, 6c, Ad ]
+Roid12 checks
+artina15 bets [$0.02]
+Roid12 folds
+** Summary **
+artina15 did not show his hand
+artina15 collected [ $0.04 ]
+
+
+#Game No : 1301660295
+***** 888poker Hand History for Game 1301660295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:31:37
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.37 )
+Seat 6: artina15 ( $1.43 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ Ks, 2h, 2d ]
+artina15 bets [$0.02]
+Roid12 calls [$0.02]
+** Dealing turn ** [ Kd ]
+artina15 bets [$0.02]
+Roid12 folds
+** Summary **
+artina15 did not show his hand
+artina15 collected [ $0.08 ]
+
+
+#Game No : 1301660324
+***** 888poker Hand History for Game 1301660324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:31:53
+Table Milan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.33 )
+Seat 6: artina15 ( $1.47 )
+artina15 posts small blind [$0.01]
+Roid12 posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Roid12 checks
+** Dealing flop ** [ Jd, 5c, 6c ]
+Roid12 checks
+artina15 checks
+** Dealing turn ** [ 9d ]
+Roid12 checks
+artina15 checks
+** Dealing river ** [ Kd ]
+Roid12 checks
+artina15 checks
+** Summary **
+Roid12 shows [ Ad, 8c ]
+artina15 mucks [ Ac, 4h ]
+Roid12 collected [ $0.04 ]
+
+
+#Game No : 1301660354
+***** 888poker Hand History for Game 1301660354 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2019 01:32:14
+Table Milan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Roid12 ( $1.35 )
+Seat 6: artina15 ( $1.45 )
+Roid12 posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Roid12 calls [$0.01]
+artina15 checks
+** Dealing flop ** [ Ah, 8h, 5h ]
+artina15 checks
+Roid12 bets [$0.02]
+artina15 folds
+** Summary **
+Roid12 collected [ $0.04 ]
+
+

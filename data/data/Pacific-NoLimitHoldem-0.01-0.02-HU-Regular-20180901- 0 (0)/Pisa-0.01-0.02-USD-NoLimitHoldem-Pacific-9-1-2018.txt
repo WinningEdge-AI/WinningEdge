@@ -1,0 +1,80 @@
+#Game No : 501746204
+***** 888poker Hand History for Game 501746204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 05:07:38
+Table Pisa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Medmal1404 ( $1.90 )
+Seat 7: xxxkasyanxx1 ( $0.98 )
+xxxkasyanxx1 posts small blind [$0.01]
+Medmal1404 posts big blind [$0.02]
+** Dealing down cards **
+xxxkasyanxx1 raises [$0.04]
+Medmal1404 calls [$0.03]
+** Dealing flop ** [ 2s, Jc, 6h ]
+Medmal1404 checks
+xxxkasyanxx1 checks
+** Dealing turn ** [ Qc ]
+Medmal1404 bets [$0.02]
+xxxkasyanxx1 folds
+** Summary **
+Medmal1404 did not show his hand
+Medmal1404 collected [ $0.10 ]
+
+
+#Game No : 501746211
+***** 888poker Hand History for Game 501746211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 05:07:57
+Table Pisa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Medmal1404 ( $1.95 )
+Seat 7: xxxkasyanxx1 ( $0.93 )
+Medmal1404 posts small blind [$0.01]
+xxxkasyanxx1 posts big blind [$0.02]
+** Dealing down cards **
+Medmal1404 calls [$0.01]
+xxxkasyanxx1 checks
+** Dealing flop ** [ Ac, Kd, Tc ]
+xxxkasyanxx1 checks
+Medmal1404 checks
+** Dealing turn ** [ Jh ]
+xxxkasyanxx1 checks
+Medmal1404 bets [$0.02]
+xxxkasyanxx1 calls [$0.02]
+** Dealing river ** [ 4s ]
+xxxkasyanxx1 checks
+Medmal1404 bets [$0.08]
+xxxkasyanxx1 folds
+** Summary **
+Medmal1404 collected [ $0.08 ]
+
+
+#Game No : 501747532
+***** 888poker Hand History for Game 501747532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 05:34:58
+Table Pisa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: NikolayPale ( $0.77 )
+Seat 9: zay76 ( $0.98 )
+zay76 posts small blind [$0.01]
+NikolayPale posts big blind [$0.02]
+** Dealing down cards **
+zay76 raises [$0.04]
+NikolayPale calls [$0.03]
+** Dealing flop ** [ Qs, 6h, 6d ]
+zay76 bets [$0.08]
+NikolayPale calls [$0.08]
+** Dealing turn ** [ 5s ]
+zay76 checks
+NikolayPale checks
+** Dealing river ** [ 9s ]
+zay76 checks
+NikolayPale bets [$0.13]
+zay76 folds
+** Summary **
+NikolayPale did not show his hand
+NikolayPale collected [ $0.25 ]
+
+

@@ -1,0 +1,138 @@
+#Game No : 523583567
+***** 888poker Hand History for Game 523583567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 18:23:51
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Iurieudachi ( $1.72 )
+Seat 2: VictimVIP ( $4.58 )
+Iurieudachi posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+Iurieudachi calls [$0.01]
+VictimVIP checks
+** Dealing flop ** [ Qd, Td, Jh ]
+VictimVIP checks
+Iurieudachi checks
+** Dealing turn ** [ 6s ]
+VictimVIP bets [$0.04]
+Iurieudachi folds
+** Summary **
+VictimVIP did not show his hand
+VictimVIP collected [ $0.04 ]
+
+
+#Game No : 523583580
+***** 888poker Hand History for Game 523583580 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 18:24:10
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Iurieudachi ( $1.70 )
+Seat 2: VictimVIP ( $4.60 )
+VictimVIP posts small blind [$0.01]
+Iurieudachi posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.04]
+Iurieudachi calls [$0.03]
+** Dealing flop ** [ Kh, 6s, Tc ]
+Iurieudachi checks
+VictimVIP bets [$0.05]
+Iurieudachi calls [$0.05]
+** Dealing turn ** [ 6h ]
+Iurieudachi checks
+VictimVIP checks
+** Dealing river ** [ Kd ]
+Iurieudachi checks
+VictimVIP bets [$0.10]
+Iurieudachi calls [$0.10]
+** Summary **
+VictimVIP shows [ Kc, 8c ]
+Iurieudachi mucks [ Qd, 2h ]
+VictimVIP collected [ $0.38 ]
+
+
+#Game No : 523583603
+***** 888poker Hand History for Game 523583603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 18:24:38
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Iurieudachi ( $1.50 )
+Seat 2: VictimVIP ( $4.78 )
+Iurieudachi posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+Iurieudachi calls [$0.01]
+VictimVIP checks
+** Dealing flop ** [ 8s, Qd, 3h ]
+VictimVIP checks
+Iurieudachi checks
+** Dealing turn ** [ 5h ]
+VictimVIP checks
+Iurieudachi bets [$0.08]
+VictimVIP folds
+** Summary **
+Iurieudachi did not show his hand
+Iurieudachi collected [ $0.04 ]
+
+
+#Game No : 523583614
+***** 888poker Hand History for Game 523583614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 18:24:57
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Iurieudachi ( $1.52 )
+Seat 2: VictimVIP ( $4.76 )
+VictimVIP posts small blind [$0.01]
+Iurieudachi posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.04]
+Iurieudachi calls [$0.03]
+** Dealing flop ** [ 2d, 4s, 6d ]
+Iurieudachi checks
+VictimVIP bets [$0.05]
+Iurieudachi calls [$0.05]
+** Dealing turn ** [ 9h ]
+Iurieudachi checks
+VictimVIP checks
+** Dealing river ** [ 7h ]
+Iurieudachi checks
+VictimVIP bets [$0.12]
+Iurieudachi folds
+** Summary **
+VictimVIP collected [ $0.19 ]
+
+
+#Game No : 513362984
+***** 888poker Hand History for Game 513362984 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 21:54:37
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: i_am_you_ ( $1.08 )
+Seat 2: LuckTilt ( $1.21 )
+i_am_you_ posts small blind [$0.01]
+LuckTilt posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+LuckTilt collected [ $0.03 ]
+
+
+#Game No : 513362985
+***** 888poker Hand History for Game 513362985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 21:54:42
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: i_am_you_ ( $1.07 )
+Seat 2: LuckTilt ( $1.22 )
+LuckTilt posts small blind [$0.01]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+LuckTilt collected [ $0.01 ]
+
+

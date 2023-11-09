@@ -1,0 +1,45 @@
+#Game No : 504773682
+***** 888poker Hand History for Game 504773682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2018 05:01:48
+Table Namur 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: IGr0lk ( $1.24 )
+Seat 2: CBACKES ( $1.91 )
+IGr0lk posts small blind [$0.01]
+CBACKES posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+CBACKES calls [$0.02]
+** Dealing flop ** [ 2h, 5c, 3s ]
+CBACKES checks
+IGr0lk checks
+** Dealing turn ** [ 8s ]
+CBACKES checks
+IGr0lk checks
+** Dealing river ** [ 8h ]
+CBACKES checks
+IGr0lk checks
+** Summary **
+CBACKES shows [ 4d, Qd ]
+IGr0lk shows [ Tc, Qs ]
+IGr0lk collected [ $0.08 ]
+
+
+#Game No : 504773711
+***** 888poker Hand History for Game 504773711 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2018 05:02:25
+Table Namur 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: IGr0lk ( $1.28 )
+Seat 2: CBACKES ( $1.87 )
+CBACKES posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+CBACKES folds
+** Summary **
+IGr0lk did not show his hand
+IGr0lk collected [ $0.03 ]
+
+

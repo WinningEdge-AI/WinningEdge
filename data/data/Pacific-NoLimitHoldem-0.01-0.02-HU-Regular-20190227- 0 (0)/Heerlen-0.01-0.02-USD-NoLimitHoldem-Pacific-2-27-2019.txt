@@ -1,0 +1,152 @@
+#Game No : 1251035654
+***** 888poker Hand History for Game 1251035654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 22:34:57
+Table Heerlen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Igor_Nigor ( $1.24 )
+Seat 5: tisfoon ( $1.86 )
+Igor_Nigor posts small blind [$0.01]
+tisfoon posts big blind [$0.02]
+** Dealing down cards **
+Igor_Nigor calls [$0.01]
+tisfoon checks
+** Dealing flop ** [ 9d, 7h, 8c ]
+tisfoon bets [$0.02]
+Igor_Nigor raises [$0.04]
+tisfoon calls [$0.02]
+** Dealing turn ** [ Ad ]
+tisfoon checks
+Igor_Nigor bets [$0.04]
+tisfoon calls [$0.04]
+** Dealing river ** [ 4c ]
+tisfoon checks
+Igor_Nigor bets [$0.08]
+tisfoon calls [$0.08]
+** Summary **
+Igor_Nigor shows [ Ks, As ]
+tisfoon mucks [ 9h, Jc ]
+Igor_Nigor collected [ $0.34 ]
+
+
+#Game No : 1251035721
+***** 888poker Hand History for Game 1251035721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 22:35:12
+Table Heerlen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Igor_Nigor ( $1.40 )
+Seat 5: tisfoon ( $1.68 )
+tisfoon posts small blind [$0.01]
+Igor_Nigor posts big blind [$0.02]
+** Dealing down cards **
+tisfoon raises [$0.03]
+Igor_Nigor calls [$0.02]
+** Dealing flop ** [ 6s, Js, 2h ]
+Igor_Nigor bets [$0.08]
+tisfoon calls [$0.08]
+** Dealing turn ** [ 7h ]
+Igor_Nigor bets [$0.12]
+tisfoon folds
+** Summary **
+Igor_Nigor did not show his hand
+Igor_Nigor collected [ $0.23 ]
+
+
+#Game No : 1251035749
+***** 888poker Hand History for Game 1251035749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 22:35:32
+Table Heerlen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Igor_Nigor ( $1.51 )
+Seat 5: tisfoon ( $1.56 )
+Igor_Nigor posts small blind [$0.01]
+tisfoon posts big blind [$0.02]
+** Dealing down cards **
+Igor_Nigor raises [$0.07]
+tisfoon raises [$1.54]
+Igor_Nigor calls [$1.43]
+** Dealing flop ** [ Th, 7h, 6c ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Ac ]
+** Summary **
+Igor_Nigor shows [ Ks, Jd ]
+tisfoon shows [ 2c, Jh ]
+Igor_Nigor collected [ $2.84 ]
+
+
+#Game No : 1251036391
+***** 888poker Hand History for Game 1251036391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 22:42:58
+Table Heerlen 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Jovan148 ( $1.07 )
+Seat 7: evaizum ( $1.03 )
+Jovan148 posts small blind [$0.01]
+evaizum posts big blind [$0.02]
+** Dealing down cards **
+Jovan148 calls [$0.01]
+evaizum checks
+** Dealing flop ** [ Ks, 8s, 2d ]
+evaizum checks
+Jovan148 bets [$0.02]
+evaizum calls [$0.02]
+** Dealing turn ** [ 3h ]
+evaizum checks
+Jovan148 checks
+** Dealing river ** [ Ts ]
+evaizum checks
+Jovan148 checks
+** Summary **
+evaizum shows [ Qh, Qd ]
+Jovan148 mucks [ 6h, 7d ]
+evaizum collected [ $0.08 ]
+
+
+#Game No : 1251036437
+***** 888poker Hand History for Game 1251036437 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 22:43:07
+Table Heerlen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Jovan148 ( $1.03 )
+Seat 7: evaizum ( $1.07 )
+evaizum posts small blind [$0.01]
+Jovan148 posts big blind [$0.02]
+** Dealing down cards **
+evaizum calls [$0.01]
+Jovan148 checks
+** Dealing flop ** [ Ac, Jh, Ah ]
+Jovan148 checks
+evaizum checks
+** Dealing turn ** [ 4s ]
+Jovan148 checks
+evaizum checks
+** Dealing river ** [ Jd ]
+Jovan148 checks
+evaizum checks
+** Summary **
+Jovan148 shows [ 4c, 5s ]
+evaizum mucks [ 3d, 4d ]
+Jovan148 collected [ $0.04 ]
+
+
+#Game No : 1251081986
+***** 888poker Hand History for Game 1251081986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 02 2019 04:41:44
+Table Heerlen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sting1947 ( $1.86 )
+Seat 9: anohin1971 ( $2.04 )
+sting1947 posts small blind [$0.01]
+anohin1971 posts big blind [$0.02]
+** Dealing down cards **
+sting1947 folds
+** Summary **
+anohin1971 did not show his hand
+anohin1971 collected [ $0.03 ]
+
+

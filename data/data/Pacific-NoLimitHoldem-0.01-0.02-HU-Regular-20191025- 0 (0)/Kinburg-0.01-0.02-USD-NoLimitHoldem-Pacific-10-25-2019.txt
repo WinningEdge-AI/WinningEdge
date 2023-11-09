@@ -1,0 +1,75 @@
+#Game No : 1304628658
+***** 888poker Hand History for Game 1304628658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2019 19:11:44
+Table Kinburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $1.99 )
+Seat 6: ToommCawte ( $1.97 )
+yrik222 posts small blind [$0.01]
+ToommCawte posts big blind [$0.02]
+** Dealing down cards **
+yrik222 raises [$0.03]
+ToommCawte calls [$0.02]
+** Dealing flop ** [ Td, 3c, 2s ]
+yrik222 bets [$0.08]
+ToommCawte calls [$0.08]
+** Dealing turn ** [ 7d ]
+yrik222 bets [$0.16]
+ToommCawte calls [$0.16]
+** Dealing river ** [ Ad ]
+yrik222 checks
+ToommCawte bets [$0.18]
+yrik222 calls [$0.18]
+** Summary **
+ToommCawte shows [ 4h, As ]
+yrik222 mucks [ Ts, Qh ]
+ToommCawte collected [ $0.87 ]
+
+
+#Game No : 1304633591
+***** 888poker Hand History for Game 1304633591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2019 20:16:19
+Table Kinburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Tronghuu7979 ( $1.02 )
+Seat 7: iks2s ( $0.82 )
+iks2s posts small blind [$0.01]
+Tronghuu7979 posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+Tronghuu7979 folds
+** Summary **
+iks2s did not show his hand
+iks2s collected [ $0.04 ]
+
+
+#Game No : 1304633606
+***** 888poker Hand History for Game 1304633606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2019 20:16:32
+Table Kinburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Tronghuu7979 ( $1 )
+Seat 7: iks2s ( $0.84 )
+Tronghuu7979 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+Tronghuu7979 calls [$0.01]
+iks2s checks
+** Dealing flop ** [ Ah, Jd, 7d ]
+iks2s checks
+Tronghuu7979 checks
+** Dealing turn ** [ 2c ]
+iks2s checks
+Tronghuu7979 checks
+** Dealing river ** [ 2s ]
+iks2s bets [$0.04]
+Tronghuu7979 calls [$0.04]
+** Summary **
+iks2s shows [ 8d, 6h ]
+Tronghuu7979 shows [ Js, 3c ]
+Tronghuu7979 collected [ $0.12 ]
+
+

@@ -1,0 +1,28 @@
+#Game No : 466777036
+***** 888poker Hand History for Game 466777036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 07 2019 12:25:35
+Table Voronezh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Siqueiraedi ( $1.20 )
+Seat 6: INtlrNc ( $0.80 )
+Siqueiraedi posts small blind [$0.01]
+INtlrNc posts big blind [$0.02]
+** Dealing down cards **
+Siqueiraedi calls [$0.01]
+INtlrNc checks
+** Dealing flop ** [ 4c, Td, Ts ]
+INtlrNc checks
+Siqueiraedi checks
+** Dealing turn ** [ Th ]
+INtlrNc checks
+Siqueiraedi checks
+** Dealing river ** [ 5h ]
+INtlrNc checks
+Siqueiraedi checks
+** Summary **
+INtlrNc shows [ 5d, As ]
+Siqueiraedi mucks [ 6c, 3h ]
+INtlrNc collected [ $0.04 ]
+
+

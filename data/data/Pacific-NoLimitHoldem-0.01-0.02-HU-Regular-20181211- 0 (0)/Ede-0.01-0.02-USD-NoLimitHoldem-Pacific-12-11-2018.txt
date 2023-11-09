@@ -1,0 +1,106 @@
+#Game No : 1230777519
+***** 888poker Hand History for Game 1230777519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 09:22:49
+Table Ede 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: yurast. ( $1.24 )
+Seat 4: SunriseMj ( $1.03 )
+yurast. posts small blind [$0.01]
+SunriseMj posts big blind [$0.02]
+** Dealing down cards **
+yurast. raises [$0.03]
+SunriseMj raises [$0.14]
+yurast. folds
+** Summary **
+SunriseMj collected [ $0.08 ]
+
+
+#Game No : 1230777778
+***** 888poker Hand History for Game 1230777778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 09:23:53
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: yurast. ( $1.20 )
+Seat 4: SunriseMj ( $1.07 )
+SunriseMj posts small blind [$0.01]
+yurast. posts big blind [$0.02]
+** Dealing down cards **
+SunriseMj calls [$0.01]
+yurast. checks
+** Dealing flop ** [ 3c, 8d, Ac ]
+yurast. checks
+SunriseMj checks
+** Dealing turn ** [ Jd ]
+yurast. checks
+SunriseMj checks
+** Dealing river ** [ 5s ]
+yurast. checks
+SunriseMj checks
+** Summary **
+yurast. shows [ 7c, 3d ]
+SunriseMj mucks [ 6d, Ts ]
+yurast. collected [ $0.04 ]
+
+
+#Game No : 1230778246
+***** 888poker Hand History for Game 1230778246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 09:25:48
+Table Ede 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: yurast. ( $1.17 )
+Seat 6: galiga29 ( $0.81 )
+yurast. posts small blind [$0.01]
+galiga29 posts big blind [$0.02]
+** Dealing down cards **
+yurast. raises [$0.03]
+galiga29 calls [$0.02]
+** Dealing flop ** [ Ac, Ad, Jc ]
+galiga29 checks
+yurast. bets [$0.04]
+galiga29 calls [$0.04]
+** Dealing turn ** [ 8d ]
+galiga29 checks
+yurast. checks
+** Dealing river ** [ 4d ]
+galiga29 checks
+yurast. checks
+** Summary **
+galiga29 shows [ 4s, Kc ]
+yurast. mucks [ 2s, 2h ]
+galiga29 collected [ $0.15 ]
+
+
+#Game No : 1230778440
+***** 888poker Hand History for Game 1230778440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 09:26:33
+Table Ede 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: yurast. ( $1.09 )
+Seat 6: galiga29 ( $0.88 )
+galiga29 posts small blind [$0.01]
+yurast. posts big blind [$0.02]
+** Dealing down cards **
+galiga29 calls [$0.01]
+yurast. checks
+** Dealing flop ** [ 6h, Tc, 7h ]
+yurast. checks
+galiga29 bets [$0.02]
+yurast. calls [$0.02]
+** Dealing turn ** [ 7d ]
+yurast. checks
+galiga29 bets [$0.02]
+yurast. calls [$0.02]
+** Dealing river ** [ Ad ]
+yurast. checks
+galiga29 bets [$0.02]
+yurast. calls [$0.02]
+** Summary **
+galiga29 shows [ Qd, Qs ]
+yurast. mucks [ 5s, Th ]
+galiga29 collected [ $0.15 ]
+
+

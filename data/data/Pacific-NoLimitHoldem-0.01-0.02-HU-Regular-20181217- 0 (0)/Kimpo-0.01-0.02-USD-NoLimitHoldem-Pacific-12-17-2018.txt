@@ -1,0 +1,103 @@
+#Game No : 510748356
+***** 888poker Hand History for Game 510748356 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 02:26:05
+Table Kimpo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tranquilityd ( $1.98 )
+Seat 5: zivana199 ( $0.82 )
+tranquilityd posts small blind [$0.01]
+zivana199 posts big blind [$0.02]
+** Dealing down cards **
+tranquilityd raises [$0.03]
+zivana199 calls [$0.02]
+** Dealing flop ** [ 7h, 4d, 6d ]
+zivana199 bets [$0.02]
+tranquilityd calls [$0.02]
+** Dealing turn ** [ Qd ]
+zivana199 bets [$0.02]
+tranquilityd folds
+** Summary **
+zivana199 did not show his hand
+zivana199 collected [ $0.12 ]
+
+
+#Game No : 510748371
+***** 888poker Hand History for Game 510748371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 02:26:16
+Table Kimpo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: tranquilityd ( $1.92 )
+Seat 5: zivana199 ( $0.88 )
+zivana199 posts small blind [$0.01]
+tranquilityd posts big blind [$0.02]
+** Dealing down cards **
+zivana199 raises [$0.05]
+tranquilityd calls [$0.04]
+** Dealing flop ** [ 3h, 7c, 2d ]
+tranquilityd checks
+zivana199 bets [$0.06]
+tranquilityd calls [$0.06]
+** Dealing turn ** [ 4s ]
+tranquilityd checks
+zivana199 checks
+** Dealing river ** [ Ac ]
+tranquilityd bets [$0.24]
+zivana199 calls [$0.24]
+** Summary **
+tranquilityd shows [ 2s, 2h ]
+zivana199 mucks [ Ah, Kc ]
+tranquilityd collected [ $0.68 ]
+
+
+#Game No : 510748390
+***** 888poker Hand History for Game 510748390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 02:27:02
+Table Kimpo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tranquilityd ( $2.24 )
+Seat 5: zivana199 ( $0.52 )
+tranquilityd posts small blind [$0.01]
+zivana199 posts big blind [$0.02]
+** Dealing down cards **
+tranquilityd raises [$0.03]
+zivana199 calls [$0.02]
+** Dealing flop ** [ Jd, 8h, 2h ]
+zivana199 checks
+tranquilityd bets [$0.08]
+zivana199 calls [$0.08]
+** Dealing turn ** [ 7d ]
+zivana199 checks
+tranquilityd bets [$0.16]
+zivana199 calls [$0.16]
+** Dealing river ** [ Ad ]
+zivana199 checks
+tranquilityd checks
+** Summary **
+zivana199 shows [ 6h, Th ]
+tranquilityd shows [ Jh, Ts ]
+tranquilityd collected [ $0.53 ]
+
+
+#Game No : 510748405
+***** 888poker Hand History for Game 510748405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 02:27:36
+Table Kimpo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: tranquilityd ( $2.49 )
+Seat 5: zivana199 ( $0.24 )
+zivana199 posts small blind [$0.01]
+tranquilityd posts big blind [$0.02]
+** Dealing down cards **
+zivana199 calls [$0.01]
+tranquilityd checks
+** Dealing flop ** [ 7h, 2s, 2c ]
+tranquilityd bets [$0.06]
+zivana199 folds
+** Summary **
+tranquilityd collected [ $0.04 ]
+
+

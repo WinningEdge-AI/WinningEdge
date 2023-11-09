@@ -1,0 +1,307 @@
+#Game No : 507029225
+***** 888poker Hand History for Game 507029225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 20:47:42
+Table Cologne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alonsosuarez ( $1.56 )
+Seat 4: geangr ( $2.61 )
+alonsosuarez posts small blind [$0.01]
+geangr posts big blind [$0.02]
+** Dealing down cards **
+alonsosuarez folds
+** Summary **
+geangr collected [ $0.03 ]
+
+
+#Game No : 507029229
+***** 888poker Hand History for Game 507029229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 20:47:50
+Table Cologne 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: alonsosuarez ( $1.55 )
+Seat 4: geangr ( $2.62 )
+geangr posts small blind [$0.01]
+alonsosuarez posts big blind [$0.02]
+** Dealing down cards **
+geangr raises [$0.03]
+alonsosuarez calls [$0.02]
+** Dealing flop ** [ 2d, 9d, As ]
+alonsosuarez checks
+geangr bets [$0.02]
+alonsosuarez calls [$0.02]
+** Dealing turn ** [ 6s ]
+alonsosuarez checks
+geangr bets [$0.02]
+alonsosuarez calls [$0.02]
+** Dealing river ** [ 8d ]
+alonsosuarez checks
+geangr checks
+** Summary **
+alonsosuarez shows [ Ac, 4c ]
+geangr mucks [ 7h, Kc ]
+alonsosuarez collected [ $0.15 ]
+
+
+#Game No : 507030644
+***** 888poker Hand History for Game 507030644 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 22:33:53
+Table Cologne 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fearace2 ( $1.80 )
+Seat 10: Tobicro ( $1.96 )
+fearace2 posts small blind [$0.01]
+Tobicro posts big blind [$0.02]
+** Dealing down cards **
+fearace2 calls [$0.01]
+Tobicro checks
+** Dealing flop ** [ 4h, Ks, 9h ]
+Tobicro checks
+fearace2 bets [$0.02]
+Tobicro calls [$0.02]
+** Dealing turn ** [ Ad ]
+Tobicro checks
+fearace2 bets [$0.02]
+Tobicro folds
+** Summary **
+fearace2 did not show his hand
+fearace2 collected [ $0.08 ]
+
+
+#Game No : 507051556
+***** 888poker Hand History for Game 507051556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:24:45
+Table Cologne 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: FishHandle ( $4.68 )
+Seat 6: HerrCul ( $5.57 )
+FishHandle posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+FishHandle calls [$0.01]
+HerrCul checks
+** Dealing flop ** [ Qs, Jc, 3s ]
+HerrCul checks
+FishHandle checks
+** Dealing turn ** [ 8c ]
+HerrCul checks
+FishHandle checks
+** Dealing river ** [ 2c ]
+HerrCul checks
+FishHandle checks
+** Summary **
+HerrCul shows [ 5d, 9c ]
+FishHandle shows [ 5h, Kd ]
+FishHandle collected [ $0.04 ]
+
+
+#Game No : 507051585
+***** 888poker Hand History for Game 507051585 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:25:21
+Table Cologne 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: FishHandle ( $4.70 )
+Seat 6: HerrCul ( $5.55 )
+HerrCul posts small blind [$0.01]
+FishHandle posts big blind [$0.02]
+** Dealing down cards **
+HerrCul raises [$0.05]
+FishHandle calls [$0.04]
+** Dealing flop ** [ Td, Kc, Th ]
+FishHandle checks
+HerrCul bets [$0.06]
+FishHandle folds
+** Summary **
+HerrCul did not show his hand
+HerrCul collected [ $0.12 ]
+
+
+#Game No : 507051599
+***** 888poker Hand History for Game 507051599 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:25:43
+Table Cologne 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: FishHandle ( $4.64 )
+Seat 6: HerrCul ( $5.61 )
+FishHandle posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+FishHandle calls [$0.01]
+HerrCul checks
+** Dealing flop ** [ 7c, As, 5c ]
+HerrCul checks
+FishHandle checks
+** Dealing turn ** [ Td ]
+HerrCul checks
+FishHandle bets [$0.02]
+HerrCul calls [$0.02]
+** Dealing river ** [ Ah ]
+HerrCul checks
+FishHandle bets [$0.04]
+HerrCul calls [$0.04]
+** Summary **
+FishHandle shows [ 4d, Js ]
+HerrCul shows [ 7s, 8h ]
+HerrCul collected [ $0.15 ]
+
+
+#Game No : 507051633
+***** 888poker Hand History for Game 507051633 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:26:37
+Table Cologne 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: FishHandle ( $4.56 )
+Seat 6: HerrCul ( $5.68 )
+HerrCul posts small blind [$0.01]
+FishHandle posts big blind [$0.02]
+** Dealing down cards **
+HerrCul raises [$0.05]
+FishHandle folds
+** Summary **
+HerrCul did not show his hand
+HerrCul collected [ $0.04 ]
+
+
+#Game No : 507051639
+***** 888poker Hand History for Game 507051639 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:26:45
+Table Cologne 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: FishHandle ( $4.54 )
+Seat 6: HerrCul ( $5.70 )
+FishHandle posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+FishHandle calls [$0.01]
+HerrCul raises [$0.04]
+FishHandle folds
+** Summary **
+HerrCul did not show his hand
+HerrCul collected [ $0.04 ]
+
+
+#Game No : 507051651
+***** 888poker Hand History for Game 507051651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:26:57
+Table Cologne 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: FishHandle ( $4.52 )
+Seat 6: HerrCul ( $5.72 )
+HerrCul posts small blind [$0.01]
+FishHandle posts big blind [$0.02]
+** Dealing down cards **
+HerrCul calls [$0.01]
+FishHandle checks
+** Dealing flop ** [ Jh, 7h, Ks ]
+FishHandle checks
+HerrCul bets [$0.02]
+FishHandle folds
+** Summary **
+HerrCul collected [ $0.04 ]
+
+
+#Game No : 507051758
+***** 888poker Hand History for Game 507051758 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:29:49
+Table Cologne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: HerrCul ( $5.74 )
+Seat 7: 008_008_008 ( $0.74 )
+008_008_008 posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+008_008_008 calls [$0.01]
+HerrCul raises [$0.04]
+008_008_008 calls [$0.04]
+** Dealing flop ** [ Jc, Kh, 9c ]
+HerrCul bets [$0.08]
+008_008_008 folds
+** Summary **
+HerrCul did not show his hand
+HerrCul collected [ $0.12 ]
+
+
+#Game No : 507051768
+***** 888poker Hand History for Game 507051768 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:30:03
+Table Cologne 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: HerrCul ( $5.80 )
+Seat 7: 008_008_008 ( $0.68 )
+HerrCul posts small blind [$0.01]
+008_008_008 posts big blind [$0.02]
+** Dealing down cards **
+HerrCul folds
+** Summary **
+008_008_008 did not show his hand
+008_008_008 collected [ $0.03 ]
+
+
+#Game No : 507051773
+***** 888poker Hand History for Game 507051773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:30:09
+Table Cologne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: HerrCul ( $5.79 )
+Seat 7: 008_008_008 ( $0.69 )
+008_008_008 posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+008_008_008 calls [$0.01]
+HerrCul checks
+** Dealing flop ** [ 3c, Tc, 9s ]
+HerrCul checks
+008_008_008 bets [$0.02]
+HerrCul folds
+** Summary **
+008_008_008 did not show his hand
+008_008_008 collected [ $0.04 ]
+
+
+#Game No : 507051782
+***** 888poker Hand History for Game 507051782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:30:22
+Table Cologne 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: HerrCul ( $5.77 )
+Seat 7: 008_008_008 ( $0.71 )
+HerrCul posts small blind [$0.01]
+008_008_008 posts big blind [$0.02]
+** Dealing down cards **
+HerrCul raises [$0.05]
+008_008_008 raises [$0.18]
+HerrCul folds
+** Summary **
+008_008_008 did not show his hand
+008_008_008 collected [ $0.12 ]
+
+
+#Game No : 507051799
+***** 888poker Hand History for Game 507051799 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:30:44
+Table Cologne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: HerrCul ( $5.71 )
+Seat 7: 008_008_008 ( $0.77 )
+008_008_008 posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+008_008_008 folds
+** Summary **
+HerrCul did not show his hand
+HerrCul collected [ $0.03 ]
+
+

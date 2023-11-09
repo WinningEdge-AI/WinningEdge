@@ -1,0 +1,63 @@
+#Game No : 514784524
+***** 888poker Hand History for Game 514784524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 02:01:44
+Table Liverpool 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pyataevnicko ( $1.52 )
+Seat 5: AtlanTor ( $2 )
+pyataevnicko posts small blind [$0.01]
+AtlanTor posts big blind [$0.02]
+** Dealing down cards **
+pyataevnicko calls [$0.01]
+AtlanTor checks
+** Dealing flop ** [ Kc, 5c, 6h ]
+AtlanTor checks
+pyataevnicko checks
+** Dealing turn ** [ 8s ]
+AtlanTor checks
+pyataevnicko checks
+** Dealing river ** [ Tc ]
+AtlanTor checks
+pyataevnicko checks
+** Summary **
+AtlanTor shows [ 9c, Jh ]
+pyataevnicko shows [ 2c, Qh ]
+pyataevnicko collected [ $0.04 ]
+
+
+#Game No : 514784543
+***** 888poker Hand History for Game 514784543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 02:02:02
+Table Liverpool 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: pyataevnicko ( $1.54 )
+Seat 5: AtlanTor ( $2 )
+AtlanTor posts small blind [$0.01]
+pyataevnicko posts big blind [$0.02]
+** Dealing down cards **
+AtlanTor raises [$0.05]
+pyataevnicko folds
+** Summary **
+AtlanTor collected [ $0.04 ]
+
+
+#Game No : 514802888
+***** 888poker Hand History for Game 514802888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 10:07:45
+Table Liverpool 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: 88vanik88 ( $3.11 )
+Seat 7: Hayes512 ( $2.87 )
+Hayes512 posts small blind [$0.01]
+88vanik88 posts big blind [$0.02]
+** Dealing down cards **
+Hayes512 raises [$0.04]
+88vanik88 folds
+** Summary **
+Hayes512 did not show his hand
+Hayes512 collected [ $0.04 ]
+
+

@@ -1,0 +1,29 @@
+#Game No : 1205326803
+***** 888poker Hand History for Game 1205326803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 10:22:57
+Table Colina 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Keefer4h ( $1 )
+Seat 5: zukalek ( $2 )
+zukalek posts small blind [$0.01]
+Keefer4h posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+Keefer4h calls [$0.04]
+** Dealing flop ** [ Qc, 2d, Kh ]
+Keefer4h checks
+zukalek checks
+** Dealing turn ** [ Jc ]
+Keefer4h bets [$0.06]
+zukalek calls [$0.06]
+** Dealing river ** [ As ]
+Keefer4h bets [$0.10]
+zukalek raises [$0.24]
+Keefer4h calls [$0.14]
+** Summary **
+zukalek shows [ Th, Qs ]
+Keefer4h mucks [ Ac, 3c ]
+zukalek collected [ $0.68 ]
+
+

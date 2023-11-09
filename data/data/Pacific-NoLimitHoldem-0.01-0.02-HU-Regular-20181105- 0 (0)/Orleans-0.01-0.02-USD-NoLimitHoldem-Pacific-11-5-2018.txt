@@ -1,0 +1,382 @@
+#Game No : 504878076
+***** 888poker Hand History for Game 504878076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:40:55
+Table Orleans 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: CollectorMax ( $1.68 )
+Seat 9: Tonny2018 ( $0.80 )
+Tonny2018 posts small blind [$0.01]
+CollectorMax posts big blind [$0.02]
+** Dealing down cards **
+Tonny2018 folds
+** Summary **
+CollectorMax collected [ $0.03 ]
+
+
+#Game No : 504878134
+***** 888poker Hand History for Game 504878134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:42:14
+Table Orleans 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CollectorMax ( $1.69 )
+Seat 2: dikni14 ( $1.71 )
+CollectorMax posts small blind [$0.01]
+dikni14 posts big blind [$0.02]
+** Dealing down cards **
+CollectorMax calls [$0.01]
+dikni14 checks
+** Dealing flop ** [ 5c, 7h, 9h ]
+dikni14 checks
+CollectorMax bets [$0.04]
+dikni14 calls [$0.04]
+** Dealing turn ** [ Tc ]
+dikni14 checks
+CollectorMax checks
+** Dealing river ** [ 6d ]
+dikni14 checks
+CollectorMax bets [$0.12]
+dikni14 calls [$0.12]
+** Summary **
+CollectorMax shows [ Kc, 8s ]
+dikni14 mucks [ 7s, Qh ]
+CollectorMax collected [ $0.34 ]
+
+
+#Game No : 504878173
+***** 888poker Hand History for Game 504878173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:43:31
+Table Orleans 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: CollectorMax ( $1.85 )
+Seat 2: dikni14 ( $1.53 )
+dikni14 posts small blind [$0.01]
+CollectorMax posts big blind [$0.02]
+** Dealing down cards **
+dikni14 folds
+** Summary **
+CollectorMax collected [ $0.03 ]
+
+
+#Game No : 504878178
+***** 888poker Hand History for Game 504878178 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:43:37
+Table Orleans 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CollectorMax ( $1.86 )
+Seat 2: dikni14 ( $1.52 )
+CollectorMax posts small blind [$0.01]
+dikni14 posts big blind [$0.02]
+** Dealing down cards **
+CollectorMax calls [$0.01]
+dikni14 checks
+** Dealing flop ** [ Th, 7c, Kc ]
+dikni14 checks
+CollectorMax checks
+** Dealing turn ** [ 2d ]
+dikni14 checks
+CollectorMax checks
+** Dealing river ** [ Qd ]
+dikni14 checks
+CollectorMax bets [$0.06]
+dikni14 calls [$0.06]
+** Summary **
+CollectorMax shows [ 6h, Ah ]
+dikni14 shows [ 3d, Qc ]
+dikni14 collected [ $0.15 ]
+
+
+#Game No : 504878211
+***** 888poker Hand History for Game 504878211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:44:31
+Table Orleans 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: CollectorMax ( $1.78 )
+Seat 2: dikni14 ( $1.59 )
+dikni14 posts small blind [$0.01]
+CollectorMax posts big blind [$0.02]
+** Dealing down cards **
+dikni14 raises [$0.07]
+CollectorMax folds
+** Summary **
+dikni14 collected [ $0.04 ]
+
+
+#Game No : 504878236
+***** 888poker Hand History for Game 504878236 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:45:07
+Table Orleans 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CollectorMax ( $1.76 )
+Seat 2: dikni14 ( $1.61 )
+CollectorMax posts small blind [$0.01]
+dikni14 posts big blind [$0.02]
+** Dealing down cards **
+CollectorMax raises [$0.03]
+dikni14 folds
+** Summary **
+CollectorMax collected [ $0.04 ]
+
+
+#Game No : 504878243
+***** 888poker Hand History for Game 504878243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:45:23
+Table Orleans 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: CollectorMax ( $1.78 )
+Seat 2: dikni14 ( $1.59 )
+dikni14 posts small blind [$0.01]
+CollectorMax posts big blind [$0.02]
+** Dealing down cards **
+dikni14 raises [$0.05]
+CollectorMax calls [$0.04]
+** Dealing flop ** [ 8c, 6c, Tc ]
+CollectorMax bets [$0.06]
+dikni14 folds
+** Summary **
+CollectorMax collected [ $0.12 ]
+
+
+#Game No : 504878289
+***** 888poker Hand History for Game 504878289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:46:40
+Table Orleans 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CollectorMax ( $1.84 )
+Seat 6: Pushka1709 ( $1 )
+CollectorMax posts small blind [$0.01]
+Pushka1709 posts big blind [$0.02]
+** Dealing down cards **
+CollectorMax calls [$0.01]
+Pushka1709 checks
+** Dealing flop ** [ 3s, 7d, 5d ]
+Pushka1709 bets [$0.02]
+CollectorMax calls [$0.02]
+** Dealing turn ** [ 6c ]
+Pushka1709 bets [$0.02]
+CollectorMax calls [$0.02]
+** Dealing river ** [ As ]
+Pushka1709 bets [$0.02]
+CollectorMax calls [$0.02]
+** Summary **
+Pushka1709 shows [ 5s, Kd ]
+CollectorMax mucks [ Jd, Tc ]
+Pushka1709 collected [ $0.15 ]
+
+
+#Game No : 504878302
+***** 888poker Hand History for Game 504878302 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:47:04
+Table Orleans 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CollectorMax ( $1.76 )
+Seat 6: Pushka1709 ( $1.07 )
+Pushka1709 posts small blind [$0.01]
+CollectorMax posts big blind [$0.02]
+** Dealing down cards **
+Pushka1709 raises [$0.03]
+CollectorMax calls [$0.02]
+** Dealing flop ** [ 6s, Jd, 3s ]
+CollectorMax checks
+Pushka1709 bets [$0.02]
+CollectorMax calls [$0.02]
+** Dealing turn ** [ 7s ]
+CollectorMax checks
+Pushka1709 checks
+** Dealing river ** [ 5s ]
+CollectorMax bets [$0.06]
+Pushka1709 calls [$0.06]
+** Summary **
+CollectorMax shows [ 9d, Tc ]
+Pushka1709 shows [ Js, 8d ]
+Pushka1709 collected [ $0.23 ]
+
+
+#Game No : 504878349
+***** 888poker Hand History for Game 504878349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:48:24
+Table Orleans 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pervin737 ( $1 )
+Seat 4: CEMEH5524 ( $0.80 )
+Pervin737 posts small blind [$0.01]
+CEMEH5524 posts big blind [$0.02]
+** Dealing down cards **
+Pervin737 calls [$0.01]
+CEMEH5524 raises [$0.04]
+Pervin737 calls [$0.04]
+** Dealing flop ** [ 7d, 8s, Qc ]
+CEMEH5524 bets [$0.04]
+Pervin737 folds
+** Summary **
+CEMEH5524 collected [ $0.12 ]
+
+
+#Game No : 504878359
+***** 888poker Hand History for Game 504878359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:48:46
+Table Orleans 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pervin737 ( $0.94 )
+Seat 4: CEMEH5524 ( $0.86 )
+CEMEH5524 posts small blind [$0.01]
+Pervin737 posts big blind [$0.02]
+** Dealing down cards **
+CEMEH5524 raises [$0.03]
+Pervin737 calls [$0.02]
+** Dealing flop ** [ 8s, Th, Ah ]
+Pervin737 checks
+CEMEH5524 bets [$0.02]
+Pervin737 folds
+** Summary **
+CEMEH5524 collected [ $0.08 ]
+
+
+#Game No : 504878371
+***** 888poker Hand History for Game 504878371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:49:04
+Table Orleans 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pervin737 ( $0.90 )
+Seat 4: CEMEH5524 ( $0.90 )
+Pervin737 posts small blind [$0.01]
+CEMEH5524 posts big blind [$0.02]
+** Dealing down cards **
+Pervin737 calls [$0.01]
+CEMEH5524 checks
+** Dealing flop ** [ Js, 6s, Ts ]
+CEMEH5524 checks
+Pervin737 bets [$0.04]
+CEMEH5524 calls [$0.04]
+** Dealing turn ** [ 2d ]
+CEMEH5524 checks
+Pervin737 checks
+** Dealing river ** [ 6d ]
+CEMEH5524 checks
+Pervin737 bets [$0.14]
+CEMEH5524 folds
+** Summary **
+Pervin737 collected [ $0.12 ]
+
+
+#Game No : 504878389
+***** 888poker Hand History for Game 504878389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:49:33
+Table Orleans 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pervin737 ( $0.96 )
+Seat 4: CEMEH5524 ( $0.84 )
+CEMEH5524 posts small blind [$0.01]
+Pervin737 posts big blind [$0.02]
+** Dealing down cards **
+CEMEH5524 raises [$0.03]
+Pervin737 raises [$0.04]
+CEMEH5524 raises [$0.04]
+Pervin737 calls [$0.02]
+** Dealing flop ** [ 6h, 9h, 3d ]
+Pervin737 checks
+CEMEH5524 bets [$0.16]
+Pervin737 folds
+** Summary **
+CEMEH5524 collected [ $0.15 ]
+
+
+#Game No : 504878791
+***** 888poker Hand History for Game 504878791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:59:12
+Table Orleans 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pervin737 ( $1 )
+Seat 4: CEMEH5524 ( $2.72 )
+Pervin737 posts small blind [$0.01]
+CEMEH5524 posts big blind [$0.02]
+** Dealing down cards **
+Pervin737 calls [$0.01]
+CEMEH5524 checks
+** Dealing flop ** [ Ad, 7h, 9s ]
+CEMEH5524 checks
+Pervin737 checks
+** Dealing turn ** [ 8s ]
+CEMEH5524 checks
+Pervin737 checks
+** Dealing river ** [ 2d ]
+CEMEH5524 checks
+Pervin737 checks
+** Summary **
+CEMEH5524 shows [ 5c, 3s ]
+Pervin737 shows [ 4d, Qh ]
+Pervin737 collected [ $0.04 ]
+
+
+#Game No : 504878807
+***** 888poker Hand History for Game 504878807 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 03:59:34
+Table Orleans 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pervin737 ( $1.02 )
+Seat 4: CEMEH5524 ( $2.70 )
+CEMEH5524 posts small blind [$0.01]
+Pervin737 posts big blind [$0.02]
+** Dealing down cards **
+CEMEH5524 calls [$0.01]
+Pervin737 checks
+** Dealing flop ** [ 2d, 9h, 3d ]
+Pervin737 checks
+CEMEH5524 bets [$0.02]
+Pervin737 folds
+** Summary **
+CEMEH5524 collected [ $0.04 ]
+
+
+#Game No : 504878848
+***** 888poker Hand History for Game 504878848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 04:00:22
+Table Orleans 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tambov20 ( $0.80 )
+Seat 9: Bingo77177 ( $0.80 )
+Tambov20 posts small blind [$0.01]
+Bingo77177 posts big blind [$0.02]
+** Dealing down cards **
+Tambov20 calls [$0.01]
+Bingo77177 checks
+** Dealing flop ** [ 4c, Ks, 4h ]
+Bingo77177 bets [$0.40]
+Tambov20 folds
+** Summary **
+Bingo77177 did not show his hand
+Bingo77177 collected [ $0.04 ]
+
+
+#Game No : 504878876
+***** 888poker Hand History for Game 504878876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 04:01:03
+Table Orleans 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tambov20 ( $0.78 )
+Seat 9: Bingo77177 ( $0.82 )
+Bingo77177 posts small blind [$0.01]
+Tambov20 posts big blind [$0.02]
+** Dealing down cards **
+Bingo77177 folds
+** Summary **
+Tambov20 did not show his hand
+Tambov20 collected [ $0.03 ]
+
+

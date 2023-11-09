@@ -1,0 +1,431 @@
+#Game No : 527988480
+***** 888poker Hand History for Game 527988480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:09:43
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: peterbetten0 ( $0.80 )
+Seat 2: eddio11 ( $0.80 )
+peterbetten0 posts small blind [$0.01]
+eddio11 posts big blind [$0.02]
+** Dealing down cards **
+peterbetten0 raises [$0.03]
+eddio11 calls [$0.02]
+** Dealing flop ** [ 2s, Qs, Kd ]
+eddio11 checks
+peterbetten0 bets [$0.06]
+eddio11 folds
+** Summary **
+peterbetten0 did not show his hand
+peterbetten0 collected [ $0.08 ]
+
+
+#Game No : 527988492
+***** 888poker Hand History for Game 527988492 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:10:05
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: peterbetten0 ( $0.84 )
+Seat 2: eddio11 ( $0.76 )
+eddio11 posts small blind [$0.01]
+peterbetten0 posts big blind [$0.02]
+** Dealing down cards **
+eddio11 calls [$0.01]
+peterbetten0 raises [$0.82]
+eddio11 folds
+** Summary **
+peterbetten0 did not show his hand
+peterbetten0 collected [ $0.04 ]
+
+
+#Game No : 527988499
+***** 888poker Hand History for Game 527988499 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:10:16
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: peterbetten0 ( $0.86 )
+Seat 2: eddio11 ( $0.74 )
+peterbetten0 posts small blind [$0.01]
+eddio11 posts big blind [$0.02]
+** Dealing down cards **
+peterbetten0 calls [$0.01]
+eddio11 raises [$0.72]
+peterbetten0 folds
+** Summary **
+eddio11 did not show his hand
+eddio11 collected [ $0.04 ]
+
+
+#Game No : 527988509
+***** 888poker Hand History for Game 527988509 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:10:27
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: peterbetten0 ( $0.84 )
+Seat 2: eddio11 ( $0.76 )
+eddio11 posts small blind [$0.01]
+peterbetten0 posts big blind [$0.02]
+** Dealing down cards **
+eddio11 calls [$0.01]
+peterbetten0 checks
+** Dealing flop ** [ 3h, Qd, 8d ]
+peterbetten0 checks
+eddio11 checks
+** Dealing turn ** [ Js ]
+peterbetten0 bets [$0.02]
+eddio11 calls [$0.02]
+** Dealing river ** [ 7h ]
+peterbetten0 bets [$0.02]
+eddio11 calls [$0.02]
+** Summary **
+peterbetten0 shows [ Th, 7s ]
+eddio11 mucks [ Ad, 2s ]
+peterbetten0 collected [ $0.12 ]
+
+
+#Game No : 527988576
+***** 888poker Hand History for Game 527988576 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:12:15
+Table Bayamo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: eddio11 ( $0.61 )
+Seat 6: ivandj16 ( $0.73 )
+eddio11 posts small blind [$0.01]
+ivandj16 posts big blind [$0.02]
+** Dealing down cards **
+eddio11 calls [$0.01]
+ivandj16 raises [$0.04]
+eddio11 calls [$0.04]
+** Dealing flop ** [ 8h, 8d, 5s ]
+ivandj16 bets [$0.12]
+eddio11 folds
+** Summary **
+ivandj16 collected [ $0.12 ]
+
+
+#Game No : 527988704
+***** 888poker Hand History for Game 527988704 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:15:40
+Table Bayamo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Stafeinz86 ( $1.01 )
+Seat 6: ivandj16 ( $0.99 )
+Stafeinz86 posts small blind [$0.01]
+ivandj16 posts big blind [$0.02]
+** Dealing down cards **
+Stafeinz86 calls [$0.01]
+ivandj16 checks
+** Dealing flop ** [ Tc, Ah, 6d ]
+ivandj16 checks
+Stafeinz86 bets [$0.02]
+ivandj16 raises [$0.06]
+Stafeinz86 calls [$0.04]
+** Dealing turn ** [ Qs ]
+ivandj16 bets [$0.10]
+Stafeinz86 folds
+** Summary **
+ivandj16 collected [ $0.15 ]
+
+
+#Game No : 527988734
+***** 888poker Hand History for Game 527988734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:16:17
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Stafeinz86 ( $0.93 )
+Seat 6: ivandj16 ( $1.06 )
+ivandj16 posts small blind [$0.01]
+Stafeinz86 posts big blind [$0.02]
+** Dealing down cards **
+ivandj16 raises [$0.03]
+Stafeinz86 calls [$0.02]
+** Dealing flop ** [ 8h, Ts, Jh ]
+Stafeinz86 checks
+ivandj16 checks
+** Dealing turn ** [ Qd ]
+Stafeinz86 checks
+ivandj16 bets [$0.05]
+Stafeinz86 calls [$0.05]
+** Dealing river ** [ 7s ]
+Stafeinz86 checks
+ivandj16 checks
+** Summary **
+Stafeinz86 shows [ Js, Ad ]
+ivandj16 mucks [ 4h, 6d ]
+Stafeinz86 collected [ $0.17 ]
+
+
+#Game No : 527989909
+***** 888poker Hand History for Game 527989909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:47:54
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.11 )
+Seat 6: yuorec639 ( $0.44 )
+yuorec639 posts small blind [$0.01]
+woodwright posts big blind [$0.02]
+** Dealing down cards **
+yuorec639 raises [$0.03]
+woodwright calls [$0.02]
+** Dealing flop ** [ 8c, Kh, 3d ]
+woodwright checks
+yuorec639 bets [$0.02]
+woodwright calls [$0.02]
+** Dealing turn ** [ 5h ]
+woodwright checks
+yuorec639 checks
+** Dealing river ** [ Qh ]
+woodwright checks
+yuorec639 checks
+** Summary **
+woodwright shows [ 8s, 6h ]
+yuorec639 mucks [ As, Jd ]
+woodwright collected [ $0.12 ]
+
+
+#Game No : 527989922
+***** 888poker Hand History for Game 527989922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:48:18
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.17 )
+Seat 6: yuorec639 ( $0.38 )
+woodwright posts small blind [$0.01]
+yuorec639 posts big blind [$0.02]
+** Dealing down cards **
+woodwright folds
+** Summary **
+yuorec639 collected [ $0.03 ]
+
+
+#Game No : 527989925
+***** 888poker Hand History for Game 527989925 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:48:25
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.16 )
+Seat 6: yuorec639 ( $0.39 )
+yuorec639 posts small blind [$0.01]
+woodwright posts big blind [$0.02]
+** Dealing down cards **
+yuorec639 raises [$0.05]
+woodwright calls [$0.04]
+** Dealing flop ** [ Kc, Kh, Th ]
+woodwright checks
+yuorec639 checks
+** Dealing turn ** [ Qc ]
+woodwright bets [$0.03]
+yuorec639 calls [$0.03]
+** Dealing river ** [ 3d ]
+woodwright checks
+yuorec639 checks
+** Summary **
+woodwright shows [ Ad, 9s ]
+yuorec639 shows [ 4s, 4d ]
+yuorec639 collected [ $0.17 ]
+
+
+#Game No : 527989951
+***** 888poker Hand History for Game 527989951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:49:07
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.07 )
+Seat 6: yuorec639 ( $0.47 )
+woodwright posts small blind [$0.01]
+yuorec639 posts big blind [$0.02]
+** Dealing down cards **
+woodwright calls [$0.01]
+yuorec639 checks
+** Dealing flop ** [ Kh, Js, 6h ]
+yuorec639 checks
+woodwright bets [$0.02]
+yuorec639 calls [$0.02]
+** Dealing turn ** [ 2s ]
+yuorec639 checks
+woodwright bets [$0.05]
+yuorec639 calls [$0.05]
+** Dealing river ** [ 4d ]
+yuorec639 checks
+woodwright checks
+** Summary **
+yuorec639 shows [ 8c, Ks ]
+woodwright shows [ Kc, 9d ]
+woodwright collected [ $0.17 ]
+
+
+#Game No : 527989969
+***** 888poker Hand History for Game 527989969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:49:35
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.15 )
+Seat 6: yuorec639 ( $0.38 )
+yuorec639 posts small blind [$0.01]
+woodwright posts big blind [$0.02]
+** Dealing down cards **
+yuorec639 raises [$0.03]
+woodwright folds
+** Summary **
+yuorec639 collected [ $0.04 ]
+
+
+#Game No : 527989974
+***** 888poker Hand History for Game 527989974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:49:42
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.13 )
+Seat 6: yuorec639 ( $0.40 )
+woodwright posts small blind [$0.01]
+yuorec639 posts big blind [$0.02]
+** Dealing down cards **
+woodwright folds
+** Summary **
+yuorec639 collected [ $0.03 ]
+
+
+#Game No : 527989978
+***** 888poker Hand History for Game 527989978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:49:48
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.12 )
+Seat 6: yuorec639 ( $0.41 )
+yuorec639 posts small blind [$0.01]
+woodwright posts big blind [$0.02]
+** Dealing down cards **
+yuorec639 folds
+** Summary **
+woodwright collected [ $0.03 ]
+
+
+#Game No : 527989983
+***** 888poker Hand History for Game 527989983 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:49:54
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.13 )
+Seat 6: yuorec639 ( $0.40 )
+woodwright posts small blind [$0.01]
+yuorec639 posts big blind [$0.02]
+** Dealing down cards **
+woodwright folds
+** Summary **
+yuorec639 collected [ $0.03 ]
+
+
+#Game No : 527989990
+***** 888poker Hand History for Game 527989990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:49:59
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.12 )
+Seat 6: yuorec639 ( $0.41 )
+yuorec639 posts small blind [$0.01]
+woodwright posts big blind [$0.02]
+** Dealing down cards **
+yuorec639 raises [$0.05]
+woodwright folds
+** Summary **
+yuorec639 collected [ $0.04 ]
+
+
+#Game No : 527989998
+***** 888poker Hand History for Game 527989998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:50:10
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.10 )
+Seat 6: yuorec639 ( $0.43 )
+woodwright posts small blind [$0.01]
+yuorec639 posts big blind [$0.02]
+** Dealing down cards **
+woodwright calls [$0.01]
+yuorec639 checks
+** Dealing flop ** [ 7c, Ac, Kh ]
+yuorec639 bets [$0.02]
+woodwright folds
+** Summary **
+yuorec639 collected [ $0.04 ]
+
+
+#Game No : 527990007
+***** 888poker Hand History for Game 527990007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:50:22
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.08 )
+Seat 6: yuorec639 ( $0.45 )
+yuorec639 posts small blind [$0.01]
+woodwright posts big blind [$0.02]
+** Dealing down cards **
+yuorec639 calls [$0.01]
+woodwright checks
+** Dealing flop ** [ Jh, Qs, 5d ]
+woodwright bets [$0.02]
+yuorec639 calls [$0.02]
+** Dealing turn ** [ Ah ]
+woodwright bets [$0.05]
+yuorec639 folds
+** Summary **
+woodwright collected [ $0.08 ]
+
+
+#Game No : 527990031
+***** 888poker Hand History for Game 527990031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:51:02
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.12 )
+Seat 6: yuorec639 ( $0.41 )
+woodwright posts small blind [$0.01]
+yuorec639 posts big blind [$0.02]
+** Dealing down cards **
+woodwright folds
+** Summary **
+yuorec639 collected [ $0.03 ]
+
+
+#Game No : 527990036
+***** 888poker Hand History for Game 527990036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 17:51:08
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: woodwright ( $1.11 )
+Seat 6: yuorec639 ( $0.42 )
+yuorec639 posts small blind [$0.01]
+woodwright posts big blind [$0.02]
+** Dealing down cards **
+yuorec639 raises [$0.05]
+woodwright raises [$0.22]
+yuorec639 raises [$0.36]
+woodwright calls [$0.18]
+** Dealing flop ** [ 6c, Ah, 7c ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 5d ]
+** Summary **
+woodwright shows [ 8c, 8s ]
+yuorec639 shows [ Kc, As ]
+yuorec639 collected [ $0.79 ]
+
+

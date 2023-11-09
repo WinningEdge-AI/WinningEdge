@@ -1,0 +1,46 @@
+#Game No : 1266661501
+***** 888poker Hand History for Game 1266661501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 13:38:00
+Table Napa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vinkov75 ( $1 )
+Seat 2: Tungueteir0 ( $1 )
+Tungueteir0 posts small blind [$0.01]
+vinkov75 posts big blind [$0.02]
+** Dealing down cards **
+Tungueteir0 raises [$0.99]
+vinkov75 folds
+** Summary **
+Tungueteir0 collected [ $0.04 ]
+
+
+#Game No : 1266661575
+***** 888poker Hand History for Game 1266661575 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 13:38:19
+Table Napa 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: vinkov75 ( $0.98 )
+Seat 2: Tungueteir0 ( $1.02 )
+Tungueteir0 posts small blind [$0.01]
+vinkov75 posts big blind [$0.02]
+** Dealing down cards **
+Tungueteir0 raises [$0.05]
+vinkov75 calls [$0.04]
+** Dealing flop ** [ 4c, 6d, 6s ]
+vinkov75 bets [$0.02]
+Tungueteir0 raises [$0.12]
+vinkov75 calls [$0.10]
+** Dealing turn ** [ Jh ]
+vinkov75 bets [$0.02]
+Tungueteir0 calls [$0.02]
+** Dealing river ** [ Ac ]
+vinkov75 bets [$0.02]
+Tungueteir0 calls [$0.02]
+** Summary **
+vinkov75 shows [ Ks, 8s ]
+Tungueteir0 shows [ 9c, 4d ]
+Tungueteir0 collected [ $0.42 ]
+
+

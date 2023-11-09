@@ -1,0 +1,47 @@
+#Game No : 462804252
+***** 888poker Hand History for Game 462804252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 03 2019 02:24:19
+Table Pretoria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: LightEmittin ( $0.80 )
+Seat 6: valentindjer ( $1 )
+valentindjer posts small blind [$0.01]
+LightEmittin posts big blind [$0.02]
+** Dealing down cards **
+valentindjer raises [$0.04]
+LightEmittin calls [$0.03]
+** Dealing flop ** [ 8d, 3c, Td ]
+LightEmittin checks
+valentindjer bets [$0.06]
+LightEmittin calls [$0.06]
+** Dealing turn ** [ 9c ]
+LightEmittin checks
+valentindjer bets [$0.14]
+LightEmittin calls [$0.14]
+** Dealing river ** [ Kc ]
+LightEmittin checks
+valentindjer bets [$0.33]
+LightEmittin calls [$0.33]
+** Summary **
+valentindjer shows [ Qd, Qs ]
+LightEmittin mucks [ Ad, Tc ]
+valentindjer collected [ $1.09 ]
+
+
+#Game No : 462804457
+***** 888poker Hand History for Game 462804457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 03 2019 02:38:52
+Table Pretoria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Cozzeman999 ( $0.67 )
+Seat 9: walkman88 ( $0.99 )
+walkman88 posts small blind [$0.01]
+Cozzeman999 posts big blind [$0.02]
+** Dealing down cards **
+walkman88 folds
+** Summary **
+Cozzeman999 collected [ $0.03 ]
+
+

@@ -1,0 +1,387 @@
+#Game No : 613236752
+***** 888poker Hand History for Game 613236752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:37:03
+Table Provo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: poompah ( $1.72 )
+Seat 9: Cheeta01 ( $1.34 )
+Cheeta01 posts small blind [$0.01]
+poompah posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+poompah checks
+** Dealing flop ** [ 5d, 6h, 2s ]
+poompah checks
+Cheeta01 bets [$0.02]
+poompah calls [$0.02]
+** Dealing turn ** [ 3d ]
+poompah checks
+Cheeta01 bets [$0.06]
+poompah raises [$0.12]
+Cheeta01 folds
+** Summary **
+poompah collected [ $0.19 ]
+
+
+#Game No : 613236758
+***** 888poker Hand History for Game 613236758 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:37:29
+Table Provo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: poompah ( $1.81 )
+Seat 9: Cheeta01 ( $1.24 )
+poompah posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+poompah raises [$0.04]
+Cheeta01 calls [$0.03]
+** Dealing flop ** [ Tc, Qs, 6d ]
+Cheeta01 checks
+poompah bets [$0.05]
+Cheeta01 folds
+** Summary **
+poompah collected [ $0.10 ]
+
+
+#Game No : 613237152
+***** 888poker Hand History for Game 613237152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:53:32
+Table Provo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bymer06 ( $1.11 )
+Seat 7: PokerFace060 ( $1.01 )
+bymer06 posts small blind [$0.01]
+PokerFace060 posts big blind [$0.02]
+** Dealing down cards **
+bymer06 raises [$0.05]
+PokerFace060 folds
+** Summary **
+bymer06 collected [ $0.04 ]
+
+
+#Game No : 613237156
+***** 888poker Hand History for Game 613237156 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:53:41
+Table Provo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: bymer06 ( $1.13 )
+Seat 7: PokerFace060 ( $1 )
+PokerFace060 posts small blind [$0.01]
+** Dealing down cards **
+bymer06 folds
+** Summary **
+PokerFace060 collected [ $0.01 ]
+
+
+#Game No : 613237163
+***** 888poker Hand History for Game 613237163 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:53:54
+Table Provo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: bymer06 ( $1.13 )
+Seat 7: PokerFace060 ( $1 )
+PokerFace060 posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+PokerFace060 calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ 2c, Kh, 3s ]
+bymer06 checks
+PokerFace060 checks
+** Dealing turn ** [ 4c ]
+bymer06 checks
+PokerFace060 checks
+** Dealing river ** [ Tc ]
+bymer06 checks
+PokerFace060 checks
+** Summary **
+bymer06 shows [ 3h, 6c ]
+PokerFace060 mucks [ Qh, 7h ]
+bymer06 collected [ $0.04 ]
+
+
+#Game No : 613237197
+***** 888poker Hand History for Game 613237197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:54:53
+Table Provo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: bymer06 ( $1.15 )
+Seat 9: Platinummind ( $0.76 )
+Platinummind posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+Platinummind calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ Jd, Ks, 7h ]
+Platinummind checks
+bymer06 checks
+** Dealing turn ** [ 6d ]
+Platinummind checks
+bymer06 checks
+** Dealing river ** [ 9h ]
+Platinummind checks
+bymer06 bets [$0.02]
+Platinummind calls [$0.02]
+** Summary **
+bymer06 shows [ 8d, Ts ]
+Platinummind mucks [ 5c, 4d ]
+bymer06 collected [ $0.08 ]
+
+
+#Game No : 613237221
+***** 888poker Hand History for Game 613237221 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:55:37
+Table Provo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: bymer06 ( $1.19 )
+Seat 9: Platinummind ( $0.72 )
+Platinummind posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+Platinummind calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ 2h, Ks, 9s ]
+bymer06 checks
+Platinummind checks
+** Dealing turn ** [ 9c ]
+bymer06 bets [$0.04]
+Platinummind folds
+** Summary **
+bymer06 did not show his hand
+bymer06 collected [ $0.04 ]
+
+
+#Game No : 613237232
+***** 888poker Hand History for Game 613237232 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:55:58
+Table Provo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bymer06 ( $1.21 )
+Seat 9: Platinummind ( $0.70 )
+bymer06 posts small blind [$0.01]
+Platinummind posts big blind [$0.02]
+** Dealing down cards **
+bymer06 folds
+** Summary **
+Platinummind did not show his hand
+Platinummind collected [ $0.03 ]
+
+
+#Game No : 613237234
+***** 888poker Hand History for Game 613237234 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:56:03
+Table Provo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: bymer06 ( $1.20 )
+Seat 9: Platinummind ( $0.71 )
+Platinummind posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+Platinummind calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ Kd, Kh, 4h ]
+bymer06 checks
+Platinummind checks
+** Dealing turn ** [ 3s ]
+bymer06 checks
+Platinummind bets [$0.02]
+bymer06 folds
+** Summary **
+Platinummind collected [ $0.04 ]
+
+
+#Game No : 613237244
+***** 888poker Hand History for Game 613237244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 03:56:22
+Table Provo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bymer06 ( $1.18 )
+Seat 9: Platinummind ( $0.73 )
+bymer06 posts small blind [$0.01]
+Platinummind posts big blind [$0.02]
+** Dealing down cards **
+bymer06 folds
+** Summary **
+Platinummind collected [ $0.03 ]
+
+
+#Game No : 613237459
+***** 888poker Hand History for Game 613237459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 04:04:41
+Table Provo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: MyAn4uk ( $2.03 )
+Seat 6: scotty_96 ( $0.80 )
+scotty_96 posts small blind [$0.01]
+MyAn4uk posts big blind [$0.02]
+** Dealing down cards **
+scotty_96 folds
+** Summary **
+MyAn4uk collected [ $0.03 ]
+
+
+#Game No : 613237461
+***** 888poker Hand History for Game 613237461 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 04:04:49
+Table Provo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MyAn4uk ( $2.04 )
+Seat 6: scotty_96 ( $0.79 )
+MyAn4uk posts small blind [$0.01]
+scotty_96 posts big blind [$0.02]
+** Dealing down cards **
+MyAn4uk raises [$0.03]
+scotty_96 calls [$0.02]
+** Dealing flop ** [ 8s, 2d, 8c ]
+scotty_96 checks
+MyAn4uk checks
+** Dealing turn ** [ Qd ]
+scotty_96 checks
+MyAn4uk bets [$0.04]
+scotty_96 folds
+** Summary **
+MyAn4uk collected [ $0.08 ]
+
+
+#Game No : 613237478
+***** 888poker Hand History for Game 613237478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 04:05:26
+Table Provo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: MyAn4uk ( $2.08 )
+Seat 6: scotty_96 ( $0.75 )
+scotty_96 posts small blind [$0.01]
+MyAn4uk posts big blind [$0.02]
+** Dealing down cards **
+scotty_96 folds
+** Summary **
+MyAn4uk collected [ $0.03 ]
+
+
+#Game No : 613237480
+***** 888poker Hand History for Game 613237480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 04:05:32
+Table Provo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MyAn4uk ( $2.09 )
+Seat 6: scotty_96 ( $0.74 )
+MyAn4uk posts small blind [$0.01]
+scotty_96 posts big blind [$0.02]
+** Dealing down cards **
+MyAn4uk raises [$0.03]
+scotty_96 calls [$0.02]
+** Dealing flop ** [ 8h, 4s, 9s ]
+scotty_96 bets [$0.02]
+MyAn4uk raises [$0.06]
+scotty_96 calls [$0.04]
+** Dealing turn ** [ Ac ]
+scotty_96 bets [$0.02]
+MyAn4uk folds
+** Summary **
+scotty_96 collected [ $0.19 ]
+
+
+#Game No : 613241284
+***** 888poker Hand History for Game 613241284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 06:29:53
+Table Provo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nordfishAV ( $0.80 )
+Seat 6: watchyerback ( $2.81 )
+nordfishAV posts small blind [$0.01]
+watchyerback posts big blind [$0.02]
+** Dealing down cards **
+nordfishAV calls [$0.01]
+watchyerback checks
+** Dealing flop ** [ 2d, Td, Ah ]
+watchyerback checks
+nordfishAV checks
+** Dealing turn ** [ Kc ]
+watchyerback checks
+nordfishAV bets [$0.02]
+watchyerback folds
+** Summary **
+nordfishAV collected [ $0.04 ]
+
+
+#Game No : 613241299
+***** 888poker Hand History for Game 613241299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 06:30:25
+Table Provo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: nordfishAV ( $0.82 )
+Seat 6: watchyerback ( $2.79 )
+watchyerback posts small blind [$0.01]
+nordfishAV posts big blind [$0.02]
+** Dealing down cards **
+watchyerback calls [$0.01]
+nordfishAV checks
+** Dealing flop ** [ 3s, 2s, Kc ]
+nordfishAV checks
+watchyerback bets [$0.02]
+nordfishAV folds
+** Summary **
+watchyerback collected [ $0.04 ]
+
+
+#Game No : 613241329
+***** 888poker Hand History for Game 613241329 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 06:31:32
+Table Provo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: nordfishAV ( $0.82 )
+Seat 6: watchyerback ( $2.79 )
+watchyerback posts small blind [$0.01]
+nordfishAV posts big blind [$0.02]
+** Dealing down cards **
+watchyerback calls [$0.01]
+nordfishAV checks
+** Dealing flop ** [ Ac, 3d, Qd ]
+nordfishAV checks
+watchyerback bets [$0.02]
+nordfishAV folds
+** Summary **
+watchyerback collected [ $0.04 ]
+
+
+#Game No : 613242954
+***** 888poker Hand History for Game 613242954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 07:21:26
+Table Provo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: vladwalk ( $1.41 )
+Seat 9: sumoffair ( $0.58 )
+sumoffair posts small blind [$0.01]
+vladwalk posts big blind [$0.02]
+** Dealing down cards **
+sumoffair calls [$0.01]
+vladwalk checks
+** Dealing flop ** [ 5h, 6s, Kd ]
+vladwalk bets [$0.04]
+sumoffair calls [$0.04]
+** Dealing turn ** [ Jh ]
+vladwalk bets [$0.02]
+sumoffair raises [$0.18]
+vladwalk folds
+** Summary **
+sumoffair collected [ $0.15 ]
+
+

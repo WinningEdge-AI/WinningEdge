@@ -1,0 +1,75 @@
+#Game No : 1219873699
+***** 888poker Hand History for Game 1219873699 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 07:26:58
+Table Cesena 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Sasha70294 ( $0.80 )
+Seat 5: kUNGFUBB ( $0.80 )
+Sasha70294 posts small blind [$0.01]
+kUNGFUBB posts big blind [$0.02]
+** Dealing down cards **
+Sasha70294 raises [$0.03]
+kUNGFUBB calls [$0.02]
+** Dealing flop ** [ 2h, 4c, 8h ]
+kUNGFUBB checks
+Sasha70294 bets [$0.04]
+kUNGFUBB calls [$0.04]
+** Dealing turn ** [ 6h ]
+kUNGFUBB bets [$0.08]
+Sasha70294 raises [$0.40]
+kUNGFUBB raises [$0.64]
+Sasha70294 calls [$0.32]
+** Dealing river ** [ Ac ]
+** Summary **
+Sasha70294 shows [ Kd, Kh ]
+kUNGFUBB shows [ Th, 9c ]
+Sasha70294 collected [ $1.50 ]
+
+
+#Game No : 1219873837
+***** 888poker Hand History for Game 1219873837 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 07:27:41
+Table Cesena 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Sasha70294 ( $1.50 )
+Seat 5: kUNGFUBB ( $0.80 )
+kUNGFUBB posts small blind [$0.01]
+Sasha70294 posts big blind [$0.02]
+** Dealing down cards **
+kUNGFUBB raises [$0.05]
+Sasha70294 raises [$0.08]
+kUNGFUBB raises [$0.74]
+Sasha70294 calls [$0.70]
+** Dealing flop ** [ Qc, Ts, As ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 6c ]
+** Summary **
+Sasha70294 shows [ 7h, Ah ]
+kUNGFUBB shows [ 9c, Ad ]
+kUNGFUBB collected [ $0.75 ]
+Sasha70294 collected [ $0.75 ]
+
+
+#Game No : 1219873933
+***** 888poker Hand History for Game 1219873933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 07:28:09
+Table Cesena 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Sasha70294 ( $1.45 )
+Seat 5: kUNGFUBB ( $0.75 )
+Sasha70294 posts small blind [$0.01]
+kUNGFUBB posts big blind [$0.02]
+** Dealing down cards **
+Sasha70294 calls [$0.01]
+kUNGFUBB checks
+** Dealing flop ** [ 7d, Th, Qc ]
+kUNGFUBB checks
+Sasha70294 bets [$0.02]
+kUNGFUBB folds
+** Summary **
+Sasha70294 collected [ $0.04 ]
+
+

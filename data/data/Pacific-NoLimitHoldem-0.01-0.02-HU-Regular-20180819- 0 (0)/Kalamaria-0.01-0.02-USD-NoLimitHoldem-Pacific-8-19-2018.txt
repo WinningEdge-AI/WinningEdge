@@ -1,0 +1,58 @@
+#Game No : 501087794
+***** 888poker Hand History for Game 501087794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 18:08:25
+Table Kalamaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: killer_is_me ( $1.71 )
+Seat 9: BADUMAUA ( $1.01 )
+killer_is_me posts small blind [$0.01]
+BADUMAUA posts big blind [$0.02]
+** Dealing down cards **
+killer_is_me raises [$0.05]
+BADUMAUA calls [$0.04]
+** Dealing flop ** [ 6h, 3d, Ad ]
+BADUMAUA checks
+killer_is_me checks
+** Dealing turn ** [ 3h ]
+BADUMAUA checks
+killer_is_me checks
+** Dealing river ** [ 7s ]
+BADUMAUA bets [$0.08]
+killer_is_me folds
+** Summary **
+BADUMAUA collected [ $0.12 ]
+
+
+#Game No : 501087804
+***** 888poker Hand History for Game 501087804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 18:08:57
+Table Kalamaria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: killer_is_me ( $1.65 )
+Seat 9: BADUMAUA ( $1.07 )
+BADUMAUA posts small blind [$0.01]
+killer_is_me posts big blind [$0.02]
+** Dealing down cards **
+BADUMAUA folds
+** Summary **
+killer_is_me collected [ $0.03 ]
+
+
+#Game No : 501088600
+***** 888poker Hand History for Game 501088600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 18:52:53
+Table Kalamaria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: DRUS994 ( $1.54 )
+Seat 9: BADUMAUA ( $0.95 )
+BADUMAUA posts small blind [$0.01]
+DRUS994 posts big blind [$0.02]
+** Dealing down cards **
+BADUMAUA folds
+** Summary **
+DRUS994 collected [ $0.03 ]
+
+

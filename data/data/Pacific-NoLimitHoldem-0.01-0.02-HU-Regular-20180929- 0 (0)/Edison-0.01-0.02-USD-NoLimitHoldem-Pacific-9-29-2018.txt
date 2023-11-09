@@ -1,0 +1,73 @@
+#Game No : 503098936
+***** 888poker Hand History for Game 503098936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 12:40:10
+Table Edison 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: OlegH1 ( $1.01 )
+Seat 9: Skyluck11 ( $0.87 )
+Skyluck11 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ 9c, 6d, 9s ]
+OlegH1 checks
+Skyluck11 checks
+** Dealing turn ** [ Th ]
+OlegH1 checks
+Skyluck11 checks
+** Dealing river ** [ 7c ]
+OlegH1 checks
+Skyluck11 checks
+** Summary **
+OlegH1 shows [ Qs, Kd ]
+Skyluck11 shows [ 7d, 4d ]
+Skyluck11 collected [ $0.12 ]
+
+
+#Game No : 503098984
+***** 888poker Hand History for Game 503098984 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 12:41:07
+Table Edison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OlegH1 ( $1 )
+Seat 9: Skyluck11 ( $0.93 )
+OlegH1 posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+Skyluck11 checks
+** Dealing flop ** [ Qh, Qs, Kc ]
+Skyluck11 checks
+OlegH1 checks
+** Dealing turn ** [ 5d ]
+Skyluck11 checks
+OlegH1 bets [$0.02]
+Skyluck11 folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 503099393
+***** 888poker Hand History for Game 503099393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 12:48:11
+Table Edison 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: dolar.EU ( $1.90 )
+Seat 9: Skyluck11 ( $0.87 )
+Skyluck11 posts small blind [$0.01]
+dolar.EU posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 calls [$0.01]
+dolar.EU checks
+** Dealing flop ** [ 8c, Ks, 7c ]
+dolar.EU checks
+Skyluck11 bets [$0.02]
+dolar.EU folds
+** Summary **
+Skyluck11 collected [ $0.04 ]
+
+

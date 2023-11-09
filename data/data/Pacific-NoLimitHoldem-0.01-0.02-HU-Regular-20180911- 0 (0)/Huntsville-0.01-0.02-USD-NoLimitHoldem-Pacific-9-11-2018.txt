@@ -1,0 +1,82 @@
+#Game No : 502198665
+***** 888poker Hand History for Game 502198665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 09 2018 01:34:25
+Table Huntsville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Maguire56 ( $0.74 )
+Seat 6: BHCAD ( $1.42 )
+Maguire56 posts small blind [$0.01]
+BHCAD posts big blind [$0.02]
+** Dealing down cards **
+Maguire56 calls [$0.01]
+BHCAD checks
+** Dealing flop ** [ 6h, 3s, 6s ]
+Maguire56 checks
+BHCAD checks
+** Dealing turn ** [ 2d ]
+Maguire56 checks
+BHCAD checks
+** Dealing river ** [ Ah ]
+Maguire56 checks
+BHCAD checks
+** Summary **
+Maguire56 shows [ Kc, 4c ]
+BHCAD shows [ Ks, 9c ]
+BHCAD collected [ $0.04 ]
+
+
+#Game No : 502198687
+***** 888poker Hand History for Game 502198687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 09 2018 01:35:10
+Table Huntsville 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Maguire56 ( $0.72 )
+Seat 6: BHCAD ( $1.44 )
+Maguire56 posts small blind [$0.01]
+BHCAD posts big blind [$0.02]
+** Dealing down cards **
+Maguire56 calls [$0.01]
+BHCAD checks
+** Dealing flop ** [ Jc, 9h, Qh ]
+BHCAD checks
+Maguire56 checks
+** Dealing turn ** [ Qs ]
+BHCAD checks
+Maguire56 checks
+** Dealing river ** [ Kc ]
+BHCAD checks
+Maguire56 bets [$0.06]
+BHCAD folds
+** Summary **
+Maguire56 did not show his hand
+Maguire56 collected [ $0.04 ]
+
+
+#Game No : 502198710
+***** 888poker Hand History for Game 502198710 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 09 2018 01:36:09
+Table Huntsville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Maguire56 ( $0.74 )
+Seat 6: BHCAD ( $1.42 )
+BHCAD posts small blind [$0.01]
+Maguire56 posts big blind [$0.02]
+** Dealing down cards **
+BHCAD raises [$0.05]
+Maguire56 calls [$0.04]
+** Dealing flop ** [ Kd, As, 7h ]
+Maguire56 bets [$0.12]
+BHCAD calls [$0.12]
+** Dealing turn ** [ 9h ]
+Maguire56 bets [$0.56]
+BHCAD calls [$0.56]
+** Dealing river ** [ 8d ]
+** Summary **
+Maguire56 shows [ Ks, 7s ]
+BHCAD shows [ 9c, Kc ]
+BHCAD collected [ $1.39 ]
+
+

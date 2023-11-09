@@ -1,0 +1,353 @@
+#Game No : 499390888
+***** 888poker Hand History for Game 499390888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:10:23
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.69 )
+Seat 6: Cibrianmc ( $2.15 )
+Edgardohp posts small blind [$0.01]
+Cibrianmc posts big blind [$0.02]
+** Dealing down cards **
+Edgardohp calls [$0.01]
+Cibrianmc raises [$0.04]
+Edgardohp calls [$0.04]
+** Dealing flop ** [ 5h, As, 8c ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing turn ** [ 4s ]
+Cibrianmc bets [$0.04]
+Edgardohp calls [$0.04]
+** Dealing river ** [ 4c ]
+Cibrianmc bets [$0.13]
+Edgardohp calls [$0.13]
+** Summary **
+Cibrianmc shows [ Qc, Kc ]
+Edgardohp shows [ 8d, 6h ]
+Edgardohp collected [ $0.44 ]
+
+
+#Game No : 499390892
+***** 888poker Hand History for Game 499390892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:10:54
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.90 )
+Seat 6: Cibrianmc ( $1.92 )
+Cibrianmc posts small blind [$0.01]
+Edgardohp posts big blind [$0.02]
+** Dealing down cards **
+Cibrianmc calls [$0.01]
+Edgardohp checks
+** Dealing flop ** [ 6h, Ah, 5h ]
+Edgardohp checks
+Cibrianmc checks
+** Dealing turn ** [ Js ]
+Edgardohp checks
+Cibrianmc bets [$0.02]
+Edgardohp calls [$0.02]
+** Dealing river ** [ Qh ]
+Edgardohp checks
+Cibrianmc checks
+** Summary **
+Edgardohp shows [ 2s, 6s ]
+Cibrianmc mucks [ 3d, 4c ]
+Edgardohp collected [ $0.08 ]
+
+
+#Game No : 499390898
+***** 888poker Hand History for Game 499390898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:11:29
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.94 )
+Seat 6: Cibrianmc ( $1.88 )
+Edgardohp posts small blind [$0.01]
+Cibrianmc posts big blind [$0.02]
+** Dealing down cards **
+Edgardohp calls [$0.01]
+Cibrianmc checks
+** Dealing flop ** [ 2c, Js, 5c ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing turn ** [ 4s ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing river ** [ Ac ]
+Cibrianmc checks
+Edgardohp checks
+** Summary **
+Cibrianmc shows [ 3d, 8d ]
+Edgardohp mucks [ 7h, Qs ]
+Cibrianmc collected [ $0.04 ]
+
+
+#Game No : 499390905
+***** 888poker Hand History for Game 499390905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:12:05
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.92 )
+Seat 6: Cibrianmc ( $1.90 )
+Cibrianmc posts small blind [$0.01]
+Edgardohp posts big blind [$0.02]
+** Dealing down cards **
+Cibrianmc calls [$0.01]
+Edgardohp checks
+** Dealing flop ** [ 4h, 4s, 9s ]
+Edgardohp checks
+Cibrianmc checks
+** Dealing turn ** [ 2c ]
+Edgardohp checks
+Cibrianmc checks
+** Dealing river ** [ 3d ]
+Edgardohp bets [$0.04]
+Cibrianmc folds
+** Summary **
+Edgardohp collected [ $0.04 ]
+
+
+#Game No : 499390912
+***** 888poker Hand History for Game 499390912 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:12:37
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.94 )
+Seat 6: Cibrianmc ( $1.88 )
+Edgardohp posts small blind [$0.01]
+Cibrianmc posts big blind [$0.02]
+** Dealing down cards **
+Edgardohp calls [$0.01]
+Cibrianmc checks
+** Dealing flop ** [ 6c, Jc, 2c ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing turn ** [ 9h ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing river ** [ 7s ]
+Cibrianmc bets [$0.04]
+Edgardohp folds
+** Summary **
+Cibrianmc collected [ $0.04 ]
+
+
+#Game No : 499390920
+***** 888poker Hand History for Game 499390920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:13:12
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.92 )
+Seat 6: Cibrianmc ( $1.90 )
+Cibrianmc posts small blind [$0.01]
+Edgardohp posts big blind [$0.02]
+** Dealing down cards **
+Cibrianmc calls [$0.01]
+Edgardohp checks
+** Dealing flop ** [ Kd, 2c, 3d ]
+Edgardohp checks
+Cibrianmc checks
+** Dealing turn ** [ Kc ]
+Edgardohp checks
+Cibrianmc checks
+** Dealing river ** [ 7h ]
+Edgardohp checks
+Cibrianmc checks
+** Summary **
+Edgardohp shows [ 5d, 8h ]
+Cibrianmc shows [ Jc, 5h ]
+Cibrianmc collected [ $0.04 ]
+
+
+#Game No : 499390923
+***** 888poker Hand History for Game 499390923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:13:48
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.90 )
+Seat 6: Cibrianmc ( $1.92 )
+Edgardohp posts small blind [$0.01]
+Cibrianmc posts big blind [$0.02]
+** Dealing down cards **
+Edgardohp calls [$0.01]
+Cibrianmc checks
+** Dealing flop ** [ Js, Jd, As ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing turn ** [ Ah ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing river ** [ 2s ]
+Cibrianmc checks
+Edgardohp checks
+** Summary **
+Cibrianmc shows [ 2d, 6s ]
+Edgardohp mucks [ 3c, 5c ]
+Cibrianmc collected [ $0.04 ]
+
+
+#Game No : 499390928
+***** 888poker Hand History for Game 499390928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:14:14
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.88 )
+Seat 6: Cibrianmc ( $1.94 )
+Cibrianmc posts small blind [$0.01]
+Edgardohp posts big blind [$0.02]
+** Dealing down cards **
+Cibrianmc folds
+** Summary **
+Edgardohp collected [ $0.03 ]
+
+
+#Game No : 499390929
+***** 888poker Hand History for Game 499390929 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:14:22
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.89 )
+Seat 6: Cibrianmc ( $1.93 )
+Edgardohp posts small blind [$0.01]
+Cibrianmc posts big blind [$0.02]
+** Dealing down cards **
+Edgardohp calls [$0.01]
+Cibrianmc checks
+** Dealing flop ** [ 4c, Qc, Ks ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing turn ** [ 3d ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing river ** [ Th ]
+Cibrianmc checks
+Edgardohp checks
+** Summary **
+Cibrianmc shows [ 7c, 9s ]
+Edgardohp shows [ 4d, Ah ]
+Edgardohp collected [ $0.04 ]
+
+
+#Game No : 499390935
+***** 888poker Hand History for Game 499390935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:14:46
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $1.91 )
+Seat 6: Cibrianmc ( $1.91 )
+Cibrianmc posts small blind [$0.01]
+Edgardohp posts big blind [$0.02]
+** Dealing down cards **
+Cibrianmc calls [$0.01]
+Edgardohp checks
+** Dealing flop ** [ 6s, Kc, 9c ]
+Edgardohp checks
+Cibrianmc checks
+** Dealing turn ** [ Qh ]
+Edgardohp bets [$0.04]
+Cibrianmc calls [$0.04]
+** Dealing river ** [ 2h ]
+Edgardohp bets [$0.08]
+Cibrianmc calls [$0.08]
+** Summary **
+Edgardohp shows [ Ks, Th ]
+Cibrianmc mucks [ Kh, 5s ]
+Edgardohp collected [ $0.27 ]
+
+
+#Game No : 499390941
+***** 888poker Hand History for Game 499390941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:15:28
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $2.04 )
+Seat 6: Cibrianmc ( $1.77 )
+Edgardohp posts small blind [$0.01]
+Cibrianmc posts big blind [$0.02]
+** Dealing down cards **
+Edgardohp calls [$0.01]
+Cibrianmc checks
+** Dealing flop ** [ 7h, 8s, Qd ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing turn ** [ 6s ]
+Cibrianmc checks
+Edgardohp checks
+** Dealing river ** [ 7c ]
+Cibrianmc bets [$0.04]
+Edgardohp folds
+** Summary **
+Cibrianmc collected [ $0.04 ]
+
+
+#Game No : 499390945
+***** 888poker Hand History for Game 499390945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:16:00
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $2.02 )
+Seat 6: Cibrianmc ( $1.79 )
+Cibrianmc posts small blind [$0.01]
+Edgardohp posts big blind [$0.02]
+** Dealing down cards **
+Cibrianmc calls [$0.01]
+Edgardohp checks
+** Dealing flop ** [ Ac, 7c, 4d ]
+Edgardohp checks
+Cibrianmc checks
+** Dealing turn ** [ Td ]
+Edgardohp checks
+Cibrianmc checks
+** Dealing river ** [ 6s ]
+Edgardohp bets [$0.04]
+Cibrianmc folds
+** Summary **
+Edgardohp did not show his hand
+Edgardohp collected [ $0.04 ]
+
+
+#Game No : 499390950
+***** 888poker Hand History for Game 499390950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:16:45
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $2.04 )
+Seat 6: Cibrianmc ( $1.77 )
+Edgardohp posts small blind [$0.01]
+Cibrianmc posts big blind [$0.02]
+** Dealing down cards **
+Edgardohp calls [$0.01]
+Cibrianmc raises [$0.06]
+Edgardohp folds
+** Summary **
+Cibrianmc collected [ $0.04 ]
+
+
+#Game No : 499390953
+***** 888poker Hand History for Game 499390953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 18:16:58
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Edgardohp ( $2.02 )
+Seat 6: Cibrianmc ( $1.79 )
+Cibrianmc posts small blind [$0.01]
+Edgardohp posts big blind [$0.02]
+** Dealing down cards **
+Cibrianmc folds
+** Summary **
+Edgardohp collected [ $0.03 ]
+
+

@@ -1,0 +1,241 @@
+#Game No : 614489944
+***** 888poker Hand History for Game 614489944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:23:04
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $1.43 )
+Seat 9: AleksandR400 ( $0.63 )
+mad_colonel posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel raises [$0.03]
+AleksandR400 folds
+** Summary **
+mad_colonel collected [ $0.04 ]
+
+
+#Game No : 614489951
+***** 888poker Hand History for Game 614489951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:23:12
+Table Thornton 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $1.45 )
+Seat 9: AleksandR400 ( $0.61 )
+AleksandR400 posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.05]
+mad_colonel folds
+** Summary **
+AleksandR400 collected [ $0.04 ]
+
+
+#Game No : 614489960
+***** 888poker Hand History for Game 614489960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:23:22
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $1.43 )
+Seat 9: AleksandR400 ( $0.63 )
+mad_colonel posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel raises [$0.03]
+AleksandR400 calls [$0.02]
+** Dealing flop ** [ Ts, 2h, Jc ]
+AleksandR400 checks
+mad_colonel checks
+** Dealing turn ** [ 2d ]
+AleksandR400 checks
+mad_colonel checks
+** Dealing river ** [ 2c ]
+AleksandR400 checks
+mad_colonel checks
+** Summary **
+AleksandR400 shows [ 9d, Kd ]
+mad_colonel shows [ Ah, 5h ]
+mad_colonel collected [ $0.08 ]
+
+
+#Game No : 614489985
+***** 888poker Hand History for Game 614489985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:23:53
+Table Thornton 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $1.47 )
+Seat 9: AleksandR400 ( $0.59 )
+AleksandR400 posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.05]
+mad_colonel calls [$0.04]
+** Dealing flop ** [ 8c, Qc, 3h ]
+mad_colonel checks
+AleksandR400 checks
+** Dealing turn ** [ 7s ]
+mad_colonel checks
+AleksandR400 checks
+** Dealing river ** [ Ah ]
+mad_colonel bets [$0.06]
+AleksandR400 folds
+** Summary **
+mad_colonel collected [ $0.12 ]
+
+
+#Game No : 614490001
+***** 888poker Hand History for Game 614490001 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:24:20
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $1.53 )
+Seat 9: AleksandR400 ( $0.53 )
+mad_colonel posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel folds
+** Summary **
+AleksandR400 collected [ $0.03 ]
+
+
+#Game No : 614490181
+***** 888poker Hand History for Game 614490181 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:28:31
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Pmonkey8686 ( $0.80 )
+Seat 4: Fadzsi14 ( $1 )
+Fadzsi14 posts small blind [$0.01]
+Pmonkey8686 posts big blind [$0.02]
+** Dealing down cards **
+Fadzsi14 calls [$0.01]
+Pmonkey8686 checks
+** Dealing flop ** [ 8c, Qc, 7s ]
+Pmonkey8686 bets [$0.02]
+Fadzsi14 calls [$0.02]
+** Dealing turn ** [ 5s ]
+Pmonkey8686 bets [$0.02]
+Fadzsi14 calls [$0.02]
+** Dealing river ** [ 4c ]
+Pmonkey8686 bets [$0.02]
+Fadzsi14 calls [$0.02]
+** Summary **
+Pmonkey8686 shows [ 5d, 7d ]
+Fadzsi14 mucks [ 5h, Ks ]
+Pmonkey8686 collected [ $0.15 ]
+
+
+#Game No : 614490208
+***** 888poker Hand History for Game 614490208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:29:10
+Table Thornton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pmonkey8686 ( $0.87 )
+Seat 4: Fadzsi14 ( $0.92 )
+Pmonkey8686 posts small blind [$0.01]
+Fadzsi14 posts big blind [$0.02]
+** Dealing down cards **
+Pmonkey8686 calls [$0.01]
+Fadzsi14 raises [$0.04]
+Pmonkey8686 calls [$0.04]
+** Dealing flop ** [ 9h, 6c, Qh ]
+Fadzsi14 checks
+Pmonkey8686 checks
+** Dealing turn ** [ 2h ]
+Fadzsi14 checks
+Pmonkey8686 checks
+** Dealing river ** [ 4h ]
+Fadzsi14 bets [$0.02]
+Pmonkey8686 folds
+** Summary **
+Fadzsi14 collected [ $0.12 ]
+
+
+#Game No : 614490232
+***** 888poker Hand History for Game 614490232 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:29:37
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Pmonkey8686 ( $0.81 )
+Seat 4: Fadzsi14 ( $0.98 )
+Fadzsi14 posts small blind [$0.01]
+Pmonkey8686 posts big blind [$0.02]
+** Dealing down cards **
+Fadzsi14 raises [$0.03]
+Pmonkey8686 calls [$0.02]
+** Dealing flop ** [ 7h, Td, Jc ]
+Pmonkey8686 bets [$0.02]
+Fadzsi14 raises [$0.08]
+Pmonkey8686 folds
+** Summary **
+Fadzsi14 collected [ $0.12 ]
+
+
+#Game No : 614490252
+***** 888poker Hand History for Game 614490252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:30:06
+Table Thornton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pmonkey8686 ( $0.75 )
+Seat 4: Fadzsi14 ( $1.04 )
+Pmonkey8686 posts small blind [$0.01]
+Fadzsi14 posts big blind [$0.02]
+** Dealing down cards **
+Pmonkey8686 folds
+** Summary **
+Fadzsi14 collected [ $0.03 ]
+
+
+#Game No : 614490260
+***** 888poker Hand History for Game 614490260 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:30:12
+Table Thornton 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Pmonkey8686 ( $0.74 )
+Seat 4: Fadzsi14 ( $1.05 )
+Fadzsi14 posts small blind [$0.01]
+Pmonkey8686 posts big blind [$0.02]
+** Dealing down cards **
+Fadzsi14 calls [$0.01]
+Pmonkey8686 checks
+** Dealing flop ** [ 7d, 2c, 3d ]
+Pmonkey8686 checks
+Fadzsi14 bets [$0.02]
+Pmonkey8686 folds
+** Summary **
+Fadzsi14 collected [ $0.04 ]
+
+
+#Game No : 614490273
+***** 888poker Hand History for Game 614490273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:30:28
+Table Thornton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pmonkey8686 ( $0.72 )
+Seat 4: Fadzsi14 ( $1.07 )
+Pmonkey8686 posts small blind [$0.01]
+Fadzsi14 posts big blind [$0.02]
+** Dealing down cards **
+Pmonkey8686 calls [$0.01]
+Fadzsi14 checks
+** Dealing flop ** [ 9s, 6c, As ]
+Fadzsi14 bets [$0.02]
+Pmonkey8686 raises [$0.04]
+Fadzsi14 raises [$0.04]
+Pmonkey8686 raises [$0.04]
+Fadzsi14 raises [$0.04]
+Pmonkey8686 folds
+** Summary **
+Fadzsi14 collected [ $0.19 ]
+
+

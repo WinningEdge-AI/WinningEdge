@@ -1,0 +1,42 @@
+#Game No : 523142120
+***** 888poker Hand History for Game 523142120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 10 2019 04:06:10
+Table Colombo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: __kInza__ ( $1.26 )
+Seat 7: povilefke ( $2.89 )
+__kInza__ posts small blind [$0.01]
+povilefke posts big blind [$0.02]
+** Dealing down cards **
+__kInza__ calls [$0.01]
+povilefke checks
+** Dealing flop ** [ 4h, 2c, 5d ]
+povilefke checks
+__kInza__ checks
+** Dealing turn ** [ Qh ]
+povilefke checks
+__kInza__ checks
+** Dealing river ** [ 5c ]
+povilefke bets [$0.02]
+__kInza__ folds
+** Summary **
+povilefke collected [ $0.04 ]
+
+
+#Game No : 523142782
+***** 888poker Hand History for Game 523142782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 10 2019 04:39:47
+Table Colombo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Hype65 ( $0.80 )
+Seat 4: ZHYKOVSKIY ( $4.15 )
+Hype65 posts small blind [$0.01]
+ZHYKOVSKIY posts big blind [$0.02]
+** Dealing down cards **
+Hype65 folds
+** Summary **
+ZHYKOVSKIY collected [ $0.03 ]
+
+

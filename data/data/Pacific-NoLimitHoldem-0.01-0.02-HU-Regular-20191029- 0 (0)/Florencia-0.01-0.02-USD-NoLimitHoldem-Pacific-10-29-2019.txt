@@ -1,0 +1,27 @@
+#Game No : 1305548405
+***** 888poker Hand History for Game 1305548405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2019 22:22:11
+Table Florencia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: KAMILO_888 ( $1.82 )
+Seat 9: ElmerStouten ( $1.70 )
+KAMILO_888 posts small blind [$0.01]
+ElmerStouten posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 calls [$0.01]
+ElmerStouten checks
+** Dealing flop ** [ Tc, 2d, 7s ]
+ElmerStouten checks
+KAMILO_888 checks
+** Dealing turn ** [ Js ]
+ElmerStouten checks
+KAMILO_888 checks
+** Dealing river ** [ Kc ]
+ElmerStouten checks
+KAMILO_888 bets [$0.04]
+ElmerStouten folds
+** Summary **
+KAMILO_888 collected [ $0.04 ]
+
+

@@ -1,0 +1,115 @@
+#Game No : 1244688531
+***** 888poker Hand History for Game 1244688531 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 07:29:33
+Table Koblenz 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $2.08 )
+Seat 5: chips605 ( $2.05 )
+chips605 posts small blind [$0.01]
+1LadyMary posts big blind [$0.02]
+** Dealing down cards **
+chips605 raises [$0.05]
+1LadyMary calls [$0.04]
+** Dealing flop ** [ Qs, 2h, 9d ]
+1LadyMary checks
+chips605 bets [$0.08]
+1LadyMary calls [$0.08]
+** Dealing turn ** [ 3h ]
+1LadyMary checks
+chips605 checks
+** Dealing river ** [ Kd ]
+1LadyMary checks
+chips605 checks
+** Summary **
+1LadyMary shows [ 6h, Qh ]
+chips605 mucks [ 5c, Ah ]
+1LadyMary collected [ $0.27 ]
+
+
+#Game No : 1244688675
+***** 888poker Hand History for Game 1244688675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 07:30:06
+Table Koblenz 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $2.21 )
+Seat 5: chips605 ( $2 )
+1LadyMary posts small blind [$0.01]
+chips605 posts big blind [$0.02]
+** Dealing down cards **
+1LadyMary folds
+** Summary **
+chips605 did not show his hand
+chips605 collected [ $0.03 ]
+
+
+#Game No : 1244688698
+***** 888poker Hand History for Game 1244688698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 07:30:11
+Table Koblenz 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $2.20 )
+Seat 5: chips605 ( $2.01 )
+chips605 posts small blind [$0.01]
+1LadyMary posts big blind [$0.02]
+** Dealing down cards **
+chips605 raises [$0.05]
+1LadyMary folds
+** Summary **
+chips605 did not show his hand
+chips605 collected [ $0.04 ]
+
+
+#Game No : 1244688729
+***** 888poker Hand History for Game 1244688729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 07:30:20
+Table Koblenz 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $2.18 )
+Seat 5: chips605 ( $2.03 )
+1LadyMary posts small blind [$0.01]
+chips605 posts big blind [$0.02]
+** Dealing down cards **
+1LadyMary calls [$0.01]
+chips605 checks
+** Dealing flop ** [ Td, 8d, Ks ]
+chips605 checks
+1LadyMary checks
+** Dealing turn ** [ Tc ]
+chips605 checks
+1LadyMary checks
+** Dealing river ** [ 9c ]
+chips605 checks
+1LadyMary checks
+** Summary **
+chips605 shows [ 2d, 9h ]
+1LadyMary mucks [ 6c, 5d ]
+chips605 collected [ $0.04 ]
+
+
+#Game No : 1244688829
+***** 888poker Hand History for Game 1244688829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 07:30:44
+Table Koblenz 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $2.16 )
+Seat 5: chips605 ( $2.05 )
+chips605 posts small blind [$0.01]
+1LadyMary posts big blind [$0.02]
+** Dealing down cards **
+chips605 raises [$0.05]
+1LadyMary calls [$0.04]
+** Dealing flop ** [ Ah, 4s, 5h ]
+1LadyMary checks
+chips605 checks
+** Dealing turn ** [ 8c ]
+1LadyMary bets [$0.12]
+chips605 folds
+** Summary **
+1LadyMary collected [ $0.12 ]
+
+

@@ -1,0 +1,73 @@
+#Game No : 461139351
+***** 888poker Hand History for Game 461139351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 11:43:27
+Table Helmond 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Hombr ( $0.73 )
+Seat 7: F1nans ( $2.19 )
+Hombr posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Hombr calls [$0.01]
+F1nans checks
+** Dealing flop ** [ 7c, As, 8h ]
+F1nans checks
+Hombr checks
+** Dealing turn ** [ 8s ]
+F1nans checks
+Hombr checks
+** Dealing river ** [ 4c ]
+F1nans checks
+Hombr checks
+** Summary **
+F1nans shows [ 9d, 5c ]
+Hombr mucks [ 3s, 5h ]
+F1nans collected [ $0.04 ]
+
+
+#Game No : 461139451
+***** 888poker Hand History for Game 461139451 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 11:45:01
+Table Helmond 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Hombr ( $0.73 )
+Seat 7: F1nans ( $2.21 )
+Hombr posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Hombr calls [$0.01]
+F1nans checks
+** Dealing flop ** [ Jh, 2h, Td ]
+F1nans bets [$0.04]
+Hombr calls [$0.04]
+** Dealing turn ** [ Kc ]
+F1nans checks
+Hombr checks
+** Dealing river ** [ 4h ]
+F1nans checks
+Hombr bets [$0.04]
+F1nans calls [$0.04]
+** Summary **
+Hombr shows [ 4d, Jc ]
+F1nans mucks [ 7d, Jd ]
+Hombr collected [ $0.19 ]
+
+
+#Game No : 461139484
+***** 888poker Hand History for Game 461139484 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 11:45:35
+Table Helmond 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Hombr ( $0.82 )
+Seat 7: F1nans ( $2.11 )
+F1nans posts small blind [$0.01]
+Hombr posts big blind [$0.02]
+** Dealing down cards **
+F1nans folds
+** Summary **
+Hombr collected [ $0.03 ]
+
+

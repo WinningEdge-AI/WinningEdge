@@ -1,0 +1,459 @@
+#Game No : 499098592
+***** 888poker Hand History for Game 499098592 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 13:33:27
+Table Nis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kli2000 ( $1 )
+Seat 4: bratsvat ( $1.04 )
+kli2000 posts small blind [$0.01]
+bratsvat posts big blind [$0.02]
+** Dealing down cards **
+kli2000 raises [$0.05]
+bratsvat calls [$0.04]
+** Dealing flop ** [ Kd, 6c, Kh ]
+bratsvat checks
+kli2000 checks
+** Dealing turn ** [ 5s ]
+bratsvat checks
+kli2000 checks
+** Dealing river ** [ 8h ]
+bratsvat checks
+kli2000 bets [$0.08]
+bratsvat calls [$0.08]
+** Summary **
+kli2000 shows [ Th, 5d ]
+bratsvat mucks [ Ad, 4d ]
+kli2000 collected [ $0.27 ]
+
+
+#Game No : 499098612
+***** 888poker Hand History for Game 499098612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 13:33:58
+Table Nis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: kli2000 ( $1.13 )
+Seat 4: bratsvat ( $0.90 )
+bratsvat posts small blind [$0.01]
+kli2000 posts big blind [$0.02]
+** Dealing down cards **
+bratsvat calls [$0.01]
+kli2000 raises [$0.06]
+bratsvat folds
+** Summary **
+kli2000 collected [ $0.04 ]
+
+
+#Game No : 499101519
+***** 888poker Hand History for Game 499101519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:20:14
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gogeld ( $2.16 )
+Seat 7: klanxs ( $0.66 )
+gogeld posts small blind [$0.01]
+klanxs posts big blind [$0.02]
+** Dealing down cards **
+gogeld calls [$0.01]
+klanxs checks
+** Dealing flop ** [ As, 9h, 3s ]
+klanxs checks
+gogeld bets [$0.04]
+klanxs calls [$0.04]
+** Dealing turn ** [ Ah ]
+klanxs checks
+gogeld bets [$0.08]
+klanxs folds
+** Summary **
+gogeld collected [ $0.12 ]
+
+
+#Game No : 499101533
+***** 888poker Hand History for Game 499101533 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:20:52
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gogeld ( $2.22 )
+Seat 7: klanxs ( $0.60 )
+klanxs posts small blind [$0.01]
+gogeld posts big blind [$0.02]
+** Dealing down cards **
+klanxs raises [$0.03]
+gogeld calls [$0.02]
+** Dealing flop ** [ 3h, 5h, Qc ]
+gogeld bets [$0.08]
+klanxs calls [$0.08]
+** Dealing turn ** [ As ]
+gogeld checks
+klanxs checks
+** Dealing river ** [ 8c ]
+gogeld checks
+klanxs checks
+** Summary **
+gogeld shows [ Qs, Tc ]
+klanxs mucks [ 4d, 5c ]
+gogeld collected [ $0.23 ]
+
+
+#Game No : 499101540
+***** 888poker Hand History for Game 499101540 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:21:19
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gogeld ( $2.33 )
+Seat 7: klanxs ( $0.48 )
+gogeld posts small blind [$0.01]
+klanxs posts big blind [$0.02]
+** Dealing down cards **
+gogeld calls [$0.01]
+klanxs checks
+** Dealing flop ** [ Ah, 7d, 6d ]
+klanxs checks
+gogeld bets [$0.04]
+klanxs folds
+** Summary **
+gogeld collected [ $0.04 ]
+
+
+#Game No : 499101544
+***** 888poker Hand History for Game 499101544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:21:32
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gogeld ( $2.35 )
+Seat 7: klanxs ( $0.46 )
+klanxs posts small blind [$0.01]
+gogeld posts big blind [$0.02]
+** Dealing down cards **
+klanxs raises [$0.03]
+gogeld calls [$0.02]
+** Dealing flop ** [ Qs, 9h, Ts ]
+gogeld checks
+klanxs bets [$0.04]
+gogeld folds
+** Summary **
+klanxs collected [ $0.08 ]
+
+
+#Game No : 499101549
+***** 888poker Hand History for Game 499101549 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:21:44
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gogeld ( $2.31 )
+Seat 7: klanxs ( $0.50 )
+gogeld posts small blind [$0.01]
+klanxs posts big blind [$0.02]
+** Dealing down cards **
+gogeld calls [$0.01]
+klanxs raises [$0.04]
+gogeld calls [$0.04]
+** Dealing flop ** [ 9s, 2d, Jd ]
+klanxs bets [$0.06]
+gogeld calls [$0.06]
+** Dealing turn ** [ 8s ]
+klanxs bets [$0.12]
+gogeld folds
+** Summary **
+klanxs collected [ $0.23 ]
+
+
+#Game No : 499101557
+***** 888poker Hand History for Game 499101557 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:22:08
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gogeld ( $2.19 )
+Seat 7: klanxs ( $0.61 )
+klanxs posts small blind [$0.01]
+gogeld posts big blind [$0.02]
+** Dealing down cards **
+klanxs raises [$0.03]
+gogeld calls [$0.02]
+** Dealing flop ** [ Js, 9s, 7h ]
+gogeld checks
+klanxs bets [$0.04]
+gogeld calls [$0.04]
+** Dealing turn ** [ 3d ]
+gogeld checks
+klanxs bets [$0.10]
+gogeld calls [$0.10]
+** Dealing river ** [ 7c ]
+gogeld checks
+klanxs bets [$0.22]
+gogeld calls [$0.22]
+** Summary **
+klanxs shows [ Ks, Jh ]
+gogeld mucks [ 8h, Ah ]
+klanxs collected [ $0.75 ]
+
+
+#Game No : 499101577
+***** 888poker Hand History for Game 499101577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:22:58
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gogeld ( $1.88 )
+Seat 7: klanxs ( $0.88 )
+klanxs posts small blind [$0.01]
+gogeld posts big blind [$0.02]
+** Dealing down cards **
+klanxs raises [$0.03]
+gogeld calls [$0.02]
+** Dealing flop ** [ Jc, 7c, 4d ]
+gogeld checks
+klanxs checks
+** Dealing turn ** [ 8c ]
+gogeld checks
+klanxs checks
+** Dealing river ** [ 4s ]
+gogeld checks
+klanxs checks
+** Summary **
+gogeld shows [ Kd, 2c ]
+klanxs shows [ Ah, 6s ]
+klanxs collected [ $0.08 ]
+
+
+#Game No : 499101585
+***** 888poker Hand History for Game 499101585 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:23:16
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gogeld ( $1.84 )
+Seat 7: klanxs ( $0.92 )
+gogeld posts small blind [$0.01]
+klanxs posts big blind [$0.02]
+** Dealing down cards **
+gogeld calls [$0.01]
+klanxs checks
+** Dealing flop ** [ As, 4d, 6d ]
+klanxs checks
+gogeld bets [$0.02]
+klanxs folds
+** Summary **
+gogeld collected [ $0.04 ]
+
+
+#Game No : 499101589
+***** 888poker Hand History for Game 499101589 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:23:29
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gogeld ( $1.86 )
+Seat 7: klanxs ( $0.90 )
+klanxs posts small blind [$0.01]
+gogeld posts big blind [$0.02]
+** Dealing down cards **
+klanxs raises [$0.03]
+gogeld calls [$0.02]
+** Dealing flop ** [ As, Ks, Js ]
+gogeld checks
+klanxs checks
+** Dealing turn ** [ 7d ]
+gogeld checks
+klanxs checks
+** Dealing river ** [ 8s ]
+gogeld checks
+klanxs checks
+** Summary **
+gogeld shows [ 6h, 8h ]
+klanxs mucks [ 4h, 2h ]
+gogeld collected [ $0.08 ]
+
+
+#Game No : 499101646
+***** 888poker Hand History for Game 499101646 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:26:06
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: klanxs ( $0.69 )
+Seat 9: norman242 ( $1.11 )
+klanxs posts small blind [$0.01]
+norman242 posts big blind [$0.02]
+** Dealing down cards **
+klanxs raises [$0.03]
+norman242 folds
+** Summary **
+klanxs collected [ $0.04 ]
+
+
+#Game No : 499101648
+***** 888poker Hand History for Game 499101648 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:26:12
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: klanxs ( $0.71 )
+Seat 9: norman242 ( $1.09 )
+norman242 posts small blind [$0.01]
+klanxs posts big blind [$0.02]
+** Dealing down cards **
+norman242 folds
+** Summary **
+klanxs collected [ $0.03 ]
+
+
+#Game No : 499101847
+***** 888poker Hand History for Game 499101847 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:36:08
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gogeld ( $1.50 )
+Seat 9: norman242 ( $1.23 )
+gogeld posts small blind [$0.01]
+norman242 posts big blind [$0.02]
+** Dealing down cards **
+gogeld calls [$0.01]
+norman242 checks
+** Dealing flop ** [ 3s, 2d, 7c ]
+norman242 checks
+gogeld checks
+** Dealing turn ** [ Ts ]
+norman242 checks
+gogeld bets [$0.10]
+norman242 folds
+** Summary **
+gogeld did not show his hand
+gogeld collected [ $0.04 ]
+
+
+#Game No : 499101851
+***** 888poker Hand History for Game 499101851 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:36:30
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: gogeld ( $1.52 )
+Seat 9: norman242 ( $1.21 )
+norman242 posts small blind [$0.01]
+gogeld posts big blind [$0.02]
+** Dealing down cards **
+norman242 calls [$0.01]
+gogeld checks
+** Dealing flop ** [ 7c, Qc, Jh ]
+gogeld checks
+norman242 bets [$0.04]
+gogeld folds
+** Summary **
+norman242 did not show his hand
+norman242 collected [ $0.04 ]
+
+
+#Game No : 499102063
+***** 888poker Hand History for Game 499102063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:50:20
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: hoginnit ( $0.67 )
+Seat 7: AntonPylyp ( $2.76 )
+AntonPylyp posts small blind [$0.01]
+hoginnit posts big blind [$0.02]
+** Dealing down cards **
+AntonPylyp folds
+** Summary **
+hoginnit collected [ $0.03 ]
+
+
+#Game No : 499103135
+***** 888poker Hand History for Game 499103135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 16:54:41
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $1.09 )
+Seat 9: MisterPipisi ( $2.92 )
+chris5106 posts small blind [$0.01]
+MisterPipisi posts big blind [$0.02]
+** Dealing down cards **
+chris5106 raises [$0.05]
+MisterPipisi calls [$0.04]
+** Dealing flop ** [ 6h, Qd, Ac ]
+MisterPipisi bets [$0.08]
+chris5106 calls [$0.08]
+** Dealing turn ** [ Td ]
+MisterPipisi bets [$0.10]
+chris5106 calls [$0.10]
+** Dealing river ** [ 7c ]
+MisterPipisi bets [$2.68]
+chris5106 calls [$0.85]
+** Summary **
+chris5106 shows [ Ks, Qh ]
+MisterPipisi shows [ 4d, Qc ]
+chris5106 collected [ $2.05 ]
+
+
+#Game No : 499103146
+***** 888poker Hand History for Game 499103146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 16:55:19
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.05 )
+Seat 9: MisterPipisi ( $1.83 )
+MisterPipisi posts small blind [$0.01]
+chris5106 posts big blind [$0.02]
+** Dealing down cards **
+MisterPipisi calls [$0.01]
+chris5106 checks
+** Dealing flop ** [ 3s, Jc, 3c ]
+chris5106 bets [$0.06]
+MisterPipisi calls [$0.06]
+** Dealing turn ** [ Kd ]
+chris5106 bets [$0.06]
+MisterPipisi folds
+** Summary **
+chris5106 collected [ $0.15 ]
+
+
+#Game No : 499103153
+***** 888poker Hand History for Game 499103153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 16:55:40
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.12 )
+Seat 9: MisterPipisi ( $1.75 )
+chris5106 posts small blind [$0.01]
+MisterPipisi posts big blind [$0.02]
+** Dealing down cards **
+chris5106 raises [$0.05]
+MisterPipisi folds
+** Summary **
+chris5106 collected [ $0.04 ]
+
+
+#Game No : 499103155
+***** 888poker Hand History for Game 499103155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 16:55:48
+Table Nis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.14 )
+Seat 9: MisterPipisi ( $1.73 )
+MisterPipisi posts small blind [$0.01]
+chris5106 posts big blind [$0.02]
+** Dealing down cards **
+MisterPipisi calls [$0.01]
+chris5106 raises [$0.04]
+MisterPipisi calls [$0.04]
+** Dealing flop ** [ Jh, 2s, Ts ]
+chris5106 bets [$0.12]
+MisterPipisi folds
+** Summary **
+chris5106 collected [ $0.12 ]
+
+

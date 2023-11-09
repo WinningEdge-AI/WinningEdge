@@ -1,0 +1,369 @@
+#Game No : 501674517
+***** 888poker Hand History for Game 501674517 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 16:11:30
+Table Debrecen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OlegH1 ( $1.02 )
+Seat 7: gelattino67 ( $0.98 )
+OlegH1 posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+gelattino67 did not show his hand
+gelattino67 collected [ $0.03 ]
+
+
+#Game No : 510022065
+***** 888poker Hand History for Game 510022065 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 03:48:57
+Table Debrecen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 2: NPV_Phenomen ( $1.91 )
+Seat 10: kas_es ( $5.36 )
+kas_es posts small blind [$0.01]
+NPV_Phenomen posts big blind [$0.02]
+** Dealing down cards **
+kas_es calls [$0.01]
+NPV_Phenomen checks
+** Dealing flop ** [ Ts, 2c, 9s ]
+NPV_Phenomen checks
+kas_es bets [$0.03]
+NPV_Phenomen folds
+** Summary **
+kas_es did not show his hand
+kas_es collected [ $0.04 ]
+
+
+#Game No : 510022087
+***** 888poker Hand History for Game 510022087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 03:49:22
+Table Debrecen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: NPV_Phenomen ( $1.89 )
+Seat 10: kas_es ( $5.38 )
+NPV_Phenomen posts small blind [$0.01]
+kas_es posts big blind [$0.02]
+** Dealing down cards **
+NPV_Phenomen calls [$0.01]
+kas_es checks
+** Dealing flop ** [ Ac, 5h, 8s ]
+kas_es checks
+NPV_Phenomen bets [$0.02]
+kas_es calls [$0.02]
+** Dealing turn ** [ 3c ]
+kas_es bets [$0.04]
+NPV_Phenomen folds
+** Summary **
+kas_es collected [ $0.08 ]
+
+
+#Game No : 510022451
+***** 888poker Hand History for Game 510022451 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 03:57:03
+Table Debrecen 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: archerf ( $2.33 )
+Seat 10: kas_es ( $5.39 )
+archerf posts small blind [$0.01]
+kas_es posts big blind [$0.02]
+** Dealing down cards **
+archerf calls [$0.01]
+kas_es checks
+** Dealing flop ** [ Ks, Ts, Jd ]
+kas_es bets [$0.03]
+archerf calls [$0.03]
+** Dealing turn ** [ 8c ]
+kas_es bets [$0.05]
+archerf calls [$0.05]
+** Dealing river ** [ Js ]
+kas_es bets [$0.10]
+archerf folds
+** Summary **
+kas_es did not show his hand
+kas_es collected [ $0.19 ]
+
+
+#Game No : 510022493
+***** 888poker Hand History for Game 510022493 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 03:57:55
+Table Debrecen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: archerf ( $2.23 )
+Seat 10: kas_es ( $5.48 )
+kas_es posts small blind [$0.01]
+archerf posts big blind [$0.02]
+** Dealing down cards **
+kas_es raises [$0.15]
+archerf calls [$0.14]
+** Dealing flop ** [ 9s, 7h, 4d ]
+archerf checks
+kas_es checks
+** Dealing turn ** [ Ks ]
+archerf bets [$0.16]
+kas_es calls [$0.16]
+** Dealing river ** [ 3c ]
+archerf checks
+kas_es checks
+** Summary **
+archerf shows [ 4s, 2s ]
+kas_es shows [ Jd, 9d ]
+kas_es collected [ $0.60 ]
+
+
+#Game No : 510022530
+***** 888poker Hand History for Game 510022530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 03:58:49
+Table Debrecen 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: archerf ( $1.91 )
+Seat 10: kas_es ( $5.76 )
+archerf posts small blind [$0.01]
+kas_es posts big blind [$0.02]
+** Dealing down cards **
+archerf calls [$0.01]
+kas_es checks
+** Dealing flop ** [ Kh, Tc, 4d ]
+kas_es bets [$0.04]
+archerf folds
+** Summary **
+kas_es did not show his hand
+kas_es collected [ $0.04 ]
+
+
+#Game No : 510022550
+***** 888poker Hand History for Game 510022550 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 03:59:11
+Table Debrecen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: archerf ( $1.89 )
+Seat 10: kas_es ( $5.78 )
+kas_es posts small blind [$0.01]
+archerf posts big blind [$0.02]
+** Dealing down cards **
+kas_es raises [$0.15]
+archerf calls [$0.14]
+** Dealing flop ** [ Kd, Kc, Ac ]
+archerf checks
+kas_es checks
+** Dealing turn ** [ Js ]
+archerf checks
+kas_es checks
+** Dealing river ** [ Qh ]
+archerf checks
+kas_es bets [$0.16]
+archerf folds
+** Summary **
+kas_es did not show his hand
+kas_es collected [ $0.30 ]
+
+
+#Game No : 510022610
+***** 888poker Hand History for Game 510022610 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 04:00:23
+Table Debrecen 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: archerf ( $1.73 )
+Seat 10: kas_es ( $5.92 )
+archerf posts small blind [$0.01]
+kas_es posts big blind [$0.02]
+** Dealing down cards **
+archerf calls [$0.01]
+kas_es checks
+** Dealing flop ** [ 8s, Qc, 6d ]
+kas_es bets [$0.04]
+archerf calls [$0.04]
+** Dealing turn ** [ 4s ]
+kas_es bets [$0.09]
+archerf folds
+** Summary **
+kas_es did not show his hand
+kas_es collected [ $0.12 ]
+
+
+#Game No : 510022637
+***** 888poker Hand History for Game 510022637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 04:00:58
+Table Debrecen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: archerf ( $1.67 )
+Seat 10: kas_es ( $5.98 )
+kas_es posts small blind [$0.01]
+archerf posts big blind [$0.02]
+** Dealing down cards **
+kas_es raises [$0.15]
+archerf folds
+** Summary **
+kas_es collected [ $0.04 ]
+
+
+#Game No : 510022661
+***** 888poker Hand History for Game 510022661 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 04:01:20
+Table Debrecen 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: archerf ( $1.65 )
+Seat 10: kas_es ( $6 )
+archerf posts small blind [$0.01]
+kas_es posts big blind [$0.02]
+** Dealing down cards **
+archerf calls [$0.01]
+kas_es checks
+** Dealing flop ** [ Qc, 8h, Ac ]
+kas_es bets [$0.04]
+archerf calls [$0.04]
+** Dealing turn ** [ Ad ]
+kas_es bets [$0.09]
+archerf calls [$0.09]
+** Dealing river ** [ 7s ]
+kas_es bets [$0.22]
+archerf calls [$0.22]
+** Summary **
+kas_es shows [ Qh, Tc ]
+archerf mucks [ 7h, 8d ]
+kas_es collected [ $0.70 ]
+
+
+#Game No : 510023040
+***** 888poker Hand History for Game 510023040 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 04:10:26
+Table Debrecen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: archerf ( $0.97 )
+Seat 5: wuuddah ( $2.35 )
+wuuddah posts small blind [$0.01]
+archerf posts big blind [$0.02]
+** Dealing down cards **
+wuuddah raises [$0.05]
+archerf calls [$0.04]
+** Dealing flop ** [ Td, Kc, Kd ]
+archerf checks
+wuuddah bets [$0.08]
+archerf folds
+** Summary **
+wuuddah collected [ $0.12 ]
+
+
+#Game No : 510023057
+***** 888poker Hand History for Game 510023057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 04:10:52
+Table Debrecen 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: archerf ( $0.91 )
+Seat 5: wuuddah ( $2.41 )
+archerf posts small blind [$0.01]
+wuuddah posts big blind [$0.02]
+** Dealing down cards **
+archerf calls [$0.01]
+wuuddah checks
+** Dealing flop ** [ 6s, Ah, Th ]
+wuuddah checks
+archerf bets [$0.02]
+wuuddah folds
+** Summary **
+archerf collected [ $0.04 ]
+
+
+#Game No : 510023072
+***** 888poker Hand History for Game 510023072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 04:11:15
+Table Debrecen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: archerf ( $0.93 )
+Seat 5: wuuddah ( $2.39 )
+wuuddah posts small blind [$0.01]
+archerf posts big blind [$0.02]
+** Dealing down cards **
+wuuddah folds
+** Summary **
+archerf collected [ $0.03 ]
+
+
+#Game No : 510023075
+***** 888poker Hand History for Game 510023075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 04:11:20
+Table Debrecen 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: archerf ( $0.94 )
+Seat 5: wuuddah ( $2.38 )
+archerf posts small blind [$0.01]
+wuuddah posts big blind [$0.02]
+** Dealing down cards **
+archerf calls [$0.01]
+wuuddah checks
+** Dealing flop ** [ 5s, 7c, Js ]
+wuuddah checks
+archerf bets [$0.02]
+wuuddah calls [$0.02]
+** Dealing turn ** [ 6h ]
+wuuddah checks
+archerf bets [$0.02]
+wuuddah calls [$0.02]
+** Dealing river ** [ Ts ]
+wuuddah checks
+archerf bets [$0.06]
+wuuddah folds
+** Summary **
+archerf collected [ $0.12 ]
+
+
+#Game No : 510023111
+***** 888poker Hand History for Game 510023111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 04:12:16
+Table Debrecen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: archerf ( $1 )
+Seat 5: wuuddah ( $2.32 )
+wuuddah posts small blind [$0.01]
+archerf posts big blind [$0.02]
+** Dealing down cards **
+wuuddah raises [$0.05]
+archerf calls [$0.04]
+** Dealing flop ** [ 9s, Jc, 9h ]
+archerf checks
+wuuddah bets [$0.08]
+archerf calls [$0.08]
+** Dealing turn ** [ Kc ]
+archerf checks
+wuuddah bets [$0.20]
+archerf calls [$0.20]
+** Dealing river ** [ 2d ]
+archerf checks
+wuuddah bets [$0.45]
+archerf folds
+** Summary **
+wuuddah collected [ $0.64 ]
+
+
+#Game No : 510025937
+***** 888poker Hand History for Game 510025937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 05:11:02
+Table Debrecen 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Lovelock104 ( $1.85 )
+Seat 3: lrv1974 ( $3.04 )
+Lovelock104 posts small blind [$0.01]
+lrv1974 posts big blind [$0.02]
+** Dealing down cards **
+Lovelock104 folds
+** Summary **
+lrv1974 did not show his hand
+lrv1974 collected [ $0.03 ]
+
+

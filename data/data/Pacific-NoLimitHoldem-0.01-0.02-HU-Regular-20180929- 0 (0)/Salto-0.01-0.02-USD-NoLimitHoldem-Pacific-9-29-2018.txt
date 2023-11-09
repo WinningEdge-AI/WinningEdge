@@ -1,0 +1,71 @@
+#Game No : 503082463
+***** 888poker Hand History for Game 503082463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 07:13:47
+Table Salto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Angrydota ( $1.64 )
+Seat 7: 444Gali15 ( $1.07 )
+Angrydota posts small blind [$0.01]
+444Gali15 posts big blind [$0.02]
+** Dealing down cards **
+Angrydota raises [$0.05]
+444Gali15 calls [$0.04]
+** Dealing flop ** [ Js, Ts, Kd ]
+Angrydota bets [$0.08]
+444Gali15 raises [$0.16]
+Angrydota calls [$0.08]
+** Dealing turn ** [ 5s ]
+Angrydota checks
+444Gali15 bets [$0.29]
+Angrydota folds
+** Summary **
+444Gali15 collected [ $0.42 ]
+
+
+#Game No : 503091706
+***** 888poker Hand History for Game 503091706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:39:26
+Table Salto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: 777luckyfish ( $1.83 )
+Seat 7: nutsUA ( $1.54 )
+777luckyfish posts small blind [$0.01]
+nutsUA posts big blind [$0.02]
+** Dealing down cards **
+777luckyfish folds
+** Summary **
+nutsUA collected [ $0.03 ]
+
+
+#Game No : 503091712
+***** 888poker Hand History for Game 503091712 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:39:36
+Table Salto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: 777luckyfish ( $1.82 )
+Seat 7: nutsUA ( $1.55 )
+nutsUA posts small blind [$0.01]
+777luckyfish posts big blind [$0.02]
+** Dealing down cards **
+nutsUA raises [$0.05]
+777luckyfish calls [$0.04]
+** Dealing flop ** [ 7h, Jh, 6h ]
+777luckyfish checks
+nutsUA bets [$0.12]
+777luckyfish raises [$0.24]
+nutsUA calls [$0.12]
+** Dealing turn ** [ 3d ]
+777luckyfish checks
+nutsUA bets [$0.60]
+777luckyfish raises [$1.52]
+nutsUA calls [$0.65]
+** Dealing river ** [ 5h ]
+** Summary **
+777luckyfish shows [ Jd, Kh ]
+nutsUA shows [ Tc, 7c ]
+777luckyfish collected [ $2.91 ]
+
+

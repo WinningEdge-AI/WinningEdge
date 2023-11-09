@@ -1,0 +1,392 @@
+#Game No : 503847155
+***** 888poker Hand History for Game 503847155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 15:56:24
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Muay_Thai112 ( $0.99 )
+Seat 7: osamaelking ( $0.78 )
+Muay_Thai112 posts small blind [$0.01]
+osamaelking posts big blind [$0.02]
+** Dealing down cards **
+Muay_Thai112 raises [$0.07]
+osamaelking folds
+** Summary **
+Muay_Thai112 did not show his hand
+Muay_Thai112 collected [ $0.04 ]
+
+
+#Game No : 503847157
+***** 888poker Hand History for Game 503847157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 15:56:34
+Table Potsdam 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Muay_Thai112 ( $1.01 )
+Seat 7: osamaelking ( $0.76 )
+osamaelking posts small blind [$0.01]
+Muay_Thai112 posts big blind [$0.02]
+** Dealing down cards **
+osamaelking calls [$0.01]
+Muay_Thai112 checks
+** Dealing flop ** [ 2d, 8s, Ks ]
+Muay_Thai112 checks
+osamaelking bets [$0.02]
+Muay_Thai112 folds
+** Summary **
+osamaelking did not show his hand
+osamaelking collected [ $0.04 ]
+
+
+#Game No : 503847441
+***** 888poker Hand History for Game 503847441 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:06:46
+Table Potsdam 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: TamasPataki ( $0.78 )
+Seat 7: osamaelking ( $1.32 )
+TamasPataki posts small blind [$0.01]
+osamaelking posts big blind [$0.02]
+** Dealing down cards **
+TamasPataki calls [$0.01]
+osamaelking checks
+** Dealing flop ** [ 4c, Tc, 9h ]
+osamaelking checks
+TamasPataki checks
+** Dealing turn ** [ 5h ]
+osamaelking checks
+TamasPataki checks
+** Dealing river ** [ 5s ]
+osamaelking checks
+TamasPataki checks
+** Summary **
+osamaelking shows [ As, 4h ]
+TamasPataki mucks [ 8d, 7h ]
+osamaelking collected [ $0.04 ]
+
+
+#Game No : 503847515
+***** 888poker Hand History for Game 503847515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:09:18
+Table Potsdam 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: TamasPataki ( $0.76 )
+Seat 7: osamaelking ( $1.34 )
+osamaelking posts small blind [$0.01]
+TamasPataki posts big blind [$0.02]
+** Dealing down cards **
+osamaelking calls [$0.01]
+TamasPataki checks
+** Dealing flop ** [ Jc, 5c, 8h ]
+TamasPataki checks
+osamaelking checks
+** Dealing turn ** [ Tc ]
+TamasPataki checks
+osamaelking checks
+** Dealing river ** [ 7h ]
+TamasPataki bets [$0.02]
+osamaelking folds
+** Summary **
+TamasPataki collected [ $0.04 ]
+
+
+#Game No : 503847598
+***** 888poker Hand History for Game 503847598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:12:26
+Table Potsdam 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: TamasPataki ( $0.82 )
+Seat 9: Sp100615 ( $0.98 )
+Sp100615 posts small blind [$0.01]
+TamasPataki posts big blind [$0.02]
+** Dealing down cards **
+Sp100615 calls [$0.01]
+TamasPataki checks
+** Dealing flop ** [ Js, Jc, 4d ]
+TamasPataki checks
+Sp100615 checks
+** Dealing turn ** [ 3d ]
+TamasPataki checks
+Sp100615 checks
+** Dealing river ** [ Ac ]
+TamasPataki bets [$0.02]
+Sp100615 folds
+** Summary **
+TamasPataki collected [ $0.04 ]
+
+
+#Game No : 503847615
+***** 888poker Hand History for Game 503847615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:12:52
+Table Potsdam 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: TamasPataki ( $0.84 )
+Seat 9: Sp100615 ( $0.96 )
+TamasPataki posts small blind [$0.01]
+Sp100615 posts big blind [$0.02]
+** Dealing down cards **
+TamasPataki calls [$0.01]
+Sp100615 checks
+** Dealing flop ** [ As, 8d, 6h ]
+Sp100615 checks
+TamasPataki bets [$0.02]
+Sp100615 folds
+** Summary **
+TamasPataki collected [ $0.04 ]
+
+
+#Game No : 503847641
+***** 888poker Hand History for Game 503847641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:13:41
+Table Potsdam 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: TamasPataki ( $0.88 )
+Seat 9: Sp100615 ( $0.92 )
+TamasPataki posts small blind [$0.01]
+Sp100615 posts big blind [$0.02]
+** Dealing down cards **
+TamasPataki calls [$0.01]
+Sp100615 checks
+** Dealing flop ** [ 3s, 9h, Qc ]
+Sp100615 checks
+TamasPataki bets [$0.02]
+Sp100615 calls [$0.02]
+** Dealing turn ** [ 7c ]
+Sp100615 checks
+TamasPataki checks
+** Dealing river ** [ 9d ]
+Sp100615 bets [$0.30]
+TamasPataki calls [$0.30]
+** Summary **
+Sp100615 shows [ 9c, 4c ]
+TamasPataki mucks [ Kd, Qd ]
+Sp100615 collected [ $0.64 ]
+
+
+#Game No : 503847698
+***** 888poker Hand History for Game 503847698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:15:33
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $1.13 )
+Seat 9: Sp100615 ( $1.10 )
+chris5106 posts small blind [$0.01]
+Sp100615 posts big blind [$0.02]
+** Dealing down cards **
+chris5106 raises [$0.05]
+Sp100615 calls [$0.04]
+** Dealing flop ** [ Th, Qs, 9d ]
+Sp100615 checks
+chris5106 checks
+** Dealing turn ** [ Jh ]
+Sp100615 checks
+chris5106 bets [$0.06]
+Sp100615 calls [$0.06]
+** Dealing river ** [ 3d ]
+Sp100615 checks
+chris5106 bets [$0.06]
+Sp100615 calls [$0.06]
+** Summary **
+chris5106 shows [ 5d, Kh ]
+Sp100615 mucks [ Qd, As ]
+chris5106 collected [ $0.34 ]
+
+
+#Game No : 503847719
+***** 888poker Hand History for Game 503847719 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:16:09
+Table Potsdam 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $1.29 )
+Seat 9: Sp100615 ( $0.92 )
+Sp100615 posts small blind [$0.01]
+chris5106 posts big blind [$0.02]
+** Dealing down cards **
+Sp100615 calls [$0.01]
+chris5106 checks
+** Dealing flop ** [ 3c, Tc, 9c ]
+chris5106 bets [$0.02]
+Sp100615 folds
+** Summary **
+chris5106 collected [ $0.04 ]
+
+
+#Game No : 503847937
+***** 888poker Hand History for Game 503847937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:22:49
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.03 )
+Seat 9: Sp100615 ( $0.78 )
+chris5106 posts small blind [$0.01]
+Sp100615 posts big blind [$0.02]
+** Dealing down cards **
+chris5106 raises [$0.05]
+Sp100615 folds
+** Summary **
+chris5106 collected [ $0.04 ]
+
+
+#Game No : 503847946
+***** 888poker Hand History for Game 503847946 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:23:00
+Table Potsdam 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.05 )
+Seat 9: Sp100615 ( $0.76 )
+Sp100615 posts small blind [$0.01]
+chris5106 posts big blind [$0.02]
+** Dealing down cards **
+Sp100615 calls [$0.01]
+chris5106 raises [$0.04]
+Sp100615 calls [$0.04]
+** Dealing flop ** [ 4s, 5h, 9s ]
+chris5106 bets [$0.08]
+Sp100615 folds
+** Summary **
+chris5106 collected [ $0.12 ]
+
+
+#Game No : 503847960
+***** 888poker Hand History for Game 503847960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:23:23
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.11 )
+Seat 9: Sp100615 ( $0.70 )
+chris5106 posts small blind [$0.01]
+Sp100615 posts big blind [$0.02]
+** Dealing down cards **
+chris5106 raises [$0.05]
+Sp100615 folds
+** Summary **
+chris5106 collected [ $0.04 ]
+
+
+#Game No : 503847963
+***** 888poker Hand History for Game 503847963 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:23:33
+Table Potsdam 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.13 )
+Seat 9: Sp100615 ( $0.68 )
+Sp100615 posts small blind [$0.01]
+chris5106 posts big blind [$0.02]
+** Dealing down cards **
+Sp100615 folds
+** Summary **
+chris5106 collected [ $0.03 ]
+
+
+#Game No : 503847969
+***** 888poker Hand History for Game 503847969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:23:40
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.14 )
+Seat 9: Sp100615 ( $0.67 )
+chris5106 posts small blind [$0.01]
+Sp100615 posts big blind [$0.02]
+** Dealing down cards **
+chris5106 raises [$0.05]
+Sp100615 calls [$0.04]
+** Dealing flop ** [ Th, Ah, 9c ]
+Sp100615 checks
+chris5106 checks
+** Dealing turn ** [ 7h ]
+Sp100615 checks
+chris5106 checks
+** Dealing river ** [ Kd ]
+Sp100615 checks
+chris5106 bets [$0.08]
+Sp100615 folds
+** Summary **
+chris5106 collected [ $0.12 ]
+
+
+#Game No : 503847982
+***** 888poker Hand History for Game 503847982 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:24:06
+Table Potsdam 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.20 )
+Seat 9: Sp100615 ( $0.61 )
+Sp100615 posts small blind [$0.01]
+chris5106 posts big blind [$0.02]
+** Dealing down cards **
+Sp100615 calls [$0.01]
+chris5106 checks
+** Dealing flop ** [ 6h, Ah, Qs ]
+chris5106 bets [$0.02]
+Sp100615 calls [$0.02]
+** Dealing turn ** [ Js ]
+chris5106 bets [$0.02]
+Sp100615 calls [$0.02]
+** Dealing river ** [ 2c ]
+chris5106 checks
+Sp100615 checks
+** Summary **
+chris5106 shows [ 3s, Qd ]
+Sp100615 mucks [ Jc, 9c ]
+chris5106 collected [ $0.12 ]
+
+
+#Game No : 503847997
+***** 888poker Hand History for Game 503847997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:24:32
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.26 )
+Seat 9: Sp100615 ( $0.55 )
+chris5106 posts small blind [$0.01]
+Sp100615 posts big blind [$0.02]
+** Dealing down cards **
+chris5106 raises [$0.05]
+Sp100615 folds
+** Summary **
+chris5106 collected [ $0.04 ]
+
+
+#Game No : 503848005
+***** 888poker Hand History for Game 503848005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 16:24:42
+Table Potsdam 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: chris5106 ( $2.28 )
+Seat 9: Sp100615 ( $0.53 )
+Sp100615 posts small blind [$0.01]
+chris5106 posts big blind [$0.02]
+** Dealing down cards **
+Sp100615 calls [$0.01]
+chris5106 checks
+** Dealing flop ** [ 3h, 5s, 4s ]
+chris5106 checks
+Sp100615 checks
+** Dealing turn ** [ 6d ]
+chris5106 checks
+Sp100615 checks
+** Dealing river ** [ Kh ]
+chris5106 bets [$0.06]
+Sp100615 raises [$0.51]
+chris5106 calls [$0.45]
+** Summary **
+chris5106 shows [ 8s, 7d ]
+Sp100615 shows [ 4c, 5h ]
+chris5106 collected [ $1 ]
+
+

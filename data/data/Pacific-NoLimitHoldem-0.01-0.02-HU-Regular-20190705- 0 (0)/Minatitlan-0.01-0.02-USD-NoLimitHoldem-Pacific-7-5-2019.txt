@@ -1,0 +1,44 @@
+#Game No : 519098745
+***** 888poker Hand History for Game 519098745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 09:24:57
+Table Minatitlan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ALVES2510 ( $0.42 )
+Seat 4: AleksandR400 ( $1.41 )
+ALVES2510 posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+ALVES2510 calls [$0.01]
+AleksandR400 checks
+** Dealing flop ** [ Ad, 6c, 5c ]
+AleksandR400 checks
+ALVES2510 checks
+** Dealing turn ** [ Td ]
+AleksandR400 checks
+ALVES2510 checks
+** Dealing river ** [ 6d ]
+AleksandR400 checks
+ALVES2510 checks
+** Summary **
+AleksandR400 shows [ 3s, 8h ]
+ALVES2510 shows [ Kh, 8d ]
+ALVES2510 collected [ $0.04 ]
+
+
+#Game No : 519098761
+***** 888poker Hand History for Game 519098761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 09:25:34
+Table Minatitlan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: ALVES2510 ( $0.44 )
+Seat 4: AleksandR400 ( $1.39 )
+AleksandR400 posts small blind [$0.01]
+ALVES2510 posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 folds
+** Summary **
+ALVES2510 collected [ $0.03 ]
+
+

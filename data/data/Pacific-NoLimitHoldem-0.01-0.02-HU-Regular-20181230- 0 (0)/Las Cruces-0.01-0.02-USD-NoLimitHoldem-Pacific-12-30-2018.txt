@@ -1,0 +1,51 @@
+#Game No : 520174720
+***** 888poker Hand History for Game 520174720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:58:00
+Table Las Cruces 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: A41Ced ( $0.54 )
+Seat 9: riotone888 ( $1.87 )
+riotone888 posts small blind [$0.01]
+A41Ced posts big blind [$0.02]
+** Dealing down cards **
+riotone888 raises [$0.03]
+A41Ced calls [$0.02]
+** Dealing flop ** [ Ad, Jc, As ]
+A41Ced bets [$0.02]
+riotone888 calls [$0.02]
+** Dealing turn ** [ 8s ]
+A41Ced bets [$0.02]
+riotone888 folds
+** Summary **
+A41Ced did not show his hand
+A41Ced collected [ $0.12 ]
+
+
+#Game No : 459477697
+***** 888poker Hand History for Game 459477697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 12 2018 05:33:33
+Table Las Cruces 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Ollie2600 ( $0.98 )
+Seat 4: G_1994 ( $0.82 )
+G_1994 posts small blind [$0.01]
+Ollie2600 posts big blind [$0.02]
+** Dealing down cards **
+G_1994 calls [$0.01]
+Ollie2600 checks
+** Dealing flop ** [ 7h, 5s, 2h ]
+Ollie2600 bets [$0.06]
+G_1994 calls [$0.06]
+** Dealing turn ** [ 4h ]
+Ollie2600 bets [$0.08]
+G_1994 calls [$0.08]
+** Dealing river ** [ 6s ]
+Ollie2600 bets [$0.34]
+G_1994 raises [$0.66]
+Ollie2600 folds
+** Summary **
+G_1994 collected [ $0.94 ]
+
+

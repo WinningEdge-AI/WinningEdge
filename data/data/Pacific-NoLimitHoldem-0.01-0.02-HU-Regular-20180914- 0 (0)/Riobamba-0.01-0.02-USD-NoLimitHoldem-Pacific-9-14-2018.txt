@@ -1,0 +1,505 @@
+#Game No : 1208831257
+***** 888poker Hand History for Game 1208831257 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:41:56
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.08 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik raises [$0.05]
+FranzSchmitt calls [$0.04]
+** Dealing flop ** [ 5h, Jc, Qc ]
+FranzSchmitt checks
+gamer_Nik bets [$0.06]
+FranzSchmitt calls [$0.06]
+** Dealing turn ** [ Jd ]
+FranzSchmitt checks
+gamer_Nik checks
+** Dealing river ** [ 3d ]
+FranzSchmitt bets [$0.02]
+gamer_Nik calls [$0.02]
+** Summary **
+FranzSchmitt shows [ Qh, 9h ]
+gamer_Nik mucks [ Kh, Ah ]
+FranzSchmitt collected [ $0.27 ]
+
+
+#Game No : 1208831321
+***** 888poker Hand History for Game 1208831321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:42:04
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.21 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik raises [$0.04]
+FranzSchmitt calls [$0.04]
+** Dealing flop ** [ Jd, 4h, Kh ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing turn ** [ 7d ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing river ** [ 4s ]
+gamer_Nik checks
+FranzSchmitt checks
+** Summary **
+gamer_Nik shows [ Td, 9d ]
+FranzSchmitt shows [ 3h, Ah ]
+FranzSchmitt collected [ $0.12 ]
+
+
+#Game No : 1208831388
+***** 888poker Hand History for Game 1208831388 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:42:30
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.27 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik raises [$0.05]
+FranzSchmitt calls [$0.04]
+** Dealing flop ** [ Qd, Ks, 3c ]
+FranzSchmitt checks
+gamer_Nik checks
+** Dealing turn ** [ Qs ]
+FranzSchmitt checks
+gamer_Nik bets [$0.06]
+FranzSchmitt folds
+** Summary **
+gamer_Nik did not show his hand
+gamer_Nik collected [ $0.12 ]
+
+
+#Game No : 1208831438
+***** 888poker Hand History for Game 1208831438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:42:47
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2.06 )
+Seat 6: FranzSchmitt ( $2.21 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik raises [$0.04]
+FranzSchmitt calls [$0.04]
+** Dealing flop ** [ 6c, 6h, Jd ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing turn ** [ Ah ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing river ** [ 3c ]
+gamer_Nik checks
+FranzSchmitt bets [$0.02]
+gamer_Nik calls [$0.02]
+** Summary **
+FranzSchmitt shows [ Ad, 6s ]
+gamer_Nik mucks [ 7c, 7s ]
+FranzSchmitt collected [ $0.15 ]
+
+
+#Game No : 1208831495
+***** 888poker Hand History for Game 1208831495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:43:13
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.28 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik raises [$0.05]
+FranzSchmitt folds
+** Summary **
+gamer_Nik did not show his hand
+gamer_Nik collected [ $0.04 ]
+
+
+#Game No : 1208831514
+***** 888poker Hand History for Game 1208831514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:43:21
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2.02 )
+Seat 6: FranzSchmitt ( $2.26 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik checks
+** Dealing flop ** [ 7s, 3c, 2h ]
+gamer_Nik checks
+FranzSchmitt bets [$0.02]
+gamer_Nik folds
+** Summary **
+FranzSchmitt did not show his hand
+FranzSchmitt collected [ $0.04 ]
+
+
+#Game No : 1208831553
+***** 888poker Hand History for Game 1208831553 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:43:36
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.28 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik folds
+** Summary **
+FranzSchmitt did not show his hand
+FranzSchmitt collected [ $0.03 ]
+
+
+#Game No : 1208831567
+***** 888poker Hand History for Game 1208831567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:43:41
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.29 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik checks
+** Dealing flop ** [ Jd, Qc, 9c ]
+gamer_Nik checks
+FranzSchmitt bets [$0.02]
+gamer_Nik calls [$0.02]
+** Dealing turn ** [ 3s ]
+gamer_Nik checks
+FranzSchmitt bets [$0.02]
+gamer_Nik calls [$0.02]
+** Dealing river ** [ As ]
+gamer_Nik checks
+FranzSchmitt checks
+** Summary **
+gamer_Nik shows [ 8h, Ks ]
+FranzSchmitt shows [ Qh, Tc ]
+FranzSchmitt collected [ $0.12 ]
+
+
+#Game No : 1208831628
+***** 888poker Hand History for Game 1208831628 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:44:06
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.35 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik folds
+** Summary **
+FranzSchmitt did not show his hand
+FranzSchmitt collected [ $0.03 ]
+
+
+#Game No : 1208831639
+***** 888poker Hand History for Game 1208831639 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:44:11
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.36 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik checks
+** Dealing flop ** [ Qs, 8h, 9h ]
+gamer_Nik checks
+FranzSchmitt bets [$0.02]
+gamer_Nik folds
+** Summary **
+FranzSchmitt did not show his hand
+FranzSchmitt collected [ $0.04 ]
+
+
+#Game No : 1208831669
+***** 888poker Hand History for Game 1208831669 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:44:24
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.38 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik raises [$0.05]
+FranzSchmitt calls [$0.04]
+** Dealing flop ** [ Td, Qc, 2c ]
+FranzSchmitt checks
+gamer_Nik checks
+** Dealing turn ** [ 6s ]
+FranzSchmitt bets [$0.02]
+gamer_Nik calls [$0.02]
+** Dealing river ** [ 2d ]
+FranzSchmitt bets [$0.02]
+gamer_Nik raises [$0.12]
+FranzSchmitt calls [$0.10]
+** Summary **
+gamer_Nik shows [ 5d, 4d ]
+FranzSchmitt shows [ Qs, 8s ]
+FranzSchmitt collected [ $0.38 ]
+
+
+#Game No : 1208831745
+***** 888poker Hand History for Game 1208831745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:45:00
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.56 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik raises [$0.04]
+FranzSchmitt calls [$0.04]
+** Dealing flop ** [ 7h, 3h, 6s ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing turn ** [ Qs ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing river ** [ Jc ]
+gamer_Nik checks
+FranzSchmitt checks
+** Summary **
+gamer_Nik shows [ 4d, Ad ]
+FranzSchmitt mucks [ 8c, Ts ]
+gamer_Nik collected [ $0.12 ]
+
+
+#Game No : 1208831805
+***** 888poker Hand History for Game 1208831805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:45:24
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2.06 )
+Seat 6: FranzSchmitt ( $2.50 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik folds
+** Summary **
+FranzSchmitt did not show his hand
+FranzSchmitt collected [ $0.03 ]
+
+
+#Game No : 1208831822
+***** 888poker Hand History for Game 1208831822 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:45:30
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2.05 )
+Seat 6: FranzSchmitt ( $2.51 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik checks
+** Dealing flop ** [ 4d, 6s, Th ]
+gamer_Nik bets [$0.02]
+FranzSchmitt calls [$0.02]
+** Dealing turn ** [ 7d ]
+gamer_Nik bets [$0.04]
+FranzSchmitt calls [$0.04]
+** Dealing river ** [ Jh ]
+gamer_Nik checks
+FranzSchmitt bets [$0.02]
+gamer_Nik calls [$0.02]
+** Summary **
+FranzSchmitt shows [ 7s, 4s ]
+gamer_Nik mucks [ 8c, Tc ]
+FranzSchmitt collected [ $0.19 ]
+
+
+#Game No : 1208831894
+***** 888poker Hand History for Game 1208831894 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:45:57
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.60 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik folds
+** Summary **
+FranzSchmitt did not show his hand
+FranzSchmitt collected [ $0.03 ]
+
+
+#Game No : 1208831907
+***** 888poker Hand History for Game 1208831907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:46:02
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.61 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik checks
+** Dealing flop ** [ 9s, 7c, Ac ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing turn ** [ 2c ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing river ** [ Td ]
+gamer_Nik checks
+FranzSchmitt bets [$0.02]
+gamer_Nik folds
+** Summary **
+FranzSchmitt did not show his hand
+FranzSchmitt collected [ $0.04 ]
+
+
+#Game No : 1208831944
+***** 888poker Hand History for Game 1208831944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:46:21
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.63 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik folds
+** Summary **
+FranzSchmitt did not show his hand
+FranzSchmitt collected [ $0.03 ]
+
+
+#Game No : 1208831960
+***** 888poker Hand History for Game 1208831960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:46:26
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2 )
+Seat 6: FranzSchmitt ( $2.64 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik checks
+** Dealing flop ** [ 3d, Tc, Qd ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing turn ** [ 5s ]
+gamer_Nik bets [$0.02]
+FranzSchmitt folds
+** Summary **
+gamer_Nik did not show his hand
+gamer_Nik collected [ $0.04 ]
+
+
+#Game No : 1208832000
+***** 888poker Hand History for Game 1208832000 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:46:42
+Table Riobamba 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2.02 )
+Seat 6: FranzSchmitt ( $2.62 )
+gamer_Nik posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+gamer_Nik raises [$0.03]
+FranzSchmitt folds
+** Summary **
+gamer_Nik did not show his hand
+gamer_Nik collected [ $0.04 ]
+
+
+#Game No : 1208832014
+***** 888poker Hand History for Game 1208832014 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:46:49
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2.04 )
+Seat 6: FranzSchmitt ( $2.60 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik checks
+** Dealing flop ** [ 4s, 9c, 7c ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing turn ** [ 9d ]
+gamer_Nik bets [$0.02]
+FranzSchmitt calls [$0.02]
+** Dealing river ** [ Js ]
+gamer_Nik checks
+FranzSchmitt checks
+** Summary **
+gamer_Nik shows [ 5c, 4c ]
+FranzSchmitt mucks [ Td, Ah ]
+gamer_Nik collected [ $0.08 ]
+
+
+#Game No : 1208833143
+***** 888poker Hand History for Game 1208833143 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 02:55:01
+Table Riobamba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: gamer_Nik ( $2.44 )
+Seat 6: FranzSchmitt ( $2.47 )
+FranzSchmitt posts small blind [$0.01]
+gamer_Nik posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+gamer_Nik checks
+** Dealing flop ** [ 3s, Jc, 5c ]
+gamer_Nik checks
+FranzSchmitt checks
+** Dealing turn ** [ 9h ]
+gamer_Nik checks
+FranzSchmitt bets [$0.02]
+gamer_Nik calls [$0.02]
+** Dealing river ** [ Qd ]
+gamer_Nik checks
+FranzSchmitt bets [$0.04]
+gamer_Nik calls [$0.04]
+** Summary **
+FranzSchmitt shows [ Kd, 8c ]
+gamer_Nik shows [ Qh, Td ]
+gamer_Nik collected [ $0.15 ]
+
+

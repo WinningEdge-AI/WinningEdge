@@ -1,0 +1,52 @@
+#Game No : 459629874
+***** 888poker Hand History for Game 459629874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2019 18:44:57
+Table Guangzhou 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Toluko ( $0.71 )
+Seat 7: juar1 ( $1 )
+Toluko posts small blind [$0.01]
+juar1 posts big blind [$0.02]
+** Dealing down cards **
+Toluko raises [$0.03]
+juar1 calls [$0.02]
+** Dealing flop ** [ 7d, 8c, Jd ]
+juar1 checks
+Toluko checks
+** Dealing turn ** [ 8h ]
+juar1 bets [$0.05]
+Toluko calls [$0.05]
+** Dealing river ** [ 9c ]
+juar1 checks
+Toluko bets [$0.22]
+juar1 calls [$0.22]
+** Summary **
+Toluko shows [ 9h, 9d ]
+juar1 mucks [ 4h, 4c ]
+Toluko collected [ $0.59 ]
+
+
+#Game No : 459629888
+***** 888poker Hand History for Game 459629888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2019 18:46:18
+Table Guangzhou 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Toluko ( $0.99 )
+Seat 7: juar1 ( $0.69 )
+juar1 posts small blind [$0.01]
+Toluko posts big blind [$0.02]
+** Dealing down cards **
+juar1 calls [$0.01]
+Toluko checks
+** Dealing flop ** [ 2h, 4d, 4s ]
+Toluko checks
+juar1 checks
+** Dealing turn ** [ 9h ]
+Toluko bets [$0.50]
+juar1 folds
+** Summary **
+Toluko collected [ $0.04 ]
+
+

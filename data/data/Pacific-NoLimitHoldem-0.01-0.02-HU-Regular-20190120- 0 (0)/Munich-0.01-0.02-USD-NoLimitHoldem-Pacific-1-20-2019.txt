@@ -1,0 +1,144 @@
+#Game No : 522058548
+***** 888poker Hand History for Game 522058548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 06:08:56
+Table Munich 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gu.efi ( $2.40 )
+Seat 7: lexagersh ( $0.70 )
+gu.efi posts small blind [$0.01]
+lexagersh posts big blind [$0.02]
+** Dealing down cards **
+gu.efi raises [$0.05]
+lexagersh calls [$0.04]
+** Dealing flop ** [ 7s, Td, 8d ]
+lexagersh checks
+gu.efi bets [$0.08]
+lexagersh folds
+** Summary **
+gu.efi did not show his hand
+gu.efi collected [ $0.12 ]
+
+
+#Game No : 522058578
+***** 888poker Hand History for Game 522058578 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 06:09:25
+Table Munich 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gu.efi ( $2.46 )
+Seat 7: lexagersh ( $0.64 )
+lexagersh posts small blind [$0.01]
+gu.efi posts big blind [$0.02]
+** Dealing down cards **
+lexagersh folds
+** Summary **
+gu.efi did not show his hand
+gu.efi collected [ $0.03 ]
+
+
+#Game No : 522058584
+***** 888poker Hand History for Game 522058584 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 06:09:31
+Table Munich 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gu.efi ( $2.47 )
+Seat 7: lexagersh ( $0.63 )
+gu.efi posts small blind [$0.01]
+lexagersh posts big blind [$0.02]
+** Dealing down cards **
+gu.efi calls [$0.01]
+lexagersh checks
+** Dealing flop ** [ Tc, 6d, 5c ]
+lexagersh checks
+gu.efi bets [$0.02]
+lexagersh calls [$0.02]
+** Dealing turn ** [ 3s ]
+lexagersh checks
+gu.efi bets [$0.05]
+lexagersh calls [$0.05]
+** Dealing river ** [ Qd ]
+lexagersh checks
+gu.efi bets [$0.22]
+lexagersh folds
+** Summary **
+gu.efi did not show his hand
+gu.efi collected [ $0.17 ]
+
+
+#Game No : 522058613
+***** 888poker Hand History for Game 522058613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 06:10:09
+Table Munich 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gu.efi ( $2.55 )
+Seat 7: lexagersh ( $0.54 )
+lexagersh posts small blind [$0.01]
+gu.efi posts big blind [$0.02]
+** Dealing down cards **
+lexagersh calls [$0.01]
+gu.efi checks
+** Dealing flop ** [ 7s, 8d, Qs ]
+gu.efi checks
+lexagersh checks
+** Dealing turn ** [ As ]
+gu.efi checks
+lexagersh checks
+** Dealing river ** [ 7h ]
+gu.efi checks
+lexagersh bets [$0.02]
+gu.efi raises [$0.06]
+lexagersh calls [$0.04]
+** Summary **
+gu.efi shows [ Th, 7d ]
+lexagersh mucks [ Qc, 4d ]
+gu.efi collected [ $0.15 ]
+
+
+#Game No : 522058640
+***** 888poker Hand History for Game 522058640 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 06:10:50
+Table Munich 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gu.efi ( $2.62 )
+Seat 7: lexagersh ( $0.46 )
+gu.efi posts small blind [$0.01]
+lexagersh posts big blind [$0.02]
+** Dealing down cards **
+gu.efi folds
+** Summary **
+lexagersh did not show his hand
+lexagersh collected [ $0.03 ]
+
+
+#Game No : 522058650
+***** 888poker Hand History for Game 522058650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 01 2019 06:11:05
+Table Munich 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gu.efi ( $2.61 )
+Seat 7: lexagersh ( $0.47 )
+lexagersh posts small blind [$0.01]
+gu.efi posts big blind [$0.02]
+** Dealing down cards **
+lexagersh calls [$0.01]
+gu.efi checks
+** Dealing flop ** [ 8d, 2c, Qs ]
+gu.efi checks
+lexagersh checks
+** Dealing turn ** [ 9s ]
+gu.efi checks
+lexagersh checks
+** Dealing river ** [ Kh ]
+gu.efi checks
+lexagersh checks
+** Summary **
+gu.efi shows [ 4c, 6d ]
+lexagersh shows [ 7c, 3h ]
+lexagersh collected [ $0.04 ]
+
+

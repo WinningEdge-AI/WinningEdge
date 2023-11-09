@@ -1,0 +1,49 @@
+#Game No : 456734946
+***** 888poker Hand History for Game 456734946 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 05:49:55
+Table Abengourou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Hannemut15 ( $2.01 )
+Seat 7: gunchozaurs ( $2 )
+gunchozaurs posts small blind [$0.01]
+Hannemut15 posts big blind [$0.02]
+** Dealing down cards **
+gunchozaurs calls [$0.01]
+Hannemut15 checks
+** Dealing flop ** [ Kc, 3s, 8d ]
+Hannemut15 checks
+gunchozaurs bets [$0.02]
+Hannemut15 folds
+** Summary **
+gunchozaurs collected [ $0.04 ]
+
+
+#Game No : 456734958
+***** 888poker Hand History for Game 456734958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 05:50:23
+Table Abengourou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Hannemut15 ( $1.99 )
+Seat 7: gunchozaurs ( $2.02 )
+Hannemut15 posts small blind [$0.01]
+gunchozaurs posts big blind [$0.02]
+** Dealing down cards **
+Hannemut15 calls [$0.01]
+gunchozaurs checks
+** Dealing flop ** [ 2h, Qc, Tc ]
+gunchozaurs checks
+Hannemut15 checks
+** Dealing turn ** [ 6d ]
+gunchozaurs checks
+Hannemut15 checks
+** Dealing river ** [ Qd ]
+gunchozaurs checks
+Hannemut15 checks
+** Summary **
+gunchozaurs shows [ Kh, 9c ]
+Hannemut15 mucks [ Ks, 5d ]
+gunchozaurs collected [ $0.04 ]
+
+

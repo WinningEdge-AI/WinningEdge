@@ -1,0 +1,54 @@
+#Game No : 506714557
+***** 888poker Hand History for Game 506714557 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 11:53:17
+Table Southport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: nuja77 ( $2.02 )
+Seat 5: sfings ( $0.85 )
+sfings posts small blind [$0.01]
+nuja77 posts big blind [$0.02]
+** Dealing down cards **
+sfings raises [$0.03]
+nuja77 calls [$0.02]
+** Dealing flop ** [ 4c, 7h, 6s ]
+nuja77 checks
+sfings bets [$0.08]
+nuja77 calls [$0.08]
+** Dealing turn ** [ 2d ]
+nuja77 checks
+sfings bets [$0.12]
+nuja77 calls [$0.12]
+** Dealing river ** [ Kd ]
+nuja77 checks
+sfings checks
+** Summary **
+nuja77 shows [ 9s, Td ]
+sfings shows [ 5c, Qh ]
+sfings collected [ $0.45 ]
+
+
+#Game No : 506714592
+***** 888poker Hand History for Game 506714592 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 11:53:31
+Table Southport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nuja77 ( $1.78 )
+Seat 5: sfings ( $1.06 )
+nuja77 posts small blind [$0.01]
+sfings posts big blind [$0.02]
+** Dealing down cards **
+nuja77 raises [$0.03]
+sfings calls [$0.02]
+** Dealing flop ** [ 3h, 6d, 2s ]
+sfings checks
+nuja77 checks
+** Dealing turn ** [ 7s ]
+sfings checks
+nuja77 bets [$0.04]
+sfings folds
+** Summary **
+nuja77 collected [ $0.08 ]
+
+

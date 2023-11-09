@@ -1,0 +1,432 @@
+#Game No : 453473907
+***** 888poker Hand History for Game 453473907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 20:15:56
+Table Madrid 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: menortj ( $2.65 )
+Seat 10: HerrCul ( $5.31 )
+menortj posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+menortj calls [$0.01]
+HerrCul checks
+** Dealing flop ** [ 6s, 3d, 3c ]
+HerrCul bets [$0.02]
+menortj folds
+** Summary **
+HerrCul collected [ $0.04 ]
+
+
+#Game No : 453473944
+***** 888poker Hand History for Game 453473944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 20:18:46
+Table Madrid 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Ds_tK ( $3.66 )
+Seat 10: HerrCul ( $5.28 )
+Ds_tK posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+Ds_tK raises [$0.05]
+HerrCul calls [$0.04]
+** Dealing flop ** [ 8c, Kh, 7s ]
+HerrCul checks
+Ds_tK checks
+** Dealing turn ** [ Ad ]
+HerrCul checks
+Ds_tK bets [$0.08]
+HerrCul folds
+** Summary **
+Ds_tK did not show his hand
+Ds_tK collected [ $0.12 ]
+
+
+#Game No : 453473958
+***** 888poker Hand History for Game 453473958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 20:19:42
+Table Madrid 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: Ds_tK ( $3.72 )
+Seat 10: HerrCul ( $5.22 )
+HerrCul posts small blind [$0.01]
+Ds_tK posts big blind [$0.02]
+** Dealing down cards **
+HerrCul calls [$0.01]
+Ds_tK checks
+** Dealing flop ** [ 7s, Qd, 9c ]
+Ds_tK checks
+HerrCul bets [$0.04]
+Ds_tK calls [$0.04]
+** Dealing turn ** [ 9h ]
+Ds_tK checks
+HerrCul bets [$0.08]
+Ds_tK raises [$0.20]
+HerrCul folds
+** Summary **
+Ds_tK did not show his hand
+Ds_tK collected [ $0.27 ]
+
+
+#Game No : 499739259
+***** 888poker Hand History for Game 499739259 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 03:52:42
+Table Madrid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Fernee9 ( $0.73 )
+Seat 6: laschko ( $2.03 )
+Fernee9 posts small blind [$0.01]
+laschko posts big blind [$0.02]
+** Dealing down cards **
+Fernee9 calls [$0.01]
+laschko checks
+** Dealing flop ** [ Ts, Js, Ks ]
+laschko bets [$0.02]
+Fernee9 folds
+** Summary **
+laschko collected [ $0.04 ]
+
+
+#Game No : 499739265
+***** 888poker Hand History for Game 499739265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 03:52:57
+Table Madrid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Fernee9 ( $0.71 )
+Seat 6: laschko ( $2.05 )
+laschko posts small blind [$0.01]
+Fernee9 posts big blind [$0.02]
+** Dealing down cards **
+laschko folds
+** Summary **
+Fernee9 collected [ $0.03 ]
+
+
+#Game No : 499742111
+***** 888poker Hand History for Game 499742111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 05:04:34
+Table Madrid 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Danik567 ( $0.80 )
+Seat 2: pmpkin74 ( $1.03 )
+pmpkin74 posts small blind [$0.01]
+** Dealing down cards **
+Danik567 folds
+** Summary **
+pmpkin74 did not show his hand
+pmpkin74 collected [ $0.01 ]
+
+
+#Game No : 499742129
+***** 888poker Hand History for Game 499742129 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 05:04:54
+Table Madrid 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Danik567 ( $0.80 )
+Seat 2: pmpkin74 ( $1.03 )
+pmpkin74 posts small blind [$0.01]
+Danik567 posts big blind [$0.02]
+** Dealing down cards **
+pmpkin74 raises [$0.05]
+Danik567 calls [$0.04]
+** Dealing flop ** [ 4s, 2d, 2c ]
+Danik567 checks
+pmpkin74 checks
+** Dealing turn ** [ As ]
+Danik567 checks
+pmpkin74 checks
+** Dealing river ** [ 6h ]
+Danik567 checks
+pmpkin74 checks
+** Summary **
+Danik567 shows [ Qs, Kh ]
+pmpkin74 mucks [ Kc, Th ]
+Danik567 collected [ $0.12 ]
+
+
+#Game No : 499742194
+***** 888poker Hand History for Game 499742194 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 05:06:08
+Table Madrid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Danik567 ( $0.86 )
+Seat 2: pmpkin74 ( $1 )
+Danik567 posts small blind [$0.01]
+pmpkin74 posts big blind [$0.02]
+** Dealing down cards **
+Danik567 calls [$0.01]
+pmpkin74 raises [$0.04]
+Danik567 calls [$0.04]
+** Dealing flop ** [ 7d, 9s, 7s ]
+pmpkin74 bets [$0.08]
+Danik567 folds
+** Summary **
+pmpkin74 did not show his hand
+pmpkin74 collected [ $0.12 ]
+
+
+#Game No : 499743787
+***** 888poker Hand History for Game 499743787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 05:46:19
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Rohov_Boss ( $0.98 )
+Seat 6: Foxinabox151 ( $0.97 )
+Rohov_Boss posts small blind [$0.01]
+Foxinabox151 posts big blind [$0.02]
+** Dealing down cards **
+Rohov_Boss raises [$0.03]
+Foxinabox151 folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.04 ]
+
+
+#Game No : 499743792
+***** 888poker Hand History for Game 499743792 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 05:46:27
+Table Madrid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Rohov_Boss ( $1 )
+Seat 6: Foxinabox151 ( $0.95 )
+Foxinabox151 posts small blind [$0.01]
+Rohov_Boss posts big blind [$0.02]
+** Dealing down cards **
+Foxinabox151 calls [$0.01]
+Rohov_Boss raises [$0.04]
+Foxinabox151 calls [$0.04]
+** Dealing flop ** [ 2d, Th, 7c ]
+Rohov_Boss bets [$0.02]
+Foxinabox151 calls [$0.02]
+** Dealing turn ** [ 4d ]
+Rohov_Boss bets [$0.02]
+Foxinabox151 calls [$0.02]
+** Dealing river ** [ Ac ]
+Rohov_Boss bets [$0.02]
+Foxinabox151 calls [$0.02]
+** Summary **
+Rohov_Boss shows [ Jc, Qs ]
+Foxinabox151 shows [ Jh, Js ]
+Foxinabox151 collected [ $0.23 ]
+
+
+#Game No : 499743809
+***** 888poker Hand History for Game 499743809 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 05:46:52
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Rohov_Boss ( $0.88 )
+Seat 6: Foxinabox151 ( $1.06 )
+Rohov_Boss posts small blind [$0.01]
+Foxinabox151 posts big blind [$0.02]
+** Dealing down cards **
+Rohov_Boss raises [$0.03]
+Foxinabox151 folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.04 ]
+
+
+#Game No : 499743816
+***** 888poker Hand History for Game 499743816 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 05:47:02
+Table Madrid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Rohov_Boss ( $0.90 )
+Seat 6: Foxinabox151 ( $1.04 )
+Foxinabox151 posts small blind [$0.01]
+Rohov_Boss posts big blind [$0.02]
+** Dealing down cards **
+Foxinabox151 calls [$0.01]
+Rohov_Boss checks
+** Dealing flop ** [ 3h, 5s, Kh ]
+Rohov_Boss checks
+Foxinabox151 bets [$0.05]
+Rohov_Boss folds
+** Summary **
+Foxinabox151 did not show his hand
+Foxinabox151 collected [ $0.04 ]
+
+
+#Game No : 499743826
+***** 888poker Hand History for Game 499743826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 05:47:20
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Rohov_Boss ( $0.88 )
+Seat 6: Foxinabox151 ( $1.06 )
+Rohov_Boss posts small blind [$0.01]
+Foxinabox151 posts big blind [$0.02]
+** Dealing down cards **
+Rohov_Boss calls [$0.01]
+Foxinabox151 checks
+** Dealing flop ** [ Kc, Kh, Ah ]
+Foxinabox151 bets [$0.05]
+Rohov_Boss folds
+** Summary **
+Foxinabox151 collected [ $0.04 ]
+
+
+#Game No : 499743841
+***** 888poker Hand History for Game 499743841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 05:47:36
+Table Madrid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Rohov_Boss ( $0.86 )
+Seat 6: Foxinabox151 ( $1.08 )
+Foxinabox151 posts small blind [$0.01]
+Rohov_Boss posts big blind [$0.02]
+** Dealing down cards **
+Foxinabox151 calls [$0.01]
+Rohov_Boss checks
+** Dealing flop ** [ 5s, 7h, Kh ]
+Rohov_Boss bets [$0.02]
+Foxinabox151 raises [$0.10]
+Rohov_Boss calls [$0.08]
+** Dealing turn ** [ 2s ]
+Rohov_Boss checks
+Foxinabox151 checks
+** Dealing river ** [ Td ]
+Rohov_Boss bets [$0.02]
+Foxinabox151 calls [$0.02]
+** Summary **
+Rohov_Boss shows [ 7d, 6d ]
+Foxinabox151 shows [ Kc, 8c ]
+Foxinabox151 collected [ $0.27 ]
+
+
+#Game No : 499747113
+***** 888poker Hand History for Game 499747113 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 07:07:17
+Table Madrid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: padpilot ( $1.15 )
+Seat 9: JayEmBee420 ( $1 )
+JayEmBee420 posts small blind [$0.01]
+padpilot posts big blind [$0.02]
+** Dealing down cards **
+JayEmBee420 folds
+** Summary **
+padpilot did not show his hand
+padpilot collected [ $0.03 ]
+
+
+#Game No : 499747115
+***** 888poker Hand History for Game 499747115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 07:07:22
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: padpilot ( $1.16 )
+Seat 9: JayEmBee420 ( $0.99 )
+padpilot posts small blind [$0.01]
+JayEmBee420 posts big blind [$0.02]
+** Dealing down cards **
+padpilot folds
+** Summary **
+JayEmBee420 did not show his hand
+JayEmBee420 collected [ $0.03 ]
+
+
+#Game No : 499747175
+***** 888poker Hand History for Game 499747175 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 07:08:42
+Table Madrid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Walshsfc90 ( $1 )
+Seat 9: JayEmBee420 ( $1 )
+Walshsfc90 posts small blind [$0.01]
+JayEmBee420 posts big blind [$0.02]
+** Dealing down cards **
+Walshsfc90 calls [$0.01]
+JayEmBee420 checks
+** Dealing flop ** [ 3c, 6s, 2s ]
+JayEmBee420 checks
+Walshsfc90 checks
+** Dealing turn ** [ 6h ]
+JayEmBee420 bets [$0.02]
+Walshsfc90 folds
+** Summary **
+JayEmBee420 collected [ $0.04 ]
+
+
+#Game No : 499748924
+***** 888poker Hand History for Game 499748924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 07:51:02
+Table Madrid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1 )
+Seat 6: _paraBellum ( $1 )
+_paraBellum posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+_paraBellum raises [$0.05]
+Cheeta01 folds
+** Summary **
+_paraBellum did not show his hand
+_paraBellum collected [ $0.04 ]
+
+
+#Game No : 499748929
+***** 888poker Hand History for Game 499748929 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 07:51:09
+Table Madrid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $0.98 )
+Seat 6: _paraBellum ( $1.02 )
+Cheeta01 posts small blind [$0.01]
+_paraBellum posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 raises [$0.03]
+_paraBellum calls [$0.02]
+** Dealing flop ** [ Jc, Ad, 3h ]
+_paraBellum checks
+Cheeta01 bets [$0.02]
+_paraBellum folds
+** Summary **
+Cheeta01 did not show his hand
+Cheeta01 collected [ $0.08 ]
+
+
+#Game No : 499748940
+***** 888poker Hand History for Game 499748940 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 07:51:27
+Table Madrid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $1.02 )
+Seat 6: _paraBellum ( $0.98 )
+_paraBellum posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+_paraBellum calls [$0.01]
+Cheeta01 checks
+** Dealing flop ** [ 4d, 8h, Qd ]
+Cheeta01 bets [$0.12]
+_paraBellum raises [$0.96]
+Cheeta01 calls [$0.84]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ Ks ]
+** Summary **
+Cheeta01 shows [ Qc, 2c ]
+_paraBellum shows [ Jh, 8d ]
+Cheeta01 collected [ $1.84 ]
+
+

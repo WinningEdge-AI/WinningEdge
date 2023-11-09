@@ -1,0 +1,96 @@
+#Game No : 503362561
+***** 888poker Hand History for Game 503362561 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 06:25:23
+Table Karlsruhe 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: nekketsu ( $2 )
+Seat 3: lissuglov ( $1 )
+lissuglov posts small blind [$0.01]
+nekketsu posts big blind [$0.02]
+** Dealing down cards **
+lissuglov calls [$0.01]
+nekketsu checks
+** Dealing flop ** [ 2c, Ad, Ah ]
+nekketsu checks
+lissuglov checks
+** Dealing turn ** [ 9h ]
+nekketsu checks
+lissuglov checks
+** Dealing river ** [ Ks ]
+nekketsu checks
+lissuglov checks
+** Summary **
+nekketsu shows [ 6s, 4d ]
+lissuglov shows [ Td, Js ]
+lissuglov collected [ $0.04 ]
+
+
+#Game No : 503362583
+***** 888poker Hand History for Game 503362583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 06:25:58
+Table Karlsruhe 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nekketsu ( $1.98 )
+Seat 3: lissuglov ( $1.02 )
+nekketsu posts small blind [$0.01]
+lissuglov posts big blind [$0.02]
+** Dealing down cards **
+nekketsu raises [$0.05]
+lissuglov calls [$0.04]
+** Dealing flop ** [ 7h, Qh, Jh ]
+lissuglov checks
+nekketsu bets [$0.06]
+lissuglov folds
+** Summary **
+nekketsu collected [ $0.12 ]
+
+
+#Game No : 503362599
+***** 888poker Hand History for Game 503362599 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 06:26:19
+Table Karlsruhe 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: nekketsu ( $2.04 )
+Seat 3: lissuglov ( $0.96 )
+lissuglov posts small blind [$0.01]
+nekketsu posts big blind [$0.02]
+** Dealing down cards **
+lissuglov calls [$0.01]
+nekketsu checks
+** Dealing flop ** [ 6c, Ts, As ]
+nekketsu checks
+lissuglov checks
+** Dealing turn ** [ 6h ]
+nekketsu checks
+lissuglov checks
+** Dealing river ** [ 2c ]
+nekketsu checks
+lissuglov checks
+** Summary **
+nekketsu shows [ 3s, 4s ]
+lissuglov shows [ Qh, 4h ]
+lissuglov collected [ $0.04 ]
+
+
+#Game No : 503365813
+***** 888poker Hand History for Game 503365813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 08:07:15
+Table Karlsruhe 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: alm49621 ( $0.77 )
+Seat 4: Defoliant ( $1.32 )
+Defoliant posts small blind [$0.01]
+alm49621 posts big blind [$0.02]
+** Dealing down cards **
+Defoliant calls [$0.01]
+alm49621 raises [$0.04]
+Defoliant folds
+** Summary **
+alm49621 did not show his hand
+alm49621 collected [ $0.04 ]
+
+

@@ -1,0 +1,392 @@
+#Game No : 500028590
+***** 888poker Hand History for Game 500028590 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 10:55:12
+Table Erechim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: HighMood ( $1.06 )
+Seat 6: rayscotty62 ( $0.94 )
+rayscotty62 posts small blind [$0.01]
+HighMood posts big blind [$0.02]
+** Dealing down cards **
+rayscotty62 calls [$0.01]
+HighMood raises [$0.02]
+rayscotty62 calls [$0.02]
+** Dealing flop ** [ 8h, 9h, 8c ]
+HighMood bets [$0.02]
+rayscotty62 calls [$0.02]
+** Dealing turn ** [ Jc ]
+HighMood bets [$0.08]
+rayscotty62 calls [$0.08]
+** Dealing river ** [ 4s ]
+HighMood bets [$0.18]
+rayscotty62 raises [$0.36]
+HighMood calls [$0.18]
+** Summary **
+rayscotty62 shows [ 9c, 8d ]
+HighMood mucks [ Ah, 4h ]
+rayscotty62 collected [ $0.94 ]
+
+
+#Game No : 500028636
+***** 888poker Hand History for Game 500028636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 10:55:49
+Table Erechim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.56 )
+Seat 6: rayscotty62 ( $1.38 )
+HighMood posts small blind [$0.01]
+rayscotty62 posts big blind [$0.02]
+** Dealing down cards **
+HighMood calls [$0.01]
+rayscotty62 checks
+** Dealing flop ** [ Qh, 6d, Qs ]
+rayscotty62 checks
+HighMood checks
+** Dealing turn ** [ 3c ]
+rayscotty62 checks
+HighMood bets [$0.04]
+rayscotty62 raises [$0.08]
+HighMood calls [$0.04]
+** Dealing river ** [ 7c ]
+rayscotty62 bets [$0.06]
+HighMood calls [$0.06]
+** Summary **
+rayscotty62 shows [ 2d, Qc ]
+HighMood mucks [ 8s, 3h ]
+rayscotty62 collected [ $0.30 ]
+
+
+#Game No : 500028666
+***** 888poker Hand History for Game 500028666 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 10:56:17
+Table Erechim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.40 )
+Seat 6: rayscotty62 ( $1.52 )
+rayscotty62 posts small blind [$0.01]
+HighMood posts big blind [$0.02]
+** Dealing down cards **
+rayscotty62 calls [$0.01]
+HighMood checks
+** Dealing flop ** [ 2c, 6s, 4c ]
+HighMood checks
+rayscotty62 checks
+** Dealing turn ** [ 4d ]
+HighMood checks
+rayscotty62 bets [$0.02]
+HighMood calls [$0.02]
+** Dealing river ** [ 6d ]
+HighMood bets [$0.05]
+rayscotty62 folds
+** Summary **
+HighMood collected [ $0.08 ]
+
+
+#Game No : 500029850
+***** 888poker Hand History for Game 500029850 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:16:41
+Table Erechim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.85 )
+Seat 2: isa6767 ( $1.25 )
+HighMood posts small blind [$0.01]
+isa6767 posts big blind [$0.02]
+** Dealing down cards **
+HighMood calls [$0.01]
+isa6767 checks
+** Dealing flop ** [ Ks, 7c, 7s ]
+isa6767 checks
+HighMood checks
+** Dealing turn ** [ 9s ]
+isa6767 bets [$0.04]
+HighMood raises [$0.08]
+isa6767 folds
+** Summary **
+HighMood did not show his hand
+HighMood collected [ $0.12 ]
+
+
+#Game No : 500029881
+***** 888poker Hand History for Game 500029881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:17:12
+Table Erechim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.91 )
+Seat 2: isa6767 ( $1.19 )
+isa6767 posts small blind [$0.01]
+HighMood posts big blind [$0.02]
+** Dealing down cards **
+isa6767 calls [$0.01]
+HighMood checks
+** Dealing flop ** [ Kc, Jc, 5d ]
+HighMood bets [$0.02]
+isa6767 folds
+** Summary **
+HighMood did not show his hand
+HighMood collected [ $0.04 ]
+
+
+#Game No : 500031196
+***** 888poker Hand History for Game 500031196 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:37:48
+Table Erechim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.21 )
+Seat 2: isa6767 ( $0.56 )
+HighMood posts small blind [$0.01]
+isa6767 posts big blind [$0.02]
+** Dealing down cards **
+HighMood calls [$0.01]
+isa6767 raises [$0.02]
+HighMood calls [$0.02]
+** Dealing flop ** [ 3c, 7s, 7c ]
+isa6767 checks
+HighMood checks
+** Dealing turn ** [ 3d ]
+isa6767 checks
+HighMood checks
+** Dealing river ** [ 2c ]
+isa6767 checks
+HighMood checks
+** Summary **
+isa6767 shows [ Qh, Jd ]
+HighMood mucks [ 9c, 5d ]
+isa6767 collected [ $0.08 ]
+
+
+#Game No : 500031214
+***** 888poker Hand History for Game 500031214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:38:08
+Table Erechim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.17 )
+Seat 2: isa6767 ( $0.60 )
+isa6767 posts small blind [$0.01]
+HighMood posts big blind [$0.02]
+** Dealing down cards **
+isa6767 calls [$0.01]
+HighMood checks
+** Dealing flop ** [ Th, 5c, 3h ]
+HighMood checks
+isa6767 checks
+** Dealing turn ** [ Jd ]
+HighMood checks
+isa6767 checks
+** Dealing river ** [ 2h ]
+HighMood checks
+isa6767 checks
+** Summary **
+HighMood shows [ 8d, Ah ]
+isa6767 mucks [ Kd, 7c ]
+HighMood collected [ $0.04 ]
+
+
+#Game No : 500031231
+***** 888poker Hand History for Game 500031231 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:38:29
+Table Erechim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.19 )
+Seat 2: isa6767 ( $0.58 )
+HighMood posts small blind [$0.01]
+isa6767 posts big blind [$0.02]
+** Dealing down cards **
+HighMood calls [$0.01]
+isa6767 checks
+** Dealing flop ** [ 7s, 6s, Jc ]
+isa6767 checks
+HighMood checks
+** Dealing turn ** [ Js ]
+isa6767 checks
+HighMood checks
+** Dealing river ** [ 8h ]
+isa6767 checks
+HighMood checks
+** Summary **
+isa6767 shows [ 3c, Th ]
+HighMood mucks [ 4d, 2h ]
+isa6767 collected [ $0.04 ]
+
+
+#Game No : 500031253
+***** 888poker Hand History for Game 500031253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:38:54
+Table Erechim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.17 )
+Seat 2: isa6767 ( $0.60 )
+isa6767 posts small blind [$0.01]
+HighMood posts big blind [$0.02]
+** Dealing down cards **
+isa6767 raises [$0.03]
+HighMood calls [$0.02]
+** Dealing flop ** [ Kc, Ac, 3h ]
+HighMood checks
+isa6767 bets [$0.04]
+HighMood folds
+** Summary **
+isa6767 collected [ $0.08 ]
+
+
+#Game No : 500031263
+***** 888poker Hand History for Game 500031263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:39:09
+Table Erechim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.13 )
+Seat 2: isa6767 ( $0.64 )
+HighMood posts small blind [$0.01]
+isa6767 posts big blind [$0.02]
+** Dealing down cards **
+HighMood calls [$0.01]
+isa6767 checks
+** Dealing flop ** [ Ac, 2h, 8h ]
+isa6767 checks
+HighMood checks
+** Dealing turn ** [ Qh ]
+isa6767 checks
+HighMood checks
+** Dealing river ** [ 4h ]
+isa6767 bets [$0.02]
+HighMood calls [$0.02]
+** Summary **
+isa6767 shows [ Jd, 5h ]
+HighMood mucks [ 8s, Tc ]
+isa6767 collected [ $0.08 ]
+
+
+#Game No : 500031288
+***** 888poker Hand History for Game 500031288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:39:33
+Table Erechim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.09 )
+Seat 2: isa6767 ( $0.68 )
+isa6767 posts small blind [$0.01]
+HighMood posts big blind [$0.02]
+** Dealing down cards **
+isa6767 calls [$0.01]
+HighMood checks
+** Dealing flop ** [ 5h, 6d, Qs ]
+HighMood checks
+isa6767 checks
+** Dealing turn ** [ Td ]
+HighMood checks
+isa6767 checks
+** Dealing river ** [ Th ]
+HighMood bets [$0.07]
+isa6767 folds
+** Summary **
+HighMood collected [ $0.04 ]
+
+
+#Game No : 500031306
+***** 888poker Hand History for Game 500031306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:39:51
+Table Erechim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HighMood ( $0.11 )
+Seat 2: isa6767 ( $0.66 )
+HighMood posts small blind [$0.01]
+isa6767 posts big blind [$0.02]
+** Dealing down cards **
+HighMood raises [$0.03]
+isa6767 calls [$0.02]
+** Dealing flop ** [ 5s, Tc, Qs ]
+isa6767 checks
+HighMood checks
+** Dealing turn ** [ Kc ]
+isa6767 checks
+HighMood checks
+** Dealing river ** [ Qc ]
+isa6767 bets [$0.05]
+HighMood raises [$0.07]
+isa6767 calls [$0.02]
+** Summary **
+HighMood shows [ 7c, As ]
+isa6767 shows [ Kh, 8s ]
+isa6767 collected [ $0.21 ]
+
+
+#Game No : 500031451
+***** 888poker Hand History for Game 500031451 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:42:15
+Table Erechim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: IlyNeil ( $1 )
+Seat 7: DHUK98 ( $1 )
+DHUK98 posts small blind [$0.01]
+IlyNeil posts big blind [$0.02]
+** Dealing down cards **
+DHUK98 raises [$0.03]
+IlyNeil calls [$0.02]
+** Dealing flop ** [ 3c, Kd, Qh ]
+IlyNeil checks
+DHUK98 bets [$0.04]
+IlyNeil folds
+** Summary **
+DHUK98 collected [ $0.08 ]
+
+
+#Game No : 500031473
+***** 888poker Hand History for Game 500031473 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:42:35
+Table Erechim 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: IlyNeil ( $1 )
+Seat 7: DHUK98 ( $1.04 )
+IlyNeil posts small blind [$0.01]
+DHUK98 posts big blind [$0.02]
+** Dealing down cards **
+IlyNeil calls [$0.01]
+DHUK98 raises [$0.06]
+IlyNeil folds
+** Summary **
+DHUK98 collected [ $0.04 ]
+
+
+#Game No : 500031490
+***** 888poker Hand History for Game 500031490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 11:42:50
+Table Erechim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: IlyNeil ( $1 )
+Seat 7: DHUK98 ( $1.06 )
+DHUK98 posts small blind [$0.01]
+IlyNeil posts big blind [$0.02]
+** Dealing down cards **
+DHUK98 folds
+** Summary **
+IlyNeil collected [ $0.03 ]
+
+
+#Game No : 500033041
+***** 888poker Hand History for Game 500033041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 12:12:34
+Table Erechim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 3bet727 ( $1 )
+Seat 9: AAOksana ( $1.21 )
+3bet727 posts small blind [$0.01]
+** Dealing down cards **
+AAOksana folds
+** Summary **
+3bet727 collected [ $0.01 ]
+
+

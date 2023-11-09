@@ -1,0 +1,61 @@
+#Game No : 471513520
+***** 888poker Hand History for Game 471513520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 11 2019 22:31:03
+Table Babrujsk 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Bacchant ( $2.71 )
+Seat 9: zauryadno ( $2.02 )
+zauryadno posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+zauryadno raises [$0.05]
+Bacchant folds
+** Summary **
+zauryadno collected [ $0.04 ]
+
+
+#Game No : 471520204
+***** 888poker Hand History for Game 471520204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2019 05:07:58
+Table Babrujsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Red_Pixel ( $4.50 )
+Seat 4: Victory_7071 ( $3.09 )
+Red_Pixel posts small blind [$0.01]
+Victory_7071 posts big blind [$0.02]
+** Dealing down cards **
+Red_Pixel folds
+** Summary **
+Victory_7071 collected [ $0.03 ]
+
+
+#Game No : 471520208
+***** 888poker Hand History for Game 471520208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2019 05:08:06
+Table Babrujsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Red_Pixel ( $4.49 )
+Seat 4: Victory_7071 ( $3.10 )
+Victory_7071 posts small blind [$0.01]
+Red_Pixel posts big blind [$0.02]
+** Dealing down cards **
+Victory_7071 raises [$0.03]
+Red_Pixel calls [$0.02]
+** Dealing flop ** [ 5h, Jh, Ts ]
+Red_Pixel bets [$0.05]
+Victory_7071 calls [$0.05]
+** Dealing turn ** [ Qd ]
+Red_Pixel checks
+Victory_7071 checks
+** Dealing river ** [ Qh ]
+Red_Pixel checks
+Victory_7071 checks
+** Summary **
+Red_Pixel shows [ Jc, 2c ]
+Victory_7071 mucks [ 5c, Ad ]
+Red_Pixel collected [ $0.17 ]
+
+

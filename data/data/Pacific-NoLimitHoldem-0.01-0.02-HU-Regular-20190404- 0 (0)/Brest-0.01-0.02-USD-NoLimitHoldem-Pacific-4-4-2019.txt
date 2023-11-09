@@ -1,0 +1,194 @@
+#Game No : 463704942
+***** 888poker Hand History for Game 463704942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:59:16
+Table Brest 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: alexaviper ( $0.91 )
+Seat 9: gosinca ( $1.70 )
+gosinca posts small blind [$0.01]
+alexaviper posts big blind [$0.02]
+** Dealing down cards **
+gosinca folds
+** Summary **
+alexaviper collected [ $0.03 ]
+
+
+#Game No : 463704947
+***** 888poker Hand History for Game 463704947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:59:21
+Table Brest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alexaviper ( $0.92 )
+Seat 9: gosinca ( $1.69 )
+alexaviper posts small blind [$0.01]
+gosinca posts big blind [$0.02]
+** Dealing down cards **
+alexaviper calls [$0.01]
+gosinca checks
+** Dealing flop ** [ Qd, 8s, 9c ]
+gosinca checks
+alexaviper bets [$0.04]
+gosinca folds
+** Summary **
+alexaviper collected [ $0.04 ]
+
+
+#Game No : 463704959
+***** 888poker Hand History for Game 463704959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:59:53
+Table Brest 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: alexaviper ( $0.94 )
+Seat 9: gosinca ( $1.67 )
+gosinca posts small blind [$0.01]
+alexaviper posts big blind [$0.02]
+** Dealing down cards **
+gosinca raises [$0.05]
+alexaviper calls [$0.04]
+** Dealing flop ** [ Qd, 5s, Qh ]
+alexaviper bets [$0.12]
+gosinca folds
+** Summary **
+alexaviper collected [ $0.12 ]
+
+
+#Game No : 463705127
+***** 888poker Hand History for Game 463705127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 17:07:19
+Table Brest 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: woodwright ( $1.27 )
+Seat 9: gosinca ( $1.03 )
+woodwright posts small blind [$0.01]
+gosinca posts big blind [$0.02]
+** Dealing down cards **
+woodwright calls [$0.01]
+gosinca checks
+** Dealing flop ** [ Th, 5d, 7s ]
+gosinca checks
+woodwright checks
+** Dealing turn ** [ 9h ]
+gosinca bets [$0.02]
+woodwright folds
+** Summary **
+gosinca collected [ $0.04 ]
+
+
+#Game No : 463705136
+***** 888poker Hand History for Game 463705136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 17:07:32
+Table Brest 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: woodwright ( $1.25 )
+Seat 9: gosinca ( $1.05 )
+gosinca posts small blind [$0.01]
+woodwright posts big blind [$0.02]
+** Dealing down cards **
+gosinca raises [$0.05]
+woodwright folds
+** Summary **
+gosinca collected [ $0.04 ]
+
+
+#Game No : 463705229
+***** 888poker Hand History for Game 463705229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 17:11:41
+Table Brest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Djan10 ( $1 )
+Seat 9: gosinca ( $1.07 )
+Djan10 posts small blind [$0.01]
+gosinca posts big blind [$0.02]
+** Dealing down cards **
+Djan10 raises [$0.03]
+gosinca calls [$0.02]
+** Dealing flop ** [ 6d, 3d, 9c ]
+gosinca checks
+Djan10 bets [$0.04]
+gosinca folds
+** Summary **
+Djan10 did not show his hand
+Djan10 collected [ $0.08 ]
+
+
+#Game No : 463705246
+***** 888poker Hand History for Game 463705246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 17:12:19
+Table Brest 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Djan10 ( $1.04 )
+Seat 9: gosinca ( $1.03 )
+gosinca posts small blind [$0.01]
+Djan10 posts big blind [$0.02]
+** Dealing down cards **
+gosinca raises [$0.05]
+Djan10 calls [$0.04]
+** Dealing flop ** [ Ks, 2s, Js ]
+Djan10 checks
+gosinca bets [$0.08]
+Djan10 calls [$0.08]
+** Dealing turn ** [ 3c ]
+Djan10 checks
+gosinca bets [$0.18]
+Djan10 calls [$0.18]
+** Dealing river ** [ Tc ]
+Djan10 checks
+gosinca bets [$0.30]
+Djan10 calls [$0.30]
+** Summary **
+gosinca shows [ 2c, 2d ]
+Djan10 mucks [ Ts, Ad ]
+gosinca collected [ $1.17 ]
+
+
+#Game No : 463705283
+***** 888poker Hand History for Game 463705283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 17:13:39
+Table Brest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Djan10 ( $0.42 )
+Seat 9: gosinca ( $1.58 )
+Djan10 posts small blind [$0.01]
+gosinca posts big blind [$0.02]
+** Dealing down cards **
+Djan10 raises [$0.03]
+gosinca folds
+** Summary **
+Djan10 collected [ $0.04 ]
+
+
+#Game No : 463705294
+***** 888poker Hand History for Game 463705294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 17:13:59
+Table Brest 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Djan10 ( $0.44 )
+Seat 7: othaner ( $1 )
+Djan10 posts small blind [$0.01]
+othaner posts big blind [$0.02]
+** Dealing down cards **
+Djan10 raises [$0.03]
+othaner calls [$0.02]
+** Dealing flop ** [ 3c, Ah, 5s ]
+Djan10 bets [$0.04]
+othaner calls [$0.04]
+** Dealing turn ** [ 3s ]
+Djan10 bets [$0.08]
+othaner calls [$0.08]
+** Dealing river ** [ 8h ]
+Djan10 bets [$0.16]
+othaner raises [$0.32]
+Djan10 folds
+** Summary **
+othaner collected [ $0.60 ]
+
+

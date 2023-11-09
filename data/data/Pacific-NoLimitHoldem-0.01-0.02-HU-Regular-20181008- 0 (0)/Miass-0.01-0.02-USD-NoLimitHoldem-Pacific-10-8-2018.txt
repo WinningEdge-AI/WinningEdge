@@ -1,0 +1,528 @@
+#Game No : 507904363
+***** 888poker Hand History for Game 507904363 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 11:22:11
+Table Miass 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $0.80 )
+Seat 5: rafaelkazuo3 ( $0.80 )
+scs1914 posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+scs1914 calls [$0.01]
+rafaelkazuo3 raises [$0.04]
+scs1914 calls [$0.04]
+** Dealing flop ** [ 6c, Qh, 7c ]
+rafaelkazuo3 bets [$0.08]
+scs1914 folds
+** Summary **
+rafaelkazuo3 did not show his hand
+rafaelkazuo3 collected [ $0.12 ]
+
+
+#Game No : 507904378
+***** 888poker Hand History for Game 507904378 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 11:22:25
+Table Miass 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $0.74 )
+Seat 5: rafaelkazuo3 ( $0.86 )
+rafaelkazuo3 posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.85]
+scs1914 folds
+** Summary **
+rafaelkazuo3 collected [ $0.04 ]
+
+
+#Game No : 503524859
+***** 888poker Hand History for Game 503524859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 13:50:36
+Table Miass 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: kinB3ast ( $1.45 )
+Seat 9: MgtBeck47 ( $1 )
+MgtBeck47 posts small blind [$0.01]
+kinB3ast posts big blind [$0.02]
+** Dealing down cards **
+MgtBeck47 raises [$0.03]
+kinB3ast folds
+** Summary **
+MgtBeck47 collected [ $0.04 ]
+
+
+#Game No : 503525510
+***** 888poker Hand History for Game 503525510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:03:50
+Table Miass 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $1.98 )
+Seat 4: SegaSmignov ( $0.97 )
+jacquesek posts small blind [$0.01]
+SegaSmignov posts big blind [$0.02]
+** Dealing down cards **
+jacquesek calls [$0.01]
+SegaSmignov checks
+** Dealing flop ** [ 6c, 3h, Ts ]
+SegaSmignov checks
+jacquesek bets [$0.04]
+SegaSmignov folds
+** Summary **
+jacquesek did not show his hand
+jacquesek collected [ $0.04 ]
+
+
+#Game No : 503525543
+***** 888poker Hand History for Game 503525543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:04:23
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $2 )
+Seat 4: SegaSmignov ( $0.95 )
+SegaSmignov posts small blind [$0.01]
+jacquesek posts big blind [$0.02]
+** Dealing down cards **
+SegaSmignov folds
+** Summary **
+jacquesek did not show his hand
+jacquesek collected [ $0.03 ]
+
+
+#Game No : 503525551
+***** 888poker Hand History for Game 503525551 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:04:36
+Table Miass 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $2.01 )
+Seat 2: ykyci ( $0.87 )
+ykyci posts small blind [$0.01]
+jacquesek posts big blind [$0.02]
+** Dealing down cards **
+ykyci raises [$0.86]
+jacquesek folds
+** Summary **
+ykyci did not show his hand
+ykyci collected [ $0.04 ]
+
+
+#Game No : 503525559
+***** 888poker Hand History for Game 503525559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:04:45
+Table Miass 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $1.99 )
+Seat 2: ykyci ( $0.89 )
+jacquesek posts small blind [$0.01]
+ykyci posts big blind [$0.02]
+** Dealing down cards **
+jacquesek calls [$0.01]
+ykyci raises [$0.87]
+jacquesek calls [$0.87]
+** Dealing flop ** [ Ac, Qh, Qc ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Qd ]
+** Summary **
+jacquesek shows [ Ks, 9c ]
+ykyci shows [ As, 5h ]
+ykyci collected [ $1.67 ]
+
+
+#Game No : 503525576
+***** 888poker Hand History for Game 503525576 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:05:09
+Table Miass 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $1.10 )
+Seat 2: ykyci ( $1.67 )
+ykyci posts small blind [$0.01]
+jacquesek posts big blind [$0.02]
+** Dealing down cards **
+ykyci raises [$1.66]
+jacquesek calls [$1.08]
+** Dealing flop ** [ 8h, Jd, 5d ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 3h ]
+** Summary **
+jacquesek shows [ Td, 8d ]
+ykyci shows [ 2s, Tc ]
+jacquesek collected [ $2.07 ]
+
+
+#Game No : 503525594
+***** 888poker Hand History for Game 503525594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:05:33
+Table Miass 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $2.07 )
+Seat 2: ykyci ( $0.57 )
+jacquesek posts small blind [$0.01]
+ykyci posts big blind [$0.02]
+** Dealing down cards **
+jacquesek folds
+** Summary **
+ykyci did not show his hand
+ykyci collected [ $0.03 ]
+
+
+#Game No : 503525598
+***** 888poker Hand History for Game 503525598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:05:39
+Table Miass 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $2.06 )
+Seat 2: ykyci ( $0.58 )
+ykyci posts small blind [$0.01]
+jacquesek posts big blind [$0.02]
+** Dealing down cards **
+ykyci raises [$0.57]
+jacquesek folds
+** Summary **
+ykyci did not show his hand
+ykyci collected [ $0.04 ]
+
+
+#Game No : 503525605
+***** 888poker Hand History for Game 503525605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:05:48
+Table Miass 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $2.04 )
+Seat 2: ykyci ( $0.60 )
+jacquesek posts small blind [$0.01]
+ykyci posts big blind [$0.02]
+** Dealing down cards **
+jacquesek folds
+** Summary **
+ykyci did not show his hand
+ykyci collected [ $0.03 ]
+
+
+#Game No : 503525615
+***** 888poker Hand History for Game 503525615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:05:56
+Table Miass 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $2.03 )
+Seat 2: ykyci ( $0.61 )
+ykyci posts small blind [$0.01]
+jacquesek posts big blind [$0.02]
+** Dealing down cards **
+ykyci raises [$0.60]
+jacquesek folds
+** Summary **
+ykyci collected [ $0.04 ]
+
+
+#Game No : 503525640
+***** 888poker Hand History for Game 503525640 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:06:35
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jacquesek ( $1.99 )
+Seat 4: dbars15 ( $1.57 )
+dbars15 posts small blind [$0.01]
+jacquesek posts big blind [$0.02]
+** Dealing down cards **
+dbars15 calls [$0.01]
+jacquesek raises [$0.02]
+dbars15 calls [$0.02]
+** Dealing flop ** [ 4c, 9s, 7c ]
+jacquesek bets [$0.04]
+dbars15 calls [$0.04]
+** Dealing turn ** [ Kh ]
+jacquesek bets [$0.16]
+dbars15 calls [$0.16]
+** Dealing river ** [ Qh ]
+jacquesek bets [$0.24]
+dbars15 calls [$0.24]
+** Summary **
+jacquesek shows [ 4s, 4h ]
+dbars15 mucks [ 7d, 9d ]
+jacquesek collected [ $0.90 ]
+
+
+#Game No : 503527997
+***** 888poker Hand History for Game 503527997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:09:13
+Table Miass 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.80 )
+Seat 7: GabiHoldem ( $1 )
+GabiHoldem posts small blind [$0.01]
+nadnadnad posts big blind [$0.02]
+** Dealing down cards **
+GabiHoldem raises [$0.05]
+nadnadnad calls [$0.04]
+** Dealing flop ** [ 2c, 7d, 9c ]
+nadnadnad checks
+GabiHoldem bets [$0.08]
+nadnadnad raises [$0.74]
+GabiHoldem folds
+** Summary **
+nadnadnad did not show his hand
+nadnadnad collected [ $0.27 ]
+
+
+#Game No : 503528006
+***** 888poker Hand History for Game 503528006 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:09:41
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.93 )
+Seat 7: GabiHoldem ( $1 )
+nadnadnad posts small blind [$0.01]
+GabiHoldem posts big blind [$0.02]
+** Dealing down cards **
+nadnadnad folds
+** Summary **
+GabiHoldem did not show his hand
+GabiHoldem collected [ $0.03 ]
+
+
+#Game No : 503528007
+***** 888poker Hand History for Game 503528007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:09:47
+Table Miass 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.92 )
+Seat 7: GabiHoldem ( $1.01 )
+GabiHoldem posts small blind [$0.01]
+nadnadnad posts big blind [$0.02]
+** Dealing down cards **
+GabiHoldem folds
+** Summary **
+nadnadnad did not show his hand
+nadnadnad collected [ $0.03 ]
+
+
+#Game No : 503528014
+***** 888poker Hand History for Game 503528014 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:09:54
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.93 )
+Seat 7: GabiHoldem ( $1 )
+nadnadnad posts small blind [$0.01]
+GabiHoldem posts big blind [$0.02]
+** Dealing down cards **
+nadnadnad raises [$0.05]
+GabiHoldem folds
+** Summary **
+nadnadnad did not show his hand
+nadnadnad collected [ $0.04 ]
+
+
+#Game No : 503528023
+***** 888poker Hand History for Game 503528023 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:10:09
+Table Miass 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.95 )
+Seat 7: GabiHoldem ( $1 )
+GabiHoldem posts small blind [$0.01]
+nadnadnad posts big blind [$0.02]
+** Dealing down cards **
+GabiHoldem raises [$0.07]
+nadnadnad folds
+** Summary **
+GabiHoldem did not show his hand
+GabiHoldem collected [ $0.04 ]
+
+
+#Game No : 503528027
+***** 888poker Hand History for Game 503528027 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:10:17
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.93 )
+Seat 7: GabiHoldem ( $1.02 )
+nadnadnad posts small blind [$0.01]
+GabiHoldem posts big blind [$0.02]
+** Dealing down cards **
+nadnadnad folds
+** Summary **
+GabiHoldem did not show his hand
+GabiHoldem collected [ $0.03 ]
+
+
+#Game No : 503528029
+***** 888poker Hand History for Game 503528029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:10:22
+Table Miass 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.92 )
+Seat 7: GabiHoldem ( $1.03 )
+GabiHoldem posts small blind [$0.01]
+nadnadnad posts big blind [$0.02]
+** Dealing down cards **
+GabiHoldem raises [$0.05]
+nadnadnad folds
+** Summary **
+GabiHoldem did not show his hand
+GabiHoldem collected [ $0.04 ]
+
+
+#Game No : 503528032
+***** 888poker Hand History for Game 503528032 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:10:31
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.90 )
+Seat 7: GabiHoldem ( $1.05 )
+nadnadnad posts small blind [$0.01]
+GabiHoldem posts big blind [$0.02]
+** Dealing down cards **
+nadnadnad folds
+** Summary **
+GabiHoldem did not show his hand
+GabiHoldem collected [ $0.03 ]
+
+
+#Game No : 503528036
+***** 888poker Hand History for Game 503528036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:10:38
+Table Miass 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.89 )
+Seat 7: GabiHoldem ( $1.06 )
+GabiHoldem posts small blind [$0.01]
+nadnadnad posts big blind [$0.02]
+** Dealing down cards **
+GabiHoldem raises [$0.05]
+nadnadnad folds
+** Summary **
+GabiHoldem did not show his hand
+GabiHoldem collected [ $0.04 ]
+
+
+#Game No : 503528040
+***** 888poker Hand History for Game 503528040 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:10:44
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.87 )
+Seat 7: GabiHoldem ( $1.08 )
+nadnadnad posts small blind [$0.01]
+GabiHoldem posts big blind [$0.02]
+** Dealing down cards **
+nadnadnad calls [$0.01]
+GabiHoldem checks
+** Dealing flop ** [ 2d, Kd, Qd ]
+GabiHoldem checks
+nadnadnad checks
+** Dealing turn ** [ 6d ]
+GabiHoldem checks
+nadnadnad checks
+** Dealing river ** [ 3c ]
+GabiHoldem bets [$0.04]
+nadnadnad folds
+** Summary **
+GabiHoldem did not show his hand
+GabiHoldem collected [ $0.04 ]
+
+
+#Game No : 503528054
+***** 888poker Hand History for Game 503528054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:11:06
+Table Miass 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.85 )
+Seat 7: GabiHoldem ( $1.10 )
+GabiHoldem posts small blind [$0.01]
+nadnadnad posts big blind [$0.02]
+** Dealing down cards **
+GabiHoldem folds
+** Summary **
+nadnadnad did not show his hand
+nadnadnad collected [ $0.03 ]
+
+
+#Game No : 503528084
+***** 888poker Hand History for Game 503528084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:12:26
+Table Miass 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.86 )
+Seat 7: GabiHoldem ( $1.09 )
+GabiHoldem posts small blind [$0.01]
+nadnadnad posts big blind [$0.02]
+** Dealing down cards **
+GabiHoldem raises [$0.05]
+nadnadnad calls [$0.04]
+** Dealing flop ** [ 5s, 7s, 3d ]
+nadnadnad bets [$0.12]
+GabiHoldem folds
+** Summary **
+nadnadnad did not show his hand
+nadnadnad collected [ $0.12 ]
+
+
+#Game No : 503528095
+***** 888poker Hand History for Game 503528095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:12:57
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.92 )
+Seat 7: GabiHoldem ( $1.03 )
+nadnadnad posts small blind [$0.01]
+GabiHoldem posts big blind [$0.02]
+** Dealing down cards **
+nadnadnad calls [$0.01]
+GabiHoldem checks
+** Dealing flop ** [ 9c, Kd, 9s ]
+GabiHoldem checks
+nadnadnad checks
+** Dealing turn ** [ 6d ]
+GabiHoldem bets [$0.04]
+nadnadnad folds
+** Summary **
+GabiHoldem collected [ $0.04 ]
+
+
+#Game No : 503528112
+***** 888poker Hand History for Game 503528112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:13:44
+Table Miass 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: nadnadnad ( $0.92 )
+Seat 7: GabiHoldem ( $1.03 )
+nadnadnad posts small blind [$0.01]
+GabiHoldem posts big blind [$0.02]
+** Dealing down cards **
+nadnadnad calls [$0.01]
+GabiHoldem checks
+** Dealing flop ** [ 8d, 4d, Qh ]
+GabiHoldem checks
+nadnadnad bets [$0.02]
+GabiHoldem folds
+** Summary **
+nadnadnad collected [ $0.04 ]
+
+

@@ -1,0 +1,73 @@
+#Game No : 503593392
+***** 888poker Hand History for Game 503593392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2018 00:09:06
+Table Balakovo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: asmak17 ( $0.81 )
+Seat 2: DimaBouz ( $1.99 )
+asmak17 posts small blind [$0.01]
+DimaBouz posts big blind [$0.02]
+** Dealing down cards **
+asmak17 calls [$0.01]
+DimaBouz checks
+** Dealing flop ** [ Qh, Jc, 2h ]
+DimaBouz checks
+asmak17 checks
+** Dealing turn ** [ 3h ]
+DimaBouz checks
+asmak17 checks
+** Dealing river ** [ 3d ]
+DimaBouz checks
+asmak17 checks
+** Summary **
+DimaBouz shows [ Ah, 5c ]
+asmak17 shows [ Tc, 2d ]
+asmak17 collected [ $0.04 ]
+
+
+#Game No : 503593405
+***** 888poker Hand History for Game 503593405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2018 00:09:17
+Table Balakovo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: asmak17 ( $0.83 )
+Seat 2: DimaBouz ( $1.97 )
+DimaBouz posts small blind [$0.01]
+asmak17 posts big blind [$0.02]
+** Dealing down cards **
+DimaBouz calls [$0.01]
+asmak17 checks
+** Dealing flop ** [ 2s, 4c, 6h ]
+asmak17 checks
+DimaBouz bets [$0.02]
+asmak17 calls [$0.02]
+** Dealing turn ** [ Js ]
+asmak17 checks
+DimaBouz checks
+** Dealing river ** [ Qd ]
+asmak17 checks
+DimaBouz checks
+** Summary **
+asmak17 shows [ 6d, 9s ]
+DimaBouz mucks [ 5d, 4d ]
+asmak17 collected [ $0.08 ]
+
+
+#Game No : 503638274
+***** 888poker Hand History for Game 503638274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 06 2018 12:32:25
+Table Balakovo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: 0Gnuts0 ( $2.05 )
+Seat 7: 8betfold ( $2.29 )
+8betfold posts small blind [$0.01]
+0Gnuts0 posts big blind [$0.02]
+** Dealing down cards **
+8betfold folds
+** Summary **
+0Gnuts0 collected [ $0.03 ]
+
+

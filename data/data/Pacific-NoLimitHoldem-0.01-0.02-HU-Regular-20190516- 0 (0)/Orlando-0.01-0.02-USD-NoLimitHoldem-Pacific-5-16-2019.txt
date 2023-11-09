@@ -1,0 +1,51 @@
+#Game No : 465123272
+***** 888poker Hand History for Game 465123272 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 20:55:53
+Table Orlando 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: diger58 ( $1.94 )
+Seat 7: 1gadfly1 ( $2.35 )
+diger58 posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+diger58 calls [$0.01]
+1gadfly1 checks
+** Dealing flop ** [ 3d, 3h, 7h ]
+1gadfly1 checks
+diger58 checks
+** Dealing turn ** [ 7d ]
+1gadfly1 checks
+diger58 checks
+** Dealing river ** [ 4c ]
+1gadfly1 checks
+diger58 checks
+** Summary **
+1gadfly1 shows [ Jd, 5d ]
+diger58 mucks [ 2d, 8h ]
+1gadfly1 collected [ $0.04 ]
+
+
+#Game No : 465123641
+***** 888poker Hand History for Game 465123641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 21:28:53
+Table Orlando 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Linki815 ( $1.97 )
+Seat 7: 1gadfly1 ( $2.50 )
+Linki815 posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+Linki815 calls [$0.01]
+1gadfly1 checks
+** Dealing flop ** [ 5c, 4h, 2c ]
+1gadfly1 checks
+Linki815 checks
+** Dealing turn ** [ 6d ]
+1gadfly1 bets [$0.02]
+Linki815 folds
+** Summary **
+1gadfly1 collected [ $0.04 ]
+
+

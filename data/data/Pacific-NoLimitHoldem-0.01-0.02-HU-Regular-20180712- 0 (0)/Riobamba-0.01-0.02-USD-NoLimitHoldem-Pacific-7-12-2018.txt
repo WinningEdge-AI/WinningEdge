@@ -1,0 +1,80 @@
+#Game No : 605451820
+***** 888poker Hand History for Game 605451820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 19:59:31
+Table Riobamba 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: gayebill12 ( $2 )
+Seat 5: Fl8man ( $2 )
+gayebill12 posts small blind [$0.01]
+Fl8man posts big blind [$0.02]
+** Dealing down cards **
+gayebill12 calls [$0.01]
+Fl8man checks
+** Dealing flop ** [ Qs, 3d, Td ]
+Fl8man checks
+gayebill12 bets [$0.04]
+Fl8man folds
+** Summary **
+gayebill12 collected [ $0.04 ]
+
+
+#Game No : 605451849
+***** 888poker Hand History for Game 605451849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 20:01:46
+Table Riobamba 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: gayebill12 ( $2.79 )
+Seat 4: Slydur ( $1.97 )
+gayebill12 posts small blind [$0.01]
+Slydur posts big blind [$0.02]
+** Dealing down cards **
+gayebill12 calls [$0.01]
+Slydur checks
+** Dealing flop ** [ Qd, 2h, Ac ]
+Slydur bets [$0.04]
+gayebill12 raises [$0.08]
+Slydur calls [$0.04]
+** Dealing turn ** [ 6s ]
+Slydur checks
+gayebill12 bets [$0.06]
+Slydur calls [$0.06]
+** Dealing river ** [ 5s ]
+Slydur checks
+gayebill12 checks
+** Summary **
+Slydur shows [ 3h, Qs ]
+gayebill12 shows [ 4c, As ]
+gayebill12 collected [ $0.30 ]
+
+
+#Game No : 605451855
+***** 888poker Hand History for Game 605451855 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 20:02:15
+Table Riobamba 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: gayebill12 ( $2.93 )
+Seat 4: Slydur ( $1.81 )
+Slydur posts small blind [$0.01]
+gayebill12 posts big blind [$0.02]
+** Dealing down cards **
+Slydur calls [$0.01]
+gayebill12 checks
+** Dealing flop ** [ 4c, Jd, Td ]
+gayebill12 checks
+Slydur checks
+** Dealing turn ** [ 7h ]
+gayebill12 checks
+Slydur bets [$0.02]
+gayebill12 calls [$0.02]
+** Dealing river ** [ Tc ]
+gayebill12 checks
+Slydur checks
+** Summary **
+gayebill12 shows [ 3d, 9s ]
+Slydur mucks [ 5c, 2d ]
+gayebill12 collected [ $0.08 ]
+
+

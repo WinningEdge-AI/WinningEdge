@@ -1,0 +1,45 @@
+#Game No : 501376607
+***** 888poker Hand History for Game 501376607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 01:25:58
+Table Cascavel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: CICERO65 ( $1.01 )
+Seat 9: InvesToR12 ( $1 )
+CICERO65 posts small blind [$0.01]
+InvesToR12 posts big blind [$0.02]
+** Dealing down cards **
+CICERO65 calls [$0.01]
+InvesToR12 checks
+** Dealing flop ** [ Ks, Js, Td ]
+InvesToR12 checks
+CICERO65 checks
+** Dealing turn ** [ 9s ]
+InvesToR12 checks
+CICERO65 bets [$0.02]
+InvesToR12 folds
+** Summary **
+CICERO65 did not show his hand
+CICERO65 collected [ $0.04 ]
+
+
+#Game No : 501376636
+***** 888poker Hand History for Game 501376636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 01:26:17
+Table Cascavel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: CICERO65 ( $1.03 )
+Seat 9: InvesToR12 ( $1 )
+InvesToR12 posts small blind [$0.01]
+CICERO65 posts big blind [$0.02]
+** Dealing down cards **
+InvesToR12 raises [$0.03]
+CICERO65 calls [$0.02]
+** Dealing flop ** [ 4s, 2s, 7h ]
+CICERO65 bets [$0.08]
+InvesToR12 folds
+** Summary **
+CICERO65 collected [ $0.08 ]
+
+

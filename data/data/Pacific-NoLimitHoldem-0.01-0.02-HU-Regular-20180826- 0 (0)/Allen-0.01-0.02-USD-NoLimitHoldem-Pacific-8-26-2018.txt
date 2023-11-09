@@ -1,0 +1,31 @@
+#Game No : 509646272
+***** 888poker Hand History for Game 509646272 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 13:01:38
+Table Allen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DonVitalio ( $1.68 )
+Seat 2: asmak100 ( $0.77 )
+DonVitalio posts small blind [$0.01]
+asmak100 posts big blind [$0.02]
+** Dealing down cards **
+DonVitalio raises [$0.05]
+asmak100 calls [$0.04]
+** Dealing flop ** [ 7d, Qd, Qs ]
+asmak100 bets [$0.12]
+DonVitalio raises [$0.36]
+asmak100 calls [$0.24]
+** Dealing turn ** [ 9d ]
+asmak100 checks
+DonVitalio bets [$0.10]
+asmak100 calls [$0.10]
+** Dealing river ** [ Js ]
+asmak100 checks
+DonVitalio bets [$0.25]
+asmak100 calls [$0.25]
+** Summary **
+DonVitalio shows [ Qh, 9s ]
+asmak100 shows [ Kh, 7h ]
+DonVitalio collected [ $1.45 ]
+
+

@@ -1,0 +1,893 @@
+#Game No : 501516194
+***** 888poker Hand History for Game 501516194 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 13:56:04
+Table Knoxville 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: CTAPOCTA23 ( $1.02 )
+Seat 7: sk4rum ( $1.06 )
+CTAPOCTA23 posts small blind [$0.01]
+sk4rum posts big blind [$0.02]
+** Dealing down cards **
+CTAPOCTA23 raises [$0.07]
+sk4rum folds
+** Summary **
+CTAPOCTA23 collected [ $0.04 ]
+
+
+#Game No : 501516208
+***** 888poker Hand History for Game 501516208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 13:56:11
+Table Knoxville 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: CTAPOCTA23 ( $1.04 )
+Seat 7: sk4rum ( $1.04 )
+sk4rum posts small blind [$0.01]
+CTAPOCTA23 posts big blind [$0.02]
+** Dealing down cards **
+sk4rum raises [$0.07]
+CTAPOCTA23 folds
+** Summary **
+sk4rum collected [ $0.04 ]
+
+
+#Game No : 501516228
+***** 888poker Hand History for Game 501516228 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 13:56:37
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: sk4rum ( $1.06 )
+Seat 9: StndBune ( $0.80 )
+StndBune posts small blind [$0.01]
+sk4rum posts big blind [$0.02]
+** Dealing down cards **
+StndBune calls [$0.01]
+sk4rum checks
+** Dealing flop ** [ 2h, 2c, 7d ]
+sk4rum checks
+StndBune checks
+** Dealing turn ** [ 9s ]
+sk4rum checks
+StndBune checks
+** Dealing river ** [ Jc ]
+sk4rum bets [$0.08]
+StndBune raises [$0.16]
+sk4rum calls [$0.08]
+** Summary **
+StndBune shows [ 8h, Th ]
+sk4rum mucks [ 3d, Jd ]
+StndBune collected [ $0.34 ]
+
+
+#Game No : 501519079
+***** 888poker Hand History for Game 501519079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 14:54:35
+Table Knoxville 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: UltrAArm ( $1.39 )
+Seat 7: OlegH1 ( $1.09 )
+OlegH1 posts small blind [$0.01]
+** Dealing down cards **
+UltrAArm folds
+** Summary **
+OlegH1 collected [ $0.01 ]
+
+
+#Game No : 501519134
+***** 888poker Hand History for Game 501519134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 14:56:06
+Table Knoxville 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Pmonkey8686 ( $0.80 )
+Seat 7: OlegH1 ( $1.09 )
+OlegH1 posts small blind [$0.01]
+Pmonkey8686 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+Pmonkey8686 raises [$0.04]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ Qs, Kc, 8c ]
+Pmonkey8686 checks
+OlegH1 bets [$0.06]
+Pmonkey8686 calls [$0.06]
+** Dealing turn ** [ Qd ]
+Pmonkey8686 bets [$0.06]
+OlegH1 calls [$0.06]
+** Dealing river ** [ 7h ]
+Pmonkey8686 bets [$0.08]
+OlegH1 calls [$0.08]
+** Summary **
+Pmonkey8686 shows [ Js, Jd ]
+OlegH1 shows [ Kh, 7d ]
+OlegH1 collected [ $0.49 ]
+
+
+#Game No : 501519154
+***** 888poker Hand History for Game 501519154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 14:56:40
+Table Knoxville 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pmonkey8686 ( $0.54 )
+Seat 7: OlegH1 ( $1.32 )
+Pmonkey8686 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Pmonkey8686 calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ As, 4c, 9h ]
+OlegH1 checks
+Pmonkey8686 checks
+** Dealing turn ** [ 7h ]
+OlegH1 checks
+Pmonkey8686 checks
+** Dealing river ** [ 2c ]
+OlegH1 checks
+Pmonkey8686 checks
+** Summary **
+OlegH1 shows [ Qd, Ks ]
+Pmonkey8686 mucks [ Qh, 5h ]
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 501519174
+***** 888poker Hand History for Game 501519174 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 14:57:07
+Table Knoxville 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Pmonkey8686 ( $0.52 )
+Seat 7: OlegH1 ( $1.34 )
+OlegH1 posts small blind [$0.01]
+Pmonkey8686 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+Pmonkey8686 checks
+** Dealing flop ** [ 7c, 3d, Ts ]
+Pmonkey8686 bets [$0.02]
+OlegH1 calls [$0.02]
+** Dealing turn ** [ 6c ]
+Pmonkey8686 bets [$0.04]
+OlegH1 folds
+** Summary **
+Pmonkey8686 collected [ $0.08 ]
+
+
+#Game No : 501519445
+***** 888poker Hand History for Game 501519445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:05:07
+Table Knoxville 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mrl30n4rd ( $0.91 )
+Seat 9: Anderwae ( $0.90 )
+mrl30n4rd posts small blind [$0.01]
+Anderwae posts big blind [$0.02]
+** Dealing down cards **
+mrl30n4rd calls [$0.01]
+Anderwae checks
+** Dealing flop ** [ Js, Ah, Jc ]
+Anderwae checks
+mrl30n4rd bets [$0.04]
+Anderwae folds
+** Summary **
+mrl30n4rd did not show his hand
+mrl30n4rd collected [ $0.04 ]
+
+
+#Game No : 501519461
+***** 888poker Hand History for Game 501519461 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:05:23
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: mrl30n4rd ( $0.93 )
+Seat 9: Anderwae ( $0.88 )
+Anderwae posts small blind [$0.01]
+mrl30n4rd posts big blind [$0.02]
+** Dealing down cards **
+Anderwae calls [$0.01]
+mrl30n4rd checks
+** Dealing flop ** [ 7d, Ks, 8h ]
+mrl30n4rd checks
+Anderwae bets [$0.02]
+mrl30n4rd raises [$0.04]
+Anderwae calls [$0.02]
+** Dealing turn ** [ Qd ]
+mrl30n4rd checks
+Anderwae checks
+** Dealing river ** [ 5h ]
+mrl30n4rd checks
+Anderwae checks
+** Summary **
+mrl30n4rd shows [ 3c, 6c ]
+Anderwae shows [ 8s, 9c ]
+Anderwae collected [ $0.12 ]
+
+
+#Game No : 501519480
+***** 888poker Hand History for Game 501519480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:05:46
+Table Knoxville 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mrl30n4rd ( $0.87 )
+Seat 9: Anderwae ( $0.94 )
+mrl30n4rd posts small blind [$0.01]
+Anderwae posts big blind [$0.02]
+** Dealing down cards **
+mrl30n4rd calls [$0.01]
+Anderwae checks
+** Dealing flop ** [ Jc, 9d, 6s ]
+Anderwae checks
+mrl30n4rd bets [$0.02]
+Anderwae folds
+** Summary **
+mrl30n4rd collected [ $0.04 ]
+
+
+#Game No : 501519666
+***** 888poker Hand History for Game 501519666 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:10:39
+Table Knoxville 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ssmith0521 ( $0.92 )
+Seat 7: gnarshmallow ( $0.96 )
+ssmith0521 posts small blind [$0.01]
+gnarshmallow posts big blind [$0.02]
+** Dealing down cards **
+ssmith0521 raises [$0.03]
+gnarshmallow calls [$0.02]
+** Dealing flop ** [ 9d, 2d, 5c ]
+gnarshmallow checks
+ssmith0521 bets [$0.08]
+gnarshmallow folds
+** Summary **
+ssmith0521 collected [ $0.08 ]
+
+
+#Game No : 501519697
+***** 888poker Hand History for Game 501519697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:11:29
+Table Knoxville 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ssmith0521 ( $0.95 )
+Seat 7: gnarshmallow ( $0.93 )
+ssmith0521 posts small blind [$0.01]
+gnarshmallow posts big blind [$0.02]
+** Dealing down cards **
+ssmith0521 calls [$0.01]
+gnarshmallow checks
+** Dealing flop ** [ 2c, Tc, 4s ]
+gnarshmallow checks
+ssmith0521 checks
+** Dealing turn ** [ 2h ]
+gnarshmallow checks
+ssmith0521 bets [$0.02]
+gnarshmallow calls [$0.02]
+** Dealing river ** [ 6d ]
+gnarshmallow checks
+ssmith0521 bets [$0.08]
+gnarshmallow folds
+** Summary **
+ssmith0521 collected [ $0.08 ]
+
+
+#Game No : 501519877
+***** 888poker Hand History for Game 501519877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:16:04
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.64 )
+Seat 9: momomokuk ( $1.86 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan calls [$0.01]
+momomokuk checks
+** Dealing flop ** [ 8s, 2d, Td ]
+momomokuk checks
+Mrhandan checks
+** Dealing turn ** [ 5h ]
+momomokuk checks
+Mrhandan checks
+** Dealing river ** [ Qd ]
+momomokuk checks
+Mrhandan checks
+** Summary **
+momomokuk shows [ 4s, 5c ]
+Mrhandan mucks [ 2h, 9d ]
+momomokuk collected [ $0.04 ]
+
+
+#Game No : 501519903
+***** 888poker Hand History for Game 501519903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:16:48
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.62 )
+Seat 9: momomokuk ( $1.88 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk folds
+** Summary **
+Mrhandan collected [ $0.03 ]
+
+
+#Game No : 501519907
+***** 888poker Hand History for Game 501519907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:16:55
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.63 )
+Seat 9: momomokuk ( $1.87 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan raises [$0.03]
+momomokuk calls [$0.02]
+** Dealing flop ** [ As, Qd, 5c ]
+momomokuk checks
+Mrhandan bets [$0.08]
+momomokuk folds
+** Summary **
+Mrhandan collected [ $0.08 ]
+
+
+#Game No : 501520084
+***** 888poker Hand History for Game 501520084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:20:50
+Table Knoxville 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.65 )
+Seat 9: momomokuk ( $1.88 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.03 ]
+
+
+#Game No : 501520093
+***** 888poker Hand History for Game 501520093 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:21:02
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.66 )
+Seat 9: momomokuk ( $1.87 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk raises [$0.05]
+Mrhandan raises [$0.08]
+momomokuk calls [$0.04]
+** Dealing flop ** [ 4s, 2h, 5h ]
+Mrhandan bets [$0.20]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.19 ]
+
+
+#Game No : 501520111
+***** 888poker Hand History for Game 501520111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:21:32
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.75 )
+Seat 9: momomokuk ( $1.77 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan folds
+** Summary **
+momomokuk did not show his hand
+momomokuk collected [ $0.03 ]
+
+
+#Game No : 501520119
+***** 888poker Hand History for Game 501520119 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:21:38
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.74 )
+Seat 9: momomokuk ( $1.78 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk raises [$0.05]
+Mrhandan raises [$0.08]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.12 ]
+
+
+#Game No : 501520133
+***** 888poker Hand History for Game 501520133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:21:52
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.80 )
+Seat 9: momomokuk ( $1.72 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan raises [$0.03]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.04 ]
+
+
+#Game No : 501520139
+***** 888poker Hand History for Game 501520139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:22:03
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.82 )
+Seat 9: momomokuk ( $1.70 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.03 ]
+
+
+#Game No : 501520146
+***** 888poker Hand History for Game 501520146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:22:10
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.83 )
+Seat 9: momomokuk ( $1.69 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan calls [$0.01]
+momomokuk checks
+** Dealing flop ** [ 8h, Qs, 3d ]
+momomokuk checks
+Mrhandan bets [$0.02]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.04 ]
+
+
+#Game No : 501520159
+***** 888poker Hand History for Game 501520159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:22:30
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.85 )
+Seat 9: momomokuk ( $1.67 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.03 ]
+
+
+#Game No : 501520164
+***** 888poker Hand History for Game 501520164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:22:36
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.86 )
+Seat 9: momomokuk ( $1.66 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan raises [$0.03]
+momomokuk calls [$0.02]
+** Dealing flop ** [ 9s, Qc, 9c ]
+momomokuk checks
+Mrhandan bets [$0.08]
+momomokuk calls [$0.08]
+** Dealing turn ** [ Ac ]
+momomokuk checks
+Mrhandan checks
+** Dealing river ** [ 3s ]
+momomokuk bets [$0.12]
+Mrhandan raises [$0.24]
+momomokuk calls [$0.12]
+** Summary **
+Mrhandan shows [ Ts, Kh ]
+momomokuk shows [ Kc, 3c ]
+momomokuk collected [ $0.68 ]
+
+
+#Game No : 501520195
+***** 888poker Hand History for Game 501520195 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:23:22
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.50 )
+Seat 9: momomokuk ( $1.98 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk raises [$0.05]
+Mrhandan raises [$0.48]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.12 ]
+
+
+#Game No : 501520207
+***** 888poker Hand History for Game 501520207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:23:38
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.56 )
+Seat 9: momomokuk ( $1.92 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan calls [$0.01]
+momomokuk checks
+** Dealing flop ** [ 5s, Qd, Qc ]
+momomokuk checks
+Mrhandan bets [$0.02]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.04 ]
+
+
+#Game No : 501520225
+***** 888poker Hand History for Game 501520225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:24:03
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.58 )
+Seat 9: momomokuk ( $1.90 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk raises [$0.05]
+Mrhandan raises [$0.08]
+momomokuk calls [$0.04]
+** Dealing flop ** [ 2c, Kh, 5h ]
+Mrhandan bets [$0.48]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.19 ]
+
+
+#Game No : 501520238
+***** 888poker Hand History for Game 501520238 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:24:24
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.67 )
+Seat 9: momomokuk ( $1.80 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan calls [$0.01]
+momomokuk checks
+** Dealing flop ** [ 7h, 3d, Kh ]
+momomokuk checks
+Mrhandan bets [$0.02]
+momomokuk calls [$0.02]
+** Dealing turn ** [ Ks ]
+momomokuk checks
+Mrhandan bets [$0.08]
+momomokuk calls [$0.08]
+** Dealing river ** [ 6h ]
+momomokuk checks
+Mrhandan bets [$0.55]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.23 ]
+
+
+#Game No : 501520265
+***** 888poker Hand History for Game 501520265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:25:09
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.78 )
+Seat 9: momomokuk ( $1.68 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.03 ]
+
+
+#Game No : 501520269
+***** 888poker Hand History for Game 501520269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:25:15
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.79 )
+Seat 9: momomokuk ( $1.67 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan calls [$0.01]
+momomokuk raises [$0.06]
+Mrhandan calls [$0.06]
+** Dealing flop ** [ 9h, 2h, 7c ]
+momomokuk bets [$0.08]
+Mrhandan folds
+** Summary **
+momomokuk did not show his hand
+momomokuk collected [ $0.15 ]
+
+
+#Game No : 501520281
+***** 888poker Hand History for Game 501520281 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:25:32
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.71 )
+Seat 9: momomokuk ( $1.74 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk raises [$0.05]
+Mrhandan folds
+** Summary **
+momomokuk did not show his hand
+momomokuk collected [ $0.04 ]
+
+
+#Game No : 501520286
+***** 888poker Hand History for Game 501520286 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:25:39
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.69 )
+Seat 9: momomokuk ( $1.76 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan raises [$0.68]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.04 ]
+
+
+#Game No : 501520292
+***** 888poker Hand History for Game 501520292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:25:47
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.71 )
+Seat 9: momomokuk ( $1.74 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.03 ]
+
+
+#Game No : 501520297
+***** 888poker Hand History for Game 501520297 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:25:54
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.72 )
+Seat 9: momomokuk ( $1.73 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan raises [$0.15]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.04 ]
+
+
+#Game No : 501520304
+***** 888poker Hand History for Game 501520304 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:26:02
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.74 )
+Seat 9: momomokuk ( $1.71 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.03 ]
+
+
+#Game No : 501520309
+***** 888poker Hand History for Game 501520309 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:26:14
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.75 )
+Seat 9: momomokuk ( $1.70 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan raises [$0.03]
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.04 ]
+
+
+#Game No : 501520317
+***** 888poker Hand History for Game 501520317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:26:23
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.77 )
+Seat 9: momomokuk ( $1.68 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk folds
+** Summary **
+Mrhandan did not show his hand
+Mrhandan collected [ $0.03 ]
+
+
+#Game No : 501520321
+***** 888poker Hand History for Game 501520321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:26:28
+Table Knoxville 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.78 )
+Seat 9: momomokuk ( $1.67 )
+Mrhandan posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Mrhandan folds
+** Summary **
+momomokuk did not show his hand
+momomokuk collected [ $0.03 ]
+
+
+#Game No : 501520328
+***** 888poker Hand History for Game 501520328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:26:35
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Mrhandan ( $0.77 )
+Seat 9: momomokuk ( $1.68 )
+momomokuk posts small blind [$0.01]
+Mrhandan posts big blind [$0.02]
+** Dealing down cards **
+momomokuk raises [$0.05]
+Mrhandan raises [$0.75]
+momomokuk folds
+** Summary **
+Mrhandan collected [ $0.12 ]
+
+
+#Game No : 501520417
+***** 888poker Hand History for Game 501520417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:28:56
+Table Knoxville 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Fleischgabel ( $2.82 )
+Seat 9: momomokuk ( $1 )
+Fleischgabel posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Fleischgabel calls [$0.01]
+momomokuk checks
+** Dealing flop ** [ 8c, 4s, 7c ]
+momomokuk checks
+Fleischgabel bets [$0.04]
+momomokuk calls [$0.04]
+** Dealing turn ** [ 8s ]
+momomokuk checks
+Fleischgabel bets [$0.06]
+momomokuk calls [$0.06]
+** Dealing river ** [ 5s ]
+momomokuk checks
+Fleischgabel bets [$0.08]
+momomokuk calls [$0.08]
+** Summary **
+Fleischgabel shows [ Jc, 4d ]
+momomokuk shows [ 7d, 3h ]
+momomokuk collected [ $0.38 ]
+
+
+#Game No : 501520445
+***** 888poker Hand History for Game 501520445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:29:38
+Table Knoxville 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Fleischgabel ( $2.62 )
+Seat 9: momomokuk ( $1.18 )
+momomokuk posts small blind [$0.01]
+Fleischgabel posts big blind [$0.02]
+** Dealing down cards **
+momomokuk raises [$0.05]
+Fleischgabel calls [$0.04]
+** Dealing flop ** [ 2s, 4c, Th ]
+Fleischgabel checks
+momomokuk bets [$0.06]
+Fleischgabel raises [$0.12]
+momomokuk calls [$0.06]
+** Dealing turn ** [ 9s ]
+Fleischgabel bets [$0.20]
+momomokuk calls [$0.20]
+** Dealing river ** [ Td ]
+Fleischgabel checks
+momomokuk checks
+** Summary **
+Fleischgabel shows [ 3c, 8c ]
+momomokuk shows [ Ac, Ad ]
+momomokuk collected [ $0.72 ]
+
+
+#Game No : 501520483
+***** 888poker Hand History for Game 501520483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2018 15:30:41
+Table Knoxville 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Fleischgabel ( $2.24 )
+Seat 9: momomokuk ( $1.52 )
+Fleischgabel posts small blind [$0.01]
+momomokuk posts big blind [$0.02]
+** Dealing down cards **
+Fleischgabel raises [$0.03]
+momomokuk folds
+** Summary **
+Fleischgabel collected [ $0.04 ]
+
+

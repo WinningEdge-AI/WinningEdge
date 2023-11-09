@@ -1,0 +1,29 @@
+#Game No : 518960801
+***** 888poker Hand History for Game 518960801 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2019 05:58:54
+Table Jerez 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $4.26 )
+Seat 7: Hatka888 ( $0.80 )
+GARALD84 posts small blind [$0.01]
+Hatka888 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+Hatka888 checks
+** Dealing flop ** [ Ad, 7h, Jd ]
+Hatka888 checks
+GARALD84 bets [$0.02]
+Hatka888 calls [$0.02]
+** Dealing turn ** [ 9c ]
+Hatka888 checks
+GARALD84 checks
+** Dealing river ** [ Jh ]
+Hatka888 checks
+GARALD84 checks
+** Summary **
+Hatka888 shows [ 8s, 8h ]
+GARALD84 mucks [ Td, 4d ]
+Hatka888 collected [ $0.08 ]
+
+

@@ -1,0 +1,47 @@
+#Game No : 531788015
+***** 888poker Hand History for Game 531788015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 20:32:28
+Table Cabo Frio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: akbogat80 ( $0.93 )
+Seat 9: hd2757 ( $3.67 )
+hd2757 posts small blind [$0.01]
+akbogat80 posts big blind [$0.02]
+** Dealing down cards **
+hd2757 folds
+** Summary **
+akbogat80 collected [ $0.03 ]
+
+
+#Game No : 531788404
+***** 888poker Hand History for Game 531788404 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 20:50:35
+Table Cabo Frio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: jedai111 ( $1 )
+Seat 7: Samiyounes ( $0.80 )
+Samiyounes posts small blind [$0.01]
+jedai111 posts big blind [$0.02]
+** Dealing down cards **
+Samiyounes raises [$0.03]
+jedai111 raises [$0.10]
+Samiyounes raises [$0.16]
+jedai111 calls [$0.08]
+** Dealing flop ** [ 5c, 7c, Ac ]
+jedai111 checks
+Samiyounes checks
+** Dealing turn ** [ As ]
+jedai111 checks
+Samiyounes bets [$0.12]
+jedai111 calls [$0.12]
+** Dealing river ** [ 6s ]
+jedai111 bets [$0.64]
+Samiyounes calls [$0.48]
+** Summary **
+jedai111 shows [ Ah, Jc ]
+Samiyounes shows [ Js, Jh ]
+jedai111 collected [ $1.50 ]
+
+

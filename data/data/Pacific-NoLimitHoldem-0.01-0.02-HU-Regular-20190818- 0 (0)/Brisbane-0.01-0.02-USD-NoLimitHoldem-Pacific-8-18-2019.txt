@@ -1,0 +1,111 @@
+#Game No : 623718540
+***** 888poker Hand History for Game 623718540 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2019 23:14:25
+Table Brisbane 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KAMILO_888 ( $2.13 )
+Seat 6: Artoem1 ( $2 )
+KAMILO_888 posts small blind [$0.01]
+Artoem1 posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 calls [$0.01]
+Artoem1 checks
+** Dealing flop ** [ 5c, Qh, Jd ]
+Artoem1 checks
+KAMILO_888 checks
+** Dealing turn ** [ 9s ]
+Artoem1 bets [$0.04]
+KAMILO_888 calls [$0.04]
+** Dealing river ** [ 2c ]
+Artoem1 bets [$0.07]
+KAMILO_888 calls [$0.07]
+** Summary **
+Artoem1 shows [ 9h, 6d ]
+KAMILO_888 shows [ Ad, 9d ]
+KAMILO_888 collected [ $0.25 ]
+
+
+#Game No : 623719265
+***** 888poker Hand History for Game 623719265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2019 23:59:46
+Table Brisbane 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lllsergollll ( $2.56 )
+Seat 6: Artoem1 ( $2 )
+lllsergollll posts small blind [$0.01]
+Artoem1 posts big blind [$0.02]
+** Dealing down cards **
+lllsergollll raises [$0.03]
+Artoem1 folds
+** Summary **
+lllsergollll collected [ $0.04 ]
+
+
+#Game No : 623719268
+***** 888poker Hand History for Game 623719268 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2019 23:59:57
+Table Brisbane 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: lllsergollll ( $2.58 )
+Seat 6: Artoem1 ( $2 )
+Artoem1 posts small blind [$0.01]
+lllsergollll posts big blind [$0.02]
+** Dealing down cards **
+Artoem1 raises [$0.05]
+lllsergollll calls [$0.04]
+** Dealing flop ** [ 8d, Ks, Ac ]
+lllsergollll checks
+Artoem1 bets [$0.07]
+lllsergollll calls [$0.07]
+** Dealing turn ** [ Ah ]
+lllsergollll checks
+Artoem1 checks
+** Dealing river ** [ 8h ]
+lllsergollll checks
+Artoem1 checks
+** Summary **
+lllsergollll shows [ Kd, 7h ]
+Artoem1 mucks [ 6d, 4d ]
+lllsergollll collected [ $0.25 ]
+
+
+#Game No : 623720778
+***** 888poker Hand History for Game 623720778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2019 01:17:34
+Table Brisbane 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hanni610 ( $2.24 )
+Seat 2: misterisT ( $2.93 )
+hanni610 posts small blind [$0.01]
+misterisT posts big blind [$0.02]
+** Dealing down cards **
+hanni610 folds
+** Summary **
+misterisT collected [ $0.03 ]
+
+
+#Game No : 623720784
+***** 888poker Hand History for Game 623720784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2019 01:17:51
+Table Brisbane 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: hanni610 ( $2.23 )
+Seat 2: misterisT ( $2.94 )
+misterisT posts small blind [$0.01]
+hanni610 posts big blind [$0.02]
+** Dealing down cards **
+misterisT raises [$0.04]
+hanni610 raises [$0.17]
+misterisT calls [$0.14]
+** Dealing flop ** [ 6d, 2h, 4c ]
+hanni610 bets [$0.12]
+misterisT folds
+** Summary **
+hanni610 collected [ $0.36 ]
+
+

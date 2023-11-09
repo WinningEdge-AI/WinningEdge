@@ -1,0 +1,500 @@
+#Game No : 617494596
+***** 888poker Hand History for Game 617494596 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 03:41:31
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: bigHaki ( $1 )
+Seat 6: msdmoz ( $0.72 )
+msdmoz posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+msdmoz raises [$0.03]
+bigHaki folds
+** Summary **
+msdmoz collected [ $0.04 ]
+
+
+#Game No : 617496069
+***** 888poker Hand History for Game 617496069 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 04:44:29
+Table Harare 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: GARALD84 ( $1.92 )
+Seat 2: DstD01 ( $2.88 )
+GARALD84 posts small blind [$0.01]
+DstD01 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+DstD01 raises [$0.04]
+GARALD84 calls [$0.04]
+** Dealing flop ** [ 6s, 7s, Js ]
+DstD01 bets [$0.06]
+GARALD84 calls [$0.06]
+** Dealing turn ** [ 6h ]
+DstD01 bets [$0.12]
+GARALD84 calls [$0.12]
+** Dealing river ** [ 2c ]
+DstD01 bets [$0.24]
+GARALD84 calls [$0.24]
+** Summary **
+DstD01 shows [ Jd, 9s ]
+GARALD84 mucks [ Ad, 7h ]
+DstD01 collected [ $0.90 ]
+
+
+#Game No : 617499058
+***** 888poker Hand History for Game 617499058 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 06:30:52
+Table Harare 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: bigHaki ( $1.14 )
+Seat 7: KaiZen89 ( $1.54 )
+KaiZen89 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+KaiZen89 folds
+** Summary **
+bigHaki collected [ $0.03 ]
+
+
+#Game No : 617499064
+***** 888poker Hand History for Game 617499064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 06:30:58
+Table Harare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: bigHaki ( $1.15 )
+Seat 7: KaiZen89 ( $1.53 )
+bigHaki posts small blind [$0.01]
+KaiZen89 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+KaiZen89 calls [$0.04]
+** Dealing flop ** [ Jc, 2s, 9d ]
+KaiZen89 checks
+bigHaki bets [$0.06]
+KaiZen89 folds
+** Summary **
+bigHaki collected [ $0.12 ]
+
+
+#Game No : 617499075
+***** 888poker Hand History for Game 617499075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 06:31:15
+Table Harare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: AndreShol ( $0.80 )
+Seat 4: bigHaki ( $1.21 )
+bigHaki posts small blind [$0.01]
+AndreShol posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+AndreShol calls [$0.04]
+** Dealing flop ** [ Qh, 3s, 5s ]
+AndreShol checks
+bigHaki bets [$0.08]
+AndreShol raises [$0.16]
+bigHaki calls [$0.08]
+** Dealing turn ** [ Ks ]
+AndreShol checks
+bigHaki checks
+** Dealing river ** [ 2h ]
+AndreShol bets [$0.29]
+bigHaki raises [$0.58]
+AndreShol calls [$0.29]
+** Summary **
+AndreShol shows [ Qc, 5c ]
+bigHaki shows [ 2s, As ]
+bigHaki collected [ $1.50 ]
+
+
+#Game No : 617500745
+***** 888poker Hand History for Game 617500745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:18:32
+Table Harare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Mpowermo ( $0.95 )
+Seat 6: Theseason ( $0.78 )
+Mpowermo posts small blind [$0.01]
+Theseason posts big blind [$0.02]
+** Dealing down cards **
+Mpowermo calls [$0.01]
+Theseason raises [$0.06]
+Mpowermo calls [$0.06]
+** Dealing flop ** [ 8s, 5c, Kc ]
+Theseason bets [$0.08]
+Mpowermo folds
+** Summary **
+Theseason collected [ $0.15 ]
+
+
+#Game No : 617500755
+***** 888poker Hand History for Game 617500755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:18:51
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Mpowermo ( $0.87 )
+Seat 6: Theseason ( $0.85 )
+Theseason posts small blind [$0.01]
+Mpowermo posts big blind [$0.02]
+** Dealing down cards **
+Theseason calls [$0.01]
+Mpowermo raises [$0.04]
+Theseason calls [$0.04]
+** Dealing flop ** [ 5s, 7h, 4s ]
+Mpowermo bets [$0.08]
+Theseason calls [$0.08]
+** Dealing turn ** [ 4h ]
+Mpowermo bets [$0.18]
+Theseason calls [$0.18]
+** Dealing river ** [ Tc ]
+Mpowermo checks
+Theseason bets [$0.32]
+Mpowermo folds
+** Summary **
+Theseason collected [ $0.60 ]
+
+
+#Game No : 617500784
+***** 888poker Hand History for Game 617500784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:19:28
+Table Harare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Mpowermo ( $0.55 )
+Seat 6: Theseason ( $1.13 )
+Mpowermo posts small blind [$0.01]
+Theseason posts big blind [$0.02]
+** Dealing down cards **
+Mpowermo raises [$0.03]
+Theseason calls [$0.02]
+** Dealing flop ** [ 8h, 6c, 6h ]
+Theseason bets [$0.04]
+Mpowermo raises [$0.08]
+Theseason calls [$0.04]
+** Dealing turn ** [ 7h ]
+Theseason checks
+Mpowermo checks
+** Dealing river ** [ 3c ]
+Theseason bets [$0.10]
+Mpowermo folds
+** Summary **
+Theseason collected [ $0.23 ]
+
+
+#Game No : 617500805
+***** 888poker Hand History for Game 617500805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:19:57
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Mpowermo ( $0.43 )
+Seat 6: Theseason ( $1.24 )
+Theseason posts small blind [$0.01]
+Mpowermo posts big blind [$0.02]
+** Dealing down cards **
+Theseason calls [$0.01]
+Mpowermo checks
+** Dealing flop ** [ 6c, 7h, 3s ]
+Mpowermo checks
+Theseason checks
+** Dealing turn ** [ 2d ]
+Mpowermo checks
+Theseason checks
+** Dealing river ** [ 2h ]
+Mpowermo checks
+Theseason checks
+** Summary **
+Mpowermo shows [ Jc, 9c ]
+Theseason shows [ Qh, Tc ]
+Theseason collected [ $0.04 ]
+
+
+#Game No : 617500944
+***** 888poker Hand History for Game 617500944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:22:42
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Theseason ( $1.22 )
+Seat 7: F1nans ( $1.04 )
+Theseason posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Theseason calls [$0.01]
+F1nans checks
+** Dealing flop ** [ 5s, 4s, 9h ]
+F1nans checks
+Theseason checks
+** Dealing turn ** [ Ac ]
+F1nans checks
+Theseason bets [$0.02]
+F1nans folds
+** Summary **
+Theseason collected [ $0.04 ]
+
+
+#Game No : 617500958
+***** 888poker Hand History for Game 617500958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:23:00
+Table Harare 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Theseason ( $1.24 )
+Seat 7: F1nans ( $1.02 )
+F1nans posts small blind [$0.01]
+Theseason posts big blind [$0.02]
+** Dealing down cards **
+F1nans folds
+** Summary **
+Theseason collected [ $0.03 ]
+
+
+#Game No : 617500962
+***** 888poker Hand History for Game 617500962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:23:04
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Theseason ( $1.25 )
+Seat 7: F1nans ( $1.01 )
+Theseason posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Theseason raises [$0.05]
+F1nans folds
+** Summary **
+Theseason collected [ $0.04 ]
+
+
+#Game No : 617500974
+***** 888poker Hand History for Game 617500974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:23:15
+Table Harare 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Theseason ( $1.27 )
+Seat 7: F1nans ( $1 )
+F1nans posts small blind [$0.01]
+Theseason posts big blind [$0.02]
+** Dealing down cards **
+F1nans folds
+** Summary **
+Theseason collected [ $0.03 ]
+
+
+#Game No : 617500978
+***** 888poker Hand History for Game 617500978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:23:19
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Theseason ( $1.28 )
+Seat 7: F1nans ( $1 )
+Theseason posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Theseason raises [$0.05]
+F1nans calls [$0.04]
+** Dealing flop ** [ 3d, 7c, 5s ]
+F1nans checks
+Theseason checks
+** Dealing turn ** [ 6d ]
+F1nans checks
+Theseason checks
+** Dealing river ** [ Jd ]
+F1nans checks
+Theseason bets [$0.04]
+F1nans calls [$0.04]
+** Summary **
+Theseason shows [ 2s, Kc ]
+F1nans shows [ Kd, Qh ]
+F1nans collected [ $0.19 ]
+
+
+#Game No : 617500995
+***** 888poker Hand History for Game 617500995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:23:48
+Table Harare 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Theseason ( $1.18 )
+Seat 7: F1nans ( $1.09 )
+F1nans posts small blind [$0.01]
+Theseason posts big blind [$0.02]
+** Dealing down cards **
+F1nans folds
+** Summary **
+Theseason collected [ $0.03 ]
+
+
+#Game No : 617501003
+***** 888poker Hand History for Game 617501003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:23:56
+Table Harare 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Airtonomics ( $1 )
+Seat 7: F1nans ( $1.08 )
+F1nans posts small blind [$0.01]
+Airtonomics posts big blind [$0.02]
+** Dealing down cards **
+F1nans folds
+** Summary **
+Airtonomics collected [ $0.03 ]
+
+
+#Game No : 617501007
+***** 888poker Hand History for Game 617501007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:24:02
+Table Harare 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Airtonomics ( $1.01 )
+Seat 7: F1nans ( $1.07 )
+Airtonomics posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Airtonomics raises [$0.03]
+F1nans folds
+** Summary **
+Airtonomics collected [ $0.04 ]
+
+
+#Game No : 617501019
+***** 888poker Hand History for Game 617501019 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:24:15
+Table Harare 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Airtonomics ( $1.03 )
+Seat 7: F1nans ( $1.05 )
+F1nans posts small blind [$0.01]
+Airtonomics posts big blind [$0.02]
+** Dealing down cards **
+F1nans raises [$0.04]
+Airtonomics folds
+** Summary **
+F1nans collected [ $0.04 ]
+
+
+#Game No : 617501031
+***** 888poker Hand History for Game 617501031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:24:31
+Table Harare 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Airtonomics ( $1.01 )
+Seat 7: F1nans ( $1.07 )
+Airtonomics posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Airtonomics raises [$0.03]
+F1nans folds
+** Summary **
+Airtonomics collected [ $0.04 ]
+
+
+#Game No : 617501038
+***** 888poker Hand History for Game 617501038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:24:44
+Table Harare 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Airtonomics ( $1.03 )
+Seat 7: F1nans ( $1.05 )
+F1nans posts small blind [$0.01]
+Airtonomics posts big blind [$0.02]
+** Dealing down cards **
+F1nans raises [$0.04]
+Airtonomics folds
+** Summary **
+F1nans collected [ $0.04 ]
+
+
+#Game No : 617501061
+***** 888poker Hand History for Game 617501061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 07:25:06
+Table Harare 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Airtonomics ( $1.01 )
+Seat 7: F1nans ( $1.07 )
+Airtonomics posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Airtonomics raises [$0.03]
+F1nans folds
+** Summary **
+Airtonomics collected [ $0.04 ]
+
+
+#Game No : 617505122
+***** 888poker Hand History for Game 617505122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 08:55:21
+Table Harare 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Jambatty ( $1.23 )
+Seat 7: Xontrax ( $1 )
+Jambatty posts small blind [$0.01]
+** Dealing down cards **
+Xontrax folds
+** Summary **
+Jambatty collected [ $0.01 ]
+
+
+#Game No : 617505129
+***** 888poker Hand History for Game 617505129 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 08:55:31
+Table Harare 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Jambatty ( $1.23 )
+Seat 9: gitarfeel88 ( $1 )
+Jambatty posts small blind [$0.01]
+gitarfeel88 posts big blind [$0.02]
+** Dealing down cards **
+Jambatty folds
+** Summary **
+gitarfeel88 collected [ $0.03 ]
+
+
+#Game No : 617505857
+***** 888poker Hand History for Game 617505857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 09:13:28
+Table Harare 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Jambatty ( $1.26 )
+Seat 9: gitarfeel88 ( $1.15 )
+Jambatty posts small blind [$0.01]
+gitarfeel88 posts big blind [$0.02]
+** Dealing down cards **
+Jambatty raises [$0.05]
+gitarfeel88 folds
+** Summary **
+Jambatty collected [ $0.04 ]
+
+
+#Game No : 617505864
+***** 888poker Hand History for Game 617505864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 09:13:40
+Table Harare 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Jambatty ( $1.28 )
+Seat 9: gitarfeel88 ( $1.13 )
+gitarfeel88 posts small blind [$0.01]
+** Dealing down cards **
+Jambatty folds
+** Summary **
+gitarfeel88 collected [ $0.01 ]
+
+

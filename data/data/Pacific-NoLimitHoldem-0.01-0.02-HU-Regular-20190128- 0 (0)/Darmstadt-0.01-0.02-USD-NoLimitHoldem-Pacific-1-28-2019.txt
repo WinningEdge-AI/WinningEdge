@@ -1,0 +1,45 @@
+#Game No : 512858993
+***** 888poker Hand History for Game 512858993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 02:41:22
+Table Darmstadt 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: umbralshadow ( $2.99 )
+Seat 9: SVrider62 ( $2.09 )
+SVrider62 posts small blind [$0.01]
+umbralshadow posts big blind [$0.02]
+** Dealing down cards **
+SVrider62 raises [$0.05]
+umbralshadow calls [$0.04]
+** Dealing flop ** [ Ts, 6h, 9d ]
+umbralshadow checks
+SVrider62 checks
+** Dealing turn ** [ Th ]
+umbralshadow checks
+SVrider62 bets [$0.06]
+umbralshadow calls [$0.06]
+** Dealing river ** [ 9s ]
+umbralshadow checks
+SVrider62 checks
+** Summary **
+umbralshadow shows [ 8d, 4c ]
+SVrider62 mucks [ 5h, 5s ]
+umbralshadow collected [ $0.23 ]
+
+
+#Game No : 512860074
+***** 888poker Hand History for Game 512860074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 03:05:26
+Table Darmstadt 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: rustaman76 ( $1.04 )
+Seat 7: buratino22 ( $0.83 )
+rustaman76 posts small blind [$0.01]
+** Dealing down cards **
+buratino22 folds
+** Summary **
+rustaman76 did not show his hand
+rustaman76 collected [ $0.01 ]
+
+

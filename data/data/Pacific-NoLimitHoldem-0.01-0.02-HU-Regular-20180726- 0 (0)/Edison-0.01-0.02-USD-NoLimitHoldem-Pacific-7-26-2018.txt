@@ -1,0 +1,103 @@
+#Game No : 499983914
+***** 888poker Hand History for Game 499983914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 10:27:14
+Table Edison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Gato2414 ( $1 )
+Seat 4: vnuk36 ( $0.80 )
+Gato2414 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Gato2414 calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ 4h, 3d, 5d ]
+vnuk36 checks
+Gato2414 bets [$0.02]
+vnuk36 calls [$0.02]
+** Dealing turn ** [ Td ]
+vnuk36 checks
+Gato2414 checks
+** Dealing river ** [ 6h ]
+vnuk36 checks
+Gato2414 bets [$0.05]
+vnuk36 calls [$0.05]
+** Summary **
+Gato2414 shows [ 2c, 2d ]
+vnuk36 mucks [ 3s, Ts ]
+Gato2414 collected [ $0.17 ]
+
+
+#Game No : 499987546
+***** 888poker Hand History for Game 499987546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:40:20
+Table Edison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SCTHEOC ( $1.03 )
+Seat 9: Fish_killer1 ( $1.10 )
+SCTHEOC posts small blind [$0.01]
+Fish_killer1 posts big blind [$0.02]
+** Dealing down cards **
+SCTHEOC raises [$0.03]
+Fish_killer1 folds
+** Summary **
+SCTHEOC collected [ $0.04 ]
+
+
+#Game No : 499987632
+***** 888poker Hand History for Game 499987632 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:42:19
+Table Edison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: EvgenyiR ( $0.80 )
+Seat 2: Tvans1975 ( $0.80 )
+EvgenyiR posts small blind [$0.01]
+Tvans1975 posts big blind [$0.02]
+** Dealing down cards **
+EvgenyiR calls [$0.01]
+Tvans1975 checks
+** Dealing flop ** [ Kd, 9c, 3c ]
+Tvans1975 checks
+EvgenyiR checks
+** Dealing turn ** [ Ks ]
+Tvans1975 checks
+EvgenyiR checks
+** Dealing river ** [ 8c ]
+Tvans1975 checks
+EvgenyiR checks
+** Summary **
+Tvans1975 shows [ 7c, Ts ]
+EvgenyiR mucks [ 7d, 5c ]
+Tvans1975 collected [ $0.04 ]
+
+
+#Game No : 499987656
+***** 888poker Hand History for Game 499987656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 11:42:48
+Table Edison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: EvgenyiR ( $0.78 )
+Seat 2: Tvans1975 ( $0.82 )
+Tvans1975 posts small blind [$0.01]
+EvgenyiR posts big blind [$0.02]
+** Dealing down cards **
+Tvans1975 calls [$0.01]
+EvgenyiR checks
+** Dealing flop ** [ 2d, 4c, 6d ]
+EvgenyiR checks
+Tvans1975 bets [$0.02]
+EvgenyiR calls [$0.02]
+** Dealing turn ** [ 9c ]
+EvgenyiR checks
+Tvans1975 bets [$0.02]
+EvgenyiR calls [$0.02]
+** Dealing river ** [ Kc ]
+EvgenyiR bets [$0.12]
+Tvans1975 folds
+** Summary **
+EvgenyiR collected [ $0.12 ]
+
+

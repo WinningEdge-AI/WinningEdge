@@ -1,0 +1,46 @@
+#Game No : 526407642
+***** 888poker Hand History for Game 526407642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 05:34:44
+Table Edinburgh 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: blackbullhug ( $1 )
+Seat 4: gyng111 ( $1 )
+blackbullhug posts small blind [$0.01]
+gyng111 posts big blind [$0.02]
+** Dealing down cards **
+blackbullhug raises [$0.03]
+gyng111 folds
+** Summary **
+blackbullhug collected [ $0.04 ]
+
+
+#Game No : 526407659
+***** 888poker Hand History for Game 526407659 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 05:34:58
+Table Edinburgh 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: blackbullhug ( $1.02 )
+Seat 4: gyng111 ( $0.98 )
+gyng111 posts small blind [$0.01]
+blackbullhug posts big blind [$0.02]
+** Dealing down cards **
+gyng111 raises [$0.05]
+blackbullhug raises [$0.08]
+gyng111 calls [$0.04]
+** Dealing flop ** [ Ks, Ac, 3s ]
+blackbullhug checks
+gyng111 checks
+** Dealing turn ** [ 7d ]
+blackbullhug bets [$0.02]
+gyng111 calls [$0.02]
+** Dealing river ** [ 7c ]
+blackbullhug bets [$0.24]
+gyng111 calls [$0.24]
+** Summary **
+blackbullhug shows [ Kh, Ad ]
+gyng111 mucks [ As, 2c ]
+blackbullhug collected [ $0.68 ]
+
+

@@ -1,0 +1,30 @@
+#Game No : 611307464
+***** 888poker Hand History for Game 611307464 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 18:10:19
+Table Ede 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: PraettorianD ( $2.11 )
+Seat 10: BigAndCool ( $1.88 )
+BigAndCool posts small blind [$0.01]
+PraettorianD posts big blind [$0.02]
+** Dealing down cards **
+BigAndCool raises [$0.03]
+PraettorianD raises [$0.10]
+BigAndCool calls [$0.08]
+** Dealing flop ** [ Qh, 5c, 9c ]
+PraettorianD bets [$0.12]
+BigAndCool raises [$0.24]
+PraettorianD calls [$0.12]
+** Dealing turn ** [ 7c ]
+PraettorianD checks
+BigAndCool checks
+** Dealing river ** [ Ah ]
+PraettorianD bets [$0.30]
+BigAndCool calls [$0.30]
+** Summary **
+PraettorianD shows [ Th, Kd ]
+BigAndCool shows [ Qs, Ts ]
+BigAndCool collected [ $1.24 ]
+
+

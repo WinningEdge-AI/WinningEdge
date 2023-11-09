@@ -1,0 +1,103 @@
+#Game No : 512857009
+***** 888poker Hand History for Game 512857009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 01:47:13
+Table Brasov 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: padureanu16 ( $0.97 )
+Seat 7: laschko ( $1.90 )
+padureanu16 posts small blind [$0.01]
+laschko posts big blind [$0.02]
+** Dealing down cards **
+padureanu16 calls [$0.01]
+laschko checks
+** Dealing flop ** [ 8h, 8d, Ah ]
+laschko checks
+padureanu16 checks
+** Dealing turn ** [ 3s ]
+laschko bets [$0.02]
+padureanu16 calls [$0.02]
+** Dealing river ** [ 3d ]
+laschko bets [$0.04]
+padureanu16 calls [$0.04]
+** Summary **
+laschko shows [ 7d, 3h ]
+padureanu16 shows [ 6c, 3c ]
+laschko collected [ $0.08 ]
+padureanu16 collected [ $0.07 ]
+
+
+#Game No : 512857019
+***** 888poker Hand History for Game 512857019 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 01:47:42
+Table Brasov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: padureanu16 ( $0.96 )
+Seat 7: laschko ( $1.90 )
+laschko posts small blind [$0.01]
+padureanu16 posts big blind [$0.02]
+** Dealing down cards **
+laschko raises [$0.03]
+padureanu16 calls [$0.02]
+** Dealing flop ** [ 3c, 4d, 4h ]
+padureanu16 checks
+laschko bets [$0.02]
+padureanu16 calls [$0.02]
+** Dealing turn ** [ Ks ]
+padureanu16 checks
+laschko bets [$0.06]
+padureanu16 folds
+** Summary **
+laschko collected [ $0.12 ]
+
+
+#Game No : 512862204
+***** 888poker Hand History for Game 512862204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 03:53:47
+Table Brasov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: simbiad38 ( $2.79 )
+Seat 9: AntonioKaz ( $1.66 )
+simbiad38 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+simbiad38 folds
+** Summary **
+AntonioKaz collected [ $0.03 ]
+
+
+#Game No : 512862208
+***** 888poker Hand History for Game 512862208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 03:53:52
+Table Brasov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: simbiad38 ( $2.78 )
+Seat 9: AntonioKaz ( $1.67 )
+AntonioKaz posts small blind [$0.01]
+simbiad38 posts big blind [$0.02]
+** Dealing down cards **
+AntonioKaz raises [$0.05]
+simbiad38 folds
+** Summary **
+AntonioKaz collected [ $0.04 ]
+
+
+#Game No : 512862219
+***** 888poker Hand History for Game 512862219 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 03:54:08
+Table Brasov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: simbiad38 ( $2.76 )
+Seat 9: AntonioKaz ( $1.69 )
+simbiad38 posts small blind [$0.01]
+AntonioKaz posts big blind [$0.02]
+** Dealing down cards **
+simbiad38 folds
+** Summary **
+AntonioKaz collected [ $0.03 ]
+
+

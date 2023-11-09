@@ -1,0 +1,139 @@
+#Game No : 451714356
+***** 888poker Hand History for Game 451714356 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 12:01:58
+Table Dourados 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: kostyaPo ( $2.82 )
+Seat 9: AllyMcnab ( $0.37 )
+AllyMcnab posts small blind [$0.01]
+kostyaPo posts big blind [$0.02]
+** Dealing down cards **
+AllyMcnab calls [$0.01]
+kostyaPo checks
+** Dealing flop ** [ 3d, 6d, Qd ]
+kostyaPo checks
+AllyMcnab bets [$0.35]
+kostyaPo calls [$0.35]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 8s ]
+** Summary **
+kostyaPo shows [ Kd, 4d ]
+AllyMcnab shows [ 5h, 6c ]
+kostyaPo collected [ $0.70 ]
+
+
+#Game No : 451714407
+***** 888poker Hand History for Game 451714407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 12:02:51
+Table Dourados 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: motas333 ( $0.80 )
+Seat 9: AllyMcnab ( $1 )
+motas333 posts small blind [$0.01]
+AllyMcnab posts big blind [$0.02]
+** Dealing down cards **
+motas333 raises [$0.03]
+AllyMcnab calls [$0.02]
+** Dealing flop ** [ 6d, 7s, 4h ]
+AllyMcnab checks
+motas333 bets [$0.08]
+AllyMcnab folds
+** Summary **
+motas333 did not show his hand
+motas333 collected [ $0.08 ]
+
+
+#Game No : 451714438
+***** 888poker Hand History for Game 451714438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 12:03:22
+Table Dourados 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: motas333 ( $0.84 )
+Seat 9: AllyMcnab ( $0.96 )
+AllyMcnab posts small blind [$0.01]
+motas333 posts big blind [$0.02]
+** Dealing down cards **
+AllyMcnab folds
+** Summary **
+motas333 collected [ $0.03 ]
+
+
+#Game No : 451714493
+***** 888poker Hand History for Game 451714493 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 12:04:21
+Table Dourados 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: LSB2000 ( $1.79 )
+Seat 9: AllyMcnab ( $0.91 )
+AllyMcnab posts small blind [$0.01]
+LSB2000 posts big blind [$0.02]
+** Dealing down cards **
+AllyMcnab calls [$0.01]
+LSB2000 checks
+** Dealing flop ** [ Ah, 7c, As ]
+LSB2000 bets [$0.04]
+AllyMcnab folds
+** Summary **
+LSB2000 collected [ $0.04 ]
+
+
+#Game No : 451714509
+***** 888poker Hand History for Game 451714509 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 12:04:40
+Table Dourados 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LSB2000 ( $1.81 )
+Seat 9: AllyMcnab ( $0.89 )
+LSB2000 posts small blind [$0.01]
+AllyMcnab posts big blind [$0.02]
+** Dealing down cards **
+LSB2000 calls [$0.01]
+AllyMcnab checks
+** Dealing flop ** [ Ah, Qh, Ts ]
+AllyMcnab checks
+LSB2000 bets [$0.06]
+AllyMcnab calls [$0.06]
+** Dealing turn ** [ 5s ]
+AllyMcnab checks
+LSB2000 checks
+** Dealing river ** [ 2h ]
+AllyMcnab bets [$0.16]
+LSB2000 raises [$0.32]
+AllyMcnab folds
+** Summary **
+LSB2000 collected [ $0.45 ]
+
+
+#Game No : 451716950
+***** 888poker Hand History for Game 451716950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 12:49:54
+Table Dourados 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: vredoved ( $0.44 )
+Seat 7: seregasaf ( $1.76 )
+seregasaf posts small blind [$0.01]
+vredoved posts big blind [$0.02]
+** Dealing down cards **
+seregasaf calls [$0.01]
+vredoved checks
+** Dealing flop ** [ 5s, 6c, 3c ]
+vredoved checks
+seregasaf bets [$0.04]
+vredoved calls [$0.04]
+** Dealing turn ** [ 5c ]
+vredoved bets [$0.08]
+seregasaf calls [$0.08]
+** Dealing river ** [ 9s ]
+vredoved bets [$0.30]
+seregasaf folds
+** Summary **
+vredoved did not show his hand
+vredoved collected [ $0.27 ]
+
+

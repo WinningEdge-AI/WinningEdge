@@ -1,0 +1,475 @@
+#Game No : 500050062
+***** 888poker Hand History for Game 500050062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 22:17:39
+Table Debrecen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Luc765 ( $0.76 )
+Seat 2: JMarcB ( $0.84 )
+Luc765 posts small blind [$0.01]
+JMarcB posts big blind [$0.02]
+** Dealing down cards **
+Luc765 calls [$0.01]
+JMarcB raises [$0.04]
+Luc765 raises [$0.08]
+JMarcB calls [$0.04]
+** Dealing flop ** [ 6c, Kh, 6d ]
+JMarcB bets [$0.04]
+Luc765 folds
+** Summary **
+JMarcB collected [ $0.19 ]
+
+
+#Game No : 500050072
+***** 888poker Hand History for Game 500050072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 22:17:51
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Luc765 ( $0.66 )
+Seat 2: JMarcB ( $0.93 )
+JMarcB posts small blind [$0.01]
+Luc765 posts big blind [$0.02]
+** Dealing down cards **
+JMarcB calls [$0.01]
+Luc765 checks
+** Dealing flop ** [ 7h, 2c, 6s ]
+Luc765 bets [$0.02]
+JMarcB calls [$0.02]
+** Dealing turn ** [ 2h ]
+Luc765 bets [$0.04]
+JMarcB calls [$0.04]
+** Dealing river ** [ Kd ]
+Luc765 bets [$0.02]
+JMarcB raises [$0.14]
+Luc765 folds
+** Summary **
+JMarcB collected [ $0.19 ]
+
+
+#Game No : 500050111
+***** 888poker Hand History for Game 500050111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 22:20:06
+Table Debrecen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Luc765 ( $0.72 )
+Seat 6: petare_city ( $0.80 )
+petare_city posts small blind [$0.01]
+Luc765 posts big blind [$0.02]
+** Dealing down cards **
+petare_city calls [$0.01]
+Luc765 checks
+** Dealing flop ** [ 5c, 6s, Ks ]
+Luc765 checks
+petare_city bets [$0.04]
+Luc765 folds
+** Summary **
+petare_city collected [ $0.04 ]
+
+
+#Game No : 500053931
+***** 888poker Hand History for Game 500053931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 01:35:19
+Table Debrecen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: yznal111 ( $1.69 )
+Seat 2: Brandwa14 ( $1.18 )
+yznal111 posts small blind [$0.01]
+Brandwa14 posts big blind [$0.02]
+** Dealing down cards **
+yznal111 folds
+** Summary **
+Brandwa14 did not show his hand
+Brandwa14 collected [ $0.03 ]
+
+
+#Game No : 500053935
+***** 888poker Hand History for Game 500053935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 01:35:27
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: yznal111 ( $1.68 )
+Seat 2: Brandwa14 ( $1.19 )
+Brandwa14 posts small blind [$0.01]
+yznal111 posts big blind [$0.02]
+** Dealing down cards **
+Brandwa14 calls [$0.01]
+yznal111 checks
+** Dealing flop ** [ Js, 6c, 5s ]
+yznal111 checks
+Brandwa14 bets [$0.02]
+yznal111 calls [$0.02]
+** Dealing turn ** [ Kd ]
+yznal111 checks
+Brandwa14 checks
+** Dealing river ** [ 8h ]
+yznal111 checks
+Brandwa14 checks
+** Summary **
+yznal111 shows [ Th, 5h ]
+Brandwa14 shows [ 7c, 8s ]
+Brandwa14 collected [ $0.08 ]
+
+
+#Game No : 500053940
+***** 888poker Hand History for Game 500053940 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 01:35:50
+Table Debrecen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: yznal111 ( $1.64 )
+Seat 2: Brandwa14 ( $1.23 )
+yznal111 posts small blind [$0.01]
+Brandwa14 posts big blind [$0.02]
+** Dealing down cards **
+yznal111 raises [$0.03]
+Brandwa14 calls [$0.02]
+** Dealing flop ** [ 3c, Td, Jh ]
+Brandwa14 checks
+yznal111 checks
+** Dealing turn ** [ Kc ]
+Brandwa14 bets [$0.02]
+yznal111 folds
+** Summary **
+Brandwa14 did not show his hand
+Brandwa14 collected [ $0.08 ]
+
+
+#Game No : 500053949
+***** 888poker Hand History for Game 500053949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 01:36:20
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: yznal111 ( $1.60 )
+Seat 2: Brandwa14 ( $1.27 )
+Brandwa14 posts small blind [$0.01]
+yznal111 posts big blind [$0.02]
+** Dealing down cards **
+Brandwa14 calls [$0.01]
+yznal111 checks
+** Dealing flop ** [ Qs, 4c, 6s ]
+yznal111 checks
+Brandwa14 bets [$0.02]
+yznal111 folds
+** Summary **
+Brandwa14 collected [ $0.04 ]
+
+
+#Game No : 500053967
+***** 888poker Hand History for Game 500053967 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 01:37:14
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: yznal111 ( $1.65 )
+Seat 4: maga47russ ( $0.94 )
+maga47russ posts small blind [$0.01]
+yznal111 posts big blind [$0.02]
+** Dealing down cards **
+maga47russ calls [$0.01]
+yznal111 checks
+** Dealing flop ** [ Ac, Ts, Qc ]
+yznal111 checks
+maga47russ bets [$0.04]
+yznal111 calls [$0.04]
+** Dealing turn ** [ 8h ]
+yznal111 checks
+maga47russ bets [$0.06]
+yznal111 calls [$0.06]
+** Dealing river ** [ 2c ]
+yznal111 bets [$0.16]
+maga47russ folds
+** Summary **
+yznal111 collected [ $0.23 ]
+
+
+#Game No : 500061652
+***** 888poker Hand History for Game 500061652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 05:36:08
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: grace_vesta ( $1.46 )
+Seat 9: snugglefist ( $3.12 )
+snugglefist posts small blind [$0.01]
+grace_vesta posts big blind [$0.02]
+** Dealing down cards **
+snugglefist raises [$0.05]
+grace_vesta calls [$0.04]
+** Dealing flop ** [ 7s, 8c, Th ]
+snugglefist bets [$0.08]
+grace_vesta calls [$0.08]
+** Dealing turn ** [ Qh ]
+snugglefist bets [$0.18]
+grace_vesta folds
+** Summary **
+snugglefist collected [ $0.27 ]
+
+
+#Game No : 500061678
+***** 888poker Hand History for Game 500061678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 05:36:37
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: grace_vesta ( $1.32 )
+Seat 9: snugglefist ( $3.25 )
+snugglefist posts small blind [$0.01]
+grace_vesta posts big blind [$0.02]
+** Dealing down cards **
+snugglefist raises [$0.05]
+grace_vesta calls [$0.04]
+** Dealing flop ** [ Ac, 6h, 5d ]
+grace_vesta checks
+snugglefist bets [$0.06]
+grace_vesta folds
+** Summary **
+snugglefist collected [ $0.12 ]
+
+
+#Game No : 500061687
+***** 888poker Hand History for Game 500061687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 05:36:50
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: grace_vesta ( $1.26 )
+Seat 9: snugglefist ( $3.31 )
+grace_vesta posts small blind [$0.01]
+snugglefist posts big blind [$0.02]
+** Dealing down cards **
+grace_vesta folds
+** Summary **
+snugglefist collected [ $0.03 ]
+
+
+#Game No : 500061705
+***** 888poker Hand History for Game 500061705 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 05:37:13
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: grace_vesta ( $1.27 )
+Seat 9: snugglefist ( $3.30 )
+grace_vesta posts small blind [$0.01]
+snugglefist posts big blind [$0.02]
+** Dealing down cards **
+grace_vesta folds
+** Summary **
+snugglefist collected [ $0.03 ]
+
+
+#Game No : 500061712
+***** 888poker Hand History for Game 500061712 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 05:37:18
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: grace_vesta ( $1.26 )
+Seat 9: snugglefist ( $3.31 )
+snugglefist posts small blind [$0.01]
+grace_vesta posts big blind [$0.02]
+** Dealing down cards **
+snugglefist raises [$0.05]
+grace_vesta calls [$0.04]
+** Dealing flop ** [ 3h, 7d, 8s ]
+grace_vesta checks
+snugglefist bets [$0.08]
+grace_vesta folds
+** Summary **
+snugglefist collected [ $0.12 ]
+
+
+#Game No : 500062488
+***** 888poker Hand History for Game 500062488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 05:55:31
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Kirik_1999 ( $1.02 )
+Seat 9: snugglefist ( $3.73 )
+Kirik_1999 posts small blind [$0.01]
+snugglefist posts big blind [$0.02]
+** Dealing down cards **
+Kirik_1999 raises [$0.05]
+snugglefist calls [$0.04]
+** Dealing flop ** [ 8h, 9d, Ts ]
+snugglefist checks
+Kirik_1999 checks
+** Dealing turn ** [ 5s ]
+snugglefist bets [$0.08]
+Kirik_1999 folds
+** Summary **
+snugglefist collected [ $0.12 ]
+
+
+#Game No : 500062502
+***** 888poker Hand History for Game 500062502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 05:55:53
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Kirik_1999 ( $1 )
+Seat 9: snugglefist ( $3.79 )
+snugglefist posts small blind [$0.01]
+Kirik_1999 posts big blind [$0.02]
+** Dealing down cards **
+snugglefist folds
+** Summary **
+Kirik_1999 collected [ $0.03 ]
+
+
+#Game No : 500062508
+***** 888poker Hand History for Game 500062508 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 05:56:01
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Kirik_1999 ( $1.01 )
+Seat 9: snugglefist ( $3.78 )
+Kirik_1999 posts small blind [$0.01]
+snugglefist posts big blind [$0.02]
+** Dealing down cards **
+Kirik_1999 folds
+** Summary **
+snugglefist collected [ $0.03 ]
+
+
+#Game No : 500062559
+***** 888poker Hand History for Game 500062559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 05:57:09
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Kirik_1999 ( $0.83 )
+Seat 9: snugglefist ( $3.94 )
+snugglefist posts small blind [$0.01]
+Kirik_1999 posts big blind [$0.02]
+** Dealing down cards **
+snugglefist raises [$0.05]
+Kirik_1999 folds
+** Summary **
+snugglefist collected [ $0.04 ]
+
+
+#Game No : 500071112
+***** 888poker Hand History for Game 500071112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 09:22:10
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Littleares16 ( $1.70 )
+Seat 7: Jaakarhu ( $0.80 )
+Jaakarhu posts small blind [$0.01]
+Littleares16 posts big blind [$0.02]
+** Dealing down cards **
+Jaakarhu raises [$0.79]
+Littleares16 folds
+** Summary **
+Jaakarhu collected [ $0.82 ]
+
+
+#Game No : 500078798
+***** 888poker Hand History for Game 500078798 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 11:42:50
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: lemuriic ( $0.90 )
+Seat 9: WhiskyBiz_NI ( $1 )
+WhiskyBiz_NI posts small blind [$0.01]
+lemuriic posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.05]
+lemuriic folds
+** Summary **
+WhiskyBiz_NI did not show his hand
+WhiskyBiz_NI collected [ $0.04 ]
+
+
+#Game No : 500078807
+***** 888poker Hand History for Game 500078807 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 11:43:03
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: lemuriic ( $0.88 )
+Seat 9: WhiskyBiz_NI ( $1.02 )
+lemuriic posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+lemuriic folds
+** Summary **
+WhiskyBiz_NI did not show his hand
+WhiskyBiz_NI collected [ $0.03 ]
+
+
+#Game No : 500078822
+***** 888poker Hand History for Game 500078822 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 11:43:20
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: lemuriic ( $0.87 )
+Seat 9: WhiskyBiz_NI ( $1.03 )
+WhiskyBiz_NI posts small blind [$0.01]
+lemuriic posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI raises [$0.05]
+lemuriic folds
+** Summary **
+WhiskyBiz_NI did not show his hand
+WhiskyBiz_NI collected [ $0.04 ]
+
+
+#Game No : 500079861
+***** 888poker Hand History for Game 500079861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 12:00:58
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: NoIgLeo ( $0.81 )
+Seat 4: 77Blonda777 ( $1.12 )
+77Blonda777 posts small blind [$0.01]
+** Dealing down cards **
+NoIgLeo folds
+** Summary **
+77Blonda777 collected [ $0.01 ]
+
+
+#Game No : 500083412
+***** 888poker Hand History for Game 500083412 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 13:12:57
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 77Blonda777 ( $1.14 )
+Seat 7: AAOksana ( $1.56 )
+77Blonda777 posts small blind [$0.01]
+AAOksana posts big blind [$0.02]
+** Dealing down cards **
+77Blonda777 raises [$0.05]
+AAOksana folds
+** Summary **
+77Blonda777 collected [ $0.04 ]
+
+
+#Game No : 500083421
+***** 888poker Hand History for Game 500083421 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 13:13:06
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: 77Blonda777 ( $1.16 )
+Seat 7: AAOksana ( $1.54 )
+AAOksana posts small blind [$0.01]
+** Dealing down cards **
+77Blonda777 folds
+** Summary **
+AAOksana collected [ $0.01 ]
+
+

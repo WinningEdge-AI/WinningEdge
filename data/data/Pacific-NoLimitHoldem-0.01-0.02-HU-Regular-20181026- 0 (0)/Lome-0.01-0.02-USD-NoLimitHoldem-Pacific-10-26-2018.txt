@@ -1,0 +1,802 @@
+#Game No : 504340108
+***** 888poker Hand History for Game 504340108 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:51:02
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.87 )
+Seat 9: 22ilias22 ( $1.34 )
+rodplg12 posts small blind [$0.01]
+22ilias22 posts big blind [$0.02]
+** Dealing down cards **
+rodplg12 calls [$0.01]
+22ilias22 checks
+** Dealing flop ** [ Jc, 9c, Ah ]
+22ilias22 checks
+rodplg12 bets [$0.04]
+22ilias22 folds
+** Summary **
+rodplg12 collected [ $0.04 ]
+
+
+#Game No : 504340111
+***** 888poker Hand History for Game 504340111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:51:18
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.89 )
+Seat 9: 22ilias22 ( $1.32 )
+22ilias22 posts small blind [$0.01]
+rodplg12 posts big blind [$0.02]
+** Dealing down cards **
+22ilias22 calls [$0.01]
+rodplg12 raises [$0.02]
+22ilias22 calls [$0.02]
+** Dealing flop ** [ 9c, 7h, 4s ]
+rodplg12 bets [$0.04]
+22ilias22 folds
+** Summary **
+rodplg12 collected [ $0.08 ]
+
+
+#Game No : 504340115
+***** 888poker Hand History for Game 504340115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:51:37
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.93 )
+Seat 9: 22ilias22 ( $1.28 )
+rodplg12 posts small blind [$0.01]
+22ilias22 posts big blind [$0.02]
+** Dealing down cards **
+rodplg12 calls [$0.01]
+22ilias22 checks
+** Dealing flop ** [ Jd, Tc, Qh ]
+22ilias22 bets [$0.04]
+rodplg12 calls [$0.04]
+** Dealing turn ** [ 3h ]
+22ilias22 bets [$0.12]
+rodplg12 calls [$0.12]
+** Dealing river ** [ 3d ]
+22ilias22 bets [$0.36]
+rodplg12 calls [$0.36]
+** Summary **
+22ilias22 shows [ 3c, 5h ]
+rodplg12 mucks [ 4d, Qs ]
+22ilias22 collected [ $1.02 ]
+
+
+#Game No : 504340123
+***** 888poker Hand History for Game 504340123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:52:17
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.39 )
+Seat 9: 22ilias22 ( $1.76 )
+22ilias22 posts small blind [$0.01]
+rodplg12 posts big blind [$0.02]
+** Dealing down cards **
+22ilias22 calls [$0.01]
+rodplg12 checks
+** Dealing flop ** [ 3h, 5d, 8d ]
+rodplg12 checks
+22ilias22 checks
+** Dealing turn ** [ Kd ]
+rodplg12 checks
+22ilias22 checks
+** Dealing river ** [ Jd ]
+rodplg12 checks
+22ilias22 checks
+** Summary **
+rodplg12 shows [ 9h, 4c ]
+22ilias22 shows [ Qs, Tc ]
+22ilias22 collected [ $0.04 ]
+
+
+#Game No : 504340126
+***** 888poker Hand History for Game 504340126 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:52:40
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.37 )
+Seat 9: 22ilias22 ( $1.78 )
+rodplg12 posts small blind [$0.01]
+22ilias22 posts big blind [$0.02]
+** Dealing down cards **
+rodplg12 calls [$0.01]
+22ilias22 checks
+** Dealing flop ** [ Qs, Ac, 5s ]
+22ilias22 checks
+rodplg12 checks
+** Dealing turn ** [ Qh ]
+22ilias22 checks
+rodplg12 bets [$0.04]
+22ilias22 raises [$0.12]
+rodplg12 folds
+** Summary **
+22ilias22 collected [ $0.12 ]
+
+
+#Game No : 504340134
+***** 888poker Hand History for Game 504340134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:53:06
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.31 )
+Seat 9: 22ilias22 ( $1.84 )
+22ilias22 posts small blind [$0.01]
+rodplg12 posts big blind [$0.02]
+** Dealing down cards **
+22ilias22 calls [$0.01]
+rodplg12 checks
+** Dealing flop ** [ 5h, 8d, Td ]
+rodplg12 bets [$0.02]
+22ilias22 folds
+** Summary **
+rodplg12 collected [ $0.04 ]
+
+
+#Game No : 504340138
+***** 888poker Hand History for Game 504340138 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:53:21
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.33 )
+Seat 9: 22ilias22 ( $1.82 )
+rodplg12 posts small blind [$0.01]
+22ilias22 posts big blind [$0.02]
+** Dealing down cards **
+rodplg12 calls [$0.01]
+22ilias22 checks
+** Dealing flop ** [ 7s, As, 5h ]
+22ilias22 bets [$0.02]
+rodplg12 folds
+** Summary **
+22ilias22 collected [ $0.04 ]
+
+
+#Game No : 504340139
+***** 888poker Hand History for Game 504340139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:53:34
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.31 )
+Seat 9: 22ilias22 ( $1.84 )
+22ilias22 posts small blind [$0.01]
+rodplg12 posts big blind [$0.02]
+** Dealing down cards **
+22ilias22 raises [$0.03]
+rodplg12 folds
+** Summary **
+22ilias22 did not show his hand
+22ilias22 collected [ $0.04 ]
+
+
+#Game No : 504340140
+***** 888poker Hand History for Game 504340140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:53:41
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.29 )
+Seat 9: 22ilias22 ( $1.86 )
+rodplg12 posts small blind [$0.01]
+22ilias22 posts big blind [$0.02]
+** Dealing down cards **
+rodplg12 calls [$0.01]
+22ilias22 checks
+** Dealing flop ** [ 2c, 2d, 4d ]
+22ilias22 checks
+rodplg12 checks
+** Dealing turn ** [ As ]
+22ilias22 bets [$0.04]
+rodplg12 calls [$0.04]
+** Dealing river ** [ 4s ]
+22ilias22 checks
+rodplg12 bets [$0.23]
+22ilias22 folds
+** Summary **
+rodplg12 collected [ $0.12 ]
+
+
+#Game No : 504340149
+***** 888poker Hand History for Game 504340149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 20:54:21
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: rodplg12 ( $0.35 )
+Seat 9: 22ilias22 ( $1.80 )
+22ilias22 posts small blind [$0.01]
+rodplg12 posts big blind [$0.02]
+** Dealing down cards **
+22ilias22 calls [$0.01]
+rodplg12 checks
+** Dealing flop ** [ 7d, Ac, 6s ]
+rodplg12 checks
+22ilias22 checks
+** Dealing turn ** [ 3s ]
+rodplg12 checks
+22ilias22 checks
+** Dealing river ** [ 8h ]
+rodplg12 checks
+22ilias22 checks
+** Summary **
+rodplg12 shows [ Th, 8c ]
+22ilias22 mucks [ Qd, Js ]
+rodplg12 collected [ $0.04 ]
+
+
+#Game No : 504340239
+***** 888poker Hand History for Game 504340239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 21:01:11
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: marychris71 ( $0.79 )
+Seat 6: Hugocat ( $1.11 )
+Hugocat posts small blind [$0.01]
+marychris71 posts big blind [$0.02]
+** Dealing down cards **
+Hugocat raises [$0.05]
+marychris71 folds
+** Summary **
+Hugocat collected [ $0.04 ]
+
+
+#Game No : 504340242
+***** 888poker Hand History for Game 504340242 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 21:01:24
+Table Lome 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: marychris71 ( $0.77 )
+Seat 6: Hugocat ( $1.13 )
+marychris71 posts small blind [$0.01]
+Hugocat posts big blind [$0.02]
+** Dealing down cards **
+marychris71 calls [$0.01]
+Hugocat raises [$0.04]
+marychris71 calls [$0.04]
+** Dealing flop ** [ 3h, As, 6s ]
+Hugocat checks
+marychris71 checks
+** Dealing turn ** [ 4c ]
+Hugocat bets [$0.08]
+marychris71 calls [$0.08]
+** Dealing river ** [ Jh ]
+Hugocat bets [$0.14]
+marychris71 folds
+** Summary **
+Hugocat collected [ $0.27 ]
+
+
+#Game No : 504340250
+***** 888poker Hand History for Game 504340250 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 21:01:55
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: marychris71 ( $0.63 )
+Seat 6: Hugocat ( $1.26 )
+Hugocat posts small blind [$0.01]
+marychris71 posts big blind [$0.02]
+** Dealing down cards **
+Hugocat folds
+** Summary **
+marychris71 collected [ $0.03 ]
+
+
+#Game No : 504340604
+***** 888poker Hand History for Game 504340604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 21:33:58
+Table Lome 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bolorig888 ( $1.16 )
+Seat 9: 22ilias22 ( $4.28 )
+Bolorig888 posts small blind [$0.01]
+22ilias22 posts big blind [$0.02]
+** Dealing down cards **
+Bolorig888 folds
+** Summary **
+22ilias22 collected [ $0.03 ]
+
+
+#Game No : 504342846
+***** 888poker Hand History for Game 504342846 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 23:50:08
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: John3422 ( $0.65 )
+Seat 9: Abrak98 ( $1.03 )
+Abrak98 posts small blind [$0.01]
+John3422 posts big blind [$0.02]
+** Dealing down cards **
+Abrak98 raises [$0.05]
+John3422 calls [$0.04]
+** Dealing flop ** [ 9d, 4c, Kc ]
+John3422 bets [$0.06]
+Abrak98 folds
+** Summary **
+John3422 did not show his hand
+John3422 collected [ $0.12 ]
+
+
+#Game No : 504342857
+***** 888poker Hand History for Game 504342857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 23:50:40
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: John3422 ( $0.71 )
+Seat 9: Abrak98 ( $1 )
+John3422 posts small blind [$0.01]
+Abrak98 posts big blind [$0.02]
+** Dealing down cards **
+John3422 raises [$0.03]
+Abrak98 folds
+** Summary **
+John3422 did not show his hand
+John3422 collected [ $0.04 ]
+
+
+#Game No : 504342860
+***** 888poker Hand History for Game 504342860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 23:50:54
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: John3422 ( $0.73 )
+Seat 9: Abrak98 ( $1 )
+Abrak98 posts small blind [$0.01]
+John3422 posts big blind [$0.02]
+** Dealing down cards **
+Abrak98 folds
+** Summary **
+John3422 did not show his hand
+John3422 collected [ $0.03 ]
+
+
+#Game No : 504342863
+***** 888poker Hand History for Game 504342863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 23:51:00
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: John3422 ( $0.74 )
+Seat 9: Abrak98 ( $1 )
+John3422 posts small blind [$0.01]
+Abrak98 posts big blind [$0.02]
+** Dealing down cards **
+John3422 raises [$0.03]
+Abrak98 raises [$0.10]
+John3422 folds
+** Summary **
+Abrak98 did not show his hand
+Abrak98 collected [ $0.08 ]
+
+
+#Game No : 504342866
+***** 888poker Hand History for Game 504342866 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 23:51:17
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: John3422 ( $0.70 )
+Seat 9: Abrak98 ( $1.04 )
+Abrak98 posts small blind [$0.01]
+John3422 posts big blind [$0.02]
+** Dealing down cards **
+Abrak98 raises [$0.05]
+John3422 folds
+** Summary **
+Abrak98 collected [ $0.04 ]
+
+
+#Game No : 504342964
+***** 888poker Hand History for Game 504342964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 23:57:57
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: John3422 ( $0.60 )
+Seat 9: Abrak98 ( $2.18 )
+Abrak98 posts small blind [$0.01]
+John3422 posts big blind [$0.02]
+** Dealing down cards **
+Abrak98 raises [$0.05]
+John3422 folds
+** Summary **
+Abrak98 did not show his hand
+Abrak98 collected [ $0.04 ]
+
+
+#Game No : 504342968
+***** 888poker Hand History for Game 504342968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 23:58:14
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: John3422 ( $0.58 )
+Seat 9: Abrak98 ( $2.20 )
+John3422 posts small blind [$0.01]
+** Dealing down cards **
+Abrak98 folds
+** Summary **
+John3422 did not show his hand
+John3422 collected [ $0.01 ]
+
+
+#Game No : 504343089
+***** 888poker Hand History for Game 504343089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 00:03:38
+Table Lome 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mainmenu666 ( $0.80 )
+Seat 9: Abrak98 ( $2.20 )
+mainmenu666 posts small blind [$0.01]
+Abrak98 posts big blind [$0.02]
+** Dealing down cards **
+mainmenu666 calls [$0.01]
+Abrak98 checks
+** Dealing flop ** [ Kc, As, 9c ]
+Abrak98 checks
+mainmenu666 checks
+** Dealing turn ** [ 8h ]
+Abrak98 checks
+mainmenu666 checks
+** Dealing river ** [ 4h ]
+Abrak98 checks
+mainmenu666 checks
+** Summary **
+Abrak98 shows [ 5d, 5c ]
+mainmenu666 mucks [ 6h, 2c ]
+Abrak98 collected [ $0.04 ]
+
+
+#Game No : 504350783
+***** 888poker Hand History for Game 504350783 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 05:08:35
+Table Lome 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bayboy885 ( $2.15 )
+Seat 6: Rabadechi ( $0.61 )
+bayboy885 posts small blind [$0.01]
+Rabadechi posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 calls [$0.01]
+Rabadechi raises [$0.06]
+bayboy885 folds
+** Summary **
+Rabadechi collected [ $0.04 ]
+
+
+#Game No : 504350789
+***** 888poker Hand History for Game 504350789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 05:08:48
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: bayboy885 ( $2.13 )
+Seat 6: Rabadechi ( $0.63 )
+Rabadechi posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Rabadechi raises [$0.03]
+bayboy885 folds
+** Summary **
+Rabadechi collected [ $0.04 ]
+
+
+#Game No : 504356170
+***** 888poker Hand History for Game 504356170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 07:48:27
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bigsimombasa ( $1.03 )
+Seat 9: Kosamui999 ( $1 )
+bigsimombasa posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa raises [$0.06]
+Kosamui999 calls [$0.05]
+** Dealing flop ** [ 6h, Ks, 2c ]
+Kosamui999 checks
+bigsimombasa bets [$0.07]
+Kosamui999 raises [$0.14]
+bigsimombasa folds
+** Summary **
+Kosamui999 collected [ $0.27 ]
+
+
+#Game No : 504356190
+***** 888poker Hand History for Game 504356190 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 07:49:07
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: bigsimombasa ( $1 )
+Seat 9: Kosamui999 ( $1.13 )
+Kosamui999 posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 folds
+** Summary **
+bigsimombasa collected [ $0.03 ]
+
+
+#Game No : 504356205
+***** 888poker Hand History for Game 504356205 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 07:49:27
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: bigsimombasa ( $1 )
+Seat 9: Kosamui999 ( $1.14 )
+Kosamui999 posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 folds
+** Summary **
+bigsimombasa collected [ $0.03 ]
+
+
+#Game No : 504356209
+***** 888poker Hand History for Game 504356209 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 07:49:32
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bigsimombasa ( $1.01 )
+Seat 9: Kosamui999 ( $1.13 )
+bigsimombasa posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa folds
+** Summary **
+Kosamui999 collected [ $0.03 ]
+
+
+#Game No : 504356212
+***** 888poker Hand History for Game 504356212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 07:49:38
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: bigsimombasa ( $1 )
+Seat 9: Kosamui999 ( $1.14 )
+Kosamui999 posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 folds
+** Summary **
+bigsimombasa collected [ $0.03 ]
+
+
+#Game No : 504356215
+***** 888poker Hand History for Game 504356215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 07:49:43
+Table Lome 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bigsimombasa ( $1.01 )
+Seat 9: Kosamui999 ( $1.13 )
+bigsimombasa posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa raises [$0.06]
+Kosamui999 folds
+** Summary **
+bigsimombasa collected [ $0.04 ]
+
+
+#Game No : 504356284
+***** 888poker Hand History for Game 504356284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 07:51:35
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: thenausea ( $0.87 )
+Seat 9: Kosamui999 ( $1 )
+thenausea posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+thenausea calls [$0.01]
+Kosamui999 checks
+** Dealing flop ** [ Tc, Ac, 8d ]
+Kosamui999 checks
+thenausea checks
+** Dealing turn ** [ 9h ]
+Kosamui999 checks
+thenausea checks
+** Dealing river ** [ 6s ]
+Kosamui999 checks
+thenausea checks
+** Summary **
+Kosamui999 shows [ 4s, Qc ]
+thenausea shows [ 3c, Kd ]
+thenausea collected [ $0.04 ]
+
+
+#Game No : 504356312
+***** 888poker Hand History for Game 504356312 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 07:52:31
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: thenausea ( $0.89 )
+Seat 9: Kosamui999 ( $1 )
+Kosamui999 posts small blind [$0.01]
+thenausea posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 calls [$0.01]
+thenausea checks
+** Dealing flop ** [ 4h, 6s, 8d ]
+thenausea bets [$0.02]
+Kosamui999 folds
+** Summary **
+thenausea collected [ $0.04 ]
+
+
+#Game No : 504367694
+***** 888poker Hand History for Game 504367694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 11:35:36
+Table Lome 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.30 )
+Seat 7: mgrths ( $0.87 )
+Obito111 posts small blind [$0.01]
+mgrths posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+mgrths calls [$0.02]
+** Dealing flop ** [ 4h, 2h, 8h ]
+mgrths checks
+Obito111 bets [$0.04]
+mgrths folds
+** Summary **
+Obito111 collected [ $0.08 ]
+
+
+#Game No : 504367707
+***** 888poker Hand History for Game 504367707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 11:35:54
+Table Lome 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.34 )
+Seat 7: mgrths ( $0.83 )
+mgrths posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+mgrths folds
+** Summary **
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 504374391
+***** 888poker Hand History for Game 504374391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 13:14:53
+Table Lome 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.49 )
+Seat 9: bigsimombasa ( $0.85 )
+Obito111 posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+bigsimombasa calls [$0.02]
+** Dealing flop ** [ Jd, 7d, Qc ]
+bigsimombasa checks
+Obito111 bets [$0.04]
+bigsimombasa folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.08 ]
+
+
+#Game No : 504374420
+***** 888poker Hand History for Game 504374420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 13:15:19
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.53 )
+Seat 9: bigsimombasa ( $0.81 )
+bigsimombasa posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa raises [$0.05]
+Obito111 folds
+** Summary **
+bigsimombasa did not show his hand
+bigsimombasa collected [ $0.04 ]
+
+
+#Game No : 504374437
+***** 888poker Hand History for Game 504374437 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 13:15:34
+Table Lome 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.51 )
+Seat 9: bigsimombasa ( $0.83 )
+Obito111 posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+bigsimombasa folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 504374455
+***** 888poker Hand History for Game 504374455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 13:15:44
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.53 )
+Seat 9: bigsimombasa ( $0.81 )
+bigsimombasa posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+bigsimombasa raises [$0.05]
+Obito111 folds
+** Summary **
+bigsimombasa collected [ $0.04 ]
+
+
+#Game No : 504374475
+***** 888poker Hand History for Game 504374475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 13:16:00
+Table Lome 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.51 )
+Seat 9: bigsimombasa ( $0.83 )
+Obito111 posts small blind [$0.01]
+bigsimombasa posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+bigsimombasa raises [$0.08]
+Obito111 calls [$0.06]
+** Dealing flop ** [ 5c, Td, Qs ]
+bigsimombasa bets [$0.10]
+Obito111 folds
+** Summary **
+bigsimombasa collected [ $0.19 ]
+
+
+#Game No : 504383167
+***** 888poker Hand History for Game 504383167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:41:55
+Table Lome 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1 )
+Seat 7: Rabadechi ( $1.36 )
+Obito111 posts small blind [$0.01]
+Rabadechi posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+Rabadechi folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+

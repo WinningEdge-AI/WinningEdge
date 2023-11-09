@@ -1,0 +1,160 @@
+#Game No : 605922325
+***** 888poker Hand History for Game 605922325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 19:18:50
+Table Ravenna 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Youwontcame1 ( $2.34 )
+Seat 2: WildCaller ( $2 )
+WildCaller posts small blind [$0.01]
+Youwontcame1 posts big blind [$0.02]
+** Dealing down cards **
+WildCaller raises [$0.05]
+Youwontcame1 calls [$0.04]
+** Dealing flop ** [ 9s, 6h, Jd ]
+Youwontcame1 checks
+WildCaller checks
+** Dealing turn ** [ 7h ]
+Youwontcame1 checks
+WildCaller checks
+** Dealing river ** [ 2d ]
+Youwontcame1 bets [$0.06]
+WildCaller calls [$0.06]
+** Summary **
+Youwontcame1 shows [ 8d, Ad ]
+WildCaller shows [ Kd, 7d ]
+WildCaller collected [ $0.23 ]
+
+
+#Game No : 605922374
+***** 888poker Hand History for Game 605922374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 19:27:33
+Table Ravenna 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: homes44 ( $0.80 )
+Seat 5: rafaelkazuo3 ( $1.23 )
+homes44 posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+homes44 calls [$0.01]
+rafaelkazuo3 checks
+** Dealing flop ** [ 5c, 7c, Kd ]
+rafaelkazuo3 bets [$0.02]
+homes44 calls [$0.02]
+** Dealing turn ** [ 8d ]
+rafaelkazuo3 bets [$0.04]
+homes44 calls [$0.04]
+** Dealing river ** [ 3c ]
+rafaelkazuo3 bets [$0.10]
+homes44 raises [$0.44]
+rafaelkazuo3 folds
+** Summary **
+homes44 did not show his hand
+homes44 collected [ $0.34 ]
+
+
+#Game No : 605922378
+***** 888poker Hand History for Game 605922378 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 19:28:10
+Table Ravenna 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: homes44 ( $0.96 )
+Seat 5: rafaelkazuo3 ( $1.05 )
+rafaelkazuo3 posts small blind [$0.01]
+homes44 posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.05]
+homes44 folds
+** Summary **
+rafaelkazuo3 did not show his hand
+rafaelkazuo3 collected [ $0.04 ]
+
+
+#Game No : 605922379
+***** 888poker Hand History for Game 605922379 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 19:28:18
+Table Ravenna 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: homes44 ( $0.94 )
+Seat 5: rafaelkazuo3 ( $1.07 )
+homes44 posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+homes44 calls [$0.01]
+rafaelkazuo3 checks
+** Dealing flop ** [ Jd, Kd, Qd ]
+rafaelkazuo3 checks
+homes44 checks
+** Dealing turn ** [ Jh ]
+rafaelkazuo3 checks
+homes44 checks
+** Dealing river ** [ 6d ]
+rafaelkazuo3 checks
+homes44 checks
+** Summary **
+rafaelkazuo3 shows [ 4h, 7h ]
+homes44 shows [ 8h, 5h ]
+homes44 collected [ $0.04 ]
+
+
+#Game No : 605922382
+***** 888poker Hand History for Game 605922382 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 19:28:38
+Table Ravenna 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: homes44 ( $0.96 )
+Seat 5: rafaelkazuo3 ( $1.05 )
+rafaelkazuo3 posts small blind [$0.01]
+homes44 posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+homes44 calls [$0.02]
+** Dealing flop ** [ 5h, Js, Kd ]
+homes44 checks
+rafaelkazuo3 checks
+** Dealing turn ** [ 8c ]
+homes44 checks
+rafaelkazuo3 bets [$0.02]
+homes44 calls [$0.02]
+** Dealing river ** [ 7c ]
+homes44 checks
+rafaelkazuo3 bets [$0.06]
+homes44 calls [$0.06]
+** Summary **
+rafaelkazuo3 shows [ 9c, As ]
+homes44 shows [ 4h, Jh ]
+homes44 collected [ $0.23 ]
+
+
+#Game No : 605922385
+***** 888poker Hand History for Game 605922385 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 19:29:01
+Table Ravenna 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: homes44 ( $1.07 )
+Seat 5: rafaelkazuo3 ( $0.93 )
+homes44 posts small blind [$0.01]
+rafaelkazuo3 posts big blind [$0.02]
+** Dealing down cards **
+homes44 calls [$0.01]
+rafaelkazuo3 checks
+** Dealing flop ** [ Ks, Kh, 4c ]
+rafaelkazuo3 checks
+homes44 checks
+** Dealing turn ** [ 3c ]
+rafaelkazuo3 checks
+homes44 checks
+** Dealing river ** [ 3d ]
+rafaelkazuo3 checks
+homes44 checks
+** Summary **
+rafaelkazuo3 shows [ 2h, Tc ]
+homes44 shows [ 5d, 4d ]
+homes44 collected [ $0.04 ]
+
+

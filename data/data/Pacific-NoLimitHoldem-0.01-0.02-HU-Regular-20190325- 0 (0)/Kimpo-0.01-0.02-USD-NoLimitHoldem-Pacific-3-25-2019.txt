@@ -1,0 +1,92 @@
+#Game No : 463304566
+***** 888poker Hand History for Game 463304566 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 23:57:15
+Table Kimpo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2 )
+Seat 5: Puhalskiy91 ( $2.01 )
+avramia1 posts small blind [$0.01]
+Puhalskiy91 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+Puhalskiy91 calls [$0.02]
+** Dealing flop ** [ 2c, Ah, Jc ]
+Puhalskiy91 checks
+avramia1 bets [$0.05]
+Puhalskiy91 calls [$0.05]
+** Dealing turn ** [ 3c ]
+Puhalskiy91 checks
+avramia1 bets [$0.12]
+Puhalskiy91 folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.17 ]
+
+
+#Game No : 463304571
+***** 888poker Hand History for Game 463304571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 23:57:43
+Table Kimpo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2.08 )
+Seat 5: Puhalskiy91 ( $2 )
+Puhalskiy91 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Puhalskiy91 raises [$0.05]
+avramia1 folds
+** Summary **
+Puhalskiy91 did not show his hand
+Puhalskiy91 collected [ $0.04 ]
+
+
+#Game No : 463304572
+***** 888poker Hand History for Game 463304572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 23:57:52
+Table Kimpo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2.06 )
+Seat 5: Puhalskiy91 ( $2.02 )
+avramia1 posts small blind [$0.01]
+Puhalskiy91 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+Puhalskiy91 raises [$0.10]
+avramia1 folds
+** Summary **
+Puhalskiy91 collected [ $0.08 ]
+
+
+#Game No : 463304574
+***** 888poker Hand History for Game 463304574 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 23:58:04
+Table Kimpo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2.02 )
+Seat 5: Puhalskiy91 ( $2.06 )
+Puhalskiy91 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Puhalskiy91 raises [$0.05]
+avramia1 calls [$0.04]
+** Dealing flop ** [ Kc, As, 4h ]
+avramia1 checks
+Puhalskiy91 bets [$0.06]
+avramia1 calls [$0.06]
+** Dealing turn ** [ 5s ]
+avramia1 checks
+Puhalskiy91 bets [$0.08]
+avramia1 calls [$0.08]
+** Dealing river ** [ 8c ]
+avramia1 checks
+Puhalskiy91 checks
+** Summary **
+avramia1 shows [ 9s, Ac ]
+Puhalskiy91 mucks [ Ah, 6h ]
+avramia1 collected [ $0.38 ]
+
+

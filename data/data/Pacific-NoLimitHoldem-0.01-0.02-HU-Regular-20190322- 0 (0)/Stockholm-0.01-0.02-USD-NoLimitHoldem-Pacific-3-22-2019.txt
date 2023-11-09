@@ -1,0 +1,119 @@
+#Game No : 617592721
+***** 888poker Hand History for Game 617592721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 05:50:20
+Table Stockholm 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: is_ag ( $0.81 )
+Seat 5: Oidrema ( $2 )
+is_ag posts small blind [$0.01]
+Oidrema posts big blind [$0.02]
+** Dealing down cards **
+is_ag calls [$0.01]
+Oidrema checks
+** Dealing flop ** [ 2d, 4s, Ks ]
+Oidrema checks
+is_ag bets [$0.02]
+Oidrema calls [$0.02]
+** Dealing turn ** [ 2c ]
+Oidrema checks
+is_ag bets [$0.06]
+Oidrema folds
+** Summary **
+is_ag did not show his hand
+is_ag collected [ $0.08 ]
+
+
+#Game No : 617592752
+***** 888poker Hand History for Game 617592752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 05:50:38
+Table Stockholm 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: is_ag ( $0.85 )
+Seat 5: Oidrema ( $2 )
+Oidrema posts small blind [$0.01]
+is_ag posts big blind [$0.02]
+** Dealing down cards **
+Oidrema folds
+** Summary **
+is_ag did not show his hand
+is_ag collected [ $0.03 ]
+
+
+#Game No : 617592767
+***** 888poker Hand History for Game 617592767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 05:51:03
+Table Stockholm 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: is_ag ( $0.86 )
+Seat 5: Oidrema ( $2 )
+is_ag posts small blind [$0.01]
+Oidrema posts big blind [$0.02]
+** Dealing down cards **
+is_ag calls [$0.01]
+Oidrema checks
+** Dealing flop ** [ 7d, 8h, 3s ]
+Oidrema checks
+is_ag bets [$0.02]
+Oidrema calls [$0.02]
+** Dealing turn ** [ 4h ]
+Oidrema checks
+is_ag bets [$0.06]
+Oidrema folds
+** Summary **
+is_ag did not show his hand
+is_ag collected [ $0.08 ]
+
+
+#Game No : 617592787
+***** 888poker Hand History for Game 617592787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 05:51:37
+Table Stockholm 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: is_ag ( $0.90 )
+Seat 5: Oidrema ( $2 )
+Oidrema posts small blind [$0.01]
+is_ag posts big blind [$0.02]
+** Dealing down cards **
+Oidrema raises [$0.05]
+is_ag calls [$0.04]
+** Dealing flop ** [ Qc, 7s, 6c ]
+is_ag bets [$0.04]
+Oidrema folds
+** Summary **
+is_ag did not show his hand
+is_ag collected [ $0.12 ]
+
+
+#Game No : 617592800
+***** 888poker Hand History for Game 617592800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 05:51:57
+Table Stockholm 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: is_ag ( $0.96 )
+Seat 5: Oidrema ( $2 )
+is_ag posts small blind [$0.01]
+Oidrema posts big blind [$0.02]
+** Dealing down cards **
+is_ag calls [$0.01]
+Oidrema checks
+** Dealing flop ** [ 8d, Kc, 2c ]
+Oidrema checks
+is_ag bets [$0.02]
+Oidrema calls [$0.02]
+** Dealing turn ** [ Qc ]
+Oidrema checks
+is_ag checks
+** Dealing river ** [ Kh ]
+Oidrema checks
+is_ag checks
+** Summary **
+Oidrema shows [ 7d, 7s ]
+is_ag mucks [ 2s, Ad ]
+Oidrema collected [ $0.08 ]
+
+

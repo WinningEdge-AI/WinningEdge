@@ -1,0 +1,781 @@
+#Game No : 531000591
+***** 888poker Hand History for Game 531000591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 19:51:37
+Table Baku 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: arv1977 ( $1 )
+Seat 2: decobarros ( $1 )
+arv1977 posts small blind [$0.01]
+decobarros posts big blind [$0.02]
+** Dealing down cards **
+arv1977 calls [$0.01]
+decobarros checks
+** Dealing flop ** [ Kc, Qs, 4d ]
+decobarros checks
+arv1977 bets [$0.02]
+decobarros calls [$0.02]
+** Dealing turn ** [ 6c ]
+decobarros checks
+arv1977 bets [$0.05]
+decobarros folds
+** Summary **
+arv1977 did not show his hand
+arv1977 collected [ $0.08 ]
+
+
+#Game No : 531000605
+***** 888poker Hand History for Game 531000605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 19:51:38
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: arv1977 ( $1.04 )
+Seat 2: decobarros ( $0.96 )
+decobarros posts small blind [$0.01]
+arv1977 posts big blind [$0.02]
+** Dealing down cards **
+decobarros calls [$0.01]
+arv1977 raises [$0.04]
+decobarros calls [$0.04]
+** Dealing flop ** [ Ad, 4s, 6c ]
+arv1977 bets [$0.02]
+decobarros calls [$0.02]
+** Dealing turn ** [ Ts ]
+arv1977 bets [$0.02]
+decobarros calls [$0.02]
+** Dealing river ** [ 3h ]
+arv1977 bets [$0.02]
+decobarros calls [$0.02]
+** Summary **
+arv1977 shows [ Th, Kh ]
+decobarros mucks [ 5h, 3d ]
+arv1977 collected [ $0.23 ]
+
+
+#Game No : 531000620
+***** 888poker Hand History for Game 531000620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 19:52:04
+Table Baku 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: arv1977 ( $1.15 )
+Seat 2: decobarros ( $0.84 )
+arv1977 posts small blind [$0.01]
+decobarros posts big blind [$0.02]
+** Dealing down cards **
+arv1977 calls [$0.01]
+decobarros checks
+** Dealing flop ** [ Js, 9c, Td ]
+decobarros checks
+arv1977 checks
+** Dealing turn ** [ 7h ]
+decobarros bets [$0.02]
+arv1977 calls [$0.02]
+** Dealing river ** [ As ]
+decobarros bets [$0.02]
+arv1977 folds
+** Summary **
+decobarros collected [ $0.08 ]
+
+
+#Game No : 531000633
+***** 888poker Hand History for Game 531000633 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 19:52:27
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: arv1977 ( $1.11 )
+Seat 2: decobarros ( $0.88 )
+decobarros posts small blind [$0.01]
+arv1977 posts big blind [$0.02]
+** Dealing down cards **
+decobarros calls [$0.01]
+arv1977 checks
+** Dealing flop ** [ 8c, Ts, 4d ]
+arv1977 bets [$0.02]
+decobarros raises [$0.06]
+arv1977 calls [$0.04]
+** Dealing turn ** [ Qd ]
+arv1977 checks
+decobarros bets [$0.10]
+arv1977 calls [$0.10]
+** Dealing river ** [ 5s ]
+arv1977 bets [$0.18]
+decobarros folds
+** Summary **
+arv1977 collected [ $0.34 ]
+
+
+#Game No : 531000663
+***** 888poker Hand History for Game 531000663 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 19:53:27
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: decobarros ( $0.64 )
+Seat 4: ultratwin ( $1.06 )
+decobarros posts small blind [$0.01]
+ultratwin posts big blind [$0.02]
+** Dealing down cards **
+decobarros calls [$0.01]
+ultratwin checks
+** Dealing flop ** [ 5s, 7d, 6h ]
+ultratwin checks
+decobarros checks
+** Dealing turn ** [ 7h ]
+ultratwin bets [$0.04]
+decobarros folds
+** Summary **
+ultratwin did not show his hand
+ultratwin collected [ $0.04 ]
+
+
+#Game No : 531000675
+***** 888poker Hand History for Game 531000675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 19:53:43
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: decobarros ( $0.62 )
+Seat 4: ultratwin ( $1.08 )
+ultratwin posts small blind [$0.01]
+decobarros posts big blind [$0.02]
+** Dealing down cards **
+ultratwin folds
+** Summary **
+decobarros did not show his hand
+decobarros collected [ $0.03 ]
+
+
+#Game No : 531000678
+***** 888poker Hand History for Game 531000678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 19:53:49
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: decobarros ( $0.63 )
+Seat 4: ultratwin ( $1.07 )
+decobarros posts small blind [$0.01]
+ultratwin posts big blind [$0.02]
+** Dealing down cards **
+decobarros calls [$0.01]
+ultratwin raises [$0.06]
+decobarros calls [$0.06]
+** Dealing flop ** [ 5s, 2d, Kh ]
+ultratwin bets [$0.10]
+decobarros calls [$0.10]
+** Dealing turn ** [ Ah ]
+ultratwin checks
+decobarros checks
+** Dealing river ** [ 6d ]
+ultratwin checks
+decobarros bets [$0.18]
+ultratwin calls [$0.18]
+** Summary **
+decobarros shows [ Ks, 9d ]
+ultratwin mucks [ Qc, Qd ]
+decobarros collected [ $0.68 ]
+
+
+#Game No : 531000697
+***** 888poker Hand History for Game 531000697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 19:54:30
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: decobarros ( $0.95 )
+Seat 4: ultratwin ( $0.71 )
+ultratwin posts small blind [$0.01]
+decobarros posts big blind [$0.02]
+** Dealing down cards **
+ultratwin raises [$0.05]
+decobarros calls [$0.04]
+** Dealing flop ** [ 6d, 6s, Js ]
+decobarros checks
+ultratwin bets [$0.08]
+decobarros folds
+** Summary **
+ultratwin did not show his hand
+ultratwin collected [ $0.12 ]
+
+
+#Game No : 531004187
+***** 888poker Hand History for Game 531004187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 21:52:02
+Table Baku 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: havanaclub7 ( $1.93 )
+Seat 6: fuaran2006 ( $1.08 )
+havanaclub7 posts small blind [$0.01]
+fuaran2006 posts big blind [$0.02]
+** Dealing down cards **
+havanaclub7 folds
+** Summary **
+fuaran2006 did not show his hand
+fuaran2006 collected [ $0.03 ]
+
+
+#Game No : 531004191
+***** 888poker Hand History for Game 531004191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 21:52:12
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: havanaclub7 ( $1.92 )
+Seat 6: fuaran2006 ( $1.09 )
+fuaran2006 posts small blind [$0.01]
+havanaclub7 posts big blind [$0.02]
+** Dealing down cards **
+fuaran2006 raises [$0.03]
+havanaclub7 folds
+** Summary **
+fuaran2006 did not show his hand
+fuaran2006 collected [ $0.04 ]
+
+
+#Game No : 531004197
+***** 888poker Hand History for Game 531004197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 21:52:23
+Table Baku 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: havanaclub7 ( $1.90 )
+Seat 6: fuaran2006 ( $1.11 )
+havanaclub7 posts small blind [$0.01]
+** Dealing down cards **
+fuaran2006 folds
+** Summary **
+havanaclub7 did not show his hand
+havanaclub7 collected [ $0.01 ]
+
+
+#Game No : 531004255
+***** 888poker Hand History for Game 531004255 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 21:54:30
+Table Baku 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KAUCHUK55 ( $0.80 )
+Seat 7: Egorcat2019 ( $0.78 )
+KAUCHUK55 posts small blind [$0.01]
+Egorcat2019 posts big blind [$0.02]
+** Dealing down cards **
+KAUCHUK55 calls [$0.01]
+Egorcat2019 checks
+** Dealing flop ** [ 9s, Jc, 5s ]
+Egorcat2019 checks
+KAUCHUK55 checks
+** Dealing turn ** [ Td ]
+Egorcat2019 bets [$0.02]
+KAUCHUK55 calls [$0.02]
+** Dealing river ** [ Ts ]
+Egorcat2019 bets [$0.02]
+KAUCHUK55 raises [$0.22]
+Egorcat2019 folds
+** Summary **
+KAUCHUK55 collected [ $0.12 ]
+
+
+#Game No : 531004436
+***** 888poker Hand History for Game 531004436 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 22:01:20
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Egorcat2019 ( $1.35 )
+Seat 9: fuaran2006 ( $1.92 )
+fuaran2006 posts small blind [$0.01]
+Egorcat2019 posts big blind [$0.02]
+** Dealing down cards **
+fuaran2006 folds
+** Summary **
+Egorcat2019 collected [ $0.03 ]
+
+
+#Game No : 531008848
+***** 888poker Hand History for Game 531008848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 00:52:52
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: FFlava ( $1.93 )
+Seat 9: MazzzaFaaack ( $1.02 )
+FFlava posts small blind [$0.01]
+MazzzaFaaack posts big blind [$0.02]
+** Dealing down cards **
+FFlava calls [$0.01]
+MazzzaFaaack checks
+** Dealing flop ** [ 3c, 2h, 8d ]
+MazzzaFaaack checks
+FFlava checks
+** Dealing turn ** [ 8s ]
+MazzzaFaaack checks
+FFlava checks
+** Dealing river ** [ 3h ]
+MazzzaFaaack checks
+FFlava checks
+** Summary **
+MazzzaFaaack shows [ 5d, 4d ]
+FFlava shows [ Qs, 5c ]
+FFlava collected [ $0.04 ]
+
+
+#Game No : 531008864
+***** 888poker Hand History for Game 531008864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 00:53:19
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: FFlava ( $1.95 )
+Seat 9: MazzzaFaaack ( $1 )
+MazzzaFaaack posts small blind [$0.01]
+FFlava posts big blind [$0.02]
+** Dealing down cards **
+MazzzaFaaack folds
+** Summary **
+FFlava collected [ $0.03 ]
+
+
+#Game No : 531012954
+***** 888poker Hand History for Game 531012954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 03:01:30
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: kirrd ( $1.24 )
+Seat 9: Yorikyohoho ( $1 )
+Yorikyohoho posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Yorikyohoho folds
+** Summary **
+kirrd collected [ $0.03 ]
+
+
+#Game No : 531012960
+***** 888poker Hand History for Game 531012960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 03:01:40
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kirrd ( $1.25 )
+Seat 9: Yorikyohoho ( $1 )
+kirrd posts small blind [$0.01]
+Yorikyohoho posts big blind [$0.02]
+** Dealing down cards **
+kirrd folds
+** Summary **
+Yorikyohoho collected [ $0.03 ]
+
+
+#Game No : 531012969
+***** 888poker Hand History for Game 531012969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 03:01:51
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: kirrd ( $1.24 )
+Seat 9: Yorikyohoho ( $1.01 )
+Yorikyohoho posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Yorikyohoho folds
+** Summary **
+kirrd collected [ $0.03 ]
+
+
+#Game No : 531012971
+***** 888poker Hand History for Game 531012971 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 03:01:56
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kirrd ( $1.25 )
+Seat 9: Yorikyohoho ( $1 )
+kirrd posts small blind [$0.01]
+Yorikyohoho posts big blind [$0.02]
+** Dealing down cards **
+kirrd raises [$0.05]
+Yorikyohoho folds
+** Summary **
+kirrd collected [ $0.04 ]
+
+
+#Game No : 531012977
+***** 888poker Hand History for Game 531012977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 03:02:06
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: kirrd ( $1.27 )
+Seat 9: Yorikyohoho ( $1 )
+Yorikyohoho posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Yorikyohoho raises [$0.05]
+kirrd folds
+** Summary **
+Yorikyohoho collected [ $0.04 ]
+
+
+#Game No : 531013928
+***** 888poker Hand History for Game 531013928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 03:31:25
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: vip.chapaev ( $1.42 )
+Seat 9: Yorikyohoho ( $1.10 )
+vip.chapaev posts small blind [$0.01]
+Yorikyohoho posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev folds
+** Summary **
+Yorikyohoho collected [ $0.03 ]
+
+
+#Game No : 531013931
+***** 888poker Hand History for Game 531013931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 03:31:30
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: vip.chapaev ( $1.41 )
+Seat 9: Yorikyohoho ( $1.11 )
+Yorikyohoho posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+Yorikyohoho raises [$0.05]
+vip.chapaev folds
+** Summary **
+Yorikyohoho collected [ $0.04 ]
+
+
+#Game No : 531017406
+***** 888poker Hand History for Game 531017406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 05:09:12
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Jambatty ( $2.39 )
+Seat 7: pokspider777 ( $0.90 )
+Jambatty posts small blind [$0.01]
+pokspider777 posts big blind [$0.02]
+** Dealing down cards **
+Jambatty folds
+** Summary **
+pokspider777 collected [ $0.03 ]
+
+
+#Game No : 531020347
+***** 888poker Hand History for Game 531020347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 06:23:52
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: xschaffyx ( $1.80 )
+Seat 4: F1nans ( $1 )
+F1nans posts small blind [$0.01]
+xschaffyx posts big blind [$0.02]
+** Dealing down cards **
+F1nans folds
+** Summary **
+xschaffyx collected [ $0.03 ]
+
+
+#Game No : 531020410
+***** 888poker Hand History for Game 531020410 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 06:25:15
+Table Baku 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: xschaffyx ( $1.82 )
+Seat 4: F1nans ( $1 )
+xschaffyx posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+xschaffyx raises [$0.03]
+F1nans folds
+** Summary **
+xschaffyx collected [ $0.04 ]
+
+
+#Game No : 531020418
+***** 888poker Hand History for Game 531020418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 06:25:26
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: xschaffyx ( $1.84 )
+Seat 4: F1nans ( $1 )
+F1nans posts small blind [$0.01]
+xschaffyx posts big blind [$0.02]
+** Dealing down cards **
+F1nans folds
+** Summary **
+xschaffyx collected [ $0.03 ]
+
+
+#Game No : 531020422
+***** 888poker Hand History for Game 531020422 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 06:25:30
+Table Baku 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: xschaffyx ( $1.85 )
+Seat 4: F1nans ( $1 )
+xschaffyx posts small blind [$0.01]
+** Dealing down cards **
+F1nans folds
+** Summary **
+xschaffyx collected [ $0.01 ]
+
+
+#Game No : 531020630
+***** 888poker Hand History for Game 531020630 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 06:30:03
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $0.80 )
+Seat 6: Onyks ( $0.80 )
+i_am_you_ posts small blind [$0.01]
+Onyks posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.03]
+Onyks calls [$0.02]
+** Dealing flop ** [ 8h, 7h, 2d ]
+Onyks bets [$0.02]
+i_am_you_ raises [$0.04]
+Onyks calls [$0.02]
+** Dealing turn ** [ 5c ]
+Onyks checks
+i_am_you_ bets [$0.09]
+Onyks calls [$0.09]
+** Dealing river ** [ 6s ]
+Onyks checks
+i_am_you_ checks
+** Summary **
+Onyks shows [ 4d, Ah ]
+i_am_you_ mucks [ Kh, 8s ]
+Onyks collected [ $0.32 ]
+
+
+#Game No : 531020651
+***** 888poker Hand History for Game 531020651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 06:30:29
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $0.80 )
+Seat 6: Onyks ( $0.95 )
+Onyks posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Onyks calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ Ac, Kc, 7s ]
+i_am_you_ checks
+Onyks checks
+** Dealing turn ** [ 4h ]
+i_am_you_ checks
+Onyks checks
+** Dealing river ** [ 8d ]
+i_am_you_ checks
+Onyks bets [$0.04]
+i_am_you_ folds
+** Summary **
+Onyks collected [ $0.04 ]
+
+
+#Game No : 531024190
+***** 888poker Hand History for Game 531024190 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 07:39:14
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: sk4rum ( $1.02 )
+Seat 9: lllexllluger ( $1.51 )
+sk4rum posts small blind [$0.01]
+lllexllluger posts big blind [$0.02]
+** Dealing down cards **
+sk4rum folds
+** Summary **
+lllexllluger did not show his hand
+lllexllluger collected [ $0.03 ]
+
+
+#Game No : 531024201
+***** 888poker Hand History for Game 531024201 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 07:39:20
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: sk4rum ( $1.01 )
+Seat 9: lllexllluger ( $1.52 )
+lllexllluger posts small blind [$0.01]
+sk4rum posts big blind [$0.02]
+** Dealing down cards **
+lllexllluger raises [$0.05]
+sk4rum calls [$0.04]
+** Dealing flop ** [ 2d, Qh, 5s ]
+sk4rum checks
+lllexllluger bets [$0.06]
+sk4rum calls [$0.06]
+** Dealing turn ** [ Qc ]
+sk4rum checks
+lllexllluger checks
+** Dealing river ** [ 3c ]
+sk4rum checks
+lllexllluger bets [$0.15]
+sk4rum folds
+** Summary **
+lllexllluger did not show his hand
+lllexllluger collected [ $0.23 ]
+
+
+#Game No : 531024225
+***** 888poker Hand History for Game 531024225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 07:39:51
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: sk4rum ( $1 )
+Seat 9: lllexllluger ( $1.63 )
+sk4rum posts small blind [$0.01]
+lllexllluger posts big blind [$0.02]
+** Dealing down cards **
+sk4rum raises [$0.03]
+lllexllluger calls [$0.02]
+** Dealing flop ** [ Tc, 4s, Th ]
+lllexllluger checks
+sk4rum bets [$0.06]
+lllexllluger folds
+** Summary **
+sk4rum collected [ $0.08 ]
+
+
+#Game No : 531024253
+***** 888poker Hand History for Game 531024253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 07:40:15
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: sk4rum ( $1.04 )
+Seat 9: lllexllluger ( $1.59 )
+lllexllluger posts small blind [$0.01]
+sk4rum posts big blind [$0.02]
+** Dealing down cards **
+lllexllluger folds
+** Summary **
+sk4rum collected [ $0.03 ]
+
+
+#Game No : 531027278
+***** 888poker Hand History for Game 531027278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 08:31:47
+Table Baku 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Luzer0008 ( $1.64 )
+Seat 7: ctrelok64 ( $0.56 )
+ctrelok64 posts small blind [$0.01]
+Luzer0008 posts big blind [$0.02]
+** Dealing down cards **
+ctrelok64 folds
+** Summary **
+Luzer0008 collected [ $0.03 ]
+
+
+#Game No : 465104784
+***** 888poker Hand History for Game 465104784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 09:04:39
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LyRin13 ( $1.82 )
+Seat 7: Hike_Kozo ( $1.29 )
+LyRin13 posts small blind [$0.01]
+Hike_Kozo posts big blind [$0.02]
+** Dealing down cards **
+LyRin13 folds
+** Summary **
+Hike_Kozo collected [ $0.03 ]
+
+
+#Game No : 465106415
+***** 888poker Hand History for Game 465106415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 10:01:17
+Table Baku 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: faringeit47 ( $0.50 )
+Seat 6: Godblufffyou ( $1 )
+Godblufffyou posts small blind [$0.01]
+faringeit47 posts big blind [$0.02]
+** Dealing down cards **
+Godblufffyou folds
+** Summary **
+faringeit47 collected [ $0.03 ]
+
+
+#Game No : 465106462
+***** 888poker Hand History for Game 465106462 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 10:02:16
+Table Baku 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: faringeit47 ( $0.52 )
+Seat 7: flushbilly ( $1.08 )
+flushbilly posts small blind [$0.01]
+faringeit47 posts big blind [$0.02]
+** Dealing down cards **
+flushbilly calls [$0.01]
+faringeit47 checks
+** Dealing flop ** [ Kh, Qh, 2d ]
+faringeit47 checks
+flushbilly checks
+** Dealing turn ** [ 5c ]
+faringeit47 checks
+flushbilly bets [$0.02]
+faringeit47 calls [$0.02]
+** Dealing river ** [ 3h ]
+faringeit47 checks
+flushbilly checks
+** Summary **
+faringeit47 shows [ 5h, 9c ]
+flushbilly mucks [ Tc, As ]
+faringeit47 collected [ $0.08 ]
+
+
+#Game No : 465106480
+***** 888poker Hand History for Game 465106480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 10:02:46
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: faringeit47 ( $0.56 )
+Seat 7: flushbilly ( $1.04 )
+faringeit47 posts small blind [$0.01]
+flushbilly posts big blind [$0.02]
+** Dealing down cards **
+faringeit47 calls [$0.01]
+flushbilly checks
+** Dealing flop ** [ 2c, 4d, 4h ]
+flushbilly checks
+faringeit47 bets [$0.02]
+flushbilly calls [$0.02]
+** Dealing turn ** [ 9d ]
+flushbilly checks
+faringeit47 checks
+** Dealing river ** [ 6s ]
+flushbilly checks
+faringeit47 checks
+** Summary **
+flushbilly shows [ 2s, 3s ]
+faringeit47 mucks [ Kc, 3c ]
+flushbilly collected [ $0.08 ]
+
+

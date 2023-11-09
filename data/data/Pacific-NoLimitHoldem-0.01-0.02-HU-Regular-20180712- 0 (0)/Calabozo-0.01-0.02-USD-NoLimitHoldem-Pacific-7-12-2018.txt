@@ -1,0 +1,717 @@
+#Game No : 453108898
+***** 888poker Hand History for Game 453108898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 19:15:33
+Table Calabozo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: co98nst41 ( $1.02 )
+Seat 9: Kaleida ( $1.72 )
+co98nst41 posts small blind [$0.01]
+Kaleida posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 raises [$0.05]
+Kaleida calls [$0.04]
+** Dealing flop ** [ Tc, 3c, 8h ]
+Kaleida bets [$0.08]
+co98nst41 folds
+** Summary **
+Kaleida collected [ $0.12 ]
+
+
+#Game No : 453110109
+***** 888poker Hand History for Game 453110109 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 20:33:06
+Table Calabozo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: melugi ( $2.58 )
+Seat 6: peterchina96 ( $2.01 )
+peterchina96 posts small blind [$0.01]
+melugi posts big blind [$0.02]
+** Dealing down cards **
+peterchina96 calls [$0.01]
+melugi raises [$0.04]
+peterchina96 folds
+** Summary **
+melugi did not show his hand
+melugi collected [ $0.04 ]
+
+
+#Game No : 453110114
+***** 888poker Hand History for Game 453110114 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 20:33:21
+Table Calabozo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: melugi ( $2.60 )
+Seat 6: peterchina96 ( $1.99 )
+melugi posts small blind [$0.01]
+peterchina96 posts big blind [$0.02]
+** Dealing down cards **
+melugi raises [$0.03]
+peterchina96 calls [$0.02]
+** Dealing flop ** [ 4d, Kd, 3s ]
+peterchina96 checks
+melugi bets [$0.04]
+peterchina96 calls [$0.04]
+** Dealing turn ** [ 7s ]
+peterchina96 checks
+melugi bets [$0.10]
+peterchina96 calls [$0.10]
+** Dealing river ** [ Qs ]
+peterchina96 checks
+melugi checks
+** Summary **
+peterchina96 shows [ 9d, Jd ]
+melugi shows [ 2d, Ad ]
+melugi collected [ $0.34 ]
+
+
+#Game No : 453110123
+***** 888poker Hand History for Game 453110123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 20:33:55
+Table Calabozo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: melugi ( $2.76 )
+Seat 6: peterchina96 ( $1.81 )
+peterchina96 posts small blind [$0.01]
+melugi posts big blind [$0.02]
+** Dealing down cards **
+peterchina96 calls [$0.01]
+melugi checks
+** Dealing flop ** [ 9s, Jd, 3d ]
+melugi checks
+peterchina96 checks
+** Dealing turn ** [ Jh ]
+melugi checks
+peterchina96 checks
+** Dealing river ** [ 7d ]
+melugi checks
+peterchina96 checks
+** Summary **
+melugi shows [ 2d, Ac ]
+peterchina96 shows [ 2h, 7c ]
+peterchina96 collected [ $0.04 ]
+
+
+#Game No : 453110184
+***** 888poker Hand History for Game 453110184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 20:37:18
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: peterchina96 ( $2.52 )
+Seat 9: fryray ( $1.05 )
+fryray posts small blind [$0.01]
+peterchina96 posts big blind [$0.02]
+** Dealing down cards **
+fryray folds
+** Summary **
+peterchina96 collected [ $0.03 ]
+
+
+#Game No : 453111020
+***** 888poker Hand History for Game 453111020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 21:23:45
+Table Calabozo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ibernard999 ( $1.23 )
+Seat 9: SviddKiil ( $0.54 )
+ibernard999 posts small blind [$0.01]
+SviddKiil posts big blind [$0.02]
+** Dealing down cards **
+ibernard999 calls [$0.01]
+SviddKiil checks
+** Dealing flop ** [ 4c, Th, 2s ]
+SviddKiil checks
+ibernard999 checks
+** Dealing turn ** [ 9h ]
+SviddKiil checks
+ibernard999 checks
+** Dealing river ** [ 2c ]
+SviddKiil checks
+ibernard999 bets [$0.06]
+SviddKiil folds
+** Summary **
+ibernard999 collected [ $0.04 ]
+
+
+#Game No : 453111035
+***** 888poker Hand History for Game 453111035 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 21:24:26
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ibernard999 ( $1.25 )
+Seat 9: SviddKiil ( $0.52 )
+SviddKiil posts small blind [$0.01]
+ibernard999 posts big blind [$0.02]
+** Dealing down cards **
+SviddKiil raises [$0.03]
+ibernard999 calls [$0.02]
+** Dealing flop ** [ 8c, 9h, 6s ]
+ibernard999 checks
+SviddKiil bets [$0.04]
+ibernard999 calls [$0.04]
+** Dealing turn ** [ 5c ]
+ibernard999 checks
+SviddKiil bets [$0.08]
+ibernard999 calls [$0.08]
+** Dealing river ** [ 3c ]
+ibernard999 bets [$0.02]
+SviddKiil calls [$0.02]
+** Summary **
+ibernard999 shows [ 5s, 4h ]
+SviddKiil mucks [ Ks, Js ]
+ibernard999 collected [ $0.34 ]
+
+
+#Game No : 453111086
+***** 888poker Hand History for Game 453111086 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 21:26:50
+Table Calabozo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ibernard999 ( $2.19 )
+Seat 9: SviddKiil ( $0.93 )
+ibernard999 posts small blind [$0.01]
+SviddKiil posts big blind [$0.02]
+** Dealing down cards **
+ibernard999 calls [$0.01]
+SviddKiil checks
+** Dealing flop ** [ 3h, 2h, 6c ]
+SviddKiil bets [$0.02]
+ibernard999 folds
+** Summary **
+SviddKiil collected [ $0.04 ]
+
+
+#Game No : 453111097
+***** 888poker Hand History for Game 453111097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 21:27:14
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ibernard999 ( $2.17 )
+Seat 9: SviddKiil ( $0.95 )
+SviddKiil posts small blind [$0.01]
+ibernard999 posts big blind [$0.02]
+** Dealing down cards **
+SviddKiil calls [$0.01]
+ibernard999 checks
+** Dealing flop ** [ 4h, 7s, 7d ]
+ibernard999 bets [$0.02]
+SviddKiil calls [$0.02]
+** Dealing turn ** [ 2d ]
+ibernard999 bets [$0.02]
+SviddKiil calls [$0.02]
+** Dealing river ** [ 9h ]
+ibernard999 bets [$0.02]
+SviddKiil calls [$0.02]
+** Summary **
+ibernard999 shows [ 9c, 3d ]
+SviddKiil mucks [ Ac, 2h ]
+ibernard999 collected [ $0.15 ]
+
+
+#Game No : 453114517
+***** 888poker Hand History for Game 453114517 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:04:11
+Table Calabozo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Vladislav017 ( $2.13 )
+Seat 7: Sp.Ace ( $2.31 )
+Vladislav017 posts small blind [$0.01]
+Sp.Ace posts big blind [$0.02]
+** Dealing down cards **
+Vladislav017 folds
+** Summary **
+Sp.Ace collected [ $0.03 ]
+
+
+#Game No : 453114584
+***** 888poker Hand History for Game 453114584 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:08:15
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: henksemler13 ( $1 )
+Seat 9: JonnyOxford ( $0.80 )
+JonnyOxford posts small blind [$0.01]
+henksemler13 posts big blind [$0.02]
+** Dealing down cards **
+JonnyOxford raises [$0.03]
+henksemler13 calls [$0.02]
+** Dealing flop ** [ 3d, 7c, 2s ]
+henksemler13 checks
+JonnyOxford checks
+** Dealing turn ** [ 2c ]
+henksemler13 checks
+JonnyOxford checks
+** Dealing river ** [ Qd ]
+henksemler13 checks
+JonnyOxford checks
+** Summary **
+henksemler13 shows [ 9h, 8d ]
+JonnyOxford shows [ 5h, Kh ]
+JonnyOxford collected [ $0.08 ]
+
+
+#Game No : 453114593
+***** 888poker Hand History for Game 453114593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:08:49
+Table Calabozo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: henksemler13 ( $0.96 )
+Seat 9: JonnyOxford ( $0.84 )
+henksemler13 posts small blind [$0.01]
+JonnyOxford posts big blind [$0.02]
+** Dealing down cards **
+henksemler13 calls [$0.01]
+JonnyOxford checks
+** Dealing flop ** [ 7h, 8s, Tc ]
+JonnyOxford checks
+henksemler13 checks
+** Dealing turn ** [ 7s ]
+JonnyOxford checks
+henksemler13 checks
+** Dealing river ** [ Qd ]
+JonnyOxford checks
+henksemler13 checks
+** Summary **
+JonnyOxford shows [ 4s, 6s ]
+henksemler13 shows [ 9h, 3d ]
+henksemler13 collected [ $0.04 ]
+
+
+#Game No : 453114995
+***** 888poker Hand History for Game 453114995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:29:42
+Table Calabozo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: pmpkin74 ( $2.46 )
+Seat 7: Sp.Ace ( $2.20 )
+Sp.Ace posts small blind [$0.01]
+pmpkin74 posts big blind [$0.02]
+** Dealing down cards **
+Sp.Ace folds
+** Summary **
+pmpkin74 collected [ $0.03 ]
+
+
+#Game No : 453115008
+***** 888poker Hand History for Game 453115008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:30:28
+Table Calabozo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Freddy0111 ( $1 )
+Seat 7: Sp.Ace ( $2.19 )
+Sp.Ace posts small blind [$0.01]
+Freddy0111 posts big blind [$0.02]
+** Dealing down cards **
+Sp.Ace folds
+** Summary **
+Freddy0111 collected [ $0.03 ]
+
+
+#Game No : 453115015
+***** 888poker Hand History for Game 453115015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:30:41
+Table Calabozo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Freddy0111 ( $1.01 )
+Seat 7: Sp.Ace ( $2.18 )
+Freddy0111 posts small blind [$0.01]
+Sp.Ace posts big blind [$0.02]
+** Dealing down cards **
+Freddy0111 calls [$0.01]
+Sp.Ace checks
+** Dealing flop ** [ 7s, 8c, Kh ]
+Sp.Ace bets [$0.02]
+Freddy0111 raises [$0.04]
+Sp.Ace folds
+** Summary **
+Freddy0111 collected [ $0.08 ]
+
+
+#Game No : 453115028
+***** 888poker Hand History for Game 453115028 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:31:26
+Table Calabozo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Freddy0111 ( $1.05 )
+Seat 7: Sp.Ace ( $2.14 )
+Sp.Ace posts small blind [$0.01]
+Freddy0111 posts big blind [$0.02]
+** Dealing down cards **
+Sp.Ace folds
+** Summary **
+Freddy0111 collected [ $0.03 ]
+
+
+#Game No : 453115055
+***** 888poker Hand History for Game 453115055 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:32:51
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Freddy0111 ( $0.83 )
+Seat 9: DyaDbKa ( $1.22 )
+DyaDbKa posts small blind [$0.01]
+Freddy0111 posts big blind [$0.02]
+** Dealing down cards **
+DyaDbKa calls [$0.01]
+Freddy0111 checks
+** Dealing flop ** [ 5d, 6s, Ah ]
+Freddy0111 checks
+DyaDbKa bets [$0.04]
+Freddy0111 calls [$0.04]
+** Dealing turn ** [ Kh ]
+Freddy0111 checks
+DyaDbKa bets [$0.08]
+Freddy0111 calls [$0.08]
+** Dealing river ** [ 5s ]
+Freddy0111 checks
+DyaDbKa checks
+** Summary **
+Freddy0111 shows [ 4c, 8c ]
+DyaDbKa shows [ 4d, Ad ]
+DyaDbKa collected [ $0.27 ]
+
+
+#Game No : 453115066
+***** 888poker Hand History for Game 453115066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:33:24
+Table Calabozo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Freddy0111 ( $0.69 )
+Seat 9: DyaDbKa ( $1.35 )
+Freddy0111 posts small blind [$0.01]
+DyaDbKa posts big blind [$0.02]
+** Dealing down cards **
+Freddy0111 raises [$0.03]
+DyaDbKa calls [$0.02]
+** Dealing flop ** [ 3c, 2s, 3h ]
+DyaDbKa bets [$0.04]
+Freddy0111 calls [$0.04]
+** Dealing turn ** [ Th ]
+DyaDbKa bets [$0.08]
+Freddy0111 calls [$0.08]
+** Dealing river ** [ Jc ]
+DyaDbKa bets [$0.21]
+Freddy0111 folds
+** Summary **
+DyaDbKa collected [ $0.30 ]
+
+
+#Game No : 453120848
+***** 888poker Hand History for Game 453120848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 05:11:49
+Table Calabozo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.15 )
+Seat 9: grace_vesta ( $4.81 )
+Obito111 posts small blind [$0.01]
+grace_vesta posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+grace_vesta folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 453120850
+***** 888poker Hand History for Game 453120850 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 05:11:57
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.17 )
+Seat 9: grace_vesta ( $4.79 )
+grace_vesta posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+grace_vesta folds
+** Summary **
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 453120851
+***** 888poker Hand History for Game 453120851 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 05:12:02
+Table Calabozo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.18 )
+Seat 9: grace_vesta ( $4.78 )
+Obito111 posts small blind [$0.01]
+grace_vesta posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+grace_vesta raises [$0.14]
+Obito111 raises [$0.30]
+grace_vesta raises [$0.58]
+Obito111 raises [$0.82]
+grace_vesta calls [$0.44]
+** Dealing flop ** [ 6c, 4c, Kd ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ Kc ]
+** Summary **
+Obito111 shows [ Ac, Ad ]
+grace_vesta shows [ Jc, Jh ]
+Obito111 collected [ $2.22 ]
+
+
+#Game No : 453120868
+***** 888poker Hand History for Game 453120868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 05:12:45
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $2.22 )
+Seat 9: grace_vesta ( $3.60 )
+grace_vesta posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+grace_vesta raises [$0.05]
+Obito111 folds
+** Summary **
+grace_vesta collected [ $0.04 ]
+
+
+#Game No : 453120876
+***** 888poker Hand History for Game 453120876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 05:13:02
+Table Calabozo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $2.20 )
+Seat 9: grace_vesta ( $3.62 )
+Obito111 posts small blind [$0.01]
+grace_vesta posts big blind [$0.02]
+** Dealing down cards **
+Obito111 folds
+** Summary **
+grace_vesta collected [ $0.03 ]
+
+
+#Game No : 453120877
+***** 888poker Hand History for Game 453120877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 05:13:08
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $2.19 )
+Seat 9: grace_vesta ( $3.63 )
+grace_vesta posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+grace_vesta folds
+** Summary **
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 453120880
+***** 888poker Hand History for Game 453120880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 05:13:13
+Table Calabozo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $2.20 )
+Seat 9: grace_vesta ( $3.62 )
+Obito111 posts small blind [$0.01]
+grace_vesta posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+grace_vesta folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 453120891
+***** 888poker Hand History for Game 453120891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 05:13:30
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $2.22 )
+Seat 9: grace_vesta ( $3.60 )
+grace_vesta posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+grace_vesta raises [$0.05]
+Obito111 calls [$0.04]
+** Dealing flop ** [ 9c, 7d, 5h ]
+Obito111 checks
+grace_vesta bets [$0.06]
+Obito111 calls [$0.06]
+** Dealing turn ** [ Jd ]
+Obito111 checks
+grace_vesta bets [$0.12]
+Obito111 folds
+** Summary **
+grace_vesta collected [ $0.23 ]
+
+
+#Game No : 453120907
+***** 888poker Hand History for Game 453120907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 05:14:15
+Table Calabozo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $2.10 )
+Seat 9: grace_vesta ( $3.71 )
+Obito111 posts small blind [$0.01]
+grace_vesta posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+grace_vesta folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 453122908
+***** 888poker Hand History for Game 453122908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 06:29:56
+Table Calabozo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: raw0707 ( $1.57 )
+Seat 7: polomanij94 ( $2.03 )
+polomanij94 posts small blind [$0.01]
+raw0707 posts big blind [$0.02]
+** Dealing down cards **
+polomanij94 folds
+** Summary **
+raw0707 did not show his hand
+raw0707 collected [ $0.03 ]
+
+
+#Game No : 453122914
+***** 888poker Hand History for Game 453122914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 06:30:04
+Table Calabozo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: raw0707 ( $1.58 )
+Seat 7: polomanij94 ( $2.02 )
+raw0707 posts small blind [$0.01]
+polomanij94 posts big blind [$0.02]
+** Dealing down cards **
+raw0707 calls [$0.01]
+polomanij94 checks
+** Dealing flop ** [ Kh, 4h, Qc ]
+polomanij94 checks
+raw0707 checks
+** Dealing turn ** [ 9d ]
+polomanij94 checks
+raw0707 checks
+** Dealing river ** [ 6s ]
+polomanij94 checks
+raw0707 checks
+** Summary **
+polomanij94 shows [ 3c, Jd ]
+raw0707 mucks [ 7d, 5h ]
+polomanij94 collected [ $0.04 ]
+
+
+#Game No : 453122933
+***** 888poker Hand History for Game 453122933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 06:30:53
+Table Calabozo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: raw0707 ( $1.56 )
+Seat 7: polomanij94 ( $2.04 )
+polomanij94 posts small blind [$0.01]
+raw0707 posts big blind [$0.02]
+** Dealing down cards **
+polomanij94 raises [$0.07]
+raw0707 calls [$0.06]
+** Dealing flop ** [ 4h, 6c, 5c ]
+raw0707 checks
+polomanij94 checks
+** Dealing turn ** [ 8c ]
+raw0707 checks
+polomanij94 checks
+** Dealing river ** [ 4d ]
+raw0707 checks
+polomanij94 bets [$0.08]
+raw0707 folds
+** Summary **
+polomanij94 collected [ $0.15 ]
+
+
+#Game No : 453124932
+***** 888poker Hand History for Game 453124932 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 07:46:32
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: DronstR ( $1.55 )
+Seat 9: vsepu4kom ( $1 )
+vsepu4kom posts small blind [$0.01]
+DronstR posts big blind [$0.02]
+** Dealing down cards **
+vsepu4kom calls [$0.01]
+DronstR raises [$0.04]
+vsepu4kom calls [$0.04]
+** Dealing flop ** [ 9d, Js, 5d ]
+DronstR bets [$0.06]
+vsepu4kom folds
+** Summary **
+DronstR did not show his hand
+DronstR collected [ $0.12 ]
+
+
+#Game No : 453124937
+***** 888poker Hand History for Game 453124937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 07:46:50
+Table Calabozo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: DronstR ( $1.61 )
+Seat 9: vsepu4kom ( $1 )
+DronstR posts small blind [$0.01]
+vsepu4kom posts big blind [$0.02]
+** Dealing down cards **
+DronstR raises [$0.05]
+vsepu4kom calls [$0.04]
+** Dealing flop ** [ 3s, Jd, 3d ]
+vsepu4kom checks
+DronstR checks
+** Dealing turn ** [ 9c ]
+vsepu4kom checks
+DronstR bets [$0.06]
+vsepu4kom folds
+** Summary **
+DronstR did not show his hand
+DronstR collected [ $0.12 ]
+
+
+#Game No : 453124948
+***** 888poker Hand History for Game 453124948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 07:47:12
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: DronstR ( $1.67 )
+Seat 9: vsepu4kom ( $1 )
+vsepu4kom posts small blind [$0.01]
+** Dealing down cards **
+DronstR folds
+** Summary **
+vsepu4kom did not show his hand
+vsepu4kom collected [ $0.01 ]
+
+

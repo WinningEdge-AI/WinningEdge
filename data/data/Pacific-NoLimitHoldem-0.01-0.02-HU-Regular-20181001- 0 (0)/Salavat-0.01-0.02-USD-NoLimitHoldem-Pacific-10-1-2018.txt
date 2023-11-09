@@ -1,0 +1,54 @@
+#Game No : 503179139
+***** 888poker Hand History for Game 503179139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 05:28:13
+Table Salavat 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KnyzMaksim ( $1.37 )
+Seat 6: Sp.Ace ( $1 )
+KnyzMaksim posts small blind [$0.01]
+Sp.Ace posts big blind [$0.02]
+** Dealing down cards **
+KnyzMaksim calls [$0.01]
+Sp.Ace raises [$0.06]
+KnyzMaksim calls [$0.06]
+** Dealing flop ** [ 6s, Th, 7s ]
+Sp.Ace bets [$0.08]
+KnyzMaksim calls [$0.08]
+** Dealing turn ** [ Qh ]
+Sp.Ace checks
+KnyzMaksim bets [$0.10]
+Sp.Ace calls [$0.10]
+** Dealing river ** [ 3s ]
+Sp.Ace checks
+KnyzMaksim bets [$1.11]
+Sp.Ace calls [$0.74]
+** Summary **
+KnyzMaksim shows [ Ah, 2d ]
+Sp.Ace shows [ Ts, Js ]
+Sp.Ace collected [ $1.88 ]
+
+
+#Game No : 503179167
+***** 888poker Hand History for Game 503179167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 05:28:49
+Table Salavat 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: KnyzMaksim ( $0.37 )
+Seat 6: Sp.Ace ( $1.88 )
+Sp.Ace posts small blind [$0.01]
+KnyzMaksim posts big blind [$0.02]
+** Dealing down cards **
+Sp.Ace calls [$0.01]
+KnyzMaksim raises [$0.35]
+Sp.Ace calls [$0.35]
+** Dealing flop ** [ Td, 5d, 8h ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ 9h ]
+** Summary **
+KnyzMaksim shows [ Js, 6s ]
+Sp.Ace shows [ 3c, 3d ]
+Sp.Ace collected [ $0.70 ]
+
+

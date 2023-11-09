@@ -1,0 +1,30 @@
+#Game No : 524630376
+***** 888poker Hand History for Game 524630376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 11 2019 08:57:08
+Table Apucarana 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Zicorin ( $3.47 )
+Seat 7: Rettsu7 ( $2.47 )
+Rettsu7 posts small blind [$0.01]
+Zicorin posts big blind [$0.02]
+** Dealing down cards **
+Rettsu7 raises [$0.05]
+Zicorin calls [$0.04]
+** Dealing flop ** [ 2s, 2c, 2h ]
+Zicorin checks
+Rettsu7 bets [$0.04]
+Zicorin calls [$0.04]
+** Dealing turn ** [ 6d ]
+Zicorin checks
+Rettsu7 checks
+** Dealing river ** [ Qc ]
+Zicorin checks
+Rettsu7 bets [$0.10]
+Zicorin calls [$0.10]
+** Summary **
+Rettsu7 shows [ Qd, 9c ]
+Zicorin mucks [ Ah, 6h ]
+Rettsu7 collected [ $0.38 ]
+
+

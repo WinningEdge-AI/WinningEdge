@@ -1,0 +1,123 @@
+#Game No : 1196078912
+***** 888poker Hand History for Game 1196078912 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 15:18:46
+Table Vespasiano 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: bakushan ( $2.76 )
+Seat 5: 3putbeanz ( $1.40 )
+bakushan posts small blind [$0.01]
+3putbeanz posts big blind [$0.02]
+** Dealing down cards **
+bakushan folds
+** Summary **
+3putbeanz collected [ $0.03 ]
+
+
+#Game No : 1196078932
+***** 888poker Hand History for Game 1196078932 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 15:18:51
+Table Vespasiano 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: bakushan ( $2.75 )
+Seat 5: 3putbeanz ( $1.41 )
+3putbeanz posts small blind [$0.01]
+bakushan posts big blind [$0.02]
+** Dealing down cards **
+3putbeanz calls [$0.01]
+bakushan checks
+** Dealing flop ** [ Ts, Kc, 8s ]
+bakushan bets [$0.02]
+3putbeanz calls [$0.02]
+** Dealing turn ** [ Td ]
+bakushan checks
+3putbeanz bets [$0.02]
+bakushan folds
+** Summary **
+3putbeanz collected [ $0.08 ]
+
+
+#Game No : 1196079005
+***** 888poker Hand History for Game 1196079005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 15:19:11
+Table Vespasiano 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: bakushan ( $2.71 )
+Seat 5: 3putbeanz ( $1.45 )
+bakushan posts small blind [$0.01]
+3putbeanz posts big blind [$0.02]
+** Dealing down cards **
+bakushan raises [$0.05]
+3putbeanz folds
+** Summary **
+bakushan collected [ $0.04 ]
+
+
+#Game No : 1196079039
+***** 888poker Hand History for Game 1196079039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 15:19:19
+Table Vespasiano 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: bakushan ( $2.73 )
+Seat 5: 3putbeanz ( $1.43 )
+3putbeanz posts small blind [$0.01]
+bakushan posts big blind [$0.02]
+** Dealing down cards **
+3putbeanz calls [$0.01]
+bakushan raises [$0.06]
+3putbeanz calls [$0.06]
+** Dealing flop ** [ 6h, Qd, Ad ]
+bakushan checks
+3putbeanz checks
+** Dealing turn ** [ 2c ]
+bakushan checks
+3putbeanz checks
+** Dealing river ** [ 8s ]
+bakushan bets [$0.10]
+3putbeanz calls [$0.10]
+** Summary **
+bakushan shows [ 8h, 7c ]
+3putbeanz shows [ Qh, Th ]
+3putbeanz collected [ $0.34 ]
+
+
+#Game No : 1196079148
+***** 888poker Hand History for Game 1196079148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 15:19:48
+Table Vespasiano 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: bakushan ( $2.55 )
+Seat 5: 3putbeanz ( $1.59 )
+bakushan posts small blind [$0.01]
+3putbeanz posts big blind [$0.02]
+** Dealing down cards **
+bakushan folds
+** Summary **
+3putbeanz collected [ $0.03 ]
+
+
+#Game No : 1196079175
+***** 888poker Hand History for Game 1196079175 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 15:19:53
+Table Vespasiano 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: bakushan ( $2.54 )
+Seat 5: 3putbeanz ( $1.60 )
+3putbeanz posts small blind [$0.01]
+bakushan posts big blind [$0.02]
+** Dealing down cards **
+3putbeanz calls [$0.01]
+bakushan raises [$0.08]
+3putbeanz calls [$0.08]
+** Dealing flop ** [ 8h, 7s, 5s ]
+bakushan bets [$0.10]
+3putbeanz folds
+** Summary **
+bakushan collected [ $0.19 ]
+
+

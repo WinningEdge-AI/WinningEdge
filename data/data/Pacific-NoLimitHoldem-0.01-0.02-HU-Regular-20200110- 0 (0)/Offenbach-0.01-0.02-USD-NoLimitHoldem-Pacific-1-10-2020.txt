@@ -1,0 +1,66 @@
+#Game No : 526364952
+***** 888poker Hand History for Game 526364952 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:19:05
+Table Offenbach 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: sebastianr96 ( $2.09 )
+Seat 9: sansan777 ( $1.62 )
+sansan777 posts small blind [$0.01]
+sebastianr96 posts big blind [$0.02]
+** Dealing down cards **
+sansan777 calls [$0.01]
+sebastianr96 checks
+** Dealing flop ** [ Td, Tc, 4c ]
+sebastianr96 bets [$0.02]
+sansan777 folds
+** Summary **
+sebastianr96 did not show his hand
+sebastianr96 collected [ $0.04 ]
+
+
+#Game No : 526365006
+***** 888poker Hand History for Game 526365006 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:22:14
+Table Offenbach 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: KS988 ( $2 )
+Seat 7: Eggman2000 ( $2 )
+KS988 posts small blind [$0.01]
+Eggman2000 posts big blind [$0.02]
+** Dealing down cards **
+KS988 raises [$0.03]
+Eggman2000 raises [$0.04]
+KS988 calls [$0.02]
+** Dealing flop ** [ 5s, 5d, 9h ]
+Eggman2000 bets [$0.02]
+KS988 calls [$0.02]
+** Dealing turn ** [ 8h ]
+Eggman2000 bets [$0.02]
+KS988 raises [$0.08]
+Eggman2000 calls [$0.06]
+** Dealing river ** [ As ]
+Eggman2000 checks
+KS988 bets [$0.35]
+Eggman2000 folds
+** Summary **
+KS988 collected [ $0.30 ]
+
+
+#Game No : 526365015
+***** 888poker Hand History for Game 526365015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:22:53
+Table Offenbach 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: KS988 ( $2.14 )
+Seat 7: Eggman2000 ( $1.84 )
+Eggman2000 posts small blind [$0.01]
+KS988 posts big blind [$0.02]
+** Dealing down cards **
+Eggman2000 folds
+** Summary **
+KS988 collected [ $0.03 ]
+
+

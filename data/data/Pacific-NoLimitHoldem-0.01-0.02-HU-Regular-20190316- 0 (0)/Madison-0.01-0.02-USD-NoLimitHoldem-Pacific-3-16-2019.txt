@@ -1,0 +1,390 @@
+#Game No : 526768675
+***** 888poker Hand History for Game 526768675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 13:35:56
+Table Madison 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: kirrd ( $1 )
+Seat 9: Yorikyohoho ( $4.12 )
+Yorikyohoho posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Yorikyohoho folds
+** Summary **
+kirrd collected [ $0.03 ]
+
+
+#Game No : 526768685
+***** 888poker Hand History for Game 526768685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 13:36:01
+Table Madison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kirrd ( $1.01 )
+Seat 9: Yorikyohoho ( $4.11 )
+kirrd posts small blind [$0.01]
+Yorikyohoho posts big blind [$0.02]
+** Dealing down cards **
+kirrd folds
+** Summary **
+Yorikyohoho did not show his hand
+Yorikyohoho collected [ $0.03 ]
+
+
+#Game No : 526772019
+***** 888poker Hand History for Game 526772019 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 14:10:14
+Table Madison 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: kirrd ( $2.36 )
+Seat 6: LipaVit ( $1.03 )
+LipaVit posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+LipaVit raises [$0.05]
+kirrd raises [$0.16]
+LipaVit calls [$0.12]
+** Dealing flop ** [ 4s, 7s, 8d ]
+kirrd checks
+LipaVit bets [$0.24]
+kirrd folds
+** Summary **
+LipaVit collected [ $0.34 ]
+
+
+#Game No : 526772062
+***** 888poker Hand History for Game 526772062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 14:10:45
+Table Madison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kirrd ( $2.18 )
+Seat 6: LipaVit ( $1.19 )
+kirrd posts small blind [$0.01]
+** Dealing down cards **
+LipaVit folds
+** Summary **
+kirrd collected [ $0.01 ]
+
+
+#Game No : 526772871
+***** 888poker Hand History for Game 526772871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 14:20:41
+Table Madison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kirrd ( $3.31 )
+Seat 2: Julany71 ( $0.90 )
+Julany71 posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Julany71 calls [$0.01]
+kirrd raises [$0.04]
+Julany71 calls [$0.04]
+** Dealing flop ** [ 4s, 6h, 7s ]
+kirrd checks
+Julany71 checks
+** Dealing turn ** [ Qs ]
+kirrd checks
+Julany71 checks
+** Dealing river ** [ 2s ]
+kirrd checks
+Julany71 checks
+** Summary **
+kirrd shows [ Tc, 8c ]
+Julany71 shows [ Jd, Ad ]
+Julany71 collected [ $0.12 ]
+
+
+#Game No : 526773029
+***** 888poker Hand History for Game 526773029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 14:22:37
+Table Madison 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: kirrd ( $3.25 )
+Seat 4: mrcan5 ( $1.01 )
+mrcan5 posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+mrcan5 folds
+** Summary **
+kirrd collected [ $0.03 ]
+
+
+#Game No : 526773105
+***** 888poker Hand History for Game 526773105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 14:23:42
+Table Madison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kirrd ( $3.26 )
+Seat 2: stevo__87 ( $1 )
+kirrd posts small blind [$0.01]
+stevo__87 posts big blind [$0.02]
+** Dealing down cards **
+kirrd raises [$0.05]
+stevo__87 calls [$0.04]
+** Dealing flop ** [ As, 2s, 4c ]
+stevo__87 checks
+kirrd checks
+** Dealing turn ** [ Ac ]
+stevo__87 bets [$0.02]
+kirrd calls [$0.02]
+** Dealing river ** [ 2h ]
+stevo__87 bets [$0.02]
+kirrd raises [$0.15]
+stevo__87 calls [$0.13]
+** Summary **
+kirrd shows [ 7c, 7h ]
+stevo__87 shows [ 5h, 3h ]
+stevo__87 collected [ $0.44 ]
+
+
+#Game No : 526773202
+***** 888poker Hand History for Game 526773202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 14:25:01
+Table Madison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kirrd ( $3.03 )
+Seat 2: stevo__87 ( $1.21 )
+stevo__87 posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+stevo__87 calls [$0.01]
+kirrd raises [$0.04]
+stevo__87 calls [$0.04]
+** Dealing flop ** [ Ah, Qs, Jc ]
+kirrd checks
+stevo__87 checks
+** Dealing turn ** [ Th ]
+kirrd checks
+stevo__87 checks
+** Dealing river ** [ 4h ]
+kirrd checks
+stevo__87 checks
+** Summary **
+kirrd shows [ Ad, 3d ]
+stevo__87 mucks [ 8d, 5d ]
+kirrd collected [ $0.12 ]
+
+
+#Game No : 526773277
+***** 888poker Hand History for Game 526773277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 14:26:13
+Table Madison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kirrd ( $3.09 )
+Seat 2: stevo__87 ( $1.15 )
+kirrd posts small blind [$0.01]
+stevo__87 posts big blind [$0.02]
+** Dealing down cards **
+kirrd folds
+** Summary **
+stevo__87 collected [ $0.03 ]
+
+
+#Game No : 526773295
+***** 888poker Hand History for Game 526773295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 14:26:24
+Table Madison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kirrd ( $3.08 )
+Seat 2: stevo__87 ( $1.16 )
+stevo__87 posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+stevo__87 calls [$0.01]
+kirrd checks
+** Dealing flop ** [ 7s, 5h, 4s ]
+kirrd checks
+stevo__87 checks
+** Dealing turn ** [ 8d ]
+kirrd checks
+stevo__87 checks
+** Dealing river ** [ 7d ]
+kirrd bets [$0.04]
+stevo__87 calls [$0.04]
+** Summary **
+kirrd shows [ 3d, Js ]
+stevo__87 shows [ Qd, Kd ]
+stevo__87 collected [ $0.12 ]
+
+
+#Game No : 526773485
+***** 888poker Hand History for Game 526773485 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 14:29:08
+Table Madison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kirrd ( $3.02 )
+Seat 2: stevo__87 ( $1.24 )
+stevo__87 posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+stevo__87 raises [$0.03]
+kirrd folds
+** Summary **
+stevo__87 collected [ $0.04 ]
+
+
+#Game No : 526776746
+***** 888poker Hand History for Game 526776746 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 15:12:55
+Table Madison 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: r0me00 ( $2.11 )
+Seat 9: Agarroz ( $1.08 )
+r0me00 posts small blind [$0.01]
+** Dealing down cards **
+Agarroz folds
+** Summary **
+r0me00 collected [ $0.01 ]
+
+
+#Game No : 526776770
+***** 888poker Hand History for Game 526776770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 15:13:13
+Table Madison 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: r0me00 ( $2.11 )
+Seat 9: Agarroz ( $1.08 )
+r0me00 posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+r0me00 raises [$0.05]
+Agarroz folds
+** Summary **
+r0me00 collected [ $0.04 ]
+
+
+#Game No : 526776817
+***** 888poker Hand History for Game 526776817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 15:13:57
+Table Madison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: whyme58 ( $0.80 )
+Seat 6: r0me00 ( $2.13 )
+whyme58 posts small blind [$0.01]
+** Dealing down cards **
+r0me00 folds
+** Summary **
+whyme58 collected [ $0.01 ]
+
+
+#Game No : 526776871
+***** 888poker Hand History for Game 526776871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 15:14:47
+Table Madison 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: JaykeCFC ( $1 )
+Seat 9: Denjo0 ( $1 )
+Denjo0 posts small blind [$0.01]
+JaykeCFC posts big blind [$0.02]
+** Dealing down cards **
+Denjo0 raises [$0.07]
+JaykeCFC calls [$0.06]
+** Dealing flop ** [ 6d, 2d, 2h ]
+JaykeCFC checks
+Denjo0 bets [$0.08]
+JaykeCFC calls [$0.08]
+** Dealing turn ** [ 2s ]
+JaykeCFC checks
+Denjo0 bets [$0.16]
+JaykeCFC folds
+** Summary **
+Denjo0 collected [ $0.30 ]
+
+
+#Game No : 526776947
+***** 888poker Hand History for Game 526776947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 15:15:57
+Table Madison 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: cataleks13 ( $0.98 )
+Seat 9: Denjo0 ( $1.90 )
+Denjo0 posts small blind [$0.01]
+cataleks13 posts big blind [$0.02]
+** Dealing down cards **
+Denjo0 calls [$0.01]
+cataleks13 checks
+** Dealing flop ** [ Qc, Jc, 5h ]
+cataleks13 checks
+Denjo0 checks
+** Dealing turn ** [ Ad ]
+cataleks13 checks
+Denjo0 checks
+** Dealing river ** [ Tc ]
+cataleks13 checks
+Denjo0 bets [$0.02]
+cataleks13 folds
+** Summary **
+Denjo0 collected [ $0.04 ]
+
+
+#Game No : 526776975
+***** 888poker Hand History for Game 526776975 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 15:16:20
+Table Madison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cataleks13 ( $0.96 )
+Seat 9: Denjo0 ( $1.92 )
+cataleks13 posts small blind [$0.01]
+Denjo0 posts big blind [$0.02]
+** Dealing down cards **
+cataleks13 calls [$0.01]
+Denjo0 checks
+** Dealing flop ** [ 8s, Th, 6h ]
+Denjo0 bets [$0.02]
+cataleks13 calls [$0.02]
+** Dealing turn ** [ Ac ]
+Denjo0 bets [$0.02]
+cataleks13 calls [$0.02]
+** Dealing river ** [ 4h ]
+Denjo0 checks
+cataleks13 checks
+** Summary **
+Denjo0 shows [ Jc, Kc ]
+cataleks13 mucks [ 7c, Ks ]
+Denjo0 collected [ $0.12 ]
+
+
+#Game No : 526782957
+***** 888poker Hand History for Game 526782957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 16:44:05
+Table Madison 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: DeTanker ( $1 )
+Seat 7: Tevo667 ( $0.92 )
+Tevo667 posts small blind [$0.01]
+DeTanker posts big blind [$0.02]
+** Dealing down cards **
+Tevo667 raises [$0.05]
+DeTanker calls [$0.04]
+** Dealing flop ** [ Jc, Tc, 7s ]
+DeTanker checks
+Tevo667 bets [$0.06]
+DeTanker calls [$0.06]
+** Dealing turn ** [ 4c ]
+DeTanker checks
+Tevo667 checks
+** Dealing river ** [ Kc ]
+DeTanker checks
+Tevo667 checks
+** Summary **
+DeTanker shows [ Ac, 7c ]
+Tevo667 mucks [ 5h, Ks ]
+DeTanker collected [ $0.23 ]
+
+

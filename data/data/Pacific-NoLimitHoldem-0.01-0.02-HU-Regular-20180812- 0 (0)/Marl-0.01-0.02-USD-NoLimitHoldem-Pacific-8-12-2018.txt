@@ -1,0 +1,82 @@
+#Game No : 500794031
+***** 888poker Hand History for Game 500794031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:09:11
+Table Marl 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Skyluck11 ( $2.06 )
+Seat 9: dm44095 ( $0.43 )
+Skyluck11 posts small blind [$0.01]
+dm44095 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+dm44095 raises [$0.16]
+Skyluck11 folds
+** Summary **
+dm44095 collected [ $0.12 ]
+
+
+#Game No : 500794057
+***** 888poker Hand History for Game 500794057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:09:36
+Table Marl 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Skyluck11 ( $2 )
+Seat 9: dm44095 ( $0.49 )
+dm44095 posts small blind [$0.01]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+dm44095 collected [ $0.01 ]
+
+
+#Game No : 500794059
+***** 888poker Hand History for Game 500794059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:09:39
+Table Marl 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: mnlkehab ( $0.80 )
+Seat 9: dm44095 ( $0.49 )
+dm44095 posts small blind [$0.01]
+mnlkehab posts big blind [$0.02]
+** Dealing down cards **
+dm44095 calls [$0.01]
+mnlkehab checks
+** Dealing flop ** [ 8d, 9s, 8s ]
+mnlkehab checks
+dm44095 bets [$0.04]
+mnlkehab folds
+** Summary **
+dm44095 did not show his hand
+dm44095 collected [ $0.04 ]
+
+
+#Game No : 500794080
+***** 888poker Hand History for Game 500794080 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:10:01
+Table Marl 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mnlkehab ( $0.78 )
+Seat 9: dm44095 ( $0.51 )
+mnlkehab posts small blind [$0.01]
+dm44095 posts big blind [$0.02]
+** Dealing down cards **
+mnlkehab calls [$0.01]
+dm44095 raises [$0.04]
+mnlkehab calls [$0.04]
+** Dealing flop ** [ 8c, 3h, As ]
+dm44095 bets [$0.12]
+mnlkehab calls [$0.12]
+** Dealing turn ** [ 8h ]
+dm44095 bets [$0.33]
+mnlkehab calls [$0.33]
+** Dealing river ** [ Td ]
+** Summary **
+mnlkehab shows [ Kd, 7d ]
+dm44095 shows [ Qh, Tc ]
+dm44095 collected [ $0.96 ]
+
+

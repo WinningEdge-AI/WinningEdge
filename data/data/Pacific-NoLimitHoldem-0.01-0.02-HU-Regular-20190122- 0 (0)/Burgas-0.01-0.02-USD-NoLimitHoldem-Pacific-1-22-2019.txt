@@ -1,0 +1,122 @@
+#Game No : 1241636193
+***** 888poker Hand History for Game 1241636193 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 17:05:58
+Table Burgas 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: King59595 ( $5.45 )
+Seat 3: anravi ( $0.34 )
+anravi posts small blind [$0.01]
+King59595 posts big blind [$0.02]
+** Dealing down cards **
+anravi calls [$0.01]
+King59595 checks
+** Dealing flop ** [ Ad, 6d, 6c ]
+King59595 checks
+anravi checks
+** Dealing turn ** [ 8s ]
+King59595 bets [$0.02]
+anravi calls [$0.02]
+** Dealing river ** [ 2h ]
+King59595 bets [$0.02]
+anravi raises [$0.04]
+King59595 calls [$0.02]
+** Summary **
+anravi shows [ 8c, 4c ]
+King59595 shows [ 3s, 8h ]
+anravi collected [ $0.07 ]
+King59595 collected [ $0.08 ]
+
+
+#Game No : 1241636241
+***** 888poker Hand History for Game 1241636241 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 17:06:21
+Table Burgas 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: King59595 ( $5.45 )
+Seat 3: anravi ( $0.33 )
+King59595 posts small blind [$0.01]
+anravi posts big blind [$0.02]
+** Dealing down cards **
+King59595 raises [$0.03]
+anravi calls [$0.02]
+** Dealing flop ** [ 8c, 6s, 9s ]
+anravi checks
+King59595 bets [$0.02]
+anravi calls [$0.02]
+** Dealing turn ** [ Ts ]
+anravi bets [$0.02]
+King59595 calls [$0.02]
+** Dealing river ** [ 3s ]
+anravi bets [$0.02]
+King59595 folds
+** Summary **
+anravi did not show his hand
+anravi collected [ $0.15 ]
+
+
+#Game No : 1241636288
+***** 888poker Hand History for Game 1241636288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 17:06:41
+Table Burgas 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: King59595 ( $5.37 )
+Seat 3: anravi ( $0.40 )
+anravi posts small blind [$0.01]
+King59595 posts big blind [$0.02]
+** Dealing down cards **
+anravi folds
+** Summary **
+King59595 did not show his hand
+King59595 collected [ $0.03 ]
+
+
+#Game No : 1241636303
+***** 888poker Hand History for Game 1241636303 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 17:06:48
+Table Burgas 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: King59595 ( $5.38 )
+Seat 3: anravi ( $0.39 )
+King59595 posts small blind [$0.01]
+anravi posts big blind [$0.02]
+** Dealing down cards **
+King59595 raises [$0.03]
+anravi calls [$0.02]
+** Dealing flop ** [ 7s, Kd, 4c ]
+anravi checks
+King59595 bets [$0.04]
+anravi folds
+** Summary **
+King59595 collected [ $0.08 ]
+
+
+#Game No : 1241636327
+***** 888poker Hand History for Game 1241636327 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 17:07:00
+Table Burgas 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: King59595 ( $5.42 )
+Seat 3: anravi ( $0.35 )
+anravi posts small blind [$0.01]
+King59595 posts big blind [$0.02]
+** Dealing down cards **
+anravi calls [$0.01]
+King59595 checks
+** Dealing flop ** [ Kd, 9d, Ks ]
+King59595 checks
+anravi checks
+** Dealing turn ** [ 2d ]
+King59595 checks
+anravi checks
+** Dealing river ** [ 8c ]
+King59595 bets [$0.02]
+anravi folds
+** Summary **
+King59595 collected [ $0.04 ]
+
+

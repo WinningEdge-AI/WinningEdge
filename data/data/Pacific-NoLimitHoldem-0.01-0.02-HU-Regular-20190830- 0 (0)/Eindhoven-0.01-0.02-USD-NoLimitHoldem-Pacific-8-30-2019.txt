@@ -1,0 +1,868 @@
+#Game No : 538596072
+***** 888poker Hand History for Game 538596072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 21:01:44
+Table Eindhoven 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: CPSHH ( $2 )
+Seat 4: paulec98 ( $2.29 )
+paulec98 posts small blind [$0.01]
+CPSHH posts big blind [$0.02]
+** Dealing down cards **
+paulec98 calls [$0.01]
+CPSHH raises [$0.06]
+paulec98 folds
+** Summary **
+CPSHH did not show his hand
+CPSHH collected [ $0.04 ]
+
+
+#Game No : 538596077
+***** 888poker Hand History for Game 538596077 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 21:01:58
+Table Eindhoven 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: CPSHH ( $2.02 )
+Seat 4: paulec98 ( $2.27 )
+CPSHH posts small blind [$0.01]
+paulec98 posts big blind [$0.02]
+** Dealing down cards **
+CPSHH folds
+** Summary **
+paulec98 did not show his hand
+paulec98 collected [ $0.03 ]
+
+
+#Game No : 538596081
+***** 888poker Hand History for Game 538596081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 21:02:07
+Table Eindhoven 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: CPSHH ( $2.01 )
+Seat 4: paulec98 ( $2.28 )
+paulec98 posts small blind [$0.01]
+CPSHH posts big blind [$0.02]
+** Dealing down cards **
+paulec98 raises [$0.03]
+CPSHH calls [$0.02]
+** Dealing flop ** [ 9d, 5s, 7s ]
+CPSHH checks
+paulec98 checks
+** Dealing turn ** [ 3c ]
+CPSHH bets [$0.04]
+paulec98 calls [$0.04]
+** Dealing river ** [ 5h ]
+CPSHH bets [$0.08]
+paulec98 folds
+** Summary **
+CPSHH did not show his hand
+CPSHH collected [ $0.15 ]
+
+
+#Game No : 538596098
+***** 888poker Hand History for Game 538596098 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 21:02:35
+Table Eindhoven 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: CPSHH ( $2.08 )
+Seat 4: paulec98 ( $2.20 )
+CPSHH posts small blind [$0.01]
+paulec98 posts big blind [$0.02]
+** Dealing down cards **
+CPSHH folds
+** Summary **
+paulec98 did not show his hand
+paulec98 collected [ $0.03 ]
+
+
+#Game No : 538596104
+***** 888poker Hand History for Game 538596104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 21:02:41
+Table Eindhoven 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: CPSHH ( $2.07 )
+Seat 4: paulec98 ( $2.21 )
+paulec98 posts small blind [$0.01]
+CPSHH posts big blind [$0.02]
+** Dealing down cards **
+paulec98 raises [$0.03]
+CPSHH calls [$0.02]
+** Dealing flop ** [ 7d, 2d, Td ]
+CPSHH checks
+paulec98 checks
+** Dealing turn ** [ Js ]
+CPSHH bets [$0.06]
+paulec98 calls [$0.06]
+** Dealing river ** [ 9d ]
+CPSHH bets [$0.15]
+paulec98 raises [$0.40]
+CPSHH calls [$0.25]
+** Summary **
+paulec98 shows [ 6d, Qd ]
+CPSHH shows [ Kd, 3d ]
+CPSHH collected [ $0.94 ]
+
+
+#Game No : 538596119
+***** 888poker Hand History for Game 538596119 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 21:03:19
+Table Eindhoven 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: CPSHH ( $2.51 )
+Seat 4: paulec98 ( $1.71 )
+CPSHH posts small blind [$0.01]
+paulec98 posts big blind [$0.02]
+** Dealing down cards **
+CPSHH raises [$0.05]
+paulec98 calls [$0.04]
+** Dealing flop ** [ 2c, 4s, Td ]
+paulec98 bets [$0.06]
+CPSHH raises [$0.18]
+paulec98 folds
+** Summary **
+CPSHH collected [ $0.23 ]
+
+
+#Game No : 538596136
+***** 888poker Hand History for Game 538596136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 21:03:50
+Table Eindhoven 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: CPSHH ( $2.62 )
+Seat 4: paulec98 ( $1.59 )
+paulec98 posts small blind [$0.01]
+CPSHH posts big blind [$0.02]
+** Dealing down cards **
+paulec98 calls [$0.01]
+CPSHH checks
+** Dealing flop ** [ 5d, 4c, 2h ]
+CPSHH checks
+paulec98 bets [$0.06]
+CPSHH calls [$0.06]
+** Dealing turn ** [ Kd ]
+CPSHH checks
+paulec98 bets [$0.08]
+CPSHH calls [$0.08]
+** Dealing river ** [ 4s ]
+CPSHH checks
+paulec98 bets [$0.10]
+CPSHH calls [$0.10]
+** Summary **
+paulec98 shows [ Kh, Qs ]
+CPSHH mucks [ 5s, Qh ]
+paulec98 collected [ $0.49 ]
+
+
+#Game No : 538597885
+***** 888poker Hand History for Game 538597885 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:14:26
+Table Eindhoven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AAB7014 ( $2 )
+Seat 7: SidEx_Inc ( $2.24 )
+AAB7014 posts small blind [$0.01]
+SidEx_Inc posts big blind [$0.02]
+** Dealing down cards **
+AAB7014 folds
+** Summary **
+SidEx_Inc collected [ $0.03 ]
+
+
+#Game No : 538597886
+***** 888poker Hand History for Game 538597886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:14:32
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AAB7014 ( $2 )
+Seat 7: SidEx_Inc ( $2.25 )
+SidEx_Inc posts small blind [$0.01]
+AAB7014 posts big blind [$0.02]
+** Dealing down cards **
+SidEx_Inc folds
+** Summary **
+AAB7014 did not show his hand
+AAB7014 collected [ $0.03 ]
+
+
+#Game No : 538597889
+***** 888poker Hand History for Game 538597889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:14:40
+Table Eindhoven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AAB7014 ( $2.01 )
+Seat 7: SidEx_Inc ( $2.24 )
+AAB7014 posts small blind [$0.01]
+SidEx_Inc posts big blind [$0.02]
+** Dealing down cards **
+AAB7014 folds
+** Summary **
+SidEx_Inc did not show his hand
+SidEx_Inc collected [ $0.03 ]
+
+
+#Game No : 538597892
+***** 888poker Hand History for Game 538597892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 22:14:46
+Table Eindhoven 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AAB7014 ( $2 )
+Seat 7: SidEx_Inc ( $2.25 )
+SidEx_Inc posts small blind [$0.01]
+** Dealing down cards **
+AAB7014 folds
+** Summary **
+SidEx_Inc did not show his hand
+SidEx_Inc collected [ $0.01 ]
+
+
+#Game No : 521129612
+***** 888poker Hand History for Game 521129612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:15:30
+Table Eindhoven 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Vredinka18 ( $1.01 )
+Seat 6: Puhalskiy91 ( $2 )
+Vredinka18 posts small blind [$0.01]
+Puhalskiy91 posts big blind [$0.02]
+** Dealing down cards **
+Vredinka18 calls [$0.01]
+Puhalskiy91 checks
+** Dealing flop ** [ 5d, Td, 7s ]
+Puhalskiy91 bets [$0.04]
+Vredinka18 raises [$0.08]
+Puhalskiy91 calls [$0.04]
+** Dealing turn ** [ Qc ]
+Puhalskiy91 checks
+Vredinka18 bets [$0.02]
+Puhalskiy91 calls [$0.02]
+** Dealing river ** [ Ac ]
+Puhalskiy91 checks
+Vredinka18 bets [$0.89]
+Puhalskiy91 folds
+** Summary **
+Vredinka18 did not show his hand
+Vredinka18 collected [ $0.23 ]
+
+
+#Game No : 521129624
+***** 888poker Hand History for Game 521129624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:16:01
+Table Eindhoven 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Vredinka18 ( $1.12 )
+Seat 6: Puhalskiy91 ( $2 )
+Puhalskiy91 posts small blind [$0.01]
+Vredinka18 posts big blind [$0.02]
+** Dealing down cards **
+Puhalskiy91 folds
+** Summary **
+Vredinka18 did not show his hand
+Vredinka18 collected [ $0.03 ]
+
+
+#Game No : 521129625
+***** 888poker Hand History for Game 521129625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:16:09
+Table Eindhoven 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Vredinka18 ( $1.13 )
+Seat 6: Puhalskiy91 ( $2 )
+Vredinka18 posts small blind [$0.01]
+Puhalskiy91 posts big blind [$0.02]
+** Dealing down cards **
+Vredinka18 calls [$0.01]
+Puhalskiy91 checks
+** Dealing flop ** [ 4h, 7s, Jh ]
+Puhalskiy91 checks
+Vredinka18 checks
+** Dealing turn ** [ 6d ]
+Puhalskiy91 checks
+Vredinka18 checks
+** Dealing river ** [ 5d ]
+Puhalskiy91 bets [$0.04]
+Vredinka18 calls [$0.04]
+** Summary **
+Puhalskiy91 shows [ 3h, Ac ]
+Vredinka18 mucks [ 5h, 9c ]
+Puhalskiy91 collected [ $0.12 ]
+
+
+#Game No : 521134259
+***** 888poker Hand History for Game 521134259 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:07:24
+Table Eindhoven 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VodooMan14 ( $2.04 )
+Seat 9: RICKYD1471 ( $2.15 )
+VodooMan14 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+VodooMan14 calls [$0.01]
+RICKYD1471 checks
+** Dealing flop ** [ Ks, 6s, Kh ]
+RICKYD1471 checks
+VodooMan14 checks
+** Dealing turn ** [ 5c ]
+RICKYD1471 checks
+VodooMan14 checks
+** Dealing river ** [ Jc ]
+RICKYD1471 checks
+VodooMan14 bets [$0.04]
+RICKYD1471 folds
+** Summary **
+VodooMan14 collected [ $0.04 ]
+
+
+#Game No : 521134310
+***** 888poker Hand History for Game 521134310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:10:35
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.02 )
+Seat 9: RICKYD1471 ( $2.17 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 calls [$0.01]
+RICKYD1471 raises [$0.12]
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.04 ]
+
+
+#Game No : 521134316
+***** 888poker Hand History for Game 521134316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:10:50
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8 )
+Seat 9: RICKYD1471 ( $2.19 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 folds
+** Summary **
+hitmanno1111 did not show his hand
+hitmanno1111 collected [ $0.03 ]
+
+
+#Game No : 521134319
+***** 888poker Hand History for Game 521134319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:10:59
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.01 )
+Seat 9: RICKYD1471 ( $2.18 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.03 ]
+
+
+#Game No : 521134321
+***** 888poker Hand History for Game 521134321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:11:06
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8 )
+Seat 9: RICKYD1471 ( $2.19 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 raises [$0.05]
+hitmanno1111 calls [$0.04]
+** Dealing flop ** [ As, 4h, Ac ]
+hitmanno1111 checks
+RICKYD1471 checks
+** Dealing turn ** [ 2c ]
+hitmanno1111 checks
+RICKYD1471 bets [$0.08]
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.12 ]
+
+
+#Game No : 521134326
+***** 888poker Hand History for Game 521134326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:11:29
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.94 )
+Seat 9: RICKYD1471 ( $2.25 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 calls [$0.01]
+RICKYD1471 checks
+** Dealing flop ** [ 2d, 3c, Ks ]
+RICKYD1471 checks
+hitmanno1111 bets [$0.04]
+RICKYD1471 folds
+** Summary **
+hitmanno1111 did not show his hand
+hitmanno1111 collected [ $0.04 ]
+
+
+#Game No : 521134332
+***** 888poker Hand History for Game 521134332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:11:48
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.96 )
+Seat 9: RICKYD1471 ( $2.23 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 raises [$0.05]
+hitmanno1111 calls [$0.04]
+** Dealing flop ** [ Ts, Td, 6d ]
+hitmanno1111 checks
+RICKYD1471 bets [$0.08]
+hitmanno1111 calls [$0.08]
+** Dealing turn ** [ 7c ]
+hitmanno1111 checks
+RICKYD1471 bets [$0.24]
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.27 ]
+
+
+#Game No : 521134340
+***** 888poker Hand History for Game 521134340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:12:13
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.82 )
+Seat 9: RICKYD1471 ( $2.36 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.03 ]
+
+
+#Game No : 521134344
+***** 888poker Hand History for Game 521134344 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:12:27
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.81 )
+Seat 9: RICKYD1471 ( $2.37 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 raises [$0.05]
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.04 ]
+
+
+#Game No : 521134347
+***** 888poker Hand History for Game 521134347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:12:40
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.79 )
+Seat 9: RICKYD1471 ( $2.39 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.03 ]
+
+
+#Game No : 521134350
+***** 888poker Hand History for Game 521134350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:12:48
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.78 )
+Seat 9: RICKYD1471 ( $2.40 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 raises [$0.05]
+hitmanno1111 calls [$0.04]
+** Dealing flop ** [ 6s, 4s, 8h ]
+hitmanno1111 checks
+RICKYD1471 checks
+** Dealing turn ** [ Kc ]
+hitmanno1111 bets [$0.08]
+RICKYD1471 folds
+** Summary **
+hitmanno1111 did not show his hand
+hitmanno1111 collected [ $0.12 ]
+
+
+#Game No : 521134353
+***** 888poker Hand History for Game 521134353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:13:09
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.84 )
+Seat 9: RICKYD1471 ( $2.34 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 calls [$0.01]
+RICKYD1471 checks
+** Dealing flop ** [ 8c, 6h, 4h ]
+RICKYD1471 checks
+hitmanno1111 checks
+** Dealing turn ** [ 8d ]
+RICKYD1471 checks
+hitmanno1111 bets [$0.02]
+RICKYD1471 folds
+** Summary **
+hitmanno1111 did not show his hand
+hitmanno1111 collected [ $0.04 ]
+
+
+#Game No : 521134361
+***** 888poker Hand History for Game 521134361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:13:34
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.86 )
+Seat 9: RICKYD1471 ( $2.32 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 folds
+** Summary **
+hitmanno1111 did not show his hand
+hitmanno1111 collected [ $0.03 ]
+
+
+#Game No : 521134365
+***** 888poker Hand History for Game 521134365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:13:39
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.87 )
+Seat 9: RICKYD1471 ( $2.31 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 raises [$0.05]
+RICKYD1471 calls [$0.04]
+** Dealing flop ** [ Jc, 4d, Ts ]
+RICKYD1471 checks
+hitmanno1111 checks
+** Dealing turn ** [ 9s ]
+RICKYD1471 checks
+hitmanno1111 bets [$0.06]
+RICKYD1471 calls [$0.06]
+** Dealing river ** [ 5c ]
+RICKYD1471 checks
+hitmanno1111 bets [$0.08]
+RICKYD1471 calls [$0.08]
+** Summary **
+hitmanno1111 shows [ Jd, Jh ]
+RICKYD1471 mucks [ Kh, Th ]
+hitmanno1111 collected [ $0.38 ]
+
+
+#Game No : 521134371
+***** 888poker Hand History for Game 521134371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:14:15
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.05 )
+Seat 9: RICKYD1471 ( $2.11 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 raises [$0.05]
+hitmanno1111 calls [$0.04]
+** Dealing flop ** [ 4c, 4h, 5c ]
+hitmanno1111 checks
+RICKYD1471 checks
+** Dealing turn ** [ 9c ]
+hitmanno1111 checks
+RICKYD1471 checks
+** Dealing river ** [ 3d ]
+hitmanno1111 bets [$0.06]
+RICKYD1471 folds
+** Summary **
+hitmanno1111 did not show his hand
+hitmanno1111 collected [ $0.12 ]
+
+
+#Game No : 521134380
+***** 888poker Hand History for Game 521134380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:14:58
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.11 )
+Seat 9: RICKYD1471 ( $2.05 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 calls [$0.01]
+RICKYD1471 checks
+** Dealing flop ** [ Td, 9c, Ac ]
+RICKYD1471 checks
+hitmanno1111 checks
+** Dealing turn ** [ Tc ]
+RICKYD1471 bets [$0.04]
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.04 ]
+
+
+#Game No : 521134383
+***** 888poker Hand History for Game 521134383 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:15:17
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.09 )
+Seat 9: RICKYD1471 ( $2.07 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 calls [$0.01]
+hitmanno1111 checks
+** Dealing flop ** [ 6c, 5c, 4d ]
+hitmanno1111 checks
+RICKYD1471 checks
+** Dealing turn ** [ 7d ]
+hitmanno1111 bets [$0.02]
+RICKYD1471 raises [$0.14]
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.08 ]
+
+
+#Game No : 521134393
+***** 888poker Hand History for Game 521134393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:15:43
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.05 )
+Seat 9: RICKYD1471 ( $2.11 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 calls [$0.01]
+RICKYD1471 raises [$0.10]
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.04 ]
+
+
+#Game No : 521134396
+***** 888poker Hand History for Game 521134396 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:15:55
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.03 )
+Seat 9: RICKYD1471 ( $2.13 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 raises [$0.05]
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.04 ]
+
+
+#Game No : 521134400
+***** 888poker Hand History for Game 521134400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:16:10
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.01 )
+Seat 9: RICKYD1471 ( $2.15 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.03 ]
+
+
+#Game No : 521134404
+***** 888poker Hand History for Game 521134404 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:16:16
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8 )
+Seat 9: RICKYD1471 ( $2.16 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 folds
+** Summary **
+hitmanno1111 did not show his hand
+hitmanno1111 collected [ $0.03 ]
+
+
+#Game No : 521134406
+***** 888poker Hand History for Game 521134406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:16:23
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.01 )
+Seat 9: RICKYD1471 ( $2.15 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 calls [$0.01]
+RICKYD1471 checks
+** Dealing flop ** [ 4c, 4h, 7c ]
+RICKYD1471 checks
+hitmanno1111 checks
+** Dealing turn ** [ 2d ]
+RICKYD1471 checks
+hitmanno1111 checks
+** Dealing river ** [ 7s ]
+RICKYD1471 checks
+hitmanno1111 checks
+** Summary **
+RICKYD1471 shows [ 8h, Ts ]
+hitmanno1111 mucks [ 9s, 8d ]
+RICKYD1471 collected [ $0.04 ]
+
+
+#Game No : 521134420
+***** 888poker Hand History for Game 521134420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:17:23
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $7.99 )
+Seat 9: RICKYD1471 ( $2.17 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 calls [$0.01]
+hitmanno1111 checks
+** Dealing flop ** [ 5h, Jc, Ts ]
+hitmanno1111 checks
+RICKYD1471 bets [$0.04]
+hitmanno1111 calls [$0.04]
+** Dealing turn ** [ Ad ]
+hitmanno1111 checks
+RICKYD1471 bets [$0.08]
+hitmanno1111 calls [$0.08]
+** Dealing river ** [ 3d ]
+hitmanno1111 checks
+RICKYD1471 checks
+** Summary **
+hitmanno1111 shows [ 5c, As ]
+RICKYD1471 mucks [ 8h, Jd ]
+hitmanno1111 collected [ $0.27 ]
+
+
+#Game No : 521134427
+***** 888poker Hand History for Game 521134427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:17:54
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.12 )
+Seat 9: RICKYD1471 ( $2.03 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.03 ]
+
+
+#Game No : 521134433
+***** 888poker Hand History for Game 521134433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:18:03
+Table Eindhoven 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.11 )
+Seat 9: RICKYD1471 ( $2.04 )
+RICKYD1471 posts small blind [$0.01]
+hitmanno1111 posts big blind [$0.02]
+** Dealing down cards **
+RICKYD1471 calls [$0.01]
+hitmanno1111 checks
+** Dealing flop ** [ Th, Js, Ks ]
+hitmanno1111 checks
+RICKYD1471 bets [$0.04]
+hitmanno1111 calls [$0.04]
+** Dealing turn ** [ 4c ]
+hitmanno1111 checks
+RICKYD1471 bets [$0.12]
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.12 ]
+
+
+#Game No : 521134438
+***** 888poker Hand History for Game 521134438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2019 04:18:25
+Table Eindhoven 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hitmanno1111 ( $8.05 )
+Seat 9: RICKYD1471 ( $2.10 )
+hitmanno1111 posts small blind [$0.01]
+RICKYD1471 posts big blind [$0.02]
+** Dealing down cards **
+hitmanno1111 folds
+** Summary **
+RICKYD1471 did not show his hand
+RICKYD1471 collected [ $0.03 ]
+
+

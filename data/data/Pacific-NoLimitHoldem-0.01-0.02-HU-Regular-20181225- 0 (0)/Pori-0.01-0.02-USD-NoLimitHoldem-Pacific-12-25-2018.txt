@@ -1,0 +1,111 @@
+#Game No : 519718275
+***** 888poker Hand History for Game 519718275 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:04:10
+Table Pori 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: tamur93 ( $0.88 )
+Seat 7: Agarroz ( $1.07 )
+tamur93 posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+tamur93 raises [$0.03]
+Agarroz raises [$1.05]
+tamur93 calls [$0.84]
+** Dealing flop ** [ Jd, Kh, Qs ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ 2d ]
+** Summary **
+tamur93 shows [ 9h, Ah ]
+Agarroz shows [ Qd, Qh ]
+tamur93 collected [ $1.65 ]
+
+
+#Game No : 519718313
+***** 888poker Hand History for Game 519718313 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:04:40
+Table Pori 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: tamur93 ( $1.65 )
+Seat 7: Agarroz ( $1 )
+Agarroz posts small blind [$0.01]
+tamur93 posts big blind [$0.02]
+** Dealing down cards **
+Agarroz folds
+** Summary **
+tamur93 did not show his hand
+tamur93 collected [ $0.03 ]
+
+
+#Game No : 519718321
+***** 888poker Hand History for Game 519718321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:04:46
+Table Pori 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: tamur93 ( $1.66 )
+Seat 7: Agarroz ( $0.99 )
+tamur93 posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+tamur93 raises [$0.03]
+Agarroz calls [$0.02]
+** Dealing flop ** [ 7s, Kh, 6h ]
+Agarroz checks
+tamur93 bets [$0.04]
+Agarroz folds
+** Summary **
+tamur93 collected [ $0.08 ]
+
+
+#Game No : 519718785
+***** 888poker Hand History for Game 519718785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:11:01
+Table Pori 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Agarroz ( $1.25 )
+Seat 9: Wezun111 ( $1.32 )
+Wezun111 posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+Wezun111 calls [$0.01]
+Agarroz checks
+** Dealing flop ** [ 4c, 2s, Qc ]
+Agarroz checks
+Wezun111 checks
+** Dealing turn ** [ 6d ]
+Agarroz checks
+Wezun111 checks
+** Dealing river ** [ Tc ]
+Agarroz checks
+Wezun111 bets [$0.02]
+Agarroz folds
+** Summary **
+Wezun111 did not show his hand
+Wezun111 collected [ $0.04 ]
+
+
+#Game No : 519718809
+***** 888poker Hand History for Game 519718809 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:11:25
+Table Pori 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Agarroz ( $1.23 )
+Seat 9: Wezun111 ( $1.34 )
+Agarroz posts small blind [$0.01]
+Wezun111 posts big blind [$0.02]
+** Dealing down cards **
+Agarroz raises [$0.05]
+Wezun111 calls [$0.04]
+** Dealing flop ** [ Ad, 7h, Kh ]
+Wezun111 checks
+Agarroz bets [$0.06]
+Wezun111 folds
+** Summary **
+Agarroz did not show his hand
+Agarroz collected [ $0.12 ]
+
+

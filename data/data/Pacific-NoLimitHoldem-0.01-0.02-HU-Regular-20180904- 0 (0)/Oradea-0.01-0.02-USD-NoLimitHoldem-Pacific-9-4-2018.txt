@@ -1,0 +1,104 @@
+#Game No : 607839419
+***** 888poker Hand History for Game 607839419 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 13:23:53
+Table Oradea 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $2 )
+Seat 10: estevamrr ( $2.01 )
+estevamrr posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+estevamrr calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ As, 5s, Jc ]
+klerik170 checks
+estevamrr checks
+** Dealing turn ** [ Tc ]
+klerik170 checks
+estevamrr bets [$0.04]
+klerik170 folds
+** Summary **
+estevamrr did not show his hand
+estevamrr collected [ $0.04 ]
+
+
+#Game No : 607839456
+***** 888poker Hand History for Game 607839456 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 13:24:21
+Table Oradea 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $2 )
+Seat 10: estevamrr ( $2.03 )
+klerik170 posts small blind [$0.01]
+estevamrr posts big blind [$0.02]
+** Dealing down cards **
+klerik170 raises [$0.05]
+estevamrr calls [$0.04]
+** Dealing flop ** [ 3d, Ac, 5c ]
+estevamrr checks
+klerik170 bets [$0.12]
+estevamrr folds
+** Summary **
+klerik170 did not show his hand
+klerik170 collected [ $0.12 ]
+
+
+#Game No : 607839496
+***** 888poker Hand History for Game 607839496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 13:25:03
+Table Oradea 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $2.06 )
+Seat 10: estevamrr ( $1.97 )
+estevamrr posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+estevamrr calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ Qc, Qd, 8s ]
+klerik170 checks
+estevamrr checks
+** Dealing turn ** [ 9h ]
+klerik170 checks
+estevamrr checks
+** Dealing river ** [ Td ]
+klerik170 checks
+estevamrr checks
+** Summary **
+klerik170 shows [ Ts, Ac ]
+estevamrr mucks [ 6c, Kh ]
+klerik170 collected [ $0.04 ]
+
+
+#Game No : 607839507
+***** 888poker Hand History for Game 607839507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 13:25:23
+Table Oradea 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: klerik170 ( $2.08 )
+Seat 10: estevamrr ( $1.95 )
+klerik170 posts small blind [$0.01]
+estevamrr posts big blind [$0.02]
+** Dealing down cards **
+klerik170 raises [$0.03]
+estevamrr calls [$0.02]
+** Dealing flop ** [ Td, Tc, 9c ]
+estevamrr checks
+klerik170 checks
+** Dealing turn ** [ 6s ]
+estevamrr checks
+klerik170 checks
+** Dealing river ** [ Jc ]
+estevamrr checks
+klerik170 bets [$0.02]
+estevamrr calls [$0.02]
+** Summary **
+klerik170 shows [ Jd, Ah ]
+estevamrr mucks [ 4c, Ad ]
+klerik170 collected [ $0.12 ]
+
+

@@ -1,0 +1,590 @@
+#Game No : 511370744
+***** 888poker Hand History for Game 511370744 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 12:51:38
+Table Belgorod 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 671blitzman ( $2.71 )
+Seat 4: SocratTesla ( $0.22 )
+671blitzman posts small blind [$0.01]
+SocratTesla posts big blind [$0.02]
+** Dealing down cards **
+671blitzman raises [$0.03]
+SocratTesla raises [$0.06]
+671blitzman folds
+** Summary **
+SocratTesla did not show his hand
+SocratTesla collected [ $0.08 ]
+
+
+#Game No : 511370906
+***** 888poker Hand History for Game 511370906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 12:54:21
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SocratTesla ( $0.26 )
+Seat 6: Quadrox ( $1 )
+Quadrox posts small blind [$0.01]
+SocratTesla posts big blind [$0.02]
+** Dealing down cards **
+Quadrox raises [$0.03]
+SocratTesla calls [$0.02]
+** Dealing flop ** [ Js, Jd, Th ]
+SocratTesla checks
+Quadrox bets [$0.04]
+SocratTesla folds
+** Summary **
+Quadrox collected [ $0.08 ]
+
+
+#Game No : 511375872
+***** 888poker Hand History for Game 511375872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:38:18
+Table Belgorod 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Grimesy75 ( $0.97 )
+Seat 2: wild_mouse01 ( $1.52 )
+wild_mouse01 posts small blind [$0.01]
+Grimesy75 posts big blind [$0.02]
+** Dealing down cards **
+wild_mouse01 folds
+** Summary **
+Grimesy75 collected [ $0.03 ]
+
+
+#Game No : 511375883
+***** 888poker Hand History for Game 511375883 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:38:25
+Table Belgorod 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Grimesy75 ( $0.98 )
+Seat 2: wild_mouse01 ( $1.51 )
+Grimesy75 posts small blind [$0.01]
+wild_mouse01 posts big blind [$0.02]
+** Dealing down cards **
+Grimesy75 calls [$0.01]
+wild_mouse01 raises [$0.06]
+Grimesy75 folds
+** Summary **
+wild_mouse01 collected [ $0.04 ]
+
+
+#Game No : 511376866
+***** 888poker Hand History for Game 511376866 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:59:50
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.88 )
+Seat 6: Elsa_74 ( $1.11 )
+Elsa_74 posts small blind [$0.01]
+dudcasic posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 calls [$0.01]
+dudcasic checks
+** Dealing flop ** [ Ks, 7d, 3h ]
+dudcasic bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing turn ** [ 3c ]
+dudcasic bets [$0.04]
+Elsa_74 calls [$0.04]
+** Dealing river ** [ 9h ]
+dudcasic bets [$0.08]
+Elsa_74 calls [$0.08]
+** Summary **
+dudcasic shows [ 4h, 3d ]
+Elsa_74 shows [ 7s, 8d ]
+dudcasic collected [ $0.30 ]
+
+
+#Game No : 511376883
+***** 888poker Hand History for Game 511376883 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:00:10
+Table Belgorod 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $1.02 )
+Seat 6: Elsa_74 ( $0.95 )
+dudcasic posts small blind [$0.01]
+Elsa_74 posts big blind [$0.02]
+** Dealing down cards **
+dudcasic raises [$0.03]
+Elsa_74 calls [$0.02]
+** Dealing flop ** [ Th, As, Ks ]
+Elsa_74 checks
+dudcasic checks
+** Dealing turn ** [ 4d ]
+Elsa_74 checks
+dudcasic bets [$0.05]
+Elsa_74 calls [$0.05]
+** Dealing river ** [ 9s ]
+Elsa_74 bets [$0.12]
+dudcasic folds
+** Summary **
+Elsa_74 did not show his hand
+Elsa_74 collected [ $0.17 ]
+
+
+#Game No : 511376910
+***** 888poker Hand History for Game 511376910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:00:34
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.93 )
+Seat 6: Elsa_74 ( $1.03 )
+Elsa_74 posts small blind [$0.01]
+dudcasic posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 calls [$0.01]
+dudcasic checks
+** Dealing flop ** [ Ad, 8c, Jc ]
+dudcasic checks
+Elsa_74 checks
+** Dealing turn ** [ Qs ]
+dudcasic bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing river ** [ Ac ]
+dudcasic bets [$0.04]
+Elsa_74 raises [$0.26]
+dudcasic folds
+** Summary **
+Elsa_74 did not show his hand
+Elsa_74 collected [ $0.15 ]
+
+
+#Game No : 511376934
+***** 888poker Hand History for Game 511376934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:00:58
+Table Belgorod 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.85 )
+Seat 6: Elsa_74 ( $1.10 )
+dudcasic posts small blind [$0.01]
+Elsa_74 posts big blind [$0.02]
+** Dealing down cards **
+dudcasic raises [$0.03]
+Elsa_74 folds
+** Summary **
+dudcasic did not show his hand
+dudcasic collected [ $0.04 ]
+
+
+#Game No : 511376939
+***** 888poker Hand History for Game 511376939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:01:08
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.87 )
+Seat 6: Elsa_74 ( $1.08 )
+Elsa_74 posts small blind [$0.01]
+dudcasic posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 calls [$0.01]
+dudcasic checks
+** Dealing flop ** [ 3c, 3d, 5d ]
+dudcasic checks
+Elsa_74 checks
+** Dealing turn ** [ 4h ]
+dudcasic checks
+Elsa_74 checks
+** Dealing river ** [ 3s ]
+dudcasic checks
+Elsa_74 checks
+** Summary **
+dudcasic shows [ 9s, Qs ]
+Elsa_74 shows [ Qc, 7d ]
+dudcasic collected [ $0.04 ]
+
+
+#Game No : 511376959
+***** 888poker Hand History for Game 511376959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:01:30
+Table Belgorod 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.89 )
+Seat 6: Elsa_74 ( $1.06 )
+dudcasic posts small blind [$0.01]
+Elsa_74 posts big blind [$0.02]
+** Dealing down cards **
+dudcasic raises [$0.03]
+Elsa_74 calls [$0.02]
+** Dealing flop ** [ 3d, 3h, Jc ]
+Elsa_74 checks
+dudcasic bets [$0.05]
+Elsa_74 calls [$0.05]
+** Dealing turn ** [ Jd ]
+Elsa_74 checks
+dudcasic checks
+** Dealing river ** [ 5h ]
+Elsa_74 bets [$0.24]
+dudcasic calls [$0.24]
+** Summary **
+Elsa_74 shows [ 9h, 3s ]
+dudcasic mucks [ Ks, Ts ]
+Elsa_74 collected [ $0.62 ]
+
+
+#Game No : 511376977
+***** 888poker Hand History for Game 511376977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:01:51
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.56 )
+Seat 6: Elsa_74 ( $1.35 )
+Elsa_74 posts small blind [$0.01]
+dudcasic posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 folds
+** Summary **
+dudcasic did not show his hand
+dudcasic collected [ $0.03 ]
+
+
+#Game No : 511376988
+***** 888poker Hand History for Game 511376988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:01:59
+Table Belgorod 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.57 )
+Seat 6: Elsa_74 ( $1.34 )
+dudcasic posts small blind [$0.01]
+Elsa_74 posts big blind [$0.02]
+** Dealing down cards **
+dudcasic raises [$0.03]
+Elsa_74 calls [$0.02]
+** Dealing flop ** [ Js, 5h, 9h ]
+Elsa_74 checks
+dudcasic bets [$0.04]
+Elsa_74 calls [$0.04]
+** Dealing turn ** [ Ac ]
+Elsa_74 checks
+dudcasic checks
+** Dealing river ** [ 2h ]
+Elsa_74 bets [$0.20]
+dudcasic calls [$0.20]
+** Summary **
+Elsa_74 shows [ Kd, Ah ]
+dudcasic mucks [ 9s, 6s ]
+Elsa_74 collected [ $0.53 ]
+
+
+#Game No : 511377011
+***** 888poker Hand History for Game 511377011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:02:23
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.29 )
+Seat 6: Elsa_74 ( $1.59 )
+Elsa_74 posts small blind [$0.01]
+dudcasic posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 folds
+** Summary **
+dudcasic did not show his hand
+dudcasic collected [ $0.03 ]
+
+
+#Game No : 511377018
+***** 888poker Hand History for Game 511377018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:02:30
+Table Belgorod 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.30 )
+Seat 6: Elsa_74 ( $1.58 )
+dudcasic posts small blind [$0.01]
+Elsa_74 posts big blind [$0.02]
+** Dealing down cards **
+dudcasic folds
+** Summary **
+Elsa_74 did not show his hand
+Elsa_74 collected [ $0.03 ]
+
+
+#Game No : 511377022
+***** 888poker Hand History for Game 511377022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:02:35
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.29 )
+Seat 6: Elsa_74 ( $1.59 )
+Elsa_74 posts small blind [$0.01]
+dudcasic posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 calls [$0.01]
+dudcasic checks
+** Dealing flop ** [ 5h, 9c, 7h ]
+dudcasic bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing turn ** [ 5s ]
+dudcasic bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing river ** [ 6c ]
+dudcasic bets [$0.02]
+Elsa_74 raises [$0.14]
+dudcasic calls [$0.12]
+** Summary **
+Elsa_74 shows [ 8d, As ]
+dudcasic mucks [ 9d, 2c ]
+Elsa_74 collected [ $0.38 ]
+
+
+#Game No : 511377045
+***** 888poker Hand History for Game 511377045 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:02:59
+Table Belgorod 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.09 )
+Seat 6: Elsa_74 ( $1.77 )
+dudcasic posts small blind [$0.01]
+Elsa_74 posts big blind [$0.02]
+** Dealing down cards **
+dudcasic folds
+** Summary **
+Elsa_74 did not show his hand
+Elsa_74 collected [ $0.03 ]
+
+
+#Game No : 511377052
+***** 888poker Hand History for Game 511377052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:03:05
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.08 )
+Seat 6: Elsa_74 ( $1.78 )
+Elsa_74 posts small blind [$0.01]
+dudcasic posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 calls [$0.01]
+dudcasic checks
+** Dealing flop ** [ Tc, Jc, 6h ]
+dudcasic checks
+Elsa_74 checks
+** Dealing turn ** [ 9s ]
+dudcasic checks
+Elsa_74 bets [$0.20]
+dudcasic folds
+** Summary **
+Elsa_74 did not show his hand
+Elsa_74 collected [ $0.04 ]
+
+
+#Game No : 511377064
+***** 888poker Hand History for Game 511377064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:03:21
+Table Belgorod 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $0.06 )
+Seat 6: Elsa_74 ( $1.80 )
+dudcasic posts small blind [$0.01]
+Elsa_74 posts big blind [$0.02]
+** Dealing down cards **
+dudcasic raises [$0.05]
+Elsa_74 calls [$0.04]
+** Dealing flop ** [ 2c, Tc, 4h ]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 4c ]
+** Summary **
+dudcasic shows [ 3h, Ac ]
+Elsa_74 shows [ Ts, 8c ]
+Elsa_74 collected [ $0.12 ]
+
+
+#Game No : 511377083
+***** 888poker Hand History for Game 511377083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:03:41
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $1 )
+Seat 6: Elsa_74 ( $1.86 )
+Elsa_74 posts small blind [$0.01]
+dudcasic posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 calls [$0.01]
+dudcasic checks
+** Dealing flop ** [ Ad, Jd, Qh ]
+dudcasic checks
+Elsa_74 checks
+** Dealing turn ** [ Tc ]
+dudcasic bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing river ** [ 3c ]
+dudcasic bets [$0.04]
+Elsa_74 raises [$0.36]
+dudcasic folds
+** Summary **
+Elsa_74 collected [ $0.15 ]
+
+
+#Game No : 511377329
+***** 888poker Hand History for Game 511377329 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:08:33
+Table Belgorod 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $1.18 )
+Seat 7: tonymoney ( $0.65 )
+tonymoney posts small blind [$0.01]
+dudcasic posts big blind [$0.02]
+** Dealing down cards **
+tonymoney calls [$0.01]
+dudcasic checks
+** Dealing flop ** [ 7h, 4h, 2s ]
+dudcasic bets [$0.02]
+tonymoney calls [$0.02]
+** Dealing turn ** [ Ad ]
+dudcasic bets [$0.04]
+tonymoney folds
+** Summary **
+dudcasic collected [ $0.08 ]
+
+
+#Game No : 511377346
+***** 888poker Hand History for Game 511377346 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:08:56
+Table Belgorod 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dudcasic ( $1.22 )
+Seat 7: tonymoney ( $0.61 )
+dudcasic posts small blind [$0.01]
+tonymoney posts big blind [$0.02]
+** Dealing down cards **
+dudcasic raises [$0.03]
+tonymoney calls [$0.02]
+** Dealing flop ** [ Qc, 7s, 4d ]
+tonymoney checks
+dudcasic bets [$0.05]
+tonymoney folds
+** Summary **
+dudcasic collected [ $0.08 ]
+
+
+#Game No : 511377406
+***** 888poker Hand History for Game 511377406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:10:19
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Elsa_74 ( $1.92 )
+Seat 7: tonymoney ( $0.49 )
+Elsa_74 posts small blind [$0.01]
+tonymoney posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 calls [$0.01]
+tonymoney checks
+** Dealing flop ** [ Tc, Jc, 5s ]
+tonymoney checks
+Elsa_74 checks
+** Dealing turn ** [ Qc ]
+tonymoney bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing river ** [ 8h ]
+tonymoney checks
+Elsa_74 bets [$0.28]
+tonymoney folds
+** Summary **
+Elsa_74 did not show his hand
+Elsa_74 collected [ $0.08 ]
+
+
+#Game No : 511377436
+***** 888poker Hand History for Game 511377436 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:10:57
+Table Belgorod 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Elsa_74 ( $1.96 )
+Seat 7: tonymoney ( $0.45 )
+tonymoney posts small blind [$0.01]
+Elsa_74 posts big blind [$0.02]
+** Dealing down cards **
+tonymoney calls [$0.01]
+Elsa_74 checks
+** Dealing flop ** [ 2s, 8s, 6d ]
+Elsa_74 checks
+tonymoney bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing turn ** [ 5h ]
+Elsa_74 checks
+tonymoney bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing river ** [ 5c ]
+Elsa_74 checks
+tonymoney checks
+** Summary **
+Elsa_74 shows [ 3d, Ad ]
+tonymoney shows [ Kd, 8c ]
+tonymoney collected [ $0.12 ]
+
+
+#Game No : 511377469
+***** 888poker Hand History for Game 511377469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:11:33
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Elsa_74 ( $1.90 )
+Seat 7: tonymoney ( $0.51 )
+Elsa_74 posts small blind [$0.01]
+tonymoney posts big blind [$0.02]
+** Dealing down cards **
+Elsa_74 calls [$0.01]
+tonymoney checks
+** Dealing flop ** [ 3c, 6c, Kc ]
+tonymoney checks
+Elsa_74 checks
+** Dealing turn ** [ Ac ]
+tonymoney bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing river ** [ Kh ]
+tonymoney bets [$0.04]
+Elsa_74 folds
+** Summary **
+tonymoney collected [ $0.08 ]
+
+
+#Game No : 511377488
+***** 888poker Hand History for Game 511377488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:12:06
+Table Belgorod 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Elsa_74 ( $1.86 )
+Seat 7: tonymoney ( $0.55 )
+tonymoney posts small blind [$0.01]
+Elsa_74 posts big blind [$0.02]
+** Dealing down cards **
+tonymoney calls [$0.01]
+Elsa_74 checks
+** Dealing flop ** [ Ah, Qs, 7h ]
+Elsa_74 checks
+tonymoney bets [$0.02]
+Elsa_74 calls [$0.02]
+** Dealing turn ** [ 8s ]
+Elsa_74 checks
+tonymoney checks
+** Dealing river ** [ 9h ]
+Elsa_74 checks
+tonymoney checks
+** Summary **
+Elsa_74 shows [ 4d, Kh ]
+tonymoney mucks [ 5s, Jh ]
+Elsa_74 collected [ $0.08 ]
+
+

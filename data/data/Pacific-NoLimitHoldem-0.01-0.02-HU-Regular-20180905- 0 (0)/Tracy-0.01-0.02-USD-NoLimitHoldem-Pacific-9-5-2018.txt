@@ -1,0 +1,43 @@
+#Game No : 501934544
+***** 888poker Hand History for Game 501934544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 17:16:51
+Table Tracy 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WizDreI3 ( $1.17 )
+Seat 9: xagotr ( $3.32 )
+WizDreI3 posts small blind [$0.01]
+xagotr posts big blind [$0.02]
+** Dealing down cards **
+WizDreI3 folds
+** Summary **
+xagotr collected [ $0.03 ]
+
+
+#Game No : 501934552
+***** 888poker Hand History for Game 501934552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 09 2018 17:16:56
+Table Tracy 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: WizDreI3 ( $1.16 )
+Seat 9: xagotr ( $3.33 )
+xagotr posts small blind [$0.01]
+WizDreI3 posts big blind [$0.02]
+** Dealing down cards **
+xagotr raises [$0.05]
+WizDreI3 calls [$0.04]
+** Dealing flop ** [ 2s, 8h, Kd ]
+WizDreI3 checks
+xagotr bets [$0.04]
+WizDreI3 calls [$0.04]
+** Dealing turn ** [ 5h ]
+WizDreI3 checks
+xagotr checks
+** Dealing river ** [ 2h ]
+WizDreI3 bets [$0.09]
+xagotr folds
+** Summary **
+WizDreI3 collected [ $0.19 ]
+
+

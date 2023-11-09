@@ -1,0 +1,58 @@
+#Game No : 503525537
+***** 888poker Hand History for Game 503525537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:04:18
+Table Milan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Ryan9011 ( $2.36 )
+Seat 9: co98nst41 ( $1 )
+co98nst41 posts small blind [$0.01]
+Ryan9011 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+Ryan9011 checks
+** Dealing flop ** [ Qc, Td, 2d ]
+Ryan9011 checks
+co98nst41 bets [$0.02]
+Ryan9011 calls [$0.02]
+** Dealing turn ** [ 6c ]
+Ryan9011 checks
+co98nst41 checks
+** Dealing river ** [ 3h ]
+Ryan9011 checks
+co98nst41 checks
+** Summary **
+Ryan9011 shows [ Jh, 4h ]
+co98nst41 shows [ 8d, Th ]
+co98nst41 collected [ $0.08 ]
+
+
+#Game No : 503525563
+***** 888poker Hand History for Game 503525563 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 14:04:53
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Ryan9011 ( $2.32 )
+Seat 9: co98nst41 ( $1.04 )
+Ryan9011 posts small blind [$0.01]
+co98nst41 posts big blind [$0.02]
+** Dealing down cards **
+Ryan9011 calls [$0.01]
+co98nst41 raises [$0.02]
+Ryan9011 calls [$0.02]
+** Dealing flop ** [ Kd, 2c, Ah ]
+co98nst41 bets [$0.02]
+Ryan9011 calls [$0.02]
+** Dealing turn ** [ 3c ]
+co98nst41 bets [$0.02]
+Ryan9011 calls [$0.02]
+** Dealing river ** [ Td ]
+co98nst41 checks
+Ryan9011 checks
+** Summary **
+co98nst41 shows [ Jc, Tc ]
+Ryan9011 shows [ Qs, Th ]
+Ryan9011 collected [ $0.15 ]
+
+

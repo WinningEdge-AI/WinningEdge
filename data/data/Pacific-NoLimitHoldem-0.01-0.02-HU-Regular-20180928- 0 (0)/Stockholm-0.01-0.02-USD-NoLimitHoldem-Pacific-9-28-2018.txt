@@ -1,0 +1,756 @@
+#Game No : 503038377
+***** 888poker Hand History for Game 503038377 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:48:40
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: T_Dark ( $1 )
+Seat 9: igor.redclub ( $1.24 )
+T_Dark posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+T_Dark folds
+** Summary **
+igor.redclub collected [ $0.03 ]
+
+
+#Game No : 503038504
+***** 888poker Hand History for Game 503038504 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:51:55
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.80 )
+Seat 9: igor.redclub ( $1.34 )
+estedemadera posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+estedemadera calls [$0.01]
+igor.redclub checks
+** Dealing flop ** [ 2s, 4s, 8d ]
+igor.redclub checks
+estedemadera bets [$0.03]
+igor.redclub calls [$0.03]
+** Dealing turn ** [ Kd ]
+igor.redclub checks
+estedemadera bets [$0.04]
+igor.redclub calls [$0.04]
+** Dealing river ** [ 5s ]
+igor.redclub checks
+estedemadera checks
+** Summary **
+igor.redclub shows [ 5d, Ac ]
+estedemadera mucks [ 4c, 3d ]
+igor.redclub collected [ $0.17 ]
+
+
+#Game No : 503038529
+***** 888poker Hand History for Game 503038529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:52:32
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.71 )
+Seat 9: igor.redclub ( $1.42 )
+igor.redclub posts small blind [$0.01]
+estedemadera posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub folds
+** Summary **
+estedemadera collected [ $0.03 ]
+
+
+#Game No : 503038537
+***** 888poker Hand History for Game 503038537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:52:40
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.72 )
+Seat 9: igor.redclub ( $1.41 )
+estedemadera posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+estedemadera raises [$0.03]
+igor.redclub folds
+** Summary **
+estedemadera collected [ $0.04 ]
+
+
+#Game No : 503038542
+***** 888poker Hand History for Game 503038542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:52:48
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.74 )
+Seat 9: igor.redclub ( $1.39 )
+igor.redclub posts small blind [$0.01]
+estedemadera posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+estedemadera checks
+** Dealing flop ** [ 5c, 7s, Js ]
+estedemadera bets [$0.02]
+igor.redclub folds
+** Summary **
+estedemadera collected [ $0.04 ]
+
+
+#Game No : 503038554
+***** 888poker Hand History for Game 503038554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:53:06
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.76 )
+Seat 9: igor.redclub ( $1.37 )
+estedemadera posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+estedemadera calls [$0.01]
+igor.redclub checks
+** Dealing flop ** [ Ks, 7s, 3s ]
+igor.redclub checks
+estedemadera bets [$0.02]
+igor.redclub calls [$0.02]
+** Dealing turn ** [ Ah ]
+igor.redclub checks
+estedemadera checks
+** Dealing river ** [ 3d ]
+igor.redclub bets [$0.04]
+estedemadera folds
+** Summary **
+igor.redclub collected [ $0.08 ]
+
+
+#Game No : 503038572
+***** 888poker Hand History for Game 503038572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:53:30
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.72 )
+Seat 9: igor.redclub ( $1.41 )
+igor.redclub posts small blind [$0.01]
+estedemadera posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+estedemadera checks
+** Dealing flop ** [ Js, 4c, 2h ]
+estedemadera bets [$0.02]
+igor.redclub folds
+** Summary **
+estedemadera collected [ $0.04 ]
+
+
+#Game No : 503038581
+***** 888poker Hand History for Game 503038581 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:53:47
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.74 )
+Seat 9: igor.redclub ( $1.39 )
+estedemadera posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+estedemadera calls [$0.01]
+igor.redclub checks
+** Dealing flop ** [ 6c, 4h, 9c ]
+igor.redclub checks
+estedemadera checks
+** Dealing turn ** [ 8s ]
+igor.redclub bets [$0.04]
+estedemadera calls [$0.04]
+** Dealing river ** [ 3c ]
+igor.redclub checks
+estedemadera bets [$0.06]
+igor.redclub folds
+** Summary **
+estedemadera collected [ $0.12 ]
+
+
+#Game No : 503038604
+***** 888poker Hand History for Game 503038604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:54:19
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.80 )
+Seat 9: igor.redclub ( $1.33 )
+igor.redclub posts small blind [$0.01]
+estedemadera posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+estedemadera checks
+** Dealing flop ** [ Td, 8s, 3s ]
+estedemadera checks
+igor.redclub checks
+** Dealing turn ** [ 2c ]
+estedemadera bets [$0.04]
+igor.redclub calls [$0.04]
+** Dealing river ** [ 2h ]
+estedemadera bets [$0.04]
+igor.redclub calls [$0.04]
+** Summary **
+estedemadera shows [ Th, 6d ]
+igor.redclub mucks [ 7s, 3d ]
+estedemadera collected [ $0.19 ]
+
+
+#Game No : 503038625
+***** 888poker Hand History for Game 503038625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:54:46
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.89 )
+Seat 9: igor.redclub ( $1.23 )
+estedemadera posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+estedemadera calls [$0.01]
+igor.redclub checks
+** Dealing flop ** [ 7h, 4h, 9h ]
+igor.redclub checks
+estedemadera bets [$0.04]
+igor.redclub folds
+** Summary **
+estedemadera collected [ $0.04 ]
+
+
+#Game No : 503038631
+***** 888poker Hand History for Game 503038631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:55:01
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.91 )
+Seat 9: igor.redclub ( $1.21 )
+igor.redclub posts small blind [$0.01]
+estedemadera posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+estedemadera checks
+** Dealing flop ** [ Td, As, 4s ]
+estedemadera bets [$0.03]
+igor.redclub calls [$0.03]
+** Dealing turn ** [ Jh ]
+estedemadera checks
+igor.redclub bets [$0.04]
+estedemadera folds
+** Summary **
+igor.redclub collected [ $0.10 ]
+
+
+#Game No : 503038643
+***** 888poker Hand History for Game 503038643 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:55:22
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.86 )
+Seat 9: igor.redclub ( $1.26 )
+estedemadera posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+estedemadera folds
+** Summary **
+igor.redclub collected [ $0.03 ]
+
+
+#Game No : 503038661
+***** 888poker Hand History for Game 503038661 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 08:55:51
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cleopatra109 ( $1 )
+Seat 9: igor.redclub ( $1.27 )
+cleopatra109 posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+cleopatra109 calls [$0.01]
+igor.redclub checks
+** Dealing flop ** [ 6h, Jc, Ks ]
+igor.redclub checks
+cleopatra109 bets [$0.02]
+igor.redclub calls [$0.02]
+** Dealing turn ** [ 7d ]
+igor.redclub checks
+cleopatra109 bets [$0.02]
+igor.redclub calls [$0.02]
+** Dealing river ** [ 7s ]
+igor.redclub checks
+cleopatra109 bets [$0.02]
+igor.redclub calls [$0.02]
+** Summary **
+cleopatra109 shows [ 5d, Kc ]
+igor.redclub mucks [ Qs, Js ]
+cleopatra109 collected [ $0.15 ]
+
+
+#Game No : 503038852
+***** 888poker Hand History for Game 503038852 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:02:02
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1 )
+Seat 9: igor.redclub ( $1.19 )
+igor.redclub posts small blind [$0.01]
+sh.s.o posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+sh.s.o checks
+** Dealing flop ** [ 7s, 7d, 7h ]
+sh.s.o checks
+igor.redclub checks
+** Dealing turn ** [ 5s ]
+sh.s.o checks
+igor.redclub checks
+** Dealing river ** [ Qh ]
+sh.s.o bets [$0.03]
+igor.redclub folds
+** Summary **
+sh.s.o collected [ $0.04 ]
+
+
+#Game No : 503038867
+***** 888poker Hand History for Game 503038867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:02:22
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.02 )
+Seat 9: igor.redclub ( $1.17 )
+sh.s.o posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+sh.s.o raises [$0.05]
+igor.redclub folds
+** Summary **
+sh.s.o collected [ $0.04 ]
+
+
+#Game No : 503038882
+***** 888poker Hand History for Game 503038882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:02:43
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.04 )
+Seat 9: igor.redclub ( $1.15 )
+igor.redclub posts small blind [$0.01]
+sh.s.o posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+sh.s.o raises [$0.06]
+igor.redclub calls [$0.06]
+** Dealing flop ** [ 5h, Kc, 9h ]
+sh.s.o bets [$0.11]
+igor.redclub calls [$0.11]
+** Dealing turn ** [ 5d ]
+sh.s.o bets [$0.29]
+igor.redclub calls [$0.29]
+** Dealing river ** [ As ]
+sh.s.o checks
+igor.redclub bets [$0.67]
+sh.s.o calls [$0.56]
+** Summary **
+sh.s.o shows [ Kh, Jh ]
+igor.redclub shows [ 7h, 6h ]
+sh.s.o collected [ $1.95 ]
+
+
+#Game No : 503038899
+***** 888poker Hand History for Game 503038899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:03:11
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.95 )
+Seat 9: igor.redclub ( $0.11 )
+sh.s.o posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+sh.s.o folds
+** Summary **
+igor.redclub collected [ $0.03 ]
+
+
+#Game No : 503038904
+***** 888poker Hand History for Game 503038904 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:03:18
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.94 )
+Seat 9: igor.redclub ( $0.12 )
+igor.redclub posts small blind [$0.01]
+sh.s.o posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+sh.s.o checks
+** Dealing flop ** [ 6c, 9d, Jc ]
+sh.s.o checks
+igor.redclub checks
+** Dealing turn ** [ 6h ]
+sh.s.o checks
+igor.redclub bets [$0.02]
+sh.s.o folds
+** Summary **
+igor.redclub collected [ $0.04 ]
+
+
+#Game No : 503038908
+***** 888poker Hand History for Game 503038908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:03:31
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.92 )
+Seat 9: igor.redclub ( $0.14 )
+sh.s.o posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+sh.s.o raises [$0.09]
+igor.redclub raises [$0.12]
+sh.s.o calls [$0.04]
+** Dealing flop ** [ Td, 2c, Th ]
+** Dealing turn ** [ Ad ]
+** Dealing river ** [ Tc ]
+** Summary **
+sh.s.o shows [ 5s, Js ]
+igor.redclub shows [ Qc, 9s ]
+igor.redclub collected [ $0.27 ]
+
+
+#Game No : 503038919
+***** 888poker Hand History for Game 503038919 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:03:53
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.78 )
+Seat 9: igor.redclub ( $0.27 )
+igor.redclub posts small blind [$0.01]
+sh.s.o posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+sh.s.o checks
+** Dealing flop ** [ Ac, Tc, 6h ]
+sh.s.o checks
+igor.redclub checks
+** Dealing turn ** [ 6d ]
+sh.s.o checks
+igor.redclub bets [$0.02]
+sh.s.o folds
+** Summary **
+igor.redclub collected [ $0.04 ]
+
+
+#Game No : 503038928
+***** 888poker Hand History for Game 503038928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:04:08
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.76 )
+Seat 9: igor.redclub ( $0.29 )
+sh.s.o posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+sh.s.o raises [$0.05]
+igor.redclub raises [$0.27]
+sh.s.o calls [$0.23]
+** Dealing flop ** [ Kc, 9s, Jh ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ 2c ]
+** Summary **
+sh.s.o shows [ 9c, Kh ]
+igor.redclub shows [ Qs, Tc ]
+igor.redclub collected [ $0.55 ]
+
+
+#Game No : 503038945
+***** 888poker Hand History for Game 503038945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:04:36
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.47 )
+Seat 9: igor.redclub ( $0.55 )
+igor.redclub posts small blind [$0.01]
+sh.s.o posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+sh.s.o checks
+** Dealing flop ** [ 9h, 2s, 7s ]
+sh.s.o checks
+igor.redclub checks
+** Dealing turn ** [ Th ]
+sh.s.o checks
+igor.redclub checks
+** Dealing river ** [ 2c ]
+sh.s.o checks
+igor.redclub checks
+** Summary **
+sh.s.o shows [ 3d, Jh ]
+igor.redclub shows [ Kc, 5d ]
+igor.redclub collected [ $0.04 ]
+
+
+#Game No : 503038955
+***** 888poker Hand History for Game 503038955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:04:58
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.45 )
+Seat 9: igor.redclub ( $0.57 )
+sh.s.o posts small blind [$0.01]
+igor.redclub posts big blind [$0.02]
+** Dealing down cards **
+sh.s.o folds
+** Summary **
+igor.redclub collected [ $0.03 ]
+
+
+#Game No : 503038959
+***** 888poker Hand History for Game 503038959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:05:02
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: sh.s.o ( $1.44 )
+Seat 9: igor.redclub ( $0.58 )
+igor.redclub posts small blind [$0.01]
+sh.s.o posts big blind [$0.02]
+** Dealing down cards **
+igor.redclub calls [$0.01]
+sh.s.o checks
+** Dealing flop ** [ 5s, 9h, 8c ]
+sh.s.o checks
+igor.redclub checks
+** Dealing turn ** [ 8h ]
+sh.s.o checks
+igor.redclub checks
+** Dealing river ** [ 7h ]
+sh.s.o checks
+igor.redclub checks
+** Summary **
+sh.s.o shows [ 2h, 3s ]
+igor.redclub shows [ 4s, 4d ]
+igor.redclub collected [ $0.04 ]
+
+
+#Game No : 503039220
+***** 888poker Hand History for Game 503039220 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:13:25
+Table Stockholm 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Lisshura ( $0.97 )
+Seat 7: Pavel_Invest ( $1.01 )
+Pavel_Invest posts small blind [$0.01]
+** Dealing down cards **
+Lisshura folds
+** Summary **
+Pavel_Invest did not show his hand
+Pavel_Invest collected [ $0.01 ]
+
+
+#Game No : 503039314
+***** 888poker Hand History for Game 503039314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:16:33
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kosamui999 ( $1 )
+Seat 4: sumulielis ( $0.80 )
+Kosamui999 posts small blind [$0.01]
+sumulielis posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 folds
+** Summary **
+sumulielis collected [ $0.03 ]
+
+
+#Game No : 503039320
+***** 888poker Hand History for Game 503039320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:16:40
+Table Stockholm 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Kosamui999 ( $0.99 )
+Seat 4: sumulielis ( $0.81 )
+sumulielis posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+sumulielis calls [$0.01]
+Kosamui999 raises [$0.06]
+sumulielis folds
+** Summary **
+Kosamui999 collected [ $0.04 ]
+
+
+#Game No : 503041013
+***** 888poker Hand History for Game 503041013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 10:02:08
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kosamui999 ( $1.27 )
+Seat 6: Asteroide22 ( $1.60 )
+Kosamui999 posts small blind [$0.01]
+** Dealing down cards **
+Asteroide22 folds
+** Summary **
+Kosamui999 collected [ $0.01 ]
+
+
+#Game No : 503046922
+***** 888poker Hand History for Game 503046922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 11:58:31
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: nezPKR ( $1 )
+Seat 9: Dieter2508 ( $2.37 )
+Dieter2508 posts small blind [$0.01]
+nezPKR posts big blind [$0.02]
+** Dealing down cards **
+Dieter2508 raises [$0.03]
+nezPKR calls [$0.02]
+** Dealing flop ** [ Ad, 2s, Ks ]
+nezPKR checks
+Dieter2508 bets [$0.04]
+nezPKR calls [$0.04]
+** Dealing turn ** [ 2c ]
+nezPKR checks
+Dieter2508 bets [$0.08]
+nezPKR calls [$0.08]
+** Dealing river ** [ Qd ]
+nezPKR checks
+Dieter2508 bets [$0.16]
+nezPKR calls [$0.16]
+** Summary **
+Dieter2508 shows [ Ac, Qs ]
+nezPKR mucks [ Kh, 8d ]
+Dieter2508 collected [ $0.60 ]
+
+
+#Game No : 503046968
+***** 888poker Hand History for Game 503046968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 11:59:24
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nezPKR ( $1 )
+Seat 9: Dieter2508 ( $2.65 )
+nezPKR posts small blind [$0.01]
+Dieter2508 posts big blind [$0.02]
+** Dealing down cards **
+nezPKR folds
+** Summary **
+Dieter2508 collected [ $0.03 ]
+
+
+#Game No : 503046987
+***** 888poker Hand History for Game 503046987 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 11:59:44
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nezPKR ( $1 )
+Seat 9: Dieter2508 ( $2.67 )
+nezPKR posts small blind [$0.01]
+Dieter2508 posts big blind [$0.02]
+** Dealing down cards **
+nezPKR folds
+** Summary **
+Dieter2508 collected [ $0.03 ]
+
+
+#Game No : 503046993
+***** 888poker Hand History for Game 503046993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 11:59:48
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: nezPKR ( $1 )
+Seat 9: Dieter2508 ( $2.68 )
+Dieter2508 posts small blind [$0.01]
+nezPKR posts big blind [$0.02]
+** Dealing down cards **
+Dieter2508 folds
+** Summary **
+nezPKR collected [ $0.03 ]
+
+
+#Game No : 503046998
+***** 888poker Hand History for Game 503046998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 11:59:55
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: nezPKR ( $1.01 )
+Seat 9: Dieter2508 ( $2.67 )
+nezPKR posts small blind [$0.01]
+Dieter2508 posts big blind [$0.02]
+** Dealing down cards **
+nezPKR raises [$0.06]
+Dieter2508 calls [$0.05]
+** Dealing flop ** [ 9d, Ks, Td ]
+Dieter2508 checks
+nezPKR bets [$0.07]
+Dieter2508 folds
+** Summary **
+nezPKR collected [ $0.14 ]
+
+
+#Game No : 503059299
+***** 888poker Hand History for Game 503059299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 16:19:18
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: VictimVIP ( $1.13 )
+Seat 9: POKERMAN528 ( $1.13 )
+POKERMAN528 posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+POKERMAN528 folds
+** Summary **
+VictimVIP collected [ $0.03 ]
+
+
+#Game No : 503059302
+***** 888poker Hand History for Game 503059302 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 16:19:26
+Table Stockholm 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: VictimVIP ( $1.14 )
+Seat 9: POKERMAN528 ( $1.12 )
+VictimVIP posts small blind [$0.01]
+POKERMAN528 posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.03]
+POKERMAN528 calls [$0.02]
+** Dealing flop ** [ Ah, 9s, 3s ]
+POKERMAN528 bets [$0.02]
+VictimVIP raises [$0.08]
+POKERMAN528 calls [$0.06]
+** Dealing turn ** [ 6h ]
+POKERMAN528 bets [$0.02]
+VictimVIP calls [$0.02]
+** Dealing river ** [ Td ]
+POKERMAN528 bets [$0.02]
+VictimVIP folds
+** Summary **
+POKERMAN528 collected [ $0.27 ]
+
+

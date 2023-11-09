@@ -1,0 +1,49 @@
+#Game No : 505136559
+***** 888poker Hand History for Game 505136559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 02:42:43
+Table Chihuahua 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KRUIM777 ( $0.81 )
+Seat 4: SlikvsSlik ( $1.01 )
+KRUIM777 posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+KRUIM777 calls [$0.01]
+SlikvsSlik checks
+** Dealing flop ** [ 3h, 4s, 9s ]
+SlikvsSlik checks
+KRUIM777 checks
+** Dealing turn ** [ 2d ]
+SlikvsSlik checks
+KRUIM777 checks
+** Dealing river ** [ Ks ]
+SlikvsSlik checks
+KRUIM777 checks
+** Summary **
+SlikvsSlik shows [ Jd, 7d ]
+KRUIM777 shows [ Qh, 2c ]
+KRUIM777 collected [ $0.04 ]
+
+
+#Game No : 505136594
+***** 888poker Hand History for Game 505136594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 02:43:20
+Table Chihuahua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SlikvsSlik ( $1 )
+Seat 6: SahLu_13 ( $0.80 )
+SahLu_13 posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+SahLu_13 calls [$0.01]
+SlikvsSlik checks
+** Dealing flop ** [ Js, 9c, Tc ]
+SlikvsSlik checks
+SahLu_13 bets [$0.08]
+SlikvsSlik folds
+** Summary **
+SahLu_13 collected [ $0.04 ]
+
+

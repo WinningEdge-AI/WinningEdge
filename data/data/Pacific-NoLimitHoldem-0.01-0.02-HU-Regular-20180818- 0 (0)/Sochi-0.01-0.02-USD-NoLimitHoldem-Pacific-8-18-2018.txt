@@ -1,0 +1,509 @@
+#Game No : 501082331
+***** 888poker Hand History for Game 501082331 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 14:46:19
+Table Sochi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: leandro.m4r ( $1.07 )
+Seat 7: OvidiuBadita ( $1.96 )
+OvidiuBadita posts small blind [$0.01]
+leandro.m4r posts big blind [$0.02]
+** Dealing down cards **
+OvidiuBadita raises [$0.06]
+leandro.m4r folds
+** Summary **
+OvidiuBadita collected [ $0.04 ]
+
+
+#Game No : 501082626
+***** 888poker Hand History for Game 501082626 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 14:52:14
+Table Sochi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: leandro.m4r ( $0.94 )
+Seat 7: OvidiuBadita ( $2.87 )
+leandro.m4r posts small blind [$0.01]
+OvidiuBadita posts big blind [$0.02]
+** Dealing down cards **
+leandro.m4r raises [$0.05]
+OvidiuBadita calls [$0.04]
+** Dealing flop ** [ 3c, 5s, Jd ]
+OvidiuBadita checks
+leandro.m4r checks
+** Dealing turn ** [ 4s ]
+OvidiuBadita checks
+leandro.m4r bets [$0.06]
+OvidiuBadita calls [$0.06]
+** Dealing river ** [ Qc ]
+OvidiuBadita checks
+leandro.m4r checks
+** Summary **
+OvidiuBadita shows [ Qs, Tc ]
+leandro.m4r mucks [ Kc, Js ]
+OvidiuBadita collected [ $0.23 ]
+
+
+#Game No : 501082647
+***** 888poker Hand History for Game 501082647 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 14:52:42
+Table Sochi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: leandro.m4r ( $0.82 )
+Seat 7: OvidiuBadita ( $2.98 )
+OvidiuBadita posts small blind [$0.01]
+leandro.m4r posts big blind [$0.02]
+** Dealing down cards **
+OvidiuBadita raises [$0.06]
+leandro.m4r folds
+** Summary **
+OvidiuBadita collected [ $0.04 ]
+
+
+#Game No : 501082832
+***** 888poker Hand History for Game 501082832 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 14:56:35
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.80 )
+Seat 7: alf0774 ( $1 )
+vnuk36 posts small blind [$0.01]
+alf0774 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+alf0774 raises [$0.04]
+vnuk36 calls [$0.04]
+** Dealing flop ** [ 8d, Ks, 6s ]
+alf0774 bets [$0.04]
+vnuk36 calls [$0.04]
+** Dealing turn ** [ Ac ]
+alf0774 bets [$0.06]
+vnuk36 calls [$0.06]
+** Dealing river ** [ 6h ]
+alf0774 bets [$0.10]
+vnuk36 calls [$0.10]
+** Summary **
+alf0774 shows [ Qs, 4d ]
+vnuk36 shows [ Kd, 3h ]
+vnuk36 collected [ $0.49 ]
+
+
+#Game No : 501082864
+***** 888poker Hand History for Game 501082864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 14:57:12
+Table Sochi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $1.03 )
+Seat 7: alf0774 ( $0.74 )
+alf0774 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+alf0774 raises [$0.05]
+vnuk36 folds
+** Summary **
+alf0774 collected [ $0.04 ]
+
+
+#Game No : 501082877
+***** 888poker Hand History for Game 501082877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 14:57:22
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $1.01 )
+Seat 7: alf0774 ( $0.76 )
+vnuk36 posts small blind [$0.01]
+alf0774 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+alf0774 raises [$0.06]
+vnuk36 calls [$0.06]
+** Dealing flop ** [ Qd, Ts, 3h ]
+alf0774 bets [$0.08]
+vnuk36 folds
+** Summary **
+alf0774 collected [ $0.15 ]
+
+
+#Game No : 501083028
+***** 888poker Hand History for Game 501083028 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:00:07
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.80 )
+Seat 4: OlegH1 ( $1.94 )
+vnuk36 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 raises [$0.07]
+OlegH1 calls [$0.06]
+** Dealing flop ** [ Ac, Ts, 8c ]
+OlegH1 checks
+vnuk36 checks
+** Dealing turn ** [ 5c ]
+OlegH1 bets [$0.08]
+vnuk36 calls [$0.08]
+** Dealing river ** [ 9s ]
+OlegH1 bets [$0.21]
+vnuk36 folds
+** Summary **
+OlegH1 collected [ $0.30 ]
+
+
+#Game No : 501083050
+***** 888poker Hand History for Game 501083050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:00:36
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.64 )
+Seat 4: OlegH1 ( $2.08 )
+OlegH1 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ Tc, Qd, 7c ]
+vnuk36 checks
+OlegH1 checks
+** Dealing turn ** [ Js ]
+vnuk36 checks
+OlegH1 checks
+** Dealing river ** [ 7d ]
+vnuk36 bets [$0.10]
+OlegH1 folds
+** Summary **
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 501083068
+***** 888poker Hand History for Game 501083068 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:01:04
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: RedPepperST ( $0.39 )
+Seat 2: vnuk36 ( $0.66 )
+vnuk36 posts small blind [$0.01]
+RedPepperST posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+RedPepperST raises [$0.07]
+vnuk36 folds
+** Summary **
+RedPepperST collected [ $0.04 ]
+
+
+#Game No : 501083082
+***** 888poker Hand History for Game 501083082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:01:21
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.64 )
+Seat 6: odynphound ( $1 )
+vnuk36 posts small blind [$0.01]
+odynphound posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+odynphound checks
+** Dealing flop ** [ Jc, Qc, Ts ]
+odynphound checks
+vnuk36 checks
+** Dealing turn ** [ 8s ]
+odynphound checks
+vnuk36 bets [$0.04]
+odynphound folds
+** Summary **
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 501083118
+***** 888poker Hand History for Game 501083118 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:02:03
+Table Sochi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.66 )
+Seat 6: odynphound ( $1 )
+odynphound posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+odynphound raises [$0.06]
+vnuk36 folds
+** Summary **
+odynphound collected [ $0.04 ]
+
+
+#Game No : 501083135
+***** 888poker Hand History for Game 501083135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:02:21
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.64 )
+Seat 6: odynphound ( $1.02 )
+vnuk36 posts small blind [$0.01]
+** Dealing down cards **
+odynphound folds
+** Summary **
+vnuk36 collected [ $0.01 ]
+
+
+#Game No : 501083162
+***** 888poker Hand History for Game 501083162 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:02:49
+Table Sochi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.64 )
+Seat 9: chefgrande ( $1 )
+chefgrande posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+chefgrande folds
+** Summary **
+vnuk36 collected [ $0.03 ]
+
+
+#Game No : 501083173
+***** 888poker Hand History for Game 501083173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:02:56
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.65 )
+Seat 9: chefgrande ( $1 )
+vnuk36 posts small blind [$0.01]
+chefgrande posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 raises [$0.07]
+chefgrande folds
+** Summary **
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 501083188
+***** 888poker Hand History for Game 501083188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:03:10
+Table Sochi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.67 )
+Seat 9: chefgrande ( $1 )
+chefgrande posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+chefgrande raises [$0.05]
+vnuk36 calls [$0.04]
+** Dealing flop ** [ Qh, 3c, 2d ]
+vnuk36 checks
+chefgrande bets [$0.08]
+vnuk36 folds
+** Summary **
+chefgrande collected [ $0.12 ]
+
+
+#Game No : 501083202
+***** 888poker Hand History for Game 501083202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:03:34
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.61 )
+Seat 9: chefgrande ( $1.06 )
+vnuk36 posts small blind [$0.01]
+chefgrande posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+chefgrande raises [$0.06]
+vnuk36 calls [$0.06]
+** Dealing flop ** [ Kc, 4h, Qc ]
+chefgrande bets [$0.10]
+vnuk36 folds
+** Summary **
+chefgrande collected [ $0.15 ]
+
+
+#Game No : 501083217
+***** 888poker Hand History for Game 501083217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:03:53
+Table Sochi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.53 )
+Seat 9: chefgrande ( $1.13 )
+chefgrande posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+chefgrande raises [$0.07]
+vnuk36 calls [$0.06]
+** Dealing flop ** [ Ac, Th, 9d ]
+vnuk36 checks
+chefgrande bets [$0.10]
+vnuk36 calls [$0.10]
+** Dealing turn ** [ 8c ]
+vnuk36 checks
+chefgrande bets [$0.24]
+vnuk36 calls [$0.24]
+** Dealing river ** [ 7h ]
+vnuk36 checks
+chefgrande bets [$0.42]
+vnuk36 calls [$0.11]
+** Summary **
+vnuk36 shows [ Ts, Kd ]
+chefgrande shows [ Qs, Ks ]
+vnuk36 collected [ $1 ]
+
+
+#Game No : 501083329
+***** 888poker Hand History for Game 501083329 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:06:21
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $1.03 )
+Seat 4: Stebz80 ( $0.88 )
+vnuk36 posts small blind [$0.01]
+Stebz80 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+Stebz80 checks
+** Dealing flop ** [ 9c, 8h, 5h ]
+Stebz80 checks
+vnuk36 checks
+** Dealing turn ** [ Qs ]
+Stebz80 bets [$0.04]
+vnuk36 folds
+** Summary **
+Stebz80 collected [ $0.04 ]
+
+
+#Game No : 501083347
+***** 888poker Hand History for Game 501083347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:06:39
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $1.01 )
+Seat 4: Stebz80 ( $0.90 )
+Stebz80 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Stebz80 calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ Ac, 8h, Th ]
+vnuk36 checks
+Stebz80 checks
+** Dealing turn ** [ Qh ]
+vnuk36 checks
+Stebz80 checks
+** Dealing river ** [ Qs ]
+vnuk36 checks
+Stebz80 bets [$0.04]
+vnuk36 folds
+** Summary **
+Stebz80 collected [ $0.04 ]
+
+
+#Game No : 501083488
+***** 888poker Hand History for Game 501083488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:09:41
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.99 )
+Seat 4: Pashok4490 ( $1 )
+Pashok4490 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Pashok4490 raises [$0.03]
+vnuk36 raises [$0.06]
+Pashok4490 calls [$0.04]
+** Dealing flop ** [ 3h, 3d, Jc ]
+vnuk36 bets [$0.12]
+Pashok4490 folds
+** Summary **
+vnuk36 collected [ $0.15 ]
+
+
+#Game No : 501083506
+***** 888poker Hand History for Game 501083506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:10:07
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $1.06 )
+Seat 4: Pashok4490 ( $0.92 )
+vnuk36 posts small blind [$0.01]
+Pashok4490 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+Pashok4490 raises [$0.04]
+vnuk36 calls [$0.04]
+** Dealing flop ** [ 4d, 2s, Tc ]
+Pashok4490 checks
+vnuk36 checks
+** Dealing turn ** [ 3h ]
+Pashok4490 bets [$0.08]
+vnuk36 folds
+** Summary **
+Pashok4490 collected [ $0.12 ]
+
+
+#Game No : 501083523
+***** 888poker Hand History for Game 501083523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:10:34
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $1 )
+Seat 4: Pashok4490 ( $0.98 )
+Pashok4490 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Pashok4490 raises [$0.97]
+vnuk36 folds
+** Summary **
+Pashok4490 collected [ $1 ]
+
+
+#Game No : 501083530
+***** 888poker Hand History for Game 501083530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:10:43
+Table Sochi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.98 )
+Seat 4: Pashok4490 ( $1 )
+vnuk36 posts small blind [$0.01]
+Pashok4490 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+Pashok4490 checks
+** Dealing flop ** [ Ts, Tc, 4s ]
+Pashok4490 bets [$0.04]
+vnuk36 folds
+** Summary **
+Pashok4490 collected [ $0.04 ]
+
+
+#Game No : 501083540
+***** 888poker Hand History for Game 501083540 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 15:10:57
+Table Sochi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vnuk36 ( $0.96 )
+Seat 4: Pashok4490 ( $1.02 )
+Pashok4490 posts small blind [$0.01]
+** Dealing down cards **
+vnuk36 folds
+** Summary **
+Pashok4490 collected [ $0.01 ]
+
+

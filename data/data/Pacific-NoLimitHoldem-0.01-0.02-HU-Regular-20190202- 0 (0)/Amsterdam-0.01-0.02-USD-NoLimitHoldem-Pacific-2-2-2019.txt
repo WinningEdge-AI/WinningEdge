@@ -1,0 +1,46 @@
+#Game No : 513110308
+***** 888poker Hand History for Game 513110308 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 02 2019 17:37:16
+Table Amsterdam 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Van1212 ( $1.22 )
+Seat 9: S.Nikosh ( $1.64 )
+S.Nikosh posts small blind [$0.01]
+Van1212 posts big blind [$0.02]
+** Dealing down cards **
+S.Nikosh calls [$0.01]
+Van1212 checks
+** Dealing flop ** [ 5c, 8c, 4d ]
+Van1212 bets [$0.02]
+S.Nikosh calls [$0.02]
+** Dealing turn ** [ 9d ]
+Van1212 bets [$0.04]
+S.Nikosh calls [$0.04]
+** Dealing river ** [ Ts ]
+Van1212 checks
+S.Nikosh bets [$0.08]
+Van1212 calls [$0.08]
+** Summary **
+S.Nikosh shows [ 8h, Tc ]
+Van1212 mucks [ 5d, Qh ]
+S.Nikosh collected [ $0.30 ]
+
+
+#Game No : 513110588
+***** 888poker Hand History for Game 513110588 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 02 2019 17:44:32
+Table Amsterdam 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: dangphuc1412 ( $1.09 )
+Seat 7: Van1212 ( $1.27 )
+dangphuc1412 posts small blind [$0.01]
+Van1212 posts big blind [$0.02]
+** Dealing down cards **
+dangphuc1412 folds
+** Summary **
+Van1212 did not show his hand
+Van1212 collected [ $0.03 ]
+
+

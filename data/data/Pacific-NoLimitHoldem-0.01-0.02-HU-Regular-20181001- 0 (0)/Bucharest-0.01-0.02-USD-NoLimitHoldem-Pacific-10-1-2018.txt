@@ -1,0 +1,465 @@
+#Game No : 503164064
+***** 888poker Hand History for Game 503164064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 17:18:28
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: rvrsbss ( $4.24 )
+Seat 7: Genborg ( $1.01 )
+rvrsbss posts small blind [$0.01]
+Genborg posts big blind [$0.02]
+** Dealing down cards **
+rvrsbss folds
+** Summary **
+Genborg collected [ $0.03 ]
+
+
+#Game No : 503164068
+***** 888poker Hand History for Game 503164068 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 17:18:41
+Table Bucharest 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: rvrsbss ( $4.23 )
+Seat 7: Genborg ( $1.02 )
+Genborg posts small blind [$0.01]
+rvrsbss posts big blind [$0.02]
+** Dealing down cards **
+Genborg raises [$0.04]
+rvrsbss raises [$0.13]
+Genborg folds
+** Summary **
+rvrsbss collected [ $0.10 ]
+
+
+#Game No : 503165137
+***** 888poker Hand History for Game 503165137 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 18:15:47
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: rvrsbss ( $3.59 )
+Seat 9: a180twobul1 ( $1.38 )
+rvrsbss posts small blind [$0.01]
+a180twobul1 posts big blind [$0.02]
+** Dealing down cards **
+rvrsbss raises [$0.05]
+a180twobul1 calls [$0.04]
+** Dealing flop ** [ 2h, Js, 5d ]
+a180twobul1 checks
+rvrsbss checks
+** Dealing turn ** [ 8c ]
+a180twobul1 checks
+rvrsbss checks
+** Dealing river ** [ 3h ]
+a180twobul1 checks
+rvrsbss checks
+** Summary **
+a180twobul1 shows [ 5h, 6d ]
+rvrsbss mucks [ Qh, Ts ]
+a180twobul1 collected [ $0.12 ]
+
+
+#Game No : 503165149
+***** 888poker Hand History for Game 503165149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 18:16:20
+Table Bucharest 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: rvrsbss ( $3.53 )
+Seat 9: a180twobul1 ( $1.44 )
+a180twobul1 posts small blind [$0.01]
+rvrsbss posts big blind [$0.02]
+** Dealing down cards **
+a180twobul1 folds
+** Summary **
+rvrsbss collected [ $0.03 ]
+
+
+#Game No : 503165187
+***** 888poker Hand History for Game 503165187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 18:17:49
+Table Bucharest 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ROCCO716 ( $1 )
+Seat 6: rvrsbss ( $3.64 )
+ROCCO716 posts small blind [$0.01]
+rvrsbss posts big blind [$0.02]
+** Dealing down cards **
+ROCCO716 folds
+** Summary **
+rvrsbss did not show his hand
+rvrsbss collected [ $0.03 ]
+
+
+#Game No : 503165190
+***** 888poker Hand History for Game 503165190 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 18:17:55
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ROCCO716 ( $1 )
+Seat 6: rvrsbss ( $3.65 )
+rvrsbss posts small blind [$0.01]
+ROCCO716 posts big blind [$0.02]
+** Dealing down cards **
+rvrsbss folds
+** Summary **
+ROCCO716 did not show his hand
+ROCCO716 collected [ $0.03 ]
+
+
+#Game No : 503165193
+***** 888poker Hand History for Game 503165193 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 18:18:05
+Table Bucharest 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ROCCO716 ( $1.01 )
+Seat 6: rvrsbss ( $3.64 )
+ROCCO716 posts small blind [$0.01]
+rvrsbss posts big blind [$0.02]
+** Dealing down cards **
+ROCCO716 calls [$0.01]
+rvrsbss checks
+** Dealing flop ** [ 5s, Td, 3s ]
+rvrsbss checks
+ROCCO716 checks
+** Dealing turn ** [ 3d ]
+rvrsbss bets [$0.04]
+ROCCO716 raises [$0.12]
+rvrsbss calls [$0.08]
+** Dealing river ** [ Ad ]
+rvrsbss checks
+ROCCO716 checks
+** Summary **
+rvrsbss shows [ 6h, 4h ]
+ROCCO716 shows [ 2c, 3h ]
+ROCCO716 collected [ $0.27 ]
+
+
+#Game No : 503165210
+***** 888poker Hand History for Game 503165210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 18:18:49
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ROCCO716 ( $1.14 )
+Seat 6: rvrsbss ( $3.50 )
+rvrsbss posts small blind [$0.01]
+ROCCO716 posts big blind [$0.02]
+** Dealing down cards **
+rvrsbss raises [$0.03]
+ROCCO716 raises [$0.04]
+rvrsbss calls [$0.02]
+** Dealing flop ** [ 5s, Qh, Ah ]
+ROCCO716 checks
+rvrsbss checks
+** Dealing turn ** [ 9s ]
+ROCCO716 checks
+rvrsbss checks
+** Dealing river ** [ 4c ]
+ROCCO716 checks
+rvrsbss checks
+** Summary **
+ROCCO716 shows [ 6d, 6c ]
+rvrsbss mucks [ 2d, 7d ]
+ROCCO716 collected [ $0.12 ]
+
+
+#Game No : 503166081
+***** 888poker Hand History for Game 503166081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 19:11:33
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ROCCO716 ( $3.29 )
+Seat 6: Kingtyler1st ( $0.65 )
+Kingtyler1st posts small blind [$0.01]
+ROCCO716 posts big blind [$0.02]
+** Dealing down cards **
+Kingtyler1st folds
+** Summary **
+ROCCO716 did not show his hand
+ROCCO716 collected [ $0.03 ]
+
+
+#Game No : 503166085
+***** 888poker Hand History for Game 503166085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 19:11:40
+Table Bucharest 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ROCCO716 ( $3.30 )
+Seat 6: Kingtyler1st ( $0.64 )
+ROCCO716 posts small blind [$0.01]
+Kingtyler1st posts big blind [$0.02]
+** Dealing down cards **
+ROCCO716 calls [$0.01]
+Kingtyler1st checks
+** Dealing flop ** [ 2d, 4c, 2c ]
+Kingtyler1st checks
+ROCCO716 bets [$0.06]
+Kingtyler1st folds
+** Summary **
+ROCCO716 did not show his hand
+ROCCO716 collected [ $0.04 ]
+
+
+#Game No : 503166091
+***** 888poker Hand History for Game 503166091 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 19:11:56
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ROCCO716 ( $3.32 )
+Seat 6: Kingtyler1st ( $0.62 )
+Kingtyler1st posts small blind [$0.01]
+ROCCO716 posts big blind [$0.02]
+** Dealing down cards **
+Kingtyler1st calls [$0.01]
+ROCCO716 checks
+** Dealing flop ** [ 5s, 6d, Qd ]
+ROCCO716 checks
+Kingtyler1st bets [$0.02]
+ROCCO716 calls [$0.02]
+** Dealing turn ** [ 8d ]
+ROCCO716 checks
+Kingtyler1st checks
+** Dealing river ** [ Jd ]
+ROCCO716 checks
+Kingtyler1st checks
+** Summary **
+ROCCO716 shows [ 4d, Ah ]
+Kingtyler1st mucks [ 6c, Js ]
+ROCCO716 collected [ $0.08 ]
+
+
+#Game No : 503168705
+***** 888poker Hand History for Game 503168705 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 23:36:08
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Stelios160 ( $0.60 )
+Seat 6: HPG98 ( $1 )
+HPG98 posts small blind [$0.01]
+Stelios160 posts big blind [$0.02]
+** Dealing down cards **
+HPG98 calls [$0.01]
+Stelios160 checks
+** Dealing flop ** [ Js, Kd, 5s ]
+Stelios160 bets [$0.02]
+HPG98 calls [$0.02]
+** Dealing turn ** [ Qs ]
+Stelios160 bets [$0.02]
+HPG98 calls [$0.02]
+** Dealing river ** [ Kc ]
+Stelios160 bets [$0.02]
+HPG98 raises [$0.10]
+Stelios160 calls [$0.08]
+** Summary **
+HPG98 shows [ Ks, 6c ]
+Stelios160 mucks [ 3d, Jh ]
+HPG98 collected [ $0.30 ]
+
+
+#Game No : 503168714
+***** 888poker Hand History for Game 503168714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 23:36:32
+Table Bucharest 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Stelios160 ( $0.44 )
+Seat 6: HPG98 ( $1.14 )
+Stelios160 posts small blind [$0.01]
+HPG98 posts big blind [$0.02]
+** Dealing down cards **
+Stelios160 folds
+** Summary **
+HPG98 collected [ $0.03 ]
+
+
+#Game No : 503168727
+***** 888poker Hand History for Game 503168727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 23:37:37
+Table Bucharest 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: HPG98 ( $1.15 )
+Seat 7: JS888FU ( $0.80 )
+JS888FU posts small blind [$0.01]
+HPG98 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+HPG98 calls [$0.02]
+** Dealing flop ** [ 8s, Jh, 9d ]
+HPG98 checks
+JS888FU checks
+** Dealing turn ** [ Ah ]
+HPG98 checks
+JS888FU bets [$0.08]
+HPG98 folds
+** Summary **
+JS888FU collected [ $0.08 ]
+
+
+#Game No : 503168734
+***** 888poker Hand History for Game 503168734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 23:37:57
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: HPG98 ( $1.11 )
+Seat 7: JS888FU ( $0.84 )
+HPG98 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+HPG98 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ Tc, Jh, Td ]
+JS888FU checks
+HPG98 bets [$0.02]
+JS888FU folds
+** Summary **
+HPG98 collected [ $0.04 ]
+
+
+#Game No : 503168737
+***** 888poker Hand History for Game 503168737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 23:38:10
+Table Bucharest 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: HPG98 ( $1.13 )
+Seat 7: JS888FU ( $0.82 )
+JS888FU posts small blind [$0.01]
+HPG98 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+HPG98 checks
+** Dealing flop ** [ 5s, Kh, Th ]
+HPG98 bets [$0.02]
+JS888FU calls [$0.02]
+** Dealing turn ** [ Qh ]
+HPG98 bets [$0.02]
+JS888FU calls [$0.02]
+** Dealing river ** [ Kc ]
+HPG98 bets [$0.02]
+JS888FU calls [$0.02]
+** Summary **
+HPG98 shows [ Ts, 2h ]
+JS888FU shows [ Tc, 7d ]
+HPG98 collected [ $0.08 ]
+JS888FU collected [ $0.07 ]
+
+
+#Game No : 503168740
+***** 888poker Hand History for Game 503168740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 23:38:29
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: HPG98 ( $1.13 )
+Seat 7: JS888FU ( $0.81 )
+HPG98 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+HPG98 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ Th, 3s, Td ]
+JS888FU checks
+HPG98 bets [$0.02]
+JS888FU folds
+** Summary **
+HPG98 collected [ $0.04 ]
+
+
+#Game No : 503168744
+***** 888poker Hand History for Game 503168744 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 23:38:41
+Table Bucharest 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: HPG98 ( $1.15 )
+Seat 7: JS888FU ( $0.79 )
+JS888FU posts small blind [$0.01]
+HPG98 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU folds
+** Summary **
+HPG98 collected [ $0.03 ]
+
+
+#Game No : 503168745
+***** 888poker Hand History for Game 503168745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 23:38:45
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: HPG98 ( $1.16 )
+Seat 7: JS888FU ( $0.78 )
+HPG98 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+HPG98 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ Qc, Qs, 3c ]
+JS888FU checks
+HPG98 bets [$0.02]
+JS888FU folds
+** Summary **
+HPG98 collected [ $0.04 ]
+
+
+#Game No : 503168748
+***** 888poker Hand History for Game 503168748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 23:38:57
+Table Bucharest 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: HPG98 ( $1.18 )
+Seat 7: JS888FU ( $0.76 )
+JS888FU posts small blind [$0.01]
+HPG98 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU folds
+** Summary **
+HPG98 collected [ $0.03 ]
+
+
+#Game No : 503174670
+***** 888poker Hand History for Game 503174670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 03:25:39
+Table Bucharest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: WERTYAN ( $1.01 )
+Seat 6: agma23 ( $1.89 )
+agma23 posts small blind [$0.01]
+WERTYAN posts big blind [$0.02]
+** Dealing down cards **
+agma23 folds
+** Summary **
+WERTYAN did not show his hand
+WERTYAN collected [ $0.03 ]
+
+
+#Game No : 503174676
+***** 888poker Hand History for Game 503174676 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 03:25:48
+Table Bucharest 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: WERTYAN ( $1.02 )
+Seat 6: agma23 ( $1.88 )
+WERTYAN posts small blind [$0.01]
+agma23 posts big blind [$0.02]
+** Dealing down cards **
+WERTYAN folds
+** Summary **
+agma23 did not show his hand
+agma23 collected [ $0.03 ]
+
+

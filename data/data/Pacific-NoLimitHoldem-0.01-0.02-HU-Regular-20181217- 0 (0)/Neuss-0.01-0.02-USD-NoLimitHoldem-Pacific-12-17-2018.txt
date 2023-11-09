@@ -1,0 +1,331 @@
+#Game No : 1232306625
+***** 888poker Hand History for Game 1232306625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 19:35:09
+Table Neuss 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: alexbatyrevo ( $2 )
+Seat 3: carpe251 ( $1 )
+alexbatyrevo posts small blind [$0.01]
+carpe251 posts big blind [$0.02]
+** Dealing down cards **
+alexbatyrevo calls [$0.01]
+carpe251 checks
+** Dealing flop ** [ 3c, 2s, Th ]
+carpe251 checks
+alexbatyrevo checks
+** Dealing turn ** [ Ks ]
+carpe251 checks
+alexbatyrevo checks
+** Dealing river ** [ 4s ]
+carpe251 checks
+alexbatyrevo checks
+** Summary **
+carpe251 shows [ 9s, 5d ]
+alexbatyrevo mucks [ 5c, 7c ]
+carpe251 collected [ $0.04 ]
+
+
+#Game No : 1232306652
+***** 888poker Hand History for Game 1232306652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 19:35:30
+Table Neuss 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: alexbatyrevo ( $1.98 )
+Seat 3: carpe251 ( $1.02 )
+carpe251 posts small blind [$0.01]
+alexbatyrevo posts big blind [$0.02]
+** Dealing down cards **
+carpe251 calls [$0.01]
+alexbatyrevo raises [$0.04]
+carpe251 calls [$0.04]
+** Dealing flop ** [ 6s, 9c, Jd ]
+alexbatyrevo checks
+carpe251 checks
+** Dealing turn ** [ 4h ]
+alexbatyrevo checks
+carpe251 checks
+** Dealing river ** [ 3s ]
+alexbatyrevo checks
+carpe251 checks
+** Summary **
+alexbatyrevo shows [ Ks, Ah ]
+carpe251 shows [ 3h, 8c ]
+carpe251 collected [ $0.12 ]
+
+
+#Game No : 1232312320
+***** 888poker Hand History for Game 1232312320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 20:40:26
+Table Neuss 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Putsky_420 ( $1.62 )
+Seat 3: stugatts003 ( $4.62 )
+Putsky_420 posts small blind [$0.01]
+stugatts003 posts big blind [$0.02]
+** Dealing down cards **
+Putsky_420 raises [$0.05]
+stugatts003 raises [$0.08]
+Putsky_420 calls [$0.04]
+** Dealing flop ** [ 8d, Jd, Kd ]
+stugatts003 bets [$0.02]
+Putsky_420 raises [$0.18]
+stugatts003 calls [$0.16]
+** Dealing turn ** [ 4s ]
+stugatts003 checks
+Putsky_420 bets [$0.37]
+stugatts003 calls [$0.37]
+** Dealing river ** [ 5c ]
+stugatts003 checks
+Putsky_420 bets [$0.72]
+stugatts003 calls [$0.72]
+** Summary **
+Putsky_420 shows [ 6d, 4d ]
+stugatts003 mucks [ Kc, Qs ]
+Putsky_420 collected [ $2.57 ]
+
+
+#Game No : 1232312384
+***** 888poker Hand History for Game 1232312384 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 20:41:03
+Table Neuss 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: Putsky_420 ( $2.82 )
+Seat 3: stugatts003 ( $3.25 )
+stugatts003 posts small blind [$0.01]
+Putsky_420 posts big blind [$0.02]
+** Dealing down cards **
+stugatts003 raises [$3.24]
+Putsky_420 folds
+** Summary **
+stugatts003 collected [ $3.27 ]
+
+
+#Game No : 1232313475
+***** 888poker Hand History for Game 1232313475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 20:52:51
+Table Neuss 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: stugatts003 ( $6.17 )
+Seat 6: Puhalskiy91 ( $2 )
+stugatts003 posts small blind [$0.01]
+Puhalskiy91 posts big blind [$0.02]
+** Dealing down cards **
+stugatts003 calls [$0.01]
+Puhalskiy91 checks
+** Dealing flop ** [ 9c, Qd, 6d ]
+Puhalskiy91 checks
+stugatts003 bets [$0.02]
+Puhalskiy91 calls [$0.02]
+** Dealing turn ** [ 7c ]
+Puhalskiy91 checks
+stugatts003 bets [$0.02]
+Puhalskiy91 calls [$0.02]
+** Dealing river ** [ Qc ]
+Puhalskiy91 checks
+stugatts003 bets [$0.02]
+Puhalskiy91 raises [$0.10]
+stugatts003 folds
+** Summary **
+Puhalskiy91 collected [ $0.15 ]
+
+
+#Game No : 1232313523
+***** 888poker Hand History for Game 1232313523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 20:53:15
+Table Neuss 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: stugatts003 ( $6.09 )
+Seat 6: Puhalskiy91 ( $2.07 )
+Puhalskiy91 posts small blind [$0.01]
+stugatts003 posts big blind [$0.02]
+** Dealing down cards **
+Puhalskiy91 raises [$0.05]
+stugatts003 raises [$0.08]
+Puhalskiy91 calls [$0.04]
+** Dealing flop ** [ 9h, 3s, Qh ]
+stugatts003 bets [$0.20]
+Puhalskiy91 raises [$1.97]
+stugatts003 folds
+** Summary **
+Puhalskiy91 collected [ $0.57 ]
+
+
+#Game No : 1232313553
+***** 888poker Hand History for Game 1232313553 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 20:53:40
+Table Neuss 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: stugatts003 ( $5.79 )
+Seat 6: Puhalskiy91 ( $2.34 )
+stugatts003 posts small blind [$0.01]
+Puhalskiy91 posts big blind [$0.02]
+** Dealing down cards **
+stugatts003 raises [$0.05]
+Puhalskiy91 raises [$0.16]
+stugatts003 calls [$0.12]
+** Dealing flop ** [ Jd, 2c, 8c ]
+Puhalskiy91 bets [$0.18]
+stugatts003 raises [$0.90]
+Puhalskiy91 calls [$0.72]
+** Dealing turn ** [ Ad ]
+Puhalskiy91 bets [$1.26]
+stugatts003 calls [$1.26]
+** Dealing river ** [ 4h ]
+** Summary **
+stugatts003 shows [ 6d, Js ]
+Puhalskiy91 shows [ As, Qd ]
+Puhalskiy91 collected [ $4.39 ]
+
+
+#Game No : 1232363264
+***** 888poker Hand History for Game 1232363264 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 03:34:27
+Table Neuss 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: dasmos1976 ( $1.97 )
+Seat 10: forfun76 ( $2.14 )
+forfun76 posts small blind [$0.01]
+dasmos1976 posts big blind [$0.02]
+** Dealing down cards **
+forfun76 raises [$0.05]
+dasmos1976 folds
+** Summary **
+forfun76 collected [ $0.04 ]
+
+
+#Game No : 1232363426
+***** 888poker Hand History for Game 1232363426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 03:35:28
+Table Neuss 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: 1019514 ( $1.43 )
+Seat 5: dasmos1976 ( $2.32 )
+1019514 posts small blind [$0.01]
+dasmos1976 posts big blind [$0.02]
+** Dealing down cards **
+1019514 calls [$0.01]
+dasmos1976 checks
+** Dealing flop ** [ Qd, 7d, 4c ]
+dasmos1976 bets [$0.02]
+1019514 calls [$0.02]
+** Dealing turn ** [ 6c ]
+dasmos1976 bets [$0.02]
+1019514 calls [$0.02]
+** Dealing river ** [ 8s ]
+dasmos1976 checks
+1019514 checks
+** Summary **
+dasmos1976 shows [ 7s, 9h ]
+1019514 mucks [ Ad, 9d ]
+dasmos1976 collected [ $0.12 ]
+
+
+#Game No : 1232398870
+***** 888poker Hand History for Game 1232398870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 06:41:40
+Table Neuss 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Durin034 ( $2.81 )
+Seat 10: totalamater ( $1.08 )
+Durin034 posts small blind [$0.01]
+totalamater posts big blind [$0.02]
+** Dealing down cards **
+Durin034 raises [$0.05]
+totalamater calls [$0.04]
+** Dealing flop ** [ Js, 6d, 4c ]
+totalamater checks
+Durin034 bets [$0.08]
+totalamater folds
+** Summary **
+Durin034 did not show his hand
+Durin034 collected [ $0.12 ]
+
+
+#Game No : 1232398983
+***** 888poker Hand History for Game 1232398983 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 06:42:09
+Table Neuss 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: Durin034 ( $2.87 )
+Seat 10: totalamater ( $1.02 )
+totalamater posts small blind [$0.01]
+Durin034 posts big blind [$0.02]
+** Dealing down cards **
+totalamater raises [$0.03]
+Durin034 raises [$0.10]
+totalamater calls [$0.08]
+** Dealing flop ** [ Ah, Ad, 7d ]
+Durin034 bets [$0.12]
+totalamater calls [$0.12]
+** Dealing turn ** [ Kd ]
+Durin034 checks
+totalamater bets [$0.26]
+Durin034 calls [$0.26]
+** Dealing river ** [ 5d ]
+Durin034 checks
+totalamater checks
+** Summary **
+Durin034 shows [ Ts, As ]
+totalamater mucks [ Ac, 6h ]
+Durin034 collected [ $0.94 ]
+
+
+#Game No : 1232399243
+***** 888poker Hand History for Game 1232399243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 06:43:19
+Table Neuss 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Durin034 ( $3.31 )
+Seat 10: totalamater ( $0.52 )
+Durin034 posts small blind [$0.01]
+totalamater posts big blind [$0.02]
+** Dealing down cards **
+Durin034 raises [$0.05]
+totalamater calls [$0.04]
+** Dealing flop ** [ 5s, 9d, 3s ]
+totalamater checks
+Durin034 bets [$0.08]
+totalamater calls [$0.08]
+** Dealing turn ** [ Qs ]
+totalamater checks
+Durin034 checks
+** Dealing river ** [ Kd ]
+totalamater bets [$0.38]
+Durin034 folds
+** Summary **
+totalamater collected [ $0.27 ]
+
+
+#Game No : 1232399420
+***** 888poker Hand History for Game 1232399420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 06:44:09
+Table Neuss 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: Durin034 ( $3.17 )
+Seat 10: totalamater ( $0.65 )
+totalamater posts small blind [$0.01]
+Durin034 posts big blind [$0.02]
+** Dealing down cards **
+totalamater raises [$0.03]
+Durin034 calls [$0.02]
+** Dealing flop ** [ Qd, 7h, Td ]
+Durin034 checks
+totalamater bets [$0.04]
+Durin034 folds
+** Summary **
+totalamater collected [ $0.08 ]
+
+

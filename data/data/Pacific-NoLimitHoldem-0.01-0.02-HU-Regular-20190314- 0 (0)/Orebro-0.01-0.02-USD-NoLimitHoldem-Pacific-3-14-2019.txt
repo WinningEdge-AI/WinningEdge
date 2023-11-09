@@ -1,0 +1,145 @@
+#Game No : 515022578
+***** 888poker Hand History for Game 515022578 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 11:19:00
+Table Orebro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SSAJVR ( $2 )
+Seat 5: stepikbakin ( $2 )
+SSAJVR posts small blind [$0.01]
+stepikbakin posts big blind [$0.02]
+** Dealing down cards **
+SSAJVR raises [$0.03]
+stepikbakin calls [$0.02]
+** Dealing flop ** [ 2d, 8h, 4s ]
+stepikbakin checks
+SSAJVR bets [$0.08]
+stepikbakin folds
+** Summary **
+SSAJVR collected [ $0.08 ]
+
+
+#Game No : 515022600
+***** 888poker Hand History for Game 515022600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 11:19:28
+Table Orebro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: SSAJVR ( $2.04 )
+Seat 5: stepikbakin ( $1.96 )
+stepikbakin posts small blind [$0.01]
+SSAJVR posts big blind [$0.02]
+** Dealing down cards **
+stepikbakin raises [$0.03]
+SSAJVR calls [$0.02]
+** Dealing flop ** [ 6s, 5s, 9d ]
+SSAJVR checks
+stepikbakin bets [$0.05]
+SSAJVR calls [$0.05]
+** Dealing turn ** [ Kh ]
+SSAJVR checks
+stepikbakin bets [$0.18]
+SSAJVR calls [$0.18]
+** Dealing river ** [ 4s ]
+SSAJVR checks
+stepikbakin checks
+** Summary **
+SSAJVR shows [ As, 6d ]
+stepikbakin mucks [ 6c, 8s ]
+SSAJVR collected [ $0.51 ]
+
+
+#Game No : 515022641
+***** 888poker Hand History for Game 515022641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 11:20:14
+Table Orebro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 5: stepikbakin ( $1.69 )
+Seat 6: blonndu24 ( $2 )
+stepikbakin posts small blind [$0.01]
+blonndu24 posts big blind [$0.02]
+** Dealing down cards **
+stepikbakin raises [$0.03]
+blonndu24 folds
+** Summary **
+stepikbakin collected [ $0.04 ]
+
+
+#Game No : 515022706
+***** 888poker Hand History for Game 515022706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 11:21:27
+Table Orebro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Verakot ( $0.80 )
+Seat 5: stepikbakin ( $1.71 )
+Verakot posts small blind [$0.01]
+stepikbakin posts big blind [$0.02]
+** Dealing down cards **
+Verakot calls [$0.01]
+stepikbakin raises [$0.04]
+Verakot calls [$0.04]
+** Dealing flop ** [ Qs, 7s, 2h ]
+stepikbakin bets [$0.12]
+Verakot calls [$0.12]
+** Dealing turn ** [ 2c ]
+stepikbakin bets [$0.18]
+Verakot calls [$0.18]
+** Dealing river ** [ 8h ]
+stepikbakin checks
+Verakot checks
+** Summary **
+stepikbakin shows [ As, 5h ]
+Verakot shows [ 7h, 5d ]
+Verakot collected [ $0.68 ]
+
+
+#Game No : 515022730
+***** 888poker Hand History for Game 515022730 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 11:21:58
+Table Orebro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Verakot ( $1.12 )
+Seat 5: stepikbakin ( $1.35 )
+stepikbakin posts small blind [$0.01]
+Verakot posts big blind [$0.02]
+** Dealing down cards **
+stepikbakin raises [$0.05]
+Verakot calls [$0.04]
+** Dealing flop ** [ 3h, Kd, 2d ]
+Verakot checks
+stepikbakin bets [$0.12]
+Verakot calls [$0.12]
+** Dealing turn ** [ 3s ]
+Verakot checks
+stepikbakin bets [$0.18]
+Verakot calls [$0.18]
+** Dealing river ** [ 8d ]
+Verakot checks
+stepikbakin checks
+** Summary **
+Verakot shows [ Qd, 6d ]
+stepikbakin mucks [ 7s, 7h ]
+Verakot collected [ $0.68 ]
+
+
+#Game No : 515022844
+***** 888poker Hand History for Game 515022844 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 11:24:24
+Table Orebro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: stepikbakin ( $2.30 )
+Seat 7: Sooo_rigged ( $2 )
+stepikbakin posts small blind [$0.01]
+Sooo_rigged posts big blind [$0.02]
+** Dealing down cards **
+stepikbakin raises [$0.03]
+Sooo_rigged raises [$0.10]
+stepikbakin folds
+** Summary **
+Sooo_rigged collected [ $0.08 ]
+
+

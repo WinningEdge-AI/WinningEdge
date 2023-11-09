@@ -1,0 +1,74 @@
+#Game No : 520626060
+***** 888poker Hand History for Game 520626060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2019 22:07:19
+Table Syktyvkar 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 6: ATurrini ( $1.22 )
+Seat 10: waimanc ( $2 )
+ATurrini posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+ATurrini calls [$0.01]
+waimanc raises [$0.06]
+ATurrini calls [$0.06]
+** Dealing flop ** [ 2h, 5h, Tc ]
+ATurrini checks
+waimanc checks
+** Dealing turn ** [ 3d ]
+ATurrini checks
+waimanc checks
+** Dealing river ** [ Qd ]
+ATurrini checks
+waimanc checks
+** Summary **
+ATurrini shows [ Jd, 6d ]
+waimanc shows [ Kc, 9h ]
+waimanc collected [ $0.15 ]
+
+
+#Game No : 520626070
+***** 888poker Hand History for Game 520626070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2019 22:07:54
+Table Syktyvkar 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ATurrini ( $1.14 )
+Seat 10: waimanc ( $2.07 )
+ATurrini posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+ATurrini raises [$0.05]
+waimanc calls [$0.04]
+** Dealing flop ** [ 4c, Kh, 3h ]
+waimanc checks
+ATurrini checks
+** Dealing turn ** [ 6d ]
+waimanc checks
+ATurrini checks
+** Dealing river ** [ 8d ]
+waimanc checks
+ATurrini checks
+** Summary **
+waimanc shows [ Qc, Tc ]
+ATurrini shows [ Ad, 9c ]
+ATurrini collected [ $0.12 ]
+
+
+#Game No : 520626089
+***** 888poker Hand History for Game 520626089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2019 22:08:35
+Table Syktyvkar 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: ATurrini ( $1.20 )
+Seat 10: waimanc ( $2.01 )
+waimanc posts small blind [$0.01]
+ATurrini posts big blind [$0.02]
+** Dealing down cards **
+waimanc folds
+** Summary **
+ATurrini did not show his hand
+ATurrini collected [ $0.03 ]
+
+

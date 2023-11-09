@@ -1,0 +1,103 @@
+#Game No : 620037516
+***** 888poker Hand History for Game 620037516 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 13:20:07
+Table Marburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Villarroel96 ( $3.61 )
+Seat 7: LissDeniss ( $1.08 )
+Villarroel96 posts small blind [$0.01]
+LissDeniss posts big blind [$0.02]
+** Dealing down cards **
+Villarroel96 raises [$0.03]
+LissDeniss calls [$0.02]
+** Dealing flop ** [ 8s, 7s, Td ]
+LissDeniss bets [$0.08]
+Villarroel96 calls [$0.08]
+** Dealing turn ** [ 2s ]
+LissDeniss bets [$0.96]
+Villarroel96 folds
+** Summary **
+LissDeniss collected [ $0.23 ]
+
+
+#Game No : 620037552
+***** 888poker Hand History for Game 620037552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 13:20:48
+Table Marburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Villarroel96 ( $3.49 )
+Seat 7: LissDeniss ( $1.19 )
+LissDeniss posts small blind [$0.01]
+Villarroel96 posts big blind [$0.02]
+** Dealing down cards **
+LissDeniss calls [$0.01]
+Villarroel96 checks
+** Dealing flop ** [ Td, 6c, 2s ]
+Villarroel96 checks
+LissDeniss checks
+** Dealing turn ** [ Tc ]
+Villarroel96 checks
+LissDeniss bets [$0.04]
+Villarroel96 folds
+** Summary **
+LissDeniss collected [ $0.04 ]
+
+
+#Game No : 620037580
+***** 888poker Hand History for Game 620037580 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 13:21:21
+Table Marburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Villarroel96 ( $3.47 )
+Seat 7: LissDeniss ( $1.21 )
+Villarroel96 posts small blind [$0.01]
+LissDeniss posts big blind [$0.02]
+** Dealing down cards **
+Villarroel96 calls [$0.01]
+LissDeniss checks
+** Dealing flop ** [ Qc, Ks, 3h ]
+LissDeniss checks
+Villarroel96 checks
+** Dealing turn ** [ 9h ]
+LissDeniss checks
+Villarroel96 checks
+** Dealing river ** [ 8s ]
+LissDeniss checks
+Villarroel96 checks
+** Summary **
+LissDeniss shows [ 4h, 3d ]
+Villarroel96 mucks [ 4d, 6s ]
+LissDeniss collected [ $0.04 ]
+
+
+#Game No : 620037612
+***** 888poker Hand History for Game 620037612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 13:21:58
+Table Marburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Villarroel96 ( $3.45 )
+Seat 7: LissDeniss ( $1.23 )
+LissDeniss posts small blind [$0.01]
+Villarroel96 posts big blind [$0.02]
+** Dealing down cards **
+LissDeniss calls [$0.01]
+Villarroel96 checks
+** Dealing flop ** [ 5s, Ts, Tc ]
+Villarroel96 checks
+LissDeniss checks
+** Dealing turn ** [ 4h ]
+Villarroel96 checks
+LissDeniss checks
+** Dealing river ** [ 8s ]
+Villarroel96 checks
+LissDeniss checks
+** Summary **
+Villarroel96 shows [ 9d, Td ]
+LissDeniss mucks [ Js, Qc ]
+Villarroel96 collected [ $0.04 ]
+
+

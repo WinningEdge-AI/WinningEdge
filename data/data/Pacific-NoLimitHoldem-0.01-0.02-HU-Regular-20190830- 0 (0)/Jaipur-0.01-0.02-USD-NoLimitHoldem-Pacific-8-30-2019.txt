@@ -1,0 +1,137 @@
+#Game No : 538599459
+***** 888poker Hand History for Game 538599459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:20:18
+Table Jaipur 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.80 )
+Seat 6: nbusam ( $0.80 )
+99TERRANCE99 posts small blind [$0.01]
+nbusam posts big blind [$0.02]
+** Dealing down cards **
+99TERRANCE99 calls [$0.01]
+nbusam checks
+** Dealing flop ** [ 8c, Ac, 9s ]
+nbusam checks
+99TERRANCE99 checks
+** Dealing turn ** [ 5c ]
+nbusam checks
+99TERRANCE99 bets [$0.02]
+nbusam calls [$0.02]
+** Dealing river ** [ Jh ]
+nbusam checks
+99TERRANCE99 checks
+** Summary **
+nbusam shows [ 6c, Td ]
+99TERRANCE99 shows [ 5s, 4c ]
+99TERRANCE99 collected [ $0.08 ]
+
+
+#Game No : 538599481
+***** 888poker Hand History for Game 538599481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:20:21
+Table Jaipur 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.84 )
+Seat 6: nbusam ( $0.76 )
+nbusam posts small blind [$0.01]
+99TERRANCE99 posts big blind [$0.02]
+** Dealing down cards **
+nbusam raises [$0.07]
+99TERRANCE99 calls [$0.06]
+** Dealing flop ** [ Qh, 9c, 5c ]
+99TERRANCE99 checks
+nbusam bets [$0.08]
+99TERRANCE99 folds
+** Summary **
+nbusam did not show his hand
+nbusam collected [ $0.15 ]
+
+
+#Game No : 538599494
+***** 888poker Hand History for Game 538599494 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:20:43
+Table Jaipur 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.76 )
+Seat 6: nbusam ( $0.83 )
+99TERRANCE99 posts small blind [$0.01]
+nbusam posts big blind [$0.02]
+** Dealing down cards **
+99TERRANCE99 calls [$0.01]
+nbusam checks
+** Dealing flop ** [ Jh, Ah, Tc ]
+nbusam checks
+99TERRANCE99 bets [$0.02]
+nbusam calls [$0.02]
+** Dealing turn ** [ Ad ]
+nbusam checks
+99TERRANCE99 bets [$0.02]
+nbusam calls [$0.02]
+** Dealing river ** [ 6h ]
+nbusam checks
+99TERRANCE99 checks
+** Summary **
+nbusam shows [ Qd, 4d ]
+99TERRANCE99 shows [ Qc, Jd ]
+99TERRANCE99 collected [ $0.12 ]
+
+
+#Game No : 538599510
+***** 888poker Hand History for Game 538599510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:21:19
+Table Jaipur 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.82 )
+Seat 6: nbusam ( $0.77 )
+nbusam posts small blind [$0.01]
+99TERRANCE99 posts big blind [$0.02]
+** Dealing down cards **
+nbusam calls [$0.01]
+99TERRANCE99 checks
+** Dealing flop ** [ 8c, As, 8s ]
+99TERRANCE99 checks
+nbusam checks
+** Dealing turn ** [ Ks ]
+99TERRANCE99 checks
+nbusam checks
+** Dealing river ** [ 6d ]
+99TERRANCE99 bets [$0.02]
+nbusam calls [$0.02]
+** Summary **
+99TERRANCE99 shows [ Ts, 6s ]
+nbusam mucks [ 4h, Qc ]
+99TERRANCE99 collected [ $0.08 ]
+
+
+#Game No : 538599528
+***** 888poker Hand History for Game 538599528 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2019 23:21:55
+Table Jaipur 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.86 )
+Seat 6: nbusam ( $0.73 )
+99TERRANCE99 posts small blind [$0.01]
+nbusam posts big blind [$0.02]
+** Dealing down cards **
+99TERRANCE99 calls [$0.01]
+nbusam checks
+** Dealing flop ** [ 2d, 7c, Tc ]
+nbusam bets [$0.04]
+99TERRANCE99 calls [$0.04]
+** Dealing turn ** [ 6h ]
+nbusam checks
+99TERRANCE99 bets [$0.02]
+nbusam calls [$0.02]
+** Dealing river ** [ 3s ]
+nbusam checks
+99TERRANCE99 bets [$0.02]
+nbusam folds
+** Summary **
+99TERRANCE99 collected [ $0.15 ]
+
+

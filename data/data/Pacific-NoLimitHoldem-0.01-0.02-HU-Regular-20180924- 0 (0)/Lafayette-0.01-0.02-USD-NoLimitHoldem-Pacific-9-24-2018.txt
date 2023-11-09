@@ -1,0 +1,28 @@
+#Game No : 608597229
+***** 888poker Hand History for Game 608597229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 09 2018 11:55:24
+Table Lafayette 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: FisherPal14 ( $2.06 )
+Seat 5: kmlm73 ( $1.94 )
+FisherPal14 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+FisherPal14 raises [$0.03]
+kmlm73 calls [$0.02]
+** Dealing flop ** [ 7h, Th, 3d ]
+kmlm73 checks
+FisherPal14 checks
+** Dealing turn ** [ 8h ]
+kmlm73 bets [$0.06]
+FisherPal14 calls [$0.06]
+** Dealing river ** [ 8d ]
+kmlm73 bets [$0.06]
+FisherPal14 calls [$0.06]
+** Summary **
+kmlm73 shows [ 7d, Ah ]
+FisherPal14 shows [ Qd, Qs ]
+FisherPal14 collected [ $0.30 ]
+
+

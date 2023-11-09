@@ -1,0 +1,28 @@
+#Game No : 504169180
+***** 888poker Hand History for Game 504169180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 15:39:58
+Table Jena 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: tomtilt ( $2 )
+Seat 7: LikaOnWar ( $2.13 )
+LikaOnWar posts small blind [$0.01]
+tomtilt posts big blind [$0.02]
+** Dealing down cards **
+LikaOnWar calls [$0.01]
+tomtilt checks
+** Dealing flop ** [ Ts, 2d, Qc ]
+tomtilt checks
+LikaOnWar checks
+** Dealing turn ** [ 9s ]
+tomtilt checks
+LikaOnWar checks
+** Dealing river ** [ Kd ]
+tomtilt checks
+LikaOnWar checks
+** Summary **
+tomtilt shows [ 3c, 2h ]
+LikaOnWar shows [ 6d, 9c ]
+LikaOnWar collected [ $0.04 ]
+
+

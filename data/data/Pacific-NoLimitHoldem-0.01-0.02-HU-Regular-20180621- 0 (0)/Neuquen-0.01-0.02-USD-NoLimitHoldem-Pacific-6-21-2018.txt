@@ -1,0 +1,94 @@
+#Game No : 503686822
+***** 888poker Hand History for Game 503686822 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2018 04:48:41
+Table Neuquen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: begral ( $1.31 )
+Seat 5: teiwaztyr ( $2 )
+teiwaztyr posts small blind [$0.01]
+begral posts big blind [$0.02]
+** Dealing down cards **
+teiwaztyr calls [$0.01]
+begral checks
+** Dealing flop ** [ 7c, 5h, 7s ]
+begral bets [$0.02]
+teiwaztyr folds
+** Summary **
+begral collected [ $0.04 ]
+
+
+#Game No : 503686836
+***** 888poker Hand History for Game 503686836 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2018 04:49:08
+Table Neuquen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: begral ( $1.33 )
+Seat 5: teiwaztyr ( $1.98 )
+begral posts small blind [$0.01]
+teiwaztyr posts big blind [$0.02]
+** Dealing down cards **
+begral folds
+** Summary **
+teiwaztyr collected [ $0.03 ]
+
+
+#Game No : 503687945
+***** 888poker Hand History for Game 503687945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2018 05:27:52
+Table Neuquen 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Chuh_Chuh ( $2.04 )
+Seat 10: Kleinsaf ( $0.90 )
+Chuh_Chuh posts small blind [$0.01]
+Kleinsaf posts big blind [$0.02]
+** Dealing down cards **
+Chuh_Chuh raises [$0.03]
+Kleinsaf calls [$0.02]
+** Dealing flop ** [ 8h, 4c, 8c ]
+Kleinsaf checks
+Chuh_Chuh checks
+** Dealing turn ** [ Kc ]
+Kleinsaf checks
+Chuh_Chuh checks
+** Dealing river ** [ 6c ]
+Kleinsaf checks
+Chuh_Chuh checks
+** Summary **
+Kleinsaf shows [ 2s, Ad ]
+Chuh_Chuh mucks [ Jd, Qs ]
+Kleinsaf collected [ $0.08 ]
+
+
+#Game No : 503687956
+***** 888poker Hand History for Game 503687956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2018 05:28:14
+Table Neuquen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: Chuh_Chuh ( $2 )
+Seat 10: Kleinsaf ( $0.94 )
+Kleinsaf posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+Kleinsaf calls [$0.01]
+Chuh_Chuh raises [$0.04]
+Kleinsaf calls [$0.04]
+** Dealing flop ** [ Jd, Th, Kh ]
+Chuh_Chuh checks
+Kleinsaf checks
+** Dealing turn ** [ 6d ]
+Chuh_Chuh bets [$0.04]
+Kleinsaf calls [$0.04]
+** Dealing river ** [ 7s ]
+Chuh_Chuh bets [$0.04]
+Kleinsaf raises [$0.20]
+Chuh_Chuh calls [$0.16]
+** Summary **
+Kleinsaf shows [ 8c, 9h ]
+Chuh_Chuh mucks [ As, Jh ]
+Kleinsaf collected [ $0.57 ]
+
+

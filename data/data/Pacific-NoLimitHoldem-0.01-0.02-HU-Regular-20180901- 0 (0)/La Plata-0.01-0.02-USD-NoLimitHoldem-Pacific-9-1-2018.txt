@@ -1,0 +1,144 @@
+#Game No : 454993125
+***** 888poker Hand History for Game 454993125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 03:38:48
+Table La Plata 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: rus1ine ( $2 )
+Seat 7: TheBubby ( $1.60 )
+rus1ine posts small blind [$0.01]
+TheBubby posts big blind [$0.02]
+** Dealing down cards **
+rus1ine raises [$0.03]
+TheBubby calls [$0.02]
+** Dealing flop ** [ 7d, Qh, 6d ]
+TheBubby checks
+rus1ine bets [$0.02]
+TheBubby folds
+** Summary **
+rus1ine did not show his hand
+rus1ine collected [ $0.08 ]
+
+
+#Game No : 454993132
+***** 888poker Hand History for Game 454993132 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 03:39:12
+Table La Plata 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: rus1ine ( $2.04 )
+Seat 7: TheBubby ( $1.56 )
+TheBubby posts small blind [$0.01]
+rus1ine posts big blind [$0.02]
+** Dealing down cards **
+TheBubby calls [$0.01]
+rus1ine checks
+** Dealing flop ** [ 7s, Qc, Jh ]
+rus1ine bets [$0.02]
+TheBubby folds
+** Summary **
+rus1ine collected [ $0.04 ]
+
+
+#Game No : 455011594
+***** 888poker Hand History for Game 455011594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 13:20:49
+Table La Plata 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rubinale ( $1.03 )
+Seat 7: lamvk ( $2.62 )
+lamvk posts small blind [$0.01]
+rubinale posts big blind [$0.02]
+** Dealing down cards **
+lamvk raises [$0.05]
+rubinale folds
+** Summary **
+lamvk did not show his hand
+lamvk collected [ $0.04 ]
+
+
+#Game No : 455011605
+***** 888poker Hand History for Game 455011605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 13:20:58
+Table La Plata 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rubinale ( $1.01 )
+Seat 7: lamvk ( $2.64 )
+rubinale posts small blind [$0.01]
+lamvk posts big blind [$0.02]
+** Dealing down cards **
+rubinale calls [$0.01]
+lamvk checks
+** Dealing flop ** [ 4d, Qs, 7d ]
+lamvk checks
+rubinale bets [$0.02]
+lamvk folds
+** Summary **
+rubinale did not show his hand
+rubinale collected [ $0.04 ]
+
+
+#Game No : 455011617
+***** 888poker Hand History for Game 455011617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 13:21:15
+Table La Plata 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rubinale ( $1.03 )
+Seat 7: lamvk ( $2.62 )
+lamvk posts small blind [$0.01]
+rubinale posts big blind [$0.02]
+** Dealing down cards **
+lamvk raises [$0.07]
+rubinale folds
+** Summary **
+lamvk did not show his hand
+lamvk collected [ $0.04 ]
+
+
+#Game No : 455011629
+***** 888poker Hand History for Game 455011629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 13:21:24
+Table La Plata 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rubinale ( $1.01 )
+Seat 7: lamvk ( $2.64 )
+rubinale posts small blind [$0.01]
+lamvk posts big blind [$0.02]
+** Dealing down cards **
+rubinale folds
+** Summary **
+lamvk did not show his hand
+lamvk collected [ $0.03 ]
+
+
+#Game No : 455011633
+***** 888poker Hand History for Game 455011633 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 13:21:29
+Table La Plata 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rubinale ( $1 )
+Seat 7: lamvk ( $2.65 )
+lamvk posts small blind [$0.01]
+rubinale posts big blind [$0.02]
+** Dealing down cards **
+lamvk raises [$0.07]
+rubinale raises [$0.22]
+lamvk calls [$0.16]
+** Dealing flop ** [ Td, 8d, 8s ]
+rubinale bets [$0.32]
+lamvk calls [$0.32]
+** Dealing turn ** [ 2s ]
+rubinale bets [$0.44]
+lamvk calls [$0.44]
+** Dealing river ** [ 7h ]
+** Summary **
+rubinale shows [ 5d, Kd ]
+lamvk shows [ 9s, Qc ]
+rubinale collected [ $1.88 ]
+
+

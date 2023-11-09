@@ -1,0 +1,164 @@
+#Game No : 1310937422
+***** 888poker Hand History for Game 1310937422 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2019 22:38:00
+Table Pisa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dfscity ( $2 )
+Seat 7: aSOverfast ( $2 )
+dfscity posts small blind [$0.01]
+aSOverfast posts big blind [$0.02]
+** Dealing down cards **
+dfscity calls [$0.01]
+aSOverfast checks
+** Dealing flop ** [ Ac, Qd, 7h ]
+aSOverfast checks
+dfscity checks
+** Dealing turn ** [ 4c ]
+aSOverfast checks
+dfscity checks
+** Dealing river ** [ 5h ]
+aSOverfast checks
+dfscity checks
+** Summary **
+aSOverfast shows [ 4d, 9h ]
+dfscity mucks [ Th, 9c ]
+aSOverfast collected [ $0.04 ]
+
+
+#Game No : 1310937472
+***** 888poker Hand History for Game 1310937472 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2019 22:38:20
+Table Pisa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: dfscity ( $1.98 )
+Seat 7: aSOverfast ( $2.02 )
+aSOverfast posts small blind [$0.01]
+dfscity posts big blind [$0.02]
+** Dealing down cards **
+aSOverfast raises [$0.05]
+dfscity raises [$0.08]
+aSOverfast folds
+** Summary **
+dfscity collected [ $0.12 ]
+
+
+#Game No : 1310937546
+***** 888poker Hand History for Game 1310937546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 11 2019 22:39:15
+Table Pisa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: dfscity ( $1.88 )
+Seat 7: aSOverfast ( $2.14 )
+aSOverfast posts small blind [$0.01]
+dfscity posts big blind [$0.02]
+** Dealing down cards **
+aSOverfast folds
+** Summary **
+dfscity collected [ $0.03 ]
+
+
+#Game No : 1310954399
+***** 888poker Hand History for Game 1310954399 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2019 01:43:51
+Table Pisa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: rustaman76 ( $2.06 )
+Seat 2: VictrFuentes ( $2.01 )
+rustaman76 posts small blind [$0.01]
+VictrFuentes posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+VictrFuentes calls [$0.02]
+** Dealing flop ** [ 2s, 9s, 8s ]
+VictrFuentes checks
+rustaman76 checks
+** Dealing turn ** [ Js ]
+VictrFuentes checks
+rustaman76 checks
+** Dealing river ** [ 6d ]
+VictrFuentes checks
+rustaman76 checks
+** Summary **
+VictrFuentes shows [ 9c, 7c ]
+rustaman76 shows [ 5d, Jd ]
+rustaman76 collected [ $0.08 ]
+
+
+#Game No : 1310954490
+***** 888poker Hand History for Game 1310954490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2019 01:44:45
+Table Pisa 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: rustaman76 ( $2.10 )
+Seat 2: VictrFuentes ( $1.97 )
+VictrFuentes posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+VictrFuentes calls [$0.01]
+rustaman76 checks
+** Dealing flop ** [ Kh, Jd, 3d ]
+rustaman76 checks
+VictrFuentes checks
+** Dealing turn ** [ 8c ]
+rustaman76 checks
+VictrFuentes checks
+** Dealing river ** [ As ]
+rustaman76 checks
+VictrFuentes checks
+** Summary **
+rustaman76 shows [ 7h, 6d ]
+VictrFuentes mucks [ 6c, 5h ]
+rustaman76 collected [ $0.04 ]
+
+
+#Game No : 1310975703
+***** 888poker Hand History for Game 1310975703 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2019 04:38:04
+Table Pisa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ryzzzanets ( $5.97 )
+Seat 9: Intelligent8 ( $2.41 )
+ryzzzanets posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+ryzzzanets folds
+** Summary **
+Intelligent8 collected [ $0.03 ]
+
+
+#Game No : 1310975732
+***** 888poker Hand History for Game 1310975732 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2019 04:38:12
+Table Pisa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: ryzzzanets ( $5.96 )
+Seat 9: Intelligent8 ( $2.42 )
+Intelligent8 posts small blind [$0.01]
+ryzzzanets posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 raises [$0.05]
+ryzzzanets raises [$0.16]
+Intelligent8 calls [$0.12]
+** Dealing flop ** [ 4h, 2d, 5c ]
+ryzzzanets bets [$0.18]
+Intelligent8 calls [$0.18]
+** Dealing turn ** [ 5d ]
+ryzzzanets bets [$0.38]
+Intelligent8 calls [$0.38]
+** Dealing river ** [ 2s ]
+ryzzzanets checks
+Intelligent8 bets [$0.80]
+ryzzzanets calls [$0.80]
+** Summary **
+Intelligent8 shows [ 6c, 7c ]
+ryzzzanets shows [ 8s, 8d ]
+ryzzzanets collected [ $2.89 ]
+
+

@@ -1,0 +1,96 @@
+#Game No : 614674532
+***** 888poker Hand History for Game 614674532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 03:22:32
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DezKD ( $1.03 )
+Seat 9: ivanX999 ( $1.11 )
+DezKD posts small blind [$0.01]
+** Dealing down cards **
+ivanX999 folds
+** Summary **
+DezKD collected [ $0.01 ]
+
+
+#Game No : 614674602
+***** 888poker Hand History for Game 614674602 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 03:24:16
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DezKD ( $1.03 )
+Seat 4: inthetube22 ( $1 )
+inthetube22 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+inthetube22 calls [$0.01]
+DezKD raises [$0.05]
+inthetube22 raises [$0.10]
+DezKD calls [$0.05]
+** Dealing flop ** [ Kh, 3h, 8h ]
+DezKD checks
+inthetube22 checks
+** Dealing turn ** [ Ad ]
+DezKD checks
+inthetube22 bets [$0.12]
+DezKD folds
+** Summary **
+inthetube22 collected [ $0.23 ]
+
+
+#Game No : 614674621
+***** 888poker Hand History for Game 614674621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 03:24:45
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DezKD ( $1 )
+Seat 4: inthetube22 ( $1.11 )
+DezKD posts small blind [$0.01]
+inthetube22 posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.05]
+inthetube22 raises [$0.08]
+DezKD calls [$0.04]
+** Dealing flop ** [ 3s, Qh, 7h ]
+inthetube22 bets [$0.10]
+DezKD calls [$0.10]
+** Dealing turn ** [ 8c ]
+inthetube22 bets [$0.74]
+DezKD raises [$0.80]
+inthetube22 calls [$0.06]
+** Dealing river ** [ 7d ]
+** Summary **
+DezKD shows [ 8h, Kd ]
+inthetube22 shows [ Kc, Kh ]
+inthetube22 collected [ $1.88 ]
+
+
+#Game No : 614674647
+***** 888poker Hand History for Game 614674647 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 03:25:31
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DezKD ( $1 )
+Seat 4: inthetube22 ( $1.99 )
+inthetube22 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+inthetube22 calls [$0.01]
+DezKD raises [$0.05]
+inthetube22 calls [$0.05]
+** Dealing flop ** [ 8h, 8d, 4c ]
+DezKD bets [$0.07]
+inthetube22 calls [$0.07]
+** Dealing turn ** [ 5d ]
+DezKD bets [$0.14]
+inthetube22 calls [$0.14]
+** Dealing river ** [ Th ]
+DezKD bets [$0.27]
+inthetube22 folds
+** Summary **
+DezKD collected [ $0.53 ]
+
+

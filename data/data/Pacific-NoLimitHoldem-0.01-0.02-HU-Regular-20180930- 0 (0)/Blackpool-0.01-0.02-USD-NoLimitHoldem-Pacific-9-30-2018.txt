@@ -1,0 +1,465 @@
+#Game No : 503125057
+***** 888poker Hand History for Game 503125057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 03:49:59
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kylebonnes ( $1 )
+Seat 4: Ashraf1010 ( $0.80 )
+kylebonnes posts small blind [$0.01]
+Ashraf1010 posts big blind [$0.02]
+** Dealing down cards **
+kylebonnes raises [$0.03]
+Ashraf1010 calls [$0.02]
+** Dealing flop ** [ Th, 7s, 7c ]
+Ashraf1010 checks
+kylebonnes bets [$0.04]
+Ashraf1010 calls [$0.04]
+** Dealing turn ** [ 9s ]
+Ashraf1010 checks
+kylebonnes bets [$0.04]
+Ashraf1010 calls [$0.04]
+** Dealing river ** [ 7d ]
+Ashraf1010 bets [$0.06]
+kylebonnes folds
+** Summary **
+Ashraf1010 collected [ $0.23 ]
+
+
+#Game No : 503125098
+***** 888poker Hand History for Game 503125098 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 03:50:45
+Table Blackpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: kylebonnes ( $0.88 )
+Seat 4: Ashraf1010 ( $0.91 )
+Ashraf1010 posts small blind [$0.01]
+kylebonnes posts big blind [$0.02]
+** Dealing down cards **
+Ashraf1010 calls [$0.01]
+kylebonnes checks
+** Dealing flop ** [ 2s, 7d, 8s ]
+kylebonnes checks
+Ashraf1010 checks
+** Dealing turn ** [ Ah ]
+kylebonnes checks
+Ashraf1010 bets [$0.10]
+kylebonnes folds
+** Summary **
+Ashraf1010 collected [ $0.04 ]
+
+
+#Game No : 503128260
+***** 888poker Hand History for Game 503128260 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 05:01:39
+Table Blackpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: just.tka ( $1.02 )
+Seat 9: voin200 ( $2.49 )
+voin200 posts small blind [$0.01]
+just.tka posts big blind [$0.02]
+** Dealing down cards **
+voin200 calls [$0.01]
+just.tka checks
+** Dealing flop ** [ Td, Kc, As ]
+just.tka checks
+voin200 checks
+** Dealing turn ** [ 3s ]
+just.tka checks
+voin200 checks
+** Dealing river ** [ Qc ]
+just.tka checks
+voin200 checks
+** Summary **
+just.tka shows [ 2c, 7c ]
+voin200 shows [ Jh, 7d ]
+voin200 collected [ $0.04 ]
+
+
+#Game No : 503128978
+***** 888poker Hand History for Game 503128978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 05:17:04
+Table Blackpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.51 )
+Seat 2: Sdarkes1982 ( $0.89 )
+DezKD posts small blind [$0.01]
+Sdarkes1982 posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+Sdarkes1982 collected [ $0.03 ]
+
+
+#Game No : 503128990
+***** 888poker Hand History for Game 503128990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 05:17:20
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.50 )
+Seat 2: Sdarkes1982 ( $0.90 )
+Sdarkes1982 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Sdarkes1982 calls [$0.01]
+DezKD raises [$0.02]
+Sdarkes1982 calls [$0.02]
+** Dealing flop ** [ 5c, 7h, 8h ]
+DezKD checks
+Sdarkes1982 checks
+** Dealing turn ** [ 6s ]
+DezKD bets [$0.04]
+Sdarkes1982 calls [$0.04]
+** Dealing river ** [ 8d ]
+DezKD bets [$0.08]
+Sdarkes1982 calls [$0.08]
+** Summary **
+DezKD shows [ 9h, Qs ]
+Sdarkes1982 mucks [ 6c, 7d ]
+DezKD collected [ $0.30 ]
+
+
+#Game No : 503131363
+***** 888poker Hand History for Game 503131363 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 06:05:54
+Table Blackpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.05 )
+Seat 7: ljchris ( $1.06 )
+ljchris posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+ljchris folds
+** Summary **
+DezKD did not show his hand
+DezKD collected [ $0.03 ]
+
+
+#Game No : 503131369
+***** 888poker Hand History for Game 503131369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 06:05:59
+Table Blackpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.06 )
+Seat 7: ljchris ( $1.05 )
+DezKD posts small blind [$0.01]
+ljchris posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+ljchris did not show his hand
+ljchris collected [ $0.03 ]
+
+
+#Game No : 503131374
+***** 888poker Hand History for Game 503131374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 06:06:05
+Table Blackpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.05 )
+Seat 7: ljchris ( $1.06 )
+ljchris posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+ljchris raises [$0.03]
+DezKD calls [$0.02]
+** Dealing flop ** [ Jd, 4s, Kd ]
+DezKD checks
+ljchris checks
+** Dealing turn ** [ 8d ]
+DezKD bets [$0.04]
+ljchris folds
+** Summary **
+DezKD did not show his hand
+DezKD collected [ $0.08 ]
+
+
+#Game No : 503131422
+***** 888poker Hand History for Game 503131422 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 06:06:53
+Table Blackpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.09 )
+Seat 2: Gryazniy333 ( $0.80 )
+DezKD posts small blind [$0.01]
+Gryazniy333 posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+Gryazniy333 calls [$0.02]
+** Dealing flop ** [ 6h, 6d, 9s ]
+Gryazniy333 checks
+DezKD checks
+** Dealing turn ** [ 4s ]
+Gryazniy333 checks
+DezKD checks
+** Dealing river ** [ 5h ]
+Gryazniy333 bets [$0.05]
+DezKD folds
+** Summary **
+Gryazniy333 did not show his hand
+Gryazniy333 collected [ $0.08 ]
+
+
+#Game No : 503131459
+***** 888poker Hand History for Game 503131459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 06:07:43
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.05 )
+Seat 2: Gryazniy333 ( $0.84 )
+Gryazniy333 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Gryazniy333 raises [$0.03]
+DezKD raises [$0.04]
+Gryazniy333 calls [$0.02]
+** Dealing flop ** [ 6c, 8s, As ]
+DezKD bets [$0.06]
+Gryazniy333 folds
+** Summary **
+DezKD collected [ $0.12 ]
+
+
+#Game No : 503145682
+***** 888poker Hand History for Game 503145682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:43:24
+Table Blackpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: TiMaks ( $0.85 )
+Seat 9: instalserg ( $1.70 )
+instalserg posts small blind [$0.01]
+TiMaks posts big blind [$0.02]
+** Dealing down cards **
+instalserg calls [$0.01]
+TiMaks checks
+** Dealing flop ** [ 9c, Qh, Th ]
+TiMaks checks
+instalserg checks
+** Dealing turn ** [ As ]
+TiMaks checks
+instalserg bets [$0.04]
+TiMaks folds
+** Summary **
+instalserg collected [ $0.04 ]
+
+
+#Game No : 503145901
+***** 888poker Hand History for Game 503145901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:46:58
+Table Blackpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.58 )
+Seat 6: TiMaks ( $0.80 )
+TiMaks posts small blind [$0.01]
+DeboSockett posts big blind [$0.02]
+** Dealing down cards **
+TiMaks folds
+** Summary **
+DeboSockett collected [ $0.03 ]
+
+
+#Game No : 503145910
+***** 888poker Hand History for Game 503145910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:47:06
+Table Blackpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.59 )
+Seat 6: TiMaks ( $0.80 )
+DeboSockett posts small blind [$0.01]
+** Dealing down cards **
+TiMaks folds
+** Summary **
+DeboSockett collected [ $0.01 ]
+
+
+#Game No : 503145914
+***** 888poker Hand History for Game 503145914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:47:14
+Table Blackpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.59 )
+Seat 2: Jackofheart8 ( $1 )
+DeboSockett posts small blind [$0.01]
+Jackofheart8 posts big blind [$0.02]
+** Dealing down cards **
+DeboSockett calls [$0.01]
+Jackofheart8 raises [$0.02]
+DeboSockett calls [$0.02]
+** Dealing flop ** [ 3c, Qh, 2c ]
+Jackofheart8 checks
+DeboSockett checks
+** Dealing turn ** [ 7s ]
+Jackofheart8 checks
+DeboSockett checks
+** Dealing river ** [ 6h ]
+Jackofheart8 bets [$0.05]
+DeboSockett folds
+** Summary **
+Jackofheart8 collected [ $0.08 ]
+
+
+#Game No : 503145951
+***** 888poker Hand History for Game 503145951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:47:47
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.55 )
+Seat 2: Jackofheart8 ( $1.04 )
+Jackofheart8 posts small blind [$0.01]
+DeboSockett posts big blind [$0.02]
+** Dealing down cards **
+Jackofheart8 raises [$0.03]
+DeboSockett calls [$0.02]
+** Dealing flop ** [ Jh, 9d, Qd ]
+DeboSockett bets [$0.51]
+Jackofheart8 calls [$0.51]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ Tc ]
+** Summary **
+DeboSockett shows [ 6h, Qs ]
+Jackofheart8 shows [ 8s, Js ]
+Jackofheart8 collected [ $1.04 ]
+
+
+#Game No : 503146454
+***** 888poker Hand History for Game 503146454 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:56:16
+Table Blackpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Jackofheart8 ( $1.91 )
+Seat 6: OlegH1 ( $1.91 )
+OlegH1 posts small blind [$0.01]
+Jackofheart8 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+Jackofheart8 collected [ $0.03 ]
+
+
+#Game No : 503146464
+***** 888poker Hand History for Game 503146464 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:56:25
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.80 )
+Seat 2: Jackofheart8 ( $1.92 )
+Jackofheart8 posts small blind [$0.01]
+DeboSockett posts big blind [$0.02]
+** Dealing down cards **
+Jackofheart8 calls [$0.01]
+DeboSockett checks
+** Dealing flop ** [ Jd, 9h, 4d ]
+DeboSockett checks
+Jackofheart8 checks
+** Dealing turn ** [ 6d ]
+DeboSockett bets [$0.02]
+Jackofheart8 raises [$0.06]
+DeboSockett calls [$0.04]
+** Dealing river ** [ 9d ]
+DeboSockett bets [$0.72]
+Jackofheart8 folds
+** Summary **
+DeboSockett collected [ $0.15 ]
+
+
+#Game No : 503146494
+***** 888poker Hand History for Game 503146494 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:56:50
+Table Blackpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.87 )
+Seat 2: Jackofheart8 ( $1.84 )
+DeboSockett posts small blind [$0.01]
+Jackofheart8 posts big blind [$0.02]
+** Dealing down cards **
+DeboSockett calls [$0.01]
+Jackofheart8 checks
+** Dealing flop ** [ Qd, 8s, 2h ]
+Jackofheart8 bets [$0.04]
+DeboSockett calls [$0.04]
+** Dealing turn ** [ 4d ]
+Jackofheart8 bets [$0.12]
+DeboSockett folds
+** Summary **
+Jackofheart8 collected [ $0.12 ]
+
+
+#Game No : 503146513
+***** 888poker Hand History for Game 503146513 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:57:07
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.81 )
+Seat 2: Jackofheart8 ( $1.90 )
+Jackofheart8 posts small blind [$0.01]
+DeboSockett posts big blind [$0.02]
+** Dealing down cards **
+Jackofheart8 raises [$0.03]
+DeboSockett calls [$0.02]
+** Dealing flop ** [ Qd, 3c, Qh ]
+DeboSockett checks
+Jackofheart8 checks
+** Dealing turn ** [ 4d ]
+DeboSockett checks
+Jackofheart8 bets [$0.02]
+DeboSockett calls [$0.02]
+** Dealing river ** [ As ]
+DeboSockett checks
+Jackofheart8 checks
+** Summary **
+DeboSockett shows [ Ts, 8s ]
+Jackofheart8 shows [ Jd, Ks ]
+Jackofheart8 collected [ $0.12 ]
+
+
+#Game No : 503163440
+***** 888poker Hand History for Game 503163440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 16:52:15
+Table Blackpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: HatteWare ( $1.39 )
+Seat 7: olAmeister ( $1.01 )
+olAmeister posts small blind [$0.01]
+HatteWare posts big blind [$0.02]
+** Dealing down cards **
+olAmeister folds
+** Summary **
+HatteWare collected [ $0.03 ]
+
+
+#Game No : 503163444
+***** 888poker Hand History for Game 503163444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 16:52:22
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: HatteWare ( $1.40 )
+Seat 7: olAmeister ( $1 )
+HatteWare posts small blind [$0.01]
+olAmeister posts big blind [$0.02]
+** Dealing down cards **
+HatteWare raises [$0.03]
+olAmeister folds
+** Summary **
+HatteWare collected [ $0.04 ]
+
+

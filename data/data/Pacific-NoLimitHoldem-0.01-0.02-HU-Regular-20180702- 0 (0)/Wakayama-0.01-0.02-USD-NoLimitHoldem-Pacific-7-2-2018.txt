@@ -1,0 +1,67 @@
+#Game No : 605047502
+***** 888poker Hand History for Game 605047502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2018 09:42:27
+Table Wakayama 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Negator93 ( $0.77 )
+Seat 5: Vikciuss ( $0.83 )
+Vikciuss posts small blind [$0.01]
+Negator93 posts big blind [$0.02]
+** Dealing down cards **
+Vikciuss raises [$0.03]
+Negator93 raises [$0.75]
+Vikciuss calls [$0.73]
+** Dealing flop ** [ 2c, 8s, 8c ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ Td ]
+** Summary **
+Negator93 shows [ As, 3c ]
+Vikciuss shows [ Ks, Kh ]
+Vikciuss collected [ $1.45 ]
+
+
+#Game No : 605047725
+***** 888poker Hand History for Game 605047725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2018 09:46:32
+Table Wakayama 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Vikciuss ( $1.51 )
+Seat 6: BoBaHMHe ( $2 )
+Vikciuss posts small blind [$0.01]
+BoBaHMHe posts big blind [$0.02]
+** Dealing down cards **
+Vikciuss calls [$0.01]
+BoBaHMHe checks
+** Dealing flop ** [ 5s, Qh, Qs ]
+BoBaHMHe checks
+Vikciuss checks
+** Dealing turn ** [ 6s ]
+BoBaHMHe checks
+Vikciuss checks
+** Dealing river ** [ 8s ]
+BoBaHMHe checks
+Vikciuss checks
+** Summary **
+BoBaHMHe shows [ 3d, Td ]
+Vikciuss mucks [ 2d, 3h ]
+BoBaHMHe collected [ $0.04 ]
+
+
+#Game No : 605047739
+***** 888poker Hand History for Game 605047739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2018 09:46:50
+Table Wakayama 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Vikciuss ( $1.49 )
+Seat 6: BoBaHMHe ( $2.02 )
+BoBaHMHe posts small blind [$0.01]
+Vikciuss posts big blind [$0.02]
+** Dealing down cards **
+BoBaHMHe folds
+** Summary **
+Vikciuss collected [ $0.03 ]
+
+

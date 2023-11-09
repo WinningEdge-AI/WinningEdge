@@ -1,0 +1,78 @@
+#Game No : 620454831
+***** 888poker Hand History for Game 620454831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 05 2019 23:35:03
+Table Bayamo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AleaksandrL ( $0.95 )
+Seat 7: Pinvax ( $1.01 )
+Pinvax posts small blind [$0.01]
+AleaksandrL posts big blind [$0.02]
+** Dealing down cards **
+Pinvax raises [$0.05]
+AleaksandrL folds
+** Summary **
+Pinvax did not show his hand
+Pinvax collected [ $0.04 ]
+
+
+#Game No : 620454836
+***** 888poker Hand History for Game 620454836 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 05 2019 23:35:09
+Table Bayamo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AleaksandrL ( $0.93 )
+Seat 7: Pinvax ( $1.03 )
+AleaksandrL posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+AleaksandrL folds
+** Summary **
+Pinvax did not show his hand
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 620454988
+***** 888poker Hand History for Game 620454988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 05 2019 23:43:58
+Table Bayamo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: wolock ( $0.80 )
+Seat 7: Pinvax ( $1.05 )
+wolock posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+wolock folds
+** Summary **
+Pinvax did not show his hand
+Pinvax collected [ $0.03 ]
+
+
+#Game No : 620454993
+***** 888poker Hand History for Game 620454993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 05 2019 23:44:04
+Table Bayamo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: wolock ( $0.79 )
+Seat 7: Pinvax ( $1.06 )
+Pinvax posts small blind [$0.01]
+wolock posts big blind [$0.02]
+** Dealing down cards **
+Pinvax raises [$0.03]
+wolock calls [$0.02]
+** Dealing flop ** [ 4h, 6s, Js ]
+wolock checks
+Pinvax checks
+** Dealing turn ** [ 3h ]
+wolock checks
+Pinvax checks
+** Dealing river ** [ 3s ]
+wolock bets [$0.08]
+Pinvax folds
+** Summary **
+wolock collected [ $0.08 ]
+
+

@@ -1,0 +1,87 @@
+#Game No : 464918010
+***** 888poker Hand History for Game 464918010 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 08:13:58
+Table San Luis 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: vega101010 ( $2 )
+Seat 6: SnoopySB ( $0.80 )
+SnoopySB posts small blind [$0.01]
+vega101010 posts big blind [$0.02]
+** Dealing down cards **
+SnoopySB calls [$0.01]
+vega101010 raises [$0.06]
+SnoopySB calls [$0.06]
+** Dealing flop ** [ 4h, 7s, 8d ]
+vega101010 bets [$0.10]
+SnoopySB calls [$0.10]
+** Dealing turn ** [ Kd ]
+vega101010 checks
+SnoopySB checks
+** Dealing river ** [ 3d ]
+vega101010 checks
+SnoopySB checks
+** Summary **
+vega101010 shows [ 5h, 5s ]
+SnoopySB shows [ 9s, 9h ]
+SnoopySB collected [ $0.34 ]
+
+
+#Game No : 464918095
+***** 888poker Hand History for Game 464918095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 08:17:01
+Table San Luis 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: vega101010 ( $2 )
+Seat 6: SnoopySB ( $2.36 )
+vega101010 posts small blind [$0.01]
+SnoopySB posts big blind [$0.02]
+** Dealing down cards **
+vega101010 folds
+** Summary **
+SnoopySB did not show his hand
+SnoopySB collected [ $0.03 ]
+
+
+#Game No : 464918099
+***** 888poker Hand History for Game 464918099 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 08:17:11
+Table San Luis 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: vega101010 ( $2 )
+Seat 6: SnoopySB ( $2.37 )
+SnoopySB posts small blind [$0.01]
+vega101010 posts big blind [$0.02]
+** Dealing down cards **
+SnoopySB calls [$0.01]
+vega101010 raises [$0.06]
+SnoopySB folds
+** Summary **
+vega101010 did not show his hand
+vega101010 collected [ $0.04 ]
+
+
+#Game No : 464918105
+***** 888poker Hand History for Game 464918105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 08:17:24
+Table San Luis 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: vega101010 ( $2.02 )
+Seat 6: SnoopySB ( $2.35 )
+vega101010 posts small blind [$0.01]
+SnoopySB posts big blind [$0.02]
+** Dealing down cards **
+vega101010 calls [$0.01]
+SnoopySB checks
+** Dealing flop ** [ 5h, 4c, 7d ]
+SnoopySB checks
+vega101010 bets [$0.02]
+SnoopySB folds
+** Summary **
+vega101010 did not show his hand
+vega101010 collected [ $0.04 ]
+
+

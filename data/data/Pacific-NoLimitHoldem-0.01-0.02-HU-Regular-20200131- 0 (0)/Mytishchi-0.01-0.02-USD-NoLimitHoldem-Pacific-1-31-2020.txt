@@ -1,0 +1,96 @@
+#Game No : 550738120
+***** 888poker Hand History for Game 550738120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2020 10:02:28
+Table Mytishchi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 4: yaniknes ( $2 )
+Seat 9: anarchist992 ( $3.56 )
+yaniknes posts small blind [$0.01]
+** Dealing down cards **
+anarchist992 folds
+** Summary **
+yaniknes collected [ $0.01 ]
+
+
+#Game No : 550738123
+***** 888poker Hand History for Game 550738123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2020 10:02:31
+Table Mytishchi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: SanktPaulo ( $0.60 )
+Seat 4: yaniknes ( $2 )
+yaniknes posts small blind [$0.01]
+SanktPaulo posts big blind [$0.02]
+** Dealing down cards **
+yaniknes folds
+** Summary **
+SanktPaulo collected [ $0.03 ]
+
+
+#Game No : 550738130
+***** 888poker Hand History for Game 550738130 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2020 10:02:37
+Table Mytishchi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SanktPaulo ( $0.61 )
+Seat 4: yaniknes ( $2 )
+SanktPaulo posts small blind [$0.01]
+yaniknes posts big blind [$0.02]
+** Dealing down cards **
+SanktPaulo folds
+** Summary **
+yaniknes collected [ $0.03 ]
+
+
+#Game No : 550738140
+***** 888poker Hand History for Game 550738140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2020 10:02:44
+Table Mytishchi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: SanktPaulo ( $0.60 )
+Seat 4: yaniknes ( $2.01 )
+yaniknes posts small blind [$0.01]
+SanktPaulo posts big blind [$0.02]
+** Dealing down cards **
+yaniknes calls [$0.01]
+SanktPaulo checks
+** Dealing flop ** [ 8h, Td, Qs ]
+SanktPaulo bets [$0.02]
+yaniknes folds
+** Summary **
+SanktPaulo collected [ $0.04 ]
+
+
+#Game No : 550738153
+***** 888poker Hand History for Game 550738153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2020 10:02:55
+Table Mytishchi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SanktPaulo ( $0.62 )
+Seat 4: yaniknes ( $2 )
+SanktPaulo posts small blind [$0.01]
+yaniknes posts big blind [$0.02]
+** Dealing down cards **
+SanktPaulo calls [$0.01]
+yaniknes raises [$0.06]
+SanktPaulo calls [$0.06]
+** Dealing flop ** [ Tc, 9c, 4d ]
+yaniknes bets [$0.08]
+SanktPaulo raises [$0.16]
+yaniknes calls [$0.08]
+** Dealing turn ** [ 2s ]
+yaniknes checks
+SanktPaulo bets [$0.38]
+yaniknes calls [$0.38]
+** Dealing river ** [ 7c ]
+** Summary **
+SanktPaulo shows [ 8h, 8c ]
+yaniknes shows [ Ts, As ]
+yaniknes collected [ $1.17 ]
+
+

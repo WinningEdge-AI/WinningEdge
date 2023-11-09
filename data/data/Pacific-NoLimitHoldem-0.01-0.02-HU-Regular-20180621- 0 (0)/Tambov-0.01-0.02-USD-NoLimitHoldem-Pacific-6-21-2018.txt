@@ -1,0 +1,40 @@
+#Game No : 503905998
+***** 888poker Hand History for Game 503905998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2018 04:28:57
+Table Tambov 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: JorliH ( $2 )
+Seat 4: yarikmaka ( $1 )
+JorliH posts small blind [$0.01]
+yarikmaka posts big blind [$0.02]
+** Dealing down cards **
+JorliH raises [$0.04]
+yarikmaka calls [$0.03]
+** Dealing flop ** [ 2h, 6h, Qc ]
+yarikmaka checks
+JorliH bets [$0.05]
+yarikmaka calls [$0.05]
+** Dealing turn ** [ Kd ]
+yarikmaka bets [$0.12]
+JorliH folds
+** Summary **
+yarikmaka collected [ $0.19 ]
+
+
+#Game No : 503906017
+***** 888poker Hand History for Game 503906017 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2018 04:29:21
+Table Tambov 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: JorliH ( $2 )
+Seat 4: yarikmaka ( $1.09 )
+yarikmaka posts small blind [$0.01]
+JorliH posts big blind [$0.02]
+** Dealing down cards **
+yarikmaka folds
+** Summary **
+JorliH collected [ $0.03 ]
+
+

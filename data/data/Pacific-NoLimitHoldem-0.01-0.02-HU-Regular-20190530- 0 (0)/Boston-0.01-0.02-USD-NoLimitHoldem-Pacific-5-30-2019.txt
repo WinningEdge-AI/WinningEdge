@@ -1,0 +1,97 @@
+#Game No : 532081526
+***** 888poker Hand History for Game 532081526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 05 2019 00:54:05
+Table Boston 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ekonievic ( $3.58 )
+Seat 10: ChokWau ( $3.25 )
+ekonievic posts small blind [$0.01]
+ChokWau posts big blind [$0.02]
+** Dealing down cards **
+ekonievic raises [$0.03]
+ChokWau raises [$0.14]
+ekonievic folds
+** Summary **
+ChokWau collected [ $0.08 ]
+
+
+#Game No : 532081542
+***** 888poker Hand History for Game 532081542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 05 2019 00:54:22
+Table Boston 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: ekonievic ( $3.54 )
+Seat 10: ChokWau ( $3.29 )
+ChokWau posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+ChokWau folds
+** Summary **
+ekonievic collected [ $0.03 ]
+
+
+#Game No : 532081548
+***** 888poker Hand History for Game 532081548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 05 2019 00:54:31
+Table Boston 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ekonievic ( $3.55 )
+Seat 6: alextepii ( $1.22 )
+ekonievic posts small blind [$0.01]
+alextepii posts big blind [$0.02]
+** Dealing down cards **
+ekonievic folds
+** Summary **
+alextepii did not show his hand
+alextepii collected [ $0.03 ]
+
+
+#Game No : 532081554
+***** 888poker Hand History for Game 532081554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 05 2019 00:54:39
+Table Boston 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ekonievic ( $3.54 )
+Seat 6: alextepii ( $1.23 )
+alextepii posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+alextepii raises [$0.07]
+ekonievic folds
+** Summary **
+alextepii did not show his hand
+alextepii collected [ $0.04 ]
+
+
+#Game No : 532081563
+***** 888poker Hand History for Game 532081563 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 05 2019 00:54:55
+Table Boston 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ekonievic ( $3.52 )
+Seat 6: alextepii ( $1.25 )
+ekonievic posts small blind [$0.01]
+alextepii posts big blind [$0.02]
+** Dealing down cards **
+ekonievic calls [$0.01]
+alextepii raises [$0.06]
+ekonievic calls [$0.06]
+** Dealing flop ** [ 6d, Ac, Qc ]
+alextepii bets [$0.10]
+ekonievic calls [$0.10]
+** Dealing turn ** [ 7c ]
+alextepii bets [$0.23]
+ekonievic raises [$1.17]
+alextepii calls [$0.84]
+** Dealing river ** [ 2s ]
+** Summary **
+ekonievic shows [ Jc, 9c ]
+alextepii shows [ 7h, 5d ]
+ekonievic collected [ $2.35 ]
+
+

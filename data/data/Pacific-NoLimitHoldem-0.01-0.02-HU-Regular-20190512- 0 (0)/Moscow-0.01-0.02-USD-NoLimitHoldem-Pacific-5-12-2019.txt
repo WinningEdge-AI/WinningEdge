@@ -1,0 +1,38 @@
+#Game No : 530802342
+***** 888poker Hand History for Game 530802342 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 01:58:40
+Table Moscow 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: StandartYes ( $1.66 )
+Seat 9: 201601i ( $0.44 )
+StandartYes posts small blind [$0.01]
+201601i posts big blind [$0.02]
+** Dealing down cards **
+StandartYes folds
+** Summary **
+201601i collected [ $0.03 ]
+
+
+#Game No : 530802343
+***** 888poker Hand History for Game 530802343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 01:58:45
+Table Moscow 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: StandartYes ( $1.65 )
+Seat 9: 201601i ( $0.45 )
+201601i posts small blind [$0.01]
+StandartYes posts big blind [$0.02]
+** Dealing down cards **
+201601i raises [$0.44]
+StandartYes calls [$0.43]
+** Dealing flop ** [ 9s, 2h, 2s ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ Ac ]
+** Summary **
+StandartYes shows [ 6d, 6h ]
+201601i shows [ Kh, 5s ]
+StandartYes collected [ $0.85 ]
+
+

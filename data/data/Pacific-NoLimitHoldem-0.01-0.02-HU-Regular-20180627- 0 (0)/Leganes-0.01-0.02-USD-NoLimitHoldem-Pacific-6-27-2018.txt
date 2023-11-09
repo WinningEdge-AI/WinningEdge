@@ -1,0 +1,67 @@
+#Game No : 503948176
+***** 888poker Hand History for Game 503948176 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 07:43:13
+Table Leganes 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: boso.mgl ( $1.96 )
+Seat 2: flipside604 ( $0.94 )
+boso.mgl posts small blind [$0.01]
+flipside604 posts big blind [$0.02]
+** Dealing down cards **
+boso.mgl calls [$0.01]
+flipside604 raises [$0.02]
+boso.mgl calls [$0.02]
+** Dealing flop ** [ 3d, Jd, Ah ]
+flipside604 bets [$0.04]
+boso.mgl raises [$0.08]
+flipside604 calls [$0.04]
+** Dealing turn ** [ 3c ]
+flipside604 checks
+boso.mgl checks
+** Dealing river ** [ 6c ]
+flipside604 bets [$0.08]
+boso.mgl folds
+** Summary **
+flipside604 collected [ $0.23 ]
+
+
+#Game No : 503948193
+***** 888poker Hand History for Game 503948193 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 07:43:21
+Table Leganes 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: boso.mgl ( $1.84 )
+Seat 2: flipside604 ( $1.05 )
+flipside604 posts small blind [$0.01]
+boso.mgl posts big blind [$0.02]
+** Dealing down cards **
+flipside604 raises [$0.05]
+boso.mgl calls [$0.04]
+** Dealing flop ** [ 7c, 9d, Ah ]
+boso.mgl checks
+flipside604 bets [$0.06]
+boso.mgl folds
+** Summary **
+flipside604 collected [ $0.12 ]
+
+
+#Game No : 503963795
+***** 888poker Hand History for Game 503963795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 13:58:31
+Table Leganes 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Dihabet ( $2.29 )
+Seat 4: cbullamore92 ( $2.21 )
+Dihabet posts small blind [$0.01]
+cbullamore92 posts big blind [$0.02]
+** Dealing down cards **
+Dihabet raises [$0.05]
+cbullamore92 folds
+** Summary **
+Dihabet did not show his hand
+Dihabet collected [ $0.04 ]
+
+

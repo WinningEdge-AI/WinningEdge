@@ -1,0 +1,96 @@
+#Game No : 504315660
+***** 888poker Hand History for Game 504315660 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 10:49:54
+Table Brits 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Hombr ( $0.91 )
+Seat 4: danmardare ( $0.88 )
+danmardare posts small blind [$0.01]
+Hombr posts big blind [$0.02]
+** Dealing down cards **
+danmardare calls [$0.01]
+Hombr checks
+** Dealing flop ** [ 7c, 7h, 9h ]
+Hombr checks
+danmardare bets [$0.04]
+Hombr calls [$0.04]
+** Dealing turn ** [ Qh ]
+Hombr checks
+danmardare checks
+** Dealing river ** [ Kd ]
+Hombr checks
+danmardare checks
+** Summary **
+Hombr shows [ 3d, 3c ]
+danmardare mucks [ 3s, Jd ]
+Hombr collected [ $0.12 ]
+
+
+#Game No : 504316009
+***** 888poker Hand History for Game 504316009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 10:54:51
+Table Brits 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: danmardare ( $1.17 )
+Seat 7: The_Hellion ( $0.90 )
+danmardare posts small blind [$0.01]
+The_Hellion posts big blind [$0.02]
+** Dealing down cards **
+danmardare raises [$0.03]
+The_Hellion calls [$0.02]
+** Dealing flop ** [ 9h, Kd, 9s ]
+The_Hellion checks
+danmardare bets [$0.04]
+The_Hellion folds
+** Summary **
+danmardare collected [ $0.08 ]
+
+
+#Game No : 504316052
+***** 888poker Hand History for Game 504316052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 10:55:35
+Table Brits 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: danmardare ( $1.13 )
+Seat 7: The_Hellion ( $0.95 )
+danmardare posts small blind [$0.01]
+The_Hellion posts big blind [$0.02]
+** Dealing down cards **
+danmardare raises [$0.03]
+The_Hellion calls [$0.02]
+** Dealing flop ** [ As, 3c, 2h ]
+The_Hellion bets [$0.91]
+danmardare folds
+** Summary **
+The_Hellion collected [ $0.08 ]
+
+
+#Game No : 504316067
+***** 888poker Hand History for Game 504316067 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 10:55:48
+Table Brits 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: danmardare ( $1.09 )
+Seat 7: The_Hellion ( $0.99 )
+The_Hellion posts small blind [$0.01]
+danmardare posts big blind [$0.02]
+** Dealing down cards **
+The_Hellion raises [$0.03]
+danmardare calls [$0.02]
+** Dealing flop ** [ As, 4s, Ks ]
+danmardare checks
+The_Hellion checks
+** Dealing turn ** [ 4d ]
+danmardare bets [$0.04]
+The_Hellion calls [$0.04]
+** Dealing river ** [ Kh ]
+danmardare bets [$0.26]
+The_Hellion folds
+** Summary **
+danmardare collected [ $0.15 ]
+
+

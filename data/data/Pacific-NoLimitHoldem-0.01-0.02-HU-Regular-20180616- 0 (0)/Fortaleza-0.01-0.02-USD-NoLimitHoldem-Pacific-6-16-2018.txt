@@ -1,0 +1,55 @@
+#Game No : 503537787
+***** 888poker Hand History for Game 503537787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 06:51:21
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kostek27 ( $1.04 )
+Seat 2: ruskins ( $0.96 )
+Kostek27 posts small blind [$0.01]
+ruskins posts big blind [$0.02]
+** Dealing down cards **
+Kostek27 calls [$0.01]
+ruskins checks
+** Dealing flop ** [ 6d, Kh, Jc ]
+ruskins checks
+Kostek27 checks
+** Dealing turn ** [ 2d ]
+ruskins checks
+Kostek27 bets [$0.02]
+ruskins calls [$0.02]
+** Dealing river ** [ 4s ]
+ruskins checks
+Kostek27 bets [$0.08]
+ruskins folds
+** Summary **
+Kostek27 collected [ $0.08 ]
+
+
+#Game No : 503537807
+***** 888poker Hand History for Game 503537807 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 06:51:26
+Table Fortaleza 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Kostek27 ( $1.08 )
+Seat 2: ruskins ( $0.92 )
+ruskins posts small blind [$0.01]
+Kostek27 posts big blind [$0.02]
+** Dealing down cards **
+ruskins calls [$0.01]
+Kostek27 checks
+** Dealing flop ** [ Tc, 4d, 6h ]
+Kostek27 checks
+ruskins checks
+** Dealing turn ** [ Td ]
+Kostek27 checks
+ruskins checks
+** Dealing river ** [ 8c ]
+Kostek27 checks
+ruskins bets [$0.04]
+Kostek27 folds
+** Summary **
+ruskins collected [ $0.04 ]
+
+

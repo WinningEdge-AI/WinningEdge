@@ -1,0 +1,227 @@
+#Game No : 505408524
+***** 888poker Hand History for Game 505408524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 21:41:57
+Table Murcia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pilsang0512 ( $0.89 )
+Seat 2: AdriB12 ( $0.81 )
+pilsang0512 posts small blind [$0.01]
+AdriB12 posts big blind [$0.02]
+** Dealing down cards **
+pilsang0512 raises [$0.05]
+AdriB12 folds
+** Summary **
+pilsang0512 did not show his hand
+pilsang0512 collected [ $0.04 ]
+
+
+#Game No : 505408530
+***** 888poker Hand History for Game 505408530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 21:42:04
+Table Murcia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pilsang0512 ( $0.91 )
+Seat 2: AdriB12 ( $0.79 )
+AdriB12 posts small blind [$0.01]
+pilsang0512 posts big blind [$0.02]
+** Dealing down cards **
+AdriB12 raises [$0.03]
+pilsang0512 raises [$0.06]
+AdriB12 calls [$0.04]
+** Dealing flop ** [ Jd, Kh, 6c ]
+pilsang0512 bets [$0.10]
+AdriB12 folds
+** Summary **
+pilsang0512 did not show his hand
+pilsang0512 collected [ $0.15 ]
+
+
+#Game No : 505408537
+***** 888poker Hand History for Game 505408537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 21:42:33
+Table Murcia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pilsang0512 ( $0.98 )
+Seat 2: AdriB12 ( $0.71 )
+pilsang0512 posts small blind [$0.01]
+AdriB12 posts big blind [$0.02]
+** Dealing down cards **
+pilsang0512 raises [$0.05]
+AdriB12 raises [$0.10]
+pilsang0512 calls [$0.06]
+** Dealing flop ** [ 6s, 3d, 3c ]
+AdriB12 checks
+pilsang0512 bets [$0.16]
+AdriB12 calls [$0.16]
+** Dealing turn ** [ 8d ]
+AdriB12 checks
+pilsang0512 bets [$0.37]
+AdriB12 raises [$0.43]
+pilsang0512 calls [$0.06]
+** Dealing river ** [ As ]
+** Summary **
+pilsang0512 shows [ Jd, Qc ]
+AdriB12 shows [ 3s, Ah ]
+AdriB12 collected [ $1.34 ]
+
+
+#Game No : 505408556
+***** 888poker Hand History for Game 505408556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 21:43:45
+Table Murcia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pilsang0512 ( $0.27 )
+Seat 2: AdriB12 ( $1.34 )
+AdriB12 posts small blind [$0.01]
+pilsang0512 posts big blind [$0.02]
+** Dealing down cards **
+AdriB12 folds
+** Summary **
+pilsang0512 collected [ $0.03 ]
+
+
+#Game No : 505409524
+***** 888poker Hand History for Game 505409524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 22:36:21
+Table Murcia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 7: sweetaon ( $1 )
+Seat 9: girza84 ( $3.30 )
+sweetaon posts small blind [$0.01]
+girza84 posts big blind [$0.02]
+** Dealing down cards **
+sweetaon raises [$0.05]
+girza84 calls [$0.04]
+** Dealing flop ** [ Kh, Ts, Kd ]
+sweetaon bets [$0.08]
+girza84 calls [$0.08]
+** Dealing turn ** [ 5h ]
+sweetaon checks
+girza84 bets [$0.18]
+sweetaon folds
+** Summary **
+girza84 did not show his hand
+girza84 collected [ $0.27 ]
+
+
+#Game No : 505409538
+***** 888poker Hand History for Game 505409538 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 22:36:58
+Table Murcia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: sweetaon ( $1 )
+Seat 9: girza84 ( $3.43 )
+sweetaon posts small blind [$0.01]
+girza84 posts big blind [$0.02]
+** Dealing down cards **
+sweetaon raises [$0.05]
+girza84 raises [$0.12]
+sweetaon calls [$0.08]
+** Dealing flop ** [ Qs, 8s, Tc ]
+girza84 checks
+sweetaon bets [$0.18]
+girza84 calls [$0.18]
+** Dealing turn ** [ 3d ]
+girza84 checks
+sweetaon checks
+** Dealing river ** [ 6d ]
+girza84 checks
+sweetaon checks
+** Summary **
+girza84 shows [ Ah, Kh ]
+sweetaon mucks [ Ad, 7c ]
+girza84 collected [ $0.60 ]
+
+
+#Game No : 505409556
+***** 888poker Hand History for Game 505409556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 22:37:38
+Table Murcia 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: sweetaon ( $1 )
+Seat 9: girza84 ( $3.71 )
+girza84 posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+girza84 folds
+** Summary **
+sweetaon collected [ $0.03 ]
+
+
+#Game No : 505409969
+***** 888poker Hand History for Game 505409969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 22:53:52
+Table Murcia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: McLand23 ( $0.66 )
+Seat 7: sweetaon ( $1.44 )
+McLand23 posts small blind [$0.01]
+sweetaon posts big blind [$0.02]
+** Dealing down cards **
+McLand23 calls [$0.01]
+sweetaon checks
+** Dealing flop ** [ 8d, 5d, Jc ]
+sweetaon bets [$0.03]
+McLand23 folds
+** Summary **
+sweetaon did not show his hand
+sweetaon collected [ $0.04 ]
+
+
+#Game No : 505409976
+***** 888poker Hand History for Game 505409976 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 22:54:16
+Table Murcia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: McLand23 ( $0.64 )
+Seat 7: sweetaon ( $1.46 )
+sweetaon posts small blind [$0.01]
+McLand23 posts big blind [$0.02]
+** Dealing down cards **
+sweetaon folds
+** Summary **
+McLand23 collected [ $0.03 ]
+
+
+#Game No : 505424246
+***** 888poker Hand History for Game 505424246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 05:21:46
+Table Murcia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BobsDadWard ( $3.63 )
+Seat 6: Farangrinder ( $1.13 )
+Farangrinder posts small blind [$0.01]
+BobsDadWard posts big blind [$0.02]
+** Dealing down cards **
+Farangrinder folds
+** Summary **
+BobsDadWard collected [ $0.03 ]
+
+
+#Game No : 505424285
+***** 888poker Hand History for Game 505424285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 05:22:41
+Table Murcia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BobsDadWard ( $3.64 )
+Seat 4: greymist61 ( $1 )
+BobsDadWard posts small blind [$0.01]
+greymist61 posts big blind [$0.02]
+** Dealing down cards **
+BobsDadWard folds
+** Summary **
+greymist61 did not show his hand
+greymist61 collected [ $0.03 ]
+
+

@@ -1,0 +1,44 @@
+#Game No : 629656561
+***** 888poker Hand History for Game 629656561 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2020 19:51:07
+Table Los Teques 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: biel1996 ( $2.07 )
+Seat 4: inclusive51 ( $1.29 )
+biel1996 posts small blind [$0.01]
+inclusive51 posts big blind [$0.02]
+** Dealing down cards **
+biel1996 raises [$0.06]
+inclusive51 calls [$0.05]
+** Dealing flop ** [ Tc, Th, 9h ]
+inclusive51 checks
+biel1996 checks
+** Dealing turn ** [ 2s ]
+inclusive51 checks
+biel1996 bets [$0.06]
+inclusive51 calls [$0.06]
+** Dealing river ** [ 4c ]
+inclusive51 bets [$0.13]
+biel1996 folds
+** Summary **
+inclusive51 did not show his hand
+inclusive51 collected [ $0.25 ]
+
+
+#Game No : 629656584
+***** 888poker Hand History for Game 629656584 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2020 19:52:02
+Table Los Teques 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: biel1996 ( $2 )
+Seat 4: inclusive51 ( $1.41 )
+inclusive51 posts small blind [$0.01]
+** Dealing down cards **
+biel1996 folds
+** Summary **
+inclusive51 did not show his hand
+inclusive51 collected [ $0.01 ]
+
+

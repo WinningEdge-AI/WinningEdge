@@ -1,0 +1,96 @@
+#Game No : 515425581
+***** 888poker Hand History for Game 515425581 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 21:33:07
+Table Creteil 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 8hagenbacher ( $2.06 )
+Seat 6: GYG1812 ( $1.94 )
+8hagenbacher posts small blind [$0.01]
+GYG1812 posts big blind [$0.02]
+** Dealing down cards **
+8hagenbacher calls [$0.01]
+GYG1812 checks
+** Dealing flop ** [ Kd, Kc, 2s ]
+GYG1812 checks
+8hagenbacher checks
+** Dealing turn ** [ 3s ]
+GYG1812 bets [$0.02]
+8hagenbacher folds
+** Summary **
+GYG1812 collected [ $0.04 ]
+
+
+#Game No : 515425712
+***** 888poker Hand History for Game 515425712 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 21:37:20
+Table Creteil 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 8hagenbacher ( $1.84 )
+Seat 6: GYG1812 ( $2.06 )
+GYG1812 posts small blind [$0.01]
+8hagenbacher posts big blind [$0.02]
+** Dealing down cards **
+GYG1812 folds
+** Summary **
+8hagenbacher collected [ $0.03 ]
+
+
+#Game No : 515426076
+***** 888poker Hand History for Game 515426076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 21:49:41
+Table Creteil 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Lilabum ( $1.20 )
+Seat 2: rleblanc99 ( $2 )
+Lilabum posts small blind [$0.01]
+rleblanc99 posts big blind [$0.02]
+** Dealing down cards **
+Lilabum calls [$0.01]
+rleblanc99 checks
+** Dealing flop ** [ 8d, 3c, 7s ]
+rleblanc99 checks
+Lilabum bets [$0.02]
+rleblanc99 calls [$0.02]
+** Dealing turn ** [ Qh ]
+rleblanc99 checks
+Lilabum bets [$0.02]
+rleblanc99 folds
+** Summary **
+Lilabum did not show his hand
+Lilabum collected [ $0.08 ]
+
+
+#Game No : 515426106
+***** 888poker Hand History for Game 515426106 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 21:50:41
+Table Creteil 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Lilabum ( $1.24 )
+Seat 2: rleblanc99 ( $1.96 )
+rleblanc99 posts small blind [$0.01]
+Lilabum posts big blind [$0.02]
+** Dealing down cards **
+rleblanc99 calls [$0.01]
+Lilabum raises [$0.02]
+rleblanc99 calls [$0.02]
+** Dealing flop ** [ 6c, 6d, 7d ]
+Lilabum checks
+rleblanc99 bets [$0.04]
+Lilabum calls [$0.04]
+** Dealing turn ** [ Qc ]
+Lilabum checks
+rleblanc99 bets [$0.04]
+Lilabum calls [$0.04]
+** Dealing river ** [ 3d ]
+Lilabum checks
+rleblanc99 checks
+** Summary **
+Lilabum shows [ 6s, Js ]
+rleblanc99 mucks [ As, Qs ]
+Lilabum collected [ $0.23 ]
+
+

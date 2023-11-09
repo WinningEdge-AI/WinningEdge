@@ -1,0 +1,909 @@
+#Game No : 454632353
+***** 888poker Hand History for Game 454632353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:03:32
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.12 )
+Seat 6: Bedrah10 ( $0.60 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.03 ]
+
+
+#Game No : 454632357
+***** 888poker Hand History for Game 454632357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:03:40
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.13 )
+Seat 6: Bedrah10 ( $0.59 )
+jjkjjkjjk posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk raises [$0.03]
+Bedrah10 folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.04 ]
+
+
+#Game No : 454632362
+***** 888poker Hand History for Game 454632362 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:03:53
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.15 )
+Seat 6: Bedrah10 ( $0.57 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 raises [$0.03]
+jjkjjkjjk calls [$0.02]
+** Dealing flop ** [ 3s, Qd, 4d ]
+jjkjjkjjk checks
+Bedrah10 bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Dealing turn ** [ 5h ]
+jjkjjkjjk checks
+Bedrah10 bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Dealing river ** [ 5c ]
+jjkjjkjjk checks
+Bedrah10 checks
+** Summary **
+jjkjjkjjk shows [ 6d, Jc ]
+Bedrah10 mucks [ Th, 9s ]
+jjkjjkjjk collected [ $0.15 ]
+
+
+#Game No : 454632372
+***** 888poker Hand History for Game 454632372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:04:16
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.22 )
+Seat 6: Bedrah10 ( $0.49 )
+jjkjjkjjk posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk raises [$0.03]
+Bedrah10 calls [$0.02]
+** Dealing flop ** [ Qh, 5c, 9h ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Dealing turn ** [ Ah ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Dealing river ** [ 2h ]
+Bedrah10 bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Summary **
+Bedrah10 shows [ 7d, Qc ]
+jjkjjkjjk shows [ Jd, As ]
+jjkjjkjjk collected [ $0.12 ]
+
+
+#Game No : 454632380
+***** 888poker Hand History for Game 454632380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:04:34
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.28 )
+Seat 6: Bedrah10 ( $0.43 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 calls [$0.01]
+jjkjjkjjk checks
+** Dealing flop ** [ Tc, Kc, 9h ]
+jjkjjkjjk checks
+Bedrah10 checks
+** Dealing turn ** [ 7c ]
+jjkjjkjjk checks
+Bedrah10 bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Dealing river ** [ 3d ]
+jjkjjkjjk checks
+Bedrah10 bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Summary **
+Bedrah10 shows [ 5c, 8s ]
+jjkjjkjjk shows [ 9s, 7d ]
+jjkjjkjjk collected [ $0.12 ]
+
+
+#Game No : 454632426
+***** 888poker Hand History for Game 454632426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:06:30
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.19 )
+Seat 6: Bedrah10 ( $0.66 )
+jjkjjkjjk posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+Bedrah10 raises [$0.64]
+jjkjjkjjk calls [$0.17]
+** Dealing flop ** [ Kh, Ts, 7s ]
+** Dealing turn ** [ 7d ]
+** Dealing river ** [ Jd ]
+** Summary **
+jjkjjkjjk shows [ Kc, 6s ]
+Bedrah10 shows [ Ks, 8c ]
+jjkjjkjjk collected [ $0.18 ]
+Bedrah10 collected [ $0.18 ]
+
+
+#Game No : 454632431
+***** 888poker Hand History for Game 454632431 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:06:51
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.18 )
+Seat 6: Bedrah10 ( $0.65 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 raises [$0.64]
+jjkjjkjjk calls [$0.16]
+** Dealing flop ** [ Qh, Ac, 9h ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ 8h ]
+** Summary **
+jjkjjkjjk shows [ 8s, Kd ]
+Bedrah10 shows [ Ah, 9s ]
+Bedrah10 collected [ $0.34 ]
+
+
+#Game No : 454632461
+***** 888poker Hand History for Game 454632461 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:08:06
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.12 )
+Seat 6: Bedrah10 ( $0.90 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 calls [$0.01]
+jjkjjkjjk checks
+** Dealing flop ** [ Jh, 8c, 6c ]
+jjkjjkjjk bets [$0.04]
+Bedrah10 calls [$0.04]
+** Dealing turn ** [ 5h ]
+jjkjjkjjk checks
+Bedrah10 checks
+** Dealing river ** [ 4h ]
+jjkjjkjjk bets [$0.06]
+Bedrah10 calls [$0.06]
+** Summary **
+jjkjjkjjk shows [ 6s, Qs ]
+Bedrah10 shows [ Tc, 8d ]
+Bedrah10 collected [ $0.23 ]
+
+
+#Game No : 454632484
+***** 888poker Hand History for Game 454632484 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:09:02
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.19 )
+Seat 6: Bedrah10 ( $0.91 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.03 ]
+
+
+#Game No : 454632487
+***** 888poker Hand History for Game 454632487 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:09:09
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.20 )
+Seat 6: Bedrah10 ( $0.90 )
+jjkjjkjjk posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk folds
+** Summary **
+Bedrah10 did not show his hand
+Bedrah10 collected [ $0.03 ]
+
+
+#Game No : 454632488
+***** 888poker Hand History for Game 454632488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:09:14
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.19 )
+Seat 6: Bedrah10 ( $0.91 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 raises [$0.90]
+jjkjjkjjk calls [$0.17]
+** Dealing flop ** [ 7d, Ad, 8h ]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 7s ]
+** Summary **
+jjkjjkjjk shows [ 9d, 4c ]
+Bedrah10 shows [ Kc, Qd ]
+Bedrah10 collected [ $0.36 ]
+
+
+#Game No : 454632504
+***** 888poker Hand History for Game 454632504 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:10:02
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.11 )
+Seat 6: Bedrah10 ( $1.16 )
+jjkjjkjjk posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+Bedrah10 checks
+** Dealing flop ** [ 5h, 6s, 3s ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Dealing turn ** [ Qd ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Dealing river ** [ 4s ]
+Bedrah10 checks
+jjkjjkjjk bets [$0.02]
+Bedrah10 raises [$0.10]
+jjkjjkjjk calls [$0.07]
+** Summary **
+jjkjjkjjk shows [ Qs, Ts ]
+Bedrah10 shows [ 2h, Td ]
+jjkjjkjjk collected [ $0.21 ]
+
+
+#Game No : 454632521
+***** 888poker Hand History for Game 454632521 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:10:34
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.21 )
+Seat 6: Bedrah10 ( $1.05 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.03 ]
+
+
+#Game No : 454632524
+***** 888poker Hand History for Game 454632524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:10:39
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.22 )
+Seat 6: Bedrah10 ( $1.04 )
+jjkjjkjjk posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+Bedrah10 checks
+** Dealing flop ** [ 3h, 7c, 7d ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Dealing turn ** [ 8c ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Dealing river ** [ 8h ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Summary **
+Bedrah10 shows [ 5s, Jc ]
+jjkjjkjjk shows [ Kc, 2d ]
+jjkjjkjjk collected [ $0.04 ]
+
+
+#Game No : 454632530
+***** 888poker Hand History for Game 454632530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:11:02
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.24 )
+Seat 6: Bedrah10 ( $1.02 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 calls [$0.01]
+jjkjjkjjk checks
+** Dealing flop ** [ 7c, 5h, Ts ]
+jjkjjkjjk checks
+Bedrah10 bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Dealing turn ** [ 5s ]
+jjkjjkjjk checks
+Bedrah10 bets [$0.04]
+jjkjjkjjk folds
+** Summary **
+Bedrah10 did not show his hand
+Bedrah10 collected [ $0.08 ]
+
+
+#Game No : 454632540
+***** 888poker Hand History for Game 454632540 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:11:27
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.20 )
+Seat 6: Bedrah10 ( $1.06 )
+jjkjjkjjk posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk raises [$0.19]
+Bedrah10 calls [$0.18]
+** Dealing flop ** [ 6s, 8c, 9d ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ 3s ]
+** Summary **
+jjkjjkjjk shows [ 4c, 5s ]
+Bedrah10 shows [ 7c, 6c ]
+Bedrah10 collected [ $0.38 ]
+
+
+#Game No : 454632567
+***** 888poker Hand History for Game 454632567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:12:29
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.11 )
+Seat 6: Bedrah10 ( $1.36 )
+jjkjjkjjk posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk raises [$0.03]
+Bedrah10 calls [$0.02]
+** Dealing flop ** [ Ad, 9h, 8d ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Dealing turn ** [ 2s ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Dealing river ** [ Ts ]
+Bedrah10 checks
+jjkjjkjjk checks
+** Summary **
+Bedrah10 shows [ 5s, Kd ]
+jjkjjkjjk mucks [ Qh, 4h ]
+Bedrah10 collected [ $0.08 ]
+
+
+#Game No : 454632585
+***** 888poker Hand History for Game 454632585 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:13:16
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.12 )
+Seat 6: Bedrah10 ( $1.42 )
+Bedrah10 posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 raises [$0.05]
+jjkjjkjjk raises [$0.10]
+Bedrah10 calls [$0.06]
+** Dealing flop ** [ Qs, As, Ks ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 5h ]
+** Summary **
+jjkjjkjjk shows [ 4c, 7d ]
+Bedrah10 shows [ Jh, 6s ]
+jjkjjkjjk collected [ $0.12 ]
+Bedrah10 collected [ $0.11 ]
+
+
+#Game No : 454632593
+***** 888poker Hand History for Game 454632593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 02:13:38
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.12 )
+Seat 6: Bedrah10 ( $1.41 )
+jjkjjkjjk posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+Bedrah10 raises [$0.04]
+jjkjjkjjk calls [$0.04]
+** Dealing flop ** [ 6h, 9h, 2d ]
+Bedrah10 bets [$0.06]
+jjkjjkjjk calls [$0.06]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ Ks ]
+** Summary **
+jjkjjkjjk shows [ Ad, 9c ]
+Bedrah10 shows [ Kc, 6s ]
+Bedrah10 collected [ $0.23 ]
+
+
+#Game No : 454652265
+***** 888poker Hand History for Game 454652265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:12:31
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.11 )
+Seat 4: tigerguerin ( $0.76 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+tigerguerin checks
+** Dealing flop ** [ 7d, 7c, Kc ]
+tigerguerin bets [$0.74]
+jjkjjkjjk folds
+** Summary **
+tigerguerin did not show his hand
+tigerguerin collected [ $0.04 ]
+
+
+#Game No : 454652306
+***** 888poker Hand History for Game 454652306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:13:37
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.11 )
+Seat 4: tigerguerin ( $0.95 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+tigerguerin checks
+** Dealing flop ** [ Td, 6s, Ks ]
+tigerguerin bets [$0.04]
+jjkjjkjjk calls [$0.04]
+** Dealing turn ** [ Ah ]
+tigerguerin bets [$0.12]
+jjkjjkjjk calls [$0.05]
+** Dealing river ** [ Th ]
+** Summary **
+jjkjjkjjk shows [ 6h, 9c ]
+tigerguerin shows [ Kd, Js ]
+tigerguerin collected [ $0.21 ]
+
+
+#Game No : 454652329
+***** 888poker Hand History for Game 454652329 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:14:02
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.11 )
+Seat 4: tigerguerin ( $1.04 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk raises [$0.03]
+tigerguerin folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.04 ]
+
+
+#Game No : 454652333
+***** 888poker Hand History for Game 454652333 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:14:09
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.13 )
+Seat 4: tigerguerin ( $1.02 )
+tigerguerin posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+tigerguerin calls [$0.01]
+jjkjjkjjk checks
+** Dealing flop ** [ Qd, 5d, Jd ]
+jjkjjkjjk checks
+tigerguerin bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Dealing turn ** [ Td ]
+jjkjjkjjk checks
+tigerguerin bets [$0.08]
+jjkjjkjjk calls [$0.08]
+** Dealing river ** [ 5s ]
+jjkjjkjjk checks
+tigerguerin bets [$0.02]
+jjkjjkjjk calls [$0.01]
+** Summary **
+jjkjjkjjk shows [ 9d, 7h ]
+tigerguerin shows [ 9c, Kh ]
+jjkjjkjjk collected [ $0.25 ]
+
+
+#Game No : 454652356
+***** 888poker Hand History for Game 454652356 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:14:34
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.25 )
+Seat 4: tigerguerin ( $0.89 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+tigerguerin checks
+** Dealing flop ** [ 3h, 8h, 7d ]
+tigerguerin bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Dealing turn ** [ Jd ]
+tigerguerin bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Dealing river ** [ Js ]
+tigerguerin bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Summary **
+tigerguerin shows [ Tc, 3s ]
+jjkjjkjjk shows [ 7s, 9s ]
+jjkjjkjjk collected [ $0.15 ]
+
+
+#Game No : 454652372
+***** 888poker Hand History for Game 454652372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:14:53
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.32 )
+Seat 4: tigerguerin ( $0.81 )
+tigerguerin posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+tigerguerin calls [$0.01]
+jjkjjkjjk checks
+** Dealing flop ** [ Jh, Ac, 5h ]
+jjkjjkjjk checks
+tigerguerin bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Dealing turn ** [ 9s ]
+jjkjjkjjk checks
+tigerguerin bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Dealing river ** [ 2s ]
+jjkjjkjjk checks
+tigerguerin bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Summary **
+tigerguerin shows [ Td, Js ]
+jjkjjkjjk mucks [ Ts, Qh ]
+tigerguerin collected [ $0.15 ]
+
+
+#Game No : 454652390
+***** 888poker Hand History for Game 454652390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:15:12
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.24 )
+Seat 4: tigerguerin ( $0.88 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk raises [$0.03]
+tigerguerin calls [$0.02]
+** Dealing flop ** [ Tc, 8d, 4s ]
+tigerguerin checks
+jjkjjkjjk checks
+** Dealing turn ** [ 2s ]
+tigerguerin checks
+jjkjjkjjk checks
+** Dealing river ** [ Ad ]
+tigerguerin checks
+jjkjjkjjk checks
+** Summary **
+tigerguerin shows [ 4d, 7d ]
+jjkjjkjjk shows [ 4h, 9s ]
+jjkjjkjjk collected [ $0.08 ]
+
+
+#Game No : 454652407
+***** 888poker Hand History for Game 454652407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:15:33
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.28 )
+Seat 4: tigerguerin ( $0.84 )
+tigerguerin posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+tigerguerin calls [$0.01]
+jjkjjkjjk raises [$0.02]
+tigerguerin calls [$0.02]
+** Dealing flop ** [ 2h, 8h, Qc ]
+jjkjjkjjk checks
+tigerguerin checks
+** Dealing turn ** [ 8s ]
+jjkjjkjjk checks
+tigerguerin checks
+** Dealing river ** [ Ac ]
+jjkjjkjjk checks
+tigerguerin checks
+** Summary **
+jjkjjkjjk shows [ Jh, 6h ]
+tigerguerin mucks [ Ts, 9d ]
+jjkjjkjjk collected [ $0.08 ]
+
+
+#Game No : 454652420
+***** 888poker Hand History for Game 454652420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:15:54
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.32 )
+Seat 4: tigerguerin ( $0.80 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+tigerguerin checks
+** Dealing flop ** [ 3c, Ah, Jd ]
+tigerguerin checks
+jjkjjkjjk checks
+** Dealing turn ** [ Kd ]
+tigerguerin checks
+jjkjjkjjk checks
+** Dealing river ** [ 2h ]
+tigerguerin checks
+jjkjjkjjk checks
+** Summary **
+tigerguerin shows [ Td, 5c ]
+jjkjjkjjk mucks [ 4d, 8s ]
+tigerguerin collected [ $0.04 ]
+
+
+#Game No : 454652440
+***** 888poker Hand History for Game 454652440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:16:13
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.30 )
+Seat 4: tigerguerin ( $0.82 )
+tigerguerin posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+tigerguerin folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.03 ]
+
+
+#Game No : 454652443
+***** 888poker Hand History for Game 454652443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:16:19
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.31 )
+Seat 4: tigerguerin ( $0.81 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+tigerguerin checks
+** Dealing flop ** [ Js, Ac, 2h ]
+tigerguerin bets [$0.04]
+jjkjjkjjk folds
+** Summary **
+tigerguerin did not show his hand
+tigerguerin collected [ $0.04 ]
+
+
+#Game No : 454652449
+***** 888poker Hand History for Game 454652449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:16:30
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.29 )
+Seat 4: tigerguerin ( $0.83 )
+tigerguerin posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+tigerguerin folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.03 ]
+
+
+#Game No : 454652460
+***** 888poker Hand History for Game 454652460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:16:39
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.30 )
+Seat 4: tigerguerin ( $0.82 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk raises [$0.29]
+tigerguerin folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.04 ]
+
+
+#Game No : 454652467
+***** 888poker Hand History for Game 454652467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:16:46
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.32 )
+Seat 4: tigerguerin ( $0.80 )
+tigerguerin posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+tigerguerin raises [$0.05]
+jjkjjkjjk calls [$0.04]
+** Dealing flop ** [ 9h, 7c, As ]
+jjkjjkjjk checks
+tigerguerin checks
+** Dealing turn ** [ 2d ]
+jjkjjkjjk checks
+tigerguerin checks
+** Dealing river ** [ Jd ]
+jjkjjkjjk checks
+tigerguerin bets [$0.02]
+jjkjjkjjk calls [$0.02]
+** Summary **
+tigerguerin shows [ Js, Qh ]
+jjkjjkjjk mucks [ Ts, Kc ]
+tigerguerin collected [ $0.15 ]
+
+
+#Game No : 454652482
+***** 888poker Hand History for Game 454652482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:17:06
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.24 )
+Seat 4: tigerguerin ( $0.87 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk calls [$0.01]
+tigerguerin checks
+** Dealing flop ** [ Ah, 6h, Kc ]
+tigerguerin checks
+jjkjjkjjk checks
+** Dealing turn ** [ 7d ]
+tigerguerin checks
+jjkjjkjjk bets [$0.02]
+tigerguerin calls [$0.02]
+** Dealing river ** [ 5c ]
+tigerguerin checks
+jjkjjkjjk checks
+** Summary **
+tigerguerin shows [ 4c, 6c ]
+jjkjjkjjk shows [ 8s, Kh ]
+jjkjjkjjk collected [ $0.08 ]
+
+
+#Game No : 454652496
+***** 888poker Hand History for Game 454652496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:17:26
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.28 )
+Seat 4: tigerguerin ( $0.83 )
+tigerguerin posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+tigerguerin folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.03 ]
+
+
+#Game No : 454652502
+***** 888poker Hand History for Game 454652502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:17:31
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.29 )
+Seat 4: tigerguerin ( $0.82 )
+jjkjjkjjk posts small blind [$0.01]
+tigerguerin posts big blind [$0.02]
+** Dealing down cards **
+jjkjjkjjk raises [$0.05]
+tigerguerin folds
+** Summary **
+jjkjjkjjk did not show his hand
+jjkjjkjjk collected [ $0.04 ]
+
+
+#Game No : 454652509
+***** 888poker Hand History for Game 454652509 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:17:40
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jjkjjkjjk ( $0.31 )
+Seat 4: tigerguerin ( $0.80 )
+tigerguerin posts small blind [$0.01]
+jjkjjkjjk posts big blind [$0.02]
+** Dealing down cards **
+tigerguerin raises [$0.05]
+jjkjjkjjk calls [$0.04]
+** Dealing flop ** [ Ks, Js, 5s ]
+jjkjjkjjk checks
+tigerguerin bets [$0.12]
+jjkjjkjjk calls [$0.12]
+** Dealing turn ** [ 9s ]
+jjkjjkjjk checks
+tigerguerin bets [$0.62]
+jjkjjkjjk calls [$0.13]
+** Dealing river ** [ 7h ]
+** Summary **
+jjkjjkjjk shows [ Jh, 6c ]
+tigerguerin shows [ Ad, 7s ]
+tigerguerin collected [ $0.59 ]
+
+
+#Game No : 454653554
+***** 888poker Hand History for Game 454653554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 13:39:08
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Ediniz971 ( $0.08 )
+Seat 7: Alim8 ( $0.63 )
+Ediniz971 posts small blind [$0.01]
+Alim8 posts big blind [$0.02]
+** Dealing down cards **
+Ediniz971 calls [$0.01]
+Alim8 checks
+** Dealing flop ** [ 3h, 6h, 8c ]
+Alim8 checks
+Ediniz971 bets [$0.06]
+Alim8 folds
+** Summary **
+Ediniz971 did not show his hand
+Ediniz971 collected [ $0.04 ]
+
+

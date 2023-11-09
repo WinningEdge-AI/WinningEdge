@@ -1,0 +1,70 @@
+#Game No : 526150089
+***** 888poker Hand History for Game 526150089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 23:15:02
+Table Coronel 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $1.98 )
+Seat 3: kochelasov_a ( $2.02 )
+kochelasov_a posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kochelasov_a calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 2h, 9c, 9s ]
+avramia1 checks
+kochelasov_a checks
+** Dealing turn ** [ 8c ]
+avramia1 folds
+** Summary **
+kochelasov_a did not show his hand
+kochelasov_a collected [ $0.04 ]
+
+
+#Game No : 526150101
+***** 888poker Hand History for Game 526150101 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 23:15:08
+Table Coronel 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $1.96 )
+Seat 3: kochelasov_a ( $2.04 )
+avramia1 posts small blind [$0.01]
+kochelasov_a posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+kochelasov_a folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.04 ]
+
+
+#Game No : 526150111
+***** 888poker Hand History for Game 526150111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 23:15:21
+Table Coronel 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $1.98 )
+Seat 3: kochelasov_a ( $2.02 )
+kochelasov_a posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kochelasov_a calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 3d, 6c, 4h ]
+avramia1 checks
+kochelasov_a bets [$0.02]
+avramia1 calls [$0.02]
+** Dealing turn ** [ 9h ]
+avramia1 checks
+kochelasov_a bets [$0.02]
+avramia1 calls [$0.02]
+** Dealing river ** [ 6h ]
+avramia1 checks
+kochelasov_a bets [$0.02]
+avramia1 folds
+** Summary **
+kochelasov_a collected [ $0.12 ]
+
+

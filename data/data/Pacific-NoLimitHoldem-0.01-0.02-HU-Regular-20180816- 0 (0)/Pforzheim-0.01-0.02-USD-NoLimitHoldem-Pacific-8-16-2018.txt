@@ -1,0 +1,26 @@
+#Game No : 505959102
+***** 888poker Hand History for Game 505959102 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 05:58:55
+Table Pforzheim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: klvrtr ( $0.64 )
+Seat 4: scs1914 ( $0.94 )
+scs1914 posts small blind [$0.01]
+klvrtr posts big blind [$0.02]
+** Dealing down cards **
+scs1914 calls [$0.01]
+klvrtr checks
+** Dealing flop ** [ 2h, Kc, 9s ]
+klvrtr checks
+scs1914 checks
+** Dealing turn ** [ 2d ]
+klvrtr checks
+scs1914 checks
+** Dealing river ** [ Qc ]
+klvrtr bets [$0.04]
+scs1914 folds
+** Summary **
+klvrtr collected [ $0.04 ]
+
+

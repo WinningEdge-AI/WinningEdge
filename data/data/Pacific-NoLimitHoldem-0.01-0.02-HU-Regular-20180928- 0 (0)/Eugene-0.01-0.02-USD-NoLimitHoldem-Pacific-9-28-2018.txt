@@ -1,0 +1,54 @@
+#Game No : 503042605
+***** 888poker Hand History for Game 503042605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 10:39:08
+Table Eugene 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ALIAKSANDR44 ( $0.98 )
+Seat 4: vnuk36 ( $0.82 )
+ALIAKSANDR44 posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ 7s, 9h, 7h ]
+vnuk36 checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ Th ]
+vnuk36 bets [$0.04]
+ALIAKSANDR44 calls [$0.04]
+** Dealing river ** [ 4d ]
+vnuk36 bets [$0.12]
+ALIAKSANDR44 folds
+** Summary **
+vnuk36 collected [ $0.12 ]
+
+
+#Game No : 503045390
+***** 888poker Hand History for Game 503045390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 11:28:37
+Table Eugene 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: danyelnb ( $0.66 )
+Seat 6: Gotpkr13 ( $1.54 )
+danyelnb posts small blind [$0.01]
+Gotpkr13 posts big blind [$0.02]
+** Dealing down cards **
+danyelnb calls [$0.01]
+Gotpkr13 checks
+** Dealing flop ** [ 6d, Js, Qd ]
+Gotpkr13 bets [$0.04]
+danyelnb calls [$0.04]
+** Dealing turn ** [ Ah ]
+Gotpkr13 bets [$0.06]
+danyelnb calls [$0.06]
+** Dealing river ** [ 4s ]
+Gotpkr13 bets [$0.12]
+danyelnb calls [$0.12]
+** Summary **
+Gotpkr13 shows [ 6s, Qc ]
+danyelnb mucks [ 5h, Qs ]
+Gotpkr13 collected [ $0.45 ]
+
+

@@ -1,0 +1,45 @@
+#Game No : 500077153
+***** 888poker Hand History for Game 500077153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 11:14:40
+Table Sarnia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Drossel11 ( $1 )
+Seat 7: Alex777735 ( $0.76 )
+Alex777735 posts small blind [$0.01]
+** Dealing down cards **
+Drossel11 folds
+** Summary **
+Alex777735 collected [ $0.01 ]
+
+
+#Game No : 500077157
+***** 888poker Hand History for Game 500077157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 07 2018 11:14:43
+Table Sarnia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: cthutqtabv ( $0.74 )
+Seat 7: Alex777735 ( $0.76 )
+Alex777735 posts small blind [$0.01]
+cthutqtabv posts big blind [$0.02]
+** Dealing down cards **
+Alex777735 raises [$0.03]
+cthutqtabv calls [$0.02]
+** Dealing flop ** [ 7s, Qc, 9h ]
+cthutqtabv checks
+Alex777735 bets [$0.04]
+cthutqtabv calls [$0.04]
+** Dealing turn ** [ 8h ]
+cthutqtabv bets [$0.10]
+Alex777735 calls [$0.10]
+** Dealing river ** [ 5d ]
+cthutqtabv bets [$0.24]
+Alex777735 raises [$0.58]
+cthutqtabv calls [$0.32]
+** Summary **
+cthutqtabv shows [ 4s, Qh ]
+Alex777735 shows [ 6c, Qd ]
+Alex777735 collected [ $1.39 ]
+
+

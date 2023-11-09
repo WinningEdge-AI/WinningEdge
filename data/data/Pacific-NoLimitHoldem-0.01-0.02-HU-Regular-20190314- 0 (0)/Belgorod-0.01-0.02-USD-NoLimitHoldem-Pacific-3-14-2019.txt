@@ -1,0 +1,68 @@
+#Game No : 1254808884
+***** 888poker Hand History for Game 1254808884 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 12:06:33
+Table Belgorod 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jacknicker88 ( $1.36 )
+Seat 6: Psssshh ( $2.05 )
+jacknicker88 posts small blind [$0.01]
+Psssshh posts big blind [$0.02]
+** Dealing down cards **
+jacknicker88 folds
+** Summary **
+Psssshh collected [ $0.03 ]
+
+
+#Game No : 1254808905
+***** 888poker Hand History for Game 1254808905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 12:06:38
+Table Belgorod 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jacknicker88 ( $1.35 )
+Seat 6: Psssshh ( $2.06 )
+Psssshh posts small blind [$0.01]
+jacknicker88 posts big blind [$0.02]
+** Dealing down cards **
+Psssshh raises [$0.05]
+jacknicker88 calls [$0.04]
+** Dealing flop ** [ 6h, Qh, 3h ]
+jacknicker88 checks
+Psssshh checks
+** Dealing turn ** [ 9d ]
+jacknicker88 bets [$0.06]
+Psssshh folds
+** Summary **
+jacknicker88 collected [ $0.12 ]
+
+
+#Game No : 1254809596
+***** 888poker Hand History for Game 1254809596 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 12:09:23
+Table Belgorod 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Fargot14 ( $1.54 )
+Seat 9: miscue111 ( $0.74 )
+miscue111 posts small blind [$0.01]
+Fargot14 posts big blind [$0.02]
+** Dealing down cards **
+miscue111 calls [$0.01]
+Fargot14 raises [$0.02]
+miscue111 calls [$0.02]
+** Dealing flop ** [ 3s, 4h, 5c ]
+Fargot14 bets [$0.05]
+miscue111 calls [$0.05]
+** Dealing turn ** [ Ks ]
+Fargot14 bets [$0.09]
+miscue111 calls [$0.09]
+** Dealing river ** [ 7s ]
+Fargot14 bets [$0.56]
+miscue111 calls [$0.56]
+** Summary **
+Fargot14 shows [ 6d, 5h ]
+miscue111 shows [ 7d, Jc ]
+Fargot14 collected [ $1.39 ]
+
+

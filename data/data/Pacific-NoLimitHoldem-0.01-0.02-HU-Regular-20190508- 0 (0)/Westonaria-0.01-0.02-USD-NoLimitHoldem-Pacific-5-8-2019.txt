@@ -1,0 +1,101 @@
+#Game No : 530514634
+***** 888poker Hand History for Game 530514634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 01:32:00
+Table Westonaria 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: vegas6000 ( $0.86 )
+Seat 5: raskep ( $1.14 )
+raskep posts small blind [$0.01]
+vegas6000 posts big blind [$0.02]
+** Dealing down cards **
+raskep calls [$0.01]
+vegas6000 checks
+** Dealing flop ** [ Ad, Th, Kd ]
+vegas6000 checks
+raskep checks
+** Dealing turn ** [ 3c ]
+vegas6000 checks
+raskep checks
+** Dealing river ** [ 2h ]
+vegas6000 checks
+raskep checks
+** Summary **
+vegas6000 shows [ 9d, 7s ]
+raskep mucks [ 8c, 5s ]
+vegas6000 collected [ $0.04 ]
+
+
+#Game No : 530514651
+***** 888poker Hand History for Game 530514651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 01:32:26
+Table Westonaria 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vegas6000 ( $0.88 )
+Seat 5: raskep ( $1.12 )
+vegas6000 posts small blind [$0.01]
+raskep posts big blind [$0.02]
+** Dealing down cards **
+vegas6000 calls [$0.01]
+raskep checks
+** Dealing flop ** [ 8d, 9h, 9c ]
+raskep checks
+vegas6000 checks
+** Dealing turn ** [ 4d ]
+raskep checks
+vegas6000 bets [$0.02]
+raskep calls [$0.02]
+** Dealing river ** [ Ts ]
+raskep checks
+vegas6000 checks
+** Summary **
+raskep shows [ Kh, 6d ]
+vegas6000 shows [ Ah, 5d ]
+vegas6000 collected [ $0.08 ]
+
+
+#Game No : 530514688
+***** 888poker Hand History for Game 530514688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 01:33:21
+Table Westonaria 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: vegas6000 ( $0.92 )
+Seat 5: raskep ( $1.08 )
+raskep posts small blind [$0.01]
+vegas6000 posts big blind [$0.02]
+** Dealing down cards **
+raskep folds
+** Summary **
+vegas6000 collected [ $0.03 ]
+
+
+#Game No : 530514691
+***** 888poker Hand History for Game 530514691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 01:33:26
+Table Westonaria 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 5: raskep ( $1.07 )
+Seat 6: omkogaion ( $2 )
+raskep posts small blind [$0.01]
+omkogaion posts big blind [$0.02]
+** Dealing down cards **
+raskep calls [$0.01]
+omkogaion checks
+** Dealing flop ** [ Jd, 8d, As ]
+raskep checks
+omkogaion checks
+** Dealing turn ** [ 9h ]
+raskep checks
+omkogaion checks
+** Dealing river ** [ 9d ]
+raskep checks
+omkogaion checks
+** Summary **
+raskep shows [ 5s, 7d ]
+omkogaion shows [ Tc, 2d ]
+omkogaion collected [ $0.04 ]
+
+

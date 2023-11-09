@@ -1,0 +1,56 @@
+#Game No : 604256812
+***** 888poker Hand History for Game 604256812 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 01:15:22
+Table Maribor 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Papa959 ( $2 )
+Seat 3: Donataurus1 ( $0.80 )
+Papa959 posts small blind [$0.01]
+Donataurus1 posts big blind [$0.02]
+** Dealing down cards **
+Papa959 calls [$0.01]
+Donataurus1 checks
+** Dealing flop ** [ 5d, 5s, 4d ]
+Donataurus1 checks
+Papa959 checks
+** Dealing turn ** [ 2s ]
+Donataurus1 checks
+Papa959 checks
+** Dealing river ** [ 5c ]
+Donataurus1 bets [$0.02]
+Papa959 calls [$0.02]
+** Summary **
+Donataurus1 shows [ Qs, 8d ]
+Papa959 shows [ Ad, 8s ]
+Papa959 collected [ $0.08 ]
+
+
+#Game No : 604256824
+***** 888poker Hand History for Game 604256824 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 01:15:47
+Table Maribor 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: Papa959 ( $2.04 )
+Seat 3: Donataurus1 ( $0.76 )
+Donataurus1 posts small blind [$0.01]
+Papa959 posts big blind [$0.02]
+** Dealing down cards **
+Donataurus1 calls [$0.01]
+Papa959 checks
+** Dealing flop ** [ 6s, 3s, 3h ]
+Papa959 checks
+Donataurus1 checks
+** Dealing turn ** [ 6h ]
+Papa959 checks
+Donataurus1 checks
+** Dealing river ** [ Jc ]
+Papa959 checks
+Donataurus1 checks
+** Summary **
+Papa959 shows [ Ac, Js ]
+Donataurus1 mucks [ 8s, 5c ]
+Papa959 collected [ $0.04 ]
+
+

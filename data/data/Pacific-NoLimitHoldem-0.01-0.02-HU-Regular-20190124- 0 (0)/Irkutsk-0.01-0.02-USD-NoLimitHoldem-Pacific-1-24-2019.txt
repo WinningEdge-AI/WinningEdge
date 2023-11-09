@@ -1,0 +1,268 @@
+#Game No : 512637437
+***** 888poker Hand History for Game 512637437 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:07:57
+Table Irkutsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Poker_PyLuT ( $0.85 )
+Seat 9: pericles24 ( $5.09 )
+Poker_PyLuT posts small blind [$0.01]
+pericles24 posts big blind [$0.02]
+** Dealing down cards **
+Poker_PyLuT folds
+** Summary **
+pericles24 collected [ $0.03 ]
+
+
+#Game No : 512637444
+***** 888poker Hand History for Game 512637444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:09:32
+Table Irkutsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Poker_PyLuT ( $0.84 )
+Seat 9: pericles24 ( $5.10 )
+pericles24 posts small blind [$0.01]
+Poker_PyLuT posts big blind [$0.02]
+** Dealing down cards **
+pericles24 folds
+** Summary **
+Poker_PyLuT collected [ $0.03 ]
+
+
+#Game No : 512637449
+***** 888poker Hand History for Game 512637449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:09:33
+Table Irkutsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Poker_PyLuT ( $0.85 )
+Seat 9: pericles24 ( $5.09 )
+Poker_PyLuT posts small blind [$0.01]
+pericles24 posts big blind [$0.02]
+** Dealing down cards **
+Poker_PyLuT raises [$0.03]
+pericles24 calls [$0.02]
+** Dealing flop ** [ 6s, Ac, Js ]
+pericles24 checks
+Poker_PyLuT checks
+** Dealing turn ** [ Jc ]
+pericles24 checks
+Poker_PyLuT checks
+** Dealing river ** [ 5s ]
+pericles24 checks
+Poker_PyLuT checks
+** Summary **
+pericles24 shows [ Qc, Td ]
+Poker_PyLuT shows [ Kd, 4d ]
+Poker_PyLuT collected [ $0.08 ]
+
+
+#Game No : 512637465
+***** 888poker Hand History for Game 512637465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:09:52
+Table Irkutsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Poker_PyLuT ( $0.89 )
+Seat 9: pericles24 ( $5.05 )
+pericles24 posts small blind [$0.01]
+Poker_PyLuT posts big blind [$0.02]
+** Dealing down cards **
+pericles24 raises [$0.05]
+Poker_PyLuT folds
+** Summary **
+pericles24 collected [ $0.04 ]
+
+
+#Game No : 512637471
+***** 888poker Hand History for Game 512637471 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:10:20
+Table Irkutsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Poker_PyLuT ( $0.87 )
+Seat 9: pericles24 ( $5.07 )
+Poker_PyLuT posts small blind [$0.01]
+pericles24 posts big blind [$0.02]
+** Dealing down cards **
+Poker_PyLuT raises [$0.21]
+pericles24 folds
+** Summary **
+Poker_PyLuT collected [ $0.04 ]
+
+
+#Game No : 512637483
+***** 888poker Hand History for Game 512637483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:11:15
+Table Irkutsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Poker_PyLuT ( $0.89 )
+Seat 9: pericles24 ( $5.05 )
+pericles24 posts small blind [$0.01]
+Poker_PyLuT posts big blind [$0.02]
+** Dealing down cards **
+pericles24 raises [$0.05]
+Poker_PyLuT folds
+** Summary **
+pericles24 collected [ $0.04 ]
+
+
+#Game No : 512637487
+***** 888poker Hand History for Game 512637487 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:11:15
+Table Irkutsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Poker_PyLuT ( $0.87 )
+Seat 9: pericles24 ( $5.07 )
+Poker_PyLuT posts small blind [$0.01]
+pericles24 posts big blind [$0.02]
+** Dealing down cards **
+Poker_PyLuT calls [$0.01]
+pericles24 raises [$0.06]
+Poker_PyLuT folds
+** Summary **
+pericles24 collected [ $0.04 ]
+
+
+#Game No : 512637861
+***** 888poker Hand History for Game 512637861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:36:17
+Table Irkutsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OrbitalGames ( $2.22 )
+Seat 9: pericles24 ( $5.12 )
+OrbitalGames posts small blind [$0.01]
+pericles24 posts big blind [$0.02]
+** Dealing down cards **
+OrbitalGames calls [$0.01]
+pericles24 checks
+** Dealing flop ** [ 2d, 2c, 6c ]
+pericles24 bets [$0.03]
+OrbitalGames calls [$0.03]
+** Dealing turn ** [ Qc ]
+pericles24 checks
+OrbitalGames checks
+** Dealing river ** [ 4h ]
+pericles24 checks
+OrbitalGames bets [$0.02]
+pericles24 folds
+** Summary **
+OrbitalGames did not show his hand
+OrbitalGames collected [ $0.10 ]
+
+
+#Game No : 512637875
+***** 888poker Hand History for Game 512637875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:36:42
+Table Irkutsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: OrbitalGames ( $2.27 )
+Seat 9: pericles24 ( $5.07 )
+pericles24 posts small blind [$0.01]
+OrbitalGames posts big blind [$0.02]
+** Dealing down cards **
+pericles24 raises [$0.05]
+OrbitalGames folds
+** Summary **
+pericles24 did not show his hand
+pericles24 collected [ $0.04 ]
+
+
+#Game No : 512637879
+***** 888poker Hand History for Game 512637879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:36:59
+Table Irkutsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OrbitalGames ( $2.25 )
+Seat 9: pericles24 ( $5.09 )
+OrbitalGames posts small blind [$0.01]
+pericles24 posts big blind [$0.02]
+** Dealing down cards **
+OrbitalGames calls [$0.01]
+pericles24 checks
+** Dealing flop ** [ 6s, Js, 3d ]
+pericles24 checks
+OrbitalGames checks
+** Dealing turn ** [ 7c ]
+pericles24 bets [$0.03]
+OrbitalGames calls [$0.03]
+** Dealing river ** [ 4s ]
+pericles24 checks
+OrbitalGames checks
+** Summary **
+pericles24 shows [ 4c, 8d ]
+OrbitalGames shows [ Qc, 9d ]
+pericles24 collected [ $0.10 ]
+
+
+#Game No : 512637901
+***** 888poker Hand History for Game 512637901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:38:10
+Table Irkutsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: OrbitalGames ( $2.20 )
+Seat 9: pericles24 ( $5.14 )
+pericles24 posts small blind [$0.01]
+OrbitalGames posts big blind [$0.02]
+** Dealing down cards **
+pericles24 raises [$0.03]
+OrbitalGames calls [$0.02]
+** Dealing flop ** [ Jc, Kd, 6h ]
+OrbitalGames checks
+pericles24 checks
+** Dealing turn ** [ 5d ]
+OrbitalGames checks
+pericles24 bets [$0.06]
+OrbitalGames folds
+** Summary **
+pericles24 did not show his hand
+pericles24 collected [ $0.08 ]
+
+
+#Game No : 512637909
+***** 888poker Hand History for Game 512637909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:38:48
+Table Irkutsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OrbitalGames ( $2.16 )
+Seat 9: pericles24 ( $5.18 )
+OrbitalGames posts small blind [$0.01]
+pericles24 posts big blind [$0.02]
+** Dealing down cards **
+OrbitalGames calls [$0.01]
+pericles24 checks
+** Dealing flop ** [ 5h, 4c, 5c ]
+pericles24 bets [$0.03]
+OrbitalGames raises [$0.06]
+pericles24 folds
+** Summary **
+OrbitalGames did not show his hand
+OrbitalGames collected [ $0.10 ]
+
+
+#Game No : 512637916
+***** 888poker Hand History for Game 512637916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 21:39:24
+Table Irkutsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: OrbitalGames ( $2.21 )
+Seat 9: pericles24 ( $5.13 )
+pericles24 posts small blind [$0.01]
+OrbitalGames posts big blind [$0.02]
+** Dealing down cards **
+pericles24 raises [$0.05]
+OrbitalGames folds
+** Summary **
+pericles24 did not show his hand
+pericles24 collected [ $0.04 ]
+
+

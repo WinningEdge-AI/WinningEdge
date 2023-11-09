@@ -1,0 +1,305 @@
+#Game No : 499207501
+***** 888poker Hand History for Game 499207501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:40:31
+Table Namur 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: PukkAccfc198 ( $0.23 )
+Seat 4: KpecT_92RUS ( $1.42 )
+PukkAccfc198 posts small blind [$0.01]
+KpecT_92RUS posts big blind [$0.02]
+** Dealing down cards **
+PukkAccfc198 raises [$0.03]
+KpecT_92RUS calls [$0.02]
+** Dealing flop ** [ 3c, 9d, Td ]
+KpecT_92RUS bets [$0.02]
+PukkAccfc198 raises [$0.14]
+KpecT_92RUS calls [$0.12]
+** Dealing turn ** [ 7c ]
+KpecT_92RUS checks
+PukkAccfc198 bets [$0.05]
+KpecT_92RUS calls [$0.05]
+** Dealing river ** [ 3h ]
+** Summary **
+PukkAccfc198 shows [ Ks, Kd ]
+KpecT_92RUS shows [ 8s, 9s ]
+PukkAccfc198 collected [ $0.44 ]
+
+
+#Game No : 499207509
+***** 888poker Hand History for Game 499207509 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:41:00
+Table Namur 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: PukkAccfc198 ( $0.44 )
+Seat 4: KpecT_92RUS ( $1.19 )
+KpecT_92RUS posts small blind [$0.01]
+PukkAccfc198 posts big blind [$0.02]
+** Dealing down cards **
+KpecT_92RUS folds
+** Summary **
+PukkAccfc198 did not show his hand
+PukkAccfc198 collected [ $0.03 ]
+
+
+#Game No : 499207511
+***** 888poker Hand History for Game 499207511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:41:05
+Table Namur 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: PukkAccfc198 ( $0.45 )
+Seat 4: KpecT_92RUS ( $1.18 )
+PukkAccfc198 posts small blind [$0.01]
+KpecT_92RUS posts big blind [$0.02]
+** Dealing down cards **
+PukkAccfc198 raises [$0.44]
+KpecT_92RUS folds
+** Summary **
+PukkAccfc198 collected [ $0.04 ]
+
+
+#Game No : 499207519
+***** 888poker Hand History for Game 499207519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:41:13
+Table Namur 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: PukkAccfc198 ( $0.47 )
+Seat 4: KpecT_92RUS ( $1.16 )
+KpecT_92RUS posts small blind [$0.01]
+PukkAccfc198 posts big blind [$0.02]
+** Dealing down cards **
+KpecT_92RUS folds
+** Summary **
+PukkAccfc198 collected [ $0.03 ]
+
+
+#Game No : 499207529
+***** 888poker Hand History for Game 499207529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:41:49
+Table Namur 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $1.11 )
+Seat 6: s10zaidi ( $1.46 )
+KpecT_92RUS posts small blind [$0.01]
+s10zaidi posts big blind [$0.02]
+** Dealing down cards **
+KpecT_92RUS calls [$0.01]
+s10zaidi raises [$0.06]
+KpecT_92RUS calls [$0.06]
+** Dealing flop ** [ 6h, 2h, 6c ]
+s10zaidi bets [$0.30]
+KpecT_92RUS folds
+** Summary **
+s10zaidi did not show his hand
+s10zaidi collected [ $0.15 ]
+
+
+#Game No : 499207541
+***** 888poker Hand History for Game 499207541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:42:16
+Table Namur 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $1.03 )
+Seat 6: s10zaidi ( $1.53 )
+s10zaidi posts small blind [$0.01]
+KpecT_92RUS posts big blind [$0.02]
+** Dealing down cards **
+s10zaidi calls [$0.01]
+KpecT_92RUS checks
+** Dealing flop ** [ 7s, 4s, 9c ]
+KpecT_92RUS checks
+s10zaidi checks
+** Dealing turn ** [ 4d ]
+KpecT_92RUS checks
+s10zaidi checks
+** Dealing river ** [ 8h ]
+KpecT_92RUS checks
+s10zaidi checks
+** Summary **
+KpecT_92RUS shows [ 3s, 3h ]
+s10zaidi mucks [ Tc, 5s ]
+KpecT_92RUS collected [ $0.04 ]
+
+
+#Game No : 499207549
+***** 888poker Hand History for Game 499207549 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:42:56
+Table Namur 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $1.05 )
+Seat 6: s10zaidi ( $1.51 )
+KpecT_92RUS posts small blind [$0.01]
+s10zaidi posts big blind [$0.02]
+** Dealing down cards **
+KpecT_92RUS raises [$0.05]
+s10zaidi calls [$0.04]
+** Dealing flop ** [ Th, 5d, 3h ]
+s10zaidi checks
+KpecT_92RUS checks
+** Dealing turn ** [ 9c ]
+s10zaidi checks
+KpecT_92RUS checks
+** Dealing river ** [ Ts ]
+s10zaidi checks
+KpecT_92RUS checks
+** Summary **
+s10zaidi shows [ Kh, 7s ]
+KpecT_92RUS shows [ Ah, Kd ]
+KpecT_92RUS collected [ $0.12 ]
+
+
+#Game No : 499207558
+***** 888poker Hand History for Game 499207558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:43:20
+Table Namur 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $1.11 )
+Seat 6: s10zaidi ( $1.45 )
+s10zaidi posts small blind [$0.01]
+KpecT_92RUS posts big blind [$0.02]
+** Dealing down cards **
+s10zaidi folds
+** Summary **
+KpecT_92RUS did not show his hand
+KpecT_92RUS collected [ $0.03 ]
+
+
+#Game No : 499207562
+***** 888poker Hand History for Game 499207562 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:43:27
+Table Namur 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $1.12 )
+Seat 6: s10zaidi ( $1.44 )
+KpecT_92RUS posts small blind [$0.01]
+s10zaidi posts big blind [$0.02]
+** Dealing down cards **
+KpecT_92RUS calls [$0.01]
+s10zaidi raises [$0.02]
+KpecT_92RUS calls [$0.02]
+** Dealing flop ** [ Ts, 3c, Tc ]
+s10zaidi bets [$0.06]
+KpecT_92RUS folds
+** Summary **
+s10zaidi did not show his hand
+s10zaidi collected [ $0.08 ]
+
+
+#Game No : 499207569
+***** 888poker Hand History for Game 499207569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:43:46
+Table Namur 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $1.08 )
+Seat 6: s10zaidi ( $1.48 )
+s10zaidi posts small blind [$0.01]
+KpecT_92RUS posts big blind [$0.02]
+** Dealing down cards **
+s10zaidi raises [$0.03]
+KpecT_92RUS calls [$0.02]
+** Dealing flop ** [ Kc, 8c, 4c ]
+KpecT_92RUS checks
+s10zaidi bets [$0.08]
+KpecT_92RUS folds
+** Summary **
+s10zaidi did not show his hand
+s10zaidi collected [ $0.08 ]
+
+
+#Game No : 499207578
+***** 888poker Hand History for Game 499207578 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:44:10
+Table Namur 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $1.04 )
+Seat 6: s10zaidi ( $1.52 )
+KpecT_92RUS posts small blind [$0.01]
+s10zaidi posts big blind [$0.02]
+** Dealing down cards **
+KpecT_92RUS folds
+** Summary **
+s10zaidi did not show his hand
+s10zaidi collected [ $0.03 ]
+
+
+#Game No : 499207579
+***** 888poker Hand History for Game 499207579 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:44:15
+Table Namur 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $1.03 )
+Seat 6: s10zaidi ( $1.53 )
+s10zaidi posts small blind [$0.01]
+KpecT_92RUS posts big blind [$0.02]
+** Dealing down cards **
+s10zaidi calls [$0.01]
+KpecT_92RUS checks
+** Dealing flop ** [ 9s, Tc, Kd ]
+KpecT_92RUS checks
+s10zaidi checks
+** Dealing turn ** [ 2d ]
+KpecT_92RUS checks
+s10zaidi bets [$0.04]
+KpecT_92RUS folds
+** Summary **
+s10zaidi did not show his hand
+s10zaidi collected [ $0.04 ]
+
+
+#Game No : 499207587
+***** 888poker Hand History for Game 499207587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:44:37
+Table Namur 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $1.01 )
+Seat 6: s10zaidi ( $1.55 )
+KpecT_92RUS posts small blind [$0.01]
+s10zaidi posts big blind [$0.02]
+** Dealing down cards **
+KpecT_92RUS calls [$0.01]
+s10zaidi checks
+** Dealing flop ** [ Ks, Kd, Ad ]
+s10zaidi checks
+KpecT_92RUS checks
+** Dealing turn ** [ 7d ]
+s10zaidi bets [$0.02]
+KpecT_92RUS folds
+** Summary **
+s10zaidi did not show his hand
+s10zaidi collected [ $0.04 ]
+
+
+#Game No : 499207593
+***** 888poker Hand History for Game 499207593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2018 00:44:53
+Table Namur 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: KpecT_92RUS ( $0.99 )
+Seat 6: s10zaidi ( $1.57 )
+s10zaidi posts small blind [$0.01]
+KpecT_92RUS posts big blind [$0.02]
+** Dealing down cards **
+s10zaidi calls [$0.01]
+KpecT_92RUS raises [$0.02]
+s10zaidi calls [$0.02]
+** Dealing flop ** [ 6s, Kd, 8d ]
+KpecT_92RUS bets [$0.05]
+s10zaidi folds
+** Summary **
+KpecT_92RUS did not show his hand
+KpecT_92RUS collected [ $0.08 ]
+
+

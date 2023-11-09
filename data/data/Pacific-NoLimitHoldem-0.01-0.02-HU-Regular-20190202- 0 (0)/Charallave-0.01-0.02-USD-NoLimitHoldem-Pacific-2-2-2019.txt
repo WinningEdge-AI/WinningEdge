@@ -1,0 +1,136 @@
+#Game No : 615086515
+***** 888poker Hand History for Game 615086515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 14:24:01
+Table Charallave 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eAuKgQeJnTe ( $2 )
+Seat 7: adamjasari ( $1.39 )
+eAuKgQeJnTe posts small blind [$0.01]
+adamjasari posts big blind [$0.02]
+** Dealing down cards **
+eAuKgQeJnTe folds
+** Summary **
+adamjasari collected [ $0.03 ]
+
+
+#Game No : 615086624
+***** 888poker Hand History for Game 615086624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 14:26:00
+Table Charallave 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $0.65 )
+Seat 7: adamjasari ( $1.51 )
+eyescrossed posts small blind [$0.01]
+adamjasari posts big blind [$0.02]
+** Dealing down cards **
+eyescrossed folds
+** Summary **
+adamjasari collected [ $0.03 ]
+
+
+#Game No : 615086633
+***** 888poker Hand History for Game 615086633 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 14:26:06
+Table Charallave 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $0.64 )
+Seat 7: adamjasari ( $1.52 )
+adamjasari posts small blind [$0.01]
+eyescrossed posts big blind [$0.02]
+** Dealing down cards **
+adamjasari calls [$0.01]
+eyescrossed raises [$0.04]
+adamjasari calls [$0.04]
+** Dealing flop ** [ 2d, 4s, Qc ]
+eyescrossed bets [$0.58]
+adamjasari folds
+** Summary **
+eyescrossed did not show his hand
+eyescrossed collected [ $0.12 ]
+
+
+#Game No : 615086650
+***** 888poker Hand History for Game 615086650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 14:26:24
+Table Charallave 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $0.70 )
+Seat 7: adamjasari ( $1.46 )
+eyescrossed posts small blind [$0.01]
+adamjasari posts big blind [$0.02]
+** Dealing down cards **
+eyescrossed calls [$0.01]
+adamjasari checks
+** Dealing flop ** [ Ac, 9s, 7s ]
+adamjasari checks
+eyescrossed checks
+** Dealing turn ** [ Ah ]
+adamjasari checks
+eyescrossed checks
+** Dealing river ** [ Kc ]
+adamjasari checks
+eyescrossed checks
+** Summary **
+adamjasari shows [ Qh, 5c ]
+eyescrossed mucks [ 8d, 6c ]
+adamjasari collected [ $0.04 ]
+
+
+#Game No : 615086670
+***** 888poker Hand History for Game 615086670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 14:26:46
+Table Charallave 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $0.68 )
+Seat 7: adamjasari ( $1.48 )
+adamjasari posts small blind [$0.01]
+eyescrossed posts big blind [$0.02]
+** Dealing down cards **
+adamjasari calls [$0.01]
+eyescrossed checks
+** Dealing flop ** [ 3h, 3d, 2h ]
+eyescrossed checks
+adamjasari checks
+** Dealing turn ** [ 9d ]
+eyescrossed bets [$0.04]
+adamjasari calls [$0.04]
+** Dealing river ** [ 4s ]
+eyescrossed checks
+adamjasari bets [$0.06]
+eyescrossed folds
+** Summary **
+adamjasari did not show his hand
+adamjasari collected [ $0.12 ]
+
+
+#Game No : 615086691
+***** 888poker Hand History for Game 615086691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 14:27:13
+Table Charallave 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $0.62 )
+Seat 7: adamjasari ( $1.54 )
+eyescrossed posts small blind [$0.01]
+adamjasari posts big blind [$0.02]
+** Dealing down cards **
+eyescrossed raises [$0.05]
+adamjasari raises [$0.16]
+eyescrossed calls [$0.12]
+** Dealing flop ** [ Qs, 4h, Th ]
+adamjasari checks
+eyescrossed bets [$0.44]
+adamjasari calls [$0.44]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 4d ]
+** Summary **
+eyescrossed shows [ Qc, 6d ]
+adamjasari shows [ Ad, Ah ]
+adamjasari collected [ $1.17 ]
+
+

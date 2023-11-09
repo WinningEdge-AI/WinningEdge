@@ -1,0 +1,807 @@
+#Game No : 509268522
+***** 888poker Hand History for Game 509268522 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 01:44:24
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: paska914 ( $1.19 )
+Seat 6: flyfisher345 ( $0.80 )
+paska914 posts small blind [$0.01]
+flyfisher345 posts big blind [$0.02]
+** Dealing down cards **
+paska914 folds
+** Summary **
+flyfisher345 did not show his hand
+flyfisher345 collected [ $0.03 ]
+
+
+#Game No : 509268535
+***** 888poker Hand History for Game 509268535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 01:44:36
+Table Marburg 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: paska914 ( $1.18 )
+Seat 6: flyfisher345 ( $0.81 )
+flyfisher345 posts small blind [$0.01]
+paska914 posts big blind [$0.02]
+** Dealing down cards **
+flyfisher345 raises [$0.05]
+paska914 calls [$0.04]
+** Dealing flop ** [ Kd, 5c, Ad ]
+paska914 checks
+flyfisher345 bets [$0.06]
+paska914 calls [$0.06]
+** Dealing turn ** [ 3c ]
+paska914 checks
+flyfisher345 checks
+** Dealing river ** [ Qc ]
+paska914 checks
+flyfisher345 checks
+** Summary **
+paska914 shows [ As, Jc ]
+flyfisher345 mucks [ 3d, Js ]
+paska914 collected [ $0.23 ]
+
+
+#Game No : 509268558
+***** 888poker Hand History for Game 509268558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 01:45:04
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: paska914 ( $1.29 )
+Seat 6: flyfisher345 ( $0.69 )
+paska914 posts small blind [$0.01]
+flyfisher345 posts big blind [$0.02]
+** Dealing down cards **
+paska914 folds
+** Summary **
+flyfisher345 did not show his hand
+flyfisher345 collected [ $0.03 ]
+
+
+#Game No : 509268564
+***** 888poker Hand History for Game 509268564 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 01:45:10
+Table Marburg 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: paska914 ( $1.28 )
+Seat 6: flyfisher345 ( $0.70 )
+flyfisher345 posts small blind [$0.01]
+paska914 posts big blind [$0.02]
+** Dealing down cards **
+flyfisher345 raises [$0.05]
+paska914 folds
+** Summary **
+flyfisher345 collected [ $0.04 ]
+
+
+#Game No : 509324931
+***** 888poker Hand History for Game 509324931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:43:19
+Table Marburg 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: TorNadOAQ ( $1.37 )
+Seat 5: pararu ( $2.15 )
+TorNadOAQ posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+TorNadOAQ raises [$0.07]
+pararu raises [$0.22]
+TorNadOAQ calls [$0.16]
+** Dealing flop ** [ Qc, Ah, 4c ]
+pararu checks
+TorNadOAQ checks
+** Dealing turn ** [ 6c ]
+pararu bets [$0.48]
+TorNadOAQ folds
+** Summary **
+pararu collected [ $0.45 ]
+
+
+#Game No : 509324953
+***** 888poker Hand History for Game 509324953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:43:45
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: TorNadOAQ ( $1.13 )
+Seat 5: pararu ( $2.36 )
+pararu posts small blind [$0.01]
+TorNadOAQ posts big blind [$0.02]
+** Dealing down cards **
+pararu raises [$0.05]
+TorNadOAQ calls [$0.04]
+** Dealing flop ** [ 9c, Qh, Qd ]
+TorNadOAQ checks
+pararu checks
+** Dealing turn ** [ 7h ]
+TorNadOAQ bets [$0.06]
+pararu calls [$0.06]
+** Dealing river ** [ 4h ]
+TorNadOAQ checks
+pararu checks
+** Summary **
+TorNadOAQ shows [ As, 2h ]
+pararu shows [ 5d, 5h ]
+pararu collected [ $0.23 ]
+
+
+#Game No : 509325000
+***** 888poker Hand History for Game 509325000 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:44:23
+Table Marburg 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: TorNadOAQ ( $1.01 )
+Seat 5: pararu ( $2.47 )
+TorNadOAQ posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+TorNadOAQ calls [$0.01]
+pararu checks
+** Dealing flop ** [ Ah, 9c, 3s ]
+pararu bets [$0.04]
+TorNadOAQ calls [$0.04]
+** Dealing turn ** [ 8d ]
+pararu checks
+TorNadOAQ checks
+** Dealing river ** [ 4s ]
+pararu bets [$0.12]
+TorNadOAQ raises [$0.28]
+pararu raises [$0.32]
+TorNadOAQ calls [$0.16]
+** Summary **
+pararu shows [ Ac, 4d ]
+TorNadOAQ mucks [ As, 5d ]
+pararu collected [ $0.94 ]
+
+
+#Game No : 509325043
+***** 888poker Hand History for Game 509325043 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:44:59
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: TorNadOAQ ( $0.51 )
+Seat 5: pararu ( $2.91 )
+pararu posts small blind [$0.01]
+TorNadOAQ posts big blind [$0.02]
+** Dealing down cards **
+pararu folds
+** Summary **
+TorNadOAQ did not show his hand
+TorNadOAQ collected [ $0.03 ]
+
+
+#Game No : 509325049
+***** 888poker Hand History for Game 509325049 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:45:07
+Table Marburg 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: TorNadOAQ ( $0.52 )
+Seat 5: pararu ( $2.90 )
+TorNadOAQ posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+TorNadOAQ raises [$0.05]
+pararu calls [$0.04]
+** Dealing flop ** [ Tc, 3s, 4d ]
+pararu checks
+TorNadOAQ checks
+** Dealing turn ** [ Qh ]
+pararu checks
+TorNadOAQ bets [$0.06]
+pararu calls [$0.06]
+** Dealing river ** [ 9s ]
+pararu checks
+TorNadOAQ bets [$0.10]
+pararu folds
+** Summary **
+TorNadOAQ did not show his hand
+TorNadOAQ collected [ $0.23 ]
+
+
+#Game No : 509325081
+***** 888poker Hand History for Game 509325081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:45:34
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: TorNadOAQ ( $0.63 )
+Seat 5: pararu ( $2.78 )
+pararu posts small blind [$0.01]
+TorNadOAQ posts big blind [$0.02]
+** Dealing down cards **
+pararu raises [$0.05]
+TorNadOAQ folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.04 ]
+
+
+#Game No : 509325128
+***** 888poker Hand History for Game 509325128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:46:13
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.98 )
+Seat 5: pararu ( $3.36 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu folds
+** Summary **
+docjung75 collected [ $0.03 ]
+
+
+#Game No : 509325134
+***** 888poker Hand History for Game 509325134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:46:19
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.99 )
+Seat 5: pararu ( $3.35 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 calls [$0.01]
+pararu checks
+** Dealing flop ** [ Qs, 4s, Tc ]
+pararu checks
+docjung75 checks
+** Dealing turn ** [ 7h ]
+pararu checks
+docjung75 checks
+** Dealing river ** [ 7c ]
+pararu checks
+docjung75 bets [$0.02]
+pararu folds
+** Summary **
+docjung75 did not show his hand
+docjung75 collected [ $0.04 ]
+
+
+#Game No : 509325168
+***** 888poker Hand History for Game 509325168 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:46:43
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.01 )
+Seat 5: pararu ( $3.33 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu raises [$0.05]
+docjung75 calls [$0.04]
+** Dealing flop ** [ Jc, Js, 6h ]
+docjung75 checks
+pararu bets [$0.02]
+docjung75 calls [$0.02]
+** Dealing turn ** [ Ah ]
+docjung75 checks
+pararu bets [$0.02]
+docjung75 calls [$0.02]
+** Dealing river ** [ 7s ]
+docjung75 checks
+pararu checks
+** Summary **
+docjung75 shows [ 5h, Ad ]
+pararu mucks [ Qd, Ks ]
+docjung75 collected [ $0.19 ]
+
+
+#Game No : 509325189
+***** 888poker Hand History for Game 509325189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:47:10
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.10 )
+Seat 5: pararu ( $3.23 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 calls [$0.01]
+pararu checks
+** Dealing flop ** [ Kd, Kh, Qd ]
+pararu bets [$0.04]
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.04 ]
+
+
+#Game No : 509325206
+***** 888poker Hand History for Game 509325206 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:47:26
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.08 )
+Seat 5: pararu ( $3.25 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu folds
+** Summary **
+docjung75 did not show his hand
+docjung75 collected [ $0.03 ]
+
+
+#Game No : 509325213
+***** 888poker Hand History for Game 509325213 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:47:31
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.09 )
+Seat 5: pararu ( $3.24 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.03 ]
+
+
+#Game No : 509325218
+***** 888poker Hand History for Game 509325218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:47:36
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.08 )
+Seat 5: pararu ( $3.25 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu raises [$0.05]
+docjung75 calls [$0.04]
+** Dealing flop ** [ 6d, Qh, 4s ]
+docjung75 checks
+pararu checks
+** Dealing turn ** [ Td ]
+docjung75 checks
+pararu checks
+** Dealing river ** [ Ah ]
+docjung75 checks
+pararu checks
+** Summary **
+docjung75 shows [ 8c, 9c ]
+pararu mucks [ 7h, 3d ]
+docjung75 collected [ $0.12 ]
+
+
+#Game No : 509325246
+***** 888poker Hand History for Game 509325246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:48:03
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.14 )
+Seat 5: pararu ( $3.19 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 calls [$0.01]
+pararu checks
+** Dealing flop ** [ Jh, Ac, 9d ]
+pararu bets [$0.04]
+docjung75 calls [$0.04]
+** Dealing turn ** [ Td ]
+pararu bets [$0.12]
+docjung75 calls [$0.12]
+** Dealing river ** [ 4h ]
+pararu bets [$0.36]
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.34 ]
+
+
+#Game No : 509325278
+***** 888poker Hand History for Game 509325278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:48:30
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.96 )
+Seat 5: pararu ( $3.35 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu folds
+** Summary **
+docjung75 did not show his hand
+docjung75 collected [ $0.03 ]
+
+
+#Game No : 509325283
+***** 888poker Hand History for Game 509325283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:48:35
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.97 )
+Seat 5: pararu ( $3.34 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.03 ]
+
+
+#Game No : 509325294
+***** 888poker Hand History for Game 509325294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:48:40
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.96 )
+Seat 5: pararu ( $3.35 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu calls [$0.01]
+docjung75 checks
+** Dealing flop ** [ 6c, 8s, 2h ]
+docjung75 checks
+pararu checks
+** Dealing turn ** [ Qh ]
+docjung75 checks
+pararu checks
+** Dealing river ** [ 7c ]
+docjung75 checks
+pararu bets [$0.02]
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.04 ]
+
+
+#Game No : 509325316
+***** 888poker Hand History for Game 509325316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:49:03
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.94 )
+Seat 5: pararu ( $3.37 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.03 ]
+
+
+#Game No : 509325321
+***** 888poker Hand History for Game 509325321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:49:08
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.93 )
+Seat 5: pararu ( $3.38 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu folds
+** Summary **
+docjung75 did not show his hand
+docjung75 collected [ $0.03 ]
+
+
+#Game No : 509325328
+***** 888poker Hand History for Game 509325328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:49:13
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.94 )
+Seat 5: pararu ( $3.37 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 calls [$0.01]
+pararu checks
+** Dealing flop ** [ 5c, 3s, 2d ]
+pararu checks
+docjung75 checks
+** Dealing turn ** [ 3c ]
+pararu checks
+docjung75 checks
+** Dealing river ** [ Jh ]
+pararu checks
+docjung75 checks
+** Summary **
+pararu shows [ 6h, Tc ]
+docjung75 shows [ 9d, Kd ]
+docjung75 collected [ $0.04 ]
+
+
+#Game No : 509325348
+***** 888poker Hand History for Game 509325348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:49:32
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.96 )
+Seat 5: pararu ( $3.35 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu raises [$0.05]
+docjung75 calls [$0.04]
+** Dealing flop ** [ Kc, 7c, Qs ]
+docjung75 checks
+pararu bets [$0.12]
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.12 ]
+
+
+#Game No : 509325359
+***** 888poker Hand History for Game 509325359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:49:46
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.90 )
+Seat 5: pararu ( $3.41 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.03 ]
+
+
+#Game No : 509325365
+***** 888poker Hand History for Game 509325365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:49:52
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.89 )
+Seat 5: pararu ( $3.42 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu folds
+** Summary **
+docjung75 did not show his hand
+docjung75 collected [ $0.03 ]
+
+
+#Game No : 509325370
+***** 888poker Hand History for Game 509325370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:49:56
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.90 )
+Seat 5: pararu ( $3.41 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 folds
+** Summary **
+pararu collected [ $0.03 ]
+
+
+#Game No : 509325380
+***** 888poker Hand History for Game 509325380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:50:03
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.89 )
+Seat 5: pararu ( $3.42 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu raises [$0.05]
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.04 ]
+
+
+#Game No : 509325385
+***** 888poker Hand History for Game 509325385 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:50:10
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.87 )
+Seat 5: pararu ( $3.44 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.03 ]
+
+
+#Game No : 509325391
+***** 888poker Hand History for Game 509325391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:50:16
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.86 )
+Seat 5: pararu ( $3.45 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu calls [$0.01]
+docjung75 checks
+** Dealing flop ** [ 9h, Qh, Qd ]
+docjung75 checks
+pararu bets [$0.04]
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.04 ]
+
+
+#Game No : 509325408
+***** 888poker Hand History for Game 509325408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:50:31
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.84 )
+Seat 5: pararu ( $3.47 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.03 ]
+
+
+#Game No : 509325414
+***** 888poker Hand History for Game 509325414 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:50:37
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $1.83 )
+Seat 5: pararu ( $3.48 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu raises [$0.05]
+docjung75 calls [$0.04]
+** Dealing flop ** [ 7h, 6c, 5c ]
+docjung75 checks
+pararu bets [$0.12]
+docjung75 calls [$0.12]
+** Dealing turn ** [ 4h ]
+docjung75 checks
+pararu bets [$0.36]
+docjung75 calls [$0.36]
+** Dealing river ** [ 9h ]
+docjung75 checks
+pararu checks
+** Summary **
+docjung75 shows [ As, 6d ]
+pararu mucks [ Kc, Ac ]
+docjung75 collected [ $1.02 ]
+
+
+#Game No : 509325439
+***** 888poker Hand History for Game 509325439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:51:07
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.31 )
+Seat 5: pararu ( $2.94 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 calls [$0.01]
+pararu checks
+** Dealing flop ** [ 9s, 3d, 9d ]
+pararu bets [$0.04]
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.04 ]
+
+
+#Game No : 509325458
+***** 888poker Hand History for Game 509325458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:51:21
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.29 )
+Seat 5: pararu ( $2.96 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu raises [$0.05]
+docjung75 folds
+** Summary **
+pararu did not show his hand
+pararu collected [ $0.04 ]
+
+
+#Game No : 509325466
+***** 888poker Hand History for Game 509325466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:51:27
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.27 )
+Seat 5: pararu ( $2.98 )
+docjung75 posts small blind [$0.01]
+pararu posts big blind [$0.02]
+** Dealing down cards **
+docjung75 calls [$0.01]
+pararu checks
+** Dealing flop ** [ Ah, Jc, 4h ]
+pararu bets [$0.04]
+docjung75 calls [$0.04]
+** Dealing turn ** [ 8s ]
+pararu checks
+docjung75 checks
+** Dealing river ** [ Th ]
+pararu checks
+docjung75 bets [$0.02]
+pararu calls [$0.02]
+** Summary **
+docjung75 shows [ Jh, 9h ]
+pararu mucks [ 3h, 4d ]
+docjung75 collected [ $0.15 ]
+
+
+#Game No : 509325496
+***** 888poker Hand History for Game 509325496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 15:51:53
+Table Marburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: docjung75 ( $2.34 )
+Seat 5: pararu ( $2.90 )
+pararu posts small blind [$0.01]
+docjung75 posts big blind [$0.02]
+** Dealing down cards **
+pararu raises [$0.05]
+docjung75 calls [$0.04]
+** Dealing flop ** [ 4c, 9s, 6s ]
+docjung75 checks
+pararu checks
+** Dealing turn ** [ 3c ]
+docjung75 checks
+pararu bets [$0.12]
+docjung75 calls [$0.12]
+** Dealing river ** [ 8h ]
+docjung75 checks
+pararu checks
+** Summary **
+docjung75 shows [ 6d, 7d ]
+pararu mucks [ Kc, 2s ]
+docjung75 collected [ $0.34 ]
+
+

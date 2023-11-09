@@ -1,0 +1,47 @@
+#Game No : 463789351
+***** 888poker Hand History for Game 463789351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 04 2019 20:45:39
+Table Valladolid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: crates523 ( $0.46 )
+Seat 7: mshkreli ( $2.31 )
+mshkreli posts small blind [$0.01]
+crates523 posts big blind [$0.02]
+** Dealing down cards **
+mshkreli folds
+** Summary **
+crates523 collected [ $0.03 ]
+
+
+#Game No : 463789353
+***** 888poker Hand History for Game 463789353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 04 2019 20:45:46
+Table Valladolid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: crates523 ( $0.47 )
+Seat 7: mshkreli ( $2.30 )
+crates523 posts small blind [$0.01]
+mshkreli posts big blind [$0.02]
+** Dealing down cards **
+crates523 raises [$0.03]
+mshkreli calls [$0.02]
+** Dealing flop ** [ 8c, 6c, 7d ]
+mshkreli bets [$0.02]
+crates523 raises [$0.08]
+mshkreli calls [$0.06]
+** Dealing turn ** [ Th ]
+mshkreli checks
+crates523 bets [$0.16]
+mshkreli calls [$0.16]
+** Dealing river ** [ Qh ]
+mshkreli checks
+crates523 bets [$0.19]
+mshkreli calls [$0.19]
+** Summary **
+crates523 shows [ Jh, Kc ]
+mshkreli shows [ 6h, 8h ]
+mshkreli collected [ $0.89 ]
+
+

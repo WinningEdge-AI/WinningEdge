@@ -1,0 +1,116 @@
+#Game No : 1254173414
+***** 888poker Hand History for Game 1254173414 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 17:57:57
+Table Mainz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Buffi0 ( $1.21 )
+Seat 6: adriano330 ( $1.14 )
+Buffi0 posts small blind [$0.01]
+adriano330 posts big blind [$0.02]
+** Dealing down cards **
+Buffi0 raises [$0.05]
+adriano330 calls [$0.04]
+** Dealing flop ** [ Ks, 4c, Kc ]
+adriano330 checks
+Buffi0 bets [$0.07]
+adriano330 calls [$0.07]
+** Dealing turn ** [ 6c ]
+adriano330 checks
+Buffi0 checks
+** Dealing river ** [ 8d ]
+adriano330 bets [$0.06]
+Buffi0 calls [$0.06]
+** Summary **
+adriano330 shows [ Tc, Kh ]
+Buffi0 mucks [ 9d, 4d ]
+adriano330 collected [ $0.36 ]
+
+
+#Game No : 1254173614
+***** 888poker Hand History for Game 1254173614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 17:59:12
+Table Mainz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Buffi0 ( $1.02 )
+Seat 6: adriano330 ( $1.31 )
+adriano330 posts small blind [$0.01]
+Buffi0 posts big blind [$0.02]
+** Dealing down cards **
+adriano330 calls [$0.01]
+Buffi0 raises [$0.04]
+adriano330 folds
+** Summary **
+Buffi0 collected [ $0.04 ]
+
+
+#Game No : 1254191530
+***** 888poker Hand History for Game 1254191530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 20:29:09
+Table Mainz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: RbnsFrnn ( $0.29 )
+Seat 7: starikd ( $1.32 )
+starikd posts small blind [$0.01]
+RbnsFrnn posts big blind [$0.02]
+** Dealing down cards **
+starikd folds
+** Summary **
+RbnsFrnn collected [ $0.03 ]
+
+
+#Game No : 1254191543
+***** 888poker Hand History for Game 1254191543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 20:29:18
+Table Mainz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RbnsFrnn ( $0.30 )
+Seat 7: starikd ( $1.31 )
+RbnsFrnn posts small blind [$0.01]
+starikd posts big blind [$0.02]
+** Dealing down cards **
+RbnsFrnn calls [$0.01]
+starikd checks
+** Dealing flop ** [ 8h, Ah, Qs ]
+starikd checks
+RbnsFrnn checks
+** Dealing turn ** [ Th ]
+starikd folds
+** Summary **
+RbnsFrnn collected [ $0.04 ]
+
+
+#Game No : 1254191614
+***** 888poker Hand History for Game 1254191614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 20:30:05
+Table Mainz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: leopoldkolos ( $0.80 )
+Seat 4: RbnsFrnn ( $0.32 )
+leopoldkolos posts small blind [$0.01]
+RbnsFrnn posts big blind [$0.02]
+** Dealing down cards **
+leopoldkolos calls [$0.01]
+RbnsFrnn checks
+** Dealing flop ** [ Jc, Tc, 9s ]
+RbnsFrnn bets [$0.02]
+leopoldkolos calls [$0.02]
+** Dealing turn ** [ Qs ]
+RbnsFrnn bets [$0.04]
+leopoldkolos raises [$0.08]
+RbnsFrnn calls [$0.04]
+** Dealing river ** [ 3c ]
+RbnsFrnn checks
+leopoldkolos bets [$0.12]
+RbnsFrnn raises [$0.20]
+leopoldkolos calls [$0.08]
+** Summary **
+leopoldkolos shows [ Kc, 5s ]
+RbnsFrnn shows [ 3h, Qc ]
+leopoldkolos collected [ $0.60 ]
+
+

@@ -1,0 +1,139 @@
+#Game No : 456799885
+***** 888poker Hand History for Game 456799885 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 01:14:50
+Table Saratov 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2 )
+Seat 2: koupin ( $2 )
+avramia1 posts small blind [$0.01]
+koupin posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+koupin checks
+** Dealing flop ** [ As, 5h, 4s ]
+koupin checks
+avramia1 checks
+** Dealing turn ** [ 5c ]
+koupin checks
+avramia1 checks
+** Dealing river ** [ 9d ]
+koupin bets [$0.04]
+avramia1 folds
+** Summary **
+koupin did not show his hand
+koupin collected [ $0.04 ]
+
+
+#Game No : 456799894
+***** 888poker Hand History for Game 456799894 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 01:14:56
+Table Saratov 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.98 )
+Seat 2: koupin ( $2.02 )
+koupin posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+koupin calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 2h, Kd, As ]
+avramia1 checks
+koupin checks
+** Dealing turn ** [ 5h ]
+avramia1 checks
+koupin checks
+** Dealing river ** [ 4h ]
+avramia1 bets [$0.02]
+koupin folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.04 ]
+
+
+#Game No : 456799897
+***** 888poker Hand History for Game 456799897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 01:15:20
+Table Saratov 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2 )
+Seat 2: koupin ( $2 )
+avramia1 posts small blind [$0.01]
+koupin posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+koupin checks
+** Dealing flop ** [ 8s, Ac, 2h ]
+koupin bets [$0.02]
+avramia1 folds
+** Summary **
+koupin did not show his hand
+koupin collected [ $0.04 ]
+
+
+#Game No : 456799903
+***** 888poker Hand History for Game 456799903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 01:15:34
+Table Saratov 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.98 )
+Seat 2: koupin ( $2.02 )
+koupin posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+koupin raises [$0.03]
+avramia1 calls [$0.02]
+** Dealing flop ** [ 7d, Qh, Jh ]
+avramia1 checks
+koupin checks
+** Dealing turn ** [ Tc ]
+avramia1 checks
+koupin checks
+** Dealing river ** [ 5d ]
+avramia1 checks
+koupin checks
+** Summary **
+avramia1 shows [ 5c, 9c ]
+koupin mucks [ 3h, 3s ]
+avramia1 collected [ $0.08 ]
+
+
+#Game No : 456799908
+***** 888poker Hand History for Game 456799908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 01:15:56
+Table Saratov 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.02 )
+Seat 2: koupin ( $1.98 )
+avramia1 posts small blind [$0.01]
+koupin posts big blind [$0.02]
+** Dealing down cards **
+avramia1 folds
+** Summary **
+koupin did not show his hand
+koupin collected [ $0.03 ]
+
+
+#Game No : 456799911
+***** 888poker Hand History for Game 456799911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 01:16:01
+Table Saratov 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.01 )
+Seat 2: koupin ( $1.99 )
+koupin posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+koupin calls [$0.01]
+avramia1 raises [$0.04]
+koupin folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.04 ]
+
+

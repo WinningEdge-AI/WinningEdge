@@ -1,0 +1,238 @@
+#Game No : 610022938
+***** 888poker Hand History for Game 610022938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 20:00:56
+Table Bochum 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lucifergaia ( $3.70 )
+Seat 3: richyfishy ( $3.69 )
+lucifergaia posts small blind [$0.01]
+richyfishy posts big blind [$0.02]
+** Dealing down cards **
+lucifergaia folds
+** Summary **
+richyfishy collected [ $0.03 ]
+
+
+#Game No : 610022941
+***** 888poker Hand History for Game 610022941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 20:01:01
+Table Bochum 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: lucifergaia ( $3.69 )
+Seat 3: richyfishy ( $3.70 )
+richyfishy posts small blind [$0.01]
+** Dealing down cards **
+lucifergaia folds
+** Summary **
+richyfishy collected [ $0.01 ]
+
+
+#Game No : 504470151
+***** 888poker Hand History for Game 504470151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 09:57:45
+Table Bochum 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.71 )
+Seat 4: kafrsu ( $1.69 )
+kafrsu posts small blind [$0.01]
+StarkOK posts big blind [$0.02]
+** Dealing down cards **
+kafrsu raises [$0.05]
+StarkOK folds
+** Summary **
+kafrsu collected [ $0.04 ]
+
+
+#Game No : 504470162
+***** 888poker Hand History for Game 504470162 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 09:57:57
+Table Bochum 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.69 )
+Seat 4: kafrsu ( $1.71 )
+StarkOK posts small blind [$0.01]
+kafrsu posts big blind [$0.02]
+** Dealing down cards **
+StarkOK folds
+** Summary **
+kafrsu collected [ $0.03 ]
+
+
+#Game No : 504470173
+***** 888poker Hand History for Game 504470173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 09:58:06
+Table Bochum 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.68 )
+Seat 4: kafrsu ( $1.72 )
+kafrsu posts small blind [$0.01]
+StarkOK posts big blind [$0.02]
+** Dealing down cards **
+kafrsu calls [$0.01]
+StarkOK checks
+** Dealing flop ** [ 2d, Kc, 3d ]
+StarkOK checks
+kafrsu bets [$0.04]
+StarkOK folds
+** Summary **
+kafrsu collected [ $0.04 ]
+
+
+#Game No : 504470207
+***** 888poker Hand History for Game 504470207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 09:58:32
+Table Bochum 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.66 )
+Seat 4: kafrsu ( $1.74 )
+StarkOK posts small blind [$0.01]
+kafrsu posts big blind [$0.02]
+** Dealing down cards **
+StarkOK folds
+** Summary **
+kafrsu collected [ $0.03 ]
+
+
+#Game No : 504470217
+***** 888poker Hand History for Game 504470217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 09:58:39
+Table Bochum 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.65 )
+Seat 4: kafrsu ( $1.75 )
+kafrsu posts small blind [$0.01]
+StarkOK posts big blind [$0.02]
+** Dealing down cards **
+kafrsu raises [$0.05]
+StarkOK calls [$0.04]
+** Dealing flop ** [ 7c, 4h, 6h ]
+StarkOK checks
+kafrsu bets [$0.12]
+StarkOK folds
+** Summary **
+kafrsu collected [ $0.12 ]
+
+
+#Game No : 504470240
+***** 888poker Hand History for Game 504470240 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 09:59:03
+Table Bochum 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.59 )
+Seat 4: kafrsu ( $1.81 )
+StarkOK posts small blind [$0.01]
+kafrsu posts big blind [$0.02]
+** Dealing down cards **
+StarkOK raises [$0.05]
+kafrsu folds
+** Summary **
+StarkOK collected [ $0.04 ]
+
+
+#Game No : 504470254
+***** 888poker Hand History for Game 504470254 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 09:59:16
+Table Bochum 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.61 )
+Seat 4: kafrsu ( $1.79 )
+kafrsu posts small blind [$0.01]
+StarkOK posts big blind [$0.02]
+** Dealing down cards **
+kafrsu calls [$0.01]
+StarkOK checks
+** Dealing flop ** [ Ac, 4c, Th ]
+StarkOK checks
+kafrsu checks
+** Dealing turn ** [ 9d ]
+StarkOK checks
+kafrsu checks
+** Dealing river ** [ Td ]
+StarkOK checks
+kafrsu checks
+** Summary **
+StarkOK shows [ 3s, Qc ]
+kafrsu mucks [ Jh, 2h ]
+StarkOK collected [ $0.04 ]
+
+
+#Game No : 504470280
+***** 888poker Hand History for Game 504470280 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 09:59:43
+Table Bochum 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.63 )
+Seat 4: kafrsu ( $1.77 )
+StarkOK posts small blind [$0.01]
+kafrsu posts big blind [$0.02]
+** Dealing down cards **
+StarkOK raises [$0.05]
+kafrsu calls [$0.04]
+** Dealing flop ** [ Ks, Th, Tc ]
+kafrsu checks
+StarkOK checks
+** Dealing turn ** [ 7d ]
+kafrsu checks
+StarkOK bets [$0.12]
+kafrsu folds
+** Summary **
+StarkOK collected [ $0.12 ]
+
+
+#Game No : 504470309
+***** 888poker Hand History for Game 504470309 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 10:00:10
+Table Bochum 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.69 )
+Seat 4: kafrsu ( $1.71 )
+kafrsu posts small blind [$0.01]
+StarkOK posts big blind [$0.02]
+** Dealing down cards **
+kafrsu folds
+** Summary **
+StarkOK collected [ $0.03 ]
+
+
+#Game No : 504470320
+***** 888poker Hand History for Game 504470320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 10:00:19
+Table Bochum 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.70 )
+Seat 4: kafrsu ( $1.70 )
+StarkOK posts small blind [$0.01]
+kafrsu posts big blind [$0.02]
+** Dealing down cards **
+StarkOK folds
+** Summary **
+kafrsu collected [ $0.03 ]
+
+
+#Game No : 504470329
+***** 888poker Hand History for Game 504470329 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 10 2018 10:00:25
+Table Bochum 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: StarkOK ( $1.69 )
+Seat 4: kafrsu ( $1.71 )
+kafrsu posts small blind [$0.01]
+** Dealing down cards **
+StarkOK folds
+** Summary **
+kafrsu collected [ $0.01 ]
+
+

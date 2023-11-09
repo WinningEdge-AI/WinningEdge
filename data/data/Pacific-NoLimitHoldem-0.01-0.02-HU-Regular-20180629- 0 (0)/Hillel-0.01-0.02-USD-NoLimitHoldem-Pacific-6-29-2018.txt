@@ -1,0 +1,106 @@
+#Game No : 504026582
+***** 888poker Hand History for Game 504026582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 06:20:53
+Table Hillel 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: Skorpion50 ( $1.48 )
+Seat 9: ELO2377 ( $0.70 )
+ELO2377 posts small blind [$0.01]
+Skorpion50 posts big blind [$0.02]
+** Dealing down cards **
+ELO2377 calls [$0.01]
+Skorpion50 raises [$0.02]
+ELO2377 calls [$0.02]
+** Dealing flop ** [ Ks, 9c, 5c ]
+Skorpion50 bets [$0.08]
+ELO2377 calls [$0.08]
+** Dealing turn ** [ 2c ]
+Skorpion50 bets [$0.24]
+ELO2377 calls [$0.24]
+** Dealing river ** [ 7d ]
+Skorpion50 bets [$0.72]
+ELO2377 folds
+** Summary **
+Skorpion50 did not show his hand
+Skorpion50 collected [ $0.68 ]
+
+
+#Game No : 504026598
+***** 888poker Hand History for Game 504026598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 06:21:24
+Table Hillel 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Skorpion50 ( $1.80 )
+Seat 9: ELO2377 ( $0.34 )
+Skorpion50 posts small blind [$0.01]
+ELO2377 posts big blind [$0.02]
+** Dealing down cards **
+Skorpion50 raises [$0.05]
+ELO2377 raises [$0.32]
+Skorpion50 calls [$0.28]
+** Dealing flop ** [ Jc, 8s, Td ]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ 5c ]
+** Summary **
+Skorpion50 shows [ Ah, Qd ]
+ELO2377 shows [ As, Kc ]
+ELO2377 collected [ $0.64 ]
+
+
+#Game No : 504026611
+***** 888poker Hand History for Game 504026611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 06:21:46
+Table Hillel 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: Skorpion50 ( $1.46 )
+Seat 9: ELO2377 ( $0.64 )
+ELO2377 posts small blind [$0.01]
+Skorpion50 posts big blind [$0.02]
+** Dealing down cards **
+ELO2377 raises [$0.05]
+Skorpion50 calls [$0.04]
+** Dealing flop ** [ Qs, Jd, 6s ]
+Skorpion50 bets [$0.12]
+ELO2377 calls [$0.12]
+** Dealing turn ** [ Ad ]
+Skorpion50 bets [$0.36]
+ELO2377 raises [$0.46]
+Skorpion50 calls [$0.10]
+** Dealing river ** [ Td ]
+** Summary **
+Skorpion50 shows [ Qh, 4c ]
+ELO2377 shows [ Qc, 5d ]
+ELO2377 collected [ $0.60 ]
+Skorpion50 collected [ $0.60 ]
+
+
+#Game No : 504026623
+***** 888poker Hand History for Game 504026623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 06:22:12
+Table Hillel 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Skorpion50 ( $1.42 )
+Seat 9: ELO2377 ( $0.60 )
+Skorpion50 posts small blind [$0.01]
+ELO2377 posts big blind [$0.02]
+** Dealing down cards **
+Skorpion50 calls [$0.01]
+ELO2377 raises [$0.04]
+Skorpion50 calls [$0.04]
+** Dealing flop ** [ 5s, 9h, 2h ]
+ELO2377 bets [$0.12]
+Skorpion50 calls [$0.12]
+** Dealing turn ** [ 7c ]
+ELO2377 bets [$0.42]
+Skorpion50 calls [$0.42]
+** Dealing river ** [ Ac ]
+** Summary **
+Skorpion50 shows [ 2s, 6c ]
+ELO2377 shows [ Kh, Kc ]
+ELO2377 collected [ $1.13 ]
+
+

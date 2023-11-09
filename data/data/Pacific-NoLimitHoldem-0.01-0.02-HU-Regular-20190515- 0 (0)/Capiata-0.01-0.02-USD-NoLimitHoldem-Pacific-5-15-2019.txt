@@ -1,0 +1,94 @@
+#Game No : 619967538
+***** 888poker Hand History for Game 619967538 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 16:27:44
+Table Capiata 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: _suygetsu ( $1.11 )
+Seat 7: Faultline1 ( $0.87 )
+Faultline1 posts small blind [$0.01]
+_suygetsu posts big blind [$0.02]
+** Dealing down cards **
+Faultline1 calls [$0.01]
+_suygetsu checks
+** Dealing flop ** [ Jc, 6d, 5h ]
+_suygetsu bets [$0.06]
+Faultline1 folds
+** Summary **
+_suygetsu collected [ $0.04 ]
+
+
+#Game No : 619968002
+***** 888poker Hand History for Game 619968002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 16:45:01
+Table Capiata 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Faultline1 ( $1.09 )
+Seat 9: mrak___ ( $1.13 )
+mrak___ posts small blind [$0.01]
+Faultline1 posts big blind [$0.02]
+** Dealing down cards **
+mrak___ folds
+** Summary **
+Faultline1 did not show his hand
+Faultline1 collected [ $0.03 ]
+
+
+#Game No : 619968007
+***** 888poker Hand History for Game 619968007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 16:45:07
+Table Capiata 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Faultline1 ( $1.10 )
+Seat 9: mrak___ ( $1.12 )
+Faultline1 posts small blind [$0.01]
+mrak___ posts big blind [$0.02]
+** Dealing down cards **
+Faultline1 raises [$0.03]
+mrak___ calls [$0.02]
+** Dealing flop ** [ 9c, 2s, 6s ]
+mrak___ checks
+Faultline1 checks
+** Dealing turn ** [ Jd ]
+mrak___ bets [$0.04]
+Faultline1 calls [$0.04]
+** Dealing river ** [ 8s ]
+mrak___ checks
+Faultline1 checks
+** Summary **
+mrak___ shows [ 9d, Tc ]
+Faultline1 mucks [ Kh, Td ]
+mrak___ collected [ $0.15 ]
+
+
+#Game No : 619968025
+***** 888poker Hand History for Game 619968025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 05 2019 16:45:39
+Table Capiata 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Faultline1 ( $1.02 )
+Seat 9: mrak___ ( $1.19 )
+mrak___ posts small blind [$0.01]
+Faultline1 posts big blind [$0.02]
+** Dealing down cards **
+mrak___ raises [$0.03]
+Faultline1 calls [$0.02]
+** Dealing flop ** [ 7d, 9d, Ac ]
+Faultline1 checks
+mrak___ bets [$0.04]
+Faultline1 calls [$0.04]
+** Dealing turn ** [ 4s ]
+Faultline1 checks
+mrak___ checks
+** Dealing river ** [ Qd ]
+Faultline1 checks
+mrak___ checks
+** Summary **
+Faultline1 shows [ Jh, 9s ]
+mrak___ mucks [ 6s, Kd ]
+Faultline1 collected [ $0.15 ]
+
+

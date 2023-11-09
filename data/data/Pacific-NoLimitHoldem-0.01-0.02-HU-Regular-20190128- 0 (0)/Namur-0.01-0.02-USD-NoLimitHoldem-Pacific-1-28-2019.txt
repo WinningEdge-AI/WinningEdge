@@ -1,0 +1,56 @@
+#Game No : 512860311
+***** 888poker Hand History for Game 512860311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 03:11:08
+Table Namur 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: laschko ( $3.23 )
+Seat 9: vesk12 ( $1.13 )
+laschko posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+laschko folds
+** Summary **
+vesk12 collected [ $0.03 ]
+
+
+#Game No : 512860322
+***** 888poker Hand History for Game 512860322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 03:11:23
+Table Namur 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: raskep ( $0.29 )
+Seat 9: vesk12 ( $1.14 )
+vesk12 posts small blind [$0.01]
+** Dealing down cards **
+raskep folds
+** Summary **
+vesk12 collected [ $0.01 ]
+
+
+#Game No : 512860565
+***** 888poker Hand History for Game 512860565 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 03:16:28
+Table Namur 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: bymer06 ( $0.80 )
+Seat 7: Grumbler66 ( $0.80 )
+Grumbler66 posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+Grumbler66 calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ 2s, Ad, 9d ]
+bymer06 checks
+Grumbler66 bets [$0.02]
+bymer06 calls [$0.02]
+** Dealing turn ** [ Jd ]
+bymer06 checks
+Grumbler66 bets [$0.04]
+bymer06 folds
+** Summary **
+Grumbler66 collected [ $0.08 ]
+
+

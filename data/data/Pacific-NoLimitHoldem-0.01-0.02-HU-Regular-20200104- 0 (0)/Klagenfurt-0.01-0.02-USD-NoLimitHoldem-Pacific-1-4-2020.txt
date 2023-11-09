@@ -1,0 +1,1427 @@
+#Game No : 1321546216
+***** 888poker Hand History for Game 1321546216 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 20:57:01
+Table Klagenfurt 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: RaHeelDA888 ( $4.63 )
+Seat 6: rustaman76 ( $5.72 )
+rustaman76 posts small blind [$0.01]
+RaHeelDA888 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+RaHeelDA888 calls [$0.02]
+** Dealing flop ** [ 7s, 5d, Qd ]
+RaHeelDA888 checks
+rustaman76 checks
+** Dealing turn ** [ Tc ]
+RaHeelDA888 bets [$0.06]
+rustaman76 folds
+** Summary **
+RaHeelDA888 collected [ $0.08 ]
+
+
+#Game No : 1321554400
+***** 888poker Hand History for Game 1321554400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:33:49
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.82 )
+Seat 2: Amererer ( $0.78 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 7d, 9d, 4s ]
+Amererer checks
+eksell checks
+** Dealing turn ** [ 3d ]
+Amererer checks
+eksell checks
+** Dealing river ** [ 8h ]
+Amererer checks
+eksell checks
+** Summary **
+Amererer shows [ 2s, Kd ]
+eksell shows [ Jh, Tc ]
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554415
+***** 888poker Hand History for Game 1321554415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:34:09
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.84 )
+Seat 2: Amererer ( $0.76 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell checks
+** Dealing flop ** [ Qh, 2h, 9d ]
+eksell checks
+Amererer checks
+** Dealing turn ** [ 3d ]
+eksell checks
+Amererer checks
+** Dealing river ** [ Qc ]
+eksell checks
+Amererer checks
+** Summary **
+eksell shows [ 6c, Ah ]
+Amererer mucks [ Js, 4c ]
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554437
+***** 888poker Hand History for Game 1321554437 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:34:33
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.86 )
+Seat 2: Amererer ( $0.74 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 7h, Kh, 8s ]
+Amererer bets [$0.02]
+eksell folds
+** Summary **
+Amererer did not show his hand
+Amererer collected [ $0.04 ]
+
+
+#Game No : 1321554453
+***** 888poker Hand History for Game 1321554453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:34:52
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.84 )
+Seat 2: Amererer ( $0.76 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer raises [$0.03]
+eksell calls [$0.02]
+** Dealing flop ** [ As, 7h, Th ]
+eksell checks
+Amererer bets [$0.04]
+eksell folds
+** Summary **
+Amererer did not show his hand
+Amererer collected [ $0.08 ]
+
+
+#Game No : 1321554491
+***** 888poker Hand History for Game 1321554491 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:35:30
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.80 )
+Seat 2: Amererer ( $0.80 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 5c, 9h, 5h ]
+Amererer checks
+eksell bets [$0.08]
+Amererer folds
+** Summary **
+eksell did not show his hand
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554512
+***** 888poker Hand History for Game 1321554512 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:35:55
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.82 )
+Seat 2: Amererer ( $0.78 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell raises [$0.02]
+Amererer calls [$0.02]
+** Dealing flop ** [ 5h, 9c, 7s ]
+eksell bets [$0.02]
+Amererer calls [$0.02]
+** Dealing turn ** [ 9s ]
+eksell checks
+Amererer checks
+** Dealing river ** [ 9h ]
+eksell checks
+Amererer bets [$0.10]
+eksell folds
+** Summary **
+Amererer did not show his hand
+Amererer collected [ $0.12 ]
+
+
+#Game No : 1321554537
+***** 888poker Hand History for Game 1321554537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:36:25
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.76 )
+Seat 2: Amererer ( $0.84 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 3c, 5s, 9c ]
+Amererer checks
+eksell bets [$0.04]
+Amererer folds
+** Summary **
+eksell did not show his hand
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554552
+***** 888poker Hand History for Game 1321554552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:36:49
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.78 )
+Seat 2: Amererer ( $0.82 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell raises [$0.02]
+Amererer calls [$0.02]
+** Dealing flop ** [ 3d, 6d, 6h ]
+eksell bets [$0.02]
+Amererer calls [$0.02]
+** Dealing turn ** [ Qh ]
+eksell checks
+Amererer checks
+** Dealing river ** [ 9c ]
+eksell checks
+Amererer bets [$0.10]
+eksell folds
+** Summary **
+Amererer did not show his hand
+Amererer collected [ $0.12 ]
+
+
+#Game No : 1321554583
+***** 888poker Hand History for Game 1321554583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:37:24
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.72 )
+Seat 2: Amererer ( $0.88 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell raises [$0.71]
+Amererer folds
+** Summary **
+eksell did not show his hand
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554593
+***** 888poker Hand History for Game 1321554593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:37:37
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.74 )
+Seat 2: Amererer ( $0.86 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell raises [$0.02]
+Amererer calls [$0.02]
+** Dealing flop ** [ 8d, Td, Ah ]
+eksell bets [$0.02]
+Amererer calls [$0.02]
+** Dealing turn ** [ 2h ]
+eksell checks
+Amererer checks
+** Dealing river ** [ Kc ]
+eksell checks
+Amererer bets [$0.10]
+eksell calls [$0.10]
+** Summary **
+Amererer shows [ 3c, 8c ]
+eksell shows [ 9d, Kd ]
+eksell collected [ $0.30 ]
+
+
+#Game No : 1321554617
+***** 888poker Hand History for Game 1321554617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:38:09
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.88 )
+Seat 2: Amererer ( $0.70 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ Ks, 3c, Kd ]
+Amererer checks
+eksell bets [$0.02]
+Amererer calls [$0.02]
+** Dealing turn ** [ 6s ]
+Amererer checks
+eksell checks
+** Dealing river ** [ 8d ]
+Amererer checks
+eksell checks
+** Summary **
+Amererer shows [ 4d, Jd ]
+eksell shows [ 2h, Ac ]
+eksell collected [ $0.08 ]
+
+
+#Game No : 1321554639
+***** 888poker Hand History for Game 1321554639 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:38:36
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.92 )
+Seat 2: Amererer ( $0.66 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer raises [$0.03]
+eksell calls [$0.02]
+** Dealing flop ** [ 8c, Kh, Jc ]
+eksell bets [$0.02]
+Amererer folds
+** Summary **
+eksell did not show his hand
+eksell collected [ $0.08 ]
+
+
+#Game No : 1321554652
+***** 888poker Hand History for Game 1321554652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:38:51
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.96 )
+Seat 2: Amererer ( $0.62 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 4c, Ac, 2h ]
+Amererer checks
+eksell checks
+** Dealing turn ** [ Kc ]
+Amererer checks
+eksell checks
+** Dealing river ** [ 5s ]
+Amererer checks
+eksell checks
+** Summary **
+Amererer shows [ 6h, 7h ]
+eksell shows [ 2d, 8s ]
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554670
+***** 888poker Hand History for Game 1321554670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:39:15
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.98 )
+Seat 2: Amererer ( $0.60 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer folds
+** Summary **
+eksell did not show his hand
+eksell collected [ $0.03 ]
+
+
+#Game No : 1321554675
+***** 888poker Hand History for Game 1321554675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:39:22
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.99 )
+Seat 2: Amererer ( $0.59 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 3s, Jc, 9h ]
+Amererer checks
+eksell checks
+** Dealing turn ** [ Ac ]
+Amererer checks
+eksell bets [$0.02]
+Amererer folds
+** Summary **
+eksell did not show his hand
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554690
+***** 888poker Hand History for Game 1321554690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:39:40
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $1.01 )
+Seat 2: Amererer ( $0.57 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer raises [$0.03]
+eksell calls [$0.02]
+** Dealing flop ** [ Tc, Qd, 8s ]
+eksell checks
+Amererer checks
+** Dealing turn ** [ Kh ]
+eksell bets [$0.02]
+Amererer calls [$0.02]
+** Dealing river ** [ 4h ]
+eksell bets [$0.02]
+Amererer raises [$0.20]
+eksell calls [$0.18]
+** Summary **
+Amererer shows [ Qs, Th ]
+eksell mucks [ Ad, Kc ]
+Amererer collected [ $0.49 ]
+
+
+#Game No : 1321554721
+***** 888poker Hand History for Game 1321554721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:40:25
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.75 )
+Seat 2: Amererer ( $0.80 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell raises [$0.03]
+Amererer calls [$0.02]
+** Dealing flop ** [ Kd, Kc, 7h ]
+Amererer checks
+eksell checks
+** Dealing turn ** [ 4c ]
+Amererer checks
+eksell checks
+** Dealing river ** [ Tc ]
+Amererer checks
+eksell checks
+** Summary **
+Amererer shows [ 5h, 9d ]
+eksell shows [ Jc, 6s ]
+eksell collected [ $0.08 ]
+
+
+#Game No : 1321554741
+***** 888poker Hand History for Game 1321554741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:40:51
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.79 )
+Seat 2: Amererer ( $0.76 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer raises [$0.03]
+eksell calls [$0.02]
+** Dealing flop ** [ 9c, 6c, As ]
+eksell checks
+Amererer bets [$0.04]
+eksell folds
+** Summary **
+Amererer did not show his hand
+Amererer collected [ $0.08 ]
+
+
+#Game No : 1321554754
+***** 888poker Hand History for Game 1321554754 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:41:09
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.75 )
+Seat 2: Amererer ( $0.80 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 8h, 8s, 5h ]
+Amererer checks
+eksell checks
+** Dealing turn ** [ 7s ]
+Amererer bets [$0.04]
+eksell folds
+** Summary **
+Amererer did not show his hand
+Amererer collected [ $0.04 ]
+
+
+#Game No : 1321554767
+***** 888poker Hand History for Game 1321554767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:41:28
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.73 )
+Seat 2: Amererer ( $0.82 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell checks
+** Dealing flop ** [ 6d, 8c, 2d ]
+eksell checks
+Amererer checks
+** Dealing turn ** [ Td ]
+eksell checks
+Amererer checks
+** Dealing river ** [ 4d ]
+eksell checks
+Amererer checks
+** Summary **
+eksell shows [ Ah, 7s ]
+Amererer mucks [ 5s, Kc ]
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554782
+***** 888poker Hand History for Game 1321554782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:41:52
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.75 )
+Seat 2: Amererer ( $0.80 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ Ad, 7d, 9d ]
+Amererer bets [$0.02]
+eksell calls [$0.02]
+** Dealing turn ** [ 3h ]
+Amererer checks
+eksell checks
+** Dealing river ** [ 3d ]
+Amererer checks
+eksell bets [$0.05]
+Amererer folds
+** Summary **
+eksell did not show his hand
+eksell collected [ $0.08 ]
+
+
+#Game No : 1321554798
+***** 888poker Hand History for Game 1321554798 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:42:18
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.79 )
+Seat 2: Amererer ( $0.76 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell checks
+** Dealing flop ** [ 9d, 6c, Tc ]
+eksell checks
+Amererer checks
+** Dealing turn ** [ Ts ]
+eksell checks
+Amererer checks
+** Dealing river ** [ 3h ]
+eksell checks
+Amererer bets [$0.06]
+eksell folds
+** Summary **
+Amererer did not show his hand
+Amererer collected [ $0.04 ]
+
+
+#Game No : 1321554818
+***** 888poker Hand History for Game 1321554818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:42:45
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.77 )
+Seat 2: Amererer ( $0.78 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 6s, Ac, As ]
+Amererer bets [$0.02]
+eksell folds
+** Summary **
+Amererer did not show his hand
+Amererer collected [ $0.04 ]
+
+
+#Game No : 1321554831
+***** 888poker Hand History for Game 1321554831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:43:01
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.75 )
+Seat 2: Amererer ( $0.80 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell checks
+** Dealing flop ** [ Qh, 4h, Ac ]
+eksell checks
+Amererer checks
+** Dealing turn ** [ 6h ]
+eksell bets [$0.02]
+Amererer folds
+** Summary **
+eksell did not show his hand
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554846
+***** 888poker Hand History for Game 1321554846 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:43:18
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.77 )
+Seat 2: Amererer ( $0.78 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 9h, Tc, 8h ]
+Amererer checks
+eksell checks
+** Dealing turn ** [ Jh ]
+Amererer checks
+eksell bets [$0.12]
+Amererer folds
+** Summary **
+eksell did not show his hand
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554865
+***** 888poker Hand History for Game 1321554865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:43:42
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.79 )
+Seat 2: Amererer ( $0.76 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer raises [$0.03]
+eksell calls [$0.02]
+** Dealing flop ** [ 9s, Th, 9d ]
+eksell checks
+Amererer checks
+** Dealing turn ** [ 6h ]
+eksell checks
+Amererer bets [$0.04]
+eksell folds
+** Summary **
+Amererer did not show his hand
+Amererer collected [ $0.08 ]
+
+
+#Game No : 1321554881
+***** 888poker Hand History for Game 1321554881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:44:08
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.75 )
+Seat 2: Amererer ( $0.80 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ Tc, 4d, 8c ]
+Amererer bets [$0.02]
+eksell folds
+** Summary **
+Amererer collected [ $0.04 ]
+
+
+#Game No : 1321554891
+***** 888poker Hand History for Game 1321554891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:44:26
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.73 )
+Seat 2: Amererer ( $0.82 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell checks
+** Dealing flop ** [ 8h, Kd, 8c ]
+eksell checks
+Amererer checks
+** Dealing turn ** [ Jc ]
+eksell bets [$0.02]
+Amererer folds
+** Summary **
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321554978
+***** 888poker Hand History for Game 1321554978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:46:16
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.71 )
+Seat 2: Amererer ( $0.78 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell checks
+** Dealing flop ** [ 4s, 8d, Qh ]
+eksell checks
+Amererer bets [$0.02]
+eksell calls [$0.02]
+** Dealing turn ** [ 6c ]
+eksell checks
+Amererer bets [$0.02]
+eksell calls [$0.02]
+** Dealing river ** [ 7s ]
+eksell checks
+Amererer checks
+** Summary **
+eksell shows [ Ac, 2h ]
+Amererer shows [ 2d, 8h ]
+Amererer collected [ $0.12 ]
+
+
+#Game No : 1321555003
+***** 888poker Hand History for Game 1321555003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:46:45
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.65 )
+Seat 2: Amererer ( $0.84 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ Ts, 6s, Kh ]
+Amererer checks
+eksell checks
+** Dealing turn ** [ Kc ]
+Amererer checks
+eksell bets [$0.02]
+Amererer folds
+** Summary **
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321555020
+***** 888poker Hand History for Game 1321555020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:47:04
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.67 )
+Seat 2: Amererer ( $0.82 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer raises [$0.03]
+eksell calls [$0.02]
+** Dealing flop ** [ 3d, 7d, 7s ]
+eksell bets [$0.02]
+Amererer calls [$0.02]
+** Dealing turn ** [ Jc ]
+eksell bets [$0.02]
+Amererer calls [$0.02]
+** Dealing river ** [ 8s ]
+eksell bets [$0.02]
+Amererer calls [$0.02]
+** Summary **
+eksell shows [ 8h, 2c ]
+Amererer mucks [ As, Kh ]
+eksell collected [ $0.19 ]
+
+
+#Game No : 1321555049
+***** 888poker Hand History for Game 1321555049 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:47:37
+Table Klagenfurt 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.76 )
+Seat 2: Amererer ( $0.72 )
+eksell posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+eksell calls [$0.01]
+Amererer checks
+** Dealing flop ** [ 7c, Qd, Th ]
+Amererer bets [$0.02]
+eksell raises [$0.04]
+Amererer calls [$0.02]
+** Dealing turn ** [ Kh ]
+Amererer checks
+eksell bets [$0.02]
+Amererer folds
+** Summary **
+eksell collected [ $0.12 ]
+
+
+#Game No : 1321555063
+***** 888poker Hand History for Game 1321555063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:47:59
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eksell ( $0.82 )
+Seat 2: Amererer ( $0.66 )
+Amererer posts small blind [$0.01]
+eksell posts big blind [$0.02]
+** Dealing down cards **
+Amererer calls [$0.01]
+eksell checks
+** Dealing flop ** [ Ah, 8c, Ad ]
+eksell checks
+Amererer checks
+** Dealing turn ** [ 4c ]
+eksell bets [$0.02]
+Amererer folds
+** Summary **
+eksell collected [ $0.04 ]
+
+
+#Game No : 1321555218
+***** 888poker Hand History for Game 1321555218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:51:37
+Table Klagenfurt 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Amererer ( $0.48 )
+Seat 4: Missdci ( $0.80 )
+Amererer posts small blind [$0.01]
+Missdci posts big blind [$0.02]
+** Dealing down cards **
+Amererer folds
+** Summary **
+Missdci collected [ $0.03 ]
+
+
+#Game No : 1321555223
+***** 888poker Hand History for Game 1321555223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2020 23:51:45
+Table Klagenfurt 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Amererer ( $0.47 )
+Seat 4: Missdci ( $0.81 )
+Missdci posts small blind [$0.01]
+Amererer posts big blind [$0.02]
+** Dealing down cards **
+Missdci raises [$0.03]
+Amererer calls [$0.02]
+** Dealing flop ** [ 6h, Tc, 8d ]
+Amererer checks
+Missdci bets [$0.02]
+Amererer calls [$0.02]
+** Dealing turn ** [ 3d ]
+Amererer checks
+Missdci checks
+** Dealing river ** [ 7c ]
+Amererer bets [$0.10]
+Missdci raises [$0.42]
+Amererer calls [$0.31]
+** Summary **
+Amererer shows [ 5d, Ts ]
+Missdci shows [ 9c, Kh ]
+Missdci collected [ $0.89 ]
+
+
+#Game No : 1321555925
+***** 888poker Hand History for Game 1321555925 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:07:37
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.61 )
+Seat 5: JS888FU ( $2.36 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+zenit3535 calls [$0.02]
+** Dealing flop ** [ Td, Tc, 4c ]
+zenit3535 checks
+JS888FU checks
+** Dealing turn ** [ Kh ]
+zenit3535 checks
+JS888FU bets [$0.02]
+zenit3535 calls [$0.02]
+** Dealing river ** [ 2h ]
+zenit3535 checks
+JS888FU checks
+** Summary **
+zenit3535 shows [ 4d, 2d ]
+JS888FU mucks [ Jd, 6h ]
+zenit3535 collected [ $0.12 ]
+
+
+#Game No : 1321555942
+***** 888poker Hand History for Game 1321555942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:07:55
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.67 )
+Seat 5: JS888FU ( $2.30 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 raises [$0.04]
+JS888FU calls [$0.03]
+** Dealing flop ** [ Ad, 6c, 6h ]
+JS888FU checks
+zenit3535 bets [$0.05]
+JS888FU folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ $0.10 ]
+
+
+#Game No : 1321555956
+***** 888poker Hand History for Game 1321555956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:08:13
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.72 )
+Seat 5: JS888FU ( $2.25 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+zenit3535 raises [$0.14]
+JS888FU calls [$0.12]
+** Dealing flop ** [ 6s, Qs, 3c ]
+zenit3535 bets [$0.21]
+JS888FU folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ $0.30 ]
+
+
+#Game No : 1321555977
+***** 888poker Hand History for Game 1321555977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:08:37
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.86 )
+Seat 5: JS888FU ( $2.09 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 4c, Ah, 9s ]
+JS888FU checks
+zenit3535 checks
+** Dealing turn ** [ 4h ]
+JS888FU checks
+zenit3535 checks
+** Dealing river ** [ 3h ]
+JS888FU checks
+zenit3535 checks
+** Summary **
+JS888FU shows [ 5s, Qs ]
+zenit3535 shows [ 5d, Qc ]
+JS888FU collected [ $0.02 ]
+zenit3535 collected [ $0.02 ]
+
+
+#Game No : 1321555994
+***** 888poker Hand History for Game 1321555994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:09:00
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.86 )
+Seat 5: JS888FU ( $2.09 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+zenit3535 calls [$0.02]
+** Dealing flop ** [ 7h, 6d, 5d ]
+zenit3535 checks
+JS888FU bets [$0.09]
+zenit3535 calls [$0.09]
+** Dealing turn ** [ 8s ]
+zenit3535 checks
+JS888FU bets [$0.17]
+zenit3535 calls [$0.17]
+** Dealing river ** [ 3s ]
+zenit3535 checks
+JS888FU bets [$0.39]
+zenit3535 calls [$0.39]
+** Summary **
+JS888FU shows [ Ac, 9s ]
+zenit3535 mucks [ 4h, 4c ]
+JS888FU collected [ $1.30 ]
+
+
+#Game No : 1321556020
+***** 888poker Hand History for Game 1321556020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:09:39
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.17 )
+Seat 5: JS888FU ( $2.70 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 3d, Ah, Kc ]
+JS888FU checks
+zenit3535 checks
+** Dealing turn ** [ 6d ]
+JS888FU checks
+zenit3535 checks
+** Dealing river ** [ 9d ]
+JS888FU checks
+zenit3535 bets [$0.02]
+JS888FU folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ $0.04 ]
+
+
+#Game No : 1321556065
+***** 888poker Hand History for Game 1321556065 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:10:38
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $2 )
+Seat 5: JS888FU ( $2.68 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+zenit3535 raises [$0.04]
+JS888FU calls [$0.04]
+** Dealing flop ** [ 5c, 3h, 7s ]
+zenit3535 checks
+JS888FU checks
+** Dealing turn ** [ 6s ]
+zenit3535 checks
+JS888FU bets [$0.07]
+zenit3535 folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.12 ]
+
+
+#Game No : 1321556082
+***** 888poker Hand History for Game 1321556082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:10:56
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.94 )
+Seat 5: JS888FU ( $2.74 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 raises [$0.04]
+JS888FU calls [$0.03]
+** Dealing flop ** [ 5s, Qs, Td ]
+JS888FU bets [$0.02]
+zenit3535 calls [$0.02]
+** Dealing turn ** [ 4d ]
+JS888FU bets [$0.02]
+zenit3535 calls [$0.02]
+** Dealing river ** [ 8c ]
+JS888FU checks
+zenit3535 checks
+** Summary **
+JS888FU shows [ 2d, Tc ]
+zenit3535 mucks [ Ah, 3s ]
+JS888FU collected [ $0.17 ]
+
+
+#Game No : 1321556100
+***** 888poker Hand History for Game 1321556100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:11:19
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.85 )
+Seat 5: JS888FU ( $2.82 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+zenit3535 calls [$0.02]
+** Dealing flop ** [ 7c, Kc, Qh ]
+zenit3535 checks
+JS888FU bets [$0.05]
+zenit3535 calls [$0.05]
+** Dealing turn ** [ 2d ]
+zenit3535 checks
+JS888FU checks
+** Dealing river ** [ 8d ]
+zenit3535 bets [$0.11]
+JS888FU folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ $0.17 ]
+
+
+#Game No : 1321556120
+***** 888poker Hand History for Game 1321556120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:11:44
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.93 )
+Seat 5: JS888FU ( $2.73 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 2h, Qs, 2s ]
+JS888FU checks
+zenit3535 checks
+** Dealing turn ** [ Kc ]
+JS888FU checks
+zenit3535 checks
+** Dealing river ** [ 3c ]
+JS888FU checks
+zenit3535 checks
+** Summary **
+JS888FU shows [ Ks, 5d ]
+zenit3535 mucks [ 5c, 3h ]
+JS888FU collected [ $0.04 ]
+
+
+#Game No : 1321556147
+***** 888poker Hand History for Game 1321556147 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:12:17
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.91 )
+Seat 5: JS888FU ( $2.75 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ $0.03 ]
+
+
+#Game No : 1321556152
+***** 888poker Hand History for Game 1321556152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:12:23
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.92 )
+Seat 5: JS888FU ( $2.74 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 raises [$0.05]
+JS888FU folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ $0.04 ]
+
+
+#Game No : 1321556160
+***** 888poker Hand History for Game 1321556160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:12:31
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.94 )
+Seat 5: JS888FU ( $2.72 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ $0.03 ]
+
+
+#Game No : 1321556167
+***** 888poker Hand History for Game 1321556167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:12:37
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.95 )
+Seat 5: JS888FU ( $2.71 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 2d, 9s, 7s ]
+JS888FU checks
+zenit3535 checks
+** Dealing turn ** [ Jc ]
+JS888FU checks
+zenit3535 checks
+** Dealing river ** [ 4s ]
+JS888FU bets [$0.02]
+zenit3535 folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.04 ]
+
+
+#Game No : 1321556192
+***** 888poker Hand History for Game 1321556192 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:13:10
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.93 )
+Seat 5: JS888FU ( $2.73 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+zenit3535 checks
+** Dealing flop ** [ 4s, Tc, 7c ]
+zenit3535 checks
+JS888FU bets [$0.06]
+zenit3535 calls [$0.06]
+** Dealing turn ** [ 5h ]
+zenit3535 checks
+JS888FU checks
+** Dealing river ** [ 2s ]
+zenit3535 bets [$0.10]
+JS888FU folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ $0.15 ]
+
+
+#Game No : 1321556220
+***** 888poker Hand History for Game 1321556220 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:13:47
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $2 )
+Seat 5: JS888FU ( $2.65 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ As, 8d, 6s ]
+JS888FU checks
+zenit3535 bets [$0.02]
+JS888FU calls [$0.02]
+** Dealing turn ** [ Ad ]
+JS888FU checks
+zenit3535 bets [$0.04]
+JS888FU calls [$0.04]
+** Dealing river ** [ 9h ]
+JS888FU checks
+zenit3535 bets [$0.07]
+JS888FU calls [$0.07]
+** Summary **
+zenit3535 shows [ 8c, 7h ]
+JS888FU shows [ Qh, 8s ]
+JS888FU collected [ $0.29 ]
+
+
+#Game No : 1321556243
+***** 888poker Hand History for Game 1321556243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:14:17
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.85 )
+Seat 5: JS888FU ( $2.79 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+zenit3535 checks
+** Dealing flop ** [ 2h, 5d, 7h ]
+zenit3535 checks
+JS888FU checks
+** Dealing turn ** [ Ts ]
+zenit3535 bets [$0.02]
+JS888FU folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ $0.04 ]
+
+
+#Game No : 1321556264
+***** 888poker Hand History for Game 1321556264 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:14:40
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.87 )
+Seat 5: JS888FU ( $2.77 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.03 ]
+
+
+#Game No : 1321556269
+***** 888poker Hand History for Game 1321556269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:14:46
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.86 )
+Seat 5: JS888FU ( $2.78 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+zenit3535 checks
+** Dealing flop ** [ Kd, Tc, Js ]
+zenit3535 checks
+JS888FU checks
+** Dealing turn ** [ Qc ]
+zenit3535 checks
+JS888FU checks
+** Dealing river ** [ 9c ]
+zenit3535 checks
+JS888FU checks
+** Summary **
+zenit3535 shows [ 6c, 9s ]
+JS888FU shows [ 3d, 2d ]
+JS888FU collected [ $0.02 ]
+zenit3535 collected [ $0.02 ]
+
+
+#Game No : 1321556296
+***** 888poker Hand History for Game 1321556296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:15:11
+Table Klagenfurt 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.86 )
+Seat 5: JS888FU ( $2.78 )
+zenit3535 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+zenit3535 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 6c, Ts, 9d ]
+JS888FU bets [$0.02]
+zenit3535 raises [$0.05]
+JS888FU calls [$0.03]
+** Dealing turn ** [ 8h ]
+JS888FU checks
+zenit3535 bets [$0.09]
+JS888FU calls [$0.09]
+** Dealing river ** [ 6d ]
+JS888FU checks
+zenit3535 bets [$0.21]
+JS888FU raises [$0.42]
+zenit3535 calls [$0.21]
+** Summary **
+JS888FU shows [ 6h, 9c ]
+zenit3535 mucks [ 7h, 8d ]
+JS888FU collected [ $1.09 ]
+
+
+#Game No : 1321556321
+***** 888poker Hand History for Game 1321556321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2020 00:15:40
+Table Klagenfurt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: zenit3535 ( $1.28 )
+Seat 5: JS888FU ( $3.29 )
+JS888FU posts small blind [$0.01]
+zenit3535 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+zenit3535 checks
+** Dealing flop ** [ 2s, 6h, 2c ]
+zenit3535 checks
+JS888FU checks
+** Dealing turn ** [ Qs ]
+zenit3535 bets [$0.02]
+JS888FU folds
+** Summary **
+zenit3535 collected [ $0.04 ]
+
+

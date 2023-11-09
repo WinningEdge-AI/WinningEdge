@@ -1,0 +1,82 @@
+#Game No : 500110103
+***** 888poker Hand History for Game 500110103 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 05:50:42
+Table Edinburgh 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 2noise999 ( $1.42 )
+Seat 2: grizlybear92 ( $1.62 )
+grizlybear92 posts small blind [$0.01]
+2noise999 posts big blind [$0.02]
+** Dealing down cards **
+grizlybear92 raises [$0.03]
+2noise999 folds
+** Summary **
+grizlybear92 did not show his hand
+grizlybear92 collected [ $0.04 ]
+
+
+#Game No : 500110109
+***** 888poker Hand History for Game 500110109 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 05:50:49
+Table Edinburgh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 2noise999 ( $1.40 )
+Seat 2: grizlybear92 ( $1.64 )
+2noise999 posts small blind [$0.01]
+grizlybear92 posts big blind [$0.02]
+** Dealing down cards **
+2noise999 raises [$0.05]
+grizlybear92 folds
+** Summary **
+2noise999 did not show his hand
+2noise999 collected [ $0.04 ]
+
+
+#Game No : 500110117
+***** 888poker Hand History for Game 500110117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 05:51:01
+Table Edinburgh 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 2noise999 ( $1.42 )
+Seat 2: grizlybear92 ( $1.62 )
+grizlybear92 posts small blind [$0.01]
+2noise999 posts big blind [$0.02]
+** Dealing down cards **
+grizlybear92 raises [$0.03]
+2noise999 folds
+** Summary **
+grizlybear92 did not show his hand
+grizlybear92 collected [ $0.04 ]
+
+
+#Game No : 500110125
+***** 888poker Hand History for Game 500110125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 05:51:08
+Table Edinburgh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 2noise999 ( $1.40 )
+Seat 2: grizlybear92 ( $1.64 )
+2noise999 posts small blind [$0.01]
+grizlybear92 posts big blind [$0.02]
+** Dealing down cards **
+2noise999 raises [$0.05]
+grizlybear92 calls [$0.04]
+** Dealing flop ** [ 3s, Td, 9c ]
+grizlybear92 bets [$0.04]
+2noise999 calls [$0.04]
+** Dealing turn ** [ 7h ]
+grizlybear92 bets [$0.04]
+2noise999 calls [$0.04]
+** Dealing river ** [ 5c ]
+grizlybear92 bets [$0.04]
+2noise999 calls [$0.04]
+** Summary **
+grizlybear92 shows [ Ac, 5s ]
+2noise999 shows [ Ts, Qc ]
+2noise999 collected [ $0.34 ]
+
+

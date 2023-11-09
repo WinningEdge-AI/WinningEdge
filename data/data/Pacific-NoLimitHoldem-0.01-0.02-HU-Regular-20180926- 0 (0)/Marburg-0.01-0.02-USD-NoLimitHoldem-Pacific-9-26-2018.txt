@@ -1,0 +1,112 @@
+#Game No : 502931518
+***** 888poker Hand History for Game 502931518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:54:20
+Table Marburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: antoshkasuka ( $0.80 )
+Seat 4: richbranson ( $1 )
+richbranson posts small blind [$0.01]
+antoshkasuka posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+antoshkasuka calls [$0.04]
+** Dealing flop ** [ Jd, Qc, 7h ]
+antoshkasuka checks
+richbranson checks
+** Dealing turn ** [ Ts ]
+antoshkasuka checks
+richbranson bets [$0.10]
+antoshkasuka calls [$0.10]
+** Dealing river ** [ Td ]
+antoshkasuka checks
+richbranson bets [$0.44]
+antoshkasuka folds
+** Summary **
+richbranson collected [ $0.30 ]
+
+
+#Game No : 502931534
+***** 888poker Hand History for Game 502931534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:54:36
+Table Marburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: antoshkasuka ( $0.64 )
+Seat 4: richbranson ( $1.14 )
+antoshkasuka posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+antoshkasuka calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Kh, 8s, Ts ]
+richbranson checks
+antoshkasuka checks
+** Dealing turn ** [ 5c ]
+richbranson checks
+antoshkasuka checks
+** Dealing river ** [ Ks ]
+richbranson checks
+antoshkasuka checks
+** Summary **
+richbranson shows [ 3c, 6d ]
+antoshkasuka shows [ 2c, 2h ]
+antoshkasuka collected [ $0.04 ]
+
+
+#Game No : 502934835
+***** 888poker Hand History for Game 502934835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 04:41:28
+Table Marburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kramar101 ( $1.02 )
+Seat 7: VictimVIP ( $1.23 )
+kramar101 posts small blind [$0.01]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+kramar101 collected [ $0.01 ]
+
+
+#Game No : 455782354
+***** 888poker Hand History for Game 455782354 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:14:17
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Griboedow ( $1.59 )
+Seat 7: quantwannabe ( $2.10 )
+Griboedow posts small blind [$0.01]
+quantwannabe posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+quantwannabe checks
+** Dealing flop ** [ 5c, 7s, As ]
+quantwannabe checks
+Griboedow checks
+** Dealing turn ** [ 8s ]
+quantwannabe bets [$0.02]
+Griboedow calls [$0.02]
+** Dealing river ** [ Ks ]
+quantwannabe bets [$0.04]
+Griboedow folds
+** Summary **
+quantwannabe collected [ $0.08 ]
+
+
+#Game No : 455782372
+***** 888poker Hand History for Game 455782372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:14:41
+Table Marburg 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: Griboedow ( $1.55 )
+Seat 7: quantwannabe ( $2.14 )
+quantwannabe posts small blind [$0.01]
+** Dealing down cards **
+Griboedow folds
+** Summary **
+quantwannabe collected [ $0.01 ]
+
+

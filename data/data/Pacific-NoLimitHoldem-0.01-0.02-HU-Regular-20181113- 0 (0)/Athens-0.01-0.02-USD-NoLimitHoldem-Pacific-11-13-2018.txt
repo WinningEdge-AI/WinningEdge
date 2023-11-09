@@ -1,0 +1,275 @@
+#Game No : 505307939
+***** 888poker Hand History for Game 505307939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 03:53:57
+Table Athens 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GLtoMe ( $0.82 )
+Seat 7: Churekovo ( $1 )
+Churekovo posts small blind [$0.01]
+GLtoMe posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+GLtoMe calls [$0.02]
+** Dealing flop ** [ Td, 5s, 6d ]
+GLtoMe checks
+Churekovo checks
+** Dealing turn ** [ Ah ]
+GLtoMe checks
+Churekovo bets [$0.06]
+GLtoMe calls [$0.06]
+** Dealing river ** [ 3d ]
+GLtoMe checks
+Churekovo checks
+** Summary **
+GLtoMe shows [ 4h, 2h ]
+Churekovo mucks [ Kc, 2s ]
+GLtoMe collected [ $0.19 ]
+
+
+#Game No : 505307979
+***** 888poker Hand History for Game 505307979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 03:54:01
+Table Athens 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GLtoMe ( $0.91 )
+Seat 7: Churekovo ( $1 )
+GLtoMe posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+GLtoMe calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ 9h, Ac, 7d ]
+Churekovo checks
+GLtoMe checks
+** Dealing turn ** [ 7s ]
+Churekovo checks
+GLtoMe checks
+** Dealing river ** [ 5s ]
+Churekovo checks
+GLtoMe checks
+** Summary **
+Churekovo shows [ Ts, 3c ]
+GLtoMe shows [ 3s, Qh ]
+GLtoMe collected [ $0.04 ]
+
+
+#Game No : 505309495
+***** 888poker Hand History for Game 505309495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 04:27:00
+Table Athens 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: comiwi ( $1.96 )
+Seat 7: Kylepoker2 ( $1 )
+comiwi posts small blind [$0.01]
+Kylepoker2 posts big blind [$0.02]
+** Dealing down cards **
+comiwi folds
+** Summary **
+Kylepoker2 collected [ $0.03 ]
+
+
+#Game No : 505309505
+***** 888poker Hand History for Game 505309505 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 04:27:09
+Table Athens 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: comiwi ( $1.95 )
+Seat 7: Kylepoker2 ( $1.01 )
+Kylepoker2 posts small blind [$0.01]
+comiwi posts big blind [$0.02]
+** Dealing down cards **
+Kylepoker2 raises [$0.03]
+comiwi folds
+** Summary **
+Kylepoker2 collected [ $0.04 ]
+
+
+#Game No : 505310039
+***** 888poker Hand History for Game 505310039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 04:40:31
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.27 )
+Seat 7: Kylepoker2 ( $2.32 )
+DezKD posts small blind [$0.01]
+Kylepoker2 posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.05]
+Kylepoker2 raises [$0.08]
+DezKD folds
+** Summary **
+Kylepoker2 collected [ $0.12 ]
+
+
+#Game No : 505310051
+***** 888poker Hand History for Game 505310051 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 04:40:52
+Table Athens 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.21 )
+Seat 7: Kylepoker2 ( $2.38 )
+Kylepoker2 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Kylepoker2 calls [$0.01]
+DezKD raises [$0.06]
+Kylepoker2 calls [$0.06]
+** Dealing flop ** [ 9d, 2s, Th ]
+DezKD bets [$0.08]
+Kylepoker2 folds
+** Summary **
+DezKD collected [ $0.15 ]
+
+
+#Game No : 505311096
+***** 888poker Hand History for Game 505311096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 05:01:33
+Table Athens 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.76 )
+Seat 6: Den01234 ( $0.97 )
+Den01234 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Den01234 folds
+** Summary **
+DezKD collected [ $0.03 ]
+
+
+#Game No : 505311099
+***** 888poker Hand History for Game 505311099 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 05:01:40
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.77 )
+Seat 6: Den01234 ( $0.96 )
+DezKD posts small blind [$0.01]
+Den01234 posts big blind [$0.02]
+** Dealing down cards **
+DezKD calls [$0.01]
+Den01234 checks
+** Dealing flop ** [ Ts, Th, Kd ]
+Den01234 checks
+DezKD bets [$0.02]
+Den01234 folds
+** Summary **
+DezKD collected [ $0.04 ]
+
+
+#Game No : 505311112
+***** 888poker Hand History for Game 505311112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 05:02:00
+Table Athens 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.79 )
+Seat 6: Den01234 ( $0.94 )
+Den01234 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Den01234 folds
+** Summary **
+DezKD collected [ $0.03 ]
+
+
+#Game No : 505311117
+***** 888poker Hand History for Game 505311117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 05:02:06
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.80 )
+Seat 6: Den01234 ( $0.93 )
+DezKD posts small blind [$0.01]
+Den01234 posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.05]
+Den01234 folds
+** Summary **
+DezKD did not show his hand
+DezKD collected [ $0.04 ]
+
+
+#Game No : 505311121
+***** 888poker Hand History for Game 505311121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 05:02:12
+Table Athens 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.82 )
+Seat 6: Den01234 ( $0.91 )
+Den01234 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Den01234 raises [$0.03]
+DezKD calls [$0.02]
+** Dealing flop ** [ 4h, Kd, 5s ]
+DezKD checks
+Den01234 bets [$0.08]
+DezKD calls [$0.08]
+** Dealing turn ** [ 2d ]
+DezKD checks
+Den01234 bets [$0.12]
+DezKD folds
+** Summary **
+Den01234 did not show his hand
+Den01234 collected [ $0.23 ]
+
+
+#Game No : 505311148
+***** 888poker Hand History for Game 505311148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 05:02:38
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.70 )
+Seat 6: Den01234 ( $1.02 )
+DezKD posts small blind [$0.01]
+Den01234 posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.05]
+Den01234 folds
+** Summary **
+DezKD collected [ $0.04 ]
+
+
+#Game No : 505314150
+***** 888poker Hand History for Game 505314150 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 06:03:02
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.81 )
+Seat 4: Irishman41 ( $1.78 )
+DezKD posts small blind [$0.01]
+Irishman41 posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+Irishman41 collected [ $0.03 ]
+
+
+#Game No : 505314725
+***** 888poker Hand History for Game 505314725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 06:13:38
+Table Athens 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $2.14 )
+Seat 7: DeTanker ( $1.01 )
+WhiskyBiz_NI posts small blind [$0.01]
+DeTanker posts big blind [$0.02]
+** Dealing down cards **
+WhiskyBiz_NI folds
+** Summary **
+DeTanker collected [ $0.03 ]
+
+

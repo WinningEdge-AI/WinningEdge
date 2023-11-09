@@ -1,0 +1,74 @@
+#Game No : 505399909
+***** 888poker Hand History for Game 505399909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 14:36:01
+Table Eugene 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bayboy885 ( $0.80 )
+Seat 7: robielennon ( $0.51 )
+bayboy885 posts small blind [$0.01]
+robielennon posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 folds
+** Summary **
+robielennon did not show his hand
+robielennon collected [ $0.03 ]
+
+
+#Game No : 505399915
+***** 888poker Hand History for Game 505399915 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 14:36:08
+Table Eugene 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: bayboy885 ( $0.80 )
+Seat 7: robielennon ( $0.52 )
+robielennon posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+robielennon calls [$0.01]
+bayboy885 checks
+** Dealing flop ** [ 3c, 4s, 6c ]
+bayboy885 checks
+robielennon checks
+** Dealing turn ** [ 3d ]
+bayboy885 bets [$0.04]
+robielennon calls [$0.04]
+** Dealing river ** [ 2d ]
+bayboy885 checks
+robielennon checks
+** Summary **
+bayboy885 shows [ 6s, 2s ]
+robielennon shows [ As, 3h ]
+robielennon collected [ $0.12 ]
+
+
+#Game No : 505401988
+***** 888poker Hand History for Game 505401988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 15:28:18
+Table Eugene 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: buqsi ( $0.82 )
+Seat 6: vityel ( $1 )
+vityel posts small blind [$0.01]
+buqsi posts big blind [$0.02]
+** Dealing down cards **
+vityel raises [$0.05]
+buqsi calls [$0.04]
+** Dealing flop ** [ 2h, 9c, 6s ]
+buqsi checks
+vityel checks
+** Dealing turn ** [ Ks ]
+buqsi checks
+vityel bets [$0.06]
+buqsi calls [$0.06]
+** Dealing river ** [ 4c ]
+buqsi checks
+vityel checks
+** Summary **
+buqsi shows [ Kd, Jh ]
+vityel mucks [ 8h, Ac ]
+buqsi collected [ $0.23 ]
+
+

@@ -1,0 +1,80 @@
+#Game No : 1883089
+***** 888poker Hand History for Game 1883089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 01 2020 00:43:12
+Table Bacau 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: LouTannen ( $3.72 )
+Seat 6: 888RUB ( $1.20 )
+LouTannen posts small blind [$0.01]
+888RUB posts big blind [$0.02]
+** Dealing down cards **
+LouTannen raises [$0.03]
+888RUB calls [$0.02]
+** Dealing flop ** [ 2d, Js, 3s ]
+888RUB checks
+LouTannen checks
+** Dealing turn ** [ 3c ]
+888RUB bets [$0.05]
+LouTannen folds
+** Summary **
+888RUB collected [ $0.08 ]
+
+
+#Game No : 1883090
+***** 888poker Hand History for Game 1883090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 01 2020 00:43:24
+Table Bacau 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: LouTannen ( $3.68 )
+Seat 6: 888RUB ( $1.24 )
+888RUB posts small blind [$0.01]
+LouTannen posts big blind [$0.02]
+** Dealing down cards **
+888RUB raises [$0.05]
+LouTannen calls [$0.04]
+** Dealing flop ** [ 2d, Qc, As ]
+LouTannen checks
+888RUB checks
+** Dealing turn ** [ Qs ]
+LouTannen checks
+888RUB bets [$0.08]
+LouTannen folds
+** Summary **
+888RUB collected [ $0.12 ]
+
+
+#Game No : 1883207
+***** 888poker Hand History for Game 1883207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 01 2020 01:08:09
+Table Bacau 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 2: JustFolld315 ( $0.78 )
+Seat 6: 888RUB ( $2.30 )
+JustFolld315 posts small blind [$0.01]
+** Dealing down cards **
+888RUB folds
+** Summary **
+JustFolld315 collected [ $0.01 ]
+
+
+#Game No : 1883209
+***** 888poker Hand History for Game 1883209 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 01 2020 01:08:12
+Table Bacau 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Tgellert ( $2.47 )
+Seat 2: JustFolld315 ( $0.78 )
+JustFolld315 posts small blind [$0.01]
+Tgellert posts big blind [$0.02]
+** Dealing down cards **
+JustFolld315 raises [$0.03]
+Tgellert folds
+** Summary **
+JustFolld315 did not show his hand
+JustFolld315 collected [ $0.04 ]
+
+

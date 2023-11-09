@@ -1,0 +1,92 @@
+#Game No : 516055095
+***** 888poker Hand History for Game 516055095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 17:25:34
+Table Cologne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: genstorm1 ( $2.66 )
+Seat 7: SevenThousan ( $2.40 )
+SevenThousan posts small blind [$0.01]
+genstorm1 posts big blind [$0.02]
+** Dealing down cards **
+SevenThousan folds
+** Summary **
+genstorm1 did not show his hand
+genstorm1 collected [ $0.03 ]
+
+
+#Game No : 516055096
+***** 888poker Hand History for Game 516055096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 17:25:39
+Table Cologne 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: genstorm1 ( $2.67 )
+Seat 7: SevenThousan ( $2.39 )
+genstorm1 posts small blind [$0.01]
+** Dealing down cards **
+SevenThousan folds
+** Summary **
+genstorm1 did not show his hand
+genstorm1 collected [ $0.01 ]
+
+
+#Game No : 1223948060
+***** 888poker Hand History for Game 1223948060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 00:39:19
+Table Cologne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: odinsg114 ( $0.86 )
+Seat 5: JFKisDead ( $1.94 )
+odinsg114 posts small blind [$0.01]
+JFKisDead posts big blind [$0.02]
+** Dealing down cards **
+odinsg114 raises [$0.05]
+JFKisDead calls [$0.04]
+** Dealing flop ** [ 6d, Jd, 5h ]
+JFKisDead checks
+odinsg114 bets [$0.06]
+JFKisDead calls [$0.06]
+** Dealing turn ** [ 9s ]
+JFKisDead checks
+odinsg114 bets [$0.16]
+JFKisDead raises [$0.32]
+odinsg114 raises [$0.58]
+JFKisDead calls [$0.42]
+** Dealing river ** [ 4d ]
+** Summary **
+odinsg114 shows [ Qd, Qc ]
+JFKisDead shows [ 6c, Jc ]
+JFKisDead collected [ $1.62 ]
+
+
+#Game No : 1223948135
+***** 888poker Hand History for Game 1223948135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 00:39:57
+Table Cologne 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: odinsg114 ( $0.80 )
+Seat 5: JFKisDead ( $2.70 )
+JFKisDead posts small blind [$0.01]
+odinsg114 posts big blind [$0.02]
+** Dealing down cards **
+JFKisDead calls [$0.01]
+odinsg114 checks
+** Dealing flop ** [ 4c, 2c, 3h ]
+odinsg114 checks
+JFKisDead bets [$0.06]
+odinsg114 calls [$0.06]
+** Dealing turn ** [ 9s ]
+odinsg114 checks
+JFKisDead checks
+** Dealing river ** [ 8h ]
+odinsg114 checks
+JFKisDead checks
+** Summary **
+odinsg114 shows [ 8d, As ]
+JFKisDead mucks [ Tc, 3s ]
+odinsg114 collected [ $0.15 ]
+
+

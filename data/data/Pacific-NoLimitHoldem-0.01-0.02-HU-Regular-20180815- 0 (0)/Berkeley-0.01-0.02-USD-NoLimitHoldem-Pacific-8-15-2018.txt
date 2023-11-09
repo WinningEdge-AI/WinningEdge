@@ -1,0 +1,686 @@
+#Game No : 500904101
+***** 888poker Hand History for Game 500904101 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:14:01
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ffarndt ( $0.87 )
+Seat 4: HogRider01 ( $0.95 )
+ffarndt posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+ffarndt calls [$0.01]
+HogRider01 checks
+** Dealing flop ** [ Td, 6d, 9d ]
+HogRider01 checks
+ffarndt bets [$0.04]
+HogRider01 calls [$0.04]
+** Dealing turn ** [ 6c ]
+HogRider01 checks
+ffarndt bets [$0.12]
+HogRider01 calls [$0.12]
+** Dealing river ** [ Qh ]
+HogRider01 checks
+ffarndt checks
+** Summary **
+HogRider01 shows [ 9s, Jd ]
+ffarndt shows [ Tc, 8c ]
+ffarndt collected [ $0.34 ]
+
+
+#Game No : 500904112
+***** 888poker Hand History for Game 500904112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:14:33
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ffarndt ( $1.03 )
+Seat 4: HogRider01 ( $0.77 )
+HogRider01 posts small blind [$0.01]
+ffarndt posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 folds
+** Summary **
+ffarndt did not show his hand
+ffarndt collected [ $0.03 ]
+
+
+#Game No : 500904114
+***** 888poker Hand History for Game 500904114 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:14:39
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ffarndt ( $1.04 )
+Seat 4: HogRider01 ( $0.76 )
+ffarndt posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+ffarndt raises [$0.05]
+HogRider01 raises [$0.74]
+ffarndt calls [$0.70]
+** Dealing flop ** [ 9s, 6h, 3d ]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ 4d ]
+** Summary **
+ffarndt shows [ Jh, Kh ]
+HogRider01 shows [ Qs, Qh ]
+HogRider01 collected [ $1.43 ]
+
+
+#Game No : 500904124
+***** 888poker Hand History for Game 500904124 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:15:03
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ffarndt ( $0.28 )
+Seat 4: HogRider01 ( $1.43 )
+HogRider01 posts small blind [$0.01]
+ffarndt posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 folds
+** Summary **
+ffarndt collected [ $0.03 ]
+
+
+#Game No : 500904338
+***** 888poker Hand History for Game 500904338 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:24:04
+Table Berkeley 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: NINJASKILLZ ( $1.29 )
+Seat 7: goshujin ( $1.52 )
+goshujin posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+goshujin raises [$0.03]
+NINJASKILLZ folds
+** Summary **
+goshujin collected [ $0.04 ]
+
+
+#Game No : 500904344
+***** 888poker Hand History for Game 500904344 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:24:13
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: NINJASKILLZ ( $1.27 )
+Seat 7: goshujin ( $1.54 )
+NINJASKILLZ posts small blind [$0.01]
+goshujin posts big blind [$0.02]
+** Dealing down cards **
+NINJASKILLZ folds
+** Summary **
+goshujin collected [ $0.03 ]
+
+
+#Game No : 500904349
+***** 888poker Hand History for Game 500904349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 00:24:21
+Table Berkeley 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: NINJASKILLZ ( $1.26 )
+Seat 7: goshujin ( $1.55 )
+goshujin posts small blind [$0.01]
+NINJASKILLZ posts big blind [$0.02]
+** Dealing down cards **
+goshujin raises [$0.03]
+NINJASKILLZ folds
+** Summary **
+goshujin collected [ $0.04 ]
+
+
+#Game No : 500911560
+***** 888poker Hand History for Game 500911560 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 04:31:57
+Table Berkeley 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: GARALD84 ( $2.63 )
+Seat 9: Vlad620 ( $1 )
+Vlad620 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+Vlad620 calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ Ac, 7h, Jd ]
+GARALD84 bets [$0.02]
+Vlad620 folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 500911573
+***** 888poker Hand History for Game 500911573 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 04:32:20
+Table Berkeley 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: GARALD84 ( $2.65 )
+Seat 9: Vlad620 ( $1 )
+GARALD84 posts small blind [$0.01]
+** Dealing down cards **
+Vlad620 folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.01 ]
+
+
+#Game No : 500911586
+***** 888poker Hand History for Game 500911586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 04:32:48
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 88Megadro88 ( $1 )
+Seat 2: d.kach24 ( $1 )
+d.kach24 posts small blind [$0.01]
+88Megadro88 posts big blind [$0.02]
+** Dealing down cards **
+d.kach24 calls [$0.01]
+88Megadro88 checks
+** Dealing flop ** [ 6c, Qc, 3h ]
+88Megadro88 checks
+d.kach24 checks
+** Dealing turn ** [ 8h ]
+88Megadro88 checks
+d.kach24 bets [$0.02]
+88Megadro88 folds
+** Summary **
+d.kach24 collected [ $0.04 ]
+
+
+#Game No : 500914063
+***** 888poker Hand History for Game 500914063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 05:35:05
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RobertGrigoi ( $1.99 )
+Seat 7: alisazp ( $1.76 )
+RobertGrigoi posts small blind [$0.01]
+** Dealing down cards **
+alisazp folds
+** Summary **
+RobertGrigoi collected [ $0.01 ]
+
+
+#Game No : 500914129
+***** 888poker Hand History for Game 500914129 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 05:36:20
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: d.kach24 ( $1.44 )
+Seat 9: crytexxs ( $0.80 )
+d.kach24 posts small blind [$0.01]
+crytexxs posts big blind [$0.02]
+** Dealing down cards **
+d.kach24 folds
+** Summary **
+crytexxs collected [ $0.03 ]
+
+
+#Game No : 500914134
+***** 888poker Hand History for Game 500914134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 05:36:26
+Table Berkeley 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: d.kach24 ( $1.43 )
+Seat 9: crytexxs ( $0.81 )
+crytexxs posts small blind [$0.01]
+d.kach24 posts big blind [$0.02]
+** Dealing down cards **
+crytexxs calls [$0.01]
+d.kach24 checks
+** Dealing flop ** [ Ts, Kc, 5d ]
+d.kach24 checks
+crytexxs bets [$0.02]
+d.kach24 folds
+** Summary **
+crytexxs did not show his hand
+crytexxs collected [ $0.04 ]
+
+
+#Game No : 500914157
+***** 888poker Hand History for Game 500914157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 05:36:55
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: d.kach24 ( $1.41 )
+Seat 9: crytexxs ( $0.83 )
+d.kach24 posts small blind [$0.01]
+crytexxs posts big blind [$0.02]
+** Dealing down cards **
+d.kach24 raises [$0.05]
+crytexxs calls [$0.04]
+** Dealing flop ** [ Jd, 5c, Qc ]
+crytexxs checks
+d.kach24 checks
+** Dealing turn ** [ Qh ]
+crytexxs bets [$0.08]
+d.kach24 folds
+** Summary **
+crytexxs did not show his hand
+crytexxs collected [ $0.12 ]
+
+
+#Game No : 500914182
+***** 888poker Hand History for Game 500914182 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 05:37:28
+Table Berkeley 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: d.kach24 ( $1.35 )
+Seat 9: crytexxs ( $0.89 )
+crytexxs posts small blind [$0.01]
+d.kach24 posts big blind [$0.02]
+** Dealing down cards **
+crytexxs calls [$0.01]
+d.kach24 checks
+** Dealing flop ** [ Qh, Ts, 6s ]
+d.kach24 checks
+crytexxs checks
+** Dealing turn ** [ 4s ]
+d.kach24 checks
+crytexxs bets [$0.04]
+d.kach24 folds
+** Summary **
+crytexxs collected [ $0.04 ]
+
+
+#Game No : 500925593
+***** 888poker Hand History for Game 500925593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:42:01
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: CZARRR1111 ( $1.26 )
+Seat 6: idmntv ( $0.81 )
+CZARRR1111 posts small blind [$0.01]
+idmntv posts big blind [$0.02]
+** Dealing down cards **
+CZARRR1111 folds
+** Summary **
+idmntv collected [ $0.03 ]
+
+
+#Game No : 500925601
+***** 888poker Hand History for Game 500925601 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:42:12
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: CZARRR1111 ( $1.25 )
+Seat 6: idmntv ( $0.82 )
+idmntv posts small blind [$0.01]
+CZARRR1111 posts big blind [$0.02]
+** Dealing down cards **
+idmntv folds
+** Summary **
+CZARRR1111 collected [ $0.03 ]
+
+
+#Game No : 500925631
+***** 888poker Hand History for Game 500925631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:42:53
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: CZARRR1111 ( $1.26 )
+Seat 6: idmntv ( $0.81 )
+CZARRR1111 posts small blind [$0.01]
+idmntv posts big blind [$0.02]
+** Dealing down cards **
+CZARRR1111 folds
+** Summary **
+idmntv collected [ $0.03 ]
+
+
+#Game No : 500925636
+***** 888poker Hand History for Game 500925636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:43:00
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: CZARRR1111 ( $1.25 )
+Seat 6: idmntv ( $0.82 )
+idmntv posts small blind [$0.01]
+CZARRR1111 posts big blind [$0.02]
+** Dealing down cards **
+idmntv folds
+** Summary **
+CZARRR1111 collected [ $0.03 ]
+
+
+#Game No : 500925649
+***** 888poker Hand History for Game 500925649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:43:11
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: CZARRR1111 ( $1.26 )
+Seat 6: idmntv ( $0.81 )
+CZARRR1111 posts small blind [$0.01]
+** Dealing down cards **
+idmntv folds
+** Summary **
+CZARRR1111 collected [ $0.01 ]
+
+
+#Game No : 500925838
+***** 888poker Hand History for Game 500925838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:47:49
+Table Berkeley 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Colee01 ( $0.78 )
+Seat 9: Kietas15 ( $1.02 )
+Colee01 posts small blind [$0.01]
+Kietas15 posts big blind [$0.02]
+** Dealing down cards **
+Colee01 calls [$0.01]
+Kietas15 checks
+** Dealing flop ** [ 7s, Jd, 6d ]
+Kietas15 checks
+Colee01 bets [$0.04]
+Kietas15 folds
+** Summary **
+Colee01 collected [ $0.04 ]
+
+
+#Game No : 500925852
+***** 888poker Hand History for Game 500925852 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:48:09
+Table Berkeley 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Colee01 ( $0.80 )
+Seat 9: Kietas15 ( $1 )
+Kietas15 posts small blind [$0.01]
+Colee01 posts big blind [$0.02]
+** Dealing down cards **
+Kietas15 calls [$0.01]
+Colee01 raises [$0.78]
+Kietas15 folds
+** Summary **
+Colee01 collected [ $0.04 ]
+
+
+#Game No : 500925893
+***** 888poker Hand History for Game 500925893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:49:05
+Table Berkeley 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: idmntv ( $0.79 )
+Seat 9: Kietas15 ( $1.72 )
+Kietas15 posts small blind [$0.01]
+idmntv posts big blind [$0.02]
+** Dealing down cards **
+Kietas15 calls [$0.01]
+idmntv checks
+** Dealing flop ** [ Td, Ts, 7c ]
+idmntv checks
+Kietas15 checks
+** Dealing turn ** [ 8d ]
+idmntv bets [$0.04]
+Kietas15 calls [$0.04]
+** Dealing river ** [ Th ]
+idmntv bets [$0.08]
+Kietas15 folds
+** Summary **
+idmntv collected [ $0.12 ]
+
+
+#Game No : 500925931
+***** 888poker Hand History for Game 500925931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:49:53
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: idmntv ( $0.85 )
+Seat 9: Kietas15 ( $1.66 )
+idmntv posts small blind [$0.01]
+Kietas15 posts big blind [$0.02]
+** Dealing down cards **
+idmntv raises [$0.05]
+Kietas15 calls [$0.04]
+** Dealing flop ** [ 4c, Ks, 9c ]
+Kietas15 checks
+idmntv bets [$0.06]
+Kietas15 folds
+** Summary **
+idmntv collected [ $0.12 ]
+
+
+#Game No : 500925947
+***** 888poker Hand History for Game 500925947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:50:15
+Table Berkeley 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: idmntv ( $0.91 )
+Seat 9: Kietas15 ( $1.60 )
+Kietas15 posts small blind [$0.01]
+idmntv posts big blind [$0.02]
+** Dealing down cards **
+Kietas15 raises [$0.03]
+idmntv folds
+** Summary **
+Kietas15 collected [ $0.04 ]
+
+
+#Game No : 500925989
+***** 888poker Hand History for Game 500925989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:51:16
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: idmntv ( $0.89 )
+Seat 9: Kietas15 ( $1.62 )
+idmntv posts small blind [$0.01]
+Kietas15 posts big blind [$0.02]
+** Dealing down cards **
+idmntv folds
+** Summary **
+Kietas15 collected [ $0.03 ]
+
+
+#Game No : 500926025
+***** 888poker Hand History for Game 500926025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:52:04
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Clobibi ( $0.80 )
+Seat 9: Kietas15 ( $1.63 )
+Clobibi posts small blind [$0.01]
+Kietas15 posts big blind [$0.02]
+** Dealing down cards **
+Clobibi calls [$0.01]
+Kietas15 checks
+** Dealing flop ** [ 2c, 6s, Qs ]
+Kietas15 checks
+Clobibi checks
+** Dealing turn ** [ 8s ]
+Kietas15 checks
+Clobibi checks
+** Dealing river ** [ Kh ]
+Kietas15 checks
+Clobibi checks
+** Summary **
+Kietas15 shows [ 4h, 7d ]
+Clobibi shows [ Jc, Jh ]
+Clobibi collected [ $0.04 ]
+
+
+#Game No : 500926041
+***** 888poker Hand History for Game 500926041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:52:32
+Table Berkeley 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Clobibi ( $0.82 )
+Seat 9: Kietas15 ( $1.61 )
+Kietas15 posts small blind [$0.01]
+Clobibi posts big blind [$0.02]
+** Dealing down cards **
+Kietas15 calls [$0.01]
+Clobibi checks
+** Dealing flop ** [ 9d, 2s, Kh ]
+Clobibi checks
+Kietas15 checks
+** Dealing turn ** [ Js ]
+Clobibi checks
+Kietas15 checks
+** Dealing river ** [ 5c ]
+Clobibi checks
+Kietas15 checks
+** Summary **
+Clobibi shows [ Ad, 8s ]
+Kietas15 mucks [ 6d, As ]
+Clobibi collected [ $0.04 ]
+
+
+#Game No : 500926057
+***** 888poker Hand History for Game 500926057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:52:51
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Clobibi ( $0.84 )
+Seat 9: Kietas15 ( $1.59 )
+Clobibi posts small blind [$0.01]
+Kietas15 posts big blind [$0.02]
+** Dealing down cards **
+Clobibi folds
+** Summary **
+Kietas15 collected [ $0.03 ]
+
+
+#Game No : 500926080
+***** 888poker Hand History for Game 500926080 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:53:15
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: BvanWijk ( $1.02 )
+Seat 9: Kietas15 ( $1.58 )
+BvanWijk posts small blind [$0.01]
+Kietas15 posts big blind [$0.02]
+** Dealing down cards **
+BvanWijk calls [$0.01]
+Kietas15 raises [$0.02]
+BvanWijk calls [$0.02]
+** Dealing flop ** [ Td, As, Qs ]
+Kietas15 bets [$0.02]
+BvanWijk raises [$0.04]
+Kietas15 calls [$0.02]
+** Dealing turn ** [ 4s ]
+Kietas15 checks
+BvanWijk bets [$0.16]
+Kietas15 calls [$0.16]
+** Dealing river ** [ Jc ]
+Kietas15 checks
+BvanWijk bets [$0.48]
+Kietas15 folds
+** Summary **
+BvanWijk collected [ $0.45 ]
+
+
+#Game No : 500926115
+***** 888poker Hand History for Game 500926115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:53:53
+Table Berkeley 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: BvanWijk ( $1.21 )
+Seat 9: Kietas15 ( $1.36 )
+BvanWijk posts small blind [$0.01]
+Kietas15 posts big blind [$0.02]
+** Dealing down cards **
+BvanWijk calls [$0.01]
+Kietas15 checks
+** Dealing flop ** [ 7d, Td, Jd ]
+Kietas15 checks
+BvanWijk checks
+** Dealing turn ** [ 9h ]
+Kietas15 checks
+BvanWijk bets [$0.04]
+Kietas15 calls [$0.04]
+** Dealing river ** [ Kc ]
+Kietas15 checks
+BvanWijk bets [$0.12]
+Kietas15 calls [$0.12]
+** Summary **
+BvanWijk shows [ 8c, 4c ]
+Kietas15 shows [ 8s, 6s ]
+Kietas15 collected [ $0.17 ]
+BvanWijk collected [ $0.17 ]
+
+
+#Game No : 500929582
+***** 888poker Hand History for Game 500929582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 11:07:11
+Table Berkeley 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: treyses ( $1.39 )
+Seat 9: dr.House_ ( $1.25 )
+dr.House_ posts small blind [$0.01]
+treyses posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ raises [$0.05]
+treyses calls [$0.04]
+** Dealing flop ** [ 9h, 5d, 5h ]
+treyses checks
+dr.House_ checks
+** Dealing turn ** [ Jh ]
+treyses checks
+dr.House_ checks
+** Dealing river ** [ 9c ]
+treyses checks
+dr.House_ checks
+** Summary **
+treyses shows [ Qd, Td ]
+dr.House_ shows [ 7c, Qc ]
+dr.House_ collected [ $0.06 ]
+treyses collected [ $0.06 ]
+
+
+#Game No : 500929680
+***** 888poker Hand History for Game 500929680 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 11:08:50
+Table Berkeley 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: NdaMc ( $0.86 )
+Seat 2: treyses ( $1.33 )
+treyses posts small blind [$0.01]
+NdaMc posts big blind [$0.02]
+** Dealing down cards **
+treyses calls [$0.01]
+NdaMc checks
+** Dealing flop ** [ 9c, 2c, Kc ]
+NdaMc bets [$0.02]
+treyses calls [$0.02]
+** Dealing turn ** [ 7d ]
+NdaMc bets [$0.04]
+treyses calls [$0.04]
+** Dealing river ** [ Qs ]
+NdaMc checks
+treyses checks
+** Summary **
+NdaMc shows [ 4h, Ac ]
+treyses shows [ 2s, 3s ]
+treyses collected [ $0.15 ]
+
+

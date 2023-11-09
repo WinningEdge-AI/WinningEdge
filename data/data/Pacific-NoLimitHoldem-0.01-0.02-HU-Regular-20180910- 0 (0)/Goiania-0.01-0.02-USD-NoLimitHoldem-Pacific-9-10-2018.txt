@@ -1,0 +1,102 @@
+#Game No : 502182212
+***** 888poker Hand History for Game 502182212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 12:35:38
+Table Goiania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Artorias_sho ( $1 )
+Seat 7: vidakis77 ( $1 )
+vidakis77 posts small blind [$0.01]
+Artorias_sho posts big blind [$0.02]
+** Dealing down cards **
+vidakis77 calls [$0.01]
+Artorias_sho checks
+** Dealing flop ** [ Tc, 9d, Kh ]
+Artorias_sho checks
+vidakis77 checks
+** Dealing turn ** [ 8s ]
+Artorias_sho checks
+vidakis77 bets [$0.02]
+Artorias_sho folds
+** Summary **
+vidakis77 collected [ $0.04 ]
+
+
+#Game No : 502184313
+***** 888poker Hand History for Game 502184313 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 13:24:59
+Table Goiania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: MikeClea ( $1.06 )
+Seat 7: DezKD ( $1.43 )
+DezKD posts small blind [$0.01]
+MikeClea posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.05]
+MikeClea calls [$0.04]
+** Dealing flop ** [ 2c, Qh, 4c ]
+MikeClea checks
+DezKD bets [$0.02]
+MikeClea folds
+** Summary **
+DezKD collected [ $0.12 ]
+
+
+#Game No : 502184322
+***** 888poker Hand History for Game 502184322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 13:25:17
+Table Goiania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MikeClea ( $1 )
+Seat 7: DezKD ( $1.49 )
+MikeClea posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+MikeClea calls [$0.01]
+DezKD raises [$0.04]
+MikeClea calls [$0.04]
+** Dealing flop ** [ 2d, As, 7s ]
+DezKD checks
+MikeClea checks
+** Dealing turn ** [ 5c ]
+DezKD checks
+MikeClea checks
+** Dealing river ** [ Tc ]
+DezKD checks
+MikeClea checks
+** Summary **
+DezKD shows [ Kd, Jc ]
+MikeClea shows [ 3c, 3s ]
+MikeClea collected [ $0.12 ]
+
+
+#Game No : 502184350
+***** 888poker Hand History for Game 502184350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 13:26:00
+Table Goiania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: MikeClea ( $1.06 )
+Seat 7: DezKD ( $1.43 )
+DezKD posts small blind [$0.01]
+MikeClea posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.05]
+MikeClea calls [$0.04]
+** Dealing flop ** [ 2d, Kd, Ts ]
+MikeClea bets [$0.04]
+DezKD calls [$0.04]
+** Dealing turn ** [ Ks ]
+MikeClea bets [$0.04]
+DezKD calls [$0.04]
+** Dealing river ** [ As ]
+MikeClea bets [$0.04]
+DezKD calls [$0.04]
+** Summary **
+MikeClea shows [ Jh, Jc ]
+DezKD shows [ Qs, Ad ]
+DezKD collected [ $0.34 ]
+
+

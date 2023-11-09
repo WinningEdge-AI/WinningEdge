@@ -1,0 +1,85 @@
+#Game No : 518336147
+***** 888poker Hand History for Game 518336147 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 06:31:06
+Table Guarenas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: glansuas ( $1 )
+Seat 2: Artem_Ukr89 ( $1.03 )
+Artem_Ukr89 posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+Artem_Ukr89 calls [$0.01]
+glansuas raises [$0.04]
+Artem_Ukr89 calls [$0.04]
+** Dealing flop ** [ 6c, Qc, Jc ]
+glansuas bets [$0.08]
+Artem_Ukr89 folds
+** Summary **
+glansuas collected [ $0.12 ]
+
+
+#Game No : 518343550
+***** 888poker Hand History for Game 518343550 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:05:57
+Table Guarenas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: YarFight ( $1.29 )
+Seat 6: Tsukamoto ( $1.68 )
+Tsukamoto posts small blind [$0.01]
+YarFight posts big blind [$0.02]
+** Dealing down cards **
+Tsukamoto raises [$0.03]
+YarFight calls [$0.02]
+** Dealing flop ** [ 9c, Qh, As ]
+YarFight checks
+Tsukamoto bets [$0.04]
+YarFight folds
+** Summary **
+Tsukamoto collected [ $0.08 ]
+
+
+#Game No : 518343578
+***** 888poker Hand History for Game 518343578 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:06:17
+Table Guarenas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: YarFight ( $1.25 )
+Seat 6: Tsukamoto ( $1.72 )
+YarFight posts small blind [$0.01]
+Tsukamoto posts big blind [$0.02]
+** Dealing down cards **
+YarFight raises [$0.05]
+Tsukamoto calls [$0.04]
+** Dealing flop ** [ 9h, 7c, 7s ]
+Tsukamoto bets [$0.04]
+YarFight calls [$0.04]
+** Dealing turn ** [ 2h ]
+Tsukamoto bets [$0.04]
+YarFight calls [$0.04]
+** Dealing river ** [ 9c ]
+Tsukamoto checks
+YarFight checks
+** Summary **
+Tsukamoto shows [ 9d, Ah ]
+YarFight mucks [ Jh, Kc ]
+Tsukamoto collected [ $0.27 ]
+
+
+#Game No : 518343611
+***** 888poker Hand History for Game 518343611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:06:48
+Table Guarenas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: YarFight ( $1.11 )
+Seat 6: Tsukamoto ( $1.85 )
+Tsukamoto posts small blind [$0.01]
+** Dealing down cards **
+YarFight folds
+** Summary **
+Tsukamoto collected [ $0.01 ]
+
+

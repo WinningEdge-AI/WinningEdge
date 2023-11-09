@@ -1,0 +1,63 @@
+#Game No : 523994161
+***** 888poker Hand History for Game 523994161 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 02 2019 11:16:19
+Table Hilversum 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mgrths ( $0.79 )
+Seat 4: bymer06 ( $0.80 )
+mgrths posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+mgrths calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ 4s, 8s, 9c ]
+bymer06 checks
+mgrths checks
+** Dealing turn ** [ 4c ]
+bymer06 bets [$0.02]
+mgrths calls [$0.02]
+** Dealing river ** [ Kc ]
+bymer06 checks
+mgrths checks
+** Summary **
+bymer06 shows [ Qc, 9h ]
+mgrths mucks [ 7h, Qh ]
+bymer06 collected [ $0.08 ]
+
+
+#Game No : 523994230
+***** 888poker Hand History for Game 523994230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 02 2019 11:16:57
+Table Hilversum 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: mgrths ( $0.75 )
+Seat 4: bymer06 ( $0.84 )
+bymer06 posts small blind [$0.01]
+mgrths posts big blind [$0.02]
+** Dealing down cards **
+bymer06 raises [$0.05]
+mgrths calls [$0.04]
+** Dealing flop ** [ Td, Jc, Ad ]
+mgrths bets [$0.12]
+bymer06 folds
+** Summary **
+mgrths collected [ $0.12 ]
+
+
+#Game No : 524013715
+***** 888poker Hand History for Game 524013715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 02 2019 14:17:54
+Table Hilversum 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: DronstR ( $3 )
+Seat 6: Bulley_03 ( $1.67 )
+Bulley_03 posts small blind [$0.01]
+** Dealing down cards **
+DronstR folds
+** Summary **
+Bulley_03 collected [ $0.01 ]
+
+

@@ -1,0 +1,51 @@
+#Game No : 465166481
+***** 888poker Hand History for Game 465166481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 05:47:15
+Table Duisburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: lrv1974 ( $1.14 )
+Seat 6: Chudni89 ( $0.64 )
+lrv1974 posts small blind [$0.01]
+Chudni89 posts big blind [$0.02]
+** Dealing down cards **
+lrv1974 raises [$0.05]
+Chudni89 calls [$0.04]
+** Dealing flop ** [ Kd, Qc, 5h ]
+Chudni89 checks
+lrv1974 checks
+** Dealing turn ** [ 7d ]
+Chudni89 checks
+lrv1974 checks
+** Dealing river ** [ 2c ]
+Chudni89 bets [$0.08]
+lrv1974 folds
+** Summary **
+Chudni89 collected [ $0.12 ]
+
+
+#Game No : 465166497
+***** 888poker Hand History for Game 465166497 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 05:47:51
+Table Duisburg 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: lrv1974 ( $1.08 )
+Seat 6: Chudni89 ( $0.70 )
+Chudni89 posts small blind [$0.01]
+lrv1974 posts big blind [$0.02]
+** Dealing down cards **
+Chudni89 calls [$0.01]
+lrv1974 checks
+** Dealing flop ** [ Th, 4s, 3s ]
+lrv1974 checks
+Chudni89 checks
+** Dealing turn ** [ Qs ]
+lrv1974 checks
+Chudni89 bets [$0.02]
+lrv1974 folds
+** Summary **
+Chudni89 did not show his hand
+Chudni89 collected [ $0.04 ]
+
+

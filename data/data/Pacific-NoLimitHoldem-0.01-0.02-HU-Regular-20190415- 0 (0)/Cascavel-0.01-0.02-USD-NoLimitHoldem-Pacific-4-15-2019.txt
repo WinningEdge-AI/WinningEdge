@@ -1,0 +1,90 @@
+#Game No : 528950111
+***** 888poker Hand History for Game 528950111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 04 2019 10:49:09
+Table Cascavel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Bah400 ( $1 )
+Seat 4: san4ezcom ( $1 )
+san4ezcom posts small blind [$0.01]
+Bah400 posts big blind [$0.02]
+** Dealing down cards **
+san4ezcom calls [$0.01]
+Bah400 checks
+** Dealing flop ** [ 9d, 6h, 9s ]
+Bah400 bets [$0.02]
+san4ezcom calls [$0.02]
+** Dealing turn ** [ 3s ]
+Bah400 bets [$0.02]
+san4ezcom raises [$0.06]
+Bah400 calls [$0.04]
+** Dealing river ** [ 2s ]
+Bah400 bets [$0.02]
+san4ezcom raises [$0.18]
+Bah400 calls [$0.16]
+** Summary **
+san4ezcom shows [ 9h, Kc ]
+Bah400 mucks [ 6c, 2h ]
+san4ezcom collected [ $0.53 ]
+
+
+#Game No : 528952236
+***** 888poker Hand History for Game 528952236 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 04 2019 11:16:07
+Table Cascavel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Lokibug ( $5.12 )
+Seat 9: Genalit ( $1.01 )
+Genalit posts small blind [$0.01]
+Lokibug posts big blind [$0.02]
+** Dealing down cards **
+Genalit raises [$0.08]
+Lokibug calls [$0.07]
+** Dealing flop ** [ Jh, Qh, 9h ]
+Lokibug bets [$0.11]
+Genalit folds
+** Summary **
+Lokibug did not show his hand
+Lokibug collected [ $0.17 ]
+
+
+#Game No : 528952256
+***** 888poker Hand History for Game 528952256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 04 2019 11:16:24
+Table Cascavel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Lokibug ( $5.20 )
+Seat 9: Genalit ( $0.92 )
+Lokibug posts small blind [$0.01]
+Genalit posts big blind [$0.02]
+** Dealing down cards **
+Lokibug calls [$0.01]
+Genalit raises [$0.08]
+Lokibug calls [$0.08]
+** Dealing flop ** [ Js, 9c, 5c ]
+Genalit bets [$0.12]
+Lokibug folds
+** Summary **
+Genalit did not show his hand
+Genalit collected [ $0.19 ]
+
+
+#Game No : 528952287
+***** 888poker Hand History for Game 528952287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 04 2019 11:16:47
+Table Cascavel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Lokibug ( $5.10 )
+Seat 9: Genalit ( $1.01 )
+Genalit posts small blind [$0.01]
+Lokibug posts big blind [$0.02]
+** Dealing down cards **
+Genalit raises [$0.06]
+Lokibug folds
+** Summary **
+Genalit collected [ $0.04 ]
+
+

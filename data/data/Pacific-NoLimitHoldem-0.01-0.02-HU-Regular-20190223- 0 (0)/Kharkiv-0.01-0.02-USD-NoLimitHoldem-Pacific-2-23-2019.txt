@@ -1,0 +1,46 @@
+#Game No : 514123625
+***** 888poker Hand History for Game 514123625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 18:39:22
+Table Kharkiv 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: TheWambo ( $1.90 )
+Seat 6: gjpa2704 ( $1.30 )
+TheWambo posts small blind [$0.01]
+gjpa2704 posts big blind [$0.02]
+** Dealing down cards **
+TheWambo raises [$0.05]
+gjpa2704 folds
+** Summary **
+TheWambo collected [ $0.04 ]
+
+
+#Game No : 524968634
+***** 888poker Hand History for Game 524968634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 02:37:47
+Table Kharkiv 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SamsonovV.V. ( $1.28 )
+Seat 6: zdarova8729 ( $2 )
+SamsonovV.V. posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+SamsonovV.V. calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ 5d, 7c, 7s ]
+zdarova8729 checks
+SamsonovV.V. bets [$0.02]
+zdarova8729 calls [$0.02]
+** Dealing turn ** [ 9s ]
+zdarova8729 checks
+SamsonovV.V. checks
+** Dealing river ** [ 9c ]
+zdarova8729 checks
+SamsonovV.V. checks
+** Summary **
+zdarova8729 shows [ 4d, 4s ]
+SamsonovV.V. shows [ 3s, Ad ]
+SamsonovV.V. collected [ $0.08 ]
+
+

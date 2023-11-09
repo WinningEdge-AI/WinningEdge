@@ -1,0 +1,109 @@
+#Game No : 464785887
+***** 888poker Hand History for Game 464785887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 05 2019 22:31:25
+Table Arlington 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Kuasta25 ( $0.80 )
+Seat 6: gm_murakami ( $1.40 )
+gm_murakami posts small blind [$0.01]
+Kuasta25 posts big blind [$0.02]
+** Dealing down cards **
+gm_murakami calls [$0.01]
+Kuasta25 checks
+** Dealing flop ** [ Tc, 2d, 3h ]
+Kuasta25 checks
+gm_murakami bets [$0.02]
+Kuasta25 calls [$0.02]
+** Dealing turn ** [ 4d ]
+Kuasta25 checks
+gm_murakami checks
+** Dealing river ** [ Ks ]
+Kuasta25 bets [$0.06]
+gm_murakami calls [$0.06]
+** Summary **
+Kuasta25 shows [ 6d, 7c ]
+gm_murakami shows [ 4s, 7h ]
+gm_murakami collected [ $0.19 ]
+
+
+#Game No : 464785894
+***** 888poker Hand History for Game 464785894 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 05 2019 22:31:30
+Table Arlington 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kuasta25 ( $0.70 )
+Seat 6: gm_murakami ( $1.49 )
+Kuasta25 posts small blind [$0.01]
+gm_murakami posts big blind [$0.02]
+** Dealing down cards **
+Kuasta25 raises [$0.03]
+gm_murakami folds
+** Summary **
+Kuasta25 collected [ $0.04 ]
+
+
+#Game No : 464785902
+***** 888poker Hand History for Game 464785902 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 05 2019 22:32:16
+Table Arlington 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kuasta25 ( $0.78 )
+Seat 2: TOR410 ( $0.74 )
+Kuasta25 posts small blind [$0.01]
+TOR410 posts big blind [$0.02]
+** Dealing down cards **
+Kuasta25 raises [$0.03]
+TOR410 calls [$0.02]
+** Dealing flop ** [ Kc, Jd, 7h ]
+TOR410 checks
+Kuasta25 bets [$0.02]
+TOR410 calls [$0.02]
+** Dealing turn ** [ 2h ]
+TOR410 checks
+Kuasta25 bets [$0.02]
+TOR410 calls [$0.02]
+** Dealing river ** [ Ad ]
+TOR410 bets [$0.02]
+Kuasta25 calls [$0.02]
+** Summary **
+TOR410 shows [ Tc, Qs ]
+Kuasta25 mucks [ Kh, Qh ]
+TOR410 collected [ $0.19 ]
+
+
+#Game No : 464785909
+***** 888poker Hand History for Game 464785909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 05 2019 22:32:58
+Table Arlington 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Kuasta25 ( $0.68 )
+Seat 2: TOR410 ( $0.83 )
+TOR410 posts small blind [$0.01]
+Kuasta25 posts big blind [$0.02]
+** Dealing down cards **
+TOR410 raises [$0.03]
+Kuasta25 folds
+** Summary **
+TOR410 collected [ $0.04 ]
+
+
+#Game No : 464787223
+***** 888poker Hand History for Game 464787223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 05 2019 00:33:03
+Table Arlington 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: 12green34 ( $0.80 )
+Seat 7: torukmahtu ( $1.95 )
+torukmahtu posts small blind [$0.01]
+** Dealing down cards **
+12green34 folds
+** Summary **
+torukmahtu did not show his hand
+torukmahtu collected [ $0.01 ]
+
+

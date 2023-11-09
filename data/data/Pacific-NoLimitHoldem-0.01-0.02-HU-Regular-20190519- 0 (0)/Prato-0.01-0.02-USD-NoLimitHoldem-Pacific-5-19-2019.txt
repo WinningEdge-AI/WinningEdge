@@ -1,0 +1,356 @@
+#Game No : 531288292
+***** 888poker Hand History for Game 531288292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 19:53:33
+Table Prato 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: garsa32 ( $3.29 )
+Seat 4: rustaman76 ( $2.52 )
+garsa32 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+garsa32 folds
+** Summary **
+rustaman76 collected [ $0.03 ]
+
+
+#Game No : 531288307
+***** 888poker Hand History for Game 531288307 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 19:54:06
+Table Prato 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: rustaman76 ( $2.53 )
+Seat 7: 1skooby1 ( $0.80 )
+rustaman76 posts small blind [$0.01]
+1skooby1 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 folds
+** Summary **
+1skooby1 collected [ $0.03 ]
+
+
+#Game No : 531288313
+***** 888poker Hand History for Game 531288313 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 19:54:15
+Table Prato 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: rustaman76 ( $2.52 )
+Seat 7: 1skooby1 ( $0.81 )
+1skooby1 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+1skooby1 folds
+** Summary **
+rustaman76 collected [ $0.03 ]
+
+
+#Game No : 531289934
+***** 888poker Hand History for Game 531289934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 20:51:45
+Table Prato 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bigf418 ( $1.04 )
+Seat 9: garsa32 ( $2.39 )
+Bigf418 posts small blind [$0.01]
+garsa32 posts big blind [$0.02]
+** Dealing down cards **
+Bigf418 calls [$0.01]
+garsa32 checks
+** Dealing flop ** [ Js, 9d, 3d ]
+garsa32 checks
+Bigf418 checks
+** Dealing turn ** [ Ts ]
+garsa32 bets [$0.02]
+Bigf418 raises [$0.04]
+garsa32 calls [$0.02]
+** Dealing river ** [ 9h ]
+garsa32 checks
+Bigf418 checks
+** Summary **
+garsa32 shows [ 8s, 5s ]
+Bigf418 shows [ Qd, 3s ]
+Bigf418 collected [ $0.12 ]
+
+
+#Game No : 531289950
+***** 888poker Hand History for Game 531289950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 20:52:13
+Table Prato 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Bigf418 ( $1.10 )
+Seat 9: garsa32 ( $2.33 )
+garsa32 posts small blind [$0.01]
+Bigf418 posts big blind [$0.02]
+** Dealing down cards **
+garsa32 raises [$0.03]
+Bigf418 calls [$0.02]
+** Dealing flop ** [ Ts, 2h, 4d ]
+Bigf418 checks
+garsa32 bets [$0.05]
+Bigf418 calls [$0.05]
+** Dealing turn ** [ 9s ]
+Bigf418 checks
+garsa32 checks
+** Dealing river ** [ Tc ]
+Bigf418 bets [$0.02]
+garsa32 calls [$0.02]
+** Summary **
+Bigf418 shows [ 2c, 6d ]
+garsa32 mucks [ Kd, 3d ]
+Bigf418 collected [ $0.21 ]
+
+
+#Game No : 531289965
+***** 888poker Hand History for Game 531289965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 20:52:48
+Table Prato 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bigf418 ( $1.20 )
+Seat 9: garsa32 ( $2.22 )
+Bigf418 posts small blind [$0.01]
+garsa32 posts big blind [$0.02]
+** Dealing down cards **
+Bigf418 calls [$0.01]
+garsa32 checks
+** Dealing flop ** [ Td, Jh, Th ]
+garsa32 bets [$0.02]
+Bigf418 calls [$0.02]
+** Dealing turn ** [ Ts ]
+garsa32 checks
+Bigf418 checks
+** Dealing river ** [ Ah ]
+garsa32 checks
+Bigf418 bets [$0.02]
+garsa32 calls [$0.02]
+** Summary **
+Bigf418 shows [ 3d, 9h ]
+garsa32 shows [ Js, 4d ]
+garsa32 collected [ $0.12 ]
+
+
+#Game No : 531289982
+***** 888poker Hand History for Game 531289982 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 20:53:21
+Table Prato 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Bigf418 ( $1.14 )
+Seat 9: garsa32 ( $2.28 )
+garsa32 posts small blind [$0.01]
+Bigf418 posts big blind [$0.02]
+** Dealing down cards **
+garsa32 raises [$0.03]
+Bigf418 raises [$0.04]
+garsa32 calls [$0.02]
+** Dealing flop ** [ 4h, 3d, 9h ]
+Bigf418 checks
+garsa32 checks
+** Dealing turn ** [ 2h ]
+Bigf418 checks
+garsa32 checks
+** Dealing river ** [ 2c ]
+Bigf418 checks
+garsa32 checks
+** Summary **
+Bigf418 shows [ Ac, Ks ]
+garsa32 mucks [ Jd, Qc ]
+Bigf418 collected [ $0.12 ]
+
+
+#Game No : 531289992
+***** 888poker Hand History for Game 531289992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 20:53:50
+Table Prato 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bigf418 ( $1.20 )
+Seat 9: garsa32 ( $2.22 )
+Bigf418 posts small blind [$0.01]
+garsa32 posts big blind [$0.02]
+** Dealing down cards **
+Bigf418 calls [$0.01]
+garsa32 checks
+** Dealing flop ** [ 5d, Js, 3h ]
+garsa32 checks
+Bigf418 bets [$0.02]
+garsa32 calls [$0.02]
+** Dealing turn ** [ 4d ]
+garsa32 checks
+Bigf418 bets [$0.02]
+garsa32 calls [$0.02]
+** Dealing river ** [ 2d ]
+garsa32 checks
+Bigf418 bets [$0.02]
+garsa32 calls [$0.02]
+** Summary **
+Bigf418 shows [ 4s, Qc ]
+garsa32 mucks [ 3d, 7h ]
+Bigf418 collected [ $0.15 ]
+
+
+#Game No : 531290018
+***** 888poker Hand History for Game 531290018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 20:54:45
+Table Prato 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Bigf418 ( $1.27 )
+Seat 9: garsa32 ( $2.14 )
+garsa32 posts small blind [$0.01]
+Bigf418 posts big blind [$0.02]
+** Dealing down cards **
+garsa32 raises [$0.03]
+Bigf418 calls [$0.02]
+** Dealing flop ** [ 5s, 7c, Qs ]
+Bigf418 bets [$0.08]
+garsa32 calls [$0.08]
+** Dealing turn ** [ Td ]
+Bigf418 checks
+garsa32 checks
+** Dealing river ** [ 7h ]
+Bigf418 checks
+garsa32 checks
+** Summary **
+Bigf418 shows [ 8s, 6c ]
+garsa32 shows [ 6d, 5d ]
+garsa32 collected [ $0.23 ]
+
+
+#Game No : 531290036
+***** 888poker Hand History for Game 531290036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 20:55:24
+Table Prato 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bigf418 ( $1.15 )
+Seat 9: garsa32 ( $2.25 )
+Bigf418 posts small blind [$0.01]
+garsa32 posts big blind [$0.02]
+** Dealing down cards **
+Bigf418 calls [$0.01]
+garsa32 checks
+** Dealing flop ** [ 4c, Js, Ac ]
+garsa32 checks
+Bigf418 checks
+** Dealing turn ** [ Kd ]
+garsa32 checks
+Bigf418 checks
+** Dealing river ** [ Qc ]
+garsa32 checks
+Bigf418 checks
+** Summary **
+garsa32 shows [ 6h, 7s ]
+Bigf418 shows [ 7d, 3h ]
+garsa32 collected [ $0.02 ]
+Bigf418 collected [ $0.02 ]
+
+
+#Game No : 531290051
+***** 888poker Hand History for Game 531290051 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 20:55:56
+Table Prato 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Bigf418 ( $1.15 )
+Seat 9: garsa32 ( $2.25 )
+garsa32 posts small blind [$0.01]
+Bigf418 posts big blind [$0.02]
+** Dealing down cards **
+garsa32 raises [$0.03]
+Bigf418 calls [$0.02]
+** Dealing flop ** [ Ks, 7s, Kd ]
+Bigf418 checks
+garsa32 bets [$0.05]
+Bigf418 calls [$0.05]
+** Dealing turn ** [ 6h ]
+Bigf418 checks
+garsa32 checks
+** Dealing river ** [ 4s ]
+Bigf418 bets [$0.02]
+garsa32 calls [$0.02]
+** Summary **
+Bigf418 shows [ Js, 7h ]
+garsa32 mucks [ Th, Jd ]
+Bigf418 collected [ $0.21 ]
+
+
+#Game No : 531291613
+***** 888poker Hand History for Game 531291613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 21:44:27
+Table Prato 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: 888RUB ( $3.30 )
+Seat 9: garsa32 ( $2.85 )
+garsa32 posts small blind [$0.01]
+888RUB posts big blind [$0.02]
+** Dealing down cards **
+garsa32 raises [$0.03]
+888RUB calls [$0.02]
+** Dealing flop ** [ Ts, 4s, 5d ]
+888RUB checks
+garsa32 checks
+** Dealing turn ** [ As ]
+888RUB bets [$0.05]
+garsa32 folds
+** Summary **
+888RUB collected [ $0.08 ]
+
+
+#Game No : 531293208
+***** 888poker Hand History for Game 531293208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 22:43:51
+Table Prato 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kolyambamba ( $1.17 )
+Seat 6: vip.chapaev ( $1 )
+kolyambamba posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+kolyambamba raises [$0.05]
+vip.chapaev folds
+** Summary **
+kolyambamba collected [ $0.04 ]
+
+
+#Game No : 531293223
+***** 888poker Hand History for Game 531293223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 22:44:24
+Table Prato 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Alucard5077 ( $0.36 )
+Seat 4: kolyambamba ( $1.19 )
+kolyambamba posts small blind [$0.01]
+Alucard5077 posts big blind [$0.02]
+** Dealing down cards **
+kolyambamba raises [$0.05]
+Alucard5077 folds
+** Summary **
+kolyambamba did not show his hand
+kolyambamba collected [ $0.04 ]
+
+
+#Game No : 531293229
+***** 888poker Hand History for Game 531293229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 22:44:37
+Table Prato 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Alucard5077 ( $0.34 )
+Seat 4: kolyambamba ( $1.21 )
+Alucard5077 posts small blind [$0.01]
+kolyambamba posts big blind [$0.02]
+** Dealing down cards **
+Alucard5077 folds
+** Summary **
+kolyambamba did not show his hand
+kolyambamba collected [ $0.03 ]
+
+

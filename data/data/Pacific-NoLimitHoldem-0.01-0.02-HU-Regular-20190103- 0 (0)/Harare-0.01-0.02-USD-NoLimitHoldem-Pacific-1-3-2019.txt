@@ -1,0 +1,57 @@
+#Game No : 459633965
+***** 888poker Hand History for Game 459633965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2019 00:54:23
+Table Harare 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Wulium ( $2 )
+Seat 5: artina15 ( $1.40 )
+artina15 posts small blind [$0.01]
+Wulium posts big blind [$0.02]
+** Dealing down cards **
+artina15 calls [$0.01]
+Wulium checks
+** Dealing flop ** [ 6c, 5s, 8h ]
+Wulium checks
+artina15 bets [$0.02]
+Wulium calls [$0.02]
+** Dealing turn ** [ 9s ]
+Wulium checks
+artina15 checks
+** Dealing river ** [ 4d ]
+Wulium checks
+artina15 checks
+** Summary **
+Wulium shows [ Qs, 8c ]
+artina15 mucks [ 8s, Th ]
+Wulium collected [ $0.08 ]
+
+
+#Game No : 459633974
+***** 888poker Hand History for Game 459633974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 01 2019 00:54:39
+Table Harare 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Wulium ( $2.04 )
+Seat 5: artina15 ( $1.36 )
+Wulium posts small blind [$0.01]
+artina15 posts big blind [$0.02]
+** Dealing down cards **
+Wulium calls [$0.01]
+artina15 checks
+** Dealing flop ** [ 3d, Qs, 5d ]
+artina15 checks
+Wulium checks
+** Dealing turn ** [ 2d ]
+artina15 checks
+Wulium checks
+** Dealing river ** [ Kd ]
+artina15 checks
+Wulium checks
+** Summary **
+artina15 shows [ 9s, 7h ]
+Wulium shows [ 7d, 5s ]
+Wulium collected [ $0.04 ]
+
+

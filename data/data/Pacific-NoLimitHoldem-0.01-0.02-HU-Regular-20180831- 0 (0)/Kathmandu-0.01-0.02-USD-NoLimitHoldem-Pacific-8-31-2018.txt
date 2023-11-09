@@ -1,0 +1,48 @@
+#Game No : 501718953
+***** 888poker Hand History for Game 501718953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 13:53:39
+Table Kathmandu 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: PulitzerPriz ( $3.57 )
+Seat 9: chipchop1 ( $0.91 )
+chipchop1 posts small blind [$0.01]
+PulitzerPriz posts big blind [$0.02]
+** Dealing down cards **
+chipchop1 calls [$0.01]
+PulitzerPriz raises [$0.02]
+chipchop1 calls [$0.02]
+** Dealing flop ** [ Qd, 2s, 8s ]
+PulitzerPriz checks
+chipchop1 checks
+** Dealing turn ** [ 7h ]
+PulitzerPriz checks
+chipchop1 checks
+** Dealing river ** [ 5s ]
+PulitzerPriz checks
+chipchop1 checks
+** Summary **
+PulitzerPriz shows [ 9c, As ]
+chipchop1 mucks [ Ah, 4d ]
+PulitzerPriz collected [ $0.08 ]
+
+
+#Game No : 501720973
+***** 888poker Hand History for Game 501720973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 14:27:04
+Table Kathmandu 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: marks141 ( $0.94 )
+Seat 6: PulitzerPriz ( $3.73 )
+marks141 posts small blind [$0.01]
+PulitzerPriz posts big blind [$0.02]
+** Dealing down cards **
+marks141 calls [$0.01]
+PulitzerPriz raises [$0.04]
+marks141 folds
+** Summary **
+PulitzerPriz did not show his hand
+PulitzerPriz collected [ $0.04 ]
+
+

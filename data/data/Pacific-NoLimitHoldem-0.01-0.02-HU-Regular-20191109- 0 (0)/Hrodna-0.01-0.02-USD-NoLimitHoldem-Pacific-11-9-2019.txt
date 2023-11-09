@@ -1,0 +1,80 @@
+#Game No : 523883436
+***** 888poker Hand History for Game 523883436 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2019 03:04:29
+Table Hrodna 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: AKarpunin ( $2.15 )
+Seat 9: Li180556 ( $0.49 )
+Li180556 posts small blind [$0.01]
+AKarpunin posts big blind [$0.02]
+** Dealing down cards **
+Li180556 raises [$0.03]
+AKarpunin calls [$0.02]
+** Dealing flop ** [ 5h, 6h, Kc ]
+AKarpunin checks
+Li180556 bets [$0.02]
+AKarpunin folds
+** Summary **
+Li180556 collected [ $0.08 ]
+
+
+#Game No : 523883440
+***** 888poker Hand History for Game 523883440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2019 03:04:43
+Table Hrodna 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AKarpunin ( $2.11 )
+Seat 9: Li180556 ( $0.53 )
+AKarpunin posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+AKarpunin calls [$0.01]
+Li180556 raises [$0.04]
+AKarpunin calls [$0.04]
+** Dealing flop ** [ Jc, Ks, 4h ]
+Li180556 bets [$0.04]
+AKarpunin calls [$0.04]
+** Dealing turn ** [ Jh ]
+Li180556 bets [$0.02]
+AKarpunin calls [$0.02]
+** Dealing river ** [ Qs ]
+Li180556 bets [$0.02]
+AKarpunin raises [$0.16]
+Li180556 calls [$0.14]
+** Summary **
+AKarpunin shows [ Tc, 9s ]
+Li180556 mucks [ Ah, Qh ]
+AKarpunin collected [ $0.53 ]
+
+
+#Game No : 523884176
+***** 888poker Hand History for Game 523884176 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2019 03:33:21
+Table Hrodna 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: GARALD84 ( $2.40 )
+Seat 9: 00fff ( $1.60 )
+00fff posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+00fff calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ 5h, Kd, 4s ]
+GARALD84 checks
+00fff checks
+** Dealing turn ** [ Ts ]
+GARALD84 checks
+00fff checks
+** Dealing river ** [ Qh ]
+GARALD84 checks
+00fff checks
+** Summary **
+GARALD84 shows [ 2s, Jh ]
+00fff shows [ Jd, 3s ]
+00fff collected [ $0.02 ]
+GARALD84 collected [ $0.02 ]
+
+

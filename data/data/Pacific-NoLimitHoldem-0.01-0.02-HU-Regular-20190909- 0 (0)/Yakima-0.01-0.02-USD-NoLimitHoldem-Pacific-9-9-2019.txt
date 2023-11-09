@@ -1,0 +1,279 @@
+#Game No : 468945360
+***** 888poker Hand History for Game 468945360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:12:40
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sau2s3m ( $1.10 )
+Seat 6: ERogov ( $3.17 )
+sau2s3m posts small blind [$0.01]
+ERogov posts big blind [$0.02]
+** Dealing down cards **
+sau2s3m raises [$0.04]
+ERogov folds
+** Summary **
+sau2s3m did not show his hand
+sau2s3m collected [ $0.04 ]
+
+
+#Game No : 468945372
+***** 888poker Hand History for Game 468945372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:12:47
+Table Yakima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: sau2s3m ( $1.12 )
+Seat 6: ERogov ( $3.15 )
+ERogov posts small blind [$0.01]
+sau2s3m posts big blind [$0.02]
+** Dealing down cards **
+ERogov raises [$0.03]
+sau2s3m folds
+** Summary **
+ERogov did not show his hand
+ERogov collected [ $0.04 ]
+
+
+#Game No : 468945375
+***** 888poker Hand History for Game 468945375 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:12:56
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sau2s3m ( $1.10 )
+Seat 6: ERogov ( $3.17 )
+sau2s3m posts small blind [$0.01]
+ERogov posts big blind [$0.02]
+** Dealing down cards **
+sau2s3m folds
+** Summary **
+ERogov collected [ $0.03 ]
+
+
+#Game No : 468945380
+***** 888poker Hand History for Game 468945380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:13:05
+Table Yakima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: sau2s3m ( $1.09 )
+Seat 6: ERogov ( $3.18 )
+ERogov posts small blind [$0.01]
+sau2s3m posts big blind [$0.02]
+** Dealing down cards **
+ERogov calls [$0.01]
+sau2s3m raises [$0.06]
+ERogov folds
+** Summary **
+sau2s3m collected [ $0.04 ]
+
+
+#Game No : 468945470
+***** 888poker Hand History for Game 468945470 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:15:10
+Table Yakima 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ERogov ( $3.36 )
+Seat 7: StrongForse ( $2 )
+StrongForse posts small blind [$0.01]
+ERogov posts big blind [$0.02]
+** Dealing down cards **
+StrongForse calls [$0.01]
+ERogov checks
+** Dealing flop ** [ Jd, Ah, 7d ]
+ERogov checks
+StrongForse checks
+** Dealing turn ** [ As ]
+ERogov checks
+StrongForse checks
+** Dealing river ** [ Ts ]
+ERogov checks
+StrongForse checks
+** Summary **
+ERogov shows [ 4s, 6c ]
+StrongForse shows [ 6d, 8s ]
+StrongForse collected [ $0.04 ]
+
+
+#Game No : 468945690
+***** 888poker Hand History for Game 468945690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:21:09
+Table Yakima 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Kutterkeld ( $0.82 )
+Seat 4: vnuk36 ( $0.78 )
+vnuk36 posts small blind [$0.01]
+Kutterkeld posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+Kutterkeld checks
+** Dealing flop ** [ 6d, 7s, As ]
+Kutterkeld checks
+vnuk36 bets [$0.04]
+Kutterkeld folds
+** Summary **
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 468945697
+***** 888poker Hand History for Game 468945697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:21:29
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kutterkeld ( $0.80 )
+Seat 4: vnuk36 ( $0.80 )
+Kutterkeld posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Kutterkeld calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ Td, 7h, Js ]
+vnuk36 checks
+Kutterkeld checks
+** Dealing turn ** [ Jc ]
+vnuk36 checks
+Kutterkeld checks
+** Dealing river ** [ 5d ]
+vnuk36 checks
+Kutterkeld checks
+** Summary **
+vnuk36 shows [ 6s, 4h ]
+Kutterkeld shows [ 6d, Kd ]
+Kutterkeld collected [ $0.04 ]
+
+
+#Game No : 468945731
+***** 888poker Hand History for Game 468945731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:22:16
+Table Yakima 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Kutterkeld ( $0.82 )
+Seat 4: vnuk36 ( $0.78 )
+vnuk36 posts small blind [$0.01]
+Kutterkeld posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+Kutterkeld checks
+** Dealing flop ** [ 8s, Jh, Qh ]
+Kutterkeld checks
+vnuk36 bets [$0.04]
+Kutterkeld folds
+** Summary **
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 468945745
+***** 888poker Hand History for Game 468945745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:22:35
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kutterkeld ( $0.80 )
+Seat 4: vnuk36 ( $0.80 )
+Kutterkeld posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Kutterkeld calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ 4c, 6d, Js ]
+vnuk36 checks
+Kutterkeld checks
+** Dealing turn ** [ 5c ]
+vnuk36 checks
+Kutterkeld checks
+** Dealing river ** [ 5d ]
+vnuk36 checks
+Kutterkeld checks
+** Summary **
+vnuk36 shows [ 8s, Kd ]
+Kutterkeld mucks [ Ts, 7c ]
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 468945778
+***** 888poker Hand History for Game 468945778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:23:21
+Table Yakima 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Kutterkeld ( $0.78 )
+Seat 4: vnuk36 ( $0.82 )
+vnuk36 posts small blind [$0.01]
+Kutterkeld posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+Kutterkeld checks
+** Dealing flop ** [ Qc, Kh, Jc ]
+Kutterkeld checks
+vnuk36 checks
+** Dealing turn ** [ 4d ]
+Kutterkeld checks
+vnuk36 checks
+** Dealing river ** [ As ]
+Kutterkeld bets [$0.04]
+vnuk36 raises [$0.16]
+Kutterkeld raises [$0.24]
+vnuk36 raises [$0.64]
+Kutterkeld calls [$0.48]
+** Summary **
+Kutterkeld shows [ 3s, Td ]
+vnuk36 shows [ Th, 3d ]
+vnuk36 collected [ $0.73 ]
+Kutterkeld collected [ $0.74 ]
+
+
+#Game No : 468945818
+***** 888poker Hand History for Game 468945818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:24:24
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kutterkeld ( $0.74 )
+Seat 4: vnuk36 ( $0.77 )
+Kutterkeld posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Kutterkeld calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ Th, Ks, 7d ]
+vnuk36 checks
+Kutterkeld checks
+** Dealing turn ** [ 7h ]
+vnuk36 bets [$0.04]
+Kutterkeld folds
+** Summary **
+vnuk36 collected [ $0.04 ]
+
+
+#Game No : 468945829
+***** 888poker Hand History for Game 468945829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2019 08:24:49
+Table Yakima 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Kutterkeld ( $0.72 )
+Seat 4: vnuk36 ( $0.79 )
+vnuk36 posts small blind [$0.01]
+Kutterkeld posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+Kutterkeld checks
+** Dealing flop ** [ 3h, Tc, 5d ]
+Kutterkeld checks
+vnuk36 checks
+** Dealing turn ** [ Qs ]
+Kutterkeld checks
+vnuk36 checks
+** Dealing river ** [ 2h ]
+Kutterkeld checks
+vnuk36 checks
+** Summary **
+Kutterkeld shows [ 2s, 8h ]
+vnuk36 shows [ 3c, 6d ]
+vnuk36 collected [ $0.04 ]
+
+

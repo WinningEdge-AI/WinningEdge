@@ -1,0 +1,62 @@
+#Game No : 1274571734
+***** 888poker Hand History for Game 1274571734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2019 00:44:13
+Table Ann Arbor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Wutke ( $0.98 )
+Seat 6: snowgreen ( $1.02 )
+snowgreen posts small blind [$0.01]
+Wutke posts big blind [$0.02]
+** Dealing down cards **
+snowgreen raises [$0.03]
+Wutke calls [$0.02]
+** Dealing flop ** [ 4d, 5d, 9c ]
+Wutke bets [$0.04]
+snowgreen calls [$0.04]
+** Dealing turn ** [ 7c ]
+Wutke bets [$0.08]
+snowgreen calls [$0.08]
+** Dealing river ** [ 3c ]
+Wutke bets [$0.16]
+snowgreen raises [$0.86]
+Wutke calls [$0.66]
+** Summary **
+Wutke shows [ Qc, Tc ]
+snowgreen shows [ 7h, 6s ]
+Wutke collected [ $1.84 ]
+
+
+#Game No : 1274571798
+***** 888poker Hand History for Game 1274571798 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2019 00:44:41
+Table Ann Arbor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Wutke ( $1.84 )
+Seat 6: snowgreen ( $0.04 )
+Wutke posts small blind [$0.01]
+snowgreen posts big blind [$0.02]
+** Dealing down cards **
+Wutke folds
+** Summary **
+snowgreen collected [ $0.03 ]
+
+
+#Game No : 1274571945
+***** 888poker Hand History for Game 1274571945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2019 00:46:48
+Table Ann Arbor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Wutke ( $1.82 )
+Seat 7: Travelich ( $1.62 )
+Travelich posts small blind [$0.01]
+Wutke posts big blind [$0.02]
+** Dealing down cards **
+Travelich raises [$0.03]
+Wutke folds
+** Summary **
+Travelich collected [ $0.04 ]
+
+

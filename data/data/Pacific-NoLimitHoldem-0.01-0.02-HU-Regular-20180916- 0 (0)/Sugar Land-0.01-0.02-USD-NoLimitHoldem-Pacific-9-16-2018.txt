@@ -1,0 +1,48 @@
+#Game No : 502433604
+***** 888poker Hand History for Game 502433604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 11:36:40
+Table Sugar Land 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kaizer96 ( $0.76 )
+Seat 4: JS888FU ( $0.83 )
+Kaizer96 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+Kaizer96 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 6h, 3h, 9d ]
+JS888FU checks
+Kaizer96 checks
+** Dealing turn ** [ 8h ]
+JS888FU checks
+Kaizer96 checks
+** Dealing river ** [ 7h ]
+JS888FU checks
+Kaizer96 checks
+** Summary **
+JS888FU shows [ 2s, Qc ]
+Kaizer96 shows [ 5s, 8s ]
+Kaizer96 collected [ $0.04 ]
+
+
+#Game No : 502433636
+***** 888poker Hand History for Game 502433636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 11:36:55
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Kaizer96 ( $0.78 )
+Seat 4: JS888FU ( $0.81 )
+JS888FU posts small blind [$0.01]
+Kaizer96 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+Kaizer96 checks
+** Dealing flop ** [ 5c, 4h, Ad ]
+Kaizer96 bets [$0.02]
+JS888FU folds
+** Summary **
+Kaizer96 collected [ $0.04 ]
+
+

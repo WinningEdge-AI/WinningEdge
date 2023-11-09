@@ -1,0 +1,119 @@
+#Game No : 502591526
+***** 888poker Hand History for Game 502591526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 14:06:11
+Table Lubbock 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Glengmg ( $0.98 )
+Seat 4: vnuk36 ( $0.82 )
+Glengmg posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Glengmg raises [$0.03]
+vnuk36 calls [$0.02]
+** Dealing flop ** [ 7c, 8c, 8s ]
+vnuk36 checks
+Glengmg checks
+** Dealing turn ** [ 6c ]
+vnuk36 bets [$0.05]
+Glengmg calls [$0.05]
+** Dealing river ** [ 5c ]
+vnuk36 bets [$0.18]
+Glengmg calls [$0.18]
+** Summary **
+vnuk36 shows [ 7s, 7d ]
+Glengmg mucks [ Kh, Ad ]
+vnuk36 collected [ $0.51 ]
+
+
+#Game No : 502592753
+***** 888poker Hand History for Game 502592753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 14:29:40
+Table Lubbock 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gogo1249 ( $1.03 )
+Seat 9: zrito ( $1.19 )
+gogo1249 posts small blind [$0.01]
+zrito posts big blind [$0.02]
+** Dealing down cards **
+gogo1249 calls [$0.01]
+zrito checks
+** Dealing flop ** [ 3c, Ad, 3h ]
+zrito checks
+gogo1249 checks
+** Dealing turn ** [ 8c ]
+zrito checks
+gogo1249 checks
+** Dealing river ** [ 7h ]
+zrito checks
+gogo1249 checks
+** Summary **
+zrito shows [ 6s, Kd ]
+gogo1249 mucks [ Jc, 5c ]
+zrito collected [ $0.04 ]
+
+
+#Game No : 502592788
+***** 888poker Hand History for Game 502592788 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 14:30:18
+Table Lubbock 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: gogo1249 ( $1.01 )
+Seat 9: zrito ( $1.21 )
+zrito posts small blind [$0.01]
+gogo1249 posts big blind [$0.02]
+** Dealing down cards **
+zrito calls [$0.01]
+gogo1249 checks
+** Dealing flop ** [ Ts, Jc, 3c ]
+gogo1249 checks
+zrito checks
+** Dealing turn ** [ Qd ]
+gogo1249 checks
+zrito checks
+** Dealing river ** [ 6d ]
+gogo1249 checks
+zrito checks
+** Summary **
+gogo1249 shows [ 8d, 7s ]
+zrito shows [ 4d, As ]
+zrito collected [ $0.04 ]
+
+
+#Game No : 502593369
+***** 888poker Hand History for Game 502593369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 14:42:20
+Table Lubbock 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kalamari87 ( $1.87 )
+Seat 6: gogo1249 ( $1.11 )
+kalamari87 posts small blind [$0.01]
+gogo1249 posts big blind [$0.02]
+** Dealing down cards **
+kalamari87 folds
+** Summary **
+gogo1249 did not show his hand
+gogo1249 collected [ $0.03 ]
+
+
+#Game No : 502593377
+***** 888poker Hand History for Game 502593377 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 14:42:28
+Table Lubbock 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kalamari87 ( $1.86 )
+Seat 6: gogo1249 ( $1.12 )
+gogo1249 posts small blind [$0.01]
+kalamari87 posts big blind [$0.02]
+** Dealing down cards **
+gogo1249 calls [$0.01]
+kalamari87 raises [$0.06]
+gogo1249 folds
+** Summary **
+kalamari87 collected [ $0.04 ]
+
+

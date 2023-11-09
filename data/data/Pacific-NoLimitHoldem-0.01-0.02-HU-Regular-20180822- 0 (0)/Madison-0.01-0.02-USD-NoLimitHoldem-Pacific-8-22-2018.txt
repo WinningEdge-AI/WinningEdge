@@ -1,0 +1,85 @@
+#Game No : 501229753
+***** 888poker Hand History for Game 501229753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 01:37:13
+Table Madison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: okrin1985 ( $1 )
+Seat 2: kim19816 ( $1 )
+kim19816 posts small blind [$0.01]
+okrin1985 posts big blind [$0.02]
+** Dealing down cards **
+kim19816 calls [$0.01]
+okrin1985 checks
+** Dealing flop ** [ 3h, Jh, Ac ]
+okrin1985 checks
+kim19816 checks
+** Dealing turn ** [ 2c ]
+okrin1985 checks
+kim19816 checks
+** Dealing river ** [ As ]
+okrin1985 checks
+kim19816 bets [$0.44]
+okrin1985 folds
+** Summary **
+kim19816 did not show his hand
+kim19816 collected [ $0.04 ]
+
+
+#Game No : 501229764
+***** 888poker Hand History for Game 501229764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 01:37:47
+Table Madison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: okrin1985 ( $0.98 )
+Seat 2: kim19816 ( $1.02 )
+okrin1985 posts small blind [$0.01]
+kim19816 posts big blind [$0.02]
+** Dealing down cards **
+okrin1985 calls [$0.01]
+kim19816 checks
+** Dealing flop ** [ 2s, Kd, 2c ]
+kim19816 checks
+okrin1985 checks
+** Dealing turn ** [ 5s ]
+kim19816 checks
+okrin1985 checks
+** Dealing river ** [ 7c ]
+kim19816 checks
+okrin1985 checks
+** Summary **
+kim19816 shows [ 4d, 3h ]
+okrin1985 shows [ 9c, 3c ]
+okrin1985 collected [ $0.04 ]
+
+
+#Game No : 501229794
+***** 888poker Hand History for Game 501229794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 01:38:54
+Table Madison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: okrin1985 ( $1 )
+Seat 2: kim19816 ( $1 )
+okrin1985 posts small blind [$0.01]
+kim19816 posts big blind [$0.02]
+** Dealing down cards **
+okrin1985 calls [$0.01]
+kim19816 checks
+** Dealing flop ** [ Th, 7d, 5h ]
+kim19816 checks
+okrin1985 checks
+** Dealing turn ** [ 6s ]
+kim19816 checks
+okrin1985 checks
+** Dealing river ** [ 4c ]
+kim19816 checks
+okrin1985 bets [$0.98]
+kim19816 calls [$0.98]
+** Summary **
+okrin1985 shows [ Ks, Tc ]
+kim19816 shows [ Jh, 8s ]
+kim19816 collected [ $1.88 ]
+
+

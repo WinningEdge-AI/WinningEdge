@@ -1,0 +1,105 @@
+#Game No : 466951787
+***** 888poker Hand History for Game 466951787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2019 21:18:55
+Table Dearborn 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: IeatUrBread ( $2.52 )
+Seat 7: vargasennio ( $1.11 )
+vargasennio posts small blind [$0.01]
+IeatUrBread posts big blind [$0.02]
+** Dealing down cards **
+vargasennio raises [$0.03]
+IeatUrBread folds
+** Summary **
+vargasennio collected [ $0.04 ]
+
+
+#Game No : 466951791
+***** 888poker Hand History for Game 466951791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2019 21:19:13
+Table Dearborn 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: IeatUrBread ( $2.50 )
+Seat 7: vargasennio ( $1.13 )
+IeatUrBread posts small blind [$0.01]
+vargasennio posts big blind [$0.02]
+** Dealing down cards **
+IeatUrBread raises [$0.04]
+vargasennio calls [$0.03]
+** Dealing flop ** [ 5s, Jc, 4s ]
+vargasennio checks
+IeatUrBread checks
+** Dealing turn ** [ Tc ]
+vargasennio checks
+IeatUrBread bets [$0.05]
+vargasennio calls [$0.05]
+** Dealing river ** [ 2d ]
+vargasennio checks
+IeatUrBread checks
+** Summary **
+vargasennio shows [ 6s, Ks ]
+IeatUrBread shows [ Kh, As ]
+IeatUrBread collected [ $0.19 ]
+
+
+#Game No : 466951801
+***** 888poker Hand History for Game 466951801 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2019 21:20:02
+Table Dearborn 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: IeatUrBread ( $2.59 )
+Seat 7: vargasennio ( $1.03 )
+vargasennio posts small blind [$0.01]
+IeatUrBread posts big blind [$0.02]
+** Dealing down cards **
+vargasennio calls [$0.01]
+IeatUrBread checks
+** Dealing flop ** [ 6c, Qc, Tc ]
+IeatUrBread checks
+vargasennio bets [$0.02]
+IeatUrBread folds
+** Summary **
+vargasennio collected [ $0.04 ]
+
+
+#Game No : 466954591
+***** 888poker Hand History for Game 466954591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 00:01:30
+Table Dearborn 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: SandroS1274 ( $2.25 )
+Seat 7: vip.chapaev ( $5.32 )
+vip.chapaev posts small blind [$0.01]
+SandroS1274 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev folds
+** Summary **
+SandroS1274 collected [ $0.03 ]
+
+
+#Game No : 466954621
+***** 888poker Hand History for Game 466954621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 00:03:37
+Table Dearborn 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: AlexZh41 ( $2.03 )
+Seat 7: Ffmtor14 ( $0.78 )
+Ffmtor14 posts small blind [$0.01]
+AlexZh41 posts big blind [$0.02]
+** Dealing down cards **
+Ffmtor14 raises [$0.05]
+AlexZh41 calls [$0.04]
+** Dealing flop ** [ Ts, 2h, 5s ]
+AlexZh41 checks
+Ffmtor14 bets [$0.03]
+AlexZh41 raises [$0.06]
+Ffmtor14 folds
+** Summary **
+AlexZh41 collected [ $0.17 ]
+
+

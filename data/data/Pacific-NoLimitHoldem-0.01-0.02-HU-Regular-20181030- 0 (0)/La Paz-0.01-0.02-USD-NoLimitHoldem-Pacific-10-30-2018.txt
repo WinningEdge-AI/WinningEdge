@@ -1,0 +1,520 @@
+#Game No : 504581789
+***** 888poker Hand History for Game 504581789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 12:39:10
+Table La Paz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Colongrande ( $0.55 )
+Seat 7: IGr0lk ( $1 )
+Colongrande posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+Colongrande calls [$0.01]
+IGr0lk checks
+** Dealing flop ** [ Kd, 5h, 7d ]
+IGr0lk checks
+Colongrande checks
+** Dealing turn ** [ 6c ]
+IGr0lk checks
+Colongrande bets [$0.04]
+IGr0lk calls [$0.04]
+** Dealing river ** [ 5s ]
+IGr0lk checks
+Colongrande bets [$0.24]
+IGr0lk calls [$0.24]
+** Summary **
+Colongrande shows [ 3s, 4d ]
+IGr0lk mucks [ Kc, 2s ]
+Colongrande collected [ $0.57 ]
+
+
+#Game No : 504581833
+***** 888poker Hand History for Game 504581833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 12:39:43
+Table La Paz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Colongrande ( $0.82 )
+Seat 7: IGr0lk ( $1 )
+IGr0lk posts small blind [$0.01]
+Colongrande posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+Colongrande raises [$0.04]
+IGr0lk calls [$0.02]
+** Dealing flop ** [ Ts, 8s, 3s ]
+Colongrande bets [$0.12]
+IGr0lk raises [$0.24]
+Colongrande raises [$0.24]
+IGr0lk raises [$0.70]
+Colongrande calls [$0.40]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ 7h ]
+** Summary **
+Colongrande shows [ 9s, 9h ]
+IGr0lk shows [ As, 6h ]
+Colongrande collected [ $1.54 ]
+
+
+#Game No : 504586537
+***** 888poker Hand History for Game 504586537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:42:13
+Table La Paz 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Flanx ( $1.27 )
+Seat 9: nucynuc ( $2.37 )
+nucynuc posts small blind [$0.01]
+Flanx posts big blind [$0.02]
+** Dealing down cards **
+nucynuc raises [$0.05]
+Flanx folds
+** Summary **
+nucynuc collected [ $0.04 ]
+
+
+#Game No : 504586549
+***** 888poker Hand History for Game 504586549 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:42:23
+Table La Paz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Flanx ( $1.25 )
+Seat 9: nucynuc ( $2.39 )
+Flanx posts small blind [$0.01]
+nucynuc posts big blind [$0.02]
+** Dealing down cards **
+Flanx raises [$0.03]
+nucynuc folds
+** Summary **
+Flanx collected [ $0.04 ]
+
+
+#Game No : 504587317
+***** 888poker Hand History for Game 504587317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:53:44
+Table La Paz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: BanShei ( $1 )
+Seat 2: tiagofreita ( $2.07 )
+tiagofreita posts small blind [$0.01]
+BanShei posts big blind [$0.02]
+** Dealing down cards **
+tiagofreita folds
+** Summary **
+BanShei collected [ $0.03 ]
+
+
+#Game No : 504587324
+***** 888poker Hand History for Game 504587324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:53:49
+Table La Paz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BanShei ( $1.01 )
+Seat 2: tiagofreita ( $2.06 )
+BanShei posts small blind [$0.01]
+tiagofreita posts big blind [$0.02]
+** Dealing down cards **
+BanShei calls [$0.01]
+tiagofreita checks
+** Dealing flop ** [ 9h, 6h, Qh ]
+tiagofreita checks
+BanShei bets [$0.04]
+tiagofreita folds
+** Summary **
+BanShei collected [ $0.04 ]
+
+
+#Game No : 504587368
+***** 888poker Hand History for Game 504587368 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:54:22
+Table La Paz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: BanShei ( $1.03 )
+Seat 2: tiagofreita ( $2.04 )
+tiagofreita posts small blind [$0.01]
+BanShei posts big blind [$0.02]
+** Dealing down cards **
+tiagofreita raises [$0.05]
+BanShei calls [$0.04]
+** Dealing flop ** [ 8h, 2s, Ks ]
+BanShei folds
+** Summary **
+tiagofreita collected [ $0.12 ]
+
+
+#Game No : 504587396
+***** 888poker Hand History for Game 504587396 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:54:45
+Table La Paz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BanShei ( $0.97 )
+Seat 2: tiagofreita ( $2.10 )
+BanShei posts small blind [$0.01]
+tiagofreita posts big blind [$0.02]
+** Dealing down cards **
+BanShei raises [$0.03]
+tiagofreita folds
+** Summary **
+BanShei collected [ $0.04 ]
+
+
+#Game No : 504587421
+***** 888poker Hand History for Game 504587421 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:55:06
+Table La Paz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: BanShei ( $0.99 )
+Seat 2: tiagofreita ( $2.08 )
+tiagofreita posts small blind [$0.01]
+BanShei posts big blind [$0.02]
+** Dealing down cards **
+tiagofreita folds
+** Summary **
+BanShei collected [ $0.03 ]
+
+
+#Game No : 504587531
+***** 888poker Hand History for Game 504587531 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:56:59
+Table La Paz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: FedeVP90 ( $1 )
+Seat 7: Jule92sweet ( $0.80 )
+FedeVP90 posts small blind [$0.01]
+Jule92sweet posts big blind [$0.02]
+** Dealing down cards **
+FedeVP90 calls [$0.01]
+Jule92sweet checks
+** Dealing flop ** [ 6d, Ts, 5d ]
+Jule92sweet checks
+FedeVP90 checks
+** Dealing turn ** [ 6c ]
+Jule92sweet checks
+FedeVP90 checks
+** Dealing river ** [ 9h ]
+Jule92sweet checks
+FedeVP90 checks
+** Summary **
+Jule92sweet shows [ Qc, 7h ]
+FedeVP90 shows [ 4h, Kc ]
+FedeVP90 collected [ $0.04 ]
+
+
+#Game No : 504587557
+***** 888poker Hand History for Game 504587557 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:57:22
+Table La Paz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: FedeVP90 ( $1.02 )
+Seat 7: Jule92sweet ( $0.78 )
+Jule92sweet posts small blind [$0.01]
+FedeVP90 posts big blind [$0.02]
+** Dealing down cards **
+Jule92sweet raises [$0.03]
+FedeVP90 calls [$0.02]
+** Dealing flop ** [ 5s, Qd, 5c ]
+FedeVP90 checks
+Jule92sweet bets [$0.06]
+FedeVP90 folds
+** Summary **
+Jule92sweet collected [ $0.08 ]
+
+
+#Game No : 504587581
+***** 888poker Hand History for Game 504587581 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:57:42
+Table La Paz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: FedeVP90 ( $0.98 )
+Seat 7: Jule92sweet ( $0.82 )
+FedeVP90 posts small blind [$0.01]
+Jule92sweet posts big blind [$0.02]
+** Dealing down cards **
+FedeVP90 calls [$0.01]
+Jule92sweet raises [$0.04]
+FedeVP90 calls [$0.04]
+** Dealing flop ** [ Kc, 9c, 8h ]
+Jule92sweet bets [$0.08]
+FedeVP90 raises [$0.16]
+Jule92sweet calls [$0.08]
+** Dealing turn ** [ 8s ]
+Jule92sweet bets [$0.08]
+FedeVP90 raises [$0.16]
+Jule92sweet calls [$0.08]
+** Dealing river ** [ Th ]
+Jule92sweet checks
+FedeVP90 checks
+** Summary **
+Jule92sweet shows [ Ks, 5d ]
+FedeVP90 shows [ 7d, Kd ]
+Jule92sweet collected [ $0.36 ]
+FedeVP90 collected [ $0.36 ]
+
+
+#Game No : 504587607
+***** 888poker Hand History for Game 504587607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:58:07
+Table La Paz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: FedeVP90 ( $0.96 )
+Seat 7: Jule92sweet ( $0.80 )
+Jule92sweet posts small blind [$0.01]
+FedeVP90 posts big blind [$0.02]
+** Dealing down cards **
+Jule92sweet calls [$0.01]
+FedeVP90 checks
+** Dealing flop ** [ Qd, Jd, 5d ]
+FedeVP90 checks
+Jule92sweet checks
+** Dealing turn ** [ Qh ]
+FedeVP90 checks
+Jule92sweet checks
+** Dealing river ** [ Td ]
+FedeVP90 checks
+Jule92sweet bets [$0.02]
+FedeVP90 folds
+** Summary **
+Jule92sweet collected [ $0.04 ]
+
+
+#Game No : 504587633
+***** 888poker Hand History for Game 504587633 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:58:25
+Table La Paz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: FedeVP90 ( $0.94 )
+Seat 7: Jule92sweet ( $0.82 )
+FedeVP90 posts small blind [$0.01]
+Jule92sweet posts big blind [$0.02]
+** Dealing down cards **
+FedeVP90 calls [$0.01]
+Jule92sweet checks
+** Dealing flop ** [ 4c, 6d, 2s ]
+Jule92sweet bets [$0.02]
+FedeVP90 calls [$0.02]
+** Dealing turn ** [ 7c ]
+Jule92sweet bets [$0.02]
+FedeVP90 calls [$0.02]
+** Dealing river ** [ 2c ]
+Jule92sweet bets [$0.06]
+FedeVP90 folds
+** Summary **
+Jule92sweet collected [ $0.12 ]
+
+
+#Game No : 504587671
+***** 888poker Hand History for Game 504587671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:58:54
+Table La Paz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: FedeVP90 ( $0.88 )
+Seat 7: Jule92sweet ( $0.88 )
+Jule92sweet posts small blind [$0.01]
+FedeVP90 posts big blind [$0.02]
+** Dealing down cards **
+Jule92sweet calls [$0.01]
+FedeVP90 raises [$0.02]
+Jule92sweet calls [$0.02]
+** Dealing flop ** [ 2c, 3d, Tc ]
+FedeVP90 bets [$0.02]
+Jule92sweet folds
+** Summary **
+FedeVP90 collected [ $0.08 ]
+
+
+#Game No : 504587727
+***** 888poker Hand History for Game 504587727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 13:59:46
+Table La Paz 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: FedeVP90 ( $0.86 )
+Seat 7: Jule92sweet ( $0.90 )
+Jule92sweet posts small blind [$0.01]
+FedeVP90 posts big blind [$0.02]
+** Dealing down cards **
+Jule92sweet calls [$0.01]
+FedeVP90 checks
+** Dealing flop ** [ 3s, 2h, 6c ]
+FedeVP90 bets [$0.02]
+Jule92sweet folds
+** Summary **
+FedeVP90 collected [ $0.04 ]
+
+
+#Game No : 504588629
+***** 888poker Hand History for Game 504588629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 14:13:13
+Table La Paz 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ibis42 ( $2.66 )
+Seat 4: SweetDecay ( $0.95 )
+ibis42 posts small blind [$0.01]
+SweetDecay posts big blind [$0.02]
+** Dealing down cards **
+ibis42 calls [$0.01]
+SweetDecay checks
+** Dealing flop ** [ 4h, Qc, Ad ]
+SweetDecay bets [$0.04]
+ibis42 folds
+** Summary **
+SweetDecay collected [ $0.04 ]
+
+
+#Game No : 504588671
+***** 888poker Hand History for Game 504588671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 14:13:46
+Table La Paz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: ibis42 ( $2.64 )
+Seat 4: SweetDecay ( $0.97 )
+SweetDecay posts small blind [$0.01]
+** Dealing down cards **
+ibis42 folds
+** Summary **
+SweetDecay collected [ $0.01 ]
+
+
+#Game No : 504588954
+***** 888poker Hand History for Game 504588954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 14:17:49
+Table La Paz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Azzymay18 ( $1 )
+Seat 6: lespaul57 ( $0.80 )
+lespaul57 posts small blind [$0.01]
+Azzymay18 posts big blind [$0.02]
+** Dealing down cards **
+lespaul57 calls [$0.01]
+Azzymay18 checks
+** Dealing flop ** [ 7h, Ad, 5h ]
+Azzymay18 checks
+lespaul57 checks
+** Dealing turn ** [ Qh ]
+Azzymay18 checks
+lespaul57 bets [$0.02]
+Azzymay18 folds
+** Summary **
+lespaul57 collected [ $0.04 ]
+
+
+#Game No : 504588983
+***** 888poker Hand History for Game 504588983 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 14:18:14
+Table La Paz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Azzymay18 ( $0.98 )
+Seat 6: lespaul57 ( $0.82 )
+Azzymay18 posts small blind [$0.01]
+lespaul57 posts big blind [$0.02]
+** Dealing down cards **
+Azzymay18 calls [$0.01]
+lespaul57 checks
+** Dealing flop ** [ 3d, 7d, 5s ]
+lespaul57 checks
+Azzymay18 checks
+** Dealing turn ** [ 5h ]
+lespaul57 checks
+Azzymay18 checks
+** Dealing river ** [ 7h ]
+lespaul57 checks
+Azzymay18 bets [$0.02]
+lespaul57 raises [$0.04]
+Azzymay18 calls [$0.02]
+** Summary **
+lespaul57 shows [ 8c, 2s ]
+Azzymay18 shows [ 2h, Ad ]
+Azzymay18 collected [ $0.12 ]
+
+
+#Game No : 504589024
+***** 888poker Hand History for Game 504589024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 14:18:52
+Table La Paz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Azzymay18 ( $1.04 )
+Seat 6: lespaul57 ( $0.76 )
+lespaul57 posts small blind [$0.01]
+Azzymay18 posts big blind [$0.02]
+** Dealing down cards **
+lespaul57 raises [$0.03]
+Azzymay18 calls [$0.02]
+** Dealing flop ** [ 4d, 4h, Jh ]
+Azzymay18 checks
+lespaul57 bets [$0.02]
+Azzymay18 calls [$0.02]
+** Dealing turn ** [ 3s ]
+Azzymay18 checks
+lespaul57 bets [$0.02]
+Azzymay18 calls [$0.02]
+** Dealing river ** [ 7s ]
+Azzymay18 checks
+lespaul57 bets [$0.10]
+Azzymay18 calls [$0.10]
+** Summary **
+lespaul57 shows [ As, 3h ]
+Azzymay18 mucks [ 8h, Kd ]
+lespaul57 collected [ $0.34 ]
+
+
+#Game No : 504589070
+***** 888poker Hand History for Game 504589070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 14:19:29
+Table La Paz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Azzymay18 ( $0.86 )
+Seat 6: lespaul57 ( $0.92 )
+Azzymay18 posts small blind [$0.01]
+lespaul57 posts big blind [$0.02]
+** Dealing down cards **
+Azzymay18 calls [$0.01]
+lespaul57 checks
+** Dealing flop ** [ Ad, 8s, 7s ]
+lespaul57 checks
+Azzymay18 checks
+** Dealing turn ** [ 4h ]
+lespaul57 checks
+Azzymay18 checks
+** Dealing river ** [ 3s ]
+lespaul57 checks
+Azzymay18 checks
+** Summary **
+lespaul57 shows [ Jd, 8c ]
+Azzymay18 mucks [ Qh, Js ]
+lespaul57 collected [ $0.04 ]
+
+
+#Game No : 504589090
+***** 888poker Hand History for Game 504589090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 14:19:52
+Table La Paz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Azzymay18 ( $0.84 )
+Seat 6: lespaul57 ( $0.94 )
+lespaul57 posts small blind [$0.01]
+Azzymay18 posts big blind [$0.02]
+** Dealing down cards **
+lespaul57 folds
+** Summary **
+Azzymay18 collected [ $0.03 ]
+
+

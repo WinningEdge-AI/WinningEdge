@@ -1,0 +1,28 @@
+#Game No : 507347522
+***** 888poker Hand History for Game 507347522 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:02:25
+Table Bari 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: Uttifanten ( $4.98 )
+Seat 3: verithanam ( $2 )
+verithanam posts small blind [$0.01]
+Uttifanten posts big blind [$0.02]
+** Dealing down cards **
+verithanam calls [$0.01]
+Uttifanten checks
+** Dealing flop ** [ Js, 7c, 3s ]
+Uttifanten checks
+verithanam checks
+** Dealing turn ** [ 8d ]
+Uttifanten bets [$0.03]
+verithanam calls [$0.03]
+** Dealing river ** [ Ah ]
+Uttifanten bets [$0.10]
+verithanam calls [$0.10]
+** Summary **
+Uttifanten shows [ 3d, As ]
+verithanam mucks [ 8c, 9s ]
+Uttifanten collected [ $0.29 ]
+
+

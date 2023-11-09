@@ -1,0 +1,46 @@
+#Game No : 619454278
+***** 888poker Hand History for Game 619454278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 05 2019 02:04:25
+Table Leeds 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: ilarioNNN. ( $3.96 )
+Seat 10: AtlanTor ( $3.11 )
+AtlanTor posts small blind [$0.01]
+ilarioNNN. posts big blind [$0.02]
+** Dealing down cards **
+AtlanTor folds
+** Summary **
+ilarioNNN. collected [ $0.03 ]
+
+
+#Game No : 619454284
+***** 888poker Hand History for Game 619454284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 05 2019 02:04:38
+Table Leeds 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: RustamTurok ( $2 )
+Seat 9: ilarioNNN. ( $3.97 )
+ilarioNNN. posts small blind [$0.01]
+RustamTurok posts big blind [$0.02]
+** Dealing down cards **
+ilarioNNN. raises [$0.03]
+RustamTurok calls [$0.02]
+** Dealing flop ** [ 5h, Js, 3c ]
+RustamTurok checks
+ilarioNNN. bets [$0.04]
+RustamTurok calls [$0.04]
+** Dealing turn ** [ 4s ]
+RustamTurok checks
+ilarioNNN. checks
+** Dealing river ** [ 6h ]
+RustamTurok checks
+ilarioNNN. bets [$0.08]
+RustamTurok calls [$0.08]
+** Summary **
+ilarioNNN. shows [ Jd, 8s ]
+RustamTurok mucks [ 6c, Tc ]
+ilarioNNN. collected [ $0.30 ]
+
+

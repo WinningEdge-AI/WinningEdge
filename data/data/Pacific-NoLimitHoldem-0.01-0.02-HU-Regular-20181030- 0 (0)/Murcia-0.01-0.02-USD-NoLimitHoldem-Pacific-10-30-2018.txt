@@ -1,0 +1,394 @@
+#Game No : 514748701
+***** 888poker Hand History for Game 514748701 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 18:25:32
+Table Murcia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: CourtneyZ13 ( $1.88 )
+Seat 7: DmitryiMo ( $2.54 )
+DmitryiMo posts small blind [$0.01]
+CourtneyZ13 posts big blind [$0.02]
+** Dealing down cards **
+DmitryiMo raises [$0.03]
+CourtneyZ13 raises [$0.10]
+DmitryiMo raises [$0.16]
+CourtneyZ13 raises [$1.76]
+DmitryiMo calls [$1.68]
+** Dealing flop ** [ 3h, 5c, Ks ]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ Kd ]
+** Summary **
+CourtneyZ13 shows [ Qs, Ac ]
+DmitryiMo shows [ Ad, Jd ]
+DmitryiMo collected [ $3.53 ]
+
+
+#Game No : 514748724
+***** 888poker Hand History for Game 514748724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 18:26:00
+Table Murcia 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CourtneyZ13 ( $2 )
+Seat 7: DmitryiMo ( $4.19 )
+CourtneyZ13 posts small blind [$0.01]
+DmitryiMo posts big blind [$0.02]
+** Dealing down cards **
+CourtneyZ13 folds
+** Summary **
+DmitryiMo collected [ $0.03 ]
+
+
+#Game No : 514749505
+***** 888poker Hand History for Game 514749505 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 18:46:07
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: attik001 ( $1 )
+Seat 6: Vadiklimonad ( $2 )
+Vadiklimonad posts small blind [$0.01]
+attik001 posts big blind [$0.02]
+** Dealing down cards **
+Vadiklimonad folds
+** Summary **
+attik001 collected [ $0.03 ]
+
+
+#Game No : 514749511
+***** 888poker Hand History for Game 514749511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 18:46:14
+Table Murcia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: attik001 ( $1.01 )
+Seat 6: Vadiklimonad ( $1.99 )
+attik001 posts small blind [$0.01]
+Vadiklimonad posts big blind [$0.02]
+** Dealing down cards **
+attik001 calls [$0.01]
+Vadiklimonad checks
+** Dealing flop ** [ 5s, Jc, 2c ]
+Vadiklimonad checks
+attik001 checks
+** Dealing turn ** [ 7d ]
+Vadiklimonad bets [$0.02]
+attik001 calls [$0.02]
+** Dealing river ** [ 9s ]
+Vadiklimonad checks
+attik001 checks
+** Summary **
+Vadiklimonad shows [ 7s, 6c ]
+attik001 mucks [ Ac, 8h ]
+Vadiklimonad collected [ $0.08 ]
+
+
+#Game No : 514749541
+***** 888poker Hand History for Game 514749541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 18:46:56
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: attik001 ( $0.97 )
+Seat 6: Vadiklimonad ( $2.03 )
+Vadiklimonad posts small blind [$0.01]
+attik001 posts big blind [$0.02]
+** Dealing down cards **
+Vadiklimonad folds
+** Summary **
+attik001 collected [ $0.03 ]
+
+
+#Game No : 514750095
+***** 888poker Hand History for Game 514750095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 19:03:18
+Table Murcia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: MrRickxxx33 ( $0.80 )
+Seat 7: CLOG10 ( $2 )
+CLOG10 posts small blind [$0.01]
+MrRickxxx33 posts big blind [$0.02]
+** Dealing down cards **
+CLOG10 raises [$0.04]
+MrRickxxx33 calls [$0.03]
+** Dealing flop ** [ 4c, 8c, 6h ]
+MrRickxxx33 checks
+CLOG10 bets [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing turn ** [ Qc ]
+MrRickxxx33 checks
+CLOG10 bets [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing river ** [ Jd ]
+MrRickxxx33 checks
+CLOG10 bets [$0.11]
+MrRickxxx33 folds
+** Summary **
+CLOG10 did not show his hand
+CLOG10 collected [ $0.25 ]
+
+
+#Game No : 514750119
+***** 888poker Hand History for Game 514750119 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 19:03:30
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MrRickxxx33 ( $0.67 )
+Seat 7: CLOG10 ( $2.12 )
+MrRickxxx33 posts small blind [$0.01]
+CLOG10 posts big blind [$0.02]
+** Dealing down cards **
+MrRickxxx33 calls [$0.01]
+CLOG10 raises [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing flop ** [ 2h, Ac, 9d ]
+CLOG10 bets [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing turn ** [ 3s ]
+CLOG10 bets [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing river ** [ Jc ]
+CLOG10 bets [$0.04]
+MrRickxxx33 folds
+** Summary **
+CLOG10 did not show his hand
+CLOG10 collected [ $0.27 ]
+
+
+#Game No : 514750137
+***** 888poker Hand History for Game 514750137 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 19:03:58
+Table Murcia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: MrRickxxx33 ( $0.53 )
+Seat 7: CLOG10 ( $2.25 )
+CLOG10 posts small blind [$0.01]
+MrRickxxx33 posts big blind [$0.02]
+** Dealing down cards **
+CLOG10 raises [$0.04]
+MrRickxxx33 calls [$0.03]
+** Dealing flop ** [ 7c, Ac, Kd ]
+MrRickxxx33 checks
+CLOG10 bets [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing turn ** [ Ad ]
+MrRickxxx33 checks
+CLOG10 bets [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing river ** [ 8h ]
+MrRickxxx33 checks
+CLOG10 checks
+** Summary **
+MrRickxxx33 shows [ 4d, 5d ]
+CLOG10 shows [ Js, Ks ]
+CLOG10 collected [ $0.25 ]
+
+
+#Game No : 514750160
+***** 888poker Hand History for Game 514750160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 19:04:32
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MrRickxxx33 ( $0.40 )
+Seat 7: CLOG10 ( $2.37 )
+MrRickxxx33 posts small blind [$0.01]
+CLOG10 posts big blind [$0.02]
+** Dealing down cards **
+MrRickxxx33 calls [$0.01]
+CLOG10 checks
+** Dealing flop ** [ 3d, 4c, Kh ]
+CLOG10 checks
+MrRickxxx33 checks
+** Dealing turn ** [ 4d ]
+CLOG10 bets [$0.02]
+MrRickxxx33 calls [$0.02]
+** Dealing river ** [ Ah ]
+CLOG10 checks
+MrRickxxx33 checks
+** Summary **
+CLOG10 shows [ 2c, 7h ]
+MrRickxxx33 shows [ Ts, Jh ]
+MrRickxxx33 collected [ $0.08 ]
+
+
+#Game No : 514750170
+***** 888poker Hand History for Game 514750170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 19:05:02
+Table Murcia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: MrRickxxx33 ( $0.44 )
+Seat 7: CLOG10 ( $2.33 )
+CLOG10 posts small blind [$0.01]
+MrRickxxx33 posts big blind [$0.02]
+** Dealing down cards **
+CLOG10 folds
+** Summary **
+MrRickxxx33 did not show his hand
+MrRickxxx33 collected [ $0.03 ]
+
+
+#Game No : 514750177
+***** 888poker Hand History for Game 514750177 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 19:05:09
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MrRickxxx33 ( $0.45 )
+Seat 7: CLOG10 ( $2.32 )
+MrRickxxx33 posts small blind [$0.01]
+CLOG10 posts big blind [$0.02]
+** Dealing down cards **
+MrRickxxx33 calls [$0.01]
+CLOG10 raises [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing flop ** [ 6c, 4h, Ac ]
+CLOG10 bets [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing turn ** [ Tc ]
+CLOG10 bets [$0.06]
+MrRickxxx33 calls [$0.06]
+** Dealing river ** [ 8s ]
+CLOG10 bets [$0.16]
+MrRickxxx33 folds
+** Summary **
+CLOG10 did not show his hand
+CLOG10 collected [ $0.30 ]
+
+
+#Game No : 514750197
+***** 888poker Hand History for Game 514750197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 19:05:46
+Table Murcia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: MrRickxxx33 ( $0.29 )
+Seat 7: CLOG10 ( $2.46 )
+CLOG10 posts small blind [$0.01]
+MrRickxxx33 posts big blind [$0.02]
+** Dealing down cards **
+CLOG10 raises [$0.04]
+MrRickxxx33 calls [$0.03]
+** Dealing flop ** [ 7s, 8h, Th ]
+MrRickxxx33 checks
+CLOG10 bets [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing turn ** [ Ad ]
+MrRickxxx33 checks
+CLOG10 bets [$0.04]
+MrRickxxx33 calls [$0.04]
+** Dealing river ** [ Ts ]
+MrRickxxx33 checks
+CLOG10 bets [$0.04]
+MrRickxxx33 raises [$0.08]
+CLOG10 calls [$0.04]
+** Summary **
+MrRickxxx33 shows [ 4c, Js ]
+CLOG10 shows [ Qh, Qs ]
+CLOG10 collected [ $0.40 ]
+
+
+#Game No : 514750223
+***** 888poker Hand History for Game 514750223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 19:06:27
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MrRickxxx33 ( $0.08 )
+Seat 7: CLOG10 ( $2.65 )
+MrRickxxx33 posts small blind [$0.01]
+CLOG10 posts big blind [$0.02]
+** Dealing down cards **
+MrRickxxx33 raises [$0.03]
+CLOG10 calls [$0.02]
+** Dealing flop ** [ 7s, Ac, Ts ]
+CLOG10 checks
+MrRickxxx33 bets [$0.02]
+CLOG10 raises [$0.04]
+MrRickxxx33 calls [$0.02]
+** Dealing turn ** [ 3d ]
+** Dealing river ** [ 9c ]
+** Summary **
+MrRickxxx33 shows [ Qh, Qc ]
+CLOG10 shows [ 5c, 7d ]
+MrRickxxx33 collected [ $0.15 ]
+
+
+#Game No : 514750236
+***** 888poker Hand History for Game 514750236 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 19:07:00
+Table Murcia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: MrRickxxx33 ( $0.15 )
+Seat 7: CLOG10 ( $2.57 )
+CLOG10 posts small blind [$0.01]
+MrRickxxx33 posts big blind [$0.02]
+** Dealing down cards **
+CLOG10 calls [$0.01]
+MrRickxxx33 checks
+** Dealing flop ** [ 2c, 7d, 9d ]
+MrRickxxx33 checks
+CLOG10 checks
+** Dealing turn ** [ Ah ]
+MrRickxxx33 checks
+CLOG10 checks
+** Dealing river ** [ Jc ]
+MrRickxxx33 checks
+CLOG10 bets [$0.04]
+MrRickxxx33 folds
+** Summary **
+CLOG10 collected [ $0.04 ]
+
+
+#Game No : 514758211
+***** 888poker Hand History for Game 514758211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 22:54:26
+Table Murcia 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: PythonDev ( $1.07 )
+Seat 4: juneera ( $2.59 )
+juneera posts small blind [$0.01]
+PythonDev posts big blind [$0.02]
+** Dealing down cards **
+juneera folds
+** Summary **
+PythonDev collected [ $0.03 ]
+
+
+#Game No : 514758215
+***** 888poker Hand History for Game 514758215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 22:54:32
+Table Murcia 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: PythonDev ( $1.08 )
+Seat 4: juneera ( $2.58 )
+PythonDev posts small blind [$0.01]
+juneera posts big blind [$0.02]
+** Dealing down cards **
+PythonDev folds
+** Summary **
+juneera collected [ $0.03 ]
+
+
+#Game No : 514758221
+***** 888poker Hand History for Game 514758221 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 22:54:39
+Table Murcia 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: PythonDev ( $1.07 )
+Seat 4: juneera ( $2.59 )
+juneera posts small blind [$0.01]
+** Dealing down cards **
+PythonDev folds
+** Summary **
+juneera collected [ $0.01 ]
+
+

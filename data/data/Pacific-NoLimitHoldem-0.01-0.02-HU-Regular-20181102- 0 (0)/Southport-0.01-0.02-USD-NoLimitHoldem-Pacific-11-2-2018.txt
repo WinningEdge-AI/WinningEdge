@@ -1,0 +1,904 @@
+#Game No : 504728912
+***** 888poker Hand History for Game 504728912 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 06:51:50
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: isakg12 ( $2.13 )
+Seat 6: meatyfeets ( $1 )
+isakg12 posts small blind [$0.01]
+** Dealing down cards **
+meatyfeets folds
+** Summary **
+isakg12 collected [ $0.01 ]
+
+
+#Game No : 504729222
+***** 888poker Hand History for Game 504729222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 07:01:00
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: meatyfeets ( $1 )
+Seat 7: ALIAKSANDR44 ( $0.80 )
+meatyfeets posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+meatyfeets folds
+** Summary **
+ALIAKSANDR44 collected [ $0.03 ]
+
+
+#Game No : 504729263
+***** 888poker Hand History for Game 504729263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 07:01:15
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ALIAKSANDR44 ( $0.81 )
+Seat 9: vovlove ( $1 )
+vovlove posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+vovlove calls [$0.01]
+ALIAKSANDR44 checks
+** Dealing flop ** [ Kc, Kh, Kd ]
+ALIAKSANDR44 checks
+vovlove checks
+** Dealing turn ** [ Ad ]
+ALIAKSANDR44 checks
+vovlove checks
+** Dealing river ** [ 7d ]
+ALIAKSANDR44 checks
+vovlove bets [$0.02]
+ALIAKSANDR44 calls [$0.02]
+** Summary **
+vovlove shows [ 7h, 2s ]
+ALIAKSANDR44 mucks [ Th, Qs ]
+vovlove collected [ $0.08 ]
+
+
+#Game No : 504729468
+***** 888poker Hand History for Game 504729468 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 07:06:21
+Table Southport 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ALIAKSANDR44 ( $0.80 )
+Seat 9: vovlove ( $1.13 )
+ALIAKSANDR44 posts small blind [$0.01]
+vovlove posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+vovlove checks
+** Dealing flop ** [ 5d, 2s, Kh ]
+vovlove checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ Qc ]
+vovlove checks
+ALIAKSANDR44 bets [$0.06]
+vovlove folds
+** Summary **
+ALIAKSANDR44 collected [ $0.04 ]
+
+
+#Game No : 504729485
+***** 888poker Hand History for Game 504729485 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 07:06:43
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ALIAKSANDR44 ( $0.82 )
+Seat 9: vovlove ( $1.11 )
+vovlove posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+vovlove folds
+** Summary **
+ALIAKSANDR44 collected [ $0.03 ]
+
+
+#Game No : 504731452
+***** 888poker Hand History for Game 504731452 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 07:59:10
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.23 )
+Seat 7: ALIAKSANDR44 ( $0.74 )
+DasPhantom posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+DasPhantom calls [$0.01]
+ALIAKSANDR44 raises [$0.08]
+DasPhantom calls [$0.08]
+** Dealing flop ** [ 5h, Ah, 5c ]
+ALIAKSANDR44 checks
+DasPhantom checks
+** Dealing turn ** [ 5s ]
+ALIAKSANDR44 checks
+DasPhantom bets [$0.04]
+ALIAKSANDR44 calls [$0.04]
+** Dealing river ** [ 2c ]
+ALIAKSANDR44 checks
+DasPhantom checks
+** Summary **
+ALIAKSANDR44 shows [ Qc, Jc ]
+DasPhantom shows [ 3h, 3s ]
+DasPhantom collected [ $0.27 ]
+
+
+#Game No : 504731477
+***** 888poker Hand History for Game 504731477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 07:59:49
+Table Southport 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.36 )
+Seat 7: ALIAKSANDR44 ( $0.60 )
+ALIAKSANDR44 posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 folds
+** Summary **
+DasPhantom collected [ $0.03 ]
+
+
+#Game No : 504731525
+***** 888poker Hand History for Game 504731525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:00:56
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.35 )
+Seat 9: kawabunga14 ( $1.54 )
+kawabunga14 posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+kawabunga14 folds
+** Summary **
+DasPhantom collected [ $0.03 ]
+
+
+#Game No : 504731535
+***** 888poker Hand History for Game 504731535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:01:08
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.36 )
+Seat 9: kawabunga14 ( $1.53 )
+DasPhantom posts small blind [$0.01]
+** Dealing down cards **
+kawabunga14 folds
+** Summary **
+DasPhantom collected [ $0.01 ]
+
+
+#Game No : 504732222
+***** 888poker Hand History for Game 504732222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:16:59
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.11 )
+Seat 2: shaopenny ( $1.11 )
+DasPhantom posts small blind [$0.01]
+shaopenny posts big blind [$0.02]
+** Dealing down cards **
+DasPhantom folds
+** Summary **
+shaopenny collected [ $0.03 ]
+
+
+#Game No : 504732227
+***** 888poker Hand History for Game 504732227 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:17:03
+Table Southport 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.10 )
+Seat 2: shaopenny ( $1.12 )
+shaopenny posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+shaopenny calls [$0.01]
+DasPhantom raises [$0.06]
+shaopenny folds
+** Summary **
+DasPhantom collected [ $0.04 ]
+
+
+#Game No : 504732330
+***** 888poker Hand History for Game 504732330 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:19:40
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.12 )
+Seat 2: Ckiff14 ( $0.80 )
+DasPhantom posts small blind [$0.01]
+Ckiff14 posts big blind [$0.02]
+** Dealing down cards **
+DasPhantom raises [$0.05]
+Ckiff14 folds
+** Summary **
+DasPhantom collected [ $0.04 ]
+
+
+#Game No : 504732338
+***** 888poker Hand History for Game 504732338 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:19:52
+Table Southport 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.14 )
+Seat 2: Ckiff14 ( $0.78 )
+Ckiff14 posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+Ckiff14 calls [$0.01]
+DasPhantom raises [$0.06]
+Ckiff14 folds
+** Summary **
+DasPhantom collected [ $0.04 ]
+
+
+#Game No : 504732444
+***** 888poker Hand History for Game 504732444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:22:27
+Table Southport 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.27 )
+Seat 7: ALIAKSANDR44 ( $1.21 )
+ALIAKSANDR44 posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+DasPhantom checks
+** Dealing flop ** [ Ad, 3d, 3s ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ 6d ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Dealing river ** [ Ts ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Summary **
+DasPhantom shows [ 4d, Kc ]
+ALIAKSANDR44 mucks [ 7d, 9s ]
+DasPhantom collected [ $0.04 ]
+
+
+#Game No : 504732465
+***** 888poker Hand History for Game 504732465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:22:51
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.29 )
+Seat 7: ALIAKSANDR44 ( $1.19 )
+DasPhantom posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+DasPhantom folds
+** Summary **
+ALIAKSANDR44 did not show his hand
+ALIAKSANDR44 collected [ $0.03 ]
+
+
+#Game No : 504732468
+***** 888poker Hand History for Game 504732468 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:22:55
+Table Southport 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.28 )
+Seat 7: ALIAKSANDR44 ( $1.20 )
+ALIAKSANDR44 posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+DasPhantom checks
+** Dealing flop ** [ 9h, Jc, 6s ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ Tc ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Dealing river ** [ 8c ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Summary **
+DasPhantom shows [ 3h, 3d ]
+ALIAKSANDR44 shows [ 5s, 7c ]
+ALIAKSANDR44 collected [ $0.04 ]
+
+
+#Game No : 504732494
+***** 888poker Hand History for Game 504732494 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:23:22
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.26 )
+Seat 7: ALIAKSANDR44 ( $1.22 )
+DasPhantom posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+DasPhantom folds
+** Summary **
+ALIAKSANDR44 did not show his hand
+ALIAKSANDR44 collected [ $0.03 ]
+
+
+#Game No : 504732497
+***** 888poker Hand History for Game 504732497 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:23:26
+Table Southport 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.25 )
+Seat 7: ALIAKSANDR44 ( $1.23 )
+ALIAKSANDR44 posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+DasPhantom checks
+** Dealing flop ** [ 8c, 4c, Jd ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ Jc ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Dealing river ** [ 5d ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Summary **
+DasPhantom shows [ 3h, As ]
+ALIAKSANDR44 shows [ 5h, 4s ]
+ALIAKSANDR44 collected [ $0.04 ]
+
+
+#Game No : 504732512
+***** 888poker Hand History for Game 504732512 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:23:46
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.23 )
+Seat 7: ALIAKSANDR44 ( $1.25 )
+DasPhantom posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+DasPhantom folds
+** Summary **
+ALIAKSANDR44 did not show his hand
+ALIAKSANDR44 collected [ $0.03 ]
+
+
+#Game No : 504732518
+***** 888poker Hand History for Game 504732518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:23:51
+Table Southport 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.22 )
+Seat 7: ALIAKSANDR44 ( $1.26 )
+ALIAKSANDR44 posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+DasPhantom checks
+** Dealing flop ** [ 7d, 7s, 9h ]
+DasPhantom checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ 2d ]
+DasPhantom checks
+ALIAKSANDR44 bets [$0.06]
+DasPhantom folds
+** Summary **
+ALIAKSANDR44 collected [ $0.04 ]
+
+
+#Game No : 504732532
+***** 888poker Hand History for Game 504732532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:24:10
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1.20 )
+Seat 7: ALIAKSANDR44 ( $1.28 )
+DasPhantom posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+DasPhantom raises [$0.05]
+ALIAKSANDR44 folds
+** Summary **
+DasPhantom collected [ $0.04 ]
+
+
+#Game No : 504733083
+***** 888poker Hand History for Game 504733083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:39:46
+Table Southport 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DasPhantom ( $1 )
+Seat 7: ALIAKSANDR44 ( $3.04 )
+ALIAKSANDR44 posts small blind [$0.01]
+DasPhantom posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 folds
+** Summary **
+DasPhantom collected [ $0.03 ]
+
+
+#Game No : 504733337
+***** 888poker Hand History for Game 504733337 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:46:53
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MTCUKRAINA ( $0.57 )
+Seat 9: Yuliya77277 ( $1.21 )
+MTCUKRAINA posts small blind [$0.01]
+Yuliya77277 posts big blind [$0.02]
+** Dealing down cards **
+MTCUKRAINA calls [$0.01]
+Yuliya77277 checks
+** Dealing flop ** [ Tc, 3h, 9s ]
+Yuliya77277 checks
+MTCUKRAINA bets [$0.02]
+Yuliya77277 folds
+** Summary **
+MTCUKRAINA collected [ $0.04 ]
+
+
+#Game No : 504733345
+***** 888poker Hand History for Game 504733345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:47:05
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: MTCUKRAINA ( $0.59 )
+Seat 9: Yuliya77277 ( $1.19 )
+Yuliya77277 posts small blind [$0.01]
+MTCUKRAINA posts big blind [$0.02]
+** Dealing down cards **
+Yuliya77277 calls [$0.01]
+MTCUKRAINA raises [$0.04]
+Yuliya77277 calls [$0.04]
+** Dealing flop ** [ Ac, Jh, 3h ]
+MTCUKRAINA bets [$0.08]
+Yuliya77277 folds
+** Summary **
+MTCUKRAINA collected [ $0.12 ]
+
+
+#Game No : 504733358
+***** 888poker Hand History for Game 504733358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 08:47:24
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MTCUKRAINA ( $0.65 )
+Seat 9: Yuliya77277 ( $1.13 )
+MTCUKRAINA posts small blind [$0.01]
+Yuliya77277 posts big blind [$0.02]
+** Dealing down cards **
+MTCUKRAINA calls [$0.01]
+Yuliya77277 checks
+** Dealing flop ** [ 8s, 9d, 8d ]
+Yuliya77277 bets [$0.02]
+MTCUKRAINA calls [$0.02]
+** Dealing turn ** [ 3h ]
+Yuliya77277 bets [$0.02]
+MTCUKRAINA calls [$0.02]
+** Dealing river ** [ 4h ]
+Yuliya77277 bets [$0.02]
+MTCUKRAINA raises [$0.12]
+Yuliya77277 folds
+** Summary **
+MTCUKRAINA collected [ $0.15 ]
+
+
+#Game No : 504735165
+***** 888poker Hand History for Game 504735165 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 09:33:37
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: f3rno ( $1.24 )
+Seat 6: Frankiew87 ( $0.81 )
+Frankiew87 posts small blind [$0.01]
+f3rno posts big blind [$0.02]
+** Dealing down cards **
+Frankiew87 calls [$0.01]
+f3rno checks
+** Dealing flop ** [ 9h, 5d, 4h ]
+f3rno checks
+Frankiew87 checks
+** Dealing turn ** [ 7c ]
+f3rno bets [$0.04]
+Frankiew87 folds
+** Summary **
+f3rno collected [ $0.04 ]
+
+
+#Game No : 504735260
+***** 888poker Hand History for Game 504735260 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 09:35:26
+Table Southport 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: f3rno ( $1.20 )
+Seat 7: ya_sucker ( $0.87 )
+ya_sucker posts small blind [$0.01]
+f3rno posts big blind [$0.02]
+** Dealing down cards **
+ya_sucker calls [$0.01]
+f3rno checks
+** Dealing flop ** [ Kd, 8s, Qh ]
+f3rno checks
+ya_sucker bets [$0.02]
+f3rno folds
+** Summary **
+ya_sucker collected [ $0.04 ]
+
+
+#Game No : 504736662
+***** 888poker Hand History for Game 504736662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 10:04:16
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Lisshura ( $0.87 )
+Seat 9: mjmillenium ( $2.01 )
+Lisshura posts small blind [$0.01]
+mjmillenium posts big blind [$0.02]
+** Dealing down cards **
+Lisshura raises [$0.07]
+mjmillenium calls [$0.06]
+** Dealing flop ** [ 4s, Ks, 6c ]
+mjmillenium bets [$0.08]
+Lisshura folds
+** Summary **
+mjmillenium collected [ $0.15 ]
+
+
+#Game No : 504736696
+***** 888poker Hand History for Game 504736696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 10:05:01
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Lisshura ( $0.80 )
+Seat 9: mjmillenium ( $2.08 )
+mjmillenium posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+mjmillenium calls [$0.01]
+Lisshura raises [$0.06]
+mjmillenium calls [$0.06]
+** Dealing flop ** [ 8c, 6d, 3s ]
+Lisshura bets [$0.10]
+mjmillenium raises [$0.46]
+Lisshura raises [$0.62]
+mjmillenium calls [$0.26]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ Jh ]
+** Summary **
+Lisshura shows [ Qd, 8d ]
+mjmillenium shows [ Kc, Ks ]
+mjmillenium collected [ $1.50 ]
+
+
+#Game No : 504736735
+***** 888poker Hand History for Game 504736735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 10:05:46
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Lisshura ( $0.80 )
+Seat 9: mjmillenium ( $2.78 )
+Lisshura posts small blind [$0.01]
+mjmillenium posts big blind [$0.02]
+** Dealing down cards **
+Lisshura folds
+** Summary **
+mjmillenium collected [ $0.03 ]
+
+
+#Game No : 504736738
+***** 888poker Hand History for Game 504736738 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 10:05:51
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Lisshura ( $0.80 )
+Seat 9: mjmillenium ( $2.79 )
+mjmillenium posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+mjmillenium calls [$0.01]
+Lisshura raises [$0.06]
+mjmillenium folds
+** Summary **
+Lisshura collected [ $0.04 ]
+
+
+#Game No : 504736773
+***** 888poker Hand History for Game 504736773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 10:06:25
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Lisshura ( $0.82 )
+Seat 9: mjmillenium ( $2.77 )
+Lisshura posts small blind [$0.01]
+mjmillenium posts big blind [$0.02]
+** Dealing down cards **
+Lisshura raises [$0.07]
+mjmillenium calls [$0.06]
+** Dealing flop ** [ Ts, Ad, Ks ]
+mjmillenium bets [$0.02]
+Lisshura raises [$0.15]
+mjmillenium calls [$0.13]
+** Dealing turn ** [ 2d ]
+mjmillenium bets [$0.06]
+Lisshura raises [$0.35]
+mjmillenium calls [$0.29]
+** Dealing river ** [ 6s ]
+mjmillenium bets [$0.20]
+Lisshura folds
+** Summary **
+mjmillenium collected [ $1.09 ]
+
+
+#Game No : 504736867
+***** 888poker Hand History for Game 504736867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 10:08:08
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Lisshura ( $0.80 )
+Seat 9: mjmillenium ( $3.28 )
+mjmillenium posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+mjmillenium calls [$0.01]
+Lisshura checks
+** Dealing flop ** [ 5s, 8s, 7c ]
+Lisshura checks
+mjmillenium bets [$0.04]
+Lisshura folds
+** Summary **
+mjmillenium collected [ $0.04 ]
+
+
+#Game No : 504736911
+***** 888poker Hand History for Game 504736911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 10:08:47
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Lisshura ( $0.80 )
+Seat 9: mjmillenium ( $3.30 )
+Lisshura posts small blind [$0.01]
+mjmillenium posts big blind [$0.02]
+** Dealing down cards **
+Lisshura raises [$0.03]
+mjmillenium calls [$0.02]
+** Dealing flop ** [ 3s, 4s, 2s ]
+mjmillenium checks
+Lisshura checks
+** Dealing turn ** [ 5d ]
+mjmillenium checks
+Lisshura checks
+** Dealing river ** [ Td ]
+mjmillenium checks
+Lisshura checks
+** Summary **
+mjmillenium shows [ 2h, 9h ]
+Lisshura mucks [ 7h, Kd ]
+mjmillenium collected [ $0.08 ]
+
+
+#Game No : 504745333
+***** 888poker Hand History for Game 504745333 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 12:32:46
+Table Southport 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ROCCO716 ( $1.29 )
+Seat 2: GRAGANTEN ( $0.94 )
+GRAGANTEN posts small blind [$0.01]
+ROCCO716 posts big blind [$0.02]
+** Dealing down cards **
+GRAGANTEN raises [$0.03]
+ROCCO716 folds
+** Summary **
+GRAGANTEN collected [ $0.04 ]
+
+
+#Game No : 504752606
+***** 888poker Hand History for Game 504752606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 14:29:32
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Luvex94 ( $0.80 )
+Seat 6: Leonidys ( $1.26 )
+Leonidys posts small blind [$0.01]
+Luvex94 posts big blind [$0.02]
+** Dealing down cards **
+Leonidys folds
+** Summary **
+Luvex94 did not show his hand
+Luvex94 collected [ $0.03 ]
+
+
+#Game No : 504752621
+***** 888poker Hand History for Game 504752621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 14:29:42
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Luvex94 ( $0.81 )
+Seat 6: Leonidys ( $1.25 )
+Luvex94 posts small blind [$0.01]
+Leonidys posts big blind [$0.02]
+** Dealing down cards **
+Luvex94 raises [$0.05]
+Leonidys folds
+** Summary **
+Luvex94 did not show his hand
+Luvex94 collected [ $0.04 ]
+
+
+#Game No : 504752636
+***** 888poker Hand History for Game 504752636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 14:30:04
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Luvex94 ( $0.83 )
+Seat 7: iamsanti ( $1 )
+Luvex94 posts small blind [$0.01]
+** Dealing down cards **
+iamsanti folds
+** Summary **
+Luvex94 did not show his hand
+Luvex94 collected [ $0.01 ]
+
+
+#Game No : 504756197
+***** 888poker Hand History for Game 504756197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 16:00:09
+Table Southport 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Devilatoru ( $1.34 )
+Seat 6: ceramixman ( $0.74 )
+Devilatoru posts small blind [$0.01]
+ceramixman posts big blind [$0.02]
+** Dealing down cards **
+Devilatoru raises [$0.05]
+ceramixman folds
+** Summary **
+Devilatoru collected [ $0.04 ]
+
+
+#Game No : 504756202
+***** 888poker Hand History for Game 504756202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 16:00:21
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Devilatoru ( $1.36 )
+Seat 6: ceramixman ( $0.72 )
+ceramixman posts small blind [$0.01]
+Devilatoru posts big blind [$0.02]
+** Dealing down cards **
+ceramixman folds
+** Summary **
+Devilatoru collected [ $0.03 ]
+
+
+#Game No : 504756236
+***** 888poker Hand History for Game 504756236 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 16:01:01
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ceramixman ( $0.73 )
+Seat 9: sm21byvoovik ( $1.84 )
+ceramixman posts small blind [$0.01]
+sm21byvoovik posts big blind [$0.02]
+** Dealing down cards **
+ceramixman folds
+** Summary **
+sm21byvoovik collected [ $0.03 ]
+
+
+#Game No : 504756444
+***** 888poker Hand History for Game 504756444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 16:06:00
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ceramixman ( $0.82 )
+Seat 9: sm21byvoovik ( $1.77 )
+sm21byvoovik posts small blind [$0.01]
+ceramixman posts big blind [$0.02]
+** Dealing down cards **
+sm21byvoovik folds
+** Summary **
+ceramixman collected [ $0.03 ]
+
+
+#Game No : 504756463
+***** 888poker Hand History for Game 504756463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 16:06:37
+Table Southport 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ceramixman ( $0.81 )
+Seat 9: sm21byvoovik ( $1.78 )
+sm21byvoovik posts small blind [$0.01]
+ceramixman posts big blind [$0.02]
+** Dealing down cards **
+sm21byvoovik raises [$0.05]
+ceramixman folds
+** Summary **
+sm21byvoovik collected [ $0.04 ]
+
+
+#Game No : 504757575
+***** 888poker Hand History for Game 504757575 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 16:39:47
+Table Southport 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Devilatoru ( $3.18 )
+Seat 4: SergeiTsarov ( $0.62 )
+Devilatoru posts small blind [$0.01]
+SergeiTsarov posts big blind [$0.02]
+** Dealing down cards **
+Devilatoru raises [$0.05]
+SergeiTsarov folds
+** Summary **
+Devilatoru collected [ $0.04 ]
+
+
+#Game No : 504757611
+***** 888poker Hand History for Game 504757611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 16:40:51
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Devilatoru ( $3.20 )
+Seat 4: SergeiTsarov ( $0.60 )
+SergeiTsarov posts small blind [$0.01]
+Devilatoru posts big blind [$0.02]
+** Dealing down cards **
+SergeiTsarov calls [$0.01]
+Devilatoru checks
+** Dealing flop ** [ 5h, 6h, 4d ]
+Devilatoru bets [$0.04]
+SergeiTsarov calls [$0.04]
+** Dealing turn ** [ 3d ]
+Devilatoru checks
+SergeiTsarov checks
+** Dealing river ** [ 9d ]
+Devilatoru checks
+SergeiTsarov checks
+** Summary **
+Devilatoru shows [ 6c, 5s ]
+SergeiTsarov mucks [ 8d, Kc ]
+Devilatoru collected [ $0.12 ]
+
+

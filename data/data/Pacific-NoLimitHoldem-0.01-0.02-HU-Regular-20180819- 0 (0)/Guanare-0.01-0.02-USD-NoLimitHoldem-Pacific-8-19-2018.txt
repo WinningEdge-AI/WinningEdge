@@ -1,0 +1,125 @@
+#Game No : 501120274
+***** 888poker Hand History for Game 501120274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 12:05:24
+Table Guanare 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: salsal74 ( $3.36 )
+Seat 9: Trangia ( $1.45 )
+Trangia posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+Trangia calls [$0.01]
+salsal74 raises [$0.06]
+Trangia folds
+** Summary **
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 501120292
+***** 888poker Hand History for Game 501120292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 12:05:38
+Table Guanare 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: salsal74 ( $3.38 )
+Seat 9: Trangia ( $1.43 )
+salsal74 posts small blind [$0.01]
+Trangia posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+Trangia calls [$0.02]
+** Dealing flop ** [ 2c, 3h, Jc ]
+Trangia checks
+salsal74 checks
+** Dealing turn ** [ Ah ]
+Trangia bets [$0.04]
+salsal74 calls [$0.04]
+** Dealing river ** [ 5c ]
+Trangia bets [$0.04]
+salsal74 calls [$0.04]
+** Summary **
+Trangia shows [ Td, Th ]
+salsal74 shows [ 7s, Ac ]
+salsal74 collected [ $0.23 ]
+
+
+#Game No : 501120661
+***** 888poker Hand History for Game 501120661 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 12:13:19
+Table Guanare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: salsal74 ( $3.89 )
+Seat 4: LePoulpe75 ( $2.42 )
+LePoulpe75 posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+LePoulpe75 folds
+** Summary **
+salsal74 did not show his hand
+salsal74 collected [ $0.03 ]
+
+
+#Game No : 501120666
+***** 888poker Hand History for Game 501120666 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 12:13:25
+Table Guanare 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: salsal74 ( $3.90 )
+Seat 4: LePoulpe75 ( $2.41 )
+salsal74 posts small blind [$0.01]
+LePoulpe75 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+LePoulpe75 folds
+** Summary **
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 501120686
+***** 888poker Hand History for Game 501120686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 12:13:43
+Table Guanare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: salsal74 ( $3.92 )
+Seat 4: LePoulpe75 ( $2.39 )
+LePoulpe75 posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+LePoulpe75 raises [$0.11]
+salsal74 folds
+** Summary **
+LePoulpe75 collected [ $0.04 ]
+
+
+#Game No : 501121011
+***** 888poker Hand History for Game 501121011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 12:20:39
+Table Guanare 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: salsal74 ( $2.51 )
+Seat 2: Pmonkey8686 ( $0.86 )
+salsal74 posts small blind [$0.01]
+Pmonkey8686 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+Pmonkey8686 calls [$0.04]
+** Dealing flop ** [ 9s, Ts, Jd ]
+Pmonkey8686 bets [$0.06]
+salsal74 calls [$0.06]
+** Dealing turn ** [ Qc ]
+Pmonkey8686 bets [$0.08]
+salsal74 raises [$0.48]
+Pmonkey8686 raises [$0.66]
+salsal74 calls [$0.26]
+** Dealing river ** [ Ks ]
+** Summary **
+salsal74 shows [ As, Kh ]
+Pmonkey8686 shows [ Qs, Tc ]
+salsal74 collected [ $1.62 ]
+
+

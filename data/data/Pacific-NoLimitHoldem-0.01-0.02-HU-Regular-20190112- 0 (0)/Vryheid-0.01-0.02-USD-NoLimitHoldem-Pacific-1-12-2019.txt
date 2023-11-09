@@ -1,0 +1,46 @@
+#Game No : 460085105
+***** 888poker Hand History for Game 460085105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 01 2019 10:52:37
+Table Vryheid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: OlegH1 ( $1.25 )
+Seat 6: Igorek2020 ( $0.54 )
+Igorek2020 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Igorek2020 calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 5c, 7d, Kc ]
+OlegH1 checks
+Igorek2020 bets [$0.10]
+OlegH1 calls [$0.10]
+** Dealing turn ** [ 6c ]
+OlegH1 checks
+Igorek2020 bets [$0.08]
+OlegH1 folds
+** Summary **
+Igorek2020 collected [ $0.23 ]
+
+
+#Game No : 460085141
+***** 888poker Hand History for Game 460085141 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 01 2019 10:53:11
+Table Vryheid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OlegH1 ( $1.13 )
+Seat 6: Igorek2020 ( $0.65 )
+OlegH1 posts small blind [$0.01]
+Igorek2020 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+Igorek2020 calls [$0.04]
+** Dealing flop ** [ Ah, 2s, 9s ]
+Igorek2020 checks
+OlegH1 bets [$0.08]
+Igorek2020 folds
+** Summary **
+OlegH1 collected [ $0.12 ]
+
+

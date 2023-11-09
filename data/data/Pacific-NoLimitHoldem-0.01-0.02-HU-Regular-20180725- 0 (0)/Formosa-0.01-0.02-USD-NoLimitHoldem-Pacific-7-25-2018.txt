@@ -1,0 +1,82 @@
+#Game No : 499957782
+***** 888poker Hand History for Game 499957782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 16:02:40
+Table Formosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: NikolayPale ( $0.90 )
+Seat 4: nezPKR ( $1 )
+NikolayPale posts small blind [$0.01]
+nezPKR posts big blind [$0.02]
+** Dealing down cards **
+NikolayPale folds
+** Summary **
+nezPKR did not show his hand
+nezPKR collected [ $0.03 ]
+
+
+#Game No : 499957793
+***** 888poker Hand History for Game 499957793 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 16:02:48
+Table Formosa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NikolayPale ( $0.89 )
+Seat 4: nezPKR ( $1.01 )
+NikolayPale posts small blind [$0.01]
+nezPKR posts big blind [$0.02]
+** Dealing down cards **
+NikolayPale raises [$0.05]
+nezPKR calls [$0.04]
+** Dealing flop ** [ 5s, 6c, Ad ]
+nezPKR bets [$0.12]
+NikolayPale folds
+** Summary **
+nezPKR did not show his hand
+nezPKR collected [ $0.12 ]
+
+
+#Game No : 499957808
+***** 888poker Hand History for Game 499957808 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 16:03:15
+Table Formosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: NikolayPale ( $0.83 )
+Seat 4: nezPKR ( $1.07 )
+nezPKR posts small blind [$0.01]
+NikolayPale posts big blind [$0.02]
+** Dealing down cards **
+nezPKR raises [$0.05]
+NikolayPale calls [$0.04]
+** Dealing flop ** [ 9d, 8c, 4d ]
+NikolayPale checks
+nezPKR checks
+** Dealing turn ** [ 6s ]
+NikolayPale checks
+nezPKR checks
+** Dealing river ** [ 4c ]
+NikolayPale checks
+nezPKR checks
+** Summary **
+NikolayPale shows [ 3h, Ad ]
+nezPKR mucks [ Qc, Jd ]
+NikolayPale collected [ $0.12 ]
+
+
+#Game No : 499957837
+***** 888poker Hand History for Game 499957837 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 16:03:56
+Table Formosa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NikolayPale ( $0.89 )
+Seat 4: nezPKR ( $1.01 )
+NikolayPale posts small blind [$0.01]
+nezPKR posts big blind [$0.02]
+** Dealing down cards **
+NikolayPale folds
+** Summary **
+nezPKR collected [ $0.03 ]
+
+

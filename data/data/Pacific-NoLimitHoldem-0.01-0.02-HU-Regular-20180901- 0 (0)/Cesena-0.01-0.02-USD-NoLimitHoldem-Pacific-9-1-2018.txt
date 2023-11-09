@@ -1,0 +1,790 @@
+#Game No : 501731527
+***** 888poker Hand History for Game 501731527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 19:53:21
+Table Cesena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ZappiestDust ( $1.06 )
+Seat 2: Ehiecai414 ( $0.74 )
+Ehiecai414 posts small blind [$0.01]
+ZappiestDust posts big blind [$0.02]
+** Dealing down cards **
+Ehiecai414 calls [$0.01]
+ZappiestDust checks
+** Dealing flop ** [ 8s, 3d, 2h ]
+ZappiestDust checks
+Ehiecai414 checks
+** Dealing turn ** [ 9d ]
+ZappiestDust checks
+Ehiecai414 checks
+** Dealing river ** [ Ks ]
+ZappiestDust checks
+Ehiecai414 checks
+** Summary **
+ZappiestDust shows [ 5s, Ad ]
+Ehiecai414 shows [ Kd, 6c ]
+Ehiecai414 collected [ $0.04 ]
+
+
+#Game No : 501732111
+***** 888poker Hand History for Game 501732111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:21:03
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ehiecai414 ( $1.59 )
+Seat 9: thewitness ( $1.45 )
+thewitness posts small blind [$0.01]
+Ehiecai414 posts big blind [$0.02]
+** Dealing down cards **
+thewitness folds
+** Summary **
+Ehiecai414 collected [ $0.03 ]
+
+
+#Game No : 501732113
+***** 888poker Hand History for Game 501732113 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:21:09
+Table Cesena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ehiecai414 ( $1.60 )
+Seat 9: thewitness ( $1.44 )
+Ehiecai414 posts small blind [$0.01]
+thewitness posts big blind [$0.02]
+** Dealing down cards **
+Ehiecai414 calls [$0.01]
+thewitness checks
+** Dealing flop ** [ Qs, Qh, Jd ]
+thewitness checks
+Ehiecai414 checks
+** Dealing turn ** [ 8h ]
+thewitness bets [$0.03]
+Ehiecai414 folds
+** Summary **
+thewitness collected [ $0.04 ]
+
+
+#Game No : 501732123
+***** 888poker Hand History for Game 501732123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:21:30
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ehiecai414 ( $1.58 )
+Seat 9: thewitness ( $1.46 )
+thewitness posts small blind [$0.01]
+Ehiecai414 posts big blind [$0.02]
+** Dealing down cards **
+thewitness raises [$0.05]
+Ehiecai414 calls [$0.04]
+** Dealing flop ** [ 9s, Td, Kd ]
+Ehiecai414 checks
+thewitness bets [$0.08]
+Ehiecai414 calls [$0.08]
+** Dealing turn ** [ 3h ]
+Ehiecai414 checks
+thewitness bets [$0.16]
+Ehiecai414 calls [$0.16]
+** Dealing river ** [ 8c ]
+Ehiecai414 checks
+thewitness bets [$0.32]
+Ehiecai414 folds
+** Summary **
+thewitness collected [ $0.57 ]
+
+
+#Game No : 501732131
+***** 888poker Hand History for Game 501732131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:22:04
+Table Cesena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ehiecai414 ( $1.28 )
+Seat 9: thewitness ( $1.73 )
+Ehiecai414 posts small blind [$0.01]
+** Dealing down cards **
+thewitness folds
+** Summary **
+Ehiecai414 collected [ $0.01 ]
+
+
+#Game No : 501732287
+***** 888poker Hand History for Game 501732287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:30:43
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.80 )
+Seat 4: richbranson ( $1 )
+vlad_100k posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k raises [$0.05]
+richbranson folds
+** Summary **
+vlad_100k collected [ $0.04 ]
+
+
+#Game No : 501732294
+***** 888poker Hand History for Game 501732294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:30:50
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.82 )
+Seat 4: richbranson ( $1 )
+richbranson posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+vlad_100k collected [ $0.03 ]
+
+
+#Game No : 501732307
+***** 888poker Hand History for Game 501732307 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:31:16
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.78 )
+Seat 4: richbranson ( $1.07 )
+richbranson posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+vlad_100k folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.04 ]
+
+
+#Game No : 501732310
+***** 888poker Hand History for Game 501732310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:31:25
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.76 )
+Seat 4: richbranson ( $1.09 )
+vlad_100k posts small blind [$0.01]
+** Dealing down cards **
+richbranson folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.01 ]
+
+
+#Game No : 501732319
+***** 888poker Hand History for Game 501732319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:31:48
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.76 )
+Seat 6: Linho1982 ( $1 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+vlad_100k checks
+** Dealing flop ** [ 6c, Jc, 5s ]
+vlad_100k bets [$0.04]
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.04 ]
+
+
+#Game No : 501732332
+***** 888poker Hand History for Game 501732332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:32:12
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.78 )
+Seat 6: Linho1982 ( $0.98 )
+vlad_100k posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k raises [$0.05]
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.04 ]
+
+
+#Game No : 501732336
+***** 888poker Hand History for Game 501732336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:32:24
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.80 )
+Seat 6: Linho1982 ( $0.96 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+vlad_100k checks
+** Dealing flop ** [ 9s, Jc, Th ]
+vlad_100k bets [$0.04]
+Linho1982 raises [$0.08]
+vlad_100k calls [$0.04]
+** Dealing turn ** [ Qh ]
+vlad_100k bets [$0.13]
+Linho1982 raises [$0.26]
+vlad_100k raises [$0.26]
+Linho1982 raises [$0.26]
+vlad_100k raises [$0.31]
+Linho1982 calls [$0.18]
+** Dealing river ** [ 4h ]
+** Summary **
+vlad_100k shows [ Kd, 8s ]
+Linho1982 shows [ Ts, Kc ]
+vlad_100k collected [ $0.75 ]
+Linho1982 collected [ $0.75 ]
+
+
+#Game No : 501732374
+***** 888poker Hand History for Game 501732374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:34:29
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.86 )
+Seat 6: Linho1982 ( $0.79 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+vlad_100k checks
+** Dealing flop ** [ 2c, Th, 4c ]
+vlad_100k checks
+Linho1982 checks
+** Dealing turn ** [ Jc ]
+vlad_100k bets [$0.02]
+Linho1982 raises [$0.04]
+vlad_100k calls [$0.02]
+** Dealing river ** [ Qd ]
+vlad_100k checks
+Linho1982 bets [$0.02]
+vlad_100k calls [$0.02]
+** Summary **
+Linho1982 shows [ Jh, 5c ]
+vlad_100k mucks [ 2h, 6c ]
+Linho1982 collected [ $0.15 ]
+
+
+#Game No : 501732386
+***** 888poker Hand History for Game 501732386 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:35:01
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.78 )
+Seat 6: Linho1982 ( $0.86 )
+vlad_100k posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k folds
+** Summary **
+Linho1982 did not show his hand
+Linho1982 collected [ $0.03 ]
+
+
+#Game No : 501732387
+***** 888poker Hand History for Game 501732387 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:35:09
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.77 )
+Seat 6: Linho1982 ( $0.87 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.03 ]
+
+
+#Game No : 501732389
+***** 888poker Hand History for Game 501732389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:35:17
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.78 )
+Seat 6: Linho1982 ( $0.86 )
+vlad_100k posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k raises [$0.05]
+Linho1982 calls [$0.04]
+** Dealing flop ** [ Qd, Jd, 9c ]
+Linho1982 bets [$0.02]
+vlad_100k calls [$0.02]
+** Dealing turn ** [ 7h ]
+Linho1982 bets [$0.02]
+vlad_100k calls [$0.02]
+** Dealing river ** [ 9s ]
+Linho1982 bets [$0.02]
+vlad_100k calls [$0.02]
+** Summary **
+Linho1982 shows [ Js, 7c ]
+vlad_100k mucks [ Ks, Ac ]
+Linho1982 collected [ $0.23 ]
+
+
+#Game No : 501732400
+***** 888poker Hand History for Game 501732400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:35:49
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.66 )
+Seat 6: Linho1982 ( $0.97 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.03 ]
+
+
+#Game No : 501732402
+***** 888poker Hand History for Game 501732402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:35:57
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.67 )
+Seat 6: Linho1982 ( $0.96 )
+vlad_100k posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k calls [$0.01]
+Linho1982 checks
+** Dealing flop ** [ 7h, Jd, 3s ]
+Linho1982 checks
+vlad_100k checks
+** Dealing turn ** [ Ks ]
+Linho1982 checks
+vlad_100k bets [$0.04]
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.04 ]
+
+
+#Game No : 501732416
+***** 888poker Hand History for Game 501732416 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:36:29
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.69 )
+Seat 6: Linho1982 ( $0.94 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.03 ]
+
+
+#Game No : 501732421
+***** 888poker Hand History for Game 501732421 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:36:38
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.70 )
+Seat 6: Linho1982 ( $0.93 )
+vlad_100k posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k folds
+** Summary **
+Linho1982 did not show his hand
+Linho1982 collected [ $0.03 ]
+
+
+#Game No : 501732423
+***** 888poker Hand History for Game 501732423 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:36:46
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.69 )
+Seat 6: Linho1982 ( $0.94 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+vlad_100k raises [$0.06]
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.04 ]
+
+
+#Game No : 501732426
+***** 888poker Hand History for Game 501732426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:36:59
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.71 )
+Seat 6: Linho1982 ( $0.92 )
+vlad_100k posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k folds
+** Summary **
+Linho1982 did not show his hand
+Linho1982 collected [ $0.03 ]
+
+
+#Game No : 501732431
+***** 888poker Hand History for Game 501732431 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:37:06
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.70 )
+Seat 6: Linho1982 ( $0.93 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+vlad_100k checks
+** Dealing flop ** [ 9c, Tc, 5d ]
+vlad_100k bets [$0.04]
+Linho1982 raises [$0.08]
+vlad_100k calls [$0.04]
+** Dealing turn ** [ Kh ]
+vlad_100k checks
+Linho1982 bets [$0.02]
+vlad_100k calls [$0.02]
+** Dealing river ** [ 3d ]
+vlad_100k checks
+Linho1982 bets [$0.02]
+vlad_100k calls [$0.02]
+** Summary **
+Linho1982 shows [ Ts, 4d ]
+vlad_100k mucks [ 8c, 3c ]
+Linho1982 collected [ $0.27 ]
+
+
+#Game No : 501732442
+***** 888poker Hand History for Game 501732442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:37:37
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.56 )
+Seat 6: Linho1982 ( $1.06 )
+vlad_100k posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k raises [$0.03]
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.04 ]
+
+
+#Game No : 501732446
+***** 888poker Hand History for Game 501732446 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:37:54
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.58 )
+Seat 6: Linho1982 ( $1.04 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+vlad_100k raises [$0.04]
+Linho1982 raises [$0.08]
+vlad_100k calls [$0.04]
+** Dealing flop ** [ 7d, 5s, 5d ]
+vlad_100k checks
+Linho1982 bets [$0.02]
+vlad_100k folds
+** Summary **
+Linho1982 did not show his hand
+Linho1982 collected [ $0.19 ]
+
+
+#Game No : 501732454
+***** 888poker Hand History for Game 501732454 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:38:17
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.48 )
+Seat 6: Linho1982 ( $1.13 )
+vlad_100k posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k raises [$0.05]
+Linho1982 calls [$0.04]
+** Dealing flop ** [ 9c, 4c, 9d ]
+Linho1982 checks
+vlad_100k bets [$0.06]
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.12 ]
+
+
+#Game No : 501732460
+***** 888poker Hand History for Game 501732460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:38:38
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.54 )
+Seat 6: Linho1982 ( $1.07 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+vlad_100k checks
+** Dealing flop ** [ Th, 8d, 4h ]
+vlad_100k bets [$0.04]
+Linho1982 calls [$0.04]
+** Dealing turn ** [ 2d ]
+vlad_100k bets [$0.12]
+Linho1982 folds
+** Summary **
+vlad_100k did not show his hand
+vlad_100k collected [ $0.12 ]
+
+
+#Game No : 501732468
+***** 888poker Hand History for Game 501732468 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:39:02
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.60 )
+Seat 6: Linho1982 ( $1.01 )
+vlad_100k posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+vlad_100k folds
+** Summary **
+Linho1982 collected [ $0.03 ]
+
+
+#Game No : 501732469
+***** 888poker Hand History for Game 501732469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:39:09
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vlad_100k ( $0.59 )
+Seat 6: Linho1982 ( $1.02 )
+Linho1982 posts small blind [$0.01]
+vlad_100k posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+vlad_100k checks
+** Dealing flop ** [ 5d, Ad, 3c ]
+vlad_100k checks
+Linho1982 checks
+** Dealing turn ** [ Jc ]
+vlad_100k checks
+Linho1982 checks
+** Dealing river ** [ Ks ]
+vlad_100k checks
+Linho1982 checks
+** Summary **
+vlad_100k shows [ 9h, 2h ]
+Linho1982 mucks [ 8c, 7s ]
+vlad_100k collected [ $0.04 ]
+
+
+#Game No : 501732819
+***** 888poker Hand History for Game 501732819 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 21:00:59
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: _marcelim12 ( $2.05 )
+Seat 6: Linho1982 ( $0.91 )
+Linho1982 posts small blind [$0.01]
+_marcelim12 posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+_marcelim12 checks
+** Dealing flop ** [ 7c, As, 9c ]
+_marcelim12 checks
+Linho1982 checks
+** Dealing turn ** [ Kc ]
+_marcelim12 bets [$0.02]
+Linho1982 calls [$0.02]
+** Dealing river ** [ 3c ]
+_marcelim12 bets [$0.04]
+Linho1982 folds
+** Summary **
+_marcelim12 collected [ $0.08 ]
+
+
+#Game No : 501732830
+***** 888poker Hand History for Game 501732830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 21:01:36
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: _marcelim12 ( $2.09 )
+Seat 6: Linho1982 ( $0.87 )
+_marcelim12 posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+_marcelim12 folds
+** Summary **
+Linho1982 collected [ $0.03 ]
+
+
+#Game No : 501732834
+***** 888poker Hand History for Game 501732834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 21:01:42
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: _marcelim12 ( $2.08 )
+Seat 6: Linho1982 ( $0.88 )
+Linho1982 posts small blind [$0.01]
+_marcelim12 posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+_marcelim12 raises [$0.04]
+Linho1982 folds
+** Summary **
+_marcelim12 collected [ $0.04 ]
+
+
+#Game No : 501732839
+***** 888poker Hand History for Game 501732839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 21:01:57
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: _marcelim12 ( $2.10 )
+Seat 6: Linho1982 ( $0.86 )
+_marcelim12 posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+_marcelim12 raises [$0.04]
+Linho1982 calls [$0.03]
+** Dealing flop ** [ Ad, 7s, 6h ]
+Linho1982 bets [$0.81]
+_marcelim12 folds
+** Summary **
+Linho1982 did not show his hand
+Linho1982 collected [ $0.10 ]
+
+
+#Game No : 501732849
+***** 888poker Hand History for Game 501732849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 21:02:22
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: _marcelim12 ( $2.05 )
+Seat 6: Linho1982 ( $0.91 )
+Linho1982 posts small blind [$0.01]
+_marcelim12 posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+_marcelim12 checks
+** Dealing flop ** [ 6c, Jd, Kc ]
+_marcelim12 checks
+Linho1982 checks
+** Dealing turn ** [ Ad ]
+_marcelim12 checks
+Linho1982 checks
+** Dealing river ** [ 4d ]
+_marcelim12 checks
+Linho1982 checks
+** Summary **
+_marcelim12 shows [ 2c, 7h ]
+Linho1982 shows [ 4c, 9s ]
+Linho1982 collected [ $0.04 ]
+
+
+#Game No : 501732867
+***** 888poker Hand History for Game 501732867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 21:03:28
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: _marcelim12 ( $2.03 )
+Seat 6: Linho1982 ( $0.93 )
+_marcelim12 posts small blind [$0.01]
+Linho1982 posts big blind [$0.02]
+** Dealing down cards **
+_marcelim12 raises [$0.04]
+Linho1982 folds
+** Summary **
+_marcelim12 did not show his hand
+_marcelim12 collected [ $0.04 ]
+
+
+#Game No : 501732871
+***** 888poker Hand History for Game 501732871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 21:03:42
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: _marcelim12 ( $2.05 )
+Seat 6: Linho1982 ( $0.91 )
+Linho1982 posts small blind [$0.01]
+_marcelim12 posts big blind [$0.02]
+** Dealing down cards **
+Linho1982 calls [$0.01]
+_marcelim12 raises [$0.03]
+Linho1982 calls [$0.03]
+** Dealing flop ** [ 4h, Ad, 6c ]
+_marcelim12 checks
+Linho1982 bets [$0.02]
+_marcelim12 calls [$0.02]
+** Dealing turn ** [ Js ]
+_marcelim12 checks
+Linho1982 bets [$0.02]
+_marcelim12 calls [$0.02]
+** Dealing river ** [ 7s ]
+_marcelim12 bets [$0.12]
+Linho1982 calls [$0.12]
+** Summary **
+_marcelim12 shows [ 7d, 6d ]
+Linho1982 mucks [ Kh, Ah ]
+_marcelim12 collected [ $0.40 ]
+
+
+#Game No : 501732997
+***** 888poker Hand History for Game 501732997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 21:11:18
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: _marcelim12 ( $2.39 )
+Seat 9: thewitness ( $1.90 )
+thewitness posts small blind [$0.01]
+** Dealing down cards **
+_marcelim12 folds
+** Summary **
+thewitness did not show his hand
+thewitness collected [ $0.01 ]
+
+

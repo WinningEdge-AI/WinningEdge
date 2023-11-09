@@ -1,0 +1,125 @@
+#Game No : 1210243257
+***** 888poker Hand History for Game 1210243257 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 17:30:37
+Table Tilburg 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Smithpump ( $5.39 )
+Seat 6: Gormogon999 ( $1.98 )
+Smithpump posts small blind [$0.01]
+Gormogon999 posts big blind [$0.02]
+** Dealing down cards **
+Smithpump raises [$0.05]
+Gormogon999 calls [$0.04]
+** Dealing flop ** [ 5s, 8d, 2c ]
+Gormogon999 checks
+Smithpump bets [$0.08]
+Gormogon999 calls [$0.08]
+** Dealing turn ** [ Ts ]
+Gormogon999 checks
+Smithpump checks
+** Dealing river ** [ 4h ]
+Gormogon999 checks
+Smithpump bets [$0.18]
+Gormogon999 calls [$0.18]
+** Summary **
+Smithpump shows [ 7h, 8h ]
+Gormogon999 mucks [ 5c, 9c ]
+Smithpump collected [ $0.60 ]
+
+
+#Game No : 1210243357
+***** 888poker Hand History for Game 1210243357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 17:31:22
+Table Tilburg 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Smithpump ( $5.67 )
+Seat 5: Moon_key ( $1.04 )
+Moon_key posts small blind [$0.01]
+Smithpump posts big blind [$0.02]
+** Dealing down cards **
+Moon_key raises [$0.05]
+Smithpump calls [$0.04]
+** Dealing flop ** [ 4d, 6h, 7h ]
+Smithpump bets [$0.08]
+Moon_key calls [$0.08]
+** Dealing turn ** [ 6c ]
+Smithpump bets [$0.14]
+Moon_key folds
+** Summary **
+Smithpump collected [ $0.27 ]
+
+
+#Game No : 1210243474
+***** 888poker Hand History for Game 1210243474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 17:32:18
+Table Tilburg 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Smithpump ( $5.80 )
+Seat 5: Moon_key ( $0.90 )
+Smithpump posts small blind [$0.01]
+** Dealing down cards **
+Moon_key folds
+** Summary **
+Smithpump collected [ $0.01 ]
+
+
+#Game No : 1210450892
+***** 888poker Hand History for Game 1210450892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 13:57:53
+Table Tilburg 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: risko0801 ( $3.73 )
+Seat 6: Gocha_1437 ( $3.90 )
+risko0801 posts small blind [$0.01]
+Gocha_1437 posts big blind [$0.02]
+** Dealing down cards **
+risko0801 calls [$0.01]
+Gocha_1437 checks
+** Dealing flop ** [ Qd, 7s, 2h ]
+Gocha_1437 checks
+risko0801 checks
+** Dealing turn ** [ Tc ]
+Gocha_1437 bets [$0.04]
+risko0801 folds
+** Summary **
+Gocha_1437 collected [ $0.04 ]
+
+
+#Game No : 1210450982
+***** 888poker Hand History for Game 1210450982 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 13:58:15
+Table Tilburg 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: risko0801 ( $3.71 )
+Seat 6: Gocha_1437 ( $3.92 )
+Gocha_1437 posts small blind [$0.01]
+risko0801 posts big blind [$0.02]
+** Dealing down cards **
+Gocha_1437 raises [$0.05]
+risko0801 folds
+** Summary **
+Gocha_1437 collected [ $0.04 ]
+
+
+#Game No : 1210451019
+***** 888poker Hand History for Game 1210451019 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 13:58:23
+Table Tilburg 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: risko0801 ( $3.69 )
+Seat 6: Gocha_1437 ( $3.94 )
+risko0801 posts small blind [$0.01]
+Gocha_1437 posts big blind [$0.02]
+** Dealing down cards **
+risko0801 raises [$0.05]
+Gocha_1437 folds
+** Summary **
+risko0801 collected [ $0.04 ]
+
+

@@ -1,0 +1,426 @@
+#Game No : 142505
+***** 888poker Hand History for Game 142505 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:11:57
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $2.02 )
+Seat 9: OtBRed_Baron ( $1.02 )
+i_am_you_ posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+OtBRed_Baron collected [ $0.03 ]
+
+
+#Game No : 142507
+***** 888poker Hand History for Game 142507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:12:09
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $2 )
+Seat 9: OtBRed_Baron ( $1.04 )
+i_am_you_ posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.03]
+OtBRed_Baron folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 142508
+***** 888poker Hand History for Game 142508 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:12:16
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $2.02 )
+Seat 9: OtBRed_Baron ( $1.02 )
+OtBRed_Baron posts small blind [$0.01]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+OtBRed_Baron collected [ $0.01 ]
+
+
+#Game No : 142511
+***** 888poker Hand History for Game 142511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:13:34
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.90 )
+Seat 9: OtBRed_Baron ( $1.02 )
+OtBRed_Baron posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OtBRed_Baron raises [$0.03]
+ALIAKSANDR44 calls [$0.02]
+** Dealing flop ** [ 9s, 8c, Ad ]
+ALIAKSANDR44 checks
+OtBRed_Baron bets [$0.05]
+ALIAKSANDR44 calls [$0.05]
+** Dealing turn ** [ 4s ]
+ALIAKSANDR44 checks
+OtBRed_Baron bets [$0.11]
+ALIAKSANDR44 folds
+** Summary **
+OtBRed_Baron collected [ $0.17 ]
+
+
+#Game No : 142512
+***** 888poker Hand History for Game 142512 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:13:57
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.81 )
+Seat 9: OtBRed_Baron ( $1.10 )
+ALIAKSANDR44 posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 raises [$0.03]
+OtBRed_Baron calls [$0.02]
+** Dealing flop ** [ 7c, Qs, 7s ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ 6h ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Dealing river ** [ Th ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Summary **
+OtBRed_Baron shows [ Jc, 2c ]
+ALIAKSANDR44 shows [ Ks, Ah ]
+ALIAKSANDR44 collected [ $0.08 ]
+
+
+#Game No : 142513
+***** 888poker Hand History for Game 142513 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:14:20
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.85 )
+Seat 9: OtBRed_Baron ( $1.06 )
+OtBRed_Baron posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OtBRed_Baron raises [$0.03]
+ALIAKSANDR44 folds
+** Summary **
+OtBRed_Baron collected [ $0.04 ]
+
+
+#Game No : 142515
+***** 888poker Hand History for Game 142515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:14:28
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.83 )
+Seat 9: OtBRed_Baron ( $1.08 )
+ALIAKSANDR44 posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+OtBRed_Baron checks
+** Dealing flop ** [ 4s, Kh, Tc ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ 3s ]
+OtBRed_Baron bets [$0.02]
+ALIAKSANDR44 calls [$0.02]
+** Dealing river ** [ 9d ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Summary **
+OtBRed_Baron shows [ 8h, 5s ]
+ALIAKSANDR44 shows [ 3c, 6c ]
+ALIAKSANDR44 collected [ $0.08 ]
+
+
+#Game No : 142518
+***** 888poker Hand History for Game 142518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:14:48
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.87 )
+Seat 9: OtBRed_Baron ( $1.04 )
+OtBRed_Baron posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OtBRed_Baron raises [$0.03]
+ALIAKSANDR44 calls [$0.02]
+** Dealing flop ** [ Ts, 2s, Kd ]
+ALIAKSANDR44 checks
+OtBRed_Baron checks
+** Dealing turn ** [ 9c ]
+ALIAKSANDR44 checks
+OtBRed_Baron checks
+** Dealing river ** [ 8s ]
+ALIAKSANDR44 checks
+OtBRed_Baron checks
+** Summary **
+ALIAKSANDR44 shows [ 2h, 7c ]
+OtBRed_Baron mucks [ 3d, Ah ]
+ALIAKSANDR44 collected [ $0.08 ]
+
+
+#Game No : 142522
+***** 888poker Hand History for Game 142522 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:15:06
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.91 )
+Seat 9: OtBRed_Baron ( $1 )
+ALIAKSANDR44 posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+OtBRed_Baron checks
+** Dealing flop ** [ 6s, 4c, Jd ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ 5h ]
+OtBRed_Baron bets [$0.02]
+ALIAKSANDR44 calls [$0.02]
+** Dealing river ** [ 3s ]
+OtBRed_Baron bets [$0.02]
+ALIAKSANDR44 folds
+** Summary **
+OtBRed_Baron collected [ $0.08 ]
+
+
+#Game No : 142525
+***** 888poker Hand History for Game 142525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:15:25
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.87 )
+Seat 9: OtBRed_Baron ( $1.04 )
+OtBRed_Baron posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OtBRed_Baron raises [$0.03]
+ALIAKSANDR44 raises [$0.04]
+OtBRed_Baron calls [$0.02]
+** Dealing flop ** [ 2s, 2d, 5c ]
+ALIAKSANDR44 bets [$0.04]
+OtBRed_Baron folds
+** Summary **
+ALIAKSANDR44 collected [ $0.12 ]
+
+
+#Game No : 142526
+***** 888poker Hand History for Game 142526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:15:43
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.93 )
+Seat 9: OtBRed_Baron ( $0.98 )
+ALIAKSANDR44 posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+OtBRed_Baron checks
+** Dealing flop ** [ Qs, 2d, Ad ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ Jh ]
+OtBRed_Baron bets [$0.02]
+ALIAKSANDR44 calls [$0.02]
+** Dealing river ** [ Qh ]
+OtBRed_Baron bets [$0.02]
+ALIAKSANDR44 folds
+** Summary **
+OtBRed_Baron collected [ $0.08 ]
+
+
+#Game No : 142528
+***** 888poker Hand History for Game 142528 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:16:01
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.89 )
+Seat 9: OtBRed_Baron ( $1.02 )
+OtBRed_Baron posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OtBRed_Baron raises [$0.03]
+ALIAKSANDR44 calls [$0.02]
+** Dealing flop ** [ 9h, 4c, 7s ]
+ALIAKSANDR44 checks
+OtBRed_Baron checks
+** Dealing turn ** [ Ad ]
+ALIAKSANDR44 checks
+OtBRed_Baron checks
+** Dealing river ** [ Jc ]
+ALIAKSANDR44 bets [$0.10]
+OtBRed_Baron folds
+** Summary **
+ALIAKSANDR44 collected [ $0.08 ]
+
+
+#Game No : 142530
+***** 888poker Hand History for Game 142530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:16:19
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.93 )
+Seat 9: OtBRed_Baron ( $0.98 )
+ALIAKSANDR44 posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 raises [$0.03]
+OtBRed_Baron calls [$0.02]
+** Dealing flop ** [ Kd, 6d, 7s ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ Qs ]
+OtBRed_Baron bets [$0.02]
+ALIAKSANDR44 calls [$0.02]
+** Dealing river ** [ 9c ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Summary **
+OtBRed_Baron shows [ 5h, Ad ]
+ALIAKSANDR44 mucks [ 8s, Js ]
+OtBRed_Baron collected [ $0.12 ]
+
+
+#Game No : 142533
+***** 888poker Hand History for Game 142533 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:16:43
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.87 )
+Seat 9: OtBRed_Baron ( $1.04 )
+OtBRed_Baron posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OtBRed_Baron raises [$0.03]
+ALIAKSANDR44 calls [$0.02]
+** Dealing flop ** [ 8s, 9d, As ]
+ALIAKSANDR44 checks
+OtBRed_Baron bets [$0.04]
+ALIAKSANDR44 calls [$0.04]
+** Dealing turn ** [ 9c ]
+ALIAKSANDR44 checks
+OtBRed_Baron checks
+** Dealing river ** [ 8d ]
+ALIAKSANDR44 checks
+OtBRed_Baron bets [$0.10]
+ALIAKSANDR44 folds
+** Summary **
+OtBRed_Baron collected [ $0.15 ]
+
+
+#Game No : 142535
+***** 888poker Hand History for Game 142535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:17:05
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.79 )
+Seat 9: OtBRed_Baron ( $1.11 )
+ALIAKSANDR44 posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 raises [$0.03]
+OtBRed_Baron calls [$0.02]
+** Dealing flop ** [ 5s, Ks, 3c ]
+OtBRed_Baron checks
+ALIAKSANDR44 bets [$0.04]
+OtBRed_Baron calls [$0.04]
+** Dealing turn ** [ Kd ]
+OtBRed_Baron checks
+ALIAKSANDR44 bets [$0.08]
+OtBRed_Baron calls [$0.08]
+** Dealing river ** [ 9c ]
+OtBRed_Baron checks
+ALIAKSANDR44 bets [$0.12]
+OtBRed_Baron calls [$0.12]
+** Summary **
+ALIAKSANDR44 shows [ Kh, Ts ]
+OtBRed_Baron mucks [ 9d, As ]
+ALIAKSANDR44 collected [ $0.53 ]
+
+
+#Game No : 142538
+***** 888poker Hand History for Game 142538 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:17:33
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $1.04 )
+Seat 9: OtBRed_Baron ( $1 )
+OtBRed_Baron posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OtBRed_Baron raises [$0.03]
+ALIAKSANDR44 calls [$0.02]
+** Dealing flop ** [ 4h, 7c, Qc ]
+ALIAKSANDR44 checks
+OtBRed_Baron bets [$0.05]
+ALIAKSANDR44 folds
+** Summary **
+OtBRed_Baron did not show his hand
+OtBRed_Baron collected [ $0.08 ]
+
+
+#Game No : 142539
+***** 888poker Hand History for Game 142539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:17:49
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $1 )
+Seat 9: OtBRed_Baron ( $1.04 )
+ALIAKSANDR44 posts small blind [$0.01]
+OtBRed_Baron posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 calls [$0.01]
+OtBRed_Baron checks
+** Dealing flop ** [ 5d, 6s, Ad ]
+OtBRed_Baron checks
+ALIAKSANDR44 checks
+** Dealing turn ** [ Jc ]
+OtBRed_Baron bets [$0.04]
+ALIAKSANDR44 folds
+** Summary **
+OtBRed_Baron did not show his hand
+OtBRed_Baron collected [ $0.04 ]
+
+
+#Game No : 142541
+***** 888poker Hand History for Game 142541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 03:18:04
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.98 )
+Seat 9: OtBRed_Baron ( $1.06 )
+OtBRed_Baron posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OtBRed_Baron raises [$0.03]
+ALIAKSANDR44 calls [$0.02]
+** Dealing flop ** [ 9h, 7d, 7c ]
+ALIAKSANDR44 bets [$0.04]
+OtBRed_Baron folds
+** Summary **
+ALIAKSANDR44 collected [ $0.08 ]
+
+

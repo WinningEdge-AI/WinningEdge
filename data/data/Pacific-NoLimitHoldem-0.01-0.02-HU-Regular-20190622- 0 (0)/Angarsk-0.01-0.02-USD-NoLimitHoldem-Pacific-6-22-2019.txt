@@ -1,0 +1,70 @@
+#Game No : 1275492149
+***** 888poker Hand History for Game 1275492149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 16:25:12
+Table Angarsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: yvesl9043 ( $1.46 )
+Seat 7: furyBean ( $4.56 )
+yvesl9043 posts small blind [$0.01]
+furyBean posts big blind [$0.02]
+** Dealing down cards **
+yvesl9043 calls [$0.01]
+furyBean checks
+** Dealing flop ** [ 7h, Kc, 8s ]
+furyBean checks
+yvesl9043 bets [$0.28]
+furyBean folds
+** Summary **
+yvesl9043 collected [ $0.04 ]
+
+
+#Game No : 1275492229
+***** 888poker Hand History for Game 1275492229 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 16:25:41
+Table Angarsk 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: yvesl9043 ( $1.48 )
+Seat 7: furyBean ( $4.54 )
+furyBean posts small blind [$0.01]
+yvesl9043 posts big blind [$0.02]
+** Dealing down cards **
+furyBean calls [$0.01]
+yvesl9043 checks
+** Dealing flop ** [ 7d, Qc, 5h ]
+yvesl9043 bets [$0.02]
+furyBean folds
+** Summary **
+yvesl9043 collected [ $0.04 ]
+
+
+#Game No : 1275492285
+***** 888poker Hand History for Game 1275492285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2019 16:26:02
+Table Angarsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: yvesl9043 ( $1.50 )
+Seat 7: furyBean ( $4.52 )
+yvesl9043 posts small blind [$0.01]
+furyBean posts big blind [$0.02]
+** Dealing down cards **
+yvesl9043 calls [$0.01]
+furyBean checks
+** Dealing flop ** [ Ah, Js, 9d ]
+furyBean checks
+yvesl9043 checks
+** Dealing turn ** [ Qs ]
+furyBean checks
+yvesl9043 checks
+** Dealing river ** [ 9h ]
+furyBean checks
+yvesl9043 checks
+** Summary **
+furyBean shows [ 6d, Td ]
+yvesl9043 shows [ 8s, 2d ]
+furyBean collected [ $0.02 ]
+yvesl9043 collected [ $0.02 ]
+
+

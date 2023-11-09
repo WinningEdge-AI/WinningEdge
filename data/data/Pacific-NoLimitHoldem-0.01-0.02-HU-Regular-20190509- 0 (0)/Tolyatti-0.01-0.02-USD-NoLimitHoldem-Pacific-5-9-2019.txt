@@ -1,0 +1,156 @@
+#Game No : 252866
+***** 888poker Hand History for Game 252866 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:01:45
+Table Tolyatti 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: C7P7D7 ( $3.17 )
+Seat 2: Digrad ( $0.94 )
+Digrad posts small blind [$0.01]
+C7P7D7 posts big blind [$0.02]
+** Dealing down cards **
+Digrad folds
+** Summary **
+C7P7D7 did not show his hand
+C7P7D7 collected [ $0.03 ]
+
+
+#Game No : 252869
+***** 888poker Hand History for Game 252869 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:01:55
+Table Tolyatti 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: C7P7D7 ( $3.18 )
+Seat 2: Digrad ( $0.93 )
+C7P7D7 posts small blind [$0.01]
+Digrad posts big blind [$0.02]
+** Dealing down cards **
+C7P7D7 calls [$0.01]
+Digrad checks
+** Dealing flop ** [ 3d, Qc, 7s ]
+Digrad checks
+C7P7D7 checks
+** Dealing turn ** [ 5d ]
+Digrad checks
+C7P7D7 checks
+** Dealing river ** [ 7h ]
+Digrad bets [$0.04]
+C7P7D7 folds
+** Summary **
+Digrad did not show his hand
+Digrad collected [ $0.04 ]
+
+
+#Game No : 252872
+***** 888poker Hand History for Game 252872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:02:23
+Table Tolyatti 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: C7P7D7 ( $3.16 )
+Seat 2: Digrad ( $0.95 )
+Digrad posts small blind [$0.01]
+C7P7D7 posts big blind [$0.02]
+** Dealing down cards **
+Digrad raises [$0.03]
+C7P7D7 calls [$0.02]
+** Dealing flop ** [ Qs, 7c, Kc ]
+C7P7D7 checks
+Digrad bets [$0.02]
+C7P7D7 calls [$0.02]
+** Dealing turn ** [ 2c ]
+C7P7D7 bets [$0.02]
+Digrad calls [$0.02]
+** Dealing river ** [ Kd ]
+C7P7D7 checks
+Digrad bets [$0.10]
+C7P7D7 folds
+** Summary **
+Digrad collected [ $0.15 ]
+
+
+#Game No : 252921
+***** 888poker Hand History for Game 252921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:15:05
+Table Tolyatti 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: C7P7D7 ( $0.82 )
+Seat 2: Digrad ( $1.03 )
+C7P7D7 posts small blind [$0.01]
+Digrad posts big blind [$0.02]
+** Dealing down cards **
+C7P7D7 calls [$0.01]
+Digrad raises [$0.12]
+C7P7D7 folds
+** Summary **
+Digrad collected [ $0.04 ]
+
+
+#Game No : 252923
+***** 888poker Hand History for Game 252923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:15:25
+Table Tolyatti 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: C7P7D7 ( $0.80 )
+Seat 2: Digrad ( $1.05 )
+Digrad posts small blind [$0.01]
+C7P7D7 posts big blind [$0.02]
+** Dealing down cards **
+Digrad raises [$0.04]
+C7P7D7 folds
+** Summary **
+Digrad collected [ $0.04 ]
+
+
+#Game No : 254375
+***** 888poker Hand History for Game 254375 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:50:04
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: moame345 ( $1.02 )
+Seat 6: Hibacho ( $1 )
+moame345 posts small blind [$0.01]
+Hibacho posts big blind [$0.02]
+** Dealing down cards **
+moame345 raises [$0.05]
+Hibacho folds
+** Summary **
+moame345 collected [ $0.04 ]
+
+
+#Game No : 254376
+***** 888poker Hand History for Game 254376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:50:13
+Table Tolyatti 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: moame345 ( $1.04 )
+Seat 6: Hibacho ( $0.98 )
+Hibacho posts small blind [$0.01]
+moame345 posts big blind [$0.02]
+** Dealing down cards **
+Hibacho raises [$0.03]
+moame345 calls [$0.02]
+** Dealing flop ** [ Qs, Qd, Tc ]
+moame345 checks
+Hibacho bets [$0.02]
+moame345 raises [$0.06]
+Hibacho calls [$0.04]
+** Dealing turn ** [ Ac ]
+moame345 checks
+Hibacho checks
+** Dealing river ** [ 2h ]
+moame345 bets [$0.13]
+Hibacho raises [$0.32]
+moame345 calls [$0.19]
+** Summary **
+Hibacho shows [ 8c, Qh ]
+moame345 shows [ 6s, Qc ]
+Hibacho collected [ $0.39 ]
+moame345 collected [ $0.40 ]
+
+

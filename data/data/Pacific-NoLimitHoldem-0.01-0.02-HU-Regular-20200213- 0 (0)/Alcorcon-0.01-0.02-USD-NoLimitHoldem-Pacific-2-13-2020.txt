@@ -1,0 +1,90 @@
+#Game No : 631618615
+***** 888poker Hand History for Game 631618615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2020 21:07:03
+Table Alcorcon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Jaanu1989 ( $1.21 )
+Seat 9: RNetser ( $1.28 )
+RNetser posts small blind [$0.01]
+Jaanu1989 posts big blind [$0.02]
+** Dealing down cards **
+RNetser calls [$0.01]
+Jaanu1989 checks
+** Dealing flop ** [ 9d, 3s, 8c ]
+Jaanu1989 checks
+RNetser bets [$0.02]
+Jaanu1989 calls [$0.02]
+** Dealing turn ** [ 7d ]
+Jaanu1989 checks
+RNetser bets [$0.02]
+Jaanu1989 calls [$0.02]
+** Dealing river ** [ 8s ]
+Jaanu1989 bets [$0.06]
+RNetser calls [$0.06]
+** Summary **
+Jaanu1989 shows [ 6s, 8h ]
+RNetser mucks [ 4c, 7s ]
+Jaanu1989 collected [ $0.23 ]
+
+
+#Game No : 631618634
+***** 888poker Hand History for Game 631618634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2020 21:07:26
+Table Alcorcon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Jaanu1989 ( $1.32 )
+Seat 9: RNetser ( $1.16 )
+Jaanu1989 posts small blind [$0.01]
+RNetser posts big blind [$0.02]
+** Dealing down cards **
+Jaanu1989 folds
+** Summary **
+RNetser collected [ $0.03 ]
+
+
+#Game No : 631618636
+***** 888poker Hand History for Game 631618636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2020 21:07:34
+Table Alcorcon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Jaanu1989 ( $1.31 )
+Seat 9: RNetser ( $1.17 )
+RNetser posts small blind [$0.01]
+Jaanu1989 posts big blind [$0.02]
+** Dealing down cards **
+RNetser folds
+** Summary **
+Jaanu1989 collected [ $0.03 ]
+
+
+#Game No : 631618637
+***** 888poker Hand History for Game 631618637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 02 2020 21:07:42
+Table Alcorcon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Jaanu1989 ( $1.32 )
+Seat 9: RNetser ( $1.16 )
+Jaanu1989 posts small blind [$0.01]
+RNetser posts big blind [$0.02]
+** Dealing down cards **
+Jaanu1989 calls [$0.01]
+RNetser raises [$0.08]
+Jaanu1989 calls [$0.08]
+** Dealing flop ** [ Js, As, 6h ]
+RNetser bets [$0.20]
+Jaanu1989 calls [$0.20]
+** Dealing turn ** [ Td ]
+RNetser bets [$0.60]
+Jaanu1989 raises [$1.02]
+RNetser calls [$0.26]
+** Dealing river ** [ 7s ]
+** Summary **
+Jaanu1989 shows [ Ac, Jc ]
+RNetser shows [ Ah, Qh ]
+Jaanu1989 collected [ $2.18 ]
+
+

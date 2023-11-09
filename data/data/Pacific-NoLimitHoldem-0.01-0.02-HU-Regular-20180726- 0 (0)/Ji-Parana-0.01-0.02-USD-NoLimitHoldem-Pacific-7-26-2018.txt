@@ -1,0 +1,51 @@
+#Game No : 1196221991
+***** 888poker Hand History for Game 1196221991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 07:03:26
+Table Ji-Parana 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ciungis666 ( $1.25 )
+Seat 2: savvlad ( $0.52 )
+ciungis666 posts small blind [$0.01]
+savvlad posts big blind [$0.02]
+** Dealing down cards **
+ciungis666 calls [$0.01]
+savvlad raises [$0.04]
+ciungis666 calls [$0.04]
+** Dealing flop ** [ 3s, 5s, 5d ]
+savvlad bets [$0.08]
+ciungis666 folds
+** Summary **
+savvlad did not show his hand
+savvlad collected [ $0.12 ]
+
+
+#Game No : 1196222056
+***** 888poker Hand History for Game 1196222056 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 07:03:44
+Table Ji-Parana 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ciungis666 ( $1.19 )
+Seat 2: savvlad ( $0.58 )
+savvlad posts small blind [$0.01]
+ciungis666 posts big blind [$0.02]
+** Dealing down cards **
+savvlad calls [$0.01]
+ciungis666 checks
+** Dealing flop ** [ 6c, Js, 5c ]
+ciungis666 checks
+savvlad checks
+** Dealing turn ** [ 7s ]
+ciungis666 checks
+savvlad checks
+** Dealing river ** [ 8s ]
+ciungis666 checks
+savvlad bets [$0.02]
+ciungis666 calls [$0.02]
+** Summary **
+savvlad shows [ 3d, 9d ]
+ciungis666 mucks [ Th, 7h ]
+savvlad collected [ $0.08 ]
+
+

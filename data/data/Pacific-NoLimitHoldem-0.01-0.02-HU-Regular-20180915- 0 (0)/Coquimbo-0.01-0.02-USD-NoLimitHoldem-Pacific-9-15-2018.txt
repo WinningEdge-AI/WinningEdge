@@ -1,0 +1,51 @@
+#Game No : 502355215
+***** 888poker Hand History for Game 502355215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 23:38:39
+Table Coquimbo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $1 )
+Seat 4: Negarsa10 ( $0.80 )
+Negarsa10 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Negarsa10 calls [$0.01]
+SlavikMark79 checks
+** Dealing flop ** [ 9d, 5c, 8h ]
+SlavikMark79 checks
+Negarsa10 checks
+** Dealing turn ** [ Jh ]
+SlavikMark79 bets [$0.04]
+Negarsa10 calls [$0.04]
+** Dealing river ** [ 8c ]
+SlavikMark79 checks
+Negarsa10 checks
+** Summary **
+SlavikMark79 shows [ Th, Ks ]
+Negarsa10 mucks [ Td, 2d ]
+SlavikMark79 collected [ $0.12 ]
+
+
+#Game No : 502355421
+***** 888poker Hand History for Game 502355421 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 23:50:10
+Table Coquimbo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $1.60 )
+Seat 6: Victory_7071 ( $1.04 )
+Victory_7071 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Victory_7071 raises [$0.05]
+SlavikMark79 calls [$0.04]
+** Dealing flop ** [ 3s, Kd, 4h ]
+SlavikMark79 checks
+Victory_7071 checks
+** Dealing turn ** [ Th ]
+SlavikMark79 bets [$0.08]
+Victory_7071 folds
+** Summary **
+SlavikMark79 collected [ $0.12 ]
+
+

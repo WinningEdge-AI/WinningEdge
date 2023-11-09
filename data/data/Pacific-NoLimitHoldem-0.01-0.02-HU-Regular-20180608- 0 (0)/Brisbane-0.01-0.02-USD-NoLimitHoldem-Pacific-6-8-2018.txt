@@ -1,0 +1,434 @@
+#Game No : 502876401
+***** 888poker Hand History for Game 502876401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:09:10
+Table Brisbane 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: koshspb ( $1.29 )
+Seat 10: leoh1662 ( $2 )
+koshspb posts small blind [$0.01]
+leoh1662 posts big blind [$0.02]
+** Dealing down cards **
+koshspb calls [$0.01]
+leoh1662 raises [$0.04]
+koshspb calls [$0.04]
+** Dealing flop ** [ 9d, 7h, 7c ]
+leoh1662 checks
+koshspb checks
+** Dealing turn ** [ 6h ]
+leoh1662 bets [$0.12]
+koshspb calls [$0.12]
+** Dealing river ** [ Tc ]
+leoh1662 bets [$0.36]
+koshspb raises [$1.11]
+leoh1662 calls [$0.75]
+** Summary **
+koshspb shows [ Td, 7s ]
+leoh1662 shows [ Qd, Th ]
+koshspb collected [ $2.42 ]
+
+
+#Game No : 502876419
+***** 888poker Hand History for Game 502876419 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:09:13
+Table Brisbane 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: koshspb ( $2.42 )
+Seat 10: leoh1662 ( $0.71 )
+leoh1662 posts small blind [$0.01]
+koshspb posts big blind [$0.02]
+** Dealing down cards **
+leoh1662 raises [$0.05]
+koshspb folds
+** Summary **
+leoh1662 collected [ $0.04 ]
+
+
+#Game No : 502876440
+***** 888poker Hand History for Game 502876440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:09:56
+Table Brisbane 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.18 )
+Seat 9: koshspb ( $3.06 )
+tradingpost2 posts small blind [$0.01]
+koshspb posts big blind [$0.02]
+** Dealing down cards **
+tradingpost2 calls [$0.01]
+koshspb checks
+** Dealing flop ** [ 8s, 4c, Ad ]
+koshspb checks
+tradingpost2 bets [$0.02]
+koshspb raises [$0.04]
+tradingpost2 calls [$0.02]
+** Dealing turn ** [ 9d ]
+koshspb bets [$0.02]
+tradingpost2 calls [$0.02]
+** Dealing river ** [ 7d ]
+koshspb bets [$2.98]
+tradingpost2 folds
+** Summary **
+koshspb collected [ $0.15 ]
+
+
+#Game No : 502876457
+***** 888poker Hand History for Game 502876457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:10:22
+Table Brisbane 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.10 )
+Seat 9: koshspb ( $3.13 )
+koshspb posts small blind [$0.01]
+tradingpost2 posts big blind [$0.02]
+** Dealing down cards **
+koshspb calls [$0.01]
+tradingpost2 checks
+** Dealing flop ** [ 8s, Ts, Ah ]
+tradingpost2 checks
+koshspb checks
+** Dealing turn ** [ 4c ]
+tradingpost2 checks
+koshspb checks
+** Dealing river ** [ Td ]
+tradingpost2 checks
+koshspb checks
+** Summary **
+tradingpost2 shows [ 6c, 2d ]
+koshspb shows [ 9d, 3h ]
+koshspb collected [ $0.04 ]
+
+
+#Game No : 502876469
+***** 888poker Hand History for Game 502876469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:10:40
+Table Brisbane 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.08 )
+Seat 9: koshspb ( $3.15 )
+tradingpost2 posts small blind [$0.01]
+koshspb posts big blind [$0.02]
+** Dealing down cards **
+tradingpost2 calls [$0.01]
+koshspb checks
+** Dealing flop ** [ Ad, 3s, 6h ]
+koshspb checks
+tradingpost2 bets [$0.02]
+koshspb calls [$0.02]
+** Dealing turn ** [ 5h ]
+koshspb checks
+tradingpost2 bets [$0.02]
+koshspb folds
+** Summary **
+tradingpost2 collected [ $0.08 ]
+
+
+#Game No : 502876480
+***** 888poker Hand History for Game 502876480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:11:02
+Table Brisbane 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.12 )
+Seat 9: koshspb ( $3.11 )
+koshspb posts small blind [$0.01]
+tradingpost2 posts big blind [$0.02]
+** Dealing down cards **
+koshspb calls [$0.01]
+tradingpost2 checks
+** Dealing flop ** [ 9d, Kd, Ks ]
+tradingpost2 checks
+koshspb checks
+** Dealing turn ** [ 4c ]
+tradingpost2 bets [$0.02]
+koshspb folds
+** Summary **
+tradingpost2 collected [ $0.04 ]
+
+
+#Game No : 502876489
+***** 888poker Hand History for Game 502876489 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:11:17
+Table Brisbane 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.14 )
+Seat 9: koshspb ( $3.09 )
+tradingpost2 posts small blind [$0.01]
+koshspb posts big blind [$0.02]
+** Dealing down cards **
+tradingpost2 calls [$0.01]
+koshspb raises [$0.10]
+tradingpost2 folds
+** Summary **
+koshspb collected [ $0.04 ]
+
+
+#Game No : 502876497
+***** 888poker Hand History for Game 502876497 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:11:30
+Table Brisbane 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.12 )
+Seat 9: koshspb ( $3.11 )
+koshspb posts small blind [$0.01]
+tradingpost2 posts big blind [$0.02]
+** Dealing down cards **
+koshspb calls [$0.01]
+tradingpost2 checks
+** Dealing flop ** [ 6d, 4h, Ts ]
+tradingpost2 checks
+koshspb checks
+** Dealing turn ** [ 7h ]
+tradingpost2 bets [$0.02]
+koshspb calls [$0.02]
+** Dealing river ** [ 9h ]
+tradingpost2 bets [$0.02]
+koshspb raises [$0.06]
+tradingpost2 folds
+** Summary **
+koshspb collected [ $0.12 ]
+
+
+#Game No : 502876508
+***** 888poker Hand History for Game 502876508 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:11:52
+Table Brisbane 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.06 )
+Seat 9: koshspb ( $3.17 )
+tradingpost2 posts small blind [$0.01]
+koshspb posts big blind [$0.02]
+** Dealing down cards **
+tradingpost2 folds
+** Summary **
+koshspb collected [ $0.03 ]
+
+
+#Game No : 502876517
+***** 888poker Hand History for Game 502876517 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:11:59
+Table Brisbane 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.05 )
+Seat 9: koshspb ( $3.18 )
+koshspb posts small blind [$0.01]
+tradingpost2 posts big blind [$0.02]
+** Dealing down cards **
+koshspb calls [$0.01]
+tradingpost2 checks
+** Dealing flop ** [ Kd, 7d, 4c ]
+tradingpost2 checks
+koshspb checks
+** Dealing turn ** [ Jc ]
+tradingpost2 checks
+koshspb checks
+** Dealing river ** [ 8h ]
+tradingpost2 checks
+koshspb bets [$0.02]
+tradingpost2 folds
+** Summary **
+koshspb collected [ $0.04 ]
+
+
+#Game No : 502876528
+***** 888poker Hand History for Game 502876528 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:12:17
+Table Brisbane 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.03 )
+Seat 9: koshspb ( $3.20 )
+tradingpost2 posts small blind [$0.01]
+koshspb posts big blind [$0.02]
+** Dealing down cards **
+tradingpost2 calls [$0.01]
+koshspb checks
+** Dealing flop ** [ 8s, 9h, 5h ]
+koshspb checks
+tradingpost2 bets [$0.02]
+koshspb folds
+** Summary **
+tradingpost2 collected [ $0.04 ]
+
+
+#Game No : 502876535
+***** 888poker Hand History for Game 502876535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:12:29
+Table Brisbane 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.05 )
+Seat 9: koshspb ( $3.18 )
+koshspb posts small blind [$0.01]
+tradingpost2 posts big blind [$0.02]
+** Dealing down cards **
+koshspb folds
+** Summary **
+tradingpost2 collected [ $0.03 ]
+
+
+#Game No : 502876541
+***** 888poker Hand History for Game 502876541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:12:36
+Table Brisbane 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.06 )
+Seat 9: koshspb ( $3.17 )
+tradingpost2 posts small blind [$0.01]
+koshspb posts big blind [$0.02]
+** Dealing down cards **
+tradingpost2 calls [$0.01]
+koshspb checks
+** Dealing flop ** [ 4h, Kc, 8s ]
+koshspb checks
+tradingpost2 bets [$0.02]
+koshspb raises [$0.04]
+tradingpost2 calls [$0.02]
+** Dealing turn ** [ 7d ]
+koshspb checks
+tradingpost2 bets [$0.02]
+koshspb calls [$0.02]
+** Dealing river ** [ 6c ]
+koshspb bets [$0.20]
+tradingpost2 folds
+** Summary **
+koshspb collected [ $0.15 ]
+
+
+#Game No : 502876560
+***** 888poker Hand History for Game 502876560 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:13:03
+Table Brisbane 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $0.98 )
+Seat 9: koshspb ( $3.24 )
+koshspb posts small blind [$0.01]
+tradingpost2 posts big blind [$0.02]
+** Dealing down cards **
+koshspb calls [$0.01]
+tradingpost2 checks
+** Dealing flop ** [ 2s, 5h, Ts ]
+tradingpost2 checks
+koshspb checks
+** Dealing turn ** [ 7c ]
+tradingpost2 bets [$0.02]
+koshspb folds
+** Summary **
+tradingpost2 collected [ $0.04 ]
+
+
+#Game No : 502876584
+***** 888poker Hand History for Game 502876584 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:13:50
+Table Brisbane 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1 )
+Seat 9: koshspb ( $4.27 )
+koshspb posts small blind [$0.01]
+tradingpost2 posts big blind [$0.02]
+** Dealing down cards **
+koshspb calls [$0.01]
+tradingpost2 checks
+** Dealing flop ** [ Td, 6h, Qh ]
+tradingpost2 checks
+koshspb checks
+** Dealing turn ** [ Jc ]
+tradingpost2 bets [$0.02]
+koshspb calls [$0.02]
+** Dealing river ** [ 2h ]
+tradingpost2 bets [$0.02]
+koshspb folds
+** Summary **
+tradingpost2 collected [ $0.08 ]
+
+
+#Game No : 502876605
+***** 888poker Hand History for Game 502876605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:14:17
+Table Brisbane 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.04 )
+Seat 9: koshspb ( $4.23 )
+tradingpost2 posts small blind [$0.01]
+koshspb posts big blind [$0.02]
+** Dealing down cards **
+tradingpost2 calls [$0.01]
+koshspb checks
+** Dealing flop ** [ Ac, 2d, 7h ]
+koshspb checks
+tradingpost2 bets [$0.02]
+koshspb raises [$0.04]
+tradingpost2 folds
+** Summary **
+koshspb collected [ $0.08 ]
+
+
+#Game No : 502876613
+***** 888poker Hand History for Game 502876613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:14:32
+Table Brisbane 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1 )
+Seat 9: koshspb ( $4.27 )
+koshspb posts small blind [$0.01]
+tradingpost2 posts big blind [$0.02]
+** Dealing down cards **
+koshspb calls [$0.01]
+tradingpost2 checks
+** Dealing flop ** [ Kh, 7h, 4c ]
+tradingpost2 checks
+koshspb checks
+** Dealing turn ** [ Ks ]
+tradingpost2 bets [$0.02]
+koshspb calls [$0.02]
+** Dealing river ** [ 7d ]
+tradingpost2 bets [$0.02]
+koshspb calls [$0.02]
+** Summary **
+tradingpost2 shows [ 6d, Jh ]
+koshspb mucks [ 6c, Td ]
+tradingpost2 collected [ $0.12 ]
+
+
+#Game No : 502876623
+***** 888poker Hand History for Game 502876623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 18:14:55
+Table Brisbane 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tradingpost2 ( $1.06 )
+Seat 9: koshspb ( $4.21 )
+tradingpost2 posts small blind [$0.01]
+koshspb posts big blind [$0.02]
+** Dealing down cards **
+tradingpost2 calls [$0.01]
+koshspb checks
+** Dealing flop ** [ Jc, Qs, 9d ]
+koshspb checks
+tradingpost2 checks
+** Dealing turn ** [ 9h ]
+koshspb checks
+tradingpost2 checks
+** Dealing river ** [ Td ]
+koshspb bets [$0.12]
+tradingpost2 raises [$0.24]
+koshspb raises [$4.07]
+tradingpost2 calls [$0.80]
+** Summary **
+tradingpost2 shows [ 4c, Kc ]
+koshspb shows [ Ts, 9c ]
+koshspb collected [ $1.99 ]
+
+

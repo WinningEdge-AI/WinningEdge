@@ -1,0 +1,711 @@
+#Game No : 462923633
+***** 888poker Hand History for Game 462923633 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 20:50:17
+Table Orihuela 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Dondk100 ( $1 )
+Seat 2: willner01 ( $0.80 )
+Dondk100 posts small blind [$0.01]
+willner01 posts big blind [$0.02]
+** Dealing down cards **
+Dondk100 calls [$0.01]
+willner01 checks
+** Dealing flop ** [ 8d, 4s, 7d ]
+willner01 checks
+Dondk100 bets [$0.02]
+willner01 calls [$0.02]
+** Dealing turn ** [ 2d ]
+willner01 checks
+Dondk100 bets [$0.02]
+willner01 calls [$0.02]
+** Dealing river ** [ Jd ]
+willner01 bets [$0.02]
+Dondk100 raises [$0.20]
+willner01 calls [$0.18]
+** Summary **
+Dondk100 shows [ 8c, Qd ]
+willner01 mucks [ 9d, 3c ]
+Dondk100 collected [ $0.49 ]
+
+
+#Game No : 462923641
+***** 888poker Hand History for Game 462923641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 20:50:25
+Table Orihuela 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Dondk100 ( $1.23 )
+Seat 2: willner01 ( $0.54 )
+willner01 posts small blind [$0.01]
+Dondk100 posts big blind [$0.02]
+** Dealing down cards **
+willner01 calls [$0.01]
+Dondk100 checks
+** Dealing flop ** [ Th, Ad, 8s ]
+Dondk100 checks
+willner01 checks
+** Dealing turn ** [ 7s ]
+Dondk100 checks
+willner01 bets [$0.02]
+Dondk100 folds
+** Summary **
+willner01 collected [ $0.04 ]
+
+
+#Game No : 462925106
+***** 888poker Hand History for Game 462925106 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 22:43:19
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Sp.Ace ( $1.64 )
+Seat 9: Takeu2daRvr1 ( $1.65 )
+Takeu2daRvr1 posts small blind [$0.01]
+Sp.Ace posts big blind [$0.02]
+** Dealing down cards **
+Takeu2daRvr1 folds
+** Summary **
+Sp.Ace collected [ $0.03 ]
+
+
+#Game No : 462925112
+***** 888poker Hand History for Game 462925112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 22:43:48
+Table Orihuela 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sp.Ace ( $1.65 )
+Seat 9: Takeu2daRvr1 ( $1.64 )
+Sp.Ace posts small blind [$0.01]
+Takeu2daRvr1 posts big blind [$0.02]
+** Dealing down cards **
+Sp.Ace folds
+** Summary **
+Takeu2daRvr1 collected [ $0.03 ]
+
+
+#Game No : 462925115
+***** 888poker Hand History for Game 462925115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 22:43:56
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Sp.Ace ( $1.64 )
+Seat 9: Takeu2daRvr1 ( $1.65 )
+Takeu2daRvr1 posts small blind [$0.01]
+Sp.Ace posts big blind [$0.02]
+** Dealing down cards **
+Takeu2daRvr1 raises [$0.05]
+Sp.Ace folds
+** Summary **
+Takeu2daRvr1 collected [ $0.04 ]
+
+
+#Game No : 462925118
+***** 888poker Hand History for Game 462925118 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 22:44:06
+Table Orihuela 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sp.Ace ( $1.62 )
+Seat 9: Takeu2daRvr1 ( $1.67 )
+Sp.Ace posts small blind [$0.01]
+Takeu2daRvr1 posts big blind [$0.02]
+** Dealing down cards **
+Sp.Ace folds
+** Summary **
+Takeu2daRvr1 collected [ $0.03 ]
+
+
+#Game No : 462925122
+***** 888poker Hand History for Game 462925122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 22:44:18
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Sp.Ace ( $1.61 )
+Seat 9: Takeu2daRvr1 ( $1.68 )
+Takeu2daRvr1 posts small blind [$0.01]
+Sp.Ace posts big blind [$0.02]
+** Dealing down cards **
+Takeu2daRvr1 raises [$0.07]
+Sp.Ace raises [$0.18]
+Takeu2daRvr1 calls [$0.12]
+** Dealing flop ** [ Tc, 6c, Ac ]
+Sp.Ace checks
+Takeu2daRvr1 checks
+** Dealing turn ** [ 8h ]
+Sp.Ace bets [$0.20]
+Takeu2daRvr1 calls [$0.20]
+** Dealing river ** [ Jd ]
+Sp.Ace checks
+Takeu2daRvr1 checks
+** Summary **
+Sp.Ace shows [ Qs, Qc ]
+Takeu2daRvr1 mucks [ 9s, 9h ]
+Sp.Ace collected [ $0.75 ]
+
+
+#Game No : 462925134
+***** 888poker Hand History for Game 462925134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 22:45:29
+Table Orihuela 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sp.Ace ( $1.96 )
+Seat 9: Takeu2daRvr1 ( $1.28 )
+Sp.Ace posts small blind [$0.01]
+Takeu2daRvr1 posts big blind [$0.02]
+** Dealing down cards **
+Sp.Ace raises [$0.03]
+Takeu2daRvr1 folds
+** Summary **
+Sp.Ace collected [ $0.04 ]
+
+
+#Game No : 462930818
+***** 888poker Hand History for Game 462930818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:39:41
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.20 )
+Seat 9: elfer67 ( $1.54 )
+elfer67 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+elfer67 calls [$0.01]
+bigHaki checks
+** Dealing flop ** [ Qd, 4d, Kh ]
+bigHaki checks
+elfer67 bets [$0.04]
+bigHaki folds
+** Summary **
+elfer67 collected [ $0.04 ]
+
+
+#Game No : 462930827
+***** 888poker Hand History for Game 462930827 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:39:57
+Table Orihuela 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.18 )
+Seat 9: elfer67 ( $1.56 )
+bigHaki posts small blind [$0.01]
+elfer67 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki folds
+** Summary **
+elfer67 collected [ $0.03 ]
+
+
+#Game No : 462930830
+***** 888poker Hand History for Game 462930830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:40:02
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.17 )
+Seat 9: elfer67 ( $1.57 )
+elfer67 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+elfer67 raises [$0.03]
+bigHaki calls [$0.02]
+** Dealing flop ** [ Ac, 4d, 9s ]
+bigHaki checks
+elfer67 checks
+** Dealing turn ** [ 8s ]
+bigHaki bets [$0.06]
+elfer67 folds
+** Summary **
+bigHaki collected [ $0.08 ]
+
+
+#Game No : 462930836
+***** 888poker Hand History for Game 462930836 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:40:19
+Table Orihuela 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.21 )
+Seat 9: elfer67 ( $1.53 )
+bigHaki posts small blind [$0.01]
+elfer67 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+elfer67 folds
+** Summary **
+bigHaki collected [ $0.04 ]
+
+
+#Game No : 462930841
+***** 888poker Hand History for Game 462930841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:40:26
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.23 )
+Seat 9: elfer67 ( $1.51 )
+elfer67 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+elfer67 raises [$0.03]
+bigHaki calls [$0.02]
+** Dealing flop ** [ 2c, 3s, Qd ]
+bigHaki checks
+elfer67 bets [$0.05]
+bigHaki folds
+** Summary **
+elfer67 collected [ $0.08 ]
+
+
+#Game No : 462930848
+***** 888poker Hand History for Game 462930848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:40:41
+Table Orihuela 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.19 )
+Seat 9: elfer67 ( $1.55 )
+bigHaki posts small blind [$0.01]
+elfer67 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki folds
+** Summary **
+elfer67 collected [ $0.03 ]
+
+
+#Game No : 462930854
+***** 888poker Hand History for Game 462930854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:40:53
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.18 )
+Seat 9: elfer67 ( $1.56 )
+elfer67 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+elfer67 raises [$0.03]
+bigHaki folds
+** Summary **
+elfer67 collected [ $0.04 ]
+
+
+#Game No : 462930861
+***** 888poker Hand History for Game 462930861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:41:00
+Table Orihuela 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.16 )
+Seat 9: elfer67 ( $1.58 )
+bigHaki posts small blind [$0.01]
+elfer67 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+elfer67 calls [$0.04]
+** Dealing flop ** [ Td, Tc, 5s ]
+elfer67 bets [$0.08]
+bigHaki calls [$0.08]
+** Dealing turn ** [ Jh ]
+elfer67 checks
+bigHaki checks
+** Dealing river ** [ 6s ]
+elfer67 checks
+bigHaki bets [$0.08]
+elfer67 calls [$0.08]
+** Summary **
+bigHaki shows [ Js, Jc ]
+elfer67 mucks [ 2s, Ah ]
+bigHaki collected [ $0.42 ]
+
+
+#Game No : 462930871
+***** 888poker Hand History for Game 462930871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:41:32
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.36 )
+Seat 9: elfer67 ( $1.36 )
+elfer67 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+elfer67 calls [$0.01]
+bigHaki checks
+** Dealing flop ** [ 4d, Qd, 7h ]
+bigHaki checks
+elfer67 bets [$0.02]
+bigHaki folds
+** Summary **
+elfer67 collected [ $0.04 ]
+
+
+#Game No : 462930879
+***** 888poker Hand History for Game 462930879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:41:56
+Table Orihuela 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.34 )
+Seat 9: elfer67 ( $1.38 )
+bigHaki posts small blind [$0.01]
+elfer67 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki folds
+** Summary **
+elfer67 collected [ $0.03 ]
+
+
+#Game No : 462930889
+***** 888poker Hand History for Game 462930889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:42:19
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.33 )
+Seat 9: elfer67 ( $1.39 )
+elfer67 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+elfer67 calls [$0.01]
+bigHaki raises [$0.04]
+elfer67 calls [$0.04]
+** Dealing flop ** [ 6c, 2s, 7d ]
+bigHaki bets [$0.06]
+elfer67 raises [$0.12]
+bigHaki folds
+** Summary **
+elfer67 collected [ $0.23 ]
+
+
+#Game No : 462930898
+***** 888poker Hand History for Game 462930898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:42:43
+Table Orihuela 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.21 )
+Seat 9: elfer67 ( $1.50 )
+bigHaki posts small blind [$0.01]
+elfer67 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+elfer67 folds
+** Summary **
+bigHaki collected [ $0.04 ]
+
+
+#Game No : 462930905
+***** 888poker Hand History for Game 462930905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 03:43:00
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bigHaki ( $1.23 )
+Seat 9: elfer67 ( $1.48 )
+elfer67 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+elfer67 raises [$0.03]
+bigHaki calls [$0.02]
+** Dealing flop ** [ 8c, Td, 3d ]
+bigHaki checks
+elfer67 bets [$0.04]
+bigHaki calls [$0.04]
+** Dealing turn ** [ 5s ]
+bigHaki checks
+elfer67 checks
+** Dealing river ** [ 5h ]
+bigHaki bets [$0.10]
+elfer67 folds
+** Summary **
+bigHaki collected [ $0.15 ]
+
+
+#Game No : 462935900
+***** 888poker Hand History for Game 462935900 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 06:37:07
+Table Orihuela 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: onix1703 ( $2.45 )
+Seat 7: Razdaz92 ( $1.59 )
+Razdaz92 posts small blind [$0.01]
+onix1703 posts big blind [$0.02]
+** Dealing down cards **
+Razdaz92 calls [$0.01]
+onix1703 checks
+** Dealing flop ** [ 4c, 5d, Th ]
+onix1703 checks
+Razdaz92 bets [$0.02]
+onix1703 folds
+** Summary **
+Razdaz92 collected [ $0.04 ]
+
+
+#Game No : 462936548
+***** 888poker Hand History for Game 462936548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 06:59:22
+Table Orihuela 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.16 )
+Seat 6: Julja94.94 ( $1.04 )
+Julja94.94 posts small blind [$0.01]
+Stockweg posts big blind [$0.02]
+** Dealing down cards **
+Julja94.94 raises [$0.05]
+Stockweg calls [$0.04]
+** Dealing flop ** [ 4c, 5d, 8s ]
+Stockweg checks
+Julja94.94 bets [$0.06]
+Stockweg folds
+** Summary **
+Julja94.94 did not show his hand
+Julja94.94 collected [ $0.12 ]
+
+
+#Game No : 462936563
+***** 888poker Hand History for Game 462936563 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 06:59:45
+Table Orihuela 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.10 )
+Seat 6: Julja94.94 ( $1.10 )
+Stockweg posts small blind [$0.01]
+Julja94.94 posts big blind [$0.02]
+** Dealing down cards **
+Stockweg calls [$0.01]
+Julja94.94 checks
+** Dealing flop ** [ Ks, Ad, 7s ]
+Julja94.94 checks
+Stockweg checks
+** Dealing turn ** [ Ts ]
+Julja94.94 checks
+Stockweg checks
+** Dealing river ** [ Qh ]
+Julja94.94 checks
+Stockweg bets [$0.02]
+Julja94.94 folds
+** Summary **
+Stockweg collected [ $0.04 ]
+
+
+#Game No : 462936587
+***** 888poker Hand History for Game 462936587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 07:00:34
+Table Orihuela 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.12 )
+Seat 6: Julja94.94 ( $1.08 )
+Julja94.94 posts small blind [$0.01]
+Stockweg posts big blind [$0.02]
+** Dealing down cards **
+Julja94.94 folds
+** Summary **
+Stockweg collected [ $0.03 ]
+
+
+#Game No : 462936592
+***** 888poker Hand History for Game 462936592 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 07:00:44
+Table Orihuela 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.13 )
+Seat 7: VasilinaS ( $0.80 )
+Stockweg posts small blind [$0.01]
+VasilinaS posts big blind [$0.02]
+** Dealing down cards **
+Stockweg folds
+** Summary **
+VasilinaS did not show his hand
+VasilinaS collected [ $0.03 ]
+
+
+#Game No : 462936599
+***** 888poker Hand History for Game 462936599 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 07:00:53
+Table Orihuela 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.12 )
+Seat 7: VasilinaS ( $0.81 )
+VasilinaS posts small blind [$0.01]
+** Dealing down cards **
+Stockweg folds
+** Summary **
+VasilinaS did not show his hand
+VasilinaS collected [ $0.01 ]
+
+
+#Game No : 462936607
+***** 888poker Hand History for Game 462936607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 07:01:06
+Table Orihuela 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.12 )
+Seat 7: VasilinaS ( $0.81 )
+VasilinaS posts small blind [$0.01]
+Stockweg posts big blind [$0.02]
+** Dealing down cards **
+VasilinaS calls [$0.01]
+Stockweg checks
+** Dealing flop ** [ 8c, Ah, 3s ]
+Stockweg checks
+VasilinaS checks
+** Dealing turn ** [ Tc ]
+Stockweg bets [$0.02]
+VasilinaS calls [$0.02]
+** Dealing river ** [ 6h ]
+Stockweg checks
+VasilinaS checks
+** Summary **
+Stockweg shows [ 9h, 6s ]
+VasilinaS shows [ Ts, Qc ]
+VasilinaS collected [ $0.08 ]
+
+
+#Game No : 462936613
+***** 888poker Hand History for Game 462936613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 07:01:31
+Table Orihuela 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.08 )
+Seat 7: VasilinaS ( $0.85 )
+Stockweg posts small blind [$0.01]
+VasilinaS posts big blind [$0.02]
+** Dealing down cards **
+Stockweg folds
+** Summary **
+VasilinaS did not show his hand
+VasilinaS collected [ $0.03 ]
+
+
+#Game No : 462936618
+***** 888poker Hand History for Game 462936618 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 07:01:36
+Table Orihuela 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.07 )
+Seat 7: VasilinaS ( $0.86 )
+VasilinaS posts small blind [$0.01]
+Stockweg posts big blind [$0.02]
+** Dealing down cards **
+VasilinaS folds
+** Summary **
+Stockweg did not show his hand
+Stockweg collected [ $0.03 ]
+
+
+#Game No : 462936623
+***** 888poker Hand History for Game 462936623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 07:01:43
+Table Orihuela 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.08 )
+Seat 7: VasilinaS ( $0.85 )
+Stockweg posts small blind [$0.01]
+VasilinaS posts big blind [$0.02]
+** Dealing down cards **
+Stockweg folds
+** Summary **
+VasilinaS collected [ $0.03 ]
+
+
+#Game No : 462936627
+***** 888poker Hand History for Game 462936627 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 07:01:52
+Table Orihuela 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.07 )
+Seat 7: VasilinaS ( $0.86 )
+VasilinaS posts small blind [$0.01]
+Stockweg posts big blind [$0.02]
+** Dealing down cards **
+VasilinaS folds
+** Summary **
+Stockweg did not show his hand
+Stockweg collected [ $0.03 ]
+
+
+#Game No : 462936631
+***** 888poker Hand History for Game 462936631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 07:02:00
+Table Orihuela 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Stockweg ( $7.08 )
+Seat 7: VasilinaS ( $0.85 )
+Stockweg posts small blind [$0.01]
+VasilinaS posts big blind [$0.02]
+** Dealing down cards **
+Stockweg raises [$0.05]
+VasilinaS folds
+** Summary **
+Stockweg collected [ $0.04 ]
+
+
+#Game No : 462946167
+***** 888poker Hand History for Game 462946167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 11:05:13
+Table Orihuela 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: turron3618 ( $1 )
+Seat 9: luisclh2014 ( $1.42 )
+luisclh2014 posts small blind [$0.01]
+turron3618 posts big blind [$0.02]
+** Dealing down cards **
+luisclh2014 folds
+** Summary **
+turron3618 collected [ $0.03 ]
+
+
+#Game No : 462946175
+***** 888poker Hand History for Game 462946175 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 11:05:23
+Table Orihuela 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: turron3618 ( $1.01 )
+Seat 9: luisclh2014 ( $1.41 )
+turron3618 posts small blind [$0.01]
+** Dealing down cards **
+luisclh2014 folds
+** Summary **
+turron3618 collected [ $0.01 ]
+
+
+#Game No : 462946234
+***** 888poker Hand History for Game 462946234 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 11:06:33
+Table Orihuela 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Patricolor ( $0.82 )
+Seat 4: turron3618 ( $1 )
+turron3618 posts small blind [$0.01]
+Patricolor posts big blind [$0.02]
+** Dealing down cards **
+turron3618 calls [$0.01]
+Patricolor checks
+** Dealing flop ** [ 9c, Kd, Js ]
+Patricolor bets [$0.10]
+turron3618 folds
+** Summary **
+Patricolor collected [ $0.04 ]
+
+

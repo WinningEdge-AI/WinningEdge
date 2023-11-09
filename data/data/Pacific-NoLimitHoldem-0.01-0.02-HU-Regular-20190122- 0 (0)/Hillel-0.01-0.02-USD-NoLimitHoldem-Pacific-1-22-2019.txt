@@ -1,0 +1,74 @@
+#Game No : 460536740
+***** 888poker Hand History for Game 460536740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 01:50:45
+Table Hillel 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ilyastrelets ( $0.81 )
+Seat 5: PLSUp ( $0.99 )
+PLSUp posts small blind [$0.01]
+ilyastrelets posts big blind [$0.02]
+** Dealing down cards **
+PLSUp calls [$0.01]
+ilyastrelets checks
+** Dealing flop ** [ 7d, 4c, Ts ]
+ilyastrelets checks
+PLSUp checks
+** Dealing turn ** [ 9d ]
+ilyastrelets bets [$0.02]
+PLSUp calls [$0.02]
+** Dealing river ** [ 8c ]
+ilyastrelets bets [$0.02]
+PLSUp calls [$0.02]
+** Summary **
+ilyastrelets shows [ Jd, 9s ]
+PLSUp mucks [ 8s, Qd ]
+ilyastrelets collected [ $0.12 ]
+
+
+#Game No : 460536753
+***** 888poker Hand History for Game 460536753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 01:51:02
+Table Hillel 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ilyastrelets ( $0.87 )
+Seat 5: PLSUp ( $0.93 )
+ilyastrelets posts small blind [$0.01]
+PLSUp posts big blind [$0.02]
+** Dealing down cards **
+ilyastrelets raises [$0.05]
+PLSUp folds
+** Summary **
+ilyastrelets did not show his hand
+ilyastrelets collected [ $0.04 ]
+
+
+#Game No : 460536758
+***** 888poker Hand History for Game 460536758 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 01:51:11
+Table Hillel 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ilyastrelets ( $0.89 )
+Seat 5: PLSUp ( $0.91 )
+PLSUp posts small blind [$0.01]
+ilyastrelets posts big blind [$0.02]
+** Dealing down cards **
+PLSUp calls [$0.01]
+ilyastrelets checks
+** Dealing flop ** [ Jc, Ah, 6s ]
+ilyastrelets checks
+PLSUp checks
+** Dealing turn ** [ 5c ]
+ilyastrelets checks
+PLSUp checks
+** Dealing river ** [ Jh ]
+ilyastrelets checks
+PLSUp checks
+** Summary **
+ilyastrelets shows [ 9d, Ts ]
+PLSUp shows [ Kh, 3c ]
+PLSUp collected [ $0.04 ]
+
+

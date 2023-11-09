@@ -1,0 +1,833 @@
+#Game No : 616845257
+***** 888poker Hand History for Game 616845257 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 22:54:28
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: butanow2016 ( $0.84 )
+Seat 2: romy1215 ( $0.96 )
+romy1215 posts small blind [$0.01]
+butanow2016 posts big blind [$0.02]
+** Dealing down cards **
+romy1215 calls [$0.01]
+butanow2016 checks
+** Dealing flop ** [ 6h, 7h, 6c ]
+butanow2016 checks
+romy1215 checks
+** Dealing turn ** [ Qh ]
+butanow2016 checks
+romy1215 checks
+** Dealing river ** [ 2c ]
+butanow2016 checks
+romy1215 bets [$0.04]
+butanow2016 calls [$0.04]
+** Summary **
+romy1215 shows [ 7d, Qc ]
+butanow2016 mucks [ 8s, Kh ]
+romy1215 collected [ $0.12 ]
+
+
+#Game No : 616846030
+***** 888poker Hand History for Game 616846030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:31:30
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: romy1215 ( $0.29 )
+Seat 7: Van1212 ( $2.54 )
+romy1215 posts small blind [$0.01]
+Van1212 posts big blind [$0.02]
+** Dealing down cards **
+romy1215 calls [$0.01]
+Van1212 checks
+** Dealing flop ** [ 5h, 9h, 2c ]
+Van1212 bets [$0.04]
+romy1215 folds
+** Summary **
+Van1212 collected [ $0.04 ]
+
+
+#Game No : 616846035
+***** 888poker Hand History for Game 616846035 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:31:46
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: romy1215 ( $0.27 )
+Seat 7: Van1212 ( $2.56 )
+Van1212 posts small blind [$0.01]
+romy1215 posts big blind [$0.02]
+** Dealing down cards **
+Van1212 calls [$0.01]
+romy1215 checks
+** Dealing flop ** [ Td, 5c, 3c ]
+romy1215 checks
+Van1212 checks
+** Dealing turn ** [ 9h ]
+romy1215 checks
+Van1212 checks
+** Dealing river ** [ Js ]
+romy1215 checks
+Van1212 checks
+** Summary **
+romy1215 shows [ 4s, Qh ]
+Van1212 shows [ Kd, 7d ]
+Van1212 collected [ $0.04 ]
+
+
+#Game No : 616846184
+***** 888poker Hand History for Game 616846184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:37:20
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.75 )
+Seat 9: i_am_you_ ( $1.09 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 raises [$0.05]
+i_am_you_ calls [$0.04]
+** Dealing flop ** [ 9h, Td, Ad ]
+i_am_you_ checks
+Murwin1977 bets [$0.06]
+i_am_you_ raises [$0.20]
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.23 ]
+
+
+#Game No : 616846197
+***** 888poker Hand History for Game 616846197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:37:47
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.63 )
+Seat 9: i_am_you_ ( $1.20 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+Murwin1977 calls [$0.04]
+** Dealing flop ** [ 5d, 6d, 8c ]
+Murwin1977 checks
+i_am_you_ bets [$0.05]
+Murwin1977 calls [$0.05]
+** Dealing turn ** [ 2c ]
+Murwin1977 checks
+i_am_you_ bets [$0.13]
+Murwin1977 calls [$0.13]
+** Dealing river ** [ 7h ]
+Murwin1977 bets [$0.39]
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.45 ]
+
+
+#Game No : 616846225
+***** 888poker Hand History for Game 616846225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:38:48
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.84 )
+Seat 9: i_am_you_ ( $1 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 raises [$0.05]
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.04 ]
+
+
+#Game No : 616846243
+***** 888poker Hand History for Game 616846243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:39:25
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.86 )
+Seat 9: i_am_you_ ( $1 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 616846253
+***** 888poker Hand History for Game 616846253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:39:47
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.84 )
+Seat 9: i_am_you_ ( $1.02 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.03 ]
+
+
+#Game No : 616846256
+***** 888poker Hand History for Game 616846256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:39:54
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.83 )
+Seat 9: i_am_you_ ( $1.03 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.03 ]
+
+
+#Game No : 616846261
+***** 888poker Hand History for Game 616846261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:40:03
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.84 )
+Seat 9: i_am_you_ ( $1.02 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 raises [$0.05]
+i_am_you_ calls [$0.04]
+** Dealing flop ** [ 7s, 5h, 4s ]
+i_am_you_ checks
+Murwin1977 checks
+** Dealing turn ** [ Ks ]
+i_am_you_ checks
+Murwin1977 bets [$0.06]
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.12 ]
+
+
+#Game No : 616846280
+***** 888poker Hand History for Game 616846280 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:40:43
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.90 )
+Seat 9: i_am_you_ ( $1 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.03 ]
+
+
+#Game No : 616846282
+***** 888poker Hand History for Game 616846282 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:40:48
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.91 )
+Seat 9: i_am_you_ ( $1 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.03 ]
+
+
+#Game No : 616846288
+***** 888poker Hand History for Game 616846288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:41:04
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.90 )
+Seat 9: i_am_you_ ( $1.01 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.03 ]
+
+
+#Game No : 616846289
+***** 888poker Hand History for Game 616846289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:41:09
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.91 )
+Seat 9: i_am_you_ ( $1 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 raises [$0.05]
+i_am_you_ calls [$0.04]
+** Dealing flop ** [ Ad, Kd, 3c ]
+i_am_you_ checks
+Murwin1977 bets [$0.06]
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.12 ]
+
+
+#Game No : 616846308
+***** 888poker Hand History for Game 616846308 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:41:41
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.97 )
+Seat 9: i_am_you_ ( $1 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.03 ]
+
+
+#Game No : 616846311
+***** 888poker Hand History for Game 616846311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:41:47
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.98 )
+Seat 9: i_am_you_ ( $1 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.03 ]
+
+
+#Game No : 616846315
+***** 888poker Hand History for Game 616846315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:41:57
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.97 )
+Seat 9: i_am_you_ ( $1.01 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.03 ]
+
+
+#Game No : 616846320
+***** 888poker Hand History for Game 616846320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:42:02
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.98 )
+Seat 9: i_am_you_ ( $1 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.03 ]
+
+
+#Game No : 616846324
+***** 888poker Hand History for Game 616846324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:42:12
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.97 )
+Seat 9: i_am_you_ ( $1.01 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.03 ]
+
+
+#Game No : 616846325
+***** 888poker Hand History for Game 616846325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:42:17
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.98 )
+Seat 9: i_am_you_ ( $1 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 raises [$0.05]
+i_am_you_ calls [$0.04]
+** Dealing flop ** [ 2d, 9d, 5s ]
+i_am_you_ checks
+Murwin1977 bets [$0.06]
+i_am_you_ raises [$0.18]
+Murwin1977 calls [$0.12]
+** Dealing turn ** [ 9c ]
+i_am_you_ bets [$0.19]
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.45 ]
+
+
+#Game No : 616846345
+***** 888poker Hand History for Game 616846345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:42:57
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.74 )
+Seat 9: i_am_you_ ( $1.21 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Murwin1977 collected [ $0.03 ]
+
+
+#Game No : 616846346
+***** 888poker Hand History for Game 616846346 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:43:03
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.75 )
+Seat 9: i_am_you_ ( $1.20 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.03 ]
+
+
+#Game No : 616846352
+***** 888poker Hand History for Game 616846352 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:43:15
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.74 )
+Seat 9: i_am_you_ ( $1.21 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 616846356
+***** 888poker Hand History for Game 616846356 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:43:24
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.72 )
+Seat 9: i_am_you_ ( $1.23 )
+Murwin1977 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 raises [$0.05]
+i_am_you_ calls [$0.04]
+** Dealing flop ** [ 4c, Jc, 4h ]
+i_am_you_ checks
+Murwin1977 bets [$0.08]
+i_am_you_ calls [$0.08]
+** Dealing turn ** [ 4s ]
+i_am_you_ checks
+Murwin1977 checks
+** Dealing river ** [ 3c ]
+i_am_you_ checks
+Murwin1977 checks
+** Summary **
+i_am_you_ shows [ 7h, Ad ]
+Murwin1977 shows [ Ac, Qs ]
+Murwin1977 collected [ $0.27 ]
+
+
+#Game No : 616846373
+***** 888poker Hand History for Game 616846373 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:44:12
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $0.85 )
+Seat 9: i_am_you_ ( $1.09 )
+i_am_you_ posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+Murwin1977 calls [$0.04]
+** Dealing flop ** [ 4s, 3c, Kd ]
+Murwin1977 checks
+i_am_you_ bets [$0.05]
+Murwin1977 folds
+** Summary **
+i_am_you_ collected [ $0.12 ]
+
+
+#Game No : 616846627
+***** 888poker Hand History for Game 616846627 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:55:43
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.08 )
+Seat 4: Murwin1977 ( $0.89 )
+vip.chapaev posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev folds
+** Summary **
+Murwin1977 collected [ $0.03 ]
+
+
+#Game No : 616846631
+***** 888poker Hand History for Game 616846631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:55:48
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.07 )
+Seat 4: Murwin1977 ( $0.90 )
+Murwin1977 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 raises [$0.03]
+vip.chapaev calls [$0.02]
+** Dealing flop ** [ 5s, 2h, Qd ]
+vip.chapaev checks
+Murwin1977 bets [$0.08]
+vip.chapaev folds
+** Summary **
+Murwin1977 collected [ $0.08 ]
+
+
+#Game No : 616846637
+***** 888poker Hand History for Game 616846637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:56:08
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.03 )
+Seat 4: Murwin1977 ( $0.94 )
+vip.chapaev posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev calls [$0.01]
+Murwin1977 checks
+** Dealing flop ** [ Jd, Kh, Jh ]
+Murwin1977 bets [$0.04]
+vip.chapaev calls [$0.04]
+** Dealing turn ** [ 4s ]
+Murwin1977 checks
+vip.chapaev bets [$0.08]
+Murwin1977 calls [$0.08]
+** Dealing river ** [ 6c ]
+Murwin1977 checks
+vip.chapaev bets [$0.18]
+Murwin1977 folds
+** Summary **
+vip.chapaev collected [ $0.27 ]
+
+
+#Game No : 616846648
+***** 888poker Hand History for Game 616846648 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:56:49
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.16 )
+Seat 4: Murwin1977 ( $0.80 )
+Murwin1977 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 folds
+** Summary **
+vip.chapaev collected [ $0.03 ]
+
+
+#Game No : 616846649
+***** 888poker Hand History for Game 616846649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:56:55
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.17 )
+Seat 4: Murwin1977 ( $0.79 )
+vip.chapaev posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev calls [$0.01]
+Murwin1977 checks
+** Dealing flop ** [ Kc, 9s, Ad ]
+Murwin1977 checks
+vip.chapaev checks
+** Dealing turn ** [ 3c ]
+Murwin1977 checks
+vip.chapaev checks
+** Dealing river ** [ Qs ]
+Murwin1977 checks
+vip.chapaev checks
+** Summary **
+Murwin1977 shows [ Tc, 2h ]
+vip.chapaev shows [ 5h, Jh ]
+vip.chapaev collected [ $0.04 ]
+
+
+#Game No : 616846658
+***** 888poker Hand History for Game 616846658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:57:36
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.19 )
+Seat 4: Murwin1977 ( $0.77 )
+Murwin1977 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 folds
+** Summary **
+vip.chapaev collected [ $0.03 ]
+
+
+#Game No : 616846660
+***** 888poker Hand History for Game 616846660 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:57:44
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.20 )
+Seat 4: Murwin1977 ( $0.76 )
+vip.chapaev posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev calls [$0.01]
+Murwin1977 checks
+** Dealing flop ** [ Kd, 2s, Ac ]
+Murwin1977 checks
+vip.chapaev checks
+** Dealing turn ** [ Ks ]
+Murwin1977 checks
+vip.chapaev bets [$0.04]
+Murwin1977 folds
+** Summary **
+vip.chapaev collected [ $0.04 ]
+
+
+#Game No : 616846665
+***** 888poker Hand History for Game 616846665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 03 2019 23:58:08
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $1.22 )
+Seat 4: Murwin1977 ( $0.74 )
+Murwin1977 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 raises [$0.05]
+vip.chapaev folds
+** Summary **
+Murwin1977 collected [ $0.04 ]
+
+
+#Game No : 616847340
+***** 888poker Hand History for Game 616847340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 00:34:12
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vip.chapaev ( $2.14 )
+Seat 7: Joki3 ( $1.19 )
+vip.chapaev posts small blind [$0.01]
+Joki3 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev folds
+** Summary **
+Joki3 collected [ $0.03 ]
+
+
+#Game No : 616849099
+***** 888poker Hand History for Game 616849099 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 01:49:21
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $2.37 )
+Seat 6: Denworld911 ( $1.25 )
+Murwin1977 posts small blind [$0.01]
+Denworld911 posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 folds
+** Summary **
+Denworld911 collected [ $0.03 ]
+
+
+#Game No : 616849103
+***** 888poker Hand History for Game 616849103 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 01:49:32
+Table Hillel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $2.36 )
+Seat 6: Denworld911 ( $1.26 )
+Denworld911 posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+Denworld911 folds
+** Summary **
+Murwin1977 did not show his hand
+Murwin1977 collected [ $0.03 ]
+
+
+#Game No : 616849224
+***** 888poker Hand History for Game 616849224 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 01:54:40
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $2.37 )
+Seat 9: Cheeta01 ( $1 )
+Cheeta01 posts small blind [$0.01]
+Murwin1977 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+Murwin1977 checks
+** Dealing flop ** [ 9s, Kd, 2s ]
+Murwin1977 bets [$0.04]
+Cheeta01 folds
+** Summary **
+Murwin1977 did not show his hand
+Murwin1977 collected [ $0.04 ]
+
+
+#Game No : 616849231
+***** 888poker Hand History for Game 616849231 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 01:54:54
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Murwin1977 ( $2.39 )
+Seat 9: Cheeta01 ( $0.98 )
+Murwin1977 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+Murwin1977 raises [$0.03]
+Cheeta01 calls [$0.02]
+** Dealing flop ** [ Ts, 5d, 3c ]
+Cheeta01 bets [$0.02]
+Murwin1977 folds
+** Summary **
+Cheeta01 collected [ $0.08 ]
+
+
+#Game No : 616850588
+***** 888poker Hand History for Game 616850588 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 02:39:30
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Viacha ( $1.40 )
+Seat 7: zay76 ( $1.15 )
+zay76 posts small blind [$0.01]
+Viacha posts big blind [$0.02]
+** Dealing down cards **
+zay76 folds
+** Summary **
+Viacha did not show his hand
+Viacha collected [ $0.03 ]
+
+
+#Game No : 526042120
+***** 888poker Hand History for Game 526042120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 14:32:09
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Denworld911 ( $1.70 )
+Seat 7: gelattino67 ( $1.83 )
+Denworld911 posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+Denworld911 folds
+** Summary **
+gelattino67 did not show his hand
+gelattino67 collected [ $0.03 ]
+
+
+#Game No : 526042127
+***** 888poker Hand History for Game 526042127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 14:32:15
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Denworld911 ( $1.69 )
+Seat 7: gelattino67 ( $1.84 )
+gelattino67 posts small blind [$0.01]
+Denworld911 posts big blind [$0.02]
+** Dealing down cards **
+gelattino67 calls [$0.01]
+Denworld911 checks
+** Dealing flop ** [ 3s, Ah, Qs ]
+Denworld911 checks
+gelattino67 bets [$0.04]
+Denworld911 calls [$0.04]
+** Dealing turn ** [ 2d ]
+Denworld911 checks
+gelattino67 bets [$0.10]
+Denworld911 folds
+** Summary **
+gelattino67 collected [ $0.12 ]
+
+
+#Game No : 526042190
+***** 888poker Hand History for Game 526042190 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 14:32:58
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Denworld911 ( $1.63 )
+Seat 7: gelattino67 ( $1.90 )
+Denworld911 posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+Denworld911 calls [$0.01]
+gelattino67 checks
+** Dealing flop ** [ Js, As, 6d ]
+gelattino67 checks
+Denworld911 checks
+** Dealing turn ** [ Kh ]
+gelattino67 checks
+Denworld911 checks
+** Dealing river ** [ Jd ]
+gelattino67 checks
+Denworld911 checks
+** Summary **
+gelattino67 shows [ Qs, 4h ]
+Denworld911 mucks [ Tc, 9c ]
+gelattino67 collected [ $0.04 ]
+
+

@@ -1,0 +1,67 @@
+#Game No : 621339004
+***** 888poker Hand History for Game 621339004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2019 22:22:25
+Table Pori 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $1.99 )
+Seat 6: Yuri114114 ( $2.02 )
+tuva1953 posts small blind [$0.01]
+Yuri114114 posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 folds
+** Summary **
+Yuri114114 did not show his hand
+Yuri114114 collected [ $0.03 ]
+
+
+#Game No : 621339521
+***** 888poker Hand History for Game 621339521 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2019 22:54:57
+Table Pori 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: avramia1 ( $1.93 )
+Seat 9: Yuri114114 ( $2.07 )
+avramia1 posts small blind [$0.01]
+Yuri114114 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+Yuri114114 calls [$0.02]
+** Dealing flop ** [ 8c, 2h, 2s ]
+Yuri114114 checks
+avramia1 bets [$0.02]
+Yuri114114 raises [$0.06]
+avramia1 calls [$0.04]
+** Dealing turn ** [ Jc ]
+Yuri114114 checks
+avramia1 checks
+** Dealing river ** [ 9d ]
+Yuri114114 checks
+avramia1 bets [$0.20]
+Yuri114114 folds
+** Summary **
+avramia1 collected [ $0.19 ]
+
+
+#Game No : 621339528
+***** 888poker Hand History for Game 621339528 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2019 22:55:13
+Table Pori 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: avramia1 ( $2.02 )
+Seat 9: Yuri114114 ( $2 )
+Yuri114114 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Yuri114114 calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ Ac, Jd, Ad ]
+avramia1 checks
+Yuri114114 bets [$0.04]
+avramia1 folds
+** Summary **
+Yuri114114 collected [ $0.04 ]
+
+

@@ -1,0 +1,144 @@
+#Game No : 471851517
+***** 888poker Hand History for Game 471851517 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 11 2019 11:29:36
+Table Si Racha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: HoseRamirez ( $0.99 )
+Seat 9: RemboPizza ( $0.04 )
+HoseRamirez posts small blind [$0.01]
+RemboPizza posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez raises [$0.06]
+RemboPizza calls [$0.02]
+** Dealing flop ** [ 6d, Ts, Qc ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 6s ]
+** Summary **
+HoseRamirez shows [ 7h, Js ]
+RemboPizza shows [ 9h, 2s ]
+RemboPizza collected [ $0.08 ]
+
+
+#Game No : 471851530
+***** 888poker Hand History for Game 471851530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 11 2019 11:29:55
+Table Si Racha 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: HoseRamirez ( $0.95 )
+Seat 9: RemboPizza ( $0.08 )
+RemboPizza posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+RemboPizza raises [$0.07]
+HoseRamirez folds
+** Summary **
+RemboPizza collected [ $0.10 ]
+
+
+#Game No : 471851554
+***** 888poker Hand History for Game 471851554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 11 2019 11:30:27
+Table Si Racha 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: HoseRamirez ( $0.91 )
+Seat 9: RemboPizza ( $0.12 )
+RemboPizza posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+RemboPizza calls [$0.01]
+HoseRamirez checks
+** Dealing flop ** [ Ad, 8d, 9h ]
+HoseRamirez checks
+RemboPizza bets [$0.10]
+HoseRamirez calls [$0.10]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ 7s ]
+** Summary **
+HoseRamirez shows [ Td, 9c ]
+RemboPizza shows [ 6c, 4d ]
+HoseRamirez collected [ $0.23 ]
+
+
+#Game No : 471851573
+***** 888poker Hand History for Game 471851573 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 11 2019 11:30:59
+Table Si Racha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Pdaniel93 ( $0.80 )
+Seat 2: HoseRamirez ( $1.02 )
+HoseRamirez posts small blind [$0.01]
+Pdaniel93 posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez raises [$0.06]
+Pdaniel93 calls [$0.05]
+** Dealing flop ** [ Kc, Qh, 7c ]
+Pdaniel93 checks
+HoseRamirez bets [$0.07]
+Pdaniel93 folds
+** Summary **
+HoseRamirez did not show his hand
+HoseRamirez collected [ $0.14 ]
+
+
+#Game No : 471851590
+***** 888poker Hand History for Game 471851590 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 11 2019 11:31:22
+Table Si Racha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pdaniel93 ( $0.73 )
+Seat 2: HoseRamirez ( $1.09 )
+Pdaniel93 posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+Pdaniel93 calls [$0.01]
+HoseRamirez checks
+** Dealing flop ** [ Td, 5s, Ks ]
+HoseRamirez checks
+Pdaniel93 checks
+** Dealing turn ** [ 8s ]
+HoseRamirez checks
+Pdaniel93 checks
+** Dealing river ** [ 2h ]
+HoseRamirez checks
+Pdaniel93 checks
+** Summary **
+HoseRamirez shows [ 4s, 4c ]
+Pdaniel93 mucks [ 6h, 9d ]
+HoseRamirez collected [ $0.04 ]
+
+
+#Game No : 471851615
+***** 888poker Hand History for Game 471851615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 11 2019 11:31:48
+Table Si Racha 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Pdaniel93 ( $0.71 )
+Seat 2: HoseRamirez ( $1.11 )
+HoseRamirez posts small blind [$0.01]
+Pdaniel93 posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez raises [$0.06]
+Pdaniel93 calls [$0.05]
+** Dealing flop ** [ 3h, 8c, 6d ]
+Pdaniel93 checks
+HoseRamirez bets [$0.07]
+Pdaniel93 calls [$0.07]
+** Dealing turn ** [ Qh ]
+Pdaniel93 checks
+HoseRamirez bets [$0.14]
+Pdaniel93 calls [$0.14]
+** Dealing river ** [ 2d ]
+Pdaniel93 checks
+HoseRamirez checks
+** Summary **
+Pdaniel93 shows [ 8h, Ts ]
+HoseRamirez shows [ Qc, 7d ]
+HoseRamirez collected [ $0.53 ]
+
+

@@ -1,0 +1,90 @@
+#Game No : 514704934
+***** 888poker Hand History for Game 514704934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 09:38:49
+Table Beaumont 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Faria014 ( $1.98 )
+Seat 5: pokie28 ( $1.22 )
+Faria014 posts small blind [$0.01]
+pokie28 posts big blind [$0.02]
+** Dealing down cards **
+Faria014 raises [$0.05]
+pokie28 folds
+** Summary **
+Faria014 collected [ $0.04 ]
+
+
+#Game No : 514704955
+***** 888poker Hand History for Game 514704955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 09:38:58
+Table Beaumont 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Faria014 ( $2 )
+Seat 5: pokie28 ( $1.20 )
+pokie28 posts small blind [$0.01]
+Faria014 posts big blind [$0.02]
+** Dealing down cards **
+pokie28 calls [$0.01]
+Faria014 checks
+** Dealing flop ** [ 5c, 4h, Qd ]
+Faria014 checks
+pokie28 checks
+** Dealing turn ** [ 7c ]
+Faria014 checks
+pokie28 checks
+** Dealing river ** [ Jh ]
+Faria014 checks
+pokie28 checks
+** Summary **
+Faria014 shows [ 6h, 4s ]
+pokie28 mucks [ Ks, 6d ]
+Faria014 collected [ $0.04 ]
+
+
+#Game No : 514737972
+***** 888poker Hand History for Game 514737972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 15:41:16
+Table Beaumont 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: Seed.Brazil ( $1.92 )
+Seat 7: peerserker ( $2.97 )
+peerserker posts small blind [$0.01]
+Seed.Brazil posts big blind [$0.02]
+** Dealing down cards **
+peerserker calls [$0.01]
+Seed.Brazil checks
+** Dealing flop ** [ 3h, Jd, 2h ]
+Seed.Brazil checks
+peerserker checks
+** Dealing turn ** [ 5c ]
+Seed.Brazil checks
+peerserker checks
+** Dealing river ** [ 5h ]
+Seed.Brazil checks
+peerserker bets [$0.02]
+Seed.Brazil folds
+** Summary **
+peerserker did not show his hand
+peerserker collected [ $0.04 ]
+
+
+#Game No : 514738146
+***** 888poker Hand History for Game 514738146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 10 2018 15:43:25
+Table Beaumont 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Seed.Brazil ( $1.90 )
+Seat 7: peerserker ( $2.99 )
+Seed.Brazil posts small blind [$0.01]
+peerserker posts big blind [$0.02]
+** Dealing down cards **
+Seed.Brazil folds
+** Summary **
+peerserker did not show his hand
+peerserker collected [ $0.03 ]
+
+

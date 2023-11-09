@@ -1,0 +1,52 @@
+#Game No : 531496964
+***** 888poker Hand History for Game 531496964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 22:36:46
+Table Ann Arbor 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: AnohaA ( $2.16 )
+Seat 6: Robertusha ( $0.62 )
+Robertusha posts small blind [$0.01]
+AnohaA posts big blind [$0.02]
+** Dealing down cards **
+Robertusha calls [$0.01]
+AnohaA checks
+** Dealing flop ** [ Ks, Ac, 6d ]
+AnohaA checks
+Robertusha checks
+** Dealing turn ** [ 8h ]
+AnohaA checks
+Robertusha bets [$0.02]
+AnohaA folds
+** Summary **
+Robertusha did not show his hand
+Robertusha collected [ $0.04 ]
+
+
+#Game No : 531496985
+***** 888poker Hand History for Game 531496985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 22:37:27
+Table Ann Arbor 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: AnohaA ( $2.14 )
+Seat 6: Robertusha ( $0.64 )
+AnohaA posts small blind [$0.01]
+Robertusha posts big blind [$0.02]
+** Dealing down cards **
+AnohaA calls [$0.01]
+Robertusha checks
+** Dealing flop ** [ 9c, 8s, 9d ]
+Robertusha checks
+AnohaA checks
+** Dealing turn ** [ 5d ]
+Robertusha checks
+AnohaA checks
+** Dealing river ** [ Js ]
+Robertusha bets [$0.62]
+AnohaA folds
+** Summary **
+Robertusha did not show his hand
+Robertusha collected [ $0.04 ]
+
+

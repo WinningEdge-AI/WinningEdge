@@ -1,0 +1,742 @@
+#Game No : 507759135
+***** 888poker Hand History for Game 507759135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 13:35:07
+Table Geelong 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Maverus365 ( $3.14 )
+Seat 7: Fedor0f ( $2 )
+Maverus365 posts small blind [$0.01]
+Fedor0f posts big blind [$0.02]
+** Dealing down cards **
+Maverus365 calls [$0.01]
+Fedor0f checks
+** Dealing flop ** [ Tc, 3d, Jh ]
+Fedor0f bets [$0.02]
+Maverus365 calls [$0.02]
+** Dealing turn ** [ 9c ]
+Fedor0f bets [$0.05]
+Maverus365 calls [$0.05]
+** Dealing river ** [ Qc ]
+Fedor0f bets [$0.24]
+Maverus365 folds
+** Summary **
+Fedor0f did not show his hand
+Fedor0f collected [ $0.17 ]
+
+
+#Game No : 507759182
+***** 888poker Hand History for Game 507759182 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 13:36:14
+Table Geelong 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Maverus365 ( $3.05 )
+Seat 7: Fedor0f ( $2.08 )
+Fedor0f posts small blind [$0.01]
+** Dealing down cards **
+Maverus365 folds
+** Summary **
+Fedor0f did not show his hand
+Fedor0f collected [ $0.01 ]
+
+
+#Game No : 503343402
+***** 888poker Hand History for Game 503343402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:44:50
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.40 )
+Seat 6: logicfractal ( $1.98 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal raises [$0.03]
+JS888FU calls [$0.02]
+** Dealing flop ** [ 6s, 2d, 3c ]
+JS888FU checks
+logicfractal bets [$0.08]
+JS888FU calls [$0.08]
+** Dealing turn ** [ Qs ]
+JS888FU checks
+logicfractal checks
+** Dealing river ** [ 9s ]
+JS888FU checks
+logicfractal bets [$0.24]
+JS888FU folds
+** Summary **
+logicfractal collected [ $0.23 ]
+
+
+#Game No : 503343439
+***** 888poker Hand History for Game 503343439 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:45:58
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.24 )
+Seat 6: logicfractal ( $2.13 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 9c, Qc, 9h ]
+JS888FU checks
+logicfractal checks
+** Dealing turn ** [ Ts ]
+JS888FU checks
+logicfractal bets [$0.02]
+JS888FU folds
+** Summary **
+logicfractal did not show his hand
+logicfractal collected [ $0.04 ]
+
+
+#Game No : 503343458
+***** 888poker Hand History for Game 503343458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:46:39
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.22 )
+Seat 6: logicfractal ( $2.15 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU folds
+** Summary **
+logicfractal did not show his hand
+logicfractal collected [ $0.03 ]
+
+
+#Game No : 503343462
+***** 888poker Hand History for Game 503343462 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:46:44
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.21 )
+Seat 6: logicfractal ( $2.16 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.03 ]
+
+
+#Game No : 503343468
+***** 888poker Hand History for Game 503343468 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:46:51
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.22 )
+Seat 6: logicfractal ( $2.15 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+logicfractal checks
+** Dealing flop ** [ 4h, 3s, 8c ]
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Dealing turn ** [ Ac ]
+logicfractal bets [$0.04]
+JS888FU calls [$0.04]
+** Dealing river ** [ 5h ]
+logicfractal bets [$0.08]
+JS888FU raises [$0.40]
+logicfractal calls [$0.32]
+** Summary **
+JS888FU shows [ As, 2s ]
+logicfractal mucks [ 5s, 4c ]
+JS888FU collected [ $0.90 ]
+
+
+#Game No : 503343490
+***** 888poker Hand History for Game 503343490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:47:31
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.64 )
+Seat 6: logicfractal ( $1.67 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal raises [$0.03]
+JS888FU folds
+** Summary **
+logicfractal collected [ $0.04 ]
+
+
+#Game No : 503343496
+***** 888poker Hand History for Game 503343496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:47:40
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.62 )
+Seat 6: logicfractal ( $1.69 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal raises [$1.68]
+JS888FU folds
+** Summary **
+logicfractal did not show his hand
+logicfractal collected [ $0.04 ]
+
+
+#Game No : 503343504
+***** 888poker Hand History for Game 503343504 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:47:49
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.60 )
+Seat 6: logicfractal ( $1.71 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ Ac, Jc, Jh ]
+JS888FU checks
+logicfractal checks
+** Dealing turn ** [ Qh ]
+JS888FU checks
+logicfractal checks
+** Dealing river ** [ 2s ]
+JS888FU checks
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Summary **
+logicfractal shows [ 7h, 2c ]
+JS888FU shows [ 2h, 4d ]
+JS888FU collected [ $0.04 ]
+logicfractal collected [ $0.04 ]
+
+
+#Game No : 503343794
+***** 888poker Hand History for Game 503343794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:56:44
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.21 )
+Seat 6: logicfractal ( $2.76 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU folds
+** Summary **
+logicfractal collected [ $0.03 ]
+
+
+#Game No : 503343799
+***** 888poker Hand History for Game 503343799 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:56:48
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.20 )
+Seat 6: logicfractal ( $2.77 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal raises [$0.03]
+JS888FU calls [$0.02]
+** Dealing flop ** [ 3c, Qd, 3h ]
+JS888FU checks
+logicfractal checks
+** Dealing turn ** [ 8h ]
+JS888FU checks
+logicfractal checks
+** Dealing river ** [ Ks ]
+JS888FU checks
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Summary **
+logicfractal shows [ 6d, Js ]
+JS888FU shows [ Ac, Jd ]
+JS888FU collected [ $0.12 ]
+
+
+#Game No : 503343813
+***** 888poker Hand History for Game 503343813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:57:06
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.26 )
+Seat 6: logicfractal ( $2.71 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+logicfractal raises [$0.04]
+JS888FU calls [$0.04]
+** Dealing flop ** [ Js, Ah, Kc ]
+logicfractal checks
+JS888FU checks
+** Dealing turn ** [ 5s ]
+logicfractal checks
+JS888FU checks
+** Dealing river ** [ Jd ]
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Summary **
+logicfractal shows [ As, 2d ]
+JS888FU mucks [ Ts, 3s ]
+logicfractal collected [ $0.15 ]
+
+
+#Game No : 503343827
+***** 888poker Hand History for Game 503343827 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:57:25
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.18 )
+Seat 6: logicfractal ( $2.78 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal folds
+** Summary **
+JS888FU collected [ $0.03 ]
+
+
+#Game No : 503343832
+***** 888poker Hand History for Game 503343832 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:57:31
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.19 )
+Seat 6: logicfractal ( $2.77 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+logicfractal calls [$0.02]
+** Dealing flop ** [ Ac, As, Kd ]
+logicfractal checks
+JS888FU bets [$0.02]
+logicfractal calls [$0.02]
+** Dealing turn ** [ 6c ]
+logicfractal checks
+JS888FU bets [$0.02]
+logicfractal raises [$0.18]
+JS888FU calls [$0.16]
+** Dealing river ** [ Jd ]
+logicfractal bets [$0.48]
+JS888FU folds
+** Summary **
+logicfractal collected [ $0.45 ]
+
+
+#Game No : 503343846
+***** 888poker Hand History for Game 503343846 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:57:51
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.95 )
+Seat 6: logicfractal ( $2.98 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 5h, 3s, Jd ]
+JS888FU checks
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Dealing turn ** [ Td ]
+JS888FU checks
+logicfractal checks
+** Dealing river ** [ Ac ]
+JS888FU checks
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Summary **
+logicfractal shows [ 8c, 3c ]
+JS888FU shows [ 2h, 3h ]
+JS888FU collected [ $0.06 ]
+logicfractal collected [ $0.06 ]
+
+
+#Game No : 503343860
+***** 888poker Hand History for Game 503343860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:58:21
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.95 )
+Seat 6: logicfractal ( $2.98 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+logicfractal checks
+** Dealing flop ** [ 2c, 4d, 8h ]
+logicfractal checks
+JS888FU checks
+** Dealing turn ** [ 9c ]
+logicfractal checks
+JS888FU checks
+** Dealing river ** [ Tc ]
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Summary **
+logicfractal shows [ 7s, 4c ]
+JS888FU shows [ 4h, Kc ]
+JS888FU collected [ $0.08 ]
+
+
+#Game No : 503343869
+***** 888poker Hand History for Game 503343869 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:58:42
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.99 )
+Seat 6: logicfractal ( $2.94 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ Td, Qc, Ks ]
+JS888FU checks
+logicfractal checks
+** Dealing turn ** [ Jh ]
+JS888FU checks
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Dealing river ** [ 3d ]
+JS888FU checks
+logicfractal checks
+** Summary **
+JS888FU shows [ 9d, 2d ]
+logicfractal mucks [ 2h, Kd ]
+JS888FU collected [ $0.08 ]
+
+
+#Game No : 503343884
+***** 888poker Hand History for Game 503343884 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:59:09
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.03 )
+Seat 6: logicfractal ( $2.90 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+logicfractal raises [$0.06]
+JS888FU calls [$0.06]
+** Dealing flop ** [ 5d, Jd, 9c ]
+logicfractal checks
+JS888FU checks
+** Dealing turn ** [ Qh ]
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Dealing river ** [ Tc ]
+logicfractal bets [$0.02]
+JS888FU raises [$0.26]
+logicfractal folds
+** Summary **
+JS888FU collected [ $0.23 ]
+
+
+#Game No : 503343894
+***** 888poker Hand History for Game 503343894 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:59:30
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.14 )
+Seat 6: logicfractal ( $2.78 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ As, 6s, 7d ]
+JS888FU checks
+logicfractal checks
+** Dealing turn ** [ Qh ]
+JS888FU checks
+logicfractal checks
+** Dealing river ** [ 4d ]
+JS888FU checks
+logicfractal bets [$0.04]
+JS888FU folds
+** Summary **
+logicfractal collected [ $0.04 ]
+
+
+#Game No : 503343903
+***** 888poker Hand History for Game 503343903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:59:50
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1.12 )
+Seat 6: logicfractal ( $2.80 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+logicfractal raises [$0.04]
+JS888FU calls [$0.04]
+** Dealing flop ** [ 9h, 7s, 4s ]
+logicfractal bets [$1.40]
+JS888FU calls [$1.06]
+** Dealing turn ** [ Tc ]
+** Dealing river ** [ 5h ]
+** Summary **
+JS888FU shows [ 8s, Qs ]
+logicfractal shows [ Ad, 7c ]
+logicfractal collected [ $2.10 ]
+
+
+#Game No : 503343913
+***** 888poker Hand History for Game 503343913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:00:12
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.80 )
+Seat 6: logicfractal ( $3.78 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal folds
+** Summary **
+JS888FU collected [ $0.03 ]
+
+
+#Game No : 503343917
+***** 888poker Hand History for Game 503343917 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:00:18
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.81 )
+Seat 6: logicfractal ( $3.77 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+logicfractal calls [$0.02]
+** Dealing flop ** [ 6d, 5d, 3c ]
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Dealing turn ** [ As ]
+logicfractal checks
+JS888FU checks
+** Dealing river ** [ 9d ]
+logicfractal bets [$0.02]
+JS888FU folds
+** Summary **
+logicfractal collected [ $0.12 ]
+
+
+#Game No : 503343921
+***** 888poker Hand History for Game 503343921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:00:33
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.75 )
+Seat 6: logicfractal ( $3.83 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal raises [$0.03]
+JS888FU folds
+** Summary **
+logicfractal collected [ $0.04 ]
+
+
+#Game No : 503343924
+***** 888poker Hand History for Game 503343924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:00:39
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.73 )
+Seat 6: logicfractal ( $3.85 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+logicfractal calls [$0.02]
+** Dealing flop ** [ 6c, 8d, Ad ]
+logicfractal checks
+JS888FU bets [$0.02]
+logicfractal calls [$0.02]
+** Dealing turn ** [ Td ]
+logicfractal checks
+JS888FU bets [$0.02]
+logicfractal raises [$0.18]
+JS888FU calls [$0.16]
+** Dealing river ** [ 4s ]
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Summary **
+logicfractal shows [ Js, Jh ]
+JS888FU shows [ Kh, Kd ]
+JS888FU collected [ $0.49 ]
+
+
+#Game No : 503343938
+***** 888poker Hand History for Game 503343938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:01:03
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.96 )
+Seat 6: logicfractal ( $3.59 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal raises [$0.03]
+JS888FU calls [$0.02]
+** Dealing flop ** [ 9s, 9d, 6s ]
+JS888FU checks
+logicfractal checks
+** Dealing turn ** [ 5h ]
+JS888FU checks
+logicfractal checks
+** Dealing river ** [ 5d ]
+JS888FU bets [$0.92]
+logicfractal folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.08 ]
+
+
+#Game No : 503343945
+***** 888poker Hand History for Game 503343945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:01:19
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $1 )
+Seat 6: logicfractal ( $3.55 )
+JS888FU posts small blind [$0.01]
+logicfractal posts big blind [$0.02]
+** Dealing down cards **
+JS888FU folds
+** Summary **
+logicfractal did not show his hand
+logicfractal collected [ $0.03 ]
+
+
+#Game No : 503343947
+***** 888poker Hand History for Game 503343947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:01:23
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.99 )
+Seat 6: logicfractal ( $3.56 )
+logicfractal posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+logicfractal raises [$0.03]
+JS888FU calls [$0.02]
+** Dealing flop ** [ 7s, Ks, 9c ]
+JS888FU checks
+logicfractal bets [$0.02]
+JS888FU calls [$0.02]
+** Dealing turn ** [ Qd ]
+JS888FU checks
+logicfractal bets [$0.06]
+JS888FU folds
+** Summary **
+logicfractal collected [ $0.12 ]
+
+
+#Game No : 503344157
+***** 888poker Hand History for Game 503344157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:09:11
+Table Geelong 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Aik1964 ( $2.35 )
+Seat 9: Tealc07 ( $0.21 )
+Aik1964 posts small blind [$0.01]
+Tealc07 posts big blind [$0.02]
+** Dealing down cards **
+Aik1964 calls [$0.01]
+Tealc07 checks
+** Dealing flop ** [ 6s, Kh, 8c ]
+Tealc07 checks
+Aik1964 bets [$0.02]
+Tealc07 folds
+** Summary **
+Aik1964 collected [ $0.04 ]
+
+
+#Game No : 503344169
+***** 888poker Hand History for Game 503344169 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:09:28
+Table Geelong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Aik1964 ( $2.37 )
+Seat 9: Tealc07 ( $0.19 )
+Tealc07 posts small blind [$0.01]
+Aik1964 posts big blind [$0.02]
+** Dealing down cards **
+Tealc07 calls [$0.01]
+Aik1964 checks
+** Dealing flop ** [ Jc, 7d, Td ]
+Aik1964 checks
+Tealc07 checks
+** Dealing turn ** [ 7c ]
+Aik1964 checks
+Tealc07 bets [$0.17]
+Aik1964 folds
+** Summary **
+Tealc07 collected [ $0.04 ]
+
+
+#Game No : 503344184
+***** 888poker Hand History for Game 503344184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 16:10:07
+Table Geelong 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Aik1964 ( $2.35 )
+Seat 9: Tealc07 ( $0.21 )
+Aik1964 posts small blind [$0.01]
+Tealc07 posts big blind [$0.02]
+** Dealing down cards **
+Aik1964 calls [$0.01]
+Tealc07 checks
+** Dealing flop ** [ 6s, Ts, 2c ]
+Tealc07 bets [$0.02]
+Aik1964 raises [$0.08]
+Tealc07 raises [$0.12]
+Aik1964 raises [$0.12]
+Tealc07 calls [$0.05]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ Kh ]
+** Summary **
+Aik1964 shows [ 6d, 6c ]
+Tealc07 shows [ 8s, Js ]
+Aik1964 collected [ $0.40 ]
+
+

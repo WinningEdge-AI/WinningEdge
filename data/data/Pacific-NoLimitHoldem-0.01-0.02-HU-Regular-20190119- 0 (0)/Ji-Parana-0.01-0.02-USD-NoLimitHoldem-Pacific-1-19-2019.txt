@@ -1,0 +1,29 @@
+#Game No : 614292741
+***** 888poker Hand History for Game 614292741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 01 2019 10:12:37
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: raygym ( $0.92 )
+Seat 4: Colombos111 ( $0.80 )
+raygym posts small blind [$0.01]
+Colombos111 posts big blind [$0.02]
+** Dealing down cards **
+raygym raises [$0.05]
+Colombos111 calls [$0.04]
+** Dealing flop ** [ Ac, Jc, 4c ]
+Colombos111 checks
+raygym bets [$0.06]
+Colombos111 calls [$0.06]
+** Dealing turn ** [ 3h ]
+Colombos111 checks
+raygym checks
+** Dealing river ** [ Kh ]
+Colombos111 bets [$0.12]
+raygym calls [$0.12]
+** Summary **
+Colombos111 shows [ Ad, Qh ]
+raygym mucks [ Th, Jd ]
+Colombos111 collected [ $0.45 ]
+
+

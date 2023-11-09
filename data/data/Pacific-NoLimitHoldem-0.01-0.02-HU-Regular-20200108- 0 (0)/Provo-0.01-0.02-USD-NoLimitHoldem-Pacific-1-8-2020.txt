@@ -1,0 +1,100 @@
+#Game No : 548638069
+***** 888poker Hand History for Game 548638069 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 01 2020 22:21:21
+Table Provo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Serzh_N ( $2.88 )
+Seat 6: RustyKrusty ( $7.12 )
+RustyKrusty posts small blind [$0.01]
+Serzh_N posts big blind [$0.02]
+** Dealing down cards **
+RustyKrusty raises [$0.04]
+Serzh_N calls [$0.03]
+** Dealing flop ** [ Ah, 4s, Qc ]
+Serzh_N checks
+RustyKrusty bets [$0.05]
+Serzh_N calls [$0.05]
+** Dealing turn ** [ Th ]
+Serzh_N checks
+RustyKrusty bets [$0.15]
+Serzh_N folds
+** Summary **
+RustyKrusty collected [ $0.19 ]
+
+
+#Game No : 548640246
+***** 888poker Hand History for Game 548640246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2020 00:08:49
+Table Provo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: ZotaLoveCash ( $2.01 )
+Seat 9: tientiendl86 ( $2.92 )
+tientiendl86 posts small blind [$0.01]
+ZotaLoveCash posts big blind [$0.02]
+** Dealing down cards **
+tientiendl86 raises [$0.05]
+ZotaLoveCash folds
+** Summary **
+tientiendl86 collected [ $0.04 ]
+
+
+#Game No : 548640283
+***** 888poker Hand History for Game 548640283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2020 00:10:37
+Table Provo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ZotaLoveCash ( $2 )
+Seat 6: Fabkon00 ( $0.80 )
+ZotaLoveCash posts small blind [$0.01]
+Fabkon00 posts big blind [$0.02]
+** Dealing down cards **
+ZotaLoveCash raises [$0.04]
+Fabkon00 calls [$0.03]
+** Dealing flop ** [ 2h, 5d, Th ]
+Fabkon00 checks
+ZotaLoveCash bets [$0.05]
+Fabkon00 calls [$0.05]
+** Dealing turn ** [ 3c ]
+Fabkon00 checks
+ZotaLoveCash checks
+** Dealing river ** [ Ks ]
+Fabkon00 checks
+ZotaLoveCash checks
+** Summary **
+Fabkon00 shows [ 8d, Ac ]
+ZotaLoveCash shows [ As, 2s ]
+ZotaLoveCash collected [ $0.19 ]
+
+
+#Game No : 548640298
+***** 888poker Hand History for Game 548640298 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2020 00:11:16
+Table Provo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ZotaLoveCash ( $2.09 )
+Seat 6: Fabkon00 ( $0.80 )
+Fabkon00 posts small blind [$0.01]
+ZotaLoveCash posts big blind [$0.02]
+** Dealing down cards **
+Fabkon00 calls [$0.01]
+ZotaLoveCash raises [$0.04]
+Fabkon00 calls [$0.04]
+** Dealing flop ** [ 9d, 3s, 4s ]
+ZotaLoveCash bets [$0.06]
+Fabkon00 calls [$0.06]
+** Dealing turn ** [ Js ]
+ZotaLoveCash checks
+Fabkon00 bets [$0.02]
+ZotaLoveCash calls [$0.02]
+** Dealing river ** [ 2d ]
+ZotaLoveCash checks
+Fabkon00 bets [$0.16]
+ZotaLoveCash folds
+** Summary **
+Fabkon00 collected [ $0.27 ]
+
+

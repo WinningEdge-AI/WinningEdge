@@ -1,0 +1,47 @@
+#Game No : 1237322321
+***** 888poker Hand History for Game 1237322321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 01 2019 21:04:53
+Table Cologne 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: outender ( $2.06 )
+Seat 6: yurchenko196 ( $0.87 )
+outender posts small blind [$0.01]
+yurchenko196 posts big blind [$0.02]
+** Dealing down cards **
+outender raises [$0.03]
+yurchenko196 calls [$0.02]
+** Dealing flop ** [ 6c, Ad, 8s ]
+yurchenko196 bets [$0.02]
+outender calls [$0.02]
+** Dealing turn ** [ Kd ]
+yurchenko196 checks
+outender checks
+** Dealing river ** [ 5c ]
+yurchenko196 checks
+outender bets [$0.10]
+yurchenko196 folds
+** Summary **
+outender collected [ $0.12 ]
+
+
+#Game No : 1237322402
+***** 888poker Hand History for Game 1237322402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 01 2019 21:05:19
+Table Cologne 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: outender ( $2.12 )
+Seat 6: yurchenko196 ( $0.81 )
+yurchenko196 posts small blind [$0.01]
+outender posts big blind [$0.02]
+** Dealing down cards **
+yurchenko196 calls [$0.01]
+outender checks
+** Dealing flop ** [ 6c, Tc, 2h ]
+outender bets [$0.04]
+yurchenko196 folds
+** Summary **
+outender collected [ $0.04 ]
+
+

@@ -1,0 +1,44 @@
+#Game No : 503165517
+***** 888poker Hand History for Game 503165517 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 06 2018 01:25:14
+Table Huntsville 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: Frank_G ( $1.74 )
+Seat 3: leontastic ( $1.98 )
+leontastic posts small blind [$0.01]
+Frank_G posts big blind [$0.02]
+** Dealing down cards **
+leontastic folds
+** Summary **
+Frank_G collected [ $0.03 ]
+
+
+#Game No : 503165523
+***** 888poker Hand History for Game 503165523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 06 2018 01:25:21
+Table Huntsville 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Frank_G ( $1.75 )
+Seat 3: leontastic ( $1.97 )
+Frank_G posts small blind [$0.01]
+leontastic posts big blind [$0.02]
+** Dealing down cards **
+Frank_G calls [$0.01]
+leontastic checks
+** Dealing flop ** [ Js, 9s, Qh ]
+leontastic bets [$0.04]
+Frank_G calls [$0.04]
+** Dealing turn ** [ Th ]
+leontastic bets [$0.12]
+Frank_G calls [$0.12]
+** Dealing river ** [ Jh ]
+leontastic checks
+Frank_G checks
+** Summary **
+leontastic shows [ 9c, Tc ]
+Frank_G shows [ Qc, 8c ]
+Frank_G collected [ $0.34 ]
+
+

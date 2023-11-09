@@ -1,0 +1,195 @@
+#Game No : 522898200
+***** 888poker Hand History for Game 522898200 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 17:41:50
+Table Boston 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: kikomann14 ( $1.02 )
+Seat 7: Magallanes37 ( $0.44 )
+Magallanes37 posts small blind [$0.01]
+kikomann14 posts big blind [$0.02]
+** Dealing down cards **
+Magallanes37 calls [$0.01]
+kikomann14 raises [$0.06]
+Magallanes37 raises [$0.12]
+kikomann14 calls [$0.06]
+** Dealing flop ** [ Th, 3d, Td ]
+kikomann14 checks
+Magallanes37 bets [$0.30]
+kikomann14 calls [$0.30]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 4s ]
+** Summary **
+kikomann14 shows [ Qc, Ad ]
+Magallanes37 shows [ 6d, Ah ]
+kikomann14 collected [ $0.83 ]
+
+
+#Game No : 522898482
+***** 888poker Hand History for Game 522898482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 17:47:33
+Table Boston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kikomann14 ( $1.47 )
+Seat 6: Henrike365 ( $0.91 )
+kikomann14 posts small blind [$0.01]
+Henrike365 posts big blind [$0.02]
+** Dealing down cards **
+kikomann14 raises [$0.03]
+Henrike365 calls [$0.02]
+** Dealing flop ** [ Th, Ac, 4h ]
+Henrike365 checks
+kikomann14 bets [$0.08]
+Henrike365 calls [$0.08]
+** Dealing turn ** [ 3s ]
+Henrike365 checks
+kikomann14 checks
+** Dealing river ** [ Ts ]
+Henrike365 bets [$0.24]
+kikomann14 calls [$0.24]
+** Summary **
+Henrike365 shows [ 7h, As ]
+kikomann14 mucks [ 2s, Ad ]
+Henrike365 collected [ $0.68 ]
+
+
+#Game No : 522898510
+***** 888poker Hand History for Game 522898510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 17:48:03
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: kikomann14 ( $1.11 )
+Seat 6: Henrike365 ( $1.23 )
+Henrike365 posts small blind [$0.01]
+kikomann14 posts big blind [$0.02]
+** Dealing down cards **
+Henrike365 folds
+** Summary **
+kikomann14 collected [ $0.03 ]
+
+
+#Game No : 522913611
+***** 888poker Hand History for Game 522913611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 01:08:49
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: anzorkk ( $1.89 )
+Seat 4: yesya ( $1.45 )
+anzorkk posts small blind [$0.01]
+yesya posts big blind [$0.02]
+** Dealing down cards **
+anzorkk raises [$0.03]
+yesya calls [$0.02]
+** Dealing flop ** [ Tc, 6c, Kc ]
+yesya checks
+anzorkk checks
+** Dealing turn ** [ Ks ]
+yesya checks
+anzorkk checks
+** Dealing river ** [ Qs ]
+yesya checks
+anzorkk checks
+** Summary **
+yesya shows [ Ad, 2h ]
+anzorkk mucks [ 7d, 8d ]
+yesya collected [ $0.08 ]
+
+
+#Game No : 522913626
+***** 888poker Hand History for Game 522913626 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 01:09:24
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: anzorkk ( $1.85 )
+Seat 4: yesya ( $1.49 )
+yesya posts small blind [$0.01]
+anzorkk posts big blind [$0.02]
+** Dealing down cards **
+yesya folds
+** Summary **
+anzorkk collected [ $0.03 ]
+
+
+#Game No : 522913631
+***** 888poker Hand History for Game 522913631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 01:09:29
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: anzorkk ( $1.86 )
+Seat 4: yesya ( $1.48 )
+anzorkk posts small blind [$0.01]
+yesya posts big blind [$0.02]
+** Dealing down cards **
+anzorkk raises [$0.03]
+yesya raises [$0.04]
+anzorkk calls [$0.02]
+** Dealing flop ** [ 8c, Ks, 5h ]
+yesya bets [$0.06]
+anzorkk calls [$0.06]
+** Dealing turn ** [ 4c ]
+yesya checks
+anzorkk bets [$0.18]
+yesya calls [$0.18]
+** Dealing river ** [ 2h ]
+yesya checks
+anzorkk bets [$0.40]
+yesya folds
+** Summary **
+anzorkk did not show his hand
+anzorkk collected [ $0.57 ]
+
+
+#Game No : 522913657
+***** 888poker Hand History for Game 522913657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 01:10:17
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: anzorkk ( $2.13 )
+Seat 4: yesya ( $1.18 )
+yesya posts small blind [$0.01]
+anzorkk posts big blind [$0.02]
+** Dealing down cards **
+yesya folds
+** Summary **
+anzorkk did not show his hand
+anzorkk collected [ $0.03 ]
+
+
+#Game No : 522913662
+***** 888poker Hand History for Game 522913662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 01:10:27
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: anzorkk ( $2.14 )
+Seat 4: yesya ( $1.17 )
+anzorkk posts small blind [$0.01]
+yesya posts big blind [$0.02]
+** Dealing down cards **
+anzorkk folds
+** Summary **
+yesya collected [ $0.03 ]
+
+
+#Game No : 522913668
+***** 888poker Hand History for Game 522913668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 01:10:36
+Table Boston 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: anzorkk ( $2.13 )
+Seat 4: yesya ( $1.18 )
+yesya posts small blind [$0.01]
+anzorkk posts big blind [$0.02]
+** Dealing down cards **
+yesya folds
+** Summary **
+anzorkk collected [ $0.03 ]
+
+

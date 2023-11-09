@@ -1,0 +1,52 @@
+#Game No : 525283749
+***** 888poker Hand History for Game 525283749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 15:25:33
+Table Chemnitz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: urbanmag ( $3.64 )
+Seat 6: MihRen ( $1.25 )
+urbanmag posts small blind [$0.01]
+MihRen posts big blind [$0.02]
+** Dealing down cards **
+urbanmag raises [$0.05]
+MihRen calls [$0.04]
+** Dealing flop ** [ 6s, As, 6c ]
+MihRen checks
+urbanmag bets [$0.10]
+MihRen calls [$0.10]
+** Dealing turn ** [ 8s ]
+MihRen checks
+urbanmag checks
+** Dealing river ** [ 5c ]
+MihRen bets [$0.11]
+urbanmag calls [$0.11]
+** Summary **
+MihRen shows [ Js, Ts ]
+urbanmag mucks [ Ad, Qc ]
+MihRen collected [ $0.51 ]
+
+
+#Game No : 525283801
+***** 888poker Hand History for Game 525283801 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 15:26:24
+Table Chemnitz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: urbanmag ( $3.37 )
+Seat 6: MihRen ( $1.49 )
+MihRen posts small blind [$0.01]
+urbanmag posts big blind [$0.02]
+** Dealing down cards **
+MihRen raises [$0.05]
+urbanmag calls [$0.04]
+** Dealing flop ** [ 3c, 9h, 2c ]
+urbanmag checks
+MihRen checks
+** Dealing turn ** [ Th ]
+urbanmag bets [$0.08]
+MihRen folds
+** Summary **
+urbanmag collected [ $0.12 ]
+
+

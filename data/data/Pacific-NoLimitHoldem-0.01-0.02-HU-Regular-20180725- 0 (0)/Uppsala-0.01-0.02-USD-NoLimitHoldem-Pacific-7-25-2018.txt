@@ -1,0 +1,102 @@
+#Game No : 453646539
+***** 888poker Hand History for Game 453646539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 14:24:30
+Table Uppsala 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: JlioMendes ( $2.49 )
+Seat 5: jabba6971 ( $2 )
+JlioMendes posts small blind [$0.01]
+jabba6971 posts big blind [$0.02]
+** Dealing down cards **
+JlioMendes raises [$0.05]
+jabba6971 folds
+** Summary **
+JlioMendes did not show his hand
+JlioMendes collected [ $0.04 ]
+
+
+#Game No : 453647144
+***** 888poker Hand History for Game 453647144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 14:37:30
+Table Uppsala 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: midnit18 ( $1.96 )
+Seat 7: Sept_Session ( $0.84 )
+Sept_Session posts small blind [$0.01]
+midnit18 posts big blind [$0.02]
+** Dealing down cards **
+Sept_Session calls [$0.01]
+midnit18 checks
+** Dealing flop ** [ Qc, Ac, Kh ]
+midnit18 checks
+Sept_Session checks
+** Dealing turn ** [ 3s ]
+midnit18 checks
+Sept_Session checks
+** Dealing river ** [ Qs ]
+midnit18 checks
+Sept_Session bets [$0.02]
+midnit18 folds
+** Summary **
+Sept_Session collected [ $0.04 ]
+
+
+#Game No : 453647387
+***** 888poker Hand History for Game 453647387 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 14:43:23
+Table Uppsala 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: kkipouros ( $0.94 )
+Seat 6: midnit18 ( $1.89 )
+kkipouros posts small blind [$0.01]
+midnit18 posts big blind [$0.02]
+** Dealing down cards **
+kkipouros calls [$0.01]
+midnit18 raises [$0.02]
+kkipouros calls [$0.02]
+** Dealing flop ** [ 3c, 9s, 8h ]
+midnit18 checks
+kkipouros bets [$0.04]
+midnit18 calls [$0.04]
+** Dealing turn ** [ 5d ]
+midnit18 bets [$0.02]
+kkipouros calls [$0.02]
+** Dealing river ** [ Qh ]
+midnit18 checks
+kkipouros bets [$0.08]
+midnit18 folds
+** Summary **
+kkipouros collected [ $0.19 ]
+
+
+#Game No : 453647402
+***** 888poker Hand History for Game 453647402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 14:43:54
+Table Uppsala 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: kkipouros ( $1.03 )
+Seat 6: midnit18 ( $1.79 )
+midnit18 posts small blind [$0.01]
+kkipouros posts big blind [$0.02]
+** Dealing down cards **
+midnit18 calls [$0.01]
+kkipouros checks
+** Dealing flop ** [ Jd, 4c, 9d ]
+kkipouros bets [$0.02]
+midnit18 calls [$0.02]
+** Dealing turn ** [ Ks ]
+kkipouros bets [$0.02]
+midnit18 calls [$0.02]
+** Dealing river ** [ Kc ]
+kkipouros bets [$0.02]
+midnit18 calls [$0.02]
+** Summary **
+kkipouros shows [ 7s, Jh ]
+midnit18 mucks [ 4h, 8s ]
+kkipouros collected [ $0.15 ]
+
+

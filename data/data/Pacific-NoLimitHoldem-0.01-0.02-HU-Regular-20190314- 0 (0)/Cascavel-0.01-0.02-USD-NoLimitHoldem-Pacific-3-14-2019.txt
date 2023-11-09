@@ -1,0 +1,85 @@
+#Game No : 462842118
+***** 888poker Hand History for Game 462842118 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 00:17:47
+Table Cascavel 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $0.78 )
+Seat 6: Merodan ( $2.02 )
+Merodan posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+Merodan raises [$0.05]
+vesk12 calls [$0.04]
+** Dealing flop ** [ 9d, 9s, 5d ]
+vesk12 checks
+Merodan bets [$0.07]
+vesk12 raises [$0.14]
+Merodan calls [$0.07]
+** Dealing turn ** [ 9c ]
+vesk12 checks
+Merodan checks
+** Dealing river ** [ Kc ]
+vesk12 bets [$0.20]
+Merodan raises [$0.58]
+vesk12 calls [$0.38]
+** Summary **
+vesk12 shows [ 7s, 9h ]
+Merodan shows [ Qs, Ks ]
+vesk12 collected [ $1.47 ]
+
+
+#Game No : 462842132
+***** 888poker Hand History for Game 462842132 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 00:18:26
+Table Cascavel 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.47 )
+Seat 6: Merodan ( $2 )
+vesk12 posts small blind [$0.01]
+Merodan posts big blind [$0.02]
+** Dealing down cards **
+vesk12 calls [$0.01]
+Merodan raises [$0.06]
+vesk12 calls [$0.06]
+** Dealing flop ** [ As, 2c, 6d ]
+Merodan bets [$0.09]
+vesk12 folds
+** Summary **
+Merodan collected [ $0.15 ]
+
+
+#Game No : 462842136
+***** 888poker Hand History for Game 462842136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 00:18:44
+Table Cascavel 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.39 )
+Seat 6: Merodan ( $2.07 )
+Merodan posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+Merodan folds
+** Summary **
+vesk12 collected [ $0.03 ]
+
+
+#Game No : 462842142
+***** 888poker Hand History for Game 462842142 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 00:19:00
+Table Cascavel 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: vesk12 ( $1.40 )
+Seat 10: JoWick ( $1.21 )
+JoWick posts small blind [$0.01]
+vesk12 posts big blind [$0.02]
+** Dealing down cards **
+JoWick folds
+** Summary **
+vesk12 did not show his hand
+vesk12 collected [ $0.03 ]
+
+

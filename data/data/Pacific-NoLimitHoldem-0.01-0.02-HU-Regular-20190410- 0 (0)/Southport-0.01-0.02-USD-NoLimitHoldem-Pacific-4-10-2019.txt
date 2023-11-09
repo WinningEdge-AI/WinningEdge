@@ -1,0 +1,70 @@
+#Game No : 618531393
+***** 888poker Hand History for Game 618531393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 04 2019 16:56:58
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.13 )
+Seat 6: monalkrishna ( $1.36 )
+monalkrishna posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+monalkrishna calls [$0.01]
+richbranson raises [$0.06]
+monalkrishna calls [$0.06]
+** Dealing flop ** [ Td, 5c, 3h ]
+richbranson checks
+monalkrishna bets [$0.10]
+richbranson calls [$0.10]
+** Dealing turn ** [ Js ]
+richbranson checks
+monalkrishna bets [$0.36]
+richbranson raises [$0.95]
+monalkrishna calls [$0.59]
+** Dealing river ** [ Kh ]
+** Summary **
+richbranson shows [ As, Ad ]
+monalkrishna shows [ Jh, 2c ]
+richbranson collected [ $2.12 ]
+
+
+#Game No : 618531430
+***** 888poker Hand History for Game 618531430 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 04 2019 16:58:15
+Table Southport 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: richbranson ( $2.34 )
+Seat 7: khanrevan ( $1.24 )
+khanrevan posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+khanrevan calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Ad, 9h, 4c ]
+richbranson checks
+khanrevan bets [$0.02]
+richbranson calls [$0.02]
+** Dealing turn ** [ 7d ]
+richbranson bets [$0.12]
+khanrevan folds
+** Summary **
+richbranson collected [ $0.08 ]
+
+
+#Game No : 618531438
+***** 888poker Hand History for Game 618531438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 04 2019 16:58:36
+Table Southport 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $2.38 )
+Seat 7: khanrevan ( $1.20 )
+richbranson posts small blind [$0.01]
+khanrevan posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+khanrevan collected [ $0.03 ]
+
+

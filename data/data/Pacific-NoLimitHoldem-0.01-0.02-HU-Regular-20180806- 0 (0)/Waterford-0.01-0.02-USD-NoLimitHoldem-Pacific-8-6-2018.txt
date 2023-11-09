@@ -1,0 +1,500 @@
+#Game No : 500481490
+***** 888poker Hand History for Game 500481490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 05:25:38
+Table Waterford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: WhiskyBiz_NI ( $1.11 )
+Seat 7: hellprisoner ( $1.04 )
+hellprisoner posts small blind [$0.01]
+WhiskyBiz_NI posts big blind [$0.02]
+** Dealing down cards **
+hellprisoner raises [$0.05]
+WhiskyBiz_NI calls [$0.04]
+** Dealing flop ** [ Ac, 6c, Ad ]
+WhiskyBiz_NI checks
+hellprisoner bets [$0.12]
+WhiskyBiz_NI raises [$1.05]
+hellprisoner folds
+** Summary **
+WhiskyBiz_NI collected [ $0.34 ]
+
+
+#Game No : 500484115
+***** 888poker Hand History for Game 500484115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 06:23:35
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: go_atirez ( $1.63 )
+Seat 4: N8bar ( $1.14 )
+N8bar posts small blind [$0.01]
+go_atirez posts big blind [$0.02]
+** Dealing down cards **
+N8bar raises [$0.05]
+go_atirez calls [$0.04]
+** Dealing flop ** [ 4s, Td, 5d ]
+go_atirez checks
+N8bar bets [$0.09]
+go_atirez folds
+** Summary **
+N8bar did not show his hand
+N8bar collected [ $0.12 ]
+
+
+#Game No : 500484142
+***** 888poker Hand History for Game 500484142 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 06:24:03
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: go_atirez ( $1.57 )
+Seat 4: N8bar ( $1.20 )
+go_atirez posts small blind [$0.01]
+N8bar posts big blind [$0.02]
+** Dealing down cards **
+go_atirez folds
+** Summary **
+N8bar did not show his hand
+N8bar collected [ $0.03 ]
+
+
+#Game No : 500484148
+***** 888poker Hand History for Game 500484148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 06:24:08
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: go_atirez ( $1.56 )
+Seat 4: N8bar ( $1.21 )
+N8bar posts small blind [$0.01]
+go_atirez posts big blind [$0.02]
+** Dealing down cards **
+N8bar raises [$0.03]
+go_atirez calls [$0.02]
+** Dealing flop ** [ 5h, 8s, 8c ]
+go_atirez checks
+N8bar bets [$0.06]
+go_atirez calls [$0.06]
+** Dealing turn ** [ 7h ]
+go_atirez checks
+N8bar bets [$0.14]
+go_atirez calls [$0.14]
+** Dealing river ** [ 6c ]
+go_atirez checks
+N8bar checks
+** Summary **
+go_atirez shows [ 5c, Jc ]
+N8bar shows [ Qd, 8h ]
+N8bar collected [ $0.45 ]
+
+
+#Game No : 500484183
+***** 888poker Hand History for Game 500484183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 06:25:00
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: go_atirez ( $1.32 )
+Seat 4: N8bar ( $1.42 )
+go_atirez posts small blind [$0.01]
+** Dealing down cards **
+N8bar folds
+** Summary **
+go_atirez did not show his hand
+go_atirez collected [ $0.01 ]
+
+
+#Game No : 500484204
+***** 888poker Hand History for Game 500484204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 06:25:28
+Table Waterford 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Ghost9Rowe ( $1 )
+Seat 6: Rudolpho11 ( $1 )
+Rudolpho11 posts small blind [$0.01]
+Ghost9Rowe posts big blind [$0.02]
+** Dealing down cards **
+Rudolpho11 calls [$0.01]
+Ghost9Rowe checks
+** Dealing flop ** [ 4d, As, Ks ]
+Ghost9Rowe bets [$0.02]
+Rudolpho11 calls [$0.02]
+** Dealing turn ** [ Kh ]
+Ghost9Rowe bets [$0.05]
+Rudolpho11 calls [$0.05]
+** Dealing river ** [ Td ]
+Ghost9Rowe bets [$0.18]
+Rudolpho11 folds
+** Summary **
+Ghost9Rowe collected [ $0.17 ]
+
+
+#Game No : 500484221
+***** 888poker Hand History for Game 500484221 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 06:25:50
+Table Waterford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ghost9Rowe ( $1.08 )
+Seat 6: Rudolpho11 ( $0.91 )
+Ghost9Rowe posts small blind [$0.01]
+Rudolpho11 posts big blind [$0.02]
+** Dealing down cards **
+Ghost9Rowe calls [$0.01]
+Rudolpho11 checks
+** Dealing flop ** [ Ts, Jd, As ]
+Rudolpho11 checks
+Ghost9Rowe checks
+** Dealing turn ** [ 2h ]
+Rudolpho11 checks
+Ghost9Rowe checks
+** Dealing river ** [ Ad ]
+Rudolpho11 bets [$0.02]
+Ghost9Rowe calls [$0.02]
+** Summary **
+Rudolpho11 shows [ 2s, 4s ]
+Ghost9Rowe mucks [ Qc, 7s ]
+Rudolpho11 collected [ $0.08 ]
+
+
+#Game No : 500486159
+***** 888poker Hand History for Game 500486159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 07:07:45
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Serious_Vito ( $1 )
+Seat 9: rookieerror1 ( $1.05 )
+rookieerror1 posts small blind [$0.01]
+Serious_Vito posts big blind [$0.02]
+** Dealing down cards **
+rookieerror1 folds
+** Summary **
+Serious_Vito collected [ $0.03 ]
+
+
+#Game No : 500488427
+***** 888poker Hand History for Game 500488427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 07:55:39
+Table Waterford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: BOT11735 ( $1.55 )
+Seat 9: Ermek0 ( $1.09 )
+BOT11735 posts small blind [$0.01]
+Ermek0 posts big blind [$0.02]
+** Dealing down cards **
+BOT11735 raises [$0.03]
+Ermek0 raises [$0.04]
+BOT11735 calls [$0.02]
+** Dealing flop ** [ Ad, 3c, Kc ]
+Ermek0 checks
+BOT11735 checks
+** Dealing turn ** [ 4c ]
+Ermek0 checks
+BOT11735 bets [$0.06]
+Ermek0 calls [$0.06]
+** Dealing river ** [ 4s ]
+Ermek0 checks
+BOT11735 checks
+** Summary **
+Ermek0 shows [ Ah, Kd ]
+BOT11735 mucks [ 7d, Jc ]
+Ermek0 collected [ $0.23 ]
+
+
+#Game No : 500488462
+***** 888poker Hand History for Game 500488462 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 07:56:17
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BOT11735 ( $1.43 )
+Seat 9: Ermek0 ( $1.20 )
+Ermek0 posts small blind [$0.01]
+BOT11735 posts big blind [$0.02]
+** Dealing down cards **
+Ermek0 raises [$0.03]
+BOT11735 folds
+** Summary **
+Ermek0 collected [ $0.04 ]
+
+
+#Game No : 500488473
+***** 888poker Hand History for Game 500488473 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 07:56:36
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BOT11735 ( $1.42 )
+Seat 9: Ermek0 ( $1.21 )
+Ermek0 posts small blind [$0.01]
+BOT11735 posts big blind [$0.02]
+** Dealing down cards **
+Ermek0 folds
+** Summary **
+BOT11735 collected [ $0.03 ]
+
+
+#Game No : 500488481
+***** 888poker Hand History for Game 500488481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 07:56:45
+Table Waterford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: BOT11735 ( $1.43 )
+Seat 9: Ermek0 ( $1.20 )
+BOT11735 posts small blind [$0.01]
+Ermek0 posts big blind [$0.02]
+** Dealing down cards **
+BOT11735 raises [$0.05]
+Ermek0 folds
+** Summary **
+BOT11735 collected [ $0.04 ]
+
+
+#Game No : 500488495
+***** 888poker Hand History for Game 500488495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 07:56:58
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BOT11735 ( $1.45 )
+Seat 9: Ermek0 ( $1.18 )
+Ermek0 posts small blind [$0.01]
+BOT11735 posts big blind [$0.02]
+** Dealing down cards **
+Ermek0 raises [$0.03]
+BOT11735 raises [$0.09]
+Ermek0 calls [$0.07]
+** Dealing flop ** [ 3h, Js, Ah ]
+BOT11735 checks
+Ermek0 checks
+** Dealing turn ** [ 9h ]
+BOT11735 checks
+Ermek0 bets [$0.22]
+BOT11735 folds
+** Summary **
+Ermek0 collected [ $0.21 ]
+
+
+#Game No : 500488778
+***** 888poker Hand History for Game 500488778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:02:59
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.78 )
+Seat 9: Ermek0 ( $2.25 )
+Ermek0 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Ermek0 calls [$0.01]
+Sarahsbear checks
+** Dealing flop ** [ 6c, Ac, 4c ]
+Sarahsbear checks
+Ermek0 checks
+** Dealing turn ** [ Qd ]
+Sarahsbear checks
+Ermek0 bets [$0.04]
+Sarahsbear folds
+** Summary **
+Ermek0 collected [ $0.04 ]
+
+
+#Game No : 500488800
+***** 888poker Hand History for Game 500488800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:03:27
+Table Waterford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.76 )
+Seat 9: Ermek0 ( $2.27 )
+Sarahsbear posts small blind [$0.01]
+Ermek0 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.03]
+Ermek0 folds
+** Summary **
+Sarahsbear collected [ $0.04 ]
+
+
+#Game No : 500489002
+***** 888poker Hand History for Game 500489002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:07:34
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.86 )
+Seat 9: Ermek0 ( $2.28 )
+Ermek0 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Ermek0 raises [$0.03]
+Sarahsbear raises [$0.04]
+Ermek0 folds
+** Summary **
+Sarahsbear did not show his hand
+Sarahsbear collected [ $0.08 ]
+
+
+#Game No : 500489018
+***** 888poker Hand History for Game 500489018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:07:58
+Table Waterford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.90 )
+Seat 9: Ermek0 ( $2.24 )
+Sarahsbear posts small blind [$0.01]
+Ermek0 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.03]
+Ermek0 raises [$0.04]
+Sarahsbear calls [$0.02]
+** Dealing flop ** [ 4h, 2h, Ah ]
+Ermek0 checks
+Sarahsbear checks
+** Dealing turn ** [ 6s ]
+Ermek0 checks
+Sarahsbear checks
+** Dealing river ** [ 9h ]
+Ermek0 checks
+Sarahsbear checks
+** Summary **
+Ermek0 shows [ 6c, Qc ]
+Sarahsbear mucks [ 4s, 3s ]
+Ermek0 collected [ $0.12 ]
+
+
+#Game No : 500489085
+***** 888poker Hand History for Game 500489085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:09:26
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.84 )
+Seat 9: Ermek0 ( $2.30 )
+Ermek0 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Ermek0 folds
+** Summary **
+Sarahsbear collected [ $0.03 ]
+
+
+#Game No : 500489172
+***** 888poker Hand History for Game 500489172 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:11:19
+Table Waterford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.71 )
+Seat 9: Ermek0 ( $2.27 )
+Sarahsbear posts small blind [$0.01]
+Ermek0 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.03]
+Ermek0 calls [$0.02]
+** Dealing flop ** [ 6c, 8s, 9c ]
+Ermek0 bets [$0.08]
+Sarahsbear folds
+** Summary **
+Ermek0 did not show his hand
+Ermek0 collected [ $0.08 ]
+
+
+#Game No : 500489186
+***** 888poker Hand History for Game 500489186 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:11:39
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.67 )
+Seat 9: Ermek0 ( $2.31 )
+Ermek0 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Ermek0 raises [$0.03]
+Sarahsbear raises [$0.04]
+Ermek0 calls [$0.02]
+** Dealing flop ** [ 6s, 3d, 2h ]
+Sarahsbear checks
+Ermek0 checks
+** Dealing turn ** [ Qh ]
+Sarahsbear bets [$0.02]
+Ermek0 calls [$0.02]
+** Dealing river ** [ Ac ]
+Sarahsbear checks
+Ermek0 checks
+** Summary **
+Sarahsbear shows [ Qs, Td ]
+Ermek0 mucks [ Ks, 2d ]
+Sarahsbear collected [ $0.15 ]
+
+
+#Game No : 500489203
+***** 888poker Hand History for Game 500489203 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:12:09
+Table Waterford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.74 )
+Seat 9: Ermek0 ( $2.23 )
+Sarahsbear posts small blind [$0.01]
+Ermek0 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.05]
+Ermek0 folds
+** Summary **
+Sarahsbear did not show his hand
+Sarahsbear collected [ $0.04 ]
+
+
+#Game No : 500489211
+***** 888poker Hand History for Game 500489211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:12:19
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.76 )
+Seat 9: Ermek0 ( $2.21 )
+Ermek0 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Ermek0 folds
+** Summary **
+Sarahsbear did not show his hand
+Sarahsbear collected [ $0.03 ]
+
+
+#Game No : 500489217
+***** 888poker Hand History for Game 500489217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 08:12:24
+Table Waterford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Sarahsbear ( $0.77 )
+Seat 9: Ermek0 ( $2.20 )
+Sarahsbear posts small blind [$0.01]
+Ermek0 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.07]
+Ermek0 calls [$0.06]
+** Dealing flop ** [ 3c, Ah, 8c ]
+Ermek0 checks
+Sarahsbear checks
+** Dealing turn ** [ 7c ]
+Ermek0 checks
+Sarahsbear checks
+** Dealing river ** [ 6c ]
+Ermek0 checks
+Sarahsbear checks
+** Summary **
+Ermek0 shows [ 7h, Jd ]
+Sarahsbear shows [ 5h, 5c ]
+Sarahsbear collected [ $0.15 ]
+
+

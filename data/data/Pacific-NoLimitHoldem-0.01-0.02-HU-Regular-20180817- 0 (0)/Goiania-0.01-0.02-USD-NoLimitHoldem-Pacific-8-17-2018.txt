@@ -1,0 +1,509 @@
+#Game No : 607000855
+***** 888poker Hand History for Game 607000855 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:32:50
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Reuglass ( $2 )
+Seat 5: A7777A88 ( $1.20 )
+A7777A88 posts small blind [$0.01]
+Reuglass posts big blind [$0.02]
+** Dealing down cards **
+A7777A88 calls [$0.01]
+Reuglass checks
+** Dealing flop ** [ Kh, 8s, 2s ]
+Reuglass bets [$0.06]
+A7777A88 folds
+** Summary **
+Reuglass did not show his hand
+Reuglass collected [ $0.04 ]
+
+
+#Game No : 607000864
+***** 888poker Hand History for Game 607000864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:32:54
+Table Goiania 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Reuglass ( $2.02 )
+Seat 5: A7777A88 ( $1.18 )
+Reuglass posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+Reuglass calls [$0.01]
+A7777A88 checks
+** Dealing flop ** [ 8c, 3h, 7s ]
+A7777A88 checks
+Reuglass bets [$0.08]
+A7777A88 calls [$0.08]
+** Dealing turn ** [ 4d ]
+A7777A88 checks
+Reuglass checks
+** Dealing river ** [ Jc ]
+A7777A88 bets [$0.13]
+Reuglass calls [$0.13]
+** Summary **
+A7777A88 shows [ 8s, Jh ]
+Reuglass mucks [ 4s, Ts ]
+A7777A88 collected [ $0.44 ]
+
+
+#Game No : 607000871
+***** 888poker Hand History for Game 607000871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:33:27
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Reuglass ( $1.79 )
+Seat 5: A7777A88 ( $1.39 )
+A7777A88 posts small blind [$0.01]
+Reuglass posts big blind [$0.02]
+** Dealing down cards **
+A7777A88 calls [$0.01]
+Reuglass raises [$0.02]
+A7777A88 calls [$0.02]
+** Dealing flop ** [ 4s, Ks, 8s ]
+Reuglass checks
+A7777A88 checks
+** Dealing turn ** [ 7h ]
+Reuglass checks
+A7777A88 bets [$0.08]
+Reuglass calls [$0.08]
+** Dealing river ** [ Tc ]
+Reuglass checks
+A7777A88 bets [$0.16]
+Reuglass calls [$0.16]
+** Summary **
+A7777A88 shows [ 5d, Kh ]
+Reuglass mucks [ Ah, 7s ]
+A7777A88 collected [ $0.53 ]
+
+
+#Game No : 607000883
+***** 888poker Hand History for Game 607000883 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:34:10
+Table Goiania 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Reuglass ( $1.51 )
+Seat 5: A7777A88 ( $1.64 )
+Reuglass posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+Reuglass raises [$0.03]
+A7777A88 calls [$0.02]
+** Dealing flop ** [ Qd, Ts, 9d ]
+A7777A88 checks
+Reuglass bets [$0.06]
+A7777A88 calls [$0.06]
+** Dealing turn ** [ Td ]
+A7777A88 checks
+Reuglass checks
+** Dealing river ** [ 7d ]
+A7777A88 bets [$0.20]
+Reuglass folds
+** Summary **
+A7777A88 did not show his hand
+A7777A88 collected [ $0.19 ]
+
+
+#Game No : 607000922
+***** 888poker Hand History for Game 607000922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:36:33
+Table Goiania 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: A7777A88 ( $1.73 )
+Seat 6: salakytta ( $0.80 )
+salakytta posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+salakytta calls [$0.01]
+A7777A88 checks
+** Dealing flop ** [ Kh, 8d, 5s ]
+A7777A88 checks
+salakytta checks
+** Dealing turn ** [ Qc ]
+A7777A88 checks
+salakytta checks
+** Dealing river ** [ 5h ]
+A7777A88 checks
+salakytta checks
+** Summary **
+A7777A88 shows [ Ts, 6c ]
+salakytta shows [ 8h, Td ]
+salakytta collected [ $0.04 ]
+
+
+#Game No : 607000931
+***** 888poker Hand History for Game 607000931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:37:04
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: A7777A88 ( $1.71 )
+Seat 6: salakytta ( $0.82 )
+A7777A88 posts small blind [$0.01]
+salakytta posts big blind [$0.02]
+** Dealing down cards **
+A7777A88 calls [$0.01]
+salakytta checks
+** Dealing flop ** [ 6h, Ad, Ks ]
+salakytta checks
+A7777A88 bets [$0.02]
+salakytta folds
+** Summary **
+A7777A88 did not show his hand
+A7777A88 collected [ $0.04 ]
+
+
+#Game No : 607000934
+***** 888poker Hand History for Game 607000934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:37:17
+Table Goiania 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: A7777A88 ( $1.73 )
+Seat 6: salakytta ( $0.80 )
+salakytta posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+salakytta calls [$0.01]
+A7777A88 checks
+** Dealing flop ** [ 7s, Js, 8d ]
+A7777A88 checks
+salakytta checks
+** Dealing turn ** [ 6s ]
+A7777A88 bets [$0.04]
+salakytta calls [$0.04]
+** Dealing river ** [ Jd ]
+A7777A88 bets [$0.08]
+salakytta folds
+** Summary **
+A7777A88 did not show his hand
+A7777A88 collected [ $0.12 ]
+
+
+#Game No : 607000944
+***** 888poker Hand History for Game 607000944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:37:44
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: A7777A88 ( $1.79 )
+Seat 6: salakytta ( $0.74 )
+A7777A88 posts small blind [$0.01]
+salakytta posts big blind [$0.02]
+** Dealing down cards **
+A7777A88 calls [$0.01]
+salakytta checks
+** Dealing flop ** [ Ts, Th, 2c ]
+salakytta checks
+A7777A88 checks
+** Dealing turn ** [ 6s ]
+salakytta checks
+A7777A88 checks
+** Dealing river ** [ 7s ]
+salakytta bets [$0.02]
+A7777A88 folds
+** Summary **
+salakytta did not show his hand
+salakytta collected [ $0.04 ]
+
+
+#Game No : 607000950
+***** 888poker Hand History for Game 607000950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:38:07
+Table Goiania 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: A7777A88 ( $1.77 )
+Seat 6: salakytta ( $0.76 )
+salakytta posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+salakytta calls [$0.01]
+A7777A88 checks
+** Dealing flop ** [ 4c, 3d, 3c ]
+A7777A88 checks
+salakytta checks
+** Dealing turn ** [ 5c ]
+A7777A88 checks
+salakytta checks
+** Dealing river ** [ Qs ]
+A7777A88 checks
+salakytta bets [$0.02]
+A7777A88 folds
+** Summary **
+salakytta did not show his hand
+salakytta collected [ $0.04 ]
+
+
+#Game No : 607000957
+***** 888poker Hand History for Game 607000957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:38:32
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: A7777A88 ( $1.75 )
+Seat 6: salakytta ( $0.78 )
+A7777A88 posts small blind [$0.01]
+salakytta posts big blind [$0.02]
+** Dealing down cards **
+A7777A88 calls [$0.01]
+salakytta checks
+** Dealing flop ** [ Ah, Th, 9c ]
+salakytta checks
+A7777A88 checks
+** Dealing turn ** [ Qc ]
+salakytta checks
+A7777A88 checks
+** Dealing river ** [ 7c ]
+salakytta checks
+A7777A88 checks
+** Summary **
+salakytta shows [ Qs, Jd ]
+A7777A88 mucks [ Kh, 4c ]
+salakytta collected [ $0.04 ]
+
+
+#Game No : 607000964
+***** 888poker Hand History for Game 607000964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:39:01
+Table Goiania 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: A7777A88 ( $1.73 )
+Seat 6: salakytta ( $0.80 )
+salakytta posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+salakytta calls [$0.01]
+A7777A88 raises [$0.04]
+salakytta folds
+** Summary **
+A7777A88 collected [ $0.04 ]
+
+
+#Game No : 607000980
+***** 888poker Hand History for Game 607000980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:40:04
+Table Goiania 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $1.94 )
+Seat 5: A7777A88 ( $2.49 )
+positive_ev posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+positive_ev raises [$0.05]
+A7777A88 folds
+** Summary **
+positive_ev did not show his hand
+positive_ev collected [ $0.04 ]
+
+
+#Game No : 607000982
+***** 888poker Hand History for Game 607000982 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:40:16
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $1.96 )
+Seat 5: A7777A88 ( $2.47 )
+A7777A88 posts small blind [$0.01]
+positive_ev posts big blind [$0.02]
+** Dealing down cards **
+A7777A88 calls [$0.01]
+positive_ev checks
+** Dealing flop ** [ As, 7h, Qs ]
+positive_ev checks
+A7777A88 checks
+** Dealing turn ** [ 3s ]
+positive_ev checks
+A7777A88 checks
+** Dealing river ** [ 6d ]
+positive_ev checks
+A7777A88 checks
+** Summary **
+positive_ev shows [ 7s, Jh ]
+A7777A88 mucks [ 9c, Jd ]
+positive_ev collected [ $0.04 ]
+
+
+#Game No : 607000992
+***** 888poker Hand History for Game 607000992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:40:52
+Table Goiania 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $1.98 )
+Seat 5: A7777A88 ( $2.45 )
+positive_ev posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+positive_ev raises [$0.03]
+A7777A88 calls [$0.02]
+** Dealing flop ** [ 4s, 6c, Ac ]
+A7777A88 checks
+positive_ev checks
+** Dealing turn ** [ Kd ]
+A7777A88 bets [$0.02]
+positive_ev folds
+** Summary **
+A7777A88 did not show his hand
+A7777A88 collected [ $0.08 ]
+
+
+#Game No : 607001004
+***** 888poker Hand History for Game 607001004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:41:20
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $1.94 )
+Seat 5: A7777A88 ( $2.49 )
+A7777A88 posts small blind [$0.01]
+positive_ev posts big blind [$0.02]
+** Dealing down cards **
+A7777A88 calls [$0.01]
+positive_ev checks
+** Dealing flop ** [ 9s, 4d, 9c ]
+positive_ev checks
+A7777A88 checks
+** Dealing turn ** [ 9d ]
+positive_ev checks
+A7777A88 checks
+** Dealing river ** [ 5c ]
+positive_ev checks
+A7777A88 checks
+** Summary **
+positive_ev shows [ 7s, 6s ]
+A7777A88 shows [ 7d, 4s ]
+A7777A88 collected [ $0.04 ]
+
+
+#Game No : 607001011
+***** 888poker Hand History for Game 607001011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:41:55
+Table Goiania 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $1.92 )
+Seat 5: A7777A88 ( $2.51 )
+positive_ev posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+positive_ev calls [$0.01]
+A7777A88 checks
+** Dealing flop ** [ 3d, 4s, Js ]
+A7777A88 checks
+positive_ev bets [$0.04]
+A7777A88 calls [$0.04]
+** Dealing turn ** [ Ah ]
+A7777A88 checks
+positive_ev bets [$0.08]
+A7777A88 folds
+** Summary **
+positive_ev did not show his hand
+positive_ev collected [ $0.12 ]
+
+
+#Game No : 607001026
+***** 888poker Hand History for Game 607001026 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:42:49
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $1.98 )
+Seat 5: A7777A88 ( $2.45 )
+A7777A88 posts small blind [$0.01]
+positive_ev posts big blind [$0.02]
+** Dealing down cards **
+A7777A88 calls [$0.01]
+positive_ev checks
+** Dealing flop ** [ Jd, 5c, 4s ]
+positive_ev checks
+A7777A88 checks
+** Dealing turn ** [ Tc ]
+positive_ev checks
+A7777A88 checks
+** Dealing river ** [ Kd ]
+positive_ev checks
+A7777A88 checks
+** Summary **
+positive_ev shows [ 4h, 6d ]
+A7777A88 mucks [ Qs, 8c ]
+positive_ev collected [ $0.04 ]
+
+
+#Game No : 607001050
+***** 888poker Hand History for Game 607001050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:44:26
+Table Goiania 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $2 )
+Seat 5: A7777A88 ( $2.43 )
+positive_ev posts small blind [$0.01]
+A7777A88 posts big blind [$0.02]
+** Dealing down cards **
+positive_ev calls [$0.01]
+A7777A88 raises [$0.04]
+positive_ev calls [$0.04]
+** Dealing flop ** [ Qc, 6c, 3h ]
+A7777A88 checks
+positive_ev checks
+** Dealing turn ** [ As ]
+A7777A88 bets [$0.08]
+positive_ev folds
+** Summary **
+A7777A88 did not show his hand
+A7777A88 collected [ $0.12 ]
+
+
+#Game No : 607001073
+***** 888poker Hand History for Game 607001073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 20:45:41
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: positive_ev ( $1.94 )
+Seat 5: A7777A88 ( $2.49 )
+A7777A88 posts small blind [$0.01]
+positive_ev posts big blind [$0.02]
+** Dealing down cards **
+A7777A88 calls [$0.01]
+positive_ev checks
+** Dealing flop ** [ 8h, 9s, Qc ]
+positive_ev checks
+A7777A88 checks
+** Dealing turn ** [ 8d ]
+positive_ev checks
+A7777A88 checks
+** Dealing river ** [ 7s ]
+positive_ev checks
+A7777A88 checks
+** Summary **
+positive_ev shows [ Tc, Kd ]
+A7777A88 shows [ Kc, Js ]
+A7777A88 collected [ $0.04 ]
+
+
+#Game No : 607034349
+***** 888poker Hand History for Game 607034349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 14:11:24
+Table Goiania 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Dark_Wager ( $3.47 )
+Seat 10: union455 ( $2 )
+union455 posts small blind [$0.01]
+Dark_Wager posts big blind [$0.02]
+** Dealing down cards **
+union455 folds
+** Summary **
+Dark_Wager did not show his hand
+Dark_Wager collected [ $0.03 ]
+
+

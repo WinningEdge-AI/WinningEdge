@@ -1,0 +1,29 @@
+#Game No : 508117812
+***** 888poker Hand History for Game 508117812 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 16:18:56
+Table Babrujsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: DelBufalo ( $2.33 )
+Seat 9: moptumep14 ( $0.97 )
+DelBufalo posts small blind [$0.01]
+moptumep14 posts big blind [$0.02]
+** Dealing down cards **
+DelBufalo calls [$0.01]
+moptumep14 raises [$0.04]
+DelBufalo calls [$0.04]
+** Dealing flop ** [ 5c, As, 3s ]
+moptumep14 bets [$0.04]
+DelBufalo calls [$0.04]
+** Dealing turn ** [ 4h ]
+moptumep14 bets [$0.06]
+DelBufalo calls [$0.06]
+** Dealing river ** [ 7h ]
+moptumep14 bets [$0.04]
+DelBufalo calls [$0.04]
+** Summary **
+moptumep14 shows [ 5d, 2s ]
+DelBufalo mucks [ Jh, Ac ]
+moptumep14 collected [ $0.38 ]
+
+

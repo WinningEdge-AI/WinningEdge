@@ -1,0 +1,103 @@
+#Game No : 502148802
+***** 888poker Hand History for Game 502148802 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 15:02:04
+Table Geelong 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: AllyMcnab ( $3.65 )
+Seat 9: hundche ( $3.22 )
+AllyMcnab posts small blind [$0.01]
+hundche posts big blind [$0.02]
+** Dealing down cards **
+AllyMcnab calls [$0.01]
+hundche checks
+** Dealing flop ** [ 2s, 5d, Js ]
+hundche checks
+AllyMcnab checks
+** Dealing turn ** [ 2c ]
+hundche checks
+AllyMcnab checks
+** Dealing river ** [ 6c ]
+hundche checks
+AllyMcnab checks
+** Summary **
+hundche shows [ Th, 8c ]
+AllyMcnab shows [ 8h, Qs ]
+AllyMcnab collected [ $0.04 ]
+
+
+#Game No : 502148810
+***** 888poker Hand History for Game 502148810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 15:02:32
+Table Geelong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: AllyMcnab ( $3.67 )
+Seat 9: hundche ( $3.20 )
+hundche posts small blind [$0.01]
+AllyMcnab posts big blind [$0.02]
+** Dealing down cards **
+hundche folds
+** Summary **
+AllyMcnab collected [ $0.03 ]
+
+
+#Game No : 502148816
+***** 888poker Hand History for Game 502148816 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 15:02:58
+Table Geelong 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: AllyMcnab ( $3.68 )
+Seat 9: hundche ( $3.19 )
+AllyMcnab posts small blind [$0.01]
+hundche posts big blind [$0.02]
+** Dealing down cards **
+AllyMcnab calls [$0.01]
+hundche raises [$0.03]
+AllyMcnab calls [$0.03]
+** Dealing flop ** [ Jc, Ad, Kd ]
+hundche checks
+AllyMcnab bets [$0.02]
+hundche raises [$0.09]
+AllyMcnab calls [$0.07]
+** Dealing turn ** [ As ]
+hundche bets [$0.14]
+AllyMcnab calls [$0.14]
+** Dealing river ** [ 2s ]
+hundche bets [$0.50]
+AllyMcnab folds
+** Summary **
+hundche collected [ $0.53 ]
+
+
+#Game No : 502148826
+***** 888poker Hand History for Game 502148826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 09 2018 15:03:59
+Table Geelong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: AllyMcnab ( $3.40 )
+Seat 9: hundche ( $3.44 )
+hundche posts small blind [$0.01]
+AllyMcnab posts big blind [$0.02]
+** Dealing down cards **
+hundche raises [$0.04]
+AllyMcnab raises [$0.06]
+hundche calls [$0.03]
+** Dealing flop ** [ Ad, 3d, 3s ]
+AllyMcnab bets [$0.16]
+hundche calls [$0.16]
+** Dealing turn ** [ Kh ]
+AllyMcnab checks
+hundche bets [$0.18]
+AllyMcnab calls [$0.18]
+** Dealing river ** [ 9c ]
+AllyMcnab checks
+hundche checks
+** Summary **
+AllyMcnab shows [ 5h, 5d ]
+hundche shows [ Th, Ac ]
+hundche collected [ $0.79 ]
+
+

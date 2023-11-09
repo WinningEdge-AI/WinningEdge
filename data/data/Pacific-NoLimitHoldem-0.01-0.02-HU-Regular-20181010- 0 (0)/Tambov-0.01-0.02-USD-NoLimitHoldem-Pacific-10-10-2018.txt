@@ -1,0 +1,95 @@
+#Game No : 503599950
+***** 888poker Hand History for Game 503599950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 08:33:52
+Table Tambov 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mikey2236 ( $0.80 )
+Seat 7: Der3kiy ( $0.80 )
+Mikey2236 posts small blind [$0.01]
+Der3kiy posts big blind [$0.02]
+** Dealing down cards **
+Mikey2236 raises [$0.03]
+Der3kiy calls [$0.02]
+** Dealing flop ** [ 2h, Qh, 2d ]
+Der3kiy bets [$0.02]
+Mikey2236 raises [$0.04]
+Der3kiy raises [$0.04]
+Mikey2236 calls [$0.02]
+** Dealing turn ** [ 9s ]
+Der3kiy bets [$0.08]
+Mikey2236 calls [$0.08]
+** Dealing river ** [ Jc ]
+Der3kiy bets [$0.18]
+Mikey2236 folds
+** Summary **
+Der3kiy collected [ $0.34 ]
+
+
+#Game No : 503599995
+***** 888poker Hand History for Game 503599995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 08:34:59
+Table Tambov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mikey2236 ( $0.62 )
+Seat 7: Der3kiy ( $0.96 )
+Der3kiy posts small blind [$0.01]
+Mikey2236 posts big blind [$0.02]
+** Dealing down cards **
+Der3kiy calls [$0.01]
+Mikey2236 raises [$0.60]
+Der3kiy calls [$0.60]
+** Dealing flop ** [ Kh, Kd, 9s ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ 7c ]
+** Summary **
+Mikey2236 shows [ 8c, 9h ]
+Der3kiy shows [ Qd, Kc ]
+Der3kiy collected [ $1.17 ]
+
+
+#Game No : 503600008
+***** 888poker Hand History for Game 503600008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 08:35:20
+Table Tambov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Bacchant ( $1 )
+Seat 7: Der3kiy ( $1.51 )
+Der3kiy posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+Der3kiy calls [$0.01]
+Bacchant raises [$0.04]
+Der3kiy calls [$0.04]
+** Dealing flop ** [ 2d, 2h, Jd ]
+Bacchant bets [$0.06]
+Der3kiy calls [$0.06]
+** Dealing turn ** [ 3h ]
+Bacchant checks
+Der3kiy bets [$0.06]
+Bacchant calls [$0.06]
+** Dealing river ** [ 6d ]
+Bacchant checks
+Der3kiy bets [$0.68]
+Bacchant folds
+** Summary **
+Der3kiy collected [ $0.34 ]
+
+
+#Game No : 503616672
+***** 888poker Hand History for Game 503616672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 13:16:25
+Table Tambov 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Bacchant ( $1.69 )
+Seat 6: Hook1236 ( $1.98 )
+Hook1236 posts small blind [$0.01]
+** Dealing down cards **
+Bacchant folds
+** Summary **
+Hook1236 collected [ $0.01 ]
+
+

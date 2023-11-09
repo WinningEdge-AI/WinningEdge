@@ -1,0 +1,84 @@
+#Game No : 463176409
+***** 888poker Hand History for Game 463176409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:26:02
+Table Nis 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: kmlm73 ( $1.95 )
+Seat 6: SPCWOLF ( $2.27 )
+SPCWOLF posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+SPCWOLF raises [$0.03]
+kmlm73 folds
+** Summary **
+SPCWOLF collected [ $0.04 ]
+
+
+#Game No : 463176415
+***** 888poker Hand History for Game 463176415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:26:10
+Table Nis 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: kmlm73 ( $1.93 )
+Seat 6: SPCWOLF ( $2.29 )
+kmlm73 posts small blind [$0.01]
+SPCWOLF posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.05]
+SPCWOLF calls [$0.04]
+** Dealing flop ** [ 7h, Js, Jd ]
+SPCWOLF checks
+kmlm73 bets [$0.07]
+SPCWOLF folds
+** Summary **
+kmlm73 collected [ $0.12 ]
+
+
+#Game No : 463176427
+***** 888poker Hand History for Game 463176427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:26:31
+Table Nis 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: kmlm73 ( $1.99 )
+Seat 6: SPCWOLF ( $2.23 )
+SPCWOLF posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+SPCWOLF raises [$0.03]
+kmlm73 folds
+** Summary **
+SPCWOLF collected [ $0.04 ]
+
+
+#Game No : 463176435
+***** 888poker Hand History for Game 463176435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 08:26:44
+Table Nis 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SPCWOLF ( $2.25 )
+Seat 10: Bobni14 ( $3.41 )
+SPCWOLF posts small blind [$0.01]
+Bobni14 posts big blind [$0.02]
+** Dealing down cards **
+SPCWOLF raises [$0.03]
+Bobni14 calls [$0.02]
+** Dealing flop ** [ 8s, 7c, 7s ]
+Bobni14 checks
+SPCWOLF bets [$0.06]
+Bobni14 calls [$0.06]
+** Dealing turn ** [ 2s ]
+Bobni14 checks
+SPCWOLF checks
+** Dealing river ** [ 6c ]
+Bobni14 bets [$0.13]
+SPCWOLF calls [$0.13]
+** Summary **
+Bobni14 shows [ 9d, Tc ]
+SPCWOLF mucks [ 8d, 6s ]
+Bobni14 collected [ $0.44 ]
+
+

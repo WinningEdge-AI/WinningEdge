@@ -1,0 +1,54 @@
+#Game No : 500146749
+***** 888poker Hand History for Game 500146749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:14:42
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: reginolik ( $0.80 )
+Seat 2: Shipa01 ( $0.80 )
+reginolik posts small blind [$0.01]
+Shipa01 posts big blind [$0.02]
+** Dealing down cards **
+reginolik calls [$0.01]
+Shipa01 checks
+** Dealing flop ** [ As, 2c, 8h ]
+Shipa01 checks
+reginolik checks
+** Dealing turn ** [ 9d ]
+Shipa01 checks
+reginolik checks
+** Dealing river ** [ 9h ]
+Shipa01 bets [$0.78]
+reginolik folds
+** Summary **
+Shipa01 collected [ $0.04 ]
+
+
+#Game No : 500146757
+***** 888poker Hand History for Game 500146757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 23:14:48
+Table Athens 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: reginolik ( $0.78 )
+Seat 2: Shipa01 ( $0.82 )
+Shipa01 posts small blind [$0.01]
+reginolik posts big blind [$0.02]
+** Dealing down cards **
+Shipa01 calls [$0.01]
+reginolik checks
+** Dealing flop ** [ 8h, Kc, 2c ]
+reginolik checks
+Shipa01 checks
+** Dealing turn ** [ Qc ]
+reginolik checks
+Shipa01 checks
+** Dealing river ** [ As ]
+reginolik checks
+Shipa01 checks
+** Summary **
+reginolik shows [ 3h, 2d ]
+Shipa01 mucks [ 4d, Jh ]
+reginolik collected [ $0.04 ]
+
+

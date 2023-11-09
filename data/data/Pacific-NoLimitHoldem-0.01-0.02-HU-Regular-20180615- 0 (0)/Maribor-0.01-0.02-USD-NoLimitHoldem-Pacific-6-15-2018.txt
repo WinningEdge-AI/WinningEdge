@@ -1,0 +1,407 @@
+#Game No : 604198693
+***** 888poker Hand History for Game 604198693 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 17:03:44
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 6: heiter888 ( $2.32 )
+Seat 7: sashaG10 ( $1.29 )
+heiter888 posts small blind [$0.01]
+sashaG10 posts big blind [$0.02]
+** Dealing down cards **
+heiter888 folds
+** Summary **
+sashaG10 collected [ $0.03 ]
+
+
+#Game No : 604198704
+***** 888poker Hand History for Game 604198704 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 17:03:50
+Table Maribor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: heiter888 ( $2.31 )
+Seat 7: sashaG10 ( $1.30 )
+heiter888 posts small blind [$0.01]
+sashaG10 posts big blind [$0.02]
+** Dealing down cards **
+heiter888 raises [$0.03]
+sashaG10 folds
+** Summary **
+heiter888 collected [ $0.04 ]
+
+
+#Game No : 604198714
+***** 888poker Hand History for Game 604198714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 17:04:05
+Table Maribor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: heiter888 ( $2.33 )
+Seat 7: sashaG10 ( $1.28 )
+sashaG10 posts small blind [$0.01]
+heiter888 posts big blind [$0.02]
+** Dealing down cards **
+sashaG10 folds
+** Summary **
+heiter888 collected [ $0.03 ]
+
+
+#Game No : 604200638
+***** 888poker Hand History for Game 604200638 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 18:14:00
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ezzzz14 ( $1.12 )
+Seat 7: sashaG10 ( $0.30 )
+Ezzzz14 posts small blind [$0.01]
+sashaG10 posts big blind [$0.02]
+** Dealing down cards **
+Ezzzz14 calls [$0.01]
+sashaG10 checks
+** Dealing flop ** [ Jd, Ad, 9d ]
+sashaG10 checks
+Ezzzz14 bets [$0.02]
+sashaG10 folds
+** Summary **
+Ezzzz14 did not show his hand
+Ezzzz14 collected [ $0.04 ]
+
+
+#Game No : 604200645
+***** 888poker Hand History for Game 604200645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 18:14:20
+Table Maribor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Ezzzz14 ( $1.14 )
+Seat 7: sashaG10 ( $0.28 )
+sashaG10 posts small blind [$0.01]
+Ezzzz14 posts big blind [$0.02]
+** Dealing down cards **
+sashaG10 calls [$0.01]
+Ezzzz14 checks
+** Dealing flop ** [ Qs, 4d, 2s ]
+Ezzzz14 checks
+sashaG10 checks
+** Dealing turn ** [ 9c ]
+Ezzzz14 checks
+sashaG10 bets [$0.02]
+Ezzzz14 calls [$0.02]
+** Dealing river ** [ 2d ]
+Ezzzz14 checks
+sashaG10 checks
+** Summary **
+Ezzzz14 shows [ 2h, 5h ]
+sashaG10 mucks [ 5d, Kd ]
+Ezzzz14 collected [ $0.08 ]
+
+
+#Game No : 604200657
+***** 888poker Hand History for Game 604200657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 18:14:51
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ezzzz14 ( $1.18 )
+Seat 7: sashaG10 ( $0.24 )
+Ezzzz14 posts small blind [$0.01]
+sashaG10 posts big blind [$0.02]
+** Dealing down cards **
+Ezzzz14 calls [$0.01]
+sashaG10 raises [$0.04]
+Ezzzz14 calls [$0.04]
+** Dealing flop ** [ Td, 3c, 9c ]
+sashaG10 bets [$0.06]
+Ezzzz14 calls [$0.06]
+** Dealing turn ** [ 6c ]
+sashaG10 bets [$0.06]
+Ezzzz14 calls [$0.06]
+** Dealing river ** [ 3d ]
+sashaG10 bets [$0.04]
+Ezzzz14 calls [$0.04]
+** Summary **
+sashaG10 shows [ Jd, Qs ]
+Ezzzz14 shows [ Ah, 9h ]
+Ezzzz14 collected [ $0.42 ]
+
+
+#Game No : 604200663
+***** 888poker Hand History for Game 604200663 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 18:15:24
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ezzzz14 ( $1.38 )
+Seat 2: LuisGonzlezH ( $0.80 )
+Ezzzz14 posts small blind [$0.01]
+LuisGonzlezH posts big blind [$0.02]
+** Dealing down cards **
+Ezzzz14 calls [$0.01]
+LuisGonzlezH checks
+** Dealing flop ** [ Ah, 5s, Jc ]
+LuisGonzlezH checks
+Ezzzz14 bets [$0.02]
+LuisGonzlezH calls [$0.02]
+** Dealing turn ** [ 3d ]
+LuisGonzlezH checks
+Ezzzz14 bets [$0.02]
+LuisGonzlezH folds
+** Summary **
+Ezzzz14 collected [ $0.08 ]
+
+
+#Game No : 604200672
+***** 888poker Hand History for Game 604200672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 18:15:47
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ezzzz14 ( $1.42 )
+Seat 2: LuisGonzlezH ( $0.76 )
+LuisGonzlezH posts small blind [$0.01]
+Ezzzz14 posts big blind [$0.02]
+** Dealing down cards **
+LuisGonzlezH calls [$0.01]
+Ezzzz14 raises [$0.02]
+LuisGonzlezH calls [$0.02]
+** Dealing flop ** [ 3c, 8s, 8c ]
+Ezzzz14 bets [$0.04]
+LuisGonzlezH calls [$0.04]
+** Dealing turn ** [ 7d ]
+Ezzzz14 bets [$0.08]
+LuisGonzlezH calls [$0.08]
+** Dealing river ** [ 2h ]
+Ezzzz14 bets [$0.16]
+LuisGonzlezH folds
+** Summary **
+Ezzzz14 collected [ $0.30 ]
+
+
+#Game No : 604201842
+***** 888poker Hand History for Game 604201842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 19:16:24
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Van1212 ( $1.59 )
+Seat 2: ItaloAcosta ( $1.33 )
+ItaloAcosta posts small blind [$0.01]
+Van1212 posts big blind [$0.02]
+** Dealing down cards **
+ItaloAcosta calls [$0.01]
+Van1212 checks
+** Dealing flop ** [ 3c, Kd, 4d ]
+Van1212 checks
+ItaloAcosta bets [$0.04]
+Van1212 calls [$0.04]
+** Dealing turn ** [ 9s ]
+Van1212 checks
+ItaloAcosta checks
+** Dealing river ** [ 4s ]
+Van1212 bets [$0.08]
+ItaloAcosta raises [$0.20]
+Van1212 calls [$0.12]
+** Summary **
+ItaloAcosta shows [ 4c, Qh ]
+Van1212 mucks [ Kh, 9d ]
+ItaloAcosta collected [ $0.49 ]
+
+
+#Game No : 604202839
+***** 888poker Hand History for Game 604202839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:15:25
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ItaloAcosta ( $2.26 )
+Seat 6: Lezaleas ( $1.82 )
+ItaloAcosta posts small blind [$0.01]
+** Dealing down cards **
+Lezaleas folds
+** Summary **
+ItaloAcosta did not show his hand
+ItaloAcosta collected [ $0.01 ]
+
+
+#Game No : 604202845
+***** 888poker Hand History for Game 604202845 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:16:30
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ItaloAcosta ( $2.26 )
+Seat 7: bckitten44 ( $1 )
+ItaloAcosta posts small blind [$0.01]
+bckitten44 posts big blind [$0.02]
+** Dealing down cards **
+ItaloAcosta raises [$0.04]
+bckitten44 raises [$0.98]
+ItaloAcosta folds
+** Summary **
+bckitten44 collected [ $0.10 ]
+
+
+#Game No : 604202864
+***** 888poker Hand History for Game 604202864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:18:12
+Table Maribor 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ItaloAcosta ( $2.17 )
+Seat 6: Lezaleas ( $1.09 )
+ItaloAcosta posts small blind [$0.01]
+Lezaleas posts big blind [$0.02]
+** Dealing down cards **
+ItaloAcosta calls [$0.01]
+Lezaleas checks
+** Dealing flop ** [ 7d, 5h, 2d ]
+ItaloAcosta checks
+Lezaleas bets [$0.02]
+ItaloAcosta folds
+** Summary **
+Lezaleas did not show his hand
+Lezaleas collected [ $0.04 ]
+
+
+#Game No : 604202868
+***** 888poker Hand History for Game 604202868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:18:47
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ItaloAcosta ( $2.15 )
+Seat 6: Lezaleas ( $1.11 )
+ItaloAcosta posts small blind [$0.01]
+Lezaleas posts big blind [$0.02]
+** Dealing down cards **
+ItaloAcosta calls [$0.01]
+Lezaleas raises [$0.04]
+ItaloAcosta folds
+** Summary **
+Lezaleas did not show his hand
+Lezaleas collected [ $0.04 ]
+
+
+#Game No : 604202871
+***** 888poker Hand History for Game 604202871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:19:01
+Table Maribor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ItaloAcosta ( $2.13 )
+Seat 6: Lezaleas ( $1.13 )
+Lezaleas posts small blind [$0.01]
+ItaloAcosta posts big blind [$0.02]
+** Dealing down cards **
+Lezaleas folds
+** Summary **
+ItaloAcosta did not show his hand
+ItaloAcosta collected [ $0.03 ]
+
+
+#Game No : 604202872
+***** 888poker Hand History for Game 604202872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:19:07
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ItaloAcosta ( $2.14 )
+Seat 6: Lezaleas ( $1.12 )
+ItaloAcosta posts small blind [$0.01]
+Lezaleas posts big blind [$0.02]
+** Dealing down cards **
+ItaloAcosta calls [$0.01]
+Lezaleas checks
+** Dealing flop ** [ 5d, 5h, 7s ]
+Lezaleas bets [$0.02]
+ItaloAcosta folds
+** Summary **
+Lezaleas did not show his hand
+Lezaleas collected [ $0.04 ]
+
+
+#Game No : 604202879
+***** 888poker Hand History for Game 604202879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:19:27
+Table Maribor 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ItaloAcosta ( $2.12 )
+Seat 6: Lezaleas ( $1.14 )
+Lezaleas posts small blind [$0.01]
+ItaloAcosta posts big blind [$0.02]
+** Dealing down cards **
+Lezaleas folds
+** Summary **
+ItaloAcosta collected [ $0.03 ]
+
+
+#Game No : 604202880
+***** 888poker Hand History for Game 604202880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:19:36
+Table Maribor 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ItaloAcosta ( $2.13 )
+Seat 6: Lezaleas ( $1.13 )
+ItaloAcosta posts small blind [$0.01]
+Lezaleas posts big blind [$0.02]
+** Dealing down cards **
+ItaloAcosta raises [$0.04]
+Lezaleas raises [$0.13]
+ItaloAcosta calls [$0.10]
+** Dealing flop ** [ 3h, 3s, 8h ]
+Lezaleas bets [$0.15]
+ItaloAcosta calls [$0.15]
+** Dealing turn ** [ 9c ]
+Lezaleas bets [$0.30]
+ItaloAcosta folds
+** Summary **
+Lezaleas collected [ $0.57 ]
+
+
+#Game No : 604204204
+***** 888poker Hand History for Game 604204204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 22:36:15
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: km34954 ( $0.41 )
+Seat 9: RockyWarr777 ( $0.74 )
+km34954 posts small blind [$0.01]
+RockyWarr777 posts big blind [$0.02]
+** Dealing down cards **
+km34954 raises [$0.05]
+RockyWarr777 folds
+** Summary **
+km34954 did not show his hand
+km34954 collected [ $0.04 ]
+
+
+#Game No : 604204208
+***** 888poker Hand History for Game 604204208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 22:36:24
+Table Maribor 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: km34954 ( $0.43 )
+Seat 9: RockyWarr777 ( $0.72 )
+RockyWarr777 posts small blind [$0.01]
+km34954 posts big blind [$0.02]
+** Dealing down cards **
+RockyWarr777 raises [$0.05]
+km34954 raises [$0.16]
+RockyWarr777 raises [$0.32]
+km34954 raises [$0.25]
+RockyWarr777 calls [$0.05]
+** Dealing flop ** [ Js, 5c, 4d ]
+** Dealing turn ** [ 3h ]
+** Dealing river ** [ Th ]
+** Summary **
+km34954 shows [ Kh, Qd ]
+RockyWarr777 shows [ Ac, Kd ]
+RockyWarr777 collected [ $0.81 ]
+
+

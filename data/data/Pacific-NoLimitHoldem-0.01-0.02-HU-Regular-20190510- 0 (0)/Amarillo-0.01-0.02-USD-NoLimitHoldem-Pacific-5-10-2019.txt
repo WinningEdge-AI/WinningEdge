@@ -1,0 +1,30 @@
+#Game No : 464950088
+***** 888poker Hand History for Game 464950088 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 05 2019 07:17:33
+Table Amarillo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: NickBAINBAIN ( $1.76 )
+Seat 10: vova62534 ( $1.60 )
+NickBAINBAIN posts small blind [$0.01]
+vova62534 posts big blind [$0.02]
+** Dealing down cards **
+NickBAINBAIN raises [$0.05]
+vova62534 calls [$0.04]
+** Dealing flop ** [ 3s, Ad, 6c ]
+vova62534 checks
+NickBAINBAIN bets [$0.06]
+vova62534 calls [$0.06]
+** Dealing turn ** [ 5h ]
+vova62534 checks
+NickBAINBAIN bets [$0.15]
+vova62534 calls [$0.15]
+** Dealing river ** [ 6d ]
+vova62534 bets [$0.02]
+NickBAINBAIN calls [$0.02]
+** Summary **
+vova62534 shows [ 6s, 8s ]
+NickBAINBAIN mucks [ Kc, 9d ]
+vova62534 collected [ $0.55 ]
+
+

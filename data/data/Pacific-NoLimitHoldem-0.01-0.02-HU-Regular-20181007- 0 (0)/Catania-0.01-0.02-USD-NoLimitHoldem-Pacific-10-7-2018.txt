@@ -1,0 +1,405 @@
+#Game No : 503459201
+***** 888poker Hand History for Game 503459201 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:08:18
+Table Catania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Konevec ( $0.82 )
+Seat 6: Pinvax ( $0.78 )
+Konevec posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+Konevec raises [$0.03]
+Pinvax calls [$0.02]
+** Dealing flop ** [ 9s, 3d, 6d ]
+Pinvax checks
+Konevec bets [$0.04]
+Pinvax calls [$0.04]
+** Dealing turn ** [ 4d ]
+Pinvax checks
+Konevec bets [$0.08]
+Pinvax calls [$0.08]
+** Dealing river ** [ Jh ]
+Pinvax checks
+Konevec checks
+** Summary **
+Pinvax shows [ 5h, 9c ]
+Konevec mucks [ 3c, Ks ]
+Pinvax collected [ $0.30 ]
+
+
+#Game No : 503459238
+***** 888poker Hand History for Game 503459238 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:08:58
+Table Catania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Konevec ( $0.66 )
+Seat 7: molbad ( $0.80 )
+molbad posts small blind [$0.01]
+Konevec posts big blind [$0.02]
+** Dealing down cards **
+molbad calls [$0.01]
+Konevec raises [$0.04]
+molbad folds
+** Summary **
+Konevec did not show his hand
+Konevec collected [ $0.04 ]
+
+
+#Game No : 503459254
+***** 888poker Hand History for Game 503459254 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:09:13
+Table Catania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Konevec ( $0.68 )
+Seat 7: molbad ( $0.78 )
+Konevec posts small blind [$0.01]
+molbad posts big blind [$0.02]
+** Dealing down cards **
+Konevec calls [$0.01]
+molbad checks
+** Dealing flop ** [ Jh, Qd, 9c ]
+molbad checks
+Konevec checks
+** Dealing turn ** [ 9s ]
+molbad bets [$0.04]
+Konevec folds
+** Summary **
+molbad collected [ $0.04 ]
+
+
+#Game No : 503459270
+***** 888poker Hand History for Game 503459270 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 07:09:38
+Table Catania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Konevec ( $0.66 )
+Seat 7: molbad ( $0.80 )
+molbad posts small blind [$0.01]
+Konevec posts big blind [$0.02]
+** Dealing down cards **
+molbad calls [$0.01]
+Konevec raises [$0.04]
+molbad calls [$0.04]
+** Dealing flop ** [ 8c, Jh, Ks ]
+Konevec checks
+molbad checks
+** Dealing turn ** [ 6d ]
+Konevec checks
+molbad checks
+** Dealing river ** [ 2d ]
+Konevec checks
+molbad checks
+** Summary **
+Konevec shows [ 9d, 3d ]
+molbad shows [ Th, 9h ]
+molbad collected [ $0.12 ]
+
+
+#Game No : 503467491
+***** 888poker Hand History for Game 503467491 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 10:07:35
+Table Catania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: tomm_joness9 ( $0.67 )
+Seat 7: Superkotei4 ( $1.69 )
+Superkotei4 posts small blind [$0.01]
+tomm_joness9 posts big blind [$0.02]
+** Dealing down cards **
+Superkotei4 folds
+** Summary **
+tomm_joness9 collected [ $0.03 ]
+
+
+#Game No : 503467496
+***** 888poker Hand History for Game 503467496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 10:07:43
+Table Catania 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tomm_joness9 ( $0.68 )
+Seat 7: Superkotei4 ( $1.68 )
+tomm_joness9 posts small blind [$0.01]
+Superkotei4 posts big blind [$0.02]
+** Dealing down cards **
+tomm_joness9 calls [$0.01]
+Superkotei4 checks
+** Dealing flop ** [ Kh, Ts, 4c ]
+Superkotei4 checks
+tomm_joness9 checks
+** Dealing turn ** [ Kd ]
+Superkotei4 checks
+tomm_joness9 checks
+** Dealing river ** [ 5h ]
+Superkotei4 checks
+tomm_joness9 checks
+** Summary **
+Superkotei4 shows [ 8c, 5d ]
+tomm_joness9 mucks [ Jd, 6d ]
+Superkotei4 collected [ $0.04 ]
+
+
+#Game No : 503467523
+***** 888poker Hand History for Game 503467523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 10:08:22
+Table Catania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: tomm_joness9 ( $0.66 )
+Seat 7: Superkotei4 ( $1.70 )
+Superkotei4 posts small blind [$0.01]
+tomm_joness9 posts big blind [$0.02]
+** Dealing down cards **
+Superkotei4 folds
+** Summary **
+tomm_joness9 collected [ $0.03 ]
+
+
+#Game No : 503467529
+***** 888poker Hand History for Game 503467529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 10:08:27
+Table Catania 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tomm_joness9 ( $0.67 )
+Seat 7: Superkotei4 ( $1.69 )
+tomm_joness9 posts small blind [$0.01]
+Superkotei4 posts big blind [$0.02]
+** Dealing down cards **
+tomm_joness9 calls [$0.01]
+Superkotei4 checks
+** Dealing flop ** [ 8h, 3c, 2c ]
+Superkotei4 bets [$0.02]
+tomm_joness9 folds
+** Summary **
+Superkotei4 collected [ $0.04 ]
+
+
+#Game No : 503467539
+***** 888poker Hand History for Game 503467539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 10:08:39
+Table Catania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: tomm_joness9 ( $0.65 )
+Seat 7: Superkotei4 ( $1.71 )
+Superkotei4 posts small blind [$0.01]
+tomm_joness9 posts big blind [$0.02]
+** Dealing down cards **
+Superkotei4 folds
+** Summary **
+tomm_joness9 collected [ $0.03 ]
+
+
+#Game No : 503467543
+***** 888poker Hand History for Game 503467543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 10:08:43
+Table Catania 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tomm_joness9 ( $0.66 )
+Seat 7: Superkotei4 ( $1.70 )
+tomm_joness9 posts small blind [$0.01]
+Superkotei4 posts big blind [$0.02]
+** Dealing down cards **
+tomm_joness9 calls [$0.01]
+Superkotei4 checks
+** Dealing flop ** [ As, 5h, Jd ]
+Superkotei4 checks
+tomm_joness9 checks
+** Dealing turn ** [ Ks ]
+Superkotei4 checks
+tomm_joness9 checks
+** Dealing river ** [ 6d ]
+Superkotei4 checks
+tomm_joness9 checks
+** Summary **
+Superkotei4 shows [ Th, 7s ]
+tomm_joness9 mucks [ 8s, 2c ]
+Superkotei4 collected [ $0.04 ]
+
+
+#Game No : 503467566
+***** 888poker Hand History for Game 503467566 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 10:09:06
+Table Catania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: tomm_joness9 ( $0.64 )
+Seat 7: Superkotei4 ( $1.72 )
+Superkotei4 posts small blind [$0.01]
+tomm_joness9 posts big blind [$0.02]
+** Dealing down cards **
+Superkotei4 raises [$0.03]
+tomm_joness9 folds
+** Summary **
+Superkotei4 collected [ $0.04 ]
+
+
+#Game No : 503467571
+***** 888poker Hand History for Game 503467571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 10:09:14
+Table Catania 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tomm_joness9 ( $0.62 )
+Seat 7: Superkotei4 ( $1.74 )
+tomm_joness9 posts small blind [$0.01]
+Superkotei4 posts big blind [$0.02]
+** Dealing down cards **
+tomm_joness9 calls [$0.01]
+Superkotei4 raises [$0.04]
+tomm_joness9 folds
+** Summary **
+Superkotei4 collected [ $0.04 ]
+
+
+#Game No : 503477247
+***** 888poker Hand History for Game 503477247 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 13:11:20
+Table Catania 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: union455 ( $1.10 )
+Seat 4: lukyhuy ( $1.04 )
+lukyhuy posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+lukyhuy raises [$0.04]
+union455 calls [$0.03]
+** Dealing flop ** [ Qh, Tc, 6h ]
+union455 checks
+lukyhuy checks
+** Dealing turn ** [ Th ]
+union455 checks
+lukyhuy bets [$0.06]
+union455 folds
+** Summary **
+lukyhuy did not show his hand
+lukyhuy collected [ $0.10 ]
+
+
+#Game No : 503477281
+***** 888poker Hand History for Game 503477281 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 13:12:17
+Table Catania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: union455 ( $1.05 )
+Seat 4: lukyhuy ( $1.09 )
+union455 posts small blind [$0.01]
+lukyhuy posts big blind [$0.02]
+** Dealing down cards **
+union455 calls [$0.01]
+lukyhuy checks
+** Dealing flop ** [ Ah, 4s, Qs ]
+lukyhuy checks
+union455 bets [$0.02]
+lukyhuy folds
+** Summary **
+union455 collected [ $0.04 ]
+
+
+#Game No : 503477315
+***** 888poker Hand History for Game 503477315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 13:12:55
+Table Catania 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: union455 ( $1.07 )
+Seat 4: lukyhuy ( $1.07 )
+lukyhuy posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+lukyhuy calls [$0.01]
+union455 checks
+** Dealing flop ** [ Js, 9d, 8d ]
+union455 checks
+lukyhuy checks
+** Dealing turn ** [ Ks ]
+union455 checks
+lukyhuy bets [$0.04]
+union455 folds
+** Summary **
+lukyhuy collected [ $0.04 ]
+
+
+#Game No : 503477612
+***** 888poker Hand History for Game 503477612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 13:18:51
+Table Catania 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: union455 ( $1 )
+Seat 4: lukyhuy ( $1.57 )
+union455 posts small blind [$0.01]
+lukyhuy posts big blind [$0.02]
+** Dealing down cards **
+union455 folds
+** Summary **
+lukyhuy collected [ $0.03 ]
+
+
+#Game No : 503477619
+***** 888poker Hand History for Game 503477619 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 13:19:01
+Table Catania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: union455 ( $1 )
+Seat 4: lukyhuy ( $1.58 )
+union455 posts small blind [$0.01]
+lukyhuy posts big blind [$0.02]
+** Dealing down cards **
+union455 raises [$0.05]
+lukyhuy folds
+** Summary **
+union455 collected [ $0.04 ]
+
+
+#Game No : 503477640
+***** 888poker Hand History for Game 503477640 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 13:19:20
+Table Catania 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: union455 ( $1.02 )
+Seat 4: lukyhuy ( $1.56 )
+lukyhuy posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+lukyhuy raises [$0.03]
+union455 calls [$0.02]
+** Dealing flop ** [ Qh, 5h, As ]
+union455 checks
+lukyhuy bets [$0.04]
+union455 folds
+** Summary **
+lukyhuy collected [ $0.08 ]
+
+
+#Game No : 503477673
+***** 888poker Hand History for Game 503477673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 13:20:12
+Table Catania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: union455 ( $1 )
+Seat 4: lukyhuy ( $1.60 )
+union455 posts small blind [$0.01]
+lukyhuy posts big blind [$0.02]
+** Dealing down cards **
+union455 calls [$0.01]
+lukyhuy checks
+** Dealing flop ** [ 4s, 7d, Kc ]
+lukyhuy checks
+union455 bets [$0.02]
+lukyhuy folds
+** Summary **
+union455 collected [ $0.04 ]
+
+

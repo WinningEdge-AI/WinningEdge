@@ -1,0 +1,165 @@
+#Game No : 518484245
+***** 888poker Hand History for Game 518484245 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 13:56:55
+Table Eugene 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: maxstonemxx ( $1.19 )
+Seat 2: OpticAdams1 ( $0.99 )
+maxstonemxx posts small blind [$0.01]
+** Dealing down cards **
+OpticAdams1 folds
+** Summary **
+maxstonemxx collected [ $0.01 ]
+
+
+#Game No : 518484364
+***** 888poker Hand History for Game 518484364 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 13:57:58
+Table Eugene 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: VDagostino ( $0.80 )
+Seat 7: hawaythela1 ( $0.80 )
+VDagostino posts small blind [$0.01]
+** Dealing down cards **
+hawaythela1 folds
+** Summary **
+VDagostino collected [ $0.01 ]
+
+
+#Game No : 518484649
+***** 888poker Hand History for Game 518484649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 14:00:43
+Table Eugene 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: VDagostino ( $0.64 )
+Seat 9: NickKunitz ( $1.65 )
+NickKunitz posts small blind [$0.01]
+VDagostino posts big blind [$0.02]
+** Dealing down cards **
+NickKunitz folds
+** Summary **
+VDagostino collected [ $0.03 ]
+
+
+#Game No : 518484806
+***** 888poker Hand History for Game 518484806 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 14:02:14
+Table Eugene 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ArgoW ( $1.61 )
+Seat 9: NickKunitz ( $1.62 )
+ArgoW posts small blind [$0.01]
+NickKunitz posts big blind [$0.02]
+** Dealing down cards **
+ArgoW raises [$0.05]
+NickKunitz calls [$0.04]
+** Dealing flop ** [ 2d, 7h, 3s ]
+NickKunitz checks
+ArgoW checks
+** Dealing turn ** [ 7s ]
+NickKunitz checks
+ArgoW checks
+** Dealing river ** [ 5d ]
+NickKunitz bets [$0.04]
+ArgoW calls [$0.04]
+** Summary **
+NickKunitz shows [ 5s, 6h ]
+ArgoW mucks [ Qs, Kd ]
+NickKunitz collected [ $0.19 ]
+
+
+#Game No : 518484879
+***** 888poker Hand History for Game 518484879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 14:02:56
+Table Eugene 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: ArgoW ( $1.51 )
+Seat 9: NickKunitz ( $1.71 )
+NickKunitz posts small blind [$0.01]
+ArgoW posts big blind [$0.02]
+** Dealing down cards **
+NickKunitz folds
+** Summary **
+ArgoW collected [ $0.03 ]
+
+
+#Game No : 518484887
+***** 888poker Hand History for Game 518484887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 14:03:01
+Table Eugene 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ArgoW ( $1.52 )
+Seat 9: NickKunitz ( $1.70 )
+ArgoW posts small blind [$0.01]
+NickKunitz posts big blind [$0.02]
+** Dealing down cards **
+ArgoW raises [$0.05]
+NickKunitz calls [$0.04]
+** Dealing flop ** [ As, Qc, Ac ]
+NickKunitz checks
+ArgoW bets [$0.04]
+NickKunitz folds
+** Summary **
+ArgoW collected [ $0.12 ]
+
+
+#Game No : 518488886
+***** 888poker Hand History for Game 518488886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 14:45:09
+Table Eugene 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tonymoney ( $0.58 )
+Seat 6: l2pSoloQ ( $1.43 )
+tonymoney posts small blind [$0.01]
+l2pSoloQ posts big blind [$0.02]
+** Dealing down cards **
+tonymoney calls [$0.01]
+l2pSoloQ raises [$0.04]
+tonymoney folds
+** Summary **
+l2pSoloQ collected [ $0.04 ]
+
+
+#Game No : 518488905
+***** 888poker Hand History for Game 518488905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 14:45:23
+Table Eugene 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: tonymoney ( $0.56 )
+Seat 6: l2pSoloQ ( $1.45 )
+l2pSoloQ posts small blind [$0.01]
+tonymoney posts big blind [$0.02]
+** Dealing down cards **
+l2pSoloQ folds
+** Summary **
+tonymoney collected [ $0.03 ]
+
+
+#Game No : 518488941
+***** 888poker Hand History for Game 518488941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 14:45:47
+Table Eugene 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: tonymoney ( $0.57 )
+Seat 4: usnegocios ( $1 )
+usnegocios posts small blind [$0.01]
+tonymoney posts big blind [$0.02]
+** Dealing down cards **
+usnegocios calls [$0.01]
+tonymoney checks
+** Dealing flop ** [ 7h, Ac, 2c ]
+tonymoney bets [$0.02]
+usnegocios folds
+** Summary **
+tonymoney collected [ $0.04 ]
+
+

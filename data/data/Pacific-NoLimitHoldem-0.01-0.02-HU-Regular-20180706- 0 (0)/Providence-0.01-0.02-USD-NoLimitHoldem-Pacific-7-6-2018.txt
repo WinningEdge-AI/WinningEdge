@@ -1,0 +1,83 @@
+#Game No : 1190559638
+***** 888poker Hand History for Game 1190559638 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 07 2018 02:06:10
+Table Providence 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ekonievic ( $2.36 )
+Seat 6: delen148 ( $2.01 )
+delen148 posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+delen148 folds
+** Summary **
+ekonievic collected [ $0.03 ]
+
+
+#Game No : 1190559650
+***** 888poker Hand History for Game 1190559650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 07 2018 02:06:15
+Table Providence 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ekonievic ( $2.37 )
+Seat 6: delen148 ( $2 )
+ekonievic posts small blind [$0.01]
+** Dealing down cards **
+delen148 folds
+** Summary **
+ekonievic collected [ $0.01 ]
+
+
+#Game No : 1190586843
+***** 888poker Hand History for Game 1190586843 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 07 2018 04:49:47
+Table Providence 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Peebear ( $1.25 )
+Seat 10: avramia1 ( $2.80 )
+Peebear posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Peebear raises [$0.03]
+avramia1 calls [$0.02]
+** Dealing flop ** [ 4d, 5d, 3c ]
+avramia1 checks
+Peebear checks
+** Dealing turn ** [ Th ]
+avramia1 bets [$0.05]
+Peebear calls [$0.05]
+** Dealing river ** [ 8s ]
+avramia1 bets [$0.18]
+Peebear folds
+** Summary **
+avramia1 collected [ $0.17 ]
+
+
+#Game No : 1190586937
+***** 888poker Hand History for Game 1190586937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 07 2018 04:50:20
+Table Providence 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: Peebear ( $1.16 )
+Seat 10: avramia1 ( $2.88 )
+avramia1 posts small blind [$0.01]
+Peebear posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+Peebear checks
+** Dealing flop ** [ 6c, 8d, Jc ]
+Peebear checks
+avramia1 checks
+** Dealing turn ** [ Ah ]
+Peebear checks
+avramia1 checks
+** Dealing river ** [ 9h ]
+Peebear bets [$0.02]
+avramia1 folds
+** Summary **
+Peebear collected [ $0.04 ]
+
+

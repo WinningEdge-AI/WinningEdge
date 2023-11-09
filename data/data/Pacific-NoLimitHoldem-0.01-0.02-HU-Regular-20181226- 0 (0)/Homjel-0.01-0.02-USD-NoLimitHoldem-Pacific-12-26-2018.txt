@@ -1,0 +1,413 @@
+#Game No : 1234568300
+***** 888poker Hand History for Game 1234568300 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:11:31
+Table Homjel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $0.74 )
+Seat 4: fitzcarter ( $2.80 )
+marcunha1 posts small blind [$0.01]
+fitzcarter posts big blind [$0.02]
+** Dealing down cards **
+marcunha1 raises [$0.03]
+fitzcarter calls [$0.02]
+** Dealing flop ** [ 6c, Ts, Kc ]
+fitzcarter bets [$0.02]
+marcunha1 calls [$0.02]
+** Dealing turn ** [ 6s ]
+fitzcarter bets [$0.06]
+marcunha1 calls [$0.06]
+** Dealing river ** [ 3d ]
+fitzcarter bets [$0.24]
+marcunha1 folds
+** Summary **
+fitzcarter did not show his hand
+fitzcarter collected [ $0.23 ]
+
+
+#Game No : 1234568401
+***** 888poker Hand History for Game 1234568401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:12:10
+Table Homjel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $0.62 )
+Seat 4: fitzcarter ( $2.91 )
+fitzcarter posts small blind [$0.01]
+marcunha1 posts big blind [$0.02]
+** Dealing down cards **
+fitzcarter calls [$0.01]
+marcunha1 raises [$0.04]
+fitzcarter calls [$0.04]
+** Dealing flop ** [ Td, 6s, Jd ]
+marcunha1 bets [$0.12]
+fitzcarter calls [$0.12]
+** Dealing turn ** [ 8d ]
+marcunha1 bets [$0.02]
+fitzcarter calls [$0.02]
+** Dealing river ** [ 4c ]
+marcunha1 bets [$0.02]
+fitzcarter raises [$0.24]
+marcunha1 calls [$0.22]
+** Summary **
+fitzcarter shows [ 7s, 6h ]
+marcunha1 shows [ Ts, Kc ]
+marcunha1 collected [ $0.83 ]
+
+
+#Game No : 1234568511
+***** 888poker Hand History for Game 1234568511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:12:49
+Table Homjel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $1.01 )
+Seat 4: fitzcarter ( $2.47 )
+marcunha1 posts small blind [$0.01]
+fitzcarter posts big blind [$0.02]
+** Dealing down cards **
+marcunha1 raises [$0.03]
+fitzcarter calls [$0.02]
+** Dealing flop ** [ 7h, 7d, 6s ]
+fitzcarter checks
+marcunha1 bets [$0.02]
+fitzcarter folds
+** Summary **
+marcunha1 did not show his hand
+marcunha1 collected [ $0.08 ]
+
+
+#Game No : 1234568554
+***** 888poker Hand History for Game 1234568554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:13:07
+Table Homjel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $1.05 )
+Seat 4: fitzcarter ( $2.43 )
+fitzcarter posts small blind [$0.01]
+marcunha1 posts big blind [$0.02]
+** Dealing down cards **
+fitzcarter calls [$0.01]
+marcunha1 checks
+** Dealing flop ** [ 7s, 4d, Js ]
+marcunha1 checks
+fitzcarter checks
+** Dealing turn ** [ 8s ]
+marcunha1 checks
+fitzcarter checks
+** Dealing river ** [ 2c ]
+marcunha1 checks
+fitzcarter bets [$0.02]
+marcunha1 calls [$0.02]
+** Summary **
+fitzcarter shows [ 6s, 8h ]
+marcunha1 mucks [ As, 6d ]
+fitzcarter collected [ $0.08 ]
+
+
+#Game No : 1234568680
+***** 888poker Hand History for Game 1234568680 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:13:52
+Table Homjel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $1.01 )
+Seat 4: fitzcarter ( $2.47 )
+marcunha1 posts small blind [$0.01]
+fitzcarter posts big blind [$0.02]
+** Dealing down cards **
+marcunha1 calls [$0.01]
+fitzcarter raises [$0.04]
+marcunha1 calls [$0.04]
+** Dealing flop ** [ Qs, 3d, 5c ]
+fitzcarter checks
+marcunha1 checks
+** Dealing turn ** [ 5s ]
+fitzcarter bets [$0.02]
+marcunha1 calls [$0.02]
+** Dealing river ** [ 4d ]
+fitzcarter checks
+marcunha1 bets [$0.16]
+fitzcarter folds
+** Summary **
+marcunha1 did not show his hand
+marcunha1 collected [ $0.15 ]
+
+
+#Game No : 1234568771
+***** 888poker Hand History for Game 1234568771 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:14:24
+Table Homjel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $1.08 )
+Seat 4: fitzcarter ( $2.39 )
+fitzcarter posts small blind [$0.01]
+marcunha1 posts big blind [$0.02]
+** Dealing down cards **
+fitzcarter calls [$0.01]
+marcunha1 checks
+** Dealing flop ** [ 8d, 7d, Qh ]
+marcunha1 bets [$0.02]
+fitzcarter calls [$0.02]
+** Dealing turn ** [ Qc ]
+marcunha1 bets [$0.02]
+fitzcarter calls [$0.02]
+** Dealing river ** [ 4c ]
+marcunha1 bets [$0.02]
+fitzcarter folds
+** Summary **
+marcunha1 did not show his hand
+marcunha1 collected [ $0.12 ]
+
+
+#Game No : 1234568872
+***** 888poker Hand History for Game 1234568872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:14:58
+Table Homjel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $1.14 )
+Seat 4: fitzcarter ( $2.33 )
+marcunha1 posts small blind [$0.01]
+fitzcarter posts big blind [$0.02]
+** Dealing down cards **
+marcunha1 calls [$0.01]
+fitzcarter checks
+** Dealing flop ** [ 5d, Kd, Qh ]
+fitzcarter checks
+marcunha1 checks
+** Dealing turn ** [ 9c ]
+fitzcarter checks
+marcunha1 bets [$0.02]
+fitzcarter folds
+** Summary **
+marcunha1 did not show his hand
+marcunha1 collected [ $0.04 ]
+
+
+#Game No : 1234568966
+***** 888poker Hand History for Game 1234568966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:15:34
+Table Homjel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $1.16 )
+Seat 4: fitzcarter ( $2.31 )
+fitzcarter posts small blind [$0.01]
+marcunha1 posts big blind [$0.02]
+** Dealing down cards **
+fitzcarter calls [$0.01]
+marcunha1 checks
+** Dealing flop ** [ 6h, 8s, Qd ]
+marcunha1 bets [$0.02]
+fitzcarter raises [$0.04]
+marcunha1 calls [$0.02]
+** Dealing turn ** [ 9s ]
+marcunha1 bets [$0.02]
+fitzcarter raises [$0.04]
+marcunha1 calls [$0.02]
+** Dealing river ** [ 5d ]
+marcunha1 checks
+fitzcarter checks
+** Summary **
+marcunha1 shows [ Js, 8h ]
+fitzcarter shows [ Tc, Td ]
+fitzcarter collected [ $0.19 ]
+
+
+#Game No : 1234569062
+***** 888poker Hand History for Game 1234569062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:16:06
+Table Homjel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $1.06 )
+Seat 4: fitzcarter ( $2.40 )
+marcunha1 posts small blind [$0.01]
+fitzcarter posts big blind [$0.02]
+** Dealing down cards **
+marcunha1 raises [$0.05]
+fitzcarter folds
+** Summary **
+marcunha1 did not show his hand
+marcunha1 collected [ $0.04 ]
+
+
+#Game No : 1234569097
+***** 888poker Hand History for Game 1234569097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:16:19
+Table Homjel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $1.08 )
+Seat 4: fitzcarter ( $2.38 )
+fitzcarter posts small blind [$0.01]
+marcunha1 posts big blind [$0.02]
+** Dealing down cards **
+fitzcarter calls [$0.01]
+marcunha1 checks
+** Dealing flop ** [ 3c, Kc, 3h ]
+marcunha1 checks
+fitzcarter checks
+** Dealing turn ** [ Jc ]
+marcunha1 checks
+fitzcarter checks
+** Dealing river ** [ 5h ]
+marcunha1 checks
+fitzcarter checks
+** Summary **
+marcunha1 shows [ Qd, 2s ]
+fitzcarter shows [ Td, 4h ]
+marcunha1 collected [ $0.04 ]
+
+
+#Game No : 1234569587
+***** 888poker Hand History for Game 1234569587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:19:20
+Table Homjel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $2.64 )
+Seat 6: Chrisnc19901 ( $1.34 )
+marcunha1 posts small blind [$0.01]
+Chrisnc19901 posts big blind [$0.02]
+** Dealing down cards **
+marcunha1 calls [$0.01]
+Chrisnc19901 checks
+** Dealing flop ** [ 5d, 9s, 7s ]
+Chrisnc19901 checks
+marcunha1 checks
+** Dealing turn ** [ 2s ]
+Chrisnc19901 bets [$0.02]
+marcunha1 calls [$0.02]
+** Dealing river ** [ 8d ]
+Chrisnc19901 checks
+marcunha1 bets [$0.08]
+Chrisnc19901 folds
+** Summary **
+marcunha1 did not show his hand
+marcunha1 collected [ $0.08 ]
+
+
+#Game No : 1234569704
+***** 888poker Hand History for Game 1234569704 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:20:06
+Table Homjel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $2.68 )
+Seat 6: Chrisnc19901 ( $1.30 )
+Chrisnc19901 posts small blind [$0.01]
+marcunha1 posts big blind [$0.02]
+** Dealing down cards **
+Chrisnc19901 raises [$0.03]
+marcunha1 calls [$0.02]
+** Dealing flop ** [ 6d, 5s, Jh ]
+marcunha1 checks
+Chrisnc19901 bets [$0.04]
+marcunha1 folds
+** Summary **
+Chrisnc19901 collected [ $0.08 ]
+
+
+#Game No : 1234569756
+***** 888poker Hand History for Game 1234569756 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:20:24
+Table Homjel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $2.64 )
+Seat 6: Chrisnc19901 ( $1.34 )
+marcunha1 posts small blind [$0.01]
+Chrisnc19901 posts big blind [$0.02]
+** Dealing down cards **
+marcunha1 calls [$0.01]
+Chrisnc19901 checks
+** Dealing flop ** [ 8h, Ts, 6d ]
+Chrisnc19901 bets [$0.02]
+marcunha1 raises [$0.04]
+Chrisnc19901 calls [$0.02]
+** Dealing turn ** [ 8s ]
+Chrisnc19901 checks
+marcunha1 bets [$0.06]
+Chrisnc19901 calls [$0.06]
+** Dealing river ** [ 6s ]
+Chrisnc19901 checks
+marcunha1 bets [$0.12]
+Chrisnc19901 calls [$0.12]
+** Summary **
+marcunha1 shows [ Qs, 5d ]
+Chrisnc19901 shows [ 9d, Tc ]
+Chrisnc19901 collected [ $0.45 ]
+
+
+#Game No : 1234569860
+***** 888poker Hand History for Game 1234569860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:21:05
+Table Homjel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: marcunha1 ( $2.40 )
+Seat 6: Chrisnc19901 ( $1.55 )
+Chrisnc19901 posts small blind [$0.01]
+marcunha1 posts big blind [$0.02]
+** Dealing down cards **
+Chrisnc19901 raises [$0.05]
+marcunha1 calls [$0.04]
+** Dealing flop ** [ Th, 8h, 9h ]
+marcunha1 checks
+Chrisnc19901 bets [$0.06]
+marcunha1 raises [$0.12]
+Chrisnc19901 calls [$0.06]
+** Dealing turn ** [ 3h ]
+marcunha1 checks
+Chrisnc19901 checks
+** Dealing river ** [ 3d ]
+marcunha1 bets [$0.10]
+Chrisnc19901 calls [$0.10]
+** Summary **
+marcunha1 shows [ 7s, 6d ]
+Chrisnc19901 shows [ Qs, Js ]
+Chrisnc19901 collected [ $0.53 ]
+
+
+#Game No : 1234576200
+***** 888poker Hand History for Game 1234576200 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:59:53
+Table Homjel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Agarroz ( $2.24 )
+Seat 9: SunriseMj ( $1 )
+SunriseMj posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+SunriseMj raises [$0.04]
+Agarroz calls [$0.03]
+** Dealing flop ** [ 6h, Qh, 9s ]
+SunriseMj checks
+Agarroz bets [$0.06]
+SunriseMj folds
+** Summary **
+Agarroz did not show his hand
+Agarroz collected [ $0.10 ]
+
+
+#Game No : 1234576294
+***** 888poker Hand History for Game 1234576294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:00:27
+Table Homjel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Agarroz ( $2.29 )
+Seat 9: SunriseMj ( $1 )
+SunriseMj posts small blind [$0.01]
+** Dealing down cards **
+Agarroz folds
+** Summary **
+SunriseMj did not show his hand
+SunriseMj collected [ $0.01 ]
+
+

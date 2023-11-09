@@ -1,0 +1,28 @@
+#Game No : 604515992
+***** 888poker Hand History for Game 604515992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 16:57:35
+Table Southport 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: jchen210 ( $1.22 )
+Seat 10: djek ( $1.05 )
+djek posts small blind [$0.01]
+jchen210 posts big blind [$0.02]
+** Dealing down cards **
+djek calls [$0.01]
+jchen210 checks
+** Dealing flop ** [ 5d, Ad, Kd ]
+jchen210 checks
+djek checks
+** Dealing turn ** [ 8s ]
+jchen210 checks
+djek checks
+** Dealing river ** [ Jc ]
+jchen210 checks
+djek checks
+** Summary **
+jchen210 shows [ Qs, 9h ]
+djek mucks [ 7h, 4d ]
+jchen210 collected [ $0.04 ]
+
+

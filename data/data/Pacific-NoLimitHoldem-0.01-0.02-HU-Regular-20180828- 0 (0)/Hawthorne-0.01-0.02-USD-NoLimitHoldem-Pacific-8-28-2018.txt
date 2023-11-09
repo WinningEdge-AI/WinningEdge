@@ -1,0 +1,41 @@
+#Game No : 501556369
+***** 888poker Hand History for Game 501556369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 11:01:43
+Table Hawthorne 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Ivan1031 ( $1.17 )
+Seat 7: Dagmaer ( $1.17 )
+Dagmaer posts small blind [$0.01]
+Ivan1031 posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer calls [$0.01]
+Ivan1031 checks
+** Dealing flop ** [ 3s, As, Kc ]
+Ivan1031 checks
+Dagmaer checks
+** Dealing turn ** [ 2d ]
+Ivan1031 checks
+Dagmaer bets [$0.04]
+Ivan1031 folds
+** Summary **
+Dagmaer collected [ $0.04 ]
+
+
+#Game No : 501556395
+***** 888poker Hand History for Game 501556395 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 11:01:59
+Table Hawthorne 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Ivan1031 ( $1.15 )
+Seat 7: Dagmaer ( $1.19 )
+Ivan1031 posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+Ivan1031 raises [$0.05]
+Dagmaer folds
+** Summary **
+Ivan1031 collected [ $0.04 ]
+
+

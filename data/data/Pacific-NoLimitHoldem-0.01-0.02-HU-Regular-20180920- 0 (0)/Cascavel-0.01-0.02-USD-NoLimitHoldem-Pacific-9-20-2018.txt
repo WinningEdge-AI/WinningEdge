@@ -1,0 +1,47 @@
+#Game No : 502637401
+***** 888poker Hand History for Game 502637401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 12:55:08
+Table Cascavel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: revansh_chad ( $0.78 )
+Seat 7: Ph7lOne ( $0.85 )
+Ph7lOne posts small blind [$0.01]
+revansh_chad posts big blind [$0.02]
+** Dealing down cards **
+Ph7lOne folds
+** Summary **
+revansh_chad did not show his hand
+revansh_chad collected [ $0.03 ]
+
+
+#Game No : 502637406
+***** 888poker Hand History for Game 502637406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 12:55:14
+Table Cascavel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: revansh_chad ( $0.79 )
+Seat 7: Ph7lOne ( $0.84 )
+revansh_chad posts small blind [$0.01]
+Ph7lOne posts big blind [$0.02]
+** Dealing down cards **
+revansh_chad calls [$0.01]
+Ph7lOne raises [$0.02]
+revansh_chad calls [$0.02]
+** Dealing flop ** [ 3c, 9d, Jc ]
+Ph7lOne bets [$0.06]
+revansh_chad calls [$0.06]
+** Dealing turn ** [ 9h ]
+Ph7lOne checks
+revansh_chad bets [$0.04]
+Ph7lOne calls [$0.04]
+** Dealing river ** [ Ts ]
+Ph7lOne checks
+revansh_chad checks
+** Summary **
+Ph7lOne shows [ As, Js ]
+revansh_chad mucks [ Qh, Tc ]
+Ph7lOne collected [ $0.27 ]
+
+

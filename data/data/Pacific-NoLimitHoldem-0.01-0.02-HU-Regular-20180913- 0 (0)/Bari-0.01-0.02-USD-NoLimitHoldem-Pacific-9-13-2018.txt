@@ -1,0 +1,450 @@
+#Game No : 502275795
+***** 888poker Hand History for Game 502275795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 08:26:43
+Table Bari 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kumudurajm ( $0.96 )
+Seat 2: luizmptr ( $0.45 )
+kumudurajm posts small blind [$0.01]
+luizmptr posts big blind [$0.02]
+** Dealing down cards **
+kumudurajm raises [$0.05]
+luizmptr calls [$0.04]
+** Dealing flop ** [ 7s, 5c, Tc ]
+luizmptr checks
+kumudurajm bets [$0.90]
+luizmptr calls [$0.39]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 6h ]
+** Summary **
+kumudurajm shows [ Js, Td ]
+luizmptr shows [ 9d, 7h ]
+kumudurajm collected [ $0.85 ]
+
+
+#Game No : 502275823
+***** 888poker Hand History for Game 502275823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 08:27:27
+Table Bari 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: kumudurajm ( $1.36 )
+Seat 4: nebojsa018 ( $0.80 )
+nebojsa018 posts small blind [$0.01]
+kumudurajm posts big blind [$0.02]
+** Dealing down cards **
+nebojsa018 folds
+** Summary **
+kumudurajm collected [ $0.03 ]
+
+
+#Game No : 502275831
+***** 888poker Hand History for Game 502275831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 08:27:36
+Table Bari 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kumudurajm ( $1.37 )
+Seat 4: nebojsa018 ( $0.79 )
+kumudurajm posts small blind [$0.01]
+nebojsa018 posts big blind [$0.02]
+** Dealing down cards **
+kumudurajm calls [$0.01]
+nebojsa018 checks
+** Dealing flop ** [ 8h, 9s, Jd ]
+nebojsa018 checks
+kumudurajm checks
+** Dealing turn ** [ 4d ]
+nebojsa018 checks
+kumudurajm bets [$0.02]
+nebojsa018 calls [$0.02]
+** Dealing river ** [ Tc ]
+nebojsa018 checks
+kumudurajm bets [$0.06]
+nebojsa018 folds
+** Summary **
+kumudurajm collected [ $0.08 ]
+
+
+#Game No : 502275856
+***** 888poker Hand History for Game 502275856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 08:28:09
+Table Bari 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: kumudurajm ( $1.41 )
+Seat 4: nebojsa018 ( $0.75 )
+nebojsa018 posts small blind [$0.01]
+kumudurajm posts big blind [$0.02]
+** Dealing down cards **
+nebojsa018 calls [$0.01]
+kumudurajm checks
+** Dealing flop ** [ 5s, 5d, Ac ]
+kumudurajm bets [$0.06]
+nebojsa018 calls [$0.06]
+** Dealing turn ** [ Kd ]
+kumudurajm bets [$0.02]
+nebojsa018 calls [$0.02]
+** Dealing river ** [ 9c ]
+kumudurajm bets [$0.04]
+nebojsa018 raises [$0.44]
+kumudurajm folds
+** Summary **
+nebojsa018 collected [ $0.27 ]
+
+
+#Game No : 502288258
+***** 888poker Hand History for Game 502288258 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 12:11:10
+Table Bari 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Voldemar121 ( $2.10 )
+Seat 9: peaceAApoker ( $1.12 )
+peaceAApoker posts small blind [$0.01]
+** Dealing down cards **
+Voldemar121 folds
+** Summary **
+peaceAApoker collected [ $0.01 ]
+
+
+#Game No : 502288347
+***** 888poker Hand History for Game 502288347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 12:12:19
+Table Bari 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Truelight99 ( $0.87 )
+Seat 6: usoppp ( $1 )
+Truelight99 posts small blind [$0.01]
+usoppp posts big blind [$0.02]
+** Dealing down cards **
+Truelight99 raises [$0.05]
+usoppp calls [$0.04]
+** Dealing flop ** [ Qd, Ad, 6s ]
+usoppp checks
+Truelight99 bets [$0.12]
+usoppp folds
+** Summary **
+Truelight99 collected [ $0.12 ]
+
+
+#Game No : 502288390
+***** 888poker Hand History for Game 502288390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 12:12:53
+Table Bari 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Truelight99 ( $0.93 )
+Seat 6: usoppp ( $0.94 )
+usoppp posts small blind [$0.01]
+Truelight99 posts big blind [$0.02]
+** Dealing down cards **
+usoppp calls [$0.01]
+Truelight99 checks
+** Dealing flop ** [ 3d, 7d, Th ]
+Truelight99 checks
+usoppp checks
+** Dealing turn ** [ 4d ]
+Truelight99 checks
+usoppp checks
+** Dealing river ** [ 6s ]
+Truelight99 bets [$0.04]
+usoppp calls [$0.04]
+** Summary **
+Truelight99 shows [ 9c, 5s ]
+usoppp mucks [ 8d, 6c ]
+Truelight99 collected [ $0.12 ]
+
+
+#Game No : 502291936
+***** 888poker Hand History for Game 502291936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 13:06:11
+Table Bari 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: thickstaff ( $1.21 )
+Seat 6: kramar101 ( $1 )
+kramar101 posts small blind [$0.01]
+thickstaff posts big blind [$0.02]
+** Dealing down cards **
+kramar101 folds
+** Summary **
+thickstaff collected [ $0.03 ]
+
+
+#Game No : 502291944
+***** 888poker Hand History for Game 502291944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 13:06:16
+Table Bari 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: thickstaff ( $1.22 )
+Seat 6: kramar101 ( $1 )
+thickstaff posts small blind [$0.01]
+kramar101 posts big blind [$0.02]
+** Dealing down cards **
+thickstaff raises [$0.05]
+kramar101 calls [$0.04]
+** Dealing flop ** [ Kc, As, Kd ]
+kramar101 checks
+thickstaff bets [$0.02]
+kramar101 calls [$0.02]
+** Dealing turn ** [ 2d ]
+kramar101 checks
+thickstaff bets [$0.02]
+kramar101 raises [$0.06]
+thickstaff folds
+** Summary **
+kramar101 collected [ $0.19 ]
+
+
+#Game No : 502291964
+***** 888poker Hand History for Game 502291964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 13:06:37
+Table Bari 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: thickstaff ( $1.12 )
+Seat 6: kramar101 ( $1.09 )
+kramar101 posts small blind [$0.01]
+thickstaff posts big blind [$0.02]
+** Dealing down cards **
+kramar101 calls [$0.01]
+thickstaff checks
+** Dealing flop ** [ 3h, 8c, Th ]
+thickstaff bets [$0.04]
+kramar101 calls [$0.04]
+** Dealing turn ** [ 5c ]
+thickstaff checks
+kramar101 bets [$0.08]
+thickstaff folds
+** Summary **
+kramar101 collected [ $0.12 ]
+
+
+#Game No : 502295849
+***** 888poker Hand History for Game 502295849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:17:01
+Table Bari 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Ziedch ( $1.30 )
+Seat 6: W0orm ( $2.01 )
+W0orm posts small blind [$0.01]
+Ziedch posts big blind [$0.02]
+** Dealing down cards **
+W0orm raises [$0.05]
+Ziedch folds
+** Summary **
+W0orm collected [ $0.04 ]
+
+
+#Game No : 502295870
+***** 888poker Hand History for Game 502295870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:17:18
+Table Bari 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ziedch ( $1.28 )
+Seat 6: W0orm ( $2.03 )
+Ziedch posts small blind [$0.01]
+W0orm posts big blind [$0.02]
+** Dealing down cards **
+Ziedch calls [$0.01]
+W0orm checks
+** Dealing flop ** [ 5s, Kc, 9c ]
+W0orm checks
+Ziedch bets [$0.02]
+W0orm raises [$0.10]
+Ziedch folds
+** Summary **
+W0orm collected [ $0.08 ]
+
+
+#Game No : 502295901
+***** 888poker Hand History for Game 502295901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:17:56
+Table Bari 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Ziedch ( $1.24 )
+Seat 6: W0orm ( $2.07 )
+W0orm posts small blind [$0.01]
+Ziedch posts big blind [$0.02]
+** Dealing down cards **
+W0orm folds
+** Summary **
+Ziedch collected [ $0.03 ]
+
+
+#Game No : 502296386
+***** 888poker Hand History for Game 502296386 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:26:45
+Table Bari 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ziedch ( $2.22 )
+Seat 6: W0orm ( $2.15 )
+Ziedch posts small blind [$0.01]
+W0orm posts big blind [$0.02]
+** Dealing down cards **
+Ziedch raises [$0.03]
+W0orm folds
+** Summary **
+Ziedch collected [ $0.04 ]
+
+
+#Game No : 502296976
+***** 888poker Hand History for Game 502296976 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:38:01
+Table Bari 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: W0orm ( $2.14 )
+Seat 7: arrlennox ( $1 )
+arrlennox posts small blind [$0.01]
+W0orm posts big blind [$0.02]
+** Dealing down cards **
+arrlennox calls [$0.01]
+W0orm checks
+** Dealing flop ** [ Jc, 7h, Td ]
+W0orm checks
+arrlennox checks
+** Dealing turn ** [ 9h ]
+W0orm bets [$0.04]
+arrlennox folds
+** Summary **
+W0orm did not show his hand
+W0orm collected [ $0.04 ]
+
+
+#Game No : 502297008
+***** 888poker Hand History for Game 502297008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:38:37
+Table Bari 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: W0orm ( $2.16 )
+Seat 7: arrlennox ( $0.98 )
+W0orm posts small blind [$0.01]
+arrlennox posts big blind [$0.02]
+** Dealing down cards **
+W0orm folds
+** Summary **
+arrlennox did not show his hand
+arrlennox collected [ $0.03 ]
+
+
+#Game No : 502297013
+***** 888poker Hand History for Game 502297013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:38:42
+Table Bari 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: W0orm ( $2.15 )
+Seat 7: arrlennox ( $0.99 )
+arrlennox posts small blind [$0.01]
+W0orm posts big blind [$0.02]
+** Dealing down cards **
+arrlennox folds
+** Summary **
+W0orm did not show his hand
+W0orm collected [ $0.03 ]
+
+
+#Game No : 502297022
+***** 888poker Hand History for Game 502297022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:38:53
+Table Bari 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: W0orm ( $2.16 )
+Seat 7: arrlennox ( $0.98 )
+W0orm posts small blind [$0.01]
+arrlennox posts big blind [$0.02]
+** Dealing down cards **
+W0orm folds
+** Summary **
+arrlennox did not show his hand
+arrlennox collected [ $0.03 ]
+
+
+#Game No : 502297026
+***** 888poker Hand History for Game 502297026 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:38:58
+Table Bari 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: W0orm ( $2.15 )
+Seat 7: arrlennox ( $0.99 )
+arrlennox posts small blind [$0.01]
+W0orm posts big blind [$0.02]
+** Dealing down cards **
+arrlennox calls [$0.01]
+W0orm checks
+** Dealing flop ** [ Js, Kc, 2c ]
+W0orm checks
+arrlennox bets [$0.10]
+W0orm folds
+** Summary **
+arrlennox did not show his hand
+arrlennox collected [ $0.04 ]
+
+
+#Game No : 502297046
+***** 888poker Hand History for Game 502297046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:39:22
+Table Bari 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: W0orm ( $2.13 )
+Seat 7: arrlennox ( $1.01 )
+W0orm posts small blind [$0.01]
+arrlennox posts big blind [$0.02]
+** Dealing down cards **
+W0orm raises [$0.05]
+arrlennox calls [$0.04]
+** Dealing flop ** [ As, Ah, Jd ]
+arrlennox bets [$0.10]
+W0orm folds
+** Summary **
+arrlennox did not show his hand
+arrlennox collected [ $0.12 ]
+
+
+#Game No : 502297096
+***** 888poker Hand History for Game 502297096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:40:12
+Table Bari 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: W0orm ( $2.07 )
+Seat 7: arrlennox ( $1.07 )
+arrlennox posts small blind [$0.01]
+W0orm posts big blind [$0.02]
+** Dealing down cards **
+arrlennox folds
+** Summary **
+W0orm did not show his hand
+W0orm collected [ $0.03 ]
+
+
+#Game No : 502297101
+***** 888poker Hand History for Game 502297101 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 14:40:18
+Table Bari 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: W0orm ( $2.08 )
+Seat 7: arrlennox ( $1.06 )
+W0orm posts small blind [$0.01]
+arrlennox posts big blind [$0.02]
+** Dealing down cards **
+W0orm folds
+** Summary **
+arrlennox did not show his hand
+arrlennox collected [ $0.03 ]
+
+

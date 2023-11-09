@@ -1,0 +1,727 @@
+#Game No : 503060426
+***** 888poker Hand History for Game 503060426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 16:58:31
+Table Tambov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: John45687 ( $0.85 )
+Seat 9: Themachine38 ( $1.23 )
+John45687 posts small blind [$0.01]
+Themachine38 posts big blind [$0.02]
+** Dealing down cards **
+John45687 raises [$0.05]
+Themachine38 folds
+** Summary **
+John45687 collected [ $0.04 ]
+
+
+#Game No : 503060429
+***** 888poker Hand History for Game 503060429 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 16:58:41
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: John45687 ( $0.87 )
+Seat 9: Themachine38 ( $1.21 )
+Themachine38 posts small blind [$0.01]
+John45687 posts big blind [$0.02]
+** Dealing down cards **
+Themachine38 folds
+** Summary **
+John45687 collected [ $0.03 ]
+
+
+#Game No : 503065262
+***** 888poker Hand History for Game 503065262 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 21:17:11
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Markpaez22 ( $2.32 )
+Seat 2: barbelith ( $4.64 )
+Markpaez22 posts small blind [$0.01]
+barbelith posts big blind [$0.02]
+** Dealing down cards **
+Markpaez22 calls [$0.01]
+barbelith raises [$0.02]
+Markpaez22 calls [$0.02]
+** Dealing flop ** [ Kh, 9c, Ts ]
+Markpaez22 bets [$0.02]
+barbelith raises [$0.06]
+Markpaez22 raises [$0.08]
+barbelith calls [$0.04]
+** Dealing turn ** [ 4h ]
+Markpaez22 bets [$0.02]
+barbelith calls [$0.02]
+** Dealing river ** [ 4d ]
+Markpaez22 checks
+barbelith checks
+** Summary **
+Markpaez22 shows [ 3d, Jd ]
+barbelith shows [ Qs, 8c ]
+barbelith collected [ $0.30 ]
+
+
+#Game No : 503065274
+***** 888poker Hand History for Game 503065274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 21:17:59
+Table Tambov 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Markpaez22 ( $2.16 )
+Seat 2: barbelith ( $4.78 )
+Markpaez22 posts small blind [$0.01]
+barbelith posts big blind [$0.02]
+** Dealing down cards **
+Markpaez22 calls [$0.01]
+barbelith raises [$0.02]
+Markpaez22 calls [$0.02]
+** Dealing flop ** [ Qd, Ah, Td ]
+barbelith bets [$0.06]
+Markpaez22 calls [$0.06]
+** Dealing turn ** [ Ac ]
+barbelith bets [$0.13]
+Markpaez22 calls [$0.13]
+** Dealing river ** [ 2h ]
+barbelith bets [$0.46]
+Markpaez22 calls [$0.46]
+** Summary **
+barbelith shows [ 9s, Qs ]
+Markpaez22 mucks [ Ts, 3h ]
+barbelith collected [ $1.30 ]
+
+
+#Game No : 503066534
+***** 888poker Hand History for Game 503066534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 22:49:29
+Table Tambov 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Kkarl15 ( $1 )
+Seat 7: dmitriDZY14 ( $0.80 )
+Kkarl15 posts small blind [$0.01]
+dmitriDZY14 posts big blind [$0.02]
+** Dealing down cards **
+Kkarl15 calls [$0.01]
+dmitriDZY14 checks
+** Dealing flop ** [ Th, 9c, Js ]
+dmitriDZY14 bets [$0.02]
+Kkarl15 raises [$0.04]
+dmitriDZY14 calls [$0.02]
+** Dealing turn ** [ Qd ]
+dmitriDZY14 checks
+Kkarl15 checks
+** Dealing river ** [ Jd ]
+dmitriDZY14 bets [$0.16]
+Kkarl15 raises [$0.32]
+dmitriDZY14 calls [$0.16]
+** Summary **
+Kkarl15 shows [ Qs, 3h ]
+dmitriDZY14 shows [ Kd, Tc ]
+dmitriDZY14 collected [ $0.72 ]
+
+
+#Game No : 503066543
+***** 888poker Hand History for Game 503066543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 22:49:54
+Table Tambov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Kkarl15 ( $0.62 )
+Seat 7: dmitriDZY14 ( $1.14 )
+dmitriDZY14 posts small blind [$0.01]
+Kkarl15 posts big blind [$0.02]
+** Dealing down cards **
+dmitriDZY14 calls [$0.01]
+Kkarl15 raises [$0.04]
+dmitriDZY14 calls [$0.04]
+** Dealing flop ** [ 9s, 8d, Ah ]
+Kkarl15 checks
+dmitriDZY14 bets [$0.08]
+Kkarl15 calls [$0.08]
+** Dealing turn ** [ 6d ]
+Kkarl15 bets [$0.02]
+dmitriDZY14 raises [$0.08]
+Kkarl15 calls [$0.06]
+** Dealing river ** [ Ad ]
+Kkarl15 bets [$0.02]
+dmitriDZY14 raises [$0.10]
+Kkarl15 calls [$0.08]
+** Summary **
+dmitriDZY14 shows [ Ac, Th ]
+Kkarl15 mucks [ 6h, Kc ]
+dmitriDZY14 collected [ $0.60 ]
+
+
+#Game No : 503067747
+***** 888poker Hand History for Game 503067747 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 23:57:38
+Table Tambov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: borodo ( $0.56 )
+Seat 2: 13DAZ13 ( $1.13 )
+13DAZ13 posts small blind [$0.01]
+borodo posts big blind [$0.02]
+** Dealing down cards **
+13DAZ13 raises [$0.05]
+borodo folds
+** Summary **
+13DAZ13 did not show his hand
+13DAZ13 collected [ $0.04 ]
+
+
+#Game No : 503067752
+***** 888poker Hand History for Game 503067752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 23:57:49
+Table Tambov 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: borodo ( $0.54 )
+Seat 2: 13DAZ13 ( $1.15 )
+borodo posts small blind [$0.01]
+13DAZ13 posts big blind [$0.02]
+** Dealing down cards **
+borodo calls [$0.01]
+13DAZ13 checks
+** Dealing flop ** [ Qs, 8h, Qc ]
+13DAZ13 checks
+borodo checks
+** Dealing turn ** [ Qd ]
+13DAZ13 checks
+borodo bets [$0.02]
+13DAZ13 raises [$0.04]
+borodo calls [$0.02]
+** Dealing river ** [ 9d ]
+13DAZ13 bets [$1.09]
+borodo calls [$0.48]
+** Summary **
+borodo shows [ 9c, 7s ]
+13DAZ13 shows [ 8d, Qh ]
+13DAZ13 collected [ $1.02 ]
+
+
+#Game No : 503067769
+***** 888poker Hand History for Game 503067769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 23:58:19
+Table Tambov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: borodo ( $0.80 )
+Seat 2: 13DAZ13 ( $1.63 )
+13DAZ13 posts small blind [$0.01]
+borodo posts big blind [$0.02]
+** Dealing down cards **
+13DAZ13 folds
+** Summary **
+borodo did not show his hand
+borodo collected [ $0.03 ]
+
+
+#Game No : 503069038
+***** 888poker Hand History for Game 503069038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:45:56
+Table Tambov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: FokusNik696 ( $0.83 )
+Seat 4: gochips ( $0.91 )
+FokusNik696 posts small blind [$0.01]
+gochips posts big blind [$0.02]
+** Dealing down cards **
+FokusNik696 raises [$0.03]
+gochips calls [$0.02]
+** Dealing flop ** [ 9h, 9c, Js ]
+gochips checks
+FokusNik696 bets [$0.05]
+gochips folds
+** Summary **
+FokusNik696 collected [ $0.08 ]
+
+
+#Game No : 503069043
+***** 888poker Hand History for Game 503069043 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 00:46:12
+Table Tambov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: FokusNik696 ( $0.87 )
+Seat 4: gochips ( $0.87 )
+gochips posts small blind [$0.01]
+FokusNik696 posts big blind [$0.02]
+** Dealing down cards **
+gochips raises [$0.05]
+FokusNik696 calls [$0.04]
+** Dealing flop ** [ 7c, 5c, 2c ]
+FokusNik696 checks
+gochips checks
+** Dealing turn ** [ 9s ]
+FokusNik696 bets [$0.06]
+gochips calls [$0.06]
+** Dealing river ** [ Qh ]
+FokusNik696 bets [$0.06]
+gochips raises [$0.75]
+FokusNik696 folds
+** Summary **
+gochips collected [ $0.34 ]
+
+
+#Game No : 503075357
+***** 888poker Hand History for Game 503075357 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:09:03
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.13 )
+Seat 9: jimboda ( $0.52 )
+jimboda posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+jimboda calls [$0.01]
+OlegH1 raises [$0.04]
+jimboda calls [$0.04]
+** Dealing flop ** [ Kh, 7d, 6c ]
+OlegH1 bets [$0.08]
+jimboda folds
+** Summary **
+OlegH1 collected [ $0.12 ]
+
+
+#Game No : 503075373
+***** 888poker Hand History for Game 503075373 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:09:30
+Table Tambov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.19 )
+Seat 9: jimboda ( $0.46 )
+OlegH1 posts small blind [$0.01]
+jimboda posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+jimboda raises [$0.04]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ 2s, Ts, 6d ]
+jimboda bets [$0.06]
+OlegH1 folds
+** Summary **
+jimboda collected [ $0.12 ]
+
+
+#Game No : 503075401
+***** 888poker Hand History for Game 503075401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:10:07
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.13 )
+Seat 9: jimboda ( $0.52 )
+jimboda posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+jimboda calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ Ac, Jd, Jc ]
+OlegH1 checks
+jimboda checks
+** Dealing turn ** [ 6c ]
+OlegH1 checks
+jimboda checks
+** Dealing river ** [ 8h ]
+OlegH1 bets [$0.02]
+jimboda folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 503075424
+***** 888poker Hand History for Game 503075424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:10:39
+Table Tambov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.15 )
+Seat 9: jimboda ( $0.50 )
+OlegH1 posts small blind [$0.01]
+jimboda posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+jimboda checks
+** Dealing flop ** [ 4h, 6d, Th ]
+jimboda checks
+OlegH1 bets [$0.02]
+jimboda calls [$0.02]
+** Dealing turn ** [ Qc ]
+jimboda checks
+OlegH1 bets [$0.02]
+jimboda calls [$0.02]
+** Dealing river ** [ 2s ]
+jimboda checks
+OlegH1 checks
+** Summary **
+jimboda shows [ 9s, 6s ]
+OlegH1 mucks [ 6h, 8d ]
+jimboda collected [ $0.12 ]
+
+
+#Game No : 503075446
+***** 888poker Hand History for Game 503075446 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:11:07
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.09 )
+Seat 9: jimboda ( $0.56 )
+jimboda posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+jimboda folds
+** Summary **
+OlegH1 collected [ $0.03 ]
+
+
+#Game No : 503075451
+***** 888poker Hand History for Game 503075451 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:11:13
+Table Tambov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.10 )
+Seat 9: jimboda ( $0.55 )
+OlegH1 posts small blind [$0.01]
+jimboda posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+jimboda checks
+** Dealing flop ** [ Qd, Ts, 9s ]
+jimboda checks
+OlegH1 checks
+** Dealing turn ** [ Kh ]
+jimboda checks
+OlegH1 bets [$0.02]
+jimboda calls [$0.02]
+** Dealing river ** [ 7h ]
+jimboda checks
+OlegH1 bets [$0.07]
+jimboda folds
+** Summary **
+OlegH1 collected [ $0.08 ]
+
+
+#Game No : 503075466
+***** 888poker Hand History for Game 503075466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:11:39
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.14 )
+Seat 9: jimboda ( $0.51 )
+jimboda posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+jimboda calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 9s, Ac, 3s ]
+OlegH1 checks
+jimboda checks
+** Dealing turn ** [ 4c ]
+OlegH1 bets [$0.04]
+jimboda folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 503075480
+***** 888poker Hand History for Game 503075480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:11:58
+Table Tambov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.16 )
+Seat 9: jimboda ( $0.49 )
+OlegH1 posts small blind [$0.01]
+jimboda posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+jimboda checks
+** Dealing flop ** [ Ad, 9h, Qc ]
+jimboda checks
+OlegH1 checks
+** Dealing turn ** [ Td ]
+jimboda checks
+OlegH1 checks
+** Dealing river ** [ 3d ]
+jimboda checks
+OlegH1 checks
+** Summary **
+jimboda shows [ Ks, 3s ]
+OlegH1 mucks [ 6h, Kc ]
+jimboda collected [ $0.04 ]
+
+
+#Game No : 503075500
+***** 888poker Hand History for Game 503075500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 04:12:21
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.14 )
+Seat 9: jimboda ( $0.51 )
+jimboda posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+jimboda calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 9d, 3d, Kh ]
+OlegH1 checks
+jimboda checks
+** Dealing turn ** [ 7c ]
+OlegH1 checks
+jimboda bets [$0.02]
+OlegH1 calls [$0.02]
+** Dealing river ** [ 7s ]
+OlegH1 checks
+jimboda bets [$0.04]
+OlegH1 folds
+** Summary **
+jimboda collected [ $0.08 ]
+
+
+#Game No : 503092368
+***** 888poker Hand History for Game 503092368 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:52:00
+Table Tambov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: AceOSpades91 ( $0.80 )
+Seat 4: Kosamui999 ( $1.17 )
+Kosamui999 posts small blind [$0.01]
+AceOSpades91 posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 folds
+** Summary **
+AceOSpades91 collected [ $0.03 ]
+
+
+#Game No : 503092374
+***** 888poker Hand History for Game 503092374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:52:05
+Table Tambov 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AceOSpades91 ( $0.81 )
+Seat 4: Kosamui999 ( $1.16 )
+AceOSpades91 posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+AceOSpades91 raises [$0.05]
+Kosamui999 raises [$0.12]
+AceOSpades91 calls [$0.08]
+** Dealing flop ** [ 6h, 7c, 5d ]
+Kosamui999 bets [$0.18]
+AceOSpades91 calls [$0.18]
+** Dealing turn ** [ 2c ]
+Kosamui999 checks
+AceOSpades91 checks
+** Dealing river ** [ Js ]
+Kosamui999 checks
+AceOSpades91 bets [$0.49]
+Kosamui999 folds
+** Summary **
+AceOSpades91 collected [ $0.60 ]
+
+
+#Game No : 503092406
+***** 888poker Hand History for Game 503092406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:52:46
+Table Tambov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: AceOSpades91 ( $1.09 )
+Seat 4: Kosamui999 ( $1 )
+Kosamui999 posts small blind [$0.01]
+AceOSpades91 posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 raises [$0.06]
+AceOSpades91 folds
+** Summary **
+Kosamui999 collected [ $0.04 ]
+
+
+#Game No : 503092410
+***** 888poker Hand History for Game 503092410 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:52:55
+Table Tambov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kosamui999 ( $1.02 )
+Seat 6: alexw8556 ( $0.80 )
+Kosamui999 posts small blind [$0.01]
+alexw8556 posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 folds
+** Summary **
+alexw8556 did not show his hand
+alexw8556 collected [ $0.03 ]
+
+
+#Game No : 503092416
+***** 888poker Hand History for Game 503092416 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 10:53:01
+Table Tambov 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Kosamui999 ( $1.01 )
+Seat 6: alexw8556 ( $0.81 )
+alexw8556 posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+alexw8556 calls [$0.01]
+Kosamui999 raises [$0.06]
+alexw8556 calls [$0.06]
+** Dealing flop ** [ 5d, Ks, 3s ]
+Kosamui999 bets [$0.06]
+alexw8556 raises [$0.12]
+Kosamui999 folds
+** Summary **
+alexw8556 collected [ $0.27 ]
+
+
+#Game No : 503096785
+***** 888poker Hand History for Game 503096785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 12:05:11
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: OlegH1 ( $1 )
+Seat 9: BEJIOMAH ( $1.01 )
+BEJIOMAH posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+BEJIOMAH raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ Qh, 9s, 5h ]
+OlegH1 checks
+BEJIOMAH bets [$0.04]
+OlegH1 folds
+** Summary **
+BEJIOMAH collected [ $0.08 ]
+
+
+#Game No : 503097547
+***** 888poker Hand History for Game 503097547 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 12:16:36
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Newfiejam59 ( $0.88 )
+Seat 9: BEJIOMAH ( $1.01 )
+BEJIOMAH posts small blind [$0.01]
+Newfiejam59 posts big blind [$0.02]
+** Dealing down cards **
+BEJIOMAH folds
+** Summary **
+Newfiejam59 collected [ $0.03 ]
+
+
+#Game No : 503099588
+***** 888poker Hand History for Game 503099588 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 12:51:37
+Table Tambov 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: NDA1974 ( $1.04 )
+Seat 9: BEJIOMAH ( $1.07 )
+NDA1974 posts small blind [$0.01]
+BEJIOMAH posts big blind [$0.02]
+** Dealing down cards **
+NDA1974 raises [$0.04]
+BEJIOMAH calls [$0.03]
+** Dealing flop ** [ 7d, 8s, Qd ]
+BEJIOMAH checks
+NDA1974 checks
+** Dealing turn ** [ Ah ]
+BEJIOMAH checks
+NDA1974 bets [$0.05]
+BEJIOMAH calls [$0.05]
+** Dealing river ** [ 6s ]
+BEJIOMAH checks
+NDA1974 checks
+** Summary **
+BEJIOMAH shows [ 9s, 9h ]
+NDA1974 mucks [ 8h, Kd ]
+BEJIOMAH collected [ $0.19 ]
+
+
+#Game No : 503099649
+***** 888poker Hand History for Game 503099649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 12:52:45
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: NDA1974 ( $1 )
+Seat 9: BEJIOMAH ( $1.16 )
+BEJIOMAH posts small blind [$0.01]
+NDA1974 posts big blind [$0.02]
+** Dealing down cards **
+BEJIOMAH folds
+** Summary **
+NDA1974 collected [ $0.03 ]
+
+
+#Game No : 503105139
+***** 888poker Hand History for Game 503105139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 14:31:21
+Table Tambov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bacchant ( $1.32 )
+Seat 9: s1ogger ( $1.41 )
+Bacchant posts small blind [$0.01]
+** Dealing down cards **
+s1ogger folds
+** Summary **
+Bacchant collected [ $0.01 ]
+
+
+#Game No : 503105230
+***** 888poker Hand History for Game 503105230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 14:33:20
+Table Tambov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.80 )
+Seat 4: nick_vampire ( $1 )
+estedemadera posts small blind [$0.01]
+nick_vampire posts big blind [$0.02]
+** Dealing down cards **
+estedemadera raises [$0.03]
+nick_vampire calls [$0.02]
+** Dealing flop ** [ Kh, 6d, 8c ]
+nick_vampire checks
+estedemadera bets [$0.08]
+nick_vampire folds
+** Summary **
+estedemadera collected [ $0.08 ]
+
+
+#Game No : 503105245
+***** 888poker Hand History for Game 503105245 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 09 2018 14:33:38
+Table Tambov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: estedemadera ( $0.84 )
+Seat 4: nick_vampire ( $0.96 )
+nick_vampire posts small blind [$0.01]
+estedemadera posts big blind [$0.02]
+** Dealing down cards **
+nick_vampire calls [$0.01]
+estedemadera checks
+** Dealing flop ** [ Ac, 8d, 4s ]
+estedemadera bets [$0.04]
+nick_vampire folds
+** Summary **
+estedemadera collected [ $0.04 ]
+
+

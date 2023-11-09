@@ -1,0 +1,226 @@
+#Game No : 1234568253
+***** 888poker Hand History for Game 1234568253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:11:15
+Table Edison 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Mr.T1 ( $0.99 )
+Seat 9: Agarroz ( $1.29 )
+Agarroz posts small blind [$0.01]
+Mr.T1 posts big blind [$0.02]
+** Dealing down cards **
+Agarroz calls [$0.01]
+Mr.T1 checks
+** Dealing flop ** [ Kc, 4h, 3d ]
+Mr.T1 bets [$0.02]
+Agarroz calls [$0.02]
+** Dealing turn ** [ 7c ]
+Mr.T1 checks
+Agarroz checks
+** Dealing river ** [ Ts ]
+Mr.T1 checks
+Agarroz checks
+** Summary **
+Mr.T1 shows [ 3s, Qh ]
+Agarroz mucks [ 9s, Qd ]
+Mr.T1 collected [ $0.08 ]
+
+
+#Game No : 1234568335
+***** 888poker Hand History for Game 1234568335 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:11:43
+Table Edison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Mr.T1 ( $1.03 )
+Seat 9: Agarroz ( $1.25 )
+Mr.T1 posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+Mr.T1 calls [$0.01]
+Agarroz checks
+** Dealing flop ** [ Kd, 5s, 3s ]
+Agarroz checks
+Mr.T1 bets [$0.02]
+Agarroz calls [$0.02]
+** Dealing turn ** [ Ts ]
+Agarroz checks
+Mr.T1 bets [$0.08]
+Agarroz folds
+** Summary **
+Mr.T1 collected [ $0.08 ]
+
+
+#Game No : 1234568479
+***** 888poker Hand History for Game 1234568479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:12:36
+Table Edison 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Mr.T1 ( $1.07 )
+Seat 9: Agarroz ( $1.21 )
+Agarroz posts small blind [$0.01]
+Mr.T1 posts big blind [$0.02]
+** Dealing down cards **
+Agarroz raises [$0.05]
+Mr.T1 calls [$0.04]
+** Dealing flop ** [ 8h, Ah, Ts ]
+Mr.T1 bets [$0.02]
+Agarroz calls [$0.02]
+** Dealing turn ** [ 7s ]
+Mr.T1 bets [$0.02]
+Agarroz raises [$0.08]
+Mr.T1 calls [$0.06]
+** Dealing river ** [ 9h ]
+Mr.T1 bets [$0.32]
+Agarroz folds
+** Summary **
+Mr.T1 collected [ $0.30 ]
+
+
+#Game No : 1234568904
+***** 888poker Hand History for Game 1234568904 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:15:09
+Table Edison 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pobeda145 ( $1.97 )
+Seat 2: Mr.T1 ( $1.17 )
+pobeda145 posts small blind [$0.01]
+Mr.T1 posts big blind [$0.02]
+** Dealing down cards **
+pobeda145 raises [$0.03]
+Mr.T1 calls [$0.02]
+** Dealing flop ** [ 6h, Qs, Ad ]
+Mr.T1 checks
+pobeda145 bets [$0.08]
+Mr.T1 folds
+** Summary **
+pobeda145 did not show his hand
+pobeda145 collected [ $0.08 ]
+
+
+#Game No : 1234568945
+***** 888poker Hand History for Game 1234568945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:15:26
+Table Edison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pobeda145 ( $2.01 )
+Seat 2: Mr.T1 ( $1.13 )
+Mr.T1 posts small blind [$0.01]
+pobeda145 posts big blind [$0.02]
+** Dealing down cards **
+Mr.T1 calls [$0.01]
+pobeda145 raises [$0.06]
+Mr.T1 calls [$0.06]
+** Dealing flop ** [ Ts, 2s, 5s ]
+pobeda145 bets [$0.04]
+Mr.T1 calls [$0.04]
+** Dealing turn ** [ 9s ]
+pobeda145 bets [$0.04]
+Mr.T1 folds
+** Summary **
+pobeda145 collected [ $0.23 ]
+
+
+#Game No : 1234569107
+***** 888poker Hand History for Game 1234569107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 16:16:22
+Table Edison 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pobeda145 ( $2.19 )
+Seat 2: Mr.T1 ( $0.93 )
+Mr.T1 posts small blind [$0.01]
+pobeda145 posts big blind [$0.02]
+** Dealing down cards **
+Mr.T1 calls [$0.01]
+pobeda145 raises [$0.06]
+Mr.T1 calls [$0.06]
+** Dealing flop ** [ 9d, 5c, Ts ]
+pobeda145 bets [$0.08]
+Mr.T1 calls [$0.08]
+** Dealing turn ** [ Js ]
+pobeda145 bets [$0.08]
+Mr.T1 calls [$0.08]
+** Dealing river ** [ Ac ]
+pobeda145 bets [$0.02]
+Mr.T1 raises [$0.54]
+pobeda145 folds
+** Summary **
+Mr.T1 collected [ $0.49 ]
+
+
+#Game No : 1234581279
+***** 888poker Hand History for Game 1234581279 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:35:26
+Table Edison 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: rn317 ( $2.19 )
+Seat 9: rustaman76 ( $1.84 )
+rn317 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+rn317 calls [$0.01]
+rustaman76 checks
+** Dealing flop ** [ Ts, Kc, 3h ]
+rustaman76 checks
+rn317 bets [$0.02]
+rustaman76 folds
+** Summary **
+rn317 collected [ $0.04 ]
+
+
+#Game No : 1234584559
+***** 888poker Hand History for Game 1234584559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 17:59:45
+Table Edison 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: xtrn1 ( $2.20 )
+Seat 6: AldanShilDim ( $1 )
+xtrn1 posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+xtrn1 calls [$0.01]
+AldanShilDim checks
+** Dealing flop ** [ 2s, 6c, 3s ]
+AldanShilDim checks
+xtrn1 bets [$0.02]
+AldanShilDim folds
+** Summary **
+xtrn1 did not show his hand
+xtrn1 collected [ $0.04 ]
+
+
+#Game No : 1234584599
+***** 888poker Hand History for Game 1234584599 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 18:00:02
+Table Edison 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: xtrn1 ( $2.22 )
+Seat 6: AldanShilDim ( $1 )
+AldanShilDim posts small blind [$0.01]
+xtrn1 posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim calls [$0.01]
+xtrn1 checks
+** Dealing flop ** [ 7h, 8c, 3s ]
+xtrn1 checks
+AldanShilDim checks
+** Dealing turn ** [ Ks ]
+xtrn1 bets [$0.04]
+AldanShilDim raises [$0.08]
+xtrn1 calls [$0.04]
+** Dealing river ** [ 8s ]
+xtrn1 checks
+AldanShilDim checks
+** Summary **
+xtrn1 shows [ 9s, 3c ]
+AldanShilDim shows [ 9d, Kd ]
+AldanShilDim collected [ $0.19 ]
+
+

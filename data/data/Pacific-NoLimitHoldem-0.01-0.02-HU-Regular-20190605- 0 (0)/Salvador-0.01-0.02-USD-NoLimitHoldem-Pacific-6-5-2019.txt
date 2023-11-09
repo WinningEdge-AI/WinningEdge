@@ -1,0 +1,104 @@
+#Game No : 532491541
+***** 888poker Hand History for Game 532491541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 18:17:50
+Table Salvador 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Hiddenstalke ( $5.92 )
+Seat 6: meDIbel ( $2 )
+Hiddenstalke posts small blind [$0.01]
+meDIbel posts big blind [$0.02]
+** Dealing down cards **
+Hiddenstalke calls [$0.01]
+meDIbel checks
+** Dealing flop ** [ 8s, Qc, 8h ]
+meDIbel checks
+Hiddenstalke bets [$0.02]
+meDIbel calls [$0.02]
+** Dealing turn ** [ 7c ]
+meDIbel checks
+Hiddenstalke bets [$0.02]
+meDIbel calls [$0.02]
+** Dealing river ** [ 6h ]
+meDIbel checks
+Hiddenstalke bets [$0.02]
+meDIbel calls [$0.02]
+** Summary **
+Hiddenstalke shows [ Td, 6c ]
+meDIbel mucks [ Kd, 3d ]
+Hiddenstalke collected [ $0.15 ]
+
+
+#Game No : 532491563
+***** 888poker Hand History for Game 532491563 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 18:18:21
+Table Salvador 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Hiddenstalke ( $5.99 )
+Seat 6: meDIbel ( $2 )
+meDIbel posts small blind [$0.01]
+Hiddenstalke posts big blind [$0.02]
+** Dealing down cards **
+meDIbel folds
+** Summary **
+Hiddenstalke collected [ $0.03 ]
+
+
+#Game No : 532491650
+***** 888poker Hand History for Game 532491650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 18:20:57
+Table Salvador 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Hiddenstalke ( $7.87 )
+Seat 6: meDIbel ( $2 )
+Hiddenstalke posts small blind [$0.01]
+meDIbel posts big blind [$0.02]
+** Dealing down cards **
+Hiddenstalke raises [$0.03]
+meDIbel raises [$0.10]
+Hiddenstalke calls [$0.08]
+** Dealing flop ** [ 4s, 4d, Jd ]
+meDIbel bets [$0.16]
+Hiddenstalke calls [$0.16]
+** Dealing turn ** [ Kh ]
+meDIbel checks
+Hiddenstalke bets [$0.02]
+meDIbel calls [$0.02]
+** Dealing river ** [ 4c ]
+meDIbel checks
+Hiddenstalke bets [$0.19]
+meDIbel folds
+** Summary **
+Hiddenstalke collected [ $0.57 ]
+
+
+#Game No : 532491677
+***** 888poker Hand History for Game 532491677 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 18:21:46
+Table Salvador 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Hiddenstalke ( $8.14 )
+Seat 6: meDIbel ( $2 )
+meDIbel posts small blind [$0.01]
+Hiddenstalke posts big blind [$0.02]
+** Dealing down cards **
+meDIbel raises [$0.05]
+Hiddenstalke calls [$0.04]
+** Dealing flop ** [ 7s, 9c, 3c ]
+Hiddenstalke bets [$0.02]
+meDIbel calls [$0.02]
+** Dealing turn ** [ As ]
+Hiddenstalke checks
+meDIbel checks
+** Dealing river ** [ 3s ]
+Hiddenstalke checks
+meDIbel checks
+** Summary **
+Hiddenstalke shows [ Qd, 4c ]
+meDIbel shows [ Kd, 8d ]
+meDIbel collected [ $0.15 ]
+
+

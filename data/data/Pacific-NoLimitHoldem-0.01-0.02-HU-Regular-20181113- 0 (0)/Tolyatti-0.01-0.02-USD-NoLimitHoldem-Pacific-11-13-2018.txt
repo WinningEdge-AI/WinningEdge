@@ -1,0 +1,55 @@
+#Game No : 515916649
+***** 888poker Hand History for Game 515916649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 02:31:22
+Table Tolyatti 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Wancho999 ( $0.80 )
+Seat 2: dBekab ( $1.20 )
+Wancho999 posts small blind [$0.01]
+dBekab posts big blind [$0.02]
+** Dealing down cards **
+Wancho999 raises [$0.05]
+dBekab raises [$0.08]
+Wancho999 calls [$0.04]
+** Dealing flop ** [ 7c, Jc, Kh ]
+dBekab checks
+Wancho999 bets [$0.20]
+dBekab calls [$0.20]
+** Dealing turn ** [ 8c ]
+dBekab checks
+Wancho999 checks
+** Dealing river ** [ 5h ]
+dBekab bets [$0.10]
+Wancho999 folds
+** Summary **
+dBekab collected [ $0.57 ]
+
+
+#Game No : 515916685
+***** 888poker Hand History for Game 515916685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 02:31:55
+Table Tolyatti 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Wancho999 ( $0.80 )
+Seat 2: dBekab ( $1.47 )
+dBekab posts small blind [$0.01]
+Wancho999 posts big blind [$0.02]
+** Dealing down cards **
+dBekab calls [$0.01]
+Wancho999 checks
+** Dealing flop ** [ 7s, 6h, Qc ]
+Wancho999 checks
+dBekab checks
+** Dealing turn ** [ 3c ]
+Wancho999 checks
+dBekab checks
+** Dealing river ** [ 9d ]
+Wancho999 checks
+dBekab bets [$0.02]
+Wancho999 folds
+** Summary **
+dBekab collected [ $0.04 ]
+
+

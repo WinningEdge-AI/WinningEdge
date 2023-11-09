@@ -1,0 +1,44 @@
+#Game No : 463463160
+***** 888poker Hand History for Game 463463160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 03 2019 16:52:23
+Table Lecce 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mmspel ( $2.22 )
+Seat 4: zcongueror1 ( $1.38 )
+mmspel posts small blind [$0.01]
+zcongueror1 posts big blind [$0.02]
+** Dealing down cards **
+mmspel folds
+** Summary **
+zcongueror1 collected [ $0.03 ]
+
+
+#Game No : 463463162
+***** 888poker Hand History for Game 463463162 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 03 2019 16:52:30
+Table Lecce 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: mmspel ( $2.21 )
+Seat 4: zcongueror1 ( $1.39 )
+zcongueror1 posts small blind [$0.01]
+mmspel posts big blind [$0.02]
+** Dealing down cards **
+zcongueror1 calls [$0.01]
+mmspel checks
+** Dealing flop ** [ 3s, 9d, As ]
+mmspel checks
+zcongueror1 checks
+** Dealing turn ** [ Jd ]
+mmspel bets [$0.02]
+zcongueror1 calls [$0.02]
+** Dealing river ** [ 4s ]
+mmspel checks
+zcongueror1 checks
+** Summary **
+mmspel shows [ Kh, 2s ]
+zcongueror1 shows [ 6c, Jc ]
+zcongueror1 collected [ $0.08 ]
+
+

@@ -1,0 +1,45 @@
+#Game No : 499505743
+***** 888poker Hand History for Game 499505743 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 05:48:24
+Table Biysk 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: fizruk5 ( $2.48 )
+Seat 9: Detleffcb ( $0.80 )
+Detleffcb posts small blind [$0.01]
+fizruk5 posts big blind [$0.02]
+** Dealing down cards **
+Detleffcb calls [$0.01]
+fizruk5 raises [$0.04]
+Detleffcb calls [$0.04]
+** Dealing flop ** [ 6s, 7h, 4h ]
+fizruk5 checks
+Detleffcb checks
+** Dealing turn ** [ 9s ]
+fizruk5 checks
+Detleffcb checks
+** Dealing river ** [ 5h ]
+fizruk5 checks
+Detleffcb checks
+** Summary **
+fizruk5 shows [ Ac, Qs ]
+Detleffcb mucks [ Ks, Th ]
+fizruk5 collected [ $0.12 ]
+
+
+#Game No : 499505753
+***** 888poker Hand History for Game 499505753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 05:49:02
+Table Biysk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: fizruk5 ( $2.54 )
+Seat 9: Detleffcb ( $0.74 )
+fizruk5 posts small blind [$0.01]
+Detleffcb posts big blind [$0.02]
+** Dealing down cards **
+fizruk5 folds
+** Summary **
+Detleffcb collected [ $0.03 ]
+
+

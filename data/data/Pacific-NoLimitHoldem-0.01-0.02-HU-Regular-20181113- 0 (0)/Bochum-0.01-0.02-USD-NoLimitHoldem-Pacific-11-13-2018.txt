@@ -1,0 +1,74 @@
+#Game No : 610735900
+***** 888poker Hand History for Game 610735900 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 07:42:34
+Table Bochum 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DenDavNFS ( $2.13 )
+Seat 3: Teddyxo ( $1.86 )
+DenDavNFS posts small blind [$0.01]
+Teddyxo posts big blind [$0.02]
+** Dealing down cards **
+DenDavNFS raises [$0.05]
+Teddyxo calls [$0.04]
+** Dealing flop ** [ 3s, 2s, 9h ]
+Teddyxo bets [$0.08]
+DenDavNFS calls [$0.08]
+** Dealing turn ** [ 4s ]
+Teddyxo bets [$0.14]
+DenDavNFS calls [$0.14]
+** Dealing river ** [ 4h ]
+Teddyxo bets [$0.28]
+DenDavNFS raises [$0.60]
+Teddyxo folds
+** Summary **
+DenDavNFS collected [ $1.05 ]
+
+
+#Game No : 610735927
+***** 888poker Hand History for Game 610735927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 07:42:45
+Table Bochum 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: DenDavNFS ( $2.62 )
+Seat 3: Teddyxo ( $1.30 )
+Teddyxo posts small blind [$0.01]
+DenDavNFS posts big blind [$0.02]
+** Dealing down cards **
+Teddyxo raises [$0.03]
+DenDavNFS calls [$0.02]
+** Dealing flop ** [ 4c, 5s, 7s ]
+DenDavNFS bets [$0.04]
+Teddyxo calls [$0.04]
+** Dealing turn ** [ 3d ]
+DenDavNFS checks
+Teddyxo bets [$0.16]
+DenDavNFS calls [$0.16]
+** Dealing river ** [ Tc ]
+DenDavNFS checks
+Teddyxo bets [$1.06]
+DenDavNFS calls [$1.06]
+** Summary **
+DenDavNFS shows [ 3c, 3h ]
+Teddyxo shows [ Ks, 5d ]
+DenDavNFS collected [ $2.44 ]
+
+
+#Game No : 610735948
+***** 888poker Hand History for Game 610735948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 07:43:32
+Table Bochum 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DenDavNFS ( $3.76 )
+Seat 5: SamsonovV.V. ( $2 )
+DenDavNFS posts small blind [$0.01]
+SamsonovV.V. posts big blind [$0.02]
+** Dealing down cards **
+DenDavNFS raises [$0.05]
+SamsonovV.V. folds
+** Summary **
+DenDavNFS collected [ $0.04 ]
+
+

@@ -1,0 +1,67 @@
+#Game No : 523288956
+***** 888poker Hand History for Game 523288956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2019 01:55:23
+Table Orsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DoctorB32 ( $2 )
+Seat 4: Sergey_US ( $2 )
+Sergey_US posts small blind [$0.01]
+DoctorB32 posts big blind [$0.02]
+** Dealing down cards **
+Sergey_US raises [$0.05]
+DoctorB32 raises [$0.08]
+Sergey_US calls [$0.04]
+** Dealing flop ** [ 4c, 8s, 7s ]
+DoctorB32 bets [$0.02]
+Sergey_US raises [$0.18]
+DoctorB32 calls [$0.16]
+** Dealing turn ** [ 3s ]
+DoctorB32 bets [$0.02]
+Sergey_US calls [$0.02]
+** Dealing river ** [ Ad ]
+DoctorB32 bets [$0.02]
+Sergey_US calls [$0.02]
+** Summary **
+DoctorB32 shows [ As, Kd ]
+Sergey_US mucks [ 9c, 9s ]
+DoctorB32 collected [ $0.60 ]
+
+
+#Game No : 523288978
+***** 888poker Hand History for Game 523288978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2019 01:56:21
+Table Orsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sergey_US ( $2 )
+Seat 6: greed1ing ( $2.02 )
+Sergey_US posts small blind [$0.01]
+greed1ing posts big blind [$0.02]
+** Dealing down cards **
+Sergey_US raises [$0.05]
+greed1ing calls [$0.04]
+** Dealing flop ** [ 7c, 7s, 4s ]
+greed1ing bets [$0.08]
+Sergey_US folds
+** Summary **
+greed1ing collected [ $0.12 ]
+
+
+#Game No : 523288985
+***** 888poker Hand History for Game 523288985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2019 01:56:37
+Table Orsk 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Sergey_US ( $2 )
+Seat 6: greed1ing ( $2.08 )
+greed1ing posts small blind [$0.01]
+Sergey_US posts big blind [$0.02]
+** Dealing down cards **
+greed1ing raises [$0.04]
+Sergey_US folds
+** Summary **
+greed1ing collected [ $0.04 ]
+
+

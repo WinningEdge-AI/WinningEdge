@@ -1,0 +1,662 @@
+#Game No : 617627962
+***** 888poker Hand History for Game 617627962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 20:16:48
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: LinuxOrNot ( $2.64 )
+Seat 2: turron3618 ( $1.22 )
+turron3618 posts small blind [$0.01]
+LinuxOrNot posts big blind [$0.02]
+** Dealing down cards **
+turron3618 calls [$0.01]
+LinuxOrNot checks
+** Dealing flop ** [ Jc, Qs, Ts ]
+LinuxOrNot checks
+turron3618 checks
+** Dealing turn ** [ Td ]
+LinuxOrNot bets [$0.02]
+turron3618 folds
+** Summary **
+LinuxOrNot collected [ $0.04 ]
+
+
+#Game No : 617627980
+***** 888poker Hand History for Game 617627980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 20:17:12
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LinuxOrNot ( $2.66 )
+Seat 2: turron3618 ( $1.20 )
+LinuxOrNot posts small blind [$0.01]
+turron3618 posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot raises [$0.05]
+turron3618 folds
+** Summary **
+LinuxOrNot collected [ $0.04 ]
+
+
+#Game No : 617627988
+***** 888poker Hand History for Game 617627988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 20:17:29
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: LinuxOrNot ( $2.68 )
+Seat 2: turron3618 ( $1.18 )
+turron3618 posts small blind [$0.01]
+LinuxOrNot posts big blind [$0.02]
+** Dealing down cards **
+turron3618 calls [$0.01]
+LinuxOrNot checks
+** Dealing flop ** [ 7s, 3d, Ts ]
+LinuxOrNot checks
+turron3618 bets [$0.04]
+LinuxOrNot calls [$0.04]
+** Dealing turn ** [ As ]
+LinuxOrNot checks
+turron3618 bets [$0.08]
+LinuxOrNot folds
+** Summary **
+turron3618 collected [ $0.12 ]
+
+
+#Game No : 617631005
+***** 888poker Hand History for Game 617631005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 22:02:20
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LinuxOrNot ( $5.95 )
+Seat 7: polomanij94 ( $2.60 )
+LinuxOrNot posts small blind [$0.01]
+polomanij94 posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot folds
+** Summary **
+polomanij94 collected [ $0.03 ]
+
+
+#Game No : 617631272
+***** 888poker Hand History for Game 617631272 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 22:14:22
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jrmacken ( $0.95 )
+Seat 9: ziRamon ( $1.45 )
+jrmacken posts small blind [$0.01]
+ziRamon posts big blind [$0.02]
+** Dealing down cards **
+jrmacken calls [$0.01]
+ziRamon checks
+** Dealing flop ** [ 3h, Qd, 5d ]
+ziRamon checks
+jrmacken checks
+** Dealing turn ** [ 7s ]
+ziRamon checks
+jrmacken checks
+** Dealing river ** [ Kd ]
+ziRamon checks
+jrmacken checks
+** Summary **
+ziRamon shows [ Qh, As ]
+jrmacken mucks [ 9d, 8h ]
+ziRamon collected [ $0.04 ]
+
+
+#Game No : 617631286
+***** 888poker Hand History for Game 617631286 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 22:14:54
+Table Abakan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: jrmacken ( $0.93 )
+Seat 9: ziRamon ( $1.47 )
+ziRamon posts small blind [$0.01]
+jrmacken posts big blind [$0.02]
+** Dealing down cards **
+ziRamon calls [$0.01]
+jrmacken checks
+** Dealing flop ** [ 9s, 8h, Qs ]
+jrmacken bets [$0.04]
+ziRamon folds
+** Summary **
+jrmacken collected [ $0.04 ]
+
+
+#Game No : 617634945
+***** 888poker Hand History for Game 617634945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:56:17
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.80 )
+Seat 4: bigHaki ( $1 )
+bigHaki posts small blind [$0.01]
+Wjs503 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+Wjs503 folds
+** Summary **
+bigHaki did not show his hand
+bigHaki collected [ $0.04 ]
+
+
+#Game No : 617634952
+***** 888poker Hand History for Game 617634952 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:56:32
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.78 )
+Seat 4: bigHaki ( $1.02 )
+Wjs503 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+Wjs503 folds
+** Summary **
+bigHaki did not show his hand
+bigHaki collected [ $0.03 ]
+
+
+#Game No : 617634954
+***** 888poker Hand History for Game 617634954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:56:38
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.77 )
+Seat 4: bigHaki ( $1.03 )
+bigHaki posts small blind [$0.01]
+Wjs503 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki folds
+** Summary **
+Wjs503 did not show his hand
+Wjs503 collected [ $0.03 ]
+
+
+#Game No : 617634958
+***** 888poker Hand History for Game 617634958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:56:43
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.78 )
+Seat 4: bigHaki ( $1.02 )
+Wjs503 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+Wjs503 calls [$0.01]
+bigHaki checks
+** Dealing flop ** [ 3h, Qd, Jh ]
+bigHaki checks
+Wjs503 bets [$0.02]
+bigHaki folds
+** Summary **
+Wjs503 did not show his hand
+Wjs503 collected [ $0.04 ]
+
+
+#Game No : 617634969
+***** 888poker Hand History for Game 617634969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:56:58
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.80 )
+Seat 4: bigHaki ( $1 )
+bigHaki posts small blind [$0.01]
+Wjs503 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+Wjs503 calls [$0.04]
+** Dealing flop ** [ 9d, 4c, 4d ]
+Wjs503 bets [$0.02]
+bigHaki raises [$0.10]
+Wjs503 raises [$0.16]
+bigHaki raises [$0.84]
+Wjs503 calls [$0.56]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ Ks ]
+** Summary **
+Wjs503 shows [ 7c, Ac ]
+bigHaki shows [ Qd, Qs ]
+bigHaki collected [ $1.50 ]
+
+
+#Game No : 617634984
+***** 888poker Hand History for Game 617634984 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:57:33
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.80 )
+Seat 4: bigHaki ( $1.70 )
+Wjs503 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+Wjs503 folds
+** Summary **
+bigHaki did not show his hand
+bigHaki collected [ $0.03 ]
+
+
+#Game No : 617634988
+***** 888poker Hand History for Game 617634988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:57:39
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.80 )
+Seat 4: bigHaki ( $1.71 )
+bigHaki posts small blind [$0.01]
+Wjs503 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+Wjs503 folds
+** Summary **
+bigHaki did not show his hand
+bigHaki collected [ $0.04 ]
+
+
+#Game No : 617634993
+***** 888poker Hand History for Game 617634993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:57:47
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.80 )
+Seat 4: bigHaki ( $1.73 )
+Wjs503 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+Wjs503 folds
+** Summary **
+bigHaki did not show his hand
+bigHaki collected [ $0.03 ]
+
+
+#Game No : 617635000
+***** 888poker Hand History for Game 617635000 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:57:55
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.80 )
+Seat 4: bigHaki ( $1.74 )
+bigHaki posts small blind [$0.01]
+Wjs503 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki folds
+** Summary **
+Wjs503 did not show his hand
+Wjs503 collected [ $0.03 ]
+
+
+#Game No : 617635008
+***** 888poker Hand History for Game 617635008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:58:02
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.81 )
+Seat 4: bigHaki ( $1.73 )
+Wjs503 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+Wjs503 folds
+** Summary **
+bigHaki did not show his hand
+bigHaki collected [ $0.03 ]
+
+
+#Game No : 617635010
+***** 888poker Hand History for Game 617635010 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:58:08
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.80 )
+Seat 4: bigHaki ( $1.74 )
+bigHaki posts small blind [$0.01]
+Wjs503 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+Wjs503 calls [$0.04]
+** Dealing flop ** [ Qh, 2c, 6d ]
+Wjs503 checks
+bigHaki checks
+** Dealing turn ** [ 9h ]
+Wjs503 checks
+bigHaki checks
+** Dealing river ** [ 7h ]
+Wjs503 checks
+bigHaki checks
+** Summary **
+Wjs503 shows [ Ts, Js ]
+bigHaki shows [ 7d, Kh ]
+bigHaki collected [ $0.12 ]
+
+
+#Game No : 617635027
+***** 888poker Hand History for Game 617635027 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:58:49
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.80 )
+Seat 4: bigHaki ( $1.80 )
+Wjs503 posts small blind [$0.01]
+bigHaki posts big blind [$0.02]
+** Dealing down cards **
+Wjs503 calls [$0.01]
+bigHaki checks
+** Dealing flop ** [ 7s, 9h, 2d ]
+bigHaki bets [$0.04]
+Wjs503 calls [$0.04]
+** Dealing turn ** [ 5c ]
+bigHaki bets [$0.18]
+Wjs503 folds
+** Summary **
+bigHaki did not show his hand
+bigHaki collected [ $0.12 ]
+
+
+#Game No : 617635037
+***** 888poker Hand History for Game 617635037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 00:59:10
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Wjs503 ( $0.80 )
+Seat 4: bigHaki ( $1.86 )
+bigHaki posts small blind [$0.01]
+Wjs503 posts big blind [$0.02]
+** Dealing down cards **
+bigHaki raises [$0.05]
+Wjs503 raises [$0.08]
+bigHaki calls [$0.04]
+** Dealing flop ** [ Ad, Th, Qs ]
+Wjs503 bets [$0.02]
+bigHaki calls [$0.02]
+** Dealing turn ** [ 5c ]
+Wjs503 bets [$0.02]
+bigHaki calls [$0.02]
+** Dealing river ** [ 6s ]
+Wjs503 bets [$0.02]
+bigHaki calls [$0.02]
+** Summary **
+Wjs503 shows [ 7d, 7c ]
+bigHaki shows [ Jc, Td ]
+bigHaki collected [ $0.30 ]
+
+
+#Game No : 617642317
+***** 888poker Hand History for Game 617642317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 05:16:06
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Reinbow66 ( $0.81 )
+Seat 6: SeregaUaz ( $1.16 )
+SeregaUaz posts small blind [$0.01]
+Reinbow66 posts big blind [$0.02]
+** Dealing down cards **
+SeregaUaz folds
+** Summary **
+Reinbow66 collected [ $0.03 ]
+
+
+#Game No : 617642320
+***** 888poker Hand History for Game 617642320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 05:16:12
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Reinbow66 ( $0.82 )
+Seat 6: SeregaUaz ( $1.15 )
+Reinbow66 posts small blind [$0.01]
+SeregaUaz posts big blind [$0.02]
+** Dealing down cards **
+Reinbow66 raises [$0.05]
+SeregaUaz folds
+** Summary **
+Reinbow66 collected [ $0.04 ]
+
+
+#Game No : 617642327
+***** 888poker Hand History for Game 617642327 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 05:16:24
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Reinbow66 ( $0.84 )
+Seat 6: SeregaUaz ( $1.13 )
+SeregaUaz posts small blind [$0.01]
+Reinbow66 posts big blind [$0.02]
+** Dealing down cards **
+SeregaUaz folds
+** Summary **
+Reinbow66 collected [ $0.03 ]
+
+
+#Game No : 617642554
+***** 888poker Hand History for Game 617642554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 05:22:51
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Reinbow66 ( $0.98 )
+Seat 6: SeregaUaz ( $1.47 )
+Reinbow66 posts small blind [$0.01]
+SeregaUaz posts big blind [$0.02]
+** Dealing down cards **
+Reinbow66 folds
+** Summary **
+SeregaUaz collected [ $0.03 ]
+
+
+#Game No : 617642559
+***** 888poker Hand History for Game 617642559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 05:22:58
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Reinbow66 ( $0.97 )
+Seat 6: SeregaUaz ( $1.48 )
+SeregaUaz posts small blind [$0.01]
+Reinbow66 posts big blind [$0.02]
+** Dealing down cards **
+SeregaUaz folds
+** Summary **
+Reinbow66 collected [ $0.03 ]
+
+
+#Game No : 617642563
+***** 888poker Hand History for Game 617642563 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 05:23:03
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Reinbow66 ( $0.98 )
+Seat 6: SeregaUaz ( $1.47 )
+Reinbow66 posts small blind [$0.01]
+SeregaUaz posts big blind [$0.02]
+** Dealing down cards **
+Reinbow66 calls [$0.01]
+SeregaUaz checks
+** Dealing flop ** [ 7c, 7d, Js ]
+SeregaUaz checks
+Reinbow66 checks
+** Dealing turn ** [ 9s ]
+SeregaUaz checks
+Reinbow66 checks
+** Dealing river ** [ 5h ]
+SeregaUaz checks
+Reinbow66 checks
+** Summary **
+SeregaUaz shows [ 2h, Kh ]
+Reinbow66 mucks [ Qh, 3h ]
+SeregaUaz collected [ $0.04 ]
+
+
+#Game No : 617642579
+***** 888poker Hand History for Game 617642579 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 05:23:31
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Reinbow66 ( $0.96 )
+Seat 6: SeregaUaz ( $1.49 )
+SeregaUaz posts small blind [$0.01]
+Reinbow66 posts big blind [$0.02]
+** Dealing down cards **
+SeregaUaz folds
+** Summary **
+Reinbow66 collected [ $0.03 ]
+
+
+#Game No : 617642591
+***** 888poker Hand History for Game 617642591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 05:23:45
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Reinbow66 ( $0.97 )
+Seat 6: SeregaUaz ( $1.48 )
+Reinbow66 posts small blind [$0.01]
+SeregaUaz posts big blind [$0.02]
+** Dealing down cards **
+Reinbow66 calls [$0.01]
+SeregaUaz raises [$0.04]
+Reinbow66 calls [$0.04]
+** Dealing flop ** [ 4d, Ad, 8s ]
+SeregaUaz bets [$0.08]
+Reinbow66 calls [$0.08]
+** Dealing turn ** [ 9s ]
+SeregaUaz bets [$0.16]
+Reinbow66 raises [$0.83]
+SeregaUaz calls [$0.67]
+** Dealing river ** [ 2s ]
+** Summary **
+Reinbow66 shows [ Jh, Ah ]
+SeregaUaz shows [ As, 8c ]
+SeregaUaz collected [ $1.82 ]
+
+
+#Game No : 617642634
+***** 888poker Hand History for Game 617642634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 05:25:01
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Reinbow66 ( $0.80 )
+Seat 6: SeregaUaz ( $2.33 )
+SeregaUaz posts small blind [$0.01]
+Reinbow66 posts big blind [$0.02]
+** Dealing down cards **
+SeregaUaz folds
+** Summary **
+Reinbow66 collected [ $0.03 ]
+
+
+#Game No : 617654395
+***** 888poker Hand History for Game 617654395 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 09:34:59
+Table Abakan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Berentan ( $1 )
+Seat 9: jacknicker88 ( $1.85 )
+jacknicker88 posts small blind [$0.01]
+Berentan posts big blind [$0.02]
+** Dealing down cards **
+jacknicker88 folds
+** Summary **
+Berentan collected [ $0.03 ]
+
+
+#Game No : 617676207
+***** 888poker Hand History for Game 617676207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 16:17:50
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: happydolo ( $1.13 )
+Seat 6: VictimVIP ( $1.73 )
+happydolo posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+happydolo folds
+** Summary **
+VictimVIP did not show his hand
+VictimVIP collected [ $0.03 ]
+
+
+#Game No : 617676210
+***** 888poker Hand History for Game 617676210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 16:17:55
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: happydolo ( $1.12 )
+Seat 6: VictimVIP ( $1.74 )
+VictimVIP posts small blind [$0.01]
+happydolo posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+happydolo did not show his hand
+happydolo collected [ $0.03 ]
+
+
+#Game No : 617676218
+***** 888poker Hand History for Game 617676218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 16:18:06
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: happydolo ( $1.13 )
+Seat 6: VictimVIP ( $1.73 )
+happydolo posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+happydolo calls [$0.01]
+VictimVIP checks
+** Dealing flop ** [ Jd, 9h, 8d ]
+VictimVIP checks
+happydolo bets [$0.02]
+VictimVIP calls [$0.02]
+** Dealing turn ** [ 4c ]
+VictimVIP checks
+happydolo bets [$0.02]
+VictimVIP calls [$0.02]
+** Dealing river ** [ 6c ]
+VictimVIP checks
+happydolo bets [$0.06]
+VictimVIP folds
+** Summary **
+happydolo collected [ $0.12 ]
+
+
+#Game No : 617676256
+***** 888poker Hand History for Game 617676256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 16:19:05
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: happydolo ( $1.19 )
+Seat 6: VictimVIP ( $1.67 )
+VictimVIP posts small blind [$0.01]
+happydolo posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.04]
+happydolo folds
+** Summary **
+VictimVIP collected [ $0.04 ]
+
+

@@ -1,0 +1,117 @@
+#Game No : 464274483
+***** 888poker Hand History for Game 464274483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 04 2019 00:26:20
+Table Athens 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: karamaz4 ( $1.34 )
+Seat 5: meDIbel ( $2.63 )
+karamaz4 posts small blind [$0.01]
+meDIbel posts big blind [$0.02]
+** Dealing down cards **
+karamaz4 calls [$0.01]
+meDIbel raises [$0.04]
+karamaz4 calls [$0.04]
+** Dealing flop ** [ Kd, 4h, 3h ]
+meDIbel checks
+karamaz4 checks
+** Dealing turn ** [ Ts ]
+meDIbel checks
+karamaz4 checks
+** Dealing river ** [ 2h ]
+meDIbel bets [$0.12]
+karamaz4 folds
+** Summary **
+meDIbel collected [ $0.12 ]
+
+
+#Game No : 464274497
+***** 888poker Hand History for Game 464274497 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 04 2019 00:26:51
+Table Athens 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: karamaz4 ( $1.28 )
+Seat 5: meDIbel ( $2.69 )
+meDIbel posts small blind [$0.01]
+karamaz4 posts big blind [$0.02]
+** Dealing down cards **
+meDIbel raises [$0.05]
+karamaz4 calls [$0.04]
+** Dealing flop ** [ 5c, Kd, 6d ]
+karamaz4 checks
+meDIbel checks
+** Dealing turn ** [ 9h ]
+karamaz4 bets [$0.06]
+meDIbel calls [$0.06]
+** Dealing river ** [ 8c ]
+karamaz4 checks
+meDIbel checks
+** Summary **
+karamaz4 shows [ 2d, Ad ]
+meDIbel shows [ Ac, Qc ]
+meDIbel collected [ $0.23 ]
+
+
+#Game No : 464274507
+***** 888poker Hand History for Game 464274507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 04 2019 00:27:16
+Table Athens 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: karamaz4 ( $1.16 )
+Seat 5: meDIbel ( $2.80 )
+karamaz4 posts small blind [$0.01]
+meDIbel posts big blind [$0.02]
+** Dealing down cards **
+karamaz4 calls [$0.01]
+meDIbel checks
+** Dealing flop ** [ 6h, 5s, 7d ]
+meDIbel checks
+karamaz4 checks
+** Dealing turn ** [ 7c ]
+meDIbel checks
+karamaz4 checks
+** Dealing river ** [ 3c ]
+meDIbel checks
+karamaz4 bets [$0.04]
+meDIbel calls [$0.04]
+** Summary **
+karamaz4 shows [ 4h, 3h ]
+meDIbel mucks [ 8d, Ac ]
+karamaz4 collected [ $0.12 ]
+
+
+#Game No : 464274515
+***** 888poker Hand History for Game 464274515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 04 2019 00:27:40
+Table Athens 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: karamaz4 ( $1.22 )
+Seat 5: meDIbel ( $2.74 )
+meDIbel posts small blind [$0.01]
+karamaz4 posts big blind [$0.02]
+** Dealing down cards **
+meDIbel raises [$0.05]
+karamaz4 calls [$0.04]
+** Dealing flop ** [ 3c, Tc, 2h ]
+karamaz4 checks
+meDIbel bets [$0.08]
+karamaz4 raises [$0.20]
+meDIbel calls [$0.12]
+** Dealing turn ** [ 5c ]
+karamaz4 checks
+meDIbel bets [$0.26]
+karamaz4 calls [$0.26]
+** Dealing river ** [ Qs ]
+karamaz4 checks
+meDIbel bets [$0.69]
+karamaz4 raises [$0.70]
+meDIbel calls [$0.01]
+** Summary **
+karamaz4 shows [ 3h, 2d ]
+meDIbel shows [ 6c, 8c ]
+meDIbel collected [ $2.29 ]
+
+

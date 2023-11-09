@@ -1,0 +1,485 @@
+#Game No : 523841019
+***** 888poker Hand History for Game 523841019 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:06:01
+Table Gizeh 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: AleSii ( $2.05 )
+Seat 9: Elpando17 ( $2.04 )
+AleSii posts small blind [$0.01]
+Elpando17 posts big blind [$0.02]
+** Dealing down cards **
+AleSii folds
+** Summary **
+Elpando17 collected [ $0.03 ]
+
+
+#Game No : 523841021
+***** 888poker Hand History for Game 523841021 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:06:07
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: AleSii ( $2.04 )
+Seat 9: Elpando17 ( $2.05 )
+Elpando17 posts small blind [$0.01]
+AleSii posts big blind [$0.02]
+** Dealing down cards **
+Elpando17 raises [$0.03]
+AleSii folds
+** Summary **
+Elpando17 collected [ $0.04 ]
+
+
+#Game No : 523841026
+***** 888poker Hand History for Game 523841026 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:06:17
+Table Gizeh 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: AleSii ( $2.02 )
+Seat 9: Elpando17 ( $2.07 )
+AleSii posts small blind [$0.01]
+Elpando17 posts big blind [$0.02]
+** Dealing down cards **
+AleSii folds
+** Summary **
+Elpando17 collected [ $0.03 ]
+
+
+#Game No : 523841052
+***** 888poker Hand History for Game 523841052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:07:51
+Table Gizeh 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KAMILO_888 ( $1.98 )
+Seat 7: AleSii ( $2.03 )
+AleSii posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+AleSii raises [$0.07]
+KAMILO_888 folds
+** Summary **
+AleSii did not show his hand
+AleSii collected [ $0.04 ]
+
+
+#Game No : 523841056
+***** 888poker Hand History for Game 523841056 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:08:08
+Table Gizeh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KAMILO_888 ( $1.96 )
+Seat 7: AleSii ( $2.05 )
+KAMILO_888 posts small blind [$0.01]
+** Dealing down cards **
+AleSii folds
+** Summary **
+KAMILO_888 did not show his hand
+KAMILO_888 collected [ $0.01 ]
+
+
+#Game No : 523841076
+***** 888poker Hand History for Game 523841076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:09:36
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: KAMILO_888 ( $1.96 )
+Seat 9: FedorBulat ( $2.17 )
+FedorBulat posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+FedorBulat calls [$0.01]
+KAMILO_888 checks
+** Dealing flop ** [ Kc, 3h, Kh ]
+KAMILO_888 checks
+FedorBulat bets [$0.02]
+KAMILO_888 folds
+** Summary **
+FedorBulat did not show his hand
+FedorBulat collected [ $0.04 ]
+
+
+#Game No : 523841081
+***** 888poker Hand History for Game 523841081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:10:00
+Table Gizeh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KAMILO_888 ( $1.94 )
+Seat 9: FedorBulat ( $2.19 )
+KAMILO_888 posts small blind [$0.01]
+FedorBulat posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 calls [$0.01]
+FedorBulat checks
+** Dealing flop ** [ Qd, 3h, Ts ]
+FedorBulat checks
+KAMILO_888 bets [$0.02]
+FedorBulat calls [$0.02]
+** Dealing turn ** [ 7d ]
+FedorBulat checks
+KAMILO_888 checks
+** Dealing river ** [ 5s ]
+FedorBulat bets [$0.04]
+KAMILO_888 calls [$0.04]
+** Summary **
+FedorBulat shows [ Th, 3s ]
+KAMILO_888 mucks [ 7s, 8h ]
+FedorBulat collected [ $0.15 ]
+
+
+#Game No : 523841088
+***** 888poker Hand History for Game 523841088 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:10:29
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: KAMILO_888 ( $1.86 )
+Seat 9: FedorBulat ( $2.26 )
+FedorBulat posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+FedorBulat calls [$0.01]
+KAMILO_888 raises [$0.02]
+FedorBulat calls [$0.02]
+** Dealing flop ** [ 3c, 2d, 4h ]
+KAMILO_888 bets [$0.04]
+FedorBulat calls [$0.04]
+** Dealing turn ** [ Ks ]
+KAMILO_888 bets [$0.10]
+FedorBulat calls [$0.10]
+** Dealing river ** [ Qd ]
+KAMILO_888 bets [$0.22]
+FedorBulat folds
+** Summary **
+KAMILO_888 did not show his hand
+KAMILO_888 collected [ $0.34 ]
+
+
+#Game No : 523841093
+***** 888poker Hand History for Game 523841093 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:10:59
+Table Gizeh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KAMILO_888 ( $2.02 )
+Seat 9: FedorBulat ( $2.08 )
+KAMILO_888 posts small blind [$0.01]
+FedorBulat posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 calls [$0.01]
+FedorBulat checks
+** Dealing flop ** [ 8c, Ad, Kc ]
+FedorBulat checks
+KAMILO_888 bets [$0.02]
+FedorBulat folds
+** Summary **
+KAMILO_888 did not show his hand
+KAMILO_888 collected [ $0.04 ]
+
+
+#Game No : 523841108
+***** 888poker Hand History for Game 523841108 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:11:53
+Table Gizeh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KAMILO_888 ( $2.15 )
+Seat 9: FedorBulat ( $1.94 )
+KAMILO_888 posts small blind [$0.01]
+FedorBulat posts big blind [$0.02]
+** Dealing down cards **
+KAMILO_888 calls [$0.01]
+FedorBulat checks
+** Dealing flop ** [ 5c, Qc, Th ]
+FedorBulat checks
+KAMILO_888 checks
+** Dealing turn ** [ Kc ]
+FedorBulat bets [$0.02]
+KAMILO_888 calls [$0.02]
+** Dealing river ** [ Jd ]
+FedorBulat bets [$0.02]
+KAMILO_888 calls [$0.02]
+** Summary **
+FedorBulat shows [ Jc, 2s ]
+KAMILO_888 shows [ 5h, 9d ]
+KAMILO_888 collected [ $0.12 ]
+
+
+#Game No : 523841117
+***** 888poker Hand History for Game 523841117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:12:20
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: KAMILO_888 ( $2.21 )
+Seat 9: FedorBulat ( $1.88 )
+FedorBulat posts small blind [$0.01]
+KAMILO_888 posts big blind [$0.02]
+** Dealing down cards **
+FedorBulat calls [$0.01]
+KAMILO_888 checks
+** Dealing flop ** [ 3c, 8h, Ks ]
+KAMILO_888 checks
+FedorBulat checks
+** Dealing turn ** [ Ad ]
+KAMILO_888 checks
+FedorBulat bets [$0.02]
+KAMILO_888 folds
+** Summary **
+FedorBulat did not show his hand
+FedorBulat collected [ $0.04 ]
+
+
+#Game No : 523841122
+***** 888poker Hand History for Game 523841122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:12:45
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2 )
+Seat 9: FedorBulat ( $1.90 )
+FedorBulat posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+FedorBulat calls [$0.01]
+avramia1 raises [$0.04]
+FedorBulat calls [$0.04]
+** Dealing flop ** [ 2d, 3d, Ks ]
+avramia1 bets [$0.12]
+FedorBulat folds
+** Summary **
+avramia1 collected [ $0.12 ]
+
+
+#Game No : 523841129
+***** 888poker Hand History for Game 523841129 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:13:06
+Table Gizeh 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2.06 )
+Seat 9: FedorBulat ( $1.84 )
+avramia1 posts small blind [$0.01]
+FedorBulat posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+FedorBulat calls [$0.02]
+** Dealing flop ** [ 7s, 3s, 2c ]
+FedorBulat checks
+avramia1 bets [$0.08]
+FedorBulat calls [$0.08]
+** Dealing turn ** [ Jd ]
+FedorBulat checks
+avramia1 bets [$0.12]
+FedorBulat folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.23 ]
+
+
+#Game No : 523841136
+***** 888poker Hand History for Game 523841136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:13:28
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2.17 )
+Seat 9: FedorBulat ( $1.72 )
+FedorBulat posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+FedorBulat calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 7c, 3h, Ad ]
+avramia1 checks
+FedorBulat bets [$0.02]
+avramia1 folds
+** Summary **
+FedorBulat did not show his hand
+FedorBulat collected [ $0.04 ]
+
+
+#Game No : 523841141
+***** 888poker Hand History for Game 523841141 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:13:46
+Table Gizeh 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2.15 )
+Seat 9: FedorBulat ( $1.74 )
+avramia1 posts small blind [$0.01]
+FedorBulat posts big blind [$0.02]
+** Dealing down cards **
+avramia1 folds
+** Summary **
+FedorBulat did not show his hand
+FedorBulat collected [ $0.03 ]
+
+
+#Game No : 523841142
+***** 888poker Hand History for Game 523841142 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:13:52
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2.14 )
+Seat 9: FedorBulat ( $1.75 )
+FedorBulat posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+FedorBulat raises [$0.03]
+avramia1 calls [$0.02]
+** Dealing flop ** [ Kc, Ac, Qs ]
+avramia1 checks
+FedorBulat bets [$0.02]
+avramia1 calls [$0.02]
+** Dealing turn ** [ 7h ]
+avramia1 checks
+FedorBulat bets [$0.02]
+avramia1 calls [$0.02]
+** Dealing river ** [ 9c ]
+avramia1 checks
+FedorBulat bets [$0.02]
+avramia1 folds
+** Summary **
+FedorBulat did not show his hand
+FedorBulat collected [ $0.15 ]
+
+
+#Game No : 523841148
+***** 888poker Hand History for Game 523841148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:14:19
+Table Gizeh 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $2.06 )
+Seat 9: FedorBulat ( $1.82 )
+avramia1 posts small blind [$0.01]
+FedorBulat posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.05]
+FedorBulat calls [$0.04]
+** Dealing flop ** [ 9h, 8s, 5c ]
+FedorBulat checks
+avramia1 bets [$0.12]
+FedorBulat calls [$0.12]
+** Dealing turn ** [ Ts ]
+FedorBulat checks
+avramia1 checks
+** Dealing river ** [ 3c ]
+FedorBulat bets [$0.18]
+avramia1 folds
+** Summary **
+FedorBulat collected [ $0.34 ]
+
+
+#Game No : 523841155
+***** 888poker Hand History for Game 523841155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 01:14:45
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: avramia1 ( $1.88 )
+Seat 9: FedorBulat ( $1.98 )
+FedorBulat posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+FedorBulat calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 4d, 3h, 5d ]
+avramia1 bets [$0.04]
+FedorBulat calls [$0.04]
+** Dealing turn ** [ 5c ]
+avramia1 bets [$0.08]
+FedorBulat calls [$0.08]
+** Dealing river ** [ 9c ]
+avramia1 bets [$0.02]
+FedorBulat calls [$0.02]
+** Summary **
+avramia1 shows [ Jc, 4h ]
+FedorBulat mucks [ 7s, Ah ]
+avramia1 collected [ $0.30 ]
+
+
+#Game No : 523841847
+***** 888poker Hand History for Game 523841847 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 02:01:52
+Table Gizeh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VolkVolk ( $0.80 )
+Seat 2: Rolandwatson ( $3.77 )
+VolkVolk posts small blind [$0.01]
+Rolandwatson posts big blind [$0.02]
+** Dealing down cards **
+VolkVolk folds
+** Summary **
+Rolandwatson collected [ $0.03 ]
+
+
+#Game No : 523850715
+***** 888poker Hand History for Game 523850715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 07:59:07
+Table Gizeh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WORM5555 ( $5.81 )
+Seat 6: Kuricraw ( $0.93 )
+WORM5555 posts small blind [$0.01]
+** Dealing down cards **
+Kuricraw folds
+** Summary **
+WORM5555 did not show his hand
+WORM5555 collected [ $0.01 ]
+
+
+#Game No : 523850719
+***** 888poker Hand History for Game 523850719 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 07:59:14
+Table Gizeh 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: WORM5555 ( $5.81 )
+Seat 4: Alexej44 ( $0.80 )
+Alexej44 posts small blind [$0.01]
+WORM5555 posts big blind [$0.02]
+** Dealing down cards **
+Alexej44 calls [$0.01]
+WORM5555 checks
+** Dealing flop ** [ 4h, 9c, Kh ]
+WORM5555 bets [$0.04]
+Alexej44 calls [$0.04]
+** Dealing turn ** [ 7d ]
+WORM5555 bets [$0.08]
+Alexej44 calls [$0.08]
+** Dealing river ** [ 6s ]
+WORM5555 checks
+Alexej44 checks
+** Summary **
+WORM5555 shows [ 5h, 9d ]
+Alexej44 shows [ Td, Ks ]
+Alexej44 collected [ $0.27 ]
+
+
+#Game No : 523850755
+***** 888poker Hand History for Game 523850755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2019 07:59:51
+Table Gizeh 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WORM5555 ( $5.67 )
+Seat 4: Alexej44 ( $0.93 )
+WORM5555 posts small blind [$0.01]
+Alexej44 posts big blind [$0.02]
+** Dealing down cards **
+WORM5555 raises [$0.03]
+Alexej44 folds
+** Summary **
+WORM5555 collected [ $0.04 ]
+
+

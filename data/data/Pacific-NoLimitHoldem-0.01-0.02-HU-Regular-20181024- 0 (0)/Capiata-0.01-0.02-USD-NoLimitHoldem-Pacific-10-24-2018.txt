@@ -1,0 +1,59 @@
+#Game No : 609861355
+***** 888poker Hand History for Game 609861355 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 09:19:47
+Table Capiata 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Lightzues ( $2.09 )
+Seat 6: SAXON1976 ( $0.80 )
+Lightzues posts small blind [$0.01]
+SAXON1976 posts big blind [$0.02]
+** Dealing down cards **
+Lightzues raises [$0.05]
+SAXON1976 calls [$0.04]
+** Dealing flop ** [ 3h, Ac, Td ]
+SAXON1976 checks
+Lightzues bets [$0.18]
+SAXON1976 calls [$0.18]
+** Dealing turn ** [ 8s ]
+SAXON1976 checks
+Lightzues checks
+** Dealing river ** [ Kh ]
+SAXON1976 bets [$0.56]
+Lightzues calls [$0.56]
+** Summary **
+Lightzues shows [ Qs, Jc ]
+SAXON1976 shows [ Qd, Ks ]
+Lightzues collected [ $1.50 ]
+
+
+#Game No : 609861373
+***** 888poker Hand History for Game 609861373 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 09:20:12
+Table Capiata 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Lightzues ( $2.79 )
+Seat 6: SAXON1976 ( $0.80 )
+SAXON1976 posts small blind [$0.01]
+Lightzues posts big blind [$0.02]
+** Dealing down cards **
+SAXON1976 calls [$0.01]
+Lightzues checks
+** Dealing flop ** [ Js, Jc, Tc ]
+Lightzues checks
+SAXON1976 checks
+** Dealing turn ** [ 8s ]
+Lightzues checks
+SAXON1976 bets [$0.04]
+Lightzues calls [$0.04]
+** Dealing river ** [ Ad ]
+Lightzues checks
+SAXON1976 bets [$0.12]
+Lightzues calls [$0.12]
+** Summary **
+SAXON1976 shows [ 7s, Td ]
+Lightzues mucks [ 8c, 3d ]
+SAXON1976 collected [ $0.34 ]
+
+

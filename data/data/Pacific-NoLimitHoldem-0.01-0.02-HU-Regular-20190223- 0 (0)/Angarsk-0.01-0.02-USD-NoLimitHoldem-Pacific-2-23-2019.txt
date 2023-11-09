@@ -1,0 +1,188 @@
+#Game No : 1250043268
+***** 888poker Hand History for Game 1250043268 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 23:09:47
+Table Angarsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: _STIGMATA_ ( $1.02 )
+Seat 4: i_am_you_ ( $1 )
+i_am_you_ posts small blind [$0.01]
+_STIGMATA_ posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+_STIGMATA_ calls [$0.04]
+** Dealing flop ** [ 3c, 9d, 5c ]
+_STIGMATA_ checks
+i_am_you_ bets [$0.06]
+_STIGMATA_ calls [$0.06]
+** Dealing turn ** [ As ]
+_STIGMATA_ checks
+i_am_you_ bets [$0.12]
+_STIGMATA_ raises [$0.30]
+i_am_you_ folds
+** Summary **
+_STIGMATA_ did not show his hand
+_STIGMATA_ collected [ $0.45 ]
+
+
+#Game No : 1250043349
+***** 888poker Hand History for Game 1250043349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 23:10:08
+Table Angarsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: _STIGMATA_ ( $1.23 )
+Seat 4: i_am_you_ ( $1 )
+_STIGMATA_ posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+_STIGMATA_ raises [$0.03]
+i_am_you_ calls [$0.02]
+** Dealing flop ** [ 3c, 7c, 3s ]
+i_am_you_ bets [$0.06]
+_STIGMATA_ folds
+** Summary **
+i_am_you_ did not show his hand
+i_am_you_ collected [ $0.08 ]
+
+
+#Game No : 1250043371
+***** 888poker Hand History for Game 1250043371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 23:10:21
+Table Angarsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: _STIGMATA_ ( $1.19 )
+Seat 4: i_am_you_ ( $1.04 )
+i_am_you_ posts small blind [$0.01]
+_STIGMATA_ posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+_STIGMATA_ folds
+** Summary **
+i_am_you_ did not show his hand
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 1250043388
+***** 888poker Hand History for Game 1250043388 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 23:10:31
+Table Angarsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: _STIGMATA_ ( $1.17 )
+Seat 4: i_am_you_ ( $1.06 )
+_STIGMATA_ posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+_STIGMATA_ raises [$0.03]
+i_am_you_ calls [$0.02]
+** Dealing flop ** [ 2h, 5d, 3h ]
+i_am_you_ checks
+_STIGMATA_ checks
+** Dealing turn ** [ Td ]
+i_am_you_ checks
+_STIGMATA_ bets [$0.04]
+i_am_you_ calls [$0.04]
+** Dealing river ** [ 3c ]
+i_am_you_ checks
+_STIGMATA_ bets [$0.08]
+i_am_you_ folds
+** Summary **
+_STIGMATA_ collected [ $0.15 ]
+
+
+#Game No : 1250043464
+***** 888poker Hand History for Game 1250043464 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 23:11:16
+Table Angarsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: _STIGMATA_ ( $1.24 )
+Seat 4: i_am_you_ ( $1 )
+i_am_you_ posts small blind [$0.01]
+_STIGMATA_ posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+_STIGMATA_ raises [$0.16]
+i_am_you_ folds
+** Summary **
+_STIGMATA_ collected [ $0.12 ]
+
+
+#Game No : 1250043803
+***** 888poker Hand History for Game 1250043803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 23:14:33
+Table Angarsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1 )
+Seat 7: Galileo62 ( $0.84 )
+i_am_you_ posts small blind [$0.01]
+Galileo62 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Galileo62 collected [ $0.03 ]
+
+
+#Game No : 1250043813
+***** 888poker Hand History for Game 1250043813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 23:14:37
+Table Angarsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1 )
+Seat 7: Galileo62 ( $0.85 )
+Galileo62 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Galileo62 raises [$0.03]
+i_am_you_ calls [$0.02]
+** Dealing flop ** [ Td, 9d, 2c ]
+i_am_you_ checks
+Galileo62 bets [$0.04]
+i_am_you_ calls [$0.04]
+** Dealing turn ** [ Jd ]
+i_am_you_ checks
+Galileo62 bets [$0.08]
+i_am_you_ folds
+** Summary **
+Galileo62 collected [ $0.15 ]
+
+
+#Game No : 1250043868
+***** 888poker Hand History for Game 1250043868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 23:15:08
+Table Angarsk 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $1 )
+Seat 7: Galileo62 ( $0.92 )
+i_am_you_ posts small blind [$0.01]
+Galileo62 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+Galileo62 calls [$0.04]
+** Dealing flop ** [ 8h, 5c, 7h ]
+Galileo62 bets [$0.07]
+i_am_you_ folds
+** Summary **
+Galileo62 collected [ $0.12 ]
+
+
+#Game No : 1250059981
+***** 888poker Hand History for Game 1250059981 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 01:35:56
+Table Angarsk 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BobajanPs ( $1.03 )
+Seat 7: Amorozz ( $0.97 )
+BobajanPs posts small blind [$0.01]
+** Dealing down cards **
+Amorozz folds
+** Summary **
+BobajanPs collected [ $0.01 ]
+
+

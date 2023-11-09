@@ -1,0 +1,184 @@
+#Game No : 465241235
+***** 888poker Hand History for Game 465241235 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 05 2019 14:03:43
+Table Jericho 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: 666GBH ( $1.02 )
+Seat 4: mad_colonel ( $5.40 )
+mad_colonel posts small blind [$0.01]
+666GBH posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel calls [$0.01]
+666GBH checks
+** Dealing flop ** [ Jd, 3d, Ks ]
+666GBH checks
+mad_colonel bets [$0.02]
+666GBH folds
+** Summary **
+mad_colonel collected [ $0.04 ]
+
+
+#Game No : 465241244
+***** 888poker Hand History for Game 465241244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 05 2019 14:04:07
+Table Jericho 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 666GBH ( $1 )
+Seat 4: mad_colonel ( $5.42 )
+666GBH posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+666GBH calls [$0.01]
+mad_colonel checks
+** Dealing flop ** [ 3c, 3s, 4c ]
+mad_colonel checks
+666GBH bets [$0.04]
+mad_colonel folds
+** Summary **
+666GBH did not show his hand
+666GBH collected [ $0.04 ]
+
+
+#Game No : 465241254
+***** 888poker Hand History for Game 465241254 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 05 2019 14:04:24
+Table Jericho 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: 666GBH ( $1.02 )
+Seat 4: mad_colonel ( $5.40 )
+mad_colonel posts small blind [$0.01]
+666GBH posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel raises [$0.05]
+666GBH folds
+** Summary **
+mad_colonel did not show his hand
+mad_colonel collected [ $0.04 ]
+
+
+#Game No : 465241269
+***** 888poker Hand History for Game 465241269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 05 2019 14:04:42
+Table Jericho 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $5.42 )
+Seat 6: camelbear ( $1 )
+camelbear posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+camelbear folds
+** Summary **
+mad_colonel did not show his hand
+mad_colonel collected [ $0.03 ]
+
+
+#Game No : 465241276
+***** 888poker Hand History for Game 465241276 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 05 2019 14:04:53
+Table Jericho 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $5.43 )
+Seat 6: camelbear ( $0.99 )
+mad_colonel posts small blind [$0.01]
+camelbear posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel raises [$0.05]
+camelbear calls [$0.04]
+** Dealing flop ** [ 9h, 3c, Qs ]
+camelbear bets [$0.02]
+mad_colonel calls [$0.02]
+** Dealing turn ** [ Ts ]
+camelbear bets [$0.10]
+mad_colonel folds
+** Summary **
+camelbear did not show his hand
+camelbear collected [ $0.15 ]
+
+
+#Game No : 465241292
+***** 888poker Hand History for Game 465241292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 05 2019 14:05:21
+Table Jericho 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $5.35 )
+Seat 6: camelbear ( $1.06 )
+camelbear posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+camelbear raises [$0.03]
+mad_colonel folds
+** Summary **
+camelbear collected [ $0.04 ]
+
+
+#Game No : 465241299
+***** 888poker Hand History for Game 465241299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 05 2019 14:05:32
+Table Jericho 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $5.33 )
+Seat 6: camelbear ( $1.08 )
+mad_colonel posts small blind [$0.01]
+camelbear posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel folds
+** Summary **
+camelbear did not show his hand
+camelbear collected [ $0.03 ]
+
+
+#Game No : 465241306
+***** 888poker Hand History for Game 465241306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 05 2019 14:05:41
+Table Jericho 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $5.32 )
+Seat 6: camelbear ( $1.09 )
+camelbear posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+camelbear raises [$0.03]
+mad_colonel raises [$0.10]
+camelbear calls [$0.08]
+** Dealing flop ** [ Kd, 4c, 8c ]
+mad_colonel bets [$0.12]
+camelbear calls [$0.12]
+** Dealing turn ** [ 5c ]
+mad_colonel bets [$0.23]
+camelbear calls [$0.23]
+** Dealing river ** [ 7h ]
+mad_colonel bets [$0.45]
+camelbear raises [$0.62]
+mad_colonel calls [$0.17]
+** Summary **
+mad_colonel shows [ Qh, Ks ]
+camelbear shows [ 6d, As ]
+camelbear collected [ $2.05 ]
+
+
+#Game No : 465241327
+***** 888poker Hand History for Game 465241327 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 05 2019 14:06:18
+Table Jericho 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: mad_colonel ( $4.23 )
+Seat 6: camelbear ( $2.05 )
+mad_colonel posts small blind [$0.01]
+camelbear posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel raises [$0.05]
+camelbear folds
+** Summary **
+mad_colonel did not show his hand
+mad_colonel collected [ $0.04 ]
+
+

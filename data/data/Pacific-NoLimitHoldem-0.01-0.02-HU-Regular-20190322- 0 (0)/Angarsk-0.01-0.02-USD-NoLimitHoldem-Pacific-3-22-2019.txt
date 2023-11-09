@@ -1,0 +1,29 @@
+#Game No : 515360402
+***** 888poker Hand History for Game 515360402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 03 2019 12:05:13
+Table Angarsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: djonsilver12 ( $0.78 )
+Seat 6: kmlm73 ( $2.02 )
+djonsilver12 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+djonsilver12 calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 9s, 3s, 7d ]
+kmlm73 checks
+djonsilver12 bets [$0.04]
+kmlm73 calls [$0.04]
+** Dealing turn ** [ 4c ]
+kmlm73 bets [$0.06]
+djonsilver12 calls [$0.06]
+** Dealing river ** [ 7c ]
+kmlm73 bets [$0.07]
+djonsilver12 calls [$0.07]
+** Summary **
+kmlm73 shows [ 9h, 3h ]
+djonsilver12 mucks [ 4h, Ac ]
+kmlm73 collected [ $0.36 ]
+
+

@@ -1,0 +1,65 @@
+#Game No : 1244578080
+***** 888poker Hand History for Game 1244578080 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 02 2019 18:34:05
+Table Coronel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Mantikaman ( $1 )
+Seat 6: AleksandR400 ( $2.76 )
+Mantikaman posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Mantikaman raises [$0.03]
+AleksandR400 folds
+** Summary **
+Mantikaman collected [ $0.04 ]
+
+
+#Game No : 1244578105
+***** 888poker Hand History for Game 1244578105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 02 2019 18:34:14
+Table Coronel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Mantikaman ( $1.02 )
+Seat 6: AleksandR400 ( $2.74 )
+AleksandR400 posts small blind [$0.01]
+Mantikaman posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.05]
+Mantikaman calls [$0.04]
+** Dealing flop ** [ Ts, Ks, Qd ]
+Mantikaman checks
+AleksandR400 checks
+** Dealing turn ** [ 7d ]
+Mantikaman bets [$0.07]
+AleksandR400 raises [$0.14]
+Mantikaman calls [$0.07]
+** Dealing river ** [ 7h ]
+Mantikaman bets [$0.42]
+AleksandR400 folds
+** Summary **
+Mantikaman collected [ $0.38 ]
+
+
+#Game No : 1244578215
+***** 888poker Hand History for Game 1244578215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 02 2019 18:35:01
+Table Coronel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Mantikaman ( $1.20 )
+Seat 6: AleksandR400 ( $2.54 )
+Mantikaman posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Mantikaman raises [$0.03]
+AleksandR400 raises [$0.10]
+Mantikaman calls [$0.08]
+** Dealing flop ** [ 9c, 4d, Js ]
+AleksandR400 bets [$0.24]
+Mantikaman folds
+** Summary **
+AleksandR400 collected [ $0.23 ]
+
+

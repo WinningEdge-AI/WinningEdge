@@ -1,0 +1,572 @@
+#Game No : 505622581
+***** 888poker Hand History for Game 505622581 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 16:09:18
+Table Ankara 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: earthwormc75 ( $1.05 )
+Seat 9: demetriusnun ( $1.46 )
+earthwormc75 posts small blind [$0.01]
+demetriusnun posts big blind [$0.02]
+** Dealing down cards **
+earthwormc75 calls [$0.01]
+demetriusnun checks
+** Dealing flop ** [ Qc, Tc, 2h ]
+demetriusnun checks
+earthwormc75 bets [$0.02]
+demetriusnun folds
+** Summary **
+earthwormc75 collected [ $0.04 ]
+
+
+#Game No : 505623260
+***** 888poker Hand History for Game 505623260 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 16:34:54
+Table Ankara 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: dnki1989 ( $0.85 )
+Seat 9: demetriusnun ( $2.20 )
+dnki1989 posts small blind [$0.01]
+demetriusnun posts big blind [$0.02]
+** Dealing down cards **
+dnki1989 folds
+** Summary **
+demetriusnun did not show his hand
+demetriusnun collected [ $0.03 ]
+
+
+#Game No : 505623263
+***** 888poker Hand History for Game 505623263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 16:35:00
+Table Ankara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: dnki1989 ( $0.84 )
+Seat 9: demetriusnun ( $2.21 )
+demetriusnun posts small blind [$0.01]
+dnki1989 posts big blind [$0.02]
+** Dealing down cards **
+demetriusnun raises [$0.05]
+dnki1989 folds
+** Summary **
+demetriusnun collected [ $0.04 ]
+
+
+#Game No : 505623962
+***** 888poker Hand History for Game 505623962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 16:58:22
+Table Ankara 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $2.71 )
+Seat 7: dnki1989 ( $0.96 )
+dnki1989 posts small blind [$0.01]
+BigE714 posts big blind [$0.02]
+** Dealing down cards **
+dnki1989 calls [$0.01]
+BigE714 raises [$0.04]
+dnki1989 calls [$0.04]
+** Dealing flop ** [ Qd, Ac, 8h ]
+BigE714 checks
+dnki1989 bets [$0.02]
+BigE714 calls [$0.02]
+** Dealing turn ** [ Js ]
+BigE714 checks
+dnki1989 bets [$0.14]
+BigE714 calls [$0.14]
+** Dealing river ** [ 6h ]
+BigE714 checks
+dnki1989 bets [$0.74]
+BigE714 folds
+** Summary **
+dnki1989 collected [ $0.42 ]
+
+
+#Game No : 505624283
+***** 888poker Hand History for Game 505624283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:10:09
+Table Ankara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $3.89 )
+Seat 9: KristinaSiko ( $0.37 )
+KristinaSiko posts small blind [$0.01]
+BigE714 posts big blind [$0.02]
+** Dealing down cards **
+KristinaSiko calls [$0.01]
+BigE714 checks
+** Dealing flop ** [ 9h, Js, 3s ]
+BigE714 checks
+KristinaSiko checks
+** Dealing turn ** [ 8d ]
+BigE714 checks
+KristinaSiko checks
+** Dealing river ** [ Td ]
+BigE714 folds
+** Summary **
+KristinaSiko did not show his hand
+KristinaSiko collected [ $0.04 ]
+
+
+#Game No : 505624303
+***** 888poker Hand History for Game 505624303 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:10:39
+Table Ankara 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $3.87 )
+Seat 9: KristinaSiko ( $0.39 )
+BigE714 posts small blind [$0.01]
+KristinaSiko posts big blind [$0.02]
+** Dealing down cards **
+BigE714 calls [$0.01]
+KristinaSiko checks
+** Dealing flop ** [ Qs, 9c, 2h ]
+KristinaSiko checks
+BigE714 checks
+** Dealing turn ** [ 2s ]
+KristinaSiko checks
+BigE714 checks
+** Dealing river ** [ Qh ]
+KristinaSiko checks
+BigE714 checks
+** Summary **
+KristinaSiko shows [ 5d, 6h ]
+BigE714 shows [ 8h, Ad ]
+BigE714 collected [ $0.04 ]
+
+
+#Game No : 505624311
+***** 888poker Hand History for Game 505624311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:11:03
+Table Ankara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $3.89 )
+Seat 9: KristinaSiko ( $0.37 )
+KristinaSiko posts small blind [$0.01]
+BigE714 posts big blind [$0.02]
+** Dealing down cards **
+KristinaSiko calls [$0.01]
+BigE714 checks
+** Dealing flop ** [ Jd, 5s, Jh ]
+BigE714 checks
+KristinaSiko checks
+** Dealing turn ** [ Ah ]
+BigE714 checks
+KristinaSiko checks
+** Dealing river ** [ 7d ]
+BigE714 bets [$0.02]
+KristinaSiko calls [$0.02]
+** Summary **
+BigE714 shows [ 9c, Ad ]
+KristinaSiko mucks [ 2h, 2s ]
+BigE714 collected [ $0.08 ]
+
+
+#Game No : 505624327
+***** 888poker Hand History for Game 505624327 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:11:27
+Table Ankara 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $3.93 )
+Seat 9: KristinaSiko ( $0.33 )
+BigE714 posts small blind [$0.01]
+KristinaSiko posts big blind [$0.02]
+** Dealing down cards **
+BigE714 raises [$0.05]
+KristinaSiko calls [$0.04]
+** Dealing flop ** [ 5s, 7s, Qs ]
+KristinaSiko checks
+BigE714 checks
+** Dealing turn ** [ Th ]
+KristinaSiko checks
+BigE714 checks
+** Dealing river ** [ 8d ]
+KristinaSiko checks
+BigE714 checks
+** Summary **
+KristinaSiko shows [ 3c, 4c ]
+BigE714 shows [ Ad, Kd ]
+BigE714 collected [ $0.12 ]
+
+
+#Game No : 505624337
+***** 888poker Hand History for Game 505624337 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:11:55
+Table Ankara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $3.99 )
+Seat 9: KristinaSiko ( $0.27 )
+KristinaSiko posts small blind [$0.01]
+BigE714 posts big blind [$0.02]
+** Dealing down cards **
+KristinaSiko calls [$0.01]
+BigE714 checks
+** Dealing flop ** [ 6d, Kc, Kd ]
+BigE714 checks
+KristinaSiko checks
+** Dealing turn ** [ 7h ]
+BigE714 checks
+KristinaSiko checks
+** Dealing river ** [ Jd ]
+BigE714 checks
+KristinaSiko checks
+** Summary **
+BigE714 shows [ Qc, 2h ]
+KristinaSiko shows [ As, 5d ]
+KristinaSiko collected [ $0.04 ]
+
+
+#Game No : 505624350
+***** 888poker Hand History for Game 505624350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:12:22
+Table Ankara 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $3.97 )
+Seat 9: KristinaSiko ( $0.29 )
+BigE714 posts small blind [$0.01]
+KristinaSiko posts big blind [$0.02]
+** Dealing down cards **
+BigE714 raises [$0.03]
+KristinaSiko calls [$0.02]
+** Dealing flop ** [ 2d, 6h, 3s ]
+KristinaSiko bets [$0.02]
+BigE714 raises [$0.06]
+KristinaSiko calls [$0.04]
+** Dealing turn ** [ Qc ]
+KristinaSiko checks
+BigE714 bets [$0.10]
+KristinaSiko calls [$0.10]
+** Dealing river ** [ 5d ]
+KristinaSiko checks
+BigE714 checks
+** Summary **
+KristinaSiko shows [ Ad, 6c ]
+BigE714 shows [ Kh, Kc ]
+BigE714 collected [ $0.38 ]
+
+
+#Game No : 505624372
+***** 888poker Hand History for Game 505624372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:13:01
+Table Ankara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $4.15 )
+Seat 9: KristinaSiko ( $0.09 )
+KristinaSiko posts small blind [$0.01]
+BigE714 posts big blind [$0.02]
+** Dealing down cards **
+KristinaSiko calls [$0.01]
+BigE714 checks
+** Dealing flop ** [ 2h, 4c, Ts ]
+BigE714 checks
+KristinaSiko checks
+** Dealing turn ** [ Qh ]
+BigE714 folds
+** Summary **
+KristinaSiko did not show his hand
+KristinaSiko collected [ $0.04 ]
+
+
+#Game No : 505624380
+***** 888poker Hand History for Game 505624380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:13:19
+Table Ankara 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $4.13 )
+Seat 9: KristinaSiko ( $0.11 )
+BigE714 posts small blind [$0.01]
+KristinaSiko posts big blind [$0.02]
+** Dealing down cards **
+BigE714 raises [$0.03]
+KristinaSiko calls [$0.02]
+** Dealing flop ** [ 6c, 4h, 6h ]
+KristinaSiko checks
+BigE714 bets [$0.04]
+KristinaSiko folds
+** Summary **
+BigE714 did not show his hand
+BigE714 collected [ $0.08 ]
+
+
+#Game No : 505624392
+***** 888poker Hand History for Game 505624392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:13:37
+Table Ankara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $4.17 )
+Seat 9: KristinaSiko ( $0.07 )
+KristinaSiko posts small blind [$0.01]
+BigE714 posts big blind [$0.02]
+** Dealing down cards **
+KristinaSiko calls [$0.01]
+BigE714 checks
+** Dealing flop ** [ Qh, 7s, 2d ]
+BigE714 folds
+** Summary **
+KristinaSiko did not show his hand
+KristinaSiko collected [ $0.04 ]
+
+
+#Game No : 505624401
+***** 888poker Hand History for Game 505624401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 17:13:50
+Table Ankara 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: BigE714 ( $4.15 )
+Seat 9: KristinaSiko ( $0.09 )
+BigE714 posts small blind [$0.01]
+KristinaSiko posts big blind [$0.02]
+** Dealing down cards **
+BigE714 raises [$0.03]
+KristinaSiko calls [$0.02]
+** Dealing flop ** [ 9s, 6d, Ad ]
+KristinaSiko checks
+BigE714 bets [$0.04]
+KristinaSiko folds
+** Summary **
+BigE714 did not show his hand
+BigE714 collected [ $0.08 ]
+
+
+#Game No : 457680445
+***** 888poker Hand History for Game 457680445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:19:27
+Table Ankara 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.56 )
+Seat 9: Ohoho123 ( $0.68 )
+JBMPhoenix posts small blind [$0.01]
+Ohoho123 posts big blind [$0.02]
+** Dealing down cards **
+JBMPhoenix raises [$0.03]
+Ohoho123 calls [$0.02]
+** Dealing flop ** [ 7s, Ks, As ]
+Ohoho123 checks
+JBMPhoenix bets [$0.05]
+Ohoho123 folds
+** Summary **
+JBMPhoenix did not show his hand
+JBMPhoenix collected [ $0.08 ]
+
+
+#Game No : 457680466
+***** 888poker Hand History for Game 457680466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:19:50
+Table Ankara 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.60 )
+Seat 9: Ohoho123 ( $0.64 )
+Ohoho123 posts small blind [$0.01]
+JBMPhoenix posts big blind [$0.02]
+** Dealing down cards **
+Ohoho123 calls [$0.01]
+JBMPhoenix checks
+** Dealing flop ** [ 8d, Th, 2s ]
+JBMPhoenix checks
+Ohoho123 checks
+** Dealing turn ** [ 8h ]
+JBMPhoenix checks
+Ohoho123 bets [$0.02]
+JBMPhoenix folds
+** Summary **
+Ohoho123 did not show his hand
+Ohoho123 collected [ $0.04 ]
+
+
+#Game No : 457680487
+***** 888poker Hand History for Game 457680487 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:20:16
+Table Ankara 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.58 )
+Seat 9: Ohoho123 ( $0.66 )
+JBMPhoenix posts small blind [$0.01]
+Ohoho123 posts big blind [$0.02]
+** Dealing down cards **
+JBMPhoenix raises [$0.03]
+Ohoho123 folds
+** Summary **
+JBMPhoenix did not show his hand
+JBMPhoenix collected [ $0.04 ]
+
+
+#Game No : 457680500
+***** 888poker Hand History for Game 457680500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:20:28
+Table Ankara 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.60 )
+Seat 9: Ohoho123 ( $0.64 )
+Ohoho123 posts small blind [$0.01]
+JBMPhoenix posts big blind [$0.02]
+** Dealing down cards **
+Ohoho123 calls [$0.01]
+JBMPhoenix checks
+** Dealing flop ** [ Kh, 7d, 7c ]
+JBMPhoenix checks
+Ohoho123 checks
+** Dealing turn ** [ Ah ]
+JBMPhoenix bets [$0.02]
+Ohoho123 folds
+** Summary **
+JBMPhoenix did not show his hand
+JBMPhoenix collected [ $0.04 ]
+
+
+#Game No : 457680530
+***** 888poker Hand History for Game 457680530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:21:02
+Table Ankara 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.62 )
+Seat 9: Ohoho123 ( $0.62 )
+JBMPhoenix posts small blind [$0.01]
+Ohoho123 posts big blind [$0.02]
+** Dealing down cards **
+JBMPhoenix folds
+** Summary **
+Ohoho123 did not show his hand
+Ohoho123 collected [ $0.03 ]
+
+
+#Game No : 457680542
+***** 888poker Hand History for Game 457680542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:21:13
+Table Ankara 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.61 )
+Seat 9: Ohoho123 ( $0.63 )
+Ohoho123 posts small blind [$0.01]
+JBMPhoenix posts big blind [$0.02]
+** Dealing down cards **
+Ohoho123 calls [$0.01]
+JBMPhoenix raises [$0.04]
+Ohoho123 calls [$0.04]
+** Dealing flop ** [ 7c, Kh, Jh ]
+JBMPhoenix checks
+Ohoho123 checks
+** Dealing turn ** [ Kc ]
+JBMPhoenix bets [$0.04]
+Ohoho123 folds
+** Summary **
+JBMPhoenix did not show his hand
+JBMPhoenix collected [ $0.12 ]
+
+
+#Game No : 457680575
+***** 888poker Hand History for Game 457680575 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:21:55
+Table Ankara 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.67 )
+Seat 9: Ohoho123 ( $0.57 )
+JBMPhoenix posts small blind [$0.01]
+Ohoho123 posts big blind [$0.02]
+** Dealing down cards **
+JBMPhoenix folds
+** Summary **
+Ohoho123 did not show his hand
+Ohoho123 collected [ $0.03 ]
+
+
+#Game No : 457680577
+***** 888poker Hand History for Game 457680577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:22:01
+Table Ankara 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.66 )
+Seat 9: Ohoho123 ( $0.58 )
+Ohoho123 posts small blind [$0.01]
+JBMPhoenix posts big blind [$0.02]
+** Dealing down cards **
+Ohoho123 folds
+** Summary **
+JBMPhoenix did not show his hand
+JBMPhoenix collected [ $0.03 ]
+
+
+#Game No : 457680586
+***** 888poker Hand History for Game 457680586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:22:11
+Table Ankara 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.67 )
+Seat 9: Ohoho123 ( $0.57 )
+JBMPhoenix posts small blind [$0.01]
+Ohoho123 posts big blind [$0.02]
+** Dealing down cards **
+JBMPhoenix raises [$0.03]
+Ohoho123 calls [$0.02]
+** Dealing flop ** [ 3d, 9c, Qs ]
+Ohoho123 checks
+JBMPhoenix checks
+** Dealing turn ** [ Ad ]
+Ohoho123 checks
+JBMPhoenix bets [$0.04]
+Ohoho123 folds
+** Summary **
+JBMPhoenix did not show his hand
+JBMPhoenix collected [ $0.08 ]
+
+
+#Game No : 457680602
+***** 888poker Hand History for Game 457680602 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:22:32
+Table Ankara 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.71 )
+Seat 9: Ohoho123 ( $0.53 )
+Ohoho123 posts small blind [$0.01]
+JBMPhoenix posts big blind [$0.02]
+** Dealing down cards **
+Ohoho123 calls [$0.01]
+JBMPhoenix checks
+** Dealing flop ** [ Td, 2h, 3h ]
+JBMPhoenix bets [$0.02]
+Ohoho123 calls [$0.02]
+** Dealing turn ** [ 9s ]
+JBMPhoenix bets [$0.05]
+Ohoho123 calls [$0.05]
+** Dealing river ** [ 6c ]
+JBMPhoenix bets [$0.12]
+Ohoho123 folds
+** Summary **
+JBMPhoenix collected [ $0.17 ]
+
+
+#Game No : 457680637
+***** 888poker Hand History for Game 457680637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 13:23:14
+Table Ankara 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: JBMPhoenix ( $3.79 )
+Seat 9: Ohoho123 ( $0.44 )
+JBMPhoenix posts small blind [$0.01]
+Ohoho123 posts big blind [$0.02]
+** Dealing down cards **
+JBMPhoenix folds
+** Summary **
+Ohoho123 collected [ $0.03 ]
+
+

@@ -1,0 +1,46 @@
+#Game No : 504345886
+***** 888poker Hand History for Game 504345886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 07 2018 16:19:29
+Table Potsdam 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Yancco ( $0.70 )
+Seat 7: dimasic ( $1.87 )
+dimasic posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+dimasic folds
+** Summary **
+Yancco collected [ $0.03 ]
+
+
+#Game No : 504389501
+***** 888poker Hand History for Game 504389501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 07 2018 16:04:57
+Table Potsdam 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Bob777888 ( $3.29 )
+Seat 6: w0lf0fwallst ( $1.26 )
+w0lf0fwallst posts small blind [$0.01]
+Bob777888 posts big blind [$0.02]
+** Dealing down cards **
+w0lf0fwallst calls [$0.01]
+Bob777888 raises [$0.02]
+w0lf0fwallst calls [$0.02]
+** Dealing flop ** [ 9h, 4s, As ]
+Bob777888 bets [$0.02]
+w0lf0fwallst calls [$0.02]
+** Dealing turn ** [ 9c ]
+Bob777888 checks
+w0lf0fwallst bets [$0.02]
+Bob777888 calls [$0.02]
+** Dealing river ** [ Qc ]
+Bob777888 checks
+w0lf0fwallst checks
+** Summary **
+Bob777888 shows [ Jd, Js ]
+w0lf0fwallst mucks [ 5c, 5d ]
+Bob777888 collected [ $0.15 ]
+
+

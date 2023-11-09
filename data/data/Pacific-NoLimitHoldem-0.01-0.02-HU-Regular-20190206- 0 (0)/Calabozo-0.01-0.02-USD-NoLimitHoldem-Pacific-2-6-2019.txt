@@ -1,0 +1,30 @@
+#Game No : 461252031
+***** 888poker Hand History for Game 461252031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 04:16:23
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: izot74 ( $1.20 )
+Seat 9: SlikvsSlik ( $1.26 )
+SlikvsSlik posts small blind [$0.01]
+izot74 posts big blind [$0.02]
+** Dealing down cards **
+SlikvsSlik raises [$0.05]
+izot74 calls [$0.04]
+** Dealing flop ** [ Ah, Kd, Ks ]
+izot74 bets [$0.02]
+SlikvsSlik raises [$0.06]
+izot74 calls [$0.04]
+** Dealing turn ** [ 7c ]
+izot74 checks
+SlikvsSlik bets [$0.05]
+izot74 calls [$0.05]
+** Dealing river ** [ Qs ]
+izot74 checks
+SlikvsSlik checks
+** Summary **
+izot74 shows [ Jh, Jc ]
+SlikvsSlik mucks [ 6s, 7s ]
+izot74 collected [ $0.32 ]
+
+

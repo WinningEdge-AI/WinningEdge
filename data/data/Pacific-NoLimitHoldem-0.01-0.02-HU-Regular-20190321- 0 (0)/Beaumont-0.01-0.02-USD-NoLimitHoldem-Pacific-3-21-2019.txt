@@ -1,0 +1,50 @@
+#Game No : 527156740
+***** 888poker Hand History for Game 527156740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:30:58
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: moises6194 ( $0.58 )
+Seat 2: Manslay ( $1.76 )
+Manslay posts small blind [$0.01]
+moises6194 posts big blind [$0.02]
+** Dealing down cards **
+Manslay raises [$0.03]
+moises6194 calls [$0.02]
+** Dealing flop ** [ Ah, 4h, 3s ]
+moises6194 checks
+Manslay checks
+** Dealing turn ** [ Td ]
+moises6194 checks
+Manslay bets [$0.05]
+moises6194 folds
+** Summary **
+Manslay collected [ $0.08 ]
+
+
+#Game No : 527164889
+***** 888poker Hand History for Game 527164889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 11:54:19
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: SplitSuit ( $2.92 )
+Seat 4: Ckopo6oraT ( $3.88 )
+Ckopo6oraT posts small blind [$0.01]
+SplitSuit posts big blind [$0.02]
+** Dealing down cards **
+Ckopo6oraT raises [$0.05]
+SplitSuit calls [$0.04]
+** Dealing flop ** [ 6c, 8h, 5s ]
+SplitSuit checks
+Ckopo6oraT checks
+** Dealing turn ** [ 2s ]
+SplitSuit bets [$0.08]
+Ckopo6oraT calls [$0.08]
+** Dealing river ** [ 4h ]
+SplitSuit bets [$0.14]
+Ckopo6oraT folds
+** Summary **
+SplitSuit collected [ $0.27 ]
+
+

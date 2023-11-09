@@ -1,0 +1,54 @@
+#Game No : 547099053
+***** 888poker Hand History for Game 547099053 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 12 2019 20:20:06
+Table Coventry 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2 )
+Seat 10: soumans75 ( $3.62 )
+soumans75 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+soumans75 calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 8c, 3h, 2d ]
+avramia1 checks
+soumans75 checks
+** Dealing turn ** [ Ks ]
+avramia1 checks
+soumans75 bets [$0.03]
+avramia1 folds
+** Summary **
+soumans75 did not show his hand
+soumans75 collected [ $0.04 ]
+
+
+#Game No : 547099078
+***** 888poker Hand History for Game 547099078 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 12 2019 20:20:43
+Table Coventry 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.98 )
+Seat 10: soumans75 ( $3.64 )
+avramia1 posts small blind [$0.01]
+soumans75 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+soumans75 calls [$0.02]
+** Dealing flop ** [ Kd, Kh, 4h ]
+soumans75 checks
+avramia1 bets [$0.04]
+soumans75 calls [$0.04]
+** Dealing turn ** [ 8s ]
+soumans75 checks
+avramia1 checks
+** Dealing river ** [ Tc ]
+soumans75 bets [$0.02]
+avramia1 calls [$0.02]
+** Summary **
+soumans75 shows [ 9h, Qh ]
+avramia1 shows [ Td, Ac ]
+avramia1 collected [ $0.19 ]
+
+

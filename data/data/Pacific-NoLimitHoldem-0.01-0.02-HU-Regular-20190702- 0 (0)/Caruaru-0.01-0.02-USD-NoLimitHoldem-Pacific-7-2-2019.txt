@@ -1,0 +1,57 @@
+#Game No : 1277534802
+***** 888poker Hand History for Game 1277534802 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2019 23:29:05
+Table Caruaru 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.84 )
+Seat 6: WorstShark ( $0.96 )
+99TERRANCE99 posts small blind [$0.01]
+WorstShark posts big blind [$0.02]
+** Dealing down cards **
+99TERRANCE99 calls [$0.01]
+WorstShark checks
+** Dealing flop ** [ Qc, Ks, 4s ]
+WorstShark checks
+99TERRANCE99 checks
+** Dealing turn ** [ 7c ]
+WorstShark checks
+99TERRANCE99 checks
+** Dealing river ** [ 5s ]
+WorstShark checks
+99TERRANCE99 bets [$0.02]
+WorstShark calls [$0.02]
+** Summary **
+99TERRANCE99 shows [ 8s, 2s ]
+WorstShark mucks [ Jh, Kc ]
+99TERRANCE99 collected [ $0.08 ]
+
+
+#Game No : 1277534832
+***** 888poker Hand History for Game 1277534832 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2019 23:29:30
+Table Caruaru 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 99TERRANCE99 ( $0.88 )
+Seat 6: WorstShark ( $0.92 )
+WorstShark posts small blind [$0.01]
+99TERRANCE99 posts big blind [$0.02]
+** Dealing down cards **
+WorstShark calls [$0.01]
+99TERRANCE99 checks
+** Dealing flop ** [ 6c, 7c, 3c ]
+99TERRANCE99 checks
+WorstShark checks
+** Dealing turn ** [ 5h ]
+99TERRANCE99 checks
+WorstShark checks
+** Dealing river ** [ 7d ]
+99TERRANCE99 checks
+WorstShark checks
+** Summary **
+99TERRANCE99 shows [ Qh, Ks ]
+WorstShark shows [ 9c, Kc ]
+WorstShark collected [ $0.04 ]
+
+

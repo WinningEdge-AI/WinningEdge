@@ -1,0 +1,56 @@
+#Game No : 527859745
+***** 888poker Hand History for Game 527859745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 00:56:00
+Table Pereira 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: FILIPOK7 ( $1.72 )
+Seat 5: serhion14 ( $3.16 )
+FILIPOK7 posts small blind [$0.01]
+serhion14 posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+serhion14 raises [$0.04]
+FILIPOK7 calls [$0.04]
+** Dealing flop ** [ 6c, 4c, Tc ]
+serhion14 checks
+FILIPOK7 checks
+** Dealing turn ** [ 5c ]
+serhion14 bets [$0.06]
+FILIPOK7 calls [$0.06]
+** Dealing river ** [ Qs ]
+serhion14 checks
+FILIPOK7 checks
+** Summary **
+serhion14 shows [ Ks, 8h ]
+FILIPOK7 shows [ 5s, 5h ]
+FILIPOK7 collected [ $0.23 ]
+
+
+#Game No : 527859752
+***** 888poker Hand History for Game 527859752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 00:56:23
+Table Pereira 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: FILIPOK7 ( $1.83 )
+Seat 5: serhion14 ( $3.04 )
+serhion14 posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+serhion14 raises [$0.05]
+FILIPOK7 calls [$0.04]
+** Dealing flop ** [ Ah, Jh, 7d ]
+FILIPOK7 checks
+serhion14 checks
+** Dealing turn ** [ As ]
+FILIPOK7 bets [$0.06]
+serhion14 calls [$0.06]
+** Dealing river ** [ 7s ]
+FILIPOK7 checks
+serhion14 bets [$0.16]
+FILIPOK7 folds
+** Summary **
+serhion14 collected [ $0.23 ]
+
+

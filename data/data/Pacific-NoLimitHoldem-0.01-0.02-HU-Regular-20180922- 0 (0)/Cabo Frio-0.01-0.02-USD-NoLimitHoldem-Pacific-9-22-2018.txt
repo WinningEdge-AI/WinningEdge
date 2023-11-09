@@ -1,0 +1,295 @@
+#Game No : 455639294
+***** 888poker Hand History for Game 455639294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:13:37
+Table Cabo Frio 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: SJz00 ( $2.19 )
+Seat 3: mlogn ( $1.80 )
+mlogn posts small blind [$0.01]
+SJz00 posts big blind [$0.02]
+** Dealing down cards **
+mlogn calls [$0.01]
+SJz00 checks
+** Dealing flop ** [ Ac, 7c, 4s ]
+SJz00 checks
+mlogn checks
+** Dealing turn ** [ 8s ]
+SJz00 bets [$0.02]
+mlogn calls [$0.02]
+** Dealing river ** [ 2d ]
+SJz00 checks
+mlogn checks
+** Summary **
+SJz00 shows [ Jc, 8d ]
+mlogn mucks [ 5s, Js ]
+SJz00 collected [ $0.08 ]
+
+
+#Game No : 455639605
+***** 888poker Hand History for Game 455639605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:19:50
+Table Cabo Frio 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: SJz00 ( $3.75 )
+Seat 4: makklaudi ( $2.11 )
+makklaudi posts small blind [$0.01]
+SJz00 posts big blind [$0.02]
+** Dealing down cards **
+makklaudi raises [$0.05]
+SJz00 calls [$0.04]
+** Dealing flop ** [ 7c, 5h, Ks ]
+SJz00 checks
+makklaudi checks
+** Dealing turn ** [ Qh ]
+SJz00 bets [$0.08]
+makklaudi calls [$0.08]
+** Dealing river ** [ Jd ]
+SJz00 checks
+makklaudi bets [$0.18]
+SJz00 folds
+** Summary **
+makklaudi did not show his hand
+makklaudi collected [ $0.27 ]
+
+
+#Game No : 455639647
+***** 888poker Hand History for Game 455639647 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:20:35
+Table Cabo Frio 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SJz00 ( $3.61 )
+Seat 4: makklaudi ( $2.24 )
+SJz00 posts small blind [$0.01]
+makklaudi posts big blind [$0.02]
+** Dealing down cards **
+SJz00 calls [$0.01]
+makklaudi checks
+** Dealing flop ** [ Ac, 5d, 3d ]
+makklaudi checks
+SJz00 checks
+** Dealing turn ** [ 9d ]
+makklaudi checks
+SJz00 checks
+** Dealing river ** [ As ]
+makklaudi checks
+SJz00 checks
+** Summary **
+makklaudi shows [ Ks, 8s ]
+SJz00 mucks [ 6s, Jh ]
+makklaudi collected [ $0.04 ]
+
+
+#Game No : 455640617
+***** 888poker Hand History for Game 455640617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:40:10
+Table Cabo Frio 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: G_E_R_Z_O_G ( $0.58 )
+Seat 6: murovannyy ( $1.25 )
+G_E_R_Z_O_G posts small blind [$0.01]
+murovannyy posts big blind [$0.02]
+** Dealing down cards **
+G_E_R_Z_O_G raises [$0.03]
+murovannyy calls [$0.02]
+** Dealing flop ** [ 8s, Ks, Td ]
+murovannyy checks
+G_E_R_Z_O_G checks
+** Dealing turn ** [ 3s ]
+murovannyy checks
+G_E_R_Z_O_G checks
+** Dealing river ** [ Js ]
+murovannyy checks
+G_E_R_Z_O_G checks
+** Summary **
+murovannyy shows [ 3c, 5c ]
+G_E_R_Z_O_G mucks [ Ad, 2c ]
+murovannyy collected [ $0.08 ]
+
+
+#Game No : 455640642
+***** 888poker Hand History for Game 455640642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:40:22
+Table Cabo Frio 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: G_E_R_Z_O_G ( $0.54 )
+Seat 6: murovannyy ( $1.29 )
+murovannyy posts small blind [$0.01]
+G_E_R_Z_O_G posts big blind [$0.02]
+** Dealing down cards **
+murovannyy folds
+** Summary **
+G_E_R_Z_O_G did not show his hand
+G_E_R_Z_O_G collected [ $0.03 ]
+
+
+#Game No : 455640649
+***** 888poker Hand History for Game 455640649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:40:27
+Table Cabo Frio 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: G_E_R_Z_O_G ( $0.55 )
+Seat 6: murovannyy ( $1.28 )
+G_E_R_Z_O_G posts small blind [$0.01]
+murovannyy posts big blind [$0.02]
+** Dealing down cards **
+G_E_R_Z_O_G raises [$0.03]
+murovannyy raises [$0.04]
+G_E_R_Z_O_G raises [$0.04]
+murovannyy calls [$0.02]
+** Dealing flop ** [ As, 3d, 9c ]
+murovannyy checks
+G_E_R_Z_O_G checks
+** Dealing turn ** [ 7d ]
+murovannyy checks
+G_E_R_Z_O_G checks
+** Dealing river ** [ Qc ]
+murovannyy bets [$0.08]
+G_E_R_Z_O_G raises [$0.40]
+murovannyy calls [$0.32]
+** Summary **
+G_E_R_Z_O_G shows [ Ah, Kd ]
+murovannyy mucks [ 9s, Kc ]
+G_E_R_Z_O_G collected [ $0.90 ]
+
+
+#Game No : 455640674
+***** 888poker Hand History for Game 455640674 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:41:00
+Table Cabo Frio 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: G_E_R_Z_O_G ( $0.97 )
+Seat 6: murovannyy ( $1 )
+murovannyy posts small blind [$0.01]
+G_E_R_Z_O_G posts big blind [$0.02]
+** Dealing down cards **
+murovannyy raises [$0.03]
+G_E_R_Z_O_G calls [$0.02]
+** Dealing flop ** [ 5c, Jc, 6d ]
+G_E_R_Z_O_G bets [$0.02]
+murovannyy calls [$0.02]
+** Dealing turn ** [ 4s ]
+G_E_R_Z_O_G bets [$0.02]
+murovannyy calls [$0.02]
+** Dealing river ** [ Jh ]
+G_E_R_Z_O_G bets [$0.02]
+murovannyy raises [$0.12]
+G_E_R_Z_O_G folds
+** Summary **
+murovannyy did not show his hand
+murovannyy collected [ $0.19 ]
+
+
+#Game No : 455640694
+***** 888poker Hand History for Game 455640694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:41:28
+Table Cabo Frio 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: G_E_R_Z_O_G ( $0.87 )
+Seat 6: murovannyy ( $1.09 )
+G_E_R_Z_O_G posts small blind [$0.01]
+murovannyy posts big blind [$0.02]
+** Dealing down cards **
+G_E_R_Z_O_G calls [$0.01]
+murovannyy raises [$0.08]
+G_E_R_Z_O_G folds
+** Summary **
+murovannyy did not show his hand
+murovannyy collected [ $0.04 ]
+
+
+#Game No : 455640941
+***** 888poker Hand History for Game 455640941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:46:02
+Table Cabo Frio 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: oscartwelve ( $2 )
+Seat 7: Jubetti ( $1.14 )
+oscartwelve posts small blind [$0.01]
+Jubetti posts big blind [$0.02]
+** Dealing down cards **
+oscartwelve folds
+** Summary **
+Jubetti collected [ $0.03 ]
+
+
+#Game No : 455640947
+***** 888poker Hand History for Game 455640947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:46:12
+Table Cabo Frio 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: oscartwelve ( $1.99 )
+Seat 7: Jubetti ( $1.15 )
+Jubetti posts small blind [$0.01]
+oscartwelve posts big blind [$0.02]
+** Dealing down cards **
+Jubetti calls [$0.01]
+oscartwelve checks
+** Dealing flop ** [ Ts, 7s, 8d ]
+oscartwelve checks
+Jubetti bets [$0.04]
+oscartwelve folds
+** Summary **
+Jubetti collected [ $0.04 ]
+
+
+#Game No : 455640962
+***** 888poker Hand History for Game 455640962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:46:26
+Table Cabo Frio 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: oscartwelve ( $1.97 )
+Seat 7: Jubetti ( $1.17 )
+oscartwelve posts small blind [$0.01]
+Jubetti posts big blind [$0.02]
+** Dealing down cards **
+oscartwelve calls [$0.01]
+Jubetti raises [$0.02]
+oscartwelve calls [$0.02]
+** Dealing flop ** [ 8h, 8s, 3s ]
+Jubetti bets [$0.06]
+oscartwelve folds
+** Summary **
+Jubetti collected [ $0.08 ]
+
+
+#Game No : 455640973
+***** 888poker Hand History for Game 455640973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 12:46:41
+Table Cabo Frio 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: oscartwelve ( $1.93 )
+Seat 7: Jubetti ( $1.21 )
+Jubetti posts small blind [$0.01]
+oscartwelve posts big blind [$0.02]
+** Dealing down cards **
+Jubetti calls [$0.01]
+oscartwelve checks
+** Dealing flop ** [ 6d, 5c, 4s ]
+oscartwelve checks
+Jubetti bets [$0.06]
+oscartwelve calls [$0.06]
+** Dealing turn ** [ Js ]
+oscartwelve checks
+Jubetti bets [$0.08]
+oscartwelve calls [$0.08]
+** Dealing river ** [ 7d ]
+oscartwelve bets [$1.77]
+Jubetti calls [$1.05]
+** Summary **
+oscartwelve shows [ Qc, 3c ]
+Jubetti shows [ Jd, 6h ]
+oscartwelve collected [ $2.27 ]
+
+

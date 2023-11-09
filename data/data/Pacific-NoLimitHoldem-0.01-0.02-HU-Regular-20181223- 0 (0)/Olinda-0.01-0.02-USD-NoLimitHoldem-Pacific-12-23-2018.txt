@@ -1,0 +1,921 @@
+#Game No : 1233896491
+***** 888poker Hand History for Game 1233896491 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 02:28:47
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OtskokOtSten ( $1.07 )
+Seat 4: Kanzler92 ( $4.39 )
+OtskokOtSten posts small blind [$0.01]
+Kanzler92 posts big blind [$0.02]
+** Dealing down cards **
+OtskokOtSten folds
+** Summary **
+Kanzler92 collected [ $0.03 ]
+
+
+#Game No : 1233896507
+***** 888poker Hand History for Game 1233896507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 02:28:52
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: OtskokOtSten ( $1.06 )
+Seat 4: Kanzler92 ( $4.40 )
+Kanzler92 posts small blind [$0.01]
+OtskokOtSten posts big blind [$0.02]
+** Dealing down cards **
+Kanzler92 calls [$0.01]
+OtskokOtSten raises [$0.06]
+Kanzler92 calls [$0.06]
+** Dealing flop ** [ 4c, 8h, Qd ]
+OtskokOtSten checks
+Kanzler92 bets [$0.06]
+OtskokOtSten folds
+** Summary **
+Kanzler92 collected [ $0.15 ]
+
+
+#Game No : 1233913674
+***** 888poker Hand History for Game 1233913674 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:07:39
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: zn7521 ( $1.03 )
+Seat 9: rustaman76 ( $2.19 )
+rustaman76 posts small blind [$0.01]
+zn7521 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 folds
+** Summary **
+zn7521 collected [ $0.03 ]
+
+
+#Game No : 1233913689
+***** 888poker Hand History for Game 1233913689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:07:45
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: zn7521 ( $1.04 )
+Seat 9: rustaman76 ( $2.18 )
+zn7521 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+zn7521 raises [$0.03]
+rustaman76 calls [$0.02]
+** Dealing flop ** [ 2d, Th, 5d ]
+rustaman76 checks
+zn7521 bets [$0.05]
+rustaman76 calls [$0.05]
+** Dealing turn ** [ 7c ]
+rustaman76 checks
+zn7521 bets [$0.12]
+rustaman76 folds
+** Summary **
+zn7521 collected [ $0.17 ]
+
+
+#Game No : 1233913999
+***** 888poker Hand History for Game 1233913999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:09:14
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: 3putbeanz ( $0.93 )
+Seat 9: rustaman76 ( $2.17 )
+rustaman76 posts small blind [$0.01]
+3putbeanz posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 folds
+** Summary **
+3putbeanz did not show his hand
+3putbeanz collected [ $0.03 ]
+
+
+#Game No : 1233914030
+***** 888poker Hand History for Game 1233914030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:09:21
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 3putbeanz ( $0.94 )
+Seat 9: rustaman76 ( $2.16 )
+3putbeanz posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+3putbeanz folds
+** Summary **
+rustaman76 did not show his hand
+rustaman76 collected [ $0.03 ]
+
+
+#Game No : 1233914048
+***** 888poker Hand History for Game 1233914048 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:09:27
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: 3putbeanz ( $0.93 )
+Seat 9: rustaman76 ( $2.17 )
+rustaman76 posts small blind [$0.01]
+3putbeanz posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+3putbeanz folds
+** Summary **
+rustaman76 did not show his hand
+rustaman76 collected [ $0.04 ]
+
+
+#Game No : 1233914180
+***** 888poker Hand History for Game 1233914180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:10:05
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 3putbeanz ( $0.89 )
+Seat 9: rustaman76 ( $2.21 )
+3putbeanz posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+3putbeanz calls [$0.01]
+rustaman76 checks
+** Dealing flop ** [ 2s, Ac, 6s ]
+rustaman76 checks
+3putbeanz checks
+** Dealing turn ** [ 3d ]
+rustaman76 checks
+3putbeanz checks
+** Dealing river ** [ 9s ]
+rustaman76 checks
+3putbeanz checks
+** Summary **
+rustaman76 shows [ 6c, Tc ]
+3putbeanz mucks [ 7h, Qd ]
+rustaman76 collected [ $0.04 ]
+
+
+#Game No : 1233914252
+***** 888poker Hand History for Game 1233914252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:10:30
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: 3putbeanz ( $0.87 )
+Seat 9: rustaman76 ( $2.23 )
+rustaman76 posts small blind [$0.01]
+3putbeanz posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+3putbeanz calls [$0.02]
+** Dealing flop ** [ 6c, 2s, Qc ]
+3putbeanz checks
+rustaman76 checks
+** Dealing turn ** [ 8h ]
+3putbeanz checks
+rustaman76 bets [$0.05]
+3putbeanz calls [$0.05]
+** Dealing river ** [ Kd ]
+3putbeanz bets [$0.18]
+rustaman76 folds
+** Summary **
+3putbeanz did not show his hand
+3putbeanz collected [ $0.17 ]
+
+
+#Game No : 1233914366
+***** 888poker Hand History for Game 1233914366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:11:04
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 3putbeanz ( $0.95 )
+Seat 9: rustaman76 ( $2.14 )
+3putbeanz posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+3putbeanz folds
+** Summary **
+rustaman76 did not show his hand
+rustaman76 collected [ $0.03 ]
+
+
+#Game No : 1233914382
+***** 888poker Hand History for Game 1233914382 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:11:09
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: 3putbeanz ( $0.94 )
+Seat 9: rustaman76 ( $2.15 )
+rustaman76 posts small blind [$0.01]
+3putbeanz posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+3putbeanz calls [$0.02]
+** Dealing flop ** [ 6c, Tc, 9s ]
+3putbeanz checks
+rustaman76 bets [$0.05]
+3putbeanz calls [$0.05]
+** Dealing turn ** [ Jh ]
+3putbeanz checks
+rustaman76 checks
+** Dealing river ** [ 4c ]
+3putbeanz checks
+rustaman76 checks
+** Summary **
+3putbeanz shows [ 7s, 2s ]
+rustaman76 shows [ Ah, 2h ]
+rustaman76 collected [ $0.17 ]
+
+
+#Game No : 1233917892
+***** 888poker Hand History for Game 1233917892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:28:47
+Table Olinda 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: co98nst41 ( $1.35 )
+Seat 9: rustaman76 ( $1.57 )
+co98nst41 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+rustaman76 checks
+** Dealing flop ** [ 2s, 9s, 3s ]
+rustaman76 checks
+co98nst41 checks
+** Dealing turn ** [ 7c ]
+rustaman76 bets [$0.04]
+co98nst41 folds
+** Summary **
+rustaman76 collected [ $0.04 ]
+
+
+#Game No : 1233920250
+***** 888poker Hand History for Game 1233920250 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:41:20
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Freddy0111 ( $1.22 )
+Seat 2: Lisshura ( $0.83 )
+Lisshura posts small blind [$0.01]
+Freddy0111 posts big blind [$0.02]
+** Dealing down cards **
+Lisshura raises [$0.03]
+Freddy0111 calls [$0.02]
+** Dealing flop ** [ 2h, 9h, 8d ]
+Freddy0111 checks
+Lisshura checks
+** Dealing turn ** [ 2d ]
+Freddy0111 checks
+Lisshura bets [$0.05]
+Freddy0111 calls [$0.05]
+** Dealing river ** [ Ah ]
+Freddy0111 checks
+Lisshura bets [$0.12]
+Freddy0111 folds
+** Summary **
+Lisshura collected [ $0.17 ]
+
+
+#Game No : 1233920590
+***** 888poker Hand History for Game 1233920590 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:43:12
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Freddy0111 ( $1.18 )
+Seat 4: MaxNekrasov ( $0.96 )
+Freddy0111 posts small blind [$0.01]
+MaxNekrasov posts big blind [$0.02]
+** Dealing down cards **
+Freddy0111 raises [$0.05]
+MaxNekrasov calls [$0.04]
+** Dealing flop ** [ Qs, 8c, 4s ]
+MaxNekrasov checks
+Freddy0111 bets [$0.12]
+MaxNekrasov calls [$0.12]
+** Dealing turn ** [ 4d ]
+MaxNekrasov bets [$0.02]
+Freddy0111 calls [$0.02]
+** Dealing river ** [ Td ]
+MaxNekrasov checks
+Freddy0111 checks
+** Summary **
+MaxNekrasov shows [ 5d, 6h ]
+Freddy0111 shows [ 5s, Ad ]
+Freddy0111 collected [ $0.38 ]
+
+
+#Game No : 1233920731
+***** 888poker Hand History for Game 1233920731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:43:57
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Freddy0111 ( $1.36 )
+Seat 4: MaxNekrasov ( $0.76 )
+MaxNekrasov posts small blind [$0.01]
+Freddy0111 posts big blind [$0.02]
+** Dealing down cards **
+MaxNekrasov calls [$0.01]
+Freddy0111 checks
+** Dealing flop ** [ 7c, 7d, Kh ]
+Freddy0111 checks
+MaxNekrasov checks
+** Dealing turn ** [ Ac ]
+Freddy0111 bets [$0.02]
+MaxNekrasov folds
+** Summary **
+Freddy0111 collected [ $0.04 ]
+
+
+#Game No : 1233922102
+***** 888poker Hand History for Game 1233922102 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:50:52
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1 )
+Seat 9: Se7eNBo9E ( $1.60 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A raises [$0.05]
+Se7eNBo9E raises [$0.10]
+VALERA45A calls [$0.06]
+** Dealing flop ** [ Qc, Tc, 6s ]
+Se7eNBo9E checks
+VALERA45A bets [$0.12]
+Se7eNBo9E calls [$0.12]
+** Dealing turn ** [ 9c ]
+Se7eNBo9E bets [$0.12]
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.45 ]
+
+
+#Game No : 1233922188
+***** 888poker Hand History for Game 1233922188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:51:17
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1 )
+Seat 9: Se7eNBo9E ( $1.81 )
+Se7eNBo9E posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E folds
+** Summary **
+VALERA45A collected [ $0.03 ]
+
+
+#Game No : 1233922213
+***** 888poker Hand History for Game 1233922213 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:51:24
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.01 )
+Seat 9: Se7eNBo9E ( $1.80 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A raises [$0.05]
+Se7eNBo9E raises [$0.12]
+VALERA45A calls [$0.08]
+** Dealing flop ** [ 9s, Ks, 3c ]
+Se7eNBo9E bets [$0.14]
+VALERA45A raises [$0.28]
+Se7eNBo9E raises [$0.98]
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.79 ]
+
+
+#Game No : 1233922313
+***** 888poker Hand History for Game 1233922313 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:51:55
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1 )
+Seat 9: Se7eNBo9E ( $2.17 )
+Se7eNBo9E posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E raises [$0.05]
+VALERA45A calls [$0.04]
+** Dealing flop ** [ 8d, 2s, Qs ]
+VALERA45A checks
+Se7eNBo9E checks
+** Dealing turn ** [ Td ]
+VALERA45A checks
+Se7eNBo9E bets [$0.06]
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.12 ]
+
+
+#Game No : 1233922392
+***** 888poker Hand History for Game 1233922392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:52:22
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1 )
+Seat 9: Se7eNBo9E ( $2.23 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233922411
+***** 888poker Hand History for Game 1233922411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:52:27
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1 )
+Seat 9: Se7eNBo9E ( $2.24 )
+Se7eNBo9E posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E raises [$0.05]
+VALERA45A raises [$0.16]
+Se7eNBo9E folds
+** Summary **
+VALERA45A collected [ $0.12 ]
+
+
+#Game No : 1233922456
+***** 888poker Hand History for Game 1233922456 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:52:38
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.06 )
+Seat 9: Se7eNBo9E ( $2.18 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233922475
+***** 888poker Hand History for Game 1233922475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:52:44
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.05 )
+Seat 9: Se7eNBo9E ( $2.19 )
+Se7eNBo9E posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E raises [$0.05]
+VALERA45A calls [$0.04]
+** Dealing flop ** [ 8d, Kd, Ah ]
+VALERA45A checks
+Se7eNBo9E checks
+** Dealing turn ** [ 8c ]
+VALERA45A bets [$0.08]
+Se7eNBo9E folds
+** Summary **
+VALERA45A collected [ $0.12 ]
+
+
+#Game No : 1233922521
+***** 888poker Hand History for Game 1233922521 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:52:59
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.11 )
+Seat 9: Se7eNBo9E ( $2.13 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233922539
+***** 888poker Hand History for Game 1233922539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:53:03
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.10 )
+Seat 9: Se7eNBo9E ( $2.14 )
+Se7eNBo9E posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E folds
+** Summary **
+VALERA45A collected [ $0.03 ]
+
+
+#Game No : 1233922577
+***** 888poker Hand History for Game 1233922577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:53:15
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.11 )
+Seat 9: Se7eNBo9E ( $2.13 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233922594
+***** 888poker Hand History for Game 1233922594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:53:20
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.10 )
+Seat 9: Se7eNBo9E ( $2.14 )
+Se7eNBo9E posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E raises [$0.05]
+VALERA45A calls [$0.04]
+** Dealing flop ** [ 6c, Qc, 4c ]
+VALERA45A checks
+Se7eNBo9E checks
+** Dealing turn ** [ Jd ]
+VALERA45A bets [$0.06]
+Se7eNBo9E folds
+** Summary **
+VALERA45A collected [ $0.12 ]
+
+
+#Game No : 1233922646
+***** 888poker Hand History for Game 1233922646 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:53:36
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.16 )
+Seat 9: Se7eNBo9E ( $2.08 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233922666
+***** 888poker Hand History for Game 1233922666 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:53:41
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.15 )
+Seat 9: Se7eNBo9E ( $2.09 )
+Se7eNBo9E posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E folds
+** Summary **
+VALERA45A collected [ $0.03 ]
+
+
+#Game No : 1233922682
+***** 888poker Hand History for Game 1233922682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:53:46
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.16 )
+Seat 9: Se7eNBo9E ( $2.08 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233922702
+***** 888poker Hand History for Game 1233922702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:53:51
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.15 )
+Seat 9: Se7eNBo9E ( $2.09 )
+Se7eNBo9E posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E raises [$0.05]
+VALERA45A raises [$0.16]
+Se7eNBo9E folds
+** Summary **
+VALERA45A collected [ $0.12 ]
+
+
+#Game No : 1233922737
+***** 888poker Hand History for Game 1233922737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:54:03
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.21 )
+Seat 9: Se7eNBo9E ( $2.03 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233922757
+***** 888poker Hand History for Game 1233922757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:54:08
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.20 )
+Seat 9: Se7eNBo9E ( $2.04 )
+Se7eNBo9E posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E folds
+** Summary **
+VALERA45A collected [ $0.03 ]
+
+
+#Game No : 1233922779
+***** 888poker Hand History for Game 1233922779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 04:54:14
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.21 )
+Seat 9: Se7eNBo9E ( $2.03 )
+VALERA45A posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233934574
+***** 888poker Hand History for Game 1233934574 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:55:08
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1 )
+Seat 2: ShengIi ( $2.93 )
+VALERA45A posts small blind [$0.01]
+ShengIi posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A raises [$0.05]
+ShengIi folds
+** Summary **
+VALERA45A collected [ $0.04 ]
+
+
+#Game No : 1233934610
+***** 888poker Hand History for Game 1233934610 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:55:19
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: VALERA45A ( $1.02 )
+Seat 2: ShengIi ( $2.91 )
+ShengIi posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+ShengIi folds
+** Summary **
+VALERA45A collected [ $0.03 ]
+
+
+#Game No : 1233934686
+***** 888poker Hand History for Game 1233934686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:55:44
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ShengIi ( $2.90 )
+Seat 9: Se7eNBo9E ( $1 )
+Se7eNBo9E posts small blind [$0.01]
+ShengIi posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E raises [$0.05]
+ShengIi calls [$0.04]
+** Dealing flop ** [ Kh, 3d, 4h ]
+ShengIi bets [$0.06]
+Se7eNBo9E calls [$0.06]
+** Dealing turn ** [ 6c ]
+ShengIi bets [$0.12]
+Se7eNBo9E raises [$0.36]
+ShengIi folds
+** Summary **
+Se7eNBo9E collected [ $0.45 ]
+
+
+#Game No : 1233934778
+***** 888poker Hand History for Game 1233934778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:56:12
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ShengIi ( $2.66 )
+Seat 9: Se7eNBo9E ( $1.21 )
+ShengIi posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+ShengIi folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233934793
+***** 888poker Hand History for Game 1233934793 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:56:17
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ShengIi ( $2.65 )
+Seat 9: Se7eNBo9E ( $1.22 )
+Se7eNBo9E posts small blind [$0.01]
+ShengIi posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E raises [$0.05]
+ShengIi calls [$0.04]
+** Dealing flop ** [ 7c, 7s, Qs ]
+ShengIi checks
+Se7eNBo9E bets [$0.06]
+ShengIi folds
+** Summary **
+Se7eNBo9E collected [ $0.12 ]
+
+
+#Game No : 1233934853
+***** 888poker Hand History for Game 1233934853 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:56:39
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ShengIi ( $2.59 )
+Seat 9: Se7eNBo9E ( $1.28 )
+ShengIi posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+ShengIi raises [$0.05]
+Se7eNBo9E folds
+** Summary **
+ShengIi collected [ $0.04 ]
+
+
+#Game No : 1233934882
+***** 888poker Hand History for Game 1233934882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:56:48
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ShengIi ( $2.61 )
+Seat 9: Se7eNBo9E ( $1.26 )
+Se7eNBo9E posts small blind [$0.01]
+ShengIi posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E folds
+** Summary **
+ShengIi collected [ $0.03 ]
+
+
+#Game No : 1233934895
+***** 888poker Hand History for Game 1233934895 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:56:52
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ShengIi ( $2.62 )
+Seat 9: Se7eNBo9E ( $1.25 )
+ShengIi posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+ShengIi folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233934913
+***** 888poker Hand History for Game 1233934913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:56:58
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ShengIi ( $2.61 )
+Seat 9: Se7eNBo9E ( $1.26 )
+Se7eNBo9E posts small blind [$0.01]
+ShengIi posts big blind [$0.02]
+** Dealing down cards **
+Se7eNBo9E raises [$0.05]
+ShengIi folds
+** Summary **
+Se7eNBo9E collected [ $0.04 ]
+
+
+#Game No : 1233934949
+***** 888poker Hand History for Game 1233934949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 05:57:11
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ShengIi ( $2.59 )
+Seat 9: Se7eNBo9E ( $1.28 )
+ShengIi posts small blind [$0.01]
+Se7eNBo9E posts big blind [$0.02]
+** Dealing down cards **
+ShengIi folds
+** Summary **
+Se7eNBo9E collected [ $0.03 ]
+
+
+#Game No : 1233938420
+***** 888poker Hand History for Game 1233938420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 06:16:15
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ShengIi ( $2.25 )
+Seat 7: VALERA45A ( $1.42 )
+ShengIi posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+ShengIi calls [$0.01]
+VALERA45A checks
+** Dealing flop ** [ 3d, 5h, 2h ]
+VALERA45A checks
+ShengIi checks
+** Dealing turn ** [ Qd ]
+VALERA45A checks
+ShengIi checks
+** Dealing river ** [ Ah ]
+VALERA45A checks
+ShengIi checks
+** Summary **
+VALERA45A shows [ Td, 8c ]
+ShengIi shows [ Jc, 8h ]
+ShengIi collected [ $0.04 ]
+
+
+#Game No : 1233953008
+***** 888poker Hand History for Game 1233953008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 07:31:43
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Daniel7223 ( $2.38 )
+Seat 9: thesquaredog ( $3.26 )
+thesquaredog posts small blind [$0.01]
+Daniel7223 posts big blind [$0.02]
+** Dealing down cards **
+thesquaredog raises [$0.05]
+Daniel7223 raises [$0.16]
+thesquaredog folds
+** Summary **
+Daniel7223 collected [ $0.12 ]
+
+
+#Game No : 1233953544
+***** 888poker Hand History for Game 1233953544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 12 2018 07:34:14
+Table Olinda 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Daniel7223 ( $2.44 )
+Seat 7: Nooan84 ( $0.80 )
+Daniel7223 posts small blind [$0.01]
+Nooan84 posts big blind [$0.02]
+** Dealing down cards **
+Daniel7223 folds
+** Summary **
+Nooan84 did not show his hand
+Nooan84 collected [ $0.03 ]
+
+

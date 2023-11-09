@@ -1,0 +1,148 @@
+#Game No : 609955039
+***** 888poker Hand History for Game 609955039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 12:15:43
+Table Antwerp 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $2 )
+Seat 5: shelav ( $1.20 )
+1LadyMary posts small blind [$0.01]
+shelav posts big blind [$0.02]
+** Dealing down cards **
+1LadyMary calls [$0.01]
+shelav checks
+** Dealing flop ** [ Ks, 3s, Qc ]
+shelav checks
+1LadyMary checks
+** Dealing turn ** [ 3d ]
+shelav bets [$0.02]
+1LadyMary calls [$0.02]
+** Dealing river ** [ 9h ]
+shelav checks
+1LadyMary checks
+** Summary **
+shelav shows [ Qd, Jc ]
+1LadyMary shows [ Qh, 7s ]
+shelav collected [ $0.04 ]
+1LadyMary collected [ $0.04 ]
+
+
+#Game No : 609969024
+***** 888poker Hand History for Game 609969024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:47:10
+Table Antwerp 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: waimanc ( $2 )
+Seat 6: gemin77 ( $0.41 )
+gemin77 posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+gemin77 calls [$0.01]
+waimanc checks
+** Dealing flop ** [ Jh, Qs, Kh ]
+waimanc checks
+gemin77 checks
+** Dealing turn ** [ As ]
+waimanc checks
+gemin77 checks
+** Dealing river ** [ 6h ]
+waimanc checks
+gemin77 bets [$0.04]
+waimanc folds
+** Summary **
+gemin77 collected [ $0.04 ]
+
+
+#Game No : 609969168
+***** 888poker Hand History for Game 609969168 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:50:13
+Table Antwerp 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: waimanc ( $1.95 )
+Seat 6: gemin77 ( $0.44 )
+waimanc posts small blind [$0.01]
+gemin77 posts big blind [$0.02]
+** Dealing down cards **
+waimanc folds
+** Summary **
+gemin77 collected [ $0.03 ]
+
+
+#Game No : 609969173
+***** 888poker Hand History for Game 609969173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:50:18
+Table Antwerp 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: waimanc ( $1.94 )
+Seat 6: gemin77 ( $0.45 )
+gemin77 posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+gemin77 calls [$0.01]
+waimanc checks
+** Dealing flop ** [ 6c, 3s, 3h ]
+waimanc bets [$0.04]
+gemin77 calls [$0.04]
+** Dealing turn ** [ Qh ]
+waimanc bets [$0.12]
+gemin77 raises [$0.36]
+waimanc raises [$0.48]
+gemin77 calls [$0.03]
+** Dealing river ** [ Qs ]
+** Summary **
+waimanc shows [ 5s, 3d ]
+gemin77 shows [ Qd, Ah ]
+gemin77 collected [ $0.85 ]
+
+
+#Game No : 609969462
+***** 888poker Hand History for Game 609969462 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:56:34
+Table Antwerp 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: waimanc ( $2.76 )
+Seat 6: gemin77 ( $0.60 )
+gemin77 posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+gemin77 calls [$0.01]
+waimanc checks
+** Dealing flop ** [ 2h, As, Kc ]
+waimanc bets [$0.04]
+gemin77 folds
+** Summary **
+waimanc collected [ $0.04 ]
+
+
+#Game No : 609969523
+***** 888poker Hand History for Game 609969523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 16:58:01
+Table Antwerp 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: waimanc ( $2.78 )
+Seat 6: gemin77 ( $0.64 )
+gemin77 posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+gemin77 calls [$0.01]
+waimanc checks
+** Dealing flop ** [ Qh, Jd, Qs ]
+waimanc checks
+gemin77 checks
+** Dealing turn ** [ 5h ]
+waimanc checks
+gemin77 checks
+** Dealing river ** [ 9c ]
+waimanc checks
+gemin77 checks
+** Summary **
+waimanc shows [ 3h, 8c ]
+gemin77 shows [ Ks, 3s ]
+gemin77 collected [ $0.04 ]
+
+

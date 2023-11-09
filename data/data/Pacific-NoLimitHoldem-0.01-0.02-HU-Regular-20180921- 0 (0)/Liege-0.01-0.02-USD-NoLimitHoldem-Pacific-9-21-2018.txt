@@ -1,0 +1,146 @@
+#Game No : 1210569264
+***** 888poker Hand History for Game 1210569264 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 05:11:47
+Table Liege 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Schip77 ( $0.76 )
+Seat 5: taknikolai ( $0.78 )
+Schip77 posts small blind [$0.01]
+taknikolai posts big blind [$0.02]
+** Dealing down cards **
+Schip77 calls [$0.01]
+taknikolai raises [$0.02]
+Schip77 folds
+** Summary **
+taknikolai collected [ $0.04 ]
+
+
+#Game No : 1210569296
+***** 888poker Hand History for Game 1210569296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 05:11:59
+Table Liege 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Schip77 ( $0.74 )
+Seat 5: taknikolai ( $0.80 )
+taknikolai posts small blind [$0.01]
+Schip77 posts big blind [$0.02]
+** Dealing down cards **
+taknikolai calls [$0.01]
+Schip77 checks
+** Dealing flop ** [ 7c, 7d, 4c ]
+Schip77 bets [$0.04]
+taknikolai raises [$0.08]
+Schip77 calls [$0.04]
+** Dealing turn ** [ 5s ]
+Schip77 bets [$0.10]
+taknikolai calls [$0.10]
+** Dealing river ** [ 8s ]
+Schip77 bets [$0.16]
+taknikolai folds
+** Summary **
+Schip77 collected [ $0.38 ]
+
+
+#Game No : 1210569424
+***** 888poker Hand History for Game 1210569424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 05:12:44
+Table Liege 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Schip77 ( $0.92 )
+Seat 5: taknikolai ( $0.60 )
+Schip77 posts small blind [$0.01]
+taknikolai posts big blind [$0.02]
+** Dealing down cards **
+Schip77 raises [$0.07]
+taknikolai raises [$0.20]
+Schip77 calls [$0.14]
+** Dealing flop ** [ Th, 8h, 3c ]
+taknikolai bets [$0.16]
+Schip77 calls [$0.16]
+** Dealing turn ** [ 7h ]
+taknikolai bets [$0.22]
+Schip77 calls [$0.22]
+** Dealing river ** [ 9c ]
+** Summary **
+Schip77 shows [ Qs, Js ]
+taknikolai shows [ 7c, 8c ]
+Schip77 collected [ $1.13 ]
+
+
+#Game No : 1210575431
+***** 888poker Hand History for Game 1210575431 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 05:43:48
+Table Liege 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: ayakato ( $0.92 )
+Seat 9: salakytta ( $0.86 )
+salakytta posts small blind [$0.01]
+ayakato posts big blind [$0.02]
+** Dealing down cards **
+salakytta calls [$0.01]
+ayakato checks
+** Dealing flop ** [ 3c, 6h, 8d ]
+ayakato checks
+salakytta checks
+** Dealing turn ** [ Qc ]
+ayakato checks
+salakytta checks
+** Dealing river ** [ 3h ]
+ayakato bets [$0.02]
+salakytta raises [$0.04]
+ayakato calls [$0.02]
+** Summary **
+salakytta shows [ Qd, 3s ]
+ayakato mucks [ Kc, 2s ]
+salakytta collected [ $0.12 ]
+
+
+#Game No : 1210575510
+***** 888poker Hand History for Game 1210575510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 05:44:13
+Table Liege 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ayakato ( $0.86 )
+Seat 9: salakytta ( $0.92 )
+ayakato posts small blind [$0.01]
+salakytta posts big blind [$0.02]
+** Dealing down cards **
+ayakato folds
+** Summary **
+salakytta did not show his hand
+salakytta collected [ $0.03 ]
+
+
+#Game No : 1210575530
+***** 888poker Hand History for Game 1210575530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 05:44:18
+Table Liege 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: ayakato ( $0.85 )
+Seat 9: salakytta ( $0.93 )
+salakytta posts small blind [$0.01]
+ayakato posts big blind [$0.02]
+** Dealing down cards **
+salakytta calls [$0.01]
+ayakato checks
+** Dealing flop ** [ 6d, 5d, 9c ]
+ayakato checks
+salakytta checks
+** Dealing turn ** [ 3h ]
+ayakato checks
+salakytta checks
+** Dealing river ** [ 6h ]
+ayakato checks
+salakytta checks
+** Summary **
+ayakato shows [ 5h, Jc ]
+salakytta mucks [ 2c, 2s ]
+ayakato collected [ $0.04 ]
+
+

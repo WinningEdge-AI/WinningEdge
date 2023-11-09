@@ -1,0 +1,409 @@
+#Game No : 530802348
+***** 888poker Hand History for Game 530802348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 01:58:51
+Table Obregon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $2 )
+Seat 4: 1gadfly1 ( $2.04 )
+kmlm73 posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+1gadfly1 calls [$0.02]
+** Dealing flop ** [ Ac, As, Jh ]
+1gadfly1 checks
+kmlm73 bets [$0.02]
+1gadfly1 calls [$0.02]
+** Dealing turn ** [ 4c ]
+1gadfly1 checks
+kmlm73 bets [$0.02]
+1gadfly1 calls [$0.02]
+** Dealing river ** [ 9d ]
+1gadfly1 checks
+kmlm73 bets [$0.02]
+1gadfly1 calls [$0.02]
+** Summary **
+kmlm73 shows [ Kd, 4h ]
+1gadfly1 mucks [ Qc, 8h ]
+kmlm73 collected [ $0.19 ]
+
+
+#Game No : 530802361
+***** 888poker Hand History for Game 530802361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 01:59:34
+Table Obregon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $2.09 )
+Seat 4: 1gadfly1 ( $2 )
+1gadfly1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+1gadfly1 raises [$0.05]
+kmlm73 calls [$0.04]
+** Dealing flop ** [ Th, 4h, 9c ]
+kmlm73 bets [$0.02]
+1gadfly1 raises [$0.12]
+kmlm73 calls [$0.10]
+** Dealing turn ** [ 3d ]
+kmlm73 bets [$0.02]
+1gadfly1 raises [$0.26]
+kmlm73 folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ $0.38 ]
+
+
+#Game No : 530802392
+***** 888poker Hand History for Game 530802392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:00:46
+Table Obregon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.89 )
+Seat 4: 1gadfly1 ( $2.18 )
+kmlm73 posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.05]
+1gadfly1 calls [$0.04]
+** Dealing flop ** [ 4s, As, 9d ]
+1gadfly1 checks
+kmlm73 bets [$0.06]
+1gadfly1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.12 ]
+
+
+#Game No : 530802399
+***** 888poker Hand History for Game 530802399 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:01:06
+Table Obregon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.95 )
+Seat 4: 1gadfly1 ( $2.12 )
+1gadfly1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+1gadfly1 raises [$0.04]
+kmlm73 calls [$0.03]
+** Dealing flop ** [ Kc, 6d, 7c ]
+kmlm73 bets [$0.02]
+1gadfly1 calls [$0.02]
+** Dealing turn ** [ 8c ]
+kmlm73 bets [$0.02]
+1gadfly1 calls [$0.02]
+** Dealing river ** [ Qs ]
+kmlm73 bets [$0.02]
+1gadfly1 calls [$0.02]
+** Summary **
+kmlm73 shows [ 2s, 2c ]
+1gadfly1 shows [ 7s, 4s ]
+1gadfly1 collected [ $0.21 ]
+
+
+#Game No : 530802414
+***** 888poker Hand History for Game 530802414 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:01:41
+Table Obregon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.84 )
+Seat 4: 1gadfly1 ( $2.22 )
+kmlm73 posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.05]
+1gadfly1 calls [$0.04]
+** Dealing flop ** [ Td, Ac, Js ]
+1gadfly1 checks
+kmlm73 bets [$0.10]
+1gadfly1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.12 ]
+
+
+#Game No : 530802427
+***** 888poker Hand History for Game 530802427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:02:16
+Table Obregon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.90 )
+Seat 4: 1gadfly1 ( $2.16 )
+1gadfly1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+1gadfly1 calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ Ac, As, 2d ]
+kmlm73 bets [$0.02]
+1gadfly1 calls [$0.02]
+** Dealing turn ** [ 3s ]
+kmlm73 checks
+1gadfly1 checks
+** Dealing river ** [ Qd ]
+kmlm73 checks
+1gadfly1 checks
+** Summary **
+kmlm73 shows [ Jh, 8h ]
+1gadfly1 mucks [ Td, 9c ]
+kmlm73 collected [ $0.08 ]
+
+
+#Game No : 530802448
+***** 888poker Hand History for Game 530802448 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:03:28
+Table Obregon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.94 )
+Seat 4: 1gadfly1 ( $2.12 )
+kmlm73 posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ $0.03 ]
+
+
+#Game No : 530802453
+***** 888poker Hand History for Game 530802453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:03:41
+Table Obregon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.93 )
+Seat 4: 1gadfly1 ( $2.13 )
+1gadfly1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+1gadfly1 raises [$0.05]
+kmlm73 folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ $0.04 ]
+
+
+#Game No : 530802457
+***** 888poker Hand History for Game 530802457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:03:51
+Table Obregon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.91 )
+Seat 4: 1gadfly1 ( $2.15 )
+kmlm73 posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ $0.03 ]
+
+
+#Game No : 530802460
+***** 888poker Hand History for Game 530802460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:04:02
+Table Obregon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.90 )
+Seat 4: 1gadfly1 ( $2.16 )
+1gadfly1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+1gadfly1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.03 ]
+
+
+#Game No : 530802463
+***** 888poker Hand History for Game 530802463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:04:09
+Table Obregon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.91 )
+Seat 4: 1gadfly1 ( $2.15 )
+kmlm73 posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+1gadfly1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.04 ]
+
+
+#Game No : 530802472
+***** 888poker Hand History for Game 530802472 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:04:31
+Table Obregon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: kmlm73 ( $1.93 )
+Seat 4: 1gadfly1 ( $2.13 )
+1gadfly1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+1gadfly1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.03 ]
+
+
+#Game No : 530803381
+***** 888poker Hand History for Game 530803381 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:43:04
+Table Obregon 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Liverpool620 ( $0.86 )
+Seat 6: vega101010 ( $2.02 )
+Liverpool620 posts small blind [$0.01]
+vega101010 posts big blind [$0.02]
+** Dealing down cards **
+Liverpool620 raises [$0.03]
+vega101010 calls [$0.02]
+** Dealing flop ** [ Qd, 3c, Ks ]
+vega101010 checks
+Liverpool620 bets [$0.04]
+vega101010 calls [$0.04]
+** Dealing turn ** [ Js ]
+vega101010 checks
+Liverpool620 bets [$0.08]
+vega101010 calls [$0.08]
+** Dealing river ** [ 6c ]
+vega101010 checks
+Liverpool620 bets [$0.16]
+vega101010 calls [$0.16]
+** Summary **
+Liverpool620 shows [ Ad, 6h ]
+vega101010 shows [ 8d, Kd ]
+vega101010 collected [ $0.60 ]
+
+
+#Game No : 530805346
+***** 888poker Hand History for Game 530805346 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 03:42:10
+Table Obregon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Azazello28 ( $1.99 )
+Seat 9: darkjuicy ( $2.01 )
+darkjuicy posts small blind [$0.01]
+Azazello28 posts big blind [$0.02]
+** Dealing down cards **
+darkjuicy calls [$0.01]
+Azazello28 checks
+** Dealing flop ** [ 3d, Td, 8h ]
+Azazello28 checks
+darkjuicy checks
+** Dealing turn ** [ Qc ]
+Azazello28 checks
+darkjuicy checks
+** Dealing river ** [ 5s ]
+Azazello28 checks
+darkjuicy bets [$0.02]
+Azazello28 calls [$0.02]
+** Summary **
+darkjuicy shows [ 7h, 2h ]
+Azazello28 shows [ Qs, 6s ]
+Azazello28 collected [ $0.08 ]
+
+
+#Game No : 530811881
+***** 888poker Hand History for Game 530811881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 06:20:27
+Table Obregon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: Sooo_rigged ( $2.13 )
+Seat 7: slitl1503 ( $1.38 )
+slitl1503 posts small blind [$0.01]
+Sooo_rigged posts big blind [$0.02]
+** Dealing down cards **
+slitl1503 raises [$0.05]
+Sooo_rigged calls [$0.04]
+** Dealing flop ** [ Ac, 3s, Kh ]
+Sooo_rigged checks
+slitl1503 bets [$0.06]
+Sooo_rigged raises [$0.18]
+slitl1503 folds
+** Summary **
+Sooo_rigged collected [ $0.23 ]
+
+
+#Game No : 530811902
+***** 888poker Hand History for Game 530811902 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 06:20:50
+Table Obregon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Sooo_rigged ( $2.24 )
+Seat 7: slitl1503 ( $1.26 )
+Sooo_rigged posts small blind [$0.01]
+slitl1503 posts big blind [$0.02]
+** Dealing down cards **
+Sooo_rigged folds
+** Summary **
+slitl1503 collected [ $0.03 ]
+
+
+#Game No : 530811907
+***** 888poker Hand History for Game 530811907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 06:20:55
+Table Obregon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: Sooo_rigged ( $2.23 )
+Seat 7: slitl1503 ( $1.27 )
+slitl1503 posts small blind [$0.01]
+Sooo_rigged posts big blind [$0.02]
+** Dealing down cards **
+slitl1503 raises [$0.03]
+Sooo_rigged calls [$0.02]
+** Dealing flop ** [ Ad, Qd, Qc ]
+Sooo_rigged checks
+slitl1503 checks
+** Dealing turn ** [ 8d ]
+Sooo_rigged checks
+slitl1503 bets [$0.04]
+Sooo_rigged folds
+** Summary **
+slitl1503 collected [ $0.08 ]
+
+
+#Game No : 530811916
+***** 888poker Hand History for Game 530811916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 06:21:16
+Table Obregon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Sooo_rigged ( $2.19 )
+Seat 7: slitl1503 ( $1.31 )
+Sooo_rigged posts small blind [$0.01]
+slitl1503 posts big blind [$0.02]
+** Dealing down cards **
+Sooo_rigged raises [$0.05]
+slitl1503 raises [$0.16]
+Sooo_rigged raises [$0.36]
+slitl1503 raises [$1.13]
+Sooo_rigged calls [$0.89]
+** Dealing flop ** [ 7d, 3h, 7h ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ Td ]
+** Summary **
+Sooo_rigged shows [ Ah, Kc ]
+slitl1503 shows [ As, Kh ]
+slitl1503 collected [ $1.23 ]
+Sooo_rigged collected [ $1.23 ]
+
+

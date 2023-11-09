@@ -1,0 +1,782 @@
+#Game No : 523238158
+***** 888poker Hand History for Game 523238158 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 16:54:18
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cpeart86 ( $0.90 )
+Seat 4: wgdb198 ( $1.10 )
+cpeart86 posts small blind [$0.01]
+wgdb198 posts big blind [$0.02]
+** Dealing down cards **
+cpeart86 calls [$0.01]
+wgdb198 checks
+** Dealing flop ** [ Kd, 3d, Ts ]
+wgdb198 checks
+cpeart86 bets [$0.02]
+wgdb198 calls [$0.02]
+** Dealing turn ** [ Td ]
+wgdb198 checks
+cpeart86 bets [$0.06]
+wgdb198 folds
+** Summary **
+cpeart86 did not show his hand
+cpeart86 collected [ $0.08 ]
+
+
+#Game No : 523238185
+***** 888poker Hand History for Game 523238185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 16:54:40
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: cpeart86 ( $0.94 )
+Seat 4: wgdb198 ( $1.06 )
+wgdb198 posts small blind [$0.01]
+cpeart86 posts big blind [$0.02]
+** Dealing down cards **
+wgdb198 folds
+** Summary **
+cpeart86 did not show his hand
+cpeart86 collected [ $0.03 ]
+
+
+#Game No : 523238189
+***** 888poker Hand History for Game 523238189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 16:54:46
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cpeart86 ( $0.95 )
+Seat 4: wgdb198 ( $1.05 )
+cpeart86 posts small blind [$0.01]
+wgdb198 posts big blind [$0.02]
+** Dealing down cards **
+cpeart86 calls [$0.01]
+wgdb198 checks
+** Dealing flop ** [ 8d, Ts, As ]
+wgdb198 checks
+cpeart86 bets [$0.02]
+wgdb198 folds
+** Summary **
+cpeart86 did not show his hand
+cpeart86 collected [ $0.04 ]
+
+
+#Game No : 523238204
+***** 888poker Hand History for Game 523238204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 16:55:01
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: cpeart86 ( $0.97 )
+Seat 4: wgdb198 ( $1.03 )
+wgdb198 posts small blind [$0.01]
+cpeart86 posts big blind [$0.02]
+** Dealing down cards **
+wgdb198 raises [$0.03]
+cpeart86 folds
+** Summary **
+wgdb198 did not show his hand
+wgdb198 collected [ $0.04 ]
+
+
+#Game No : 523238216
+***** 888poker Hand History for Game 523238216 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 16:55:10
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cpeart86 ( $0.95 )
+Seat 4: wgdb198 ( $1.05 )
+cpeart86 posts small blind [$0.01]
+wgdb198 posts big blind [$0.02]
+** Dealing down cards **
+cpeart86 calls [$0.01]
+wgdb198 checks
+** Dealing flop ** [ 4d, 9d, 5h ]
+wgdb198 checks
+cpeart86 bets [$0.04]
+wgdb198 folds
+** Summary **
+cpeart86 did not show his hand
+cpeart86 collected [ $0.04 ]
+
+
+#Game No : 523238231
+***** 888poker Hand History for Game 523238231 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 16:55:27
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: cpeart86 ( $0.97 )
+Seat 4: wgdb198 ( $1.03 )
+wgdb198 posts small blind [$0.01]
+cpeart86 posts big blind [$0.02]
+** Dealing down cards **
+wgdb198 raises [$0.03]
+cpeart86 calls [$0.02]
+** Dealing flop ** [ 9s, Ts, Kc ]
+cpeart86 checks
+wgdb198 checks
+** Dealing turn ** [ 7h ]
+cpeart86 checks
+wgdb198 checks
+** Dealing river ** [ Ks ]
+cpeart86 checks
+wgdb198 bets [$0.02]
+cpeart86 calls [$0.02]
+** Summary **
+wgdb198 shows [ As, 9d ]
+cpeart86 mucks [ 7c, 8d ]
+wgdb198 collected [ $0.12 ]
+
+
+#Game No : 523238273
+***** 888poker Hand History for Game 523238273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 16:56:01
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cpeart86 ( $0.91 )
+Seat 4: wgdb198 ( $1.09 )
+cpeart86 posts small blind [$0.01]
+wgdb198 posts big blind [$0.02]
+** Dealing down cards **
+cpeart86 raises [$0.03]
+wgdb198 calls [$0.02]
+** Dealing flop ** [ 5s, 3s, 4d ]
+wgdb198 checks
+cpeart86 checks
+** Dealing turn ** [ 6h ]
+wgdb198 checks
+cpeart86 checks
+** Dealing river ** [ 7d ]
+wgdb198 checks
+cpeart86 checks
+** Summary **
+wgdb198 shows [ 9h, Ac ]
+cpeart86 shows [ Js, As ]
+wgdb198 collected [ $0.04 ]
+cpeart86 collected [ $0.04 ]
+
+
+#Game No : 523238302
+***** 888poker Hand History for Game 523238302 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 16:56:30
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: cpeart86 ( $0.91 )
+Seat 4: wgdb198 ( $1.09 )
+wgdb198 posts small blind [$0.01]
+cpeart86 posts big blind [$0.02]
+** Dealing down cards **
+wgdb198 raises [$0.03]
+cpeart86 calls [$0.02]
+** Dealing flop ** [ 3d, 5s, 8c ]
+cpeart86 checks
+wgdb198 checks
+** Dealing turn ** [ 6c ]
+cpeart86 checks
+wgdb198 checks
+** Dealing river ** [ 8h ]
+cpeart86 checks
+wgdb198 bets [$0.02]
+cpeart86 folds
+** Summary **
+wgdb198 collected [ $0.08 ]
+
+
+#Game No : 523250288
+***** 888poker Hand History for Game 523250288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:23:57
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.82 )
+Seat 4: alexshuv777 ( $1.37 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.03 ]
+
+
+#Game No : 523250294
+***** 888poker Hand History for Game 523250294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:24:03
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.83 )
+Seat 4: alexshuv777 ( $1.36 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix calls [$0.01]
+alexshuv777 checks
+** Dealing flop ** [ Th, Ad, Js ]
+alexshuv777 checks
+QuantumFizix bets [$0.02]
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.04 ]
+
+
+#Game No : 523250303
+***** 888poker Hand History for Game 523250303 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:24:17
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.85 )
+Seat 4: alexshuv777 ( $1.34 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 raises [$0.05]
+QuantumFizix folds
+** Summary **
+alexshuv777 collected [ $0.04 ]
+
+
+#Game No : 523250305
+***** 888poker Hand History for Game 523250305 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:24:26
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.83 )
+Seat 4: alexshuv777 ( $1.36 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix raises [$0.03]
+alexshuv777 calls [$0.02]
+** Dealing flop ** [ 9h, Jh, 8h ]
+alexshuv777 checks
+QuantumFizix bets [$0.02]
+alexshuv777 raises [$0.06]
+QuantumFizix calls [$0.04]
+** Dealing turn ** [ 4c ]
+alexshuv777 checks
+QuantumFizix bets [$0.13]
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.19 ]
+
+
+#Game No : 523250317
+***** 888poker Hand History for Game 523250317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:24:55
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.92 )
+Seat 4: alexshuv777 ( $1.26 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 raises [$0.05]
+QuantumFizix folds
+** Summary **
+alexshuv777 collected [ $0.04 ]
+
+
+#Game No : 523250321
+***** 888poker Hand History for Game 523250321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:25:02
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.90 )
+Seat 4: alexshuv777 ( $1.28 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix calls [$0.01]
+alexshuv777 raises [$0.06]
+QuantumFizix folds
+** Summary **
+alexshuv777 collected [ $0.04 ]
+
+
+#Game No : 523250326
+***** 888poker Hand History for Game 523250326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:25:12
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.88 )
+Seat 4: alexshuv777 ( $1.30 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.03 ]
+
+
+#Game No : 523250332
+***** 888poker Hand History for Game 523250332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:25:17
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.89 )
+Seat 4: alexshuv777 ( $1.29 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix raises [$0.05]
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.04 ]
+
+
+#Game No : 523250336
+***** 888poker Hand History for Game 523250336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:25:28
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.91 )
+Seat 4: alexshuv777 ( $1.27 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 raises [$0.05]
+QuantumFizix calls [$0.04]
+** Dealing flop ** [ Jc, 5c, 8s ]
+QuantumFizix checks
+alexshuv777 bets [$0.08]
+QuantumFizix raises [$0.16]
+alexshuv777 calls [$0.08]
+** Dealing turn ** [ Kd ]
+QuantumFizix bets [$0.29]
+alexshuv777 calls [$0.29]
+** Dealing river ** [ Js ]
+QuantumFizix checks
+alexshuv777 checks
+** Summary **
+QuantumFizix shows [ Qc, 8c ]
+alexshuv777 shows [ Jd, Ts ]
+alexshuv777 collected [ $0.96 ]
+
+
+#Game No : 523250349
+***** 888poker Hand History for Game 523250349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:26:03
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.40 )
+Seat 4: alexshuv777 ( $1.72 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix raises [$0.03]
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.04 ]
+
+
+#Game No : 523250355
+***** 888poker Hand History for Game 523250355 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:26:12
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.42 )
+Seat 4: alexshuv777 ( $1.70 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.03 ]
+
+
+#Game No : 523250358
+***** 888poker Hand History for Game 523250358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:26:17
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.43 )
+Seat 4: alexshuv777 ( $1.69 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix calls [$0.01]
+alexshuv777 checks
+** Dealing flop ** [ 9d, Jc, Kd ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing turn ** [ Kc ]
+alexshuv777 checks
+QuantumFizix bets [$0.02]
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.04 ]
+
+
+#Game No : 523250367
+***** 888poker Hand History for Game 523250367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:26:33
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.45 )
+Seat 4: alexshuv777 ( $1.67 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.03 ]
+
+
+#Game No : 523250370
+***** 888poker Hand History for Game 523250370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:26:38
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.46 )
+Seat 4: alexshuv777 ( $1.66 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix calls [$0.01]
+alexshuv777 checks
+** Dealing flop ** [ 6s, 5h, 6h ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing turn ** [ Qd ]
+alexshuv777 bets [$0.03]
+QuantumFizix raises [$0.06]
+alexshuv777 calls [$0.03]
+** Dealing river ** [ 7h ]
+alexshuv777 checks
+QuantumFizix bets [$0.02]
+alexshuv777 calls [$0.02]
+** Summary **
+QuantumFizix shows [ Jh, Js ]
+alexshuv777 shows [ 4d, Qh ]
+alexshuv777 collected [ $0.19 ]
+
+
+#Game No : 523250381
+***** 888poker Hand History for Game 523250381 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:27:03
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.36 )
+Seat 4: alexshuv777 ( $1.75 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 calls [$0.01]
+QuantumFizix checks
+** Dealing flop ** [ Ks, Kc, 8h ]
+QuantumFizix checks
+alexshuv777 checks
+** Dealing turn ** [ Qd ]
+QuantumFizix checks
+alexshuv777 bets [$0.03]
+QuantumFizix calls [$0.03]
+** Dealing river ** [ 6s ]
+QuantumFizix bets [$0.06]
+alexshuv777 calls [$0.06]
+** Summary **
+QuantumFizix shows [ Ad, 6c ]
+alexshuv777 shows [ Qc, 4c ]
+alexshuv777 collected [ $0.21 ]
+
+
+#Game No : 523250391
+***** 888poker Hand History for Game 523250391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:27:30
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.25 )
+Seat 4: alexshuv777 ( $1.85 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix raises [$0.03]
+alexshuv777 calls [$0.02]
+** Dealing flop ** [ Qh, Td, 9h ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing turn ** [ 7h ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing river ** [ Th ]
+alexshuv777 checks
+QuantumFizix checks
+** Summary **
+alexshuv777 shows [ 4d, 7d ]
+QuantumFizix mucks [ Jd, 6d ]
+alexshuv777 collected [ $0.08 ]
+
+
+#Game No : 523250400
+***** 888poker Hand History for Game 523250400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:27:51
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.21 )
+Seat 4: alexshuv777 ( $1.89 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.03 ]
+
+
+#Game No : 523250405
+***** 888poker Hand History for Game 523250405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:27:56
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.22 )
+Seat 4: alexshuv777 ( $1.88 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix raises [$0.03]
+alexshuv777 calls [$0.02]
+** Dealing flop ** [ Ks, 2s, 3s ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing turn ** [ 4s ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing river ** [ Jh ]
+alexshuv777 checks
+QuantumFizix bets [$0.04]
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.08 ]
+
+
+#Game No : 523250418
+***** 888poker Hand History for Game 523250418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:28:25
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.26 )
+Seat 4: alexshuv777 ( $1.84 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.03 ]
+
+
+#Game No : 523250419
+***** 888poker Hand History for Game 523250419 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:28:30
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.27 )
+Seat 4: alexshuv777 ( $1.83 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix calls [$0.01]
+alexshuv777 checks
+** Dealing flop ** [ Kh, 2s, 4h ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing turn ** [ 2d ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing river ** [ Kc ]
+alexshuv777 checks
+QuantumFizix checks
+** Summary **
+alexshuv777 shows [ 4s, Th ]
+QuantumFizix mucks [ 5d, Ts ]
+alexshuv777 collected [ $0.04 ]
+
+
+#Game No : 523250428
+***** 888poker Hand History for Game 523250428 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:28:50
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.25 )
+Seat 4: alexshuv777 ( $1.85 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.03 ]
+
+
+#Game No : 523250430
+***** 888poker Hand History for Game 523250430 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:28:56
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.26 )
+Seat 4: alexshuv777 ( $1.84 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix calls [$0.01]
+alexshuv777 checks
+** Dealing flop ** [ 4s, 9c, 3h ]
+alexshuv777 checks
+QuantumFizix bets [$0.02]
+alexshuv777 calls [$0.02]
+** Dealing turn ** [ 9d ]
+alexshuv777 checks
+QuantumFizix bets [$0.02]
+alexshuv777 calls [$0.02]
+** Dealing river ** [ Kh ]
+alexshuv777 checks
+QuantumFizix bets [$0.08]
+alexshuv777 calls [$0.08]
+** Summary **
+QuantumFizix shows [ 9s, 8h ]
+alexshuv777 mucks [ 5c, 4c ]
+QuantumFizix collected [ $0.27 ]
+
+
+#Game No : 523250448
+***** 888poker Hand History for Game 523250448 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:29:24
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.39 )
+Seat 4: alexshuv777 ( $1.70 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.03 ]
+
+
+#Game No : 523250452
+***** 888poker Hand History for Game 523250452 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:29:29
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.40 )
+Seat 4: alexshuv777 ( $1.69 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix raises [$0.03]
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.04 ]
+
+
+#Game No : 523250459
+***** 888poker Hand History for Game 523250459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:29:39
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.42 )
+Seat 4: alexshuv777 ( $1.67 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 folds
+** Summary **
+QuantumFizix collected [ $0.03 ]
+
+
+#Game No : 523250463
+***** 888poker Hand History for Game 523250463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:29:43
+Table Heerlen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.43 )
+Seat 4: alexshuv777 ( $1.66 )
+QuantumFizix posts small blind [$0.01]
+alexshuv777 posts big blind [$0.02]
+** Dealing down cards **
+QuantumFizix calls [$0.01]
+alexshuv777 checks
+** Dealing flop ** [ Ts, Qh, Kd ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing turn ** [ 5s ]
+alexshuv777 checks
+QuantumFizix checks
+** Dealing river ** [ Td ]
+alexshuv777 checks
+QuantumFizix checks
+** Summary **
+alexshuv777 shows [ As, 8d ]
+QuantumFizix mucks [ 3c, 4h ]
+alexshuv777 collected [ $0.04 ]
+
+
+#Game No : 523250469
+***** 888poker Hand History for Game 523250469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 21:30:04
+Table Heerlen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: QuantumFizix ( $0.41 )
+Seat 4: alexshuv777 ( $1.68 )
+alexshuv777 posts small blind [$0.01]
+QuantumFizix posts big blind [$0.02]
+** Dealing down cards **
+alexshuv777 raises [$0.05]
+QuantumFizix raises [$0.08]
+alexshuv777 calls [$0.04]
+** Dealing flop ** [ 3d, Jd, 3h ]
+QuantumFizix bets [$0.13]
+alexshuv777 calls [$0.13]
+** Dealing turn ** [ Ks ]
+QuantumFizix bets [$0.18]
+alexshuv777 calls [$0.18]
+** Dealing river ** [ 8s ]
+** Summary **
+QuantumFizix shows [ Qh, As ]
+alexshuv777 shows [ Kc, Js ]
+alexshuv777 collected [ $0.77 ]
+
+
+#Game No : 461120427
+***** 888poker Hand History for Game 461120427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 05:18:01
+Table Heerlen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: karelkort ( $1.99 )
+Seat 7: Inyom ( $2.18 )
+Inyom posts small blind [$0.01]
+karelkort posts big blind [$0.02]
+** Dealing down cards **
+Inyom folds
+** Summary **
+karelkort collected [ $0.03 ]
+
+

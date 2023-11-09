@@ -1,0 +1,131 @@
+#Game No : 506749564
+***** 888poker Hand History for Game 506749564 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 16:59:04
+Table Coquimbo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: andres.11rus ( $0.74 )
+Seat 5: xr0872 ( $2.06 )
+xr0872 posts small blind [$0.01]
+andres.11rus posts big blind [$0.02]
+** Dealing down cards **
+xr0872 calls [$0.01]
+andres.11rus checks
+** Dealing flop ** [ 4h, 3h, 5c ]
+andres.11rus checks
+xr0872 bets [$0.02]
+andres.11rus calls [$0.02]
+** Dealing turn ** [ Jh ]
+andres.11rus checks
+xr0872 checks
+** Dealing river ** [ 3c ]
+andres.11rus checks
+xr0872 bets [$0.02]
+andres.11rus calls [$0.02]
+** Summary **
+xr0872 shows [ Ts, 5h ]
+andres.11rus shows [ Jd, 4d ]
+andres.11rus collected [ $0.12 ]
+
+
+#Game No : 506749574
+***** 888poker Hand History for Game 506749574 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 16:59:22
+Table Coquimbo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: andres.11rus ( $0.80 )
+Seat 5: xr0872 ( $2 )
+andres.11rus posts small blind [$0.01]
+xr0872 posts big blind [$0.02]
+** Dealing down cards **
+andres.11rus calls [$0.01]
+xr0872 checks
+** Dealing flop ** [ 9h, 2s, Kc ]
+xr0872 checks
+andres.11rus checks
+** Dealing turn ** [ 4s ]
+xr0872 checks
+andres.11rus checks
+** Dealing river ** [ 5h ]
+xr0872 checks
+andres.11rus checks
+** Summary **
+xr0872 shows [ 5d, 3s ]
+andres.11rus mucks [ Qd, Ad ]
+xr0872 collected [ $0.04 ]
+
+
+#Game No : 506749586
+***** 888poker Hand History for Game 506749586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 16:59:52
+Table Coquimbo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: andres.11rus ( $0.78 )
+Seat 5: xr0872 ( $2.02 )
+xr0872 posts small blind [$0.01]
+andres.11rus posts big blind [$0.02]
+** Dealing down cards **
+xr0872 calls [$0.01]
+andres.11rus raises [$0.02]
+xr0872 folds
+** Summary **
+andres.11rus did not show his hand
+andres.11rus collected [ $0.04 ]
+
+
+#Game No : 506749611
+***** 888poker Hand History for Game 506749611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 17:01:05
+Table Coquimbo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: andres.11rus ( $0.80 )
+Seat 2: andron7408 ( $2 )
+andron7408 posts small blind [$0.01]
+andres.11rus posts big blind [$0.02]
+** Dealing down cards **
+andron7408 raises [$0.03]
+andres.11rus calls [$0.02]
+** Dealing flop ** [ Kc, Ks, 8c ]
+andres.11rus bets [$0.02]
+andron7408 raises [$0.04]
+andres.11rus calls [$0.02]
+** Dealing turn ** [ 2c ]
+andres.11rus checks
+andron7408 bets [$0.10]
+andres.11rus folds
+** Summary **
+andron7408 did not show his hand
+andron7408 collected [ $0.15 ]
+
+
+#Game No : 506749624
+***** 888poker Hand History for Game 506749624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2018 17:01:45
+Table Coquimbo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: andres.11rus ( $0.72 )
+Seat 2: andron7408 ( $2.07 )
+andres.11rus posts small blind [$0.01]
+andron7408 posts big blind [$0.02]
+** Dealing down cards **
+andres.11rus calls [$0.01]
+andron7408 checks
+** Dealing flop ** [ 9h, 4h, Kd ]
+andron7408 checks
+andres.11rus checks
+** Dealing turn ** [ Qd ]
+andron7408 checks
+andres.11rus checks
+** Dealing river ** [ 3c ]
+andron7408 checks
+andres.11rus checks
+** Summary **
+andron7408 shows [ 9c, 4s ]
+andres.11rus mucks [ 2s, As ]
+andron7408 collected [ $0.04 ]
+
+

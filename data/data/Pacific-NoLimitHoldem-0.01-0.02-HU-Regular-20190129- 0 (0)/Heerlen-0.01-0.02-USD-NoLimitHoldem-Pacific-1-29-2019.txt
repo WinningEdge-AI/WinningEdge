@@ -1,0 +1,122 @@
+#Game No : 614833110
+***** 888poker Hand History for Game 614833110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 21:20:23
+Table Heerlen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: AAs17 ( $1.86 )
+Seat 9: BorMAN_42rus ( $1.12 )
+BorMAN_42rus posts small blind [$0.01]
+AAs17 posts big blind [$0.02]
+** Dealing down cards **
+BorMAN_42rus calls [$0.01]
+AAs17 checks
+** Dealing flop ** [ 7s, 4c, 9d ]
+AAs17 bets [$0.02]
+BorMAN_42rus calls [$0.02]
+** Dealing turn ** [ Qc ]
+AAs17 bets [$0.04]
+BorMAN_42rus calls [$0.04]
+** Dealing river ** [ Jh ]
+AAs17 bets [$0.10]
+BorMAN_42rus calls [$0.10]
+** Summary **
+AAs17 shows [ Th, 8s ]
+BorMAN_42rus mucks [ Tc, Qd ]
+AAs17 collected [ $0.34 ]
+
+
+#Game No : 614834141
+***** 888poker Hand History for Game 614834141 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 22:24:00
+Table Heerlen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: AAs17 ( $1.25 )
+Seat 7: patchkr ( $2.84 )
+AAs17 posts small blind [$0.01]
+patchkr posts big blind [$0.02]
+** Dealing down cards **
+AAs17 folds
+** Summary **
+patchkr did not show his hand
+patchkr collected [ $0.03 ]
+
+
+#Game No : 614834144
+***** 888poker Hand History for Game 614834144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 22:24:07
+Table Heerlen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: AAs17 ( $1.24 )
+Seat 7: patchkr ( $2.85 )
+patchkr posts small blind [$0.01]
+AAs17 posts big blind [$0.02]
+** Dealing down cards **
+patchkr raises [$0.05]
+AAs17 calls [$0.04]
+** Dealing flop ** [ Ad, 8d, 8s ]
+AAs17 checks
+patchkr bets [$0.06]
+AAs17 calls [$0.06]
+** Dealing turn ** [ As ]
+AAs17 checks
+patchkr bets [$0.12]
+AAs17 raises [$0.44]
+patchkr folds
+** Summary **
+AAs17 collected [ $0.45 ]
+
+
+#Game No : 614834332
+***** 888poker Hand History for Game 614834332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 22:33:09
+Table Heerlen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kashera666 ( $0.89 )
+Seat 6: Japlink ( $0.65 )
+kashera666 posts small blind [$0.01]
+Japlink posts big blind [$0.02]
+** Dealing down cards **
+kashera666 raises [$0.03]
+Japlink calls [$0.02]
+** Dealing flop ** [ Qc, 6h, 9h ]
+Japlink bets [$0.04]
+kashera666 calls [$0.04]
+** Dealing turn ** [ 7s ]
+Japlink checks
+kashera666 bets [$0.08]
+Japlink folds
+** Summary **
+kashera666 collected [ $0.15 ]
+
+
+#Game No : 614834343
+***** 888poker Hand History for Game 614834343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 22:33:38
+Table Heerlen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: kashera666 ( $0.96 )
+Seat 6: Japlink ( $0.57 )
+Japlink posts small blind [$0.01]
+kashera666 posts big blind [$0.02]
+** Dealing down cards **
+Japlink raises [$0.05]
+kashera666 raises [$0.08]
+Japlink calls [$0.04]
+** Dealing flop ** [ 9h, 5d, 8h ]
+kashera666 bets [$0.10]
+Japlink calls [$0.10]
+** Dealing turn ** [ Kh ]
+kashera666 checks
+Japlink checks
+** Dealing river ** [ Jd ]
+kashera666 bets [$0.76]
+Japlink folds
+** Summary **
+kashera666 collected [ $0.38 ]
+
+

@@ -1,0 +1,61 @@
+#Game No : 1248939084
+***** 888poker Hand History for Game 1248939084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 10:53:38
+Table Dourados 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ivanfranko ( $0.87 )
+Seat 4: tuman80 ( $1 )
+ivanfranko posts small blind [$0.01]
+tuman80 posts big blind [$0.02]
+** Dealing down cards **
+ivanfranko calls [$0.01]
+tuman80 checks
+** Dealing flop ** [ 2h, 9c, 8s ]
+tuman80 checks
+ivanfranko bets [$0.02]
+tuman80 calls [$0.02]
+** Dealing turn ** [ 5s ]
+tuman80 checks
+ivanfranko bets [$0.02]
+tuman80 calls [$0.02]
+** Dealing river ** [ 9h ]
+tuman80 checks
+ivanfranko bets [$0.02]
+tuman80 raises [$0.04]
+ivanfranko calls [$0.02]
+** Summary **
+tuman80 shows [ 8c, 3s ]
+ivanfranko shows [ Tc, Ts ]
+ivanfranko collected [ $0.19 ]
+
+
+#Game No : 1248948823
+***** 888poker Hand History for Game 1248948823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 11:24:33
+Table Dourados 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: A1eXSK0 ( $1 )
+Seat 6: MaxVorkuta ( $1.62 )
+A1eXSK0 posts small blind [$0.01]
+MaxVorkuta posts big blind [$0.02]
+** Dealing down cards **
+A1eXSK0 calls [$0.01]
+MaxVorkuta checks
+** Dealing flop ** [ 9s, 5s, 6h ]
+MaxVorkuta checks
+A1eXSK0 checks
+** Dealing turn ** [ 9d ]
+MaxVorkuta checks
+A1eXSK0 bets [$0.02]
+MaxVorkuta calls [$0.02]
+** Dealing river ** [ Kc ]
+MaxVorkuta checks
+A1eXSK0 checks
+** Summary **
+MaxVorkuta shows [ 7d, 5c ]
+A1eXSK0 shows [ 2s, 6c ]
+A1eXSK0 collected [ $0.08 ]
+
+

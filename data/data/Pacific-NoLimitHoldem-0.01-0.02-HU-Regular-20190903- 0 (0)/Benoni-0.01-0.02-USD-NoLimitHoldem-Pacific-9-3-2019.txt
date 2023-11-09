@@ -1,0 +1,23 @@
+#Game No : 468745326
+***** 888poker Hand History for Game 468745326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2019 15:59:09
+Table Benoni 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: qwertypoint ( $2.26 )
+Seat 4: Sergey_US ( $2 )
+Sergey_US posts small blind [$0.01]
+qwertypoint posts big blind [$0.02]
+** Dealing down cards **
+Sergey_US raises [$0.05]
+qwertypoint calls [$0.04]
+** Dealing flop ** [ 5s, 9h, 4s ]
+qwertypoint checks
+Sergey_US checks
+** Dealing turn ** [ 2s ]
+qwertypoint bets [$0.07]
+Sergey_US folds
+** Summary **
+qwertypoint collected [ $0.12 ]
+
+

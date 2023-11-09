@@ -1,0 +1,87 @@
+#Game No : 1252178886
+***** 888poker Hand History for Game 1252178886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:02:25
+Table Andria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ly4shii ( $1.19 )
+Seat 7: TheStqrm ( $3.62 )
+Ly4shii posts small blind [$0.01]
+TheStqrm posts big blind [$0.02]
+** Dealing down cards **
+Ly4shii calls [$0.01]
+TheStqrm checks
+** Dealing flop ** [ Kc, Ks, 3s ]
+TheStqrm checks
+Ly4shii checks
+** Dealing turn ** [ 9d ]
+TheStqrm checks
+Ly4shii bets [$0.04]
+TheStqrm folds
+** Summary **
+Ly4shii collected [ $0.04 ]
+
+
+#Game No : 1252179103
+***** 888poker Hand History for Game 1252179103 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:02:40
+Table Andria 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Ly4shii ( $1.21 )
+Seat 7: TheStqrm ( $3.60 )
+TheStqrm posts small blind [$0.01]
+Ly4shii posts big blind [$0.02]
+** Dealing down cards **
+TheStqrm raises [$0.05]
+Ly4shii folds
+** Summary **
+TheStqrm collected [ $0.04 ]
+
+
+#Game No : 1252179149
+***** 888poker Hand History for Game 1252179149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:02:48
+Table Andria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ly4shii ( $1.19 )
+Seat 7: TheStqrm ( $3.62 )
+Ly4shii posts small blind [$0.01]
+TheStqrm posts big blind [$0.02]
+** Dealing down cards **
+Ly4shii raises [$0.03]
+TheStqrm folds
+** Summary **
+Ly4shii collected [ $0.04 ]
+
+
+#Game No : 1252179186
+***** 888poker Hand History for Game 1252179186 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 11:02:55
+Table Andria 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Ly4shii ( $1.21 )
+Seat 7: TheStqrm ( $3.60 )
+TheStqrm posts small blind [$0.01]
+Ly4shii posts big blind [$0.02]
+** Dealing down cards **
+TheStqrm raises [$0.05]
+Ly4shii calls [$0.04]
+** Dealing flop ** [ 7c, Th, 9c ]
+Ly4shii checks
+TheStqrm checks
+** Dealing turn ** [ 4d ]
+Ly4shii checks
+TheStqrm bets [$0.10]
+Ly4shii calls [$0.10]
+** Dealing river ** [ 5d ]
+Ly4shii checks
+TheStqrm checks
+** Summary **
+Ly4shii shows [ Ac, Jd ]
+TheStqrm mucks [ Ad, 3d ]
+Ly4shii collected [ $0.30 ]
+
+

@@ -1,0 +1,259 @@
+#Game No : 500605087
+***** 888poker Hand History for Game 500605087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:14:45
+Table Hanoi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: R3tree ( $0.97 )
+Seat 7: W.pierun ( $1.12 )
+W.pierun posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+W.pierun raises [$0.03]
+R3tree raises [$0.04]
+W.pierun raises [$0.04]
+R3tree calls [$0.02]
+** Dealing flop ** [ 3d, 4c, 6c ]
+R3tree bets [$0.89]
+W.pierun folds
+** Summary **
+R3tree did not show his hand
+R3tree collected [ $0.15 ]
+
+
+#Game No : 500605100
+***** 888poker Hand History for Game 500605100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:15:04
+Table Hanoi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: R3tree ( $1.04 )
+Seat 7: W.pierun ( $1.04 )
+R3tree posts small blind [$0.01]
+W.pierun posts big blind [$0.02]
+** Dealing down cards **
+R3tree raises [$0.04]
+W.pierun raises [$0.06]
+R3tree calls [$0.03]
+** Dealing flop ** [ 4d, 3h, 5c ]
+W.pierun bets [$0.08]
+R3tree calls [$0.08]
+** Dealing turn ** [ 8d ]
+W.pierun bets [$0.46]
+R3tree folds
+** Summary **
+W.pierun did not show his hand
+W.pierun collected [ $0.30 ]
+
+
+#Game No : 500605136
+***** 888poker Hand History for Game 500605136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:15:42
+Table Hanoi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: R3tree ( $0.88 )
+Seat 7: W.pierun ( $1.18 )
+W.pierun posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+W.pierun raises [$0.13]
+R3tree raises [$0.86]
+W.pierun calls [$0.74]
+** Dealing flop ** [ 8h, 4s, 3d ]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ 8d ]
+** Summary **
+R3tree shows [ Ah, Qc ]
+W.pierun shows [ As, 3s ]
+W.pierun collected [ $1.65 ]
+
+
+#Game No : 500605163
+***** 888poker Hand History for Game 500605163 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:16:09
+Table Hanoi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: R3tree ( $1 )
+Seat 7: W.pierun ( $1.95 )
+R3tree posts small blind [$0.01]
+W.pierun posts big blind [$0.02]
+** Dealing down cards **
+R3tree folds
+** Summary **
+W.pierun did not show his hand
+W.pierun collected [ $0.03 ]
+
+
+#Game No : 500605167
+***** 888poker Hand History for Game 500605167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:16:14
+Table Hanoi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: R3tree ( $0.99 )
+Seat 7: W.pierun ( $1.96 )
+W.pierun posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+W.pierun calls [$0.01]
+R3tree checks
+** Dealing flop ** [ 3s, Ac, 9d ]
+R3tree checks
+W.pierun checks
+** Dealing turn ** [ 7h ]
+R3tree checks
+W.pierun checks
+** Dealing river ** [ 8h ]
+R3tree checks
+W.pierun checks
+** Summary **
+R3tree shows [ Kd, 9h ]
+W.pierun mucks [ Qc, 4h ]
+R3tree collected [ $0.04 ]
+
+
+#Game No : 500605185
+***** 888poker Hand History for Game 500605185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:16:36
+Table Hanoi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: R3tree ( $1.01 )
+Seat 7: W.pierun ( $1.94 )
+R3tree posts small blind [$0.01]
+W.pierun posts big blind [$0.02]
+** Dealing down cards **
+R3tree calls [$0.01]
+W.pierun checks
+** Dealing flop ** [ As, 9s, 9h ]
+W.pierun checks
+R3tree checks
+** Dealing turn ** [ Jc ]
+W.pierun bets [$0.02]
+R3tree folds
+** Summary **
+W.pierun collected [ $0.04 ]
+
+
+#Game No : 500606220
+***** 888poker Hand History for Game 500606220 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:35:37
+Table Hanoi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: R3tree ( $3.11 )
+Seat 6: Tonyj420 ( $0.42 )
+Tonyj420 posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+Tonyj420 raises [$0.41]
+R3tree calls [$0.40]
+** Dealing flop ** [ Ad, 6h, Jc ]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ 6s ]
+** Summary **
+R3tree shows [ 8s, Qc ]
+Tonyj420 shows [ Ah, Td ]
+Tonyj420 collected [ $0.79 ]
+
+
+#Game No : 500606239
+***** 888poker Hand History for Game 500606239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:35:57
+Table Hanoi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: R3tree ( $2.69 )
+Seat 6: Tonyj420 ( $0.79 )
+R3tree posts small blind [$0.01]
+Tonyj420 posts big blind [$0.02]
+** Dealing down cards **
+R3tree folds
+** Summary **
+Tonyj420 did not show his hand
+Tonyj420 collected [ $0.03 ]
+
+
+#Game No : 500606243
+***** 888poker Hand History for Game 500606243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:36:02
+Table Hanoi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: R3tree ( $2.68 )
+Seat 6: Tonyj420 ( $0.80 )
+Tonyj420 posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+Tonyj420 folds
+** Summary **
+R3tree did not show his hand
+R3tree collected [ $0.03 ]
+
+
+#Game No : 500606250
+***** 888poker Hand History for Game 500606250 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:36:10
+Table Hanoi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: R3tree ( $2.69 )
+Seat 6: Tonyj420 ( $0.79 )
+R3tree posts small blind [$0.01]
+Tonyj420 posts big blind [$0.02]
+** Dealing down cards **
+R3tree calls [$0.01]
+Tonyj420 raises [$0.77]
+R3tree folds
+** Summary **
+Tonyj420 did not show his hand
+Tonyj420 collected [ $0.04 ]
+
+
+#Game No : 500606259
+***** 888poker Hand History for Game 500606259 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:36:25
+Table Hanoi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: R3tree ( $2.67 )
+Seat 6: Tonyj420 ( $0.81 )
+Tonyj420 posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+Tonyj420 raises [$0.80]
+R3tree folds
+** Summary **
+Tonyj420 collected [ $0.04 ]
+
+
+#Game No : 500607641
+***** 888poker Hand History for Game 500607641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 15:09:45
+Table Hanoi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: DRUS994 ( $1 )
+Seat 7: endermt ( $1.54 )
+endermt posts small blind [$0.01]
+DRUS994 posts big blind [$0.02]
+** Dealing down cards **
+endermt calls [$0.01]
+DRUS994 checks
+** Dealing flop ** [ 6s, 9d, 4h ]
+DRUS994 checks
+endermt checks
+** Dealing turn ** [ 3c ]
+DRUS994 checks
+endermt checks
+** Dealing river ** [ Ac ]
+DRUS994 checks
+endermt checks
+** Summary **
+DRUS994 shows [ Jc, 2s ]
+endermt shows [ Kh, 3s ]
+endermt collected [ $0.04 ]
+
+

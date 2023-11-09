@@ -1,0 +1,45 @@
+#Game No : 1254885219
+***** 888poker Hand History for Game 1254885219 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 17:41:44
+Table Duisburg 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: clcs11 ( $4.85 )
+Seat 5: bubserbubs ( $1.48 )
+clcs11 posts small blind [$0.01]
+bubserbubs posts big blind [$0.02]
+** Dealing down cards **
+clcs11 folds
+** Summary **
+bubserbubs collected [ $0.03 ]
+
+
+#Game No : 617253680
+***** 888poker Hand History for Game 617253680 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 01:33:28
+Table Duisburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Vvodolazz ( $0.88 )
+Seat 4: richbranson ( $1 )
+Vvodolazz posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Vvodolazz raises [$0.03]
+richbranson raises [$0.16]
+Vvodolazz calls [$0.14]
+** Dealing flop ** [ 3c, 3h, Ac ]
+richbranson checks
+Vvodolazz bets [$0.24]
+richbranson calls [$0.24]
+** Dealing turn ** [ Qh ]
+richbranson checks
+Vvodolazz bets [$0.46]
+richbranson calls [$0.46]
+** Dealing river ** [ 4s ]
+** Summary **
+Vvodolazz shows [ 7c, 8c ]
+richbranson shows [ Th, Tc ]
+richbranson collected [ $1.65 ]
+
+

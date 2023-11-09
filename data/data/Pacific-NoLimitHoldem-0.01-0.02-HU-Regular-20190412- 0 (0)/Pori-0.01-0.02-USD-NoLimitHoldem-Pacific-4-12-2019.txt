@@ -1,0 +1,54 @@
+#Game No : 528693228
+***** 888poker Hand History for Game 528693228 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 16:59:22
+Table Pori 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: NonoCla87 ( $2.09 )
+Seat 6: dasmou14 ( $1.04 )
+NonoCla87 posts small blind [$0.01]
+dasmou14 posts big blind [$0.02]
+** Dealing down cards **
+NonoCla87 calls [$0.01]
+dasmou14 raises [$0.02]
+NonoCla87 calls [$0.02]
+** Dealing flop ** [ 4s, 3h, 3c ]
+dasmou14 bets [$0.02]
+NonoCla87 calls [$0.02]
+** Dealing turn ** [ 5c ]
+dasmou14 checks
+NonoCla87 bets [$0.12]
+dasmou14 folds
+** Summary **
+NonoCla87 collected [ $0.12 ]
+
+
+#Game No : 528693254
+***** 888poker Hand History for Game 528693254 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 16:59:48
+Table Pori 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: NonoCla87 ( $2.15 )
+Seat 6: dasmou14 ( $0.98 )
+dasmou14 posts small blind [$0.01]
+NonoCla87 posts big blind [$0.02]
+** Dealing down cards **
+dasmou14 raises [$0.03]
+NonoCla87 calls [$0.02]
+** Dealing flop ** [ 9c, 9d, 4c ]
+NonoCla87 checks
+dasmou14 bets [$0.05]
+NonoCla87 calls [$0.05]
+** Dealing turn ** [ 8h ]
+NonoCla87 checks
+dasmou14 checks
+** Dealing river ** [ Td ]
+NonoCla87 bets [$0.18]
+dasmou14 calls [$0.18]
+** Summary **
+NonoCla87 shows [ Ad, 7h ]
+dasmou14 mucks [ Jc, 5c ]
+NonoCla87 collected [ $0.51 ]
+
+

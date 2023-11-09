@@ -1,0 +1,45 @@
+#Game No : 502047865
+***** 888poker Hand History for Game 502047865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 11:46:09
+Table Southport 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Tihom67 ( $1.26 )
+Seat 6: Mefi100S ( $3.34 )
+Tihom67 posts small blind [$0.01]
+Mefi100S posts big blind [$0.02]
+** Dealing down cards **
+Tihom67 raises [$0.05]
+Mefi100S calls [$0.04]
+** Dealing flop ** [ 8c, 6h, 6d ]
+Mefi100S checks
+Tihom67 bets [$0.06]
+Mefi100S raises [$0.18]
+Tihom67 calls [$0.12]
+** Dealing turn ** [ Ts ]
+Mefi100S bets [$0.24]
+Tihom67 calls [$0.24]
+** Dealing river ** [ Kc ]
+Mefi100S checks
+Tihom67 checks
+** Summary **
+Mefi100S shows [ Td, 9d ]
+Tihom67 mucks [ 8h, 9h ]
+Mefi100S collected [ $0.90 ]
+
+
+#Game No : 502047890
+***** 888poker Hand History for Game 502047890 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 09 2018 11:46:38
+Table Southport 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Tihom67 ( $1 )
+Seat 6: Mefi100S ( $3.76 )
+Mefi100S posts small blind [$0.01]
+** Dealing down cards **
+Tihom67 folds
+** Summary **
+Mefi100S collected [ $0.01 ]
+
+

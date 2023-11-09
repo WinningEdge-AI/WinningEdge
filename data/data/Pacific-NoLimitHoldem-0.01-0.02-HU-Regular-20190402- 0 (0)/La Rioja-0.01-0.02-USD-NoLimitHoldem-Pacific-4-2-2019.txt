@@ -1,0 +1,52 @@
+#Game No : 1259070730
+***** 888poker Hand History for Game 1259070730 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 04 2019 04:44:07
+Table La Rioja 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kalutskaya ( $0.81 )
+Seat 6: popel86 ( $0.80 )
+kalutskaya posts small blind [$0.01]
+popel86 posts big blind [$0.02]
+** Dealing down cards **
+kalutskaya calls [$0.01]
+popel86 checks
+** Dealing flop ** [ Ts, Qc, 4h ]
+popel86 checks
+kalutskaya checks
+** Dealing turn ** [ 5s ]
+popel86 bets [$0.02]
+kalutskaya folds
+** Summary **
+popel86 did not show his hand
+popel86 collected [ $0.04 ]
+
+
+#Game No : 1259070761
+***** 888poker Hand History for Game 1259070761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 04 2019 04:44:11
+Table La Rioja 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kalutskaya ( $0.79 )
+Seat 6: popel86 ( $0.82 )
+popel86 posts small blind [$0.01]
+kalutskaya posts big blind [$0.02]
+** Dealing down cards **
+popel86 calls [$0.01]
+kalutskaya checks
+** Dealing flop ** [ 5d, 4c, 5h ]
+kalutskaya checks
+popel86 checks
+** Dealing turn ** [ 6c ]
+kalutskaya checks
+popel86 bets [$0.04]
+kalutskaya calls [$0.04]
+** Dealing river ** [ Jc ]
+kalutskaya checks
+popel86 bets [$0.12]
+kalutskaya folds
+** Summary **
+popel86 collected [ $0.12 ]
+
+

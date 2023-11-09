@@ -1,0 +1,267 @@
+#Game No : 604122587
+***** 888poker Hand History for Game 604122587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 08:25:16
+Table Munich 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.72 )
+Seat 6: Floricelize ( $1.08 )
+Floricelize posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+Floricelize raises [$0.03]
+JS888FU folds
+** Summary **
+Floricelize collected [ $0.04 ]
+
+
+#Game No : 604122596
+***** 888poker Hand History for Game 604122596 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 08:25:28
+Table Munich 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.70 )
+Seat 7: Kathissi ( $1.01 )
+Kathissi posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+Kathissi calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 4d, Kd, 2c ]
+JS888FU checks
+Kathissi checks
+** Dealing turn ** [ 7s ]
+JS888FU checks
+Kathissi checks
+** Dealing river ** [ As ]
+JS888FU checks
+Kathissi checks
+** Summary **
+JS888FU shows [ 9s, Jc ]
+Kathissi shows [ Qs, 2d ]
+Kathissi collected [ $0.04 ]
+
+
+#Game No : 604122606
+***** 888poker Hand History for Game 604122606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 08:25:48
+Table Munich 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.68 )
+Seat 7: Kathissi ( $1.03 )
+JS888FU posts small blind [$0.01]
+Kathissi posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+Kathissi checks
+** Dealing flop ** [ Tc, Jc, 7s ]
+Kathissi checks
+JS888FU bets [$0.04]
+Kathissi folds
+** Summary **
+JS888FU collected [ $0.04 ]
+
+
+#Game No : 604122639
+***** 888poker Hand History for Game 604122639 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 08:26:25
+Table Munich 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.68 )
+Seat 7: Kathissi ( $1.03 )
+JS888FU posts small blind [$0.01]
+Kathissi posts big blind [$0.02]
+** Dealing down cards **
+JS888FU raises [$0.03]
+Kathissi calls [$0.02]
+** Dealing flop ** [ 6s, 5d, Ah ]
+Kathissi bets [$0.05]
+JS888FU folds
+** Summary **
+Kathissi collected [ $0.08 ]
+
+
+#Game No : 604122810
+***** 888poker Hand History for Game 604122810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 08:29:53
+Table Munich 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.57 )
+Seat 6: igorek70555 ( $0.93 )
+JS888FU posts small blind [$0.01]
+igorek70555 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU folds
+** Summary **
+igorek70555 did not show his hand
+igorek70555 collected [ $0.03 ]
+
+
+#Game No : 604122814
+***** 888poker Hand History for Game 604122814 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 08:29:58
+Table Munich 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.56 )
+Seat 6: igorek70555 ( $0.94 )
+igorek70555 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+igorek70555 calls [$0.01]
+JS888FU raises [$0.02]
+igorek70555 calls [$0.02]
+** Dealing flop ** [ 2s, 5d, 4c ]
+JS888FU checks
+igorek70555 checks
+** Dealing turn ** [ Kc ]
+JS888FU bets [$0.08]
+igorek70555 calls [$0.08]
+** Dealing river ** [ 6s ]
+JS888FU checks
+igorek70555 checks
+** Summary **
+JS888FU shows [ Ad, As ]
+igorek70555 mucks [ Jd, 5c ]
+JS888FU collected [ $0.23 ]
+
+
+#Game No : 604122845
+***** 888poker Hand History for Game 604122845 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 08:30:38
+Table Munich 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.67 )
+Seat 6: igorek70555 ( $0.82 )
+JS888FU posts small blind [$0.01]
+igorek70555 posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+igorek70555 checks
+** Dealing flop ** [ 4c, 4d, Qd ]
+igorek70555 checks
+JS888FU bets [$0.02]
+igorek70555 calls [$0.02]
+** Dealing turn ** [ 4s ]
+igorek70555 checks
+JS888FU bets [$0.02]
+igorek70555 calls [$0.02]
+** Dealing river ** [ 5h ]
+igorek70555 checks
+JS888FU checks
+** Summary **
+igorek70555 shows [ Ac, 2s ]
+JS888FU mucks [ 2d, 3d ]
+igorek70555 collected [ $0.12 ]
+
+
+#Game No : 604122870
+***** 888poker Hand History for Game 604122870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 08:31:20
+Table Munich 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.61 )
+Seat 6: igorek70555 ( $0.88 )
+igorek70555 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+igorek70555 calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 3d, Th, 7h ]
+JS888FU checks
+igorek70555 checks
+** Dealing turn ** [ 7c ]
+JS888FU checks
+igorek70555 checks
+** Dealing river ** [ 9s ]
+JS888FU checks
+igorek70555 checks
+** Summary **
+JS888FU shows [ Ad, Qh ]
+igorek70555 mucks [ Qc, 6c ]
+JS888FU collected [ $0.04 ]
+
+
+#Game No : 604122929
+***** 888poker Hand History for Game 604122929 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 08:32:41
+Table Munich 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.63 )
+Seat 6: igorek70555 ( $0.93 )
+igorek70555 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+igorek70555 calls [$0.01]
+JS888FU raises [$0.04]
+igorek70555 folds
+** Summary **
+JS888FU collected [ $0.04 ]
+
+
+#Game No : 604127191
+***** 888poker Hand History for Game 604127191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 10:02:15
+Table Munich 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: VALERA45A ( $1.72 )
+Seat 7: Kosovan1972 ( $1.01 )
+Kosovan1972 posts small blind [$0.01]
+VALERA45A posts big blind [$0.02]
+** Dealing down cards **
+Kosovan1972 calls [$0.01]
+VALERA45A checks
+** Dealing flop ** [ Jc, Qs, 2d ]
+VALERA45A checks
+Kosovan1972 checks
+** Dealing turn ** [ Th ]
+VALERA45A checks
+Kosovan1972 checks
+** Dealing river ** [ Ks ]
+VALERA45A checks
+Kosovan1972 checks
+** Summary **
+VALERA45A shows [ 2h, 7c ]
+Kosovan1972 mucks [ 6d, 8c ]
+VALERA45A collected [ $0.04 ]
+
+
+#Game No : 451984108
+***** 888poker Hand History for Game 451984108 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 11:25:05
+Table Munich 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bolid59 ( $2 )
+Seat 9: kldvod ( $2.44 )
+kldvod posts small blind [$0.01]
+bolid59 posts big blind [$0.02]
+** Dealing down cards **
+kldvod folds
+** Summary **
+bolid59 collected [ $0.03 ]
+
+
+#Game No : 451984113
+***** 888poker Hand History for Game 451984113 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 11:25:11
+Table Munich 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bolid59 ( $2.01 )
+Seat 9: kldvod ( $2.43 )
+bolid59 posts small blind [$0.01]
+** Dealing down cards **
+kldvod folds
+** Summary **
+bolid59 collected [ $0.01 ]
+
+

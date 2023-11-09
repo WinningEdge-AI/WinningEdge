@@ -1,0 +1,263 @@
+#Game No : 537933987
+***** 888poker Hand History for Game 537933987 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 18:47:07
+Table Castello 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Voron168 ( $3.42 )
+Seat 4: ElenaVV ( $3.65 )
+ElenaVV posts small blind [$0.01]
+Voron168 posts big blind [$0.02]
+** Dealing down cards **
+ElenaVV folds
+** Summary **
+Voron168 collected [ $0.03 ]
+
+
+#Game No : 537933992
+***** 888poker Hand History for Game 537933992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 18:47:13
+Table Castello 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Voron168 ( $3.43 )
+Seat 4: ElenaVV ( $3.64 )
+Voron168 posts small blind [$0.01]
+ElenaVV posts big blind [$0.02]
+** Dealing down cards **
+Voron168 raises [$0.03]
+ElenaVV folds
+** Summary **
+Voron168 collected [ $0.04 ]
+
+
+#Game No : 537933996
+***** 888poker Hand History for Game 537933996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 18:47:22
+Table Castello 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Voron168 ( $3.45 )
+Seat 4: ElenaVV ( $3.62 )
+ElenaVV posts small blind [$0.01]
+Voron168 posts big blind [$0.02]
+** Dealing down cards **
+ElenaVV folds
+** Summary **
+Voron168 collected [ $0.03 ]
+
+
+#Game No : 537933998
+***** 888poker Hand History for Game 537933998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 18:47:28
+Table Castello 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Voron168 ( $3.46 )
+Seat 4: ElenaVV ( $3.61 )
+Voron168 posts small blind [$0.01]
+** Dealing down cards **
+ElenaVV folds
+** Summary **
+Voron168 collected [ $0.01 ]
+
+
+#Game No : 537937956
+***** 888poker Hand History for Game 537937956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 21:34:32
+Table Castello 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: putanica ( $2.27 )
+Seat 6: RaisaMih ( $0.50 )
+putanica posts small blind [$0.01]
+RaisaMih posts big blind [$0.02]
+** Dealing down cards **
+putanica raises [$0.05]
+RaisaMih calls [$0.04]
+** Dealing flop ** [ 3c, Tc, Jd ]
+RaisaMih checks
+putanica checks
+** Dealing turn ** [ Ac ]
+RaisaMih checks
+putanica checks
+** Dealing river ** [ Jc ]
+RaisaMih bets [$0.06]
+putanica folds
+** Summary **
+RaisaMih did not show his hand
+RaisaMih collected [ $0.12 ]
+
+
+#Game No : 537937966
+***** 888poker Hand History for Game 537937966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 21:34:59
+Table Castello 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: putanica ( $2.21 )
+Seat 6: RaisaMih ( $0.56 )
+RaisaMih posts small blind [$0.01]
+putanica posts big blind [$0.02]
+** Dealing down cards **
+RaisaMih calls [$0.01]
+putanica raises [$0.04]
+RaisaMih calls [$0.04]
+** Dealing flop ** [ Ts, 3c, 2c ]
+putanica bets [$0.12]
+RaisaMih calls [$0.12]
+** Dealing turn ** [ 4s ]
+putanica bets [$0.38]
+RaisaMih calls [$0.38]
+** Dealing river ** [ 6h ]
+** Summary **
+putanica shows [ Th, 9d ]
+RaisaMih shows [ Kc, Ah ]
+putanica collected [ $1.05 ]
+
+
+#Game No : 537937978
+***** 888poker Hand History for Game 537937978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 21:35:46
+Table Castello 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: putanica ( $2.70 )
+Seat 4: alpfaden ( $2 )
+putanica posts small blind [$0.01]
+alpfaden posts big blind [$0.02]
+** Dealing down cards **
+putanica raises [$0.05]
+alpfaden calls [$0.04]
+** Dealing flop ** [ 9d, 4d, Ts ]
+alpfaden checks
+putanica checks
+** Dealing turn ** [ 9h ]
+alpfaden checks
+putanica checks
+** Dealing river ** [ As ]
+alpfaden checks
+putanica checks
+** Summary **
+alpfaden shows [ 6d, 7s ]
+putanica mucks [ 5h, 3h ]
+alpfaden collected [ $0.12 ]
+
+
+#Game No : 537937988
+***** 888poker Hand History for Game 537937988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 21:36:18
+Table Castello 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: putanica ( $2.64 )
+Seat 4: alpfaden ( $2.06 )
+alpfaden posts small blind [$0.01]
+putanica posts big blind [$0.02]
+** Dealing down cards **
+alpfaden calls [$0.01]
+putanica raises [$0.06]
+alpfaden calls [$0.06]
+** Dealing flop ** [ 5h, 7h, Ks ]
+putanica bets [$0.08]
+alpfaden calls [$0.08]
+** Dealing turn ** [ Td ]
+putanica checks
+alpfaden checks
+** Dealing river ** [ 8s ]
+putanica checks
+alpfaden checks
+** Summary **
+putanica shows [ As, 3c ]
+alpfaden mucks [ 3h, Jc ]
+putanica collected [ $0.30 ]
+
+
+#Game No : 537938005
+***** 888poker Hand History for Game 537938005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 21:36:58
+Table Castello 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: putanica ( $2.78 )
+Seat 4: alpfaden ( $1.90 )
+putanica posts small blind [$0.01]
+alpfaden posts big blind [$0.02]
+** Dealing down cards **
+putanica raises [$0.05]
+alpfaden calls [$0.04]
+** Dealing flop ** [ 7d, 6d, 8s ]
+alpfaden checks
+putanica bets [$0.08]
+alpfaden folds
+** Summary **
+putanica did not show his hand
+putanica collected [ $0.12 ]
+
+
+#Game No : 537938013
+***** 888poker Hand History for Game 537938013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 21:37:13
+Table Castello 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: putanica ( $2.84 )
+Seat 4: alpfaden ( $1.84 )
+alpfaden posts small blind [$0.01]
+putanica posts big blind [$0.02]
+** Dealing down cards **
+alpfaden calls [$0.01]
+putanica raises [$0.06]
+alpfaden calls [$0.06]
+** Dealing flop ** [ 7s, Qc, 9d ]
+putanica bets [$0.08]
+alpfaden folds
+** Summary **
+putanica did not show his hand
+putanica collected [ $0.15 ]
+
+
+#Game No : 537938018
+***** 888poker Hand History for Game 537938018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 21:37:32
+Table Castello 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: putanica ( $2.91 )
+Seat 4: alpfaden ( $1.76 )
+putanica posts small blind [$0.01]
+alpfaden posts big blind [$0.02]
+** Dealing down cards **
+putanica raises [$0.07]
+alpfaden calls [$0.06]
+** Dealing flop ** [ Qd, 2d, 5c ]
+alpfaden checks
+putanica checks
+** Dealing turn ** [ 7c ]
+alpfaden checks
+putanica checks
+** Dealing river ** [ Ks ]
+alpfaden checks
+putanica checks
+** Summary **
+alpfaden shows [ 9s, 3d ]
+putanica shows [ Jc, As ]
+putanica collected [ $0.15 ]
+
+
+#Game No : 537938028
+***** 888poker Hand History for Game 537938028 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2019 21:37:56
+Table Castello 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: putanica ( $2.98 )
+Seat 4: alpfaden ( $1.68 )
+alpfaden posts small blind [$0.01]
+** Dealing down cards **
+putanica folds
+** Summary **
+alpfaden did not show his hand
+alpfaden collected [ $0.01 ]
+
+

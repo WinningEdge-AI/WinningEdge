@@ -1,0 +1,788 @@
+#Game No : 503030088
+***** 888poker Hand History for Game 503030088 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 04:54:51
+Table Delft 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Nebesa35 ( $1 )
+Seat 6: flav_44 ( $1.32 )
+flav_44 posts small blind [$0.01]
+Nebesa35 posts big blind [$0.02]
+** Dealing down cards **
+flav_44 calls [$0.01]
+Nebesa35 checks
+** Dealing flop ** [ Kd, 6s, 6c ]
+Nebesa35 checks
+flav_44 bets [$0.02]
+Nebesa35 folds
+** Summary **
+flav_44 collected [ $0.04 ]
+
+
+#Game No : 503030136
+***** 888poker Hand History for Game 503030136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 04:56:17
+Table Delft 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Nebesa35 ( $1 )
+Seat 6: flav_44 ( $1.45 )
+flav_44 posts small blind [$0.01]
+Nebesa35 posts big blind [$0.02]
+** Dealing down cards **
+flav_44 calls [$0.01]
+Nebesa35 raises [$0.04]
+flav_44 calls [$0.04]
+** Dealing flop ** [ 2d, Kd, Ts ]
+Nebesa35 bets [$0.06]
+flav_44 raises [$0.12]
+Nebesa35 calls [$0.06]
+** Dealing turn ** [ 9s ]
+Nebesa35 checks
+flav_44 bets [$0.16]
+Nebesa35 calls [$0.16]
+** Dealing river ** [ Qc ]
+Nebesa35 checks
+flav_44 bets [$0.32]
+Nebesa35 folds
+** Summary **
+flav_44 collected [ $0.64 ]
+
+
+#Game No : 503030228
+***** 888poker Hand History for Game 503030228 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 04:59:43
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: denign9111 ( $1.06 )
+Seat 4: mario505100 ( $0.98 )
+denign9111 posts small blind [$0.01]
+mario505100 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 folds
+** Summary **
+mario505100 collected [ $0.03 ]
+
+
+#Game No : 503030231
+***** 888poker Hand History for Game 503030231 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 04:59:48
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: denign9111 ( $1.05 )
+Seat 4: mario505100 ( $0.99 )
+mario505100 posts small blind [$0.01]
+denign9111 posts big blind [$0.02]
+** Dealing down cards **
+mario505100 calls [$0.01]
+denign9111 checks
+** Dealing flop ** [ Qd, Qh, 3d ]
+denign9111 checks
+mario505100 checks
+** Dealing turn ** [ Ad ]
+denign9111 checks
+mario505100 bets [$0.04]
+denign9111 folds
+** Summary **
+mario505100 collected [ $0.04 ]
+
+
+#Game No : 503030242
+***** 888poker Hand History for Game 503030242 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:00:04
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: denign9111 ( $1.03 )
+Seat 4: mario505100 ( $1.01 )
+denign9111 posts small blind [$0.01]
+mario505100 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 folds
+** Summary **
+mario505100 collected [ $0.03 ]
+
+
+#Game No : 503030244
+***** 888poker Hand History for Game 503030244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:00:09
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: denign9111 ( $1.02 )
+Seat 4: mario505100 ( $1.02 )
+mario505100 posts small blind [$0.01]
+denign9111 posts big blind [$0.02]
+** Dealing down cards **
+mario505100 calls [$0.01]
+denign9111 checks
+** Dealing flop ** [ 7h, 3c, Jc ]
+denign9111 checks
+mario505100 bets [$0.02]
+denign9111 calls [$0.02]
+** Dealing turn ** [ Td ]
+denign9111 checks
+mario505100 checks
+** Dealing river ** [ 8c ]
+denign9111 bets [$0.05]
+mario505100 folds
+** Summary **
+denign9111 collected [ $0.08 ]
+
+
+#Game No : 503030255
+***** 888poker Hand History for Game 503030255 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:00:30
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: denign9111 ( $1.06 )
+Seat 4: mario505100 ( $0.98 )
+denign9111 posts small blind [$0.01]
+mario505100 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 raises [$0.05]
+mario505100 calls [$0.04]
+** Dealing flop ** [ Jh, 9h, 7s ]
+mario505100 bets [$0.04]
+denign9111 calls [$0.04]
+** Dealing turn ** [ 2s ]
+mario505100 bets [$0.02]
+denign9111 calls [$0.02]
+** Dealing river ** [ 4h ]
+mario505100 bets [$0.02]
+denign9111 folds
+** Summary **
+mario505100 collected [ $0.23 ]
+
+
+#Game No : 503030270
+***** 888poker Hand History for Game 503030270 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:00:56
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: denign9111 ( $1 )
+Seat 4: mario505100 ( $1.09 )
+mario505100 posts small blind [$0.01]
+denign9111 posts big blind [$0.02]
+** Dealing down cards **
+mario505100 calls [$0.01]
+denign9111 checks
+** Dealing flop ** [ 4s, 3d, As ]
+denign9111 checks
+mario505100 bets [$0.04]
+denign9111 folds
+** Summary **
+mario505100 collected [ $0.04 ]
+
+
+#Game No : 503030275
+***** 888poker Hand History for Game 503030275 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:01:16
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: denign9111 ( $1 )
+Seat 4: mario505100 ( $1.11 )
+denign9111 posts small blind [$0.01]
+mario505100 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 folds
+** Summary **
+mario505100 collected [ $0.03 ]
+
+
+#Game No : 503030277
+***** 888poker Hand History for Game 503030277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:01:21
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: denign9111 ( $1 )
+Seat 4: mario505100 ( $1.12 )
+mario505100 posts small blind [$0.01]
+denign9111 posts big blind [$0.02]
+** Dealing down cards **
+mario505100 calls [$0.01]
+denign9111 checks
+** Dealing flop ** [ Ad, Js, Kc ]
+denign9111 checks
+mario505100 checks
+** Dealing turn ** [ Kd ]
+denign9111 checks
+mario505100 checks
+** Dealing river ** [ 4h ]
+denign9111 checks
+mario505100 checks
+** Summary **
+denign9111 shows [ 7d, 2s ]
+mario505100 shows [ 8h, 9d ]
+mario505100 collected [ $0.04 ]
+
+
+#Game No : 503030290
+***** 888poker Hand History for Game 503030290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:01:52
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: denign9111 ( $1 )
+Seat 4: mario505100 ( $1.14 )
+denign9111 posts small blind [$0.01]
+mario505100 posts big blind [$0.02]
+** Dealing down cards **
+denign9111 folds
+** Summary **
+mario505100 collected [ $0.03 ]
+
+
+#Game No : 503030826
+***** 888poker Hand History for Game 503030826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:22:08
+Table Delft 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: minuDvirati ( $0.15 )
+Seat 6: Edward358 ( $1.09 )
+Edward358 posts small blind [$0.01]
+minuDvirati posts big blind [$0.02]
+** Dealing down cards **
+Edward358 calls [$0.01]
+minuDvirati raises [$0.13]
+Edward358 calls [$0.13]
+** Dealing flop ** [ 8d, Qd, Th ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ 8h ]
+** Summary **
+minuDvirati shows [ Kd, Tc ]
+Edward358 shows [ Ac, Td ]
+Edward358 collected [ $0.29 ]
+
+
+#Game No : 503030842
+***** 888poker Hand History for Game 503030842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:22:35
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Edward358 ( $1.23 )
+Seat 9: stephen366 ( $0.80 )
+stephen366 posts small blind [$0.01]
+Edward358 posts big blind [$0.02]
+** Dealing down cards **
+stephen366 raises [$0.03]
+Edward358 folds
+** Summary **
+stephen366 collected [ $0.04 ]
+
+
+#Game No : 503030849
+***** 888poker Hand History for Game 503030849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:22:45
+Table Delft 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Edward358 ( $1.21 )
+Seat 9: stephen366 ( $0.82 )
+Edward358 posts small blind [$0.01]
+stephen366 posts big blind [$0.02]
+** Dealing down cards **
+Edward358 calls [$0.01]
+stephen366 raises [$0.04]
+Edward358 folds
+** Summary **
+stephen366 collected [ $0.04 ]
+
+
+#Game No : 503030857
+***** 888poker Hand History for Game 503030857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:23:03
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Edward358 ( $1.19 )
+Seat 9: stephen366 ( $0.84 )
+stephen366 posts small blind [$0.01]
+Edward358 posts big blind [$0.02]
+** Dealing down cards **
+stephen366 folds
+** Summary **
+Edward358 collected [ $0.03 ]
+
+
+#Game No : 503030867
+***** 888poker Hand History for Game 503030867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:23:29
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: richbranson ( $1 )
+Seat 9: stephen366 ( $0.85 )
+stephen366 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+stephen366 calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 2c, 9c, Ks ]
+richbranson checks
+stephen366 checks
+** Dealing turn ** [ Kd ]
+richbranson checks
+stephen366 checks
+** Dealing river ** [ 2h ]
+richbranson checks
+stephen366 checks
+** Summary **
+richbranson shows [ 6s, Qs ]
+stephen366 mucks [ 7h, 3h ]
+richbranson collected [ $0.04 ]
+
+
+#Game No : 503030884
+***** 888poker Hand History for Game 503030884 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:24:15
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: richbranson ( $1.02 )
+Seat 9: stephen366 ( $0.83 )
+richbranson posts small blind [$0.01]
+stephen366 posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+stephen366 folds
+** Summary **
+richbranson collected [ $0.04 ]
+
+
+#Game No : 503030887
+***** 888poker Hand History for Game 503030887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:24:23
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: richbranson ( $1.04 )
+Seat 9: stephen366 ( $0.81 )
+stephen366 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+stephen366 raises [$0.03]
+richbranson folds
+** Summary **
+stephen366 collected [ $0.04 ]
+
+
+#Game No : 503030894
+***** 888poker Hand History for Game 503030894 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 05:24:32
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: richbranson ( $1.02 )
+Seat 9: stephen366 ( $0.83 )
+richbranson posts small blind [$0.01]
+stephen366 posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+stephen366 collected [ $0.03 ]
+
+
+#Game No : 503034343
+***** 888poker Hand History for Game 503034343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 06:58:39
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pokspider777 ( $1.63 )
+Seat 9: Et_Arrows ( $0.94 )
+pokspider777 posts small blind [$0.01]
+Et_Arrows posts big blind [$0.02]
+** Dealing down cards **
+pokspider777 folds
+** Summary **
+Et_Arrows collected [ $0.03 ]
+
+
+#Game No : 503034350
+***** 888poker Hand History for Game 503034350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 06:58:44
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: pokspider777 ( $1.62 )
+Seat 9: Et_Arrows ( $1 )
+Et_Arrows posts small blind [$0.01]
+pokspider777 posts big blind [$0.02]
+** Dealing down cards **
+Et_Arrows calls [$0.01]
+pokspider777 checks
+** Dealing flop ** [ Jc, 7d, 7h ]
+pokspider777 checks
+Et_Arrows bets [$0.04]
+pokspider777 folds
+** Summary **
+Et_Arrows collected [ $0.04 ]
+
+
+#Game No : 503034358
+***** 888poker Hand History for Game 503034358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 06:58:57
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pokspider777 ( $1.60 )
+Seat 9: Et_Arrows ( $1.02 )
+pokspider777 posts small blind [$0.01]
+** Dealing down cards **
+Et_Arrows folds
+** Summary **
+pokspider777 collected [ $0.01 ]
+
+
+#Game No : 503035750
+***** 888poker Hand History for Game 503035750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:30:26
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $1.21 )
+Seat 9: Genborg ( $1.04 )
+Genborg posts small blind [$0.01]
+88Velis88 posts big blind [$0.02]
+** Dealing down cards **
+Genborg raises [$0.04]
+88Velis88 folds
+** Summary **
+Genborg collected [ $0.04 ]
+
+
+#Game No : 503035756
+***** 888poker Hand History for Game 503035756 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:30:32
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $1.19 )
+Seat 9: Genborg ( $1.06 )
+88Velis88 posts small blind [$0.01]
+Genborg posts big blind [$0.02]
+** Dealing down cards **
+88Velis88 raises [$0.05]
+Genborg folds
+** Summary **
+88Velis88 collected [ $0.04 ]
+
+
+#Game No : 503035764
+***** 888poker Hand History for Game 503035764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:30:44
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $1.21 )
+Seat 9: Genborg ( $1.04 )
+Genborg posts small blind [$0.01]
+88Velis88 posts big blind [$0.02]
+** Dealing down cards **
+Genborg raises [$0.04]
+88Velis88 folds
+** Summary **
+Genborg collected [ $0.04 ]
+
+
+#Game No : 503035770
+***** 888poker Hand History for Game 503035770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:30:50
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $1.19 )
+Seat 9: Genborg ( $1.06 )
+88Velis88 posts small blind [$0.01]
+Genborg posts big blind [$0.02]
+** Dealing down cards **
+88Velis88 raises [$0.05]
+Genborg folds
+** Summary **
+88Velis88 collected [ $0.04 ]
+
+
+#Game No : 503035777
+***** 888poker Hand History for Game 503035777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:30:56
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $1.21 )
+Seat 9: Genborg ( $1.04 )
+Genborg posts small blind [$0.01]
+88Velis88 posts big blind [$0.02]
+** Dealing down cards **
+Genborg folds
+** Summary **
+88Velis88 collected [ $0.03 ]
+
+
+#Game No : 503035779
+***** 888poker Hand History for Game 503035779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:31:00
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $1.22 )
+Seat 9: Genborg ( $1.03 )
+88Velis88 posts small blind [$0.01]
+Genborg posts big blind [$0.02]
+** Dealing down cards **
+88Velis88 raises [$0.05]
+Genborg raises [$0.18]
+88Velis88 folds
+** Summary **
+Genborg collected [ $0.12 ]
+
+
+#Game No : 503035789
+***** 888poker Hand History for Game 503035789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 07:31:16
+Table Delft 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $1.16 )
+Seat 9: Genborg ( $1.09 )
+Genborg posts small blind [$0.01]
+88Velis88 posts big blind [$0.02]
+** Dealing down cards **
+Genborg raises [$0.04]
+88Velis88 folds
+** Summary **
+Genborg collected [ $0.04 ]
+
+
+#Game No : 503038869
+***** 888poker Hand History for Game 503038869 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:02:22
+Table Delft 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 77Blonda777 ( $1.97 )
+Seat 2: Vika4001 ( $0.42 )
+Vika4001 posts small blind [$0.01]
+77Blonda777 posts big blind [$0.02]
+** Dealing down cards **
+Vika4001 raises [$0.03]
+77Blonda777 calls [$0.02]
+** Dealing flop ** [ Td, 6d, Th ]
+77Blonda777 checks
+Vika4001 bets [$0.04]
+77Blonda777 raises [$0.10]
+Vika4001 folds
+** Summary **
+77Blonda777 did not show his hand
+77Blonda777 collected [ $0.15 ]
+
+
+#Game No : 503038898
+***** 888poker Hand History for Game 503038898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:03:09
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 77Blonda777 ( $2.04 )
+Seat 2: Vika4001 ( $0.34 )
+77Blonda777 posts small blind [$0.01]
+Vika4001 posts big blind [$0.02]
+** Dealing down cards **
+77Blonda777 calls [$0.01]
+Vika4001 checks
+** Dealing flop ** [ 4s, Qs, 9h ]
+Vika4001 checks
+77Blonda777 checks
+** Dealing turn ** [ 5c ]
+Vika4001 checks
+77Blonda777 checks
+** Dealing river ** [ 6c ]
+Vika4001 checks
+77Blonda777 checks
+** Summary **
+Vika4001 shows [ Th, 2h ]
+77Blonda777 shows [ Jh, 8d ]
+77Blonda777 collected [ $0.04 ]
+
+
+#Game No : 503038923
+***** 888poker Hand History for Game 503038923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 09:04:00
+Table Delft 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 77Blonda777 ( $2.06 )
+Seat 2: Vika4001 ( $0.32 )
+Vika4001 posts small blind [$0.01]
+77Blonda777 posts big blind [$0.02]
+** Dealing down cards **
+Vika4001 folds
+** Summary **
+77Blonda777 collected [ $0.03 ]
+
+
+#Game No : 503057586
+***** 888poker Hand History for Game 503057586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:30:12
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Walun715 ( $4.53 )
+Seat 4: SpBInvictus ( $1.39 )
+SpBInvictus posts small blind [$0.01]
+Walun715 posts big blind [$0.02]
+** Dealing down cards **
+SpBInvictus folds
+** Summary **
+Walun715 did not show his hand
+Walun715 collected [ $0.03 ]
+
+
+#Game No : 503057591
+***** 888poker Hand History for Game 503057591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:30:18
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Walun715 ( $4.54 )
+Seat 4: SpBInvictus ( $1.38 )
+Walun715 posts small blind [$0.01]
+SpBInvictus posts big blind [$0.02]
+** Dealing down cards **
+Walun715 raises [$0.03]
+SpBInvictus calls [$0.02]
+** Dealing flop ** [ Qs, Js, 5s ]
+SpBInvictus checks
+Walun715 checks
+** Dealing turn ** [ 6s ]
+SpBInvictus bets [$0.05]
+Walun715 folds
+** Summary **
+SpBInvictus did not show his hand
+SpBInvictus collected [ $0.08 ]
+
+
+#Game No : 503057602
+***** 888poker Hand History for Game 503057602 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:30:41
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Walun715 ( $4.50 )
+Seat 4: SpBInvictus ( $1.42 )
+SpBInvictus posts small blind [$0.01]
+Walun715 posts big blind [$0.02]
+** Dealing down cards **
+SpBInvictus folds
+** Summary **
+Walun715 did not show his hand
+Walun715 collected [ $0.03 ]
+
+
+#Game No : 503057612
+***** 888poker Hand History for Game 503057612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:30:52
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Walun715 ( $4.51 )
+Seat 4: SpBInvictus ( $1.41 )
+Walun715 posts small blind [$0.01]
+SpBInvictus posts big blind [$0.02]
+** Dealing down cards **
+Walun715 raises [$0.03]
+SpBInvictus raises [$1.39]
+Walun715 folds
+** Summary **
+SpBInvictus did not show his hand
+SpBInvictus collected [ $0.08 ]
+
+
+#Game No : 503057623
+***** 888poker Hand History for Game 503057623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 15:31:07
+Table Delft 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Walun715 ( $4.47 )
+Seat 4: SpBInvictus ( $1.45 )
+SpBInvictus posts small blind [$0.01]
+Walun715 posts big blind [$0.02]
+** Dealing down cards **
+SpBInvictus raises [$0.04]
+Walun715 calls [$0.03]
+** Dealing flop ** [ Qd, 5s, 7h ]
+Walun715 bets [$0.05]
+SpBInvictus raises [$0.10]
+Walun715 folds
+** Summary **
+SpBInvictus collected [ $0.19 ]
+
+
+#Game No : 503058741
+***** 888poker Hand History for Game 503058741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 16:01:20
+Table Delft 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: MeaN_MuGGs ( $1.91 )
+Seat 6: VictimVIP ( $1.13 )
+VictimVIP posts small blind [$0.01]
+MeaN_MuGGs posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+MeaN_MuGGs collected [ $0.03 ]
+
+
+#Game No : 503058823
+***** 888poker Hand History for Game 503058823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 16:03:17
+Table Delft 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MeaN_MuGGs ( $2.15 )
+Seat 7: AmomIlecki ( $1 )
+MeaN_MuGGs posts small blind [$0.01]
+AmomIlecki posts big blind [$0.02]
+** Dealing down cards **
+MeaN_MuGGs calls [$0.01]
+AmomIlecki checks
+** Dealing flop ** [ 6d, 8c, Kd ]
+AmomIlecki bets [$0.04]
+MeaN_MuGGs calls [$0.04]
+** Dealing turn ** [ 4d ]
+AmomIlecki checks
+MeaN_MuGGs checks
+** Dealing river ** [ Ad ]
+AmomIlecki checks
+MeaN_MuGGs checks
+** Summary **
+AmomIlecki shows [ 7h, 2h ]
+MeaN_MuGGs shows [ 8s, 7d ]
+MeaN_MuGGs collected [ $0.12 ]
+
+
+#Game No : 503058844
+***** 888poker Hand History for Game 503058844 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 09 2018 16:03:55
+Table Delft 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: MeaN_MuGGs ( $2.21 )
+Seat 7: AmomIlecki ( $0.94 )
+AmomIlecki posts small blind [$0.01]
+** Dealing down cards **
+MeaN_MuGGs folds
+** Summary **
+AmomIlecki collected [ $0.01 ]
+
+

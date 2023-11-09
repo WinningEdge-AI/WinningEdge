@@ -1,0 +1,65 @@
+#Game No : 603694839
+***** 888poker Hand History for Game 603694839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 13:15:06
+Table Kalamaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: OlegH1 ( $1.40 )
+Seat 7: brolis147 ( $0.38 )
+OlegH1 posts small blind [$0.01]
+brolis147 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+brolis147 checks
+** Dealing flop ** [ 5d, 9h, 5h ]
+brolis147 checks
+OlegH1 bets [$0.02]
+brolis147 folds
+** Summary **
+OlegH1 did not show his hand
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 603694872
+***** 888poker Hand History for Game 603694872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 13:15:29
+Table Kalamaria 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: OlegH1 ( $1.42 )
+Seat 7: brolis147 ( $0.36 )
+brolis147 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+brolis147 raises [$0.05]
+OlegH1 folds
+** Summary **
+brolis147 did not show his hand
+brolis147 collected [ $0.04 ]
+
+
+#Game No : 603694882
+***** 888poker Hand History for Game 603694882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 13:15:39
+Table Kalamaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: OlegH1 ( $1.40 )
+Seat 7: brolis147 ( $0.38 )
+OlegH1 posts small blind [$0.01]
+brolis147 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+brolis147 raises [$0.12]
+OlegH1 raises [$0.26]
+brolis147 raises [$0.24]
+OlegH1 calls [$0.06]
+** Dealing flop ** [ Qs, 7c, 3c ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Qc ]
+** Summary **
+OlegH1 shows [ Ks, Kh ]
+brolis147 shows [ Ah, 9h ]
+OlegH1 collected [ $0.72 ]
+
+

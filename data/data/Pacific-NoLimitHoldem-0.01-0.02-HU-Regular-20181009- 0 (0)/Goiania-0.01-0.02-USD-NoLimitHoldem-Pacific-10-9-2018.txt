@@ -1,0 +1,118 @@
+#Game No : 456216415
+***** 888poker Hand History for Game 456216415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 19:49:24
+Table Goiania 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: IvanKhorosh ( $1.37 )
+Seat 3: DEUS_XXL ( $2.03 )
+IvanKhorosh posts small blind [$0.01]
+DEUS_XXL posts big blind [$0.02]
+** Dealing down cards **
+IvanKhorosh calls [$0.01]
+DEUS_XXL checks
+** Dealing flop ** [ Th, 3d, Qh ]
+DEUS_XXL checks
+IvanKhorosh bets [$0.02]
+DEUS_XXL folds
+** Summary **
+IvanKhorosh collected [ $0.04 ]
+
+
+#Game No : 456216418
+***** 888poker Hand History for Game 456216418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 19:49:38
+Table Goiania 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: IvanKhorosh ( $1.39 )
+Seat 3: DEUS_XXL ( $2.01 )
+DEUS_XXL posts small blind [$0.01]
+IvanKhorosh posts big blind [$0.02]
+** Dealing down cards **
+DEUS_XXL calls [$0.01]
+IvanKhorosh checks
+** Dealing flop ** [ Th, 2s, Td ]
+IvanKhorosh checks
+DEUS_XXL bets [$0.02]
+IvanKhorosh calls [$0.02]
+** Dealing turn ** [ 6s ]
+IvanKhorosh checks
+DEUS_XXL bets [$0.07]
+IvanKhorosh calls [$0.07]
+** Dealing river ** [ 4h ]
+IvanKhorosh checks
+DEUS_XXL checks
+** Summary **
+IvanKhorosh shows [ Ac, 6c ]
+DEUS_XXL mucks [ 6d, 7c ]
+IvanKhorosh collected [ $0.21 ]
+
+
+#Game No : 456216499
+***** 888poker Hand History for Game 456216499 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 20:01:08
+Table Goiania 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JimmyCopley ( $1.98 )
+Seat 5: pando630 ( $2.02 )
+JimmyCopley posts small blind [$0.01]
+pando630 posts big blind [$0.02]
+** Dealing down cards **
+JimmyCopley folds
+** Summary **
+pando630 collected [ $0.03 ]
+
+
+#Game No : 456216503
+***** 888poker Hand History for Game 456216503 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 20:01:34
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: JimmyCopley ( $1.97 )
+Seat 5: pando630 ( $2.03 )
+pando630 posts small blind [$0.01]
+JimmyCopley posts big blind [$0.02]
+** Dealing down cards **
+pando630 calls [$0.01]
+JimmyCopley checks
+** Dealing flop ** [ 5s, Jd, 4d ]
+JimmyCopley checks
+pando630 bets [$0.03]
+JimmyCopley folds
+** Summary **
+pando630 collected [ $0.04 ]
+
+
+#Game No : 456216615
+***** 888poker Hand History for Game 456216615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 20:20:18
+Table Goiania 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: bluffanybet ( $1.50 )
+Seat 5: Zog12315 ( $2 )
+Zog12315 posts small blind [$0.01]
+bluffanybet posts big blind [$0.02]
+** Dealing down cards **
+Zog12315 raises [$0.03]
+bluffanybet calls [$0.02]
+** Dealing flop ** [ 8h, Jc, 8c ]
+bluffanybet checks
+Zog12315 bets [$0.04]
+bluffanybet calls [$0.04]
+** Dealing turn ** [ 7h ]
+bluffanybet checks
+Zog12315 bets [$0.08]
+bluffanybet calls [$0.08]
+** Dealing river ** [ 3c ]
+bluffanybet bets [$0.21]
+Zog12315 calls [$0.21]
+** Summary **
+bluffanybet shows [ 8d, Kc ]
+Zog12315 mucks [ Jd, 7d ]
+bluffanybet collected [ $0.70 ]
+
+

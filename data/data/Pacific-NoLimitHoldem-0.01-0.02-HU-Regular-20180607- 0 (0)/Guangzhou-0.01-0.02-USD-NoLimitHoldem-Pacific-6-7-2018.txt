@@ -1,0 +1,484 @@
+#Game No : 502800210
+***** 888poker Hand History for Game 502800210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:31:47
+Table Guangzhou 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $0.80 )
+Seat 9: tucanroman ( $2.01 )
+tucanroman posts small blind [$0.01]
+eyescrossed posts big blind [$0.02]
+** Dealing down cards **
+tucanroman raises [$0.05]
+eyescrossed calls [$0.04]
+** Dealing flop ** [ 5c, 5s, 3d ]
+eyescrossed checks
+tucanroman checks
+** Dealing turn ** [ 9c ]
+eyescrossed checks
+tucanroman checks
+** Dealing river ** [ Ah ]
+eyescrossed bets [$0.12]
+tucanroman calls [$0.12]
+** Summary **
+eyescrossed shows [ 5h, Kh ]
+tucanroman mucks [ Js, Ac ]
+eyescrossed collected [ $0.34 ]
+
+
+#Game No : 502800247
+***** 888poker Hand History for Game 502800247 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:32:02
+Table Guangzhou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $0.96 )
+Seat 6: kikingkp ( $2 )
+eyescrossed posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+eyescrossed calls [$0.01]
+kikingkp checks
+** Dealing flop ** [ 2c, 4h, 7d ]
+kikingkp bets [$0.02]
+eyescrossed folds
+** Summary **
+kikingkp did not show his hand
+kikingkp collected [ $0.04 ]
+
+
+#Game No : 502800261
+***** 888poker Hand History for Game 502800261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:32:15
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $0.94 )
+Seat 6: kikingkp ( $2.02 )
+kikingkp posts small blind [$0.01]
+eyescrossed posts big blind [$0.02]
+** Dealing down cards **
+kikingkp calls [$0.01]
+eyescrossed checks
+** Dealing flop ** [ 6c, 5c, Kd ]
+eyescrossed bets [$0.02]
+kikingkp raises [$0.10]
+eyescrossed calls [$0.08]
+** Dealing turn ** [ 5d ]
+eyescrossed bets [$0.02]
+kikingkp calls [$0.02]
+** Dealing river ** [ 3c ]
+eyescrossed bets [$0.02]
+kikingkp calls [$0.02]
+** Summary **
+eyescrossed shows [ Th, 6d ]
+kikingkp shows [ 8h, Ks ]
+kikingkp collected [ $0.30 ]
+
+
+#Game No : 502800295
+***** 888poker Hand History for Game 502800295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:32:54
+Table Guangzhou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $0.78 )
+Seat 6: kikingkp ( $2.16 )
+eyescrossed posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+eyescrossed raises [$0.05]
+kikingkp raises [$0.08]
+eyescrossed raises [$0.72]
+kikingkp calls [$0.68]
+** Dealing flop ** [ 5s, 6h, 9c ]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 3s ]
+** Summary **
+eyescrossed shows [ 6d, 6c ]
+kikingkp shows [ Qc, Ah ]
+eyescrossed collected [ $1.47 ]
+
+
+#Game No : 502800320
+***** 888poker Hand History for Game 502800320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:33:24
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $1.47 )
+Seat 6: kikingkp ( $1.38 )
+kikingkp posts small blind [$0.01]
+eyescrossed posts big blind [$0.02]
+** Dealing down cards **
+kikingkp folds
+** Summary **
+eyescrossed did not show his hand
+eyescrossed collected [ $0.03 ]
+
+
+#Game No : 502800326
+***** 888poker Hand History for Game 502800326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:33:29
+Table Guangzhou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $1.48 )
+Seat 6: kikingkp ( $1.37 )
+eyescrossed posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+eyescrossed calls [$0.01]
+kikingkp checks
+** Dealing flop ** [ 5h, 9d, Jh ]
+kikingkp checks
+eyescrossed bets [$0.04]
+kikingkp folds
+** Summary **
+eyescrossed did not show his hand
+eyescrossed collected [ $0.04 ]
+
+
+#Game No : 502800335
+***** 888poker Hand History for Game 502800335 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:33:42
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $1.50 )
+Seat 6: kikingkp ( $1.35 )
+kikingkp posts small blind [$0.01]
+eyescrossed posts big blind [$0.02]
+** Dealing down cards **
+kikingkp calls [$0.01]
+eyescrossed raises [$0.02]
+kikingkp calls [$0.02]
+** Dealing flop ** [ Qc, 9d, 6d ]
+eyescrossed bets [$0.02]
+kikingkp calls [$0.02]
+** Dealing turn ** [ 5c ]
+eyescrossed bets [$0.02]
+kikingkp calls [$0.02]
+** Dealing river ** [ Ah ]
+eyescrossed bets [$0.02]
+kikingkp raises [$0.22]
+eyescrossed calls [$0.20]
+** Summary **
+kikingkp shows [ Ac, 6c ]
+eyescrossed mucks [ Ad, Td ]
+kikingkp collected [ $0.57 ]
+
+
+#Game No : 502800364
+***** 888poker Hand History for Game 502800364 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:34:24
+Table Guangzhou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $1.20 )
+Seat 6: kikingkp ( $1.62 )
+eyescrossed posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+eyescrossed folds
+** Summary **
+kikingkp did not show his hand
+kikingkp collected [ $0.03 ]
+
+
+#Game No : 502800370
+***** 888poker Hand History for Game 502800370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:34:29
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: eyescrossed ( $1.19 )
+Seat 6: kikingkp ( $1.63 )
+kikingkp posts small blind [$0.01]
+eyescrossed posts big blind [$0.02]
+** Dealing down cards **
+kikingkp calls [$0.01]
+eyescrossed raises [$0.12]
+kikingkp calls [$0.12]
+** Dealing flop ** [ Ad, Qd, Kh ]
+eyescrossed bets [$1.05]
+kikingkp calls [$1.05]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 2c ]
+** Summary **
+eyescrossed shows [ As, Qc ]
+kikingkp shows [ 9d, 8d ]
+kikingkp collected [ $2.24 ]
+
+
+#Game No : 502800402
+***** 888poker Hand History for Game 502800402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:35:16
+Table Guangzhou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.68 )
+Seat 7: NiceCanadian ( $2 )
+NiceCanadian posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+NiceCanadian raises [$0.05]
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.04 ]
+
+
+#Game No : 502800409
+***** 888poker Hand History for Game 502800409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:35:27
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.66 )
+Seat 7: NiceCanadian ( $2.02 )
+kikingkp posts small blind [$0.01]
+NiceCanadian posts big blind [$0.02]
+** Dealing down cards **
+kikingkp calls [$0.01]
+NiceCanadian raises [$0.06]
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.04 ]
+
+
+#Game No : 502800422
+***** 888poker Hand History for Game 502800422 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:35:45
+Table Guangzhou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.64 )
+Seat 7: NiceCanadian ( $2.04 )
+NiceCanadian posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+NiceCanadian raises [$0.05]
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.04 ]
+
+
+#Game No : 502800435
+***** 888poker Hand History for Game 502800435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:36:02
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.62 )
+Seat 7: NiceCanadian ( $2.06 )
+kikingkp posts small blind [$0.01]
+NiceCanadian posts big blind [$0.02]
+** Dealing down cards **
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.03 ]
+
+
+#Game No : 502800444
+***** 888poker Hand History for Game 502800444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:36:11
+Table Guangzhou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.61 )
+Seat 7: NiceCanadian ( $2.07 )
+NiceCanadian posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+NiceCanadian raises [$0.05]
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.04 ]
+
+
+#Game No : 502800451
+***** 888poker Hand History for Game 502800451 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:36:22
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.59 )
+Seat 7: NiceCanadian ( $2.09 )
+kikingkp posts small blind [$0.01]
+NiceCanadian posts big blind [$0.02]
+** Dealing down cards **
+kikingkp calls [$0.01]
+NiceCanadian checks
+** Dealing flop ** [ 8c, 8h, Ad ]
+NiceCanadian checks
+kikingkp checks
+** Dealing turn ** [ 3c ]
+NiceCanadian bets [$0.04]
+kikingkp raises [$0.16]
+NiceCanadian folds
+** Summary **
+kikingkp did not show his hand
+kikingkp collected [ $0.12 ]
+
+
+#Game No : 502800485
+***** 888poker Hand History for Game 502800485 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:37:04
+Table Guangzhou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.65 )
+Seat 7: NiceCanadian ( $2.03 )
+NiceCanadian posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+NiceCanadian raises [$0.05]
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.04 ]
+
+
+#Game No : 502800495
+***** 888poker Hand History for Game 502800495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:37:19
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.63 )
+Seat 7: NiceCanadian ( $2.05 )
+kikingkp posts small blind [$0.01]
+NiceCanadian posts big blind [$0.02]
+** Dealing down cards **
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.03 ]
+
+
+#Game No : 502800499
+***** 888poker Hand History for Game 502800499 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:37:25
+Table Guangzhou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.62 )
+Seat 7: NiceCanadian ( $2.06 )
+NiceCanadian posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+NiceCanadian raises [$0.05]
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.04 ]
+
+
+#Game No : 502800516
+***** 888poker Hand History for Game 502800516 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:37:50
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.60 )
+Seat 7: NiceCanadian ( $2.08 )
+kikingkp posts small blind [$0.01]
+NiceCanadian posts big blind [$0.02]
+** Dealing down cards **
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.03 ]
+
+
+#Game No : 502800521
+***** 888poker Hand History for Game 502800521 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:37:58
+Table Guangzhou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.59 )
+Seat 7: NiceCanadian ( $2.09 )
+NiceCanadian posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+NiceCanadian raises [$0.05]
+kikingkp folds
+** Summary **
+NiceCanadian did not show his hand
+NiceCanadian collected [ $0.04 ]
+
+
+#Game No : 502800533
+***** 888poker Hand History for Game 502800533 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:38:07
+Table Guangzhou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.57 )
+Seat 7: NiceCanadian ( $2.11 )
+kikingkp posts small blind [$0.01]
+NiceCanadian posts big blind [$0.02]
+** Dealing down cards **
+kikingkp calls [$0.01]
+NiceCanadian raises [$0.04]
+kikingkp calls [$0.04]
+** Dealing flop ** [ Tc, 4c, Th ]
+NiceCanadian bets [$0.06]
+kikingkp calls [$0.06]
+** Dealing turn ** [ Ad ]
+NiceCanadian bets [$0.12]
+kikingkp raises [$0.24]
+NiceCanadian folds
+** Summary **
+kikingkp collected [ $0.45 ]
+
+
+#Game No : 502800571
+***** 888poker Hand History for Game 502800571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:39:06
+Table Guangzhou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: kikingkp ( $2.78 )
+Seat 7: NiceCanadian ( $2 )
+NiceCanadian posts small blind [$0.01]
+kikingkp posts big blind [$0.02]
+** Dealing down cards **
+NiceCanadian folds
+** Summary **
+kikingkp collected [ $0.03 ]
+
+
+#Game No : 502803203
+***** 888poker Hand History for Game 502803203 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 18:59:24
+Table Guangzhou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: topochiruso ( $0.56 )
+Seat 5: ganador168 ( $1.22 )
+topochiruso posts small blind [$0.01]
+ganador168 posts big blind [$0.02]
+** Dealing down cards **
+topochiruso calls [$0.01]
+ganador168 checks
+** Dealing flop ** [ Ah, Td, 8h ]
+ganador168 checks
+topochiruso bets [$0.04]
+ganador168 calls [$0.04]
+** Dealing turn ** [ 3d ]
+ganador168 checks
+topochiruso checks
+** Dealing river ** [ 9h ]
+ganador168 bets [$0.08]
+topochiruso folds
+** Summary **
+ganador168 collected [ $0.12 ]
+
+

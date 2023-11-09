@@ -1,0 +1,29 @@
+#Game No : 612206056
+***** 888poker Hand History for Game 612206056 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 12 2018 08:35:19
+Table Long Beach 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: RoyBigmac62 ( $2 )
+Seat 10: redore21 ( $1.20 )
+RoyBigmac62 posts small blind [$0.01]
+redore21 posts big blind [$0.02]
+** Dealing down cards **
+RoyBigmac62 calls [$0.01]
+redore21 checks
+** Dealing flop ** [ 8h, Tc, 3s ]
+redore21 checks
+RoyBigmac62 bets [$0.02]
+redore21 calls [$0.02]
+** Dealing turn ** [ 9s ]
+redore21 checks
+RoyBigmac62 checks
+** Dealing river ** [ 5h ]
+redore21 bets [$0.02]
+RoyBigmac62 calls [$0.02]
+** Summary **
+redore21 shows [ Ts, Jd ]
+RoyBigmac62 mucks [ 7h, Th ]
+redore21 collected [ $0.12 ]
+
+

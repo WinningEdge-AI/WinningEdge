@@ -1,0 +1,29 @@
+#Game No : 499103208
+***** 888poker Hand History for Game 499103208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 16:59:20
+Table Nis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dionekavalek ( $0.81 )
+Seat 6: chris5106 ( $3.62 )
+dionekavalek posts small blind [$0.01]
+chris5106 posts big blind [$0.02]
+** Dealing down cards **
+dionekavalek calls [$0.01]
+chris5106 checks
+** Dealing flop ** [ 4c, 3s, Kh ]
+chris5106 checks
+dionekavalek checks
+** Dealing turn ** [ 3h ]
+chris5106 checks
+dionekavalek bets [$0.02]
+chris5106 calls [$0.02]
+** Dealing river ** [ Jh ]
+chris5106 checks
+dionekavalek checks
+** Summary **
+chris5106 shows [ Ks, 2h ]
+dionekavalek mucks [ 5h, 4s ]
+chris5106 collected [ $0.08 ]
+
+

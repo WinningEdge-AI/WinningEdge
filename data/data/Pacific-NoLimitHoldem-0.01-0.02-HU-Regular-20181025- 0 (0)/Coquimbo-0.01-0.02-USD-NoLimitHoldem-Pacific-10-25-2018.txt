@@ -1,0 +1,101 @@
+#Game No : 508517826
+***** 888poker Hand History for Game 508517826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 05:18:14
+Table Coquimbo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: 1007ilya ( $0.80 )
+Seat 3: petr19600908 ( $2 )
+petr19600908 posts small blind [$0.01]
+1007ilya posts big blind [$0.02]
+** Dealing down cards **
+petr19600908 calls [$0.01]
+1007ilya checks
+** Dealing flop ** [ Td, 6h, Qs ]
+1007ilya bets [$0.02]
+petr19600908 folds
+** Summary **
+1007ilya did not show his hand
+1007ilya collected [ $0.04 ]
+
+
+#Game No : 508517834
+***** 888poker Hand History for Game 508517834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 05:18:25
+Table Coquimbo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 1007ilya ( $0.82 )
+Seat 3: petr19600908 ( $1.98 )
+1007ilya posts small blind [$0.01]
+petr19600908 posts big blind [$0.02]
+** Dealing down cards **
+1007ilya calls [$0.01]
+petr19600908 checks
+** Dealing flop ** [ Js, 2c, 4c ]
+petr19600908 checks
+1007ilya bets [$0.02]
+petr19600908 folds
+** Summary **
+1007ilya did not show his hand
+1007ilya collected [ $0.04 ]
+
+
+#Game No : 508517839
+***** 888poker Hand History for Game 508517839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 05:18:39
+Table Coquimbo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: 1007ilya ( $0.84 )
+Seat 3: petr19600908 ( $1.96 )
+petr19600908 posts small blind [$0.01]
+1007ilya posts big blind [$0.02]
+** Dealing down cards **
+petr19600908 calls [$0.01]
+1007ilya checks
+** Dealing flop ** [ 4d, 6c, Kh ]
+1007ilya checks
+petr19600908 checks
+** Dealing turn ** [ Ts ]
+1007ilya checks
+petr19600908 checks
+** Dealing river ** [ Jh ]
+1007ilya bets [$0.02]
+petr19600908 calls [$0.02]
+** Summary **
+1007ilya shows [ Qs, 8c ]
+petr19600908 mucks [ 5d, 9h ]
+1007ilya collected [ $0.08 ]
+
+
+#Game No : 508517857
+***** 888poker Hand History for Game 508517857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 05:19:05
+Table Coquimbo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 1007ilya ( $0.88 )
+Seat 3: petr19600908 ( $1.92 )
+1007ilya posts small blind [$0.01]
+petr19600908 posts big blind [$0.02]
+** Dealing down cards **
+1007ilya calls [$0.01]
+petr19600908 checks
+** Dealing flop ** [ 9s, Ts, 7c ]
+petr19600908 checks
+1007ilya checks
+** Dealing turn ** [ 8d ]
+petr19600908 checks
+1007ilya bets [$0.02]
+petr19600908 calls [$0.02]
+** Dealing river ** [ 3d ]
+petr19600908 checks
+1007ilya bets [$0.02]
+petr19600908 calls [$0.02]
+** Summary **
+1007ilya shows [ 6h, Kh ]
+petr19600908 mucks [ Qc, 7s ]
+1007ilya collected [ $0.12 ]
+
+

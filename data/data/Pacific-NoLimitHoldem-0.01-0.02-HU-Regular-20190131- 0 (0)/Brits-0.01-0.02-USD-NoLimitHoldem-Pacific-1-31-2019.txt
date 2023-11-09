@@ -1,0 +1,29 @@
+#Game No : 1244039263
+***** 888poker Hand History for Game 1244039263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 16:27:05
+Table Brits 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: greedpiccolo ( $2.08 )
+Seat 4: ccandiaw ( $1.29 )
+greedpiccolo posts small blind [$0.01]
+ccandiaw posts big blind [$0.02]
+** Dealing down cards **
+greedpiccolo raises [$0.05]
+ccandiaw raises [$0.16]
+greedpiccolo calls [$0.12]
+** Dealing flop ** [ Td, 7d, 5s ]
+ccandiaw bets [$0.25]
+greedpiccolo calls [$0.25]
+** Dealing turn ** [ 6c ]
+ccandiaw bets [$0.60]
+greedpiccolo calls [$0.60]
+** Dealing river ** [ 7h ]
+ccandiaw bets [$0.26]
+greedpiccolo calls [$0.26]
+** Summary **
+greedpiccolo shows [ 7s, 6s ]
+ccandiaw shows [ 9c, 9s ]
+greedpiccolo collected [ $2.42 ]
+
+

@@ -1,0 +1,85 @@
+#Game No : 512907381
+***** 888poker Hand History for Game 512907381 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 01:57:43
+Table Pori 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: dfc1000 ( $1 )
+Seat 4: vip.chapaev ( $1 )
+vip.chapaev posts small blind [$0.01]
+dfc1000 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev calls [$0.01]
+dfc1000 checks
+** Dealing flop ** [ Th, 3h, 9d ]
+dfc1000 checks
+vip.chapaev checks
+** Dealing turn ** [ Td ]
+dfc1000 checks
+vip.chapaev checks
+** Dealing river ** [ 3s ]
+dfc1000 checks
+vip.chapaev checks
+** Summary **
+dfc1000 shows [ 8s, 6c ]
+vip.chapaev shows [ 7s, Kc ]
+vip.chapaev collected [ $0.04 ]
+
+
+#Game No : 512912729
+***** 888poker Hand History for Game 512912729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 05:21:26
+Table Pori 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Dyusha9 ( $1.17 )
+Seat 9: vip.chapaev ( $2.94 )
+Dyusha9 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+Dyusha9 raises [$0.05]
+vip.chapaev calls [$0.04]
+** Dealing flop ** [ Qs, Js, Td ]
+vip.chapaev checks
+Dyusha9 bets [$0.06]
+vip.chapaev calls [$0.06]
+** Dealing turn ** [ 5h ]
+vip.chapaev checks
+Dyusha9 bets [$0.16]
+vip.chapaev folds
+** Summary **
+Dyusha9 collected [ $0.23 ]
+
+
+#Game No : 512912761
+***** 888poker Hand History for Game 512912761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 05:22:03
+Table Pori 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Nestaclarke ( $1 )
+Seat 4: Dyusha9 ( $1.28 )
+Dyusha9 posts small blind [$0.01]
+** Dealing down cards **
+Nestaclarke folds
+** Summary **
+Dyusha9 collected [ $0.01 ]
+
+
+#Game No : 512920534
+***** 888poker Hand History for Game 512920534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 08:06:26
+Table Pori 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: F1nans ( $2.74 )
+Seat 9: Nico5588 ( $1.49 )
+Nico5588 posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Nico5588 raises [$0.05]
+F1nans folds
+** Summary **
+Nico5588 collected [ $0.04 ]
+
+

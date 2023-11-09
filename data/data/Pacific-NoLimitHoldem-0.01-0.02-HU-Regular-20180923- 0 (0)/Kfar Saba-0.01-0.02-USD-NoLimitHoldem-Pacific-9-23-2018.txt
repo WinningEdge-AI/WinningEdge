@@ -1,0 +1,162 @@
+#Game No : 502810223
+***** 888poker Hand History for Game 502810223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 13:53:35
+Table Kfar Saba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: philosov01 ( $9.33 )
+Seat 6: ZABOKA14 ( $0.80 )
+ZABOKA14 posts small blind [$0.01]
+philosov01 posts big blind [$0.02]
+** Dealing down cards **
+ZABOKA14 calls [$0.01]
+philosov01 checks
+** Dealing flop ** [ 5s, Ah, Jd ]
+philosov01 checks
+ZABOKA14 checks
+** Dealing turn ** [ As ]
+philosov01 checks
+ZABOKA14 checks
+** Dealing river ** [ 5h ]
+philosov01 checks
+ZABOKA14 checks
+** Summary **
+philosov01 shows [ 8h, 3d ]
+ZABOKA14 shows [ 9c, 2c ]
+philosov01 collected [ $0.02 ]
+ZABOKA14 collected [ $0.02 ]
+
+
+#Game No : 502810826
+***** 888poker Hand History for Game 502810826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:04:07
+Table Kfar Saba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ZABOKA14 ( $0.80 )
+Seat 9: 3xxkk ( $3.08 )
+3xxkk posts small blind [$0.01]
+ZABOKA14 posts big blind [$0.02]
+** Dealing down cards **
+3xxkk calls [$0.01]
+ZABOKA14 checks
+** Dealing flop ** [ Qs, 8s, Kc ]
+ZABOKA14 checks
+3xxkk checks
+** Dealing turn ** [ 2c ]
+ZABOKA14 checks
+3xxkk checks
+** Dealing river ** [ Ah ]
+ZABOKA14 checks
+3xxkk checks
+** Summary **
+ZABOKA14 shows [ 9c, Jd ]
+3xxkk mucks [ 9h, Td ]
+ZABOKA14 collected [ $0.04 ]
+
+
+#Game No : 502810847
+***** 888poker Hand History for Game 502810847 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:04:29
+Table Kfar Saba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ZABOKA14 ( $0.82 )
+Seat 9: 3xxkk ( $3.06 )
+ZABOKA14 posts small blind [$0.01]
+3xxkk posts big blind [$0.02]
+** Dealing down cards **
+ZABOKA14 calls [$0.01]
+3xxkk raises [$3.04]
+ZABOKA14 calls [$0.80]
+** Dealing flop ** [ 8h, 8s, Jc ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 6s ]
+** Summary **
+ZABOKA14 shows [ Qh, 7h ]
+3xxkk shows [ Kd, Ks ]
+3xxkk collected [ $1.54 ]
+
+
+#Game No : 502811591
+***** 888poker Hand History for Game 502811591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:17:12
+Table Kfar Saba 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MightyScoop ( $1 )
+Seat 2: olegmel ( $1 )
+MightyScoop posts small blind [$0.01]
+olegmel posts big blind [$0.02]
+** Dealing down cards **
+MightyScoop calls [$0.01]
+olegmel checks
+** Dealing flop ** [ 9d, 7c, Qc ]
+olegmel bets [$0.02]
+MightyScoop folds
+** Summary **
+olegmel collected [ $0.04 ]
+
+
+#Game No : 502811600
+***** 888poker Hand History for Game 502811600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:17:21
+Table Kfar Saba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: MightyScoop ( $0.98 )
+Seat 2: olegmel ( $1.02 )
+olegmel posts small blind [$0.01]
+MightyScoop posts big blind [$0.02]
+** Dealing down cards **
+olegmel calls [$0.01]
+MightyScoop checks
+** Dealing flop ** [ 7d, Jc, As ]
+MightyScoop checks
+olegmel checks
+** Dealing turn ** [ 9d ]
+MightyScoop checks
+olegmel checks
+** Dealing river ** [ 3d ]
+MightyScoop checks
+olegmel checks
+** Summary **
+MightyScoop shows [ 2s, 2h ]
+olegmel mucks [ Ks, 8h ]
+MightyScoop collected [ $0.04 ]
+
+
+#Game No : 502813302
+***** 888poker Hand History for Game 502813302 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:55:05
+Table Kfar Saba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Qards ( $1.49 )
+Seat 6: ciungis666 ( $1.09 )
+ciungis666 posts small blind [$0.01]
+Qards posts big blind [$0.02]
+** Dealing down cards **
+ciungis666 folds
+** Summary **
+Qards collected [ $0.03 ]
+
+
+#Game No : 502813312
+***** 888poker Hand History for Game 502813312 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:55:16
+Table Kfar Saba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Qards ( $1.50 )
+Seat 6: ciungis666 ( $1.08 )
+Qards posts small blind [$0.01]
+ciungis666 posts big blind [$0.02]
+** Dealing down cards **
+Qards raises [$0.03]
+ciungis666 folds
+** Summary **
+Qards did not show his hand
+Qards collected [ $0.04 ]
+
+

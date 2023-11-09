@@ -1,0 +1,314 @@
+#Game No : 531126233
+***** 888poker Hand History for Game 531126233 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:10:08
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Akhenatenn ( $1 )
+Seat 7: AGbee ( $0.93 )
+Akhenatenn posts small blind [$0.01]
+AGbee posts big blind [$0.02]
+** Dealing down cards **
+Akhenatenn raises [$0.07]
+AGbee calls [$0.06]
+** Dealing flop ** [ 4c, 9h, Jd ]
+AGbee checks
+Akhenatenn bets [$0.16]
+AGbee calls [$0.16]
+** Dealing turn ** [ 7d ]
+AGbee checks
+Akhenatenn bets [$0.48]
+AGbee raises [$0.69]
+Akhenatenn calls [$0.21]
+** Dealing river ** [ Qh ]
+** Summary **
+Akhenatenn shows [ Kh, Th ]
+AGbee shows [ 8c, 7s ]
+Akhenatenn collected [ $1.75 ]
+
+
+#Game No : 531126263
+***** 888poker Hand History for Game 531126263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:10:43
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Akhenatenn ( $1.82 )
+Seat 9: Qdomanator ( $1 )
+Qdomanator posts small blind [$0.01]
+Akhenatenn posts big blind [$0.02]
+** Dealing down cards **
+Qdomanator calls [$0.01]
+Akhenatenn raises [$0.12]
+Qdomanator calls [$0.12]
+** Dealing flop ** [ 5s, 3h, 3c ]
+Akhenatenn bets [$0.28]
+Qdomanator calls [$0.28]
+** Dealing turn ** [ 7d ]
+Akhenatenn bets [$1.40]
+Qdomanator calls [$0.58]
+** Dealing river ** [ Kh ]
+** Summary **
+Akhenatenn shows [ Td, Tc ]
+Qdomanator shows [ Ac, Qd ]
+Akhenatenn collected [ $1.88 ]
+
+
+#Game No : 531126366
+***** 888poker Hand History for Game 531126366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:12:45
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: nydb130 ( $0.96 )
+Seat 7: AGbee ( $0.85 )
+AGbee posts small blind [$0.01]
+nydb130 posts big blind [$0.02]
+** Dealing down cards **
+AGbee raises [$0.03]
+nydb130 calls [$0.02]
+** Dealing flop ** [ Js, Jh, 5h ]
+nydb130 bets [$0.02]
+AGbee raises [$0.04]
+nydb130 raises [$0.04]
+AGbee raises [$0.04]
+nydb130 raises [$0.04]
+AGbee raises [$0.73]
+nydb130 calls [$0.71]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 8h ]
+** Summary **
+nydb130 shows [ Qd, Jd ]
+AGbee shows [ Kh, Kc ]
+nydb130 collected [ $1.60 ]
+
+
+#Game No : 531126399
+***** 888poker Hand History for Game 531126399 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:13:36
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nydb130 ( $1.71 )
+Seat 2: ALitvinau ( $0.80 )
+nydb130 posts small blind [$0.01]
+ALitvinau posts big blind [$0.02]
+** Dealing down cards **
+nydb130 calls [$0.01]
+ALitvinau checks
+** Dealing flop ** [ 2d, Js, As ]
+ALitvinau bets [$0.02]
+nydb130 folds
+** Summary **
+ALitvinau did not show his hand
+ALitvinau collected [ $0.04 ]
+
+
+#Game No : 531126415
+***** 888poker Hand History for Game 531126415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:13:59
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: nydb130 ( $1.69 )
+Seat 2: ALitvinau ( $0.82 )
+ALitvinau posts small blind [$0.01]
+nydb130 posts big blind [$0.02]
+** Dealing down cards **
+ALitvinau raises [$0.03]
+nydb130 calls [$0.02]
+** Dealing flop ** [ Td, 4s, Kh ]
+nydb130 bets [$0.02]
+ALitvinau calls [$0.02]
+** Dealing turn ** [ 9h ]
+nydb130 bets [$0.02]
+ALitvinau calls [$0.02]
+** Dealing river ** [ 5c ]
+nydb130 bets [$0.02]
+ALitvinau calls [$0.02]
+** Summary **
+nydb130 shows [ Ks, 5s ]
+ALitvinau mucks [ 5d, As ]
+nydb130 collected [ $0.19 ]
+
+
+#Game No : 531126438
+***** 888poker Hand History for Game 531126438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:14:29
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nydb130 ( $1.78 )
+Seat 2: ALitvinau ( $0.72 )
+nydb130 posts small blind [$0.01]
+ALitvinau posts big blind [$0.02]
+** Dealing down cards **
+nydb130 calls [$0.01]
+ALitvinau checks
+** Dealing flop ** [ As, 2h, 7h ]
+ALitvinau bets [$0.02]
+nydb130 calls [$0.02]
+** Dealing turn ** [ 4h ]
+ALitvinau bets [$0.02]
+nydb130 calls [$0.02]
+** Dealing river ** [ Ah ]
+ALitvinau checks
+nydb130 checks
+** Summary **
+ALitvinau shows [ Tc, Ks ]
+nydb130 shows [ Kh, 4s ]
+nydb130 collected [ $0.12 ]
+
+
+#Game No : 531126455
+***** 888poker Hand History for Game 531126455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:14:57
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: nydb130 ( $1.84 )
+Seat 2: ALitvinau ( $0.66 )
+ALitvinau posts small blind [$0.01]
+nydb130 posts big blind [$0.02]
+** Dealing down cards **
+ALitvinau folds
+** Summary **
+nydb130 did not show his hand
+nydb130 collected [ $0.03 ]
+
+
+#Game No : 531126461
+***** 888poker Hand History for Game 531126461 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:15:02
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nydb130 ( $1.85 )
+Seat 2: ALitvinau ( $0.65 )
+nydb130 posts small blind [$0.01]
+ALitvinau posts big blind [$0.02]
+** Dealing down cards **
+nydb130 calls [$0.01]
+ALitvinau checks
+** Dealing flop ** [ Td, Qd, 8s ]
+ALitvinau checks
+nydb130 checks
+** Dealing turn ** [ 6h ]
+ALitvinau bets [$0.02]
+nydb130 raises [$0.04]
+ALitvinau folds
+** Summary **
+nydb130 did not show his hand
+nydb130 collected [ $0.08 ]
+
+
+#Game No : 531126475
+***** 888poker Hand History for Game 531126475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:15:25
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: nydb130 ( $1.89 )
+Seat 2: ALitvinau ( $0.61 )
+ALitvinau posts small blind [$0.01]
+nydb130 posts big blind [$0.02]
+** Dealing down cards **
+ALitvinau raises [$0.03]
+nydb130 calls [$0.02]
+** Dealing flop ** [ 6c, 9d, Ks ]
+nydb130 bets [$0.02]
+ALitvinau calls [$0.02]
+** Dealing turn ** [ 9c ]
+nydb130 bets [$0.02]
+ALitvinau calls [$0.02]
+** Dealing river ** [ Tc ]
+nydb130 bets [$0.02]
+ALitvinau raises [$0.53]
+nydb130 calls [$0.51]
+** Summary **
+nydb130 shows [ 6h, Ad ]
+ALitvinau shows [ 5c, 7c ]
+ALitvinau collected [ $1.15 ]
+
+
+#Game No : 531128153
+***** 888poker Hand History for Game 531128153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:55:12
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jacknotwinn1 ( $0.90 )
+Seat 7: richbranson ( $2.26 )
+jacknotwinn1 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+jacknotwinn1 folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.03 ]
+
+
+#Game No : 531128159
+***** 888poker Hand History for Game 531128159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:55:19
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: jacknotwinn1 ( $0.89 )
+Seat 7: richbranson ( $2.27 )
+richbranson posts small blind [$0.01]
+jacknotwinn1 posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+jacknotwinn1 calls [$0.04]
+** Dealing flop ** [ Kh, 9h, Qh ]
+jacknotwinn1 checks
+richbranson checks
+** Dealing turn ** [ 5s ]
+jacknotwinn1 checks
+richbranson bets [$0.08]
+jacknotwinn1 calls [$0.08]
+** Dealing river ** [ 8d ]
+jacknotwinn1 bets [$0.22]
+richbranson folds
+** Summary **
+jacknotwinn1 did not show his hand
+jacknotwinn1 collected [ $0.27 ]
+
+
+#Game No : 531128194
+***** 888poker Hand History for Game 531128194 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:56:17
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jacknotwinn1 ( $1.02 )
+Seat 7: richbranson ( $2.13 )
+jacknotwinn1 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+jacknotwinn1 raises [$0.09]
+richbranson folds
+** Summary **
+jacknotwinn1 did not show his hand
+jacknotwinn1 collected [ $0.04 ]
+
+
+#Game No : 531128218
+***** 888poker Hand History for Game 531128218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:56:56
+Table Dzerzhinsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: jacknotwinn1 ( $1.04 )
+Seat 7: richbranson ( $2.11 )
+richbranson posts small blind [$0.01]
+jacknotwinn1 posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+jacknotwinn1 folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.04 ]
+
+

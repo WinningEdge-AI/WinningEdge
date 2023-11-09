@@ -1,0 +1,466 @@
+#Game No : 502885435
+***** 888poker Hand History for Game 502885435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 05:46:50
+Table Cascavel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Alex.btk ( $0.81 )
+Seat 6: Taki401 ( $1.05 )
+Taki401 posts small blind [$0.01]
+Alex.btk posts big blind [$0.02]
+** Dealing down cards **
+Taki401 calls [$0.01]
+Alex.btk raises [$0.08]
+Taki401 calls [$0.08]
+** Dealing flop ** [ 5s, 4h, 5h ]
+Alex.btk bets [$0.08]
+Taki401 calls [$0.08]
+** Dealing turn ** [ 7s ]
+Alex.btk bets [$0.12]
+Taki401 calls [$0.12]
+** Dealing river ** [ 5c ]
+Alex.btk bets [$0.28]
+Taki401 folds
+** Summary **
+Alex.btk collected [ $0.57 ]
+
+
+#Game No : 502885463
+***** 888poker Hand History for Game 502885463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 05:47:24
+Table Cascavel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Alex.btk ( $1.08 )
+Seat 6: Taki401 ( $0.75 )
+Alex.btk posts small blind [$0.01]
+Taki401 posts big blind [$0.02]
+** Dealing down cards **
+Alex.btk folds
+** Summary **
+Taki401 collected [ $0.03 ]
+
+
+#Game No : 502886568
+***** 888poker Hand History for Game 502886568 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:11:32
+Table Cascavel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 6: Taki401 ( $0.33 )
+Seat 9: union455 ( $1 )
+Taki401 posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+Taki401 calls [$0.01]
+union455 checks
+** Dealing flop ** [ 6c, Ad, 4c ]
+Taki401 bets [$0.02]
+union455 folds
+** Summary **
+Taki401 did not show his hand
+Taki401 collected [ $0.04 ]
+
+
+#Game No : 502886580
+***** 888poker Hand History for Game 502886580 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:11:48
+Table Cascavel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Taki401 ( $0.35 )
+Seat 9: union455 ( $1 )
+Taki401 posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+Taki401 calls [$0.01]
+union455 checks
+** Dealing flop ** [ As, 4s, Kc ]
+union455 bets [$0.02]
+Taki401 calls [$0.02]
+** Dealing turn ** [ 5d ]
+union455 bets [$0.02]
+Taki401 calls [$0.02]
+** Dealing river ** [ Th ]
+union455 bets [$0.02]
+Taki401 calls [$0.02]
+** Summary **
+union455 shows [ 4d, 9s ]
+Taki401 shows [ Kd, 8c ]
+Taki401 collected [ $0.15 ]
+
+
+#Game No : 502886603
+***** 888poker Hand History for Game 502886603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:12:17
+Table Cascavel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Taki401 ( $0.42 )
+Seat 9: union455 ( $1 )
+union455 posts small blind [$0.01]
+Taki401 posts big blind [$0.02]
+** Dealing down cards **
+union455 calls [$0.01]
+Taki401 checks
+** Dealing flop ** [ 4h, Js, 6h ]
+Taki401 checks
+union455 checks
+** Dealing turn ** [ Td ]
+Taki401 checks
+union455 checks
+** Dealing river ** [ Kd ]
+Taki401 checks
+union455 checks
+** Summary **
+Taki401 shows [ Ad, 8h ]
+union455 mucks [ Qh, 8s ]
+Taki401 collected [ $0.04 ]
+
+
+#Game No : 502886626
+***** 888poker Hand History for Game 502886626 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:12:48
+Table Cascavel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Taki401 ( $0.44 )
+Seat 9: union455 ( $1 )
+Taki401 posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+Taki401 calls [$0.01]
+union455 checks
+** Dealing flop ** [ 9h, 4s, 7s ]
+union455 checks
+Taki401 bets [$0.02]
+union455 folds
+** Summary **
+Taki401 did not show his hand
+Taki401 collected [ $0.04 ]
+
+
+#Game No : 502886646
+***** 888poker Hand History for Game 502886646 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:13:11
+Table Cascavel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Taki401 ( $0.46 )
+Seat 9: union455 ( $1 )
+union455 posts small blind [$0.01]
+Taki401 posts big blind [$0.02]
+** Dealing down cards **
+union455 raises [$0.05]
+Taki401 calls [$0.04]
+** Dealing flop ** [ Js, 3s, 2s ]
+Taki401 checks
+union455 checks
+** Dealing turn ** [ 4h ]
+Taki401 checks
+union455 bets [$0.06]
+Taki401 folds
+** Summary **
+union455 did not show his hand
+union455 collected [ $0.12 ]
+
+
+#Game No : 502886674
+***** 888poker Hand History for Game 502886674 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:13:48
+Table Cascavel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Taki401 ( $0.40 )
+Seat 9: union455 ( $1.06 )
+Taki401 posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+Taki401 calls [$0.01]
+union455 checks
+** Dealing flop ** [ Ad, Kh, 2s ]
+union455 checks
+Taki401 checks
+** Dealing turn ** [ Qc ]
+union455 checks
+Taki401 bets [$0.02]
+union455 folds
+** Summary **
+Taki401 did not show his hand
+Taki401 collected [ $0.04 ]
+
+
+#Game No : 502886700
+***** 888poker Hand History for Game 502886700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:14:19
+Table Cascavel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Taki401 ( $0.42 )
+Seat 9: union455 ( $1.04 )
+union455 posts small blind [$0.01]
+Taki401 posts big blind [$0.02]
+** Dealing down cards **
+union455 raises [$0.05]
+Taki401 calls [$0.04]
+** Dealing flop ** [ 8c, 5h, Th ]
+Taki401 bets [$0.02]
+union455 raises [$0.10]
+Taki401 calls [$0.08]
+** Dealing turn ** [ Jd ]
+Taki401 bets [$0.26]
+union455 calls [$0.26]
+** Dealing river ** [ 3c ]
+** Summary **
+Taki401 shows [ Js, Qh ]
+union455 shows [ 2h, Ah ]
+Taki401 collected [ $0.79 ]
+
+
+#Game No : 502886721
+***** 888poker Hand History for Game 502886721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:14:50
+Table Cascavel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Taki401 ( $0.79 )
+Seat 9: union455 ( $1 )
+Taki401 posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+Taki401 folds
+** Summary **
+union455 collected [ $0.03 ]
+
+
+#Game No : 502887658
+***** 888poker Hand History for Game 502887658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:37:03
+Table Cascavel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: WhatAHell ( $0.90 )
+Seat 9: union455 ( $2.49 )
+WhatAHell posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+WhatAHell calls [$0.01]
+union455 raises [$0.04]
+WhatAHell folds
+** Summary **
+union455 did not show his hand
+union455 collected [ $0.04 ]
+
+
+#Game No : 502887673
+***** 888poker Hand History for Game 502887673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:37:22
+Table Cascavel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: WhatAHell ( $0.88 )
+Seat 9: union455 ( $2.51 )
+union455 posts small blind [$0.01]
+WhatAHell posts big blind [$0.02]
+** Dealing down cards **
+union455 calls [$0.01]
+WhatAHell checks
+** Dealing flop ** [ Qh, 5c, 3d ]
+WhatAHell checks
+union455 checks
+** Dealing turn ** [ 8d ]
+WhatAHell checks
+union455 checks
+** Dealing river ** [ Ts ]
+WhatAHell checks
+union455 checks
+** Summary **
+WhatAHell shows [ 7d, 7s ]
+union455 mucks [ Ac, 9d ]
+WhatAHell collected [ $0.04 ]
+
+
+#Game No : 502887717
+***** 888poker Hand History for Game 502887717 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 06:38:07
+Table Cascavel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: WhatAHell ( $0.90 )
+Seat 9: union455 ( $2.49 )
+WhatAHell posts small blind [$0.01]
+union455 posts big blind [$0.02]
+** Dealing down cards **
+WhatAHell calls [$0.01]
+union455 checks
+** Dealing flop ** [ Ah, Qs, 9d ]
+union455 checks
+WhatAHell checks
+** Dealing turn ** [ 4s ]
+union455 checks
+WhatAHell checks
+** Dealing river ** [ Jh ]
+union455 checks
+WhatAHell checks
+** Summary **
+union455 shows [ 3d, 2s ]
+WhatAHell shows [ 7s, Ts ]
+WhatAHell collected [ $0.04 ]
+
+
+#Game No : 502897476
+***** 888poker Hand History for Game 502897476 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 09:40:54
+Table Cascavel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 3bet727 ( $1.63 )
+Seat 4: vityel ( $1.21 )
+3bet727 posts small blind [$0.01]
+vityel posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.05]
+vityel calls [$0.04]
+** Dealing flop ** [ 2s, 2h, 4s ]
+vityel checks
+3bet727 checks
+** Dealing turn ** [ 3c ]
+vityel bets [$0.06]
+3bet727 folds
+** Summary **
+vityel collected [ $0.12 ]
+
+
+#Game No : 502898343
+***** 888poker Hand History for Game 502898343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 09:55:21
+Table Cascavel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 3bet727 ( $2.05 )
+Seat 2: Skyluck11 ( $1 )
+3bet727 posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.05]
+Skyluck11 folds
+** Summary **
+3bet727 collected [ $0.04 ]
+
+
+#Game No : 502898351
+***** 888poker Hand History for Game 502898351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 09:55:30
+Table Cascavel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 3bet727 ( $2.07 )
+Seat 2: Skyluck11 ( $0.98 )
+Skyluck11 posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+3bet727 calls [$0.04]
+** Dealing flop ** [ 7c, 5d, As ]
+3bet727 checks
+Skyluck11 bets [$0.06]
+3bet727 folds
+** Summary **
+Skyluck11 collected [ $0.12 ]
+
+
+#Game No : 502898370
+***** 888poker Hand History for Game 502898370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 09:55:48
+Table Cascavel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 3bet727 ( $2.01 )
+Seat 2: Skyluck11 ( $1.04 )
+3bet727 posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.05]
+Skyluck11 calls [$0.04]
+** Dealing flop ** [ 7h, Qh, 3c ]
+Skyluck11 checks
+3bet727 checks
+** Dealing turn ** [ 3s ]
+Skyluck11 checks
+3bet727 checks
+** Dealing river ** [ 4s ]
+Skyluck11 checks
+3bet727 checks
+** Summary **
+Skyluck11 shows [ Jc, Td ]
+3bet727 mucks [ 8c, 2d ]
+Skyluck11 collected [ $0.12 ]
+
+
+#Game No : 502898405
+***** 888poker Hand History for Game 502898405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 09:56:20
+Table Cascavel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 3bet727 ( $1.95 )
+Seat 2: Skyluck11 ( $1.10 )
+Skyluck11 posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+3bet727 collected [ $0.03 ]
+
+
+#Game No : 502905749
+***** 888poker Hand History for Game 502905749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 11:52:56
+Table Cascavel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $3.75 )
+Seat 7: GabiHoldem ( $3.53 )
+88Velis88 posts small blind [$0.01]
+GabiHoldem posts big blind [$0.02]
+** Dealing down cards **
+88Velis88 raises [$0.05]
+GabiHoldem folds
+** Summary **
+88Velis88 did not show his hand
+88Velis88 collected [ $0.04 ]
+
+
+#Game No : 502905756
+***** 888poker Hand History for Game 502905756 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 11:53:05
+Table Cascavel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $3.77 )
+Seat 7: GabiHoldem ( $3.51 )
+GabiHoldem posts small blind [$0.01]
+88Velis88 posts big blind [$0.02]
+** Dealing down cards **
+GabiHoldem folds
+** Summary **
+88Velis88 did not show his hand
+88Velis88 collected [ $0.03 ]
+
+
+#Game No : 502905774
+***** 888poker Hand History for Game 502905774 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 11:53:15
+Table Cascavel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 88Velis88 ( $3.78 )
+Seat 7: GabiHoldem ( $3.50 )
+88Velis88 posts small blind [$0.01]
+** Dealing down cards **
+GabiHoldem folds
+** Summary **
+88Velis88 did not show his hand
+88Velis88 collected [ $0.01 ]
+
+

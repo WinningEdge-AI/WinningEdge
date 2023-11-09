@@ -1,0 +1,50 @@
+#Game No : 455360577
+***** 888poker Hand History for Game 455360577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 01:43:31
+Table Creteil 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bedrah10 ( $0.68 )
+Seat 4: Berniek72 ( $0.29 )
+Bedrah10 posts small blind [$0.01]
+Berniek72 posts big blind [$0.02]
+** Dealing down cards **
+Bedrah10 raises [$0.67]
+Berniek72 calls [$0.27]
+** Dealing flop ** [ Tc, 3d, 5c ]
+** Dealing turn ** [ As ]
+** Dealing river ** [ 9c ]
+** Summary **
+Bedrah10 shows [ Jh, Qc ]
+Berniek72 shows [ Kh, Td ]
+Berniek72 collected [ $0.55 ]
+
+
+#Game No : 455360587
+***** 888poker Hand History for Game 455360587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 01:43:51
+Table Creteil 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bedrah10 ( $0.39 )
+Seat 4: Berniek72 ( $0.55 )
+Berniek72 posts small blind [$0.01]
+Bedrah10 posts big blind [$0.02]
+** Dealing down cards **
+Berniek72 calls [$0.01]
+Bedrah10 checks
+** Dealing flop ** [ 6c, Td, 9c ]
+Bedrah10 bets [$0.04]
+Berniek72 calls [$0.04]
+** Dealing turn ** [ 9h ]
+Bedrah10 bets [$0.12]
+Berniek72 raises [$0.24]
+Bedrah10 raises [$0.21]
+Berniek72 calls [$0.09]
+** Dealing river ** [ 8h ]
+** Summary **
+Bedrah10 shows [ Th, 3c ]
+Berniek72 shows [ 8d, 9d ]
+Berniek72 collected [ $0.74 ]
+
+

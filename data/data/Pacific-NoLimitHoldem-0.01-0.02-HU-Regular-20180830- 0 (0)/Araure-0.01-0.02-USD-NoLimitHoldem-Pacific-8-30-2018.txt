@@ -1,0 +1,564 @@
+#Game No : 501633358
+***** 888poker Hand History for Game 501633358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:28:46
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: WilliDonner ( $1 )
+Seat 4: Sudik ( $1 )
+Sudik posts small blind [$0.01]
+WilliDonner posts big blind [$0.02]
+** Dealing down cards **
+Sudik raises [$0.03]
+WilliDonner calls [$0.02]
+** Dealing flop ** [ 8s, 3c, Qs ]
+WilliDonner bets [$0.16]
+Sudik folds
+** Summary **
+WilliDonner collected [ $0.08 ]
+
+
+#Game No : 501633376
+***** 888poker Hand History for Game 501633376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:29:07
+Table Araure 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WilliDonner ( $1.04 )
+Seat 4: Sudik ( $1 )
+WilliDonner posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+WilliDonner calls [$0.01]
+Sudik checks
+** Dealing flop ** [ 2c, 3c, Ah ]
+Sudik checks
+WilliDonner bets [$0.06]
+Sudik folds
+** Summary **
+WilliDonner did not show his hand
+WilliDonner collected [ $0.04 ]
+
+
+#Game No : 501633389
+***** 888poker Hand History for Game 501633389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:29:36
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: WilliDonner ( $1.06 )
+Seat 4: Sudik ( $1 )
+Sudik posts small blind [$0.01]
+WilliDonner posts big blind [$0.02]
+** Dealing down cards **
+Sudik calls [$0.01]
+WilliDonner raises [$0.08]
+Sudik calls [$0.08]
+** Dealing flop ** [ 4d, 5h, Qh ]
+WilliDonner bets [$0.20]
+Sudik folds
+** Summary **
+WilliDonner collected [ $0.19 ]
+
+
+#Game No : 501633406
+***** 888poker Hand History for Game 501633406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:30:13
+Table Araure 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Sudik ( $1 )
+Seat 6: samspooner ( $0.80 )
+Sudik posts small blind [$0.01]
+samspooner posts big blind [$0.02]
+** Dealing down cards **
+Sudik folds
+** Summary **
+samspooner did not show his hand
+samspooner collected [ $0.03 ]
+
+
+#Game No : 501633411
+***** 888poker Hand History for Game 501633411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:30:22
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sudik ( $1 )
+Seat 6: samspooner ( $0.81 )
+Sudik posts small blind [$0.01]
+samspooner posts big blind [$0.02]
+** Dealing down cards **
+Sudik raises [$0.03]
+samspooner calls [$0.02]
+** Dealing flop ** [ Jd, 6s, Ah ]
+samspooner checks
+Sudik bets [$0.02]
+samspooner calls [$0.02]
+** Dealing turn ** [ 3c ]
+samspooner checks
+Sudik bets [$0.02]
+samspooner calls [$0.02]
+** Dealing river ** [ 4s ]
+samspooner checks
+Sudik checks
+** Summary **
+samspooner shows [ Ts, Qh ]
+Sudik shows [ Qs, 6c ]
+Sudik collected [ $0.15 ]
+
+
+#Game No : 501633425
+***** 888poker Hand History for Game 501633425 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:30:49
+Table Araure 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Sudik ( $1.07 )
+Seat 6: samspooner ( $0.73 )
+samspooner posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+samspooner calls [$0.01]
+Sudik raises [$0.06]
+samspooner raises [$0.71]
+Sudik calls [$0.65]
+** Dealing flop ** [ 9c, As, Js ]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ Jh ]
+** Summary **
+Sudik shows [ Qs, Ah ]
+samspooner shows [ Ts, Qc ]
+Sudik collected [ $1.37 ]
+
+
+#Game No : 501633450
+***** 888poker Hand History for Game 501633450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:31:38
+Table Araure 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Sudik ( $1.73 )
+Seat 6: samspooner ( $0.78 )
+samspooner posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+samspooner calls [$0.01]
+Sudik checks
+** Dealing flop ** [ Jh, 4h, 4d ]
+Sudik checks
+samspooner bets [$0.02]
+Sudik calls [$0.02]
+** Dealing turn ** [ 8s ]
+Sudik checks
+samspooner bets [$0.02]
+Sudik calls [$0.02]
+** Dealing river ** [ 4c ]
+Sudik checks
+samspooner bets [$0.38]
+Sudik folds
+** Summary **
+samspooner collected [ $0.12 ]
+
+
+#Game No : 501633535
+***** 888poker Hand History for Game 501633535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:34:15
+Table Araure 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BuTeK10 ( $1.03 )
+Seat 4: Sudik ( $2.37 )
+BuTeK10 posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+BuTeK10 folds
+** Summary **
+Sudik collected [ $0.03 ]
+
+
+#Game No : 501633539
+***** 888poker Hand History for Game 501633539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:34:20
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: BuTeK10 ( $1.02 )
+Seat 4: Sudik ( $2.38 )
+Sudik posts small blind [$0.01]
+BuTeK10 posts big blind [$0.02]
+** Dealing down cards **
+Sudik folds
+** Summary **
+BuTeK10 collected [ $0.03 ]
+
+
+#Game No : 501633544
+***** 888poker Hand History for Game 501633544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:34:25
+Table Araure 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BuTeK10 ( $1.03 )
+Seat 4: Sudik ( $2.37 )
+BuTeK10 posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+BuTeK10 folds
+** Summary **
+Sudik collected [ $0.03 ]
+
+
+#Game No : 501633552
+***** 888poker Hand History for Game 501633552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:34:30
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: BuTeK10 ( $1.02 )
+Seat 4: Sudik ( $2.38 )
+Sudik posts small blind [$0.01]
+BuTeK10 posts big blind [$0.02]
+** Dealing down cards **
+Sudik calls [$0.01]
+BuTeK10 checks
+** Dealing flop ** [ 6s, 5h, Js ]
+BuTeK10 checks
+Sudik bets [$0.02]
+BuTeK10 folds
+** Summary **
+Sudik collected [ $0.04 ]
+
+
+#Game No : 501633559
+***** 888poker Hand History for Game 501633559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:34:47
+Table Araure 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BuTeK10 ( $1 )
+Seat 4: Sudik ( $2.40 )
+BuTeK10 posts small blind [$0.01]
+** Dealing down cards **
+Sudik folds
+** Summary **
+BuTeK10 collected [ $0.01 ]
+
+
+#Game No : 501633591
+***** 888poker Hand History for Game 501633591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:35:50
+Table Araure 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Sudik ( $2.40 )
+Seat 7: Rodnev ( $0.80 )
+Rodnev posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+Rodnev raises [$0.05]
+Sudik calls [$0.04]
+** Dealing flop ** [ 6h, Jd, Kd ]
+Sudik checks
+Rodnev bets [$0.06]
+Sudik folds
+** Summary **
+Rodnev did not show his hand
+Rodnev collected [ $0.12 ]
+
+
+#Game No : 501633599
+***** 888poker Hand History for Game 501633599 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:36:07
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sudik ( $2.34 )
+Seat 7: Rodnev ( $0.86 )
+Sudik posts small blind [$0.01]
+Rodnev posts big blind [$0.02]
+** Dealing down cards **
+Sudik folds
+** Summary **
+Rodnev did not show his hand
+Rodnev collected [ $0.03 ]
+
+
+#Game No : 501633603
+***** 888poker Hand History for Game 501633603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:36:12
+Table Araure 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Sudik ( $2.33 )
+Seat 7: Rodnev ( $0.87 )
+Rodnev posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+Rodnev calls [$0.01]
+Sudik checks
+** Dealing flop ** [ 5h, 9d, 5s ]
+Sudik checks
+Rodnev checks
+** Dealing turn ** [ 4h ]
+Sudik bets [$0.02]
+Rodnev calls [$0.02]
+** Dealing river ** [ Kd ]
+Sudik bets [$0.07]
+Rodnev folds
+** Summary **
+Sudik did not show his hand
+Sudik collected [ $0.08 ]
+
+
+#Game No : 501633614
+***** 888poker Hand History for Game 501633614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:36:33
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sudik ( $2.37 )
+Seat 7: Rodnev ( $0.83 )
+Sudik posts small blind [$0.01]
+Rodnev posts big blind [$0.02]
+** Dealing down cards **
+Sudik folds
+** Summary **
+Rodnev did not show his hand
+Rodnev collected [ $0.03 ]
+
+
+#Game No : 501633619
+***** 888poker Hand History for Game 501633619 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:36:38
+Table Araure 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Sudik ( $2.36 )
+Seat 7: Rodnev ( $0.84 )
+Rodnev posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+Rodnev raises [$0.05]
+Sudik calls [$0.04]
+** Dealing flop ** [ 2d, Ad, 7c ]
+Sudik checks
+Rodnev bets [$0.06]
+Sudik calls [$0.06]
+** Dealing turn ** [ 9s ]
+Sudik checks
+Rodnev checks
+** Dealing river ** [ 3d ]
+Sudik checks
+Rodnev bets [$0.14]
+Sudik folds
+** Summary **
+Rodnev did not show his hand
+Rodnev collected [ $0.23 ]
+
+
+#Game No : 501633635
+***** 888poker Hand History for Game 501633635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:37:08
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sudik ( $2.24 )
+Seat 7: Rodnev ( $0.95 )
+Sudik posts small blind [$0.01]
+Rodnev posts big blind [$0.02]
+** Dealing down cards **
+Sudik raises [$0.05]
+Rodnev folds
+** Summary **
+Sudik did not show his hand
+Sudik collected [ $0.04 ]
+
+
+#Game No : 501633681
+***** 888poker Hand History for Game 501633681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:38:33
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: segabo4a ( $0.93 )
+Seat 4: Sudik ( $2.33 )
+Sudik posts small blind [$0.01]
+segabo4a posts big blind [$0.02]
+** Dealing down cards **
+Sudik raises [$0.07]
+segabo4a calls [$0.06]
+** Dealing flop ** [ Qc, Ac, 6h ]
+segabo4a checks
+Sudik checks
+** Dealing turn ** [ Tc ]
+segabo4a bets [$0.08]
+Sudik calls [$0.08]
+** Dealing river ** [ 5s ]
+segabo4a bets [$0.21]
+Sudik folds
+** Summary **
+segabo4a did not show his hand
+segabo4a collected [ $0.30 ]
+
+
+#Game No : 501633716
+***** 888poker Hand History for Game 501633716 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:39:31
+Table Araure 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: segabo4a ( $1.07 )
+Seat 4: Sudik ( $2.17 )
+segabo4a posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+segabo4a folds
+** Summary **
+Sudik did not show his hand
+Sudik collected [ $0.03 ]
+
+
+#Game No : 501633721
+***** 888poker Hand History for Game 501633721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:39:41
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: segabo4a ( $1.06 )
+Seat 4: Sudik ( $2.18 )
+Sudik posts small blind [$0.01]
+segabo4a posts big blind [$0.02]
+** Dealing down cards **
+Sudik raises [$0.05]
+segabo4a calls [$0.04]
+** Dealing flop ** [ 8s, Ts, 6h ]
+segabo4a checks
+Sudik bets [$0.10]
+segabo4a folds
+** Summary **
+Sudik did not show his hand
+Sudik collected [ $0.12 ]
+
+
+#Game No : 501633737
+***** 888poker Hand History for Game 501633737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:40:02
+Table Araure 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: segabo4a ( $1 )
+Seat 4: Sudik ( $2.24 )
+segabo4a posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+segabo4a folds
+** Summary **
+Sudik did not show his hand
+Sudik collected [ $0.03 ]
+
+
+#Game No : 501633740
+***** 888poker Hand History for Game 501633740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:40:10
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: segabo4a ( $0.99 )
+Seat 4: Sudik ( $2.25 )
+Sudik posts small blind [$0.01]
+segabo4a posts big blind [$0.02]
+** Dealing down cards **
+Sudik calls [$0.01]
+segabo4a checks
+** Dealing flop ** [ 7h, 7d, Kd ]
+segabo4a checks
+Sudik bets [$0.04]
+segabo4a folds
+** Summary **
+Sudik did not show his hand
+Sudik collected [ $0.04 ]
+
+
+#Game No : 501633750
+***** 888poker Hand History for Game 501633750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 02:40:29
+Table Araure 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: segabo4a ( $0.97 )
+Seat 4: Sudik ( $2.27 )
+segabo4a posts small blind [$0.01]
+Sudik posts big blind [$0.02]
+** Dealing down cards **
+segabo4a calls [$0.01]
+Sudik checks
+** Dealing flop ** [ Tc, Kh, 5d ]
+Sudik bets [$0.02]
+segabo4a calls [$0.02]
+** Dealing turn ** [ 6c ]
+Sudik bets [$0.02]
+segabo4a calls [$0.02]
+** Dealing river ** [ 4s ]
+Sudik bets [$0.02]
+segabo4a raises [$0.10]
+Sudik calls [$0.08]
+** Summary **
+segabo4a shows [ 9s, Kc ]
+Sudik mucks [ Jd, Th ]
+segabo4a collected [ $0.30 ]
+
+
+#Game No : 501636842
+***** 888poker Hand History for Game 501636842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 03:57:15
+Table Araure 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: gelattino67 ( $1.33 )
+Seat 4: letovpower ( $1.34 )
+letovpower posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+letovpower raises [$0.05]
+gelattino67 calls [$0.04]
+** Dealing flop ** [ Qc, 6d, 5h ]
+gelattino67 checks
+letovpower bets [$0.06]
+gelattino67 folds
+** Summary **
+letovpower collected [ $0.12 ]
+
+
+#Game No : 501638529
+***** 888poker Hand History for Game 501638529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 04:36:46
+Table Araure 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: katinerd ( $1.81 )
+Seat 6: alt0up ( $1.66 )
+katinerd posts small blind [$0.01]
+alt0up posts big blind [$0.02]
+** Dealing down cards **
+katinerd raises [$0.05]
+alt0up folds
+** Summary **
+katinerd collected [ $0.04 ]
+
+
+#Game No : 501638536
+***** 888poker Hand History for Game 501638536 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 04:36:55
+Table Araure 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: katinerd ( $1.83 )
+Seat 6: alt0up ( $1.64 )
+alt0up posts small blind [$0.01]
+** Dealing down cards **
+katinerd folds
+** Summary **
+alt0up collected [ $0.01 ]
+
+

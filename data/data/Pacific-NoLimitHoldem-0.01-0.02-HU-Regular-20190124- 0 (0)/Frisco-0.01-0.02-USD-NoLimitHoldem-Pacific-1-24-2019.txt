@@ -1,0 +1,28 @@
+#Game No : 522392033
+***** 888poker Hand History for Game 522392033 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 01 2019 03:33:46
+Table Frisco 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: GamingJ ( $0.73 )
+Seat 4: MDV1366 ( $1.95 )
+MDV1366 posts small blind [$0.01]
+GamingJ posts big blind [$0.02]
+** Dealing down cards **
+MDV1366 raises [$0.05]
+GamingJ calls [$0.04]
+** Dealing flop ** [ 4s, 9d, 6s ]
+GamingJ checks
+MDV1366 checks
+** Dealing turn ** [ 8s ]
+GamingJ checks
+MDV1366 checks
+** Dealing river ** [ Jh ]
+GamingJ checks
+MDV1366 checks
+** Summary **
+GamingJ shows [ 8d, Qs ]
+MDV1366 mucks [ Ah, Qh ]
+GamingJ collected [ $0.12 ]
+
+

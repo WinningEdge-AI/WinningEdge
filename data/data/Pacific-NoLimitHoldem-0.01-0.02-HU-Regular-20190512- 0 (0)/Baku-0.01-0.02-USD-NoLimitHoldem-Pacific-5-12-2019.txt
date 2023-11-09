@@ -1,0 +1,555 @@
+#Game No : 619828380
+***** 888poker Hand History for Game 619828380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 04:08:43
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ilyastrelets ( $0.89 )
+Seat 2: vega101010 ( $2 )
+vega101010 posts small blind [$0.01]
+ilyastrelets posts big blind [$0.02]
+** Dealing down cards **
+vega101010 calls [$0.01]
+ilyastrelets checks
+** Dealing flop ** [ Th, 3d, 6h ]
+ilyastrelets checks
+vega101010 checks
+** Dealing turn ** [ Jh ]
+ilyastrelets checks
+vega101010 checks
+** Dealing river ** [ 5h ]
+ilyastrelets checks
+vega101010 checks
+** Summary **
+ilyastrelets shows [ 9c, 7c ]
+vega101010 shows [ Ad, Qc ]
+vega101010 collected [ $0.04 ]
+
+
+#Game No : 619828390
+***** 888poker Hand History for Game 619828390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 04:09:12
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ilyastrelets ( $0.87 )
+Seat 2: vega101010 ( $2.02 )
+ilyastrelets posts small blind [$0.01]
+vega101010 posts big blind [$0.02]
+** Dealing down cards **
+ilyastrelets folds
+** Summary **
+vega101010 did not show his hand
+vega101010 collected [ $0.03 ]
+
+
+#Game No : 619828392
+***** 888poker Hand History for Game 619828392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 04:09:18
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ilyastrelets ( $0.86 )
+Seat 2: vega101010 ( $2.03 )
+vega101010 posts small blind [$0.01]
+ilyastrelets posts big blind [$0.02]
+** Dealing down cards **
+vega101010 folds
+** Summary **
+ilyastrelets did not show his hand
+ilyastrelets collected [ $0.03 ]
+
+
+#Game No : 619853959
+***** 888poker Hand History for Game 619853959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:45:57
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: SanchezLeRus ( $1.99 )
+Seat 4: Fenghua1989 ( $1.37 )
+Fenghua1989 posts small blind [$0.01]
+SanchezLeRus posts big blind [$0.02]
+** Dealing down cards **
+Fenghua1989 raises [$0.03]
+SanchezLeRus raises [$0.04]
+Fenghua1989 calls [$0.02]
+** Dealing flop ** [ Jc, 8d, 4h ]
+SanchezLeRus bets [$0.07]
+Fenghua1989 raises [$0.60]
+SanchezLeRus raises [$1.06]
+Fenghua1989 raises [$0.71]
+SanchezLeRus calls [$0.18]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 6h ]
+** Summary **
+SanchezLeRus shows [ Kh, 6d ]
+Fenghua1989 shows [ 4d, 5h ]
+Fenghua1989 collected [ $2.57 ]
+
+
+#Game No : 619853988
+***** 888poker Hand History for Game 619853988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:46:56
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: SanchezLeRus ( $0.62 )
+Seat 4: Fenghua1989 ( $2.57 )
+SanchezLeRus posts small blind [$0.01]
+Fenghua1989 posts big blind [$0.02]
+** Dealing down cards **
+SanchezLeRus folds
+** Summary **
+Fenghua1989 collected [ $0.03 ]
+
+
+#Game No : 619853991
+***** 888poker Hand History for Game 619853991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:47:03
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: SanchezLeRus ( $0.61 )
+Seat 4: Fenghua1989 ( $2.58 )
+Fenghua1989 posts small blind [$0.01]
+SanchezLeRus posts big blind [$0.02]
+** Dealing down cards **
+Fenghua1989 raises [$0.07]
+SanchezLeRus folds
+** Summary **
+Fenghua1989 collected [ $0.04 ]
+
+
+#Game No : 619853999
+***** 888poker Hand History for Game 619853999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:47:14
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: SanchezLeRus ( $0.59 )
+Seat 4: Fenghua1989 ( $2.60 )
+SanchezLeRus posts small blind [$0.01]
+Fenghua1989 posts big blind [$0.02]
+** Dealing down cards **
+SanchezLeRus calls [$0.01]
+Fenghua1989 checks
+** Dealing flop ** [ 2d, Jh, 2h ]
+Fenghua1989 checks
+SanchezLeRus checks
+** Dealing turn ** [ 7d ]
+Fenghua1989 checks
+SanchezLeRus checks
+** Dealing river ** [ Kh ]
+Fenghua1989 checks
+SanchezLeRus checks
+** Summary **
+Fenghua1989 shows [ Ah, 8d ]
+SanchezLeRus shows [ Ad, 4c ]
+Fenghua1989 collected [ $0.02 ]
+SanchezLeRus collected [ $0.02 ]
+
+
+#Game No : 619854208
+***** 888poker Hand History for Game 619854208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:54:01
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $2.02 )
+Seat 6: Gaabriiel97 ( $0.78 )
+Gaabriiel97 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Gaabriiel97 folds
+** Summary **
+CORNFLAKE64 did not show his hand
+CORNFLAKE64 collected [ $0.03 ]
+
+
+#Game No : 619854212
+***** 888poker Hand History for Game 619854212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:54:11
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $2.03 )
+Seat 6: Gaabriiel97 ( $0.77 )
+CORNFLAKE64 posts small blind [$0.01]
+Gaabriiel97 posts big blind [$0.02]
+** Dealing down cards **
+CORNFLAKE64 calls [$0.01]
+Gaabriiel97 raises [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Dealing flop ** [ Qd, Jd, Th ]
+Gaabriiel97 checks
+CORNFLAKE64 checks
+** Dealing turn ** [ Ad ]
+Gaabriiel97 bets [$0.06]
+CORNFLAKE64 folds
+** Summary **
+Gaabriiel97 did not show his hand
+Gaabriiel97 collected [ $0.08 ]
+
+
+#Game No : 619854225
+***** 888poker Hand History for Game 619854225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:54:31
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $1.99 )
+Seat 6: Gaabriiel97 ( $0.81 )
+Gaabriiel97 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Gaabriiel97 calls [$0.01]
+CORNFLAKE64 checks
+** Dealing flop ** [ 5s, 2c, 3c ]
+CORNFLAKE64 checks
+Gaabriiel97 checks
+** Dealing turn ** [ 7d ]
+CORNFLAKE64 checks
+Gaabriiel97 checks
+** Dealing river ** [ 4s ]
+CORNFLAKE64 bets [$0.02]
+Gaabriiel97 folds
+** Summary **
+CORNFLAKE64 did not show his hand
+CORNFLAKE64 collected [ $0.04 ]
+
+
+#Game No : 619854239
+***** 888poker Hand History for Game 619854239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:54:54
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $2.01 )
+Seat 6: Gaabriiel97 ( $0.79 )
+CORNFLAKE64 posts small blind [$0.01]
+Gaabriiel97 posts big blind [$0.02]
+** Dealing down cards **
+CORNFLAKE64 calls [$0.01]
+Gaabriiel97 checks
+** Dealing flop ** [ 6d, Kh, Jd ]
+Gaabriiel97 bets [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Dealing turn ** [ 3h ]
+Gaabriiel97 checks
+CORNFLAKE64 checks
+** Dealing river ** [ 5c ]
+Gaabriiel97 checks
+CORNFLAKE64 checks
+** Summary **
+Gaabriiel97 shows [ Ks, 5h ]
+CORNFLAKE64 mucks [ 9s, Js ]
+Gaabriiel97 collected [ $0.08 ]
+
+
+#Game No : 619854256
+***** 888poker Hand History for Game 619854256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:55:21
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $1.97 )
+Seat 6: Gaabriiel97 ( $0.83 )
+Gaabriiel97 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Gaabriiel97 calls [$0.01]
+CORNFLAKE64 raises [$0.02]
+Gaabriiel97 calls [$0.02]
+** Dealing flop ** [ Ac, 7s, 7h ]
+CORNFLAKE64 bets [$0.02]
+Gaabriiel97 folds
+** Summary **
+CORNFLAKE64 did not show his hand
+CORNFLAKE64 collected [ $0.08 ]
+
+
+#Game No : 619854267
+***** 888poker Hand History for Game 619854267 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:55:41
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $2.01 )
+Seat 6: Gaabriiel97 ( $0.79 )
+CORNFLAKE64 posts small blind [$0.01]
+Gaabriiel97 posts big blind [$0.02]
+** Dealing down cards **
+CORNFLAKE64 calls [$0.01]
+Gaabriiel97 raises [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Dealing flop ** [ 7d, Jh, Qd ]
+Gaabriiel97 checks
+CORNFLAKE64 bets [$0.02]
+Gaabriiel97 calls [$0.02]
+** Dealing turn ** [ 3h ]
+Gaabriiel97 checks
+CORNFLAKE64 bets [$0.02]
+Gaabriiel97 folds
+** Summary **
+CORNFLAKE64 did not show his hand
+CORNFLAKE64 collected [ $0.12 ]
+
+
+#Game No : 619854278
+***** 888poker Hand History for Game 619854278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:56:04
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $2.07 )
+Seat 6: Gaabriiel97 ( $0.73 )
+Gaabriiel97 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Gaabriiel97 folds
+** Summary **
+CORNFLAKE64 did not show his hand
+CORNFLAKE64 collected [ $0.03 ]
+
+
+#Game No : 619854283
+***** 888poker Hand History for Game 619854283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:56:09
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $2.08 )
+Seat 6: Gaabriiel97 ( $0.72 )
+CORNFLAKE64 posts small blind [$0.01]
+Gaabriiel97 posts big blind [$0.02]
+** Dealing down cards **
+CORNFLAKE64 calls [$0.01]
+Gaabriiel97 checks
+** Dealing flop ** [ Ts, 9h, 3d ]
+Gaabriiel97 checks
+CORNFLAKE64 checks
+** Dealing turn ** [ 3s ]
+Gaabriiel97 checks
+CORNFLAKE64 checks
+** Dealing river ** [ 7c ]
+Gaabriiel97 bets [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Summary **
+Gaabriiel97 shows [ Kd, 7s ]
+CORNFLAKE64 mucks [ Ac, 2s ]
+Gaabriiel97 collected [ $0.08 ]
+
+
+#Game No : 619854291
+***** 888poker Hand History for Game 619854291 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:56:29
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $2.04 )
+Seat 6: Gaabriiel97 ( $0.76 )
+Gaabriiel97 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Gaabriiel97 calls [$0.01]
+CORNFLAKE64 checks
+** Dealing flop ** [ 6h, Ts, 7s ]
+CORNFLAKE64 checks
+Gaabriiel97 bets [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Dealing turn ** [ 2c ]
+CORNFLAKE64 checks
+Gaabriiel97 bets [$0.04]
+CORNFLAKE64 folds
+** Summary **
+Gaabriiel97 did not show his hand
+Gaabriiel97 collected [ $0.08 ]
+
+
+#Game No : 619854301
+***** 888poker Hand History for Game 619854301 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:56:51
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $2 )
+Seat 6: Gaabriiel97 ( $0.80 )
+CORNFLAKE64 posts small blind [$0.01]
+Gaabriiel97 posts big blind [$0.02]
+** Dealing down cards **
+CORNFLAKE64 raises [$0.03]
+Gaabriiel97 calls [$0.02]
+** Dealing flop ** [ 7c, Ts, 6d ]
+Gaabriiel97 checks
+CORNFLAKE64 bets [$0.02]
+Gaabriiel97 calls [$0.02]
+** Dealing turn ** [ 9d ]
+Gaabriiel97 checks
+CORNFLAKE64 bets [$0.02]
+Gaabriiel97 calls [$0.02]
+** Dealing river ** [ 6c ]
+Gaabriiel97 checks
+CORNFLAKE64 checks
+** Summary **
+Gaabriiel97 shows [ Ad, Qc ]
+CORNFLAKE64 mucks [ 4d, Ac ]
+Gaabriiel97 collected [ $0.15 ]
+
+
+#Game No : 619854321
+***** 888poker Hand History for Game 619854321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:57:18
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $1.92 )
+Seat 6: Gaabriiel97 ( $0.87 )
+Gaabriiel97 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Gaabriiel97 raises [$0.03]
+CORNFLAKE64 calls [$0.02]
+** Dealing flop ** [ 7h, Jh, 5d ]
+CORNFLAKE64 bets [$0.06]
+Gaabriiel97 folds
+** Summary **
+CORNFLAKE64 did not show his hand
+CORNFLAKE64 collected [ $0.08 ]
+
+
+#Game No : 619854334
+***** 888poker Hand History for Game 619854334 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:57:37
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $1.96 )
+Seat 6: Gaabriiel97 ( $0.83 )
+CORNFLAKE64 posts small blind [$0.01]
+Gaabriiel97 posts big blind [$0.02]
+** Dealing down cards **
+CORNFLAKE64 calls [$0.01]
+Gaabriiel97 raises [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Dealing flop ** [ 6c, 3h, 2h ]
+Gaabriiel97 bets [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Dealing turn ** [ 7d ]
+Gaabriiel97 bets [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Dealing river ** [ 4h ]
+Gaabriiel97 bets [$0.02]
+CORNFLAKE64 folds
+** Summary **
+Gaabriiel97 did not show his hand
+Gaabriiel97 collected [ $0.15 ]
+
+
+#Game No : 619854345
+***** 888poker Hand History for Game 619854345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:58:02
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $1.88 )
+Seat 6: Gaabriiel97 ( $0.90 )
+Gaabriiel97 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Gaabriiel97 folds
+** Summary **
+CORNFLAKE64 did not show his hand
+CORNFLAKE64 collected [ $0.03 ]
+
+
+#Game No : 619854349
+***** 888poker Hand History for Game 619854349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:58:08
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $1.89 )
+Seat 6: Gaabriiel97 ( $0.89 )
+CORNFLAKE64 posts small blind [$0.01]
+Gaabriiel97 posts big blind [$0.02]
+** Dealing down cards **
+CORNFLAKE64 folds
+** Summary **
+Gaabriiel97 did not show his hand
+Gaabriiel97 collected [ $0.03 ]
+
+
+#Game No : 619854350
+***** 888poker Hand History for Game 619854350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:58:14
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $1.88 )
+Seat 6: Gaabriiel97 ( $0.90 )
+Gaabriiel97 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Gaabriiel97 calls [$0.01]
+CORNFLAKE64 checks
+** Dealing flop ** [ Qh, Jd, 6d ]
+CORNFLAKE64 bets [$0.02]
+Gaabriiel97 calls [$0.02]
+** Dealing turn ** [ 4d ]
+CORNFLAKE64 bets [$0.02]
+Gaabriiel97 raises [$0.04]
+CORNFLAKE64 calls [$0.02]
+** Dealing river ** [ 3h ]
+CORNFLAKE64 bets [$0.02]
+Gaabriiel97 raises [$0.16]
+CORNFLAKE64 folds
+** Summary **
+Gaabriiel97 did not show his hand
+Gaabriiel97 collected [ $0.19 ]
+
+
+#Game No : 619854366
+***** 888poker Hand History for Game 619854366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:58:43
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $1.78 )
+Seat 6: Gaabriiel97 ( $0.99 )
+CORNFLAKE64 posts small blind [$0.01]
+Gaabriiel97 posts big blind [$0.02]
+** Dealing down cards **
+CORNFLAKE64 calls [$0.01]
+Gaabriiel97 checks
+** Dealing flop ** [ Qd, Kh, 4h ]
+Gaabriiel97 bets [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Dealing turn ** [ 9d ]
+Gaabriiel97 bets [$0.02]
+CORNFLAKE64 calls [$0.02]
+** Dealing river ** [ Tc ]
+Gaabriiel97 bets [$0.02]
+CORNFLAKE64 folds
+** Summary **
+Gaabriiel97 did not show his hand
+Gaabriiel97 collected [ $0.12 ]
+
+
+#Game No : 619854377
+***** 888poker Hand History for Game 619854377 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 16:59:03
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: CORNFLAKE64 ( $1.72 )
+Seat 6: Gaabriiel97 ( $1.05 )
+Gaabriiel97 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Gaabriiel97 folds
+** Summary **
+CORNFLAKE64 did not show his hand
+CORNFLAKE64 collected [ $0.03 ]
+
+

@@ -1,0 +1,55 @@
+#Game No : 464014585
+***** 888poker Hand History for Game 464014585 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 15:23:22
+Table Damascus 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dj_stalin ( $1.01 )
+Seat 4: HogRider01 ( $0.79 )
+dj_stalin posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+dj_stalin calls [$0.01]
+HogRider01 checks
+** Dealing flop ** [ As, Kh, Qd ]
+HogRider01 checks
+dj_stalin checks
+** Dealing turn ** [ 8c ]
+HogRider01 checks
+dj_stalin bets [$0.08]
+HogRider01 calls [$0.08]
+** Dealing river ** [ 7s ]
+HogRider01 checks
+dj_stalin checks
+** Summary **
+HogRider01 shows [ 8h, Jh ]
+dj_stalin mucks [ 3h, 2d ]
+HogRider01 collected [ $0.19 ]
+
+
+#Game No : 464014602
+***** 888poker Hand History for Game 464014602 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 15:23:30
+Table Damascus 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: dj_stalin ( $0.91 )
+Seat 4: HogRider01 ( $0.88 )
+HogRider01 posts small blind [$0.01]
+dj_stalin posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 calls [$0.01]
+dj_stalin checks
+** Dealing flop ** [ 6h, 9s, 3h ]
+dj_stalin bets [$0.02]
+HogRider01 calls [$0.02]
+** Dealing turn ** [ Td ]
+dj_stalin bets [$0.04]
+HogRider01 calls [$0.04]
+** Dealing river ** [ 5h ]
+dj_stalin bets [$0.06]
+HogRider01 folds
+** Summary **
+dj_stalin collected [ $0.15 ]
+
+

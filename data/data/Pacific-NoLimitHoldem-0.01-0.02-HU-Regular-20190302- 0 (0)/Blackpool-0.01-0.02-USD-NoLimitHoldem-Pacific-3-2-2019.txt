@@ -1,0 +1,343 @@
+#Game No : 462350945
+***** 888poker Hand History for Game 462350945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 10:54:02
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: barbas80 ( $1 )
+Seat 2: nezPKR ( $1.88 )
+nezPKR posts small blind [$0.01]
+barbas80 posts big blind [$0.02]
+** Dealing down cards **
+nezPKR calls [$0.01]
+barbas80 raises [$0.05]
+nezPKR calls [$0.05]
+** Dealing flop ** [ Kh, 7h, 6s ]
+barbas80 bets [$0.15]
+nezPKR calls [$0.15]
+** Dealing turn ** [ Tc ]
+barbas80 bets [$0.44]
+nezPKR calls [$0.44]
+** Dealing river ** [ 9s ]
+barbas80 bets [$0.34]
+nezPKR calls [$0.34]
+** Summary **
+barbas80 shows [ Jc, Kd ]
+nezPKR shows [ Th, Ah ]
+barbas80 collected [ $1.88 ]
+
+
+#Game No : 462350985
+***** 888poker Hand History for Game 462350985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 10:54:46
+Table Blackpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: barbas80 ( $1.88 )
+Seat 2: nezPKR ( $1 )
+barbas80 posts small blind [$0.01]
+nezPKR posts big blind [$0.02]
+** Dealing down cards **
+barbas80 calls [$0.01]
+nezPKR raises [$0.04]
+barbas80 calls [$0.04]
+** Dealing flop ** [ 9s, 4d, Jc ]
+nezPKR bets [$0.08]
+barbas80 calls [$0.08]
+** Dealing turn ** [ Kh ]
+nezPKR checks
+barbas80 checks
+** Dealing river ** [ Ad ]
+nezPKR bets [$0.28]
+barbas80 folds
+** Summary **
+nezPKR collected [ $0.27 ]
+
+
+#Game No : 462351022
+***** 888poker Hand History for Game 462351022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 10:55:31
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: barbas80 ( $1.74 )
+Seat 2: nezPKR ( $1.13 )
+nezPKR posts small blind [$0.01]
+barbas80 posts big blind [$0.02]
+** Dealing down cards **
+nezPKR folds
+** Summary **
+barbas80 collected [ $0.03 ]
+
+
+#Game No : 462351122
+***** 888poker Hand History for Game 462351122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 10:57:27
+Table Blackpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: barbas80 ( $1.72 )
+Seat 4: bash59 ( $1.02 )
+barbas80 posts small blind [$0.01]
+bash59 posts big blind [$0.02]
+** Dealing down cards **
+barbas80 calls [$0.01]
+bash59 checks
+** Dealing flop ** [ 3s, Ks, 9c ]
+bash59 checks
+barbas80 checks
+** Dealing turn ** [ 7h ]
+bash59 checks
+barbas80 checks
+** Dealing river ** [ Tc ]
+bash59 bets [$0.02]
+barbas80 folds
+** Summary **
+bash59 collected [ $0.04 ]
+
+
+#Game No : 462351151
+***** 888poker Hand History for Game 462351151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 10:58:19
+Table Blackpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: barbas80 ( $1.70 )
+Seat 4: bash59 ( $1.04 )
+bash59 posts small blind [$0.01]
+barbas80 posts big blind [$0.02]
+** Dealing down cards **
+bash59 calls [$0.01]
+barbas80 checks
+** Dealing flop ** [ Kc, 4s, 3s ]
+barbas80 checks
+bash59 checks
+** Dealing turn ** [ Tc ]
+barbas80 checks
+bash59 checks
+** Dealing river ** [ Kh ]
+barbas80 checks
+bash59 bets [$0.02]
+barbas80 folds
+** Summary **
+bash59 collected [ $0.04 ]
+
+
+#Game No : 462360838
+***** 888poker Hand History for Game 462360838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:17:08
+Table Blackpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: lestevvv ( $1.78 )
+Seat 4: kirrd ( $2.97 )
+kirrd posts small blind [$0.01]
+lestevvv posts big blind [$0.02]
+** Dealing down cards **
+kirrd raises [$0.05]
+lestevvv calls [$0.04]
+** Dealing flop ** [ Kh, 9c, 6h ]
+lestevvv checks
+kirrd bets [$0.12]
+lestevvv folds
+** Summary **
+kirrd did not show his hand
+kirrd collected [ $0.12 ]
+
+
+#Game No : 462360847
+***** 888poker Hand History for Game 462360847 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:17:27
+Table Blackpool 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lestevvv ( $1.72 )
+Seat 4: kirrd ( $3.03 )
+lestevvv posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+lestevvv raises [$0.03]
+kirrd raises [$0.10]
+lestevvv calls [$0.08]
+** Dealing flop ** [ Kc, Ts, 2d ]
+kirrd checks
+lestevvv bets [$0.15]
+kirrd calls [$0.15]
+** Dealing turn ** [ 8s ]
+kirrd checks
+lestevvv bets [$0.35]
+kirrd raises [$1.17]
+lestevvv folds
+** Summary **
+kirrd collected [ $1.17 ]
+
+
+#Game No : 462360900
+***** 888poker Hand History for Game 462360900 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:18:31
+Table Blackpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: lestevvv ( $1.10 )
+Seat 4: kirrd ( $3.58 )
+kirrd posts small blind [$0.01]
+** Dealing down cards **
+lestevvv folds
+** Summary **
+kirrd collected [ $0.01 ]
+
+
+#Game No : 462360904
+***** 888poker Hand History for Game 462360904 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:18:35
+Table Blackpool 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kirrd ( $3.58 )
+Seat 6: Mudflap16 ( $0.80 )
+kirrd posts small blind [$0.01]
+Mudflap16 posts big blind [$0.02]
+** Dealing down cards **
+kirrd folds
+** Summary **
+Mudflap16 did not show his hand
+Mudflap16 collected [ $0.03 ]
+
+
+#Game No : 462360908
+***** 888poker Hand History for Game 462360908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:18:42
+Table Blackpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kirrd ( $3.57 )
+Seat 6: Mudflap16 ( $0.81 )
+Mudflap16 posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Mudflap16 calls [$0.01]
+kirrd checks
+** Dealing flop ** [ Ac, Td, 5h ]
+kirrd checks
+Mudflap16 checks
+** Dealing turn ** [ Th ]
+kirrd checks
+Mudflap16 checks
+** Dealing river ** [ Qc ]
+kirrd checks
+Mudflap16 checks
+** Summary **
+kirrd shows [ 2c, Jd ]
+Mudflap16 mucks [ 2d, 4c ]
+kirrd collected [ $0.04 ]
+
+
+#Game No : 462361044
+***** 888poker Hand History for Game 462361044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:21:54
+Table Blackpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kirrd ( $4.35 )
+Seat 6: Mudflap16 ( $0.73 )
+Mudflap16 posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Mudflap16 calls [$0.01]
+kirrd checks
+** Dealing flop ** [ Td, Tc, 8s ]
+kirrd checks
+Mudflap16 checks
+** Dealing turn ** [ 3s ]
+kirrd checks
+Mudflap16 checks
+** Dealing river ** [ 7s ]
+kirrd checks
+Mudflap16 checks
+** Summary **
+kirrd shows [ 7c, 3c ]
+Mudflap16 mucks [ 4h, 2s ]
+kirrd collected [ $0.04 ]
+
+
+#Game No : 462361107
+***** 888poker Hand History for Game 462361107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:23:19
+Table Blackpool 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kirrd ( $4.31 )
+Seat 6: Mudflap16 ( $0.77 )
+Mudflap16 posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Mudflap16 raises [$0.03]
+kirrd folds
+** Summary **
+Mudflap16 collected [ $0.04 ]
+
+
+#Game No : 462362154
+***** 888poker Hand History for Game 462362154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:50:05
+Table Blackpool 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: VictimVIP ( $1.98 )
+Seat 9: arasportela ( $0.68 )
+VictimVIP posts small blind [$0.01]
+arasportela posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+arasportela collected [ $0.03 ]
+
+
+#Game No : 462362165
+***** 888poker Hand History for Game 462362165 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:50:25
+Table Blackpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: VictimVIP ( $1.97 )
+Seat 9: arasportela ( $0.69 )
+arasportela posts small blind [$0.01]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+arasportela collected [ $0.01 ]
+
+
+#Game No : 462362169
+***** 888poker Hand History for Game 462362169 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:50:29
+Table Blackpool 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: nordfishAV ( $1 )
+Seat 9: arasportela ( $0.69 )
+arasportela posts small blind [$0.01]
+nordfishAV posts big blind [$0.02]
+** Dealing down cards **
+arasportela folds
+** Summary **
+nordfishAV collected [ $0.03 ]
+
+
+#Game No : 462362184
+***** 888poker Hand History for Game 462362184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 14:50:58
+Table Blackpool 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nordfishAV ( $1.01 )
+Seat 9: arasportela ( $0.68 )
+nordfishAV posts small blind [$0.01]
+arasportela posts big blind [$0.02]
+** Dealing down cards **
+nordfishAV raises [$0.05]
+arasportela folds
+** Summary **
+nordfishAV collected [ $0.04 ]
+
+

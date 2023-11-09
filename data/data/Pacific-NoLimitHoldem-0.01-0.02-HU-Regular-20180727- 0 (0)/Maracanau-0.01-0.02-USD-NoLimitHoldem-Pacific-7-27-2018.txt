@@ -1,0 +1,323 @@
+#Game No : 499999317
+***** 888poker Hand History for Game 499999317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 16:09:10
+Table Maracanau 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: aluwolf ( $2.69 )
+Seat 9: FlintOB ( $2.63 )
+aluwolf posts small blind [$0.01]
+FlintOB posts big blind [$0.02]
+** Dealing down cards **
+aluwolf raises [$0.03]
+FlintOB raises [$0.10]
+aluwolf calls [$0.08]
+** Dealing flop ** [ 7d, Ts, 3s ]
+FlintOB checks
+aluwolf checks
+** Dealing turn ** [ 3h ]
+FlintOB checks
+aluwolf checks
+** Dealing river ** [ Td ]
+FlintOB checks
+aluwolf checks
+** Summary **
+FlintOB shows [ Kc, Qc ]
+aluwolf shows [ As, Jc ]
+aluwolf collected [ $0.23 ]
+
+
+#Game No : 499999346
+***** 888poker Hand History for Game 499999346 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 07 2018 16:09:59
+Table Maracanau 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: aluwolf ( $2.80 )
+Seat 9: FlintOB ( $2.51 )
+FlintOB posts small blind [$0.01]
+aluwolf posts big blind [$0.02]
+** Dealing down cards **
+FlintOB folds
+** Summary **
+aluwolf did not show his hand
+aluwolf collected [ $0.03 ]
+
+
+#Game No : 500007726
+***** 888poker Hand History for Game 500007726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 01:02:52
+Table Maracanau 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: IlyNeil ( $1.01 )
+Seat 6: IAMSTARVING ( $0.79 )
+IlyNeil posts small blind [$0.01]
+IAMSTARVING posts big blind [$0.02]
+** Dealing down cards **
+IlyNeil calls [$0.01]
+IAMSTARVING checks
+** Dealing flop ** [ 8h, 2h, 5s ]
+IAMSTARVING bets [$0.02]
+IlyNeil calls [$0.02]
+** Dealing turn ** [ Ac ]
+IAMSTARVING checks
+IlyNeil checks
+** Dealing river ** [ 4c ]
+IAMSTARVING bets [$0.02]
+IlyNeil calls [$0.02]
+** Summary **
+IAMSTARVING shows [ Qc, 4h ]
+IlyNeil mucks [ Tc, Jh ]
+IAMSTARVING collected [ $0.12 ]
+
+
+#Game No : 500007739
+***** 888poker Hand History for Game 500007739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 01:03:04
+Table Maracanau 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: IlyNeil ( $1 )
+Seat 6: IAMSTARVING ( $0.85 )
+IAMSTARVING posts small blind [$0.01]
+IlyNeil posts big blind [$0.02]
+** Dealing down cards **
+IAMSTARVING raises [$0.05]
+IlyNeil calls [$0.04]
+** Dealing flop ** [ 5d, 2d, 8h ]
+IlyNeil checks
+IAMSTARVING bets [$0.02]
+IlyNeil calls [$0.02]
+** Dealing turn ** [ 7h ]
+IlyNeil checks
+IAMSTARVING checks
+** Dealing river ** [ Kh ]
+IlyNeil checks
+IAMSTARVING checks
+** Summary **
+IlyNeil shows [ Ac, 6h ]
+IAMSTARVING shows [ As, Ts ]
+IAMSTARVING collected [ $0.15 ]
+
+
+#Game No : 500007831
+***** 888poker Hand History for Game 500007831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 01:07:06
+Table Maracanau 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: IAMSTARVING ( $1.06 )
+Seat 7: lemuriic ( $0.93 )
+IAMSTARVING posts small blind [$0.01]
+lemuriic posts big blind [$0.02]
+** Dealing down cards **
+IAMSTARVING calls [$0.01]
+lemuriic checks
+** Dealing flop ** [ Td, As, 9c ]
+lemuriic checks
+IAMSTARVING bets [$0.02]
+lemuriic calls [$0.02]
+** Dealing turn ** [ Tc ]
+lemuriic checks
+IAMSTARVING checks
+** Dealing river ** [ 8s ]
+lemuriic checks
+IAMSTARVING checks
+** Summary **
+lemuriic shows [ Ah, 5d ]
+IAMSTARVING mucks [ 3d, 3c ]
+lemuriic collected [ $0.08 ]
+
+
+#Game No : 500013110
+***** 888poker Hand History for Game 500013110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 04:06:08
+Table Maracanau 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: igara96 ( $1.89 )
+Seat 7: manicteacher ( $1.31 )
+igara96 posts small blind [$0.01]
+manicteacher posts big blind [$0.02]
+** Dealing down cards **
+igara96 folds
+** Summary **
+manicteacher collected [ $0.03 ]
+
+
+#Game No : 500014865
+***** 888poker Hand History for Game 500014865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 05:05:14
+Table Maracanau 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: moises6194 ( $1.62 )
+Seat 9: Serg99Golden ( $1.02 )
+Serg99Golden posts small blind [$0.01]
+moises6194 posts big blind [$0.02]
+** Dealing down cards **
+Serg99Golden folds
+** Summary **
+moises6194 collected [ $0.03 ]
+
+
+#Game No : 500014912
+***** 888poker Hand History for Game 500014912 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 05:06:36
+Table Maracanau 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 3vanhelsing3 ( $0.70 )
+Seat 9: Serg99Golden ( $1.11 )
+3vanhelsing3 posts small blind [$0.01]
+** Dealing down cards **
+Serg99Golden folds
+** Summary **
+3vanhelsing3 collected [ $0.01 ]
+
+
+#Game No : 500014915
+***** 888poker Hand History for Game 500014915 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 05:06:39
+Table Maracanau 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 3vanhelsing3 ( $0.70 )
+Seat 2: Pfefferhund ( $0.80 )
+3vanhelsing3 posts small blind [$0.01]
+Pfefferhund posts big blind [$0.02]
+** Dealing down cards **
+3vanhelsing3 calls [$0.01]
+Pfefferhund raises [$0.04]
+3vanhelsing3 calls [$0.04]
+** Dealing flop ** [ 5c, 8d, 6c ]
+Pfefferhund bets [$0.06]
+3vanhelsing3 calls [$0.06]
+** Dealing turn ** [ 8s ]
+Pfefferhund checks
+3vanhelsing3 checks
+** Dealing river ** [ 3s ]
+Pfefferhund checks
+3vanhelsing3 bets [$0.08]
+Pfefferhund calls [$0.08]
+** Summary **
+3vanhelsing3 shows [ 9h, 6d ]
+Pfefferhund mucks [ Ac, Jc ]
+3vanhelsing3 collected [ $0.38 ]
+
+
+#Game No : 500014937
+***** 888poker Hand History for Game 500014937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 05:07:10
+Table Maracanau 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 3vanhelsing3 ( $0.88 )
+Seat 2: Pfefferhund ( $0.60 )
+Pfefferhund posts small blind [$0.01]
+3vanhelsing3 posts big blind [$0.02]
+** Dealing down cards **
+Pfefferhund raises [$0.03]
+3vanhelsing3 calls [$0.02]
+** Dealing flop ** [ Kc, 6c, As ]
+3vanhelsing3 checks
+Pfefferhund checks
+** Dealing turn ** [ Jh ]
+3vanhelsing3 bets [$0.02]
+Pfefferhund folds
+** Summary **
+3vanhelsing3 collected [ $0.08 ]
+
+
+#Game No : 500019930
+***** 888poker Hand History for Game 500019930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 07:19:23
+Table Maracanau 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 2noise999 ( $0.99 )
+Seat 4: lemuriic ( $0.55 )
+2noise999 posts small blind [$0.01]
+lemuriic posts big blind [$0.02]
+** Dealing down cards **
+2noise999 raises [$0.05]
+lemuriic calls [$0.04]
+** Dealing flop ** [ Ad, Qc, 8c ]
+lemuriic checks
+2noise999 bets [$0.12]
+lemuriic raises [$0.49]
+2noise999 folds
+** Summary **
+lemuriic did not show his hand
+lemuriic collected [ $0.34 ]
+
+
+#Game No : 500019941
+***** 888poker Hand History for Game 500019941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 07:19:51
+Table Maracanau 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: 2noise999 ( $0.81 )
+Seat 4: lemuriic ( $0.71 )
+lemuriic posts small blind [$0.01]
+2noise999 posts big blind [$0.02]
+** Dealing down cards **
+lemuriic folds
+** Summary **
+2noise999 collected [ $0.03 ]
+
+
+#Game No : 500020651
+***** 888poker Hand History for Game 500020651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 07:40:46
+Table Maracanau 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: 2noise999 ( $0.73 )
+Seat 9: nabok24 ( $1.45 )
+nabok24 posts small blind [$0.01]
+2noise999 posts big blind [$0.02]
+** Dealing down cards **
+nabok24 folds
+** Summary **
+2noise999 did not show his hand
+2noise999 collected [ $0.03 ]
+
+
+#Game No : 500020655
+***** 888poker Hand History for Game 500020655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 07:40:51
+Table Maracanau 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 2noise999 ( $0.74 )
+Seat 9: nabok24 ( $1.44 )
+2noise999 posts small blind [$0.01]
+nabok24 posts big blind [$0.02]
+** Dealing down cards **
+2noise999 raises [$0.05]
+nabok24 folds
+** Summary **
+2noise999 did not show his hand
+2noise999 collected [ $0.04 ]
+
+
+#Game No : 500020661
+***** 888poker Hand History for Game 500020661 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 07:40:59
+Table Maracanau 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: 2noise999 ( $0.76 )
+Seat 9: nabok24 ( $1.42 )
+nabok24 posts small blind [$0.01]
+2noise999 posts big blind [$0.02]
+** Dealing down cards **
+nabok24 folds
+** Summary **
+2noise999 did not show his hand
+2noise999 collected [ $0.03 ]
+
+

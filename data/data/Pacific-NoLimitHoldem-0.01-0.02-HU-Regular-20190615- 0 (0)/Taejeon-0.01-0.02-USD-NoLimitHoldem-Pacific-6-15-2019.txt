@@ -1,0 +1,49 @@
+#Game No : 533204919
+***** 888poker Hand History for Game 533204919 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2019 21:26:15
+Table Taejeon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: JayArrrr ( $2.02 )
+Seat 7: MamajY ( $0.77 )
+MamajY posts small blind [$0.01]
+** Dealing down cards **
+JayArrrr folds
+** Summary **
+MamajY did not show his hand
+MamajY collected [ $0.01 ]
+
+
+#Game No : 533205556
+***** 888poker Hand History for Game 533205556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2019 21:55:25
+Table Taejeon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: AlgirdasJ ( $2.17 )
+Seat 7: alex997799 ( $0.71 )
+alex997799 posts small blind [$0.01]
+AlgirdasJ posts big blind [$0.02]
+** Dealing down cards **
+alex997799 calls [$0.01]
+AlgirdasJ checks
+** Dealing flop ** [ 6h, 3d, 5c ]
+AlgirdasJ checks
+alex997799 bets [$0.02]
+AlgirdasJ calls [$0.02]
+** Dealing turn ** [ Ad ]
+AlgirdasJ checks
+alex997799 bets [$0.02]
+AlgirdasJ raises [$0.04]
+alex997799 raises [$0.04]
+AlgirdasJ raises [$0.04]
+alex997799 calls [$0.02]
+** Dealing river ** [ 9h ]
+AlgirdasJ bets [$0.15]
+alex997799 calls [$0.15]
+** Summary **
+AlgirdasJ shows [ 4d, 7s ]
+alex997799 mucks [ 6c, 8c ]
+AlgirdasJ collected [ $0.51 ]
+
+

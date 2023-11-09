@@ -1,0 +1,530 @@
+#Game No : 502191877
+***** 888poker Hand History for Game 502191877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 19:58:44
+Table Milan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ViniLokoo ( $1.79 )
+Seat 9: evandcg ( $2.52 )
+ViniLokoo posts small blind [$0.01]
+evandcg posts big blind [$0.02]
+** Dealing down cards **
+ViniLokoo raises [$0.05]
+evandcg calls [$0.04]
+** Dealing flop ** [ 8s, Kd, 2s ]
+evandcg checks
+ViniLokoo bets [$0.06]
+evandcg folds
+** Summary **
+ViniLokoo collected [ $0.12 ]
+
+
+#Game No : 502191934
+***** 888poker Hand History for Game 502191934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:01:27
+Table Milan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $0.80 )
+Seat 7: ViniLokoo ( $1.85 )
+ViniLokoo posts small blind [$0.01]
+lukeBelcher posts big blind [$0.02]
+** Dealing down cards **
+ViniLokoo folds
+** Summary **
+lukeBelcher collected [ $0.03 ]
+
+
+#Game No : 502191938
+***** 888poker Hand History for Game 502191938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:01:37
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $0.81 )
+Seat 7: ViniLokoo ( $1.84 )
+lukeBelcher posts small blind [$0.01]
+ViniLokoo posts big blind [$0.02]
+** Dealing down cards **
+lukeBelcher raises [$0.03]
+ViniLokoo folds
+** Summary **
+lukeBelcher collected [ $0.04 ]
+
+
+#Game No : 502191943
+***** 888poker Hand History for Game 502191943 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:01:49
+Table Milan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $0.83 )
+Seat 7: ViniLokoo ( $1.82 )
+ViniLokoo posts small blind [$0.01]
+lukeBelcher posts big blind [$0.02]
+** Dealing down cards **
+ViniLokoo raises [$0.03]
+lukeBelcher raises [$0.04]
+ViniLokoo calls [$0.02]
+** Dealing flop ** [ 7s, 5c, Kh ]
+lukeBelcher checks
+ViniLokoo bets [$0.06]
+lukeBelcher calls [$0.06]
+** Dealing turn ** [ 6s ]
+lukeBelcher checks
+ViniLokoo checks
+** Dealing river ** [ 3c ]
+lukeBelcher bets [$0.02]
+ViniLokoo calls [$0.02]
+** Summary **
+lukeBelcher shows [ 3s, 8s ]
+ViniLokoo mucks [ Qs, Ts ]
+lukeBelcher collected [ $0.27 ]
+
+
+#Game No : 502191960
+***** 888poker Hand History for Game 502191960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:03:01
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $0.96 )
+Seat 7: ViniLokoo ( $1.68 )
+lukeBelcher posts small blind [$0.01]
+** Dealing down cards **
+ViniLokoo folds
+** Summary **
+lukeBelcher collected [ $0.01 ]
+
+
+#Game No : 502191984
+***** 888poker Hand History for Game 502191984 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:04:24
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $0.96 )
+Seat 9: TheGeneral22 ( $0.80 )
+lukeBelcher posts small blind [$0.01]
+TheGeneral22 posts big blind [$0.02]
+** Dealing down cards **
+lukeBelcher calls [$0.01]
+TheGeneral22 checks
+** Dealing flop ** [ Jc, 4s, Kc ]
+TheGeneral22 bets [$0.02]
+lukeBelcher calls [$0.02]
+** Dealing turn ** [ 9c ]
+TheGeneral22 checks
+lukeBelcher checks
+** Dealing river ** [ 4c ]
+TheGeneral22 checks
+lukeBelcher bets [$0.02]
+TheGeneral22 calls [$0.02]
+** Summary **
+lukeBelcher shows [ 7s, 3h ]
+TheGeneral22 shows [ 5c, Jd ]
+TheGeneral22 collected [ $0.12 ]
+
+
+#Game No : 502192002
+***** 888poker Hand History for Game 502192002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:05:03
+Table Milan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $0.90 )
+Seat 9: TheGeneral22 ( $0.86 )
+TheGeneral22 posts small blind [$0.01]
+lukeBelcher posts big blind [$0.02]
+** Dealing down cards **
+TheGeneral22 folds
+** Summary **
+lukeBelcher collected [ $0.03 ]
+
+
+#Game No : 502192003
+***** 888poker Hand History for Game 502192003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:05:09
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $0.91 )
+Seat 9: TheGeneral22 ( $0.85 )
+lukeBelcher posts small blind [$0.01]
+TheGeneral22 posts big blind [$0.02]
+** Dealing down cards **
+lukeBelcher calls [$0.01]
+TheGeneral22 raises [$0.04]
+lukeBelcher calls [$0.04]
+** Dealing flop ** [ Qc, Js, 2h ]
+TheGeneral22 checks
+lukeBelcher checks
+** Dealing turn ** [ Ah ]
+TheGeneral22 checks
+lukeBelcher checks
+** Dealing river ** [ 3c ]
+TheGeneral22 bets [$0.06]
+lukeBelcher calls [$0.06]
+** Summary **
+TheGeneral22 shows [ 4s, 4h ]
+lukeBelcher shows [ Kh, Jc ]
+lukeBelcher collected [ $0.23 ]
+
+
+#Game No : 502192041
+***** 888poker Hand History for Game 502192041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:07:16
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $1.66 )
+Seat 9: TheGeneral22 ( $0.80 )
+lukeBelcher posts small blind [$0.01]
+TheGeneral22 posts big blind [$0.02]
+** Dealing down cards **
+lukeBelcher calls [$0.01]
+TheGeneral22 checks
+** Dealing flop ** [ Kh, As, 3h ]
+TheGeneral22 bets [$0.02]
+lukeBelcher raises [$0.04]
+TheGeneral22 calls [$0.02]
+** Dealing turn ** [ Ts ]
+TheGeneral22 checks
+lukeBelcher bets [$0.02]
+TheGeneral22 calls [$0.02]
+** Dealing river ** [ 6d ]
+TheGeneral22 checks
+lukeBelcher checks
+** Summary **
+TheGeneral22 shows [ Ac, 8s ]
+lukeBelcher mucks [ Ad, 4c ]
+TheGeneral22 collected [ $0.15 ]
+
+
+#Game No : 502192105
+***** 888poker Hand History for Game 502192105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:10:24
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $1.63 )
+Seat 6: dorian412 ( $0.83 )
+lukeBelcher posts small blind [$0.01]
+dorian412 posts big blind [$0.02]
+** Dealing down cards **
+lukeBelcher calls [$0.01]
+dorian412 checks
+** Dealing flop ** [ Qh, 7h, Ad ]
+dorian412 checks
+lukeBelcher checks
+** Dealing turn ** [ Qs ]
+dorian412 checks
+lukeBelcher bets [$0.02]
+dorian412 folds
+** Summary **
+lukeBelcher did not show his hand
+lukeBelcher collected [ $0.04 ]
+
+
+#Game No : 502192115
+***** 888poker Hand History for Game 502192115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:10:47
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $1.65 )
+Seat 6: dorian412 ( $0.81 )
+dorian412 posts small blind [$0.01]
+lukeBelcher posts big blind [$0.02]
+** Dealing down cards **
+dorian412 calls [$0.01]
+lukeBelcher checks
+** Dealing flop ** [ 2h, 7c, 3d ]
+lukeBelcher checks
+dorian412 checks
+** Dealing turn ** [ Jc ]
+lukeBelcher checks
+dorian412 checks
+** Dealing river ** [ Kh ]
+lukeBelcher bets [$0.02]
+dorian412 raises [$0.04]
+lukeBelcher calls [$0.02]
+** Summary **
+dorian412 shows [ 6h, Kd ]
+lukeBelcher mucks [ Jd, Qs ]
+dorian412 collected [ $0.12 ]
+
+
+#Game No : 502192127
+***** 888poker Hand History for Game 502192127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:11:24
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $1.59 )
+Seat 6: dorian412 ( $0.87 )
+lukeBelcher posts small blind [$0.01]
+dorian412 posts big blind [$0.02]
+** Dealing down cards **
+lukeBelcher folds
+** Summary **
+dorian412 did not show his hand
+dorian412 collected [ $0.03 ]
+
+
+#Game No : 502192130
+***** 888poker Hand History for Game 502192130 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:11:32
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $1.58 )
+Seat 6: dorian412 ( $0.88 )
+dorian412 posts small blind [$0.01]
+lukeBelcher posts big blind [$0.02]
+** Dealing down cards **
+dorian412 calls [$0.01]
+lukeBelcher checks
+** Dealing flop ** [ 2c, Ah, Qc ]
+lukeBelcher checks
+dorian412 checks
+** Dealing turn ** [ 4d ]
+lukeBelcher bets [$0.02]
+dorian412 calls [$0.02]
+** Dealing river ** [ 4c ]
+lukeBelcher checks
+dorian412 checks
+** Summary **
+lukeBelcher shows [ 6c, 8h ]
+dorian412 shows [ 3s, 2d ]
+dorian412 collected [ $0.08 ]
+
+
+#Game No : 502192142
+***** 888poker Hand History for Game 502192142 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:12:07
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $1.54 )
+Seat 6: dorian412 ( $0.92 )
+lukeBelcher posts small blind [$0.01]
+dorian412 posts big blind [$0.02]
+** Dealing down cards **
+lukeBelcher calls [$0.01]
+dorian412 checks
+** Dealing flop ** [ 3c, 5d, Jc ]
+dorian412 checks
+lukeBelcher checks
+** Dealing turn ** [ As ]
+dorian412 bets [$0.02]
+lukeBelcher calls [$0.02]
+** Dealing river ** [ Qh ]
+dorian412 bets [$0.04]
+lukeBelcher folds
+** Summary **
+dorian412 did not show his hand
+dorian412 collected [ $0.08 ]
+
+
+#Game No : 502192156
+***** 888poker Hand History for Game 502192156 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:12:50
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $1.50 )
+Seat 6: dorian412 ( $0.96 )
+dorian412 posts small blind [$0.01]
+lukeBelcher posts big blind [$0.02]
+** Dealing down cards **
+dorian412 calls [$0.01]
+lukeBelcher checks
+** Dealing flop ** [ 3s, Qc, Ks ]
+lukeBelcher checks
+dorian412 checks
+** Dealing turn ** [ 2h ]
+lukeBelcher checks
+dorian412 checks
+** Dealing river ** [ 3h ]
+lukeBelcher checks
+dorian412 checks
+** Summary **
+lukeBelcher shows [ 6s, 4c ]
+dorian412 shows [ 6h, 4h ]
+lukeBelcher collected [ $0.02 ]
+dorian412 collected [ $0.02 ]
+
+
+#Game No : 502192166
+***** 888poker Hand History for Game 502192166 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:13:23
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $1.50 )
+Seat 6: dorian412 ( $0.96 )
+lukeBelcher posts small blind [$0.01]
+dorian412 posts big blind [$0.02]
+** Dealing down cards **
+lukeBelcher calls [$0.01]
+dorian412 checks
+** Dealing flop ** [ 7h, 5s, Ks ]
+dorian412 checks
+lukeBelcher checks
+** Dealing turn ** [ 8d ]
+dorian412 checks
+lukeBelcher bets [$0.02]
+dorian412 folds
+** Summary **
+lukeBelcher did not show his hand
+lukeBelcher collected [ $0.04 ]
+
+
+#Game No : 502192177
+***** 888poker Hand History for Game 502192177 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:13:50
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: lukeBelcher ( $1.52 )
+Seat 6: dorian412 ( $0.94 )
+dorian412 posts small blind [$0.01]
+lukeBelcher posts big blind [$0.02]
+** Dealing down cards **
+dorian412 folds
+** Summary **
+lukeBelcher collected [ $0.03 ]
+
+
+#Game No : 502192543
+***** 888poker Hand History for Game 502192543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:32:37
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: bud2011 ( $0.83 )
+Seat 6: dorian412 ( $2.37 )
+bud2011 posts small blind [$0.01]
+dorian412 posts big blind [$0.02]
+** Dealing down cards **
+bud2011 calls [$0.01]
+dorian412 checks
+** Dealing flop ** [ Tc, 6d, 2d ]
+dorian412 bets [$0.02]
+bud2011 calls [$0.02]
+** Dealing turn ** [ 5d ]
+dorian412 bets [$0.02]
+bud2011 calls [$0.02]
+** Dealing river ** [ 6c ]
+dorian412 bets [$0.08]
+bud2011 calls [$0.08]
+** Summary **
+dorian412 shows [ 9d, 8d ]
+bud2011 mucks [ Kh, 6s ]
+dorian412 collected [ $0.27 ]
+
+
+#Game No : 502192548
+***** 888poker Hand History for Game 502192548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:33:07
+Table Milan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: bud2011 ( $0.69 )
+Seat 6: dorian412 ( $2.50 )
+dorian412 posts small blind [$0.01]
+bud2011 posts big blind [$0.02]
+** Dealing down cards **
+dorian412 calls [$0.01]
+bud2011 raises [$0.04]
+dorian412 calls [$0.04]
+** Dealing flop ** [ 4s, 9h, As ]
+bud2011 bets [$0.08]
+dorian412 calls [$0.08]
+** Dealing turn ** [ 4c ]
+bud2011 bets [$0.18]
+dorian412 calls [$0.18]
+** Dealing river ** [ Qc ]
+bud2011 checks
+dorian412 checks
+** Summary **
+bud2011 shows [ Qh, Ac ]
+dorian412 mucks [ Ts, 6s ]
+bud2011 collected [ $0.60 ]
+
+
+#Game No : 502192562
+***** 888poker Hand History for Game 502192562 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:33:47
+Table Milan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: bud2011 ( $0.97 )
+Seat 6: dorian412 ( $2.18 )
+bud2011 posts small blind [$0.01]
+dorian412 posts big blind [$0.02]
+** Dealing down cards **
+bud2011 calls [$0.01]
+dorian412 raises [$0.04]
+bud2011 calls [$0.04]
+** Dealing flop ** [ Js, 5d, Kh ]
+dorian412 checks
+bud2011 checks
+** Dealing turn ** [ 3s ]
+dorian412 bets [$0.06]
+bud2011 calls [$0.06]
+** Dealing river ** [ 6h ]
+dorian412 bets [$0.24]
+bud2011 folds
+** Summary **
+dorian412 collected [ $0.23 ]
+
+
+#Game No : 502194721
+***** 888poker Hand History for Game 502194721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 22:45:38
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pripase ( $0.75 )
+Seat 4: VictimVIP ( $2.40 )
+VictimVIP posts small blind [$0.01]
+Pripase posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+Pripase collected [ $0.03 ]
+
+
+#Game No : 502194726
+***** 888poker Hand History for Game 502194726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 22:45:53
+Table Milan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pripase ( $0.77 )
+Seat 4: VictimVIP ( $2.38 )
+VictimVIP posts small blind [$0.01]
+Pripase posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+Pripase collected [ $0.03 ]
+
+
+#Game No : 502194729
+***** 888poker Hand History for Game 502194729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 22:46:01
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pripase ( $0.78 )
+Seat 4: VictimVIP ( $2.37 )
+Pripase posts small blind [$0.01]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+Pripase collected [ $0.01 ]
+
+

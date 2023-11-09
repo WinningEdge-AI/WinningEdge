@@ -1,0 +1,75 @@
+#Game No : 1262483858
+***** 888poker Hand History for Game 1262483858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 04 2019 06:21:01
+Table Fremont 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: diggler32 ( $1.61 )
+Seat 6: Inyom ( $2.84 )
+diggler32 posts small blind [$0.01]
+Inyom posts big blind [$0.02]
+** Dealing down cards **
+diggler32 raises [$0.03]
+Inyom calls [$0.02]
+** Dealing flop ** [ 5s, 8d, Ah ]
+Inyom checks
+diggler32 bets [$0.02]
+Inyom calls [$0.02]
+** Dealing turn ** [ 6h ]
+Inyom checks
+diggler32 bets [$0.03]
+Inyom calls [$0.03]
+** Dealing river ** [ 3h ]
+Inyom checks
+diggler32 bets [$0.05]
+Inyom folds
+** Summary **
+diggler32 collected [ $0.17 ]
+
+
+#Game No : 1262483955
+***** 888poker Hand History for Game 1262483955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 04 2019 06:21:06
+Table Fremont 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: diggler32 ( $1.69 )
+Seat 6: Inyom ( $2.75 )
+Inyom posts small blind [$0.01]
+diggler32 posts big blind [$0.02]
+** Dealing down cards **
+Inyom raises [$0.05]
+diggler32 folds
+** Summary **
+Inyom collected [ $0.04 ]
+
+
+#Game No : 1262484241
+***** 888poker Hand History for Game 1262484241 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 04 2019 06:22:59
+Table Fremont 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: jsupim1 ( $2 )
+Seat 5: Sensitivmoon ( $2 )
+Sensitivmoon posts small blind [$0.01]
+jsupim1 posts big blind [$0.02]
+** Dealing down cards **
+Sensitivmoon calls [$0.01]
+jsupim1 raises [$0.02]
+Sensitivmoon calls [$0.02]
+** Dealing flop ** [ 2s, Ad, 2d ]
+jsupim1 bets [$0.02]
+Sensitivmoon calls [$0.02]
+** Dealing turn ** [ 7d ]
+jsupim1 bets [$0.02]
+Sensitivmoon raises [$0.04]
+jsupim1 calls [$0.02]
+** Dealing river ** [ Ah ]
+jsupim1 checks
+Sensitivmoon bets [$0.26]
+jsupim1 folds
+** Summary **
+Sensitivmoon collected [ $0.19 ]
+
+

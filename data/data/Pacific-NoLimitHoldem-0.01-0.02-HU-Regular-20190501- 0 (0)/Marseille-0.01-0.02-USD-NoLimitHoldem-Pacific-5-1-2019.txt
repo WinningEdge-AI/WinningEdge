@@ -1,0 +1,117 @@
+#Game No : 516953953
+***** 888poker Hand History for Game 516953953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 19:23:08
+Table Marseille 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: CORNFLAKE64 ( $2.03 )
+Seat 10: Lupul_Alb1 ( $2.26 )
+Lupul_Alb1 posts small blind [$0.01]
+CORNFLAKE64 posts big blind [$0.02]
+** Dealing down cards **
+Lupul_Alb1 calls [$0.01]
+CORNFLAKE64 checks
+** Dealing flop ** [ Ts, Kd, Qs ]
+CORNFLAKE64 checks
+Lupul_Alb1 checks
+** Dealing turn ** [ Tc ]
+CORNFLAKE64 checks
+Lupul_Alb1 bets [$0.04]
+CORNFLAKE64 folds
+** Summary **
+Lupul_Alb1 collected [ $0.04 ]
+
+
+#Game No : 516954120
+***** 888poker Hand History for Game 516954120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 19:41:18
+Table Marseille 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: LevinxEC ( $2.04 )
+Seat 9: chipbelle ( $0.96 )
+LevinxEC posts small blind [$0.01]
+chipbelle posts big blind [$0.02]
+** Dealing down cards **
+LevinxEC calls [$0.01]
+chipbelle checks
+** Dealing flop ** [ Jd, Tc, 9h ]
+chipbelle checks
+LevinxEC bets [$0.10]
+chipbelle folds
+** Summary **
+LevinxEC did not show his hand
+LevinxEC collected [ $0.04 ]
+
+
+#Game No : 516954127
+***** 888poker Hand History for Game 516954127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 19:41:57
+Table Marseille 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: LevinxEC ( $2.06 )
+Seat 9: chipbelle ( $0.94 )
+chipbelle posts small blind [$0.01]
+LevinxEC posts big blind [$0.02]
+** Dealing down cards **
+chipbelle calls [$0.01]
+LevinxEC checks
+** Dealing flop ** [ Qh, 6c, Qc ]
+LevinxEC checks
+chipbelle bets [$0.04]
+LevinxEC calls [$0.04]
+** Dealing turn ** [ 6d ]
+LevinxEC checks
+chipbelle bets [$0.04]
+LevinxEC raises [$0.08]
+chipbelle calls [$0.04]
+** Dealing river ** [ Tc ]
+LevinxEC checks
+chipbelle bets [$0.06]
+LevinxEC calls [$0.06]
+** Summary **
+chipbelle shows [ 2c, Qs ]
+LevinxEC mucks [ Kd, Jc ]
+chipbelle collected [ $0.38 ]
+
+
+#Game No : 516954133
+***** 888poker Hand History for Game 516954133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 19:43:00
+Table Marseille 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: LevinxEC ( $1.86 )
+Seat 9: chipbelle ( $1.12 )
+LevinxEC posts small blind [$0.01]
+chipbelle posts big blind [$0.02]
+** Dealing down cards **
+LevinxEC folds
+** Summary **
+chipbelle did not show his hand
+chipbelle collected [ $0.03 ]
+
+
+#Game No : 516954136
+***** 888poker Hand History for Game 516954136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 04 2019 19:43:07
+Table Marseille 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: LevinxEC ( $1.85 )
+Seat 9: chipbelle ( $1.13 )
+chipbelle posts small blind [$0.01]
+LevinxEC posts big blind [$0.02]
+** Dealing down cards **
+chipbelle calls [$0.01]
+LevinxEC raises [$0.02]
+chipbelle calls [$0.02]
+** Dealing flop ** [ Ks, 2s, Kh ]
+LevinxEC bets [$0.05]
+chipbelle folds
+** Summary **
+LevinxEC did not show his hand
+LevinxEC collected [ $0.08 ]
+
+

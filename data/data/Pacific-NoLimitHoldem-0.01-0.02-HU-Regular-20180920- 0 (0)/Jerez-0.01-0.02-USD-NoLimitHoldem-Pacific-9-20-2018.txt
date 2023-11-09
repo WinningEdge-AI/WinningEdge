@@ -1,0 +1,202 @@
+#Game No : 608400102
+***** 888poker Hand History for Game 608400102 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 23:23:21
+Table Jerez 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $2.06 )
+Seat 2: MeltMike ( $1.94 )
+BLUBOTA posts small blind [$0.01]
+MeltMike posts big blind [$0.02]
+** Dealing down cards **
+BLUBOTA calls [$0.01]
+MeltMike raises [$0.02]
+BLUBOTA calls [$0.02]
+** Dealing flop ** [ 8h, 9s, 5c ]
+MeltMike checks
+BLUBOTA checks
+** Dealing turn ** [ Td ]
+MeltMike bets [$0.04]
+BLUBOTA folds
+** Summary **
+MeltMike collected [ $0.08 ]
+
+
+#Game No : 608400109
+***** 888poker Hand History for Game 608400109 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 23:23:53
+Table Jerez 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $2.02 )
+Seat 2: MeltMike ( $1.98 )
+MeltMike posts small blind [$0.01]
+BLUBOTA posts big blind [$0.02]
+** Dealing down cards **
+MeltMike folds
+** Summary **
+BLUBOTA collected [ $0.03 ]
+
+
+#Game No : 608400112
+***** 888poker Hand History for Game 608400112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 23:24:02
+Table Jerez 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $2.03 )
+Seat 2: MeltMike ( $1.97 )
+BLUBOTA posts small blind [$0.01]
+MeltMike posts big blind [$0.02]
+** Dealing down cards **
+BLUBOTA calls [$0.01]
+MeltMike checks
+** Dealing flop ** [ 2c, 5c, Qc ]
+MeltMike checks
+BLUBOTA checks
+** Dealing turn ** [ Ks ]
+MeltMike checks
+BLUBOTA checks
+** Dealing river ** [ Th ]
+MeltMike checks
+BLUBOTA checks
+** Summary **
+MeltMike shows [ Js, 6d ]
+BLUBOTA shows [ 3h, Ac ]
+BLUBOTA collected [ $0.04 ]
+
+
+#Game No : 608400122
+***** 888poker Hand History for Game 608400122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 23:24:46
+Table Jerez 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $2.05 )
+Seat 2: MeltMike ( $1.95 )
+MeltMike posts small blind [$0.01]
+BLUBOTA posts big blind [$0.02]
+** Dealing down cards **
+MeltMike calls [$0.01]
+BLUBOTA checks
+** Dealing flop ** [ 3h, 9h, As ]
+BLUBOTA checks
+MeltMike checks
+** Dealing turn ** [ Qc ]
+BLUBOTA checks
+MeltMike checks
+** Dealing river ** [ 5d ]
+BLUBOTA checks
+MeltMike checks
+** Summary **
+BLUBOTA shows [ Ts, 3s ]
+MeltMike mucks [ 4h, Kd ]
+BLUBOTA collected [ $0.04 ]
+
+
+#Game No : 608400131
+***** 888poker Hand History for Game 608400131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 09 2018 23:25:32
+Table Jerez 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BLUBOTA ( $2.07 )
+Seat 2: MeltMike ( $1.93 )
+BLUBOTA posts small blind [$0.01]
+MeltMike posts big blind [$0.02]
+** Dealing down cards **
+BLUBOTA calls [$0.01]
+MeltMike checks
+** Dealing flop ** [ Jd, Kh, 9d ]
+MeltMike bets [$0.02]
+BLUBOTA folds
+** Summary **
+MeltMike did not show his hand
+MeltMike collected [ $0.04 ]
+
+
+#Game No : 608413469
+***** 888poker Hand History for Game 608413469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 08:22:21
+Table Jerez 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.92 )
+Seat 4: DDragu ( $1.97 )
+avramia1 posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+avramia1 folds
+** Summary **
+DDragu did not show his hand
+DDragu collected [ $0.03 ]
+
+
+#Game No : 608413474
+***** 888poker Hand History for Game 608413474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 08:22:26
+Table Jerez 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.91 )
+Seat 4: DDragu ( $1.98 )
+avramia1 posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+DDragu checks
+** Dealing flop ** [ 4s, 9s, Th ]
+DDragu checks
+avramia1 checks
+** Dealing turn ** [ Tc ]
+DDragu bets [$0.02]
+avramia1 folds
+** Summary **
+DDragu did not show his hand
+DDragu collected [ $0.04 ]
+
+
+#Game No : 608413485
+***** 888poker Hand History for Game 608413485 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 08:22:47
+Table Jerez 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.89 )
+Seat 4: DDragu ( $2 )
+DDragu posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+DDragu calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 7h, Jd, 3s ]
+avramia1 checks
+DDragu checks
+** Dealing turn ** [ 3d ]
+avramia1 checks
+DDragu checks
+** Dealing river ** [ 9s ]
+avramia1 checks
+DDragu checks
+** Summary **
+avramia1 shows [ 8s, Kd ]
+DDragu shows [ 5c, 5s ]
+DDragu collected [ $0.04 ]
+
+
+#Game No : 608413505
+***** 888poker Hand History for Game 608413505 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 09 2018 08:23:15
+Table Jerez 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.87 )
+Seat 4: DDragu ( $2.02 )
+avramia1 posts small blind [$0.01]
+** Dealing down cards **
+DDragu folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.01 ]
+
+

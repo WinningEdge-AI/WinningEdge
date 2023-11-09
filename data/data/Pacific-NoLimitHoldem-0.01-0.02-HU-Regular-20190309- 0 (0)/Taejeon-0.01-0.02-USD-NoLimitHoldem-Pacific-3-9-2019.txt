@@ -1,0 +1,102 @@
+#Game No : 514783108
+***** 888poker Hand History for Game 514783108 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 00:56:01
+Table Taejeon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: dimzag ( $0.54 )
+Seat 9: waimanc ( $3.10 )
+dimzag posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+dimzag folds
+** Summary **
+waimanc did not show his hand
+waimanc collected [ $0.03 ]
+
+
+#Game No : 514783114
+***** 888poker Hand History for Game 514783114 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 00:56:09
+Table Taejeon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: dimzag ( $0.53 )
+Seat 9: waimanc ( $3.11 )
+waimanc posts small blind [$0.01]
+dimzag posts big blind [$0.02]
+** Dealing down cards **
+waimanc calls [$0.01]
+dimzag checks
+** Dealing flop ** [ Kh, 6h, Qh ]
+dimzag checks
+waimanc checks
+** Dealing turn ** [ As ]
+dimzag bets [$0.02]
+waimanc folds
+** Summary **
+dimzag did not show his hand
+dimzag collected [ $0.04 ]
+
+
+#Game No : 514783122
+***** 888poker Hand History for Game 514783122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 00:56:34
+Table Taejeon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: dimzag ( $0.55 )
+Seat 9: waimanc ( $3.09 )
+dimzag posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+dimzag raises [$0.03]
+waimanc calls [$0.02]
+** Dealing flop ** [ Tc, 6h, Ad ]
+waimanc checks
+dimzag checks
+** Dealing turn ** [ 8d ]
+waimanc checks
+dimzag bets [$0.02]
+waimanc calls [$0.02]
+** Dealing river ** [ 4d ]
+waimanc checks
+dimzag checks
+** Summary **
+waimanc shows [ 9c, 6s ]
+dimzag shows [ 8s, Js ]
+dimzag collected [ $0.12 ]
+
+
+#Game No : 514783131
+***** 888poker Hand History for Game 514783131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 00:56:54
+Table Taejeon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: dimzag ( $0.61 )
+Seat 9: waimanc ( $3.03 )
+waimanc posts small blind [$0.01]
+** Dealing down cards **
+dimzag folds
+** Summary **
+waimanc did not show his hand
+waimanc collected [ $0.01 ]
+
+
+#Game No : 514783214
+***** 888poker Hand History for Game 514783214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:01:18
+Table Taejeon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gueko.vampi ( $1.21 )
+Seat 9: waimanc ( $3.03 )
+gueko.vampi posts small blind [$0.01]
+** Dealing down cards **
+waimanc folds
+** Summary **
+gueko.vampi did not show his hand
+gueko.vampi collected [ $0.01 ]
+
+

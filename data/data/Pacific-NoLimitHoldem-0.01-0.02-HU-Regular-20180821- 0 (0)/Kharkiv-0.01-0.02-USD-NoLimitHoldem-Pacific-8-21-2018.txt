@@ -1,0 +1,27 @@
+#Game No : 454586238
+***** 888poker Hand History for Game 454586238 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:08:55
+Table Kharkiv 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: megatomandre ( $1.27 )
+Seat 5: vikingen888 ( $1.85 )
+megatomandre posts small blind [$0.01]
+vikingen888 posts big blind [$0.02]
+** Dealing down cards **
+megatomandre calls [$0.01]
+vikingen888 checks
+** Dealing flop ** [ 7s, 4s, Ks ]
+vikingen888 bets [$0.02]
+megatomandre raises [$0.10]
+vikingen888 raises [$0.16]
+megatomandre raises [$1.15]
+vikingen888 calls [$1.07]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ Th ]
+** Summary **
+megatomandre shows [ 9s, Js ]
+vikingen888 shows [ As, 3s ]
+vikingen888 collected [ $2.39 ]
+
+

@@ -1,0 +1,87 @@
+#Game No : 1248623372
+***** 888poker Hand History for Game 1248623372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 06:58:19
+Table Poza Rica 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ivanfranko ( $0.97 )
+Seat 7: beg1sheff ( $1.70 )
+ivanfranko posts small blind [$0.01]
+beg1sheff posts big blind [$0.02]
+** Dealing down cards **
+ivanfranko calls [$0.01]
+beg1sheff checks
+** Dealing flop ** [ 5h, 8c, Js ]
+beg1sheff checks
+ivanfranko bets [$0.02]
+beg1sheff calls [$0.02]
+** Dealing turn ** [ Qs ]
+beg1sheff checks
+ivanfranko bets [$0.02]
+beg1sheff calls [$0.02]
+** Dealing river ** [ Ad ]
+beg1sheff checks
+ivanfranko checks
+** Summary **
+beg1sheff shows [ 5c, 2s ]
+ivanfranko shows [ Jh, 3s ]
+ivanfranko collected [ $0.12 ]
+
+
+#Game No : 1248640242
+***** 888poker Hand History for Game 1248640242 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 08:13:29
+Table Poza Rica 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: evgeniy1963 ( $0.95 )
+Seat 7: Mimico68 ( $1.17 )
+Mimico68 posts small blind [$0.01]
+evgeniy1963 posts big blind [$0.02]
+** Dealing down cards **
+Mimico68 calls [$0.01]
+evgeniy1963 checks
+** Dealing flop ** [ Js, 2s, 5d ]
+evgeniy1963 checks
+Mimico68 checks
+** Dealing turn ** [ 2c ]
+evgeniy1963 checks
+Mimico68 bets [$0.04]
+evgeniy1963 folds
+** Summary **
+Mimico68 collected [ $0.04 ]
+
+
+#Game No : 1248640552
+***** 888poker Hand History for Game 1248640552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 08:14:53
+Table Poza Rica 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: evgeniy1963 ( $0.77 )
+Seat 9: dmitb ( $1.03 )
+evgeniy1963 posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+evgeniy1963 raises [$0.03]
+dmitb folds
+** Summary **
+evgeniy1963 collected [ $0.04 ]
+
+
+#Game No : 1248640587
+***** 888poker Hand History for Game 1248640587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 08:15:01
+Table Poza Rica 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: evgeniy1963 ( $0.79 )
+Seat 9: dmitb ( $1.01 )
+dmitb posts small blind [$0.01]
+evgeniy1963 posts big blind [$0.02]
+** Dealing down cards **
+dmitb folds
+** Summary **
+evgeniy1963 collected [ $0.03 ]
+
+

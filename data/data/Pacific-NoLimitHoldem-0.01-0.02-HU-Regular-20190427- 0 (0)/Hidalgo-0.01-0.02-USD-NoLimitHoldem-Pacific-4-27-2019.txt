@@ -1,0 +1,78 @@
+#Game No : 464541016
+***** 888poker Hand History for Game 464541016 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 04 2019 00:00:53
+Table Hidalgo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: bobtsc ( $1.09 )
+Seat 7: klerik170 ( $2.01 )
+klerik170 posts small blind [$0.01]
+bobtsc posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+bobtsc raises [$0.02]
+klerik170 calls [$0.02]
+** Dealing flop ** [ 7d, 7h, 4d ]
+bobtsc bets [$0.05]
+klerik170 folds
+** Summary **
+bobtsc collected [ $0.08 ]
+
+
+#Game No : 464541026
+***** 888poker Hand History for Game 464541026 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 04 2019 00:01:29
+Table Hidalgo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: bobtsc ( $1.13 )
+Seat 7: klerik170 ( $2 )
+bobtsc posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+bobtsc calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ 8d, 9h, 2c ]
+klerik170 checks
+bobtsc checks
+** Dealing turn ** [ Tc ]
+klerik170 checks
+bobtsc checks
+** Dealing river ** [ Th ]
+klerik170 checks
+bobtsc checks
+** Summary **
+klerik170 shows [ 2d, Qs ]
+bobtsc shows [ Js, 8c ]
+bobtsc collected [ $0.04 ]
+
+
+#Game No : 464541036
+***** 888poker Hand History for Game 464541036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 04 2019 00:02:09
+Table Hidalgo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: bobtsc ( $1.15 )
+Seat 7: klerik170 ( $2 )
+klerik170 posts small blind [$0.01]
+bobtsc posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+bobtsc checks
+** Dealing flop ** [ Jh, 9h, Kh ]
+bobtsc bets [$0.02]
+klerik170 calls [$0.02]
+** Dealing turn ** [ 4c ]
+bobtsc checks
+klerik170 checks
+** Dealing river ** [ 5d ]
+bobtsc checks
+klerik170 checks
+** Summary **
+bobtsc shows [ 8c, Td ]
+klerik170 shows [ Tc, 8h ]
+klerik170 collected [ $0.04 ]
+bobtsc collected [ $0.04 ]
+
+

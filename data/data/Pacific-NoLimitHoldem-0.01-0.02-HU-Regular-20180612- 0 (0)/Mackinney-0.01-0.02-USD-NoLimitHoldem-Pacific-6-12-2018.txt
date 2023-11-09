@@ -1,0 +1,117 @@
+#Game No : 503265754
+***** 888poker Hand History for Game 503265754 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 13:06:14
+Table Mackinney 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: engostops ( $0.80 )
+Seat 4: Pavel_ok ( $0.80 )
+Pavel_ok posts small blind [$0.01]
+engostops posts big blind [$0.02]
+** Dealing down cards **
+Pavel_ok raises [$0.05]
+engostops calls [$0.04]
+** Dealing flop ** [ 6h, 2s, 2h ]
+engostops checks
+Pavel_ok checks
+** Dealing turn ** [ Qh ]
+engostops checks
+Pavel_ok checks
+** Dealing river ** [ Qc ]
+engostops checks
+Pavel_ok checks
+** Summary **
+engostops shows [ Ts, Js ]
+Pavel_ok shows [ Ks, Ac ]
+Pavel_ok collected [ $0.12 ]
+
+
+#Game No : 503265958
+***** 888poker Hand History for Game 503265958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 13:07:13
+Table Mackinney 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: engostops ( $0.74 )
+Seat 4: Pavel_ok ( $0.86 )
+engostops posts small blind [$0.01]
+** Dealing down cards **
+Pavel_ok folds
+** Summary **
+engostops did not show his hand
+engostops collected [ $0.01 ]
+
+
+#Game No : 503266034
+***** 888poker Hand History for Game 503266034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 13:08:03
+Table Mackinney 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: engostops ( $0.74 )
+Seat 5: AlianceNK ( $2 )
+engostops posts small blind [$0.01]
+AlianceNK posts big blind [$0.02]
+** Dealing down cards **
+engostops raises [$0.03]
+AlianceNK folds
+** Summary **
+engostops collected [ $0.04 ]
+
+
+#Game No : 503266050
+***** 888poker Hand History for Game 503266050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 13:08:12
+Table Mackinney 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: engostops ( $0.76 )
+Seat 5: AlianceNK ( $1.98 )
+AlianceNK posts small blind [$0.01]
+engostops posts big blind [$0.02]
+** Dealing down cards **
+AlianceNK folds
+** Summary **
+engostops collected [ $0.03 ]
+
+
+#Game No : 503266066
+***** 888poker Hand History for Game 503266066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 13:08:20
+Table Mackinney 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: engostops ( $0.77 )
+Seat 5: AlianceNK ( $1.97 )
+engostops posts small blind [$0.01]
+AlianceNK posts big blind [$0.02]
+** Dealing down cards **
+engostops calls [$0.01]
+AlianceNK checks
+** Dealing flop ** [ Ts, 4c, As ]
+AlianceNK bets [$0.02]
+engostops calls [$0.02]
+** Dealing turn ** [ Ad ]
+AlianceNK bets [$0.04]
+engostops folds
+** Summary **
+AlianceNK collected [ $0.08 ]
+
+
+#Game No : 503266107
+***** 888poker Hand History for Game 503266107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2018 13:08:42
+Table Mackinney 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: engostops ( $0.73 )
+Seat 5: AlianceNK ( $2.01 )
+AlianceNK posts small blind [$0.01]
+engostops posts big blind [$0.02]
+** Dealing down cards **
+AlianceNK raises [$0.03]
+engostops folds
+** Summary **
+AlianceNK collected [ $0.04 ]
+
+

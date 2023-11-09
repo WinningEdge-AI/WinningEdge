@@ -1,0 +1,184 @@
+#Game No : 515533322
+***** 888poker Hand History for Game 515533322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 09:10:02
+Table Darlington 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sewerdim76 ( $0.95 )
+Seat 3: eehhO ( $2 )
+sewerdim76 posts small blind [$0.01]
+eehhO posts big blind [$0.02]
+** Dealing down cards **
+sewerdim76 calls [$0.01]
+eehhO checks
+** Dealing flop ** [ Qh, 3c, 3s ]
+eehhO checks
+sewerdim76 checks
+** Dealing turn ** [ Ts ]
+eehhO bets [$0.02]
+sewerdim76 calls [$0.02]
+** Dealing river ** [ 7c ]
+eehhO checks
+sewerdim76 bets [$0.04]
+eehhO calls [$0.04]
+** Summary **
+sewerdim76 shows [ Qd, Ah ]
+eehhO mucks [ Td, Kd ]
+sewerdim76 collected [ $0.15 ]
+
+
+#Game No : 515533411
+***** 888poker Hand History for Game 515533411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 09:10:06
+Table Darlington 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: sewerdim76 ( $1.02 )
+Seat 3: eehhO ( $2 )
+eehhO posts small blind [$0.01]
+sewerdim76 posts big blind [$0.02]
+** Dealing down cards **
+eehhO calls [$0.01]
+sewerdim76 checks
+** Dealing flop ** [ Jd, 5h, 4d ]
+sewerdim76 bets [$0.02]
+eehhO calls [$0.02]
+** Dealing turn ** [ Tc ]
+sewerdim76 checks
+eehhO checks
+** Dealing river ** [ As ]
+sewerdim76 checks
+eehhO checks
+** Summary **
+sewerdim76 shows [ 8c, Qh ]
+eehhO shows [ 6s, 4s ]
+eehhO collected [ $0.08 ]
+
+
+#Game No : 515564560
+***** 888poker Hand History for Game 515564560 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 15:30:15
+Table Darlington 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: gerure ( $1.86 )
+Seat 5: IamYurec ( $0.88 )
+IamYurec posts small blind [$0.01]
+gerure posts big blind [$0.02]
+** Dealing down cards **
+IamYurec calls [$0.01]
+gerure checks
+** Dealing flop ** [ 2s, Jc, 4c ]
+gerure checks
+IamYurec checks
+** Dealing turn ** [ 9h ]
+gerure checks
+IamYurec checks
+** Dealing river ** [ 9d ]
+gerure checks
+IamYurec checks
+** Summary **
+gerure shows [ 7s, Th ]
+IamYurec shows [ Kd, 6h ]
+IamYurec collected [ $0.04 ]
+
+
+#Game No : 515564738
+***** 888poker Hand History for Game 515564738 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 15:32:43
+Table Darlington 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gerure ( $1.84 )
+Seat 5: IamYurec ( $0.90 )
+gerure posts small blind [$0.01]
+IamYurec posts big blind [$0.02]
+** Dealing down cards **
+gerure folds
+** Summary **
+IamYurec collected [ $0.03 ]
+
+
+#Game No : 515564768
+***** 888poker Hand History for Game 515564768 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 15:33:10
+Table Darlington 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: RememberName ( $3.45 )
+Seat 5: IamYurec ( $0.91 )
+IamYurec posts small blind [$0.01]
+RememberName posts big blind [$0.02]
+** Dealing down cards **
+IamYurec calls [$0.01]
+RememberName checks
+** Dealing flop ** [ 7c, 2h, Ac ]
+RememberName checks
+IamYurec checks
+** Dealing turn ** [ 4d ]
+RememberName checks
+IamYurec bets [$0.02]
+RememberName calls [$0.02]
+** Dealing river ** [ 3d ]
+RememberName checks
+IamYurec bets [$0.02]
+RememberName folds
+** Summary **
+IamYurec collected [ $0.08 ]
+
+
+#Game No : 515564796
+***** 888poker Hand History for Game 515564796 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 15:33:31
+Table Darlington 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: RememberName ( $3.41 )
+Seat 5: IamYurec ( $0.95 )
+RememberName posts small blind [$0.01]
+IamYurec posts big blind [$0.02]
+** Dealing down cards **
+RememberName raises [$0.06]
+IamYurec folds
+** Summary **
+RememberName collected [ $0.04 ]
+
+
+#Game No : 515564808
+***** 888poker Hand History for Game 515564808 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 15:33:40
+Table Darlington 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: RememberName ( $3.43 )
+Seat 5: IamYurec ( $0.93 )
+IamYurec posts small blind [$0.01]
+RememberName posts big blind [$0.02]
+** Dealing down cards **
+IamYurec calls [$0.01]
+RememberName raises [$0.06]
+IamYurec raises [$0.22]
+RememberName calls [$0.16]
+** Dealing flop ** [ 4s, Tc, 5c ]
+RememberName checks
+IamYurec bets [$0.69]
+RememberName folds
+** Summary **
+IamYurec collected [ $0.45 ]
+
+
+#Game No : 515564838
+***** 888poker Hand History for Game 515564838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 11 2018 15:34:01
+Table Darlington 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: RememberName ( $3.19 )
+Seat 5: IamYurec ( $1.14 )
+RememberName posts small blind [$0.01]
+** Dealing down cards **
+IamYurec folds
+** Summary **
+RememberName collected [ $0.01 ]
+
+

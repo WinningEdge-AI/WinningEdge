@@ -1,0 +1,168 @@
+#Game No : 500426008
+***** 888poker Hand History for Game 500426008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 08 2018 23:42:32
+Table Hanoi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Apachetiger ( $3.60 )
+Seat 4: shyrsh ( $1.04 )
+Apachetiger posts small blind [$0.01]
+** Dealing down cards **
+shyrsh folds
+** Summary **
+Apachetiger did not show his hand
+Apachetiger collected [ $0.01 ]
+
+
+#Game No : 500426037
+***** 888poker Hand History for Game 500426037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 08 2018 23:44:11
+Table Hanoi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Apachetiger ( $3.60 )
+Seat 6: Chris2375 ( $0.80 )
+Chris2375 posts small blind [$0.01]
+Apachetiger posts big blind [$0.02]
+** Dealing down cards **
+Chris2375 calls [$0.01]
+Apachetiger checks
+** Dealing flop ** [ Qd, 9s, 2s ]
+Apachetiger checks
+Chris2375 bets [$0.02]
+Apachetiger folds
+** Summary **
+Chris2375 collected [ $0.04 ]
+
+
+#Game No : 500426048
+***** 888poker Hand History for Game 500426048 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 08 2018 23:44:51
+Table Hanoi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Apachetiger ( $3.58 )
+Seat 6: Chris2375 ( $0.82 )
+Apachetiger posts small blind [$0.01]
+Chris2375 posts big blind [$0.02]
+** Dealing down cards **
+Apachetiger folds
+** Summary **
+Chris2375 collected [ $0.03 ]
+
+
+#Game No : 500426340
+***** 888poker Hand History for Game 500426340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 08 2018 23:59:27
+Table Hanoi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: EKA77.77 ( $1.55 )
+Seat 4: xLugat ( $0.83 )
+xLugat posts small blind [$0.01]
+** Dealing down cards **
+EKA77.77 folds
+** Summary **
+xLugat collected [ $0.01 ]
+
+
+#Game No : 500426348
+***** 888poker Hand History for Game 500426348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 08 2018 23:59:46
+Table Hanoi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: xLugat ( $0.83 )
+Seat 6: Chris2375 ( $0.80 )
+xLugat posts small blind [$0.01]
+Chris2375 posts big blind [$0.02]
+** Dealing down cards **
+xLugat calls [$0.01]
+Chris2375 checks
+** Dealing flop ** [ 7d, 6c, 6d ]
+Chris2375 checks
+xLugat checks
+** Dealing turn ** [ 7h ]
+Chris2375 checks
+xLugat checks
+** Dealing river ** [ Th ]
+Chris2375 checks
+xLugat bets [$0.02]
+Chris2375 folds
+** Summary **
+xLugat collected [ $0.04 ]
+
+
+#Game No : 500426358
+***** 888poker Hand History for Game 500426358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 08 2018 00:00:12
+Table Hanoi 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: xLugat ( $0.85 )
+Seat 6: Chris2375 ( $0.78 )
+Chris2375 posts small blind [$0.01]
+xLugat posts big blind [$0.02]
+** Dealing down cards **
+Chris2375 calls [$0.01]
+xLugat checks
+** Dealing flop ** [ As, 6d, 8d ]
+xLugat checks
+Chris2375 checks
+** Dealing turn ** [ Jh ]
+xLugat checks
+Chris2375 checks
+** Dealing river ** [ 8s ]
+xLugat checks
+Chris2375 checks
+** Summary **
+xLugat shows [ 9c, 3d ]
+Chris2375 mucks [ 7c, 4h ]
+xLugat collected [ $0.04 ]
+
+
+#Game No : 500433629
+***** 888poker Hand History for Game 500433629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 08 2018 04:06:18
+Table Hanoi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: t.jenks ( $2.74 )
+Seat 2: lezBhonest ( $0.80 )
+t.jenks posts small blind [$0.01]
+** Dealing down cards **
+lezBhonest folds
+** Summary **
+t.jenks did not show his hand
+t.jenks collected [ $0.01 ]
+
+
+#Game No : 500433645
+***** 888poker Hand History for Game 500433645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 08 2018 04:06:48
+Table Hanoi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: t.jenks ( $2.74 )
+Seat 2: lezBhonest ( $1 )
+t.jenks posts small blind [$0.01]
+lezBhonest posts big blind [$0.02]
+** Dealing down cards **
+t.jenks raises [$0.05]
+lezBhonest calls [$0.04]
+** Dealing flop ** [ 4c, 4d, 2d ]
+lezBhonest checks
+t.jenks bets [$0.06]
+lezBhonest calls [$0.06]
+** Dealing turn ** [ Td ]
+lezBhonest checks
+t.jenks checks
+** Dealing river ** [ 9s ]
+lezBhonest checks
+t.jenks checks
+** Summary **
+lezBhonest shows [ Jd, 6s ]
+t.jenks shows [ Qs, Ad ]
+t.jenks collected [ $0.23 ]
+
+

@@ -1,0 +1,579 @@
+#Game No : 503485918
+***** 888poker Hand History for Game 503485918 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:12:34
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: gazzamundo ( $2.42 )
+Seat 2: cassius36 ( $0.68 )
+cassius36 posts small blind [$0.01]
+gazzamundo posts big blind [$0.02]
+** Dealing down cards **
+cassius36 folds
+** Summary **
+gazzamundo collected [ $0.03 ]
+
+
+#Game No : 503486268
+***** 888poker Hand History for Game 503486268 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:29:21
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: gazzamundo ( $2.60 )
+Seat 2: cassius36 ( $0.53 )
+cassius36 posts small blind [$0.01]
+gazzamundo posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+gazzamundo checks
+** Dealing flop ** [ 5h, 6h, Jd ]
+gazzamundo bets [$0.02]
+cassius36 calls [$0.02]
+** Dealing turn ** [ Kh ]
+gazzamundo bets [$0.02]
+cassius36 calls [$0.02]
+** Dealing river ** [ 5c ]
+gazzamundo folds
+** Summary **
+cassius36 collected [ $0.12 ]
+
+
+#Game No : 503486507
+***** 888poker Hand History for Game 503486507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:40:40
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.39 )
+Seat 5: jupala1 ( $0.70 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 checks
+** Dealing flop ** [ 9c, Th, Ac ]
+jupala1 checks
+cassius36 checks
+** Dealing turn ** [ 5d ]
+jupala1 bets [$0.02]
+cassius36 folds
+** Summary **
+jupala1 did not show his hand
+jupala1 collected [ $0.04 ]
+
+
+#Game No : 503486525
+***** 888poker Hand History for Game 503486525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:41:31
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.37 )
+Seat 5: jupala1 ( $0.72 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 checks
+** Dealing flop ** [ 2c, 6d, 9c ]
+cassius36 checks
+jupala1 bets [$0.04]
+cassius36 calls [$0.04]
+** Dealing turn ** [ 5s ]
+cassius36 bets [$0.06]
+jupala1 calls [$0.06]
+** Dealing river ** [ Jd ]
+cassius36 bets [$0.12]
+jupala1 calls [$0.12]
+** Summary **
+cassius36 shows [ 2s, 6s ]
+jupala1 mucks [ 8s, 5d ]
+cassius36 collected [ $0.45 ]
+
+
+#Game No : 503486558
+***** 888poker Hand History for Game 503486558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:43:00
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.58 )
+Seat 5: jupala1 ( $0.48 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 checks
+** Dealing flop ** [ 2s, 4d, Ah ]
+jupala1 checks
+cassius36 checks
+** Dealing turn ** [ Jd ]
+jupala1 bets [$0.08]
+cassius36 calls [$0.08]
+** Dealing river ** [ 2d ]
+jupala1 bets [$0.20]
+cassius36 calls [$0.20]
+** Summary **
+jupala1 shows [ 7s, 3h ]
+cassius36 shows [ 6d, Jc ]
+cassius36 collected [ $0.57 ]
+
+
+#Game No : 503486587
+***** 888poker Hand History for Game 503486587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:44:10
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.85 )
+Seat 5: jupala1 ( $0.18 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 checks
+** Dealing flop ** [ 3d, Td, 2s ]
+cassius36 bets [$0.02]
+jupala1 folds
+** Summary **
+cassius36 did not show his hand
+cassius36 collected [ $0.04 ]
+
+
+#Game No : 503486600
+***** 888poker Hand History for Game 503486600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:44:46
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.87 )
+Seat 5: jupala1 ( $0.16 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 raises [$0.04]
+cassius36 calls [$0.04]
+** Dealing flop ** [ 9d, Qc, Th ]
+jupala1 bets [$0.02]
+cassius36 calls [$0.02]
+** Dealing turn ** [ Kh ]
+jupala1 bets [$0.08]
+cassius36 calls [$0.08]
+** Dealing river ** [ 4c ]
+** Summary **
+cassius36 shows [ 2d, Kd ]
+jupala1 shows [ As, Qd ]
+cassius36 collected [ $0.30 ]
+
+
+#Game No : 503486627
+***** 888poker Hand History for Game 503486627 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:45:46
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $1.01 )
+Seat 5: jupala1 ( $0.80 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 checks
+** Dealing flop ** [ Kc, Ad, Ah ]
+cassius36 bets [$0.02]
+jupala1 calls [$0.02]
+** Dealing turn ** [ Jc ]
+cassius36 bets [$0.02]
+jupala1 calls [$0.02]
+** Dealing river ** [ 8s ]
+cassius36 checks
+jupala1 checks
+** Summary **
+cassius36 shows [ 2h, Qd ]
+jupala1 shows [ 6s, Qh ]
+cassius36 collected [ $0.06 ]
+jupala1 collected [ $0.06 ]
+
+
+#Game No : 503486645
+***** 888poker Hand History for Game 503486645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:46:29
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $1.01 )
+Seat 5: jupala1 ( $0.80 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 checks
+** Dealing flop ** [ 3s, Kd, Qc ]
+jupala1 checks
+cassius36 checks
+** Dealing turn ** [ 4c ]
+jupala1 bets [$0.02]
+cassius36 calls [$0.02]
+** Dealing river ** [ Ac ]
+jupala1 bets [$0.08]
+cassius36 folds
+** Summary **
+jupala1 did not show his hand
+jupala1 collected [ $0.08 ]
+
+
+#Game No : 503486657
+***** 888poker Hand History for Game 503486657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:47:16
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.97 )
+Seat 5: jupala1 ( $0.84 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 checks
+** Dealing flop ** [ As, 8d, Qc ]
+cassius36 checks
+jupala1 checks
+** Dealing turn ** [ 8h ]
+cassius36 checks
+jupala1 checks
+** Dealing river ** [ Td ]
+cassius36 bets [$0.04]
+jupala1 calls [$0.04]
+** Summary **
+cassius36 shows [ 3d, Tc ]
+jupala1 shows [ 4s, Th ]
+cassius36 collected [ $0.06 ]
+jupala1 collected [ $0.06 ]
+
+
+#Game No : 503486668
+***** 888poker Hand History for Game 503486668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:47:45
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.97 )
+Seat 5: jupala1 ( $0.84 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 raises [$0.04]
+cassius36 calls [$0.04]
+** Dealing flop ** [ Kh, 9d, Js ]
+jupala1 bets [$0.02]
+cassius36 raises [$0.04]
+jupala1 calls [$0.02]
+** Dealing turn ** [ 8d ]
+jupala1 checks
+cassius36 bets [$0.20]
+jupala1 folds
+** Summary **
+cassius36 did not show his hand
+cassius36 collected [ $0.19 ]
+
+
+#Game No : 503486673
+***** 888poker Hand History for Game 503486673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:48:12
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $1.06 )
+Seat 5: jupala1 ( $0.74 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 raises [$0.02]
+jupala1 calls [$0.02]
+** Dealing flop ** [ 7d, Qs, 7h ]
+cassius36 bets [$0.08]
+jupala1 calls [$0.08]
+** Dealing turn ** [ 3h ]
+cassius36 bets [$0.24]
+jupala1 calls [$0.24]
+** Dealing river ** [ 3c ]
+cassius36 bets [$0.70]
+jupala1 calls [$0.38]
+** Summary **
+cassius36 shows [ Ad, Qc ]
+jupala1 shows [ 7c, Ks ]
+jupala1 collected [ $1.39 ]
+
+
+#Game No : 503486690
+***** 888poker Hand History for Game 503486690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:49:03
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.60 )
+Seat 5: jupala1 ( $1.07 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 checks
+** Dealing flop ** [ 6d, Ac, Kd ]
+cassius36 checks
+jupala1 bets [$0.04]
+cassius36 folds
+** Summary **
+jupala1 did not show his hand
+jupala1 collected [ $0.04 ]
+
+
+#Game No : 503486692
+***** 888poker Hand History for Game 503486692 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:49:18
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.58 )
+Seat 5: jupala1 ( $1.09 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 raises [$0.04]
+cassius36 calls [$0.04]
+** Dealing flop ** [ 2c, 7c, 9h ]
+jupala1 bets [$0.16]
+cassius36 folds
+** Summary **
+jupala1 did not show his hand
+jupala1 collected [ $0.12 ]
+
+
+#Game No : 503486702
+***** 888poker Hand History for Game 503486702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:49:49
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.52 )
+Seat 5: jupala1 ( $1.15 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 checks
+** Dealing flop ** [ Jh, Ac, 3s ]
+cassius36 checks
+jupala1 checks
+** Dealing turn ** [ Qh ]
+cassius36 checks
+jupala1 bets [$0.02]
+cassius36 folds
+** Summary **
+jupala1 did not show his hand
+jupala1 collected [ $0.04 ]
+
+
+#Game No : 503486709
+***** 888poker Hand History for Game 503486709 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:50:08
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.50 )
+Seat 5: jupala1 ( $1.17 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 checks
+** Dealing flop ** [ Ks, As, 8c ]
+jupala1 checks
+cassius36 checks
+** Dealing turn ** [ 3c ]
+jupala1 checks
+cassius36 checks
+** Dealing river ** [ Th ]
+jupala1 checks
+cassius36 checks
+** Summary **
+jupala1 shows [ 6d, 2h ]
+cassius36 shows [ 3h, 9d ]
+cassius36 collected [ $0.04 ]
+
+
+#Game No : 503486721
+***** 888poker Hand History for Game 503486721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:50:55
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.52 )
+Seat 5: jupala1 ( $1.15 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 checks
+** Dealing flop ** [ 4s, Kh, Jd ]
+cassius36 checks
+jupala1 bets [$0.04]
+cassius36 folds
+** Summary **
+jupala1 did not show his hand
+jupala1 collected [ $0.04 ]
+
+
+#Game No : 503486732
+***** 888poker Hand History for Game 503486732 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:51:31
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.50 )
+Seat 5: jupala1 ( $1.17 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 raises [$0.02]
+cassius36 calls [$0.02]
+** Dealing flop ** [ Qh, Kc, 4d ]
+jupala1 bets [$0.08]
+cassius36 folds
+** Summary **
+jupala1 did not show his hand
+jupala1 collected [ $0.08 ]
+
+
+#Game No : 503486738
+***** 888poker Hand History for Game 503486738 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:52:01
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.46 )
+Seat 5: jupala1 ( $1.21 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 checks
+** Dealing flop ** [ 5s, 3c, 7s ]
+cassius36 checks
+jupala1 checks
+** Dealing turn ** [ 8s ]
+cassius36 checks
+jupala1 checks
+** Dealing river ** [ 5h ]
+cassius36 bets [$0.02]
+jupala1 folds
+** Summary **
+cassius36 did not show his hand
+cassius36 collected [ $0.04 ]
+
+
+#Game No : 503486757
+***** 888poker Hand History for Game 503486757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:52:57
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.48 )
+Seat 5: jupala1 ( $1.19 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 raises [$0.04]
+cassius36 calls [$0.04]
+** Dealing flop ** [ Tc, 9h, Qd ]
+jupala1 bets [$0.12]
+cassius36 folds
+** Summary **
+jupala1 did not show his hand
+jupala1 collected [ $0.12 ]
+
+
+#Game No : 503486773
+***** 888poker Hand History for Game 503486773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:53:49
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.42 )
+Seat 5: jupala1 ( $1.25 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 calls [$0.01]
+cassius36 checks
+** Dealing flop ** [ As, Ts, Ad ]
+cassius36 checks
+jupala1 checks
+** Dealing turn ** [ Kh ]
+cassius36 checks
+jupala1 bets [$0.04]
+cassius36 folds
+** Summary **
+jupala1 did not show his hand
+jupala1 collected [ $0.04 ]
+
+
+#Game No : 503486790
+***** 888poker Hand History for Game 503486790 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:54:39
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.40 )
+Seat 5: jupala1 ( $1.27 )
+cassius36 posts small blind [$0.01]
+jupala1 posts big blind [$0.02]
+** Dealing down cards **
+cassius36 calls [$0.01]
+jupala1 checks
+** Dealing flop ** [ 5d, Ts, 9c ]
+jupala1 checks
+cassius36 bets [$0.02]
+jupala1 calls [$0.02]
+** Dealing turn ** [ 7h ]
+jupala1 checks
+cassius36 bets [$0.02]
+jupala1 folds
+** Summary **
+cassius36 did not show his hand
+cassius36 collected [ $0.08 ]
+
+
+#Game No : 503486794
+***** 888poker Hand History for Game 503486794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 06 2018 17:55:01
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: cassius36 ( $0.44 )
+Seat 5: jupala1 ( $1.23 )
+jupala1 posts small blind [$0.01]
+cassius36 posts big blind [$0.02]
+** Dealing down cards **
+jupala1 raises [$0.05]
+cassius36 calls [$0.04]
+** Dealing flop ** [ 9d, Jh, 6s ]
+cassius36 bets [$0.06]
+jupala1 calls [$0.06]
+** Dealing turn ** [ Ah ]
+cassius36 bets [$0.12]
+jupala1 raises [$0.32]
+cassius36 calls [$0.20]
+** Dealing river ** [ Qd ]
+** Summary **
+cassius36 shows [ Jc, 4c ]
+jupala1 shows [ 8d, Ad ]
+jupala1 collected [ $0.83 ]
+
+

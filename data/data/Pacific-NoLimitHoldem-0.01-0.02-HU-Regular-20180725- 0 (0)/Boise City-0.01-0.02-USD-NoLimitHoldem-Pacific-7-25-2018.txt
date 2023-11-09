@@ -1,0 +1,870 @@
+#Game No : 499919274
+***** 888poker Hand History for Game 499919274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 22:48:41
+Table Boise City 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.07 )
+Seat 9: IAMSTARVING ( $0.76 )
+IAMSTARVING posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+IAMSTARVING raises [$0.03]
+richbranson raises [$0.16]
+IAMSTARVING calls [$0.14]
+** Dealing flop ** [ 6d, Tc, 7h ]
+richbranson bets [$0.18]
+IAMSTARVING folds
+** Summary **
+richbranson collected [ $0.34 ]
+
+
+#Game No : 499919286
+***** 888poker Hand History for Game 499919286 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 22:49:02
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.23 )
+Seat 9: IAMSTARVING ( $0.58 )
+richbranson posts small blind [$0.01]
+IAMSTARVING posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+IAMSTARVING folds
+** Summary **
+richbranson collected [ $0.04 ]
+
+
+#Game No : 499920581
+***** 888poker Hand History for Game 499920581 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 23:58:01
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: sprostonic ( $1.07 )
+Seat 2: Bauerharms ( $1 )
+Bauerharms posts small blind [$0.01]
+sprostonic posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms raises [$0.03]
+sprostonic calls [$0.02]
+** Dealing flop ** [ 2d, 8s, 9c ]
+sprostonic checks
+Bauerharms checks
+** Dealing turn ** [ 2h ]
+sprostonic checks
+Bauerharms checks
+** Dealing river ** [ Qs ]
+sprostonic checks
+Bauerharms checks
+** Summary **
+sprostonic shows [ Kc, 3h ]
+Bauerharms mucks [ 5c, 4s ]
+sprostonic collected [ $0.08 ]
+
+
+#Game No : 499920593
+***** 888poker Hand History for Game 499920593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 23:58:33
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sprostonic ( $1.11 )
+Seat 2: Bauerharms ( $0.96 )
+sprostonic posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+sprostonic calls [$0.01]
+Bauerharms checks
+** Dealing flop ** [ Qs, As, Th ]
+Bauerharms checks
+sprostonic bets [$0.02]
+Bauerharms folds
+** Summary **
+sprostonic did not show his hand
+sprostonic collected [ $0.04 ]
+
+
+#Game No : 499920601
+***** 888poker Hand History for Game 499920601 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 23:58:51
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: sprostonic ( $1.13 )
+Seat 2: Bauerharms ( $0.94 )
+Bauerharms posts small blind [$0.01]
+sprostonic posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms raises [$0.03]
+sprostonic folds
+** Summary **
+Bauerharms did not show his hand
+Bauerharms collected [ $0.04 ]
+
+
+#Game No : 499920602
+***** 888poker Hand History for Game 499920602 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 23:58:57
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sprostonic ( $1.11 )
+Seat 2: Bauerharms ( $0.96 )
+sprostonic posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+sprostonic calls [$0.01]
+Bauerharms raises [$0.02]
+sprostonic calls [$0.02]
+** Dealing flop ** [ 8h, Jc, Ts ]
+Bauerharms bets [$0.08]
+sprostonic calls [$0.08]
+** Dealing turn ** [ Jd ]
+Bauerharms checks
+sprostonic bets [$0.24]
+Bauerharms folds
+** Summary **
+sprostonic did not show his hand
+sprostonic collected [ $0.23 ]
+
+
+#Game No : 499920616
+***** 888poker Hand History for Game 499920616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 23:59:28
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: sprostonic ( $1.22 )
+Seat 2: Bauerharms ( $0.84 )
+Bauerharms posts small blind [$0.01]
+sprostonic posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms raises [$0.05]
+sprostonic calls [$0.04]
+** Dealing flop ** [ Qc, Ah, 3s ]
+sprostonic checks
+Bauerharms bets [$0.12]
+sprostonic calls [$0.12]
+** Dealing turn ** [ 6d ]
+sprostonic checks
+Bauerharms bets [$0.18]
+sprostonic calls [$0.18]
+** Dealing river ** [ 6h ]
+sprostonic checks
+Bauerharms bets [$0.36]
+sprostonic calls [$0.36]
+** Summary **
+Bauerharms shows [ 8s, Ac ]
+sprostonic mucks [ Qd, Td ]
+Bauerharms collected [ $1.35 ]
+
+
+#Game No : 499920637
+***** 888poker Hand History for Game 499920637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:00:13
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sprostonic ( $0.50 )
+Seat 2: Bauerharms ( $1.47 )
+sprostonic posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+sprostonic folds
+** Summary **
+Bauerharms did not show his hand
+Bauerharms collected [ $0.03 ]
+
+
+#Game No : 499920639
+***** 888poker Hand History for Game 499920639 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:00:21
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: sprostonic ( $0.49 )
+Seat 2: Bauerharms ( $1.48 )
+Bauerharms posts small blind [$0.01]
+sprostonic posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms raises [$0.03]
+sprostonic folds
+** Summary **
+Bauerharms did not show his hand
+Bauerharms collected [ $0.04 ]
+
+
+#Game No : 499920680
+***** 888poker Hand History for Game 499920680 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:01:56
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bauerharms ( $1.50 )
+Seat 4: AlexEnz0 ( $1 )
+Bauerharms posts small blind [$0.01]
+AlexEnz0 posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms raises [$0.03]
+AlexEnz0 folds
+** Summary **
+Bauerharms did not show his hand
+Bauerharms collected [ $0.04 ]
+
+
+#Game No : 499920709
+***** 888poker Hand History for Game 499920709 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:02:54
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bauerharms ( $1.52 )
+Seat 4: poompah ( $1 )
+poompah posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+poompah calls [$0.01]
+Bauerharms raises [$0.04]
+poompah folds
+** Summary **
+Bauerharms did not show his hand
+Bauerharms collected [ $0.04 ]
+
+
+#Game No : 499920713
+***** 888poker Hand History for Game 499920713 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:03:06
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bauerharms ( $1.54 )
+Seat 4: poompah ( $1 )
+Bauerharms posts small blind [$0.01]
+poompah posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms raises [$0.03]
+poompah folds
+** Summary **
+Bauerharms did not show his hand
+Bauerharms collected [ $0.04 ]
+
+
+#Game No : 499920715
+***** 888poker Hand History for Game 499920715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:03:13
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bauerharms ( $1.56 )
+Seat 4: poompah ( $1 )
+poompah posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+poompah folds
+** Summary **
+Bauerharms did not show his hand
+Bauerharms collected [ $0.03 ]
+
+
+#Game No : 499920717
+***** 888poker Hand History for Game 499920717 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:03:19
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bauerharms ( $1.57 )
+Seat 4: poompah ( $1 )
+Bauerharms posts small blind [$0.01]
+poompah posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms raises [$0.03]
+poompah calls [$0.02]
+** Dealing flop ** [ Kd, 8h, 2d ]
+poompah checks
+Bauerharms bets [$0.08]
+poompah calls [$0.08]
+** Dealing turn ** [ 9h ]
+poompah checks
+Bauerharms checks
+** Dealing river ** [ 6h ]
+poompah checks
+Bauerharms checks
+** Summary **
+poompah shows [ 7h, Ac ]
+Bauerharms shows [ Ks, Ts ]
+Bauerharms collected [ $0.23 ]
+
+
+#Game No : 499920727
+***** 888poker Hand History for Game 499920727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:03:46
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bauerharms ( $1.68 )
+Seat 4: poompah ( $1 )
+poompah posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+poompah raises [$0.04]
+Bauerharms folds
+** Summary **
+poompah collected [ $0.04 ]
+
+
+#Game No : 499920748
+***** 888poker Hand History for Game 499920748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:04:25
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bauerharms ( $1.73 )
+Seat 4: poompah ( $1 )
+poompah posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+poompah raises [$0.04]
+Bauerharms folds
+** Summary **
+poompah collected [ $0.04 ]
+
+
+#Game No : 499920751
+***** 888poker Hand History for Game 499920751 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:04:32
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bauerharms ( $1.71 )
+Seat 4: poompah ( $1.02 )
+Bauerharms posts small blind [$0.01]
+poompah posts big blind [$0.02]
+** Dealing down cards **
+Bauerharms raises [$0.03]
+poompah calls [$0.02]
+** Dealing flop ** [ 2c, 5c, 6d ]
+poompah checks
+Bauerharms bets [$0.08]
+poompah raises [$0.32]
+Bauerharms folds
+** Summary **
+poompah collected [ $0.23 ]
+
+
+#Game No : 499920762
+***** 888poker Hand History for Game 499920762 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 00:04:53
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bauerharms ( $1.59 )
+Seat 4: poompah ( $1.13 )
+poompah posts small blind [$0.01]
+Bauerharms posts big blind [$0.02]
+** Dealing down cards **
+poompah folds
+** Summary **
+Bauerharms collected [ $0.03 ]
+
+
+#Game No : 499924003
+***** 888poker Hand History for Game 499924003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 02:37:07
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: makedonbt ( $0.81 )
+Seat 7: laschko ( $0.99 )
+makedonbt posts small blind [$0.01]
+laschko posts big blind [$0.02]
+** Dealing down cards **
+makedonbt raises [$0.03]
+laschko calls [$0.02]
+** Dealing flop ** [ Ts, Qc, 7h ]
+laschko checks
+makedonbt checks
+** Dealing turn ** [ 5d ]
+laschko checks
+makedonbt checks
+** Dealing river ** [ 9c ]
+laschko checks
+makedonbt checks
+** Summary **
+laschko shows [ 4h, Ah ]
+makedonbt shows [ 8c, Ac ]
+makedonbt collected [ $0.08 ]
+
+
+#Game No : 499925860
+***** 888poker Hand History for Game 499925860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 03:41:34
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: onetwo11 ( $1.15 )
+Seat 4: CHAMPIONT688 ( $1.35 )
+CHAMPIONT688 posts small blind [$0.01]
+onetwo11 posts big blind [$0.02]
+** Dealing down cards **
+CHAMPIONT688 raises [$0.05]
+onetwo11 folds
+** Summary **
+CHAMPIONT688 collected [ $0.04 ]
+
+
+#Game No : 499925890
+***** 888poker Hand History for Game 499925890 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 03:42:32
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: onetwo11 ( $1.07 )
+Seat 4: CHAMPIONT688 ( $1.43 )
+CHAMPIONT688 posts small blind [$0.01]
+onetwo11 posts big blind [$0.02]
+** Dealing down cards **
+CHAMPIONT688 folds
+** Summary **
+onetwo11 collected [ $0.03 ]
+
+
+#Game No : 499926019
+***** 888poker Hand History for Game 499926019 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 03:46:33
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: onetwo11 ( $1.72 )
+Seat 4: CHAMPIONT688 ( $1.43 )
+onetwo11 posts small blind [$0.01]
+CHAMPIONT688 posts big blind [$0.02]
+** Dealing down cards **
+onetwo11 calls [$0.01]
+CHAMPIONT688 raises [$0.06]
+onetwo11 folds
+** Summary **
+CHAMPIONT688 collected [ $0.04 ]
+
+
+#Game No : 499926029
+***** 888poker Hand History for Game 499926029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 03:46:53
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: onetwo11 ( $1.70 )
+Seat 4: CHAMPIONT688 ( $1.45 )
+CHAMPIONT688 posts small blind [$0.01]
+onetwo11 posts big blind [$0.02]
+** Dealing down cards **
+CHAMPIONT688 raises [$0.05]
+onetwo11 calls [$0.04]
+** Dealing flop ** [ 6h, 8d, 2s ]
+onetwo11 checks
+CHAMPIONT688 checks
+** Dealing turn ** [ 8h ]
+onetwo11 checks
+CHAMPIONT688 bets [$0.06]
+onetwo11 folds
+** Summary **
+CHAMPIONT688 collected [ $0.12 ]
+
+
+#Game No : 499929631
+***** 888poker Hand History for Game 499929631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 05:37:13
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: dmitriDZY14 ( $0.56 )
+Seat 4: RedChub ( $1 )
+RedChub posts small blind [$0.01]
+dmitriDZY14 posts big blind [$0.02]
+** Dealing down cards **
+RedChub folds
+** Summary **
+dmitriDZY14 collected [ $0.03 ]
+
+
+#Game No : 499929667
+***** 888poker Hand History for Game 499929667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 05:38:05
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dmitriDZY14 ( $0.53 )
+Seat 2: Pavel_Invest ( $1.02 )
+dmitriDZY14 posts small blind [$0.01]
+Pavel_Invest posts big blind [$0.02]
+** Dealing down cards **
+dmitriDZY14 calls [$0.01]
+Pavel_Invest folds
+** Summary **
+dmitriDZY14 collected [ $0.04 ]
+
+
+#Game No : 499929933
+***** 888poker Hand History for Game 499929933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 05:43:54
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Dartvader1 ( $1.01 )
+Seat 7: RobA17 ( $0.97 )
+RobA17 posts small blind [$0.01]
+Dartvader1 posts big blind [$0.02]
+** Dealing down cards **
+RobA17 calls [$0.01]
+Dartvader1 folds
+** Summary **
+RobA17 collected [ $0.04 ]
+
+
+#Game No : 499929944
+***** 888poker Hand History for Game 499929944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 05:44:04
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Dartvader1 ( $1 )
+Seat 7: RobA17 ( $0.99 )
+Dartvader1 posts small blind [$0.01]
+RobA17 posts big blind [$0.02]
+** Dealing down cards **
+Dartvader1 folds
+** Summary **
+RobA17 collected [ $0.03 ]
+
+
+#Game No : 506893406
+***** 888poker Hand History for Game 506893406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 09:04:25
+Table Boise City 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 6: Griboedow ( $1.25 )
+Seat 7: CJBplayer ( $2 )
+Griboedow posts small blind [$0.01]
+CJBplayer posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+CJBplayer checks
+** Dealing flop ** [ 4c, As, 8s ]
+Griboedow checks
+CJBplayer bets [$0.02]
+Griboedow folds
+** Summary **
+CJBplayer did not show his hand
+CJBplayer collected [ $0.04 ]
+
+
+#Game No : 506918050
+***** 888poker Hand History for Game 506918050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:38:00
+Table Boise City 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: aleksdzen ( $1.08 )
+Seat 6: Optic77 ( $3.16 )
+aleksdzen posts small blind [$0.01]
+Optic77 posts big blind [$0.02]
+** Dealing down cards **
+aleksdzen folds
+** Summary **
+Optic77 collected [ $0.03 ]
+
+
+#Game No : 506918090
+***** 888poker Hand History for Game 506918090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:38:22
+Table Boise City 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: niallketch ( $1 )
+Seat 6: Optic77 ( $3.17 )
+Optic77 posts small blind [$0.01]
+niallketch posts big blind [$0.02]
+** Dealing down cards **
+Optic77 calls [$0.01]
+niallketch raises [$0.08]
+Optic77 calls [$0.08]
+** Dealing flop ** [ Qc, 3s, 3c ]
+niallketch bets [$0.06]
+Optic77 calls [$0.06]
+** Dealing turn ** [ 8d ]
+niallketch bets [$0.06]
+Optic77 calls [$0.06]
+** Dealing river ** [ Js ]
+niallketch bets [$0.06]
+Optic77 calls [$0.06]
+** Summary **
+niallketch shows [ 6h, 8h ]
+Optic77 mucks [ 7h, 7s ]
+niallketch collected [ $0.53 ]
+
+
+#Game No : 506918138
+***** 888poker Hand History for Game 506918138 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:38:50
+Table Boise City 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: niallketch ( $1.25 )
+Seat 6: Optic77 ( $2.89 )
+niallketch posts small blind [$0.01]
+Optic77 posts big blind [$0.02]
+** Dealing down cards **
+niallketch raises [$0.03]
+Optic77 calls [$0.02]
+** Dealing flop ** [ 4h, Ac, Tc ]
+Optic77 checks
+niallketch bets [$0.02]
+Optic77 calls [$0.02]
+** Dealing turn ** [ Qs ]
+Optic77 checks
+niallketch bets [$0.02]
+Optic77 calls [$0.02]
+** Dealing river ** [ 5c ]
+Optic77 checks
+niallketch bets [$0.06]
+Optic77 folds
+** Summary **
+niallketch did not show his hand
+niallketch collected [ $0.15 ]
+
+
+#Game No : 506918184
+***** 888poker Hand History for Game 506918184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:39:19
+Table Boise City 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: niallketch ( $1.32 )
+Seat 6: Optic77 ( $2.81 )
+Optic77 posts small blind [$0.01]
+niallketch posts big blind [$0.02]
+** Dealing down cards **
+Optic77 calls [$0.01]
+niallketch raises [$0.04]
+Optic77 calls [$0.04]
+** Dealing flop ** [ 7d, Qs, 6s ]
+niallketch bets [$0.04]
+Optic77 calls [$0.04]
+** Dealing turn ** [ 4c ]
+niallketch bets [$0.02]
+Optic77 calls [$0.02]
+** Dealing river ** [ Qd ]
+niallketch bets [$0.06]
+Optic77 calls [$0.06]
+** Summary **
+niallketch shows [ 3d, Kd ]
+Optic77 shows [ 6d, 9s ]
+Optic77 collected [ $0.34 ]
+
+
+#Game No : 506918250
+***** 888poker Hand History for Game 506918250 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:39:51
+Table Boise City 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: niallketch ( $1.14 )
+Seat 6: Optic77 ( $2.97 )
+niallketch posts small blind [$0.01]
+Optic77 posts big blind [$0.02]
+** Dealing down cards **
+niallketch raises [$0.03]
+Optic77 calls [$0.02]
+** Dealing flop ** [ Kh, 7h, 9c ]
+Optic77 checks
+niallketch bets [$0.06]
+Optic77 calls [$0.06]
+** Dealing turn ** [ 7d ]
+Optic77 bets [$0.20]
+niallketch raises [$1.04]
+Optic77 calls [$0.84]
+** Dealing river ** [ 3d ]
+** Summary **
+niallketch shows [ Kd, Qd ]
+Optic77 shows [ 2s, Ks ]
+niallketch collected [ $2.14 ]
+
+
+#Game No : 506918309
+***** 888poker Hand History for Game 506918309 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:40:24
+Table Boise City 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: niallketch ( $2.14 )
+Seat 6: Optic77 ( $1.83 )
+Optic77 posts small blind [$0.01]
+niallketch posts big blind [$0.02]
+** Dealing down cards **
+Optic77 calls [$0.01]
+niallketch checks
+** Dealing flop ** [ Td, Qs, Tc ]
+niallketch checks
+Optic77 checks
+** Dealing turn ** [ Kc ]
+niallketch checks
+Optic77 checks
+** Dealing river ** [ Ac ]
+niallketch bets [$0.02]
+Optic77 folds
+** Summary **
+niallketch did not show his hand
+niallketch collected [ $0.04 ]
+
+
+#Game No : 506918347
+***** 888poker Hand History for Game 506918347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:40:45
+Table Boise City 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: niallketch ( $2.16 )
+Seat 6: Optic77 ( $1.81 )
+niallketch posts small blind [$0.01]
+Optic77 posts big blind [$0.02]
+** Dealing down cards **
+niallketch calls [$0.01]
+Optic77 checks
+** Dealing flop ** [ Kd, 6d, 7h ]
+Optic77 checks
+niallketch bets [$0.02]
+Optic77 calls [$0.02]
+** Dealing turn ** [ 6s ]
+Optic77 checks
+niallketch bets [$0.02]
+Optic77 calls [$0.02]
+** Dealing river ** [ 4s ]
+Optic77 checks
+niallketch bets [$0.06]
+Optic77 calls [$0.06]
+** Summary **
+niallketch shows [ 9c, 9s ]
+Optic77 mucks [ 5d, 7c ]
+niallketch collected [ $0.23 ]
+
+
+#Game No : 506918426
+***** 888poker Hand History for Game 506918426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:41:30
+Table Boise City 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: niallketch ( $2.27 )
+Seat 6: Optic77 ( $1.69 )
+Optic77 posts small blind [$0.01]
+niallketch posts big blind [$0.02]
+** Dealing down cards **
+Optic77 raises [$0.03]
+niallketch calls [$0.02]
+** Dealing flop ** [ 9c, 9d, 2d ]
+niallketch bets [$0.02]
+Optic77 calls [$0.02]
+** Dealing turn ** [ Qc ]
+niallketch bets [$0.02]
+Optic77 raises [$0.12]
+niallketch calls [$0.10]
+** Dealing river ** [ 3s ]
+niallketch bets [$0.02]
+Optic77 raises [$0.58]
+niallketch folds
+** Summary **
+Optic77 did not show his hand
+Optic77 collected [ $0.38 ]
+
+
+#Game No : 506918491
+***** 888poker Hand History for Game 506918491 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:42:09
+Table Boise City 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: niallketch ( $2.07 )
+Seat 6: Optic77 ( $1.87 )
+niallketch posts small blind [$0.01]
+Optic77 posts big blind [$0.02]
+** Dealing down cards **
+niallketch raises [$0.03]
+Optic77 calls [$0.02]
+** Dealing flop ** [ Kh, 9h, As ]
+Optic77 checks
+niallketch checks
+** Dealing turn ** [ 9d ]
+Optic77 checks
+niallketch checks
+** Dealing river ** [ 8c ]
+Optic77 checks
+niallketch checks
+** Summary **
+Optic77 shows [ Qc, 7s ]
+niallketch shows [ 7h, 7c ]
+niallketch collected [ $0.08 ]
+
+
+#Game No : 506918541
+***** 888poker Hand History for Game 506918541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:42:37
+Table Boise City 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: niallketch ( $2.11 )
+Seat 6: Optic77 ( $1.83 )
+Optic77 posts small blind [$0.01]
+niallketch posts big blind [$0.02]
+** Dealing down cards **
+Optic77 calls [$0.01]
+niallketch checks
+** Dealing flop ** [ Qh, Js, 8d ]
+niallketch bets [$0.02]
+Optic77 calls [$0.02]
+** Dealing turn ** [ Ah ]
+niallketch bets [$0.02]
+Optic77 calls [$0.02]
+** Dealing river ** [ 4s ]
+niallketch bets [$0.02]
+Optic77 calls [$0.02]
+** Summary **
+niallketch shows [ 2d, Ad ]
+Optic77 mucks [ 6s, Jh ]
+niallketch collected [ $0.15 ]
+
+
+#Game No : 506918612
+***** 888poker Hand History for Game 506918612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:43:12
+Table Boise City 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: niallketch ( $2.18 )
+Seat 6: Optic77 ( $1.75 )
+niallketch posts small blind [$0.01]
+Optic77 posts big blind [$0.02]
+** Dealing down cards **
+niallketch folds
+** Summary **
+Optic77 did not show his hand
+Optic77 collected [ $0.03 ]
+
+
+#Game No : 506918626
+***** 888poker Hand History for Game 506918626 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 13:43:21
+Table Boise City 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: niallketch ( $2.17 )
+Seat 6: Optic77 ( $1.76 )
+Optic77 posts small blind [$0.01]
+** Dealing down cards **
+niallketch folds
+** Summary **
+Optic77 did not show his hand
+Optic77 collected [ $0.01 ]
+
+

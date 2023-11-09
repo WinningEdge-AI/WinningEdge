@@ -1,0 +1,51 @@
+#Game No : 1259730628
+***** 888poker Hand History for Game 1259730628 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 04 2019 06:07:26
+Table Charallave 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: VinRoss ( $2.54 )
+Seat 7: BYSPPAVEL ( $0.33 )
+BYSPPAVEL posts small blind [$0.01]
+VinRoss posts big blind [$0.02]
+** Dealing down cards **
+BYSPPAVEL calls [$0.01]
+VinRoss checks
+** Dealing flop ** [ 2h, 8h, Td ]
+VinRoss bets [$0.04]
+BYSPPAVEL calls [$0.04]
+** Dealing turn ** [ Qs ]
+VinRoss checks
+BYSPPAVEL checks
+** Dealing river ** [ 9d ]
+VinRoss checks
+BYSPPAVEL bets [$0.12]
+VinRoss folds
+** Summary **
+BYSPPAVEL collected [ $0.12 ]
+
+
+#Game No : 1259730708
+***** 888poker Hand History for Game 1259730708 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 04 2019 06:07:49
+Table Charallave 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: VinRoss ( $2.48 )
+Seat 7: BYSPPAVEL ( $0.39 )
+VinRoss posts small blind [$0.01]
+BYSPPAVEL posts big blind [$0.02]
+** Dealing down cards **
+VinRoss raises [$0.03]
+BYSPPAVEL calls [$0.02]
+** Dealing flop ** [ 3h, 8c, 9h ]
+BYSPPAVEL checks
+VinRoss checks
+** Dealing turn ** [ 3c ]
+BYSPPAVEL checks
+VinRoss bets [$0.05]
+BYSPPAVEL folds
+** Summary **
+VinRoss collected [ $0.08 ]
+
+

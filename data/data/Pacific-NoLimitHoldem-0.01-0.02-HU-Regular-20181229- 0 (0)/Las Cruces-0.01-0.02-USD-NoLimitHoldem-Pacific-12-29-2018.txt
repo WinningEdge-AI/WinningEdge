@@ -1,0 +1,82 @@
+#Game No : 520168336
+***** 888poker Hand History for Game 520168336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:46:17
+Table Las Cruces 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: mgrths ( $0.46 )
+Seat 7: OlegH1 ( $2.02 )
+OlegH1 posts small blind [$0.01]
+mgrths posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+mgrths checks
+** Dealing flop ** [ 4s, 7c, Td ]
+mgrths checks
+OlegH1 checks
+** Dealing turn ** [ Ac ]
+mgrths checks
+OlegH1 checks
+** Dealing river ** [ 8c ]
+mgrths checks
+OlegH1 checks
+** Summary **
+mgrths shows [ 4d, Js ]
+OlegH1 mucks [ Qc, 9d ]
+mgrths collected [ $0.04 ]
+
+
+#Game No : 520168383
+***** 888poker Hand History for Game 520168383 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:46:46
+Table Las Cruces 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mgrths ( $0.48 )
+Seat 7: OlegH1 ( $2 )
+mgrths posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+mgrths calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ Jh, 9h, 5c ]
+OlegH1 checks
+mgrths checks
+** Dealing turn ** [ 8s ]
+OlegH1 checks
+mgrths checks
+** Dealing river ** [ As ]
+OlegH1 checks
+mgrths checks
+** Summary **
+OlegH1 shows [ 3s, Kd ]
+mgrths shows [ 5h, 4d ]
+mgrths collected [ $0.04 ]
+
+
+#Game No : 520174655
+***** 888poker Hand History for Game 520174655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 15:57:09
+Table Las Cruces 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: A41Ced ( $0.48 )
+Seat 9: riotone888 ( $1.93 )
+riotone888 posts small blind [$0.01]
+A41Ced posts big blind [$0.02]
+** Dealing down cards **
+riotone888 calls [$0.01]
+A41Ced checks
+** Dealing flop ** [ 9h, 7s, 8c ]
+riotone888 checks
+A41Ced bets [$0.04]
+riotone888 calls [$0.04]
+** Dealing turn ** [ Qh ]
+riotone888 checks
+A41Ced bets [$0.08]
+riotone888 folds
+** Summary **
+A41Ced did not show his hand
+A41Ced collected [ $0.12 ]
+
+

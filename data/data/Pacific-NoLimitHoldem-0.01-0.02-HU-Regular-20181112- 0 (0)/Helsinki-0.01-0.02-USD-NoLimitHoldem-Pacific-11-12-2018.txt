@@ -1,0 +1,241 @@
+#Game No : 505274816
+***** 888poker Hand History for Game 505274816 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:34:35
+Table Helsinki 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: YDASHA888 ( $1.01 )
+Seat 2: asmak100 ( $2.20 )
+YDASHA888 posts small blind [$0.01]
+asmak100 posts big blind [$0.02]
+** Dealing down cards **
+YDASHA888 raises [$0.05]
+asmak100 raises [$0.16]
+YDASHA888 raises [$0.50]
+asmak100 calls [$0.38]
+** Dealing flop ** [ 8c, 9d, Ts ]
+asmak100 checks
+YDASHA888 bets [$0.45]
+asmak100 calls [$0.45]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ 6h ]
+** Summary **
+YDASHA888 shows [ Jc, Kd ]
+asmak100 shows [ 2h, Ad ]
+asmak100 collected [ $1.90 ]
+
+
+#Game No : 505274927
+***** 888poker Hand History for Game 505274927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:36:04
+Table Helsinki 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: YDASHA888 ( $1 )
+Seat 2: asmak100 ( $3.09 )
+asmak100 posts small blind [$0.01]
+YDASHA888 posts big blind [$0.02]
+** Dealing down cards **
+asmak100 folds
+** Summary **
+YDASHA888 collected [ $0.03 ]
+
+
+#Game No : 505275054
+***** 888poker Hand History for Game 505275054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:37:36
+Table Helsinki 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: asmak100 ( $3.06 )
+Seat 4: HoldemOmaha ( $1.02 )
+HoldemOmaha posts small blind [$0.01]
+asmak100 posts big blind [$0.02]
+** Dealing down cards **
+HoldemOmaha calls [$0.01]
+asmak100 raises [$0.04]
+HoldemOmaha calls [$0.04]
+** Dealing flop ** [ 2s, 2h, 7h ]
+asmak100 bets [$0.08]
+HoldemOmaha folds
+** Summary **
+asmak100 collected [ $0.12 ]
+
+
+#Game No : 505275077
+***** 888poker Hand History for Game 505275077 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:37:55
+Table Helsinki 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: asmak100 ( $3.12 )
+Seat 4: HoldemOmaha ( $0.96 )
+asmak100 posts small blind [$0.01]
+HoldemOmaha posts big blind [$0.02]
+** Dealing down cards **
+asmak100 raises [$0.05]
+HoldemOmaha folds
+** Summary **
+asmak100 collected [ $0.04 ]
+
+
+#Game No : 505275089
+***** 888poker Hand History for Game 505275089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:38:03
+Table Helsinki 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: asmak100 ( $3.14 )
+Seat 4: HoldemOmaha ( $0.94 )
+HoldemOmaha posts small blind [$0.01]
+** Dealing down cards **
+asmak100 folds
+** Summary **
+HoldemOmaha collected [ $0.01 ]
+
+
+#Game No : 505275132
+***** 888poker Hand History for Game 505275132 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:38:41
+Table Helsinki 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: HoldemOmaha ( $0.94 )
+Seat 6: Ra_Dik ( $1 )
+Ra_Dik posts small blind [$0.01]
+HoldemOmaha posts big blind [$0.02]
+** Dealing down cards **
+Ra_Dik calls [$0.01]
+HoldemOmaha checks
+** Dealing flop ** [ Jh, 8d, Ac ]
+HoldemOmaha checks
+Ra_Dik bets [$0.02]
+HoldemOmaha calls [$0.02]
+** Dealing turn ** [ 9d ]
+HoldemOmaha checks
+Ra_Dik bets [$0.04]
+HoldemOmaha calls [$0.04]
+** Dealing river ** [ Kd ]
+HoldemOmaha bets [$0.06]
+Ra_Dik calls [$0.06]
+** Summary **
+HoldemOmaha shows [ 2s, Ks ]
+Ra_Dik shows [ 8h, Jc ]
+Ra_Dik collected [ $0.27 ]
+
+
+#Game No : 505275176
+***** 888poker Hand History for Game 505275176 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:39:16
+Table Helsinki 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HoldemOmaha ( $0.80 )
+Seat 6: Ra_Dik ( $1.13 )
+HoldemOmaha posts small blind [$0.01]
+Ra_Dik posts big blind [$0.02]
+** Dealing down cards **
+HoldemOmaha calls [$0.01]
+Ra_Dik checks
+** Dealing flop ** [ 6s, 7c, 9s ]
+Ra_Dik bets [$0.02]
+HoldemOmaha calls [$0.02]
+** Dealing turn ** [ Qh ]
+Ra_Dik bets [$0.02]
+HoldemOmaha raises [$0.04]
+Ra_Dik calls [$0.02]
+** Dealing river ** [ 3d ]
+Ra_Dik bets [$0.10]
+HoldemOmaha calls [$0.10]
+** Summary **
+Ra_Dik shows [ 7s, 3c ]
+HoldemOmaha mucks [ 9c, 5s ]
+Ra_Dik collected [ $0.34 ]
+
+
+#Game No : 505275214
+***** 888poker Hand History for Game 505275214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:39:50
+Table Helsinki 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: HoldemOmaha ( $0.62 )
+Seat 6: Ra_Dik ( $1.29 )
+Ra_Dik posts small blind [$0.01]
+HoldemOmaha posts big blind [$0.02]
+** Dealing down cards **
+Ra_Dik calls [$0.01]
+HoldemOmaha checks
+** Dealing flop ** [ Qd, 3c, Ks ]
+HoldemOmaha checks
+Ra_Dik bets [$0.02]
+HoldemOmaha folds
+** Summary **
+Ra_Dik collected [ $0.04 ]
+
+
+#Game No : 505275234
+***** 888poker Hand History for Game 505275234 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:40:04
+Table Helsinki 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HoldemOmaha ( $0.60 )
+Seat 6: Ra_Dik ( $1.31 )
+HoldemOmaha posts small blind [$0.01]
+Ra_Dik posts big blind [$0.02]
+** Dealing down cards **
+HoldemOmaha calls [$0.01]
+Ra_Dik raises [$0.02]
+HoldemOmaha folds
+** Summary **
+Ra_Dik collected [ $0.04 ]
+
+
+#Game No : 505275250
+***** 888poker Hand History for Game 505275250 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:40:15
+Table Helsinki 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: HoldemOmaha ( $0.58 )
+Seat 6: Ra_Dik ( $1.33 )
+Ra_Dik posts small blind [$0.01]
+HoldemOmaha posts big blind [$0.02]
+** Dealing down cards **
+Ra_Dik folds
+** Summary **
+HoldemOmaha collected [ $0.03 ]
+
+
+#Game No : 505275542
+***** 888poker Hand History for Game 505275542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:44:22
+Table Helsinki 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Ra_Dik ( $1.31 )
+Seat 9: everyme77 ( $1.94 )
+Ra_Dik posts small blind [$0.01]
+everyme77 posts big blind [$0.02]
+** Dealing down cards **
+Ra_Dik calls [$0.01]
+everyme77 checks
+** Dealing flop ** [ 7h, 3d, 2h ]
+everyme77 checks
+Ra_Dik bets [$0.02]
+everyme77 calls [$0.02]
+** Dealing turn ** [ 8d ]
+everyme77 checks
+Ra_Dik bets [$0.04]
+everyme77 raises [$0.10]
+Ra_Dik calls [$0.06]
+** Dealing river ** [ 4s ]
+everyme77 bets [$0.14]
+Ra_Dik calls [$0.14]
+** Summary **
+everyme77 shows [ 3h, 7s ]
+Ra_Dik mucks [ 6d, 7c ]
+everyme77 collected [ $0.53 ]
+
+

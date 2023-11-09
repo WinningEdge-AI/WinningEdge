@@ -1,0 +1,73 @@
+#Game No : 451683012
+***** 888poker Hand History for Game 451683012 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:28:38
+Table Calabozo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: oscartwelve ( $1.85 )
+Seat 10: Lokitox2017 ( $3.37 )
+oscartwelve posts small blind [$0.01]
+Lokitox2017 posts big blind [$0.02]
+** Dealing down cards **
+oscartwelve calls [$0.01]
+Lokitox2017 raises [$3.35]
+oscartwelve calls [$1.83]
+** Dealing flop ** [ Kd, Td, 3s ]
+** Dealing turn ** [ Th ]
+** Dealing river ** [ 5d ]
+** Summary **
+oscartwelve shows [ 9c, As ]
+Lokitox2017 shows [ 8d, Ah ]
+oscartwelve collected [ $3.47 ]
+
+
+#Game No : 451683024
+***** 888poker Hand History for Game 451683024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:29:02
+Table Calabozo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: oscartwelve ( $3.47 )
+Seat 9: TTPhil78 ( $4.96 )
+oscartwelve posts small blind [$0.01]
+TTPhil78 posts big blind [$0.02]
+** Dealing down cards **
+oscartwelve calls [$0.01]
+TTPhil78 checks
+** Dealing flop ** [ 8d, As, 2h ]
+TTPhil78 checks
+oscartwelve checks
+** Dealing turn ** [ 5h ]
+TTPhil78 bets [$0.04]
+oscartwelve folds
+** Summary **
+TTPhil78 collected [ $0.04 ]
+
+
+#Game No : 451683034
+***** 888poker Hand History for Game 451683034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 17:29:22
+Table Calabozo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: oscartwelve ( $3.45 )
+Seat 9: TTPhil78 ( $4.98 )
+TTPhil78 posts small blind [$0.01]
+oscartwelve posts big blind [$0.02]
+** Dealing down cards **
+TTPhil78 raises [$0.05]
+oscartwelve calls [$0.04]
+** Dealing flop ** [ 8c, Js, 3s ]
+oscartwelve checks
+TTPhil78 bets [$0.06]
+oscartwelve calls [$0.06]
+** Dealing turn ** [ 4c ]
+oscartwelve checks
+TTPhil78 checks
+** Dealing river ** [ Jd ]
+oscartwelve bets [$0.24]
+TTPhil78 folds
+** Summary **
+oscartwelve collected [ $0.23 ]
+
+

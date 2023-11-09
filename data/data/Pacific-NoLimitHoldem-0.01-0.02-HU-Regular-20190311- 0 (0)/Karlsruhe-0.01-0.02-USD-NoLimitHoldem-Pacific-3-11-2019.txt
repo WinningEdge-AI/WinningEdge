@@ -1,0 +1,287 @@
+#Game No : 617057331
+***** 888poker Hand History for Game 617057331 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 02:58:45
+Table Karlsruhe 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: ArcticWin ( $2 )
+Seat 3: pvlc3012 ( $2 )
+pvlc3012 posts small blind [$0.01]
+ArcticWin posts big blind [$0.02]
+** Dealing down cards **
+pvlc3012 raises [$0.05]
+ArcticWin folds
+** Summary **
+pvlc3012 did not show his hand
+pvlc3012 collected [ $0.04 ]
+
+
+#Game No : 617057333
+***** 888poker Hand History for Game 617057333 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 02:58:55
+Table Karlsruhe 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ArcticWin ( $1.98 )
+Seat 3: pvlc3012 ( $2.02 )
+ArcticWin posts small blind [$0.01]
+pvlc3012 posts big blind [$0.02]
+** Dealing down cards **
+ArcticWin calls [$0.01]
+pvlc3012 checks
+** Dealing flop ** [ 8c, 3h, 3s ]
+pvlc3012 checks
+ArcticWin bets [$0.02]
+pvlc3012 folds
+** Summary **
+ArcticWin did not show his hand
+ArcticWin collected [ $0.04 ]
+
+
+#Game No : 617057341
+***** 888poker Hand History for Game 617057341 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 02:59:10
+Table Karlsruhe 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: ArcticWin ( $2 )
+Seat 3: pvlc3012 ( $2 )
+pvlc3012 posts small blind [$0.01]
+ArcticWin posts big blind [$0.02]
+** Dealing down cards **
+pvlc3012 calls [$0.01]
+ArcticWin checks
+** Dealing flop ** [ Qs, Qd, Ad ]
+ArcticWin bets [$0.02]
+pvlc3012 calls [$0.02]
+** Dealing turn ** [ Ah ]
+ArcticWin bets [$0.02]
+pvlc3012 raises [$0.06]
+ArcticWin calls [$0.04]
+** Dealing river ** [ 4d ]
+ArcticWin checks
+pvlc3012 bets [$0.13]
+ArcticWin calls [$0.13]
+** Summary **
+pvlc3012 shows [ Qh, 8c ]
+ArcticWin mucks [ 2s, Ks ]
+pvlc3012 collected [ $0.44 ]
+
+
+#Game No : 617057360
+***** 888poker Hand History for Game 617057360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 02:59:50
+Table Karlsruhe 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ArcticWin ( $1.77 )
+Seat 3: pvlc3012 ( $2.21 )
+ArcticWin posts small blind [$0.01]
+pvlc3012 posts big blind [$0.02]
+** Dealing down cards **
+ArcticWin folds
+** Summary **
+pvlc3012 did not show his hand
+pvlc3012 collected [ $0.03 ]
+
+
+#Game No : 617057362
+***** 888poker Hand History for Game 617057362 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 02:59:57
+Table Karlsruhe 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: ArcticWin ( $1.76 )
+Seat 3: pvlc3012 ( $2.22 )
+pvlc3012 posts small blind [$0.01]
+ArcticWin posts big blind [$0.02]
+** Dealing down cards **
+pvlc3012 folds
+** Summary **
+ArcticWin did not show his hand
+ArcticWin collected [ $0.03 ]
+
+
+#Game No : 617057366
+***** 888poker Hand History for Game 617057366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:00:04
+Table Karlsruhe 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ArcticWin ( $1.77 )
+Seat 3: pvlc3012 ( $2.21 )
+ArcticWin posts small blind [$0.01]
+pvlc3012 posts big blind [$0.02]
+** Dealing down cards **
+ArcticWin calls [$0.01]
+pvlc3012 checks
+** Dealing flop ** [ 5d, Jd, 9s ]
+pvlc3012 checks
+ArcticWin checks
+** Dealing turn ** [ Qh ]
+pvlc3012 checks
+ArcticWin bets [$0.02]
+pvlc3012 folds
+** Summary **
+ArcticWin collected [ $0.04 ]
+
+
+#Game No : 617057375
+***** 888poker Hand History for Game 617057375 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:00:31
+Table Karlsruhe 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: ArcticWin ( $1.79 )
+Seat 3: pvlc3012 ( $2.19 )
+pvlc3012 posts small blind [$0.01]
+ArcticWin posts big blind [$0.02]
+** Dealing down cards **
+pvlc3012 raises [$0.05]
+ArcticWin calls [$0.04]
+** Dealing flop ** [ 8s, Jd, 5d ]
+ArcticWin checks
+pvlc3012 bets [$0.06]
+ArcticWin calls [$0.06]
+** Dealing turn ** [ 3h ]
+ArcticWin checks
+pvlc3012 bets [$0.12]
+ArcticWin calls [$0.12]
+** Dealing river ** [ 3s ]
+ArcticWin checks
+pvlc3012 bets [$0.24]
+ArcticWin folds
+** Summary **
+pvlc3012 collected [ $0.45 ]
+
+
+#Game No : 617057681
+***** 888poker Hand History for Game 617057681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:14:10
+Table Karlsruhe 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: TTretiakovv ( $0.63 )
+Seat 2: ArcticWin ( $1.90 )
+TTretiakovv posts small blind [$0.01]
+ArcticWin posts big blind [$0.02]
+** Dealing down cards **
+TTretiakovv calls [$0.01]
+ArcticWin checks
+** Dealing flop ** [ Ts, Qh, 3s ]
+ArcticWin bets [$0.02]
+TTretiakovv folds
+** Summary **
+ArcticWin collected [ $0.04 ]
+
+
+#Game No : 617057694
+***** 888poker Hand History for Game 617057694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 03:14:26
+Table Karlsruhe 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: TTretiakovv ( $0.61 )
+Seat 2: ArcticWin ( $1.92 )
+ArcticWin posts small blind [$0.01]
+TTretiakovv posts big blind [$0.02]
+** Dealing down cards **
+ArcticWin calls [$0.01]
+TTretiakovv checks
+** Dealing flop ** [ Jh, 5h, 9h ]
+TTretiakovv checks
+ArcticWin checks
+** Dealing turn ** [ 6h ]
+TTretiakovv checks
+ArcticWin bets [$0.02]
+TTretiakovv folds
+** Summary **
+ArcticWin collected [ $0.04 ]
+
+
+#Game No : 617068306
+***** 888poker Hand History for Game 617068306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 08:34:49
+Table Karlsruhe 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tusyuagor ( $1.97 )
+Seat 9: ddimka10 ( $2.84 )
+tusyuagor posts small blind [$0.01]
+ddimka10 posts big blind [$0.02]
+** Dealing down cards **
+tusyuagor raises [$0.03]
+ddimka10 calls [$0.02]
+** Dealing flop ** [ 5h, Jh, 9h ]
+ddimka10 bets [$0.02]
+tusyuagor calls [$0.02]
+** Dealing turn ** [ Jc ]
+ddimka10 bets [$0.02]
+tusyuagor calls [$0.02]
+** Dealing river ** [ 4d ]
+ddimka10 checks
+tusyuagor checks
+** Summary **
+ddimka10 shows [ Ad, 8h ]
+tusyuagor mucks [ Th, Ks ]
+ddimka10 collected [ $0.15 ]
+
+
+#Game No : 617068335
+***** 888poker Hand History for Game 617068335 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 08:35:33
+Table Karlsruhe 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tusyuagor ( $1.89 )
+Seat 9: ddimka10 ( $2.91 )
+ddimka10 posts small blind [$0.01]
+tusyuagor posts big blind [$0.02]
+** Dealing down cards **
+ddimka10 folds
+** Summary **
+tusyuagor collected [ $0.03 ]
+
+
+#Game No : 617068343
+***** 888poker Hand History for Game 617068343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 08:35:41
+Table Karlsruhe 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tusyuagor ( $1.90 )
+Seat 9: ddimka10 ( $2.90 )
+tusyuagor posts small blind [$0.01]
+ddimka10 posts big blind [$0.02]
+** Dealing down cards **
+tusyuagor calls [$0.01]
+ddimka10 checks
+** Dealing flop ** [ Qc, 6d, Jd ]
+ddimka10 bets [$0.02]
+tusyuagor calls [$0.02]
+** Dealing turn ** [ Qs ]
+ddimka10 bets [$0.04]
+tusyuagor calls [$0.04]
+** Dealing river ** [ 6c ]
+ddimka10 bets [$0.10]
+tusyuagor folds
+** Summary **
+ddimka10 collected [ $0.15 ]
+
+
+#Game No : 617068371
+***** 888poker Hand History for Game 617068371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 08:36:24
+Table Karlsruhe 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tusyuagor ( $1.82 )
+Seat 9: ddimka10 ( $2.97 )
+ddimka10 posts small blind [$0.01]
+tusyuagor posts big blind [$0.02]
+** Dealing down cards **
+ddimka10 folds
+** Summary **
+tusyuagor collected [ $0.03 ]
+
+

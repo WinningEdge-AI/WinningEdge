@@ -1,0 +1,91 @@
+#Game No : 507337846
+***** 888poker Hand History for Game 507337846 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:23:00
+Table Elk Grove 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Aaalgo ( $0.68 )
+Seat 7: oleg2615 ( $0.11 )
+oleg2615 posts small blind [$0.01]
+Aaalgo posts big blind [$0.02]
+** Dealing down cards **
+oleg2615 raises [$0.10]
+Aaalgo folds
+** Summary **
+oleg2615 did not show his hand
+oleg2615 collected [ $0.04 ]
+
+
+#Game No : 507337849
+***** 888poker Hand History for Game 507337849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:23:06
+Table Elk Grove 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Aaalgo ( $0.66 )
+Seat 7: oleg2615 ( $0.13 )
+Aaalgo posts small blind [$0.01]
+oleg2615 posts big blind [$0.02]
+** Dealing down cards **
+Aaalgo raises [$0.03]
+oleg2615 calls [$0.02]
+** Dealing flop ** [ 5s, Jc, Ah ]
+oleg2615 checks
+Aaalgo bets [$0.03]
+oleg2615 folds
+** Summary **
+Aaalgo did not show his hand
+Aaalgo collected [ $0.08 ]
+
+
+#Game No : 507337858
+***** 888poker Hand History for Game 507337858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:23:19
+Table Elk Grove 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Aaalgo ( $0.70 )
+Seat 7: oleg2615 ( $0.09 )
+oleg2615 posts small blind [$0.01]
+Aaalgo posts big blind [$0.02]
+** Dealing down cards **
+oleg2615 raises [$0.08]
+Aaalgo calls [$0.07]
+** Dealing flop ** [ Qc, 3h, 2h ]
+** Dealing turn ** [ 6h ]
+** Dealing river ** [ Tc ]
+** Summary **
+Aaalgo shows [ 9c, Kc ]
+oleg2615 shows [ Js, 5d ]
+Aaalgo collected [ $0.17 ]
+
+
+#Game No : 507338949
+***** 888poker Hand History for Game 507338949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 11:44:41
+Table Elk Grove 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Upemuz ( $0.41 )
+Seat 6: ljiljana1955 ( $0.30 )
+Upemuz posts small blind [$0.01]
+ljiljana1955 posts big blind [$0.02]
+** Dealing down cards **
+Upemuz raises [$0.03]
+ljiljana1955 calls [$0.02]
+** Dealing flop ** [ 6d, Qs, 2d ]
+ljiljana1955 checks
+Upemuz checks
+** Dealing turn ** [ Qd ]
+ljiljana1955 bets [$0.02]
+Upemuz calls [$0.02]
+** Dealing river ** [ 7s ]
+ljiljana1955 checks
+Upemuz bets [$0.04]
+ljiljana1955 calls [$0.04]
+** Summary **
+Upemuz shows [ As, 7d ]
+ljiljana1955 mucks [ Jh, Ah ]
+Upemuz collected [ $0.19 ]
+
+

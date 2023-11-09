@@ -1,0 +1,548 @@
+#Game No : 502894706
+***** 888poker Hand History for Game 502894706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 08:52:10
+Table Charleroi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: T_Dark ( $1 )
+Seat 9: Intelligent8 ( $1.91 )
+Intelligent8 posts small blind [$0.01]
+T_Dark posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 raises [$0.05]
+T_Dark folds
+** Summary **
+Intelligent8 collected [ $0.04 ]
+
+
+#Game No : 502895906
+***** 888poker Hand History for Game 502895906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 09:13:11
+Table Charleroi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BlakeKennedy ( $0.93 )
+Seat 9: Intelligent8 ( $2.25 )
+BlakeKennedy posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+BlakeKennedy raises [$0.03]
+Intelligent8 calls [$0.02]
+** Dealing flop ** [ 4s, 9s, Kh ]
+Intelligent8 bets [$0.04]
+BlakeKennedy calls [$0.04]
+** Dealing turn ** [ 5d ]
+Intelligent8 checks
+BlakeKennedy bets [$0.10]
+Intelligent8 folds
+** Summary **
+BlakeKennedy did not show his hand
+BlakeKennedy collected [ $0.15 ]
+
+
+#Game No : 502895925
+***** 888poker Hand History for Game 502895925 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 09:13:36
+Table Charleroi 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: BlakeKennedy ( $1 )
+Seat 9: Intelligent8 ( $2.17 )
+Intelligent8 posts small blind [$0.01]
+BlakeKennedy posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+BlakeKennedy did not show his hand
+BlakeKennedy collected [ $0.03 ]
+
+
+#Game No : 1211669005
+***** 888poker Hand History for Game 1211669005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:38:24
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.28 )
+Seat 5: zukalek ( $2 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 9d, 5d, Th ]
+zukalek checks
+ILYICH777 bets [$0.02]
+zukalek calls [$0.02]
+** Dealing turn ** [ 3h ]
+zukalek checks
+ILYICH777 checks
+** Dealing river ** [ 8h ]
+zukalek checks
+ILYICH777 checks
+** Summary **
+zukalek shows [ Ad, 5s ]
+ILYICH777 mucks [ Kc, 2c ]
+zukalek collected [ $0.08 ]
+
+
+#Game No : 1211669161
+***** 888poker Hand History for Game 1211669161 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:38:26
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.24 )
+Seat 5: zukalek ( $2.04 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+ILYICH777 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.04 ]
+
+
+#Game No : 1211669219
+***** 888poker Hand History for Game 1211669219 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:38:38
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.22 )
+Seat 5: zukalek ( $2.06 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.03 ]
+
+
+#Game No : 1211669282
+***** 888poker Hand History for Game 1211669282 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:38:51
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.21 )
+Seat 5: zukalek ( $2.07 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+ILYICH777 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.04 ]
+
+
+#Game No : 1211669358
+***** 888poker Hand History for Game 1211669358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:39:06
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.19 )
+Seat 5: zukalek ( $2.09 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 5c, 3d, 9c ]
+zukalek checks
+ILYICH777 bets [$0.02]
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.04 ]
+
+
+#Game No : 1211669474
+***** 888poker Hand History for Game 1211669474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:39:28
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.21 )
+Seat 5: zukalek ( $2.07 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+ILYICH777 calls [$0.04]
+** Dealing flop ** [ Td, 3s, 7h ]
+ILYICH777 checks
+zukalek checks
+** Dealing turn ** [ 2s ]
+ILYICH777 checks
+zukalek checks
+** Dealing river ** [ 3d ]
+ILYICH777 bets [$0.04]
+zukalek calls [$0.04]
+** Summary **
+ILYICH777 shows [ 4s, 5s ]
+zukalek shows [ Qh, Ad ]
+zukalek collected [ $0.19 ]
+
+
+#Game No : 1211669694
+***** 888poker Hand History for Game 1211669694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:40:15
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.11 )
+Seat 5: zukalek ( $2.16 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 raises [$0.03]
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.04 ]
+
+
+#Game No : 1211669816
+***** 888poker Hand History for Game 1211669816 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:40:43
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.13 )
+Seat 5: zukalek ( $2.14 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+ILYICH777 calls [$0.04]
+** Dealing flop ** [ Ac, Ad, Jc ]
+ILYICH777 checks
+zukalek checks
+** Dealing turn ** [ 3h ]
+ILYICH777 checks
+zukalek bets [$0.06]
+ILYICH777 calls [$0.06]
+** Dealing river ** [ 2d ]
+ILYICH777 checks
+zukalek checks
+** Summary **
+ILYICH777 shows [ Ks, Qc ]
+zukalek shows [ 5s, 5c ]
+zukalek collected [ $0.23 ]
+
+
+#Game No : 1211670071
+***** 888poker Hand History for Game 1211670071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:41:38
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.01 )
+Seat 5: zukalek ( $2.25 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 raises [$0.03]
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.04 ]
+
+
+#Game No : 1211670122
+***** 888poker Hand History for Game 1211670122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:41:49
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.03 )
+Seat 5: zukalek ( $2.23 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.03 ]
+
+
+#Game No : 1211670169
+***** 888poker Hand History for Game 1211670169 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:41:57
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.04 )
+Seat 5: zukalek ( $2.22 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 raises [$0.05]
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.04 ]
+
+
+#Game No : 1211670226
+***** 888poker Hand History for Game 1211670226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:42:08
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.06 )
+Seat 5: zukalek ( $2.20 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.03 ]
+
+
+#Game No : 1211670262
+***** 888poker Hand History for Game 1211670262 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:42:15
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.07 )
+Seat 5: zukalek ( $2.19 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 raises [$0.05]
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.04 ]
+
+
+#Game No : 1211670359
+***** 888poker Hand History for Game 1211670359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:42:35
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.09 )
+Seat 5: zukalek ( $2.17 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.03 ]
+
+
+#Game No : 1211670383
+***** 888poker Hand History for Game 1211670383 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:42:40
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.10 )
+Seat 5: zukalek ( $2.16 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 raises [$0.03]
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.04 ]
+
+
+#Game No : 1211670450
+***** 888poker Hand History for Game 1211670450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:42:54
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.12 )
+Seat 5: zukalek ( $2.14 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.03 ]
+
+
+#Game No : 1211670476
+***** 888poker Hand History for Game 1211670476 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:42:59
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.13 )
+Seat 5: zukalek ( $2.13 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 raises [$0.03]
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.04 ]
+
+
+#Game No : 1211670526
+***** 888poker Hand History for Game 1211670526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:43:10
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.15 )
+Seat 5: zukalek ( $2.11 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.03 ]
+
+
+#Game No : 1211670544
+***** 888poker Hand History for Game 1211670544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:43:14
+Table Charleroi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.16 )
+Seat 5: zukalek ( $2.10 )
+ILYICH777 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 raises [$0.03]
+zukalek calls [$0.02]
+** Dealing flop ** [ 8h, 8s, Jc ]
+zukalek checks
+ILYICH777 bets [$0.06]
+zukalek folds
+** Summary **
+ILYICH777 did not show his hand
+ILYICH777 collected [ $0.08 ]
+
+
+#Game No : 1211670661
+***** 888poker Hand History for Game 1211670661 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:43:38
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $1.20 )
+Seat 5: zukalek ( $2.06 )
+zukalek posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+ILYICH777 calls [$0.04]
+** Dealing flop ** [ Ac, 7d, 8c ]
+ILYICH777 checks
+zukalek checks
+** Dealing turn ** [ 3d ]
+ILYICH777 checks
+zukalek checks
+** Dealing river ** [ 6d ]
+ILYICH777 bets [$0.02]
+zukalek folds
+** Summary **
+ILYICH777 collected [ $0.12 ]
+
+
+#Game No : 1211672214
+***** 888poker Hand History for Game 1211672214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:49:11
+Table Charleroi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2.02 )
+Seat 9: alevtina72 ( $3.09 )
+alevtina72 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+alevtina72 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 6h, 6d, 5d ]
+zukalek checks
+alevtina72 bets [$0.02]
+zukalek folds
+** Summary **
+alevtina72 did not show his hand
+alevtina72 collected [ $0.04 ]
+
+
+#Game No : 1211672434
+***** 888poker Hand History for Game 1211672434 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:49:58
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2 )
+Seat 9: alevtina72 ( $3.11 )
+zukalek posts small blind [$0.01]
+alevtina72 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+alevtina72 calls [$0.04]
+** Dealing flop ** [ Th, 3d, 5d ]
+alevtina72 checks
+zukalek bets [$0.06]
+alevtina72 folds
+** Summary **
+zukalek did not show his hand
+zukalek collected [ $0.12 ]
+
+
+#Game No : 1211672686
+***** 888poker Hand History for Game 1211672686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:50:49
+Table Charleroi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2.06 )
+Seat 9: alevtina72 ( $3.05 )
+alevtina72 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+alevtina72 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 2d, Ac, Kh ]
+zukalek checks
+alevtina72 bets [$0.02]
+zukalek folds
+** Summary **
+alevtina72 did not show his hand
+alevtina72 collected [ $0.04 ]
+
+
+#Game No : 1211672789
+***** 888poker Hand History for Game 1211672789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 10:51:10
+Table Charleroi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2.04 )
+Seat 9: alevtina72 ( $3.07 )
+zukalek posts small blind [$0.01]
+alevtina72 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+alevtina72 calls [$0.04]
+** Dealing flop ** [ Qd, 6h, 9d ]
+alevtina72 bets [$0.06]
+zukalek folds
+** Summary **
+alevtina72 did not show his hand
+alevtina72 collected [ $0.12 ]
+
+

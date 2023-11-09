@@ -1,0 +1,112 @@
+#Game No : 514365526
+***** 888poker Hand History for Game 514365526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 09:09:31
+Table Darmstadt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2 )
+Seat 6: rike319 ( $2.74 )
+zukalek posts small blind [$0.01]
+rike319 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+rike319 collected [ $0.03 ]
+
+
+#Game No : 514365539
+***** 888poker Hand History for Game 514365539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 09:09:37
+Table Darmstadt 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2 )
+Seat 6: rike319 ( $2.75 )
+rike319 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+rike319 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ Jc, Kc, 3h ]
+zukalek checks
+rike319 bets [$0.02]
+zukalek calls [$0.02]
+** Dealing turn ** [ Qh ]
+zukalek checks
+rike319 bets [$0.02]
+zukalek calls [$0.02]
+** Dealing river ** [ 4d ]
+zukalek checks
+rike319 bets [$0.02]
+zukalek calls [$0.02]
+** Summary **
+rike319 shows [ Qs, 7c ]
+zukalek shows [ Ks, 6c ]
+zukalek collected [ $0.15 ]
+
+
+#Game No : 514365610
+***** 888poker Hand History for Game 514365610 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 09:10:27
+Table Darmstadt 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2.07 )
+Seat 6: rike319 ( $2.67 )
+zukalek posts small blind [$0.01]
+rike319 posts big blind [$0.02]
+** Dealing down cards **
+zukalek raises [$0.05]
+rike319 raises [$0.08]
+zukalek calls [$0.04]
+** Dealing flop ** [ 8d, Ks, 2h ]
+rike319 checks
+zukalek checks
+** Dealing turn ** [ Jd ]
+rike319 bets [$0.02]
+zukalek calls [$0.02]
+** Dealing river ** [ 4c ]
+rike319 bets [$2.55]
+zukalek folds
+** Summary **
+rike319 collected [ $0.23 ]
+
+
+#Game No : 514365651
+***** 888poker Hand History for Game 514365651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 09:10:56
+Table Darmstadt 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: zukalek ( $2 )
+Seat 6: rike319 ( $2.78 )
+rike319 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+rike319 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 9c, 7c, Qd ]
+zukalek checks
+rike319 bets [$0.02]
+zukalek folds
+** Summary **
+rike319 collected [ $0.04 ]
+
+
+#Game No : 514385747
+***** 888poker Hand History for Game 514385747 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 10 2018 13:09:45
+Table Darmstadt 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: hiddenburg ( $1.55 )
+Seat 7: killbaulitz ( $3.88 )
+killbaulitz posts small blind [$0.01]
+hiddenburg posts big blind [$0.02]
+** Dealing down cards **
+killbaulitz raises [$0.03]
+hiddenburg folds
+** Summary **
+killbaulitz collected [ $0.04 ]
+
+

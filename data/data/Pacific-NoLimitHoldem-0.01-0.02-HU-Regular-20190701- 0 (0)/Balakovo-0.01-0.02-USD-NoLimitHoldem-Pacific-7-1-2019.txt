@@ -1,0 +1,66 @@
+#Game No : 554901
+***** 888poker Hand History for Game 554901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2019 02:53:24
+Table Balakovo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Arnie1010 ( $1.56 )
+Seat 6: tomek21011 ( $2 )
+Arnie1010 posts small blind [$0.01]
+tomek21011 posts big blind [$0.02]
+** Dealing down cards **
+Arnie1010 calls [$0.01]
+tomek21011 checks
+** Dealing flop ** [ 2d, 3c, 8d ]
+tomek21011 checks
+Arnie1010 checks
+** Dealing turn ** [ 8s ]
+tomek21011 bets [$0.12]
+Arnie1010 folds
+** Summary **
+tomek21011 collected [ $0.04 ]
+
+
+#Game No : 555456
+***** 888poker Hand History for Game 555456 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2019 04:50:04
+Table Balakovo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Messy134 ( $0.83 )
+Seat 9: sergei2017 ( $1.44 )
+Messy134 posts small blind [$0.01]
+sergei2017 posts big blind [$0.02]
+** Dealing down cards **
+Messy134 raises [$0.07]
+sergei2017 folds
+** Summary **
+Messy134 collected [ $0.04 ]
+
+
+#Game No : 555457
+***** 888poker Hand History for Game 555457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 07 2019 04:50:19
+Table Balakovo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Messy134 ( $0.85 )
+Seat 9: sergei2017 ( $1.42 )
+sergei2017 posts small blind [$0.01]
+Messy134 posts big blind [$0.02]
+** Dealing down cards **
+sergei2017 calls [$0.01]
+Messy134 checks
+** Dealing flop ** [ 9d, 9s, 5c ]
+Messy134 checks
+sergei2017 checks
+** Dealing turn ** [ 9h ]
+Messy134 bets [$0.04]
+sergei2017 calls [$0.04]
+** Dealing river ** [ Th ]
+Messy134 bets [$0.79]
+sergei2017 folds
+** Summary **
+Messy134 collected [ $0.12 ]
+
+

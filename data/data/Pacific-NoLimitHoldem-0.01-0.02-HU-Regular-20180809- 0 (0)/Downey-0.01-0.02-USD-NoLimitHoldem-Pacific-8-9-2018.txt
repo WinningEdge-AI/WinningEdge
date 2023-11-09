@@ -1,0 +1,43 @@
+#Game No : 500632103
+***** 888poker Hand History for Game 500632103 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 07:10:55
+Table Downey 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: 77Blonda777 ( $0.82 )
+Seat 9: treyses ( $4.29 )
+77Blonda777 posts small blind [$0.01]
+treyses posts big blind [$0.02]
+** Dealing down cards **
+77Blonda777 raises [$0.03]
+treyses calls [$0.02]
+** Dealing flop ** [ Ah, As, Qs ]
+treyses checks
+77Blonda777 checks
+** Dealing turn ** [ 2d ]
+treyses checks
+77Blonda777 checks
+** Dealing river ** [ Qh ]
+treyses checks
+77Blonda777 checks
+** Summary **
+treyses shows [ 9s, Td ]
+77Blonda777 mucks [ 6d, 5d ]
+treyses collected [ $0.08 ]
+
+
+#Game No : 500632130
+***** 888poker Hand History for Game 500632130 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 07:11:18
+Table Downey 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: 77Blonda777 ( $0.78 )
+Seat 9: treyses ( $4.33 )
+treyses posts small blind [$0.01]
+** Dealing down cards **
+77Blonda777 folds
+** Summary **
+treyses collected [ $0.01 ]
+
+

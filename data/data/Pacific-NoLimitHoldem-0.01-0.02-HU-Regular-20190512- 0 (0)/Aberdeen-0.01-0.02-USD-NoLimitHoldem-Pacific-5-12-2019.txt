@@ -1,0 +1,130 @@
+#Game No : 1267382972
+***** 888poker Hand History for Game 1267382972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:43:34
+Table Aberdeen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $1.11 )
+Seat 7: RoloTomassi1 ( $4.89 )
+Skyluck11 posts small blind [$0.01]
+RoloTomassi1 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+RoloTomassi1 calls [$0.04]
+** Dealing flop ** [ Td, 8h, 5c ]
+RoloTomassi1 checks
+Skyluck11 bets [$0.06]
+RoloTomassi1 calls [$0.06]
+** Dealing turn ** [ 9d ]
+RoloTomassi1 bets [$0.02]
+Skyluck11 calls [$0.02]
+** Dealing river ** [ Th ]
+RoloTomassi1 checks
+Skyluck11 checks
+** Summary **
+RoloTomassi1 shows [ Jd, 3d ]
+Skyluck11 shows [ 8d, As ]
+Skyluck11 collected [ $0.27 ]
+
+
+#Game No : 1267383078
+***** 888poker Hand History for Game 1267383078 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:44:14
+Table Aberdeen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $1.24 )
+Seat 7: RoloTomassi1 ( $4.75 )
+RoloTomassi1 posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+RoloTomassi1 calls [$0.01]
+Skyluck11 checks
+** Dealing flop ** [ 2s, Qh, 4s ]
+Skyluck11 checks
+RoloTomassi1 checks
+** Dealing turn ** [ Ad ]
+Skyluck11 checks
+RoloTomassi1 checks
+** Dealing river ** [ 2h ]
+Skyluck11 checks
+RoloTomassi1 checks
+** Summary **
+Skyluck11 shows [ 3h, Jh ]
+RoloTomassi1 shows [ Jc, 9s ]
+RoloTomassi1 collected [ $0.02 ]
+Skyluck11 collected [ $0.02 ]
+
+
+#Game No : 1267383190
+***** 888poker Hand History for Game 1267383190 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:44:55
+Table Aberdeen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $1.24 )
+Seat 9: chief_leaf ( $1 )
+Skyluck11 posts small blind [$0.01]
+chief_leaf posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+chief_leaf collected [ $0.03 ]
+
+
+#Game No : 1267383210
+***** 888poker Hand History for Game 1267383210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:45:01
+Table Aberdeen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $1.23 )
+Seat 9: chief_leaf ( $1.01 )
+chief_leaf posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+chief_leaf calls [$0.01]
+Skyluck11 checks
+** Dealing flop ** [ 4c, 6c, 9c ]
+Skyluck11 checks
+chief_leaf checks
+** Dealing turn ** [ Js ]
+Skyluck11 checks
+chief_leaf checks
+** Dealing river ** [ 8s ]
+Skyluck11 checks
+chief_leaf checks
+** Summary **
+Skyluck11 shows [ 3d, 6s ]
+chief_leaf mucks [ 2s, Kd ]
+Skyluck11 collected [ $0.04 ]
+
+
+#Game No : 1267383298
+***** 888poker Hand History for Game 1267383298 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 05 2019 02:45:39
+Table Aberdeen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $1.25 )
+Seat 9: chief_leaf ( $0.99 )
+Skyluck11 posts small blind [$0.01]
+chief_leaf posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+chief_leaf calls [$0.04]
+** Dealing flop ** [ Jh, Jd, 7s ]
+chief_leaf checks
+Skyluck11 checks
+** Dealing turn ** [ Jc ]
+chief_leaf checks
+Skyluck11 checks
+** Dealing river ** [ 5s ]
+chief_leaf checks
+Skyluck11 checks
+** Summary **
+chief_leaf shows [ 3c, 8s ]
+Skyluck11 shows [ Kc, 2c ]
+Skyluck11 collected [ $0.12 ]
+
+

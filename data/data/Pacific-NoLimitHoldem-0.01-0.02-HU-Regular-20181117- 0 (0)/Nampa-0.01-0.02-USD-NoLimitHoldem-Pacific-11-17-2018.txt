@@ -1,0 +1,262 @@
+#Game No : 1224496087
+***** 888poker Hand History for Game 1224496087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 05:37:08
+Table Nampa 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iHasher007 ( $4.03 )
+Seat 6: tuva1953 ( $1.92 )
+iHasher007 posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+iHasher007 calls [$0.01]
+tuva1953 checks
+** Dealing flop ** [ 7c, 2d, Jd ]
+tuva1953 checks
+iHasher007 checks
+** Dealing turn ** [ 5s ]
+tuva1953 checks
+iHasher007 checks
+** Dealing river ** [ 9c ]
+tuva1953 checks
+iHasher007 checks
+** Summary **
+tuva1953 shows [ Tc, 7h ]
+iHasher007 mucks [ 6h, Td ]
+tuva1953 collected [ $0.04 ]
+
+
+#Game No : 1224496214
+***** 888poker Hand History for Game 1224496214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 05:37:48
+Table Nampa 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: iHasher007 ( $4.01 )
+Seat 6: tuva1953 ( $1.94 )
+tuva1953 posts small blind [$0.01]
+iHasher007 posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 calls [$0.01]
+iHasher007 checks
+** Dealing flop ** [ 8s, 8h, 5d ]
+iHasher007 bets [$0.04]
+tuva1953 calls [$0.04]
+** Dealing turn ** [ 3h ]
+iHasher007 checks
+tuva1953 bets [$0.08]
+iHasher007 folds
+** Summary **
+tuva1953 collected [ $0.12 ]
+
+
+#Game No : 1224496550
+***** 888poker Hand History for Game 1224496550 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 05:39:42
+Table Nampa 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: tuva1953 ( $1.97 )
+Seat 7: AnttoniK11 ( $2.02 )
+tuva1953 posts small blind [$0.01]
+AnttoniK11 posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 calls [$0.01]
+AnttoniK11 checks
+** Dealing flop ** [ 6h, 8c, 3c ]
+AnttoniK11 bets [$0.02]
+tuva1953 calls [$0.02]
+** Dealing turn ** [ Th ]
+AnttoniK11 bets [$0.05]
+tuva1953 calls [$0.05]
+** Dealing river ** [ 4c ]
+AnttoniK11 bets [$0.12]
+tuva1953 calls [$0.12]
+** Summary **
+AnttoniK11 shows [ 9d, 7h ]
+tuva1953 mucks [ Js, 8s ]
+AnttoniK11 collected [ $0.40 ]
+
+
+#Game No : 1224496642
+***** 888poker Hand History for Game 1224496642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 05:40:12
+Table Nampa 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: tuva1953 ( $1.76 )
+Seat 7: AnttoniK11 ( $2.21 )
+AnttoniK11 posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+AnttoniK11 folds
+** Summary **
+tuva1953 collected [ $0.03 ]
+
+
+#Game No : 1224496673
+***** 888poker Hand History for Game 1224496673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 05:40:21
+Table Nampa 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: tuva1953 ( $1.77 )
+Seat 7: AnttoniK11 ( $2.20 )
+tuva1953 posts small blind [$0.01]
+AnttoniK11 posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 calls [$0.01]
+AnttoniK11 checks
+** Dealing flop ** [ Jd, Ac, 9s ]
+AnttoniK11 checks
+tuva1953 bets [$0.02]
+AnttoniK11 calls [$0.02]
+** Dealing turn ** [ 2c ]
+AnttoniK11 checks
+tuva1953 bets [$0.02]
+AnttoniK11 folds
+** Summary **
+tuva1953 collected [ $0.08 ]
+
+
+#Game No : 1224496734
+***** 888poker Hand History for Game 1224496734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 05:40:41
+Table Nampa 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: tuva1953 ( $1.81 )
+Seat 7: AnttoniK11 ( $2.16 )
+AnttoniK11 posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+AnttoniK11 calls [$0.01]
+tuva1953 checks
+** Dealing flop ** [ Ks, 8c, 5d ]
+tuva1953 checks
+AnttoniK11 bets [$0.04]
+tuva1953 calls [$0.04]
+** Dealing turn ** [ 6h ]
+tuva1953 checks
+AnttoniK11 bets [$0.08]
+tuva1953 calls [$0.08]
+** Dealing river ** [ 8h ]
+tuva1953 checks
+AnttoniK11 bets [$0.14]
+tuva1953 calls [$0.14]
+** Summary **
+AnttoniK11 shows [ Kd, 9s ]
+tuva1953 mucks [ 6c, 4d ]
+AnttoniK11 collected [ $0.53 ]
+
+
+#Game No : 1224496861
+***** 888poker Hand History for Game 1224496861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 05:41:19
+Table Nampa 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: tuva1953 ( $1.53 )
+Seat 7: AnttoniK11 ( $2.41 )
+tuva1953 posts small blind [$0.01]
+** Dealing down cards **
+AnttoniK11 folds
+** Summary **
+tuva1953 collected [ $0.01 ]
+
+
+#Game No : 1224502667
+***** 888poker Hand History for Game 1224502667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 06:10:31
+Table Nampa 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: dasmos1976 ( $2 )
+Seat 10: Uttifanten ( $2 )
+Uttifanten posts small blind [$0.01]
+dasmos1976 posts big blind [$0.02]
+** Dealing down cards **
+Uttifanten folds
+** Summary **
+dasmos1976 collected [ $0.03 ]
+
+
+#Game No : 1224502681
+***** 888poker Hand History for Game 1224502681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 06:10:35
+Table Nampa 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dasmos1976 ( $2.01 )
+Seat 10: Uttifanten ( $2 )
+dasmos1976 posts small blind [$0.01]
+Uttifanten posts big blind [$0.02]
+** Dealing down cards **
+dasmos1976 calls [$0.01]
+Uttifanten raises [$0.06]
+dasmos1976 folds
+** Summary **
+Uttifanten collected [ $0.04 ]
+
+
+#Game No : 1224502722
+***** 888poker Hand History for Game 1224502722 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 06:10:46
+Table Nampa 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: dasmos1976 ( $1.99 )
+Seat 10: Uttifanten ( $2.02 )
+Uttifanten posts small blind [$0.01]
+dasmos1976 posts big blind [$0.02]
+** Dealing down cards **
+Uttifanten folds
+** Summary **
+dasmos1976 did not show his hand
+dasmos1976 collected [ $0.03 ]
+
+
+#Game No : 1224555645
+***** 888poker Hand History for Game 1224555645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 09:58:51
+Table Nampa 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Vikenton ( $1.95 )
+Seat 5: eehhO ( $2 )
+eehhO posts small blind [$0.01]
+Vikenton posts big blind [$0.02]
+** Dealing down cards **
+eehhO calls [$0.01]
+Vikenton checks
+** Dealing flop ** [ 3d, 2s, Qc ]
+Vikenton checks
+eehhO checks
+** Dealing turn ** [ 6c ]
+Vikenton checks
+eehhO checks
+** Dealing river ** [ 8c ]
+Vikenton checks
+eehhO checks
+** Summary **
+Vikenton shows [ 8d, Kd ]
+eehhO shows [ 6h, 8h ]
+eehhO collected [ $0.04 ]
+
+
+#Game No : 1224555798
+***** 888poker Hand History for Game 1224555798 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 09:59:23
+Table Nampa 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Vikenton ( $1.93 )
+Seat 5: eehhO ( $2.02 )
+Vikenton posts small blind [$0.01]
+** Dealing down cards **
+eehhO folds
+** Summary **
+Vikenton did not show his hand
+Vikenton collected [ $0.01 ]
+
+

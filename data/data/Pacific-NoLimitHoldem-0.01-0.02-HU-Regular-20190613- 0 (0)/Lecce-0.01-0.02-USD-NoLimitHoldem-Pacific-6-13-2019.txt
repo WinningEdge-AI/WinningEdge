@@ -1,0 +1,51 @@
+#Game No : 621084942
+***** 888poker Hand History for Game 621084942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 06 2019 21:55:47
+Table Lecce 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BLITZ1106 ( $0.79 )
+Seat 4: HogRider01 ( $0.81 )
+BLITZ1106 posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+BLITZ1106 calls [$0.01]
+HogRider01 checks
+** Dealing flop ** [ 7s, 5h, 5s ]
+HogRider01 checks
+BLITZ1106 checks
+** Dealing turn ** [ 7h ]
+HogRider01 checks
+BLITZ1106 bets [$0.02]
+HogRider01 calls [$0.02]
+** Dealing river ** [ 2h ]
+HogRider01 checks
+BLITZ1106 bets [$0.04]
+HogRider01 calls [$0.04]
+** Summary **
+BLITZ1106 shows [ 5d, 2s ]
+HogRider01 mucks [ Jd, 8h ]
+BLITZ1106 collected [ $0.15 ]
+
+
+#Game No : 465972642
+***** 888poker Hand History for Game 465972642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2019 00:48:01
+Table Lecce 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: spargelmanni ( $0.80 )
+Seat 10: ekonievic ( $2.01 )
+spargelmanni posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+spargelmanni calls [$0.01]
+ekonievic checks
+** Dealing flop ** [ 3h, Kc, Ks ]
+ekonievic checks
+spargelmanni bets [$0.02]
+ekonievic folds
+** Summary **
+spargelmanni collected [ $0.04 ]
+
+

@@ -1,0 +1,439 @@
+#Game No : 501622764
+***** 888poker Hand History for Game 501622764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 16:39:15
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: 1st_Fish ( $1.25 )
+Seat 4: TiMaks ( $1.02 )
+TiMaks posts small blind [$0.01]
+1st_Fish posts big blind [$0.02]
+** Dealing down cards **
+TiMaks raises [$0.04]
+1st_Fish calls [$0.03]
+** Dealing flop ** [ 6h, Kc, Td ]
+1st_Fish checks
+TiMaks checks
+** Dealing turn ** [ Qs ]
+1st_Fish checks
+TiMaks checks
+** Dealing river ** [ 7h ]
+1st_Fish checks
+TiMaks checks
+** Summary **
+1st_Fish shows [ 6d, As ]
+TiMaks shows [ Ad, 6s ]
+1st_Fish collected [ $0.05 ]
+TiMaks collected [ $0.05 ]
+
+
+#Game No : 501622773
+***** 888poker Hand History for Game 501622773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 16:39:43
+Table Saratov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 1st_Fish ( $1.25 )
+Seat 4: TiMaks ( $1.02 )
+1st_Fish posts small blind [$0.01]
+TiMaks posts big blind [$0.02]
+** Dealing down cards **
+1st_Fish calls [$0.01]
+TiMaks checks
+** Dealing flop ** [ 3d, Js, Td ]
+TiMaks checks
+1st_Fish bets [$0.04]
+TiMaks folds
+** Summary **
+1st_Fish collected [ $0.04 ]
+
+
+#Game No : 501622778
+***** 888poker Hand History for Game 501622778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 16:39:59
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: 1st_Fish ( $1.27 )
+Seat 4: TiMaks ( $1 )
+TiMaks posts small blind [$0.01]
+** Dealing down cards **
+1st_Fish folds
+** Summary **
+TiMaks collected [ $0.01 ]
+
+
+#Game No : 501622781
+***** 888poker Hand History for Game 501622781 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 16:40:02
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: TiMaks ( $1 )
+Seat 6: nkfnkf ( $0.80 )
+TiMaks posts small blind [$0.01]
+nkfnkf posts big blind [$0.02]
+** Dealing down cards **
+TiMaks folds
+** Summary **
+nkfnkf collected [ $0.03 ]
+
+
+#Game No : 501622786
+***** 888poker Hand History for Game 501622786 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 16:40:11
+Table Saratov 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: TiMaks ( $1 )
+Seat 6: nkfnkf ( $0.81 )
+nkfnkf posts small blind [$0.01]
+TiMaks posts big blind [$0.02]
+** Dealing down cards **
+nkfnkf calls [$0.01]
+TiMaks checks
+** Dealing flop ** [ 2s, Ah, 4s ]
+TiMaks checks
+nkfnkf bets [$0.79]
+TiMaks folds
+** Summary **
+nkfnkf collected [ $0.04 ]
+
+
+#Game No : 501622790
+***** 888poker Hand History for Game 501622790 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 16:40:26
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: TiMaks ( $1 )
+Seat 6: nkfnkf ( $0.83 )
+TiMaks posts small blind [$0.01]
+nkfnkf posts big blind [$0.02]
+** Dealing down cards **
+TiMaks raises [$0.04]
+nkfnkf calls [$0.03]
+** Dealing flop ** [ 8c, 4c, Qc ]
+nkfnkf bets [$0.02]
+TiMaks calls [$0.02]
+** Dealing turn ** [ Tc ]
+nkfnkf bets [$0.76]
+TiMaks folds
+** Summary **
+nkfnkf collected [ $0.14 ]
+
+
+#Game No : 501622795
+***** 888poker Hand History for Game 501622795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 16:40:42
+Table Saratov 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: TiMaks ( $1 )
+Seat 6: nkfnkf ( $0.90 )
+nkfnkf posts small blind [$0.01]
+** Dealing down cards **
+TiMaks folds
+** Summary **
+nkfnkf collected [ $0.01 ]
+
+
+#Game No : 501623523
+***** 888poker Hand History for Game 501623523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:25:42
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.01 )
+Seat 6: Mikew876 ( $0.99 )
+richbranson posts small blind [$0.01]
+Mikew876 posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+Mikew876 calls [$0.04]
+** Dealing flop ** [ 7c, 2d, 8d ]
+Mikew876 checks
+richbranson bets [$0.08]
+Mikew876 calls [$0.08]
+** Dealing turn ** [ 5d ]
+Mikew876 checks
+richbranson bets [$0.18]
+Mikew876 raises [$0.85]
+richbranson calls [$0.67]
+** Dealing river ** [ Jh ]
+** Summary **
+richbranson shows [ Qd, Kd ]
+Mikew876 shows [ 8c, Kh ]
+richbranson collected [ $1.86 ]
+
+
+#Game No : 501623587
+***** 888poker Hand History for Game 501623587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:28:28
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.88 )
+Seat 9: KylerBlint ( $0.80 )
+richbranson posts small blind [$0.01]
+KylerBlint posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+KylerBlint calls [$0.04]
+** Dealing flop ** [ 8c, 3d, 9d ]
+KylerBlint checks
+richbranson bets [$0.06]
+KylerBlint raises [$0.30]
+richbranson folds
+** Summary **
+KylerBlint did not show his hand
+KylerBlint collected [ $0.23 ]
+
+
+#Game No : 501623598
+***** 888poker Hand History for Game 501623598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:29:00
+Table Saratov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.76 )
+Seat 9: KylerBlint ( $0.91 )
+KylerBlint posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+KylerBlint calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Qh, 5c, 7c ]
+richbranson checks
+KylerBlint bets [$0.02]
+richbranson folds
+** Summary **
+KylerBlint did not show his hand
+KylerBlint collected [ $0.04 ]
+
+
+#Game No : 501623607
+***** 888poker Hand History for Game 501623607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:29:22
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.74 )
+Seat 9: KylerBlint ( $0.93 )
+richbranson posts small blind [$0.01]
+KylerBlint posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+KylerBlint did not show his hand
+KylerBlint collected [ $0.03 ]
+
+
+#Game No : 501623612
+***** 888poker Hand History for Game 501623612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:29:27
+Table Saratov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.73 )
+Seat 9: KylerBlint ( $0.94 )
+KylerBlint posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+KylerBlint raises [$0.05]
+richbranson folds
+** Summary **
+KylerBlint did not show his hand
+KylerBlint collected [ $0.04 ]
+
+
+#Game No : 501623616
+***** 888poker Hand History for Game 501623616 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:29:39
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.71 )
+Seat 9: KylerBlint ( $0.96 )
+richbranson posts small blind [$0.01]
+KylerBlint posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+KylerBlint calls [$0.04]
+** Dealing flop ** [ Ah, 8d, 6s ]
+KylerBlint checks
+richbranson bets [$0.08]
+KylerBlint raises [$0.16]
+richbranson folds
+** Summary **
+KylerBlint did not show his hand
+KylerBlint collected [ $0.27 ]
+
+
+#Game No : 501623624
+***** 888poker Hand History for Game 501623624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:30:03
+Table Saratov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.57 )
+Seat 9: KylerBlint ( $1.09 )
+KylerBlint posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+KylerBlint calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Ac, Qh, 3d ]
+richbranson checks
+KylerBlint bets [$0.02]
+richbranson folds
+** Summary **
+KylerBlint did not show his hand
+KylerBlint collected [ $0.04 ]
+
+
+#Game No : 501623635
+***** 888poker Hand History for Game 501623635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:30:21
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.55 )
+Seat 9: KylerBlint ( $1.11 )
+richbranson posts small blind [$0.01]
+KylerBlint posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+KylerBlint did not show his hand
+KylerBlint collected [ $0.03 ]
+
+
+#Game No : 501623638
+***** 888poker Hand History for Game 501623638 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:30:29
+Table Saratov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.54 )
+Seat 9: KylerBlint ( $1.12 )
+KylerBlint posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+KylerBlint calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Tc, Jd, 7h ]
+richbranson checks
+KylerBlint bets [$0.02]
+richbranson calls [$0.02]
+** Dealing turn ** [ 4h ]
+richbranson checks
+KylerBlint bets [$0.02]
+richbranson calls [$0.02]
+** Dealing river ** [ As ]
+richbranson checks
+KylerBlint checks
+** Summary **
+richbranson shows [ Ks, 8c ]
+KylerBlint shows [ Qc, Ts ]
+KylerBlint collected [ $0.12 ]
+
+
+#Game No : 501623652
+***** 888poker Hand History for Game 501623652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:31:10
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.48 )
+Seat 9: KylerBlint ( $1.18 )
+richbranson posts small blind [$0.01]
+KylerBlint posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+KylerBlint raises [$0.16]
+richbranson folds
+** Summary **
+KylerBlint did not show his hand
+KylerBlint collected [ $0.12 ]
+
+
+#Game No : 501623664
+***** 888poker Hand History for Game 501623664 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:31:36
+Table Saratov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.42 )
+Seat 9: KylerBlint ( $1.24 )
+KylerBlint posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+KylerBlint calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 3s, 4c, 5s ]
+richbranson checks
+KylerBlint bets [$0.02]
+richbranson calls [$0.02]
+** Dealing turn ** [ 7h ]
+richbranson checks
+KylerBlint checks
+** Dealing river ** [ 5d ]
+richbranson checks
+KylerBlint bets [$0.02]
+richbranson calls [$0.02]
+** Summary **
+KylerBlint shows [ Ad, 2h ]
+richbranson mucks [ 7s, 8d ]
+KylerBlint collected [ $0.12 ]
+
+
+#Game No : 501623679
+***** 888poker Hand History for Game 501623679 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:32:08
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.36 )
+Seat 9: KylerBlint ( $1.30 )
+richbranson posts small blind [$0.01]
+KylerBlint posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+KylerBlint collected [ $0.03 ]
+
+
+#Game No : 501623888
+***** 888poker Hand History for Game 501623888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:42:43
+Table Saratov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: thewitness ( $1.01 )
+Seat 4: richbranson ( $1.74 )
+richbranson posts small blind [$0.01]
+thewitness posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+thewitness did not show his hand
+thewitness collected [ $0.03 ]
+
+
+#Game No : 501623891
+***** 888poker Hand History for Game 501623891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 17:42:47
+Table Saratov 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: thewitness ( $1.02 )
+Seat 4: richbranson ( $1.73 )
+thewitness posts small blind [$0.01]
+** Dealing down cards **
+richbranson folds
+** Summary **
+thewitness did not show his hand
+thewitness collected [ $0.01 ]
+
+

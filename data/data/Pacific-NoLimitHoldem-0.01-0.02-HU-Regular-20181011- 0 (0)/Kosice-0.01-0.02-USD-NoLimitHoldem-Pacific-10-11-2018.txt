@@ -1,0 +1,122 @@
+#Game No : 609274770
+***** 888poker Hand History for Game 609274770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 19:13:07
+Table Kosice 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DIMAss625 ( $1.40 )
+Seat 2: SlyGash4 ( $1.53 )
+SlyGash4 posts small blind [$0.01]
+DIMAss625 posts big blind [$0.02]
+** Dealing down cards **
+SlyGash4 raises [$0.03]
+DIMAss625 calls [$0.02]
+** Dealing flop ** [ 5h, Qd, 7s ]
+DIMAss625 checks
+SlyGash4 checks
+** Dealing turn ** [ 2c ]
+DIMAss625 checks
+SlyGash4 checks
+** Dealing river ** [ 2d ]
+DIMAss625 bets [$0.02]
+SlyGash4 raises [$0.04]
+DIMAss625 calls [$0.02]
+** Summary **
+SlyGash4 shows [ Ah, 4s ]
+DIMAss625 shows [ 3c, 3s ]
+DIMAss625 collected [ $0.15 ]
+
+
+#Game No : 609274776
+***** 888poker Hand History for Game 609274776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 19:13:11
+Table Kosice 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DIMAss625 ( $1.47 )
+Seat 2: SlyGash4 ( $1.45 )
+DIMAss625 posts small blind [$0.01]
+SlyGash4 posts big blind [$0.02]
+** Dealing down cards **
+DIMAss625 calls [$0.01]
+SlyGash4 raises [$0.04]
+DIMAss625 calls [$0.04]
+** Dealing flop ** [ 2h, 5c, 5d ]
+SlyGash4 bets [$0.02]
+DIMAss625 calls [$0.02]
+** Dealing turn ** [ 7s ]
+SlyGash4 bets [$0.02]
+DIMAss625 calls [$0.02]
+** Dealing river ** [ 3d ]
+SlyGash4 bets [$0.02]
+DIMAss625 raises [$0.26]
+SlyGash4 folds
+** Summary **
+DIMAss625 collected [ $0.23 ]
+
+
+#Game No : 609274782
+***** 888poker Hand History for Game 609274782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 19:13:35
+Table Kosice 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DIMAss625 ( $1.58 )
+Seat 2: SlyGash4 ( $1.33 )
+SlyGash4 posts small blind [$0.01]
+DIMAss625 posts big blind [$0.02]
+** Dealing down cards **
+SlyGash4 calls [$0.01]
+DIMAss625 checks
+** Dealing flop ** [ 8d, 4h, 5c ]
+DIMAss625 checks
+SlyGash4 bets [$0.02]
+DIMAss625 folds
+** Summary **
+SlyGash4 collected [ $0.04 ]
+
+
+#Game No : 609276195
+***** 888poker Hand History for Game 609276195 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 20:56:51
+Table Kosice 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: moochcat ( $1.77 )
+Seat 10: dlolo30 ( $1.83 )
+dlolo30 posts small blind [$0.01]
+moochcat posts big blind [$0.02]
+** Dealing down cards **
+dlolo30 folds
+** Summary **
+moochcat collected [ $0.03 ]
+
+
+#Game No : 609276198
+***** 888poker Hand History for Game 609276198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 20:56:58
+Table Kosice 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: moochcat ( $1.78 )
+Seat 10: dlolo30 ( $1.82 )
+moochcat posts small blind [$0.01]
+dlolo30 posts big blind [$0.02]
+** Dealing down cards **
+moochcat calls [$0.01]
+dlolo30 checks
+** Dealing flop ** [ Jh, 6h, Kd ]
+dlolo30 checks
+moochcat checks
+** Dealing turn ** [ 9s ]
+dlolo30 checks
+moochcat checks
+** Dealing river ** [ Td ]
+dlolo30 checks
+moochcat checks
+** Summary **
+dlolo30 shows [ 2h, 8c ]
+moochcat shows [ Th, 8s ]
+moochcat collected [ $0.04 ]
+
+

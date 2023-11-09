@@ -1,0 +1,135 @@
+#Game No : 607734962
+***** 888poker Hand History for Game 607734962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 08:31:45
+Table Quito 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Strelok34 ( $2 )
+Seat 6: 008_008_008 ( $2 )
+Strelok34 posts small blind [$0.01]
+008_008_008 posts big blind [$0.02]
+** Dealing down cards **
+Strelok34 calls [$0.01]
+008_008_008 checks
+** Dealing flop ** [ 9d, 8s, 3s ]
+008_008_008 bets [$0.06]
+Strelok34 calls [$0.06]
+** Dealing turn ** [ Qd ]
+008_008_008 bets [$0.10]
+Strelok34 calls [$0.10]
+** Dealing river ** [ Qc ]
+008_008_008 bets [$0.08]
+Strelok34 calls [$0.08]
+** Summary **
+008_008_008 shows [ 5c, 8d ]
+Strelok34 mucks [ 7c, 3d ]
+008_008_008 collected [ $0.49 ]
+
+
+#Game No : 607735021
+***** 888poker Hand History for Game 607735021 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 08:33:10
+Table Quito 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Strelok34 ( $1.76 )
+Seat 6: 008_008_008 ( $2.21 )
+008_008_008 posts small blind [$0.01]
+Strelok34 posts big blind [$0.02]
+** Dealing down cards **
+008_008_008 raises [$0.11]
+Strelok34 calls [$0.10]
+** Dealing flop ** [ Jh, 2c, 3d ]
+Strelok34 checks
+008_008_008 bets [$0.12]
+Strelok34 folds
+** Summary **
+008_008_008 collected [ $0.23 ]
+
+
+#Game No : 607735085
+***** 888poker Hand History for Game 607735085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 08:34:31
+Table Quito 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Strelok34 ( $1.59 )
+Seat 9: Bulley_03 ( $2 )
+Strelok34 posts small blind [$0.01]
+Bulley_03 posts big blind [$0.02]
+** Dealing down cards **
+Strelok34 calls [$0.01]
+Bulley_03 checks
+** Dealing flop ** [ Kh, 3h, Tc ]
+Bulley_03 checks
+Strelok34 checks
+** Dealing turn ** [ 2c ]
+Bulley_03 bets [$0.04]
+Strelok34 folds
+** Summary **
+Bulley_03 collected [ $0.04 ]
+
+
+#Game No : 607735102
+***** 888poker Hand History for Game 607735102 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 08:34:54
+Table Quito 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: Strelok34 ( $1.57 )
+Seat 9: Bulley_03 ( $2.02 )
+Bulley_03 posts small blind [$0.01]
+Strelok34 posts big blind [$0.02]
+** Dealing down cards **
+Bulley_03 raises [$0.05]
+Strelok34 calls [$0.04]
+** Dealing flop ** [ 5h, 4c, 6d ]
+Strelok34 checks
+Bulley_03 checks
+** Dealing turn ** [ Kc ]
+Strelok34 checks
+Bulley_03 bets [$0.06]
+Strelok34 folds
+** Summary **
+Bulley_03 collected [ $0.12 ]
+
+
+#Game No : 607754779
+***** 888poker Hand History for Game 607754779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 15:03:30
+Table Quito 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: sunrise46 ( $1.17 )
+Seat 5: vietteze ( $2.59 )
+vietteze posts small blind [$0.01]
+sunrise46 posts big blind [$0.02]
+** Dealing down cards **
+vietteze folds
+** Summary **
+sunrise46 did not show his hand
+sunrise46 collected [ $0.03 ]
+
+
+#Game No : 607754901
+***** 888poker Hand History for Game 607754901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 15:06:40
+Table Quito 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ricarser ( $2 )
+Seat 5: vietteze ( $2.58 )
+ricarser posts small blind [$0.01]
+vietteze posts big blind [$0.02]
+** Dealing down cards **
+ricarser calls [$0.01]
+vietteze checks
+** Dealing flop ** [ As, 6d, 7s ]
+vietteze checks
+ricarser bets [$0.04]
+vietteze folds
+** Summary **
+ricarser did not show his hand
+ricarser collected [ $0.04 ]
+
+

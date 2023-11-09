@@ -1,0 +1,47 @@
+#Game No : 1222515797
+***** 888poker Hand History for Game 1222515797 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 02:50:34
+Table Posadas 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Kostjan95 ( $1.90 )
+Seat 2: Littlenonno1 ( $2.09 )
+Littlenonno1 posts small blind [$0.01]
+Kostjan95 posts big blind [$0.02]
+** Dealing down cards **
+Littlenonno1 calls [$0.01]
+Kostjan95 checks
+** Dealing flop ** [ Qh, 9h, 3c ]
+Kostjan95 checks
+Littlenonno1 bets [$0.04]
+Kostjan95 calls [$0.04]
+** Dealing turn ** [ Qs ]
+Kostjan95 checks
+Littlenonno1 bets [$0.04]
+Kostjan95 calls [$0.04]
+** Dealing river ** [ As ]
+Kostjan95 checks
+Littlenonno1 checks
+** Summary **
+Kostjan95 shows [ Kc, 4h ]
+Littlenonno1 shows [ 3s, Jh ]
+Littlenonno1 collected [ $0.19 ]
+
+
+#Game No : 505093831
+***** 888poker Hand History for Game 505093831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:45:39
+Table Posadas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Dr_Pr ( $1 )
+Seat 6: philosov01 ( $1.10 )
+Dr_Pr posts small blind [$0.01]
+philosov01 posts big blind [$0.02]
+** Dealing down cards **
+Dr_Pr raises [$0.05]
+philosov01 folds
+** Summary **
+Dr_Pr collected [ $0.04 ]
+
+

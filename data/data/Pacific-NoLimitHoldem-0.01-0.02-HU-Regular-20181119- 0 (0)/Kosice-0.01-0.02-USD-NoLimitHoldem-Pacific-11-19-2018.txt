@@ -1,0 +1,131 @@
+#Game No : 505630975
+***** 888poker Hand History for Game 505630975 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:16:44
+Table Kosice 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Jopiedopey ( $1 )
+Seat 9: GARALD84 ( $1 )
+GARALD84 posts small blind [$0.01]
+Jopiedopey posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.05]
+Jopiedopey calls [$0.04]
+** Dealing flop ** [ Th, 2c, Kd ]
+Jopiedopey checks
+GARALD84 bets [$0.08]
+Jopiedopey calls [$0.08]
+** Dealing turn ** [ 7h ]
+Jopiedopey checks
+GARALD84 checks
+** Dealing river ** [ 7d ]
+Jopiedopey checks
+GARALD84 checks
+** Summary **
+Jopiedopey shows [ 4d, Kh ]
+GARALD84 mucks [ Qs, Ad ]
+Jopiedopey collected [ $0.27 ]
+
+
+#Game No : 505630995
+***** 888poker Hand History for Game 505630995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:17:10
+Table Kosice 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Jopiedopey ( $1.13 )
+Seat 9: GARALD84 ( $1 )
+Jopiedopey posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+Jopiedopey calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ Qs, Jc, Js ]
+GARALD84 bets [$0.02]
+Jopiedopey calls [$0.02]
+** Dealing turn ** [ Kh ]
+GARALD84 checks
+Jopiedopey checks
+** Dealing river ** [ 4s ]
+GARALD84 bets [$0.05]
+Jopiedopey calls [$0.05]
+** Summary **
+GARALD84 shows [ 3s, 6s ]
+Jopiedopey mucks [ 8h, Ad ]
+GARALD84 collected [ $0.17 ]
+
+
+#Game No : 505631508
+***** 888poker Hand History for Game 505631508 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:38:11
+Table Kosice 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: e.bernardo ( $1 )
+Seat 2: Dmitriy794 ( $1 )
+Dmitriy794 posts small blind [$0.01]
+e.bernardo posts big blind [$0.02]
+** Dealing down cards **
+Dmitriy794 raises [$0.99]
+e.bernardo folds
+** Summary **
+Dmitriy794 collected [ $1.02 ]
+
+
+#Game No : 505631514
+***** 888poker Hand History for Game 505631514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:38:26
+Table Kosice 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: e.bernardo ( $0.98 )
+Seat 2: Dmitriy794 ( $1.02 )
+e.bernardo posts small blind [$0.01]
+** Dealing down cards **
+Dmitriy794 folds
+** Summary **
+e.bernardo collected [ $0.01 ]
+
+
+#Game No : 505631645
+***** 888poker Hand History for Game 505631645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:43:36
+Table Kosice 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: e.bernardo ( $2.01 )
+Seat 9: GARALD84 ( $1.50 )
+GARALD84 posts small blind [$0.01]
+e.bernardo posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+e.bernardo raises [$0.02]
+GARALD84 calls [$0.02]
+** Dealing flop ** [ 4s, 7s, 7c ]
+e.bernardo bets [$0.08]
+GARALD84 folds
+** Summary **
+e.bernardo collected [ $0.08 ]
+
+
+#Game No : 505631658
+***** 888poker Hand History for Game 505631658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:44:05
+Table Kosice 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: e.bernardo ( $2.05 )
+Seat 9: GARALD84 ( $1.46 )
+e.bernardo posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+e.bernardo raises [$0.05]
+GARALD84 calls [$0.04]
+** Dealing flop ** [ Td, 2s, Ts ]
+GARALD84 checks
+e.bernardo bets [$0.16]
+GARALD84 folds
+** Summary **
+e.bernardo collected [ $0.12 ]
+
+

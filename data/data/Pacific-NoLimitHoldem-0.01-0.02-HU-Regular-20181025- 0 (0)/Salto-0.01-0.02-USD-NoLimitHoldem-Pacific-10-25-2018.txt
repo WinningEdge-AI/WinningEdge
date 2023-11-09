@@ -1,0 +1,72 @@
+#Game No : 609884113
+***** 888poker Hand History for Game 609884113 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 20:11:10
+Table Salto 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: Armeli86 ( $0.63 )
+Seat 3: madimon0803 ( $2.08 )
+madimon0803 posts small blind [$0.01]
+Armeli86 posts big blind [$0.02]
+** Dealing down cards **
+madimon0803 folds
+** Summary **
+Armeli86 did not show his hand
+Armeli86 collected [ $0.03 ]
+
+
+#Game No : 609884120
+***** 888poker Hand History for Game 609884120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 20:12:01
+Table Salto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: da1nonly613 ( $2 )
+Seat 3: Armeli86 ( $0.80 )
+da1nonly613 posts small blind [$0.01]
+Armeli86 posts big blind [$0.02]
+** Dealing down cards **
+da1nonly613 calls [$0.01]
+Armeli86 raises [$0.06]
+da1nonly613 calls [$0.06]
+** Dealing flop ** [ 2s, 9h, Qc ]
+Armeli86 bets [$0.10]
+da1nonly613 calls [$0.10]
+** Dealing turn ** [ 9c ]
+Armeli86 bets [$0.24]
+da1nonly613 calls [$0.24]
+** Dealing river ** [ 5d ]
+Armeli86 bets [$0.38]
+da1nonly613 folds
+** Summary **
+Armeli86 collected [ $0.79 ]
+
+
+#Game No : 609884126
+***** 888poker Hand History for Game 609884126 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 20:12:34
+Table Salto 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: da1nonly613 ( $1.58 )
+Seat 3: Armeli86 ( $1.17 )
+Armeli86 posts small blind [$0.01]
+da1nonly613 posts big blind [$0.02]
+** Dealing down cards **
+Armeli86 calls [$0.01]
+da1nonly613 checks
+** Dealing flop ** [ 8c, 6c, 5c ]
+da1nonly613 checks
+Armeli86 checks
+** Dealing turn ** [ Kc ]
+da1nonly613 checks
+Armeli86 checks
+** Dealing river ** [ Qh ]
+da1nonly613 checks
+Armeli86 checks
+** Summary **
+da1nonly613 shows [ Kh, 6d ]
+Armeli86 mucks [ Jh, 9s ]
+da1nonly613 collected [ $0.04 ]
+
+

@@ -1,0 +1,58 @@
+#Game No : 522721427
+***** 888poker Hand History for Game 522721427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 15:10:57
+Table Stockholm 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Slizz89 ( $0.79 )
+Seat 9: Winnerball15 ( $0.96 )
+Slizz89 posts small blind [$0.01]
+Winnerball15 posts big blind [$0.02]
+** Dealing down cards **
+Slizz89 calls [$0.01]
+Winnerball15 checks
+** Dealing flop ** [ 9s, 3s, 2s ]
+Winnerball15 checks
+Slizz89 checks
+** Dealing turn ** [ Jh ]
+Winnerball15 checks
+Slizz89 checks
+** Dealing river ** [ Qc ]
+Winnerball15 checks
+Slizz89 checks
+** Summary **
+Winnerball15 shows [ Ts, 7h ]
+Slizz89 shows [ Th, 7s ]
+Winnerball15 collected [ $0.02 ]
+Slizz89 collected [ $0.02 ]
+
+
+#Game No : 522721467
+***** 888poker Hand History for Game 522721467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 15:11:30
+Table Stockholm 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Slizz89 ( $0.79 )
+Seat 9: Winnerball15 ( $0.96 )
+Winnerball15 posts small blind [$0.01]
+Slizz89 posts big blind [$0.02]
+** Dealing down cards **
+Winnerball15 calls [$0.01]
+Slizz89 checks
+** Dealing flop ** [ Jd, 3h, 4h ]
+Slizz89 checks
+Winnerball15 checks
+** Dealing turn ** [ 9h ]
+Slizz89 bets [$0.02]
+Winnerball15 calls [$0.02]
+** Dealing river ** [ 5c ]
+Slizz89 bets [$0.06]
+Winnerball15 raises [$0.92]
+Slizz89 calls [$0.69]
+** Summary **
+Slizz89 shows [ 3s, 4d ]
+Winnerball15 shows [ 7h, Th ]
+Winnerball15 collected [ $1.49 ]
+
+

@@ -1,0 +1,32 @@
+#Game No : 1234981524
+***** 888poker Hand History for Game 1234981524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 11:11:47
+Table Carmen 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: derjam ( $0.97 )
+Seat 3: jimrob17 ( $1.86 )
+jimrob17 posts small blind [$0.01]
+derjam posts big blind [$0.02]
+** Dealing down cards **
+jimrob17 calls [$0.01]
+derjam raises [$0.02]
+jimrob17 calls [$0.02]
+** Dealing flop ** [ Qs, Jd, 7d ]
+derjam bets [$0.04]
+jimrob17 calls [$0.04]
+** Dealing turn ** [ Ac ]
+derjam checks
+jimrob17 bets [$0.08]
+derjam calls [$0.08]
+** Dealing river ** [ Ah ]
+derjam checks
+jimrob17 bets [$0.16]
+derjam calls [$0.16]
+** Summary **
+jimrob17 shows [ Qh, 2c ]
+derjam shows [ Qc, 9d ]
+jimrob17 collected [ $0.30 ]
+derjam collected [ $0.30 ]
+
+

@@ -1,0 +1,101 @@
+#Game No : 1318571607
+***** 888poker Hand History for Game 1318571607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2019 21:57:35
+Table Durres 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RETHONRETH ( $2 )
+Seat 4: Luminouss ( $2 )
+RETHONRETH posts small blind [$0.01]
+Luminouss posts big blind [$0.02]
+** Dealing down cards **
+RETHONRETH raises [$0.03]
+Luminouss raises [$0.10]
+RETHONRETH calls [$0.08]
+** Dealing flop ** [ 3c, Kd, Qh ]
+Luminouss bets [$0.18]
+RETHONRETH folds
+** Summary **
+Luminouss collected [ $0.23 ]
+
+
+#Game No : 1318571672
+***** 888poker Hand History for Game 1318571672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2019 21:58:05
+Table Durres 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: RETHONRETH ( $1.88 )
+Seat 4: Luminouss ( $2.11 )
+Luminouss posts small blind [$0.01]
+RETHONRETH posts big blind [$0.02]
+** Dealing down cards **
+Luminouss raises [$0.03]
+RETHONRETH calls [$0.02]
+** Dealing flop ** [ 2c, 3s, Qh ]
+RETHONRETH checks
+Luminouss checks
+** Dealing turn ** [ 9c ]
+RETHONRETH checks
+Luminouss checks
+** Dealing river ** [ 4d ]
+RETHONRETH checks
+Luminouss checks
+** Summary **
+RETHONRETH shows [ Kd, 4h ]
+Luminouss mucks [ 7c, Ad ]
+RETHONRETH collected [ $0.08 ]
+
+
+#Game No : 1318571733
+***** 888poker Hand History for Game 1318571733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2019 21:58:34
+Table Durres 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RETHONRETH ( $1.92 )
+Seat 4: Luminouss ( $2.07 )
+RETHONRETH posts small blind [$0.01]
+Luminouss posts big blind [$0.02]
+** Dealing down cards **
+RETHONRETH calls [$0.01]
+Luminouss raises [$0.04]
+RETHONRETH calls [$0.04]
+** Dealing flop ** [ Qd, Kc, Jh ]
+Luminouss checks
+RETHONRETH checks
+** Dealing turn ** [ Qs ]
+Luminouss bets [$0.12]
+RETHONRETH folds
+** Summary **
+Luminouss collected [ $0.12 ]
+
+
+#Game No : 1318571832
+***** 888poker Hand History for Game 1318571832 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2019 21:59:18
+Table Durres 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: RETHONRETH ( $1.86 )
+Seat 4: Luminouss ( $2.13 )
+Luminouss posts small blind [$0.01]
+RETHONRETH posts big blind [$0.02]
+** Dealing down cards **
+Luminouss calls [$0.01]
+RETHONRETH checks
+** Dealing flop ** [ 4h, Qh, Js ]
+RETHONRETH checks
+Luminouss checks
+** Dealing turn ** [ 6d ]
+RETHONRETH checks
+Luminouss checks
+** Dealing river ** [ 3s ]
+RETHONRETH checks
+Luminouss checks
+** Summary **
+RETHONRETH shows [ 8s, Ks ]
+Luminouss mucks [ 9d, 7h ]
+RETHONRETH collected [ $0.04 ]
+
+

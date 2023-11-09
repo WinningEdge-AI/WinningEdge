@@ -1,0 +1,68 @@
+#Game No : 1254058604
+***** 888poker Hand History for Game 1254058604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 09:49:06
+Table Cheonan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: kirrd ( $1.20 )
+Seat 9: PancakePoker ( $0.50 )
+kirrd posts small blind [$0.01]
+PancakePoker posts big blind [$0.02]
+** Dealing down cards **
+kirrd raises [$0.05]
+PancakePoker calls [$0.04]
+** Dealing flop ** [ 2s, Qs, 9h ]
+PancakePoker checks
+kirrd checks
+** Dealing turn ** [ 2c ]
+PancakePoker checks
+kirrd checks
+** Dealing river ** [ 8d ]
+PancakePoker checks
+kirrd checks
+** Summary **
+PancakePoker shows [ 6s, As ]
+kirrd shows [ Ks, Ad ]
+kirrd collected [ $0.12 ]
+
+
+#Game No : 1254058700
+***** 888poker Hand History for Game 1254058700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 09:49:35
+Table Cheonan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: kirrd ( $1.26 )
+Seat 9: PancakePoker ( $0.44 )
+PancakePoker posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+PancakePoker folds
+** Summary **
+kirrd collected [ $0.03 ]
+
+
+#Game No : 1254158826
+***** 888poker Hand History for Game 1254158826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 16:31:54
+Table Cheonan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: andron1715 ( $0.98 )
+Seat 9: Buffi0 ( $2.49 )
+andron1715 posts small blind [$0.01]
+Buffi0 posts big blind [$0.02]
+** Dealing down cards **
+andron1715 calls [$0.01]
+Buffi0 checks
+** Dealing flop ** [ As, 7c, 9h ]
+Buffi0 checks
+andron1715 checks
+** Dealing turn ** [ Qd ]
+Buffi0 checks
+andron1715 bets [$0.04]
+Buffi0 folds
+** Summary **
+andron1715 collected [ $0.04 ]
+
+

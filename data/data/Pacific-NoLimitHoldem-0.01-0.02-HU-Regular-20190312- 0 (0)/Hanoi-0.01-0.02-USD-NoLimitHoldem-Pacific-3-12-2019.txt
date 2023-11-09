@@ -1,0 +1,66 @@
+#Game No : 1254223818
+***** 888poker Hand History for Game 1254223818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 02:18:22
+Table Hanoi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: qaz098q14 ( $0.62 )
+Seat 7: JBorodulina ( $1.39 )
+qaz098q14 posts small blind [$0.01]
+JBorodulina posts big blind [$0.02]
+** Dealing down cards **
+qaz098q14 calls [$0.01]
+JBorodulina raises [$0.04]
+qaz098q14 calls [$0.04]
+** Dealing flop ** [ Ad, 8c, 8h ]
+JBorodulina bets [$0.02]
+qaz098q14 folds
+** Summary **
+JBorodulina collected [ $0.12 ]
+
+
+#Game No : 1254223882
+***** 888poker Hand History for Game 1254223882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 02:18:49
+Table Hanoi 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: qaz098q14 ( $0.56 )
+Seat 7: JBorodulina ( $1.45 )
+JBorodulina posts small blind [$0.01]
+qaz098q14 posts big blind [$0.02]
+** Dealing down cards **
+JBorodulina calls [$0.01]
+qaz098q14 checks
+** Dealing flop ** [ Td, Jh, 7c ]
+qaz098q14 checks
+JBorodulina checks
+** Dealing turn ** [ As ]
+qaz098q14 checks
+JBorodulina checks
+** Dealing river ** [ Qc ]
+qaz098q14 checks
+JBorodulina checks
+** Summary **
+qaz098q14 shows [ 7d, 9s ]
+JBorodulina shows [ 8d, Kd ]
+JBorodulina collected [ $0.04 ]
+
+
+#Game No : 1254224426
+***** 888poker Hand History for Game 1254224426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 03 2019 02:23:06
+Table Hanoi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: andantemoto ( $1.09 )
+Seat 4: yrik222 ( $1 )
+yrik222 posts small blind [$0.01]
+andantemoto posts big blind [$0.02]
+** Dealing down cards **
+yrik222 folds
+** Summary **
+andantemoto did not show his hand
+andantemoto collected [ $0.03 ]
+
+

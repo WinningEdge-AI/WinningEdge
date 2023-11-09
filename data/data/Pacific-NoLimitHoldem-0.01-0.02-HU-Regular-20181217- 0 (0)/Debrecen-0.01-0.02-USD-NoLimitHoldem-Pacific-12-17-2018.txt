@@ -1,0 +1,369 @@
+#Game No : 458885507
+***** 888poker Hand History for Game 458885507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:24:45
+Table Debrecen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: luixaa ( $0.54 )
+Seat 6: m0ny4n0th ( $3.58 )
+m0ny4n0th posts small blind [$0.01]
+luixaa posts big blind [$0.02]
+** Dealing down cards **
+m0ny4n0th raises [$0.05]
+luixaa calls [$0.04]
+** Dealing flop ** [ 4h, 5d, Kd ]
+luixaa checks
+m0ny4n0th bets [$0.06]
+luixaa raises [$0.30]
+m0ny4n0th calls [$0.24]
+** Dealing turn ** [ Ts ]
+luixaa bets [$0.18]
+m0ny4n0th calls [$0.18]
+** Dealing river ** [ 2c ]
+** Summary **
+luixaa shows [ Ks, Jh ]
+m0ny4n0th shows [ Qc, Qd ]
+luixaa collected [ $1.02 ]
+
+
+#Game No : 458885544
+***** 888poker Hand History for Game 458885544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:25:42
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: luixaa ( $1.02 )
+Seat 6: m0ny4n0th ( $3.04 )
+luixaa posts small blind [$0.01]
+** Dealing down cards **
+m0ny4n0th folds
+** Summary **
+luixaa did not show his hand
+luixaa collected [ $0.01 ]
+
+
+#Game No : 458885561
+***** 888poker Hand History for Game 458885561 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:26:15
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: luixaa ( $1.02 )
+Seat 7: awe590632 ( $0.80 )
+awe590632 posts small blind [$0.01]
+luixaa posts big blind [$0.02]
+** Dealing down cards **
+awe590632 raises [$0.05]
+luixaa folds
+** Summary **
+awe590632 collected [ $0.04 ]
+
+
+#Game No : 458885614
+***** 888poker Hand History for Game 458885614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:27:23
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: luixaa ( $0.90 )
+Seat 7: awe590632 ( $0.91 )
+awe590632 posts small blind [$0.01]
+luixaa posts big blind [$0.02]
+** Dealing down cards **
+awe590632 calls [$0.01]
+luixaa checks
+** Dealing flop ** [ 4c, 6d, Td ]
+luixaa checks
+awe590632 checks
+** Dealing turn ** [ Ad ]
+luixaa checks
+awe590632 checks
+** Dealing river ** [ Ah ]
+luixaa checks
+awe590632 checks
+** Summary **
+luixaa shows [ 8c, 9h ]
+awe590632 mucks [ 3h, 2s ]
+luixaa collected [ $0.04 ]
+
+
+#Game No : 458885630
+***** 888poker Hand History for Game 458885630 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:27:48
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: luixaa ( $0.92 )
+Seat 7: awe590632 ( $0.89 )
+luixaa posts small blind [$0.01]
+awe590632 posts big blind [$0.02]
+** Dealing down cards **
+luixaa calls [$0.01]
+awe590632 checks
+** Dealing flop ** [ 8s, 6d, Ks ]
+awe590632 checks
+luixaa checks
+** Dealing turn ** [ 9h ]
+awe590632 checks
+luixaa checks
+** Dealing river ** [ 8h ]
+awe590632 bets [$0.04]
+luixaa folds
+** Summary **
+awe590632 collected [ $0.04 ]
+
+
+#Game No : 458886539
+***** 888poker Hand History for Game 458886539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:48:57
+Table Debrecen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: need888money ( $1.87 )
+Seat 7: awe590632 ( $1 )
+need888money posts small blind [$0.01]
+awe590632 posts big blind [$0.02]
+** Dealing down cards **
+need888money calls [$0.01]
+awe590632 checks
+** Dealing flop ** [ 6d, 6s, 6h ]
+awe590632 checks
+need888money checks
+** Dealing turn ** [ 5c ]
+awe590632 checks
+need888money checks
+** Dealing river ** [ 6c ]
+awe590632 checks
+need888money checks
+** Summary **
+awe590632 shows [ 9c, 2h ]
+need888money mucks [ 3h, 4d ]
+awe590632 collected [ $0.04 ]
+
+
+#Game No : 458886625
+***** 888poker Hand History for Game 458886625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:50:54
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: need888money ( $1.71 )
+Seat 7: awe590632 ( $1.86 )
+awe590632 posts small blind [$0.01]
+need888money posts big blind [$0.02]
+** Dealing down cards **
+awe590632 calls [$0.01]
+need888money checks
+** Dealing flop ** [ 6s, Ad, 8d ]
+need888money checks
+awe590632 bets [$0.02]
+need888money folds
+** Summary **
+awe590632 collected [ $0.04 ]
+
+
+#Game No : 458886689
+***** 888poker Hand History for Game 458886689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:52:21
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: awe590632 ( $1.86 )
+Seat 9: akizxc ( $0.82 )
+akizxc posts small blind [$0.01]
+awe590632 posts big blind [$0.02]
+** Dealing down cards **
+akizxc raises [$0.03]
+awe590632 calls [$0.02]
+** Dealing flop ** [ 6d, 5c, 9h ]
+awe590632 bets [$0.02]
+akizxc calls [$0.02]
+** Dealing turn ** [ Th ]
+awe590632 checks
+akizxc checks
+** Dealing river ** [ 3d ]
+awe590632 bets [$0.02]
+akizxc calls [$0.02]
+** Summary **
+awe590632 shows [ 5s, Ks ]
+akizxc mucks [ 7c, Qc ]
+awe590632 collected [ $0.15 ]
+
+
+#Game No : 458886708
+***** 888poker Hand History for Game 458886708 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:52:48
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: awe590632 ( $1.93 )
+Seat 9: akizxc ( $0.74 )
+awe590632 posts small blind [$0.01]
+akizxc posts big blind [$0.02]
+** Dealing down cards **
+awe590632 folds
+** Summary **
+akizxc collected [ $0.03 ]
+
+
+#Game No : 458886712
+***** 888poker Hand History for Game 458886712 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:52:55
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: awe590632 ( $1.92 )
+Seat 9: akizxc ( $0.75 )
+akizxc posts small blind [$0.01]
+awe590632 posts big blind [$0.02]
+** Dealing down cards **
+akizxc folds
+** Summary **
+awe590632 collected [ $0.03 ]
+
+
+#Game No : 458886720
+***** 888poker Hand History for Game 458886720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:53:03
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: awe590632 ( $1.93 )
+Seat 9: akizxc ( $0.74 )
+awe590632 posts small blind [$0.01]
+akizxc posts big blind [$0.02]
+** Dealing down cards **
+awe590632 calls [$0.01]
+akizxc raises [$0.04]
+awe590632 folds
+** Summary **
+akizxc collected [ $0.04 ]
+
+
+#Game No : 458886727
+***** 888poker Hand History for Game 458886727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:53:13
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: awe590632 ( $1.91 )
+Seat 9: akizxc ( $0.76 )
+akizxc posts small blind [$0.01]
+awe590632 posts big blind [$0.02]
+** Dealing down cards **
+akizxc folds
+** Summary **
+awe590632 collected [ $0.03 ]
+
+
+#Game No : 458886730
+***** 888poker Hand History for Game 458886730 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:53:20
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: awe590632 ( $1.92 )
+Seat 9: akizxc ( $0.75 )
+awe590632 posts small blind [$0.01]
+akizxc posts big blind [$0.02]
+** Dealing down cards **
+awe590632 calls [$0.01]
+akizxc checks
+** Dealing flop ** [ Jc, 2h, Kd ]
+akizxc bets [$0.04]
+awe590632 folds
+** Summary **
+akizxc collected [ $0.04 ]
+
+
+#Game No : 458886876
+***** 888poker Hand History for Game 458886876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:57:00
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Eadsey9580 ( $0.80 )
+Seat 4: magistr29 ( $0.80 )
+Eadsey9580 posts small blind [$0.01]
+magistr29 posts big blind [$0.02]
+** Dealing down cards **
+Eadsey9580 calls [$0.01]
+magistr29 checks
+** Dealing flop ** [ 7h, Jh, Kd ]
+magistr29 bets [$0.02]
+Eadsey9580 folds
+** Summary **
+magistr29 collected [ $0.04 ]
+
+
+#Game No : 458886902
+***** 888poker Hand History for Game 458886902 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:57:34
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Eadsey9580 ( $0.78 )
+Seat 4: magistr29 ( $0.82 )
+magistr29 posts small blind [$0.01]
+Eadsey9580 posts big blind [$0.02]
+** Dealing down cards **
+magistr29 calls [$0.01]
+Eadsey9580 raises [$0.04]
+magistr29 calls [$0.04]
+** Dealing flop ** [ 7c, 2d, 6c ]
+Eadsey9580 bets [$0.06]
+magistr29 calls [$0.06]
+** Dealing turn ** [ 8d ]
+Eadsey9580 bets [$0.06]
+magistr29 calls [$0.06]
+** Dealing river ** [ Jc ]
+Eadsey9580 bets [$0.10]
+magistr29 calls [$0.10]
+** Summary **
+Eadsey9580 shows [ Kd, 7d ]
+magistr29 shows [ 8h, Ad ]
+magistr29 collected [ $0.53 ]
+
+
+#Game No : 458886931
+***** 888poker Hand History for Game 458886931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:58:07
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Eadsey9580 ( $0.50 )
+Seat 4: magistr29 ( $1.07 )
+Eadsey9580 posts small blind [$0.01]
+magistr29 posts big blind [$0.02]
+** Dealing down cards **
+Eadsey9580 calls [$0.01]
+magistr29 raises [$0.02]
+Eadsey9580 calls [$0.02]
+** Dealing flop ** [ 3s, 2h, Ac ]
+magistr29 bets [$0.08]
+Eadsey9580 folds
+** Summary **
+magistr29 collected [ $0.08 ]
+
+
+#Game No : 458886945
+***** 888poker Hand History for Game 458886945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 07:58:27
+Table Debrecen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Eadsey9580 ( $0.46 )
+Seat 4: magistr29 ( $1.11 )
+magistr29 posts small blind [$0.01]
+Eadsey9580 posts big blind [$0.02]
+** Dealing down cards **
+magistr29 calls [$0.01]
+Eadsey9580 raises [$0.04]
+magistr29 calls [$0.04]
+** Dealing flop ** [ 2s, Jd, Kc ]
+Eadsey9580 bets [$0.04]
+magistr29 folds
+** Summary **
+Eadsey9580 collected [ $0.12 ]
+
+

@@ -1,0 +1,765 @@
+#Game No : 519991854
+***** 888poker Hand History for Game 519991854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:50:38
+Table Canberra 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eehhO ( $2.19 )
+Seat 3: iLYAA48 ( $2.61 )
+eehhO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+eehhO folds
+** Summary **
+iLYAA48 collected [ $0.03 ]
+
+
+#Game No : 519991859
+***** 888poker Hand History for Game 519991859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:50:44
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: eehhO ( $2.18 )
+Seat 3: iLYAA48 ( $2.62 )
+iLYAA48 posts small blind [$0.01]
+** Dealing down cards **
+eehhO folds
+** Summary **
+iLYAA48 collected [ $0.01 ]
+
+
+#Game No : 519991958
+***** 888poker Hand History for Game 519991958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:52:33
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $2.62 )
+Seat 10: NEGRAERNESTO ( $0.80 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.03]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ Td, 8d, 2h ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.04]
+NEGRAERNESTO raises [$0.76]
+iLYAA48 calls [$0.72]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 4d ]
+** Summary **
+iLYAA48 shows [ 2c, Ts ]
+NEGRAERNESTO shows [ Tc, 3d ]
+iLYAA48 collected [ $1.50 ]
+
+
+#Game No : 519991994
+***** 888poker Hand History for Game 519991994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:53:13
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.32 )
+Seat 10: NEGRAERNESTO ( $0.80 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO raises [$0.05]
+iLYAA48 calls [$0.04]
+** Dealing flop ** [ Qd, 8h, As ]
+iLYAA48 checks
+NEGRAERNESTO bets [$0.12]
+iLYAA48 folds
+** Summary **
+NEGRAERNESTO did not show his hand
+NEGRAERNESTO collected [ $0.12 ]
+
+
+#Game No : 519992013
+***** 888poker Hand History for Game 519992013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:53:33
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.26 )
+Seat 10: NEGRAERNESTO ( $0.86 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.03]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ Qc, Jh, Kh ]
+NEGRAERNESTO checks
+iLYAA48 checks
+** Dealing turn ** [ 6c ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.04]
+NEGRAERNESTO calls [$0.04]
+** Dealing river ** [ Js ]
+NEGRAERNESTO bets [$0.02]
+iLYAA48 raises [$0.08]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.19 ]
+
+
+#Game No : 519992052
+***** 888poker Hand History for Game 519992052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:54:10
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.35 )
+Seat 10: NEGRAERNESTO ( $0.76 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO raises [$0.07]
+iLYAA48 calls [$0.06]
+** Dealing flop ** [ 2c, 2h, 9c ]
+iLYAA48 checks
+NEGRAERNESTO checks
+** Dealing turn ** [ Qd ]
+iLYAA48 checks
+NEGRAERNESTO bets [$0.10]
+iLYAA48 folds
+** Summary **
+NEGRAERNESTO did not show his hand
+NEGRAERNESTO collected [ $0.15 ]
+
+
+#Game No : 519992073
+***** 888poker Hand History for Game 519992073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:54:33
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.27 )
+Seat 10: NEGRAERNESTO ( $0.83 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.05]
+NEGRAERNESTO calls [$0.04]
+** Dealing flop ** [ 7d, Ah, 8h ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.06]
+NEGRAERNESTO calls [$0.06]
+** Dealing turn ** [ 6h ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.12]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.23 ]
+
+
+#Game No : 519992097
+***** 888poker Hand History for Game 519992097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:54:56
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.38 )
+Seat 10: NEGRAERNESTO ( $0.71 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO raises [$0.05]
+iLYAA48 calls [$0.04]
+** Dealing flop ** [ Kc, 9d, Js ]
+iLYAA48 bets [$0.06]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.12 ]
+
+
+#Game No : 519992115
+***** 888poker Hand History for Game 519992115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:55:16
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.44 )
+Seat 10: NEGRAERNESTO ( $0.65 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.03]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ 7c, 7s, 3s ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.06]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.08 ]
+
+
+#Game No : 519992143
+***** 888poker Hand History for Game 519992143 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:55:40
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.48 )
+Seat 10: NEGRAERNESTO ( $0.61 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO calls [$0.01]
+iLYAA48 checks
+** Dealing flop ** [ 5h, 4c, 2s ]
+iLYAA48 checks
+NEGRAERNESTO bets [$0.04]
+iLYAA48 calls [$0.04]
+** Dealing turn ** [ 7h ]
+iLYAA48 checks
+NEGRAERNESTO bets [$0.06]
+iLYAA48 calls [$0.06]
+** Dealing river ** [ Qh ]
+iLYAA48 checks
+NEGRAERNESTO checks
+** Summary **
+iLYAA48 shows [ 2c, 9s ]
+NEGRAERNESTO shows [ 6s, 6h ]
+NEGRAERNESTO collected [ $0.23 ]
+
+
+#Game No : 519992181
+***** 888poker Hand History for Game 519992181 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:56:14
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.36 )
+Seat 10: NEGRAERNESTO ( $0.72 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 calls [$0.01]
+NEGRAERNESTO checks
+** Dealing flop ** [ Ac, 4s, 7d ]
+NEGRAERNESTO checks
+iLYAA48 checks
+** Dealing turn ** [ 5h ]
+NEGRAERNESTO bets [$0.02]
+iLYAA48 raises [$0.06]
+NEGRAERNESTO calls [$0.04]
+** Dealing river ** [ 4c ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.08]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.15 ]
+
+
+#Game No : 519992212
+***** 888poker Hand History for Game 519992212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:56:46
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.43 )
+Seat 10: NEGRAERNESTO ( $0.64 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO raises [$0.63]
+iLYAA48 folds
+** Summary **
+NEGRAERNESTO did not show his hand
+NEGRAERNESTO collected [ $0.04 ]
+
+
+#Game No : 519992226
+***** 888poker Hand History for Game 519992226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:57:00
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.41 )
+Seat 10: NEGRAERNESTO ( $0.66 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.03]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ 6h, 8h, Ks ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.04]
+NEGRAERNESTO calls [$0.04]
+** Dealing turn ** [ 8s ]
+NEGRAERNESTO bets [$0.02]
+iLYAA48 calls [$0.02]
+** Dealing river ** [ 9d ]
+NEGRAERNESTO bets [$0.02]
+iLYAA48 calls [$0.02]
+** Summary **
+NEGRAERNESTO shows [ 6c, 2s ]
+iLYAA48 shows [ Ad, 9c ]
+iLYAA48 collected [ $0.23 ]
+
+
+#Game No : 519992273
+***** 888poker Hand History for Game 519992273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:57:46
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.52 )
+Seat 10: NEGRAERNESTO ( $0.54 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO raises [$0.03]
+iLYAA48 calls [$0.02]
+** Dealing flop ** [ Js, Tc, 5c ]
+iLYAA48 bets [$0.04]
+NEGRAERNESTO calls [$0.04]
+** Dealing turn ** [ 2s ]
+iLYAA48 bets [$0.08]
+NEGRAERNESTO calls [$0.08]
+** Dealing river ** [ Kh ]
+iLYAA48 checks
+NEGRAERNESTO bets [$0.38]
+iLYAA48 folds
+** Summary **
+NEGRAERNESTO did not show his hand
+NEGRAERNESTO collected [ $0.30 ]
+
+
+#Game No : 519992314
+***** 888poker Hand History for Game 519992314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:58:25
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.36 )
+Seat 10: NEGRAERNESTO ( $0.68 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.03]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ 7d, Js, Qh ]
+NEGRAERNESTO checks
+iLYAA48 checks
+** Dealing turn ** [ 4h ]
+NEGRAERNESTO checks
+iLYAA48 checks
+** Dealing river ** [ As ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.04]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.08 ]
+
+
+#Game No : 519992368
+***** 888poker Hand History for Game 519992368 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:59:16
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.40 )
+Seat 10: NEGRAERNESTO ( $0.64 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO calls [$0.01]
+iLYAA48 checks
+** Dealing flop ** [ 8c, Js, 3c ]
+iLYAA48 checks
+NEGRAERNESTO bets [$0.04]
+iLYAA48 calls [$0.04]
+** Dealing turn ** [ Td ]
+iLYAA48 checks
+NEGRAERNESTO bets [$0.02]
+iLYAA48 calls [$0.02]
+** Dealing river ** [ Jd ]
+iLYAA48 checks
+NEGRAERNESTO checks
+** Summary **
+iLYAA48 shows [ 7h, 3d ]
+NEGRAERNESTO shows [ 8d, Qd ]
+NEGRAERNESTO collected [ $0.15 ]
+
+
+#Game No : 519992391
+***** 888poker Hand History for Game 519992391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 17:59:38
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.32 )
+Seat 10: NEGRAERNESTO ( $0.71 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.03]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ 2d, 2c, 9c ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.04]
+NEGRAERNESTO calls [$0.04]
+** Dealing turn ** [ 2s ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.06]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.15 ]
+
+
+#Game No : 519992418
+***** 888poker Hand History for Game 519992418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:00:00
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.39 )
+Seat 10: NEGRAERNESTO ( $0.63 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO calls [$0.01]
+iLYAA48 raises [$0.02]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ 5d, 5c, Jd ]
+iLYAA48 bets [$0.04]
+NEGRAERNESTO calls [$0.04]
+** Dealing turn ** [ Js ]
+iLYAA48 bets [$0.08]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.15 ]
+
+
+#Game No : 519992436
+***** 888poker Hand History for Game 519992436 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:00:20
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.46 )
+Seat 10: NEGRAERNESTO ( $0.55 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.05]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.04 ]
+
+
+#Game No : 519992450
+***** 888poker Hand History for Game 519992450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:00:35
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.48 )
+Seat 10: NEGRAERNESTO ( $0.53 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO calls [$0.01]
+iLYAA48 raises [$0.02]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ 9s, Jc, Qs ]
+iLYAA48 bets [$0.04]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.08 ]
+
+
+#Game No : 519992470
+***** 888poker Hand History for Game 519992470 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:00:53
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.52 )
+Seat 10: NEGRAERNESTO ( $0.49 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 calls [$0.01]
+NEGRAERNESTO checks
+** Dealing flop ** [ Qc, As, 7c ]
+NEGRAERNESTO checks
+iLYAA48 checks
+** Dealing turn ** [ 7s ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.02]
+NEGRAERNESTO calls [$0.02]
+** Dealing river ** [ 2d ]
+NEGRAERNESTO checks
+iLYAA48 bets [$0.08]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.08 ]
+
+
+#Game No : 519992506
+***** 888poker Hand History for Game 519992506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:01:26
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.56 )
+Seat 10: NEGRAERNESTO ( $0.45 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO calls [$0.01]
+iLYAA48 raises [$0.02]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ 4h, Ts, 6h ]
+iLYAA48 bets [$0.04]
+NEGRAERNESTO calls [$0.04]
+** Dealing turn ** [ 6c ]
+iLYAA48 bets [$0.06]
+NEGRAERNESTO calls [$0.06]
+** Dealing river ** [ Jd ]
+iLYAA48 checks
+NEGRAERNESTO bets [$0.28]
+iLYAA48 folds
+** Summary **
+NEGRAERNESTO did not show his hand
+NEGRAERNESTO collected [ $0.27 ]
+
+
+#Game No : 519992527
+***** 888poker Hand History for Game 519992527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:01:58
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.42 )
+Seat 10: NEGRAERNESTO ( $0.58 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.05]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.04 ]
+
+
+#Game No : 519992543
+***** 888poker Hand History for Game 519992543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:02:07
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.44 )
+Seat 10: NEGRAERNESTO ( $0.56 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.03 ]
+
+
+#Game No : 519992548
+***** 888poker Hand History for Game 519992548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:02:12
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.45 )
+Seat 10: NEGRAERNESTO ( $0.55 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 folds
+** Summary **
+NEGRAERNESTO did not show his hand
+NEGRAERNESTO collected [ $0.03 ]
+
+
+#Game No : 519992556
+***** 888poker Hand History for Game 519992556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:02:18
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.44 )
+Seat 10: NEGRAERNESTO ( $0.56 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO raises [$0.03]
+iLYAA48 raises [$0.04]
+NEGRAERNESTO calls [$0.02]
+** Dealing flop ** [ 4c, Jd, Jh ]
+iLYAA48 checks
+NEGRAERNESTO checks
+** Dealing turn ** [ 6s ]
+iLYAA48 bets [$0.04]
+NEGRAERNESTO calls [$0.04]
+** Dealing river ** [ Kc ]
+iLYAA48 bets [$0.14]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.19 ]
+
+
+#Game No : 519992571
+***** 888poker Hand History for Game 519992571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:02:42
+Table Canberra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.53 )
+Seat 10: NEGRAERNESTO ( $0.46 )
+iLYAA48 posts small blind [$0.01]
+NEGRAERNESTO posts big blind [$0.02]
+** Dealing down cards **
+iLYAA48 raises [$0.05]
+NEGRAERNESTO folds
+** Summary **
+iLYAA48 did not show his hand
+iLYAA48 collected [ $0.04 ]
+
+
+#Game No : 519992579
+***** 888poker Hand History for Game 519992579 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 18:02:54
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: iLYAA48 ( $3.55 )
+Seat 10: NEGRAERNESTO ( $0.44 )
+NEGRAERNESTO posts small blind [$0.01]
+iLYAA48 posts big blind [$0.02]
+** Dealing down cards **
+NEGRAERNESTO calls [$0.01]
+iLYAA48 raises [$0.04]
+NEGRAERNESTO calls [$0.04]
+** Dealing flop ** [ 9s, 7h, 8h ]
+iLYAA48 checks
+NEGRAERNESTO bets [$0.38]
+iLYAA48 calls [$0.38]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Td ]
+** Summary **
+iLYAA48 shows [ Ac, 9c ]
+NEGRAERNESTO shows [ 7d, 9d ]
+iLYAA48 collected [ $0.83 ]
+
+
+#Game No : 459378527
+***** 888poker Hand History for Game 459378527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 02:22:47
+Table Canberra 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: WildBill141 ( $1.93 )
+Seat 2: prokopenko47 ( $2.08 )
+prokopenko47 posts small blind [$0.01]
+WildBill141 posts big blind [$0.02]
+** Dealing down cards **
+prokopenko47 raises [$0.05]
+WildBill141 calls [$0.04]
+** Dealing flop ** [ 2d, 7d, 5s ]
+WildBill141 checks
+prokopenko47 bets [$0.06]
+WildBill141 calls [$0.06]
+** Dealing turn ** [ As ]
+WildBill141 checks
+prokopenko47 bets [$0.14]
+WildBill141 folds
+** Summary **
+prokopenko47 collected [ $0.23 ]
+
+
+#Game No : 459382751
+***** 888poker Hand History for Game 459382751 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 05:02:33
+Table Canberra 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: ekim235 ( $1.62 )
+Seat 10: POLO4KA777 ( $0.85 )
+POLO4KA777 posts small blind [$0.01]
+ekim235 posts big blind [$0.02]
+** Dealing down cards **
+POLO4KA777 raises [$0.03]
+ekim235 folds
+** Summary **
+POLO4KA777 did not show his hand
+POLO4KA777 collected [ $0.04 ]
+
+
+#Game No : 459391233
+***** 888poker Hand History for Game 459391233 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 08:54:56
+Table Canberra 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: UnluckyChamp ( $0.72 )
+Seat 6: Mnemo13 ( $2.28 )
+UnluckyChamp posts small blind [$0.01]
+Mnemo13 posts big blind [$0.02]
+** Dealing down cards **
+UnluckyChamp calls [$0.01]
+Mnemo13 checks
+** Dealing flop ** [ Kd, Ks, 7c ]
+Mnemo13 checks
+UnluckyChamp checks
+** Dealing turn ** [ Ah ]
+Mnemo13 checks
+UnluckyChamp bets [$0.02]
+Mnemo13 calls [$0.02]
+** Dealing river ** [ 6d ]
+Mnemo13 checks
+UnluckyChamp bets [$0.06]
+Mnemo13 folds
+** Summary **
+UnluckyChamp collected [ $0.08 ]
+
+
+#Game No : 459391246
+***** 888poker Hand History for Game 459391246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 12 2018 08:55:23
+Table Canberra 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: UnluckyChamp ( $0.76 )
+Seat 6: Mnemo13 ( $2.24 )
+Mnemo13 posts small blind [$0.01]
+UnluckyChamp posts big blind [$0.02]
+** Dealing down cards **
+Mnemo13 raises [$0.03]
+UnluckyChamp calls [$0.02]
+** Dealing flop ** [ 7s, 5d, 5c ]
+UnluckyChamp checks
+Mnemo13 bets [$0.05]
+UnluckyChamp calls [$0.05]
+** Dealing turn ** [ Tc ]
+UnluckyChamp checks
+Mnemo13 checks
+** Dealing river ** [ Kc ]
+UnluckyChamp bets [$0.14]
+Mnemo13 folds
+** Summary **
+UnluckyChamp collected [ $0.17 ]
+
+

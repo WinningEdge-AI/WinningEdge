@@ -1,0 +1,87 @@
+#Game No : 1234383206
+***** 888poker Hand History for Game 1234383206 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 00:40:46
+Table Castanhal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: TimurGUTNOV ( $2 )
+Seat 2: Libra38rus ( $2 )
+Libra38rus posts small blind [$0.01]
+TimurGUTNOV posts big blind [$0.02]
+** Dealing down cards **
+Libra38rus raises [$0.05]
+TimurGUTNOV calls [$0.04]
+** Dealing flop ** [ 6c, 9s, 3h ]
+TimurGUTNOV checks
+Libra38rus bets [$0.08]
+TimurGUTNOV calls [$0.08]
+** Dealing turn ** [ 3c ]
+TimurGUTNOV checks
+Libra38rus bets [$0.18]
+TimurGUTNOV calls [$0.18]
+** Dealing river ** [ Ts ]
+TimurGUTNOV checks
+Libra38rus checks
+** Summary **
+TimurGUTNOV shows [ 5s, 6h ]
+Libra38rus shows [ 9c, Jc ]
+Libra38rus collected [ $0.60 ]
+
+
+#Game No : 1234383311
+***** 888poker Hand History for Game 1234383311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 00:40:50
+Table Castanhal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: TimurGUTNOV ( $1.68 )
+Seat 2: Libra38rus ( $2.28 )
+TimurGUTNOV posts small blind [$0.01]
+Libra38rus posts big blind [$0.02]
+** Dealing down cards **
+TimurGUTNOV calls [$0.01]
+Libra38rus checks
+** Dealing flop ** [ Js, 2h, 9s ]
+Libra38rus checks
+TimurGUTNOV bets [$0.04]
+Libra38rus folds
+** Summary **
+TimurGUTNOV collected [ $0.04 ]
+
+
+#Game No : 1234383382
+***** 888poker Hand History for Game 1234383382 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 00:41:21
+Table Castanhal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: TimurGUTNOV ( $1.70 )
+Seat 2: Libra38rus ( $2.26 )
+Libra38rus posts small blind [$0.01]
+TimurGUTNOV posts big blind [$0.02]
+** Dealing down cards **
+Libra38rus raises [$0.05]
+TimurGUTNOV calls [$0.04]
+** Dealing flop ** [ 6d, 9s, 4d ]
+TimurGUTNOV bets [$0.02]
+Libra38rus folds
+** Summary **
+TimurGUTNOV collected [ $0.12 ]
+
+
+#Game No : 1234383621
+***** 888poker Hand History for Game 1234383621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 00:43:08
+Table Castanhal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: Libra38rus ( $2.12 )
+Seat 3: Markate ( $2 )
+Markate posts small blind [$0.01]
+Libra38rus posts big blind [$0.02]
+** Dealing down cards **
+Markate folds
+** Summary **
+Libra38rus collected [ $0.03 ]
+
+

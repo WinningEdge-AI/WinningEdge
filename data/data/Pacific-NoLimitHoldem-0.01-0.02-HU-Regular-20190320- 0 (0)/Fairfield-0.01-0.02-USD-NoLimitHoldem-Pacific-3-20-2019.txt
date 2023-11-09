@@ -1,0 +1,73 @@
+#Game No : 617521246
+***** 888poker Hand History for Game 617521246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 13:43:02
+Table Fairfield 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: dasmou14 ( $0.80 )
+Seat 6: kmlm73 ( $2 )
+kmlm73 posts small blind [$0.01]
+dasmou14 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.05]
+dasmou14 calls [$0.04]
+** Dealing flop ** [ Js, 5h, 9h ]
+dasmou14 checks
+kmlm73 bets [$0.06]
+dasmou14 calls [$0.06]
+** Dealing turn ** [ 2c ]
+dasmou14 bets [$0.15]
+kmlm73 raises [$0.30]
+dasmou14 calls [$0.15]
+** Dealing river ** [ 4s ]
+dasmou14 checks
+kmlm73 bets [$0.42]
+dasmou14 calls [$0.38]
+** Summary **
+dasmou14 shows [ 2h, As ]
+kmlm73 shows [ Jh, Jc ]
+kmlm73 collected [ $1.50 ]
+
+
+#Game No : 617521298
+***** 888poker Hand History for Game 617521298 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 13:43:51
+Table Fairfield 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: dasmou14 ( $0.80 )
+Seat 6: kmlm73 ( $2.70 )
+dasmou14 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+dasmou14 calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 4d, Js, 3h ]
+kmlm73 bets [$0.02]
+dasmou14 calls [$0.02]
+** Dealing turn ** [ 3s ]
+kmlm73 bets [$0.02]
+dasmou14 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.08 ]
+
+
+#Game No : 617521319
+***** 888poker Hand History for Game 617521319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 13:44:16
+Table Fairfield 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: dasmou14 ( $0.76 )
+Seat 6: kmlm73 ( $2.74 )
+kmlm73 posts small blind [$0.01]
+dasmou14 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 calls [$0.01]
+dasmou14 raises [$0.06]
+kmlm73 folds
+** Summary **
+dasmou14 collected [ $0.04 ]
+
+

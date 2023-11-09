@@ -1,0 +1,422 @@
+#Game No : 605919535
+***** 888poker Hand History for Game 605919535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 16:49:48
+Table Orlando 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: HandInGlov3 ( $1.05 )
+Seat 7: Smoeggifaen ( $2.42 )
+Smoeggifaen posts small blind [$0.01]
+HandInGlov3 posts big blind [$0.02]
+** Dealing down cards **
+Smoeggifaen raises [$0.03]
+HandInGlov3 folds
+** Summary **
+Smoeggifaen collected [ $0.04 ]
+
+
+#Game No : 605919545
+***** 888poker Hand History for Game 605919545 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 16:50:04
+Table Orlando 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: HandInGlov3 ( $1.03 )
+Seat 7: Smoeggifaen ( $2.44 )
+HandInGlov3 posts small blind [$0.01]
+Smoeggifaen posts big blind [$0.02]
+** Dealing down cards **
+HandInGlov3 folds
+** Summary **
+Smoeggifaen collected [ $0.03 ]
+
+
+#Game No : 605925427
+***** 888poker Hand History for Game 605925427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:26:13
+Table Orlando 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.19 )
+Seat 9: Rohov_Boss ( $1.76 )
+skilledm3n posts small blind [$0.01]
+Rohov_Boss posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n raises [$0.05]
+Rohov_Boss raises [$0.08]
+skilledm3n calls [$0.04]
+** Dealing flop ** [ 3s, 4d, 4s ]
+Rohov_Boss bets [$0.13]
+skilledm3n folds
+** Summary **
+Rohov_Boss collected [ $0.19 ]
+
+
+#Game No : 605925433
+***** 888poker Hand History for Game 605925433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:26:44
+Table Orlando 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.09 )
+Seat 9: Rohov_Boss ( $1.85 )
+Rohov_Boss posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+Rohov_Boss calls [$0.01]
+skilledm3n checks
+** Dealing flop ** [ 2c, 7h, 3h ]
+skilledm3n bets [$0.04]
+Rohov_Boss calls [$0.04]
+** Dealing turn ** [ 8s ]
+skilledm3n checks
+Rohov_Boss checks
+** Dealing river ** [ 5s ]
+skilledm3n checks
+Rohov_Boss bets [$0.06]
+skilledm3n folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.12 ]
+
+
+#Game No : 605925448
+***** 888poker Hand History for Game 605925448 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:27:31
+Table Orlando 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.03 )
+Seat 9: Rohov_Boss ( $1.91 )
+skilledm3n posts small blind [$0.01]
+Rohov_Boss posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.03 ]
+
+
+#Game No : 605925452
+***** 888poker Hand History for Game 605925452 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:27:42
+Table Orlando 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.02 )
+Seat 9: Rohov_Boss ( $1.92 )
+Rohov_Boss posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+Rohov_Boss raises [$0.03]
+skilledm3n folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.04 ]
+
+
+#Game No : 605925457
+***** 888poker Hand History for Game 605925457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:27:57
+Table Orlando 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1 )
+Seat 9: Rohov_Boss ( $1.94 )
+skilledm3n posts small blind [$0.01]
+Rohov_Boss posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n raises [$0.05]
+Rohov_Boss raises [$0.10]
+skilledm3n folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.12 ]
+
+
+#Game No : 605925467
+***** 888poker Hand History for Game 605925467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:28:22
+Table Orlando 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1 )
+Seat 9: Rohov_Boss ( $2 )
+Rohov_Boss posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+Rohov_Boss calls [$0.01]
+skilledm3n checks
+** Dealing flop ** [ Qd, Js, Ah ]
+skilledm3n checks
+Rohov_Boss checks
+** Dealing turn ** [ 5d ]
+skilledm3n checks
+Rohov_Boss checks
+** Dealing river ** [ 7s ]
+skilledm3n bets [$0.03]
+Rohov_Boss calls [$0.03]
+** Summary **
+skilledm3n shows [ 7c, 5c ]
+Rohov_Boss mucks [ 6s, 7h ]
+skilledm3n collected [ $0.10 ]
+
+
+#Game No : 605925477
+***** 888poker Hand History for Game 605925477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:29:10
+Table Orlando 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.05 )
+Seat 9: Rohov_Boss ( $1.95 )
+skilledm3n posts small blind [$0.01]
+Rohov_Boss posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.03 ]
+
+
+#Game No : 605925479
+***** 888poker Hand History for Game 605925479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:29:19
+Table Orlando 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.04 )
+Seat 9: Rohov_Boss ( $1.96 )
+Rohov_Boss posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+Rohov_Boss raises [$0.03]
+skilledm3n calls [$0.02]
+** Dealing flop ** [ 4d, 7d, 6d ]
+skilledm3n checks
+Rohov_Boss bets [$0.05]
+skilledm3n folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.08 ]
+
+
+#Game No : 605925486
+***** 888poker Hand History for Game 605925486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:29:49
+Table Orlando 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1 )
+Seat 9: Rohov_Boss ( $2 )
+skilledm3n posts small blind [$0.01]
+Rohov_Boss posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n raises [$0.05]
+Rohov_Boss raises [$0.08]
+skilledm3n calls [$0.04]
+** Dealing flop ** [ Ts, Qd, 7h ]
+Rohov_Boss bets [$0.02]
+skilledm3n folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.19 ]
+
+
+#Game No : 605925495
+***** 888poker Hand History for Game 605925495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:30:22
+Table Orlando 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1 )
+Seat 9: Rohov_Boss ( $2.09 )
+Rohov_Boss posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+Rohov_Boss folds
+** Summary **
+skilledm3n did not show his hand
+skilledm3n collected [ $0.03 ]
+
+
+#Game No : 605925497
+***** 888poker Hand History for Game 605925497 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:30:29
+Table Orlando 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.01 )
+Seat 9: Rohov_Boss ( $2.08 )
+skilledm3n posts small blind [$0.01]
+Rohov_Boss posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n folds
+** Summary **
+Rohov_Boss did not show his hand
+Rohov_Boss collected [ $0.03 ]
+
+
+#Game No : 605925501
+***** 888poker Hand History for Game 605925501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:30:39
+Table Orlando 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1 )
+Seat 9: Rohov_Boss ( $2.09 )
+Rohov_Boss posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+Rohov_Boss raises [$0.03]
+skilledm3n calls [$0.02]
+** Dealing flop ** [ Qc, 2d, 7s ]
+skilledm3n bets [$0.05]
+Rohov_Boss folds
+** Summary **
+skilledm3n did not show his hand
+skilledm3n collected [ $0.08 ]
+
+
+#Game No : 605925752
+***** 888poker Hand History for Game 605925752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:46:28
+Table Orlando 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1 )
+Seat 4: tataha ( $0.86 )
+tataha posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+tataha calls [$0.01]
+skilledm3n raises [$0.06]
+tataha calls [$0.06]
+** Dealing flop ** [ 3c, Ac, 5d ]
+skilledm3n bets [$0.11]
+tataha calls [$0.11]
+** Dealing turn ** [ 5s ]
+skilledm3n bets [$0.27]
+tataha raises [$0.67]
+skilledm3n calls [$0.40]
+** Dealing river ** [ Jh ]
+** Summary **
+skilledm3n shows [ Ah, As ]
+tataha shows [ Th, 5c ]
+skilledm3n collected [ $1.62 ]
+
+
+#Game No : 605925764
+***** 888poker Hand History for Game 605925764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:46:39
+Table Orlando 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.76 )
+Seat 5: titosnikas ( $2 )
+titosnikas posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+titosnikas raises [$0.05]
+skilledm3n folds
+** Summary **
+titosnikas did not show his hand
+titosnikas collected [ $0.04 ]
+
+
+#Game No : 605925769
+***** 888poker Hand History for Game 605925769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:46:52
+Table Orlando 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.74 )
+Seat 5: titosnikas ( $2.02 )
+skilledm3n posts small blind [$0.01]
+titosnikas posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n raises [$0.05]
+titosnikas calls [$0.04]
+** Dealing flop ** [ As, 2h, Kh ]
+titosnikas checks
+skilledm3n bets [$0.10]
+titosnikas folds
+** Summary **
+skilledm3n did not show his hand
+skilledm3n collected [ $0.12 ]
+
+
+#Game No : 605925778
+***** 888poker Hand History for Game 605925778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:47:29
+Table Orlando 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.80 )
+Seat 5: titosnikas ( $1.96 )
+titosnikas posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+titosnikas folds
+** Summary **
+skilledm3n did not show his hand
+skilledm3n collected [ $0.03 ]
+
+
+#Game No : 605925780
+***** 888poker Hand History for Game 605925780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 23:47:36
+Table Orlando 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $1.81 )
+Seat 5: titosnikas ( $1.95 )
+skilledm3n posts small blind [$0.01]
+titosnikas posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n raises [$0.05]
+titosnikas calls [$0.04]
+** Dealing flop ** [ Js, 3h, 8h ]
+titosnikas checks
+skilledm3n bets [$0.09]
+titosnikas calls [$0.09]
+** Dealing turn ** [ 2d ]
+titosnikas checks
+skilledm3n checks
+** Dealing river ** [ 6s ]
+titosnikas checks
+skilledm3n bets [$0.19]
+titosnikas raises [$0.38]
+skilledm3n folds
+** Summary **
+titosnikas collected [ $0.64 ]
+
+
+#Game No : 605934488
+***** 888poker Hand History for Game 605934488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 06:59:34
+Table Orlando 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: dangphuc1412 ( $1.94 )
+Seat 5: Lupul55 ( $1.90 )
+Lupul55 posts small blind [$0.01]
+dangphuc1412 posts big blind [$0.02]
+** Dealing down cards **
+Lupul55 calls [$0.01]
+dangphuc1412 checks
+** Dealing flop ** [ 5s, 3c, 3s ]
+dangphuc1412 checks
+Lupul55 checks
+** Dealing turn ** [ 2c ]
+dangphuc1412 checks
+Lupul55 checks
+** Dealing river ** [ 2s ]
+dangphuc1412 checks
+Lupul55 checks
+** Summary **
+dangphuc1412 shows [ 8h, As ]
+Lupul55 mucks [ 7s, Kd ]
+dangphuc1412 collected [ $0.04 ]
+
+

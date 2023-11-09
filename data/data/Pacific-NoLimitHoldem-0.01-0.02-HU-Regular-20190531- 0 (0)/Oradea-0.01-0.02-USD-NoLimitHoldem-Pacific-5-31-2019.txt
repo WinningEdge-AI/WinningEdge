@@ -1,0 +1,94 @@
+#Game No : 465576466
+***** 888poker Hand History for Game 465576466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 05 2019 20:04:31
+Table Oradea 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: BasicConcept ( $1.16 )
+Seat 9: rnnrboat ( $0.62 )
+rnnrboat posts small blind [$0.01]
+** Dealing down cards **
+BasicConcept folds
+** Summary **
+rnnrboat did not show his hand
+rnnrboat collected [ $0.01 ]
+
+
+#Game No : 465576506
+***** 888poker Hand History for Game 465576506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 05 2019 20:09:05
+Table Oradea 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: javo1960 ( $1 )
+Seat 9: Jamesy619 ( $1 )
+Jamesy619 posts small blind [$0.01]
+javo1960 posts big blind [$0.02]
+** Dealing down cards **
+Jamesy619 calls [$0.01]
+javo1960 checks
+** Dealing flop ** [ Jh, Kh, 2s ]
+javo1960 bets [$0.04]
+Jamesy619 calls [$0.04]
+** Dealing turn ** [ Tc ]
+javo1960 bets [$0.12]
+Jamesy619 folds
+** Summary **
+javo1960 collected [ $0.12 ]
+
+
+#Game No : 465577117
+***** 888poker Hand History for Game 465577117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 05 2019 21:30:50
+Table Oradea 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Balandin1993 ( $2.46 )
+Seat 4: yznal111 ( $1.52 )
+Balandin1993 posts small blind [$0.01]
+yznal111 posts big blind [$0.02]
+** Dealing down cards **
+Balandin1993 calls [$0.01]
+yznal111 raises [$0.06]
+Balandin1993 calls [$0.06]
+** Dealing flop ** [ Ad, 3h, Jh ]
+yznal111 bets [$0.05]
+Balandin1993 calls [$0.05]
+** Dealing turn ** [ 7c ]
+yznal111 checks
+Balandin1993 checks
+** Dealing river ** [ As ]
+yznal111 checks
+Balandin1993 bets [$0.14]
+yznal111 calls [$0.14]
+** Summary **
+Balandin1993 shows [ 9c, 9d ]
+yznal111 mucks [ 3c, 5s ]
+Balandin1993 collected [ $0.51 ]
+
+
+#Game No : 465577121
+***** 888poker Hand History for Game 465577121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 05 2019 21:31:46
+Table Oradea 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Balandin1993 ( $2.70 )
+Seat 4: yznal111 ( $1.25 )
+yznal111 posts small blind [$0.01]
+Balandin1993 posts big blind [$0.02]
+** Dealing down cards **
+yznal111 raises [$0.04]
+Balandin1993 calls [$0.03]
+** Dealing flop ** [ 5c, 9c, 4d ]
+Balandin1993 checks
+yznal111 bets [$0.06]
+Balandin1993 calls [$0.06]
+** Dealing turn ** [ Ac ]
+Balandin1993 checks
+yznal111 bets [$0.11]
+Balandin1993 folds
+** Summary **
+yznal111 collected [ $0.21 ]
+
+

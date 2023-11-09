@@ -1,0 +1,50 @@
+#Game No : 1243334830
+***** 888poker Hand History for Game 1243334830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 04:43:04
+Table Brisbane 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: stu8682 ( $0.92 )
+Seat 6: ACCOJIb ( $1 )
+stu8682 posts small blind [$0.01]
+ACCOJIb posts big blind [$0.02]
+** Dealing down cards **
+stu8682 raises [$0.03]
+ACCOJIb calls [$0.02]
+** Dealing flop ** [ 4d, 2d, 9c ]
+ACCOJIb checks
+stu8682 bets [$0.05]
+ACCOJIb folds
+** Summary **
+stu8682 collected [ $0.08 ]
+
+
+#Game No : 1243335632
+***** 888poker Hand History for Game 1243335632 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 04:45:55
+Table Brisbane 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: stu8682 ( $3.68 )
+Seat 6: ACCOJIb ( $1 )
+stu8682 posts small blind [$0.01]
+ACCOJIb posts big blind [$0.02]
+** Dealing down cards **
+stu8682 calls [$0.01]
+ACCOJIb checks
+** Dealing flop ** [ Qs, 2h, 8c ]
+ACCOJIb checks
+stu8682 checks
+** Dealing turn ** [ Jh ]
+ACCOJIb bets [$0.02]
+stu8682 raises [$0.10]
+ACCOJIb calls [$0.08]
+** Dealing river ** [ Js ]
+ACCOJIb checks
+stu8682 checks
+** Summary **
+ACCOJIb shows [ 3h, Th ]
+stu8682 shows [ Ad, Qh ]
+stu8682 collected [ $0.23 ]
+
+

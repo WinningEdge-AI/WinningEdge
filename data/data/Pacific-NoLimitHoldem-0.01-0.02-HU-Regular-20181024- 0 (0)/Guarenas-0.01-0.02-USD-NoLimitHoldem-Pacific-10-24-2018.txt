@@ -1,0 +1,77 @@
+#Game No : 1218564835
+***** 888poker Hand History for Game 1218564835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 02:23:23
+Table Guarenas 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: AtlanTor ( $2 )
+Seat 6: Merodan ( $4.24 )
+Merodan posts small blind [$0.01]
+AtlanTor posts big blind [$0.02]
+** Dealing down cards **
+Merodan raises [$0.04]
+AtlanTor folds
+** Summary **
+Merodan did not show his hand
+Merodan collected [ $0.04 ]
+
+
+#Game No : 1218587784
+***** 888poker Hand History for Game 1218587784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 04:57:25
+Table Guarenas 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: dakotzter ( $1.67 )
+Seat 7: gwb1234 ( $2 )
+dakotzter posts small blind [$0.01]
+gwb1234 posts big blind [$0.02]
+** Dealing down cards **
+dakotzter raises [$0.05]
+gwb1234 calls [$0.04]
+** Dealing flop ** [ 4d, 3h, Ac ]
+gwb1234 checks
+dakotzter bets [$0.06]
+gwb1234 calls [$0.06]
+** Dealing turn ** [ Ad ]
+gwb1234 checks
+dakotzter checks
+** Dealing river ** [ Ts ]
+gwb1234 bets [$0.08]
+dakotzter calls [$0.08]
+** Summary **
+gwb1234 shows [ As, 4c ]
+dakotzter mucks [ 8d, 8s ]
+gwb1234 collected [ $0.38 ]
+
+
+#Game No : 1218587915
+***** 888poker Hand History for Game 1218587915 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 04:57:36
+Table Guarenas 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: dakotzter ( $1.47 )
+Seat 7: gwb1234 ( $2.18 )
+gwb1234 posts small blind [$0.01]
+dakotzter posts big blind [$0.02]
+** Dealing down cards **
+gwb1234 calls [$0.01]
+dakotzter checks
+** Dealing flop ** [ 8s, 9c, Kc ]
+dakotzter checks
+gwb1234 bets [$0.02]
+dakotzter calls [$0.02]
+** Dealing turn ** [ Td ]
+dakotzter checks
+gwb1234 bets [$0.02]
+dakotzter calls [$0.02]
+** Dealing river ** [ 2s ]
+dakotzter checks
+gwb1234 checks
+** Summary **
+dakotzter shows [ 8c, Qd ]
+gwb1234 mucks [ 8h, 5h ]
+dakotzter collected [ $0.12 ]
+
+

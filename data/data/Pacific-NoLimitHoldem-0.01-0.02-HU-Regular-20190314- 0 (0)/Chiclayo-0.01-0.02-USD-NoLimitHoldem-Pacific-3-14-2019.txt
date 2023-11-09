@@ -1,0 +1,115 @@
+#Game No : 515025527
+***** 888poker Hand History for Game 515025527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 12:20:49
+Table Chiclayo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: bymer06 ( $0.81 )
+Seat 6: nagyfigura ( $1.59 )
+nagyfigura posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+nagyfigura calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ Qs, 6h, 5s ]
+bymer06 checks
+nagyfigura checks
+** Dealing turn ** [ 4h ]
+bymer06 checks
+nagyfigura checks
+** Dealing river ** [ 7h ]
+bymer06 checks
+nagyfigura bets [$0.12]
+bymer06 folds
+** Summary **
+nagyfigura collected [ $0.04 ]
+
+
+#Game No : 515029909
+***** 888poker Hand History for Game 515029909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 13:35:37
+Table Chiclayo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: nagyfigura ( $6.54 )
+Seat 9: just.tka ( $1 )
+nagyfigura posts small blind [$0.01]
+just.tka posts big blind [$0.02]
+** Dealing down cards **
+nagyfigura calls [$0.01]
+just.tka checks
+** Dealing flop ** [ Qs, Ah, Kc ]
+just.tka checks
+nagyfigura checks
+** Dealing turn ** [ Js ]
+just.tka checks
+nagyfigura bets [$0.10]
+just.tka folds
+** Summary **
+nagyfigura collected [ $0.04 ]
+
+
+#Game No : 515029961
+***** 888poker Hand History for Game 515029961 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 13:36:17
+Table Chiclayo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: nagyfigura ( $6.56 )
+Seat 9: just.tka ( $1 )
+just.tka posts small blind [$0.01]
+nagyfigura posts big blind [$0.02]
+** Dealing down cards **
+just.tka calls [$0.01]
+nagyfigura checks
+** Dealing flop ** [ Th, 8c, 9d ]
+nagyfigura checks
+just.tka checks
+** Dealing turn ** [ 6c ]
+nagyfigura checks
+just.tka checks
+** Dealing river ** [ 3s ]
+nagyfigura bets [$0.14]
+just.tka folds
+** Summary **
+nagyfigura collected [ $0.04 ]
+
+
+#Game No : 515031217
+***** 888poker Hand History for Game 515031217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 13:59:44
+Table Chiclayo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: CurlBoyTT ( $0.74 )
+Seat 9: just.tka ( $1.47 )
+just.tka posts small blind [$0.01]
+CurlBoyTT posts big blind [$0.02]
+** Dealing down cards **
+just.tka folds
+** Summary **
+CurlBoyTT collected [ $0.03 ]
+
+
+#Game No : 515031225
+***** 888poker Hand History for Game 515031225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 13:59:50
+Table Chiclayo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: CurlBoyTT ( $0.75 )
+Seat 9: just.tka ( $1.46 )
+CurlBoyTT posts small blind [$0.01]
+just.tka posts big blind [$0.02]
+** Dealing down cards **
+CurlBoyTT raises [$0.74]
+just.tka calls [$0.73]
+** Dealing flop ** [ 6h, 8h, 9s ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ Qs ]
+** Summary **
+CurlBoyTT shows [ Ah, 7s ]
+just.tka shows [ Js, Ts ]
+just.tka collected [ $1.41 ]
+
+

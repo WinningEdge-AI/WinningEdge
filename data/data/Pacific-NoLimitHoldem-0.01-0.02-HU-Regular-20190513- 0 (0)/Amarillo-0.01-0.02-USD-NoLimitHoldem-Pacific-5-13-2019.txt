@@ -1,0 +1,65 @@
+#Game No : 465043354
+***** 888poker Hand History for Game 465043354 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 05 2019 05:16:34
+Table Amarillo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: flushbilly ( $0.80 )
+Seat 6: GARALD84 ( $1 )
+flushbilly posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+flushbilly calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ 2s, 9h, 4d ]
+GARALD84 bets [$0.02]
+flushbilly folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 465045765
+***** 888poker Hand History for Game 465045765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 05 2019 07:27:05
+Table Amarillo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: GARALD84 ( $1.80 )
+Seat 9: fishdavinci ( $2.28 )
+fishdavinci posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+fishdavinci raises [$0.05]
+GARALD84 calls [$0.04]
+** Dealing flop ** [ 9c, 6h, Qh ]
+GARALD84 checks
+fishdavinci checks
+** Dealing turn ** [ Kc ]
+GARALD84 checks
+fishdavinci bets [$0.06]
+GARALD84 calls [$0.06]
+** Dealing river ** [ 6d ]
+GARALD84 bets [$0.19]
+fishdavinci calls [$0.19]
+** Summary **
+GARALD84 shows [ 6c, Jc ]
+fishdavinci mucks [ Ks, 7s ]
+GARALD84 collected [ $0.59 ]
+
+
+#Game No : 465045774
+***** 888poker Hand History for Game 465045774 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 05 2019 07:27:43
+Table Amarillo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: GARALD84 ( $2.08 )
+Seat 9: fishdavinci ( $1.97 )
+GARALD84 posts small blind [$0.01]
+fishdavinci posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 folds
+** Summary **
+fishdavinci collected [ $0.03 ]
+
+

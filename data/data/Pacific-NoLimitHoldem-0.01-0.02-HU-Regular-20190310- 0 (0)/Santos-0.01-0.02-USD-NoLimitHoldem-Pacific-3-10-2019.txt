@@ -1,0 +1,557 @@
+#Game No : 1253715949
+***** 888poker Hand History for Game 1253715949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 20:15:38
+Table Santos 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: Arato_Fox ( $0.85 )
+Seat 10: Shallowcall ( $1.87 )
+Shallowcall posts small blind [$0.01]
+Arato_Fox posts big blind [$0.02]
+** Dealing down cards **
+Shallowcall calls [$0.01]
+Arato_Fox checks
+** Dealing flop ** [ Ah, 6s, 9h ]
+Arato_Fox checks
+Shallowcall checks
+** Dealing turn ** [ 5s ]
+Arato_Fox checks
+Shallowcall checks
+** Dealing river ** [ 3h ]
+Arato_Fox checks
+Shallowcall checks
+** Summary **
+Arato_Fox shows [ Js, Ks ]
+Shallowcall shows [ Tc, 6c ]
+Shallowcall collected [ $0.04 ]
+
+
+#Game No : 526257424
+***** 888poker Hand History for Game 526257424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:00:47
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $1.99 )
+Seat 6: blackcatdk66 ( $1.01 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 calls [$0.01]
+Kavalar raises [$0.06]
+blackcatdk66 calls [$0.06]
+** Dealing flop ** [ 2h, Js, Ks ]
+Kavalar bets [$0.10]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.15 ]
+
+
+#Game No : 526257459
+***** 888poker Hand History for Game 526257459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:00:55
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.06 )
+Seat 6: blackcatdk66 ( $0.93 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+blackcatdk66 calls [$0.04]
+** Dealing flop ** [ Kc, 3s, 4c ]
+blackcatdk66 bets [$0.02]
+Kavalar raises [$0.09]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.15 ]
+
+
+#Game No : 526257480
+***** 888poker Hand History for Game 526257480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:01:12
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.13 )
+Seat 6: blackcatdk66 ( $0.85 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 raises [$0.03]
+Kavalar calls [$0.02]
+** Dealing flop ** [ Ts, Js, 4c ]
+Kavalar checks
+blackcatdk66 bets [$0.02]
+Kavalar calls [$0.02]
+** Dealing turn ** [ 7s ]
+Kavalar checks
+blackcatdk66 bets [$0.02]
+Kavalar calls [$0.02]
+** Dealing river ** [ Th ]
+Kavalar checks
+blackcatdk66 bets [$0.02]
+Kavalar calls [$0.02]
+** Summary **
+blackcatdk66 shows [ 4h, As ]
+Kavalar mucks [ 3h, Ac ]
+blackcatdk66 collected [ $0.19 ]
+
+
+#Game No : 526257498
+***** 888poker Hand History for Game 526257498 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:01:35
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.03 )
+Seat 6: blackcatdk66 ( $0.94 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+blackcatdk66 calls [$0.04]
+** Dealing flop ** [ 5d, 7s, 6s ]
+blackcatdk66 bets [$0.02]
+Kavalar raises [$0.08]
+blackcatdk66 calls [$0.06]
+** Dealing turn ** [ Kd ]
+blackcatdk66 bets [$0.02]
+Kavalar raises [$0.23]
+blackcatdk66 calls [$0.21]
+** Dealing river ** [ 9s ]
+blackcatdk66 bets [$0.12]
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.70 ]
+
+
+#Game No : 526257549
+***** 888poker Hand History for Game 526257549 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:02:20
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2 )
+Seat 6: blackcatdk66 ( $1.27 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 calls [$0.01]
+Kavalar checks
+** Dealing flop ** [ 3c, 3d, 2c ]
+Kavalar bets [$0.02]
+blackcatdk66 calls [$0.02]
+** Dealing turn ** [ 6c ]
+Kavalar checks
+blackcatdk66 bets [$0.04]
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.08 ]
+
+
+#Game No : 526257573
+***** 888poker Hand History for Game 526257573 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:02:46
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2 )
+Seat 6: blackcatdk66 ( $1.31 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.03 ]
+
+
+#Game No : 526257577
+***** 888poker Hand History for Game 526257577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:02:50
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2 )
+Seat 6: blackcatdk66 ( $1.32 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 calls [$0.01]
+Kavalar checks
+** Dealing flop ** [ 6c, 5s, 8h ]
+Kavalar bets [$0.02]
+blackcatdk66 calls [$0.02]
+** Dealing turn ** [ 8s ]
+Kavalar bets [$0.02]
+blackcatdk66 calls [$0.02]
+** Dealing river ** [ 9c ]
+Kavalar checks
+blackcatdk66 bets [$0.02]
+Kavalar calls [$0.02]
+** Summary **
+blackcatdk66 shows [ Th, 9h ]
+Kavalar mucks [ 6h, 9s ]
+blackcatdk66 collected [ $0.15 ]
+
+
+#Game No : 526257637
+***** 888poker Hand History for Game 526257637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:03:36
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2 )
+Seat 6: blackcatdk66 ( $1.48 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.04 ]
+
+
+#Game No : 526257641
+***** 888poker Hand History for Game 526257641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:03:43
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.02 )
+Seat 6: blackcatdk66 ( $1.46 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 calls [$0.01]
+Kavalar checks
+** Dealing flop ** [ Qd, As, Th ]
+Kavalar checks
+blackcatdk66 bets [$0.02]
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.04 ]
+
+
+#Game No : 526257651
+***** 888poker Hand History for Game 526257651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:03:53
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2 )
+Seat 6: blackcatdk66 ( $1.48 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.04 ]
+
+
+#Game No : 526257662
+***** 888poker Hand History for Game 526257662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:04:00
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.02 )
+Seat 6: blackcatdk66 ( $1.46 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 calls [$0.01]
+Kavalar raises [$0.06]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.04 ]
+
+
+#Game No : 526257669
+***** 888poker Hand History for Game 526257669 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:04:11
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.04 )
+Seat 6: blackcatdk66 ( $1.44 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.04 ]
+
+
+#Game No : 526257675
+***** 888poker Hand History for Game 526257675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:04:18
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.06 )
+Seat 6: blackcatdk66 ( $1.42 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 calls [$0.01]
+Kavalar raises [$0.06]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.04 ]
+
+
+#Game No : 526257686
+***** 888poker Hand History for Game 526257686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:04:31
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.08 )
+Seat 6: blackcatdk66 ( $1.40 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+blackcatdk66 calls [$0.04]
+** Dealing flop ** [ 5s, 3d, 6h ]
+blackcatdk66 bets [$0.02]
+Kavalar raises [$0.09]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.15 ]
+
+
+#Game No : 526257703
+***** 888poker Hand History for Game 526257703 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:04:47
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.15 )
+Seat 6: blackcatdk66 ( $1.32 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 calls [$0.01]
+Kavalar raises [$0.04]
+blackcatdk66 calls [$0.04]
+** Dealing flop ** [ Th, 4c, Jc ]
+Kavalar checks
+blackcatdk66 bets [$0.02]
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.12 ]
+
+
+#Game No : 526257723
+***** 888poker Hand History for Game 526257723 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:05:02
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.09 )
+Seat 6: blackcatdk66 ( $1.38 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.03 ]
+
+
+#Game No : 526257731
+***** 888poker Hand History for Game 526257731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:05:06
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.08 )
+Seat 6: blackcatdk66 ( $1.39 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 raises [$0.03]
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.04 ]
+
+
+#Game No : 526257740
+***** 888poker Hand History for Game 526257740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:05:14
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.06 )
+Seat 6: blackcatdk66 ( $1.41 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.03 ]
+
+
+#Game No : 526257750
+***** 888poker Hand History for Game 526257750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:05:19
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.05 )
+Seat 6: blackcatdk66 ( $1.42 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.03 ]
+
+
+#Game No : 526257755
+***** 888poker Hand History for Game 526257755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:05:24
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.06 )
+Seat 6: blackcatdk66 ( $1.41 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.03 ]
+
+
+#Game No : 526257758
+***** 888poker Hand History for Game 526257758 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:05:28
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.05 )
+Seat 6: blackcatdk66 ( $1.42 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 raises [$0.03]
+Kavalar folds
+** Summary **
+blackcatdk66 did not show his hand
+blackcatdk66 collected [ $0.04 ]
+
+
+#Game No : 526257766
+***** 888poker Hand History for Game 526257766 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:05:34
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.03 )
+Seat 6: blackcatdk66 ( $1.44 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+blackcatdk66 calls [$0.04]
+** Dealing flop ** [ Kh, 4h, As ]
+blackcatdk66 bets [$0.02]
+Kavalar raises [$0.09]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.15 ]
+
+
+#Game No : 526257786
+***** 888poker Hand History for Game 526257786 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:05:50
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.10 )
+Seat 6: blackcatdk66 ( $1.36 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 raises [$0.03]
+Kavalar calls [$0.02]
+** Dealing flop ** [ 7d, Ah, Th ]
+Kavalar checks
+blackcatdk66 checks
+** Dealing turn ** [ 4s ]
+Kavalar checks
+blackcatdk66 checks
+** Dealing river ** [ 3c ]
+Kavalar checks
+blackcatdk66 checks
+** Summary **
+Kavalar shows [ Ts, Qh ]
+blackcatdk66 mucks [ 6s, Js ]
+Kavalar collected [ $0.08 ]
+
+
+#Game No : 526257809
+***** 888poker Hand History for Game 526257809 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:06:14
+Table Santos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.14 )
+Seat 6: blackcatdk66 ( $1.32 )
+Kavalar posts small blind [$0.01]
+blackcatdk66 posts big blind [$0.02]
+** Dealing down cards **
+Kavalar raises [$0.05]
+blackcatdk66 calls [$0.04]
+** Dealing flop ** [ 7h, Tc, Kc ]
+blackcatdk66 bets [$0.02]
+Kavalar raises [$0.09]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.15 ]
+
+
+#Game No : 526257830
+***** 888poker Hand History for Game 526257830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 07:06:31
+Table Santos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Kavalar ( $2.21 )
+Seat 6: blackcatdk66 ( $1.24 )
+blackcatdk66 posts small blind [$0.01]
+Kavalar posts big blind [$0.02]
+** Dealing down cards **
+blackcatdk66 calls [$0.01]
+Kavalar raises [$0.06]
+blackcatdk66 folds
+** Summary **
+Kavalar did not show his hand
+Kavalar collected [ $0.04 ]
+
+

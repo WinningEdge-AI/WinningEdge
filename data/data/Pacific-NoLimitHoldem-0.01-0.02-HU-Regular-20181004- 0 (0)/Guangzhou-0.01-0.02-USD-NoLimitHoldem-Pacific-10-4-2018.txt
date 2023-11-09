@@ -1,0 +1,44 @@
+#Game No : 512715525
+***** 888poker Hand History for Game 512715525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:05:23
+Table Guangzhou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: lucifergaia ( $2 )
+Seat 5: djek ( $1.09 )
+djek posts small blind [$0.01]
+lucifergaia posts big blind [$0.02]
+** Dealing down cards **
+djek calls [$0.01]
+lucifergaia checks
+** Dealing flop ** [ 6s, Ts, Qs ]
+lucifergaia checks
+djek checks
+** Dealing turn ** [ 2h ]
+lucifergaia checks
+djek checks
+** Dealing river ** [ Qd ]
+lucifergaia checks
+djek checks
+** Summary **
+lucifergaia shows [ Jd, 4h ]
+djek mucks [ 5c, 4c ]
+lucifergaia collected [ $0.04 ]
+
+
+#Game No : 512715554
+***** 888poker Hand History for Game 512715554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 15:05:44
+Table Guangzhou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lucifergaia ( $2.02 )
+Seat 5: djek ( $1.07 )
+lucifergaia posts small blind [$0.01]
+** Dealing down cards **
+djek folds
+** Summary **
+lucifergaia did not show his hand
+lucifergaia collected [ $0.01 ]
+
+

@@ -1,0 +1,65 @@
+#Game No : 503263466
+***** 888poker Hand History for Game 503263466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 00:46:24
+Table Novara 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jaguar1726 ( $0.80 )
+Seat 2: GARALD84 ( $1 )
+Jaguar1726 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+Jaguar1726 calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ Ah, Qc, Th ]
+GARALD84 bets [$0.02]
+Jaguar1726 calls [$0.02]
+** Dealing turn ** [ Kd ]
+GARALD84 checks
+Jaguar1726 checks
+** Dealing river ** [ Jh ]
+GARALD84 bets [$0.05]
+Jaguar1726 calls [$0.05]
+** Summary **
+GARALD84 shows [ Tc, 7d ]
+Jaguar1726 shows [ 8s, Kh ]
+GARALD84 collected [ $0.09 ]
+Jaguar1726 collected [ $0.08 ]
+
+
+#Game No : 503263481
+***** 888poker Hand History for Game 503263481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 00:46:31
+Table Novara 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Jaguar1726 ( $0.79 )
+Seat 2: GARALD84 ( $1 )
+GARALD84 posts small blind [$0.01]
+Jaguar1726 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 folds
+** Summary **
+Jaguar1726 collected [ $0.03 ]
+
+
+#Game No : 503263931
+***** 888poker Hand History for Game 503263931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 10 2018 01:06:35
+Table Novara 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.46 )
+Seat 9: integrator10 ( $0.38 )
+GARALD84 posts small blind [$0.01]
+integrator10 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+integrator10 checks
+** Dealing flop ** [ Js, 4c, 9d ]
+integrator10 bets [$0.02]
+GARALD84 folds
+** Summary **
+integrator10 collected [ $0.04 ]
+
+

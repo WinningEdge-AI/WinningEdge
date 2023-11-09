@@ -1,0 +1,43 @@
+#Game No : 501284457
+***** 888poker Hand History for Game 501284457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 04:58:24
+Table Matamoros 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: master8touch ( $0.91 )
+Seat 9: silver7115 ( $0.78 )
+silver7115 posts small blind [$0.01]
+master8touch posts big blind [$0.02]
+** Dealing down cards **
+silver7115 calls [$0.01]
+master8touch checks
+** Dealing flop ** [ 8h, 5c, 6c ]
+master8touch checks
+silver7115 bets [$0.04]
+master8touch calls [$0.04]
+** Dealing turn ** [ 4h ]
+master8touch checks
+silver7115 checks
+** Dealing river ** [ 9h ]
+master8touch bets [$0.12]
+silver7115 folds
+** Summary **
+master8touch collected [ $0.12 ]
+
+
+#Game No : 501284477
+***** 888poker Hand History for Game 501284477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 04:58:46
+Table Matamoros 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: master8touch ( $0.97 )
+Seat 9: silver7115 ( $0.72 )
+master8touch posts small blind [$0.01]
+silver7115 posts big blind [$0.02]
+** Dealing down cards **
+master8touch folds
+** Summary **
+silver7115 collected [ $0.03 ]
+
+

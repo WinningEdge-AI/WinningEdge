@@ -1,0 +1,49 @@
+#Game No : 503146474
+***** 888poker Hand History for Game 503146474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:56:33
+Table Hat Yai 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: martin888m.h ( $1.33 )
+Seat 4: Boroboy60 ( $0.46 )
+martin888m.h posts small blind [$0.01]
+Boroboy60 posts big blind [$0.02]
+** Dealing down cards **
+martin888m.h calls [$0.01]
+Boroboy60 raises [$0.04]
+martin888m.h calls [$0.04]
+** Dealing flop ** [ 6c, Ks, 5d ]
+Boroboy60 checks
+martin888m.h checks
+** Dealing turn ** [ 6s ]
+Boroboy60 checks
+martin888m.h checks
+** Dealing river ** [ 2d ]
+Boroboy60 checks
+martin888m.h bets [$0.12]
+Boroboy60 folds
+** Summary **
+martin888m.h collected [ $0.12 ]
+
+
+#Game No : 503146510
+***** 888poker Hand History for Game 503146510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 10:57:04
+Table Hat Yai 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: martin888m.h ( $1.39 )
+Seat 4: Boroboy60 ( $0.40 )
+Boroboy60 posts small blind [$0.01]
+martin888m.h posts big blind [$0.02]
+** Dealing down cards **
+Boroboy60 calls [$0.01]
+martin888m.h checks
+** Dealing flop ** [ Jd, Ah, 6s ]
+martin888m.h checks
+Boroboy60 bets [$0.02]
+martin888m.h folds
+** Summary **
+Boroboy60 collected [ $0.04 ]
+
+

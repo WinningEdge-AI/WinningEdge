@@ -1,0 +1,350 @@
+#Game No : 452048688
+***** 888poker Hand History for Game 452048688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:30:21
+Table Gent 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sergnak ( $1.97 )
+Seat 7: thienxienhau ( $3.66 )
+sergnak posts small blind [$0.01]
+thienxienhau posts big blind [$0.02]
+** Dealing down cards **
+sergnak calls [$0.01]
+thienxienhau raises [$0.06]
+sergnak folds
+** Summary **
+thienxienhau collected [ $0.04 ]
+
+
+#Game No : 452048725
+***** 888poker Hand History for Game 452048725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:32:42
+Table Gent 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sergnak ( $1.89 )
+Seat 5: FranzSchmitt ( $2.08 )
+sergnak posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+sergnak folds
+** Summary **
+FranzSchmitt collected [ $0.03 ]
+
+
+#Game No : 452048728
+***** 888poker Hand History for Game 452048728 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:32:51
+Table Gent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: sergnak ( $1.88 )
+Seat 5: FranzSchmitt ( $2.09 )
+FranzSchmitt posts small blind [$0.01]
+sergnak posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+sergnak checks
+** Dealing flop ** [ Jd, 2d, 4c ]
+sergnak checks
+FranzSchmitt bets [$0.02]
+sergnak folds
+** Summary **
+FranzSchmitt collected [ $0.04 ]
+
+
+#Game No : 452048734
+***** 888poker Hand History for Game 452048734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:33:11
+Table Gent 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sergnak ( $1.86 )
+Seat 5: FranzSchmitt ( $2.11 )
+sergnak posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+sergnak calls [$0.01]
+FranzSchmitt checks
+** Dealing flop ** [ 9h, Kh, Ks ]
+FranzSchmitt checks
+sergnak bets [$0.02]
+FranzSchmitt calls [$0.02]
+** Dealing turn ** [ 8d ]
+FranzSchmitt checks
+sergnak bets [$0.02]
+FranzSchmitt raises [$0.04]
+sergnak calls [$0.02]
+** Dealing river ** [ 7s ]
+FranzSchmitt bets [$0.16]
+sergnak calls [$0.16]
+** Summary **
+FranzSchmitt shows [ Kd, Jc ]
+sergnak mucks [ 9s, 7d ]
+FranzSchmitt collected [ $0.45 ]
+
+
+#Game No : 452048741
+***** 888poker Hand History for Game 452048741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 06 2018 20:33:40
+Table Gent 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: sergnak ( $1.62 )
+Seat 5: FranzSchmitt ( $2.32 )
+FranzSchmitt posts small blind [$0.01]
+sergnak posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+sergnak checks
+** Dealing flop ** [ 9d, Th, 3h ]
+sergnak checks
+FranzSchmitt bets [$0.02]
+sergnak folds
+** Summary **
+FranzSchmitt collected [ $0.04 ]
+
+
+#Game No : 452072008
+***** 888poker Hand History for Game 452072008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 11:24:19
+Table Gent 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ktg194 ( $0.78 )
+Seat 6: CasinoM15 ( $1.02 )
+CasinoM15 posts small blind [$0.01]
+ktg194 posts big blind [$0.02]
+** Dealing down cards **
+CasinoM15 calls [$0.01]
+ktg194 checks
+** Dealing flop ** [ Kd, 6h, 9s ]
+ktg194 bets [$0.02]
+CasinoM15 calls [$0.02]
+** Dealing turn ** [ Jh ]
+ktg194 checks
+CasinoM15 checks
+** Dealing river ** [ 7d ]
+ktg194 checks
+CasinoM15 bets [$0.02]
+ktg194 folds
+** Summary **
+CasinoM15 collected [ $0.08 ]
+
+
+#Game No : 452074016
+***** 888poker Hand History for Game 452074016 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 12:01:53
+Table Gent 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ktg194 ( $1.64 )
+Seat 6: CasinoM15 ( $1.67 )
+CasinoM15 posts small blind [$0.01]
+ktg194 posts big blind [$0.02]
+** Dealing down cards **
+CasinoM15 calls [$0.01]
+ktg194 raises [$0.02]
+CasinoM15 calls [$0.02]
+** Dealing flop ** [ 6c, 2h, 7s ]
+ktg194 checks
+CasinoM15 checks
+** Dealing turn ** [ Jh ]
+ktg194 checks
+CasinoM15 checks
+** Dealing river ** [ 9s ]
+ktg194 bets [$0.02]
+CasinoM15 calls [$0.02]
+** Summary **
+ktg194 shows [ 9h, Ts ]
+CasinoM15 mucks [ 8h, Ks ]
+ktg194 collected [ $0.12 ]
+
+
+#Game No : 452074037
+***** 888poker Hand History for Game 452074037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 12:02:18
+Table Gent 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ktg194 ( $1.70 )
+Seat 6: CasinoM15 ( $1.61 )
+ktg194 posts small blind [$0.01]
+CasinoM15 posts big blind [$0.02]
+** Dealing down cards **
+ktg194 calls [$0.01]
+CasinoM15 checks
+** Dealing flop ** [ 7s, 3h, Kd ]
+CasinoM15 bets [$0.02]
+ktg194 calls [$0.02]
+** Dealing turn ** [ Qs ]
+CasinoM15 bets [$0.04]
+ktg194 calls [$0.04]
+** Dealing river ** [ 8s ]
+CasinoM15 checks
+ktg194 checks
+** Summary **
+CasinoM15 shows [ 5h, 6h ]
+ktg194 shows [ 7d, Jc ]
+ktg194 collected [ $0.15 ]
+
+
+#Game No : 452074068
+***** 888poker Hand History for Game 452074068 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 12:02:49
+Table Gent 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ktg194 ( $1.77 )
+Seat 6: CasinoM15 ( $1.53 )
+CasinoM15 posts small blind [$0.01]
+ktg194 posts big blind [$0.02]
+** Dealing down cards **
+CasinoM15 calls [$0.01]
+ktg194 checks
+** Dealing flop ** [ 2d, Kh, 2s ]
+ktg194 checks
+CasinoM15 checks
+** Dealing turn ** [ 7c ]
+ktg194 checks
+CasinoM15 checks
+** Dealing river ** [ Js ]
+ktg194 checks
+CasinoM15 checks
+** Summary **
+ktg194 shows [ 7d, 5d ]
+CasinoM15 mucks [ 6c, 4d ]
+ktg194 collected [ $0.04 ]
+
+
+#Game No : 452074084
+***** 888poker Hand History for Game 452074084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 12:03:14
+Table Gent 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ktg194 ( $1.79 )
+Seat 6: CasinoM15 ( $1.51 )
+ktg194 posts small blind [$0.01]
+CasinoM15 posts big blind [$0.02]
+** Dealing down cards **
+ktg194 calls [$0.01]
+CasinoM15 checks
+** Dealing flop ** [ 8s, 2d, 7s ]
+CasinoM15 bets [$0.02]
+ktg194 calls [$0.02]
+** Dealing turn ** [ 4d ]
+CasinoM15 bets [$0.02]
+ktg194 calls [$0.02]
+** Dealing river ** [ 8d ]
+CasinoM15 bets [$0.04]
+ktg194 folds
+** Summary **
+CasinoM15 did not show his hand
+CasinoM15 collected [ $0.12 ]
+
+
+#Game No : 452074107
+***** 888poker Hand History for Game 452074107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 12:03:37
+Table Gent 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ktg194 ( $1.73 )
+Seat 6: CasinoM15 ( $1.57 )
+CasinoM15 posts small blind [$0.01]
+ktg194 posts big blind [$0.02]
+** Dealing down cards **
+CasinoM15 calls [$0.01]
+ktg194 raises [$0.02]
+CasinoM15 calls [$0.02]
+** Dealing flop ** [ 7d, 7s, Qc ]
+ktg194 bets [$0.02]
+CasinoM15 calls [$0.02]
+** Dealing turn ** [ 5d ]
+ktg194 bets [$0.02]
+CasinoM15 calls [$0.02]
+** Dealing river ** [ 3d ]
+ktg194 bets [$0.02]
+CasinoM15 calls [$0.02]
+** Summary **
+ktg194 shows [ Qh, Th ]
+CasinoM15 mucks [ 8h, Kc ]
+ktg194 collected [ $0.19 ]
+
+
+#Game No : 452074127
+***** 888poker Hand History for Game 452074127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 12:04:02
+Table Gent 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ktg194 ( $1.82 )
+Seat 6: CasinoM15 ( $1.47 )
+ktg194 posts small blind [$0.01]
+CasinoM15 posts big blind [$0.02]
+** Dealing down cards **
+ktg194 calls [$0.01]
+CasinoM15 checks
+** Dealing flop ** [ 4d, Ts, 4s ]
+CasinoM15 bets [$0.02]
+ktg194 calls [$0.02]
+** Dealing turn ** [ Qd ]
+CasinoM15 bets [$0.02]
+ktg194 calls [$0.02]
+** Dealing river ** [ Qc ]
+CasinoM15 checks
+ktg194 checks
+** Summary **
+CasinoM15 shows [ Ad, Ks ]
+ktg194 shows [ Td, 8d ]
+ktg194 collected [ $0.12 ]
+
+
+#Game No : 452074159
+***** 888poker Hand History for Game 452074159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 12:04:33
+Table Gent 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ktg194 ( $1.88 )
+Seat 6: CasinoM15 ( $1.41 )
+CasinoM15 posts small blind [$0.01]
+ktg194 posts big blind [$0.02]
+** Dealing down cards **
+CasinoM15 calls [$0.01]
+ktg194 raises [$0.02]
+CasinoM15 calls [$0.02]
+** Dealing flop ** [ 9s, Qs, 4c ]
+ktg194 checks
+CasinoM15 checks
+** Dealing turn ** [ Qd ]
+ktg194 bets [$0.02]
+CasinoM15 folds
+** Summary **
+ktg194 did not show his hand
+ktg194 collected [ $0.08 ]
+
+
+#Game No : 452074169
+***** 888poker Hand History for Game 452074169 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 12:04:50
+Table Gent 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ktg194 ( $1.92 )
+Seat 6: CasinoM15 ( $1.37 )
+ktg194 posts small blind [$0.01]
+CasinoM15 posts big blind [$0.02]
+** Dealing down cards **
+ktg194 calls [$0.01]
+CasinoM15 checks
+** Dealing flop ** [ Ah, 2c, Jd ]
+CasinoM15 checks
+ktg194 bets [$0.02]
+CasinoM15 folds
+** Summary **
+ktg194 did not show his hand
+ktg194 collected [ $0.04 ]
+
+

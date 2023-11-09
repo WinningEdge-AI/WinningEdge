@@ -1,0 +1,29 @@
+#Game No : 541938399
+***** 888poker Hand History for Game 541938399 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 10 2019 01:01:24
+Table Jakarta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Lex_Strong ( $2 )
+Seat 4: jedai111 ( $4.12 )
+jedai111 posts small blind [$0.01]
+Lex_Strong posts big blind [$0.02]
+** Dealing down cards **
+jedai111 raises [$0.05]
+Lex_Strong calls [$0.04]
+** Dealing flop ** [ 5c, 6h, 7s ]
+Lex_Strong checks
+jedai111 bets [$0.08]
+Lex_Strong calls [$0.08]
+** Dealing turn ** [ 3s ]
+Lex_Strong checks
+jedai111 checks
+** Dealing river ** [ Jc ]
+Lex_Strong checks
+jedai111 checks
+** Summary **
+Lex_Strong shows [ 5h, 2c ]
+jedai111 mucks [ 8d, Ts ]
+Lex_Strong collected [ $0.27 ]
+
+

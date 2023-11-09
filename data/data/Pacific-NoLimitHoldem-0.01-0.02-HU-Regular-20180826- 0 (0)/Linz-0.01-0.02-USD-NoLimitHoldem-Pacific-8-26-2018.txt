@@ -1,0 +1,77 @@
+#Game No : 509642703
+***** 888poker Hand History for Game 509642703 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 12:23:37
+Table Linz 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Brydo1979 ( $1.02 )
+Seat 6: Ga_tiTa ( $0.63 )
+Brydo1979 posts small blind [$0.01]
+Ga_tiTa posts big blind [$0.02]
+** Dealing down cards **
+Brydo1979 raises [$0.03]
+Ga_tiTa calls [$0.02]
+** Dealing flop ** [ Td, Js, 2s ]
+Brydo1979 bets [$0.08]
+Ga_tiTa folds
+** Summary **
+Brydo1979 did not show his hand
+Brydo1979 collected [ $0.08 ]
+
+
+#Game No : 509644145
+***** 888poker Hand History for Game 509644145 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 12:40:22
+Table Linz 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Gecko279 ( $0.72 )
+Seat 6: Ichetik ( $0.88 )
+Ichetik posts small blind [$0.01]
+Gecko279 posts big blind [$0.02]
+** Dealing down cards **
+Ichetik calls [$0.01]
+Gecko279 checks
+** Dealing flop ** [ Kc, 5s, 7s ]
+Gecko279 bets [$0.02]
+Ichetik calls [$0.02]
+** Dealing turn ** [ 6s ]
+Gecko279 bets [$0.02]
+Ichetik calls [$0.02]
+** Dealing river ** [ 8s ]
+Gecko279 bets [$0.02]
+Ichetik calls [$0.02]
+** Summary **
+Gecko279 shows [ 4d, 5h ]
+Ichetik mucks [ 6c, 6d ]
+Gecko279 collected [ $0.15 ]
+
+
+#Game No : 509644197
+***** 888poker Hand History for Game 509644197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 12:40:27
+Table Linz 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Gecko279 ( $0.79 )
+Seat 6: Ichetik ( $0.80 )
+Gecko279 posts small blind [$0.01]
+Ichetik posts big blind [$0.02]
+** Dealing down cards **
+Gecko279 calls [$0.01]
+Ichetik checks
+** Dealing flop ** [ 8s, Kc, Jc ]
+Ichetik checks
+Gecko279 checks
+** Dealing turn ** [ Qc ]
+Ichetik checks
+Gecko279 checks
+** Dealing river ** [ 3c ]
+Ichetik checks
+Gecko279 checks
+** Summary **
+Ichetik shows [ 2h, 2d ]
+Gecko279 shows [ 4d, 5c ]
+Gecko279 collected [ $0.04 ]
+
+

@@ -1,0 +1,45 @@
+#Game No : 1247731598
+***** 888poker Hand History for Game 1247731598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 02 2019 17:14:49
+Table Calabozo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Tornchet ( $2.40 )
+Seat 5: nik36ACEACE ( $5.95 )
+Tornchet posts small blind [$0.01]
+nik36ACEACE posts big blind [$0.02]
+** Dealing down cards **
+Tornchet folds
+** Summary **
+nik36ACEACE collected [ $0.03 ]
+
+
+#Game No : 1247731682
+***** 888poker Hand History for Game 1247731682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 02 2019 17:15:24
+Table Calabozo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: traffic_man ( $0.78 )
+Seat 5: nik36ACEACE ( $5.98 )
+traffic_man posts small blind [$0.01]
+nik36ACEACE posts big blind [$0.02]
+** Dealing down cards **
+traffic_man calls [$0.01]
+nik36ACEACE raises [$0.02]
+traffic_man calls [$0.02]
+** Dealing flop ** [ Qd, 8d, 3s ]
+nik36ACEACE bets [$0.08]
+traffic_man calls [$0.08]
+** Dealing turn ** [ 5h ]
+nik36ACEACE bets [$0.24]
+traffic_man calls [$0.24]
+** Dealing river ** [ 6h ]
+nik36ACEACE bets [$0.72]
+traffic_man calls [$0.42]
+** Summary **
+traffic_man shows [ Ad, Js ]
+nik36ACEACE shows [ Qs, Ah ]
+nik36ACEACE collected [ $1.47 ]
+
+

@@ -1,0 +1,81 @@
+#Game No : 1206646267
+***** 888poker Hand History for Game 1206646267 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 16:09:22
+Table Foggia 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 3: MULVEGAS ( $2.05 )
+Seat 9: Pravednik_ ( $2.59 )
+Pravednik_ posts small blind [$0.01]
+MULVEGAS posts big blind [$0.02]
+** Dealing down cards **
+Pravednik_ calls [$0.01]
+MULVEGAS checks
+** Dealing flop ** [ Kh, Jh, 2s ]
+MULVEGAS checks
+Pravednik_ checks
+** Dealing turn ** [ Qh ]
+MULVEGAS checks
+Pravednik_ checks
+** Dealing river ** [ 8d ]
+MULVEGAS checks
+Pravednik_ checks
+** Summary **
+MULVEGAS shows [ 4d, 3d ]
+Pravednik_ shows [ 5d, 8s ]
+Pravednik_ collected [ $0.04 ]
+
+
+#Game No : 1206646371
+***** 888poker Hand History for Game 1206646371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 16:09:48
+Table Foggia 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: MULVEGAS ( $2.03 )
+Seat 9: Pravednik_ ( $2.61 )
+MULVEGAS posts small blind [$0.01]
+Pravednik_ posts big blind [$0.02]
+** Dealing down cards **
+MULVEGAS calls [$0.01]
+Pravednik_ checks
+** Dealing flop ** [ 8c, Th, 3c ]
+Pravednik_ checks
+MULVEGAS checks
+** Dealing turn ** [ Tc ]
+Pravednik_ checks
+MULVEGAS bets [$0.02]
+Pravednik_ folds
+** Summary **
+MULVEGAS did not show his hand
+MULVEGAS collected [ $0.04 ]
+
+
+#Game No : 1206646444
+***** 888poker Hand History for Game 1206646444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 16:10:09
+Table Foggia 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 3: MULVEGAS ( $2.05 )
+Seat 9: Pravednik_ ( $2.59 )
+Pravednik_ posts small blind [$0.01]
+MULVEGAS posts big blind [$0.02]
+** Dealing down cards **
+Pravednik_ calls [$0.01]
+MULVEGAS raises [$0.02]
+Pravednik_ calls [$0.02]
+** Dealing flop ** [ 5s, 9s, 2h ]
+MULVEGAS bets [$0.02]
+Pravednik_ calls [$0.02]
+** Dealing turn ** [ Ah ]
+MULVEGAS checks
+Pravednik_ checks
+** Dealing river ** [ 2c ]
+MULVEGAS bets [$0.02]
+Pravednik_ folds
+** Summary **
+MULVEGAS did not show his hand
+MULVEGAS collected [ $0.12 ]
+
+

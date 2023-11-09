@@ -1,0 +1,67 @@
+#Game No : 1184323387
+***** 888poker Hand History for Game 1184323387 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 00:32:27
+Table Boise City 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KCBPhoto ( $0.82 )
+Seat 5: ekonievic ( $2 )
+KCBPhoto posts small blind [$0.01]
+ekonievic posts big blind [$0.02]
+** Dealing down cards **
+KCBPhoto calls [$0.01]
+ekonievic checks
+** Dealing flop ** [ 5s, 8s, 4s ]
+ekonievic checks
+KCBPhoto checks
+** Dealing turn ** [ 3c ]
+ekonievic bets [$0.04]
+KCBPhoto calls [$0.04]
+** Dealing river ** [ Jc ]
+ekonievic bets [$0.08]
+KCBPhoto calls [$0.08]
+** Summary **
+ekonievic shows [ 6h, 2d ]
+KCBPhoto mucks [ Jh, Kc ]
+ekonievic collected [ $0.27 ]
+
+
+#Game No : 1184323470
+***** 888poker Hand History for Game 1184323470 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 00:33:00
+Table Boise City 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: KCBPhoto ( $0.68 )
+Seat 5: ekonievic ( $2.13 )
+ekonievic posts small blind [$0.01]
+KCBPhoto posts big blind [$0.02]
+** Dealing down cards **
+ekonievic raises [$0.03]
+KCBPhoto calls [$0.02]
+** Dealing flop ** [ Ks, Js, 3h ]
+KCBPhoto checks
+ekonievic checks
+** Dealing turn ** [ 8s ]
+KCBPhoto checks
+ekonievic bets [$0.06]
+KCBPhoto folds
+** Summary **
+ekonievic collected [ $0.08 ]
+
+
+#Game No : 1184367668
+***** 888poker Hand History for Game 1184367668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 05:02:46
+Table Boise City 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Dmac1996 ( $2.24 )
+Seat 5: Kosamui999 ( $2.01 )
+Kosamui999 posts small blind [$0.01]
+** Dealing down cards **
+Dmac1996 folds
+** Summary **
+Kosamui999 collected [ $0.01 ]
+
+

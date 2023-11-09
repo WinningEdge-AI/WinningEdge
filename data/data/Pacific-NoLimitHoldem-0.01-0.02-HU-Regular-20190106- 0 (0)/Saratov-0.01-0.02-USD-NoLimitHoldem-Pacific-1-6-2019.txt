@@ -1,0 +1,93 @@
+#Game No : 459782784
+***** 888poker Hand History for Game 459782784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 01 2019 02:17:44
+Table Saratov 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: waimanc ( $2.12 )
+Seat 7: fish15366 ( $0.96 )
+fish15366 posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+fish15366 raises [$0.05]
+waimanc folds
+** Summary **
+fish15366 collected [ $0.04 ]
+
+
+#Game No : 459782789
+***** 888poker Hand History for Game 459782789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 01 2019 02:17:55
+Table Saratov 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: waimanc ( $2.10 )
+Seat 7: fish15366 ( $0.98 )
+waimanc posts small blind [$0.01]
+fish15366 posts big blind [$0.02]
+** Dealing down cards **
+waimanc calls [$0.01]
+fish15366 checks
+** Dealing flop ** [ 9c, 6d, 5d ]
+fish15366 checks
+waimanc bets [$0.04]
+fish15366 calls [$0.04]
+** Dealing turn ** [ Qc ]
+fish15366 checks
+waimanc checks
+** Dealing river ** [ 9s ]
+fish15366 bets [$0.06]
+waimanc folds
+** Summary **
+fish15366 collected [ $0.12 ]
+
+
+#Game No : 459782892
+***** 888poker Hand History for Game 459782892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 01 2019 02:22:19
+Table Saratov 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Jloffe ( $2 )
+Seat 10: generalMAA ( $2 )
+Jloffe posts small blind [$0.01]
+generalMAA posts big blind [$0.02]
+** Dealing down cards **
+Jloffe calls [$0.01]
+generalMAA checks
+** Dealing flop ** [ Tc, 5h, 4s ]
+generalMAA bets [$0.04]
+Jloffe calls [$0.04]
+** Dealing turn ** [ 7d ]
+generalMAA checks
+Jloffe checks
+** Dealing river ** [ 5s ]
+generalMAA bets [$0.08]
+Jloffe calls [$0.08]
+** Summary **
+generalMAA shows [ 3d, Ac ]
+Jloffe shows [ 9h, 7h ]
+Jloffe collected [ $0.27 ]
+
+
+#Game No : 459782912
+***** 888poker Hand History for Game 459782912 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 01 2019 02:23:10
+Table Saratov 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Jloffe ( $2.13 )
+Seat 10: generalMAA ( $1.86 )
+generalMAA posts small blind [$0.01]
+Jloffe posts big blind [$0.02]
+** Dealing down cards **
+generalMAA raises [$0.05]
+Jloffe calls [$0.04]
+** Dealing flop ** [ 9s, Jc, 2c ]
+Jloffe checks
+generalMAA bets [$0.10]
+Jloffe folds
+** Summary **
+generalMAA collected [ $0.12 ]
+
+

@@ -1,0 +1,66 @@
+#Game No : 526369502
+***** 888poker Hand History for Game 526369502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 14:58:37
+Table Ivanovo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: rlogiudice ( $2.48 )
+Seat 6: meesterjon ( $2.25 )
+rlogiudice posts small blind [$0.01]
+meesterjon posts big blind [$0.02]
+** Dealing down cards **
+rlogiudice raises [$0.05]
+meesterjon calls [$0.04]
+** Dealing flop ** [ Qh, Ks, 4d ]
+meesterjon checks
+rlogiudice checks
+** Dealing turn ** [ 3c ]
+meesterjon checks
+rlogiudice checks
+** Dealing river ** [ 5s ]
+meesterjon bets [$0.06]
+rlogiudice raises [$0.22]
+meesterjon calls [$0.16]
+** Summary **
+rlogiudice shows [ 5h, 8h ]
+meesterjon shows [ 6c, Qs ]
+meesterjon collected [ $0.53 ]
+
+
+#Game No : 526369556
+***** 888poker Hand History for Game 526369556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 14:59:16
+Table Ivanovo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: rlogiudice ( $2.20 )
+Seat 6: meesterjon ( $2.50 )
+meesterjon posts small blind [$0.01]
+rlogiudice posts big blind [$0.02]
+** Dealing down cards **
+meesterjon calls [$0.01]
+rlogiudice raises [$0.06]
+meesterjon calls [$0.06]
+** Dealing flop ** [ Td, Kc, 4d ]
+rlogiudice bets [$0.10]
+meesterjon folds
+** Summary **
+rlogiudice collected [ $0.15 ]
+
+
+#Game No : 526369603
+***** 888poker Hand History for Game 526369603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 14:59:48
+Table Ivanovo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: rlogiudice ( $2.27 )
+Seat 6: meesterjon ( $2.42 )
+rlogiudice posts small blind [$0.01]
+meesterjon posts big blind [$0.02]
+** Dealing down cards **
+rlogiudice folds
+** Summary **
+meesterjon collected [ $0.03 ]
+
+

@@ -1,0 +1,48 @@
+#Game No : 527939206
+***** 888poker Hand History for Game 527939206 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 04:39:26
+Table Harare 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tema_kloun ( $1.13 )
+Seat 9: Jenek5000 ( $0.85 )
+tema_kloun posts small blind [$0.01]
+Jenek5000 posts big blind [$0.02]
+** Dealing down cards **
+tema_kloun calls [$0.01]
+Jenek5000 checks
+** Dealing flop ** [ 3h, Ad, 5d ]
+Jenek5000 bets [$0.04]
+tema_kloun folds
+** Summary **
+Jenek5000 collected [ $0.04 ]
+
+
+#Game No : 527939450
+***** 888poker Hand History for Game 527939450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 04:44:48
+Table Harare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Dodotew ( $1 )
+Seat 6: Bogiebheag ( $1.12 )
+Dodotew posts small blind [$0.01]
+Bogiebheag posts big blind [$0.02]
+** Dealing down cards **
+Dodotew raises [$0.03]
+Bogiebheag calls [$0.02]
+** Dealing flop ** [ Tc, 4c, 3c ]
+Bogiebheag checks
+Dodotew checks
+** Dealing turn ** [ As ]
+Bogiebheag checks
+Dodotew checks
+** Dealing river ** [ Jd ]
+Bogiebheag checks
+Dodotew checks
+** Summary **
+Bogiebheag shows [ 7c, 6h ]
+Dodotew shows [ 9c, Qd ]
+Dodotew collected [ $0.08 ]
+
+

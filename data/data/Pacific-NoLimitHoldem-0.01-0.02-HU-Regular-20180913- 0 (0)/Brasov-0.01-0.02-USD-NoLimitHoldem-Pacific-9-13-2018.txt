@@ -1,0 +1,62 @@
+#Game No : 608132537
+***** 888poker Hand History for Game 608132537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 10:06:37
+Table Brasov 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: PAPI1207 ( $0.81 )
+Seat 9: kmlm73 ( $2.11 )
+PAPI1207 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+PAPI1207 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.03 ]
+
+
+#Game No : 608132620
+***** 888poker Hand History for Game 608132620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 10:08:37
+Table Brasov 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: tataha ( $0.80 )
+Seat 9: kmlm73 ( $2.12 )
+tataha posts small blind [$0.01]
+** Dealing down cards **
+kmlm73 folds
+** Summary **
+tataha did not show his hand
+tataha collected [ $0.01 ]
+
+
+#Game No : 608133083
+***** 888poker Hand History for Game 608133083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 09 2018 10:19:15
+Table Brasov 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: hellu15 ( $2 )
+Seat 5: ELomovich ( $2 )
+ELomovich posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+ELomovich calls [$0.01]
+hellu15 checks
+** Dealing flop ** [ 7c, Td, 9d ]
+hellu15 checks
+ELomovich checks
+** Dealing turn ** [ 6c ]
+hellu15 checks
+ELomovich bets [$0.06]
+hellu15 calls [$0.06]
+** Dealing river ** [ 9c ]
+hellu15 checks
+ELomovich checks
+** Summary **
+hellu15 shows [ Jc, Ks ]
+ELomovich shows [ 3d, 8h ]
+ELomovich collected [ $0.15 ]
+
+

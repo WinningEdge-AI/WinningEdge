@@ -1,0 +1,478 @@
+#Game No : 501767806
+***** 888poker Hand History for Game 501767806 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:00:57
+Table Kuopio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cmcfall97 ( $1.06 )
+Seat 7: xxxkasyanxx1 ( $0.94 )
+cmcfall97 posts small blind [$0.01]
+xxxkasyanxx1 posts big blind [$0.02]
+** Dealing down cards **
+cmcfall97 raises [$0.03]
+xxxkasyanxx1 calls [$0.02]
+** Dealing flop ** [ 8c, 9c, 6s ]
+xxxkasyanxx1 checks
+cmcfall97 bets [$0.04]
+xxxkasyanxx1 calls [$0.04]
+** Dealing turn ** [ Kh ]
+xxxkasyanxx1 checks
+cmcfall97 bets [$0.16]
+xxxkasyanxx1 folds
+** Summary **
+cmcfall97 collected [ $0.15 ]
+
+
+#Game No : 501767861
+***** 888poker Hand History for Game 501767861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:01:10
+Table Kuopio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: cmcfall97 ( $1.13 )
+Seat 7: xxxkasyanxx1 ( $0.86 )
+xxxkasyanxx1 posts small blind [$0.01]
+cmcfall97 posts big blind [$0.02]
+** Dealing down cards **
+xxxkasyanxx1 folds
+** Summary **
+cmcfall97 collected [ $0.03 ]
+
+
+#Game No : 501768247
+***** 888poker Hand History for Game 501768247 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:06:16
+Table Kuopio 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pokaastaa ( $0.73 )
+Seat 7: xxxkasyanxx1 ( $0.89 )
+pokaastaa posts small blind [$0.01]
+xxxkasyanxx1 posts big blind [$0.02]
+** Dealing down cards **
+pokaastaa folds
+** Summary **
+xxxkasyanxx1 collected [ $0.03 ]
+
+
+#Game No : 501768350
+***** 888poker Hand History for Game 501768350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:07:46
+Table Kuopio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $1 )
+Seat 9: gerardototal ( $0.80 )
+BriefcaseJoe posts small blind [$0.01]
+gerardototal posts big blind [$0.02]
+** Dealing down cards **
+BriefcaseJoe raises [$0.05]
+gerardototal calls [$0.04]
+** Dealing flop ** [ Jd, 7s, Th ]
+gerardototal checks
+BriefcaseJoe bets [$0.12]
+gerardototal calls [$0.12]
+** Dealing turn ** [ As ]
+gerardototal checks
+BriefcaseJoe checks
+** Dealing river ** [ 2s ]
+gerardototal checks
+BriefcaseJoe checks
+** Summary **
+gerardototal shows [ Qh, 8d ]
+BriefcaseJoe shows [ 5s, Jc ]
+BriefcaseJoe collected [ $0.34 ]
+
+
+#Game No : 501769792
+***** 888poker Hand History for Game 501769792 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:27:21
+Table Kuopio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $1.49 )
+Seat 6: Skyluck11 ( $0.82 )
+Skyluck11 posts small blind [$0.01]
+BriefcaseJoe posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+BriefcaseJoe calls [$0.04]
+** Dealing flop ** [ 5d, 7d, Jd ]
+BriefcaseJoe checks
+Skyluck11 bets [$0.06]
+BriefcaseJoe calls [$0.06]
+** Dealing turn ** [ Kc ]
+BriefcaseJoe checks
+Skyluck11 checks
+** Dealing river ** [ 9h ]
+BriefcaseJoe bets [$0.12]
+Skyluck11 folds
+** Summary **
+BriefcaseJoe did not show his hand
+BriefcaseJoe collected [ $0.23 ]
+
+
+#Game No : 501769826
+***** 888poker Hand History for Game 501769826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:27:51
+Table Kuopio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $1.60 )
+Seat 6: Skyluck11 ( $0.80 )
+BriefcaseJoe posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+BriefcaseJoe folds
+** Summary **
+Skyluck11 did not show his hand
+Skyluck11 collected [ $0.03 ]
+
+
+#Game No : 501769837
+***** 888poker Hand History for Game 501769837 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:27:56
+Table Kuopio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $1.59 )
+Seat 6: Skyluck11 ( $0.81 )
+Skyluck11 posts small blind [$0.01]
+BriefcaseJoe posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+BriefcaseJoe calls [$0.04]
+** Dealing flop ** [ 8s, 3h, 3d ]
+BriefcaseJoe bets [$0.12]
+Skyluck11 calls [$0.12]
+** Dealing turn ** [ 5s ]
+BriefcaseJoe bets [$0.18]
+Skyluck11 calls [$0.18]
+** Dealing river ** [ Qs ]
+BriefcaseJoe checks
+Skyluck11 checks
+** Summary **
+BriefcaseJoe shows [ Qd, Ts ]
+Skyluck11 mucks [ Ah, 8d ]
+BriefcaseJoe collected [ $0.68 ]
+
+
+#Game No : 501769872
+***** 888poker Hand History for Game 501769872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:28:19
+Table Kuopio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $1.91 )
+Seat 6: Skyluck11 ( $0.80 )
+BriefcaseJoe posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+BriefcaseJoe folds
+** Summary **
+Skyluck11 did not show his hand
+Skyluck11 collected [ $0.03 ]
+
+
+#Game No : 501769876
+***** 888poker Hand History for Game 501769876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:28:23
+Table Kuopio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $1.90 )
+Seat 6: Skyluck11 ( $0.81 )
+Skyluck11 posts small blind [$0.01]
+BriefcaseJoe posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+BriefcaseJoe calls [$0.04]
+** Dealing flop ** [ 6h, Jh, Kc ]
+BriefcaseJoe bets [$0.12]
+Skyluck11 raises [$0.75]
+BriefcaseJoe folds
+** Summary **
+Skyluck11 did not show his hand
+Skyluck11 collected [ $0.34 ]
+
+
+#Game No : 501769898
+***** 888poker Hand History for Game 501769898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:28:41
+Table Kuopio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $1.72 )
+Seat 6: Skyluck11 ( $0.97 )
+BriefcaseJoe posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+BriefcaseJoe calls [$0.01]
+Skyluck11 raises [$0.06]
+BriefcaseJoe calls [$0.06]
+** Dealing flop ** [ 9d, 4d, 7c ]
+Skyluck11 bets [$0.10]
+BriefcaseJoe raises [$1.64]
+Skyluck11 calls [$0.79]
+** Dealing turn ** [ 8c ]
+** Dealing river ** [ Tc ]
+** Summary **
+BriefcaseJoe shows [ 7s, 6s ]
+Skyluck11 shows [ Ac, As ]
+BriefcaseJoe collected [ $1.82 ]
+
+
+#Game No : 501769928
+***** 888poker Hand History for Game 501769928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:29:06
+Table Kuopio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $2.57 )
+Seat 6: Skyluck11 ( $0.80 )
+Skyluck11 posts small blind [$0.01]
+BriefcaseJoe posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+BriefcaseJoe did not show his hand
+BriefcaseJoe collected [ $0.03 ]
+
+
+#Game No : 501769936
+***** 888poker Hand History for Game 501769936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:29:12
+Table Kuopio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $2.58 )
+Seat 6: Skyluck11 ( $0.80 )
+BriefcaseJoe posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+BriefcaseJoe folds
+** Summary **
+Skyluck11 did not show his hand
+Skyluck11 collected [ $0.03 ]
+
+
+#Game No : 501769947
+***** 888poker Hand History for Game 501769947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:29:17
+Table Kuopio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $2.57 )
+Seat 6: Skyluck11 ( $0.81 )
+Skyluck11 posts small blind [$0.01]
+BriefcaseJoe posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+BriefcaseJoe did not show his hand
+BriefcaseJoe collected [ $0.03 ]
+
+
+#Game No : 501769953
+***** 888poker Hand History for Game 501769953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:29:22
+Table Kuopio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $2.58 )
+Seat 6: Skyluck11 ( $0.80 )
+BriefcaseJoe posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+BriefcaseJoe folds
+** Summary **
+Skyluck11 did not show his hand
+Skyluck11 collected [ $0.03 ]
+
+
+#Game No : 501769960
+***** 888poker Hand History for Game 501769960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:29:27
+Table Kuopio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: BriefcaseJoe ( $2.57 )
+Seat 6: Skyluck11 ( $0.81 )
+Skyluck11 posts small blind [$0.01]
+BriefcaseJoe posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+BriefcaseJoe collected [ $0.03 ]
+
+
+#Game No : 501770060
+***** 888poker Hand History for Game 501770060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:30:41
+Table Kuopio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Skyluck11 ( $0.85 )
+Seat 7: Dr1Death ( $0.75 )
+Skyluck11 posts small blind [$0.01]
+Dr1Death posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+Dr1Death calls [$0.04]
+** Dealing flop ** [ Qc, Th, Jh ]
+Dr1Death checks
+Skyluck11 checks
+** Dealing turn ** [ Jc ]
+Dr1Death checks
+Skyluck11 bets [$0.08]
+Dr1Death folds
+** Summary **
+Skyluck11 did not show his hand
+Skyluck11 collected [ $0.12 ]
+
+
+#Game No : 501770079
+***** 888poker Hand History for Game 501770079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:31:01
+Table Kuopio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Skyluck11 ( $0.91 )
+Seat 7: Dr1Death ( $0.69 )
+Dr1Death posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+Dr1Death raises [$0.03]
+Skyluck11 folds
+** Summary **
+Dr1Death did not show his hand
+Dr1Death collected [ $0.04 ]
+
+
+#Game No : 501770089
+***** 888poker Hand History for Game 501770089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:31:10
+Table Kuopio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Skyluck11 ( $0.89 )
+Seat 7: Dr1Death ( $0.71 )
+Skyluck11 posts small blind [$0.01]
+Dr1Death posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+Dr1Death folds
+** Summary **
+Skyluck11 did not show his hand
+Skyluck11 collected [ $0.04 ]
+
+
+#Game No : 501770110
+***** 888poker Hand History for Game 501770110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:31:25
+Table Kuopio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Skyluck11 ( $0.91 )
+Seat 7: Dr1Death ( $0.69 )
+Dr1Death posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+Dr1Death calls [$0.01]
+Skyluck11 checks
+** Dealing flop ** [ 4d, Td, 3s ]
+Skyluck11 checks
+Dr1Death bets [$0.02]
+Skyluck11 calls [$0.02]
+** Dealing turn ** [ 5d ]
+Skyluck11 checks
+Dr1Death bets [$0.02]
+Skyluck11 calls [$0.02]
+** Dealing river ** [ 2h ]
+Skyluck11 checks
+Dr1Death bets [$0.02]
+Skyluck11 calls [$0.02]
+** Summary **
+Dr1Death shows [ 6c, 3d ]
+Skyluck11 mucks [ 5h, 2d ]
+Dr1Death collected [ $0.15 ]
+
+
+#Game No : 501770151
+***** 888poker Hand History for Game 501770151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:31:59
+Table Kuopio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Skyluck11 ( $0.83 )
+Seat 7: Dr1Death ( $0.76 )
+Skyluck11 posts small blind [$0.01]
+Dr1Death posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+Dr1Death calls [$0.04]
+** Dealing flop ** [ 9s, Ts, 5s ]
+Dr1Death bets [$0.12]
+Skyluck11 calls [$0.12]
+** Dealing turn ** [ 3c ]
+Dr1Death bets [$0.36]
+Skyluck11 folds
+** Summary **
+Dr1Death collected [ $0.34 ]
+
+
+#Game No : 501770214
+***** 888poker Hand History for Game 501770214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 12:32:47
+Table Kuopio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Skyluck11 ( $0.80 )
+Seat 7: Dr1Death ( $0.92 )
+Dr1Death posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+Dr1Death calls [$0.01]
+Skyluck11 checks
+** Dealing flop ** [ 2s, 7c, 8s ]
+Skyluck11 checks
+Dr1Death checks
+** Dealing turn ** [ Qh ]
+Skyluck11 checks
+Dr1Death checks
+** Dealing river ** [ 4d ]
+Skyluck11 checks
+Dr1Death checks
+** Summary **
+Skyluck11 shows [ 7d, Jh ]
+Dr1Death mucks [ 3h, 9h ]
+Skyluck11 collected [ $0.04 ]
+
+
+#Game No : 501772715
+***** 888poker Hand History for Game 501772715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 13:08:57
+Table Kuopio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.94 )
+Seat 9: lucky_crab ( $0.93 )
+Nonito03 posts small blind [$0.01]
+lucky_crab posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 raises [$0.03]
+lucky_crab calls [$0.02]
+** Dealing flop ** [ Kd, 9h, Qc ]
+lucky_crab checks
+Nonito03 checks
+** Dealing turn ** [ Th ]
+lucky_crab checks
+Nonito03 checks
+** Dealing river ** [ Ks ]
+lucky_crab bets [$0.05]
+Nonito03 folds
+** Summary **
+lucky_crab did not show his hand
+lucky_crab collected [ $0.08 ]
+
+

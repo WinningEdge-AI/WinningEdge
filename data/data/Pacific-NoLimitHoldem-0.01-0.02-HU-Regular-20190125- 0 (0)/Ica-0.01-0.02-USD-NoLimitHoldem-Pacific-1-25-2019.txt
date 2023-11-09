@@ -1,0 +1,30 @@
+#Game No : 460678222
+***** 888poker Hand History for Game 460678222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 01 2019 01:52:44
+Table Ica 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Lantal14 ( $1.10 )
+Seat 7: tenor75013 ( $2.12 )
+Lantal14 posts small blind [$0.01]
+tenor75013 posts big blind [$0.02]
+** Dealing down cards **
+Lantal14 calls [$0.01]
+tenor75013 checks
+** Dealing flop ** [ 8h, Ac, Jd ]
+tenor75013 checks
+Lantal14 bets [$0.04]
+tenor75013 raises [$0.16]
+Lantal14 calls [$0.12]
+** Dealing turn ** [ 5c ]
+tenor75013 bets [$0.20]
+Lantal14 calls [$0.20]
+** Dealing river ** [ 9c ]
+tenor75013 bets [$0.50]
+Lantal14 calls [$0.50]
+** Summary **
+tenor75013 shows [ Js, 8s ]
+Lantal14 shows [ As, 9d ]
+Lantal14 collected [ $1.65 ]
+
+

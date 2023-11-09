@@ -1,0 +1,128 @@
+#Game No : 513057881
+***** 888poker Hand History for Game 513057881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 18:09:26
+Table Kirov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $2.27 )
+Seat 7: anzorkk ( $1.07 )
+arcticdawn posts small blind [$0.01]
+anzorkk posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn calls [$0.01]
+anzorkk raises [$0.06]
+arcticdawn calls [$0.06]
+** Dealing flop ** [ 2d, 9s, 2s ]
+anzorkk bets [$0.10]
+arcticdawn calls [$0.10]
+** Dealing turn ** [ Ks ]
+anzorkk bets [$0.24]
+arcticdawn calls [$0.24]
+** Dealing river ** [ 6d ]
+anzorkk bets [$0.20]
+arcticdawn calls [$0.20]
+** Summary **
+anzorkk shows [ Js, Jd ]
+arcticdawn shows [ 2c, 4c ]
+arcticdawn collected [ $1.17 ]
+
+
+#Game No : 513057903
+***** 888poker Hand History for Game 513057903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 18:10:41
+Table Kirov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $2.82 )
+Seat 7: anzorkk ( $0.45 )
+anzorkk posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+anzorkk folds
+** Summary **
+arcticdawn collected [ $0.03 ]
+
+
+#Game No : 513057906
+***** 888poker Hand History for Game 513057906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 18:10:49
+Table Kirov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $2.83 )
+Seat 7: anzorkk ( $0.44 )
+arcticdawn posts small blind [$0.01]
+anzorkk posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn calls [$0.01]
+anzorkk raises [$0.06]
+arcticdawn calls [$0.06]
+** Dealing flop ** [ Kd, 7d, 4c ]
+anzorkk checks
+arcticdawn checks
+** Dealing turn ** [ 4h ]
+anzorkk checks
+arcticdawn checks
+** Dealing river ** [ Ac ]
+anzorkk checks
+arcticdawn checks
+** Summary **
+anzorkk shows [ Qh, Qd ]
+arcticdawn shows [ 3h, Ah ]
+arcticdawn collected [ $0.15 ]
+
+
+#Game No : 513057922
+***** 888poker Hand History for Game 513057922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 18:11:51
+Table Kirov 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $2.90 )
+Seat 7: anzorkk ( $0.94 )
+anzorkk posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+anzorkk raises [$0.03]
+arcticdawn calls [$0.02]
+** Dealing flop ** [ 5c, 4d, 3h ]
+arcticdawn checks
+anzorkk checks
+** Dealing turn ** [ 3s ]
+arcticdawn checks
+anzorkk checks
+** Dealing river ** [ Td ]
+arcticdawn bets [$0.08]
+anzorkk folds
+** Summary **
+arcticdawn collected [ $0.08 ]
+
+
+#Game No : 513057937
+***** 888poker Hand History for Game 513057937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 18:12:43
+Table Kirov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: arcticdawn ( $2.94 )
+Seat 7: anzorkk ( $0.90 )
+arcticdawn posts small blind [$0.01]
+anzorkk posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn calls [$0.01]
+anzorkk checks
+** Dealing flop ** [ Ad, 4s, Kd ]
+anzorkk checks
+arcticdawn checks
+** Dealing turn ** [ 5s ]
+anzorkk checks
+arcticdawn checks
+** Dealing river ** [ Jd ]
+anzorkk checks
+arcticdawn checks
+** Summary **
+anzorkk shows [ 9s, 5h ]
+arcticdawn mucks [ 4d, 7c ]
+anzorkk collected [ $0.04 ]
+
+

@@ -1,0 +1,464 @@
+#Game No : 502660204
+***** 888poker Hand History for Game 502660204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 02:24:19
+Table Hildesheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.78 )
+Seat 7: Pinvax ( $0.81 )
+DeboSockett posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+DeboSockett calls [$0.01]
+Pinvax checks
+** Dealing flop ** [ Ts, Jh, 6s ]
+Pinvax checks
+DeboSockett bets [$0.02]
+Pinvax calls [$0.02]
+** Dealing turn ** [ 2c ]
+Pinvax checks
+DeboSockett bets [$0.02]
+Pinvax folds
+** Summary **
+DeboSockett collected [ $0.08 ]
+
+
+#Game No : 502661266
+***** 888poker Hand History for Game 502661266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 02:51:17
+Table Hildesheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: lipton4ai ( $1.02 )
+Seat 7: BOJIKOB ( $0.60 )
+lipton4ai posts small blind [$0.01]
+BOJIKOB posts big blind [$0.02]
+** Dealing down cards **
+lipton4ai folds
+** Summary **
+BOJIKOB collected [ $0.03 ]
+
+
+#Game No : 502661272
+***** 888poker Hand History for Game 502661272 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 02:51:21
+Table Hildesheim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: lipton4ai ( $1.01 )
+Seat 7: BOJIKOB ( $0.80 )
+BOJIKOB posts small blind [$0.01]
+** Dealing down cards **
+lipton4ai folds
+** Summary **
+BOJIKOB collected [ $0.01 ]
+
+
+#Game No : 502661383
+***** 888poker Hand History for Game 502661383 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 02:54:22
+Table Hildesheim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.92 )
+Seat 2: glansuas ( $1.07 )
+glansuas posts small blind [$0.01]
+DeboSockett posts big blind [$0.02]
+** Dealing down cards **
+glansuas folds
+** Summary **
+DeboSockett collected [ $0.03 ]
+
+
+#Game No : 502661386
+***** 888poker Hand History for Game 502661386 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 02:54:32
+Table Hildesheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.93 )
+Seat 2: glansuas ( $1.06 )
+DeboSockett posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+DeboSockett calls [$0.01]
+glansuas checks
+** Dealing flop ** [ 2h, 5s, 5d ]
+glansuas checks
+DeboSockett checks
+** Dealing turn ** [ 4d ]
+glansuas checks
+DeboSockett checks
+** Dealing river ** [ 5c ]
+glansuas checks
+DeboSockett bets [$0.04]
+glansuas calls [$0.04]
+** Summary **
+DeboSockett shows [ Jh, 5h ]
+glansuas mucks [ 4c, As ]
+DeboSockett collected [ $0.12 ]
+
+
+#Game No : 502661409
+***** 888poker Hand History for Game 502661409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 02:55:03
+Table Hildesheim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DeboSockett ( $0.99 )
+Seat 2: glansuas ( $1 )
+glansuas posts small blind [$0.01]
+DeboSockett posts big blind [$0.02]
+** Dealing down cards **
+glansuas raises [$0.03]
+DeboSockett raises [$0.10]
+glansuas calls [$0.08]
+** Dealing flop ** [ 2h, 8c, 7s ]
+DeboSockett bets [$0.87]
+glansuas folds
+** Summary **
+DeboSockett collected [ $0.23 ]
+
+
+#Game No : 502663010
+***** 888poker Hand History for Game 502663010 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 03:43:24
+Table Hildesheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Fish.Zone ( $0.84 )
+Seat 2: glansuas ( $2.26 )
+Fish.Zone posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+Fish.Zone calls [$0.01]
+glansuas raises [$0.04]
+Fish.Zone folds
+** Summary **
+glansuas did not show his hand
+glansuas collected [ $0.04 ]
+
+
+#Game No : 502663018
+***** 888poker Hand History for Game 502663018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 03:43:37
+Table Hildesheim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Fish.Zone ( $0.82 )
+Seat 2: glansuas ( $2.28 )
+glansuas posts small blind [$0.01]
+Fish.Zone posts big blind [$0.02]
+** Dealing down cards **
+glansuas raises [$0.05]
+Fish.Zone raises [$0.08]
+glansuas calls [$0.04]
+** Dealing flop ** [ 8s, 3h, 7d ]
+Fish.Zone checks
+glansuas checks
+** Dealing turn ** [ 5h ]
+Fish.Zone bets [$0.10]
+glansuas raises [$0.30]
+Fish.Zone folds
+** Summary **
+glansuas did not show his hand
+glansuas collected [ $0.38 ]
+
+
+#Game No : 502663045
+***** 888poker Hand History for Game 502663045 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 03:44:26
+Table Hildesheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Fish.Zone ( $0.62 )
+Seat 2: glansuas ( $2.46 )
+Fish.Zone posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+Fish.Zone calls [$0.01]
+glansuas checks
+** Dealing flop ** [ 7d, 8h, 7c ]
+glansuas checks
+Fish.Zone checks
+** Dealing turn ** [ 9d ]
+glansuas checks
+Fish.Zone bets [$0.06]
+glansuas folds
+** Summary **
+Fish.Zone collected [ $0.04 ]
+
+
+#Game No : 502663073
+***** 888poker Hand History for Game 502663073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 03:45:19
+Table Hildesheim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Fish.Zone ( $0.64 )
+Seat 2: glansuas ( $2.44 )
+glansuas posts small blind [$0.01]
+Fish.Zone posts big blind [$0.02]
+** Dealing down cards **
+glansuas raises [$0.05]
+Fish.Zone folds
+** Summary **
+glansuas collected [ $0.04 ]
+
+
+#Game No : 502667499
+***** 888poker Hand History for Game 502667499 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 05:55:39
+Table Hildesheim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Tiltoff. ( $2.20 )
+Seat 4: Gregkek ( $2.49 )
+Tiltoff. posts small blind [$0.01]
+Gregkek posts big blind [$0.02]
+** Dealing down cards **
+Tiltoff. raises [$0.04]
+Gregkek folds
+** Summary **
+Tiltoff. collected [ $0.04 ]
+
+
+#Game No : 502678844
+***** 888poker Hand History for Game 502678844 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 10:26:02
+Table Hildesheim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bigatty ( $2.22 )
+Seat 4: Legenda01 ( $1.41 )
+Bigatty posts small blind [$0.01]
+Legenda01 posts big blind [$0.02]
+** Dealing down cards **
+Bigatty folds
+** Summary **
+Legenda01 collected [ $0.03 ]
+
+
+#Game No : 502683977
+***** 888poker Hand History for Game 502683977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 11:46:11
+Table Hildesheim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: tonto83 ( $0.35 )
+Seat 2: Bigatty ( $2.75 )
+Bigatty posts small blind [$0.01]
+tonto83 posts big blind [$0.02]
+** Dealing down cards **
+Bigatty folds
+** Summary **
+tonto83 collected [ $0.03 ]
+
+
+#Game No : 502684127
+***** 888poker Hand History for Game 502684127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 11:48:19
+Table Hildesheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tonto83 ( $0.29 )
+Seat 6: Metalheadz4L ( $1.43 )
+tonto83 posts small blind [$0.01]
+Metalheadz4L posts big blind [$0.02]
+** Dealing down cards **
+tonto83 folds
+** Summary **
+Metalheadz4L collected [ $0.03 ]
+
+
+#Game No : 502684134
+***** 888poker Hand History for Game 502684134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 11:48:28
+Table Hildesheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: tonto83 ( $0.28 )
+Seat 6: Metalheadz4L ( $1.44 )
+Metalheadz4L posts small blind [$0.01]
+tonto83 posts big blind [$0.02]
+** Dealing down cards **
+Metalheadz4L raises [$0.05]
+tonto83 raises [$0.26]
+Metalheadz4L folds
+** Summary **
+tonto83 collected [ $0.12 ]
+
+
+#Game No : 502684158
+***** 888poker Hand History for Game 502684158 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 11:48:45
+Table Hildesheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tonto83 ( $0.34 )
+Seat 6: Metalheadz4L ( $1.38 )
+tonto83 posts small blind [$0.01]
+Metalheadz4L posts big blind [$0.02]
+** Dealing down cards **
+tonto83 folds
+** Summary **
+Metalheadz4L collected [ $0.03 ]
+
+
+#Game No : 502684170
+***** 888poker Hand History for Game 502684170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 11:48:53
+Table Hildesheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: tonto83 ( $0.33 )
+Seat 6: Metalheadz4L ( $1.39 )
+Metalheadz4L posts small blind [$0.01]
+tonto83 posts big blind [$0.02]
+** Dealing down cards **
+Metalheadz4L folds
+** Summary **
+tonto83 collected [ $0.03 ]
+
+
+#Game No : 502684177
+***** 888poker Hand History for Game 502684177 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 11:48:59
+Table Hildesheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tonto83 ( $0.34 )
+Seat 6: Metalheadz4L ( $1.38 )
+tonto83 posts small blind [$0.01]
+Metalheadz4L posts big blind [$0.02]
+** Dealing down cards **
+tonto83 raises [$0.33]
+Metalheadz4L folds
+** Summary **
+tonto83 did not show his hand
+tonto83 collected [ $0.04 ]
+
+
+#Game No : 502684193
+***** 888poker Hand History for Game 502684193 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 11:49:08
+Table Hildesheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: tonto83 ( $0.36 )
+Seat 6: Metalheadz4L ( $1.36 )
+Metalheadz4L posts small blind [$0.01]
+tonto83 posts big blind [$0.02]
+** Dealing down cards **
+Metalheadz4L raises [$0.05]
+tonto83 folds
+** Summary **
+Metalheadz4L did not show his hand
+Metalheadz4L collected [ $0.04 ]
+
+
+#Game No : 502695034
+***** 888poker Hand History for Game 502695034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 14:47:11
+Table Hildesheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Pastelator ( $0.43 )
+Seat 6: Metalheadz4L ( $1.60 )
+Metalheadz4L posts small blind [$0.01]
+Pastelator posts big blind [$0.02]
+** Dealing down cards **
+Metalheadz4L raises [$0.05]
+Pastelator folds
+** Summary **
+Metalheadz4L collected [ $0.04 ]
+
+
+#Game No : 502695100
+***** 888poker Hand History for Game 502695100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 14:48:13
+Table Hildesheim 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pastelator ( $0.41 )
+Seat 6: Metalheadz4L ( $1.62 )
+Pastelator posts small blind [$0.01]
+Metalheadz4L posts big blind [$0.02]
+** Dealing down cards **
+Pastelator raises [$0.03]
+Metalheadz4L folds
+** Summary **
+Pastelator collected [ $0.04 ]
+
+
+#Game No : 502695131
+***** 888poker Hand History for Game 502695131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 14:48:42
+Table Hildesheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Pastelator ( $0.43 )
+Seat 6: Metalheadz4L ( $1.60 )
+Metalheadz4L posts small blind [$0.01]
+Pastelator posts big blind [$0.02]
+** Dealing down cards **
+Metalheadz4L raises [$0.05]
+Pastelator calls [$0.04]
+** Dealing flop ** [ Kh, 3d, 3h ]
+Pastelator bets [$0.06]
+Metalheadz4L folds
+** Summary **
+Pastelator collected [ $0.12 ]
+
+
+#Game No : 502695164
+***** 888poker Hand History for Game 502695164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 14:49:15
+Table Hildesheim 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pastelator ( $0.49 )
+Seat 6: Metalheadz4L ( $1.54 )
+Pastelator posts small blind [$0.01]
+Metalheadz4L posts big blind [$0.02]
+** Dealing down cards **
+Pastelator calls [$0.01]
+Metalheadz4L raises [$0.06]
+Pastelator folds
+** Summary **
+Metalheadz4L collected [ $0.04 ]
+
+
+#Game No : 502695200
+***** 888poker Hand History for Game 502695200 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 14:49:56
+Table Hildesheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Pastelator ( $0.47 )
+Seat 6: Metalheadz4L ( $1.56 )
+Metalheadz4L posts small blind [$0.01]
+Pastelator posts big blind [$0.02]
+** Dealing down cards **
+Metalheadz4L raises [$0.05]
+Pastelator folds
+** Summary **
+Metalheadz4L collected [ $0.04 ]
+
+
+#Game No : 502695215
+***** 888poker Hand History for Game 502695215 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 14:50:13
+Table Hildesheim 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pastelator ( $0.45 )
+Seat 6: Metalheadz4L ( $1.58 )
+Pastelator posts small blind [$0.01]
+Metalheadz4L posts big blind [$0.02]
+** Dealing down cards **
+Pastelator folds
+** Summary **
+Metalheadz4L collected [ $0.03 ]
+
+

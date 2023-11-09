@@ -1,0 +1,72 @@
+#Game No : 453532825
+***** 888poker Hand History for Game 453532825 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 09:29:02
+Table Divo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: peryssantana ( $2.06 )
+Seat 5: Aleksei_pole ( $0.74 )
+peryssantana posts small blind [$0.01]
+Aleksei_pole posts big blind [$0.02]
+** Dealing down cards **
+peryssantana raises [$0.03]
+Aleksei_pole calls [$0.02]
+** Dealing flop ** [ Tc, 6d, Ac ]
+Aleksei_pole checks
+peryssantana bets [$0.06]
+Aleksei_pole folds
+** Summary **
+peryssantana collected [ $0.08 ]
+
+
+#Game No : 453532833
+***** 888poker Hand History for Game 453532833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 09:29:15
+Table Divo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: peryssantana ( $2.10 )
+Seat 5: Aleksei_pole ( $0.70 )
+Aleksei_pole posts small blind [$0.01]
+peryssantana posts big blind [$0.02]
+** Dealing down cards **
+Aleksei_pole calls [$0.01]
+peryssantana checks
+** Dealing flop ** [ Ad, 5d, Qc ]
+peryssantana bets [$0.02]
+Aleksei_pole calls [$0.02]
+** Dealing turn ** [ Jd ]
+peryssantana bets [$0.02]
+Aleksei_pole raises [$0.04]
+peryssantana raises [$0.10]
+Aleksei_pole calls [$0.08]
+** Dealing river ** [ Ks ]
+peryssantana bets [$0.23]
+Aleksei_pole calls [$0.23]
+** Summary **
+peryssantana shows [ 6d, Kd ]
+Aleksei_pole mucks [ 3d, Ac ]
+peryssantana collected [ $0.74 ]
+
+
+#Game No : 453532864
+***** 888poker Hand History for Game 453532864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 09:30:10
+Table Divo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: peryssantana ( $2.45 )
+Seat 5: Aleksei_pole ( $0.31 )
+peryssantana posts small blind [$0.01]
+Aleksei_pole posts big blind [$0.02]
+** Dealing down cards **
+peryssantana raises [$0.03]
+Aleksei_pole calls [$0.02]
+** Dealing flop ** [ 9d, 5h, 3h ]
+Aleksei_pole checks
+peryssantana bets [$0.06]
+Aleksei_pole folds
+** Summary **
+peryssantana collected [ $0.08 ]
+
+

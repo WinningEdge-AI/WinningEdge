@@ -1,0 +1,147 @@
+#Game No : 509581088
+***** 888poker Hand History for Game 509581088 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 18:00:34
+Table Araure 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: eddio11 ( $0.60 )
+Seat 3: 1478523690 ( $2.18 )
+eddio11 posts small blind [$0.01]
+1478523690 posts big blind [$0.02]
+** Dealing down cards **
+eddio11 calls [$0.01]
+1478523690 raises [$0.08]
+eddio11 folds
+** Summary **
+1478523690 did not show his hand
+1478523690 collected [ $0.04 ]
+
+
+#Game No : 509581100
+***** 888poker Hand History for Game 509581100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 18:00:41
+Table Araure 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: eddio11 ( $0.58 )
+Seat 3: 1478523690 ( $2.20 )
+1478523690 posts small blind [$0.01]
+eddio11 posts big blind [$0.02]
+** Dealing down cards **
+1478523690 folds
+** Summary **
+eddio11 did not show his hand
+eddio11 collected [ $0.03 ]
+
+
+#Game No : 509581105
+***** 888poker Hand History for Game 509581105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 18:00:47
+Table Araure 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: eddio11 ( $0.59 )
+Seat 3: 1478523690 ( $2.19 )
+eddio11 posts small blind [$0.01]
+** Dealing down cards **
+1478523690 folds
+** Summary **
+eddio11 did not show his hand
+eddio11 collected [ $0.01 ]
+
+
+#Game No : 509581327
+***** 888poker Hand History for Game 509581327 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 18:04:46
+Table Araure 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: eddio11 ( $0.59 )
+Seat 5: cgtfast ( $1.20 )
+cgtfast posts small blind [$0.01]
+eddio11 posts big blind [$0.02]
+** Dealing down cards **
+cgtfast raises [$0.03]
+eddio11 calls [$0.02]
+** Dealing flop ** [ 9s, 8s, 2d ]
+eddio11 bets [$0.02]
+cgtfast raises [$0.04]
+eddio11 calls [$0.02]
+** Dealing turn ** [ Tc ]
+eddio11 checks
+cgtfast checks
+** Dealing river ** [ 6d ]
+eddio11 checks
+cgtfast checks
+** Summary **
+eddio11 shows [ 8d, 5h ]
+cgtfast mucks [ Qs, 3s ]
+eddio11 collected [ $0.15 ]
+
+
+#Game No : 509581413
+***** 888poker Hand History for Game 509581413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 18:06:14
+Table Araure 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: cgtfast ( $1.12 )
+Seat 6: Griboedow ( $1.27 )
+Griboedow posts small blind [$0.01]
+cgtfast posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+cgtfast checks
+** Dealing flop ** [ 8h, 4d, 2d ]
+cgtfast checks
+Griboedow checks
+** Dealing turn ** [ 6h ]
+cgtfast checks
+Griboedow checks
+** Dealing river ** [ 4c ]
+cgtfast checks
+Griboedow checks
+** Summary **
+cgtfast shows [ 7h, Qh ]
+Griboedow shows [ 2s, 5s ]
+Griboedow collected [ $0.04 ]
+
+
+#Game No : 509586970
+***** 888poker Hand History for Game 509586970 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 20:21:25
+Table Araure 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: FabioCordeir ( $0.82 )
+Seat 4: RadishMayhem ( $2.06 )
+RadishMayhem posts small blind [$0.01]
+FabioCordeir posts big blind [$0.02]
+** Dealing down cards **
+RadishMayhem calls [$0.01]
+FabioCordeir checks
+** Dealing flop ** [ 8c, 8s, Td ]
+FabioCordeir bets [$0.02]
+RadishMayhem raises [$0.04]
+FabioCordeir folds
+** Summary **
+RadishMayhem did not show his hand
+RadishMayhem collected [ $0.08 ]
+
+
+#Game No : 509586986
+***** 888poker Hand History for Game 509586986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 20:21:49
+Table Araure 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: FabioCordeir ( $0.78 )
+Seat 4: RadishMayhem ( $2.10 )
+FabioCordeir posts small blind [$0.01]
+** Dealing down cards **
+RadishMayhem folds
+** Summary **
+FabioCordeir did not show his hand
+FabioCordeir collected [ $0.01 ]
+
+

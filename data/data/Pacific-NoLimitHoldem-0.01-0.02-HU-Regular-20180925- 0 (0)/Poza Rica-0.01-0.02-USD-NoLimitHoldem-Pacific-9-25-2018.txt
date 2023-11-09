@@ -1,0 +1,30 @@
+#Game No : 511911990
+***** 888poker Hand History for Game 511911990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 09:10:40
+Table Poza Rica 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vertug ( $2 )
+Seat 4: FILIPOK7 ( $2 )
+FILIPOK7 posts small blind [$0.01]
+vertug posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+vertug raises [$0.04]
+FILIPOK7 calls [$0.04]
+** Dealing flop ** [ Ks, 5h, Ac ]
+vertug bets [$0.12]
+FILIPOK7 raises [$0.24]
+vertug calls [$0.12]
+** Dealing turn ** [ 3d ]
+vertug checks
+FILIPOK7 bets [$0.40]
+vertug calls [$0.40]
+** Dealing river ** [ 9h ]
+vertug checks
+FILIPOK7 bets [$0.93]
+vertug folds
+** Summary **
+FILIPOK7 collected [ $1.32 ]
+
+

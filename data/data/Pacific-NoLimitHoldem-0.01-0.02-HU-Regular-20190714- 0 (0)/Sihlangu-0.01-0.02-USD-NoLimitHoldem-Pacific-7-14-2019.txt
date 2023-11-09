@@ -1,0 +1,757 @@
+#Game No : 622305666
+***** 888poker Hand History for Game 622305666 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:19:30
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.80 )
+Seat 6: FILIPOK7 ( $2 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ 7c, 8c, 9h ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ Kd ]
+FILIPOK7 checks
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Dealing river ** [ Kc ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Summary **
+FILIPOK7 shows [ Qs, 3h ]
+PMT_QUEEN shows [ Ad, 3c ]
+PMT_QUEEN collected [ $0.08 ]
+
+
+#Game No : 622305681
+***** 888poker Hand History for Game 622305681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:21:00
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.84 )
+Seat 6: FILIPOK7 ( $1.96 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ Kd, Qc, 7d ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ Tc ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing river ** [ 9h ]
+PMT_QUEEN checks
+FILIPOK7 bets [$0.04]
+PMT_QUEEN folds
+** Summary **
+FILIPOK7 did not show his hand
+FILIPOK7 collected [ $0.04 ]
+
+
+#Game No : 622305688
+***** 888poker Hand History for Game 622305688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:21:30
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.82 )
+Seat 6: FILIPOK7 ( $1.98 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN raises [$0.03]
+FILIPOK7 raises [$0.14]
+PMT_QUEEN calls [$0.12]
+** Dealing flop ** [ 7s, Qc, 4c ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ Jh ]
+FILIPOK7 bets [$0.21]
+PMT_QUEEN folds
+** Summary **
+FILIPOK7 did not show his hand
+FILIPOK7 collected [ $0.30 ]
+
+
+#Game No : 622305691
+***** 888poker Hand History for Game 622305691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:22:04
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.66 )
+Seat 6: FILIPOK7 ( $2.12 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ 4c, Jh, Ah ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ 7s ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Dealing river ** [ 9s ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Summary **
+PMT_QUEEN shows [ Td, 7d ]
+FILIPOK7 shows [ 2d, Js ]
+FILIPOK7 collected [ $0.12 ]
+
+
+#Game No : 622305697
+***** 888poker Hand History for Game 622305697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:22:42
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.60 )
+Seat 6: FILIPOK7 ( $2.18 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ 8h, Kh, 3c ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ 3d ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing river ** [ 4d ]
+FILIPOK7 bets [$0.06]
+PMT_QUEEN calls [$0.06]
+** Summary **
+FILIPOK7 shows [ 5h, 3s ]
+PMT_QUEEN mucks [ 4c, 2c ]
+FILIPOK7 collected [ $0.15 ]
+
+
+#Game No : 622305701
+***** 888poker Hand History for Game 622305701 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:23:16
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.52 )
+Seat 6: FILIPOK7 ( $2.25 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ 9h, 6s, 7s ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ Jc ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Dealing river ** [ Qc ]
+PMT_QUEEN bets [$0.08]
+FILIPOK7 folds
+** Summary **
+PMT_QUEEN did not show his hand
+PMT_QUEEN collected [ $0.08 ]
+
+
+#Game No : 622305706
+***** 888poker Hand History for Game 622305706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:23:53
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.56 )
+Seat 6: FILIPOK7 ( $2.21 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ Qh, 6s, Ac ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ 6h ]
+FILIPOK7 bets [$0.02]
+PMT_QUEEN calls [$0.02]
+** Dealing river ** [ Jc ]
+FILIPOK7 bets [$0.02]
+PMT_QUEEN calls [$0.02]
+** Summary **
+FILIPOK7 shows [ Qd, 9s ]
+PMT_QUEEN mucks [ Td, 2d ]
+FILIPOK7 collected [ $0.12 ]
+
+
+#Game No : 622305710
+***** 888poker Hand History for Game 622305710 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:24:22
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.50 )
+Seat 6: FILIPOK7 ( $2.27 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ 5c, 5d, 6h ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ 3c ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 folds
+** Summary **
+PMT_QUEEN did not show his hand
+PMT_QUEEN collected [ $0.04 ]
+
+
+#Game No : 622305712
+***** 888poker Hand History for Game 622305712 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:24:47
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.52 )
+Seat 6: FILIPOK7 ( $2.25 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ As, 7s, 3c ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ 8h ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing river ** [ Ad ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Summary **
+FILIPOK7 shows [ 4h, Ks ]
+PMT_QUEEN shows [ 3h, Jh ]
+PMT_QUEEN collected [ $0.04 ]
+
+
+#Game No : 622305716
+***** 888poker Hand History for Game 622305716 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:25:24
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.54 )
+Seat 6: FILIPOK7 ( $2.23 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ 4s, Qs, Kh ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ 9c ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 folds
+** Summary **
+PMT_QUEEN did not show his hand
+PMT_QUEEN collected [ $0.04 ]
+
+
+#Game No : 622305720
+***** 888poker Hand History for Game 622305720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:25:46
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.56 )
+Seat 6: FILIPOK7 ( $2.21 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ Ks, 7c, 6c ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ 2h ]
+FILIPOK7 checks
+PMT_QUEEN bets [$0.02]
+FILIPOK7 folds
+** Summary **
+PMT_QUEEN did not show his hand
+PMT_QUEEN collected [ $0.04 ]
+
+
+#Game No : 622305724
+***** 888poker Hand History for Game 622305724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:26:07
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.58 )
+Seat 6: FILIPOK7 ( $2.19 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 raises [$0.07]
+PMT_QUEEN folds
+** Summary **
+FILIPOK7 did not show his hand
+FILIPOK7 collected [ $0.04 ]
+
+
+#Game No : 622305729
+***** 888poker Hand History for Game 622305729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:26:19
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.56 )
+Seat 6: FILIPOK7 ( $2.21 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ 3d, Ah, Ad ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ 8c ]
+FILIPOK7 bets [$0.02]
+PMT_QUEEN calls [$0.02]
+** Dealing river ** [ 9h ]
+FILIPOK7 checks
+PMT_QUEEN bets [$0.08]
+FILIPOK7 folds
+** Summary **
+PMT_QUEEN did not show his hand
+PMT_QUEEN collected [ $0.08 ]
+
+
+#Game No : 622305737
+***** 888poker Hand History for Game 622305737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:26:55
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.60 )
+Seat 6: FILIPOK7 ( $2.17 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ 4s, 4h, 2c ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ 6s ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing river ** [ Qh ]
+PMT_QUEEN checks
+FILIPOK7 bets [$0.04]
+PMT_QUEEN calls [$0.04]
+** Summary **
+FILIPOK7 shows [ 3h, Th ]
+PMT_QUEEN shows [ Kc, 9d ]
+PMT_QUEEN collected [ $0.12 ]
+
+
+#Game No : 622305748
+***** 888poker Hand History for Game 622305748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:27:46
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.66 )
+Seat 6: FILIPOK7 ( $2.11 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN raises [$0.03]
+FILIPOK7 calls [$0.02]
+** Dealing flop ** [ Ks, Kh, Jh ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ 7d ]
+FILIPOK7 checks
+PMT_QUEEN bets [$0.02]
+FILIPOK7 folds
+** Summary **
+PMT_QUEEN did not show his hand
+PMT_QUEEN collected [ $0.08 ]
+
+
+#Game No : 622305750
+***** 888poker Hand History for Game 622305750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:28:13
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.70 )
+Seat 6: FILIPOK7 ( $2.07 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ Qd, 7s, 6h ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ 3c ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Dealing river ** [ 6d ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Summary **
+PMT_QUEEN shows [ 5d, 3d ]
+FILIPOK7 shows [ 7h, 2d ]
+FILIPOK7 collected [ $0.12 ]
+
+
+#Game No : 622305758
+***** 888poker Hand History for Game 622305758 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:28:37
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.64 )
+Seat 6: FILIPOK7 ( $2.13 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ 3c, Ac, 7h ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ 7d ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing river ** [ Qh ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Summary **
+FILIPOK7 shows [ 9s, 2s ]
+PMT_QUEEN mucks [ 8c, 2d ]
+FILIPOK7 collected [ $0.04 ]
+
+
+#Game No : 622305770
+***** 888poker Hand History for Game 622305770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:29:31
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.62 )
+Seat 6: FILIPOK7 ( $2.15 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN raises [$0.04]
+FILIPOK7 calls [$0.04]
+** Dealing flop ** [ Qc, 4d, 9s ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Dealing turn ** [ 6s ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Dealing river ** [ 8c ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 raises [$0.10]
+PMT_QUEEN calls [$0.08]
+** Summary **
+FILIPOK7 shows [ Qh, 5h ]
+PMT_QUEEN mucks [ Td, 9c ]
+FILIPOK7 collected [ $0.38 ]
+
+
+#Game No : 622305776
+***** 888poker Hand History for Game 622305776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:30:05
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.42 )
+Seat 6: FILIPOK7 ( $2.33 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ Qs, Kd, Kc ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ Qc ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing river ** [ 3s ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Summary **
+FILIPOK7 shows [ 9d, 8c ]
+PMT_QUEEN mucks [ 3c, 2h ]
+FILIPOK7 collected [ $0.04 ]
+
+
+#Game No : 622305779
+***** 888poker Hand History for Game 622305779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:30:25
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.40 )
+Seat 6: FILIPOK7 ( $2.35 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ 9c, Tc, 2c ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ Qd ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing river ** [ Qc ]
+PMT_QUEEN bets [$0.04]
+FILIPOK7 calls [$0.04]
+** Summary **
+PMT_QUEEN shows [ Jc, 6d ]
+FILIPOK7 mucks [ 6h, 7c ]
+PMT_QUEEN collected [ $0.12 ]
+
+
+#Game No : 622305785
+***** 888poker Hand History for Game 622305785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:30:53
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.46 )
+Seat 6: FILIPOK7 ( $2.29 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ Ks, 3c, 4d ]
+FILIPOK7 bets [$0.02]
+PMT_QUEEN calls [$0.02]
+** Dealing turn ** [ 5s ]
+FILIPOK7 bets [$0.02]
+PMT_QUEEN calls [$0.02]
+** Dealing river ** [ Ad ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Summary **
+FILIPOK7 shows [ 7h, 4c ]
+PMT_QUEEN shows [ 4h, 3s ]
+PMT_QUEEN collected [ $0.12 ]
+
+
+#Game No : 622305788
+***** 888poker Hand History for Game 622305788 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:31:19
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.52 )
+Seat 6: FILIPOK7 ( $2.23 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ Qh, Kc, 9d ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ 3d ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing river ** [ 7d ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Summary **
+PMT_QUEEN shows [ 8s, Td ]
+FILIPOK7 mucks [ 4c, 2c ]
+PMT_QUEEN collected [ $0.04 ]
+
+
+#Game No : 622305795
+***** 888poker Hand History for Game 622305795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:31:47
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.54 )
+Seat 6: FILIPOK7 ( $2.21 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN calls [$0.01]
+FILIPOK7 checks
+** Dealing flop ** [ Qs, Ad, 2d ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ 8d ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing river ** [ 7c ]
+FILIPOK7 bets [$0.06]
+PMT_QUEEN folds
+** Summary **
+FILIPOK7 did not show his hand
+FILIPOK7 collected [ $0.04 ]
+
+
+#Game No : 622305799
+***** 888poker Hand History for Game 622305799 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:32:09
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.52 )
+Seat 6: FILIPOK7 ( $2.23 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ 7h, Kd, Ks ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ 4h ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Dealing river ** [ Ad ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 raises [$0.10]
+PMT_QUEEN calls [$0.08]
+** Summary **
+FILIPOK7 shows [ 2h, Kh ]
+PMT_QUEEN mucks [ 6h, 7c ]
+FILIPOK7 collected [ $0.27 ]
+
+
+#Game No : 622305802
+***** 888poker Hand History for Game 622305802 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:32:36
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.38 )
+Seat 6: FILIPOK7 ( $2.36 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN raises [$0.03]
+FILIPOK7 calls [$0.02]
+** Dealing flop ** [ 8d, Qh, Js ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ Ah ]
+FILIPOK7 checks
+PMT_QUEEN bets [$0.02]
+FILIPOK7 folds
+** Summary **
+PMT_QUEEN did not show his hand
+PMT_QUEEN collected [ $0.08 ]
+
+
+#Game No : 622305805
+***** 888poker Hand History for Game 622305805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:32:56
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.42 )
+Seat 6: FILIPOK7 ( $2.32 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ 2d, 4h, 3s ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing turn ** [ 4s ]
+PMT_QUEEN checks
+FILIPOK7 checks
+** Dealing river ** [ 6s ]
+PMT_QUEEN bets [$0.04]
+FILIPOK7 calls [$0.04]
+** Summary **
+PMT_QUEEN shows [ Jh, 5c ]
+FILIPOK7 shows [ Ad, 5s ]
+FILIPOK7 collected [ $0.06 ]
+PMT_QUEEN collected [ $0.06 ]
+
+
+#Game No : 622305808
+***** 888poker Hand History for Game 622305808 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:33:19
+Table Sihlangu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.42 )
+Seat 6: FILIPOK7 ( $2.32 )
+PMT_QUEEN posts small blind [$0.01]
+FILIPOK7 posts big blind [$0.02]
+** Dealing down cards **
+PMT_QUEEN raises [$0.03]
+FILIPOK7 calls [$0.02]
+** Dealing flop ** [ 3d, 8h, 4s ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing turn ** [ Qh ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Dealing river ** [ 7h ]
+FILIPOK7 checks
+PMT_QUEEN checks
+** Summary **
+FILIPOK7 shows [ 6s, 8d ]
+PMT_QUEEN mucks [ Jc, Ts ]
+FILIPOK7 collected [ $0.08 ]
+
+
+#Game No : 622305812
+***** 888poker Hand History for Game 622305812 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 07 2019 22:33:42
+Table Sihlangu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: PMT_QUEEN ( $0.38 )
+Seat 6: FILIPOK7 ( $2.36 )
+FILIPOK7 posts small blind [$0.01]
+PMT_QUEEN posts big blind [$0.02]
+** Dealing down cards **
+FILIPOK7 calls [$0.01]
+PMT_QUEEN checks
+** Dealing flop ** [ 5h, 6h, 3c ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 calls [$0.02]
+** Dealing turn ** [ As ]
+PMT_QUEEN bets [$0.02]
+FILIPOK7 raises [$2.32]
+PMT_QUEEN calls [$0.32]
+** Dealing river ** [ 4h ]
+** Summary **
+PMT_QUEEN shows [ Tc, 6s ]
+FILIPOK7 shows [ Ah, 3d ]
+FILIPOK7 collected [ $0.72 ]
+
+

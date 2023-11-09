@@ -1,0 +1,56 @@
+#Game No : 515045817
+***** 888poker Hand History for Game 515045817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 01:00:14
+Table Arezzo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: djgammel ( $0.98 )
+Seat 6: thox.kt ( $1.42 )
+djgammel posts small blind [$0.01]
+thox.kt posts big blind [$0.02]
+** Dealing down cards **
+djgammel calls [$0.01]
+thox.kt checks
+** Dealing flop ** [ 6d, Qd, 8h ]
+thox.kt checks
+djgammel bets [$0.04]
+thox.kt calls [$0.04]
+** Dealing turn ** [ 6h ]
+thox.kt checks
+djgammel checks
+** Dealing river ** [ Ks ]
+thox.kt checks
+djgammel bets [$0.12]
+thox.kt folds
+** Summary **
+djgammel collected [ $0.12 ]
+
+
+#Game No : 515051266
+***** 888poker Hand History for Game 515051266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 04:56:10
+Table Arezzo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: mokritsa ( $2.30 )
+Seat 5: CasNei ( $0.84 )
+CasNei posts small blind [$0.01]
+mokritsa posts big blind [$0.02]
+** Dealing down cards **
+CasNei calls [$0.01]
+mokritsa checks
+** Dealing flop ** [ 5d, 4d, Ac ]
+mokritsa checks
+CasNei checks
+** Dealing turn ** [ 7h ]
+mokritsa checks
+CasNei checks
+** Dealing river ** [ Ks ]
+mokritsa checks
+CasNei checks
+** Summary **
+mokritsa shows [ 2h, 7s ]
+CasNei shows [ Kc, 9s ]
+CasNei collected [ $0.04 ]
+
+

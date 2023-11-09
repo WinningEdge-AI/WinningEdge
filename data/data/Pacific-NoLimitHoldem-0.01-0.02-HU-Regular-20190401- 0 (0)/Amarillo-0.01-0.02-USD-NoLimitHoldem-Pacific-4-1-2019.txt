@@ -1,0 +1,54 @@
+#Game No : 527940355
+***** 888poker Hand History for Game 527940355 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 05:03:09
+Table Amarillo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: NaClK9 ( $2.72 )
+Seat 6: yrik222 ( $1.94 )
+NaClK9 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+NaClK9 calls [$0.01]
+yrik222 checks
+** Dealing flop ** [ Ah, 4h, Jh ]
+yrik222 checks
+NaClK9 bets [$0.02]
+yrik222 calls [$0.02]
+** Dealing turn ** [ 5d ]
+yrik222 checks
+NaClK9 bets [$0.04]
+yrik222 folds
+** Summary **
+NaClK9 collected [ $0.08 ]
+
+
+#Game No : 527944755
+***** 888poker Hand History for Game 527944755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 06:33:33
+Table Amarillo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: Moloko75 ( $2 )
+Seat 3: Lautna_1 ( $2 )
+Lautna_1 posts small blind [$0.01]
+Moloko75 posts big blind [$0.02]
+** Dealing down cards **
+Lautna_1 calls [$0.01]
+Moloko75 checks
+** Dealing flop ** [ 3c, 6h, 5d ]
+Moloko75 bets [$0.02]
+Lautna_1 calls [$0.02]
+** Dealing turn ** [ 8s ]
+Moloko75 checks
+Lautna_1 bets [$0.02]
+Moloko75 calls [$0.02]
+** Dealing river ** [ Qd ]
+Moloko75 checks
+Lautna_1 checks
+** Summary **
+Moloko75 shows [ 3s, As ]
+Lautna_1 shows [ 6d, 9s ]
+Lautna_1 collected [ $0.12 ]
+
+

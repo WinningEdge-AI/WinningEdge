@@ -1,0 +1,43 @@
+#Game No : 503200401
+***** 888poker Hand History for Game 503200401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 06 2018 15:38:22
+Table Jujuy 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Burnhead4 ( $1.92 )
+Seat 7: Gusar_1 ( $0.69 )
+Gusar_1 posts small blind [$0.01]
+Burnhead4 posts big blind [$0.02]
+** Dealing down cards **
+Gusar_1 folds
+** Summary **
+Burnhead4 collected [ $0.03 ]
+
+
+#Game No : 503200407
+***** 888poker Hand History for Game 503200407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 06 2018 15:38:27
+Table Jujuy 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Burnhead4 ( $1.93 )
+Seat 7: Gusar_1 ( $0.68 )
+Burnhead4 posts small blind [$0.01]
+Gusar_1 posts big blind [$0.02]
+** Dealing down cards **
+Burnhead4 calls [$0.01]
+Gusar_1 checks
+** Dealing flop ** [ 5c, 4s, 5h ]
+Gusar_1 checks
+Burnhead4 bets [$0.04]
+Gusar_1 calls [$0.04]
+** Dealing turn ** [ Jd ]
+Gusar_1 checks
+Burnhead4 checks
+** Dealing river ** [ 3c ]
+Gusar_1 bets [$0.14]
+Burnhead4 folds
+** Summary **
+Gusar_1 collected [ $0.12 ]
+
+

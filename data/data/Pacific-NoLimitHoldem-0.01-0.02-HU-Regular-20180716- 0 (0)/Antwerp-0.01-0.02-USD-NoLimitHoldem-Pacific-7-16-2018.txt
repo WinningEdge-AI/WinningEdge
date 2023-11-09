@@ -1,0 +1,926 @@
+#Game No : 499522093
+***** 888poker Hand History for Game 499522093 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 17:05:51
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: richbranson ( $4.09 )
+Seat 9: holdem_bot ( $1.01 )
+richbranson posts small blind [$0.01]
+holdem_bot posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+holdem_bot collected [ $0.03 ]
+
+
+#Game No : 499522095
+***** 888poker Hand History for Game 499522095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 17:06:01
+Table Antwerp 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: richbranson ( $4.08 )
+Seat 9: holdem_bot ( $1.02 )
+holdem_bot posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+holdem_bot calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 5c, 9h, Kh ]
+richbranson checks
+holdem_bot checks
+** Dealing turn ** [ 3c ]
+richbranson bets [$0.06]
+holdem_bot folds
+** Summary **
+richbranson collected [ $0.04 ]
+
+
+#Game No : 499522100
+***** 888poker Hand History for Game 499522100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 17:06:32
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: richbranson ( $4.10 )
+Seat 9: holdem_bot ( $1 )
+richbranson posts small blind [$0.01]
+holdem_bot posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+holdem_bot collected [ $0.03 ]
+
+
+#Game No : 499522102
+***** 888poker Hand History for Game 499522102 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 17:06:41
+Table Antwerp 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: richbranson ( $4.09 )
+Seat 9: holdem_bot ( $1.01 )
+holdem_bot posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+holdem_bot calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Ks, 2s, Qc ]
+richbranson checks
+holdem_bot checks
+** Dealing turn ** [ Ts ]
+richbranson checks
+holdem_bot bets [$0.02]
+richbranson folds
+** Summary **
+holdem_bot did not show his hand
+holdem_bot collected [ $0.04 ]
+
+
+#Game No : 499522110
+***** 888poker Hand History for Game 499522110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 17:07:12
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: richbranson ( $4.07 )
+Seat 9: holdem_bot ( $1.03 )
+richbranson posts small blind [$0.01]
+holdem_bot posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+holdem_bot folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.04 ]
+
+
+#Game No : 499522113
+***** 888poker Hand History for Game 499522113 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 17:07:20
+Table Antwerp 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: richbranson ( $4.09 )
+Seat 9: holdem_bot ( $1.01 )
+holdem_bot posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+holdem_bot calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 8h, 5c, 2h ]
+richbranson checks
+holdem_bot checks
+** Dealing turn ** [ Th ]
+richbranson bets [$0.06]
+holdem_bot folds
+** Summary **
+richbranson collected [ $0.04 ]
+
+
+#Game No : 499522681
+***** 888poker Hand History for Game 499522681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:24:43
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $2.91 )
+Seat 9: holdem_bot ( $0.50 )
+Pokeyeface posts small blind [$0.01]
+holdem_bot posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+holdem_bot checks
+** Dealing flop ** [ Ks, 2h, 9d ]
+holdem_bot bets [$0.48]
+Pokeyeface folds
+** Summary **
+holdem_bot collected [ $0.04 ]
+
+
+#Game No : 499522687
+***** 888poker Hand History for Game 499522687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:25:08
+Table Antwerp 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $2.89 )
+Seat 9: holdem_bot ( $0.52 )
+holdem_bot posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+holdem_bot calls [$0.01]
+Pokeyeface checks
+** Dealing flop ** [ 2d, Jc, 3s ]
+Pokeyeface checks
+holdem_bot checks
+** Dealing turn ** [ Qc ]
+Pokeyeface checks
+holdem_bot checks
+** Dealing river ** [ Td ]
+Pokeyeface checks
+holdem_bot bets [$0.50]
+Pokeyeface folds
+** Summary **
+holdem_bot collected [ $0.04 ]
+
+
+#Game No : 499522693
+***** 888poker Hand History for Game 499522693 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:25:34
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $2.87 )
+Seat 9: holdem_bot ( $0.54 )
+Pokeyeface posts small blind [$0.01]
+holdem_bot posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+holdem_bot checks
+** Dealing flop ** [ Jc, 8h, Jh ]
+holdem_bot checks
+Pokeyeface checks
+** Dealing turn ** [ Qc ]
+holdem_bot checks
+Pokeyeface checks
+** Dealing river ** [ Qh ]
+holdem_bot checks
+Pokeyeface checks
+** Summary **
+holdem_bot shows [ Th, Ad ]
+Pokeyeface mucks [ Ks, 7d ]
+holdem_bot collected [ $0.04 ]
+
+
+#Game No : 499522807
+***** 888poker Hand History for Game 499522807 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:38:25
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.53 )
+Seat 7: richbranson ( $1.26 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.07]
+Pokeyeface calls [$0.06]
+** Dealing flop ** [ Ad, 8s, 8d ]
+Pokeyeface checks
+richbranson bets [$0.10]
+Pokeyeface calls [$0.10]
+** Dealing turn ** [ 6c ]
+Pokeyeface checks
+richbranson checks
+** Dealing river ** [ 2c ]
+Pokeyeface bets [$0.36]
+richbranson folds
+** Summary **
+Pokeyeface did not show his hand
+Pokeyeface collected [ $0.34 ]
+
+
+#Game No : 499522815
+***** 888poker Hand History for Game 499522815 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:39:18
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.69 )
+Seat 7: richbranson ( $1.08 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson raises [$0.08]
+Pokeyeface calls [$0.08]
+** Dealing flop ** [ 7c, Ah, Kc ]
+richbranson bets [$0.13]
+Pokeyeface calls [$0.13]
+** Dealing turn ** [ 6h ]
+richbranson bets [$0.30]
+Pokeyeface folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.44 ]
+
+
+#Game No : 499522819
+***** 888poker Hand History for Game 499522819 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:39:47
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.46 )
+Seat 7: richbranson ( $1.29 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+Pokeyeface calls [$0.04]
+** Dealing flop ** [ Ts, 6c, Td ]
+Pokeyeface checks
+richbranson checks
+** Dealing turn ** [ 7h ]
+Pokeyeface checks
+richbranson checks
+** Dealing river ** [ Ac ]
+Pokeyeface checks
+richbranson checks
+** Summary **
+Pokeyeface shows [ 9c, Js ]
+richbranson shows [ Jd, 9s ]
+richbranson collected [ $0.06 ]
+Pokeyeface collected [ $0.06 ]
+
+
+#Game No : 499522826
+***** 888poker Hand History for Game 499522826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:40:16
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.46 )
+Seat 7: richbranson ( $1.29 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 8c, 7h, 3d ]
+richbranson checks
+Pokeyeface bets [$0.02]
+richbranson folds
+** Summary **
+Pokeyeface did not show his hand
+Pokeyeface collected [ $0.04 ]
+
+
+#Game No : 499522833
+***** 888poker Hand History for Game 499522833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:40:39
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.48 )
+Seat 7: richbranson ( $1.27 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.09]
+Pokeyeface folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.04 ]
+
+
+#Game No : 499522835
+***** 888poker Hand History for Game 499522835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:40:48
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.46 )
+Seat 7: richbranson ( $1.29 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 7d, 7c, Ah ]
+richbranson checks
+Pokeyeface bets [$0.02]
+richbranson folds
+** Summary **
+Pokeyeface did not show his hand
+Pokeyeface collected [ $0.04 ]
+
+
+#Game No : 499522842
+***** 888poker Hand History for Game 499522842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:41:16
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.48 )
+Seat 7: richbranson ( $1.27 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+Pokeyeface did not show his hand
+Pokeyeface collected [ $0.03 ]
+
+
+#Game No : 499522845
+***** 888poker Hand History for Game 499522845 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:41:26
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.49 )
+Seat 7: richbranson ( $1.26 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Td, Qs, Jh ]
+richbranson checks
+Pokeyeface bets [$0.02]
+richbranson folds
+** Summary **
+Pokeyeface did not show his hand
+Pokeyeface collected [ $0.04 ]
+
+
+#Game No : 499522855
+***** 888poker Hand History for Game 499522855 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:41:54
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.51 )
+Seat 7: richbranson ( $1.24 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+Pokeyeface did not show his hand
+Pokeyeface collected [ $0.03 ]
+
+
+#Game No : 499522857
+***** 888poker Hand History for Game 499522857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:42:00
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.52 )
+Seat 7: richbranson ( $1.23 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Qs, 9c, Th ]
+richbranson bets [$0.04]
+Pokeyeface raises [$0.08]
+richbranson folds
+** Summary **
+Pokeyeface collected [ $0.12 ]
+
+
+#Game No : 499522862
+***** 888poker Hand History for Game 499522862 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:42:23
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $5.58 )
+Seat 7: richbranson ( $1.17 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.09]
+Pokeyeface raises [$0.18]
+richbranson calls [$0.10]
+** Dealing flop ** [ 7s, 3c, Ts ]
+Pokeyeface bets [$0.20]
+richbranson folds
+** Summary **
+Pokeyeface collected [ $0.38 ]
+
+
+#Game No : 499522896
+***** 888poker Hand History for Game 499522896 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:45:21
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $6.77 )
+Seat 7: richbranson ( $1 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.07]
+Pokeyeface calls [$0.06]
+** Dealing flop ** [ 9c, 7h, Js ]
+Pokeyeface checks
+richbranson bets [$0.10]
+Pokeyeface calls [$0.10]
+** Dealing turn ** [ 7s ]
+Pokeyeface checks
+richbranson bets [$0.24]
+Pokeyeface calls [$0.24]
+** Dealing river ** [ 2d ]
+Pokeyeface checks
+richbranson bets [$0.42]
+Pokeyeface raises [$0.84]
+richbranson calls [$0.16]
+** Summary **
+Pokeyeface shows [ 8c, Td ]
+richbranson shows [ Qc, Jc ]
+Pokeyeface collected [ $1.88 ]
+
+
+#Game No : 499522904
+***** 888poker Hand History for Game 499522904 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:46:04
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $7.65 )
+Seat 7: richbranson ( $1 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 4c, 4d, 4h ]
+richbranson checks
+Pokeyeface checks
+** Dealing turn ** [ Ks ]
+richbranson checks
+Pokeyeface checks
+** Dealing river ** [ Kd ]
+richbranson checks
+Pokeyeface bets [$0.20]
+richbranson folds
+** Summary **
+Pokeyeface collected [ $0.04 ]
+
+
+#Game No : 499522913
+***** 888poker Hand History for Game 499522913 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:46:34
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $7.67 )
+Seat 7: richbranson ( $1 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.09]
+Pokeyeface calls [$0.08]
+** Dealing flop ** [ 2d, Ah, 8s ]
+Pokeyeface bets [$0.10]
+richbranson folds
+** Summary **
+Pokeyeface collected [ $0.19 ]
+
+
+#Game No : 499522970
+***** 888poker Hand History for Game 499522970 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:50:53
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.25 )
+Seat 7: richbranson ( $1.53 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 2s, 3c, Js ]
+richbranson checks
+Pokeyeface checks
+** Dealing turn ** [ Qc ]
+richbranson checks
+Pokeyeface checks
+** Dealing river ** [ 4d ]
+richbranson checks
+Pokeyeface checks
+** Summary **
+richbranson shows [ 5h, 8d ]
+Pokeyeface shows [ 7d, Th ]
+Pokeyeface collected [ $0.04 ]
+
+
+#Game No : 499522975
+***** 888poker Hand History for Game 499522975 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:51:19
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.27 )
+Seat 7: richbranson ( $1.51 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+Pokeyeface raises [$0.08]
+richbranson calls [$0.04]
+** Dealing flop ** [ 4h, Qc, 4c ]
+Pokeyeface bets [$0.10]
+richbranson folds
+** Summary **
+Pokeyeface did not show his hand
+Pokeyeface collected [ $0.19 ]
+
+
+#Game No : 499522982
+***** 888poker Hand History for Game 499522982 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:51:41
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.36 )
+Seat 7: richbranson ( $1.41 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 6c, Td, Th ]
+richbranson checks
+Pokeyeface checks
+** Dealing turn ** [ 9h ]
+richbranson checks
+Pokeyeface checks
+** Dealing river ** [ Jd ]
+richbranson checks
+Pokeyeface bets [$0.40]
+richbranson folds
+** Summary **
+Pokeyeface did not show his hand
+Pokeyeface collected [ $0.04 ]
+
+
+#Game No : 499522990
+***** 888poker Hand History for Game 499522990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:52:12
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.38 )
+Seat 7: richbranson ( $1.39 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.07]
+Pokeyeface calls [$0.06]
+** Dealing flop ** [ 9s, Qd, Ts ]
+Pokeyeface checks
+richbranson checks
+** Dealing turn ** [ Qc ]
+Pokeyeface checks
+richbranson bets [$0.10]
+Pokeyeface calls [$0.10]
+** Dealing river ** [ 2c ]
+Pokeyeface checks
+richbranson checks
+** Summary **
+Pokeyeface shows [ 7d, Jc ]
+richbranson shows [ Kd, 9h ]
+richbranson collected [ $0.34 ]
+
+
+#Game No : 499522996
+***** 888poker Hand History for Game 499522996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:52:47
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.20 )
+Seat 7: richbranson ( $1.55 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 6d, 4d, 2h ]
+richbranson bets [$0.06]
+Pokeyeface calls [$0.06]
+** Dealing turn ** [ Ac ]
+richbranson bets [$0.16]
+Pokeyeface calls [$0.16]
+** Dealing river ** [ 3s ]
+richbranson checks
+Pokeyeface bets [$0.34]
+richbranson folds
+** Summary **
+Pokeyeface did not show his hand
+Pokeyeface collected [ $0.45 ]
+
+
+#Game No : 499523006
+***** 888poker Hand History for Game 499523006 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:53:32
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.41 )
+Seat 7: richbranson ( $1.31 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+Pokeyeface calls [$0.04]
+** Dealing flop ** [ Kc, 8s, 3s ]
+Pokeyeface checks
+richbranson checks
+** Dealing turn ** [ Qd ]
+Pokeyeface checks
+richbranson bets [$0.12]
+Pokeyeface folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.12 ]
+
+
+#Game No : 499523009
+***** 888poker Hand History for Game 499523009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:53:49
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.35 )
+Seat 7: richbranson ( $1.37 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 6d, Tc, Jd ]
+richbranson checks
+Pokeyeface checks
+** Dealing turn ** [ 6s ]
+richbranson bets [$0.12]
+Pokeyeface folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.04 ]
+
+
+#Game No : 499523015
+***** 888poker Hand History for Game 499523015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:54:11
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.33 )
+Seat 7: richbranson ( $1.39 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.11]
+Pokeyeface calls [$0.10]
+** Dealing flop ** [ Js, Kh, Ad ]
+Pokeyeface checks
+richbranson checks
+** Dealing turn ** [ Jh ]
+Pokeyeface checks
+richbranson checks
+** Dealing river ** [ 3h ]
+Pokeyeface bets [$0.24]
+richbranson folds
+** Summary **
+Pokeyeface collected [ $0.23 ]
+
+
+#Game No : 499523066
+***** 888poker Hand History for Game 499523066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:57:56
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.89 )
+Seat 7: richbranson ( $1.49 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson raises [$0.08]
+Pokeyeface folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.04 ]
+
+
+#Game No : 499523068
+***** 888poker Hand History for Game 499523068 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:58:10
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.87 )
+Seat 7: richbranson ( $1.51 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.07]
+Pokeyeface folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.04 ]
+
+
+#Game No : 499523071
+***** 888poker Hand History for Game 499523071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:58:20
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.85 )
+Seat 7: richbranson ( $1.53 )
+Pokeyeface posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface calls [$0.01]
+richbranson checks
+** Dealing flop ** [ As, Kh, Ac ]
+richbranson checks
+Pokeyeface checks
+** Dealing turn ** [ Qd ]
+richbranson checks
+Pokeyeface checks
+** Dealing river ** [ 5c ]
+richbranson checks
+Pokeyeface bets [$0.10]
+richbranson folds
+** Summary **
+Pokeyeface collected [ $0.04 ]
+
+
+#Game No : 499523077
+***** 888poker Hand History for Game 499523077 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 18:58:55
+Table Antwerp 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pokeyeface ( $8.87 )
+Seat 7: richbranson ( $1.51 )
+richbranson posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.09]
+Pokeyeface calls [$0.08]
+** Dealing flop ** [ 6c, Ac, 3s ]
+Pokeyeface bets [$0.10]
+richbranson calls [$0.10]
+** Dealing turn ** [ Ad ]
+Pokeyeface checks
+richbranson bets [$0.26]
+Pokeyeface calls [$0.26]
+** Dealing river ** [ 9h ]
+Pokeyeface checks
+richbranson checks
+** Summary **
+Pokeyeface shows [ 4d, As ]
+richbranson mucks [ Ks, 9d ]
+Pokeyeface collected [ $0.87 ]
+
+
+#Game No : 499523278
+***** 888poker Hand History for Game 499523278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 19:16:44
+Table Antwerp 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: spbspbmax ( $1.60 )
+Seat 6: Pokeyeface ( $10.16 )
+spbspbmax posts small blind [$0.01]
+Pokeyeface posts big blind [$0.02]
+** Dealing down cards **
+spbspbmax calls [$0.01]
+Pokeyeface checks
+** Dealing flop ** [ 7c, Qs, Ks ]
+Pokeyeface bets [$0.02]
+spbspbmax calls [$0.02]
+** Dealing turn ** [ 9s ]
+Pokeyeface checks
+spbspbmax checks
+** Dealing river ** [ 3s ]
+Pokeyeface bets [$0.10]
+spbspbmax calls [$0.10]
+** Summary **
+Pokeyeface shows [ Qd, 3c ]
+spbspbmax shows [ Ad, 6s ]
+spbspbmax collected [ $0.27 ]
+
+
+#Game No : 499523285
+***** 888poker Hand History for Game 499523285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 19:17:29
+Table Antwerp 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: spbspbmax ( $1.73 )
+Seat 6: Pokeyeface ( $10.02 )
+Pokeyeface posts small blind [$0.01]
+spbspbmax posts big blind [$0.02]
+** Dealing down cards **
+Pokeyeface raises [$0.09]
+spbspbmax folds
+** Summary **
+Pokeyeface collected [ $0.04 ]
+
+
+#Game No : 499524627
+***** 888poker Hand History for Game 499524627 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 21:21:18
+Table Antwerp 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: turron3618 ( $1.25 )
+Seat 9: BADUMAUA ( $1.01 )
+turron3618 posts small blind [$0.01]
+BADUMAUA posts big blind [$0.02]
+** Dealing down cards **
+turron3618 calls [$0.01]
+BADUMAUA checks
+** Dealing flop ** [ 4c, Ac, Ad ]
+BADUMAUA checks
+turron3618 checks
+** Dealing turn ** [ Kd ]
+BADUMAUA bets [$0.08]
+turron3618 calls [$0.08]
+** Dealing river ** [ 4h ]
+BADUMAUA bets [$0.10]
+turron3618 folds
+** Summary **
+BADUMAUA collected [ $0.19 ]
+
+
+#Game No : 499525468
+***** 888poker Hand History for Game 499525468 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 22:36:48
+Table Antwerp 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Lamira88 ( $1.44 )
+Seat 9: rapidograf ( $1.25 )
+Lamira88 posts small blind [$0.01]
+rapidograf posts big blind [$0.02]
+** Dealing down cards **
+Lamira88 folds
+** Summary **
+rapidograf did not show his hand
+rapidograf collected [ $0.03 ]
+
+
+#Game No : 499525472
+***** 888poker Hand History for Game 499525472 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 07 2018 22:36:57
+Table Antwerp 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Lamira88 ( $1.43 )
+Seat 9: rapidograf ( $1.26 )
+rapidograf posts small blind [$0.01]
+Lamira88 posts big blind [$0.02]
+** Dealing down cards **
+rapidograf raises [$0.05]
+Lamira88 folds
+** Summary **
+rapidograf did not show his hand
+rapidograf collected [ $0.04 ]
+
+

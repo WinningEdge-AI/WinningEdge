@@ -1,0 +1,355 @@
+#Game No : 501373572
+***** 888poker Hand History for Game 501373572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 23:33:09
+Table Groningen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: go_atirez ( $1.01 )
+Seat 9: EKA77.77 ( $0.94 )
+go_atirez posts small blind [$0.01]
+EKA77.77 posts big blind [$0.02]
+** Dealing down cards **
+go_atirez folds
+** Summary **
+EKA77.77 collected [ $0.03 ]
+
+
+#Game No : 501373577
+***** 888poker Hand History for Game 501373577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 08 2018 23:33:14
+Table Groningen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: go_atirez ( $1 )
+Seat 9: EKA77.77 ( $0.95 )
+EKA77.77 posts small blind [$0.01]
+go_atirez posts big blind [$0.02]
+** Dealing down cards **
+EKA77.77 calls [$0.01]
+go_atirez checks
+** Dealing flop ** [ 2d, 2h, 6c ]
+go_atirez checks
+EKA77.77 checks
+** Dealing turn ** [ 9h ]
+go_atirez bets [$0.04]
+EKA77.77 calls [$0.04]
+** Dealing river ** [ As ]
+go_atirez bets [$0.12]
+EKA77.77 calls [$0.12]
+** Summary **
+go_atirez shows [ 2c, 4c ]
+EKA77.77 mucks [ 4h, 9c ]
+go_atirez collected [ $0.34 ]
+
+
+#Game No : 501374893
+***** 888poker Hand History for Game 501374893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 00:24:47
+Table Groningen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: BRowe384 ( $0.22 )
+Seat 9: Jim_Hawkins ( $1.38 )
+Jim_Hawkins posts small blind [$0.01]
+BRowe384 posts big blind [$0.02]
+** Dealing down cards **
+Jim_Hawkins calls [$0.01]
+BRowe384 checks
+** Dealing flop ** [ 8h, 5s, 7d ]
+BRowe384 bets [$0.02]
+Jim_Hawkins calls [$0.02]
+** Dealing turn ** [ 9c ]
+BRowe384 bets [$0.05]
+Jim_Hawkins raises [$0.10]
+BRowe384 calls [$0.05]
+** Dealing river ** [ 6s ]
+BRowe384 checks
+Jim_Hawkins bets [$0.08]
+BRowe384 calls [$0.08]
+** Summary **
+BRowe384 shows [ 3c, Ah ]
+Jim_Hawkins shows [ Td, 6d ]
+Jim_Hawkins collected [ $0.42 ]
+
+
+#Game No : 501374961
+***** 888poker Hand History for Game 501374961 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 00:27:33
+Table Groningen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: zimboboy53 ( $0.80 )
+Seat 9: Jim_Hawkins ( $1.58 )
+Jim_Hawkins posts small blind [$0.01]
+zimboboy53 posts big blind [$0.02]
+** Dealing down cards **
+Jim_Hawkins calls [$0.01]
+zimboboy53 checks
+** Dealing flop ** [ Ad, 2c, Kh ]
+zimboboy53 checks
+Jim_Hawkins bets [$0.04]
+zimboboy53 folds
+** Summary **
+Jim_Hawkins collected [ $0.04 ]
+
+
+#Game No : 501374976
+***** 888poker Hand History for Game 501374976 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 00:28:02
+Table Groningen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: zimboboy53 ( $0.78 )
+Seat 9: Jim_Hawkins ( $1.60 )
+zimboboy53 posts small blind [$0.01]
+Jim_Hawkins posts big blind [$0.02]
+** Dealing down cards **
+zimboboy53 calls [$0.01]
+Jim_Hawkins checks
+** Dealing flop ** [ Th, 3d, Ad ]
+Jim_Hawkins checks
+zimboboy53 checks
+** Dealing turn ** [ Qh ]
+Jim_Hawkins checks
+zimboboy53 bets [$0.02]
+Jim_Hawkins calls [$0.02]
+** Dealing river ** [ 9h ]
+Jim_Hawkins checks
+zimboboy53 checks
+** Summary **
+Jim_Hawkins shows [ 5h, 4s ]
+zimboboy53 shows [ Qd, 6s ]
+zimboboy53 collected [ $0.08 ]
+
+
+#Game No : 501374992
+***** 888poker Hand History for Game 501374992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 00:28:41
+Table Groningen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: zimboboy53 ( $0.82 )
+Seat 9: Jim_Hawkins ( $1.56 )
+Jim_Hawkins posts small blind [$0.01]
+zimboboy53 posts big blind [$0.02]
+** Dealing down cards **
+Jim_Hawkins calls [$0.01]
+zimboboy53 raises [$0.04]
+Jim_Hawkins folds
+** Summary **
+zimboboy53 collected [ $0.04 ]
+
+
+#Game No : 501377510
+***** 888poker Hand History for Game 501377510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 01:51:11
+Table Groningen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: pinturiq ( $1.38 )
+Seat 4: GARALD84 ( $1.49 )
+pinturiq posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+pinturiq folds
+** Summary **
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 501377521
+***** 888poker Hand History for Game 501377521 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 01:51:30
+Table Groningen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pinturiq ( $1.37 )
+Seat 4: GARALD84 ( $1.50 )
+pinturiq posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+pinturiq folds
+** Summary **
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 501386081
+***** 888poker Hand History for Game 501386081 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 06:39:10
+Table Groningen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Ignasijo ( $1.54 )
+Seat 4: LAKidPoker ( $1.23 )
+LAKidPoker posts small blind [$0.01]
+Ignasijo posts big blind [$0.02]
+** Dealing down cards **
+LAKidPoker calls [$0.01]
+Ignasijo raises [$0.04]
+LAKidPoker calls [$0.04]
+** Dealing flop ** [ Kh, Ac, 2h ]
+Ignasijo bets [$0.08]
+LAKidPoker folds
+** Summary **
+Ignasijo collected [ $0.12 ]
+
+
+#Game No : 501391958
+***** 888poker Hand History for Game 501391958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 09:10:43
+Table Groningen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: shory1921 ( $1 )
+Seat 4: dr.House_ ( $1.01 )
+shory1921 posts small blind [$0.01]
+dr.House_ posts big blind [$0.02]
+** Dealing down cards **
+shory1921 raises [$0.05]
+dr.House_ folds
+** Summary **
+shory1921 collected [ $0.04 ]
+
+
+#Game No : 501392025
+***** 888poker Hand History for Game 501392025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 09:12:00
+Table Groningen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MisterJaran ( $1 )
+Seat 6: checker136 ( $0.80 )
+MisterJaran posts small blind [$0.01]
+checker136 posts big blind [$0.02]
+** Dealing down cards **
+MisterJaran raises [$0.03]
+checker136 calls [$0.02]
+** Dealing flop ** [ 9h, 3h, 5s ]
+checker136 checks
+MisterJaran checks
+** Dealing turn ** [ Jh ]
+checker136 bets [$0.08]
+MisterJaran folds
+** Summary **
+checker136 collected [ $0.08 ]
+
+
+#Game No : 501392047
+***** 888poker Hand History for Game 501392047 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 09:12:26
+Table Groningen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: MisterJaran ( $0.96 )
+Seat 6: checker136 ( $0.84 )
+checker136 posts small blind [$0.01]
+MisterJaran posts big blind [$0.02]
+** Dealing down cards **
+checker136 calls [$0.01]
+MisterJaran checks
+** Dealing flop ** [ 6d, As, Jc ]
+MisterJaran checks
+checker136 bets [$0.04]
+MisterJaran calls [$0.04]
+** Dealing turn ** [ 5c ]
+MisterJaran checks
+checker136 checks
+** Dealing river ** [ 5s ]
+MisterJaran checks
+checker136 checks
+** Summary **
+MisterJaran shows [ Th, Ks ]
+checker136 shows [ Kh, 7d ]
+MisterJaran collected [ $0.06 ]
+checker136 collected [ $0.06 ]
+
+
+#Game No : 501392580
+***** 888poker Hand History for Game 501392580 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 09:22:33
+Table Groningen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MisterJaran ( $2 )
+Seat 6: checker136 ( $0.52 )
+MisterJaran posts small blind [$0.01]
+checker136 posts big blind [$0.02]
+** Dealing down cards **
+MisterJaran raises [$0.03]
+checker136 calls [$0.02]
+** Dealing flop ** [ Ad, Th, 9s ]
+checker136 bets [$0.08]
+MisterJaran folds
+** Summary **
+checker136 collected [ $0.08 ]
+
+
+#Game No : 501392589
+***** 888poker Hand History for Game 501392589 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 09:22:48
+Table Groningen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: MisterJaran ( $1.96 )
+Seat 6: checker136 ( $0.56 )
+checker136 posts small blind [$0.01]
+MisterJaran posts big blind [$0.02]
+** Dealing down cards **
+checker136 raises [$0.03]
+MisterJaran folds
+** Summary **
+checker136 collected [ $0.04 ]
+
+
+#Game No : 501392607
+***** 888poker Hand History for Game 501392607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 09:23:08
+Table Groningen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: MisterJaran ( $1.95 )
+Seat 6: checker136 ( $0.57 )
+checker136 posts small blind [$0.01]
+MisterJaran posts big blind [$0.02]
+** Dealing down cards **
+checker136 folds
+** Summary **
+MisterJaran collected [ $0.03 ]
+
+
+#Game No : 501393324
+***** 888poker Hand History for Game 501393324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 09:37:32
+Table Groningen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: 3bet727 ( $2.08 )
+Seat 7: Jpascoe14 ( $0.93 )
+3bet727 posts small blind [$0.01]
+Jpascoe14 posts big blind [$0.02]
+** Dealing down cards **
+3bet727 folds
+** Summary **
+Jpascoe14 collected [ $0.03 ]
+
+
+#Game No : 501393336
+***** 888poker Hand History for Game 501393336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2018 09:37:45
+Table Groningen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: 3bet727 ( $2.07 )
+Seat 7: Jpascoe14 ( $0.94 )
+Jpascoe14 posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+Jpascoe14 calls [$0.01]
+3bet727 checks
+** Dealing flop ** [ Td, 5s, Kd ]
+3bet727 checks
+Jpascoe14 bets [$0.04]
+3bet727 folds
+** Summary **
+Jpascoe14 collected [ $0.04 ]
+
+

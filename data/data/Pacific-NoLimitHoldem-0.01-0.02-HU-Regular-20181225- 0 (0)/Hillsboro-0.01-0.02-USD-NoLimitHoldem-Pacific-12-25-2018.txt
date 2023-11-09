@@ -1,0 +1,492 @@
+#Game No : 1234338187
+***** 888poker Hand History for Game 1234338187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:30:30
+Table Hillsboro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AldanShilDim ( $1.91 )
+Seat 9: mur377 ( $2.04 )
+AldanShilDim posts small blind [$0.01]
+mur377 posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+mur377 collected [ $0.03 ]
+
+
+#Game No : 1234338283
+***** 888poker Hand History for Game 1234338283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:31:10
+Table Hillsboro 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AldanShilDim ( $1.90 )
+Seat 2: phil2580 ( $0.80 )
+phil2580 posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+phil2580 calls [$0.01]
+AldanShilDim checks
+** Dealing flop ** [ 7s, 8h, 6s ]
+AldanShilDim checks
+phil2580 checks
+** Dealing turn ** [ Js ]
+AldanShilDim checks
+phil2580 checks
+** Dealing river ** [ 2s ]
+AldanShilDim checks
+phil2580 checks
+** Summary **
+AldanShilDim shows [ 2c, Kd ]
+phil2580 mucks [ Kc, Qd ]
+AldanShilDim collected [ $0.04 ]
+
+
+#Game No : 1234338400
+***** 888poker Hand History for Game 1234338400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:31:55
+Table Hillsboro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AldanShilDim ( $1.92 )
+Seat 2: phil2580 ( $0.78 )
+AldanShilDim posts small blind [$0.01]
+phil2580 posts big blind [$0.02]
+** Dealing down cards **
+AldanShilDim folds
+** Summary **
+phil2580 collected [ $0.03 ]
+
+
+#Game No : 1234338442
+***** 888poker Hand History for Game 1234338442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:32:09
+Table Hillsboro 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AldanShilDim ( $1.91 )
+Seat 2: phil2580 ( $0.79 )
+phil2580 posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+phil2580 calls [$0.01]
+AldanShilDim checks
+** Dealing flop ** [ 4c, 8d, 2h ]
+AldanShilDim checks
+phil2580 checks
+** Dealing turn ** [ 9d ]
+AldanShilDim checks
+phil2580 checks
+** Dealing river ** [ Ad ]
+AldanShilDim checks
+phil2580 bets [$0.10]
+AldanShilDim folds
+** Summary **
+phil2580 collected [ $0.04 ]
+
+
+#Game No : 1234338539
+***** 888poker Hand History for Game 1234338539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:32:44
+Table Hillsboro 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: phil2580 ( $0.81 )
+Seat 6: Maztafari ( $1 )
+phil2580 posts small blind [$0.01]
+Maztafari posts big blind [$0.02]
+** Dealing down cards **
+phil2580 calls [$0.01]
+Maztafari checks
+** Dealing flop ** [ 7d, Kh, 2h ]
+Maztafari checks
+phil2580 checks
+** Dealing turn ** [ 5d ]
+Maztafari checks
+phil2580 checks
+** Dealing river ** [ 4s ]
+Maztafari bets [$0.02]
+phil2580 folds
+** Summary **
+Maztafari collected [ $0.04 ]
+
+
+#Game No : 1234340116
+***** 888poker Hand History for Game 1234340116 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:43:12
+Table Hillsboro 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: dybando ( $1.40 )
+Seat 7: Nostromo101 ( $0.80 )
+Nostromo101 posts small blind [$0.01]
+dybando posts big blind [$0.02]
+** Dealing down cards **
+Nostromo101 calls [$0.01]
+dybando checks
+** Dealing flop ** [ Js, As, Kc ]
+dybando checks
+Nostromo101 bets [$0.02]
+dybando calls [$0.02]
+** Dealing turn ** [ 8c ]
+dybando checks
+Nostromo101 bets [$0.08]
+dybando folds
+** Summary **
+Nostromo101 collected [ $0.08 ]
+
+
+#Game No : 1234340184
+***** 888poker Hand History for Game 1234340184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:43:41
+Table Hillsboro 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dybando ( $1.36 )
+Seat 7: Nostromo101 ( $0.84 )
+dybando posts small blind [$0.01]
+Nostromo101 posts big blind [$0.02]
+** Dealing down cards **
+dybando calls [$0.01]
+Nostromo101 checks
+** Dealing flop ** [ 6c, Qh, 5c ]
+Nostromo101 checks
+dybando bets [$0.04]
+Nostromo101 folds
+** Summary **
+dybando collected [ $0.04 ]
+
+
+#Game No : 1234340474
+***** 888poker Hand History for Game 1234340474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:45:33
+Table Hillsboro 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: simon.109 ( $1.15 )
+Seat 7: Nostromo101 ( $0.54 )
+simon.109 posts small blind [$0.01]
+Nostromo101 posts big blind [$0.02]
+** Dealing down cards **
+simon.109 calls [$0.01]
+Nostromo101 checks
+** Dealing flop ** [ 6d, 6h, Jd ]
+Nostromo101 checks
+simon.109 checks
+** Dealing turn ** [ 8h ]
+Nostromo101 checks
+simon.109 checks
+** Dealing river ** [ Qs ]
+Nostromo101 bets [$0.04]
+simon.109 raises [$0.14]
+Nostromo101 calls [$0.10]
+** Summary **
+simon.109 shows [ 5h, Qc ]
+Nostromo101 shows [ 2s, Qd ]
+Nostromo101 collected [ $0.15 ]
+simon.109 collected [ $0.15 ]
+
+
+#Game No : 1234340584
+***** 888poker Hand History for Game 1234340584 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:46:14
+Table Hillsboro 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: simon.109 ( $1.14 )
+Seat 7: Nostromo101 ( $0.53 )
+Nostromo101 posts small blind [$0.01]
+simon.109 posts big blind [$0.02]
+** Dealing down cards **
+Nostromo101 folds
+** Summary **
+simon.109 collected [ $0.03 ]
+
+
+#Game No : 1234342325
+***** 888poker Hand History for Game 1234342325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:57:01
+Table Hillsboro 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Nostromo101 ( $0.40 )
+Seat 9: Armata777 ( $1 )
+Armata777 posts small blind [$0.01]
+Nostromo101 posts big blind [$0.02]
+** Dealing down cards **
+Armata777 folds
+** Summary **
+Nostromo101 collected [ $0.03 ]
+
+
+#Game No : 1234342346
+***** 888poker Hand History for Game 1234342346 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:57:08
+Table Hillsboro 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Nostromo101 ( $0.41 )
+Seat 9: Armata777 ( $1 )
+Nostromo101 posts small blind [$0.01]
+Armata777 posts big blind [$0.02]
+** Dealing down cards **
+Nostromo101 calls [$0.01]
+Armata777 checks
+** Dealing flop ** [ 7d, 2d, Qc ]
+Armata777 checks
+Nostromo101 bets [$0.04]
+Armata777 calls [$0.04]
+** Dealing turn ** [ 8d ]
+Armata777 checks
+Nostromo101 bets [$0.06]
+Armata777 folds
+** Summary **
+Nostromo101 collected [ $0.12 ]
+
+
+#Game No : 1234342478
+***** 888poker Hand History for Game 1234342478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:57:58
+Table Hillsboro 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Nostromo101 ( $0.47 )
+Seat 9: Armata777 ( $1 )
+Armata777 posts small blind [$0.01]
+Nostromo101 posts big blind [$0.02]
+** Dealing down cards **
+Armata777 raises [$0.05]
+Nostromo101 folds
+** Summary **
+Armata777 collected [ $0.04 ]
+
+
+#Game No : 1234342508
+***** 888poker Hand History for Game 1234342508 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:58:11
+Table Hillsboro 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Nostromo101 ( $0.45 )
+Seat 9: Armata777 ( $1.02 )
+Nostromo101 posts small blind [$0.01]
+Armata777 posts big blind [$0.02]
+** Dealing down cards **
+Nostromo101 calls [$0.01]
+Armata777 checks
+** Dealing flop ** [ Qd, 9d, Th ]
+Armata777 bets [$0.02]
+Nostromo101 calls [$0.02]
+** Dealing turn ** [ 6c ]
+Armata777 bets [$0.04]
+Nostromo101 folds
+** Summary **
+Armata777 collected [ $0.08 ]
+
+
+#Game No : 1234342615
+***** 888poker Hand History for Game 1234342615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:58:44
+Table Hillsboro 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Nostromo101 ( $0.41 )
+Seat 9: Armata777 ( $1.06 )
+Armata777 posts small blind [$0.01]
+Nostromo101 posts big blind [$0.02]
+** Dealing down cards **
+Armata777 raises [$0.03]
+Nostromo101 folds
+** Summary **
+Armata777 collected [ $0.04 ]
+
+
+#Game No : 1234342642
+***** 888poker Hand History for Game 1234342642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:58:52
+Table Hillsboro 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Nostromo101 ( $0.39 )
+Seat 9: Armata777 ( $1.08 )
+Nostromo101 posts small blind [$0.01]
+Armata777 posts big blind [$0.02]
+** Dealing down cards **
+Nostromo101 calls [$0.01]
+Armata777 raises [$0.04]
+Nostromo101 calls [$0.04]
+** Dealing flop ** [ 7c, 8h, Kd ]
+Armata777 bets [$0.08]
+Nostromo101 calls [$0.08]
+** Dealing turn ** [ 8d ]
+Armata777 bets [$0.14]
+Nostromo101 folds
+** Summary **
+Armata777 collected [ $0.27 ]
+
+
+#Game No : 1234342744
+***** 888poker Hand History for Game 1234342744 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 16:59:30
+Table Hillsboro 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Nostromo101 ( $0.25 )
+Seat 9: Armata777 ( $1.21 )
+Armata777 posts small blind [$0.01]
+Nostromo101 posts big blind [$0.02]
+** Dealing down cards **
+Armata777 folds
+** Summary **
+Nostromo101 collected [ $0.03 ]
+
+
+#Game No : 1234342910
+***** 888poker Hand History for Game 1234342910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:00:31
+Table Hillsboro 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: cockernocker ( $1.24 )
+Seat 9: Armata777 ( $1.19 )
+Armata777 posts small blind [$0.01]
+cockernocker posts big blind [$0.02]
+** Dealing down cards **
+Armata777 raises [$0.03]
+cockernocker calls [$0.02]
+** Dealing flop ** [ Ks, Jc, 7d ]
+cockernocker bets [$0.06]
+Armata777 folds
+** Summary **
+cockernocker collected [ $0.08 ]
+
+
+#Game No : 1234343014
+***** 888poker Hand History for Game 1234343014 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:01:10
+Table Hillsboro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cockernocker ( $1.28 )
+Seat 9: Armata777 ( $1.15 )
+cockernocker posts small blind [$0.01]
+Armata777 posts big blind [$0.02]
+** Dealing down cards **
+cockernocker raises [$0.03]
+Armata777 folds
+** Summary **
+cockernocker collected [ $0.04 ]
+
+
+#Game No : 1234343050
+***** 888poker Hand History for Game 1234343050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:01:21
+Table Hillsboro 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: cockernocker ( $1.30 )
+Seat 9: Armata777 ( $1.13 )
+Armata777 posts small blind [$0.01]
+cockernocker posts big blind [$0.02]
+** Dealing down cards **
+Armata777 raises [$0.03]
+cockernocker calls [$0.02]
+** Dealing flop ** [ 6d, 7h, 4c ]
+cockernocker bets [$0.02]
+Armata777 raises [$0.06]
+cockernocker folds
+** Summary **
+Armata777 collected [ $0.12 ]
+
+
+#Game No : 1234343099
+***** 888poker Hand History for Game 1234343099 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:01:40
+Table Hillsboro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cockernocker ( $1.24 )
+Seat 9: Armata777 ( $1.19 )
+cockernocker posts small blind [$0.01]
+Armata777 posts big blind [$0.02]
+** Dealing down cards **
+cockernocker folds
+** Summary **
+Armata777 collected [ $0.03 ]
+
+
+#Game No : 1234343123
+***** 888poker Hand History for Game 1234343123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:01:46
+Table Hillsboro 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: cockernocker ( $1.23 )
+Seat 9: Armata777 ( $1.20 )
+Armata777 posts small blind [$0.01]
+cockernocker posts big blind [$0.02]
+** Dealing down cards **
+Armata777 folds
+** Summary **
+cockernocker collected [ $0.03 ]
+
+
+#Game No : 1234343143
+***** 888poker Hand History for Game 1234343143 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:01:55
+Table Hillsboro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cockernocker ( $1.24 )
+Seat 9: Armata777 ( $1.19 )
+cockernocker posts small blind [$0.01]
+Armata777 posts big blind [$0.02]
+** Dealing down cards **
+cockernocker calls [$0.01]
+Armata777 checks
+** Dealing flop ** [ Ks, Qd, 3d ]
+Armata777 checks
+cockernocker bets [$0.02]
+Armata777 folds
+** Summary **
+cockernocker collected [ $0.04 ]
+
+
+#Game No : 1234343195
+***** 888poker Hand History for Game 1234343195 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:02:12
+Table Hillsboro 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: cockernocker ( $1.26 )
+Seat 9: Armata777 ( $1.17 )
+Armata777 posts small blind [$0.01]
+cockernocker posts big blind [$0.02]
+** Dealing down cards **
+Armata777 raises [$0.03]
+cockernocker raises [$0.04]
+Armata777 calls [$0.02]
+** Dealing flop ** [ 4s, 2s, 3s ]
+cockernocker bets [$0.08]
+Armata777 folds
+** Summary **
+cockernocker did not show his hand
+cockernocker collected [ $0.12 ]
+
+
+#Game No : 1234343262
+***** 888poker Hand History for Game 1234343262 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 12 2018 17:02:39
+Table Hillsboro 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: cockernocker ( $1.32 )
+Seat 9: Armata777 ( $1.11 )
+cockernocker posts small blind [$0.01]
+** Dealing down cards **
+Armata777 folds
+** Summary **
+cockernocker did not show his hand
+cockernocker collected [ $0.01 ]
+
+

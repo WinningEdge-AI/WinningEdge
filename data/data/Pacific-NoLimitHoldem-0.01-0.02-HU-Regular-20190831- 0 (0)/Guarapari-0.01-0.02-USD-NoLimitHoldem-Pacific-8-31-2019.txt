@@ -1,0 +1,164 @@
+#Game No : 521171908
+***** 888poker Hand History for Game 521171908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2019 00:26:58
+Table Guarapari 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bang1102 ( $1.60 )
+Seat 4: Otago1 ( $1.61 )
+Bang1102 posts small blind [$0.01]
+Otago1 posts big blind [$0.02]
+** Dealing down cards **
+Bang1102 raises [$0.03]
+Otago1 calls [$0.02]
+** Dealing flop ** [ 6c, 5d, Qh ]
+Otago1 bets [$0.02]
+Bang1102 folds
+** Summary **
+Otago1 collected [ $0.08 ]
+
+
+#Game No : 521171910
+***** 888poker Hand History for Game 521171910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2019 00:27:02
+Table Guarapari 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Bang1102 ( $1.56 )
+Seat 4: Otago1 ( $1.65 )
+Otago1 posts small blind [$0.01]
+Bang1102 posts big blind [$0.02]
+** Dealing down cards **
+Otago1 calls [$0.01]
+Bang1102 checks
+** Dealing flop ** [ 7c, 4d, Tc ]
+Bang1102 bets [$0.02]
+Otago1 calls [$0.02]
+** Dealing turn ** [ 9s ]
+Bang1102 checks
+Otago1 bets [$0.02]
+Bang1102 folds
+** Summary **
+Otago1 collected [ $0.08 ]
+
+
+#Game No : 521171918
+***** 888poker Hand History for Game 521171918 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2019 00:27:20
+Table Guarapari 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 4: Otago1 ( $1.69 )
+Seat 6: izot74 ( $1.06 )
+Otago1 posts small blind [$0.01]
+izot74 posts big blind [$0.02]
+** Dealing down cards **
+Otago1 raises [$0.03]
+izot74 calls [$0.02]
+** Dealing flop ** [ 9c, 7d, 2d ]
+Otago1 bets [$0.02]
+izot74 raises [$0.04]
+Otago1 calls [$0.02]
+** Dealing turn ** [ Kc ]
+Otago1 checks
+izot74 bets [$0.02]
+Otago1 folds
+** Summary **
+izot74 did not show his hand
+izot74 collected [ $0.15 ]
+
+
+#Game No : 521171922
+***** 888poker Hand History for Game 521171922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2019 00:27:37
+Table Guarapari 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Otago1 ( $1.61 )
+Seat 6: izot74 ( $1.13 )
+Otago1 posts small blind [$0.01]
+izot74 posts big blind [$0.02]
+** Dealing down cards **
+Otago1 calls [$0.01]
+izot74 checks
+** Dealing flop ** [ Ac, 4s, 3h ]
+izot74 checks
+Otago1 bets [$0.04]
+izot74 folds
+** Summary **
+Otago1 did not show his hand
+Otago1 collected [ $0.04 ]
+
+
+#Game No : 521171930
+***** 888poker Hand History for Game 521171930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2019 00:28:03
+Table Guarapari 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Otago1 ( $1.63 )
+Seat 6: izot74 ( $1.11 )
+izot74 posts small blind [$0.01]
+Otago1 posts big blind [$0.02]
+** Dealing down cards **
+izot74 folds
+** Summary **
+Otago1 did not show his hand
+Otago1 collected [ $0.03 ]
+
+
+#Game No : 521171933
+***** 888poker Hand History for Game 521171933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2019 00:28:10
+Table Guarapari 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Otago1 ( $1.64 )
+Seat 6: izot74 ( $1.10 )
+Otago1 posts small blind [$0.01]
+izot74 posts big blind [$0.02]
+** Dealing down cards **
+Otago1 calls [$0.01]
+izot74 raises [$0.02]
+Otago1 calls [$0.02]
+** Dealing flop ** [ As, 8c, 6h ]
+izot74 bets [$0.02]
+Otago1 calls [$0.02]
+** Dealing turn ** [ 7h ]
+izot74 bets [$0.02]
+Otago1 calls [$0.02]
+** Dealing river ** [ 2s ]
+izot74 bets [$0.02]
+Otago1 calls [$0.02]
+** Summary **
+izot74 shows [ 9c, 7d ]
+Otago1 shows [ 9d, 8d ]
+Otago1 collected [ $0.19 ]
+
+
+#Game No : 521171938
+***** 888poker Hand History for Game 521171938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2019 00:28:30
+Table Guarapari 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Otago1 ( $1.73 )
+Seat 6: izot74 ( $1 )
+izot74 posts small blind [$0.01]
+Otago1 posts big blind [$0.02]
+** Dealing down cards **
+izot74 calls [$0.01]
+Otago1 checks
+** Dealing flop ** [ Td, Kh, Jh ]
+Otago1 bets [$0.02]
+izot74 raises [$0.04]
+Otago1 calls [$0.02]
+** Dealing turn ** [ Qh ]
+Otago1 checks
+izot74 bets [$0.04]
+Otago1 raises [$0.24]
+izot74 folds
+** Summary **
+Otago1 collected [ $0.19 ]
+
+

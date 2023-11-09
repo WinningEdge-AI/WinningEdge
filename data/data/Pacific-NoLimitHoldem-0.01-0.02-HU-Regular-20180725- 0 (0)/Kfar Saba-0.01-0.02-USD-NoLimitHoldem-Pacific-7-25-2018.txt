@@ -1,0 +1,152 @@
+#Game No : 505099210
+***** 888poker Hand History for Game 505099210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 01:09:45
+Table Kfar Saba 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VizkLion ( $3.45 )
+Seat 4: scs1914 ( $0.34 )
+VizkLion posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+VizkLion raises [$0.05]
+scs1914 calls [$0.04]
+** Dealing flop ** [ 8h, 6s, 2c ]
+scs1914 checks
+VizkLion checks
+** Dealing turn ** [ 2s ]
+scs1914 checks
+VizkLion checks
+** Dealing river ** [ Tc ]
+scs1914 bets [$0.04]
+VizkLion calls [$0.04]
+** Summary **
+scs1914 shows [ Th, 7d ]
+VizkLion mucks [ Ah, 7h ]
+scs1914 collected [ $0.19 ]
+
+
+#Game No : 505099221
+***** 888poker Hand History for Game 505099221 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 01:10:35
+Table Kfar Saba 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: VizkLion ( $3.35 )
+Seat 4: scs1914 ( $0.43 )
+scs1914 posts small blind [$0.01]
+VizkLion posts big blind [$0.02]
+** Dealing down cards **
+scs1914 raises [$0.03]
+VizkLion folds
+** Summary **
+scs1914 did not show his hand
+scs1914 collected [ $0.04 ]
+
+
+#Game No : 505099223
+***** 888poker Hand History for Game 505099223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 01:10:42
+Table Kfar Saba 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VizkLion ( $3.33 )
+Seat 4: scs1914 ( $0.45 )
+VizkLion posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+VizkLion raises [$0.03]
+scs1914 folds
+** Summary **
+VizkLion did not show his hand
+VizkLion collected [ $0.04 ]
+
+
+#Game No : 505099227
+***** 888poker Hand History for Game 505099227 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 01:11:01
+Table Kfar Saba 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: VizkLion ( $3.35 )
+Seat 4: scs1914 ( $0.43 )
+scs1914 posts small blind [$0.01]
+** Dealing down cards **
+VizkLion folds
+** Summary **
+scs1914 did not show his hand
+scs1914 collected [ $0.01 ]
+
+
+#Game No : 505099367
+***** 888poker Hand History for Game 505099367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 01:22:41
+Table Kfar Saba 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $0.79 )
+Seat 6: professor111 ( $0.81 )
+professor111 posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+professor111 calls [$0.01]
+scs1914 checks
+** Dealing flop ** [ Ks, 6h, Qs ]
+scs1914 checks
+professor111 checks
+** Dealing turn ** [ Ad ]
+scs1914 checks
+professor111 bets [$0.02]
+scs1914 folds
+** Summary **
+professor111 collected [ $0.04 ]
+
+
+#Game No : 505099370
+***** 888poker Hand History for Game 505099370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 01:22:53
+Table Kfar Saba 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $0.77 )
+Seat 6: professor111 ( $0.83 )
+scs1914 posts small blind [$0.01]
+professor111 posts big blind [$0.02]
+** Dealing down cards **
+scs1914 calls [$0.01]
+professor111 checks
+** Dealing flop ** [ 2d, 9d, 4h ]
+professor111 checks
+scs1914 checks
+** Dealing turn ** [ Td ]
+professor111 checks
+scs1914 bets [$0.02]
+professor111 folds
+** Summary **
+scs1914 collected [ $0.04 ]
+
+
+#Game No : 505099380
+***** 888poker Hand History for Game 505099380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 01:23:39
+Table Kfar Saba 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $0.97 )
+Seat 5: burna953 ( $0.60 )
+scs1914 posts small blind [$0.01]
+burna953 posts big blind [$0.02]
+** Dealing down cards **
+scs1914 calls [$0.01]
+burna953 checks
+** Dealing flop ** [ Ad, Ts, Th ]
+burna953 bets [$0.58]
+scs1914 calls [$0.58]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 9d ]
+** Summary **
+scs1914 shows [ Tc, Ks ]
+burna953 shows [ 4c, Jh ]
+scs1914 collected [ $1.13 ]
+
+

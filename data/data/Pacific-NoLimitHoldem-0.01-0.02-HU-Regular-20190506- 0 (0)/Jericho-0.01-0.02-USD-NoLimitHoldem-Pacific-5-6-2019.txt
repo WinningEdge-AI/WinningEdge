@@ -1,0 +1,132 @@
+#Game No : 530393971
+***** 888poker Hand History for Game 530393971 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 05 2019 05:50:23
+Table Jericho 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: eeexxxooo ( $1.05 )
+Seat 2: Skyluck11 ( $2.46 )
+Skyluck11 posts small blind [$0.01]
+eeexxxooo posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+eeexxxooo collected [ $0.03 ]
+
+
+#Game No : 530394208
+***** 888poker Hand History for Game 530394208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 05 2019 05:55:23
+Table Jericho 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: eeexxxooo ( $0.88 )
+Seat 6: ricardobluf ( $1.29 )
+ricardobluf posts small blind [$0.01]
+eeexxxooo posts big blind [$0.02]
+** Dealing down cards **
+ricardobluf raises [$0.07]
+eeexxxooo calls [$0.06]
+** Dealing flop ** [ Jc, Ac, Td ]
+ricardobluf bets [$0.08]
+eeexxxooo calls [$0.08]
+** Dealing turn ** [ Qs ]
+ricardobluf bets [$0.16]
+eeexxxooo calls [$0.16]
+** Dealing river ** [ 8d ]
+ricardobluf bets [$0.97]
+eeexxxooo folds
+** Summary **
+ricardobluf did not show his hand
+ricardobluf collected [ $0.60 ]
+
+
+#Game No : 530394241
+***** 888poker Hand History for Game 530394241 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 05 2019 05:56:12
+Table Jericho 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: eeexxxooo ( $0.80 )
+Seat 6: ricardobluf ( $1.57 )
+ricardobluf posts small blind [$0.01]
+** Dealing down cards **
+eeexxxooo folds
+** Summary **
+ricardobluf did not show his hand
+ricardobluf collected [ $0.01 ]
+
+
+#Game No : 530394266
+***** 888poker Hand History for Game 530394266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 05 2019 05:56:40
+Table Jericho 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: d.o.g.o.d ( $0.80 )
+Seat 4: ricardobluf ( $1.57 )
+ricardobluf posts small blind [$0.01]
+d.o.g.o.d posts big blind [$0.02]
+** Dealing down cards **
+ricardobluf calls [$0.01]
+d.o.g.o.d checks
+** Dealing flop ** [ 6s, Jh, Qs ]
+d.o.g.o.d bets [$0.02]
+ricardobluf folds
+** Summary **
+d.o.g.o.d did not show his hand
+d.o.g.o.d collected [ $0.04 ]
+
+
+#Game No : 530394282
+***** 888poker Hand History for Game 530394282 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 05 2019 05:57:00
+Table Jericho 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: d.o.g.o.d ( $0.82 )
+Seat 4: ricardobluf ( $1.55 )
+d.o.g.o.d posts small blind [$0.01]
+ricardobluf posts big blind [$0.02]
+** Dealing down cards **
+d.o.g.o.d raises [$0.03]
+ricardobluf calls [$0.02]
+** Dealing flop ** [ Tc, Jc, 4s ]
+ricardobluf checks
+d.o.g.o.d bets [$0.02]
+ricardobluf calls [$0.02]
+** Dealing turn ** [ Js ]
+ricardobluf checks
+d.o.g.o.d bets [$0.06]
+ricardobluf raises [$0.12]
+d.o.g.o.d calls [$0.06]
+** Dealing river ** [ 6c ]
+ricardobluf bets [$0.23]
+d.o.g.o.d calls [$0.23]
+** Summary **
+ricardobluf shows [ 8h, Jh ]
+d.o.g.o.d shows [ 9c, Jd ]
+d.o.g.o.d collected [ $0.77 ]
+
+
+#Game No : 530394333
+***** 888poker Hand History for Game 530394333 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 05 2019 05:58:19
+Table Jericho 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: d.o.g.o.d ( $1.18 )
+Seat 4: ricardobluf ( $1.14 )
+ricardobluf posts small blind [$0.01]
+d.o.g.o.d posts big blind [$0.02]
+** Dealing down cards **
+ricardobluf raises [$0.03]
+d.o.g.o.d calls [$0.02]
+** Dealing flop ** [ 6c, 8h, Ac ]
+d.o.g.o.d checks
+ricardobluf bets [$0.04]
+d.o.g.o.d folds
+** Summary **
+ricardobluf collected [ $0.08 ]
+
+

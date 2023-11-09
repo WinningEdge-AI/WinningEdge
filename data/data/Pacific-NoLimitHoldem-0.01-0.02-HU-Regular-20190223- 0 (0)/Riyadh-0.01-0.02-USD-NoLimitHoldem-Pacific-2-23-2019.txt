@@ -1,0 +1,54 @@
+#Game No : 616197187
+***** 888poker Hand History for Game 616197187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 03:13:03
+Table Riyadh 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dacula1431 ( $1.20 )
+Seat 5: Plushking14 ( $0.80 )
+Dacula1431 posts small blind [$0.01]
+Plushking14 posts big blind [$0.02]
+** Dealing down cards **
+Dacula1431 calls [$0.01]
+Plushking14 checks
+** Dealing flop ** [ 2d, 5c, Ad ]
+Plushking14 checks
+Dacula1431 checks
+** Dealing turn ** [ 8c ]
+Plushking14 bets [$0.02]
+Dacula1431 raises [$1.18]
+Plushking14 folds
+** Summary **
+Dacula1431 collected [ $0.08 ]
+
+
+#Game No : 616197208
+***** 888poker Hand History for Game 616197208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 03:13:44
+Table Riyadh 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Dacula1431 ( $1.24 )
+Seat 5: Plushking14 ( $0.76 )
+Plushking14 posts small blind [$0.01]
+Dacula1431 posts big blind [$0.02]
+** Dealing down cards **
+Plushking14 calls [$0.01]
+Dacula1431 checks
+** Dealing flop ** [ 6d, Jd, 4h ]
+Dacula1431 checks
+Plushking14 checks
+** Dealing turn ** [ Tc ]
+Dacula1431 checks
+Plushking14 bets [$0.04]
+Dacula1431 calls [$0.04]
+** Dealing river ** [ 2c ]
+Dacula1431 checks
+Plushking14 bets [$0.10]
+Dacula1431 calls [$0.10]
+** Summary **
+Plushking14 shows [ 5s, 7s ]
+Dacula1431 shows [ Ts, 8c ]
+Dacula1431 collected [ $0.30 ]
+
+

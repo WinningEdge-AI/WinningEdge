@@ -1,0 +1,58 @@
+#Game No : 1260142099
+***** 888poker Hand History for Game 1260142099 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 04 2019 01:10:19
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: lucky_crab ( $0.96 )
+Seat 6: OlegH1 ( $1.54 )
+OlegH1 posts small blind [$0.01]
+lucky_crab posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+lucky_crab folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 1260142111
+***** 888poker Hand History for Game 1260142111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 04 2019 01:10:26
+Table Harare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: lucky_crab ( $0.94 )
+Seat 6: OlegH1 ( $1.56 )
+lucky_crab posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+lucky_crab raises [$0.05]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ 3d, 6s, Qh ]
+OlegH1 checks
+lucky_crab checks
+** Dealing turn ** [ Ah ]
+OlegH1 checks
+lucky_crab bets [$0.08]
+OlegH1 folds
+** Summary **
+lucky_crab collected [ $0.12 ]
+
+
+#Game No : 1260142151
+***** 888poker Hand History for Game 1260142151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 04 2019 01:10:45
+Table Harare 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: lucky_crab ( $1 )
+Seat 6: OlegH1 ( $1.50 )
+OlegH1 posts small blind [$0.01]
+lucky_crab posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+lucky_crab folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+

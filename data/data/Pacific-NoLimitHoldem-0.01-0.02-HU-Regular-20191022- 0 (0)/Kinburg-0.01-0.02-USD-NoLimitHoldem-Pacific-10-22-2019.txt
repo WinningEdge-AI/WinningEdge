@@ -1,0 +1,80 @@
+#Game No : 1304033208
+***** 888poker Hand History for Game 1304033208 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 00:32:57
+Table Kinburg 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: TrickleBoast ( $2.02 )
+Seat 6: xolodd3 ( $0.78 )
+xolodd3 posts small blind [$0.01]
+TrickleBoast posts big blind [$0.02]
+** Dealing down cards **
+xolodd3 folds
+** Summary **
+TrickleBoast did not show his hand
+TrickleBoast collected [ $0.03 ]
+
+
+#Game No : 1304033225
+***** 888poker Hand History for Game 1304033225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 00:33:09
+Table Kinburg 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: TrickleBoast ( $2.03 )
+Seat 6: xolodd3 ( $0.77 )
+TrickleBoast posts small blind [$0.01]
+xolodd3 posts big blind [$0.02]
+** Dealing down cards **
+TrickleBoast folds
+** Summary **
+xolodd3 did not show his hand
+xolodd3 collected [ $0.03 ]
+
+
+#Game No : 1304033232
+***** 888poker Hand History for Game 1304033232 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 00:33:15
+Table Kinburg 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: TrickleBoast ( $2.02 )
+Seat 6: xolodd3 ( $0.78 )
+xolodd3 posts small blind [$0.01]
+TrickleBoast posts big blind [$0.02]
+** Dealing down cards **
+xolodd3 calls [$0.01]
+TrickleBoast checks
+** Dealing flop ** [ 9d, Jh, 6s ]
+TrickleBoast checks
+xolodd3 checks
+** Dealing turn ** [ 2c ]
+TrickleBoast bets [$0.04]
+xolodd3 calls [$0.04]
+** Dealing river ** [ 7d ]
+TrickleBoast checks
+xolodd3 bets [$0.02]
+TrickleBoast calls [$0.02]
+** Summary **
+xolodd3 shows [ Td, 6d ]
+TrickleBoast mucks [ 2h, Qh ]
+xolodd3 collected [ $0.15 ]
+
+
+#Game No : 1304033265
+***** 888poker Hand History for Game 1304033265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2019 00:33:43
+Table Kinburg 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: TrickleBoast ( $2 )
+Seat 6: xolodd3 ( $0.85 )
+TrickleBoast posts small blind [$0.01]
+xolodd3 posts big blind [$0.02]
+** Dealing down cards **
+TrickleBoast raises [$0.09]
+xolodd3 folds
+** Summary **
+TrickleBoast collected [ $0.04 ]
+
+

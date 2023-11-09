@@ -1,0 +1,85 @@
+#Game No : 526210908
+***** 888poker Hand History for Game 526210908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 13:51:35
+Table Chihuahua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Mmarilia ( $0.80 )
+Seat 9: Questus ( $1 )
+Mmarilia posts small blind [$0.01]
+Questus posts big blind [$0.02]
+** Dealing down cards **
+Mmarilia raises [$0.03]
+Questus calls [$0.02]
+** Dealing flop ** [ 3h, 7h, Qs ]
+Questus checks
+Mmarilia bets [$0.04]
+Questus folds
+** Summary **
+Mmarilia did not show his hand
+Mmarilia collected [ $0.08 ]
+
+
+#Game No : 526210941
+***** 888poker Hand History for Game 526210941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 13:51:59
+Table Chihuahua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Mmarilia ( $0.84 )
+Seat 9: Questus ( $0.96 )
+Questus posts small blind [$0.01]
+Mmarilia posts big blind [$0.02]
+** Dealing down cards **
+Questus calls [$0.01]
+Mmarilia raises [$0.04]
+Questus calls [$0.04]
+** Dealing flop ** [ 5h, 2c, 9c ]
+Mmarilia bets [$0.06]
+Questus calls [$0.06]
+** Dealing turn ** [ 5s ]
+Mmarilia bets [$0.12]
+Questus calls [$0.12]
+** Dealing river ** [ Ah ]
+Mmarilia checks
+Questus checks
+** Summary **
+Mmarilia shows [ 3h, 3s ]
+Questus mucks [ Tc, 2h ]
+Mmarilia collected [ $0.45 ]
+
+
+#Game No : 526215510
+***** 888poker Hand History for Game 526215510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 14:49:14
+Table Chihuahua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: sim6a ( $1.74 )
+Seat 7: CPSHH ( $2.07 )
+CPSHH posts small blind [$0.01]
+sim6a posts big blind [$0.02]
+** Dealing down cards **
+CPSHH raises [$0.05]
+sim6a folds
+** Summary **
+CPSHH did not show his hand
+CPSHH collected [ $0.04 ]
+
+
+#Game No : 526215537
+***** 888poker Hand History for Game 526215537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 14:49:35
+Table Chihuahua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: sim6a ( $1.72 )
+Seat 7: CPSHH ( $2.09 )
+CPSHH posts small blind [$0.01]
+** Dealing down cards **
+sim6a folds
+** Summary **
+CPSHH did not show his hand
+CPSHH collected [ $0.01 ]
+
+

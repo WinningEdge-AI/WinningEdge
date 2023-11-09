@@ -1,0 +1,867 @@
+#Game No : 819251
+***** 888poker Hand History for Game 819251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:30:02
+Table Reynosa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Lazerfloyd ( $2.43 )
+Seat 9: nathannaelly ( $1.06 )
+nathannaelly posts small blind [$0.01]
+Lazerfloyd posts big blind [$0.02]
+** Dealing down cards **
+nathannaelly calls [$0.01]
+Lazerfloyd checks
+** Dealing flop ** [ Kd, 6d, 7d ]
+Lazerfloyd bets [$0.02]
+nathannaelly folds
+** Summary **
+Lazerfloyd collected [ $0.04 ]
+
+
+#Game No : 819256
+***** 888poker Hand History for Game 819256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:32:13
+Table Reynosa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AlienfromVD ( $0.82 )
+Seat 4: Lazerfloyd ( $2.27 )
+Lazerfloyd posts small blind [$0.01]
+AlienfromVD posts big blind [$0.02]
+** Dealing down cards **
+Lazerfloyd folds
+** Summary **
+AlienfromVD did not show his hand
+AlienfromVD collected [ $0.03 ]
+
+
+#Game No : 819257
+***** 888poker Hand History for Game 819257 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:32:25
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: AlienfromVD ( $0.83 )
+Seat 4: Lazerfloyd ( $2.26 )
+Lazerfloyd posts small blind [$0.01]
+AlienfromVD posts big blind [$0.02]
+** Dealing down cards **
+Lazerfloyd calls [$0.01]
+AlienfromVD checks
+** Dealing flop ** [ 6h, Js, 5c ]
+AlienfromVD bets [$0.02]
+Lazerfloyd folds
+** Summary **
+AlienfromVD collected [ $0.04 ]
+
+
+#Game No : 819259
+***** 888poker Hand History for Game 819259 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:34:00
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: AlienfromVD ( $0.90 )
+Seat 6: kps55 ( $1.96 )
+kps55 posts small blind [$0.01]
+AlienfromVD posts big blind [$0.02]
+** Dealing down cards **
+kps55 calls [$0.01]
+AlienfromVD checks
+** Dealing flop ** [ 4c, 8c, Kd ]
+AlienfromVD checks
+kps55 checks
+** Dealing turn ** [ 2s ]
+AlienfromVD checks
+kps55 checks
+** Dealing river ** [ Js ]
+AlienfromVD bets [$0.02]
+kps55 folds
+** Summary **
+AlienfromVD collected [ $0.04 ]
+
+
+#Game No : 819267
+***** 888poker Hand History for Game 819267 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:36:17
+Table Reynosa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AlienfromVD ( $1.06 )
+Seat 6: kps55 ( $1.72 )
+AlienfromVD posts small blind [$0.01]
+kps55 posts big blind [$0.02]
+** Dealing down cards **
+AlienfromVD raises [$0.03]
+kps55 calls [$0.02]
+** Dealing flop ** [ 7d, Td, 6c ]
+kps55 bets [$0.04]
+AlienfromVD raises [$1.02]
+kps55 calls [$0.98]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ 3h ]
+** Summary **
+AlienfromVD shows [ Ks, Kc ]
+kps55 shows [ Qd, Qc ]
+AlienfromVD collected [ $1.99 ]
+
+
+#Game No : 819278
+***** 888poker Hand History for Game 819278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:41:27
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: FlyPuma ( $2 )
+Seat 7: WeeChode420 ( $0.80 )
+FlyPuma posts small blind [$0.01]
+WeeChode420 posts big blind [$0.02]
+** Dealing down cards **
+FlyPuma folds
+** Summary **
+WeeChode420 did not show his hand
+WeeChode420 collected [ $0.03 ]
+
+
+#Game No : 819280
+***** 888poker Hand History for Game 819280 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:41:41
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: FlyPuma ( $2 )
+Seat 7: WeeChode420 ( $0.81 )
+WeeChode420 posts small blind [$0.01]
+FlyPuma posts big blind [$0.02]
+** Dealing down cards **
+WeeChode420 calls [$0.01]
+FlyPuma raises [$0.06]
+WeeChode420 calls [$0.06]
+** Dealing flop ** [ 8c, Ad, Qs ]
+FlyPuma bets [$0.10]
+WeeChode420 raises [$0.20]
+FlyPuma calls [$0.10]
+** Dealing turn ** [ 6c ]
+FlyPuma checks
+WeeChode420 checks
+** Dealing river ** [ Qd ]
+FlyPuma checks
+WeeChode420 bets [$0.53]
+FlyPuma calls [$0.53]
+** Summary **
+FlyPuma shows [ Jh, Ah ]
+WeeChode420 shows [ 4h, As ]
+FlyPuma collected [ $1.52 ]
+
+
+#Game No : 819283
+***** 888poker Hand History for Game 819283 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:42:48
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: FlyPuma ( $2.71 )
+Seat 7: WeeChode420 ( $0.80 )
+FlyPuma posts small blind [$0.01]
+WeeChode420 posts big blind [$0.02]
+** Dealing down cards **
+FlyPuma raises [$0.05]
+WeeChode420 folds
+** Summary **
+FlyPuma did not show his hand
+FlyPuma collected [ $0.04 ]
+
+
+#Game No : 819284
+***** 888poker Hand History for Game 819284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:43:01
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: FlyPuma ( $2.73 )
+Seat 7: WeeChode420 ( $0.78 )
+WeeChode420 posts small blind [$0.01]
+FlyPuma posts big blind [$0.02]
+** Dealing down cards **
+WeeChode420 calls [$0.01]
+FlyPuma checks
+** Dealing flop ** [ 7h, 5h, Kc ]
+FlyPuma checks
+WeeChode420 checks
+** Dealing turn ** [ Tc ]
+FlyPuma checks
+WeeChode420 checks
+** Dealing river ** [ Kd ]
+FlyPuma checks
+WeeChode420 checks
+** Summary **
+FlyPuma shows [ 2h, Qc ]
+WeeChode420 shows [ 3h, Ah ]
+WeeChode420 collected [ $0.04 ]
+
+
+#Game No : 819287
+***** 888poker Hand History for Game 819287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:43:39
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: FlyPuma ( $2.71 )
+Seat 7: WeeChode420 ( $0.80 )
+FlyPuma posts small blind [$0.01]
+WeeChode420 posts big blind [$0.02]
+** Dealing down cards **
+FlyPuma folds
+** Summary **
+WeeChode420 did not show his hand
+WeeChode420 collected [ $0.03 ]
+
+
+#Game No : 819288
+***** 888poker Hand History for Game 819288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:43:44
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: FlyPuma ( $2.70 )
+Seat 7: WeeChode420 ( $0.81 )
+WeeChode420 posts small blind [$0.01]
+FlyPuma posts big blind [$0.02]
+** Dealing down cards **
+WeeChode420 raises [$0.03]
+FlyPuma folds
+** Summary **
+WeeChode420 did not show his hand
+WeeChode420 collected [ $0.04 ]
+
+
+#Game No : 819289
+***** 888poker Hand History for Game 819289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:44:01
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: FlyPuma ( $2.68 )
+Seat 7: WeeChode420 ( $0.83 )
+FlyPuma posts small blind [$0.01]
+WeeChode420 posts big blind [$0.02]
+** Dealing down cards **
+FlyPuma folds
+** Summary **
+WeeChode420 did not show his hand
+WeeChode420 collected [ $0.03 ]
+
+
+#Game No : 819290
+***** 888poker Hand History for Game 819290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:44:06
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: FlyPuma ( $2.67 )
+Seat 7: WeeChode420 ( $0.84 )
+WeeChode420 posts small blind [$0.01]
+FlyPuma posts big blind [$0.02]
+** Dealing down cards **
+WeeChode420 calls [$0.01]
+FlyPuma checks
+** Dealing flop ** [ 2h, 8h, 9s ]
+FlyPuma checks
+WeeChode420 checks
+** Dealing turn ** [ 6h ]
+FlyPuma checks
+WeeChode420 checks
+** Dealing river ** [ 2s ]
+FlyPuma checks
+WeeChode420 checks
+** Summary **
+FlyPuma shows [ Qd, 7h ]
+WeeChode420 shows [ Qc, 7d ]
+WeeChode420 collected [ $0.02 ]
+FlyPuma collected [ $0.02 ]
+
+
+#Game No : 819316
+***** 888poker Hand History for Game 819316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:51:29
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2.05 )
+Seat 7: speny49 ( $1.58 )
+hooha1172 posts small blind [$0.01]
+speny49 posts big blind [$0.02]
+** Dealing down cards **
+hooha1172 raises [$0.05]
+speny49 folds
+** Summary **
+hooha1172 collected [ $0.04 ]
+
+
+#Game No : 819317
+***** 888poker Hand History for Game 819317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:51:38
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2.07 )
+Seat 7: speny49 ( $1.56 )
+speny49 posts small blind [$0.01]
+hooha1172 posts big blind [$0.02]
+** Dealing down cards **
+speny49 calls [$0.01]
+hooha1172 checks
+** Dealing flop ** [ Ac, Qc, 5h ]
+hooha1172 bets [$0.02]
+speny49 calls [$0.02]
+** Dealing turn ** [ Qd ]
+hooha1172 bets [$0.04]
+speny49 calls [$0.04]
+** Dealing river ** [ 4d ]
+hooha1172 checks
+speny49 checks
+** Summary **
+hooha1172 shows [ 5c, 4s ]
+speny49 mucks [ Jc, 9c ]
+hooha1172 collected [ $0.15 ]
+
+
+#Game No : 819318
+***** 888poker Hand History for Game 819318 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:52:08
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2.14 )
+Seat 7: speny49 ( $1.48 )
+hooha1172 posts small blind [$0.01]
+speny49 posts big blind [$0.02]
+** Dealing down cards **
+hooha1172 raises [$0.05]
+speny49 calls [$0.04]
+** Dealing flop ** [ 3h, Ts, Qd ]
+speny49 bets [$0.02]
+hooha1172 calls [$0.02]
+** Dealing turn ** [ 8h ]
+speny49 bets [$0.02]
+hooha1172 calls [$0.02]
+** Dealing river ** [ 8d ]
+speny49 bets [$0.02]
+hooha1172 calls [$0.02]
+** Summary **
+speny49 shows [ 6c, Ad ]
+hooha1172 shows [ Ac, 4s ]
+speny49 collected [ $0.12 ]
+hooha1172 collected [ $0.11 ]
+
+
+#Game No : 819320
+***** 888poker Hand History for Game 819320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:52:41
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2.13 )
+Seat 7: speny49 ( $1.48 )
+speny49 posts small blind [$0.01]
+hooha1172 posts big blind [$0.02]
+** Dealing down cards **
+speny49 raises [$0.03]
+hooha1172 calls [$0.02]
+** Dealing flop ** [ 3h, 7h, 5d ]
+hooha1172 bets [$0.04]
+speny49 calls [$0.04]
+** Dealing turn ** [ Ah ]
+hooha1172 bets [$0.08]
+speny49 folds
+** Summary **
+hooha1172 collected [ $0.15 ]
+
+
+#Game No : 819321
+***** 888poker Hand History for Game 819321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:53:05
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2.20 )
+Seat 7: speny49 ( $1.40 )
+hooha1172 posts small blind [$0.01]
+speny49 posts big blind [$0.02]
+** Dealing down cards **
+hooha1172 raises [$0.05]
+speny49 calls [$0.04]
+** Dealing flop ** [ Th, 2c, 8d ]
+speny49 bets [$0.02]
+hooha1172 calls [$0.02]
+** Dealing turn ** [ Jd ]
+speny49 bets [$0.02]
+hooha1172 calls [$0.02]
+** Dealing river ** [ 3h ]
+speny49 bets [$0.04]
+hooha1172 calls [$0.04]
+** Summary **
+speny49 shows [ 7h, 7s ]
+hooha1172 mucks [ 6h, Ah ]
+speny49 collected [ $0.27 ]
+
+
+#Game No : 819324
+***** 888poker Hand History for Game 819324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:53:39
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2.06 )
+Seat 7: speny49 ( $1.53 )
+speny49 posts small blind [$0.01]
+hooha1172 posts big blind [$0.02]
+** Dealing down cards **
+speny49 calls [$0.01]
+hooha1172 raises [$0.04]
+speny49 folds
+** Summary **
+hooha1172 did not show his hand
+hooha1172 collected [ $0.04 ]
+
+
+#Game No : 819325
+***** 888poker Hand History for Game 819325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:53:55
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2.08 )
+Seat 7: speny49 ( $1.51 )
+hooha1172 posts small blind [$0.01]
+speny49 posts big blind [$0.02]
+** Dealing down cards **
+hooha1172 raises [$0.05]
+speny49 folds
+** Summary **
+hooha1172 did not show his hand
+hooha1172 collected [ $0.04 ]
+
+
+#Game No : 819326
+***** 888poker Hand History for Game 819326 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:54:06
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2.10 )
+Seat 7: speny49 ( $1.49 )
+speny49 posts small blind [$0.01]
+hooha1172 posts big blind [$0.02]
+** Dealing down cards **
+speny49 calls [$0.01]
+hooha1172 raises [$0.04]
+speny49 folds
+** Summary **
+hooha1172 did not show his hand
+hooha1172 collected [ $0.04 ]
+
+
+#Game No : 819328
+***** 888poker Hand History for Game 819328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:54:22
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2.12 )
+Seat 7: speny49 ( $1.47 )
+hooha1172 posts small blind [$0.01]
+speny49 posts big blind [$0.02]
+** Dealing down cards **
+hooha1172 raises [$0.05]
+speny49 calls [$0.04]
+** Dealing flop ** [ 4h, 9h, Kd ]
+speny49 checks
+hooha1172 bets [$0.06]
+speny49 calls [$0.06]
+** Dealing turn ** [ 5h ]
+speny49 checks
+hooha1172 bets [$0.12]
+speny49 raises [$0.24]
+hooha1172 folds
+** Summary **
+speny49 collected [ $0.45 ]
+
+
+#Game No : 819329
+***** 888poker Hand History for Game 819329 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 19:54:53
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: hooha1172 ( $2 )
+Seat 7: speny49 ( $1.68 )
+speny49 posts small blind [$0.01]
+hooha1172 posts big blind [$0.02]
+** Dealing down cards **
+speny49 raises [$0.03]
+hooha1172 calls [$0.02]
+** Dealing flop ** [ 5c, Ks, Ad ]
+hooha1172 checks
+speny49 bets [$0.02]
+hooha1172 folds
+** Summary **
+speny49 collected [ $0.08 ]
+
+
+#Game No : 819828
+***** 888poker Hand History for Game 819828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 23:41:48
+Table Reynosa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: DJL89 ( $2.65 )
+Seat 7: JungFu ( $2.03 )
+JungFu posts small blind [$0.01]
+DJL89 posts big blind [$0.02]
+** Dealing down cards **
+JungFu calls [$0.01]
+DJL89 checks
+** Dealing flop ** [ 9d, 2c, 5d ]
+DJL89 bets [$0.02]
+JungFu calls [$0.02]
+** Dealing turn ** [ 8h ]
+DJL89 checks
+JungFu bets [$0.04]
+DJL89 calls [$0.04]
+** Dealing river ** [ As ]
+DJL89 checks
+JungFu bets [$0.08]
+DJL89 folds
+** Summary **
+JungFu did not show his hand
+JungFu collected [ $0.15 ]
+
+
+#Game No : 819829
+***** 888poker Hand History for Game 819829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 23:42:55
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jj012195 ( $0.80 )
+Seat 6: H1SOKA ( $2 )
+H1SOKA posts small blind [$0.01]
+jj012195 posts big blind [$0.02]
+** Dealing down cards **
+H1SOKA raises [$0.03]
+jj012195 calls [$0.02]
+** Dealing flop ** [ Jd, 6h, 6d ]
+jj012195 checks
+H1SOKA bets [$0.04]
+jj012195 calls [$0.04]
+** Dealing turn ** [ Tc ]
+jj012195 folds
+** Summary **
+H1SOKA collected [ $0.15 ]
+
+
+#Game No : 819839
+***** 888poker Hand History for Game 819839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 23:46:23
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jj012195 ( $0.54 )
+Seat 6: H1SOKA ( $2.04 )
+jj012195 posts small blind [$0.01]
+H1SOKA posts big blind [$0.02]
+** Dealing down cards **
+jj012195 calls [$0.01]
+H1SOKA raises [$0.04]
+jj012195 calls [$0.04]
+** Dealing flop ** [ 8s, 2d, 5h ]
+H1SOKA bets [$0.07]
+jj012195 folds
+** Summary **
+H1SOKA did not show his hand
+H1SOKA collected [ $0.12 ]
+
+
+#Game No : 819840
+***** 888poker Hand History for Game 819840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2019 23:46:43
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jj012195 ( $0.48 )
+Seat 6: H1SOKA ( $2.10 )
+H1SOKA posts small blind [$0.01]
+jj012195 posts big blind [$0.02]
+** Dealing down cards **
+H1SOKA raises [$0.07]
+jj012195 calls [$0.06]
+** Dealing flop ** [ 8h, 5h, 2h ]
+jj012195 bets [$0.40]
+H1SOKA calls [$0.40]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ Jd ]
+** Summary **
+jj012195 shows [ 8d, 6c ]
+H1SOKA shows [ Ah, Js ]
+H1SOKA collected [ $0.90 ]
+
+
+#Game No : 819875
+***** 888poker Hand History for Game 819875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 00:06:11
+Table Reynosa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Stornes ( $2.04 )
+Seat 9: Oob_saibot ( $3.04 )
+Oob_saibot posts small blind [$0.01]
+Stornes posts big blind [$0.02]
+** Dealing down cards **
+Oob_saibot raises [$0.07]
+Stornes folds
+** Summary **
+Oob_saibot did not show his hand
+Oob_saibot collected [ $0.04 ]
+
+
+#Game No : 819876
+***** 888poker Hand History for Game 819876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 00:06:21
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Stornes ( $2.02 )
+Seat 9: Oob_saibot ( $3.06 )
+Stornes posts small blind [$0.01]
+** Dealing down cards **
+Oob_saibot folds
+** Summary **
+Stornes did not show his hand
+Stornes collected [ $0.01 ]
+
+
+#Game No : 819877
+***** 888poker Hand History for Game 819877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 00:07:13
+Table Reynosa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Didenok007 ( $2 )
+Seat 6: Stornes ( $2.02 )
+Didenok007 posts small blind [$0.01]
+Stornes posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 raises [$0.05]
+Stornes calls [$0.04]
+** Dealing flop ** [ Ks, Th, Kh ]
+Stornes checks
+Didenok007 checks
+** Dealing turn ** [ 7s ]
+Stornes checks
+Didenok007 checks
+** Dealing river ** [ Jd ]
+Stornes checks
+Didenok007 checks
+** Summary **
+Stornes shows [ 4d, 4c ]
+Didenok007 shows [ 6h, 6d ]
+Didenok007 collected [ $0.12 ]
+
+
+#Game No : 819878
+***** 888poker Hand History for Game 819878 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 00:07:42
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Didenok007 ( $2.06 )
+Seat 6: Stornes ( $2 )
+Stornes posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Stornes raises [$0.05]
+Didenok007 folds
+** Summary **
+Stornes collected [ $0.04 ]
+
+
+#Game No : 819879
+***** 888poker Hand History for Game 819879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 00:07:49
+Table Reynosa 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Didenok007 ( $2.04 )
+Seat 6: Stornes ( $2.02 )
+Didenok007 posts small blind [$0.01]
+Stornes posts big blind [$0.02]
+** Dealing down cards **
+Didenok007 folds
+** Summary **
+Stornes did not show his hand
+Stornes collected [ $0.03 ]
+
+
+#Game No : 819880
+***** 888poker Hand History for Game 819880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 00:07:55
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Didenok007 ( $2.03 )
+Seat 6: Stornes ( $2.03 )
+Stornes posts small blind [$0.01]
+Didenok007 posts big blind [$0.02]
+** Dealing down cards **
+Stornes folds
+** Summary **
+Didenok007 collected [ $0.03 ]
+
+
+#Game No : 820115
+***** 888poker Hand History for Game 820115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 02:05:40
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: NNNddd111 ( $4.72 )
+Seat 4: strider678 ( $2 )
+strider678 posts small blind [$0.01]
+NNNddd111 posts big blind [$0.02]
+** Dealing down cards **
+strider678 folds
+** Summary **
+NNNddd111 did not show his hand
+NNNddd111 collected [ $0.03 ]
+
+
+#Game No : 820116
+***** 888poker Hand History for Game 820116 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 02:05:47
+Table Reynosa 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: NNNddd111 ( $4.73 )
+Seat 4: strider678 ( $2 )
+NNNddd111 posts small blind [$0.01]
+strider678 posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 folds
+** Summary **
+strider678 did not show his hand
+strider678 collected [ $0.03 ]
+
+
+#Game No : 820154
+***** 888poker Hand History for Game 820154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 02:34:47
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bo1aH ( $2.21 )
+Seat 6: dayofpeace ( $0.70 )
+Bo1aH posts small blind [$0.01]
+dayofpeace posts big blind [$0.02]
+** Dealing down cards **
+Bo1aH folds
+** Summary **
+dayofpeace collected [ $0.03 ]
+
+
+#Game No : 820155
+***** 888poker Hand History for Game 820155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 02:34:53
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Bo1aH ( $2.20 )
+Seat 6: dayofpeace ( $0.71 )
+dayofpeace posts small blind [$0.01]
+Bo1aH posts big blind [$0.02]
+** Dealing down cards **
+dayofpeace calls [$0.01]
+Bo1aH checks
+** Dealing flop ** [ 8d, Td, 9d ]
+Bo1aH checks
+dayofpeace bets [$0.04]
+Bo1aH calls [$0.04]
+** Dealing turn ** [ Js ]
+Bo1aH checks
+dayofpeace bets [$0.08]
+Bo1aH raises [$0.16]
+dayofpeace calls [$0.08]
+** Dealing river ** [ 7d ]
+Bo1aH bets [$0.29]
+dayofpeace calls [$0.29]
+** Summary **
+Bo1aH shows [ Qd, 6c ]
+dayofpeace mucks [ 3s, Ts ]
+Bo1aH collected [ $0.96 ]
+
+
+#Game No : 820160
+***** 888poker Hand History for Game 820160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 02:36:26
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bo1aH ( $2.70 )
+Seat 6: dayofpeace ( $0.75 )
+Bo1aH posts small blind [$0.01]
+** Dealing down cards **
+dayofpeace folds
+** Summary **
+Bo1aH collected [ $0.01 ]
+
+
+#Game No : 820162
+***** 888poker Hand History for Game 820162 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 02:36:45
+Table Reynosa 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bo1aH ( $2.70 )
+Seat 6: dayofpeace ( $0.75 )
+Bo1aH posts small blind [$0.01]
+dayofpeace posts big blind [$0.02]
+** Dealing down cards **
+Bo1aH raises [$0.05]
+dayofpeace calls [$0.04]
+** Dealing flop ** [ 7h, Tc, 3c ]
+dayofpeace checks
+Bo1aH bets [$0.07]
+dayofpeace calls [$0.07]
+** Dealing turn ** [ Jh ]
+dayofpeace checks
+Bo1aH checks
+** Dealing river ** [ 6c ]
+dayofpeace checks
+Bo1aH checks
+** Summary **
+dayofpeace shows [ Qh, 3h ]
+Bo1aH shows [ 7s, Ah ]
+Bo1aH collected [ $0.25 ]
+
+
+#Game No : 820165
+***** 888poker Hand History for Game 820165 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2019 02:37:16
+Table Reynosa 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Bo1aH ( $2.82 )
+Seat 6: dayofpeace ( $0.62 )
+dayofpeace posts small blind [$0.01]
+Bo1aH posts big blind [$0.02]
+** Dealing down cards **
+dayofpeace calls [$0.01]
+Bo1aH checks
+** Dealing flop ** [ Th, Qc, 2s ]
+Bo1aH checks
+dayofpeace bets [$0.04]
+Bo1aH folds
+** Summary **
+dayofpeace collected [ $0.04 ]
+
+

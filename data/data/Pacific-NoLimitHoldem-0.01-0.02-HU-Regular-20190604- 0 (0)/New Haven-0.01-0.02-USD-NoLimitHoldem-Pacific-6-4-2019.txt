@@ -1,0 +1,67 @@
+#Game No : 532437989
+***** 888poker Hand History for Game 532437989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 04:29:43
+Table New Haven 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: elnomado19 ( $1.41 )
+Seat 2: LipaVit ( $1 )
+LipaVit posts small blind [$0.01]
+elnomado19 posts big blind [$0.02]
+** Dealing down cards **
+LipaVit raises [$0.05]
+elnomado19 raises [$0.08]
+LipaVit calls [$0.04]
+** Dealing flop ** [ 7c, 4h, 6s ]
+elnomado19 bets [$0.10]
+LipaVit folds
+** Summary **
+elnomado19 collected [ $0.19 ]
+
+
+#Game No : 532438336
+***** 888poker Hand History for Game 532438336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 04:37:03
+Table New Haven 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: elnomado19 ( $1.18 )
+Seat 9: GARALD84 ( $1.46 )
+GARALD84 posts small blind [$0.01]
+elnomado19 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+elnomado19 checks
+** Dealing flop ** [ Ac, Th, Ah ]
+elnomado19 checks
+GARALD84 bets [$0.02]
+elnomado19 calls [$0.02]
+** Dealing turn ** [ Kh ]
+elnomado19 checks
+GARALD84 checks
+** Dealing river ** [ 2s ]
+elnomado19 checks
+GARALD84 checks
+** Summary **
+elnomado19 shows [ 3s, Ad ]
+GARALD84 mucks [ 5h, Jd ]
+elnomado19 collected [ $0.08 ]
+
+
+#Game No : 532438360
+***** 888poker Hand History for Game 532438360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 04:37:36
+Table New Haven 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: elnomado19 ( $1.22 )
+Seat 9: GARALD84 ( $1.42 )
+elnomado19 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+elnomado19 raises [$0.05]
+GARALD84 folds
+** Summary **
+elnomado19 collected [ $0.04 ]
+
+

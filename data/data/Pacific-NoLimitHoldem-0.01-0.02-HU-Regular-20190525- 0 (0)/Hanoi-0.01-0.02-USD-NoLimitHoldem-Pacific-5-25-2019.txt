@@ -1,0 +1,31 @@
+#Game No : 620337688
+***** 888poker Hand History for Game 620337688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 02:30:29
+Table Hanoi 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Mikhail1997 ( $0.80 )
+Seat 4: Rio_Hls ( $1 )
+Rio_Hls posts small blind [$0.01]
+Mikhail1997 posts big blind [$0.02]
+** Dealing down cards **
+Rio_Hls raises [$0.03]
+Mikhail1997 calls [$0.02]
+** Dealing flop ** [ 8s, 2c, 8h ]
+Mikhail1997 checks
+Rio_Hls bets [$0.02]
+Mikhail1997 calls [$0.02]
+** Dealing turn ** [ 4d ]
+Mikhail1997 checks
+Rio_Hls bets [$0.04]
+Mikhail1997 calls [$0.04]
+** Dealing river ** [ 6c ]
+Mikhail1997 checks
+Rio_Hls bets [$0.10]
+Mikhail1997 calls [$0.10]
+** Summary **
+Rio_Hls shows [ 8d, As ]
+Mikhail1997 mucks [ Ah, Th ]
+Rio_Hls collected [ $0.38 ]
+
+

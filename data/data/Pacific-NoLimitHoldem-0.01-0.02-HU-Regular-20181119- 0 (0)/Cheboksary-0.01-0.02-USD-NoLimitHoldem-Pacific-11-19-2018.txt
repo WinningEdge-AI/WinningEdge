@@ -1,0 +1,200 @@
+#Game No : 505622348
+***** 888poker Hand History for Game 505622348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 15:59:37
+Table Cheboksary 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: kidfucion ( $1.07 )
+Seat 6: zerbba ( $0.74 )
+zerbba posts small blind [$0.01]
+kidfucion posts big blind [$0.02]
+** Dealing down cards **
+zerbba calls [$0.01]
+kidfucion checks
+** Dealing flop ** [ 3d, 4c, 4h ]
+kidfucion checks
+zerbba bets [$0.04]
+kidfucion folds
+** Summary **
+zerbba collected [ $0.04 ]
+
+
+#Game No : 505622367
+***** 888poker Hand History for Game 505622367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 16:00:20
+Table Cheboksary 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kidfucion ( $1.05 )
+Seat 6: zerbba ( $0.76 )
+kidfucion posts small blind [$0.01]
+zerbba posts big blind [$0.02]
+** Dealing down cards **
+kidfucion folds
+** Summary **
+zerbba collected [ $0.03 ]
+
+
+#Game No : 505622369
+***** 888poker Hand History for Game 505622369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 16:00:27
+Table Cheboksary 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: kidfucion ( $1.04 )
+Seat 6: zerbba ( $0.77 )
+zerbba posts small blind [$0.01]
+kidfucion posts big blind [$0.02]
+** Dealing down cards **
+zerbba calls [$0.01]
+kidfucion checks
+** Dealing flop ** [ 3h, 3s, 6s ]
+kidfucion checks
+zerbba checks
+** Dealing turn ** [ 3c ]
+kidfucion bets [$0.02]
+zerbba calls [$0.02]
+** Dealing river ** [ Ks ]
+kidfucion bets [$0.05]
+zerbba calls [$0.05]
+** Summary **
+kidfucion shows [ Jc, 6h ]
+zerbba mucks [ Qs, 8h ]
+kidfucion collected [ $0.17 ]
+
+
+#Game No : 505622408
+***** 888poker Hand History for Game 505622408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 16:01:59
+Table Cheboksary 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: kidfucion ( $1.10 )
+Seat 6: zerbba ( $0.70 )
+zerbba posts small blind [$0.01]
+kidfucion posts big blind [$0.02]
+** Dealing down cards **
+zerbba calls [$0.01]
+kidfucion raises [$0.04]
+zerbba raises [$0.10]
+kidfucion calls [$0.06]
+** Dealing flop ** [ Js, 5h, Jh ]
+kidfucion checks
+zerbba checks
+** Dealing turn ** [ 4c ]
+kidfucion checks
+zerbba bets [$0.16]
+kidfucion folds
+** Summary **
+zerbba collected [ $0.23 ]
+
+
+#Game No : 516389904
+***** 888poker Hand History for Game 516389904 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 18:28:46
+Table Cheboksary 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AxlRubber ( $2 )
+Seat 2: baute343 ( $1.75 )
+AxlRubber posts small blind [$0.01]
+baute343 posts big blind [$0.02]
+** Dealing down cards **
+AxlRubber calls [$0.01]
+baute343 checks
+** Dealing flop ** [ Qc, 9s, 2c ]
+baute343 bets [$0.02]
+AxlRubber raises [$0.04]
+baute343 folds
+** Summary **
+AxlRubber did not show his hand
+AxlRubber collected [ $0.08 ]
+
+
+#Game No : 516389916
+***** 888poker Hand History for Game 516389916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 18:29:11
+Table Cheboksary 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AxlRubber ( $2.04 )
+Seat 2: baute343 ( $1.71 )
+baute343 posts small blind [$0.01]
+AxlRubber posts big blind [$0.02]
+** Dealing down cards **
+baute343 calls [$0.01]
+AxlRubber checks
+** Dealing flop ** [ Th, 7s, 5d ]
+AxlRubber bets [$0.02]
+baute343 raises [$0.04]
+AxlRubber folds
+** Summary **
+baute343 did not show his hand
+baute343 collected [ $0.08 ]
+
+
+#Game No : 516389941
+***** 888poker Hand History for Game 516389941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 18:29:38
+Table Cheboksary 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AxlRubber ( $2 )
+Seat 2: baute343 ( $1.75 )
+AxlRubber posts small blind [$0.01]
+baute343 posts big blind [$0.02]
+** Dealing down cards **
+AxlRubber calls [$0.01]
+baute343 raises [$0.02]
+AxlRubber calls [$0.02]
+** Dealing flop ** [ 7s, 8c, 4s ]
+baute343 bets [$0.02]
+AxlRubber raises [$0.04]
+baute343 calls [$0.02]
+** Dealing turn ** [ 5c ]
+baute343 bets [$0.02]
+AxlRubber raises [$0.04]
+baute343 calls [$0.02]
+** Dealing river ** [ Tc ]
+baute343 checks
+AxlRubber bets [$0.24]
+baute343 raises [$0.48]
+AxlRubber calls [$0.24]
+** Summary **
+baute343 shows [ Jh, 9h ]
+AxlRubber mucks [ 8d, Td ]
+baute343 collected [ $1.13 ]
+
+
+#Game No : 516458655
+***** 888poker Hand History for Game 516458655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 15:27:41
+Table Cheboksary 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: megda888 ( $2.12 )
+Seat 9: Mirajim ( $2.04 )
+Mirajim posts small blind [$0.01]
+megda888 posts big blind [$0.02]
+** Dealing down cards **
+Mirajim raises [$0.05]
+megda888 folds
+** Summary **
+Mirajim collected [ $0.04 ]
+
+
+#Game No : 516458671
+***** 888poker Hand History for Game 516458671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 15:27:50
+Table Cheboksary 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: megda888 ( $2.10 )
+Seat 9: Mirajim ( $2.06 )
+megda888 posts small blind [$0.01]
+** Dealing down cards **
+Mirajim folds
+** Summary **
+megda888 collected [ $0.01 ]
+
+

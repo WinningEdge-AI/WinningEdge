@@ -1,0 +1,129 @@
+#Game No : 1250934353
+***** 888poker Hand History for Game 1250934353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 12:12:33
+Table Plzen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: orion_9 ( $2.05 )
+Seat 5: leva60rus ( $1.31 )
+leva60rus posts small blind [$0.01]
+** Dealing down cards **
+orion_9 folds
+** Summary **
+leva60rus collected [ $0.01 ]
+
+
+#Game No : 1250934390
+***** 888poker Hand History for Game 1250934390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 12:12:38
+Table Plzen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: leva60rus ( $1.31 )
+Seat 9: timtim1306 ( $2 )
+leva60rus posts small blind [$0.01]
+timtim1306 posts big blind [$0.02]
+** Dealing down cards **
+leva60rus folds
+** Summary **
+timtim1306 collected [ $0.03 ]
+
+
+#Game No : 1250934525
+***** 888poker Hand History for Game 1250934525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 12:13:07
+Table Plzen 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: leva60rus ( $1.30 )
+Seat 9: timtim1306 ( $2.01 )
+timtim1306 posts small blind [$0.01]
+leva60rus posts big blind [$0.02]
+** Dealing down cards **
+timtim1306 calls [$0.01]
+leva60rus checks
+** Dealing flop ** [ 3c, Jd, 2c ]
+leva60rus bets [$0.02]
+timtim1306 calls [$0.02]
+** Dealing turn ** [ Jh ]
+leva60rus bets [$0.02]
+timtim1306 calls [$0.02]
+** Dealing river ** [ Td ]
+leva60rus bets [$0.02]
+timtim1306 calls [$0.02]
+** Summary **
+leva60rus shows [ Ad, 2d ]
+timtim1306 shows [ Ah, Tc ]
+timtim1306 collected [ $0.15 ]
+
+
+#Game No : 1250934681
+***** 888poker Hand History for Game 1250934681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 12:13:38
+Table Plzen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: leva60rus ( $1.22 )
+Seat 9: timtim1306 ( $2.08 )
+leva60rus posts small blind [$0.01]
+timtim1306 posts big blind [$0.02]
+** Dealing down cards **
+leva60rus calls [$0.01]
+timtim1306 checks
+** Dealing flop ** [ 2s, 8h, 3d ]
+timtim1306 bets [$0.04]
+leva60rus calls [$0.04]
+** Dealing turn ** [ 6s ]
+timtim1306 bets [$0.06]
+leva60rus calls [$0.06]
+** Dealing river ** [ Kd ]
+timtim1306 bets [$0.12]
+leva60rus calls [$0.12]
+** Summary **
+timtim1306 shows [ Qh, Qd ]
+leva60rus shows [ 6h, 3h ]
+leva60rus collected [ $0.45 ]
+
+
+#Game No : 1250988703
+***** 888poker Hand History for Game 1250988703 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 15:43:23
+Table Plzen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: dominga1850 ( $2.83 )
+Seat 7: PartySer ( $2.45 )
+PartySer posts small blind [$0.01]
+dominga1850 posts big blind [$0.02]
+** Dealing down cards **
+PartySer raises [$0.04]
+dominga1850 calls [$0.03]
+** Dealing flop ** [ 4d, As, 7h ]
+dominga1850 checks
+PartySer checks
+** Dealing turn ** [ 6c ]
+dominga1850 checks
+PartySer checks
+** Dealing river ** [ Js ]
+dominga1850 folds
+** Summary **
+PartySer did not show his hand
+PartySer collected [ $0.10 ]
+
+
+#Game No : 1250988858
+***** 888poker Hand History for Game 1250988858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 15:44:11
+Table Plzen 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dominga1850 ( $2.78 )
+Seat 7: PartySer ( $2.50 )
+dominga1850 posts small blind [$0.01]
+** Dealing down cards **
+PartySer folds
+** Summary **
+dominga1850 did not show his hand
+dominga1850 collected [ $0.01 ]
+
+

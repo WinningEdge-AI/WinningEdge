@@ -1,0 +1,893 @@
+#Game No : 523350020
+***** 888poker Hand History for Game 523350020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:25:29
+Table Ogden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: snarfoldito ( $1.42 )
+Seat 4: bymer06 ( $0.80 )
+bymer06 posts small blind [$0.01]
+snarfoldito posts big blind [$0.02]
+** Dealing down cards **
+bymer06 raises [$0.05]
+snarfoldito folds
+** Summary **
+bymer06 collected [ $0.04 ]
+
+
+#Game No : 523350022
+***** 888poker Hand History for Game 523350022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:25:39
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: snarfoldito ( $1.40 )
+Seat 4: bymer06 ( $0.82 )
+snarfoldito posts small blind [$0.01]
+bymer06 posts big blind [$0.02]
+** Dealing down cards **
+snarfoldito calls [$0.01]
+bymer06 checks
+** Dealing flop ** [ 6c, Qs, Kc ]
+bymer06 checks
+snarfoldito checks
+** Dealing turn ** [ 5s ]
+bymer06 checks
+snarfoldito checks
+** Dealing river ** [ Qh ]
+bymer06 checks
+snarfoldito checks
+** Summary **
+bymer06 shows [ 7c, As ]
+snarfoldito shows [ Ah, Js ]
+snarfoldito collected [ $0.04 ]
+
+
+#Game No : 523350042
+***** 888poker Hand History for Game 523350042 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:26:05
+Table Ogden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: snarfoldito ( $1.42 )
+Seat 4: bymer06 ( $0.80 )
+bymer06 posts small blind [$0.01]
+snarfoldito posts big blind [$0.02]
+** Dealing down cards **
+bymer06 raises [$0.05]
+snarfoldito calls [$0.04]
+** Dealing flop ** [ 7s, 7h, 3d ]
+snarfoldito checks
+bymer06 checks
+** Dealing turn ** [ 7c ]
+snarfoldito bets [$0.04]
+bymer06 folds
+** Summary **
+snarfoldito collected [ $0.12 ]
+
+
+#Game No : 523350198
+***** 888poker Hand History for Game 523350198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:29:17
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SergeyVdovic ( $0.79 )
+Seat 7: sunjoy51 ( $1.08 )
+SergeyVdovic posts small blind [$0.01]
+sunjoy51 posts big blind [$0.02]
+** Dealing down cards **
+SergeyVdovic calls [$0.01]
+sunjoy51 checks
+** Dealing flop ** [ 8d, Td, Jd ]
+sunjoy51 checks
+SergeyVdovic checks
+** Dealing turn ** [ 2s ]
+sunjoy51 checks
+SergeyVdovic checks
+** Dealing river ** [ 8s ]
+sunjoy51 checks
+SergeyVdovic checks
+** Summary **
+sunjoy51 shows [ 3d, Kh ]
+SergeyVdovic mucks [ 5s, 7h ]
+sunjoy51 collected [ $0.04 ]
+
+
+#Game No : 523350223
+***** 888poker Hand History for Game 523350223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:29:50
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SergeyVdovic ( $0.77 )
+Seat 7: sunjoy51 ( $1.10 )
+sunjoy51 posts small blind [$0.01]
+SergeyVdovic posts big blind [$0.02]
+** Dealing down cards **
+sunjoy51 calls [$0.01]
+SergeyVdovic checks
+** Dealing flop ** [ 5c, 2c, Qh ]
+SergeyVdovic bets [$0.02]
+sunjoy51 calls [$0.02]
+** Dealing turn ** [ Qs ]
+SergeyVdovic bets [$0.02]
+sunjoy51 calls [$0.02]
+** Dealing river ** [ 6h ]
+SergeyVdovic bets [$0.24]
+sunjoy51 folds
+** Summary **
+SergeyVdovic did not show his hand
+SergeyVdovic collected [ $0.12 ]
+
+
+#Game No : 523350239
+***** 888poker Hand History for Game 523350239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:30:18
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SergeyVdovic ( $0.83 )
+Seat 7: sunjoy51 ( $1.04 )
+SergeyVdovic posts small blind [$0.01]
+sunjoy51 posts big blind [$0.02]
+** Dealing down cards **
+SergeyVdovic raises [$0.03]
+sunjoy51 folds
+** Summary **
+SergeyVdovic did not show his hand
+SergeyVdovic collected [ $0.04 ]
+
+
+#Game No : 523350244
+***** 888poker Hand History for Game 523350244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:30:27
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SergeyVdovic ( $0.85 )
+Seat 7: sunjoy51 ( $1.02 )
+sunjoy51 posts small blind [$0.01]
+SergeyVdovic posts big blind [$0.02]
+** Dealing down cards **
+sunjoy51 calls [$0.01]
+SergeyVdovic checks
+** Dealing flop ** [ Ah, 5c, Jd ]
+SergeyVdovic bets [$0.02]
+sunjoy51 folds
+** Summary **
+SergeyVdovic did not show his hand
+SergeyVdovic collected [ $0.04 ]
+
+
+#Game No : 523350253
+***** 888poker Hand History for Game 523350253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:30:39
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SergeyVdovic ( $0.87 )
+Seat 7: sunjoy51 ( $1 )
+SergeyVdovic posts small blind [$0.01]
+sunjoy51 posts big blind [$0.02]
+** Dealing down cards **
+SergeyVdovic calls [$0.01]
+sunjoy51 checks
+** Dealing flop ** [ 7h, 6c, 5d ]
+sunjoy51 bets [$0.02]
+SergeyVdovic calls [$0.02]
+** Dealing turn ** [ Qd ]
+sunjoy51 bets [$0.02]
+SergeyVdovic calls [$0.02]
+** Dealing river ** [ 4c ]
+sunjoy51 bets [$0.02]
+SergeyVdovic folds
+** Summary **
+sunjoy51 did not show his hand
+sunjoy51 collected [ $0.12 ]
+
+
+#Game No : 523350275
+***** 888poker Hand History for Game 523350275 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:31:03
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SergeyVdovic ( $0.81 )
+Seat 7: sunjoy51 ( $1.06 )
+sunjoy51 posts small blind [$0.01]
+SergeyVdovic posts big blind [$0.02]
+** Dealing down cards **
+sunjoy51 folds
+** Summary **
+SergeyVdovic did not show his hand
+SergeyVdovic collected [ $0.03 ]
+
+
+#Game No : 523350280
+***** 888poker Hand History for Game 523350280 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:31:09
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SergeyVdovic ( $0.82 )
+Seat 7: sunjoy51 ( $1.05 )
+SergeyVdovic posts small blind [$0.01]
+sunjoy51 posts big blind [$0.02]
+** Dealing down cards **
+SergeyVdovic calls [$0.01]
+sunjoy51 checks
+** Dealing flop ** [ Jh, Ad, 2c ]
+sunjoy51 checks
+SergeyVdovic bets [$0.02]
+sunjoy51 calls [$0.02]
+** Dealing turn ** [ 9c ]
+sunjoy51 checks
+SergeyVdovic bets [$0.02]
+sunjoy51 calls [$0.02]
+** Dealing river ** [ Qd ]
+sunjoy51 checks
+SergeyVdovic bets [$0.08]
+sunjoy51 folds
+** Summary **
+SergeyVdovic collected [ $0.12 ]
+
+
+#Game No : 523350339
+***** 888poker Hand History for Game 523350339 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 02:32:39
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SergeyVdovic ( $0.88 )
+Seat 9: Malik_Malik ( $0.80 )
+SergeyVdovic posts small blind [$0.01]
+Malik_Malik posts big blind [$0.02]
+** Dealing down cards **
+SergeyVdovic calls [$0.01]
+Malik_Malik checks
+** Dealing flop ** [ Kh, 4h, Qd ]
+Malik_Malik bets [$0.78]
+SergeyVdovic folds
+** Summary **
+Malik_Malik collected [ $0.04 ]
+
+
+#Game No : 523352014
+***** 888poker Hand History for Game 523352014 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:08:12
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Scarbac13 ( $2.56 )
+Seat 6: SlikvsSlik ( $1.10 )
+SlikvsSlik posts small blind [$0.01]
+Scarbac13 posts big blind [$0.02]
+** Dealing down cards **
+SlikvsSlik folds
+** Summary **
+Scarbac13 collected [ $0.03 ]
+
+
+#Game No : 523352024
+***** 888poker Hand History for Game 523352024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:08:22
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Scarbac13 ( $2.57 )
+Seat 6: SlikvsSlik ( $1.09 )
+Scarbac13 posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+Scarbac13 raises [$0.03]
+SlikvsSlik calls [$0.02]
+** Dealing flop ** [ 2d, 7d, 7h ]
+SlikvsSlik checks
+Scarbac13 checks
+** Dealing turn ** [ Tc ]
+SlikvsSlik bets [$0.04]
+Scarbac13 folds
+** Summary **
+SlikvsSlik collected [ $0.08 ]
+
+
+#Game No : 523352062
+***** 888poker Hand History for Game 523352062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:09:00
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Scarbac13 ( $2.53 )
+Seat 6: SlikvsSlik ( $1.13 )
+SlikvsSlik posts small blind [$0.01]
+** Dealing down cards **
+Scarbac13 folds
+** Summary **
+SlikvsSlik collected [ $0.01 ]
+
+
+#Game No : 523352073
+***** 888poker Hand History for Game 523352073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:09:08
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SlikvsSlik ( $1.13 )
+Seat 7: rafael.nvt ( $1 )
+SlikvsSlik posts small blind [$0.01]
+rafael.nvt posts big blind [$0.02]
+** Dealing down cards **
+SlikvsSlik folds
+** Summary **
+rafael.nvt collected [ $0.03 ]
+
+
+#Game No : 523352083
+***** 888poker Hand History for Game 523352083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:09:16
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SlikvsSlik ( $1.12 )
+Seat 7: rafael.nvt ( $1.01 )
+rafael.nvt posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+rafael.nvt calls [$0.01]
+SlikvsSlik checks
+** Dealing flop ** [ 5c, Ts, Ac ]
+SlikvsSlik checks
+rafael.nvt checks
+** Dealing turn ** [ 3h ]
+SlikvsSlik checks
+rafael.nvt checks
+** Dealing river ** [ 8c ]
+SlikvsSlik bets [$0.02]
+rafael.nvt folds
+** Summary **
+SlikvsSlik collected [ $0.04 ]
+
+
+#Game No : 523352111
+***** 888poker Hand History for Game 523352111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:09:43
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SlikvsSlik ( $1.14 )
+Seat 7: rafael.nvt ( $0.99 )
+SlikvsSlik posts small blind [$0.01]
+rafael.nvt posts big blind [$0.02]
+** Dealing down cards **
+SlikvsSlik folds
+** Summary **
+rafael.nvt collected [ $0.03 ]
+
+
+#Game No : 523352118
+***** 888poker Hand History for Game 523352118 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:09:48
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SlikvsSlik ( $1.13 )
+Seat 7: rafael.nvt ( $1 )
+rafael.nvt posts small blind [$0.01]
+SlikvsSlik posts big blind [$0.02]
+** Dealing down cards **
+rafael.nvt calls [$0.01]
+SlikvsSlik checks
+** Dealing flop ** [ Td, 6s, Jh ]
+SlikvsSlik checks
+rafael.nvt bets [$0.02]
+SlikvsSlik folds
+** Summary **
+rafael.nvt collected [ $0.04 ]
+
+
+#Game No : 523352150
+***** 888poker Hand History for Game 523352150 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:10:22
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SlikvsSlik ( $1.11 )
+Seat 7: rafael.nvt ( $1.02 )
+SlikvsSlik posts small blind [$0.01]
+rafael.nvt posts big blind [$0.02]
+** Dealing down cards **
+SlikvsSlik folds
+** Summary **
+rafael.nvt collected [ $0.03 ]
+
+
+#Game No : 523352163
+***** 888poker Hand History for Game 523352163 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:10:29
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SlikvsSlik ( $1.10 )
+Seat 7: rafael.nvt ( $1.03 )
+rafael.nvt posts small blind [$0.01]
+** Dealing down cards **
+SlikvsSlik folds
+** Summary **
+rafael.nvt collected [ $0.01 ]
+
+
+#Game No : 523352182
+***** 888poker Hand History for Game 523352182 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:10:57
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: LightEmittin ( $0.80 )
+Seat 7: TomTom19982 ( $1 )
+TomTom19982 posts small blind [$0.01]
+LightEmittin posts big blind [$0.02]
+** Dealing down cards **
+TomTom19982 calls [$0.01]
+LightEmittin checks
+** Dealing flop ** [ Ks, Ac, 6s ]
+LightEmittin checks
+TomTom19982 bets [$0.02]
+LightEmittin folds
+** Summary **
+TomTom19982 collected [ $0.04 ]
+
+
+#Game No : 523352206
+***** 888poker Hand History for Game 523352206 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:11:19
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LightEmittin ( $0.78 )
+Seat 7: TomTom19982 ( $1.02 )
+LightEmittin posts small blind [$0.01]
+TomTom19982 posts big blind [$0.02]
+** Dealing down cards **
+LightEmittin folds
+** Summary **
+TomTom19982 collected [ $0.03 ]
+
+
+#Game No : 523352459
+***** 888poker Hand History for Game 523352459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:15:47
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: TomTom19982 ( $1 )
+Seat 9: vip.chapaev ( $1.05 )
+vip.chapaev posts small blind [$0.01]
+TomTom19982 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev calls [$0.01]
+TomTom19982 checks
+** Dealing flop ** [ 4h, 2c, 4s ]
+TomTom19982 checks
+vip.chapaev checks
+** Dealing turn ** [ 9h ]
+TomTom19982 checks
+vip.chapaev bets [$0.02]
+TomTom19982 calls [$0.02]
+** Dealing river ** [ 7c ]
+TomTom19982 checks
+vip.chapaev checks
+** Summary **
+TomTom19982 shows [ 3c, 5c ]
+vip.chapaev shows [ Jh, Th ]
+vip.chapaev collected [ $0.08 ]
+
+
+#Game No : 523352496
+***** 888poker Hand History for Game 523352496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:16:27
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: TomTom19982 ( $1 )
+Seat 9: vip.chapaev ( $1.09 )
+TomTom19982 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+TomTom19982 calls [$0.01]
+vip.chapaev checks
+** Dealing flop ** [ Ad, Th, 2c ]
+vip.chapaev checks
+TomTom19982 checks
+** Dealing turn ** [ 2s ]
+vip.chapaev bets [$0.02]
+TomTom19982 calls [$0.02]
+** Dealing river ** [ 7s ]
+vip.chapaev bets [$0.04]
+TomTom19982 folds
+** Summary **
+vip.chapaev collected [ $0.08 ]
+
+
+#Game No : 523352515
+***** 888poker Hand History for Game 523352515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:16:52
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: TomTom19982 ( $1 )
+Seat 9: vip.chapaev ( $1.13 )
+vip.chapaev posts small blind [$0.01]
+TomTom19982 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev folds
+** Summary **
+TomTom19982 collected [ $0.03 ]
+
+
+#Game No : 523352523
+***** 888poker Hand History for Game 523352523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:16:58
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: TomTom19982 ( $1.01 )
+Seat 9: vip.chapaev ( $1.12 )
+TomTom19982 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+TomTom19982 calls [$0.01]
+vip.chapaev checks
+** Dealing flop ** [ 6h, Qs, 6s ]
+vip.chapaev checks
+TomTom19982 checks
+** Dealing turn ** [ 9s ]
+vip.chapaev checks
+TomTom19982 checks
+** Dealing river ** [ Qd ]
+vip.chapaev checks
+TomTom19982 checks
+** Summary **
+vip.chapaev shows [ 4s, Jd ]
+TomTom19982 shows [ Ad, 5c ]
+TomTom19982 collected [ $0.04 ]
+
+
+#Game No : 523352543
+***** 888poker Hand History for Game 523352543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:17:19
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: TomTom19982 ( $1.03 )
+Seat 9: vip.chapaev ( $1.10 )
+vip.chapaev posts small blind [$0.01]
+TomTom19982 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev folds
+** Summary **
+TomTom19982 collected [ $0.03 ]
+
+
+#Game No : 523352590
+***** 888poker Hand History for Game 523352590 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:18:06
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: erwin393 ( $1.03 )
+Seat 9: vip.chapaev ( $1.11 )
+vip.chapaev posts small blind [$0.01]
+erwin393 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev raises [$0.05]
+erwin393 calls [$0.04]
+** Dealing flop ** [ 9h, 4d, 5d ]
+erwin393 checks
+vip.chapaev checks
+** Dealing turn ** [ 7d ]
+erwin393 bets [$0.08]
+vip.chapaev folds
+** Summary **
+erwin393 collected [ $0.12 ]
+
+
+#Game No : 523352613
+***** 888poker Hand History for Game 523352613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:18:31
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: erwin393 ( $1.09 )
+Seat 9: vip.chapaev ( $1.05 )
+erwin393 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+erwin393 raises [$0.04]
+vip.chapaev raises [$0.06]
+erwin393 calls [$0.03]
+** Dealing flop ** [ 2s, 6d, Kh ]
+vip.chapaev bets [$0.10]
+erwin393 folds
+** Summary **
+vip.chapaev collected [ $0.15 ]
+
+
+#Game No : 523352636
+***** 888poker Hand History for Game 523352636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:18:52
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: erwin393 ( $1.01 )
+Seat 9: vip.chapaev ( $1.12 )
+vip.chapaev posts small blind [$0.01]
+erwin393 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev folds
+** Summary **
+erwin393 collected [ $0.03 ]
+
+
+#Game No : 523353033
+***** 888poker Hand History for Game 523353033 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:25:36
+Table Ogden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: erwin393 ( $1.01 )
+Seat 6: reallyblond ( $1.05 )
+erwin393 posts small blind [$0.01]
+reallyblond posts big blind [$0.02]
+** Dealing down cards **
+erwin393 folds
+** Summary **
+reallyblond collected [ $0.03 ]
+
+
+#Game No : 523353042
+***** 888poker Hand History for Game 523353042 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:25:42
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: erwin393 ( $1 )
+Seat 6: reallyblond ( $1.06 )
+reallyblond posts small blind [$0.01]
+erwin393 posts big blind [$0.02]
+** Dealing down cards **
+reallyblond calls [$0.01]
+erwin393 checks
+** Dealing flop ** [ 6h, 3c, 8d ]
+erwin393 bets [$0.04]
+reallyblond folds
+** Summary **
+erwin393 collected [ $0.04 ]
+
+
+#Game No : 523353074
+***** 888poker Hand History for Game 523353074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:26:08
+Table Ogden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: erwin393 ( $1.02 )
+Seat 6: reallyblond ( $1.04 )
+erwin393 posts small blind [$0.01]
+reallyblond posts big blind [$0.02]
+** Dealing down cards **
+erwin393 raises [$0.04]
+reallyblond folds
+** Summary **
+erwin393 collected [ $0.04 ]
+
+
+#Game No : 523353094
+***** 888poker Hand History for Game 523353094 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:26:30
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: erwin393 ( $1.04 )
+Seat 6: reallyblond ( $1.02 )
+reallyblond posts small blind [$0.01]
+erwin393 posts big blind [$0.02]
+** Dealing down cards **
+reallyblond calls [$0.01]
+erwin393 raises [$0.04]
+reallyblond calls [$0.04]
+** Dealing flop ** [ 7h, 2s, 8d ]
+erwin393 bets [$0.10]
+reallyblond folds
+** Summary **
+erwin393 collected [ $0.12 ]
+
+
+#Game No : 523353183
+***** 888poker Hand History for Game 523353183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 03:28:09
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: agma23 ( $1 )
+Seat 9: erwin393 ( $1.10 )
+erwin393 posts small blind [$0.01]
+agma23 posts big blind [$0.02]
+** Dealing down cards **
+erwin393 folds
+** Summary **
+agma23 collected [ $0.03 ]
+
+
+#Game No : 523359688
+***** 888poker Hand History for Game 523359688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 05:33:08
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Scarbac13 ( $1.45 )
+Seat 7: GARALD84 ( $1.38 )
+GARALD84 posts small blind [$0.01]
+Scarbac13 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+Scarbac13 checks
+** Dealing flop ** [ 4c, Ah, 2h ]
+Scarbac13 checks
+GARALD84 bets [$0.02]
+Scarbac13 folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 523361922
+***** 888poker Hand History for Game 523361922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 06:03:59
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: walkman88 ( $1.22 )
+Seat 7: GARALD84 ( $1.11 )
+GARALD84 posts small blind [$0.01]
+walkman88 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+walkman88 raises [$0.04]
+GARALD84 calls [$0.04]
+** Dealing flop ** [ Ks, Js, 3c ]
+walkman88 bets [$0.08]
+GARALD84 folds
+** Summary **
+walkman88 collected [ $0.12 ]
+
+
+#Game No : 523367808
+***** 888poker Hand History for Game 523367808 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 07:36:40
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: vip.chapaev ( $1.02 )
+Seat 9: DimachoDi ( $0.91 )
+DimachoDi posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+DimachoDi raises [$0.05]
+vip.chapaev folds
+** Summary **
+DimachoDi collected [ $0.04 ]
+
+
+#Game No : 523368079
+***** 888poker Hand History for Game 523368079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 07:40:32
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DenisPylypov ( $1 )
+Seat 7: vip.chapaev ( $1.03 )
+vip.chapaev posts small blind [$0.01]
+DenisPylypov posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev raises [$0.05]
+DenisPylypov folds
+** Summary **
+vip.chapaev collected [ $0.04 ]
+
+
+#Game No : 523371281
+***** 888poker Hand History for Game 523371281 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 08:32:55
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenisPylypov ( $2.20 )
+Seat 9: 1moretry1 ( $2.87 )
+DenisPylypov posts small blind [$0.01]
+1moretry1 posts big blind [$0.02]
+** Dealing down cards **
+DenisPylypov folds
+** Summary **
+1moretry1 collected [ $0.03 ]
+
+
+#Game No : 523371287
+***** 888poker Hand History for Game 523371287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 08:33:02
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: DenisPylypov ( $2.19 )
+Seat 9: 1moretry1 ( $2.88 )
+1moretry1 posts small blind [$0.01]
+DenisPylypov posts big blind [$0.02]
+** Dealing down cards **
+1moretry1 raises [$0.04]
+DenisPylypov folds
+** Summary **
+1moretry1 collected [ $0.04 ]
+
+
+#Game No : 523371291
+***** 888poker Hand History for Game 523371291 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 08:33:08
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenisPylypov ( $2.17 )
+Seat 9: 1moretry1 ( $2.90 )
+DenisPylypov posts small blind [$0.01]
+** Dealing down cards **
+1moretry1 folds
+** Summary **
+DenisPylypov collected [ $0.01 ]
+
+
+#Game No : 523371297
+***** 888poker Hand History for Game 523371297 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 08:33:11
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenisPylypov ( $2.17 )
+Seat 2: Flopflip16 ( $0.82 )
+DenisPylypov posts small blind [$0.01]
+** Dealing down cards **
+Flopflip16 folds
+** Summary **
+DenisPylypov collected [ $0.01 ]
+
+
+#Game No : 523376525
+***** 888poker Hand History for Game 523376525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 09:41:55
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 3PSY3 ( $1.09 )
+Seat 9: moffe11 ( $0.24 )
+3PSY3 posts small blind [$0.01]
+moffe11 posts big blind [$0.02]
+** Dealing down cards **
+3PSY3 folds
+** Summary **
+moffe11 did not show his hand
+moffe11 collected [ $0.03 ]
+
+
+#Game No : 523376534
+***** 888poker Hand History for Game 523376534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 09:42:04
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: 3PSY3 ( $1.08 )
+Seat 9: moffe11 ( $0.25 )
+moffe11 posts small blind [$0.01]
+** Dealing down cards **
+3PSY3 folds
+** Summary **
+moffe11 did not show his hand
+moffe11 collected [ $0.01 ]
+
+

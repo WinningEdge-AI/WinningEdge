@@ -1,0 +1,28 @@
+#Game No : 511893039
+***** 888poker Hand History for Game 511893039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 03:41:23
+Table Maribor 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $2 )
+Seat 4: ljchris ( $2 )
+ljchris posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+ljchris calls [$0.01]
+Chuh_Chuh checks
+** Dealing flop ** [ 2h, 6d, 2s ]
+Chuh_Chuh checks
+ljchris checks
+** Dealing turn ** [ 8s ]
+Chuh_Chuh checks
+ljchris checks
+** Dealing river ** [ Ac ]
+Chuh_Chuh checks
+ljchris checks
+** Summary **
+Chuh_Chuh shows [ 8c, 5h ]
+ljchris mucks [ Kh, 5d ]
+Chuh_Chuh collected [ $0.04 ]
+
+

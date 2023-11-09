@@ -1,0 +1,62 @@
+#Game No : 453647688
+***** 888poker Hand History for Game 453647688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 14:50:59
+Table Caucasia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Karwendel1 ( $1.58 )
+Seat 4: kuk1955 ( $0.11 )
+kuk1955 posts small blind [$0.01]
+Karwendel1 posts big blind [$0.02]
+** Dealing down cards **
+kuk1955 raises [$0.10]
+Karwendel1 calls [$0.09]
+** Dealing flop ** [ 8c, Ks, 3h ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 6h ]
+** Summary **
+Karwendel1 shows [ 2s, 2h ]
+kuk1955 shows [ 9s, Qd ]
+Karwendel1 collected [ $0.21 ]
+
+
+#Game No : 453649134
+***** 888poker Hand History for Game 453649134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 15:28:56
+Table Caucasia 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Karwendel1 ( $0.87 )
+Seat 6: berenval ( $0.08 )
+berenval posts small blind [$0.01]
+Karwendel1 posts big blind [$0.02]
+** Dealing down cards **
+berenval raises [$0.07]
+Karwendel1 folds
+** Summary **
+berenval collected [ $0.04 ]
+
+
+#Game No : 453649144
+***** 888poker Hand History for Game 453649144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 15:29:11
+Table Caucasia 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Karwendel1 ( $0.84 )
+Seat 6: berenval ( $0.11 )
+berenval posts small blind [$0.01]
+Karwendel1 posts big blind [$0.02]
+** Dealing down cards **
+berenval calls [$0.01]
+Karwendel1 raises [$0.82]
+berenval calls [$0.09]
+** Dealing flop ** [ Kh, Js, 7h ]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ Tc ]
+** Summary **
+Karwendel1 shows [ Kc, 9c ]
+berenval shows [ Qd, 6s ]
+Karwendel1 collected [ $0.21 ]
+
+

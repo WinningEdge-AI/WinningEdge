@@ -1,0 +1,28 @@
+#Game No : 620769295
+***** 888poker Hand History for Game 620769295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 17:52:41
+Table Boston 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: skilledm3n ( $1.90 )
+Seat 7: rafaelkazuo3 ( $0.56 )
+rafaelkazuo3 posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+rafaelkazuo3 raises [$0.03]
+skilledm3n calls [$0.02]
+** Dealing flop ** [ 9s, 2c, 5s ]
+skilledm3n checks
+rafaelkazuo3 bets [$0.05]
+skilledm3n raises [$0.13]
+rafaelkazuo3 calls [$0.08]
+** Dealing turn ** [ Kh ]
+skilledm3n bets [$1.73]
+rafaelkazuo3 calls [$0.39]
+** Dealing river ** [ 6s ]
+** Summary **
+skilledm3n shows [ Js, 9c ]
+rafaelkazuo3 shows [ 7h, 9h ]
+skilledm3n collected [ $1.05 ]
+
+

@@ -1,0 +1,71 @@
+#Game No : 1287555564
+***** 888poker Hand History for Game 1287555564 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2019 23:10:23
+Table Carson 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: marvinflips ( $0.87 )
+Seat 10: DDragu ( $0.67 )
+marvinflips posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+marvinflips calls [$0.01]
+DDragu checks
+** Dealing flop ** [ Jc, 4c, Js ]
+DDragu checks
+marvinflips checks
+** Dealing turn ** [ 6d ]
+DDragu checks
+marvinflips checks
+** Dealing river ** [ As ]
+DDragu checks
+marvinflips bets [$0.85]
+DDragu folds
+** Summary **
+marvinflips collected [ $0.04 ]
+
+
+#Game No : 1287555613
+***** 888poker Hand History for Game 1287555613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2019 23:10:51
+Table Carson 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: marvinflips ( $0.89 )
+Seat 10: DDragu ( $0.65 )
+DDragu posts small blind [$0.01]
+marvinflips posts big blind [$0.02]
+** Dealing down cards **
+DDragu folds
+** Summary **
+marvinflips collected [ $0.03 ]
+
+
+#Game No : 1287555622
+***** 888poker Hand History for Game 1287555622 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2019 23:10:57
+Table Carson 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: marvinflips ( $0.90 )
+Seat 10: DDragu ( $0.64 )
+marvinflips posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+marvinflips calls [$0.01]
+DDragu checks
+** Dealing flop ** [ Qh, 4d, Ad ]
+DDragu checks
+marvinflips checks
+** Dealing turn ** [ Qd ]
+DDragu checks
+marvinflips checks
+** Dealing river ** [ Jh ]
+DDragu checks
+marvinflips checks
+** Summary **
+DDragu shows [ Td, 9c ]
+marvinflips mucks [ 5s, 8s ]
+DDragu collected [ $0.04 ]
+
+

@@ -1,0 +1,61 @@
+#Game No : 619108258
+***** 888poker Hand History for Game 619108258 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 04 2019 16:47:41
+Table Vespasiano 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: kmlm73 ( $2 )
+Seat 9: P3TOX ( $2 )
+P3TOX posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+P3TOX calls [$0.01]
+kmlm73 raises [$0.04]
+P3TOX calls [$0.04]
+** Dealing flop ** [ 2c, 2s, Td ]
+kmlm73 bets [$0.06]
+P3TOX raises [$0.12]
+kmlm73 calls [$0.06]
+** Dealing turn ** [ 5h ]
+kmlm73 bets [$0.06]
+P3TOX calls [$0.06]
+** Dealing river ** [ 7c ]
+kmlm73 bets [$0.24]
+P3TOX raises [$0.48]
+kmlm73 calls [$0.24]
+** Summary **
+P3TOX shows [ 9s, Th ]
+kmlm73 shows [ Jc, Js ]
+kmlm73 collected [ $1.35 ]
+
+
+#Game No : 619108293
+***** 888poker Hand History for Game 619108293 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 04 2019 16:48:43
+Table Vespasiano 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: kmlm73 ( $2.63 )
+Seat 9: P3TOX ( $1.28 )
+kmlm73 posts small blind [$0.01]
+P3TOX posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.05]
+P3TOX calls [$0.04]
+** Dealing flop ** [ Ks, 5s, Qs ]
+P3TOX checks
+kmlm73 bets [$0.06]
+P3TOX calls [$0.06]
+** Dealing turn ** [ 7d ]
+P3TOX checks
+kmlm73 bets [$0.02]
+P3TOX calls [$0.02]
+** Dealing river ** [ Jc ]
+P3TOX checks
+kmlm73 checks
+** Summary **
+P3TOX shows [ 6c, 7s ]
+kmlm73 shows [ 9d, 9c ]
+kmlm73 collected [ $0.27 ]
+
+

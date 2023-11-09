@@ -1,0 +1,51 @@
+#Game No : 533654783
+***** 888poker Hand History for Game 533654783 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2019 06:41:03
+Table Astana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kamjux15 ( $2.33 )
+Seat 7: Maks062 ( $1.20 )
+kamjux15 posts small blind [$0.01]
+Maks062 posts big blind [$0.02]
+** Dealing down cards **
+kamjux15 raises [$0.05]
+Maks062 calls [$0.04]
+** Dealing flop ** [ 7s, Jh, 4d ]
+Maks062 checks
+kamjux15 bets [$0.12]
+Maks062 calls [$0.12]
+** Dealing turn ** [ Ks ]
+Maks062 checks
+kamjux15 bets [$0.36]
+Maks062 calls [$0.36]
+** Dealing river ** [ Kd ]
+Maks062 checks
+kamjux15 checks
+** Summary **
+Maks062 shows [ 8d, Jc ]
+kamjux15 mucks [ 2d, 2c ]
+Maks062 collected [ $1.02 ]
+
+
+#Game No : 533654810
+***** 888poker Hand History for Game 533654810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 06 2019 06:41:29
+Table Astana 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: kamjux15 ( $1.79 )
+Seat 7: Maks062 ( $1.68 )
+Maks062 posts small blind [$0.01]
+kamjux15 posts big blind [$0.02]
+** Dealing down cards **
+Maks062 calls [$0.01]
+kamjux15 checks
+** Dealing flop ** [ 6c, 9h, As ]
+kamjux15 checks
+Maks062 bets [$0.02]
+kamjux15 folds
+** Summary **
+Maks062 collected [ $0.04 ]
+
+

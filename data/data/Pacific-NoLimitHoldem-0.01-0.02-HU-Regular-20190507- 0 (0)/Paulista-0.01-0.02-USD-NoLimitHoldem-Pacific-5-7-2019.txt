@@ -1,0 +1,28 @@
+#Game No : 530461171
+***** 888poker Hand History for Game 530461171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 05 2019 07:20:43
+Table Paulista 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: starkgen ( $2.16 )
+Seat 5: berniebolt44 ( $0.86 )
+berniebolt44 posts small blind [$0.01]
+starkgen posts big blind [$0.02]
+** Dealing down cards **
+berniebolt44 calls [$0.01]
+starkgen raises [$0.04]
+berniebolt44 calls [$0.04]
+** Dealing flop ** [ 2c, 6c, Qh ]
+starkgen checks
+berniebolt44 checks
+** Dealing turn ** [ 5h ]
+starkgen checks
+berniebolt44 checks
+** Dealing river ** [ 8h ]
+starkgen bets [$0.06]
+berniebolt44 folds
+** Summary **
+starkgen did not show his hand
+starkgen collected [ $0.12 ]
+
+

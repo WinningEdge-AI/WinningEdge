@@ -1,0 +1,63 @@
+#Game No : 504567658
+***** 888poker Hand History for Game 504567658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:22:39
+Table Milan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: hvoxx ( $2.05 )
+Seat 5: dimon.1194 ( $0.97 )
+hvoxx posts small blind [$0.01]
+dimon.1194 posts big blind [$0.02]
+** Dealing down cards **
+hvoxx folds
+** Summary **
+dimon.1194 did not show his hand
+dimon.1194 collected [ $0.03 ]
+
+
+#Game No : 504567663
+***** 888poker Hand History for Game 504567663 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 01:23:03
+Table Milan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: hvoxx ( $2.04 )
+Seat 5: dimon.1194 ( $0.98 )
+dimon.1194 posts small blind [$0.01]
+hvoxx posts big blind [$0.02]
+** Dealing down cards **
+dimon.1194 calls [$0.01]
+hvoxx checks
+** Dealing flop ** [ 8d, 3s, Jc ]
+hvoxx checks
+dimon.1194 bets [$0.02]
+hvoxx folds
+** Summary **
+dimon.1194 did not show his hand
+dimon.1194 collected [ $0.04 ]
+
+
+#Game No : 504578673
+***** 888poker Hand History for Game 504578673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2018 08:01:23
+Table Milan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: radu.prsc ( $1.93 )
+Seat 9: brunovalpo16 ( $0.90 )
+brunovalpo16 posts small blind [$0.01]
+radu.prsc posts big blind [$0.02]
+** Dealing down cards **
+brunovalpo16 raises [$0.03]
+radu.prsc calls [$0.02]
+** Dealing flop ** [ 8h, 7s, Jc ]
+radu.prsc bets [$0.02]
+brunovalpo16 raises [$0.08]
+radu.prsc calls [$0.06]
+** Dealing turn ** [ 6c ]
+radu.prsc bets [$0.16]
+brunovalpo16 folds
+** Summary **
+radu.prsc collected [ $0.23 ]
+
+

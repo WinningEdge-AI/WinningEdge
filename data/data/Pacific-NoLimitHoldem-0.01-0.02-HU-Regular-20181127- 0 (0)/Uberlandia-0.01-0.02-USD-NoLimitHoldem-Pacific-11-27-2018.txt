@@ -1,0 +1,80 @@
+#Game No : 457985014
+***** 888poker Hand History for Game 457985014 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 11 2018 07:43:46
+Table Uberlandia 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: iks2s ( $0.81 )
+Seat 9: DHUK98 ( $1.22 )
+DHUK98 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+DHUK98 folds
+** Summary **
+iks2s did not show his hand
+iks2s collected [ $0.03 ]
+
+
+#Game No : 457990211
+***** 888poker Hand History for Game 457990211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 11 2018 09:59:20
+Table Uberlandia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Lisshura ( $0.83 )
+Seat 4: MladenVracar ( $1 )
+Lisshura posts small blind [$0.01]
+MladenVracar posts big blind [$0.02]
+** Dealing down cards **
+Lisshura folds
+** Summary **
+MladenVracar collected [ $0.03 ]
+
+
+#Game No : 457990214
+***** 888poker Hand History for Game 457990214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 11 2018 09:59:26
+Table Uberlandia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Lisshura ( $0.82 )
+Seat 4: MladenVracar ( $1.01 )
+MladenVracar posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+MladenVracar calls [$0.01]
+Lisshura checks
+** Dealing flop ** [ Kh, 9c, Tc ]
+Lisshura checks
+MladenVracar checks
+** Dealing turn ** [ 9s ]
+Lisshura bets [$0.04]
+MladenVracar folds
+** Summary **
+Lisshura collected [ $0.04 ]
+
+
+#Game No : 457990290
+***** 888poker Hand History for Game 457990290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 11 2018 10:01:11
+Table Uberlandia 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: MladenVracar ( $1.07 )
+Seat 6: garrettcrowl ( $0.98 )
+garrettcrowl posts small blind [$0.01]
+MladenVracar posts big blind [$0.02]
+** Dealing down cards **
+garrettcrowl calls [$0.01]
+MladenVracar checks
+** Dealing flop ** [ 5d, 5s, Th ]
+MladenVracar bets [$0.02]
+garrettcrowl calls [$0.02]
+** Dealing turn ** [ Qd ]
+MladenVracar checks
+garrettcrowl bets [$0.04]
+MladenVracar folds
+** Summary **
+garrettcrowl collected [ $0.08 ]
+
+

@@ -1,0 +1,379 @@
+#Game No : 504526295
+***** 888poker Hand History for Game 504526295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 02:19:28
+Table Paulista 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: degrize ( $2 )
+Seat 4: LonelyFlush ( $2.02 )
+LonelyFlush posts small blind [$0.01]
+degrize posts big blind [$0.02]
+** Dealing down cards **
+LonelyFlush calls [$0.01]
+degrize checks
+** Dealing flop ** [ Jh, Tc, 8d ]
+degrize checks
+LonelyFlush checks
+** Dealing turn ** [ 3s ]
+degrize checks
+LonelyFlush checks
+** Dealing river ** [ Qd ]
+degrize bets [$0.02]
+LonelyFlush raises [$0.04]
+degrize raises [$0.06]
+LonelyFlush calls [$0.04]
+** Summary **
+degrize shows [ 9h, 4s ]
+LonelyFlush shows [ Ac, 9d ]
+degrize collected [ $0.10 ]
+LonelyFlush collected [ $0.09 ]
+
+
+#Game No : 504526369
+***** 888poker Hand History for Game 504526369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 02:20:36
+Table Paulista 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: degrize ( $1.41 )
+Seat 4: LonelyFlush ( $2 )
+LonelyFlush posts small blind [$0.01]
+degrize posts big blind [$0.02]
+** Dealing down cards **
+LonelyFlush calls [$0.01]
+degrize checks
+** Dealing flop ** [ Qc, Kc, Td ]
+degrize checks
+LonelyFlush checks
+** Dealing turn ** [ 5s ]
+degrize checks
+LonelyFlush bets [$0.02]
+degrize calls [$0.02]
+** Dealing river ** [ As ]
+degrize checks
+LonelyFlush checks
+** Summary **
+degrize shows [ 7d, 9d ]
+LonelyFlush shows [ 3h, Kh ]
+LonelyFlush collected [ $0.08 ]
+
+
+#Game No : 504526394
+***** 888poker Hand History for Game 504526394 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 02:21:02
+Table Paulista 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: degrize ( $1.37 )
+Seat 4: LonelyFlush ( $2.04 )
+degrize posts small blind [$0.01]
+LonelyFlush posts big blind [$0.02]
+** Dealing down cards **
+degrize calls [$0.01]
+LonelyFlush raises [$0.02]
+degrize folds
+** Summary **
+LonelyFlush collected [ $0.04 ]
+
+
+#Game No : 504584372
+***** 888poker Hand History for Game 504584372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:26:14
+Table Paulista 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.50 )
+Seat 7: jabba6971 ( $1.88 )
+jabba6971 posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+jabba6971 calls [$0.01]
+hellu15 checks
+** Dealing flop ** [ 3d, 5h, 3c ]
+jabba6971 bets [$0.02]
+hellu15 calls [$0.02]
+** Dealing turn ** [ Ac ]
+jabba6971 checks
+hellu15 bets [$0.08]
+jabba6971 folds
+** Summary **
+hellu15 did not show his hand
+hellu15 collected [ $0.08 ]
+
+
+#Game No : 504584443
+***** 888poker Hand History for Game 504584443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:26:45
+Table Paulista 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.54 )
+Seat 7: jabba6971 ( $1.84 )
+jabba6971 posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+jabba6971 calls [$0.01]
+hellu15 checks
+** Dealing flop ** [ Qh, 5d, 4h ]
+hellu15 checks
+jabba6971 checks
+** Dealing turn ** [ Ah ]
+hellu15 checks
+jabba6971 checks
+** Dealing river ** [ 7d ]
+hellu15 bets [$0.04]
+jabba6971 calls [$0.04]
+** Summary **
+hellu15 shows [ 5c, 4c ]
+jabba6971 mucks [ 8h, 7s ]
+hellu15 collected [ $0.12 ]
+
+
+#Game No : 504584506
+***** 888poker Hand History for Game 504584506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:27:15
+Table Paulista 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.60 )
+Seat 7: jabba6971 ( $1.78 )
+hellu15 posts small blind [$0.01]
+jabba6971 posts big blind [$0.02]
+** Dealing down cards **
+hellu15 calls [$0.01]
+jabba6971 checks
+** Dealing flop ** [ 3c, 7s, 9s ]
+jabba6971 bets [$0.02]
+hellu15 folds
+** Summary **
+jabba6971 did not show his hand
+jabba6971 collected [ $0.04 ]
+
+
+#Game No : 504584541
+***** 888poker Hand History for Game 504584541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:27:32
+Table Paulista 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.58 )
+Seat 7: jabba6971 ( $1.80 )
+jabba6971 posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+jabba6971 calls [$0.01]
+hellu15 checks
+** Dealing flop ** [ 6c, As, Kh ]
+hellu15 checks
+jabba6971 checks
+** Dealing turn ** [ 4c ]
+hellu15 bets [$0.04]
+jabba6971 folds
+** Summary **
+hellu15 did not show his hand
+hellu15 collected [ $0.04 ]
+
+
+#Game No : 504584600
+***** 888poker Hand History for Game 504584600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:28:02
+Table Paulista 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.60 )
+Seat 7: jabba6971 ( $1.78 )
+hellu15 posts small blind [$0.01]
+jabba6971 posts big blind [$0.02]
+** Dealing down cards **
+hellu15 raises [$0.03]
+jabba6971 folds
+** Summary **
+hellu15 did not show his hand
+hellu15 collected [ $0.04 ]
+
+
+#Game No : 504584619
+***** 888poker Hand History for Game 504584619 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:28:15
+Table Paulista 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.62 )
+Seat 7: jabba6971 ( $1.76 )
+jabba6971 posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+jabba6971 calls [$0.01]
+hellu15 checks
+** Dealing flop ** [ 2d, Ac, 7s ]
+hellu15 checks
+jabba6971 checks
+** Dealing turn ** [ 3c ]
+hellu15 bets [$0.04]
+jabba6971 folds
+** Summary **
+hellu15 did not show his hand
+hellu15 collected [ $0.04 ]
+
+
+#Game No : 504584682
+***** 888poker Hand History for Game 504584682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:28:45
+Table Paulista 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.64 )
+Seat 7: jabba6971 ( $1.74 )
+hellu15 posts small blind [$0.01]
+jabba6971 posts big blind [$0.02]
+** Dealing down cards **
+hellu15 folds
+** Summary **
+jabba6971 did not show his hand
+jabba6971 collected [ $0.03 ]
+
+
+#Game No : 504584698
+***** 888poker Hand History for Game 504584698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:28:51
+Table Paulista 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.63 )
+Seat 7: jabba6971 ( $1.75 )
+jabba6971 posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+jabba6971 raises [$0.03]
+hellu15 folds
+** Summary **
+jabba6971 did not show his hand
+jabba6971 collected [ $0.04 ]
+
+
+#Game No : 504584723
+***** 888poker Hand History for Game 504584723 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:29:02
+Table Paulista 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.61 )
+Seat 7: jabba6971 ( $1.77 )
+hellu15 posts small blind [$0.01]
+jabba6971 posts big blind [$0.02]
+** Dealing down cards **
+hellu15 calls [$0.01]
+jabba6971 raises [$0.02]
+hellu15 calls [$0.02]
+** Dealing flop ** [ 8c, 3c, 6s ]
+jabba6971 bets [$0.02]
+hellu15 folds
+** Summary **
+jabba6971 did not show his hand
+jabba6971 collected [ $0.08 ]
+
+
+#Game No : 504584788
+***** 888poker Hand History for Game 504584788 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:29:34
+Table Paulista 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.57 )
+Seat 7: jabba6971 ( $1.81 )
+jabba6971 posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+jabba6971 raises [$0.03]
+hellu15 calls [$0.02]
+** Dealing flop ** [ Jc, 2d, Kd ]
+hellu15 checks
+jabba6971 checks
+** Dealing turn ** [ Qs ]
+hellu15 bets [$0.08]
+jabba6971 folds
+** Summary **
+hellu15 did not show his hand
+hellu15 collected [ $0.08 ]
+
+
+#Game No : 504584843
+***** 888poker Hand History for Game 504584843 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:29:59
+Table Paulista 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.61 )
+Seat 7: jabba6971 ( $1.77 )
+hellu15 posts small blind [$0.01]
+jabba6971 posts big blind [$0.02]
+** Dealing down cards **
+hellu15 folds
+** Summary **
+jabba6971 did not show his hand
+jabba6971 collected [ $0.03 ]
+
+
+#Game No : 504584857
+***** 888poker Hand History for Game 504584857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:30:05
+Table Paulista 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.60 )
+Seat 7: jabba6971 ( $1.78 )
+jabba6971 posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+jabba6971 folds
+** Summary **
+hellu15 did not show his hand
+hellu15 collected [ $0.03 ]
+
+
+#Game No : 504584867
+***** 888poker Hand History for Game 504584867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:30:10
+Table Paulista 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.61 )
+Seat 7: jabba6971 ( $1.77 )
+hellu15 posts small blind [$0.01]
+jabba6971 posts big blind [$0.02]
+** Dealing down cards **
+hellu15 raises [$0.03]
+jabba6971 folds
+** Summary **
+hellu15 did not show his hand
+hellu15 collected [ $0.04 ]
+
+
+#Game No : 504584897
+***** 888poker Hand History for Game 504584897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 14:30:23
+Table Paulista 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: hellu15 ( $3.63 )
+Seat 7: jabba6971 ( $1.75 )
+jabba6971 posts small blind [$0.01]
+hellu15 posts big blind [$0.02]
+** Dealing down cards **
+jabba6971 calls [$0.01]
+hellu15 checks
+** Dealing flop ** [ Ks, Jc, 4d ]
+hellu15 checks
+jabba6971 checks
+** Dealing turn ** [ Jh ]
+hellu15 checks
+jabba6971 checks
+** Dealing river ** [ 2h ]
+hellu15 checks
+jabba6971 checks
+** Summary **
+hellu15 shows [ Td, 7c ]
+jabba6971 mucks [ 8c, 7s ]
+hellu15 collected [ $0.04 ]
+
+

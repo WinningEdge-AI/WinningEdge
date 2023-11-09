@@ -1,0 +1,409 @@
+#Game No : 500118938
+***** 888poker Hand History for Game 500118938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 09:22:00
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1.71 )
+Seat 6: DannyHorsley ( $2.10 )
+DannyHorsley posts small blind [$0.01]
+co98nst41 posts big blind [$0.02]
+** Dealing down cards **
+DannyHorsley folds
+** Summary **
+co98nst41 collected [ $0.03 ]
+
+
+#Game No : 500118999
+***** 888poker Hand History for Game 500118999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 09:23:06
+Table Carmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Sevyanych201 ( $1 )
+Seat 7: pokerman1357 ( $1 )
+pokerman1357 posts small blind [$0.01]
+Sevyanych201 posts big blind [$0.02]
+** Dealing down cards **
+pokerman1357 folds
+** Summary **
+Sevyanych201 collected [ $0.03 ]
+
+
+#Game No : 500119030
+***** 888poker Hand History for Game 500119030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 09:23:55
+Table Carmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Sevyanych201 ( $1.77 )
+Seat 7: pokerman1357 ( $0.93 )
+pokerman1357 posts small blind [$0.01]
+Sevyanych201 posts big blind [$0.02]
+** Dealing down cards **
+pokerman1357 calls [$0.01]
+Sevyanych201 checks
+** Dealing flop ** [ 5c, Td, 6s ]
+Sevyanych201 checks
+pokerman1357 checks
+** Dealing turn ** [ 8h ]
+Sevyanych201 bets [$0.04]
+pokerman1357 calls [$0.04]
+** Dealing river ** [ Js ]
+Sevyanych201 bets [$0.10]
+pokerman1357 folds
+** Summary **
+Sevyanych201 collected [ $0.12 ]
+
+
+#Game No : 500119062
+***** 888poker Hand History for Game 500119062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 09:24:40
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: bfurlong2k18 ( $0.80 )
+Seat 6: Sevyanych201 ( $1.83 )
+Sevyanych201 posts small blind [$0.01]
+bfurlong2k18 posts big blind [$0.02]
+** Dealing down cards **
+Sevyanych201 raises [$0.05]
+bfurlong2k18 folds
+** Summary **
+Sevyanych201 collected [ $0.04 ]
+
+
+#Game No : 500121078
+***** 888poker Hand History for Game 500121078 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:04:16
+Table Carmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: phillang40 ( $5.08 )
+Seat 9: bernardbarre ( $0.03 )
+bernardbarre posts small blind [$0.01]
+phillang40 posts big blind [$0.02]
+** Dealing down cards **
+bernardbarre raises [$0.02]
+phillang40 calls [$0.01]
+** Dealing flop ** [ As, 2c, 9h ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ 5s ]
+** Summary **
+phillang40 shows [ Tc, 7d ]
+bernardbarre shows [ Kh, Qh ]
+bernardbarre collected [ $0.06 ]
+
+
+#Game No : 500121097
+***** 888poker Hand History for Game 500121097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:04:37
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: phillang40 ( $5.05 )
+Seat 9: bernardbarre ( $0.06 )
+phillang40 posts small blind [$0.01]
+bernardbarre posts big blind [$0.02]
+** Dealing down cards **
+phillang40 raises [$0.05]
+bernardbarre folds
+** Summary **
+phillang40 did not show his hand
+phillang40 collected [ $0.04 ]
+
+
+#Game No : 500121117
+***** 888poker Hand History for Game 500121117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:04:56
+Table Carmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: phillang40 ( $5.07 )
+Seat 9: bernardbarre ( $0.04 )
+bernardbarre posts small blind [$0.01]
+phillang40 posts big blind [$0.02]
+** Dealing down cards **
+bernardbarre raises [$0.03]
+phillang40 folds
+** Summary **
+bernardbarre did not show his hand
+bernardbarre collected [ $0.04 ]
+
+
+#Game No : 500121125
+***** 888poker Hand History for Game 500121125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:05:07
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: phillang40 ( $5.05 )
+Seat 9: bernardbarre ( $0.06 )
+phillang40 posts small blind [$0.01]
+bernardbarre posts big blind [$0.02]
+** Dealing down cards **
+phillang40 calls [$0.01]
+bernardbarre checks
+** Dealing flop ** [ 8d, Ks, 5h ]
+bernardbarre checks
+phillang40 checks
+** Dealing turn ** [ 3s ]
+bernardbarre checks
+phillang40 checks
+** Dealing river ** [ 9s ]
+bernardbarre bets [$0.04]
+phillang40 calls [$0.04]
+** Summary **
+phillang40 shows [ Qh, 3c ]
+bernardbarre shows [ Qc, 2d ]
+phillang40 collected [ $0.12 ]
+
+
+#Game No : 500121157
+***** 888poker Hand History for Game 500121157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:05:42
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: phillang40 ( $5.11 )
+Seat 4: Tiagogoyaba ( $1 )
+Tiagogoyaba posts small blind [$0.01]
+phillang40 posts big blind [$0.02]
+** Dealing down cards **
+Tiagogoyaba calls [$0.01]
+phillang40 checks
+** Dealing flop ** [ Jc, Ah, Ks ]
+phillang40 checks
+Tiagogoyaba bets [$0.02]
+phillang40 calls [$0.02]
+** Dealing turn ** [ Qh ]
+phillang40 checks
+Tiagogoyaba checks
+** Dealing river ** [ Ac ]
+phillang40 bets [$0.16]
+Tiagogoyaba calls [$0.16]
+** Summary **
+phillang40 shows [ 4h, Th ]
+Tiagogoyaba mucks [ 4d, Kc ]
+phillang40 collected [ $0.38 ]
+
+
+#Game No : 500121189
+***** 888poker Hand History for Game 500121189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:06:20
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: phillang40 ( $5.29 )
+Seat 4: Tiagogoyaba ( $0.80 )
+phillang40 posts small blind [$0.01]
+Tiagogoyaba posts big blind [$0.02]
+** Dealing down cards **
+phillang40 calls [$0.01]
+Tiagogoyaba checks
+** Dealing flop ** [ 6h, 6d, 2c ]
+Tiagogoyaba checks
+phillang40 checks
+** Dealing turn ** [ Jd ]
+Tiagogoyaba bets [$0.02]
+phillang40 raises [$0.04]
+Tiagogoyaba calls [$0.02]
+** Dealing river ** [ 8h ]
+Tiagogoyaba checks
+phillang40 bets [$0.08]
+Tiagogoyaba calls [$0.08]
+** Summary **
+phillang40 shows [ Ks, Js ]
+Tiagogoyaba mucks [ Kc, Th ]
+phillang40 collected [ $0.27 ]
+
+
+#Game No : 500121213
+***** 888poker Hand History for Game 500121213 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 10:06:53
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: phillang40 ( $5.42 )
+Seat 4: Tiagogoyaba ( $0.66 )
+Tiagogoyaba posts small blind [$0.01]
+phillang40 posts big blind [$0.02]
+** Dealing down cards **
+Tiagogoyaba calls [$0.01]
+phillang40 checks
+** Dealing flop ** [ 5c, Jh, 9c ]
+phillang40 bets [$0.02]
+Tiagogoyaba calls [$0.02]
+** Dealing turn ** [ 3c ]
+phillang40 bets [$0.02]
+Tiagogoyaba calls [$0.02]
+** Dealing river ** [ 5h ]
+phillang40 bets [$0.02]
+Tiagogoyaba calls [$0.02]
+** Summary **
+phillang40 shows [ 6s, 9h ]
+Tiagogoyaba mucks [ Ac, Td ]
+phillang40 collected [ $0.15 ]
+
+
+#Game No : 500124240
+***** 888poker Hand History for Game 500124240 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 11:06:25
+Table Carmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Obito111 ( $1.03 )
+Seat 6: MenzakA ( $1 )
+Obito111 posts small blind [$0.01]
+** Dealing down cards **
+MenzakA folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.01 ]
+
+
+#Game No : 500124271
+***** 888poker Hand History for Game 500124271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 11:06:53
+Table Carmen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Obito111 ( $1.03 )
+Seat 4: Roybanny14 ( $1 )
+Obito111 posts small blind [$0.01]
+** Dealing down cards **
+Roybanny14 folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.01 ]
+
+
+#Game No : 500124289
+***** 888poker Hand History for Game 500124289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 11:07:11
+Table Carmen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Obito111 ( $1.03 )
+Seat 4: Roybanny14 ( $1 )
+Obito111 posts small blind [$0.01]
+Roybanny14 posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+Roybanny14 raises [$0.98]
+Obito111 folds
+** Summary **
+Roybanny14 did not show his hand
+Roybanny14 collected [ $0.08 ]
+
+
+#Game No : 500124315
+***** 888poker Hand History for Game 500124315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 11:07:31
+Table Carmen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Obito111 ( $1 )
+Seat 4: Roybanny14 ( $1.04 )
+Roybanny14 posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+Roybanny14 calls [$0.01]
+Obito111 checks
+** Dealing flop ** [ 2c, 7h, Qh ]
+Obito111 checks
+Roybanny14 checks
+** Dealing turn ** [ 7s ]
+Obito111 checks
+Roybanny14 checks
+** Dealing river ** [ 3s ]
+Obito111 checks
+Roybanny14 checks
+** Summary **
+Obito111 shows [ 8h, 4h ]
+Roybanny14 shows [ Th, 2d ]
+Roybanny14 collected [ $0.04 ]
+
+
+#Game No : 500132865
+***** 888poker Hand History for Game 500132865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 13:37:58
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bolshoiman ( $2.57 )
+Seat 6: Erakkokala ( $1.99 )
+Erakkokala posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+Erakkokala folds
+** Summary **
+Bolshoiman did not show his hand
+Bolshoiman collected [ $0.03 ]
+
+
+#Game No : 500132910
+***** 888poker Hand History for Game 500132910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 13:38:51
+Table Carmen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ambulance22 ( $1 )
+Seat 6: Erakkokala ( $1.98 )
+ambulance22 posts small blind [$0.01]
+Erakkokala posts big blind [$0.02]
+** Dealing down cards **
+ambulance22 calls [$0.01]
+Erakkokala raises [$0.06]
+ambulance22 calls [$0.06]
+** Dealing flop ** [ As, 8h, 7c ]
+Erakkokala bets [$0.08]
+ambulance22 folds
+** Summary **
+Erakkokala collected [ $0.15 ]
+
+
+#Game No : 500132935
+***** 888poker Hand History for Game 500132935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 13:39:16
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ambulance22 ( $0.92 )
+Seat 6: Erakkokala ( $2.05 )
+Erakkokala posts small blind [$0.01]
+ambulance22 posts big blind [$0.02]
+** Dealing down cards **
+Erakkokala raises [$0.05]
+ambulance22 calls [$0.04]
+** Dealing flop ** [ 5d, 4s, 8d ]
+ambulance22 checks
+Erakkokala checks
+** Dealing turn ** [ 9s ]
+ambulance22 checks
+Erakkokala checks
+** Dealing river ** [ 5s ]
+ambulance22 checks
+Erakkokala checks
+** Summary **
+ambulance22 shows [ 6c, Kh ]
+Erakkokala shows [ Ah, Tc ]
+Erakkokala collected [ $0.12 ]
+
+
+#Game No : 500134463
+***** 888poker Hand History for Game 500134463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:10:44
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: odynphound ( $0.80 )
+Seat 7: LevaniMazana ( $2.01 )
+odynphound posts small blind [$0.01]
+LevaniMazana posts big blind [$0.02]
+** Dealing down cards **
+odynphound folds
+** Summary **
+LevaniMazana collected [ $0.03 ]
+
+

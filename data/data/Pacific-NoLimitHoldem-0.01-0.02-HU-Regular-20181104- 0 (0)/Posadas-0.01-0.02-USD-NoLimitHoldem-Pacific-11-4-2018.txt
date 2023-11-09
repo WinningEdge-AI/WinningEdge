@@ -1,0 +1,31 @@
+#Game No : 610339663
+***** 888poker Hand History for Game 610339663 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 02:30:59
+Table Posadas 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.98 )
+Seat 5: dronf333 ( $2.02 )
+avramia1 posts small blind [$0.01]
+dronf333 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.05]
+dronf333 calls [$0.04]
+** Dealing flop ** [ Ts, 4h, 8h ]
+dronf333 bets [$0.06]
+avramia1 raises [$0.12]
+dronf333 calls [$0.06]
+** Dealing turn ** [ Ac ]
+dronf333 checks
+avramia1 checks
+** Dealing river ** [ Ks ]
+dronf333 bets [$0.36]
+avramia1 raises [$1.08]
+dronf333 raises [$1.48]
+avramia1 calls [$0.72]
+** Summary **
+avramia1 shows [ Kc, Kd ]
+dronf333 shows [ Qs, Jd ]
+dronf333 collected [ $3.72 ]
+
+

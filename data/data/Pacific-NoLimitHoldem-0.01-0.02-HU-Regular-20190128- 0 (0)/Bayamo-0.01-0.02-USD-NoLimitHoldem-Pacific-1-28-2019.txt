@@ -1,0 +1,69 @@
+#Game No : 512855248
+***** 888poker Hand History for Game 512855248 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 00:46:59
+Table Bayamo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: set4d ( $1.11 )
+Seat 7: cetyke ( $2 )
+cetyke posts small blind [$0.01]
+set4d posts big blind [$0.02]
+** Dealing down cards **
+cetyke calls [$0.01]
+set4d checks
+** Dealing flop ** [ Ac, 5s, 4s ]
+set4d checks
+cetyke checks
+** Dealing turn ** [ 2c ]
+set4d checks
+cetyke bets [$0.34]
+set4d folds
+** Summary **
+cetyke did not show his hand
+cetyke collected [ $0.04 ]
+
+
+#Game No : 512855263
+***** 888poker Hand History for Game 512855263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 00:47:39
+Table Bayamo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: set4d ( $1.09 )
+Seat 7: cetyke ( $2.02 )
+set4d posts small blind [$0.01]
+cetyke posts big blind [$0.02]
+** Dealing down cards **
+set4d raises [$1.08]
+cetyke folds
+** Summary **
+set4d did not show his hand
+set4d collected [ $0.04 ]
+
+
+#Game No : 512855271
+***** 888poker Hand History for Game 512855271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 00:47:57
+Table Bayamo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: set4d ( $1.11 )
+Seat 7: cetyke ( $2 )
+cetyke posts small blind [$0.01]
+set4d posts big blind [$0.02]
+** Dealing down cards **
+cetyke calls [$0.01]
+set4d checks
+** Dealing flop ** [ 5s, 2c, 7d ]
+set4d bets [$0.02]
+cetyke calls [$0.02]
+** Dealing turn ** [ Ks ]
+set4d bets [$0.06]
+cetyke calls [$0.06]
+** Dealing river ** [ Ah ]
+set4d bets [$1.01]
+cetyke folds
+** Summary **
+set4d collected [ $0.19 ]
+
+

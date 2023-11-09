@@ -1,0 +1,302 @@
+#Game No : 452585115
+***** 888poker Hand History for Game 452585115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 04:04:37
+Table Southport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: snackie53 ( $2 )
+Seat 2: havenwarrior ( $2 )
+snackie53 posts small blind [$0.01]
+havenwarrior posts big blind [$0.02]
+** Dealing down cards **
+snackie53 raises [$0.03]
+havenwarrior calls [$0.02]
+** Dealing flop ** [ Qh, 8s, Jd ]
+havenwarrior checks
+snackie53 bets [$0.08]
+havenwarrior folds
+** Summary **
+snackie53 collected [ $0.08 ]
+
+
+#Game No : 452585121
+***** 888poker Hand History for Game 452585121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 04:04:54
+Table Southport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: snackie53 ( $2.04 )
+Seat 2: havenwarrior ( $1.96 )
+havenwarrior posts small blind [$0.01]
+snackie53 posts big blind [$0.02]
+** Dealing down cards **
+havenwarrior raises [$0.05]
+snackie53 calls [$0.04]
+** Dealing flop ** [ Th, Ah, Td ]
+snackie53 bets [$0.06]
+havenwarrior calls [$0.06]
+** Dealing turn ** [ 2s ]
+snackie53 bets [$0.02]
+havenwarrior calls [$0.02]
+** Dealing river ** [ Kc ]
+snackie53 bets [$0.02]
+havenwarrior calls [$0.02]
+** Summary **
+snackie53 shows [ Ks, 5s ]
+havenwarrior mucks [ 6d, 7d ]
+snackie53 collected [ $0.30 ]
+
+
+#Game No : 452588555
+***** 888poker Hand History for Game 452588555 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 06:22:09
+Table Southport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ekonievic ( $2.07 )
+Seat 5: 9black3 ( $2 )
+ekonievic posts small blind [$0.01]
+** Dealing down cards **
+9black3 folds
+** Summary **
+ekonievic did not show his hand
+ekonievic collected [ $0.01 ]
+
+
+#Game No : 452588874
+***** 888poker Hand History for Game 452588874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 06:33:45
+Table Southport 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Fl8man ( $1.85 )
+Seat 6: ezoterica ( $2.13 )
+ezoterica posts small blind [$0.01]
+Fl8man posts big blind [$0.02]
+** Dealing down cards **
+ezoterica raises [$0.05]
+Fl8man calls [$0.04]
+** Dealing flop ** [ 7c, Qh, 4c ]
+Fl8man checks
+ezoterica checks
+** Dealing turn ** [ 8c ]
+Fl8man checks
+ezoterica checks
+** Dealing river ** [ 2d ]
+Fl8man checks
+ezoterica checks
+** Summary **
+Fl8man shows [ Td, Jc ]
+ezoterica shows [ Ts, Jd ]
+Fl8man collected [ $0.06 ]
+ezoterica collected [ $0.06 ]
+
+
+#Game No : 452593366
+***** 888poker Hand History for Game 452593366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:14:37
+Table Southport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: dinontt ( $2.02 )
+Seat 5: andron7408 ( $2.17 )
+dinontt posts small blind [$0.01]
+andron7408 posts big blind [$0.02]
+** Dealing down cards **
+dinontt raises [$0.05]
+andron7408 raises [$0.12]
+dinontt calls [$0.08]
+** Dealing flop ** [ 7s, 3s, 7d ]
+andron7408 checks
+dinontt bets [$0.18]
+andron7408 calls [$0.18]
+** Dealing turn ** [ Ad ]
+andron7408 bets [$0.32]
+dinontt folds
+** Summary **
+andron7408 collected [ $0.60 ]
+
+
+#Game No : 452593380
+***** 888poker Hand History for Game 452593380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:15:03
+Table Southport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: dinontt ( $1.70 )
+Seat 5: andron7408 ( $2.45 )
+andron7408 posts small blind [$0.01]
+dinontt posts big blind [$0.02]
+** Dealing down cards **
+andron7408 folds
+** Summary **
+dinontt collected [ $0.03 ]
+
+
+#Game No : 452593383
+***** 888poker Hand History for Game 452593383 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:15:08
+Table Southport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: dinontt ( $1.71 )
+Seat 5: andron7408 ( $2.44 )
+dinontt posts small blind [$0.01]
+andron7408 posts big blind [$0.02]
+** Dealing down cards **
+dinontt calls [$0.01]
+andron7408 checks
+** Dealing flop ** [ 7h, 9s, Js ]
+andron7408 checks
+dinontt checks
+** Dealing turn ** [ Ac ]
+andron7408 checks
+dinontt checks
+** Dealing river ** [ Th ]
+andron7408 checks
+dinontt checks
+** Summary **
+andron7408 shows [ 2c, 5s ]
+dinontt shows [ 2h, 5h ]
+andron7408 collected [ $0.02 ]
+dinontt collected [ $0.02 ]
+
+
+#Game No : 452593394
+***** 888poker Hand History for Game 452593394 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:15:28
+Table Southport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: dinontt ( $2 )
+Seat 5: andron7408 ( $2.44 )
+andron7408 posts small blind [$0.01]
+dinontt posts big blind [$0.02]
+** Dealing down cards **
+andron7408 folds
+** Summary **
+dinontt collected [ $0.03 ]
+
+
+#Game No : 452593397
+***** 888poker Hand History for Game 452593397 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:15:34
+Table Southport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: dinontt ( $2.01 )
+Seat 5: andron7408 ( $2.43 )
+dinontt posts small blind [$0.01]
+andron7408 posts big blind [$0.02]
+** Dealing down cards **
+dinontt calls [$0.01]
+andron7408 checks
+** Dealing flop ** [ Ts, Jc, 3s ]
+andron7408 bets [$0.04]
+dinontt calls [$0.04]
+** Dealing turn ** [ Js ]
+andron7408 bets [$0.12]
+dinontt calls [$0.12]
+** Dealing river ** [ 8s ]
+andron7408 checks
+dinontt bets [$0.24]
+andron7408 folds
+** Summary **
+dinontt collected [ $0.34 ]
+
+
+#Game No : 452593415
+***** 888poker Hand History for Game 452593415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:16:08
+Table Southport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: dinontt ( $2.17 )
+Seat 5: andron7408 ( $2.25 )
+andron7408 posts small blind [$0.01]
+dinontt posts big blind [$0.02]
+** Dealing down cards **
+andron7408 folds
+** Summary **
+dinontt collected [ $0.03 ]
+
+
+#Game No : 452593418
+***** 888poker Hand History for Game 452593418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:16:13
+Table Southport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: dinontt ( $2.18 )
+Seat 5: andron7408 ( $2.24 )
+dinontt posts small blind [$0.01]
+andron7408 posts big blind [$0.02]
+** Dealing down cards **
+dinontt calls [$0.01]
+andron7408 checks
+** Dealing flop ** [ 7s, 3d, 8s ]
+andron7408 bets [$0.04]
+dinontt folds
+** Summary **
+andron7408 collected [ $0.04 ]
+
+
+#Game No : 452593429
+***** 888poker Hand History for Game 452593429 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:16:30
+Table Southport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: dinontt ( $2.16 )
+Seat 5: andron7408 ( $2.26 )
+andron7408 posts small blind [$0.01]
+dinontt posts big blind [$0.02]
+** Dealing down cards **
+andron7408 raises [$0.05]
+dinontt calls [$0.04]
+** Dealing flop ** [ Ah, 3h, 3c ]
+dinontt checks
+andron7408 bets [$0.06]
+dinontt folds
+** Summary **
+andron7408 collected [ $0.12 ]
+
+
+#Game No : 452593444
+***** 888poker Hand History for Game 452593444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:16:51
+Table Southport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: dinontt ( $2.10 )
+Seat 5: andron7408 ( $2.32 )
+dinontt posts small blind [$0.01]
+andron7408 posts big blind [$0.02]
+** Dealing down cards **
+dinontt calls [$0.01]
+andron7408 checks
+** Dealing flop ** [ Jd, Qh, 6s ]
+andron7408 checks
+dinontt bets [$0.04]
+andron7408 folds
+** Summary **
+dinontt collected [ $0.04 ]
+
+
+#Game No : 452593460
+***** 888poker Hand History for Game 452593460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 06 2018 09:17:15
+Table Southport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: dinontt ( $2.12 )
+Seat 5: andron7408 ( $2.30 )
+andron7408 posts small blind [$0.01]
+dinontt posts big blind [$0.02]
+** Dealing down cards **
+andron7408 raises [$0.05]
+dinontt folds
+** Summary **
+andron7408 collected [ $0.04 ]
+
+

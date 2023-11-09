@@ -1,0 +1,44 @@
+#Game No : 514303351
+***** 888poker Hand History for Game 514303351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 16:16:11
+Table Craiova 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: maks_886 ( $4.45 )
+Seat 9: HerrCul ( $6.15 )
+HerrCul posts small blind [$0.01]
+maks_886 posts big blind [$0.02]
+** Dealing down cards **
+HerrCul raises [$0.03]
+maks_886 calls [$0.02]
+** Dealing flop ** [ 7s, 7c, 8d ]
+maks_886 checks
+HerrCul checks
+** Dealing turn ** [ 9d ]
+maks_886 checks
+HerrCul checks
+** Dealing river ** [ Qs ]
+maks_886 bets [$0.06]
+HerrCul folds
+** Summary **
+maks_886 did not show his hand
+maks_886 collected [ $0.08 ]
+
+
+#Game No : 514303364
+***** 888poker Hand History for Game 514303364 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 16:16:33
+Table Craiova 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: maks_886 ( $4.49 )
+Seat 9: HerrCul ( $6.11 )
+maks_886 posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+maks_886 folds
+** Summary **
+HerrCul did not show his hand
+HerrCul collected [ $0.03 ]
+
+

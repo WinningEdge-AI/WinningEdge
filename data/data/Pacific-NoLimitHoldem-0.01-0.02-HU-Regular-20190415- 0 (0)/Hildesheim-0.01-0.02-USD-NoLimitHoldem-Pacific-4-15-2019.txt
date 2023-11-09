@@ -1,0 +1,44 @@
+#Game No : 528924613
+***** 888poker Hand History for Game 528924613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 04 2019 01:41:09
+Table Hildesheim 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: hatchetlewis ( $1.49 )
+Seat 4: ivankand ( $1.09 )
+ivankand posts small blind [$0.01]
+hatchetlewis posts big blind [$0.02]
+** Dealing down cards **
+ivankand calls [$0.01]
+hatchetlewis checks
+** Dealing flop ** [ 9d, Qh, 2d ]
+hatchetlewis checks
+ivankand checks
+** Dealing turn ** [ Ah ]
+hatchetlewis checks
+ivankand checks
+** Dealing river ** [ 9c ]
+hatchetlewis checks
+ivankand checks
+** Summary **
+hatchetlewis shows [ 4c, Kd ]
+ivankand shows [ 3c, 2c ]
+ivankand collected [ $0.04 ]
+
+
+#Game No : 528924628
+***** 888poker Hand History for Game 528924628 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 04 2019 01:41:45
+Table Hildesheim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: hatchetlewis ( $1.47 )
+Seat 4: ivankand ( $1.11 )
+hatchetlewis posts small blind [$0.01]
+** Dealing down cards **
+ivankand folds
+** Summary **
+hatchetlewis did not show his hand
+hatchetlewis collected [ $0.01 ]
+
+

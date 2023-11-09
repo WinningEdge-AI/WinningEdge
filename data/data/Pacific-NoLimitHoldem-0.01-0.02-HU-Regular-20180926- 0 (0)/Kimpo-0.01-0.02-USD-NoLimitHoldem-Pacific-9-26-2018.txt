@@ -1,0 +1,537 @@
+#Game No : 608660541
+***** 888poker Hand History for Game 608660541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 23:43:16
+Table Kimpo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: spr349 ( $1.41 )
+Seat 5: dzhon2004 ( $1.08 )
+dzhon2004 posts small blind [$0.01]
+spr349 posts big blind [$0.02]
+** Dealing down cards **
+dzhon2004 raises [$0.03]
+spr349 calls [$0.02]
+** Dealing flop ** [ Jc, 5d, 3c ]
+spr349 bets [$0.06]
+dzhon2004 raises [$0.12]
+spr349 raises [$1.31]
+dzhon2004 calls [$0.92]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 2c ]
+** Summary **
+spr349 shows [ Qc, 9s ]
+dzhon2004 shows [ Jd, Kh ]
+dzhon2004 collected [ $2.03 ]
+
+
+#Game No : 608660571
+***** 888poker Hand History for Game 608660571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 09 2018 23:45:04
+Table Kimpo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: var2811 ( $0.80 )
+Seat 5: dzhon2004 ( $2.03 )
+dzhon2004 posts small blind [$0.01]
+var2811 posts big blind [$0.02]
+** Dealing down cards **
+dzhon2004 calls [$0.01]
+var2811 raises [$0.04]
+dzhon2004 folds
+** Summary **
+var2811 collected [ $0.04 ]
+
+
+#Game No : 502927780
+***** 888poker Hand History for Game 502927780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 01:00:39
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hooizefeng63 ( $0.98 )
+Seat 4: lipton4ai ( $1.02 )
+hooizefeng63 posts small blind [$0.01]
+lipton4ai posts big blind [$0.02]
+** Dealing down cards **
+hooizefeng63 calls [$0.01]
+lipton4ai raises [$0.06]
+hooizefeng63 calls [$0.06]
+** Dealing flop ** [ 6s, 9c, 3d ]
+lipton4ai bets [$0.08]
+hooizefeng63 raises [$0.16]
+lipton4ai calls [$0.08]
+** Dealing turn ** [ 9h ]
+lipton4ai checks
+hooizefeng63 checks
+** Dealing river ** [ 5c ]
+lipton4ai checks
+hooizefeng63 bets [$0.32]
+lipton4ai folds
+** Summary **
+hooizefeng63 did not show his hand
+hooizefeng63 collected [ $0.45 ]
+
+
+#Game No : 502927800
+***** 888poker Hand History for Game 502927800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 01:00:47
+Table Kimpo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: hooizefeng63 ( $1.19 )
+Seat 4: lipton4ai ( $1 )
+lipton4ai posts small blind [$0.01]
+hooizefeng63 posts big blind [$0.02]
+** Dealing down cards **
+lipton4ai folds
+** Summary **
+hooizefeng63 did not show his hand
+hooizefeng63 collected [ $0.03 ]
+
+
+#Game No : 502927803
+***** 888poker Hand History for Game 502927803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 01:00:51
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hooizefeng63 ( $1.20 )
+Seat 4: lipton4ai ( $1 )
+hooizefeng63 posts small blind [$0.01]
+lipton4ai posts big blind [$0.02]
+** Dealing down cards **
+hooizefeng63 folds
+** Summary **
+lipton4ai did not show his hand
+lipton4ai collected [ $0.03 ]
+
+
+#Game No : 502934412
+***** 888poker Hand History for Game 502934412 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 04:27:01
+Table Kimpo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: fuNKRN ( $1.09 )
+Seat 7: idmntv ( $1.40 )
+idmntv posts small blind [$0.01]
+fuNKRN posts big blind [$0.02]
+** Dealing down cards **
+idmntv folds
+** Summary **
+fuNKRN collected [ $0.03 ]
+
+
+#Game No : 502934417
+***** 888poker Hand History for Game 502934417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 04:27:09
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: fuNKRN ( $1.10 )
+Seat 7: idmntv ( $1.39 )
+fuNKRN posts small blind [$0.01]
+** Dealing down cards **
+idmntv folds
+** Summary **
+fuNKRN collected [ $0.01 ]
+
+
+#Game No : 502941487
+***** 888poker Hand History for Game 502941487 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:32:49
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: patrickzwahl ( $0.80 )
+Seat 9: Pinvax ( $0.80 )
+patrickzwahl posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+patrickzwahl calls [$0.01]
+Pinvax checks
+** Dealing flop ** [ Js, Ac, 3h ]
+Pinvax checks
+patrickzwahl checks
+** Dealing turn ** [ Td ]
+Pinvax bets [$0.02]
+patrickzwahl calls [$0.02]
+** Dealing river ** [ 6d ]
+Pinvax checks
+patrickzwahl checks
+** Summary **
+Pinvax shows [ Tc, 2c ]
+patrickzwahl mucks [ Kc, 5c ]
+Pinvax collected [ $0.08 ]
+
+
+#Game No : 502941512
+***** 888poker Hand History for Game 502941512 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:33:04
+Table Kimpo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: patrickzwahl ( $0.76 )
+Seat 9: Pinvax ( $0.84 )
+Pinvax posts small blind [$0.01]
+patrickzwahl posts big blind [$0.02]
+** Dealing down cards **
+Pinvax folds
+** Summary **
+patrickzwahl did not show his hand
+patrickzwahl collected [ $0.03 ]
+
+
+#Game No : 502941516
+***** 888poker Hand History for Game 502941516 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:33:09
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: patrickzwahl ( $0.77 )
+Seat 9: Pinvax ( $0.83 )
+patrickzwahl posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+patrickzwahl calls [$0.01]
+Pinvax checks
+** Dealing flop ** [ 7c, Js, 8h ]
+Pinvax checks
+patrickzwahl checks
+** Dealing turn ** [ 2d ]
+Pinvax checks
+patrickzwahl checks
+** Dealing river ** [ 9c ]
+Pinvax checks
+patrickzwahl bets [$0.02]
+Pinvax folds
+** Summary **
+patrickzwahl did not show his hand
+patrickzwahl collected [ $0.04 ]
+
+
+#Game No : 502941530
+***** 888poker Hand History for Game 502941530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:33:28
+Table Kimpo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: patrickzwahl ( $0.79 )
+Seat 9: Pinvax ( $0.81 )
+Pinvax posts small blind [$0.01]
+patrickzwahl posts big blind [$0.02]
+** Dealing down cards **
+Pinvax calls [$0.01]
+patrickzwahl checks
+** Dealing flop ** [ Jh, Td, 2s ]
+patrickzwahl checks
+Pinvax checks
+** Dealing turn ** [ 8c ]
+patrickzwahl checks
+Pinvax bets [$0.02]
+patrickzwahl calls [$0.02]
+** Dealing river ** [ Kd ]
+patrickzwahl checks
+Pinvax checks
+** Summary **
+patrickzwahl shows [ 9s, 5d ]
+Pinvax shows [ 3s, Qh ]
+Pinvax collected [ $0.08 ]
+
+
+#Game No : 502941546
+***** 888poker Hand History for Game 502941546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:33:50
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: patrickzwahl ( $0.75 )
+Seat 9: Pinvax ( $0.85 )
+patrickzwahl posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+patrickzwahl calls [$0.01]
+Pinvax checks
+** Dealing flop ** [ 7h, 4h, 3d ]
+Pinvax bets [$0.02]
+patrickzwahl calls [$0.02]
+** Dealing turn ** [ Ks ]
+Pinvax checks
+patrickzwahl checks
+** Dealing river ** [ Td ]
+Pinvax checks
+patrickzwahl checks
+** Summary **
+Pinvax shows [ 9c, 5c ]
+patrickzwahl shows [ 8s, Qh ]
+patrickzwahl collected [ $0.08 ]
+
+
+#Game No : 502945052
+***** 888poker Hand History for Game 502945052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 08:58:41
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SlavikMark79 ( $1.21 )
+Seat 6: co98nst41 ( $1.04 )
+co98nst41 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+SlavikMark79 raises [$0.04]
+co98nst41 folds
+** Summary **
+SlavikMark79 did not show his hand
+SlavikMark79 collected [ $0.04 ]
+
+
+#Game No : 502955145
+***** 888poker Hand History for Game 502955145 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 11:57:44
+Table Kimpo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: SeGa.N. ( $1.48 )
+Seat 9: DronstR ( $1.60 )
+DronstR posts small blind [$0.01]
+SeGa.N. posts big blind [$0.02]
+** Dealing down cards **
+DronstR folds
+** Summary **
+SeGa.N. did not show his hand
+SeGa.N. collected [ $0.03 ]
+
+
+#Game No : 502955155
+***** 888poker Hand History for Game 502955155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 11:57:49
+Table Kimpo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SeGa.N. ( $1.49 )
+Seat 9: DronstR ( $1.59 )
+SeGa.N. posts small blind [$0.01]
+DronstR posts big blind [$0.02]
+** Dealing down cards **
+SeGa.N. raises [$0.03]
+DronstR calls [$0.02]
+** Dealing flop ** [ 7d, Th, 3c ]
+DronstR checks
+SeGa.N. bets [$0.04]
+DronstR folds
+** Summary **
+SeGa.N. did not show his hand
+SeGa.N. collected [ $0.08 ]
+
+
+#Game No : 502955180
+***** 888poker Hand History for Game 502955180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 11:58:12
+Table Kimpo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: SeGa.N. ( $1.53 )
+Seat 9: DronstR ( $1.55 )
+DronstR posts small blind [$0.01]
+SeGa.N. posts big blind [$0.02]
+** Dealing down cards **
+DronstR raises [$0.05]
+SeGa.N. folds
+** Summary **
+DronstR collected [ $0.04 ]
+
+
+#Game No : 502955190
+***** 888poker Hand History for Game 502955190 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 11:58:21
+Table Kimpo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SeGa.N. ( $1.51 )
+Seat 9: DronstR ( $1.57 )
+SeGa.N. posts small blind [$0.01]
+DronstR posts big blind [$0.02]
+** Dealing down cards **
+SeGa.N. folds
+** Summary **
+DronstR collected [ $0.03 ]
+
+
+#Game No : 502961390
+***** 888poker Hand History for Game 502961390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 13:31:07
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $1.01 )
+Seat 2: ZOrG01 ( $2.42 )
+VictimVIP posts small blind [$0.01]
+ZOrG01 posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+ZOrG01 collected [ $0.03 ]
+
+
+#Game No : 502961395
+***** 888poker Hand History for Game 502961395 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 13:31:12
+Table Kimpo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: VictimVIP ( $1 )
+Seat 2: ZOrG01 ( $2.43 )
+ZOrG01 posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+ZOrG01 raises [$0.05]
+VictimVIP folds
+** Summary **
+ZOrG01 collected [ $0.04 ]
+
+
+#Game No : 502961475
+***** 888poker Hand History for Game 502961475 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 13:32:21
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jonboy99887 ( $1.03 )
+Seat 6: raw0707 ( $0.80 )
+raw0707 posts small blind [$0.01]
+jonboy99887 posts big blind [$0.02]
+** Dealing down cards **
+raw0707 raises [$0.05]
+jonboy99887 calls [$0.04]
+** Dealing flop ** [ 7d, 3s, 2s ]
+jonboy99887 checks
+raw0707 bets [$0.12]
+jonboy99887 folds
+** Summary **
+raw0707 collected [ $0.12 ]
+
+
+#Game No : 502961490
+***** 888poker Hand History for Game 502961490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 13:32:38
+Table Kimpo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: jonboy99887 ( $0.97 )
+Seat 6: raw0707 ( $0.86 )
+jonboy99887 posts small blind [$0.01]
+raw0707 posts big blind [$0.02]
+** Dealing down cards **
+jonboy99887 calls [$0.01]
+raw0707 checks
+** Dealing flop ** [ 7c, Qd, 2s ]
+raw0707 checks
+jonboy99887 checks
+** Dealing turn ** [ 4c ]
+raw0707 checks
+jonboy99887 checks
+** Dealing river ** [ 3c ]
+raw0707 checks
+jonboy99887 checks
+** Summary **
+raw0707 shows [ 9h, Ah ]
+jonboy99887 mucks [ Ks, 6h ]
+raw0707 collected [ $0.04 ]
+
+
+#Game No : 502961519
+***** 888poker Hand History for Game 502961519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 13:33:02
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: jonboy99887 ( $0.95 )
+Seat 6: raw0707 ( $0.88 )
+raw0707 posts small blind [$0.01]
+jonboy99887 posts big blind [$0.02]
+** Dealing down cards **
+raw0707 calls [$0.01]
+jonboy99887 checks
+** Dealing flop ** [ Js, Jd, 5c ]
+jonboy99887 checks
+raw0707 checks
+** Dealing turn ** [ 6c ]
+jonboy99887 checks
+raw0707 bets [$0.02]
+jonboy99887 folds
+** Summary **
+raw0707 collected [ $0.04 ]
+
+
+#Game No : 502965395
+***** 888poker Hand History for Game 502965395 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:35:59
+Table Kimpo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: ConcorBoy ( $1.16 )
+Seat 6: hejomocr ( $1.98 )
+hejomocr posts small blind [$0.01]
+ConcorBoy posts big blind [$0.02]
+** Dealing down cards **
+hejomocr folds
+** Summary **
+ConcorBoy collected [ $0.03 ]
+
+
+#Game No : 502965413
+***** 888poker Hand History for Game 502965413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:36:16
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ConcorBoy ( $1.17 )
+Seat 6: hejomocr ( $1.97 )
+ConcorBoy posts small blind [$0.01]
+hejomocr posts big blind [$0.02]
+** Dealing down cards **
+ConcorBoy folds
+** Summary **
+hejomocr collected [ $0.03 ]
+
+
+#Game No : 502965443
+***** 888poker Hand History for Game 502965443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:36:55
+Table Kimpo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ConcorBoy ( $1.05 )
+Seat 2: Richarch99 ( $1.10 )
+Richarch99 posts small blind [$0.01]
+ConcorBoy posts big blind [$0.02]
+** Dealing down cards **
+Richarch99 raises [$0.03]
+ConcorBoy folds
+** Summary **
+Richarch99 collected [ $0.04 ]
+
+
+#Game No : 502965446
+***** 888poker Hand History for Game 502965446 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 14:37:03
+Table Kimpo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ConcorBoy ( $1.03 )
+Seat 2: Richarch99 ( $1.12 )
+ConcorBoy posts small blind [$0.01]
+Richarch99 posts big blind [$0.02]
+** Dealing down cards **
+ConcorBoy raises [$0.05]
+Richarch99 calls [$0.04]
+** Dealing flop ** [ Kh, Ac, 4s ]
+Richarch99 checks
+ConcorBoy bets [$0.06]
+Richarch99 raises [$0.12]
+ConcorBoy folds
+** Summary **
+Richarch99 collected [ $0.23 ]
+
+

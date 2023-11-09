@@ -1,0 +1,44 @@
+#Game No : 527470294
+***** 888poker Hand History for Game 527470294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 01:47:11
+Table Jamundi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 2: ANevskiy ( $1.80 )
+Seat 4: Exo777 ( $3.23 )
+ANevskiy posts small blind [$0.01]
+** Dealing down cards **
+Exo777 folds
+** Summary **
+ANevskiy collected [ $0.01 ]
+
+
+#Game No : 527470297
+***** 888poker Hand History for Game 527470297 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 02 2020 01:47:13
+Table Jamundi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: fanil116 ( $5.22 )
+Seat 2: ANevskiy ( $1.80 )
+ANevskiy posts small blind [$0.01]
+fanil116 posts big blind [$0.02]
+** Dealing down cards **
+ANevskiy calls [$0.01]
+fanil116 raises [$0.04]
+ANevskiy calls [$0.04]
+** Dealing flop ** [ 7s, 9s, 8c ]
+fanil116 bets [$0.06]
+ANevskiy calls [$0.06]
+** Dealing turn ** [ Kc ]
+fanil116 checks
+ANevskiy bets [$0.12]
+fanil116 calls [$0.12]
+** Dealing river ** [ 3h ]
+fanil116 checks
+ANevskiy bets [$0.24]
+fanil116 folds
+** Summary **
+ANevskiy collected [ $0.45 ]
+
+

@@ -1,0 +1,102 @@
+#Game No : 519350880
+***** 888poker Hand History for Game 519350880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2019 02:35:41
+Table Baia Mare 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ERn_san ( $2.08 )
+Seat 9: Marik1006 ( $2.58 )
+Marik1006 posts small blind [$0.01]
+ERn_san posts big blind [$0.02]
+** Dealing down cards **
+Marik1006 raises [$0.04]
+ERn_san calls [$0.03]
+** Dealing flop ** [ 6d, 2s, 2h ]
+ERn_san checks
+Marik1006 bets [$0.03]
+ERn_san calls [$0.03]
+** Dealing turn ** [ 2c ]
+ERn_san checks
+Marik1006 bets [$0.10]
+ERn_san calls [$0.10]
+** Dealing river ** [ 4h ]
+ERn_san bets [$0.18]
+Marik1006 calls [$0.18]
+** Summary **
+ERn_san shows [ 5c, As ]
+Marik1006 shows [ 6c, 6h ]
+Marik1006 collected [ $0.68 ]
+
+
+#Game No : 519350911
+***** 888poker Hand History for Game 519350911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2019 02:36:42
+Table Baia Mare 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ERn_san ( $2 )
+Seat 9: Marik1006 ( $2.90 )
+ERn_san posts small blind [$0.01]
+Marik1006 posts big blind [$0.02]
+** Dealing down cards **
+ERn_san folds
+** Summary **
+Marik1006 collected [ $0.03 ]
+
+
+#Game No : 519352096
+***** 888poker Hand History for Game 519352096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2019 03:20:01
+Table Baia Mare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MaxPayne_174 ( $1.40 )
+Seat 9: Marik1006 ( $3.05 )
+MaxPayne_174 posts small blind [$0.01]
+Marik1006 posts big blind [$0.02]
+** Dealing down cards **
+MaxPayne_174 raises [$0.03]
+Marik1006 folds
+** Summary **
+MaxPayne_174 collected [ $0.04 ]
+
+
+#Game No : 519352103
+***** 888poker Hand History for Game 519352103 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2019 03:20:13
+Table Baia Mare 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: MaxPayne_174 ( $1.42 )
+Seat 9: Marik1006 ( $3.03 )
+Marik1006 posts small blind [$0.01]
+MaxPayne_174 posts big blind [$0.02]
+** Dealing down cards **
+Marik1006 raises [$0.04]
+MaxPayne_174 calls [$0.03]
+** Dealing flop ** [ 5c, Jc, Ad ]
+MaxPayne_174 checks
+Marik1006 checks
+** Dealing turn ** [ 3c ]
+MaxPayne_174 bets [$0.05]
+Marik1006 folds
+** Summary **
+MaxPayne_174 collected [ $0.10 ]
+
+
+#Game No : 519352111
+***** 888poker Hand History for Game 519352111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 07 2019 03:20:35
+Table Baia Mare 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MaxPayne_174 ( $1.47 )
+Seat 9: Marik1006 ( $2.98 )
+MaxPayne_174 posts small blind [$0.01]
+Marik1006 posts big blind [$0.02]
+** Dealing down cards **
+MaxPayne_174 folds
+** Summary **
+Marik1006 collected [ $0.03 ]
+
+

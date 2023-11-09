@@ -1,0 +1,63 @@
+#Game No : 620090288
+***** 888poker Hand History for Game 620090288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 17:59:03
+Table Nis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 4u4elooo ( $1.66 )
+Seat 6: nicksky1 ( $2 )
+4u4elooo posts small blind [$0.01]
+nicksky1 posts big blind [$0.02]
+** Dealing down cards **
+4u4elooo raises [$0.05]
+nicksky1 calls [$0.04]
+** Dealing flop ** [ 2d, Th, 4d ]
+nicksky1 checks
+4u4elooo bets [$0.08]
+nicksky1 folds
+** Summary **
+4u4elooo collected [ $0.12 ]
+
+
+#Game No : 620092053
+***** 888poker Hand History for Game 620092053 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 19:24:22
+Table Nis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: i_am_you_ ( $1.09 )
+Seat 7: Wck54 ( $2.15 )
+i_am_you_ posts small blind [$0.01]
+Wck54 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+Wck54 collected [ $0.03 ]
+
+
+#Game No : 620092056
+***** 888poker Hand History for Game 620092056 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 05 2019 19:24:27
+Table Nis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: i_am_you_ ( $1.08 )
+Seat 7: Wck54 ( $2.16 )
+Wck54 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+Wck54 raises [$0.03]
+i_am_you_ calls [$0.02]
+** Dealing flop ** [ 8c, 7d, 6h ]
+i_am_you_ checks
+Wck54 checks
+** Dealing turn ** [ Ts ]
+i_am_you_ checks
+Wck54 checks
+** Dealing river ** [ 4c ]
+i_am_you_ bets [$0.08]
+Wck54 folds
+** Summary **
+i_am_you_ collected [ $0.08 ]
+
+

@@ -1,0 +1,56 @@
+#Game No : 608288876
+***** 888poker Hand History for Game 608288876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 07:19:49
+Table Ufa 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Vladimir_Pv ( $0.80 )
+Seat 5: djangoninja ( $0.80 )
+Vladimir_Pv posts small blind [$0.01]
+djangoninja posts big blind [$0.02]
+** Dealing down cards **
+Vladimir_Pv calls [$0.01]
+djangoninja checks
+** Dealing flop ** [ Ad, 3c, 8h ]
+djangoninja checks
+Vladimir_Pv bets [$0.02]
+djangoninja calls [$0.02]
+** Dealing turn ** [ 7c ]
+djangoninja bets [$0.05]
+Vladimir_Pv calls [$0.05]
+** Dealing river ** [ 3h ]
+djangoninja checks
+Vladimir_Pv bets [$0.09]
+djangoninja calls [$0.09]
+** Summary **
+Vladimir_Pv shows [ Jh, Ah ]
+djangoninja mucks [ 7h, Ks ]
+Vladimir_Pv collected [ $0.34 ]
+
+
+#Game No : 608288893
+***** 888poker Hand History for Game 608288893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 07:19:56
+Table Ufa 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Vladimir_Pv ( $0.96 )
+Seat 5: djangoninja ( $0.62 )
+djangoninja posts small blind [$0.01]
+Vladimir_Pv posts big blind [$0.02]
+** Dealing down cards **
+djangoninja calls [$0.01]
+Vladimir_Pv checks
+** Dealing flop ** [ 3d, Ts, 9s ]
+Vladimir_Pv checks
+djangoninja checks
+** Dealing turn ** [ Jc ]
+Vladimir_Pv bets [$0.02]
+djangoninja calls [$0.02]
+** Dealing river ** [ 2s ]
+Vladimir_Pv bets [$0.02]
+djangoninja folds
+** Summary **
+Vladimir_Pv collected [ $0.08 ]
+
+

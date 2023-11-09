@@ -1,0 +1,44 @@
+#Game No : 620175792
+***** 888poker Hand History for Game 620175792 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 03:10:33
+Table Helmond 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Partykiev ( $1 )
+Seat 4: richbranson ( $1 )
+richbranson posts small blind [$0.01]
+Partykiev posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.03]
+Partykiev calls [$0.02]
+** Dealing flop ** [ Kc, 2s, 6s ]
+Partykiev checks
+richbranson checks
+** Dealing turn ** [ 9d ]
+Partykiev checks
+richbranson checks
+** Dealing river ** [ 9s ]
+Partykiev checks
+richbranson checks
+** Summary **
+Partykiev shows [ 3c, Ad ]
+richbranson mucks [ Jc, 7c ]
+Partykiev collected [ $0.08 ]
+
+
+#Game No : 620175887
+***** 888poker Hand History for Game 620175887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 05 2019 03:15:25
+Table Helmond 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.86 )
+Seat 6: winalot28 ( $0.94 )
+winalot28 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+winalot28 folds
+** Summary **
+richbranson collected [ $0.03 ]
+
+

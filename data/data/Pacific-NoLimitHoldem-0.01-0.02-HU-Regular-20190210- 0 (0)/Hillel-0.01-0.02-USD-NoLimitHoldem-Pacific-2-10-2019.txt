@@ -1,0 +1,743 @@
+#Game No : 615475705
+***** 888poker Hand History for Game 615475705 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:51:27
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $2.61 )
+Seat 7: ankitlr ( $1.45 )
+junkyenjoy posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+junkyenjoy raises [$0.03]
+ankitlr raises [$0.10]
+junkyenjoy raises [$0.16]
+ankitlr calls [$0.08]
+** Dealing flop ** [ Ac, 6c, Qc ]
+ankitlr checks
+junkyenjoy bets [$0.26]
+ankitlr calls [$0.26]
+** Dealing turn ** [ 6h ]
+ankitlr checks
+junkyenjoy bets [$0.46]
+ankitlr raises [$0.99]
+junkyenjoy calls [$0.53]
+** Dealing river ** [ 9c ]
+** Summary **
+junkyenjoy shows [ Jh, Kh ]
+ankitlr shows [ Ad, Qs ]
+ankitlr collected [ $2.72 ]
+
+
+#Game No : 615475724
+***** 888poker Hand History for Game 615475724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:52:06
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $1.16 )
+Seat 7: ankitlr ( $2.72 )
+ankitlr posts small blind [$0.01]
+junkyenjoy posts big blind [$0.02]
+** Dealing down cards **
+ankitlr calls [$0.01]
+junkyenjoy checks
+** Dealing flop ** [ 9c, 7s, Tc ]
+junkyenjoy bets [$0.02]
+ankitlr calls [$0.02]
+** Dealing turn ** [ As ]
+junkyenjoy bets [$0.02]
+ankitlr calls [$0.02]
+** Dealing river ** [ Kh ]
+junkyenjoy bets [$0.02]
+ankitlr raises [$0.10]
+junkyenjoy folds
+** Summary **
+ankitlr collected [ $0.15 ]
+
+
+#Game No : 615475734
+***** 888poker Hand History for Game 615475734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:52:31
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $1.08 )
+Seat 7: ankitlr ( $2.79 )
+junkyenjoy posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+junkyenjoy raises [$0.03]
+ankitlr calls [$0.02]
+** Dealing flop ** [ 3s, 8s, 8c ]
+ankitlr checks
+junkyenjoy bets [$0.08]
+ankitlr folds
+** Summary **
+junkyenjoy collected [ $0.08 ]
+
+
+#Game No : 615475743
+***** 888poker Hand History for Game 615475743 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:52:50
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $1.12 )
+Seat 7: ankitlr ( $2.75 )
+ankitlr posts small blind [$0.01]
+junkyenjoy posts big blind [$0.02]
+** Dealing down cards **
+ankitlr calls [$0.01]
+junkyenjoy raises [$0.02]
+ankitlr calls [$0.02]
+** Dealing flop ** [ 4d, 5s, 8h ]
+junkyenjoy bets [$0.08]
+ankitlr calls [$0.08]
+** Dealing turn ** [ 5h ]
+junkyenjoy bets [$0.16]
+ankitlr calls [$0.16]
+** Dealing river ** [ Jc ]
+junkyenjoy bets [$0.56]
+ankitlr folds
+** Summary **
+junkyenjoy collected [ $0.53 ]
+
+
+#Game No : 615475763
+***** 888poker Hand History for Game 615475763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:53:22
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $1.37 )
+Seat 7: ankitlr ( $2.47 )
+junkyenjoy posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+junkyenjoy calls [$0.01]
+ankitlr checks
+** Dealing flop ** [ 6h, 8s, Qd ]
+ankitlr checks
+junkyenjoy bets [$0.02]
+ankitlr calls [$0.02]
+** Dealing turn ** [ 7c ]
+ankitlr checks
+junkyenjoy bets [$0.02]
+ankitlr calls [$0.02]
+** Dealing river ** [ Jh ]
+ankitlr checks
+junkyenjoy bets [$0.02]
+ankitlr calls [$0.02]
+** Summary **
+junkyenjoy shows [ Th, 8h ]
+ankitlr mucks [ 7h, Tc ]
+junkyenjoy collected [ $0.15 ]
+
+
+#Game No : 615475772
+***** 888poker Hand History for Game 615475772 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:53:51
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $1.44 )
+Seat 7: ankitlr ( $2.39 )
+ankitlr posts small blind [$0.01]
+junkyenjoy posts big blind [$0.02]
+** Dealing down cards **
+ankitlr raises [$0.04]
+junkyenjoy calls [$0.03]
+** Dealing flop ** [ Ad, 5c, 3h ]
+junkyenjoy bets [$0.04]
+ankitlr calls [$0.04]
+** Dealing turn ** [ 8c ]
+junkyenjoy bets [$0.18]
+ankitlr calls [$0.18]
+** Dealing river ** [ Jd ]
+junkyenjoy bets [$1.17]
+ankitlr folds
+** Summary **
+junkyenjoy collected [ $0.51 ]
+
+
+#Game No : 615475787
+***** 888poker Hand History for Game 615475787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:54:15
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $1.68 )
+Seat 7: ankitlr ( $2.12 )
+junkyenjoy posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+junkyenjoy raises [$0.03]
+ankitlr calls [$0.02]
+** Dealing flop ** [ 7s, Kd, 5d ]
+ankitlr checks
+junkyenjoy checks
+** Dealing turn ** [ 9h ]
+ankitlr bets [$0.04]
+junkyenjoy calls [$0.04]
+** Dealing river ** [ 8d ]
+ankitlr bets [$0.16]
+junkyenjoy calls [$0.16]
+** Summary **
+ankitlr shows [ 4c, 6h ]
+junkyenjoy mucks [ Ah, 9s ]
+ankitlr collected [ $0.45 ]
+
+
+#Game No : 615475800
+***** 888poker Hand History for Game 615475800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:54:42
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $1.44 )
+Seat 7: ankitlr ( $2.33 )
+ankitlr posts small blind [$0.01]
+junkyenjoy posts big blind [$0.02]
+** Dealing down cards **
+ankitlr calls [$0.01]
+junkyenjoy checks
+** Dealing flop ** [ Jh, Ad, 4c ]
+junkyenjoy bets [$0.02]
+ankitlr calls [$0.02]
+** Dealing turn ** [ 6d ]
+junkyenjoy bets [$0.02]
+ankitlr raises [$0.10]
+junkyenjoy raises [$0.16]
+ankitlr calls [$0.08]
+** Dealing river ** [ 2h ]
+junkyenjoy bets [$0.44]
+ankitlr calls [$0.44]
+** Summary **
+junkyenjoy shows [ 4h, Jd ]
+ankitlr shows [ Js, 6h ]
+ankitlr collected [ $1.24 ]
+
+
+#Game No : 615475817
+***** 888poker Hand History for Game 615475817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:55:16
+Table Hillel 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $0.78 )
+Seat 7: ankitlr ( $2.91 )
+junkyenjoy posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+junkyenjoy calls [$0.01]
+ankitlr checks
+** Dealing flop ** [ Th, Kh, Ts ]
+ankitlr checks
+junkyenjoy checks
+** Dealing turn ** [ 3h ]
+ankitlr checks
+junkyenjoy checks
+** Dealing river ** [ Jd ]
+ankitlr bets [$0.04]
+junkyenjoy folds
+** Summary **
+ankitlr collected [ $0.04 ]
+
+
+#Game No : 615475827
+***** 888poker Hand History for Game 615475827 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 17:55:38
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: junkyenjoy ( $0.76 )
+Seat 7: ankitlr ( $2.93 )
+ankitlr posts small blind [$0.01]
+junkyenjoy posts big blind [$0.02]
+** Dealing down cards **
+ankitlr raises [$0.04]
+junkyenjoy raises [$0.06]
+ankitlr calls [$0.03]
+** Dealing flop ** [ 4s, 5c, 9s ]
+junkyenjoy bets [$0.16]
+ankitlr folds
+** Summary **
+junkyenjoy collected [ $0.15 ]
+
+
+#Game No : 615476922
+***** 888poker Hand History for Game 615476922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:36:00
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: asmak100 ( $1.60 )
+Seat 7: ankitlr ( $1.63 )
+ankitlr posts small blind [$0.01]
+asmak100 posts big blind [$0.02]
+** Dealing down cards **
+ankitlr calls [$0.01]
+asmak100 checks
+** Dealing flop ** [ Qd, Kh, 3h ]
+asmak100 bets [$0.04]
+ankitlr folds
+** Summary **
+asmak100 did not show his hand
+asmak100 collected [ $0.04 ]
+
+
+#Game No : 615476930
+***** 888poker Hand History for Game 615476930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:36:15
+Table Hillel 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: asmak100 ( $1.62 )
+Seat 7: ankitlr ( $1.61 )
+asmak100 posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+asmak100 raises [$0.05]
+ankitlr calls [$0.04]
+** Dealing flop ** [ Td, 4s, 8h ]
+ankitlr checks
+asmak100 bets [$0.08]
+ankitlr calls [$0.08]
+** Dealing turn ** [ 7h ]
+ankitlr checks
+asmak100 checks
+** Dealing river ** [ 6c ]
+ankitlr bets [$0.18]
+asmak100 calls [$0.18]
+** Summary **
+ankitlr shows [ Jd, 9d ]
+asmak100 mucks [ 4h, Qh ]
+ankitlr collected [ $0.60 ]
+
+
+#Game No : 615476947
+***** 888poker Hand History for Game 615476947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:36:57
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: asmak100 ( $1.30 )
+Seat 7: ankitlr ( $1.89 )
+ankitlr posts small blind [$0.01]
+asmak100 posts big blind [$0.02]
+** Dealing down cards **
+ankitlr raises [$0.04]
+asmak100 folds
+** Summary **
+ankitlr collected [ $0.04 ]
+
+
+#Game No : 615476999
+***** 888poker Hand History for Game 615476999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:39:05
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ankitlr ( $3.02 )
+Seat 9: w0lf0fwallst ( $0.82 )
+ankitlr posts small blind [$0.01]
+w0lf0fwallst posts big blind [$0.02]
+** Dealing down cards **
+ankitlr raises [$0.04]
+w0lf0fwallst calls [$0.03]
+** Dealing flop ** [ 7h, 8h, 2s ]
+w0lf0fwallst checks
+ankitlr checks
+** Dealing turn ** [ 3d ]
+w0lf0fwallst checks
+ankitlr checks
+** Dealing river ** [ 9h ]
+w0lf0fwallst bets [$0.06]
+ankitlr folds
+** Summary **
+w0lf0fwallst did not show his hand
+w0lf0fwallst collected [ $0.10 ]
+
+
+#Game No : 615477005
+***** 888poker Hand History for Game 615477005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:39:28
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ankitlr ( $2.97 )
+Seat 9: w0lf0fwallst ( $0.87 )
+w0lf0fwallst posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+w0lf0fwallst raises [$0.03]
+ankitlr folds
+** Summary **
+w0lf0fwallst collected [ $0.04 ]
+
+
+#Game No : 615477030
+***** 888poker Hand History for Game 615477030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:40:12
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pinbaw14 ( $1.81 )
+Seat 7: ankitlr ( $2.93 )
+Pinbaw14 posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+Pinbaw14 calls [$0.01]
+ankitlr checks
+** Dealing flop ** [ Ah, 9h, Ad ]
+ankitlr checks
+Pinbaw14 checks
+** Dealing turn ** [ 8h ]
+ankitlr bets [$0.04]
+Pinbaw14 calls [$0.04]
+** Dealing river ** [ Ks ]
+ankitlr bets [$0.04]
+Pinbaw14 raises [$0.08]
+ankitlr calls [$0.04]
+** Summary **
+Pinbaw14 shows [ 8s, 3d ]
+ankitlr shows [ Jd, 9d ]
+ankitlr collected [ $0.27 ]
+
+
+#Game No : 615477041
+***** 888poker Hand History for Game 615477041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:40:40
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Pinbaw14 ( $1.67 )
+Seat 7: ankitlr ( $3.06 )
+ankitlr posts small blind [$0.01]
+Pinbaw14 posts big blind [$0.02]
+** Dealing down cards **
+ankitlr calls [$0.01]
+Pinbaw14 raises [$0.04]
+ankitlr calls [$0.04]
+** Dealing flop ** [ Kh, 2s, 9c ]
+Pinbaw14 checks
+ankitlr checks
+** Dealing turn ** [ 2d ]
+Pinbaw14 checks
+ankitlr checks
+** Dealing river ** [ 6c ]
+Pinbaw14 bets [$1.61]
+ankitlr folds
+** Summary **
+Pinbaw14 collected [ $0.12 ]
+
+
+#Game No : 615477054
+***** 888poker Hand History for Game 615477054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:41:05
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pinbaw14 ( $1.73 )
+Seat 7: ankitlr ( $3 )
+Pinbaw14 posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+Pinbaw14 calls [$0.01]
+ankitlr checks
+** Dealing flop ** [ 7s, 9h, 8c ]
+ankitlr checks
+Pinbaw14 bets [$0.04]
+ankitlr calls [$0.04]
+** Dealing turn ** [ Ac ]
+ankitlr checks
+Pinbaw14 bets [$0.12]
+ankitlr calls [$0.12]
+** Dealing river ** [ 6d ]
+ankitlr checks
+Pinbaw14 bets [$0.36]
+ankitlr calls [$0.36]
+** Summary **
+Pinbaw14 shows [ 6h, Th ]
+ankitlr shows [ Qd, Tc ]
+ankitlr collected [ $0.51 ]
+Pinbaw14 collected [ $0.51 ]
+
+
+#Game No : 615477083
+***** 888poker Hand History for Game 615477083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:42:17
+Table Hillel 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BluePoker ( $1 )
+Seat 7: ankitlr ( $4.48 )
+BluePoker posts small blind [$0.01]
+ankitlr posts big blind [$0.02]
+** Dealing down cards **
+BluePoker folds
+** Summary **
+ankitlr collected [ $0.03 ]
+
+
+#Game No : 615481558
+***** 888poker Hand History for Game 615481558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:34:35
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Galileo62 ( $0.74 )
+Seat 7: P093y3 ( $0.66 )
+P093y3 posts small blind [$0.01]
+Galileo62 posts big blind [$0.02]
+** Dealing down cards **
+P093y3 calls [$0.01]
+Galileo62 checks
+** Dealing flop ** [ 5d, 2h, 7c ]
+Galileo62 checks
+P093y3 bets [$0.02]
+Galileo62 calls [$0.02]
+** Dealing turn ** [ 9c ]
+Galileo62 checks
+P093y3 bets [$0.08]
+Galileo62 folds
+** Summary **
+P093y3 did not show his hand
+P093y3 collected [ $0.08 ]
+
+
+#Game No : 615481569
+***** 888poker Hand History for Game 615481569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:35:08
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Galileo62 ( $0.70 )
+Seat 7: P093y3 ( $0.70 )
+Galileo62 posts small blind [$0.01]
+P093y3 posts big blind [$0.02]
+** Dealing down cards **
+Galileo62 raises [$0.03]
+P093y3 calls [$0.02]
+** Dealing flop ** [ Jh, 7d, 2h ]
+P093y3 checks
+Galileo62 bets [$0.02]
+P093y3 calls [$0.02]
+** Dealing turn ** [ Td ]
+P093y3 checks
+Galileo62 bets [$0.06]
+P093y3 calls [$0.06]
+** Dealing river ** [ Kc ]
+P093y3 checks
+Galileo62 bets [$0.15]
+P093y3 folds
+** Summary **
+Galileo62 did not show his hand
+Galileo62 collected [ $0.23 ]
+
+
+#Game No : 615481589
+***** 888poker Hand History for Game 615481589 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:35:45
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Galileo62 ( $0.81 )
+Seat 7: P093y3 ( $0.58 )
+P093y3 posts small blind [$0.01]
+Galileo62 posts big blind [$0.02]
+** Dealing down cards **
+P093y3 calls [$0.01]
+Galileo62 checks
+** Dealing flop ** [ 5c, 9h, 4c ]
+Galileo62 bets [$0.02]
+P093y3 calls [$0.02]
+** Dealing turn ** [ 3s ]
+Galileo62 checks
+P093y3 checks
+** Dealing river ** [ Kc ]
+Galileo62 bets [$0.05]
+P093y3 folds
+** Summary **
+Galileo62 did not show his hand
+Galileo62 collected [ $0.08 ]
+
+
+#Game No : 615481602
+***** 888poker Hand History for Game 615481602 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:36:11
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Galileo62 ( $0.85 )
+Seat 7: P093y3 ( $0.54 )
+Galileo62 posts small blind [$0.01]
+P093y3 posts big blind [$0.02]
+** Dealing down cards **
+Galileo62 folds
+** Summary **
+P093y3 did not show his hand
+P093y3 collected [ $0.03 ]
+
+
+#Game No : 615481607
+***** 888poker Hand History for Game 615481607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:36:18
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Galileo62 ( $0.84 )
+Seat 7: P093y3 ( $0.55 )
+P093y3 posts small blind [$0.01]
+Galileo62 posts big blind [$0.02]
+** Dealing down cards **
+P093y3 raises [$0.03]
+Galileo62 raises [$0.04]
+P093y3 calls [$0.02]
+** Dealing flop ** [ 8d, Qs, 2h ]
+Galileo62 checks
+P093y3 checks
+** Dealing turn ** [ Ts ]
+Galileo62 bets [$0.07]
+P093y3 calls [$0.07]
+** Dealing river ** [ Js ]
+Galileo62 bets [$0.71]
+P093y3 folds
+** Summary **
+Galileo62 did not show his hand
+Galileo62 collected [ $0.25 ]
+
+
+#Game No : 615481625
+***** 888poker Hand History for Game 615481625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:37:12
+Table Hillel 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Galileo62 ( $0.96 )
+Seat 7: P093y3 ( $0.42 )
+Galileo62 posts small blind [$0.01]
+P093y3 posts big blind [$0.02]
+** Dealing down cards **
+Galileo62 folds
+** Summary **
+P093y3 did not show his hand
+P093y3 collected [ $0.03 ]
+
+
+#Game No : 615481630
+***** 888poker Hand History for Game 615481630 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:37:18
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Galileo62 ( $0.95 )
+Seat 7: P093y3 ( $0.43 )
+P093y3 posts small blind [$0.01]
+Galileo62 posts big blind [$0.02]
+** Dealing down cards **
+P093y3 raises [$0.03]
+Galileo62 calls [$0.02]
+** Dealing flop ** [ 4d, 3s, 4c ]
+Galileo62 checks
+P093y3 bets [$0.02]
+Galileo62 calls [$0.02]
+** Dealing turn ** [ 9c ]
+Galileo62 checks
+P093y3 checks
+** Dealing river ** [ 9s ]
+Galileo62 bets [$0.02]
+P093y3 calls [$0.02]
+** Summary **
+Galileo62 shows [ Th, 3h ]
+P093y3 shows [ Js, Kd ]
+P093y3 collected [ $0.15 ]
+
+
+#Game No : 615481724
+***** 888poker Hand History for Game 615481724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:40:33
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: P093y3 ( $1.32 )
+Seat 9: mc121vienna ( $1.88 )
+P093y3 posts small blind [$0.01]
+mc121vienna posts big blind [$0.02]
+** Dealing down cards **
+P093y3 raises [$0.03]
+mc121vienna calls [$0.02]
+** Dealing flop ** [ 8c, Th, 7s ]
+mc121vienna checks
+P093y3 bets [$0.02]
+mc121vienna calls [$0.02]
+** Dealing turn ** [ 7d ]
+mc121vienna checks
+P093y3 bets [$0.02]
+mc121vienna calls [$0.02]
+** Dealing river ** [ 3d ]
+mc121vienna checks
+P093y3 checks
+** Summary **
+mc121vienna shows [ 2c, Qc ]
+P093y3 shows [ Ks, Ts ]
+P093y3 collected [ $0.15 ]
+
+
+#Game No : 615481740
+***** 888poker Hand History for Game 615481740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:41:03
+Table Hillel 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: P093y3 ( $1.39 )
+Seat 9: mc121vienna ( $1.80 )
+mc121vienna posts small blind [$0.01]
+P093y3 posts big blind [$0.02]
+** Dealing down cards **
+mc121vienna calls [$0.01]
+P093y3 checks
+** Dealing flop ** [ 2h, Jd, 8c ]
+P093y3 checks
+mc121vienna checks
+** Dealing turn ** [ 8d ]
+P093y3 bets [$0.02]
+mc121vienna calls [$0.02]
+** Dealing river ** [ As ]
+P093y3 checks
+mc121vienna bets [$0.08]
+P093y3 calls [$0.08]
+** Summary **
+mc121vienna shows [ 7h, 4d ]
+P093y3 shows [ Kd, 4s ]
+P093y3 collected [ $0.23 ]
+
+
+#Game No : 615481758
+***** 888poker Hand History for Game 615481758 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 21:41:58
+Table Hillel 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: P093y3 ( $1.50 )
+Seat 9: mc121vienna ( $1.68 )
+P093y3 posts small blind [$0.01]
+mc121vienna posts big blind [$0.02]
+** Dealing down cards **
+P093y3 raises [$0.03]
+mc121vienna calls [$0.02]
+** Dealing flop ** [ 2s, 3s, 7d ]
+mc121vienna bets [$0.08]
+P093y3 calls [$0.08]
+** Dealing turn ** [ Jh ]
+mc121vienna bets [$0.24]
+P093y3 raises [$1.38]
+mc121vienna calls [$1.14]
+** Dealing river ** [ Kh ]
+** Summary **
+P093y3 shows [ Jc, Qc ]
+mc121vienna shows [ 7c, 3h ]
+mc121vienna collected [ $2.82 ]
+
+

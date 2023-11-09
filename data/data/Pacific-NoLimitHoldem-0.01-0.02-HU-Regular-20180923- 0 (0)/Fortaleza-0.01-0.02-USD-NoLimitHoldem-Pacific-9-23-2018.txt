@@ -1,0 +1,984 @@
+#Game No : 502771957
+***** 888poker Hand History for Game 502771957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 02:10:00
+Table Fortaleza 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MarkoCro ( $0.99 )
+Seat 9: Et_Arrows ( $1.01 )
+MarkoCro posts small blind [$0.01]
+Et_Arrows posts big blind [$0.02]
+** Dealing down cards **
+MarkoCro calls [$0.01]
+Et_Arrows checks
+** Dealing flop ** [ 4c, Js, 7c ]
+Et_Arrows bets [$0.04]
+MarkoCro calls [$0.04]
+** Dealing turn ** [ 7s ]
+Et_Arrows bets [$0.12]
+MarkoCro calls [$0.12]
+** Dealing river ** [ 2c ]
+Et_Arrows checks
+MarkoCro bets [$0.36]
+Et_Arrows calls [$0.36]
+** Summary **
+MarkoCro shows [ Kd, Kh ]
+Et_Arrows shows [ 7h, 9h ]
+Et_Arrows collected [ $1.02 ]
+
+
+#Game No : 502771989
+***** 888poker Hand History for Game 502771989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 02:10:36
+Table Fortaleza 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: MarkoCro ( $0.45 )
+Seat 9: Et_Arrows ( $1.49 )
+Et_Arrows posts small blind [$0.01]
+MarkoCro posts big blind [$0.02]
+** Dealing down cards **
+Et_Arrows calls [$0.01]
+MarkoCro checks
+** Dealing flop ** [ 4h, 2h, 3d ]
+MarkoCro checks
+Et_Arrows bets [$0.04]
+MarkoCro folds
+** Summary **
+Et_Arrows collected [ $0.04 ]
+
+
+#Game No : 502777597
+***** 888poker Hand History for Game 502777597 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:25:36
+Table Fortaleza 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.89 )
+Seat 2: mayhews2016 ( $1.18 )
+mayhews2016 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+mayhews2016 calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 2s, 4h, Kh ]
+DezKD checks
+mayhews2016 checks
+** Dealing turn ** [ Qh ]
+DezKD checks
+mayhews2016 checks
+** Dealing river ** [ 7h ]
+DezKD checks
+mayhews2016 checks
+** Summary **
+DezKD shows [ 5c, 6s ]
+mayhews2016 shows [ 5h, Jd ]
+mayhews2016 collected [ $0.04 ]
+
+
+#Game No : 502777614
+***** 888poker Hand History for Game 502777614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:25:58
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.87 )
+Seat 2: mayhews2016 ( $1.20 )
+DezKD posts small blind [$0.01]
+mayhews2016 posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+mayhews2016 collected [ $0.03 ]
+
+
+#Game No : 502777620
+***** 888poker Hand History for Game 502777620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:26:03
+Table Fortaleza 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.86 )
+Seat 2: mayhews2016 ( $1.21 )
+mayhews2016 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+mayhews2016 calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 3d, 2h, 6s ]
+DezKD checks
+mayhews2016 bets [$0.02]
+DezKD calls [$0.02]
+** Dealing turn ** [ Qd ]
+DezKD checks
+mayhews2016 bets [$0.02]
+DezKD calls [$0.02]
+** Dealing river ** [ Ks ]
+DezKD checks
+mayhews2016 checks
+** Summary **
+DezKD shows [ Ah, 8s ]
+mayhews2016 shows [ 5d, 2d ]
+mayhews2016 collected [ $0.12 ]
+
+
+#Game No : 502777655
+***** 888poker Hand History for Game 502777655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:26:41
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.79 )
+Seat 4: A123T ( $0.83 )
+A123T posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 9d, 9h, Ad ]
+DezKD bets [$0.02]
+A123T folds
+** Summary **
+DezKD collected [ $0.04 ]
+
+
+#Game No : 502777671
+***** 888poker Hand History for Game 502777671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:27:00
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.81 )
+Seat 4: A123T ( $0.81 )
+DezKD posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+A123T calls [$0.02]
+** Dealing flop ** [ 2s, Tc, 3c ]
+A123T checks
+DezKD checks
+** Dealing turn ** [ 9h ]
+A123T bets [$0.02]
+DezKD raises [$0.08]
+A123T folds
+** Summary **
+DezKD collected [ $0.12 ]
+
+
+#Game No : 502777690
+***** 888poker Hand History for Game 502777690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:27:17
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.87 )
+Seat 4: A123T ( $0.75 )
+A123T posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+DezKD checks
+** Dealing flop ** [ Ah, 6c, 4c ]
+DezKD bets [$0.02]
+A123T calls [$0.02]
+** Dealing turn ** [ Qs ]
+DezKD checks
+A123T bets [$0.02]
+DezKD calls [$0.02]
+** Dealing river ** [ 4d ]
+DezKD checks
+A123T checks
+** Summary **
+DezKD shows [ 5h, Ad ]
+A123T mucks [ Ks, Jc ]
+DezKD collected [ $0.12 ]
+
+
+#Game No : 502777714
+***** 888poker Hand History for Game 502777714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:27:42
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.93 )
+Seat 4: A123T ( $0.69 )
+DezKD posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+A123T calls [$0.02]
+** Dealing flop ** [ 4h, 8h, Ks ]
+A123T checks
+DezKD bets [$0.04]
+A123T folds
+** Summary **
+DezKD collected [ $0.08 ]
+
+
+#Game No : 502777734
+***** 888poker Hand History for Game 502777734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:28:12
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.99 )
+Seat 4: A123T ( $0.63 )
+DezKD posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+A123T collected [ $0.03 ]
+
+
+#Game No : 502777739
+***** 888poker Hand History for Game 502777739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:28:16
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.98 )
+Seat 4: A123T ( $0.64 )
+A123T posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+DezKD checks
+** Dealing flop ** [ Jh, Qc, Qd ]
+DezKD checks
+A123T checks
+** Dealing turn ** [ Js ]
+DezKD bets [$0.04]
+A123T folds
+** Summary **
+DezKD collected [ $0.04 ]
+
+
+#Game No : 502777757
+***** 888poker Hand History for Game 502777757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:28:33
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2 )
+Seat 4: A123T ( $0.62 )
+DezKD posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+A123T collected [ $0.03 ]
+
+
+#Game No : 502777765
+***** 888poker Hand History for Game 502777765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:28:39
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.99 )
+Seat 4: A123T ( $0.63 )
+A123T posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 2d, 7c, 7d ]
+DezKD checks
+A123T bets [$0.02]
+DezKD calls [$0.02]
+** Dealing turn ** [ Jd ]
+DezKD checks
+A123T bets [$0.02]
+DezKD calls [$0.02]
+** Dealing river ** [ Th ]
+DezKD checks
+A123T bets [$0.08]
+DezKD calls [$0.08]
+** Summary **
+A123T shows [ 7s, Qh ]
+DezKD mucks [ 7h, 3d ]
+A123T collected [ $0.27 ]
+
+
+#Game No : 502777791
+***** 888poker Hand History for Game 502777791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:29:06
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.85 )
+Seat 4: A123T ( $0.76 )
+DezKD posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+A123T collected [ $0.03 ]
+
+
+#Game No : 502777796
+***** 888poker Hand History for Game 502777796 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:29:11
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.84 )
+Seat 4: A123T ( $0.77 )
+A123T posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+A123T folds
+** Summary **
+DezKD collected [ $0.03 ]
+
+
+#Game No : 502777805
+***** 888poker Hand History for Game 502777805 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:29:17
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.85 )
+Seat 4: A123T ( $0.76 )
+DezKD posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+A123T folds
+** Summary **
+DezKD collected [ $0.04 ]
+
+
+#Game No : 502777814
+***** 888poker Hand History for Game 502777814 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:29:24
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.87 )
+Seat 4: A123T ( $0.74 )
+A123T posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 7c, 3s, 6h ]
+DezKD checks
+A123T checks
+** Dealing turn ** [ 7d ]
+DezKD checks
+A123T bets [$0.02]
+DezKD folds
+** Summary **
+A123T collected [ $0.04 ]
+
+
+#Game No : 502777828
+***** 888poker Hand History for Game 502777828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:29:39
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.85 )
+Seat 4: A123T ( $0.76 )
+DezKD posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+A123T calls [$0.02]
+** Dealing flop ** [ 4c, 7s, Kh ]
+A123T checks
+DezKD bets [$0.04]
+A123T folds
+** Summary **
+DezKD collected [ $0.08 ]
+
+
+#Game No : 502777843
+***** 888poker Hand History for Game 502777843 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:29:51
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.89 )
+Seat 4: A123T ( $0.72 )
+A123T posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+A123T folds
+** Summary **
+DezKD collected [ $0.03 ]
+
+
+#Game No : 502777852
+***** 888poker Hand History for Game 502777852 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:29:56
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.90 )
+Seat 4: A123T ( $0.71 )
+DezKD posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+A123T collected [ $0.03 ]
+
+
+#Game No : 502777858
+***** 888poker Hand History for Game 502777858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:30:01
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.89 )
+Seat 4: A123T ( $0.72 )
+A123T posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 2s, 7h, 8c ]
+DezKD checks
+A123T bets [$0.02]
+DezKD calls [$0.02]
+** Dealing turn ** [ Qs ]
+DezKD checks
+A123T bets [$0.02]
+DezKD calls [$0.02]
+** Dealing river ** [ 9c ]
+DezKD checks
+A123T bets [$0.02]
+DezKD calls [$0.02]
+** Summary **
+A123T shows [ As, 8d ]
+DezKD mucks [ 4c, 5d ]
+A123T collected [ $0.15 ]
+
+
+#Game No : 502777895
+***** 888poker Hand History for Game 502777895 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:30:41
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.81 )
+Seat 4: A123T ( $0.79 )
+DezKD posts small blind [$0.01]
+A123T posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+A123T collected [ $0.03 ]
+
+
+#Game No : 502777903
+***** 888poker Hand History for Game 502777903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:30:49
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.80 )
+Seat 4: A123T ( $0.80 )
+A123T posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+A123T calls [$0.01]
+DezKD raises [$0.02]
+A123T folds
+** Summary **
+DezKD collected [ $0.04 ]
+
+
+#Game No : 502778110
+***** 888poker Hand History for Game 502778110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:34:36
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.76 )
+Seat 6: Lisshura ( $0.80 )
+DezKD posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+Lisshura did not show his hand
+Lisshura collected [ $0.03 ]
+
+
+#Game No : 502778114
+***** 888poker Hand History for Game 502778114 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:34:41
+Table Fortaleza 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.75 )
+Seat 6: Lisshura ( $0.81 )
+Lisshura posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Lisshura raises [$0.03]
+DezKD calls [$0.02]
+** Dealing flop ** [ 7s, Jh, 4s ]
+DezKD checks
+Lisshura checks
+** Dealing turn ** [ Qh ]
+DezKD bets [$0.02]
+Lisshura calls [$0.02]
+** Dealing river ** [ 2d ]
+DezKD checks
+Lisshura checks
+** Summary **
+DezKD shows [ 7h, 8s ]
+Lisshura mucks [ Kc, 5s ]
+DezKD collected [ $0.12 ]
+
+
+#Game No : 502778152
+***** 888poker Hand History for Game 502778152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 04:35:21
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.81 )
+Seat 6: Lisshura ( $0.80 )
+DezKD posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+Lisshura calls [$0.02]
+** Dealing flop ** [ 9d, Ks, Kd ]
+Lisshura checks
+DezKD checks
+** Dealing turn ** [ 8s ]
+Lisshura checks
+DezKD bets [$0.04]
+Lisshura folds
+** Summary **
+DezKD collected [ $0.08 ]
+
+
+#Game No : 502779510
+***** 888poker Hand History for Game 502779510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:02:27
+Table Fortaleza 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.11 )
+Seat 7: riderntstorm ( $1.03 )
+riderntstorm posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+riderntstorm folds
+** Summary **
+DezKD did not show his hand
+DezKD collected [ $0.03 ]
+
+
+#Game No : 502779540
+***** 888poker Hand History for Game 502779540 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:02:59
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.12 )
+Seat 7: riderntstorm ( $1.02 )
+DezKD posts small blind [$0.01]
+** Dealing down cards **
+riderntstorm folds
+** Summary **
+DezKD did not show his hand
+DezKD collected [ $0.01 ]
+
+
+#Game No : 502780156
+***** 888poker Hand History for Game 502780156 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:16:42
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.12 )
+Seat 4: Alfy18 ( $1 )
+DezKD posts small blind [$0.01]
+Alfy18 posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+Alfy18 did not show his hand
+Alfy18 collected [ $0.03 ]
+
+
+#Game No : 502780163
+***** 888poker Hand History for Game 502780163 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:16:51
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.11 )
+Seat 4: Alfy18 ( $1.01 )
+Alfy18 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Alfy18 calls [$0.01]
+DezKD checks
+** Dealing flop ** [ Ah, 2h, 6s ]
+DezKD checks
+Alfy18 checks
+** Dealing turn ** [ 6c ]
+DezKD checks
+Alfy18 checks
+** Dealing river ** [ 8c ]
+DezKD checks
+Alfy18 checks
+** Summary **
+DezKD shows [ 3d, 8h ]
+Alfy18 mucks [ Ks, 5d ]
+DezKD collected [ $0.04 ]
+
+
+#Game No : 502780177
+***** 888poker Hand History for Game 502780177 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:17:11
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.13 )
+Seat 4: Alfy18 ( $0.99 )
+DezKD posts small blind [$0.01]
+Alfy18 posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+Alfy18 raises [$0.10]
+DezKD calls [$0.08]
+** Dealing flop ** [ 6s, 7h, Kh ]
+Alfy18 bets [$0.24]
+DezKD folds
+** Summary **
+Alfy18 did not show his hand
+Alfy18 collected [ $0.23 ]
+
+
+#Game No : 502780183
+***** 888poker Hand History for Game 502780183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:17:26
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.01 )
+Seat 4: Alfy18 ( $1.10 )
+Alfy18 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Alfy18 calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 4c, Qd, 3c ]
+DezKD checks
+Alfy18 bets [$0.04]
+DezKD folds
+** Summary **
+Alfy18 collected [ $0.04 ]
+
+
+#Game No : 502780198
+***** 888poker Hand History for Game 502780198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:17:40
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $1.99 )
+Seat 4: Alfy18 ( $1.12 )
+DezKD posts small blind [$0.01]
+Alfy18 posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+Alfy18 folds
+** Summary **
+DezKD collected [ $0.04 ]
+
+
+#Game No : 502780362
+***** 888poker Hand History for Game 502780362 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:21:38
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.48 )
+Seat 2: zazoby ( $1.43 )
+DezKD posts small blind [$0.01]
+zazoby posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+zazoby calls [$0.02]
+** Dealing flop ** [ 4h, 9c, 4d ]
+zazoby checks
+DezKD checks
+** Dealing turn ** [ Jh ]
+zazoby bets [$0.04]
+DezKD calls [$0.04]
+** Dealing river ** [ 3d ]
+zazoby bets [$0.10]
+DezKD calls [$0.10]
+** Summary **
+zazoby shows [ 4c, 8s ]
+DezKD mucks [ Th, Jc ]
+zazoby collected [ $0.34 ]
+
+
+#Game No : 502780378
+***** 888poker Hand History for Game 502780378 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:22:07
+Table Fortaleza 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DezKD ( $2.30 )
+Seat 2: zazoby ( $1.59 )
+zazoby posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+zazoby folds
+** Summary **
+DezKD collected [ $0.03 ]
+
+
+#Game No : 502811860
+***** 888poker Hand History for Game 502811860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:22:13
+Table Fortaleza 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vuvuv ( $1.29 )
+Seat 9: nekojdrug ( $0.76 )
+vuvuv posts small blind [$0.01]
+nekojdrug posts big blind [$0.02]
+** Dealing down cards **
+vuvuv folds
+** Summary **
+nekojdrug did not show his hand
+nekojdrug collected [ $0.03 ]
+
+
+#Game No : 502811870
+***** 888poker Hand History for Game 502811870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:22:20
+Table Fortaleza 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: vuvuv ( $1.28 )
+Seat 9: nekojdrug ( $0.77 )
+nekojdrug posts small blind [$0.01]
+vuvuv posts big blind [$0.02]
+** Dealing down cards **
+nekojdrug raises [$0.03]
+vuvuv calls [$0.02]
+** Dealing flop ** [ 4d, 4c, Jc ]
+vuvuv checks
+nekojdrug bets [$0.10]
+vuvuv folds
+** Summary **
+nekojdrug did not show his hand
+nekojdrug collected [ $0.08 ]
+
+
+#Game No : 502811887
+***** 888poker Hand History for Game 502811887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:22:41
+Table Fortaleza 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vuvuv ( $1.24 )
+Seat 9: nekojdrug ( $0.81 )
+vuvuv posts small blind [$0.01]
+nekojdrug posts big blind [$0.02]
+** Dealing down cards **
+vuvuv raises [$0.03]
+nekojdrug calls [$0.02]
+** Dealing flop ** [ Jc, 7c, 8h ]
+nekojdrug bets [$0.02]
+vuvuv calls [$0.02]
+** Dealing turn ** [ Ts ]
+nekojdrug bets [$0.06]
+vuvuv calls [$0.06]
+** Dealing river ** [ Js ]
+nekojdrug bets [$0.18]
+vuvuv calls [$0.18]
+** Summary **
+nekojdrug shows [ 8d, 6c ]
+vuvuv mucks [ 6h, 7s ]
+nekojdrug collected [ $0.57 ]
+
+
+#Game No : 502811911
+***** 888poker Hand History for Game 502811911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:23:08
+Table Fortaleza 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: vuvuv ( $0.94 )
+Seat 9: nekojdrug ( $1.08 )
+nekojdrug posts small blind [$0.01]
+vuvuv posts big blind [$0.02]
+** Dealing down cards **
+nekojdrug calls [$0.01]
+vuvuv checks
+** Dealing flop ** [ 8s, 7h, 4d ]
+vuvuv checks
+nekojdrug checks
+** Dealing turn ** [ Jd ]
+vuvuv bets [$0.02]
+nekojdrug calls [$0.02]
+** Dealing river ** [ 6d ]
+vuvuv checks
+nekojdrug checks
+** Summary **
+vuvuv shows [ Qc, 3c ]
+nekojdrug mucks [ 3s, 9s ]
+vuvuv collected [ $0.08 ]
+
+
+#Game No : 502811930
+***** 888poker Hand History for Game 502811930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:23:34
+Table Fortaleza 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vuvuv ( $0.98 )
+Seat 9: nekojdrug ( $1.04 )
+vuvuv posts small blind [$0.01]
+nekojdrug posts big blind [$0.02]
+** Dealing down cards **
+vuvuv calls [$0.01]
+nekojdrug checks
+** Dealing flop ** [ 6c, 9d, 5c ]
+nekojdrug bets [$0.04]
+vuvuv calls [$0.04]
+** Dealing turn ** [ 2h ]
+nekojdrug bets [$0.16]
+vuvuv calls [$0.16]
+** Dealing river ** [ 8c ]
+nekojdrug bets [$0.14]
+vuvuv raises [$0.50]
+nekojdrug calls [$0.36]
+** Summary **
+vuvuv shows [ Tc, 4c ]
+nekojdrug mucks [ 2d, 5s ]
+vuvuv collected [ $1.35 ]
+
+
+#Game No : 502811998
+***** 888poker Hand History for Game 502811998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:25:02
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vuvuv ( $1.92 )
+Seat 4: CONIHYMA16 ( $0.97 )
+CONIHYMA16 posts small blind [$0.01]
+vuvuv posts big blind [$0.02]
+** Dealing down cards **
+CONIHYMA16 calls [$0.01]
+vuvuv checks
+** Dealing flop ** [ 5d, 8h, Ah ]
+vuvuv checks
+CONIHYMA16 bets [$0.04]
+vuvuv folds
+** Summary **
+CONIHYMA16 did not show his hand
+CONIHYMA16 collected [ $0.04 ]
+
+
+#Game No : 502812013
+***** 888poker Hand History for Game 502812013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:25:20
+Table Fortaleza 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vuvuv ( $1.90 )
+Seat 4: CONIHYMA16 ( $0.99 )
+vuvuv posts small blind [$0.01]
+CONIHYMA16 posts big blind [$0.02]
+** Dealing down cards **
+vuvuv raises [$0.03]
+CONIHYMA16 calls [$0.02]
+** Dealing flop ** [ As, Kh, 6c ]
+CONIHYMA16 checks
+vuvuv bets [$0.05]
+CONIHYMA16 folds
+** Summary **
+vuvuv did not show his hand
+vuvuv collected [ $0.08 ]
+
+
+#Game No : 502812027
+***** 888poker Hand History for Game 502812027 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 14:25:35
+Table Fortaleza 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vuvuv ( $1.94 )
+Seat 4: CONIHYMA16 ( $0.95 )
+CONIHYMA16 posts small blind [$0.01]
+vuvuv posts big blind [$0.02]
+** Dealing down cards **
+CONIHYMA16 calls [$0.01]
+vuvuv checks
+** Dealing flop ** [ Kc, Jc, Ah ]
+vuvuv checks
+CONIHYMA16 bets [$0.02]
+vuvuv folds
+** Summary **
+CONIHYMA16 collected [ $0.04 ]
+
+
+#Game No : 502815039
+***** 888poker Hand History for Game 502815039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:42:48
+Table Fortaleza 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: fish2018123 ( $2.13 )
+Seat 9: DmitrySKC ( $1.39 )
+fish2018123 posts small blind [$0.01]
+DmitrySKC posts big blind [$0.02]
+** Dealing down cards **
+fish2018123 folds
+** Summary **
+DmitrySKC collected [ $0.03 ]
+
+
+#Game No : 502815043
+***** 888poker Hand History for Game 502815043 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:42:54
+Table Fortaleza 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: MPerucho ( $1 )
+Seat 9: DmitrySKC ( $1.40 )
+DmitrySKC posts small blind [$0.01]
+MPerucho posts big blind [$0.02]
+** Dealing down cards **
+DmitrySKC folds
+** Summary **
+MPerucho did not show his hand
+MPerucho collected [ $0.03 ]
+
+
+#Game No : 502815046
+***** 888poker Hand History for Game 502815046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 15:43:03
+Table Fortaleza 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MPerucho ( $1.01 )
+Seat 9: DmitrySKC ( $1.39 )
+MPerucho posts small blind [$0.01]
+** Dealing down cards **
+DmitrySKC folds
+** Summary **
+MPerucho did not show his hand
+MPerucho collected [ $0.01 ]
+
+

@@ -1,0 +1,726 @@
+#Game No : 503607745
+***** 888poker Hand History for Game 503607745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:04:36
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: GoldPepper ( $3.12 )
+Seat 7: 3bet727 ( $1.01 )
+GoldPepper posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+GoldPepper folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.03 ]
+
+
+#Game No : 503607748
+***** 888poker Hand History for Game 503607748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:04:42
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: GoldPepper ( $3.11 )
+Seat 7: 3bet727 ( $1.02 )
+3bet727 posts small blind [$0.01]
+GoldPepper posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.05]
+GoldPepper folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.04 ]
+
+
+#Game No : 503607752
+***** 888poker Hand History for Game 503607752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:04:51
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: GoldPepper ( $3.09 )
+Seat 7: 3bet727 ( $1.04 )
+GoldPepper posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+GoldPepper raises [$0.05]
+3bet727 calls [$0.04]
+** Dealing flop ** [ 9c, 4c, 5c ]
+3bet727 bets [$0.06]
+GoldPepper folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.12 ]
+
+
+#Game No : 503607777
+***** 888poker Hand History for Game 503607777 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:05:17
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: GoldPepper ( $3.03 )
+Seat 7: 3bet727 ( $1.10 )
+3bet727 posts small blind [$0.01]
+** Dealing down cards **
+GoldPepper folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.01 ]
+
+
+#Game No : 503607834
+***** 888poker Hand History for Game 503607834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:06:40
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $1 )
+Seat 7: 3bet727 ( $1.10 )
+3bet727 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.05]
+Mr_Morgan14 folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.04 ]
+
+
+#Game No : 503607850
+***** 888poker Hand History for Game 503607850 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:06:50
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $0.98 )
+Seat 7: 3bet727 ( $1.12 )
+Mr_Morgan14 posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 raises [$0.05]
+3bet727 calls [$0.04]
+** Dealing flop ** [ 8h, 8s, Jd ]
+3bet727 checks
+Mr_Morgan14 bets [$0.08]
+3bet727 calls [$0.08]
+** Dealing turn ** [ 7s ]
+3bet727 checks
+Mr_Morgan14 bets [$0.14]
+3bet727 raises [$0.51]
+Mr_Morgan14 folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.53 ]
+
+
+#Game No : 503607870
+***** 888poker Hand History for Game 503607870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:07:19
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $1 )
+Seat 7: 3bet727 ( $1.37 )
+3bet727 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.05]
+Mr_Morgan14 folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.04 ]
+
+
+#Game No : 503607876
+***** 888poker Hand History for Game 503607876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:07:25
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $0.98 )
+Seat 7: 3bet727 ( $1.39 )
+Mr_Morgan14 posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 raises [$0.05]
+3bet727 calls [$0.04]
+** Dealing flop ** [ As, 6s, 2h ]
+3bet727 checks
+Mr_Morgan14 checks
+** Dealing turn ** [ 9h ]
+3bet727 bets [$0.04]
+Mr_Morgan14 calls [$0.04]
+** Dealing river ** [ Kd ]
+3bet727 bets [$0.10]
+Mr_Morgan14 raises [$0.20]
+3bet727 folds
+** Summary **
+Mr_Morgan14 did not show his hand
+Mr_Morgan14 collected [ $0.38 ]
+
+
+#Game No : 503607899
+***** 888poker Hand History for Game 503607899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:07:52
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $1.16 )
+Seat 7: 3bet727 ( $1.19 )
+3bet727 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+3bet727 folds
+** Summary **
+Mr_Morgan14 did not show his hand
+Mr_Morgan14 collected [ $0.03 ]
+
+
+#Game No : 503607906
+***** 888poker Hand History for Game 503607906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:07:57
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $1.17 )
+Seat 7: 3bet727 ( $1.18 )
+Mr_Morgan14 posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 raises [$0.03]
+3bet727 calls [$0.02]
+** Dealing flop ** [ Js, 5d, 7h ]
+3bet727 checks
+Mr_Morgan14 bets [$0.04]
+3bet727 calls [$0.04]
+** Dealing turn ** [ Qs ]
+3bet727 checks
+Mr_Morgan14 checks
+** Dealing river ** [ Kd ]
+3bet727 checks
+Mr_Morgan14 checks
+** Summary **
+3bet727 shows [ 7s, Ac ]
+Mr_Morgan14 mucks [ 6c, 9d ]
+3bet727 collected [ $0.15 ]
+
+
+#Game No : 503607939
+***** 888poker Hand History for Game 503607939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:08:35
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $1.09 )
+Seat 7: 3bet727 ( $1.25 )
+3bet727 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.05]
+Mr_Morgan14 folds
+** Summary **
+3bet727 collected [ $0.04 ]
+
+
+#Game No : 503608026
+***** 888poker Hand History for Game 503608026 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:10:12
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $0.99 )
+Seat 7: 3bet727 ( $1.18 )
+Mr_Morgan14 posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 raises [$0.03]
+3bet727 calls [$0.02]
+** Dealing flop ** [ 2d, Th, Kh ]
+3bet727 checks
+Mr_Morgan14 bets [$0.04]
+3bet727 calls [$0.04]
+** Dealing turn ** [ 5d ]
+3bet727 checks
+Mr_Morgan14 checks
+** Dealing river ** [ 5c ]
+3bet727 checks
+Mr_Morgan14 checks
+** Summary **
+3bet727 shows [ 7c, 2c ]
+Mr_Morgan14 shows [ Ac, 2h ]
+Mr_Morgan14 collected [ $0.15 ]
+
+
+#Game No : 503608048
+***** 888poker Hand History for Game 503608048 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:10:40
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $1.06 )
+Seat 7: 3bet727 ( $1.10 )
+3bet727 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.05]
+Mr_Morgan14 calls [$0.04]
+** Dealing flop ** [ Ah, Qh, Jc ]
+Mr_Morgan14 checks
+3bet727 bets [$0.06]
+Mr_Morgan14 calls [$0.06]
+** Dealing turn ** [ 6h ]
+Mr_Morgan14 bets [$0.02]
+3bet727 calls [$0.02]
+** Dealing river ** [ Ts ]
+Mr_Morgan14 checks
+3bet727 bets [$0.14]
+Mr_Morgan14 calls [$0.14]
+** Summary **
+3bet727 shows [ 9s, 4d ]
+Mr_Morgan14 shows [ Jd, Tc ]
+Mr_Morgan14 collected [ $0.53 ]
+
+
+#Game No : 503608104
+***** 888poker Hand History for Game 503608104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:11:50
+Table Brno 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: amaa123 ( $1.08 )
+Seat 6: Mr_Morgan14 ( $1.22 )
+amaa123 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+amaa123 calls [$0.01]
+Mr_Morgan14 raises [$0.04]
+amaa123 folds
+** Summary **
+Mr_Morgan14 collected [ $0.04 ]
+
+
+#Game No : 503608113
+***** 888poker Hand History for Game 503608113 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:12:00
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: amaa123 ( $1.06 )
+Seat 6: Mr_Morgan14 ( $1.24 )
+Mr_Morgan14 posts small blind [$0.01]
+amaa123 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 raises [$0.05]
+amaa123 calls [$0.04]
+** Dealing flop ** [ Ts, 8s, 2h ]
+amaa123 checks
+Mr_Morgan14 bets [$0.06]
+amaa123 calls [$0.06]
+** Dealing turn ** [ 7d ]
+amaa123 checks
+Mr_Morgan14 checks
+** Dealing river ** [ 2c ]
+amaa123 checks
+Mr_Morgan14 checks
+** Summary **
+amaa123 shows [ Qh, 3d ]
+Mr_Morgan14 shows [ Ad, 6s ]
+Mr_Morgan14 collected [ $0.23 ]
+
+
+#Game No : 503608189
+***** 888poker Hand History for Game 503608189 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:13:31
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $2.24 )
+Seat 7: 3bet727 ( $1 )
+Mr_Morgan14 posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.03 ]
+
+
+#Game No : 503608196
+***** 888poker Hand History for Game 503608196 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:13:44
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Mr_Morgan14 ( $2.23 )
+Seat 7: 3bet727 ( $1.01 )
+3bet727 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+3bet727 calls [$0.01]
+Mr_Morgan14 checks
+** Dealing flop ** [ 6h, 4d, 2d ]
+Mr_Morgan14 checks
+3bet727 bets [$0.02]
+Mr_Morgan14 folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.04 ]
+
+
+#Game No : 503608301
+***** 888poker Hand History for Game 503608301 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:15:49
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: 3bet727 ( $1.03 )
+Seat 9: rustymaw ( $0.80 )
+3bet727 posts small blind [$0.01]
+** Dealing down cards **
+rustymaw folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.01 ]
+
+
+#Game No : 503608310
+***** 888poker Hand History for Game 503608310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:16:09
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: 3bet727 ( $1.03 )
+Seat 9: rustymaw ( $0.80 )
+3bet727 posts small blind [$0.01]
+rustymaw posts big blind [$0.02]
+** Dealing down cards **
+3bet727 raises [$0.05]
+rustymaw calls [$0.04]
+** Dealing flop ** [ Kc, 8h, Td ]
+rustymaw bets [$0.06]
+3bet727 calls [$0.06]
+** Dealing turn ** [ Jh ]
+rustymaw checks
+3bet727 bets [$0.12]
+rustymaw folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.23 ]
+
+
+#Game No : 503608339
+***** 888poker Hand History for Game 503608339 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:16:43
+Table Brno 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: 3bet727 ( $1.14 )
+Seat 9: rustymaw ( $0.68 )
+rustymaw posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+rustymaw folds
+** Summary **
+3bet727 did not show his hand
+3bet727 collected [ $0.03 ]
+
+
+#Game No : 503608345
+***** 888poker Hand History for Game 503608345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:16:50
+Table Brno 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: 3bet727 ( $1.15 )
+Seat 9: rustymaw ( $0.67 )
+3bet727 posts small blind [$0.01]
+rustymaw posts big blind [$0.02]
+** Dealing down cards **
+3bet727 folds
+** Summary **
+rustymaw collected [ $0.03 ]
+
+
+#Game No : 503608353
+***** 888poker Hand History for Game 503608353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 11:16:56
+Table Brno 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: 3bet727 ( $1.14 )
+Seat 9: rustymaw ( $0.68 )
+rustymaw posts small blind [$0.01]
+3bet727 posts big blind [$0.02]
+** Dealing down cards **
+rustymaw folds
+** Summary **
+3bet727 collected [ $0.03 ]
+
+
+#Game No : 503612352
+***** 888poker Hand History for Game 503612352 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:38:10
+Table Brno 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $1.45 )
+Seat 9: card2d2 ( $1.05 )
+Yancco posts small blind [$0.01]
+card2d2 posts big blind [$0.02]
+** Dealing down cards **
+Yancco raises [$0.07]
+card2d2 folds
+** Summary **
+Yancco collected [ $0.04 ]
+
+
+#Game No : 503612361
+***** 888poker Hand History for Game 503612361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:38:22
+Table Brno 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Yancco ( $1.47 )
+Seat 9: card2d2 ( $1.03 )
+card2d2 posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+card2d2 raises [$0.05]
+Yancco calls [$0.04]
+** Dealing flop ** [ As, 7s, 2h ]
+Yancco checks
+card2d2 bets [$0.08]
+Yancco calls [$0.08]
+** Dealing turn ** [ 7d ]
+Yancco checks
+card2d2 checks
+** Dealing river ** [ Jh ]
+Yancco checks
+card2d2 checks
+** Summary **
+Yancco shows [ 8d, 8h ]
+card2d2 shows [ 4d, Ad ]
+card2d2 collected [ $0.27 ]
+
+
+#Game No : 503612384
+***** 888poker Hand History for Game 503612384 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:38:48
+Table Brno 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $1.33 )
+Seat 9: card2d2 ( $1.16 )
+Yancco posts small blind [$0.01]
+card2d2 posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+card2d2 collected [ $0.03 ]
+
+
+#Game No : 503612881
+***** 888poker Hand History for Game 503612881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:48:24
+Table Brno 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Xedfr5000 ( $0.80 )
+Seat 4: sashastas ( $0.80 )
+sashastas posts small blind [$0.01]
+Xedfr5000 posts big blind [$0.02]
+** Dealing down cards **
+sashastas calls [$0.01]
+Xedfr5000 checks
+** Dealing flop ** [ 4d, 4s, 4h ]
+Xedfr5000 checks
+sashastas checks
+** Dealing turn ** [ 9s ]
+Xedfr5000 checks
+sashastas checks
+** Dealing river ** [ 3d ]
+Xedfr5000 bets [$0.02]
+sashastas calls [$0.02]
+** Summary **
+Xedfr5000 shows [ 5h, Qd ]
+sashastas shows [ Kd, Th ]
+sashastas collected [ $0.08 ]
+
+
+#Game No : 503612927
+***** 888poker Hand History for Game 503612927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:48:31
+Table Brno 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Xedfr5000 ( $0.76 )
+Seat 4: sashastas ( $0.84 )
+Xedfr5000 posts small blind [$0.01]
+sashastas posts big blind [$0.02]
+** Dealing down cards **
+Xedfr5000 calls [$0.01]
+sashastas checks
+** Dealing flop ** [ 4c, 2s, 7c ]
+sashastas checks
+Xedfr5000 bets [$0.02]
+sashastas folds
+** Summary **
+Xedfr5000 collected [ $0.04 ]
+
+
+#Game No : 503613018
+***** 888poker Hand History for Game 503613018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:50:07
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Xedfr5000 ( $0.78 )
+Seat 6: pabl456 ( $1 )
+pabl456 posts small blind [$0.01]
+Xedfr5000 posts big blind [$0.02]
+** Dealing down cards **
+pabl456 calls [$0.01]
+Xedfr5000 checks
+** Dealing flop ** [ 2h, 9d, Th ]
+Xedfr5000 checks
+pabl456 bets [$0.16]
+Xedfr5000 folds
+** Summary **
+pabl456 did not show his hand
+pabl456 collected [ $0.04 ]
+
+
+#Game No : 503613041
+***** 888poker Hand History for Game 503613041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:50:31
+Table Brno 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Xedfr5000 ( $0.76 )
+Seat 6: pabl456 ( $1.02 )
+Xedfr5000 posts small blind [$0.01]
+pabl456 posts big blind [$0.02]
+** Dealing down cards **
+Xedfr5000 calls [$0.01]
+pabl456 checks
+** Dealing flop ** [ 3s, 9c, 4s ]
+pabl456 checks
+Xedfr5000 checks
+** Dealing turn ** [ 9h ]
+pabl456 checks
+Xedfr5000 bets [$0.02]
+pabl456 raises [$0.04]
+Xedfr5000 calls [$0.02]
+** Dealing river ** [ Kh ]
+pabl456 bets [$0.10]
+Xedfr5000 raises [$0.20]
+pabl456 raises [$0.20]
+Xedfr5000 calls [$0.10]
+** Summary **
+pabl456 shows [ Ad, Ah ]
+Xedfr5000 mucks [ Jh, Ks ]
+pabl456 collected [ $0.68 ]
+
+
+#Game No : 503613075
+***** 888poker Hand History for Game 503613075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:51:08
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Xedfr5000 ( $0.40 )
+Seat 6: pabl456 ( $1.34 )
+pabl456 posts small blind [$0.01]
+Xedfr5000 posts big blind [$0.02]
+** Dealing down cards **
+pabl456 calls [$0.01]
+Xedfr5000 checks
+** Dealing flop ** [ 2s, Qh, 4h ]
+Xedfr5000 bets [$0.02]
+pabl456 folds
+** Summary **
+Xedfr5000 did not show his hand
+Xedfr5000 collected [ $0.04 ]
+
+
+#Game No : 503613085
+***** 888poker Hand History for Game 503613085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:51:21
+Table Brno 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Xedfr5000 ( $0.42 )
+Seat 6: pabl456 ( $1.32 )
+Xedfr5000 posts small blind [$0.01]
+pabl456 posts big blind [$0.02]
+** Dealing down cards **
+Xedfr5000 calls [$0.01]
+pabl456 checks
+** Dealing flop ** [ Ks, 2s, Tc ]
+pabl456 checks
+Xedfr5000 bets [$0.02]
+pabl456 calls [$0.02]
+** Dealing turn ** [ Qh ]
+pabl456 bets [$0.08]
+Xedfr5000 calls [$0.08]
+** Dealing river ** [ 3h ]
+pabl456 bets [$0.12]
+Xedfr5000 folds
+** Summary **
+pabl456 collected [ $0.23 ]
+
+
+#Game No : 503613117
+***** 888poker Hand History for Game 503613117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 12:51:55
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Xedfr5000 ( $0.30 )
+Seat 6: pabl456 ( $1.43 )
+pabl456 posts small blind [$0.01]
+Xedfr5000 posts big blind [$0.02]
+** Dealing down cards **
+pabl456 calls [$0.01]
+Xedfr5000 checks
+** Dealing flop ** [ 2d, 3s, Kd ]
+Xedfr5000 bets [$0.02]
+pabl456 folds
+** Summary **
+Xedfr5000 collected [ $0.04 ]
+
+
+#Game No : 503616625
+***** 888poker Hand History for Game 503616625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 13:58:52
+Table Brno 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Canes_CR ( $1.65 )
+Seat 9: eExiGo ( $1.06 )
+eExiGo posts small blind [$0.01]
+Canes_CR posts big blind [$0.02]
+** Dealing down cards **
+eExiGo folds
+** Summary **
+Canes_CR collected [ $0.03 ]
+
+
+#Game No : 503618967
+***** 888poker Hand History for Game 503618967 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 14:40:22
+Table Brno 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: andron1715 ( $1.06 )
+Seat 7: Canes_CR ( $4.54 )
+andron1715 posts small blind [$0.01]
+Canes_CR posts big blind [$0.02]
+** Dealing down cards **
+andron1715 folds
+** Summary **
+Canes_CR collected [ $0.03 ]
+
+

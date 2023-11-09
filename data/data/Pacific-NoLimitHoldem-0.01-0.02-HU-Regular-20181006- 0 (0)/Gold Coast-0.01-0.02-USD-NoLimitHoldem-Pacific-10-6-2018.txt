@@ -1,0 +1,460 @@
+#Game No : 503391557
+***** 888poker Hand History for Game 503391557 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:03:31
+Table Gold Coast 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: KidDaivi13 ( $1.27 )
+Seat 9: simon.109 ( $1.50 )
+simon.109 posts small blind [$0.01]
+KidDaivi13 posts big blind [$0.02]
+** Dealing down cards **
+simon.109 raises [$0.05]
+KidDaivi13 folds
+** Summary **
+simon.109 collected [ $0.04 ]
+
+
+#Game No : 503391567
+***** 888poker Hand History for Game 503391567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:03:53
+Table Gold Coast 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KidDaivi13 ( $1.25 )
+Seat 9: simon.109 ( $1.52 )
+KidDaivi13 posts small blind [$0.01]
+simon.109 posts big blind [$0.02]
+** Dealing down cards **
+KidDaivi13 folds
+** Summary **
+simon.109 collected [ $0.03 ]
+
+
+#Game No : 503392259
+***** 888poker Hand History for Game 503392259 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:32:00
+Table Gold Coast 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: TITIO1000 ( $1 )
+Seat 7: jokunimi ( $4.05 )
+jokunimi posts small blind [$0.01]
+TITIO1000 posts big blind [$0.02]
+** Dealing down cards **
+jokunimi calls [$0.01]
+TITIO1000 checks
+** Dealing flop ** [ 6h, 9s, Ts ]
+TITIO1000 checks
+jokunimi bets [$0.04]
+TITIO1000 calls [$0.04]
+** Dealing turn ** [ Jd ]
+TITIO1000 checks
+jokunimi bets [$0.08]
+TITIO1000 calls [$0.08]
+** Dealing river ** [ 9d ]
+TITIO1000 checks
+jokunimi checks
+** Summary **
+TITIO1000 shows [ Td, 7s ]
+jokunimi shows [ 5h, Jh ]
+jokunimi collected [ $0.27 ]
+
+
+#Game No : 503392274
+***** 888poker Hand History for Game 503392274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 17:32:35
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: TITIO1000 ( $0.86 )
+Seat 7: jokunimi ( $4.18 )
+TITIO1000 posts small blind [$0.01]
+** Dealing down cards **
+jokunimi folds
+** Summary **
+TITIO1000 did not show his hand
+TITIO1000 collected [ $0.01 ]
+
+
+#Game No : 503398107
+***** 888poker Hand History for Game 503398107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 23:28:26
+Table Gold Coast 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: petr19600908 ( $0.96 )
+Seat 6: SVolbin ( $1.04 )
+SVolbin posts small blind [$0.01]
+petr19600908 posts big blind [$0.02]
+** Dealing down cards **
+SVolbin raises [$0.03]
+petr19600908 calls [$0.02]
+** Dealing flop ** [ 2h, Qh, Kh ]
+petr19600908 checks
+SVolbin checks
+** Dealing turn ** [ 6d ]
+petr19600908 checks
+SVolbin checks
+** Dealing river ** [ 7d ]
+petr19600908 bets [$0.02]
+SVolbin raises [$0.08]
+petr19600908 calls [$0.06]
+** Summary **
+SVolbin shows [ Ks, 9c ]
+petr19600908 mucks [ Qd, 9d ]
+SVolbin collected [ $0.23 ]
+
+
+#Game No : 503399438
+***** 888poker Hand History for Game 503399438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 00:23:12
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RainOfPain ( $1.20 )
+Seat 6: SVolbin ( $3.19 )
+RainOfPain posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+RainOfPain folds
+** Summary **
+SVolbin collected [ $0.03 ]
+
+
+#Game No : 503399445
+***** 888poker Hand History for Game 503399445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 00:23:24
+Table Gold Coast 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: RainOfPain ( $1.19 )
+Seat 6: SVolbin ( $3.20 )
+SVolbin posts small blind [$0.01]
+RainOfPain posts big blind [$0.02]
+** Dealing down cards **
+SVolbin folds
+** Summary **
+RainOfPain collected [ $0.03 ]
+
+
+#Game No : 503399501
+***** 888poker Hand History for Game 503399501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 00:25:59
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RainOfPain ( $1.40 )
+Seat 7: Godisdivine ( $0.80 )
+RainOfPain posts small blind [$0.01]
+Godisdivine posts big blind [$0.02]
+** Dealing down cards **
+RainOfPain raises [$0.05]
+Godisdivine calls [$0.04]
+** Dealing flop ** [ 2h, Ah, Js ]
+Godisdivine checks
+RainOfPain checks
+** Dealing turn ** [ Kd ]
+Godisdivine bets [$0.06]
+RainOfPain folds
+** Summary **
+Godisdivine collected [ $0.12 ]
+
+
+#Game No : 503399510
+***** 888poker Hand History for Game 503399510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 00:26:27
+Table Gold Coast 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: RainOfPain ( $1.34 )
+Seat 7: Godisdivine ( $0.86 )
+Godisdivine posts small blind [$0.01]
+RainOfPain posts big blind [$0.02]
+** Dealing down cards **
+Godisdivine calls [$0.01]
+RainOfPain raises [$0.04]
+Godisdivine calls [$0.04]
+** Dealing flop ** [ 7c, Kh, Ts ]
+RainOfPain bets [$0.08]
+Godisdivine calls [$0.08]
+** Dealing turn ** [ 7h ]
+RainOfPain bets [$0.18]
+Godisdivine calls [$0.18]
+** Dealing river ** [ 8s ]
+RainOfPain checks
+Godisdivine bets [$0.54]
+RainOfPain folds
+** Summary **
+Godisdivine collected [ $0.60 ]
+
+
+#Game No : 503399525
+***** 888poker Hand History for Game 503399525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 00:27:15
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RainOfPain ( $1.02 )
+Seat 7: Godisdivine ( $1.14 )
+RainOfPain posts small blind [$0.01]
+Godisdivine posts big blind [$0.02]
+** Dealing down cards **
+RainOfPain raises [$0.05]
+Godisdivine raises [$0.08]
+RainOfPain folds
+** Summary **
+Godisdivine collected [ $0.12 ]
+
+
+#Game No : 503399998
+***** 888poker Hand History for Game 503399998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 00:49:44
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: mehanik1000 ( $0.74 )
+Seat 4: miro512987 ( $1.01 )
+miro512987 posts small blind [$0.01]
+mehanik1000 posts big blind [$0.02]
+** Dealing down cards **
+miro512987 folds
+** Summary **
+mehanik1000 collected [ $0.03 ]
+
+
+#Game No : 503400000
+***** 888poker Hand History for Game 503400000 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 00:49:52
+Table Gold Coast 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: mehanik1000 ( $0.75 )
+Seat 4: miro512987 ( $1 )
+mehanik1000 posts small blind [$0.01]
+** Dealing down cards **
+miro512987 folds
+** Summary **
+mehanik1000 collected [ $0.01 ]
+
+
+#Game No : 503406514
+***** 888poker Hand History for Game 503406514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 04:38:49
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Ashraf1010 ( $1.10 )
+Seat 4: bayboy885 ( $1.83 )
+bayboy885 posts small blind [$0.01]
+Ashraf1010 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 folds
+** Summary **
+Ashraf1010 collected [ $0.03 ]
+
+
+#Game No : 503406519
+***** 888poker Hand History for Game 503406519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 04:38:56
+Table Gold Coast 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ashraf1010 ( $1.11 )
+Seat 4: bayboy885 ( $1.82 )
+Ashraf1010 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Ashraf1010 calls [$0.01]
+bayboy885 raises [$0.02]
+Ashraf1010 calls [$0.02]
+** Dealing flop ** [ 6s, 5d, 2c ]
+bayboy885 bets [$0.04]
+Ashraf1010 calls [$0.04]
+** Dealing turn ** [ Kh ]
+bayboy885 bets [$0.08]
+Ashraf1010 calls [$0.08]
+** Dealing river ** [ As ]
+bayboy885 checks
+Ashraf1010 checks
+** Summary **
+bayboy885 shows [ Kd, Qs ]
+Ashraf1010 mucks [ 6h, 7s ]
+bayboy885 collected [ $0.30 ]
+
+
+#Game No : 503406532
+***** 888poker Hand History for Game 503406532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 04:39:25
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Ashraf1010 ( $0.95 )
+Seat 4: bayboy885 ( $1.96 )
+bayboy885 posts small blind [$0.01]
+Ashraf1010 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 raises [$0.03]
+Ashraf1010 calls [$0.02]
+** Dealing flop ** [ Jc, Js, 5c ]
+Ashraf1010 checks
+bayboy885 bets [$0.04]
+Ashraf1010 folds
+** Summary **
+bayboy885 collected [ $0.08 ]
+
+
+#Game No : 503406542
+***** 888poker Hand History for Game 503406542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 04:39:40
+Table Gold Coast 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ashraf1010 ( $0.91 )
+Seat 4: bayboy885 ( $2 )
+Ashraf1010 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Ashraf1010 calls [$0.01]
+bayboy885 checks
+** Dealing flop ** [ Qh, Ah, 9c ]
+bayboy885 checks
+Ashraf1010 checks
+** Dealing turn ** [ 6c ]
+bayboy885 checks
+Ashraf1010 bets [$0.02]
+bayboy885 calls [$0.02]
+** Dealing river ** [ 7d ]
+bayboy885 checks
+Ashraf1010 checks
+** Summary **
+bayboy885 shows [ 5d, 8c ]
+Ashraf1010 mucks [ Jh, 2c ]
+bayboy885 collected [ $0.08 ]
+
+
+#Game No : 503406561
+***** 888poker Hand History for Game 503406561 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 04:40:08
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Ashraf1010 ( $0.87 )
+Seat 4: bayboy885 ( $2.04 )
+bayboy885 posts small blind [$0.01]
+Ashraf1010 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 calls [$0.01]
+Ashraf1010 checks
+** Dealing flop ** [ Qd, 9s, 4h ]
+Ashraf1010 bets [$0.02]
+bayboy885 calls [$0.02]
+** Dealing turn ** [ Jh ]
+Ashraf1010 bets [$0.08]
+bayboy885 calls [$0.08]
+** Dealing river ** [ 8h ]
+Ashraf1010 bets [$0.08]
+bayboy885 calls [$0.08]
+** Summary **
+Ashraf1010 shows [ 9c, 4s ]
+bayboy885 shows [ Qh, Jc ]
+bayboy885 collected [ $0.38 ]
+
+
+#Game No : 503406578
+***** 888poker Hand History for Game 503406578 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 04:40:39
+Table Gold Coast 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ashraf1010 ( $0.67 )
+Seat 4: bayboy885 ( $2.22 )
+Ashraf1010 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Ashraf1010 raises [$0.03]
+bayboy885 calls [$0.02]
+** Dealing flop ** [ Qh, 7h, 4h ]
+bayboy885 checks
+Ashraf1010 checks
+** Dealing turn ** [ 7d ]
+bayboy885 bets [$0.05]
+Ashraf1010 calls [$0.05]
+** Dealing river ** [ 9s ]
+bayboy885 bets [$0.12]
+Ashraf1010 folds
+** Summary **
+bayboy885 collected [ $0.17 ]
+
+
+#Game No : 503406597
+***** 888poker Hand History for Game 503406597 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 04:41:14
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Ashraf1010 ( $0.58 )
+Seat 4: bayboy885 ( $2.30 )
+bayboy885 posts small blind [$0.01]
+Ashraf1010 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 raises [$0.03]
+Ashraf1010 folds
+** Summary **
+bayboy885 collected [ $0.04 ]
+
+
+#Game No : 503406603
+***** 888poker Hand History for Game 503406603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 04:41:22
+Table Gold Coast 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ashraf1010 ( $0.56 )
+Seat 4: bayboy885 ( $2.32 )
+Ashraf1010 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Ashraf1010 calls [$0.01]
+bayboy885 checks
+** Dealing flop ** [ 7s, Ks, Tc ]
+bayboy885 checks
+Ashraf1010 bets [$0.02]
+bayboy885 calls [$0.02]
+** Dealing turn ** [ 5d ]
+bayboy885 checks
+Ashraf1010 bets [$0.02]
+bayboy885 calls [$0.02]
+** Dealing river ** [ 6s ]
+bayboy885 checks
+Ashraf1010 checks
+** Summary **
+bayboy885 shows [ 9d, Js ]
+Ashraf1010 shows [ Th, 3h ]
+Ashraf1010 collected [ $0.12 ]
+
+
+#Game No : 503406618
+***** 888poker Hand History for Game 503406618 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 10 2018 04:41:50
+Table Gold Coast 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Ashraf1010 ( $0.62 )
+Seat 4: bayboy885 ( $2.26 )
+bayboy885 posts small blind [$0.01]
+Ashraf1010 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 calls [$0.01]
+Ashraf1010 checks
+** Dealing flop ** [ Tc, 5d, 4h ]
+Ashraf1010 checks
+bayboy885 checks
+** Dealing turn ** [ Td ]
+Ashraf1010 checks
+bayboy885 bets [$0.02]
+Ashraf1010 folds
+** Summary **
+bayboy885 collected [ $0.04 ]
+
+

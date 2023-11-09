@@ -1,0 +1,61 @@
+#Game No : 604789893
+***** 888poker Hand History for Game 604789893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 17:54:14
+Table Kharkiv 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Negator93 ( $1.04 )
+Seat 5: CURURU13 ( $0.76 )
+Negator93 posts small blind [$0.01]
+CURURU13 posts big blind [$0.02]
+** Dealing down cards **
+Negator93 raises [$0.03]
+CURURU13 calls [$0.02]
+** Dealing flop ** [ 9h, 3s, Qs ]
+CURURU13 checks
+Negator93 checks
+** Dealing turn ** [ 5s ]
+CURURU13 checks
+Negator93 bets [$0.04]
+CURURU13 calls [$0.04]
+** Dealing river ** [ 5h ]
+CURURU13 bets [$0.08]
+Negator93 calls [$0.08]
+** Summary **
+CURURU13 shows [ 5d, Ah ]
+Negator93 mucks [ Jh, 9c ]
+CURURU13 collected [ $0.30 ]
+
+
+#Game No : 604795050
+***** 888poker Hand History for Game 604795050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 22:57:06
+Table Kharkiv 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ggEASY1337 ( $2.18 )
+Seat 7: Nsabs ( $2.75 )
+ggEASY1337 posts small blind [$0.01]
+Nsabs posts big blind [$0.02]
+** Dealing down cards **
+ggEASY1337 raises [$0.03]
+Nsabs folds
+** Summary **
+ggEASY1337 collected [ $0.04 ]
+
+
+#Game No : 604795057
+***** 888poker Hand History for Game 604795057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 06 2018 22:57:22
+Table Kharkiv 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: ggEASY1337 ( $2.20 )
+Seat 7: Nsabs ( $2.73 )
+Nsabs posts small blind [$0.01]
+** Dealing down cards **
+ggEASY1337 folds
+** Summary **
+Nsabs collected [ $0.01 ]
+
+

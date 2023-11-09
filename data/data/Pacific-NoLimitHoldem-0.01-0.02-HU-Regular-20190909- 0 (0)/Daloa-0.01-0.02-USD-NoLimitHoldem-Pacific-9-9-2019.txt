@@ -1,0 +1,55 @@
+#Game No : 539402276
+***** 888poker Hand History for Game 539402276 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 09 2019 23:23:02
+Table Daloa 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LilKnut ( $2 )
+Seat 3: WulliWuff ( $2 )
+LilKnut posts small blind [$0.01]
+WulliWuff posts big blind [$0.02]
+** Dealing down cards **
+LilKnut raises [$0.03]
+WulliWuff calls [$0.02]
+** Dealing flop ** [ 3d, 4h, 6d ]
+WulliWuff checks
+LilKnut bets [$0.04]
+WulliWuff raises [$0.12]
+LilKnut calls [$0.08]
+** Dealing turn ** [ 3s ]
+WulliWuff bets [$0.16]
+LilKnut raises [$0.44]
+WulliWuff folds
+** Summary **
+LilKnut collected [ $0.60 ]
+
+
+#Game No : 539402301
+***** 888poker Hand History for Game 539402301 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 09 2019 23:23:57
+Table Daloa 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: LilKnut ( $2.28 )
+Seat 3: WulliWuff ( $1.68 )
+WulliWuff posts small blind [$0.01]
+LilKnut posts big blind [$0.02]
+** Dealing down cards **
+WulliWuff raises [$0.05]
+LilKnut calls [$0.04]
+** Dealing flop ** [ Th, Tc, Js ]
+LilKnut checks
+WulliWuff bets [$0.06]
+LilKnut calls [$0.06]
+** Dealing turn ** [ 8d ]
+LilKnut checks
+WulliWuff bets [$0.12]
+LilKnut calls [$0.12]
+** Dealing river ** [ 2d ]
+LilKnut checks
+WulliWuff bets [$0.31]
+LilKnut folds
+** Summary **
+WulliWuff collected [ $0.45 ]
+
+

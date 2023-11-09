@@ -1,0 +1,45 @@
+#Game No : 1265670841
+***** 888poker Hand History for Game 1265670841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 05 2019 19:42:21
+Table Hyderabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Bob777888 ( $3.35 )
+Seat 7: shaopenny ( $1.03 )
+shaopenny posts small blind [$0.01]
+Bob777888 posts big blind [$0.02]
+** Dealing down cards **
+shaopenny calls [$0.01]
+Bob777888 checks
+** Dealing flop ** [ 9h, 5c, 8h ]
+Bob777888 bets [$0.02]
+shaopenny calls [$0.02]
+** Dealing turn ** [ 7s ]
+Bob777888 bets [$0.02]
+shaopenny calls [$0.02]
+** Dealing river ** [ 7h ]
+Bob777888 bets [$0.02]
+shaopenny calls [$0.02]
+** Summary **
+Bob777888 shows [ 8s, 3h ]
+shaopenny mucks [ 5h, 4c ]
+Bob777888 collected [ $0.15 ]
+
+
+#Game No : 1265670926
+***** 888poker Hand History for Game 1265670926 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 05 2019 19:43:08
+Table Hyderabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bob777888 ( $3.42 )
+Seat 7: Cory12211 ( $0.80 )
+Bob777888 posts small blind [$0.01]
+Cory12211 posts big blind [$0.02]
+** Dealing down cards **
+Bob777888 folds
+** Summary **
+Cory12211 did not show his hand
+Cory12211 collected [ $0.03 ]
+
+

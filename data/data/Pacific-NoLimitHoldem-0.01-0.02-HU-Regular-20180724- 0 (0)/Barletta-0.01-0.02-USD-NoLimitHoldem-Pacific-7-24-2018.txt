@@ -1,0 +1,190 @@
+#Game No : 499907146
+***** 888poker Hand History for Game 499907146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 14:21:34
+Table Barletta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SSedusov ( $1 )
+Seat 7: a1plumber ( $0.77 )
+a1plumber posts small blind [$0.01]
+SSedusov posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+SSedusov checks
+** Dealing flop ** [ Tc, 9h, 7d ]
+SSedusov bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing turn ** [ 9s ]
+SSedusov bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing river ** [ 4d ]
+SSedusov checks
+a1plumber checks
+** Summary **
+SSedusov shows [ Jd, 2h ]
+a1plumber shows [ Jh, Kh ]
+a1plumber collected [ $0.12 ]
+
+
+#Game No : 499907172
+***** 888poker Hand History for Game 499907172 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 14:22:01
+Table Barletta 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SSedusov ( $0.94 )
+Seat 7: a1plumber ( $0.83 )
+SSedusov posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+SSedusov raises [$0.03]
+a1plumber folds
+** Summary **
+SSedusov collected [ $0.04 ]
+
+
+#Game No : 499907184
+***** 888poker Hand History for Game 499907184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 14:22:09
+Table Barletta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SSedusov ( $0.96 )
+Seat 7: a1plumber ( $0.81 )
+a1plumber posts small blind [$0.01]
+SSedusov posts big blind [$0.02]
+** Dealing down cards **
+a1plumber folds
+** Summary **
+SSedusov collected [ $0.03 ]
+
+
+#Game No : 499907196
+***** 888poker Hand History for Game 499907196 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 14:22:16
+Table Barletta 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SSedusov ( $0.97 )
+Seat 7: a1plumber ( $0.80 )
+SSedusov posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+SSedusov calls [$0.01]
+a1plumber checks
+** Dealing flop ** [ Qs, Ah, 3h ]
+a1plumber checks
+SSedusov checks
+** Dealing turn ** [ 6h ]
+a1plumber checks
+SSedusov checks
+** Dealing river ** [ Kd ]
+a1plumber bets [$0.02]
+SSedusov folds
+** Summary **
+a1plumber collected [ $0.04 ]
+
+
+#Game No : 499907224
+***** 888poker Hand History for Game 499907224 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 14:22:42
+Table Barletta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SSedusov ( $0.95 )
+Seat 7: a1plumber ( $0.82 )
+a1plumber posts small blind [$0.01]
+SSedusov posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+SSedusov checks
+** Dealing flop ** [ 9h, Th, 2d ]
+SSedusov bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing turn ** [ 9s ]
+SSedusov bets [$0.02]
+a1plumber calls [$0.02]
+** Dealing river ** [ Ts ]
+SSedusov bets [$0.02]
+a1plumber raises [$0.04]
+SSedusov calls [$0.02]
+** Summary **
+a1plumber shows [ Kc, 9c ]
+SSedusov mucks [ Jd, 2s ]
+a1plumber collected [ $0.19 ]
+
+
+#Game No : 499907272
+***** 888poker Hand History for Game 499907272 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 14:23:20
+Table Barletta 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SSedusov ( $0.85 )
+Seat 7: a1plumber ( $0.91 )
+SSedusov posts small blind [$0.01]
+a1plumber posts big blind [$0.02]
+** Dealing down cards **
+SSedusov raises [$0.03]
+a1plumber calls [$0.02]
+** Dealing flop ** [ 5s, 6c, 8h ]
+a1plumber checks
+SSedusov checks
+** Dealing turn ** [ Kc ]
+a1plumber checks
+SSedusov bets [$0.02]
+a1plumber folds
+** Summary **
+SSedusov collected [ $0.08 ]
+
+
+#Game No : 499907296
+***** 888poker Hand History for Game 499907296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 14:23:43
+Table Barletta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: SSedusov ( $0.89 )
+Seat 7: a1plumber ( $0.87 )
+a1plumber posts small blind [$0.01]
+SSedusov posts big blind [$0.02]
+** Dealing down cards **
+a1plumber calls [$0.01]
+SSedusov checks
+** Dealing flop ** [ 5s, 6c, 5c ]
+SSedusov checks
+a1plumber checks
+** Dealing turn ** [ Ac ]
+SSedusov checks
+a1plumber checks
+** Dealing river ** [ Ts ]
+SSedusov checks
+a1plumber checks
+** Summary **
+SSedusov shows [ Qs, 4h ]
+a1plumber shows [ Qd, 9c ]
+a1plumber collected [ $0.02 ]
+SSedusov collected [ $0.02 ]
+
+
+#Game No : 499908685
+***** 888poker Hand History for Game 499908685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 14:51:16
+Table Barletta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: morgz08 ( $1.25 )
+Seat 7: benjacobsF33 ( $1.02 )
+benjacobsF33 posts small blind [$0.01]
+morgz08 posts big blind [$0.02]
+** Dealing down cards **
+benjacobsF33 calls [$0.01]
+morgz08 checks
+** Dealing flop ** [ Ad, Ts, 7c ]
+morgz08 bets [$0.02]
+benjacobsF33 folds
+** Summary **
+morgz08 did not show his hand
+morgz08 collected [ $0.04 ]
+
+

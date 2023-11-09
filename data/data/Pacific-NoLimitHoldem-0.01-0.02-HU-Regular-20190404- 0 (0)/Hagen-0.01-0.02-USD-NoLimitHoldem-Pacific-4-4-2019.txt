@@ -1,0 +1,92 @@
+#Game No : 1259467039
+***** 888poker Hand History for Game 1259467039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 04 2019 00:16:45
+Table Hagen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: soul8xxx ( $0.80 )
+Seat 2: phatbeatsam ( $2 )
+soul8xxx posts small blind [$0.01]
+phatbeatsam posts big blind [$0.02]
+** Dealing down cards **
+soul8xxx calls [$0.01]
+phatbeatsam raises [$0.02]
+soul8xxx calls [$0.02]
+** Dealing flop ** [ Kc, Qd, Tc ]
+phatbeatsam checks
+soul8xxx bets [$0.08]
+phatbeatsam folds
+** Summary **
+soul8xxx collected [ $0.08 ]
+
+
+#Game No : 1259467090
+***** 888poker Hand History for Game 1259467090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 04 2019 00:16:48
+Table Hagen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: soul8xxx ( $0.84 )
+Seat 2: phatbeatsam ( $1.96 )
+phatbeatsam posts small blind [$0.01]
+soul8xxx posts big blind [$0.02]
+** Dealing down cards **
+phatbeatsam raises [$0.03]
+soul8xxx folds
+** Summary **
+phatbeatsam collected [ $0.04 ]
+
+
+#Game No : 1259541489
+***** 888poker Hand History for Game 1259541489 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 04 2019 08:40:14
+Table Hagen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: rosigon ( $2.10 )
+Seat 10: csm6633 ( $1.98 )
+rosigon posts small blind [$0.01]
+csm6633 posts big blind [$0.02]
+** Dealing down cards **
+rosigon calls [$0.01]
+csm6633 checks
+** Dealing flop ** [ 7s, Ts, 8s ]
+csm6633 checks
+rosigon checks
+** Dealing turn ** [ 5h ]
+csm6633 bets [$0.02]
+rosigon calls [$0.02]
+** Dealing river ** [ Js ]
+csm6633 checks
+rosigon bets [$0.06]
+csm6633 folds
+** Summary **
+rosigon did not show his hand
+rosigon collected [ $0.08 ]
+
+
+#Game No : 1259541674
+***** 888poker Hand History for Game 1259541674 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 04 2019 08:41:01
+Table Hagen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: rosigon ( $2.14 )
+Seat 10: csm6633 ( $1.94 )
+csm6633 posts small blind [$0.01]
+rosigon posts big blind [$0.02]
+** Dealing down cards **
+csm6633 calls [$0.01]
+rosigon checks
+** Dealing flop ** [ 5h, 4s, 8c ]
+rosigon checks
+csm6633 checks
+** Dealing turn ** [ Qs ]
+rosigon checks
+csm6633 bets [$0.02]
+rosigon folds
+** Summary **
+csm6633 did not show his hand
+csm6633 collected [ $0.04 ]
+
+

@@ -1,0 +1,29 @@
+#Game No : 523375689
+***** 888poker Hand History for Game 523375689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 09:31:17
+Table Astana 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: vpetriu ( $2.02 )
+Seat 6: raisapoker ( $0.80 )
+raisapoker posts small blind [$0.01]
+vpetriu posts big blind [$0.02]
+** Dealing down cards **
+raisapoker calls [$0.01]
+vpetriu raises [$0.04]
+raisapoker calls [$0.04]
+** Dealing flop ** [ 9h, Qd, 7h ]
+vpetriu bets [$0.04]
+raisapoker raises [$0.08]
+vpetriu calls [$0.04]
+** Dealing turn ** [ 2c ]
+vpetriu checks
+raisapoker bets [$0.66]
+vpetriu calls [$0.66]
+** Dealing river ** [ Ts ]
+** Summary **
+vpetriu shows [ Qh, 8s ]
+raisapoker shows [ 7c, 7s ]
+raisapoker collected [ $1.50 ]
+
+

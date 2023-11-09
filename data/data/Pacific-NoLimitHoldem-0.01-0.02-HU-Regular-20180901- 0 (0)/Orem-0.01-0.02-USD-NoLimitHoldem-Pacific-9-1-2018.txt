@@ -1,0 +1,136 @@
+#Game No : 501750345
+***** 888poker Hand History for Game 501750345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 06:37:32
+Table Orem 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: gangstreet15 ( $0.79 )
+Seat 7: xxxkasyanxx1 ( $1.01 )
+xxxkasyanxx1 posts small blind [$0.01]
+gangstreet15 posts big blind [$0.02]
+** Dealing down cards **
+xxxkasyanxx1 raises [$0.04]
+gangstreet15 calls [$0.03]
+** Dealing flop ** [ 7h, 4c, Ah ]
+gangstreet15 checks
+xxxkasyanxx1 checks
+** Dealing turn ** [ 5c ]
+gangstreet15 checks
+xxxkasyanxx1 checks
+** Dealing river ** [ 8s ]
+gangstreet15 checks
+xxxkasyanxx1 checks
+** Summary **
+gangstreet15 shows [ Jd, Qs ]
+xxxkasyanxx1 shows [ Kh, Js ]
+xxxkasyanxx1 collected [ $0.10 ]
+
+
+#Game No : 501754930
+***** 888poker Hand History for Game 501754930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 08:06:45
+Table Orem 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: scofild14 ( $1.22 )
+Seat 4: richbranson ( $1.11 )
+scofild14 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+scofild14 calls [$0.01]
+richbranson checks
+** Dealing flop ** [ Ac, Qc, 9d ]
+richbranson checks
+scofild14 checks
+** Dealing turn ** [ Ts ]
+richbranson bets [$0.04]
+scofild14 calls [$0.04]
+** Dealing river ** [ 7d ]
+richbranson bets [$0.06]
+scofild14 calls [$0.06]
+** Summary **
+richbranson shows [ Qh, 3s ]
+scofild14 mucks [ Tc, 6h ]
+richbranson collected [ $0.23 ]
+
+
+#Game No : 501754986
+***** 888poker Hand History for Game 501754986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 08:07:43
+Table Orem 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: scofild14 ( $1.10 )
+Seat 4: richbranson ( $1.22 )
+richbranson posts small blind [$0.01]
+scofild14 posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.03]
+scofild14 calls [$0.02]
+** Dealing flop ** [ 4h, 9c, As ]
+scofild14 checks
+richbranson bets [$0.04]
+scofild14 calls [$0.04]
+** Dealing turn ** [ Td ]
+scofild14 checks
+richbranson bets [$0.04]
+scofild14 calls [$0.04]
+** Dealing river ** [ 2h ]
+scofild14 bets [$0.02]
+richbranson calls [$0.02]
+** Summary **
+scofild14 shows [ 8h, 9h ]
+richbranson shows [ Tc, 6c ]
+richbranson collected [ $0.27 ]
+
+
+#Game No : 501756401
+***** 888poker Hand History for Game 501756401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 08:34:16
+Table Orem 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: mrv1977 ( $0.80 )
+Seat 6: TeymurT ( $0.80 )
+TeymurT posts small blind [$0.01]
+mrv1977 posts big blind [$0.02]
+** Dealing down cards **
+TeymurT calls [$0.01]
+mrv1977 raises [$0.06]
+TeymurT folds
+** Summary **
+mrv1977 collected [ $0.04 ]
+
+
+#Game No : 501757585
+***** 888poker Hand History for Game 501757585 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 08:59:08
+Table Orem 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Karunos86 ( $1.19 )
+Seat 7: IgorMuzychen ( $1 )
+IgorMuzychen posts small blind [$0.01]
+Karunos86 posts big blind [$0.02]
+** Dealing down cards **
+IgorMuzychen raises [$0.05]
+Karunos86 folds
+** Summary **
+IgorMuzychen collected [ $0.04 ]
+
+
+#Game No : 501757615
+***** 888poker Hand History for Game 501757615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 08:59:53
+Table Orem 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: sblTbs ( $1 )
+Seat 7: IgorMuzychen ( $1.04 )
+IgorMuzychen posts small blind [$0.01]
+** Dealing down cards **
+sblTbs folds
+** Summary **
+IgorMuzychen collected [ $0.01 ]
+
+

@@ -1,0 +1,56 @@
+#Game No : 500472741
+***** 888poker Hand History for Game 500472741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 00:22:39
+Table Matamoros 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: asawako78 ( $1 )
+Seat 6: GrihaMetkiy ( $0.80 )
+GrihaMetkiy posts small blind [$0.01]
+asawako78 posts big blind [$0.02]
+** Dealing down cards **
+GrihaMetkiy calls [$0.01]
+asawako78 checks
+** Dealing flop ** [ Td, Qs, Jd ]
+asawako78 checks
+GrihaMetkiy checks
+** Dealing turn ** [ 5d ]
+asawako78 checks
+GrihaMetkiy checks
+** Dealing river ** [ Kh ]
+asawako78 checks
+GrihaMetkiy checks
+** Summary **
+asawako78 shows [ 4d, Qc ]
+GrihaMetkiy mucks [ 4c, Jc ]
+asawako78 collected [ $0.04 ]
+
+
+#Game No : 500472766
+***** 888poker Hand History for Game 500472766 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 08 2018 00:23:17
+Table Matamoros 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: asawako78 ( $1.02 )
+Seat 6: GrihaMetkiy ( $0.78 )
+asawako78 posts small blind [$0.01]
+GrihaMetkiy posts big blind [$0.02]
+** Dealing down cards **
+asawako78 raises [$0.03]
+GrihaMetkiy calls [$0.02]
+** Dealing flop ** [ 6s, Ac, Td ]
+GrihaMetkiy bets [$0.02]
+asawako78 calls [$0.02]
+** Dealing turn ** [ Qs ]
+GrihaMetkiy checks
+asawako78 checks
+** Dealing river ** [ 4s ]
+GrihaMetkiy checks
+asawako78 checks
+** Summary **
+GrihaMetkiy shows [ 2c, 6h ]
+asawako78 shows [ As, Qd ]
+asawako78 collected [ $0.12 ]
+
+

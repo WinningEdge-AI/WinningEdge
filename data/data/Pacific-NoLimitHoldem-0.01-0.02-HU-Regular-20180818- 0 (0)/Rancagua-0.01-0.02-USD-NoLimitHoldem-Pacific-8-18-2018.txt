@@ -1,0 +1,82 @@
+#Game No : 501056721
+***** 888poker Hand History for Game 501056721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:33:45
+Table Rancagua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $1.14 )
+Seat 7: zohanDK ( $2.14 )
+RatherShort posts small blind [$0.01]
+zohanDK posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.05]
+zohanDK folds
+** Summary **
+RatherShort collected [ $0.04 ]
+
+
+#Game No : 501056727
+***** 888poker Hand History for Game 501056727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:33:53
+Table Rancagua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $1.16 )
+Seat 7: zohanDK ( $2.12 )
+zohanDK posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+zohanDK folds
+** Summary **
+RatherShort collected [ $0.03 ]
+
+
+#Game No : 501056732
+***** 888poker Hand History for Game 501056732 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:33:58
+Table Rancagua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $1.17 )
+Seat 7: zohanDK ( $2.11 )
+RatherShort posts small blind [$0.01]
+zohanDK posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.05]
+zohanDK calls [$0.04]
+** Dealing flop ** [ Td, 5h, 4c ]
+zohanDK checks
+RatherShort bets [$0.06]
+zohanDK folds
+** Summary **
+RatherShort collected [ $0.12 ]
+
+
+#Game No : 501056752
+***** 888poker Hand History for Game 501056752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 05:34:26
+Table Rancagua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $1.23 )
+Seat 7: zohanDK ( $2.05 )
+zohanDK posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+zohanDK raises [$0.03]
+RatherShort calls [$0.02]
+** Dealing flop ** [ 3c, 7s, 3d ]
+RatherShort checks
+zohanDK checks
+** Dealing turn ** [ 3h ]
+RatherShort checks
+zohanDK checks
+** Dealing river ** [ Th ]
+RatherShort bets [$0.06]
+zohanDK calls [$0.06]
+** Summary **
+RatherShort shows [ Ks, Ts ]
+zohanDK mucks [ Ah, 5c ]
+RatherShort collected [ $0.19 ]
+
+

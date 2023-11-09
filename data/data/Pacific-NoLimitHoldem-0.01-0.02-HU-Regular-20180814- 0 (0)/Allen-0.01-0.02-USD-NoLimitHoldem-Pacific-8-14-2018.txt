@@ -1,0 +1,206 @@
+#Game No : 500892583
+***** 888poker Hand History for Game 500892583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:44:26
+Table Allen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Valdemors163 ( $3.99 )
+Seat 6: 888notsogr8 ( $4 )
+888notsogr8 posts small blind [$0.01]
+Valdemors163 posts big blind [$0.02]
+** Dealing down cards **
+888notsogr8 folds
+** Summary **
+Valdemors163 collected [ $0.03 ]
+
+
+#Game No : 500893608
+***** 888poker Hand History for Game 500893608 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:14:40
+Table Allen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: RatherShort ( $1.69 )
+Seat 9: Enzodirenzo ( $2.62 )
+Enzodirenzo posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+RatherShort folds
+** Summary **
+Enzodirenzo collected [ $0.04 ]
+
+
+#Game No : 500893617
+***** 888poker Hand History for Game 500893617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:14:40
+Table Allen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: RatherShort ( $1.67 )
+Seat 9: Enzodirenzo ( $2.64 )
+RatherShort posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.05]
+Enzodirenzo calls [$0.04]
+** Dealing flop ** [ Ah, 7h, 3h ]
+Enzodirenzo bets [$0.02]
+RatherShort calls [$0.02]
+** Dealing turn ** [ 2c ]
+Enzodirenzo bets [$0.08]
+RatherShort folds
+** Summary **
+Enzodirenzo collected [ $0.15 ]
+
+
+#Game No : 500893649
+***** 888poker Hand History for Game 500893649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:14:40
+Table Allen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: RatherShort ( $1.65 )
+Seat 6: reader896 ( $0.74 )
+RatherShort posts small blind [$0.01]
+reader896 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+reader896 collected [ $0.03 ]
+
+
+#Game No : 500893654
+***** 888poker Hand History for Game 500893654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:14:51
+Table Allen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: RatherShort ( $1.64 )
+Seat 6: reader896 ( $0.75 )
+reader896 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+reader896 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 3c, 5s, 2d ]
+RatherShort checks
+reader896 checks
+** Dealing turn ** [ Kd ]
+RatherShort checks
+reader896 checks
+** Dealing river ** [ 6d ]
+RatherShort checks
+reader896 checks
+** Summary **
+RatherShort shows [ 2s, 9c ]
+reader896 mucks [ Jh, 9h ]
+RatherShort collected [ $0.04 ]
+
+
+#Game No : 500894202
+***** 888poker Hand History for Game 500894202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:29:32
+Table Allen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.08 )
+Seat 9: NicholsonT ( $1.05 )
+OlegH1 posts small blind [$0.01]
+NicholsonT posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+NicholsonT raises [$0.04]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ Qs, 5h, 6s ]
+NicholsonT checks
+OlegH1 bets [$0.08]
+NicholsonT calls [$0.08]
+** Dealing turn ** [ Ah ]
+NicholsonT bets [$0.10]
+OlegH1 calls [$0.10]
+** Dealing river ** [ Qh ]
+NicholsonT bets [$0.10]
+OlegH1 raises [$0.30]
+NicholsonT raises [$0.40]
+OlegH1 folds
+** Summary **
+NicholsonT collected [ $1.02 ]
+
+
+#Game No : 500894247
+***** 888poker Hand History for Game 500894247 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:30:33
+Table Allen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1 )
+Seat 9: NicholsonT ( $1.53 )
+NicholsonT posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+NicholsonT calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 3s, 8c, 6d ]
+OlegH1 checks
+NicholsonT checks
+** Dealing turn ** [ 2h ]
+OlegH1 bets [$0.02]
+NicholsonT raises [$0.04]
+OlegH1 calls [$0.02]
+** Dealing river ** [ Qc ]
+OlegH1 checks
+NicholsonT bets [$0.02]
+OlegH1 calls [$0.02]
+** Summary **
+NicholsonT shows [ 2s, 8h ]
+OlegH1 mucks [ 3h, 5c ]
+NicholsonT collected [ $0.15 ]
+
+
+#Game No : 500894375
+***** 888poker Hand History for Game 500894375 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:33:52
+Table Allen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: votes4goats ( $1.02 )
+Seat 9: NicholsonT ( $1.57 )
+NicholsonT posts small blind [$0.01]
+votes4goats posts big blind [$0.02]
+** Dealing down cards **
+NicholsonT calls [$0.01]
+votes4goats raises [$0.04]
+NicholsonT folds
+** Summary **
+votes4goats collected [ $0.04 ]
+
+
+#Game No : 500894393
+***** 888poker Hand History for Game 500894393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:34:11
+Table Allen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: votes4goats ( $1.04 )
+Seat 9: NicholsonT ( $1.55 )
+votes4goats posts small blind [$0.01]
+NicholsonT posts big blind [$0.02]
+** Dealing down cards **
+votes4goats raises [$0.05]
+NicholsonT calls [$0.04]
+** Dealing flop ** [ 7s, 6h, 9d ]
+NicholsonT checks
+votes4goats checks
+** Dealing turn ** [ 3s ]
+NicholsonT checks
+votes4goats checks
+** Dealing river ** [ 4h ]
+NicholsonT checks
+votes4goats checks
+** Summary **
+NicholsonT shows [ Ah, 7h ]
+votes4goats mucks [ Kc, 4s ]
+NicholsonT collected [ $0.12 ]
+
+

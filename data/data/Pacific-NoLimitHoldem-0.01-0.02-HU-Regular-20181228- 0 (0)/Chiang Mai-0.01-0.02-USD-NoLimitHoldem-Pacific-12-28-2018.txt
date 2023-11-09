@@ -1,0 +1,122 @@
+#Game No : 519997873
+***** 888poker Hand History for Game 519997873 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 19:59:06
+Table Chiang Mai 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: parteas ( $0.61 )
+Seat 9: pojaba1111 ( $1.98 )
+pojaba1111 posts small blind [$0.01]
+parteas posts big blind [$0.02]
+** Dealing down cards **
+pojaba1111 folds
+** Summary **
+parteas collected [ $0.03 ]
+
+
+#Game No : 519997881
+***** 888poker Hand History for Game 519997881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 19:59:18
+Table Chiang Mai 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: parteas ( $0.62 )
+Seat 9: pojaba1111 ( $1.97 )
+parteas posts small blind [$0.01]
+pojaba1111 posts big blind [$0.02]
+** Dealing down cards **
+parteas folds
+** Summary **
+pojaba1111 collected [ $0.03 ]
+
+
+#Game No : 519997887
+***** 888poker Hand History for Game 519997887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 19:59:24
+Table Chiang Mai 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: parteas ( $0.61 )
+Seat 9: pojaba1111 ( $1.98 )
+pojaba1111 posts small blind [$0.01]
+parteas posts big blind [$0.02]
+** Dealing down cards **
+pojaba1111 raises [$0.03]
+parteas raises [$0.04]
+pojaba1111 calls [$0.02]
+** Dealing flop ** [ Js, 6s, 5c ]
+parteas bets [$0.04]
+pojaba1111 folds
+** Summary **
+parteas collected [ $0.12 ]
+
+
+#Game No : 519998169
+***** 888poker Hand History for Game 519998169 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 20:07:18
+Table Chiang Mai 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: parteas ( $0.65 )
+Seat 9: pojaba1111 ( $1.81 )
+parteas posts small blind [$0.01]
+pojaba1111 posts big blind [$0.02]
+** Dealing down cards **
+parteas calls [$0.01]
+pojaba1111 raises [$0.03]
+parteas calls [$0.03]
+** Dealing flop ** [ Qc, 2s, 9s ]
+pojaba1111 checks
+parteas checks
+** Dealing turn ** [ 5c ]
+pojaba1111 bets [$0.06]
+parteas folds
+** Summary **
+pojaba1111 did not show his hand
+pojaba1111 collected [ $0.10 ]
+
+
+#Game No : 519998180
+***** 888poker Hand History for Game 519998180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 20:07:41
+Table Chiang Mai 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: parteas ( $0.60 )
+Seat 9: pojaba1111 ( $1.86 )
+pojaba1111 posts small blind [$0.01]
+parteas posts big blind [$0.02]
+** Dealing down cards **
+pojaba1111 folds
+** Summary **
+parteas did not show his hand
+parteas collected [ $0.03 ]
+
+
+#Game No : 519998185
+***** 888poker Hand History for Game 519998185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 20:07:46
+Table Chiang Mai 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: parteas ( $0.61 )
+Seat 9: pojaba1111 ( $1.85 )
+parteas posts small blind [$0.01]
+pojaba1111 posts big blind [$0.02]
+** Dealing down cards **
+parteas raises [$0.03]
+pojaba1111 raises [$0.10]
+parteas calls [$0.08]
+** Dealing flop ** [ Js, As, 3s ]
+pojaba1111 bets [$0.16]
+parteas calls [$0.16]
+** Dealing turn ** [ 6h ]
+pojaba1111 bets [$0.34]
+parteas calls [$0.33]
+** Dealing river ** [ 7h ]
+** Summary **
+parteas shows [ 4d, Ac ]
+pojaba1111 shows [ Qh, Ah ]
+pojaba1111 collected [ $1.15 ]
+
+

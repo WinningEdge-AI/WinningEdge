@@ -1,0 +1,56 @@
+#Game No : 525569046
+***** 888poker Hand History for Game 525569046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 22:32:32
+Table Jericho 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: surf2010 ( $1 )
+Seat 2: Fred8822 ( $1.92 )
+surf2010 posts small blind [$0.01]
+Fred8822 posts big blind [$0.02]
+** Dealing down cards **
+surf2010 calls [$0.01]
+Fred8822 checks
+** Dealing flop ** [ Kh, Qc, Kc ]
+Fred8822 checks
+surf2010 checks
+** Dealing turn ** [ 2s ]
+Fred8822 checks
+surf2010 checks
+** Dealing river ** [ 7d ]
+Fred8822 checks
+surf2010 checks
+** Summary **
+Fred8822 shows [ 9d, Ad ]
+surf2010 shows [ As, 7s ]
+surf2010 collected [ $0.04 ]
+
+
+#Game No : 525569236
+***** 888poker Hand History for Game 525569236 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 03 2019 22:35:44
+Table Jericho 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: surf2010 ( $1.02 )
+Seat 2: Fred8822 ( $1.90 )
+Fred8822 posts small blind [$0.01]
+surf2010 posts big blind [$0.02]
+** Dealing down cards **
+Fred8822 calls [$0.01]
+surf2010 checks
+** Dealing flop ** [ 5h, 2s, 3c ]
+surf2010 checks
+Fred8822 checks
+** Dealing turn ** [ 5c ]
+surf2010 checks
+Fred8822 checks
+** Dealing river ** [ 4c ]
+surf2010 checks
+Fred8822 checks
+** Summary **
+surf2010 shows [ 3s, 6h ]
+Fred8822 mucks [ Ts, 7h ]
+surf2010 collected [ $0.04 ]
+
+

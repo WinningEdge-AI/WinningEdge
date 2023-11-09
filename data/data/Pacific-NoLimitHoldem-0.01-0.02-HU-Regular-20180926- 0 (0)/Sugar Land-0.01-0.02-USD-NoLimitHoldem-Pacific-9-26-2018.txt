@@ -1,0 +1,539 @@
+#Game No : 502927835
+***** 888poker Hand History for Game 502927835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 01:02:01
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1 )
+Seat 6: lipton4ai ( $1.02 )
+richbranson posts small blind [$0.01]
+lipton4ai posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+lipton4ai calls [$0.04]
+** Dealing flop ** [ 4d, 9h, 5d ]
+lipton4ai checks
+richbranson bets [$0.08]
+lipton4ai raises [$0.24]
+richbranson calls [$0.16]
+** Dealing turn ** [ As ]
+lipton4ai bets [$0.72]
+richbranson calls [$0.70]
+** Dealing river ** [ Qh ]
+** Summary **
+richbranson shows [ Qs, 9d ]
+lipton4ai shows [ 3d, Kd ]
+richbranson collected [ $1.88 ]
+
+
+#Game No : 502927855
+***** 888poker Hand History for Game 502927855 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 01:02:37
+Table Sugar Land 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: richbranson ( $1.88 )
+Seat 6: lipton4ai ( $1 )
+lipton4ai posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+lipton4ai raises [$0.05]
+richbranson calls [$0.04]
+** Dealing flop ** [ Jh, Kd, 8d ]
+richbranson checks
+lipton4ai bets [$0.06]
+richbranson calls [$0.06]
+** Dealing turn ** [ 2c ]
+richbranson checks
+lipton4ai bets [$0.12]
+richbranson calls [$0.12]
+** Dealing river ** [ Ah ]
+richbranson checks
+lipton4ai checks
+** Summary **
+richbranson shows [ Ac, Js ]
+lipton4ai mucks [ 5d, 6d ]
+richbranson collected [ $0.45 ]
+
+
+#Game No : 502929073
+***** 888poker Hand History for Game 502929073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 01:42:01
+Table Sugar Land 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $0.93 )
+Seat 7: JennersRMers ( $1.45 )
+JennersRMers posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+JennersRMers calls [$0.01]
+SVolbin raises [$0.04]
+JennersRMers calls [$0.04]
+** Dealing flop ** [ 6s, 6h, 7c ]
+SVolbin checks
+JennersRMers bets [$0.10]
+SVolbin folds
+** Summary **
+JennersRMers collected [ $0.12 ]
+
+
+#Game No : 502929107
+***** 888poker Hand History for Game 502929107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 01:42:59
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $0.87 )
+Seat 7: JennersRMers ( $1.51 )
+SVolbin posts small blind [$0.01]
+JennersRMers posts big blind [$0.02]
+** Dealing down cards **
+SVolbin raises [$0.03]
+JennersRMers folds
+** Summary **
+SVolbin collected [ $0.04 ]
+
+
+#Game No : 502929825
+***** 888poker Hand History for Game 502929825 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:01:54
+Table Sugar Land 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $1.40 )
+Seat 7: JennersRMers ( $2.92 )
+JennersRMers posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+JennersRMers calls [$0.01]
+SVolbin checks
+** Dealing flop ** [ 9c, Td, Jc ]
+SVolbin checks
+JennersRMers bets [$0.06]
+SVolbin calls [$0.06]
+** Dealing turn ** [ 2s ]
+SVolbin checks
+JennersRMers bets [$0.06]
+SVolbin calls [$0.06]
+** Dealing river ** [ 5h ]
+SVolbin bets [$0.28]
+JennersRMers folds
+** Summary **
+SVolbin did not show his hand
+SVolbin collected [ $0.27 ]
+
+
+#Game No : 502929859
+***** 888poker Hand History for Game 502929859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:02:35
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $1.53 )
+Seat 7: JennersRMers ( $2.78 )
+SVolbin posts small blind [$0.01]
+JennersRMers posts big blind [$0.02]
+** Dealing down cards **
+SVolbin raises [$0.05]
+JennersRMers folds
+** Summary **
+SVolbin did not show his hand
+SVolbin collected [ $0.04 ]
+
+
+#Game No : 502929867
+***** 888poker Hand History for Game 502929867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:02:43
+Table Sugar Land 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $1.55 )
+Seat 7: JennersRMers ( $2.76 )
+JennersRMers posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+JennersRMers folds
+** Summary **
+SVolbin did not show his hand
+SVolbin collected [ $0.03 ]
+
+
+#Game No : 502929874
+***** 888poker Hand History for Game 502929874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:02:49
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $1.56 )
+Seat 7: JennersRMers ( $2.75 )
+SVolbin posts small blind [$0.01]
+JennersRMers posts big blind [$0.02]
+** Dealing down cards **
+SVolbin raises [$0.05]
+JennersRMers folds
+** Summary **
+SVolbin did not show his hand
+SVolbin collected [ $0.04 ]
+
+
+#Game No : 502929879
+***** 888poker Hand History for Game 502929879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:02:57
+Table Sugar Land 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $1.58 )
+Seat 7: JennersRMers ( $2.73 )
+JennersRMers posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+JennersRMers raises [$0.07]
+SVolbin folds
+** Summary **
+JennersRMers collected [ $0.04 ]
+
+
+#Game No : 502929893
+***** 888poker Hand History for Game 502929893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:03:16
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $1.56 )
+Seat 7: JennersRMers ( $2.75 )
+SVolbin posts small blind [$0.01]
+JennersRMers posts big blind [$0.02]
+** Dealing down cards **
+SVolbin folds
+** Summary **
+JennersRMers collected [ $0.03 ]
+
+
+#Game No : 502930242
+***** 888poker Hand History for Game 502930242 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:12:13
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $1.91 )
+Seat 6: BoRadlkey180 ( $1.80 )
+SVolbin posts small blind [$0.01]
+BoRadlkey180 posts big blind [$0.02]
+** Dealing down cards **
+SVolbin raises [$0.05]
+BoRadlkey180 folds
+** Summary **
+SVolbin collected [ $0.04 ]
+
+
+#Game No : 502930249
+***** 888poker Hand History for Game 502930249 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:12:23
+Table Sugar Land 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $1.93 )
+Seat 6: BoRadlkey180 ( $1.78 )
+BoRadlkey180 posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+BoRadlkey180 raises [$0.03]
+SVolbin folds
+** Summary **
+BoRadlkey180 collected [ $0.04 ]
+
+
+#Game No : 502930982
+***** 888poker Hand History for Game 502930982 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:34:36
+Table Sugar Land 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $4.52 )
+Seat 7: 4elss ( $1.06 )
+4elss posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+4elss folds
+** Summary **
+SVolbin did not show his hand
+SVolbin collected [ $0.03 ]
+
+
+#Game No : 502930986
+***** 888poker Hand History for Game 502930986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:34:43
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $4.53 )
+Seat 7: 4elss ( $1.05 )
+SVolbin posts small blind [$0.01]
+** Dealing down cards **
+4elss folds
+** Summary **
+SVolbin did not show his hand
+SVolbin collected [ $0.01 ]
+
+
+#Game No : 502930990
+***** 888poker Hand History for Game 502930990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:34:51
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $4.53 )
+Seat 6: Lipsie ( $1 )
+SVolbin posts small blind [$0.01]
+Lipsie posts big blind [$0.02]
+** Dealing down cards **
+SVolbin folds
+** Summary **
+Lipsie collected [ $0.03 ]
+
+
+#Game No : 502930995
+***** 888poker Hand History for Game 502930995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 02:35:02
+Table Sugar Land 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: SVolbin ( $4.52 )
+Seat 6: Lipsie ( $1.01 )
+Lipsie posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+Lipsie folds
+** Summary **
+SVolbin collected [ $0.03 ]
+
+
+#Game No : 502932726
+***** 888poker Hand History for Game 502932726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 03:33:14
+Table Sugar Land 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: osa71 ( $2.23 )
+Seat 6: BantikJR ( $1.81 )
+osa71 posts small blind [$0.01]
+BantikJR posts big blind [$0.02]
+** Dealing down cards **
+osa71 folds
+** Summary **
+BantikJR collected [ $0.03 ]
+
+
+#Game No : 502932729
+***** 888poker Hand History for Game 502932729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 03:33:21
+Table Sugar Land 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: osa71 ( $2.22 )
+Seat 6: BantikJR ( $1.82 )
+BantikJR posts small blind [$0.01]
+osa71 posts big blind [$0.02]
+** Dealing down cards **
+BantikJR raises [$0.05]
+osa71 folds
+** Summary **
+BantikJR did not show his hand
+BantikJR collected [ $0.04 ]
+
+
+#Game No : 502932742
+***** 888poker Hand History for Game 502932742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 03:33:41
+Table Sugar Land 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: osa71 ( $2.20 )
+Seat 6: BantikJR ( $1.84 )
+osa71 posts small blind [$0.01]
+** Dealing down cards **
+BantikJR folds
+** Summary **
+osa71 did not show his hand
+osa71 collected [ $0.01 ]
+
+
+#Game No : 502934770
+***** 888poker Hand History for Game 502934770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 04:39:28
+Table Sugar Land 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: kramar101 ( $1.04 )
+Seat 6: katinerd ( $1.46 )
+katinerd posts small blind [$0.01]
+kramar101 posts big blind [$0.02]
+** Dealing down cards **
+katinerd raises [$0.05]
+kramar101 folds
+** Summary **
+katinerd collected [ $0.04 ]
+
+
+#Game No : 502936978
+***** 888poker Hand History for Game 502936978 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 05:42:07
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Et_Arrows ( $1.01 )
+Seat 4: CamOMH ( $2.78 )
+CamOMH posts small blind [$0.01]
+Et_Arrows posts big blind [$0.02]
+** Dealing down cards **
+CamOMH calls [$0.01]
+Et_Arrows checks
+** Dealing flop ** [ Jd, 2s, 8h ]
+Et_Arrows checks
+CamOMH checks
+** Dealing turn ** [ 7c ]
+Et_Arrows checks
+CamOMH bets [$0.04]
+Et_Arrows folds
+** Summary **
+CamOMH did not show his hand
+CamOMH collected [ $0.04 ]
+
+
+#Game No : 502937009
+***** 888poker Hand History for Game 502937009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 05:42:49
+Table Sugar Land 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Et_Arrows ( $0.99 )
+Seat 4: CamOMH ( $2.80 )
+Et_Arrows posts small blind [$0.01]
+CamOMH posts big blind [$0.02]
+** Dealing down cards **
+Et_Arrows calls [$0.01]
+CamOMH checks
+** Dealing flop ** [ 9h, Jd, Jc ]
+CamOMH checks
+Et_Arrows bets [$0.04]
+CamOMH folds
+** Summary **
+Et_Arrows did not show his hand
+Et_Arrows collected [ $0.04 ]
+
+
+#Game No : 502937032
+***** 888poker Hand History for Game 502937032 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 05:43:19
+Table Sugar Land 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Et_Arrows ( $1.01 )
+Seat 4: CamOMH ( $2.78 )
+CamOMH posts small blind [$0.01]
+Et_Arrows posts big blind [$0.02]
+** Dealing down cards **
+CamOMH calls [$0.01]
+Et_Arrows checks
+** Dealing flop ** [ 5s, 5h, 4d ]
+Et_Arrows checks
+CamOMH checks
+** Dealing turn ** [ 2h ]
+Et_Arrows checks
+CamOMH checks
+** Dealing river ** [ Kd ]
+Et_Arrows checks
+CamOMH checks
+** Summary **
+Et_Arrows shows [ Qd, 7c ]
+CamOMH shows [ 7d, As ]
+CamOMH collected [ $0.04 ]
+
+
+#Game No : 502937080
+***** 888poker Hand History for Game 502937080 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 05:44:16
+Table Sugar Land 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Et_Arrows ( $0.99 )
+Seat 4: CamOMH ( $2.80 )
+Et_Arrows posts small blind [$0.01]
+CamOMH posts big blind [$0.02]
+** Dealing down cards **
+Et_Arrows raises [$0.05]
+CamOMH calls [$0.04]
+** Dealing flop ** [ 3c, 6c, 5h ]
+CamOMH checks
+Et_Arrows checks
+** Dealing turn ** [ 9h ]
+CamOMH bets [$0.06]
+Et_Arrows folds
+** Summary **
+CamOMH collected [ $0.12 ]
+
+
+#Game No : 502937340
+***** 888poker Hand History for Game 502937340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 05:50:43
+Table Sugar Land 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Et_Arrows ( $1.11 )
+Seat 6: HenriWag ( $1.01 )
+HenriWag posts small blind [$0.01]
+Et_Arrows posts big blind [$0.02]
+** Dealing down cards **
+HenriWag raises [$0.05]
+Et_Arrows raises [$0.16]
+HenriWag calls [$0.12]
+** Dealing flop ** [ Th, 2c, 7d ]
+Et_Arrows bets [$0.36]
+HenriWag folds
+** Summary **
+Et_Arrows collected [ $0.34 ]
+
+
+#Game No : 502940544
+***** 888poker Hand History for Game 502940544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:12:03
+Table Sugar Land 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Et_Arrows ( $1.36 )
+Seat 9: SVolbin ( $2.32 )
+Et_Arrows posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+Et_Arrows folds
+** Summary **
+SVolbin collected [ $0.03 ]
+
+
+#Game No : 502940785
+***** 888poker Hand History for Game 502940785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 09 2018 07:16:56
+Table Sugar Land 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ArmsPeddler ( $1 )
+Seat 9: SVolbin ( $1.32 )
+ArmsPeddler posts small blind [$0.01]
+SVolbin posts big blind [$0.02]
+** Dealing down cards **
+ArmsPeddler raises [$0.05]
+SVolbin calls [$0.04]
+** Dealing flop ** [ Qd, 7c, 2s ]
+SVolbin checks
+ArmsPeddler checks
+** Dealing turn ** [ 6d ]
+SVolbin checks
+ArmsPeddler checks
+** Dealing river ** [ 6s ]
+SVolbin bets [$0.18]
+ArmsPeddler folds
+** Summary **
+SVolbin collected [ $0.12 ]
+
+

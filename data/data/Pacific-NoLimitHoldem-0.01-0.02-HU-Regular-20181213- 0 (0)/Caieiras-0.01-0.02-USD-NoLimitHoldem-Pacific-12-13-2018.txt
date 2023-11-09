@@ -1,0 +1,51 @@
+#Game No : 510557277
+***** 888poker Hand History for Game 510557277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2018 08:23:04
+Table Caieiras 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1 )
+Seat 7: ssProPoker ( $1.30 )
+co98nst41 posts small blind [$0.01]
+ssProPoker posts big blind [$0.02]
+** Dealing down cards **
+co98nst41 calls [$0.01]
+ssProPoker raises [$0.02]
+co98nst41 calls [$0.02]
+** Dealing flop ** [ Qc, 5h, Ad ]
+ssProPoker checks
+co98nst41 checks
+** Dealing turn ** [ 7d ]
+ssProPoker bets [$0.04]
+co98nst41 folds
+** Summary **
+ssProPoker collected [ $0.08 ]
+
+
+#Game No : 510557314
+***** 888poker Hand History for Game 510557314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2018 08:24:01
+Table Caieiras 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: co98nst41 ( $1 )
+Seat 7: ssProPoker ( $1.34 )
+ssProPoker posts small blind [$0.01]
+co98nst41 posts big blind [$0.02]
+** Dealing down cards **
+ssProPoker calls [$0.01]
+co98nst41 checks
+** Dealing flop ** [ 7h, 4d, Tc ]
+co98nst41 bets [$0.02]
+ssProPoker calls [$0.02]
+** Dealing turn ** [ Kc ]
+co98nst41 bets [$0.02]
+ssProPoker calls [$0.02]
+** Dealing river ** [ 6c ]
+co98nst41 bets [$0.02]
+ssProPoker raises [$0.18]
+co98nst41 folds
+** Summary **
+ssProPoker collected [ $0.15 ]
+
+

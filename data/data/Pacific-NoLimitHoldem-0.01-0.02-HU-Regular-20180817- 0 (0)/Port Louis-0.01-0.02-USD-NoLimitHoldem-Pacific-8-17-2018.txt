@@ -1,0 +1,316 @@
+#Game No : 501007314
+***** 888poker Hand History for Game 501007314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 04:59:25
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Dagmaer ( $1.27 )
+Seat 9: 123aigo ( $1.03 )
+Dagmaer posts small blind [$0.01]
+** Dealing down cards **
+123aigo folds
+** Summary **
+Dagmaer collected [ $0.01 ]
+
+
+#Game No : 501007472
+***** 888poker Hand History for Game 501007472 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 05:03:47
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dakillerxxx ( $0.65 )
+Seat 4: Dagmaer ( $1.20 )
+Dakillerxxx posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+Dakillerxxx raises [$0.03]
+Dagmaer folds
+** Summary **
+Dakillerxxx did not show his hand
+Dakillerxxx collected [ $0.04 ]
+
+
+#Game No : 501007486
+***** 888poker Hand History for Game 501007486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 05:04:13
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Dakillerxxx ( $0.67 )
+Seat 4: Dagmaer ( $1.18 )
+Dagmaer posts small blind [$0.01]
+Dakillerxxx posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer folds
+** Summary **
+Dakillerxxx collected [ $0.03 ]
+
+
+#Game No : 501007572
+***** 888poker Hand History for Game 501007572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 05:06:15
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dakillerxxx ( $0.60 )
+Seat 4: Dagmaer ( $1.20 )
+Dakillerxxx posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+Dakillerxxx raises [$0.03]
+Dagmaer calls [$0.02]
+** Dealing flop ** [ Qc, 2d, Kc ]
+Dagmaer checks
+Dakillerxxx checks
+** Dealing turn ** [ Ks ]
+Dagmaer bets [$0.04]
+Dakillerxxx calls [$0.04]
+** Dealing river ** [ 6d ]
+Dagmaer checks
+Dakillerxxx bets [$0.04]
+Dagmaer calls [$0.04]
+** Summary **
+Dakillerxxx shows [ As, Ad ]
+Dagmaer mucks [ 8d, Ac ]
+Dakillerxxx collected [ $0.23 ]
+
+
+#Game No : 501007604
+***** 888poker Hand History for Game 501007604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 05:07:06
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Dakillerxxx ( $0.71 )
+Seat 4: Dagmaer ( $1.08 )
+Dagmaer posts small blind [$0.01]
+Dakillerxxx posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer folds
+** Summary **
+Dakillerxxx collected [ $0.03 ]
+
+
+#Game No : 501009768
+***** 888poker Hand History for Game 501009768 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 06:04:55
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: zohanDK ( $1.68 )
+Seat 4: 123aigo ( $0.91 )
+123aigo posts small blind [$0.01]
+** Dealing down cards **
+zohanDK folds
+** Summary **
+123aigo collected [ $0.01 ]
+
+
+#Game No : 501015907
+***** 888poker Hand History for Game 501015907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 08:38:17
+Table Port Louis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: ChicoRSC ( $1.10 )
+Seat 9: Diverjar50 ( $0.78 )
+Diverjar50 posts small blind [$0.01]
+ChicoRSC posts big blind [$0.02]
+** Dealing down cards **
+Diverjar50 calls [$0.01]
+ChicoRSC raises [$0.02]
+Diverjar50 calls [$0.02]
+** Dealing flop ** [ 6c, 4d, Tc ]
+ChicoRSC bets [$0.04]
+Diverjar50 calls [$0.04]
+** Dealing turn ** [ 8d ]
+ChicoRSC bets [$0.08]
+Diverjar50 folds
+** Summary **
+ChicoRSC collected [ $0.15 ]
+
+
+#Game No : 501015931
+***** 888poker Hand History for Game 501015931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 08:38:44
+Table Port Louis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ChicoRSC ( $1.17 )
+Seat 9: Diverjar50 ( $0.70 )
+ChicoRSC posts small blind [$0.01]
+Diverjar50 posts big blind [$0.02]
+** Dealing down cards **
+ChicoRSC calls [$0.01]
+Diverjar50 checks
+** Dealing flop ** [ 6s, 5c, 9h ]
+Diverjar50 checks
+ChicoRSC checks
+** Dealing turn ** [ Jc ]
+Diverjar50 checks
+ChicoRSC bets [$0.02]
+Diverjar50 folds
+** Summary **
+ChicoRSC collected [ $0.04 ]
+
+
+#Game No : 501016109
+***** 888poker Hand History for Game 501016109 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 08:43:06
+Table Port Louis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: ChicoRSC ( $1.11 )
+Seat 9: Diverjar50 ( $1.61 )
+Diverjar50 posts small blind [$0.01]
+ChicoRSC posts big blind [$0.02]
+** Dealing down cards **
+Diverjar50 calls [$0.01]
+ChicoRSC checks
+** Dealing flop ** [ Ad, Qc, Qs ]
+ChicoRSC checks
+Diverjar50 bets [$0.02]
+ChicoRSC calls [$0.02]
+** Dealing turn ** [ Jh ]
+ChicoRSC checks
+Diverjar50 bets [$0.02]
+ChicoRSC folds
+** Summary **
+Diverjar50 collected [ $0.08 ]
+
+
+#Game No : 501016121
+***** 888poker Hand History for Game 501016121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 08:43:28
+Table Port Louis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ChicoRSC ( $1.07 )
+Seat 9: Diverjar50 ( $1.65 )
+ChicoRSC posts small blind [$0.01]
+Diverjar50 posts big blind [$0.02]
+** Dealing down cards **
+ChicoRSC calls [$0.01]
+Diverjar50 checks
+** Dealing flop ** [ Jc, Jh, Ad ]
+Diverjar50 bets [$0.02]
+ChicoRSC raises [$0.04]
+Diverjar50 calls [$0.02]
+** Dealing turn ** [ 8d ]
+Diverjar50 checks
+ChicoRSC bets [$0.06]
+Diverjar50 folds
+** Summary **
+ChicoRSC collected [ $0.12 ]
+
+
+#Game No : 501017734
+***** 888poker Hand History for Game 501017734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:20:50
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Anuar7182 ( $0.86 )
+Seat 4: UnderTheGon ( $2.59 )
+UnderTheGon posts small blind [$0.01]
+Anuar7182 posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Anuar7182 did not show his hand
+Anuar7182 collected [ $0.03 ]
+
+
+#Game No : 501017739
+***** 888poker Hand History for Game 501017739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:20:57
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Anuar7182 ( $0.87 )
+Seat 4: UnderTheGon ( $2.58 )
+Anuar7182 posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Anuar7182 calls [$0.01]
+UnderTheGon raises [$0.03]
+Anuar7182 calls [$0.03]
+** Dealing flop ** [ 6s, 8c, 4c ]
+UnderTheGon checks
+Anuar7182 bets [$0.07]
+UnderTheGon folds
+** Summary **
+Anuar7182 collected [ $0.10 ]
+
+
+#Game No : 501017764
+***** 888poker Hand History for Game 501017764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:21:27
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Anuar7182 ( $0.92 )
+Seat 4: UnderTheGon ( $2.53 )
+UnderTheGon posts small blind [$0.01]
+Anuar7182 posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Anuar7182 collected [ $0.03 ]
+
+
+#Game No : 501017934
+***** 888poker Hand History for Game 501017934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:24:32
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Anuar7182 ( $0.78 )
+Seat 4: UnderTheGon ( $2.57 )
+Anuar7182 posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Anuar7182 raises [$0.05]
+UnderTheGon calls [$0.04]
+** Dealing flop ** [ 5h, Qc, 3d ]
+UnderTheGon checks
+Anuar7182 bets [$0.06]
+UnderTheGon folds
+** Summary **
+Anuar7182 collected [ $0.12 ]
+
+
+#Game No : 501017952
+***** 888poker Hand History for Game 501017952 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:24:59
+Table Port Louis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Anuar7182 ( $0.84 )
+Seat 4: UnderTheGon ( $2.51 )
+UnderTheGon posts small blind [$0.01]
+Anuar7182 posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon raises [$0.05]
+Anuar7182 folds
+** Summary **
+UnderTheGon collected [ $0.04 ]
+
+
+#Game No : 501019034
+***** 888poker Hand History for Game 501019034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:47:26
+Table Port Louis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Anuar7182 ( $1.58 )
+Seat 7: RobertGrigoi ( $1.02 )
+Anuar7182 posts small blind [$0.01]
+** Dealing down cards **
+RobertGrigoi folds
+** Summary **
+Anuar7182 did not show his hand
+Anuar7182 collected [ $0.01 ]
+
+

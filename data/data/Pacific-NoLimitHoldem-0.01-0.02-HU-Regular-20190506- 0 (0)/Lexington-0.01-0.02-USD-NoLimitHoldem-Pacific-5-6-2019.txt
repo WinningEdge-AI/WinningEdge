@@ -1,0 +1,28 @@
+#Game No : 464816815
+***** 888poker Hand History for Game 464816815 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 05 2019 19:16:18
+Table Lexington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tori587 ( $0.47 )
+Seat 6: nvde12 ( $2.83 )
+Tori587 posts small blind [$0.01]
+nvde12 posts big blind [$0.02]
+** Dealing down cards **
+Tori587 calls [$0.01]
+nvde12 checks
+** Dealing flop ** [ 6d, 2d, 4s ]
+nvde12 bets [$0.04]
+Tori587 calls [$0.04]
+** Dealing turn ** [ Kh ]
+nvde12 bets [$0.08]
+Tori587 calls [$0.08]
+** Dealing river ** [ 7s ]
+nvde12 bets [$0.34]
+Tori587 calls [$0.33]
+** Summary **
+Tori587 shows [ Jc, 6c ]
+nvde12 shows [ 5h, 3c ]
+nvde12 collected [ $0.89 ]
+
+

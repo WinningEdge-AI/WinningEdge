@@ -1,0 +1,404 @@
+#Game No : 615806063
+***** 888poker Hand History for Game 615806063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 18:26:04
+Table Geneva 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Gib0151 ( $1.76 )
+Seat 5: kmlm73 ( $1.91 )
+kmlm73 posts small blind [$0.01]
+Gib0151 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+Gib0151 calls [$0.02]
+** Dealing flop ** [ 4c, Kh, 8d ]
+Gib0151 checks
+kmlm73 bets [$0.02]
+Gib0151 calls [$0.02]
+** Dealing turn ** [ 3h ]
+Gib0151 checks
+kmlm73 checks
+** Dealing river ** [ Tc ]
+Gib0151 bets [$0.02]
+kmlm73 calls [$0.02]
+** Summary **
+Gib0151 shows [ 5d, 8s ]
+kmlm73 mucks [ Ad, 9s ]
+Gib0151 collected [ $0.15 ]
+
+
+#Game No : 615806080
+***** 888poker Hand History for Game 615806080 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 18:26:25
+Table Geneva 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Gib0151 ( $1.83 )
+Seat 5: kmlm73 ( $1.83 )
+Gib0151 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+Gib0151 raises [$0.05]
+kmlm73 calls [$0.04]
+** Dealing flop ** [ 4d, Jd, 2s ]
+kmlm73 checks
+Gib0151 checks
+** Dealing turn ** [ 5d ]
+kmlm73 checks
+Gib0151 checks
+** Dealing river ** [ Ts ]
+kmlm73 checks
+Gib0151 checks
+** Summary **
+kmlm73 shows [ 6s, Ac ]
+Gib0151 shows [ Ks, 5s ]
+Gib0151 collected [ $0.12 ]
+
+
+#Game No : 615808174
+***** 888poker Hand History for Game 615808174 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 19:44:14
+Table Geneva 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dlolo30 ( $2.04 )
+Seat 6: fxgreen ( $2.47 )
+dlolo30 posts small blind [$0.01]
+fxgreen posts big blind [$0.02]
+** Dealing down cards **
+dlolo30 folds
+** Summary **
+fxgreen collected [ $0.03 ]
+
+
+#Game No : 615808177
+***** 888poker Hand History for Game 615808177 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 19:44:22
+Table Geneva 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: dlolo30 ( $2.03 )
+Seat 6: fxgreen ( $2.48 )
+fxgreen posts small blind [$0.01]
+dlolo30 posts big blind [$0.02]
+** Dealing down cards **
+fxgreen folds
+** Summary **
+dlolo30 collected [ $0.03 ]
+
+
+#Game No : 615808955
+***** 888poker Hand History for Game 615808955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:21:55
+Table Geneva 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $2.02 )
+Seat 6: kmlm73 ( $1.98 )
+kmlm73 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+avramia1 calls [$0.02]
+** Dealing flop ** [ Qh, 6s, 4d ]
+avramia1 checks
+kmlm73 bets [$0.05]
+avramia1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.08 ]
+
+
+#Game No : 615808961
+***** 888poker Hand History for Game 615808961 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:22:14
+Table Geneva 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.98 )
+Seat 6: kmlm73 ( $2.02 )
+avramia1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+kmlm73 calls [$0.02]
+** Dealing flop ** [ 6h, 9d, 5c ]
+kmlm73 checks
+avramia1 checks
+** Dealing turn ** [ 7d ]
+kmlm73 bets [$0.08]
+avramia1 calls [$0.08]
+** Dealing river ** [ 3c ]
+kmlm73 bets [$0.24]
+avramia1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.23 ]
+
+
+#Game No : 615808974
+***** 888poker Hand History for Game 615808974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:22:42
+Table Geneva 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.86 )
+Seat 6: kmlm73 ( $2.13 )
+kmlm73 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+avramia1 raises [$0.07]
+kmlm73 calls [$0.05]
+** Dealing flop ** [ 5h, 4h, Kc ]
+avramia1 checks
+kmlm73 checks
+** Dealing turn ** [ 3h ]
+avramia1 checks
+kmlm73 bets [$0.02]
+avramia1 calls [$0.02]
+** Dealing river ** [ Jc ]
+avramia1 checks
+kmlm73 checks
+** Summary **
+avramia1 shows [ Qd, Qh ]
+kmlm73 mucks [ 7d, 8h ]
+avramia1 collected [ $0.21 ]
+
+
+#Game No : 615808987
+***** 888poker Hand History for Game 615808987 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:23:26
+Table Geneva 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.96 )
+Seat 6: kmlm73 ( $2.02 )
+avramia1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.03 ]
+
+
+#Game No : 615808990
+***** 888poker Hand History for Game 615808990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:23:32
+Table Geneva 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.95 )
+Seat 6: kmlm73 ( $2.03 )
+kmlm73 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+avramia1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.04 ]
+
+
+#Game No : 615808995
+***** 888poker Hand History for Game 615808995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:23:40
+Table Geneva 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.93 )
+Seat 6: kmlm73 ( $2.05 )
+avramia1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+kmlm73 calls [$0.02]
+** Dealing flop ** [ Jh, 4h, Qd ]
+kmlm73 bets [$0.02]
+avramia1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.08 ]
+
+
+#Game No : 615809004
+***** 888poker Hand History for Game 615809004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:24:03
+Table Geneva 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.89 )
+Seat 6: kmlm73 ( $2.09 )
+kmlm73 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.03 ]
+
+
+#Game No : 615809007
+***** 888poker Hand History for Game 615809007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:24:10
+Table Geneva 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.90 )
+Seat 6: kmlm73 ( $2.08 )
+avramia1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.03 ]
+
+
+#Game No : 615809010
+***** 888poker Hand History for Game 615809010 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:24:15
+Table Geneva 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.89 )
+Seat 6: kmlm73 ( $2.09 )
+kmlm73 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.05]
+avramia1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.04 ]
+
+
+#Game No : 615809012
+***** 888poker Hand History for Game 615809012 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:24:24
+Table Geneva 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.87 )
+Seat 6: kmlm73 ( $2.11 )
+avramia1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.05]
+kmlm73 calls [$0.04]
+** Dealing flop ** [ 6c, Qc, 6s ]
+kmlm73 checks
+avramia1 checks
+** Dealing turn ** [ Td ]
+kmlm73 bets [$0.02]
+avramia1 folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.12 ]
+
+
+#Game No : 615809020
+***** 888poker Hand History for Game 615809020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:24:40
+Table Geneva 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.81 )
+Seat 6: kmlm73 ( $2.17 )
+kmlm73 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.03 ]
+
+
+#Game No : 615809025
+***** 888poker Hand History for Game 615809025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:24:46
+Table Geneva 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.82 )
+Seat 6: kmlm73 ( $2.16 )
+avramia1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.05]
+kmlm73 folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.04 ]
+
+
+#Game No : 615809030
+***** 888poker Hand History for Game 615809030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:24:56
+Table Geneva 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.84 )
+Seat 6: kmlm73 ( $2.14 )
+kmlm73 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+avramia1 raises [$0.07]
+kmlm73 calls [$0.05]
+** Dealing flop ** [ 5c, Qs, As ]
+avramia1 checks
+kmlm73 bets [$0.02]
+avramia1 raises [$0.24]
+kmlm73 folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.21 ]
+
+
+#Game No : 615809042
+***** 888poker Hand History for Game 615809042 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:25:26
+Table Geneva 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $1.94 )
+Seat 6: kmlm73 ( $2.03 )
+avramia1 posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 2h, Qh, Qc ]
+kmlm73 checks
+avramia1 checks
+** Dealing turn ** [ 5c ]
+kmlm73 bets [$0.02]
+avramia1 calls [$0.02]
+** Dealing river ** [ Ts ]
+kmlm73 bets [$0.02]
+avramia1 calls [$0.02]
+** Summary **
+kmlm73 shows [ Kc, 7d ]
+avramia1 shows [ 9s, 9c ]
+avramia1 collected [ $0.12 ]
+
+
+#Game No : 615809052
+***** 888poker Hand History for Game 615809052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 02 2019 20:25:52
+Table Geneva 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: avramia1 ( $2 )
+Seat 6: kmlm73 ( $1.97 )
+kmlm73 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.05]
+avramia1 folds
+** Summary **
+kmlm73 collected [ $0.04 ]
+
+

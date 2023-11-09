@@ -1,0 +1,42 @@
+#Game No : 1259891611
+***** 888poker Hand History for Game 1259891611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 04 2019 20:31:01
+Table Pori 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: shaopenny ( $1.24 )
+Seat 6: rayv94 ( $2.59 )
+rayv94 posts small blind [$0.01]
+shaopenny posts big blind [$0.02]
+** Dealing down cards **
+rayv94 folds
+** Summary **
+shaopenny collected [ $0.03 ]
+
+
+#Game No : 1259891620
+***** 888poker Hand History for Game 1259891620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 04 2019 20:31:11
+Table Pori 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: shaopenny ( $1.25 )
+Seat 6: rayv94 ( $2.58 )
+shaopenny posts small blind [$0.01]
+rayv94 posts big blind [$0.02]
+** Dealing down cards **
+shaopenny calls [$0.01]
+rayv94 checks
+** Dealing flop ** [ As, 7d, 6c ]
+rayv94 checks
+shaopenny checks
+** Dealing turn ** [ 3s ]
+rayv94 checks
+shaopenny checks
+** Dealing river ** [ Jd ]
+rayv94 bets [$0.02]
+shaopenny folds
+** Summary **
+rayv94 collected [ $0.04 ]
+
+

@@ -1,0 +1,54 @@
+#Game No : 464751588
+***** 888poker Hand History for Game 464751588 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 05 2019 19:48:13
+Table Lexington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Seanufff ( $2.47 )
+Seat 4: 1onceonce1 ( $1.20 )
+Seanufff posts small blind [$0.01]
+1onceonce1 posts big blind [$0.02]
+** Dealing down cards **
+Seanufff calls [$0.01]
+1onceonce1 checks
+** Dealing flop ** [ 2h, Qc, 7d ]
+1onceonce1 checks
+Seanufff checks
+** Dealing turn ** [ 7c ]
+1onceonce1 checks
+Seanufff checks
+** Dealing river ** [ 4c ]
+1onceonce1 bets [$0.06]
+Seanufff folds
+** Summary **
+1onceonce1 collected [ $0.04 ]
+
+
+#Game No : 464751594
+***** 888poker Hand History for Game 464751594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 05 2019 19:48:45
+Table Lexington 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Seanufff ( $2.45 )
+Seat 4: 1onceonce1 ( $1.22 )
+1onceonce1 posts small blind [$0.01]
+Seanufff posts big blind [$0.02]
+** Dealing down cards **
+1onceonce1 raises [$0.07]
+Seanufff calls [$0.06]
+** Dealing flop ** [ 5h, Ks, 7h ]
+Seanufff bets [$0.02]
+1onceonce1 raises [$0.08]
+Seanufff calls [$0.06]
+** Dealing turn ** [ 7c ]
+Seanufff checks
+1onceonce1 checks
+** Dealing river ** [ Ah ]
+Seanufff bets [$0.10]
+1onceonce1 raises [$1.06]
+Seanufff folds
+** Summary **
+1onceonce1 collected [ $0.49 ]
+
+

@@ -1,0 +1,75 @@
+#Game No : 510032513
+***** 888poker Hand History for Game 510032513 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 12 2018 23:10:33
+Table Newark 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.85 )
+Seat 9: OMS2018 ( $1.13 )
+OMS2018 posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OMS2018 calls [$0.01]
+ALIAKSANDR44 checks
+** Dealing flop ** [ 7d, 4s, 2c ]
+ALIAKSANDR44 checks
+OMS2018 checks
+** Dealing turn ** [ Ad ]
+ALIAKSANDR44 checks
+OMS2018 bets [$0.02]
+ALIAKSANDR44 calls [$0.02]
+** Dealing river ** [ 7s ]
+ALIAKSANDR44 checks
+OMS2018 bets [$0.02]
+ALIAKSANDR44 calls [$0.02]
+** Summary **
+OMS2018 shows [ 5d, Kd ]
+ALIAKSANDR44 shows [ 2s, 6c ]
+ALIAKSANDR44 collected [ $0.12 ]
+
+
+#Game No : 510032520
+***** 888poker Hand History for Game 510032520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 12 2018 23:10:59
+Table Newark 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.91 )
+Seat 9: OMS2018 ( $1.07 )
+ALIAKSANDR44 posts small blind [$0.01]
+OMS2018 posts big blind [$0.02]
+** Dealing down cards **
+ALIAKSANDR44 raises [$0.03]
+OMS2018 raises [$0.04]
+ALIAKSANDR44 calls [$0.02]
+** Dealing flop ** [ 7s, Jd, 3c ]
+OMS2018 bets [$0.12]
+ALIAKSANDR44 folds
+** Summary **
+OMS2018 collected [ $0.12 ]
+
+
+#Game No : 510032529
+***** 888poker Hand History for Game 510032529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 12 2018 23:11:25
+Table Newark 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: ALIAKSANDR44 ( $0.85 )
+Seat 9: OMS2018 ( $1.13 )
+OMS2018 posts small blind [$0.01]
+ALIAKSANDR44 posts big blind [$0.02]
+** Dealing down cards **
+OMS2018 calls [$0.01]
+ALIAKSANDR44 checks
+** Dealing flop ** [ 2d, 4d, Ac ]
+ALIAKSANDR44 checks
+OMS2018 checks
+** Dealing turn ** [ Ad ]
+ALIAKSANDR44 checks
+OMS2018 bets [$0.02]
+ALIAKSANDR44 folds
+** Summary **
+OMS2018 collected [ $0.04 ]
+
+

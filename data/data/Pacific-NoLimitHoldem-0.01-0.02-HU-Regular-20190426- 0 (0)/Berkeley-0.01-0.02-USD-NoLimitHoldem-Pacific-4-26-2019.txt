@@ -1,0 +1,213 @@
+#Game No : 1263995230
+***** 888poker Hand History for Game 1263995230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 19:48:24
+Table Berkeley 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 777brio ( $0.63 )
+Seat 4: HogRider01 ( $1.15 )
+777brio posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+777brio raises [$0.03]
+HogRider01 calls [$0.02]
+** Dealing flop ** [ Kd, 7s, 5c ]
+HogRider01 checks
+777brio checks
+** Dealing turn ** [ Ad ]
+HogRider01 bets [$0.08]
+777brio folds
+** Summary **
+HogRider01 collected [ $0.08 ]
+
+
+#Game No : 1263995284
+***** 888poker Hand History for Game 1263995284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 19:49:22
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: 777brio ( $0.59 )
+Seat 4: HogRider01 ( $1.19 )
+HogRider01 posts small blind [$0.01]
+777brio posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 raises [$0.03]
+777brio calls [$0.02]
+** Dealing flop ** [ 7d, 3d, As ]
+777brio checks
+HogRider01 bets [$0.08]
+777brio calls [$0.08]
+** Dealing turn ** [ Js ]
+777brio bets [$0.02]
+HogRider01 raises [$1.07]
+777brio calls [$0.45]
+** Dealing river ** [ Qd ]
+** Summary **
+777brio shows [ 2s, Ah ]
+HogRider01 shows [ Jd, 7h ]
+HogRider01 collected [ $1.11 ]
+
+
+#Game No : 1263995330
+***** 888poker Hand History for Game 1263995330 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 19:50:07
+Table Berkeley 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 777brio ( $0.80 )
+Seat 4: HogRider01 ( $1.71 )
+777brio posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+777brio folds
+** Summary **
+HogRider01 did not show his hand
+HogRider01 collected [ $0.03 ]
+
+
+#Game No : 1263995340
+***** 888poker Hand History for Game 1263995340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 19:50:14
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: 777brio ( $0.79 )
+Seat 4: HogRider01 ( $1.72 )
+HogRider01 posts small blind [$0.01]
+777brio posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 calls [$0.01]
+777brio raises [$0.06]
+HogRider01 calls [$0.06]
+** Dealing flop ** [ 9d, 2s, 4d ]
+777brio bets [$0.10]
+HogRider01 raises [$0.46]
+777brio calls [$0.36]
+** Dealing turn ** [ 4c ]
+777brio bets [$0.06]
+HogRider01 raises [$1.18]
+777brio calls [$0.19]
+** Dealing river ** [ 7s ]
+** Summary **
+777brio shows [ Ah, Qh ]
+HogRider01 shows [ Ac, 9s ]
+HogRider01 collected [ $1.49 ]
+
+
+#Game No : 1263995417
+***** 888poker Hand History for Game 1263995417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 19:51:40
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: 777brio ( $0.80 )
+Seat 4: HogRider01 ( $2.42 )
+HogRider01 posts small blind [$0.01]
+777brio posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 calls [$0.01]
+777brio checks
+** Dealing flop ** [ 5h, 6s, 3d ]
+777brio checks
+HogRider01 bets [$0.04]
+777brio calls [$0.04]
+** Dealing turn ** [ Jh ]
+777brio checks
+HogRider01 bets [$0.12]
+777brio folds
+** Summary **
+HogRider01 did not show his hand
+HogRider01 collected [ $0.12 ]
+
+
+#Game No : 1263995469
+***** 888poker Hand History for Game 1263995469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 19:52:33
+Table Berkeley 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 777brio ( $0.74 )
+Seat 4: HogRider01 ( $2.48 )
+777brio posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+777brio raises [$0.03]
+HogRider01 folds
+** Summary **
+777brio did not show his hand
+777brio collected [ $0.04 ]
+
+
+#Game No : 1263995496
+***** 888poker Hand History for Game 1263995496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 19:52:59
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: 777brio ( $0.76 )
+Seat 4: HogRider01 ( $2.46 )
+HogRider01 posts small blind [$0.01]
+777brio posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 raises [$0.05]
+777brio calls [$0.04]
+** Dealing flop ** [ 5d, 9h, 4h ]
+777brio bets [$0.02]
+HogRider01 raises [$0.18]
+777brio folds
+** Summary **
+HogRider01 did not show his hand
+HogRider01 collected [ $0.15 ]
+
+
+#Game No : 1263995547
+***** 888poker Hand History for Game 1263995547 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 19:53:47
+Table Berkeley 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 777brio ( $0.68 )
+Seat 4: HogRider01 ( $2.53 )
+777brio posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+777brio raises [$0.07]
+HogRider01 calls [$0.06]
+** Dealing flop ** [ 3h, 4c, 5c ]
+HogRider01 checks
+777brio bets [$0.02]
+HogRider01 raises [$0.22]
+777brio folds
+** Summary **
+HogRider01 collected [ $0.19 ]
+
+
+#Game No : 1263995593
+***** 888poker Hand History for Game 1263995593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 04 2019 19:54:26
+Table Berkeley 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: 777brio ( $0.58 )
+Seat 4: HogRider01 ( $2.62 )
+HogRider01 posts small blind [$0.01]
+777brio posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 raises [$0.05]
+777brio calls [$0.04]
+** Dealing flop ** [ 2h, 8d, 8h ]
+777brio bets [$0.02]
+HogRider01 raises [$0.18]
+777brio calls [$0.16]
+** Dealing turn ** [ Jd ]
+777brio bets [$0.04]
+HogRider01 raises [$2.38]
+777brio calls [$0.30]
+** Dealing river ** [ Jc ]
+** Summary **
+777brio shows [ 9h, 4h ]
+HogRider01 shows [ 9c, 8s ]
+HogRider01 collected [ $1.09 ]
+
+

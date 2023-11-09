@@ -1,0 +1,48 @@
+#Game No : 620375793
+***** 888poker Hand History for Game 620375793 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 23:31:42
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: JuanGtz ( $2.04 )
+Seat 6: Vitalik4pz ( $0.77 )
+JuanGtz posts small blind [$0.01]
+Vitalik4pz posts big blind [$0.02]
+** Dealing down cards **
+JuanGtz raises [$0.05]
+Vitalik4pz calls [$0.04]
+** Dealing flop ** [ 2d, 3d, Qh ]
+Vitalik4pz checks
+JuanGtz bets [$0.06]
+Vitalik4pz folds
+** Summary **
+JuanGtz collected [ $0.12 ]
+
+
+#Game No : 620375797
+***** 888poker Hand History for Game 620375797 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 23:31:57
+Table Colchester 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: JuanGtz ( $2.10 )
+Seat 6: Vitalik4pz ( $0.71 )
+Vitalik4pz posts small blind [$0.01]
+JuanGtz posts big blind [$0.02]
+** Dealing down cards **
+Vitalik4pz calls [$0.01]
+JuanGtz checks
+** Dealing flop ** [ 6d, Th, 9c ]
+JuanGtz checks
+Vitalik4pz checks
+** Dealing turn ** [ 5c ]
+JuanGtz checks
+Vitalik4pz bets [$0.02]
+JuanGtz calls [$0.02]
+** Dealing river ** [ As ]
+JuanGtz bets [$0.05]
+Vitalik4pz folds
+** Summary **
+JuanGtz collected [ $0.08 ]
+
+

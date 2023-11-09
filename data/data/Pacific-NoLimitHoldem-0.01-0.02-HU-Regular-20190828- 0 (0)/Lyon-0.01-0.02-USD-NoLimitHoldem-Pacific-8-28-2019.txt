@@ -1,0 +1,45 @@
+#Game No : 1291546699
+***** 888poker Hand History for Game 1291546699 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 20:54:14
+Table Lyon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: elvisZero2 ( $2.41 )
+Seat 4: MaCe_187 ( $2.47 )
+elvisZero2 posts small blind [$0.01]
+MaCe_187 posts big blind [$0.02]
+** Dealing down cards **
+elvisZero2 raises [$0.04]
+MaCe_187 calls [$0.03]
+** Dealing flop ** [ Kd, 4h, 6d ]
+MaCe_187 checks
+elvisZero2 bets [$0.07]
+MaCe_187 calls [$0.07]
+** Dealing turn ** [ 5c ]
+MaCe_187 checks
+elvisZero2 checks
+** Dealing river ** [ 9c ]
+MaCe_187 checks
+elvisZero2 checks
+** Summary **
+MaCe_187 shows [ 4c, Qc ]
+elvisZero2 mucks [ Jh, Ad ]
+MaCe_187 collected [ $0.23 ]
+
+
+#Game No : 1291546774
+***** 888poker Hand History for Game 1291546774 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 20:55:02
+Table Lyon 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: elvisZero2 ( $2.29 )
+Seat 4: MaCe_187 ( $2.58 )
+MaCe_187 posts small blind [$0.01]
+** Dealing down cards **
+elvisZero2 folds
+** Summary **
+MaCe_187 did not show his hand
+MaCe_187 collected [ $0.01 ]
+
+

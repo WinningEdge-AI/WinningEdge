@@ -1,0 +1,46 @@
+#Game No : 1221320840
+***** 888poker Hand History for Game 1221320840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 02:34:42
+Table Maribor 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.02 )
+Seat 2: psychopathko ( $1.98 )
+psychopathko posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+psychopathko calls [$0.01]
+avramia1 raises [$0.02]
+psychopathko calls [$0.02]
+** Dealing flop ** [ 3c, Ts, As ]
+avramia1 checks
+psychopathko checks
+** Dealing turn ** [ 3s ]
+avramia1 checks
+psychopathko checks
+** Dealing river ** [ 8s ]
+avramia1 checks
+psychopathko bets [$0.02]
+avramia1 calls [$0.02]
+** Summary **
+psychopathko shows [ 9h, Js ]
+avramia1 mucks [ 5h, Ac ]
+psychopathko collected [ $0.12 ]
+
+
+#Game No : 1221321031
+***** 888poker Hand History for Game 1221321031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 11 2018 02:35:21
+Table Maribor 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: psychopathko ( $2.03 )
+Seat 4: pipo2004 ( $2.01 )
+psychopathko posts small blind [$0.01]
+pipo2004 posts big blind [$0.02]
+** Dealing down cards **
+psychopathko folds
+** Summary **
+pipo2004 collected [ $0.03 ]
+
+

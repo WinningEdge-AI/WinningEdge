@@ -1,0 +1,838 @@
+#Game No : 503304412
+***** 888poker Hand History for Game 503304412 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 03:01:51
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Dklimou ( $1 )
+Seat 4: runnerflush ( $1.04 )
+runnerflush posts small blind [$0.01]
+Dklimou posts big blind [$0.02]
+** Dealing down cards **
+runnerflush raises [$0.05]
+Dklimou calls [$0.04]
+** Dealing flop ** [ 6d, 4c, 2h ]
+Dklimou bets [$0.02]
+runnerflush calls [$0.02]
+** Dealing turn ** [ Kd ]
+Dklimou bets [$0.02]
+runnerflush raises [$0.12]
+Dklimou calls [$0.10]
+** Dealing river ** [ Ac ]
+Dklimou checks
+runnerflush checks
+** Summary **
+Dklimou shows [ 6s, Jd ]
+runnerflush shows [ Ad, 9d ]
+runnerflush collected [ $0.38 ]
+
+
+#Game No : 503304465
+***** 888poker Hand History for Game 503304465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 03:03:02
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dklimou ( $0.80 )
+Seat 4: runnerflush ( $1.22 )
+Dklimou posts small blind [$0.01]
+runnerflush posts big blind [$0.02]
+** Dealing down cards **
+Dklimou calls [$0.01]
+runnerflush checks
+** Dealing flop ** [ 8h, 7h, 7d ]
+runnerflush bets [$0.02]
+Dklimou calls [$0.02]
+** Dealing turn ** [ Ks ]
+runnerflush bets [$0.04]
+Dklimou calls [$0.04]
+** Dealing river ** [ Ts ]
+runnerflush checks
+Dklimou checks
+** Summary **
+runnerflush shows [ 4s, 6d ]
+Dklimou shows [ 9d, Tc ]
+Dklimou collected [ $0.15 ]
+
+
+#Game No : 503304480
+***** 888poker Hand History for Game 503304480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 03:03:23
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Dklimou ( $0.87 )
+Seat 4: runnerflush ( $1.14 )
+runnerflush posts small blind [$0.01]
+Dklimou posts big blind [$0.02]
+** Dealing down cards **
+runnerflush calls [$0.01]
+Dklimou checks
+** Dealing flop ** [ Jd, 6h, Jh ]
+Dklimou checks
+runnerflush bets [$0.02]
+Dklimou folds
+** Summary **
+runnerflush collected [ $0.04 ]
+
+
+#Game No : 503308496
+***** 888poker Hand History for Game 503308496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:37:59
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Li180556 ( $0.79 )
+Seat 7: Churekovo ( $1.97 )
+Li180556 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+Li180556 calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ 6s, 4c, 6h ]
+Churekovo checks
+Li180556 checks
+** Dealing turn ** [ Jc ]
+Churekovo checks
+Li180556 checks
+** Dealing river ** [ 4s ]
+Churekovo checks
+Li180556 checks
+** Summary **
+Churekovo shows [ Ks, 9d ]
+Li180556 mucks [ 9h, Qd ]
+Churekovo collected [ $0.04 ]
+
+
+#Game No : 503308511
+***** 888poker Hand History for Game 503308511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:38:23
+Table Abakan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Li180556 ( $0.77 )
+Seat 7: Churekovo ( $1.99 )
+Churekovo posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+Li180556 calls [$0.02]
+** Dealing flop ** [ 5s, 8d, 5h ]
+Li180556 checks
+Churekovo bets [$0.05]
+Li180556 folds
+** Summary **
+Churekovo collected [ $0.08 ]
+
+
+#Game No : 503308524
+***** 888poker Hand History for Game 503308524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:38:42
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Li180556 ( $0.73 )
+Seat 7: Churekovo ( $2.03 )
+Li180556 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+Li180556 folds
+** Summary **
+Churekovo collected [ $0.03 ]
+
+
+#Game No : 503308532
+***** 888poker Hand History for Game 503308532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:38:50
+Table Abakan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Li180556 ( $0.72 )
+Seat 7: Churekovo ( $2.04 )
+Churekovo posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+Li180556 calls [$0.02]
+** Dealing flop ** [ 3d, Qd, 4d ]
+Li180556 checks
+Churekovo bets [$0.05]
+Li180556 folds
+** Summary **
+Churekovo collected [ $0.08 ]
+
+
+#Game No : 503308548
+***** 888poker Hand History for Game 503308548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:39:10
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Li180556 ( $0.68 )
+Seat 7: Churekovo ( $2.08 )
+Li180556 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+Li180556 calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ Td, 4h, 6d ]
+Churekovo bets [$0.02]
+Li180556 calls [$0.02]
+** Dealing turn ** [ Kd ]
+Churekovo checks
+Li180556 bets [$0.02]
+Churekovo folds
+** Summary **
+Li180556 collected [ $0.08 ]
+
+
+#Game No : 503308560
+***** 888poker Hand History for Game 503308560 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:39:28
+Table Abakan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Li180556 ( $0.72 )
+Seat 7: Churekovo ( $2.04 )
+Churekovo posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+Li180556 raises [$0.04]
+Churekovo calls [$0.02]
+** Dealing flop ** [ Jc, 5s, 7d ]
+Li180556 bets [$0.06]
+Churekovo folds
+** Summary **
+Li180556 collected [ $0.12 ]
+
+
+#Game No : 503308570
+***** 888poker Hand History for Game 503308570 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:39:45
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Li180556 ( $0.78 )
+Seat 7: Churekovo ( $1.98 )
+Li180556 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+Li180556 calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ 3c, 8d, 2s ]
+Churekovo bets [$0.02]
+Li180556 calls [$0.02]
+** Dealing turn ** [ 7h ]
+Churekovo bets [$0.02]
+Li180556 calls [$0.02]
+** Dealing river ** [ 4h ]
+Churekovo checks
+Li180556 checks
+** Summary **
+Churekovo shows [ 6s, 3s ]
+Li180556 mucks [ 2c, Js ]
+Churekovo collected [ $0.12 ]
+
+
+#Game No : 503308587
+***** 888poker Hand History for Game 503308587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:40:15
+Table Abakan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Li180556 ( $0.72 )
+Seat 7: Churekovo ( $2.04 )
+Churekovo posts small blind [$0.01]
+Li180556 posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+Li180556 folds
+** Summary **
+Churekovo collected [ $0.04 ]
+
+
+#Game No : 503308945
+***** 888poker Hand History for Game 503308945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:49:03
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tery1957 ( $0.95 )
+Seat 7: Churekovo ( $1 )
+tery1957 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+tery1957 raises [$0.03]
+Churekovo calls [$0.02]
+** Dealing flop ** [ Qh, Tc, 6s ]
+Churekovo checks
+tery1957 bets [$0.02]
+Churekovo calls [$0.02]
+** Dealing turn ** [ 3h ]
+Churekovo checks
+tery1957 bets [$0.02]
+Churekovo calls [$0.02]
+** Dealing river ** [ 7d ]
+Churekovo checks
+tery1957 bets [$0.16]
+Churekovo folds
+** Summary **
+tery1957 collected [ $0.15 ]
+
+
+#Game No : 503308974
+***** 888poker Hand History for Game 503308974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:49:55
+Table Abakan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: tery1957 ( $1.02 )
+Seat 7: Churekovo ( $1 )
+Churekovo posts small blind [$0.01]
+tery1957 posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+tery1957 folds
+** Summary **
+Churekovo collected [ $0.04 ]
+
+
+#Game No : 503308986
+***** 888poker Hand History for Game 503308986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:50:12
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tery1957 ( $1 )
+Seat 7: Churekovo ( $1.02 )
+tery1957 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+tery1957 raises [$0.03]
+Churekovo folds
+** Summary **
+tery1957 collected [ $0.04 ]
+
+
+#Game No : 503308998
+***** 888poker Hand History for Game 503308998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:50:32
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tery1957 ( $1.03 )
+Seat 7: Churekovo ( $1 )
+tery1957 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+tery1957 calls [$0.01]
+Churekovo checks
+** Dealing flop ** [ Ad, Qh, Jc ]
+Churekovo checks
+tery1957 bets [$0.02]
+Churekovo folds
+** Summary **
+tery1957 collected [ $0.04 ]
+
+
+#Game No : 503309037
+***** 888poker Hand History for Game 503309037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:51:18
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tery1957 ( $1.06 )
+Seat 7: Churekovo ( $1 )
+tery1957 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+tery1957 raises [$0.03]
+Churekovo folds
+** Summary **
+tery1957 collected [ $0.04 ]
+
+
+#Game No : 503309051
+***** 888poker Hand History for Game 503309051 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:51:34
+Table Abakan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: tery1957 ( $1.08 )
+Seat 7: Churekovo ( $1 )
+Churekovo posts small blind [$0.01]
+tery1957 posts big blind [$0.02]
+** Dealing down cards **
+Churekovo raises [$0.03]
+tery1957 calls [$0.02]
+** Dealing flop ** [ 5d, Jh, As ]
+tery1957 bets [$0.02]
+Churekovo calls [$0.02]
+** Dealing turn ** [ Qs ]
+tery1957 bets [$0.02]
+Churekovo calls [$0.02]
+** Dealing river ** [ 8d ]
+tery1957 bets [$0.02]
+Churekovo calls [$0.02]
+** Summary **
+tery1957 shows [ Ks, 8h ]
+Churekovo shows [ Ah, 4h ]
+Churekovo collected [ $0.19 ]
+
+
+#Game No : 503309080
+***** 888poker Hand History for Game 503309080 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 04:52:16
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: tery1957 ( $0.98 )
+Seat 7: Churekovo ( $1.09 )
+tery1957 posts small blind [$0.01]
+Churekovo posts big blind [$0.02]
+** Dealing down cards **
+tery1957 raises [$0.03]
+Churekovo folds
+** Summary **
+tery1957 collected [ $0.04 ]
+
+
+#Game No : 503309621
+***** 888poker Hand History for Game 503309621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 05:02:54
+Table Abakan 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: sergeu28 ( $1 )
+Seat 6: Skyluck11 ( $0.94 )
+Skyluck11 posts small blind [$0.01]
+sergeu28 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.03]
+sergeu28 raises [$0.04]
+Skyluck11 calls [$0.02]
+** Dealing flop ** [ 4d, 5s, 6d ]
+sergeu28 bets [$0.10]
+Skyluck11 calls [$0.10]
+** Dealing turn ** [ 9h ]
+sergeu28 checks
+Skyluck11 bets [$0.16]
+sergeu28 calls [$0.16]
+** Dealing river ** [ 9d ]
+sergeu28 bets [$0.68]
+Skyluck11 calls [$0.62]
+** Summary **
+sergeu28 shows [ Kc, Qs ]
+Skyluck11 shows [ 4s, 4c ]
+Skyluck11 collected [ $1.77 ]
+
+
+#Game No : 503309687
+***** 888poker Hand History for Game 503309687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 05:04:07
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sergeu28 ( $0.06 )
+Seat 6: Skyluck11 ( $1.77 )
+sergeu28 posts small blind [$0.01]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+sergeu28 did not show his hand
+sergeu28 collected [ $0.01 ]
+
+
+#Game No : 503310745
+***** 888poker Hand History for Game 503310745 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 05:27:17
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.66 )
+Seat 9: Lepoir0000 ( $1.20 )
+Yancco posts small blind [$0.01]
+Lepoir0000 posts big blind [$0.02]
+** Dealing down cards **
+Yancco calls [$0.01]
+Lepoir0000 checks
+** Dealing flop ** [ Th, 5c, Kd ]
+Lepoir0000 bets [$0.02]
+Yancco folds
+** Summary **
+Lepoir0000 collected [ $0.04 ]
+
+
+#Game No : 503311088
+***** 888poker Hand History for Game 503311088 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 05:34:35
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.55 )
+Seat 4: AAOksana ( $1.22 )
+Yancco posts small blind [$0.01]
+AAOksana posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+AAOksana collected [ $0.03 ]
+
+
+#Game No : 503311149
+***** 888poker Hand History for Game 503311149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 05:35:32
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.51 )
+Seat 9: angreyyy ( $1.04 )
+Yancco posts small blind [$0.01]
+angreyyy posts big blind [$0.02]
+** Dealing down cards **
+Yancco raises [$0.05]
+angreyyy folds
+** Summary **
+Yancco collected [ $0.04 ]
+
+
+#Game No : 503311156
+***** 888poker Hand History for Game 503311156 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 05:35:40
+Table Abakan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.53 )
+Seat 9: angreyyy ( $1.02 )
+angreyyy posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+angreyyy calls [$0.01]
+Yancco checks
+** Dealing flop ** [ 9s, Kc, 9d ]
+Yancco checks
+angreyyy checks
+** Dealing turn ** [ Qh ]
+Yancco checks
+angreyyy checks
+** Dealing river ** [ 2d ]
+Yancco checks
+angreyyy checks
+** Summary **
+Yancco shows [ 8c, 4s ]
+angreyyy shows [ Tc, Ah ]
+angreyyy collected [ $0.04 ]
+
+
+#Game No : 503311180
+***** 888poker Hand History for Game 503311180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 05:36:01
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.51 )
+Seat 9: angreyyy ( $1.04 )
+Yancco posts small blind [$0.01]
+angreyyy posts big blind [$0.02]
+** Dealing down cards **
+Yancco raises [$0.03]
+angreyyy folds
+** Summary **
+Yancco collected [ $0.04 ]
+
+
+#Game No : 503311186
+***** 888poker Hand History for Game 503311186 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 05:36:06
+Table Abakan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.53 )
+Seat 9: angreyyy ( $1.02 )
+angreyyy posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+angreyyy calls [$0.01]
+Yancco checks
+** Dealing flop ** [ 9c, 2c, 5h ]
+Yancco checks
+angreyyy checks
+** Dealing turn ** [ Ks ]
+Yancco checks
+angreyyy bets [$0.02]
+Yancco folds
+** Summary **
+angreyyy collected [ $0.04 ]
+
+
+#Game No : 503311214
+***** 888poker Hand History for Game 503311214 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 05:36:33
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.51 )
+Seat 9: angreyyy ( $1.04 )
+Yancco posts small blind [$0.01]
+angreyyy posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+angreyyy collected [ $0.03 ]
+
+
+#Game No : 503312501
+***** 888poker Hand History for Game 503312501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:04:32
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.39 )
+Seat 2: disenman ( $1.05 )
+Yancco posts small blind [$0.01]
+disenman posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+disenman did not show his hand
+disenman collected [ $0.03 ]
+
+
+#Game No : 503312504
+***** 888poker Hand History for Game 503312504 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:04:37
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.38 )
+Seat 2: disenman ( $1.06 )
+disenman posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+disenman folds
+** Summary **
+Yancco did not show his hand
+Yancco collected [ $0.03 ]
+
+
+#Game No : 503312506
+***** 888poker Hand History for Game 503312506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:04:43
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.39 )
+Seat 2: disenman ( $1.05 )
+Yancco posts small blind [$0.01]
+disenman posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+disenman did not show his hand
+disenman collected [ $0.03 ]
+
+
+#Game No : 503312511
+***** 888poker Hand History for Game 503312511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:04:48
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.38 )
+Seat 2: disenman ( $1.06 )
+disenman posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+disenman raises [$0.05]
+Yancco folds
+** Summary **
+disenman did not show his hand
+disenman collected [ $0.04 ]
+
+
+#Game No : 503312518
+***** 888poker Hand History for Game 503312518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:04:56
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.36 )
+Seat 2: disenman ( $1.08 )
+Yancco posts small blind [$0.01]
+disenman posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+disenman did not show his hand
+disenman collected [ $0.03 ]
+
+
+#Game No : 503312530
+***** 888poker Hand History for Game 503312530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:05:06
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.35 )
+Seat 2: disenman ( $1.09 )
+disenman posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+disenman raises [$0.03]
+Yancco raises [$0.06]
+disenman calls [$0.04]
+** Dealing flop ** [ Ad, 8s, 4d ]
+Yancco bets [$0.10]
+disenman folds
+** Summary **
+Yancco did not show his hand
+Yancco collected [ $0.15 ]
+
+
+#Game No : 503312554
+***** 888poker Hand History for Game 503312554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:05:34
+Table Abakan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.42 )
+Seat 2: disenman ( $1.01 )
+Yancco posts small blind [$0.01]
+disenman posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+disenman did not show his hand
+disenman collected [ $0.03 ]
+
+
+#Game No : 503312559
+***** 888poker Hand History for Game 503312559 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:05:40
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Yancco ( $2.41 )
+Seat 2: disenman ( $1.02 )
+disenman posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+disenman folds
+** Summary **
+Yancco collected [ $0.03 ]
+
+
+#Game No : 503312625
+***** 888poker Hand History for Game 503312625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:07:00
+Table Abakan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: disenman ( $1 )
+Seat 4: Gaby1er ( $0.86 )
+disenman posts small blind [$0.01]
+Gaby1er posts big blind [$0.02]
+** Dealing down cards **
+disenman raises [$0.05]
+Gaby1er calls [$0.04]
+** Dealing flop ** [ Qd, Kh, 4c ]
+Gaby1er checks
+disenman bets [$0.04]
+Gaby1er folds
+** Summary **
+disenman did not show his hand
+disenman collected [ $0.12 ]
+
+
+#Game No : 503312634
+***** 888poker Hand History for Game 503312634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 06:07:18
+Table Abakan 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: disenman ( $1.06 )
+Seat 4: Gaby1er ( $0.80 )
+Gaby1er posts small blind [$0.01]
+** Dealing down cards **
+disenman folds
+** Summary **
+Gaby1er did not show his hand
+Gaby1er collected [ $0.01 ]
+
+
+#Game No : 1183820330
+***** 888poker Hand History for Game 1183820330 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 07:29:19
+Table Abakan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Jonjon162 ( $0.72 )
+Seat 9: mamba304 ( $1.33 )
+Jonjon162 posts small blind [$0.01]
+mamba304 posts big blind [$0.02]
+** Dealing down cards **
+Jonjon162 folds
+** Summary **
+mamba304 did not show his hand
+mamba304 collected [ $0.03 ]
+
+
+#Game No : 1183926005
+***** 888poker Hand History for Game 1183926005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 13:21:47
+Table Abakan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $2 )
+Seat 6: m08130916 ( $0.80 )
+1LadyMary posts small blind [$0.01]
+m08130916 posts big blind [$0.02]
+** Dealing down cards **
+1LadyMary calls [$0.01]
+m08130916 checks
+** Dealing flop ** [ 5h, 3h, Ac ]
+m08130916 checks
+1LadyMary checks
+** Dealing turn ** [ 9s ]
+m08130916 checks
+1LadyMary checks
+** Dealing river ** [ Ks ]
+m08130916 checks
+1LadyMary checks
+** Summary **
+m08130916 shows [ 6d, 3s ]
+1LadyMary shows [ 9d, 7c ]
+1LadyMary collected [ $0.04 ]
+
+
+#Game No : 1183926281
+***** 888poker Hand History for Game 1183926281 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 13:22:36
+Table Abakan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: 1LadyMary ( $2.02 )
+Seat 6: m08130916 ( $0.80 )
+m08130916 posts small blind [$0.01]
+1LadyMary posts big blind [$0.02]
+** Dealing down cards **
+m08130916 calls [$0.01]
+1LadyMary checks
+** Dealing flop ** [ 7d, 7c, 9d ]
+1LadyMary checks
+m08130916 bets [$0.02]
+1LadyMary calls [$0.02]
+** Dealing turn ** [ Kd ]
+1LadyMary checks
+m08130916 bets [$0.02]
+1LadyMary calls [$0.02]
+** Dealing river ** [ Ah ]
+1LadyMary checks
+m08130916 checks
+** Summary **
+1LadyMary shows [ Jh, Ts ]
+m08130916 shows [ Qd, Js ]
+m08130916 collected [ $0.12 ]
+
+

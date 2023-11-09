@@ -1,0 +1,101 @@
+#Game No : 612614693
+***** 888poker Hand History for Game 612614693 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 00:16:33
+Table Chihuahua 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: fxgreen ( $2 )
+Seat 9: kibidzionis ( $1.94 )
+fxgreen posts small blind [$0.01]
+kibidzionis posts big blind [$0.02]
+** Dealing down cards **
+fxgreen folds
+** Summary **
+kibidzionis did not show his hand
+kibidzionis collected [ $0.03 ]
+
+
+#Game No : 612618013
+***** 888poker Hand History for Game 612618013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 02:37:56
+Table Chihuahua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: shoot.nik ( $1.06 )
+Seat 5: Vladimir_Pv ( $0.80 )
+Vladimir_Pv posts small blind [$0.01]
+** Dealing down cards **
+shoot.nik folds
+** Summary **
+Vladimir_Pv collected [ $0.01 ]
+
+
+#Game No : 612618062
+***** 888poker Hand History for Game 612618062 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 02:40:05
+Table Chihuahua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: sunrise46 ( $1.20 )
+Seat 5: Vladimir_Pv ( $0.80 )
+Vladimir_Pv posts small blind [$0.01]
+sunrise46 posts big blind [$0.02]
+** Dealing down cards **
+Vladimir_Pv calls [$0.01]
+sunrise46 checks
+** Dealing flop ** [ 5c, Kd, Ad ]
+sunrise46 bets [$0.02]
+Vladimir_Pv folds
+** Summary **
+sunrise46 collected [ $0.04 ]
+
+
+#Game No : 612618074
+***** 888poker Hand History for Game 612618074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 02:40:36
+Table Chihuahua 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sunrise46 ( $1.22 )
+Seat 5: Vladimir_Pv ( $0.78 )
+sunrise46 posts small blind [$0.01]
+Vladimir_Pv posts big blind [$0.02]
+** Dealing down cards **
+sunrise46 calls [$0.01]
+Vladimir_Pv checks
+** Dealing flop ** [ 6d, 8c, 6c ]
+Vladimir_Pv checks
+sunrise46 checks
+** Dealing turn ** [ 3c ]
+Vladimir_Pv checks
+sunrise46 checks
+** Dealing river ** [ Ac ]
+Vladimir_Pv checks
+sunrise46 checks
+** Summary **
+Vladimir_Pv shows [ 2s, Tc ]
+sunrise46 mucks [ Ts, As ]
+Vladimir_Pv collected [ $0.04 ]
+
+
+#Game No : 612618092
+***** 888poker Hand History for Game 612618092 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 02:41:13
+Table Chihuahua 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: sunrise46 ( $1.20 )
+Seat 5: Vladimir_Pv ( $0.80 )
+Vladimir_Pv posts small blind [$0.01]
+sunrise46 posts big blind [$0.02]
+** Dealing down cards **
+Vladimir_Pv calls [$0.01]
+sunrise46 raises [$0.02]
+Vladimir_Pv calls [$0.02]
+** Dealing flop ** [ 2c, 3s, Kc ]
+sunrise46 bets [$0.04]
+Vladimir_Pv folds
+** Summary **
+sunrise46 collected [ $0.08 ]
+
+

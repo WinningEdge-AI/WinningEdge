@@ -1,0 +1,894 @@
+#Game No : 516312213
+***** 888poker Hand History for Game 516312213 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 17:18:46
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: zrito ( $0.83 )
+Seat 9: luisclh2014 ( $1.26 )
+zrito posts small blind [$0.01]
+luisclh2014 posts big blind [$0.02]
+** Dealing down cards **
+zrito folds
+** Summary **
+luisclh2014 collected [ $0.03 ]
+
+
+#Game No : 516312226
+***** 888poker Hand History for Game 516312226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 17:18:57
+Table Barinas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: zrito ( $0.82 )
+Seat 9: luisclh2014 ( $1.27 )
+luisclh2014 posts small blind [$0.01]
+zrito posts big blind [$0.02]
+** Dealing down cards **
+luisclh2014 raises [$0.04]
+zrito folds
+** Summary **
+luisclh2014 collected [ $0.04 ]
+
+
+#Game No : 516315338
+***** 888poker Hand History for Game 516315338 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 18:49:38
+Table Barinas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Mi02lo02 ( $1.92 )
+Seat 2: kevinski21 ( $2.66 )
+kevinski21 posts small blind [$0.01]
+Mi02lo02 posts big blind [$0.02]
+** Dealing down cards **
+kevinski21 calls [$0.01]
+Mi02lo02 raises [$0.04]
+kevinski21 folds
+** Summary **
+Mi02lo02 collected [ $0.04 ]
+
+
+#Game No : 516316398
+***** 888poker Hand History for Game 516316398 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:52:47
+Table Barinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.03 )
+Seat 9: heliezer10 ( $0.91 )
+vbshka1 posts small blind [$0.01]
+heliezer10 posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 calls [$0.01]
+heliezer10 checks
+** Dealing flop ** [ 7c, 2s, 5c ]
+heliezer10 bets [$0.02]
+vbshka1 calls [$0.02]
+** Dealing turn ** [ 4c ]
+heliezer10 checks
+vbshka1 bets [$0.04]
+heliezer10 folds
+** Summary **
+vbshka1 did not show his hand
+vbshka1 collected [ $0.08 ]
+
+
+#Game No : 516316407
+***** 888poker Hand History for Game 516316407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:53:06
+Table Barinas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.07 )
+Seat 9: heliezer10 ( $0.87 )
+heliezer10 posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+heliezer10 raises [$0.03]
+vbshka1 calls [$0.02]
+** Dealing flop ** [ Jc, Th, Jd ]
+vbshka1 checks
+heliezer10 bets [$0.04]
+vbshka1 folds
+** Summary **
+heliezer10 did not show his hand
+heliezer10 collected [ $0.08 ]
+
+
+#Game No : 516316413
+***** 888poker Hand History for Game 516316413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:53:22
+Table Barinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.03 )
+Seat 9: heliezer10 ( $0.91 )
+vbshka1 posts small blind [$0.01]
+heliezer10 posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 folds
+** Summary **
+heliezer10 did not show his hand
+heliezer10 collected [ $0.03 ]
+
+
+#Game No : 516316417
+***** 888poker Hand History for Game 516316417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:53:30
+Table Barinas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.02 )
+Seat 9: heliezer10 ( $0.92 )
+heliezer10 posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+heliezer10 folds
+** Summary **
+vbshka1 did not show his hand
+vbshka1 collected [ $0.03 ]
+
+
+#Game No : 516316420
+***** 888poker Hand History for Game 516316420 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:53:36
+Table Barinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.03 )
+Seat 9: heliezer10 ( $0.91 )
+vbshka1 posts small blind [$0.01]
+heliezer10 posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 calls [$0.01]
+heliezer10 checks
+** Dealing flop ** [ 4h, 4c, 3c ]
+heliezer10 checks
+vbshka1 checks
+** Dealing turn ** [ 4d ]
+heliezer10 bets [$0.02]
+vbshka1 calls [$0.02]
+** Dealing river ** [ Ah ]
+heliezer10 checks
+vbshka1 checks
+** Summary **
+heliezer10 shows [ 5d, 7d ]
+vbshka1 shows [ 6h, Qs ]
+vbshka1 collected [ $0.08 ]
+
+
+#Game No : 516316429
+***** 888poker Hand History for Game 516316429 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:54:07
+Table Barinas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.07 )
+Seat 9: heliezer10 ( $0.87 )
+heliezer10 posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+heliezer10 calls [$0.01]
+vbshka1 checks
+** Dealing flop ** [ 5c, As, Kd ]
+vbshka1 checks
+heliezer10 checks
+** Dealing turn ** [ 8h ]
+vbshka1 bets [$0.02]
+heliezer10 folds
+** Summary **
+vbshka1 did not show his hand
+vbshka1 collected [ $0.04 ]
+
+
+#Game No : 516316434
+***** 888poker Hand History for Game 516316434 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:54:26
+Table Barinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.09 )
+Seat 9: heliezer10 ( $0.85 )
+vbshka1 posts small blind [$0.01]
+heliezer10 posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 raises [$0.03]
+heliezer10 folds
+** Summary **
+vbshka1 did not show his hand
+vbshka1 collected [ $0.04 ]
+
+
+#Game No : 516316440
+***** 888poker Hand History for Game 516316440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:54:33
+Table Barinas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.11 )
+Seat 9: heliezer10 ( $0.83 )
+heliezer10 posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+heliezer10 calls [$0.01]
+vbshka1 raises [$0.04]
+heliezer10 folds
+** Summary **
+vbshka1 did not show his hand
+vbshka1 collected [ $0.04 ]
+
+
+#Game No : 516316445
+***** 888poker Hand History for Game 516316445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:54:43
+Table Barinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.13 )
+Seat 9: heliezer10 ( $0.81 )
+vbshka1 posts small blind [$0.01]
+heliezer10 posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 calls [$0.01]
+heliezer10 checks
+** Dealing flop ** [ 4d, 4c, 2d ]
+heliezer10 bets [$0.02]
+vbshka1 calls [$0.02]
+** Dealing turn ** [ 5h ]
+heliezer10 bets [$0.04]
+vbshka1 calls [$0.04]
+** Dealing river ** [ Qh ]
+heliezer10 checks
+vbshka1 checks
+** Summary **
+heliezer10 shows [ Ah, 9d ]
+vbshka1 mucks [ Ad, 8s ]
+heliezer10 collected [ $0.15 ]
+
+
+#Game No : 516316452
+***** 888poker Hand History for Game 516316452 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:55:07
+Table Barinas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.05 )
+Seat 9: heliezer10 ( $0.88 )
+heliezer10 posts small blind [$0.01]
+vbshka1 posts big blind [$0.02]
+** Dealing down cards **
+heliezer10 calls [$0.01]
+vbshka1 checks
+** Dealing flop ** [ 2c, 7s, 4d ]
+vbshka1 checks
+heliezer10 checks
+** Dealing turn ** [ 9s ]
+vbshka1 bets [$0.02]
+heliezer10 folds
+** Summary **
+vbshka1 collected [ $0.04 ]
+
+
+#Game No : 516316460
+***** 888poker Hand History for Game 516316460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 19:55:23
+Table Barinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vbshka1 ( $1.07 )
+Seat 9: heliezer10 ( $0.86 )
+vbshka1 posts small blind [$0.01]
+heliezer10 posts big blind [$0.02]
+** Dealing down cards **
+vbshka1 calls [$0.01]
+heliezer10 checks
+** Dealing flop ** [ 8d, 3h, Jd ]
+heliezer10 bets [$0.02]
+vbshka1 folds
+** Summary **
+heliezer10 collected [ $0.04 ]
+
+
+#Game No : 516317220
+***** 888poker Hand History for Game 516317220 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:32:58
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.54 )
+Seat 6: ThatsPrettyD ( $0.26 )
+ThatsPrettyD posts small blind [$0.01]
+Waver5 posts big blind [$0.02]
+** Dealing down cards **
+ThatsPrettyD folds
+** Summary **
+Waver5 did not show his hand
+Waver5 collected [ $0.03 ]
+
+
+#Game No : 516317225
+***** 888poker Hand History for Game 516317225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:33:04
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.55 )
+Seat 6: ThatsPrettyD ( $0.25 )
+Waver5 posts small blind [$0.01]
+ThatsPrettyD posts big blind [$0.02]
+** Dealing down cards **
+Waver5 folds
+** Summary **
+ThatsPrettyD did not show his hand
+ThatsPrettyD collected [ $0.03 ]
+
+
+#Game No : 516317228
+***** 888poker Hand History for Game 516317228 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:33:11
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.54 )
+Seat 6: ThatsPrettyD ( $0.26 )
+ThatsPrettyD posts small blind [$0.01]
+Waver5 posts big blind [$0.02]
+** Dealing down cards **
+ThatsPrettyD raises [$0.03]
+Waver5 calls [$0.02]
+** Dealing flop ** [ 4s, 4c, 2c ]
+Waver5 checks
+ThatsPrettyD bets [$0.08]
+Waver5 folds
+** Summary **
+ThatsPrettyD did not show his hand
+ThatsPrettyD collected [ $0.08 ]
+
+
+#Game No : 516317235
+***** 888poker Hand History for Game 516317235 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:33:30
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.50 )
+Seat 6: ThatsPrettyD ( $0.30 )
+Waver5 posts small blind [$0.01]
+ThatsPrettyD posts big blind [$0.02]
+** Dealing down cards **
+Waver5 folds
+** Summary **
+ThatsPrettyD did not show his hand
+ThatsPrettyD collected [ $0.03 ]
+
+
+#Game No : 516317237
+***** 888poker Hand History for Game 516317237 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:33:37
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.49 )
+Seat 6: ThatsPrettyD ( $0.31 )
+ThatsPrettyD posts small blind [$0.01]
+Waver5 posts big blind [$0.02]
+** Dealing down cards **
+ThatsPrettyD folds
+** Summary **
+Waver5 did not show his hand
+Waver5 collected [ $0.03 ]
+
+
+#Game No : 516317242
+***** 888poker Hand History for Game 516317242 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:33:42
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.50 )
+Seat 6: ThatsPrettyD ( $0.30 )
+Waver5 posts small blind [$0.01]
+ThatsPrettyD posts big blind [$0.02]
+** Dealing down cards **
+Waver5 folds
+** Summary **
+ThatsPrettyD did not show his hand
+ThatsPrettyD collected [ $0.03 ]
+
+
+#Game No : 516317244
+***** 888poker Hand History for Game 516317244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:33:50
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.49 )
+Seat 6: ThatsPrettyD ( $0.31 )
+ThatsPrettyD posts small blind [$0.01]
+Waver5 posts big blind [$0.02]
+** Dealing down cards **
+ThatsPrettyD folds
+** Summary **
+Waver5 did not show his hand
+Waver5 collected [ $0.03 ]
+
+
+#Game No : 516317247
+***** 888poker Hand History for Game 516317247 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:33:58
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.50 )
+Seat 6: ThatsPrettyD ( $0.30 )
+Waver5 posts small blind [$0.01]
+ThatsPrettyD posts big blind [$0.02]
+** Dealing down cards **
+Waver5 folds
+** Summary **
+ThatsPrettyD did not show his hand
+ThatsPrettyD collected [ $0.03 ]
+
+
+#Game No : 516317251
+***** 888poker Hand History for Game 516317251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:34:06
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.49 )
+Seat 6: ThatsPrettyD ( $0.31 )
+ThatsPrettyD posts small blind [$0.01]
+Waver5 posts big blind [$0.02]
+** Dealing down cards **
+ThatsPrettyD raises [$0.03]
+Waver5 calls [$0.02]
+** Dealing flop ** [ 5s, 6h, 2d ]
+Waver5 checks
+ThatsPrettyD bets [$0.08]
+Waver5 folds
+** Summary **
+ThatsPrettyD did not show his hand
+ThatsPrettyD collected [ $0.08 ]
+
+
+#Game No : 516317256
+***** 888poker Hand History for Game 516317256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:34:26
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.45 )
+Seat 6: ThatsPrettyD ( $0.35 )
+Waver5 posts small blind [$0.01]
+ThatsPrettyD posts big blind [$0.02]
+** Dealing down cards **
+Waver5 raises [$0.03]
+ThatsPrettyD folds
+** Summary **
+Waver5 collected [ $0.04 ]
+
+
+#Game No : 516317262
+***** 888poker Hand History for Game 516317262 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:34:35
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.47 )
+Seat 6: ThatsPrettyD ( $0.33 )
+ThatsPrettyD posts small blind [$0.01]
+Waver5 posts big blind [$0.02]
+** Dealing down cards **
+ThatsPrettyD folds
+** Summary **
+Waver5 collected [ $0.03 ]
+
+
+#Game No : 516317269
+***** 888poker Hand History for Game 516317269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:35:12
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Waver5 ( $1.44 )
+Seat 6: ThatsPrettyD ( $0.36 )
+ThatsPrettyD posts small blind [$0.01]
+Waver5 posts big blind [$0.02]
+** Dealing down cards **
+ThatsPrettyD raises [$0.05]
+Waver5 folds
+** Summary **
+ThatsPrettyD collected [ $0.04 ]
+
+
+#Game No : 516317281
+***** 888poker Hand History for Game 516317281 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:35:57
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: VALBERHAN ( $0.84 )
+Seat 6: ThatsPrettyD ( $0.34 )
+ThatsPrettyD posts small blind [$0.01]
+VALBERHAN posts big blind [$0.02]
+** Dealing down cards **
+ThatsPrettyD folds
+** Summary **
+VALBERHAN collected [ $0.03 ]
+
+
+#Game No : 516317513
+***** 888poker Hand History for Game 516317513 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:50:24
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: VALBERHAN ( $0.43 )
+Seat 4: melugi ( $1.33 )
+melugi posts small blind [$0.01]
+VALBERHAN posts big blind [$0.02]
+** Dealing down cards **
+melugi raises [$0.05]
+VALBERHAN folds
+** Summary **
+melugi did not show his hand
+melugi collected [ $0.04 ]
+
+
+#Game No : 516317515
+***** 888poker Hand History for Game 516317515 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:50:33
+Table Barinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VALBERHAN ( $0.41 )
+Seat 4: melugi ( $1.35 )
+VALBERHAN posts small blind [$0.01]
+melugi posts big blind [$0.02]
+** Dealing down cards **
+VALBERHAN calls [$0.01]
+melugi raises [$0.04]
+VALBERHAN calls [$0.04]
+** Dealing flop ** [ 3d, 7c, 9h ]
+melugi bets [$0.08]
+VALBERHAN calls [$0.08]
+** Dealing turn ** [ 6s ]
+melugi bets [$0.18]
+VALBERHAN calls [$0.18]
+** Dealing river ** [ As ]
+melugi checks
+VALBERHAN bets [$0.09]
+melugi calls [$0.09]
+** Summary **
+VALBERHAN shows [ Tc, 9d ]
+melugi shows [ 9c, Qc ]
+melugi collected [ $0.77 ]
+
+
+#Game No : 516317531
+***** 888poker Hand History for Game 516317531 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:51:15
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Gromazeka ( $0.80 )
+Seat 4: melugi ( $1.71 )
+melugi posts small blind [$0.01]
+Gromazeka posts big blind [$0.02]
+** Dealing down cards **
+melugi raises [$0.04]
+Gromazeka folds
+** Summary **
+melugi collected [ $0.04 ]
+
+
+#Game No : 516317535
+***** 888poker Hand History for Game 516317535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:51:24
+Table Barinas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Gromazeka ( $0.78 )
+Seat 4: melugi ( $1.73 )
+Gromazeka posts small blind [$0.01]
+melugi posts big blind [$0.02]
+** Dealing down cards **
+Gromazeka raises [$0.03]
+melugi raises [$0.08]
+Gromazeka raises [$0.12]
+melugi raises [$0.38]
+Gromazeka raises [$0.62]
+melugi calls [$0.30]
+** Dealing flop ** [ 7h, 6d, Kh ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ Qs ]
+** Summary **
+Gromazeka shows [ Jd, Jh ]
+melugi shows [ Kd, Kc ]
+melugi collected [ $1.47 ]
+
+
+#Game No : 516317642
+***** 888poker Hand History for Game 516317642 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:58:13
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.80 )
+Seat 6: Kash_90 ( $1 )
+Kash_90 posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+Kash_90 calls [$0.01]
+HogRider01 checks
+** Dealing flop ** [ 5s, Ad, Qc ]
+HogRider01 checks
+Kash_90 bets [$0.02]
+HogRider01 folds
+** Summary **
+Kash_90 did not show his hand
+Kash_90 collected [ $0.04 ]
+
+
+#Game No : 516317648
+***** 888poker Hand History for Game 516317648 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:58:36
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.78 )
+Seat 6: Kash_90 ( $1.02 )
+HogRider01 posts small blind [$0.01]
+Kash_90 posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 calls [$0.01]
+Kash_90 raises [$0.04]
+HogRider01 calls [$0.04]
+** Dealing flop ** [ 9s, Tc, Jh ]
+Kash_90 checks
+HogRider01 bets [$0.12]
+Kash_90 calls [$0.12]
+** Dealing turn ** [ Js ]
+Kash_90 checks
+HogRider01 bets [$0.36]
+Kash_90 folds
+** Summary **
+HogRider01 did not show his hand
+HogRider01 collected [ $0.34 ]
+
+
+#Game No : 516317658
+***** 888poker Hand History for Game 516317658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:59:03
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.94 )
+Seat 6: Kash_90 ( $0.84 )
+Kash_90 posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+Kash_90 calls [$0.01]
+HogRider01 checks
+** Dealing flop ** [ Ks, 8h, 8d ]
+HogRider01 checks
+Kash_90 checks
+** Dealing turn ** [ 5s ]
+HogRider01 checks
+Kash_90 checks
+** Dealing river ** [ Ts ]
+HogRider01 bets [$0.02]
+Kash_90 calls [$0.02]
+** Summary **
+HogRider01 shows [ 9s, Tc ]
+Kash_90 mucks [ Ad, Jh ]
+HogRider01 collected [ $0.08 ]
+
+
+#Game No : 516317665
+***** 888poker Hand History for Game 516317665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:59:30
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.98 )
+Seat 6: Kash_90 ( $0.80 )
+HogRider01 posts small blind [$0.01]
+Kash_90 posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 folds
+** Summary **
+Kash_90 did not show his hand
+Kash_90 collected [ $0.03 ]
+
+
+#Game No : 516317668
+***** 888poker Hand History for Game 516317668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:59:37
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.97 )
+Seat 6: Kash_90 ( $0.81 )
+Kash_90 posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+Kash_90 calls [$0.01]
+HogRider01 checks
+** Dealing flop ** [ 7d, Qs, 3c ]
+HogRider01 bets [$0.04]
+Kash_90 folds
+** Summary **
+HogRider01 did not show his hand
+HogRider01 collected [ $0.04 ]
+
+
+#Game No : 516317673
+***** 888poker Hand History for Game 516317673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 20:59:53
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $0.99 )
+Seat 6: Kash_90 ( $0.79 )
+HogRider01 posts small blind [$0.01]
+Kash_90 posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 calls [$0.01]
+Kash_90 checks
+** Dealing flop ** [ Jd, 9h, 6h ]
+Kash_90 checks
+HogRider01 checks
+** Dealing turn ** [ 2h ]
+Kash_90 checks
+HogRider01 bets [$0.04]
+Kash_90 folds
+** Summary **
+HogRider01 did not show his hand
+HogRider01 collected [ $0.04 ]
+
+
+#Game No : 516317681
+***** 888poker Hand History for Game 516317681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 21:00:15
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $1.01 )
+Seat 6: Kash_90 ( $0.77 )
+Kash_90 posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+Kash_90 folds
+** Summary **
+HogRider01 did not show his hand
+HogRider01 collected [ $0.03 ]
+
+
+#Game No : 516317683
+***** 888poker Hand History for Game 516317683 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 21:00:22
+Table Barinas 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $1.02 )
+Seat 6: Kash_90 ( $0.76 )
+HogRider01 posts small blind [$0.01]
+Kash_90 posts big blind [$0.02]
+** Dealing down cards **
+HogRider01 calls [$0.01]
+Kash_90 checks
+** Dealing flop ** [ 3c, 3s, 6c ]
+Kash_90 checks
+HogRider01 checks
+** Dealing turn ** [ 6d ]
+Kash_90 checks
+HogRider01 bets [$0.04]
+Kash_90 calls [$0.04]
+** Dealing river ** [ Ks ]
+Kash_90 checks
+HogRider01 bets [$0.12]
+Kash_90 folds
+** Summary **
+HogRider01 did not show his hand
+HogRider01 collected [ $0.12 ]
+
+
+#Game No : 516317696
+***** 888poker Hand History for Game 516317696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 04 2019 21:00:57
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: HogRider01 ( $1.08 )
+Seat 6: Kash_90 ( $0.70 )
+Kash_90 posts small blind [$0.01]
+HogRider01 posts big blind [$0.02]
+** Dealing down cards **
+Kash_90 calls [$0.01]
+HogRider01 raises [$0.04]
+Kash_90 calls [$0.04]
+** Dealing flop ** [ 3s, 3d, 2d ]
+HogRider01 bets [$0.12]
+Kash_90 calls [$0.12]
+** Dealing turn ** [ Qc ]
+HogRider01 bets [$0.90]
+Kash_90 calls [$0.52]
+** Dealing river ** [ 5h ]
+** Summary **
+HogRider01 shows [ Qs, Ad ]
+Kash_90 shows [ Ah, 2s ]
+HogRider01 collected [ $1.32 ]
+
+
+#Game No : 516321069
+***** 888poker Hand History for Game 516321069 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 04 2019 00:26:22
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ANALAR ( $5.93 )
+Seat 6: nagyfigura ( $1 )
+nagyfigura posts small blind [$0.01]
+ANALAR posts big blind [$0.02]
+** Dealing down cards **
+nagyfigura folds
+** Summary **
+ANALAR did not show his hand
+ANALAR collected [ $0.03 ]
+
+
+#Game No : 516321072
+***** 888poker Hand History for Game 516321072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 04 2019 00:26:28
+Table Barinas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ANALAR ( $5.94 )
+Seat 6: nagyfigura ( $0.99 )
+ANALAR posts small blind [$0.01]
+nagyfigura posts big blind [$0.02]
+** Dealing down cards **
+ANALAR raises [$0.03]
+nagyfigura folds
+** Summary **
+ANALAR did not show his hand
+ANALAR collected [ $0.04 ]
+
+
+#Game No : 516321075
+***** 888poker Hand History for Game 516321075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 04 2019 00:26:35
+Table Barinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ANALAR ( $5.96 )
+Seat 6: nagyfigura ( $0.97 )
+nagyfigura posts small blind [$0.01]
+ANALAR posts big blind [$0.02]
+** Dealing down cards **
+nagyfigura raises [$0.03]
+ANALAR folds
+** Summary **
+nagyfigura did not show his hand
+nagyfigura collected [ $0.04 ]
+
+
+#Game No : 516321079
+***** 888poker Hand History for Game 516321079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 04 2019 00:26:42
+Table Barinas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ANALAR ( $5.94 )
+Seat 6: nagyfigura ( $0.99 )
+ANALAR posts small blind [$0.01]
+** Dealing down cards **
+nagyfigura folds
+** Summary **
+ANALAR did not show his hand
+ANALAR collected [ $0.01 ]
+
+

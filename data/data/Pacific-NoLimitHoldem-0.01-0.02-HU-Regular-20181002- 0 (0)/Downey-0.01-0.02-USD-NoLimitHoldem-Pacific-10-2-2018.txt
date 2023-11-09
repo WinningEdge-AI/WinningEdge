@@ -1,0 +1,330 @@
+#Game No : 503214122
+***** 888poker Hand History for Game 503214122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 23:01:24
+Table Downey 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: m4ri4chi17 ( $0.98 )
+Seat 9: ski_alex ( $1.02 )
+m4ri4chi17 posts small blind [$0.01]
+ski_alex posts big blind [$0.02]
+** Dealing down cards **
+m4ri4chi17 calls [$0.01]
+ski_alex checks
+** Dealing flop ** [ Qs, Ts, 4h ]
+ski_alex checks
+m4ri4chi17 checks
+** Dealing turn ** [ 6h ]
+ski_alex bets [$0.04]
+m4ri4chi17 calls [$0.04]
+** Dealing river ** [ 8s ]
+ski_alex bets [$0.04]
+m4ri4chi17 folds
+** Summary **
+ski_alex did not show his hand
+ski_alex collected [ $0.12 ]
+
+
+#Game No : 503214131
+***** 888poker Hand History for Game 503214131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 23:02:05
+Table Downey 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: m4ri4chi17 ( $0.92 )
+Seat 9: ski_alex ( $1.08 )
+ski_alex posts small blind [$0.01]
+m4ri4chi17 posts big blind [$0.02]
+** Dealing down cards **
+ski_alex calls [$0.01]
+m4ri4chi17 checks
+** Dealing flop ** [ 5s, 6s, Th ]
+m4ri4chi17 checks
+ski_alex checks
+** Dealing turn ** [ 2d ]
+m4ri4chi17 checks
+ski_alex checks
+** Dealing river ** [ 4c ]
+m4ri4chi17 checks
+ski_alex bets [$0.02]
+m4ri4chi17 calls [$0.02]
+** Summary **
+ski_alex shows [ 7d, Qs ]
+m4ri4chi17 shows [ 4d, Ad ]
+m4ri4chi17 collected [ $0.08 ]
+
+
+#Game No : 503214141
+***** 888poker Hand History for Game 503214141 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 23:02:44
+Table Downey 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: m4ri4chi17 ( $0.96 )
+Seat 9: ski_alex ( $1.04 )
+m4ri4chi17 posts small blind [$0.01]
+ski_alex posts big blind [$0.02]
+** Dealing down cards **
+m4ri4chi17 raises [$0.03]
+ski_alex raises [$0.12]
+m4ri4chi17 raises [$0.38]
+ski_alex raises [$0.90]
+m4ri4chi17 calls [$0.54]
+** Dealing flop ** [ 3d, Qc, 2h ]
+** Dealing turn ** [ 7c ]
+** Dealing river ** [ 5d ]
+** Summary **
+m4ri4chi17 shows [ Kc, Kh ]
+ski_alex shows [ Ah, As ]
+ski_alex collected [ $1.80 ]
+
+
+#Game No : 503214149
+***** 888poker Hand History for Game 503214149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 23:03:40
+Table Downey 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: 10kBaal10k ( $1 )
+Seat 9: ski_alex ( $1.88 )
+ski_alex posts small blind [$0.01]
+10kBaal10k posts big blind [$0.02]
+** Dealing down cards **
+ski_alex raises [$0.05]
+10kBaal10k calls [$0.04]
+** Dealing flop ** [ Tc, Qc, Td ]
+10kBaal10k checks
+ski_alex bets [$0.08]
+10kBaal10k folds
+** Summary **
+ski_alex collected [ $0.12 ]
+
+
+#Game No : 503253118
+***** 888poker Hand History for Game 503253118 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 14:52:10
+Table Downey 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Vehian ( $1 )
+Seat 7: LabelPopov ( $1.60 )
+LabelPopov posts small blind [$0.01]
+Vehian posts big blind [$0.02]
+** Dealing down cards **
+LabelPopov calls [$0.01]
+Vehian raises [$0.04]
+LabelPopov calls [$0.04]
+** Dealing flop ** [ 9c, Tc, 4s ]
+Vehian bets [$0.12]
+LabelPopov folds
+** Summary **
+Vehian collected [ $0.12 ]
+
+
+#Game No : 503256155
+***** 888poker Hand History for Game 503256155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:20:51
+Table Downey 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2.15 )
+Seat 6: Geekboy85 ( $1 )
+Geekboy85 posts small blind [$0.01]
+B1llardgott posts big blind [$0.02]
+** Dealing down cards **
+Geekboy85 folds
+** Summary **
+B1llardgott did not show his hand
+B1llardgott collected [ $0.03 ]
+
+
+#Game No : 503256160
+***** 888poker Hand History for Game 503256160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:21:00
+Table Downey 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2.16 )
+Seat 6: Geekboy85 ( $1 )
+B1llardgott posts small blind [$0.01]
+Geekboy85 posts big blind [$0.02]
+** Dealing down cards **
+B1llardgott raises [$0.03]
+Geekboy85 folds
+** Summary **
+B1llardgott did not show his hand
+B1llardgott collected [ $0.04 ]
+
+
+#Game No : 503256164
+***** 888poker Hand History for Game 503256164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:21:14
+Table Downey 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2.18 )
+Seat 6: Geekboy85 ( $1 )
+Geekboy85 posts small blind [$0.01]
+B1llardgott posts big blind [$0.02]
+** Dealing down cards **
+Geekboy85 raises [$0.05]
+B1llardgott folds
+** Summary **
+Geekboy85 did not show his hand
+Geekboy85 collected [ $0.04 ]
+
+
+#Game No : 503256173
+***** 888poker Hand History for Game 503256173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:21:23
+Table Downey 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2.16 )
+Seat 6: Geekboy85 ( $1.02 )
+B1llardgott posts small blind [$0.01]
+Geekboy85 posts big blind [$0.02]
+** Dealing down cards **
+B1llardgott calls [$0.01]
+Geekboy85 checks
+** Dealing flop ** [ Qd, 7c, Qc ]
+Geekboy85 checks
+B1llardgott checks
+** Dealing turn ** [ 9h ]
+Geekboy85 bets [$0.04]
+B1llardgott folds
+** Summary **
+Geekboy85 did not show his hand
+Geekboy85 collected [ $0.04 ]
+
+
+#Game No : 503256187
+***** 888poker Hand History for Game 503256187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:21:48
+Table Downey 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2.14 )
+Seat 6: Geekboy85 ( $1.04 )
+Geekboy85 posts small blind [$0.01]
+B1llardgott posts big blind [$0.02]
+** Dealing down cards **
+Geekboy85 raises [$0.05]
+B1llardgott folds
+** Summary **
+Geekboy85 did not show his hand
+Geekboy85 collected [ $0.04 ]
+
+
+#Game No : 503256192
+***** 888poker Hand History for Game 503256192 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:22:00
+Table Downey 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2.12 )
+Seat 6: Geekboy85 ( $1.06 )
+B1llardgott posts small blind [$0.01]
+Geekboy85 posts big blind [$0.02]
+** Dealing down cards **
+B1llardgott calls [$0.01]
+Geekboy85 checks
+** Dealing flop ** [ Ad, 2h, 9c ]
+Geekboy85 checks
+B1llardgott bets [$0.02]
+Geekboy85 folds
+** Summary **
+B1llardgott did not show his hand
+B1llardgott collected [ $0.04 ]
+
+
+#Game No : 503256203
+***** 888poker Hand History for Game 503256203 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:22:16
+Table Downey 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2.14 )
+Seat 6: Geekboy85 ( $1.04 )
+Geekboy85 posts small blind [$0.01]
+B1llardgott posts big blind [$0.02]
+** Dealing down cards **
+Geekboy85 raises [$0.05]
+B1llardgott calls [$0.04]
+** Dealing flop ** [ 7h, 2c, Ks ]
+B1llardgott checks
+Geekboy85 bets [$0.08]
+B1llardgott folds
+** Summary **
+Geekboy85 did not show his hand
+Geekboy85 collected [ $0.12 ]
+
+
+#Game No : 503256210
+***** 888poker Hand History for Game 503256210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:22:31
+Table Downey 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2.08 )
+Seat 6: Geekboy85 ( $1.10 )
+B1llardgott posts small blind [$0.01]
+Geekboy85 posts big blind [$0.02]
+** Dealing down cards **
+B1llardgott raises [$0.03]
+Geekboy85 calls [$0.02]
+** Dealing flop ** [ 9h, 5d, 2c ]
+Geekboy85 checks
+B1llardgott checks
+** Dealing turn ** [ 8d ]
+Geekboy85 checks
+B1llardgott checks
+** Dealing river ** [ 9s ]
+Geekboy85 checks
+B1llardgott bets [$0.02]
+Geekboy85 calls [$0.02]
+** Summary **
+B1llardgott shows [ Ks, Th ]
+Geekboy85 shows [ Jh, 5h ]
+Geekboy85 collected [ $0.12 ]
+
+
+#Game No : 503256224
+***** 888poker Hand History for Game 503256224 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:22:58
+Table Downey 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2.02 )
+Seat 6: Geekboy85 ( $1.16 )
+Geekboy85 posts small blind [$0.01]
+B1llardgott posts big blind [$0.02]
+** Dealing down cards **
+Geekboy85 calls [$0.01]
+B1llardgott checks
+** Dealing flop ** [ 7s, 4d, Ts ]
+B1llardgott checks
+Geekboy85 bets [$0.04]
+B1llardgott folds
+** Summary **
+Geekboy85 did not show his hand
+Geekboy85 collected [ $0.04 ]
+
+
+#Game No : 503256230
+***** 888poker Hand History for Game 503256230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 16:23:16
+Table Downey 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: B1llardgott ( $2 )
+Seat 6: Geekboy85 ( $1.18 )
+B1llardgott posts small blind [$0.01]
+Geekboy85 posts big blind [$0.02]
+** Dealing down cards **
+B1llardgott raises [$0.03]
+Geekboy85 folds
+** Summary **
+B1llardgott collected [ $0.04 ]
+
+

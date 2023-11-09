@@ -1,0 +1,48 @@
+#Game No : 503857696
+***** 888poker Hand History for Game 503857696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 11:12:20
+Table Balakovo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: nezPKR ( $1 )
+Seat 7: pochitalin ( $2.15 )
+pochitalin posts small blind [$0.01]
+nezPKR posts big blind [$0.02]
+** Dealing down cards **
+pochitalin raises [$0.05]
+nezPKR calls [$0.04]
+** Dealing flop ** [ 6s, 2c, Kd ]
+nezPKR checks
+pochitalin bets [$0.08]
+nezPKR calls [$0.08]
+** Dealing turn ** [ Tc ]
+nezPKR checks
+pochitalin bets [$0.18]
+nezPKR calls [$0.18]
+** Dealing river ** [ 9s ]
+nezPKR checks
+pochitalin bets [$0.42]
+nezPKR calls [$0.42]
+** Summary **
+pochitalin shows [ 8c, Ks ]
+nezPKR shows [ Kh, 8d ]
+pochitalin collected [ $0.69 ]
+nezPKR collected [ $0.70 ]
+
+
+#Game No : 503857735
+***** 888poker Hand History for Game 503857735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 11:12:52
+Table Balakovo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nezPKR ( $1 )
+Seat 7: pochitalin ( $2.10 )
+nezPKR posts small blind [$0.01]
+** Dealing down cards **
+pochitalin folds
+** Summary **
+nezPKR did not show his hand
+nezPKR collected [ $0.01 ]
+
+

@@ -1,0 +1,346 @@
+#Game No : 503658411
+***** 888poker Hand History for Game 503658411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:18:53
+Table Algiers 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ArmsPeddler ( $3.34 )
+Seat 6: salsal74 ( $3.19 )
+ArmsPeddler posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+ArmsPeddler raises [$0.05]
+salsal74 folds
+** Summary **
+ArmsPeddler collected [ $0.04 ]
+
+
+#Game No : 503658418
+***** 888poker Hand History for Game 503658418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:19:03
+Table Algiers 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ArmsPeddler ( $3.36 )
+Seat 6: salsal74 ( $3.17 )
+salsal74 posts small blind [$0.01]
+** Dealing down cards **
+ArmsPeddler folds
+** Summary **
+salsal74 collected [ $0.01 ]
+
+
+#Game No : 503658473
+***** 888poker Hand History for Game 503658473 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:20:01
+Table Algiers 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: salsal74 ( $3.17 )
+Seat 7: neteor14 ( $0.80 )
+salsal74 posts small blind [$0.01]
+neteor14 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+neteor14 collected [ $0.03 ]
+
+
+#Game No : 503658485
+***** 888poker Hand History for Game 503658485 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:20:10
+Table Algiers 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: salsal74 ( $3.16 )
+Seat 7: neteor14 ( $0.81 )
+neteor14 posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+neteor14 calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ Qs, 3c, 6d ]
+salsal74 checks
+neteor14 checks
+** Dealing turn ** [ Js ]
+salsal74 checks
+neteor14 checks
+** Dealing river ** [ Ad ]
+salsal74 checks
+neteor14 checks
+** Summary **
+salsal74 shows [ 9h, 7c ]
+neteor14 shows [ 6c, 8d ]
+neteor14 collected [ $0.04 ]
+
+
+#Game No : 503658513
+***** 888poker Hand History for Game 503658513 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:20:42
+Table Algiers 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: salsal74 ( $3.14 )
+Seat 7: neteor14 ( $0.83 )
+salsal74 posts small blind [$0.01]
+neteor14 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+neteor14 calls [$0.04]
+** Dealing flop ** [ 7s, Jh, 9h ]
+neteor14 checks
+salsal74 bets [$0.06]
+neteor14 calls [$0.06]
+** Dealing turn ** [ Kc ]
+neteor14 checks
+salsal74 checks
+** Dealing river ** [ 4d ]
+neteor14 checks
+salsal74 checks
+** Summary **
+neteor14 shows [ 8d, 7d ]
+salsal74 shows [ 9d, Td ]
+salsal74 collected [ $0.23 ]
+
+
+#Game No : 503658548
+***** 888poker Hand History for Game 503658548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:21:18
+Table Algiers 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: salsal74 ( $3.25 )
+Seat 7: neteor14 ( $0.71 )
+neteor14 posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+neteor14 calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ Qh, 5h, 4c ]
+salsal74 checks
+neteor14 checks
+** Dealing turn ** [ 8s ]
+salsal74 checks
+neteor14 checks
+** Dealing river ** [ 8c ]
+salsal74 checks
+neteor14 checks
+** Summary **
+salsal74 shows [ 9s, 7s ]
+neteor14 shows [ 7c, Ac ]
+neteor14 collected [ $0.04 ]
+
+
+#Game No : 503658735
+***** 888poker Hand History for Game 503658735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:24:42
+Table Algiers 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: salsal74 ( $3.32 )
+Seat 7: neteor14 ( $0.39 )
+salsal74 posts small blind [$0.01]
+neteor14 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 calls [$0.01]
+neteor14 raises [$0.04]
+salsal74 calls [$0.04]
+** Dealing flop ** [ Td, 5h, Jc ]
+neteor14 bets [$0.02]
+salsal74 calls [$0.02]
+** Dealing turn ** [ Kc ]
+neteor14 checks
+salsal74 checks
+** Dealing river ** [ 7s ]
+neteor14 checks
+salsal74 checks
+** Summary **
+neteor14 shows [ 5d, 7c ]
+salsal74 mucks [ 9s, 6s ]
+neteor14 collected [ $0.15 ]
+
+
+#Game No : 503658774
+***** 888poker Hand History for Game 503658774 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:25:24
+Table Algiers 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: salsal74 ( $3.24 )
+Seat 7: neteor14 ( $0.46 )
+neteor14 posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+neteor14 calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ 3c, 3h, Qs ]
+salsal74 checks
+neteor14 checks
+** Dealing turn ** [ 7c ]
+salsal74 checks
+neteor14 checks
+** Dealing river ** [ 3s ]
+salsal74 checks
+neteor14 checks
+** Summary **
+salsal74 shows [ 5s, 8c ]
+neteor14 mucks [ 6c, 4c ]
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 503658806
+***** 888poker Hand History for Game 503658806 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:25:55
+Table Algiers 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: salsal74 ( $3.26 )
+Seat 7: neteor14 ( $0.44 )
+salsal74 posts small blind [$0.01]
+neteor14 posts big blind [$0.02]
+** Dealing down cards **
+salsal74 calls [$0.01]
+neteor14 checks
+** Dealing flop ** [ 2d, Th, 3d ]
+neteor14 bets [$0.02]
+salsal74 folds
+** Summary **
+neteor14 collected [ $0.04 ]
+
+
+#Game No : 503658818
+***** 888poker Hand History for Game 503658818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 13:26:10
+Table Algiers 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: salsal74 ( $3.24 )
+Seat 7: neteor14 ( $0.46 )
+neteor14 posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+neteor14 calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ 5c, 9c, 6d ]
+salsal74 checks
+neteor14 bets [$0.02]
+salsal74 calls [$0.02]
+** Dealing turn ** [ 3s ]
+salsal74 checks
+neteor14 checks
+** Dealing river ** [ 9s ]
+salsal74 checks
+neteor14 checks
+** Summary **
+salsal74 shows [ Ah, 8h ]
+neteor14 shows [ As, 8s ]
+neteor14 collected [ $0.04 ]
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 503662271
+***** 888poker Hand History for Game 503662271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:39:16
+Table Algiers 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ebbel808 ( $3.01 )
+Seat 4: misomex25 ( $1.10 )
+Ebbel808 posts small blind [$0.01]
+misomex25 posts big blind [$0.02]
+** Dealing down cards **
+Ebbel808 folds
+** Summary **
+misomex25 collected [ $0.03 ]
+
+
+#Game No : 503662365
+***** 888poker Hand History for Game 503662365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:41:15
+Table Algiers 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: KellyCoward ( $1.08 )
+Seat 4: misomex25 ( $0.93 )
+KellyCoward posts small blind [$0.01]
+misomex25 posts big blind [$0.02]
+** Dealing down cards **
+KellyCoward folds
+** Summary **
+misomex25 collected [ $0.03 ]
+
+
+#Game No : 503662372
+***** 888poker Hand History for Game 503662372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:41:21
+Table Algiers 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: KellyCoward ( $1.07 )
+Seat 4: misomex25 ( $0.94 )
+misomex25 posts small blind [$0.01]
+KellyCoward posts big blind [$0.02]
+** Dealing down cards **
+misomex25 calls [$0.01]
+KellyCoward checks
+** Dealing flop ** [ 9c, Ad, 4d ]
+KellyCoward checks
+misomex25 bets [$0.04]
+KellyCoward folds
+** Summary **
+misomex25 collected [ $0.04 ]
+
+
+#Game No : 503662832
+***** 888poker Hand History for Game 503662832 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:51:35
+Table Algiers 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: KellyCoward ( $1.22 )
+Seat 6: Hibstrooper ( $0.82 )
+Hibstrooper posts small blind [$0.01]
+KellyCoward posts big blind [$0.02]
+** Dealing down cards **
+Hibstrooper raises [$0.03]
+KellyCoward raises [$0.06]
+Hibstrooper calls [$0.04]
+** Dealing flop ** [ Ad, 4h, 7h ]
+KellyCoward bets [$0.08]
+Hibstrooper folds
+** Summary **
+KellyCoward did not show his hand
+KellyCoward collected [ $0.15 ]
+
+
+#Game No : 503662858
+***** 888poker Hand History for Game 503662858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 10 2018 14:51:57
+Table Algiers 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: KellyCoward ( $1.29 )
+Seat 6: Hibstrooper ( $0.74 )
+KellyCoward posts small blind [$0.01]
+Hibstrooper posts big blind [$0.02]
+** Dealing down cards **
+KellyCoward calls [$0.01]
+Hibstrooper raises [$0.04]
+KellyCoward calls [$0.04]
+** Dealing flop ** [ 2h, Td, 7h ]
+Hibstrooper bets [$0.02]
+KellyCoward calls [$0.02]
+** Dealing turn ** [ Th ]
+Hibstrooper bets [$0.08]
+KellyCoward calls [$0.08]
+** Dealing river ** [ 4d ]
+Hibstrooper bets [$0.16]
+KellyCoward raises [$0.38]
+Hibstrooper raises [$0.42]
+KellyCoward calls [$0.20]
+** Summary **
+KellyCoward shows [ Ah, 5h ]
+Hibstrooper shows [ Jd, Qh ]
+KellyCoward collected [ $1.39 ]
+
+

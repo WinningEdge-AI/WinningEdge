@@ -1,0 +1,61 @@
+#Game No : 628926407
+***** 888poker Hand History for Game 628926407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 20:17:24
+Table Boulder 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: iVandalise ( $1.99 )
+Seat 6: NordicRiver ( $2.30 )
+iVandalise posts small blind [$0.01]
+** Dealing down cards **
+NordicRiver folds
+** Summary **
+iVandalise collected [ $0.01 ]
+
+
+#Game No : 628926408
+***** 888poker Hand History for Game 628926408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 20:17:26
+Table Boulder 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: iVandalise ( $1.99 )
+Seat 10: nosteponsnek ( $3.77 )
+iVandalise posts small blind [$0.01]
+nosteponsnek posts big blind [$0.02]
+** Dealing down cards **
+iVandalise raises [$0.05]
+nosteponsnek calls [$0.04]
+** Dealing flop ** [ 4s, 8h, Kd ]
+nosteponsnek checks
+iVandalise checks
+** Dealing turn ** [ 6c ]
+nosteponsnek bets [$0.08]
+iVandalise folds
+** Summary **
+nosteponsnek did not show his hand
+nosteponsnek collected [ $0.12 ]
+
+
+#Game No : 628926413
+***** 888poker Hand History for Game 628926413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 20:17:42
+Table Boulder 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: iVandalise ( $1.93 )
+Seat 10: nosteponsnek ( $3.83 )
+nosteponsnek posts small blind [$0.01]
+iVandalise posts big blind [$0.02]
+** Dealing down cards **
+nosteponsnek raises [$0.03]
+iVandalise calls [$0.02]
+** Dealing flop ** [ 4c, Jd, Kc ]
+iVandalise checks
+nosteponsnek bets [$0.04]
+iVandalise folds
+** Summary **
+nosteponsnek did not show his hand
+nosteponsnek collected [ $0.08 ]
+
+

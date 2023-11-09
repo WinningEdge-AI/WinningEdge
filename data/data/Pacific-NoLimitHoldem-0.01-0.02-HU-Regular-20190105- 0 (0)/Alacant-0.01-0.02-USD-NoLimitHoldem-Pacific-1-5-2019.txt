@@ -1,0 +1,284 @@
+#Game No : 511661315
+***** 888poker Hand History for Game 511661315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:05:16
+Table Alacant 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: rustaman76 ( $2.47 )
+Seat 9: EastVanKid ( $1.36 )
+EastVanKid posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+EastVanKid raises [$0.05]
+rustaman76 calls [$0.04]
+** Dealing flop ** [ 2c, 8c, Jd ]
+rustaman76 checks
+EastVanKid bets [$0.08]
+rustaman76 folds
+** Summary **
+EastVanKid collected [ $0.12 ]
+
+
+#Game No : 511661415
+***** 888poker Hand History for Game 511661415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:09:45
+Table Alacant 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Dread887 ( $0.80 )
+Seat 9: Neatblitz ( $1 )
+Dread887 posts small blind [$0.01]
+Neatblitz posts big blind [$0.02]
+** Dealing down cards **
+Dread887 raises [$0.03]
+Neatblitz raises [$0.08]
+Dread887 calls [$0.06]
+** Dealing flop ** [ 9h, Js, 5d ]
+Neatblitz bets [$0.13]
+Dread887 raises [$0.70]
+Neatblitz calls [$0.57]
+** Dealing turn ** [ 8d ]
+** Dealing river ** [ Qs ]
+** Summary **
+Dread887 shows [ Jh, 2h ]
+Neatblitz shows [ As, Qd ]
+Neatblitz collected [ $1.50 ]
+
+
+#Game No : 511661430
+***** 888poker Hand History for Game 511661430 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:10:25
+Table Alacant 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $2.41 )
+Seat 7: Dread887 ( $0.80 )
+rustaman76 posts small blind [$0.01]
+Dread887 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+Dread887 calls [$0.02]
+** Dealing flop ** [ Ad, 4h, 8d ]
+Dread887 checks
+rustaman76 checks
+** Dealing turn ** [ Td ]
+Dread887 bets [$0.06]
+rustaman76 calls [$0.06]
+** Dealing river ** [ Ks ]
+Dread887 bets [$0.25]
+rustaman76 calls [$0.25]
+** Summary **
+Dread887 shows [ 7h, 5d ]
+rustaman76 shows [ Jd, Qc ]
+rustaman76 collected [ $0.66 ]
+
+
+#Game No : 511661445
+***** 888poker Hand History for Game 511661445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:11:11
+Table Alacant 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $2.72 )
+Seat 7: Dread887 ( $0.45 )
+Dread887 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+Dread887 raises [$0.24]
+rustaman76 raises [$2.70]
+Dread887 calls [$0.20]
+** Dealing flop ** [ Jh, 9d, 8s ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 9s ]
+** Summary **
+rustaman76 shows [ Ad, Td ]
+Dread887 shows [ Th, Qh ]
+Dread887 collected [ $0.85 ]
+
+
+#Game No : 511661464
+***** 888poker Hand History for Game 511661464 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:11:52
+Table Alacant 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $2.27 )
+Seat 7: Dread887 ( $0.85 )
+rustaman76 posts small blind [$0.01]
+Dread887 posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+Dread887 calls [$0.02]
+** Dealing flop ** [ Js, Ks, 9c ]
+Dread887 checks
+rustaman76 checks
+** Dealing turn ** [ Qh ]
+Dread887 bets [$0.02]
+rustaman76 calls [$0.02]
+** Dealing river ** [ Qc ]
+Dread887 bets [$0.02]
+rustaman76 raises [$0.12]
+Dread887 calls [$0.10]
+** Summary **
+rustaman76 shows [ Qs, 6h ]
+Dread887 mucks [ 4d, 4c ]
+rustaman76 collected [ $0.34 ]
+
+
+#Game No : 511661483
+***** 888poker Hand History for Game 511661483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:12:37
+Table Alacant 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: rustaman76 ( $2.43 )
+Seat 7: Dread887 ( $0.67 )
+Dread887 posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+Dread887 raises [$0.03]
+rustaman76 raises [$0.16]
+Dread887 raises [$0.28]
+rustaman76 raises [$2.25]
+Dread887 calls [$0.35]
+** Dealing flop ** [ 6s, 7s, Qd ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 2c ]
+** Summary **
+rustaman76 shows [ Qc, Ah ]
+Dread887 shows [ 5h, As ]
+rustaman76 collected [ $1.26 ]
+
+
+#Game No : 511662057
+***** 888poker Hand History for Game 511662057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:37:10
+Table Alacant 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: icefog.s.a ( $0.72 )
+Seat 6: Tattoogodoy ( $1.32 )
+Tattoogodoy posts small blind [$0.01]
+icefog.s.a posts big blind [$0.02]
+** Dealing down cards **
+Tattoogodoy folds
+** Summary **
+icefog.s.a collected [ $0.03 ]
+
+
+#Game No : 511662089
+***** 888poker Hand History for Game 511662089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:38:14
+Table Alacant 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Tattoogodoy ( $1.25 )
+Seat 7: NNNddd111 ( $2.52 )
+NNNddd111 posts small blind [$0.01]
+Tattoogodoy posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 folds
+** Summary **
+Tattoogodoy collected [ $0.03 ]
+
+
+#Game No : 511662564
+***** 888poker Hand History for Game 511662564 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:55:44
+Table Alacant 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: BADUMAUA ( $0.73 )
+Seat 7: NNNddd111 ( $2.62 )
+NNNddd111 posts small blind [$0.01]
+BADUMAUA posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 folds
+** Summary **
+BADUMAUA collected [ $0.03 ]
+
+
+#Game No : 511662565
+***** 888poker Hand History for Game 511662565 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:55:51
+Table Alacant 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BADUMAUA ( $0.74 )
+Seat 7: NNNddd111 ( $2.61 )
+BADUMAUA posts small blind [$0.01]
+NNNddd111 posts big blind [$0.02]
+** Dealing down cards **
+BADUMAUA folds
+** Summary **
+NNNddd111 collected [ $0.03 ]
+
+
+#Game No : 511662567
+***** 888poker Hand History for Game 511662567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 19:55:58
+Table Alacant 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: BADUMAUA ( $0.73 )
+Seat 7: NNNddd111 ( $2.62 )
+NNNddd111 posts small blind [$0.01]
+BADUMAUA posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 folds
+** Summary **
+BADUMAUA collected [ $0.03 ]
+
+
+#Game No : 511662694
+***** 888poker Hand History for Game 511662694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 20:00:53
+Table Alacant 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: BADUMAUA ( $0.84 )
+Seat 7: NNNddd111 ( $2.67 )
+NNNddd111 posts small blind [$0.01]
+BADUMAUA posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 raises [$0.03]
+BADUMAUA folds
+** Summary **
+NNNddd111 did not show his hand
+NNNddd111 collected [ $0.04 ]
+
+
+#Game No : 511662699
+***** 888poker Hand History for Game 511662699 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 20:01:03
+Table Alacant 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BADUMAUA ( $0.82 )
+Seat 7: NNNddd111 ( $2.69 )
+BADUMAUA posts small blind [$0.01]
+NNNddd111 posts big blind [$0.02]
+** Dealing down cards **
+BADUMAUA folds
+** Summary **
+NNNddd111 did not show his hand
+NNNddd111 collected [ $0.03 ]
+
+
+#Game No : 511662702
+***** 888poker Hand History for Game 511662702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 01 2019 20:01:09
+Table Alacant 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: BADUMAUA ( $0.81 )
+Seat 7: NNNddd111 ( $2.70 )
+NNNddd111 posts small blind [$0.01]
+BADUMAUA posts big blind [$0.02]
+** Dealing down cards **
+NNNddd111 folds
+** Summary **
+BADUMAUA did not show his hand
+BADUMAUA collected [ $0.03 ]
+
+

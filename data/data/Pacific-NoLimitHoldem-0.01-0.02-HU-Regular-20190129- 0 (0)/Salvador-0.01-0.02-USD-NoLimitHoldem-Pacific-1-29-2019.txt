@@ -1,0 +1,75 @@
+#Game No : 460887105
+***** 888poker Hand History for Game 460887105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 05:14:19
+Table Salvador 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: raygym ( $1.36 )
+Seat 9: dip2011 ( $1.20 )
+raygym posts small blind [$0.01]
+dip2011 posts big blind [$0.02]
+** Dealing down cards **
+raygym folds
+** Summary **
+dip2011 collected [ $0.03 ]
+
+
+#Game No : 460887110
+***** 888poker Hand History for Game 460887110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 05:14:27
+Table Salvador 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: raygym ( $1.35 )
+Seat 2: ictrim ( $2.73 )
+raygym posts small blind [$0.01]
+ictrim posts big blind [$0.02]
+** Dealing down cards **
+raygym raises [$0.05]
+ictrim folds
+** Summary **
+raygym collected [ $0.04 ]
+
+
+#Game No : 460887115
+***** 888poker Hand History for Game 460887115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 05:14:39
+Table Salvador 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: raygym ( $1.37 )
+Seat 2: ictrim ( $2.71 )
+raygym posts small blind [$0.01]
+ictrim posts big blind [$0.02]
+** Dealing down cards **
+raygym folds
+** Summary **
+ictrim collected [ $0.03 ]
+
+
+#Game No : 460887122
+***** 888poker Hand History for Game 460887122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 05:14:45
+Table Salvador 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: raygym ( $1.36 )
+Seat 2: ictrim ( $2.72 )
+ictrim posts small blind [$0.01]
+raygym posts big blind [$0.02]
+** Dealing down cards **
+ictrim calls [$0.01]
+raygym checks
+** Dealing flop ** [ Kc, 3c, 8s ]
+raygym bets [$0.02]
+ictrim calls [$0.02]
+** Dealing turn ** [ Jh ]
+raygym bets [$0.04]
+ictrim calls [$0.04]
+** Dealing river ** [ Qd ]
+raygym bets [$0.50]
+ictrim folds
+** Summary **
+raygym collected [ $0.15 ]
+
+

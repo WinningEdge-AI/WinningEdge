@@ -1,0 +1,28 @@
+#Game No : 461093412
+***** 888poker Hand History for Game 461093412 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 02 2019 13:52:54
+Table La Plata 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: StDaniel92 ( $5.49 )
+Seat 10: Vitek1903 ( $2.74 )
+StDaniel92 posts small blind [$0.01]
+Vitek1903 posts big blind [$0.02]
+** Dealing down cards **
+StDaniel92 calls [$0.01]
+Vitek1903 checks
+** Dealing flop ** [ As, 8d, Js ]
+Vitek1903 checks
+StDaniel92 checks
+** Dealing turn ** [ Qd ]
+Vitek1903 bets [$0.02]
+StDaniel92 calls [$0.02]
+** Dealing river ** [ Qc ]
+Vitek1903 bets [$0.04]
+StDaniel92 calls [$0.04]
+** Summary **
+Vitek1903 shows [ 5s, Ah ]
+StDaniel92 mucks [ 7h, Jh ]
+Vitek1903 collected [ $0.15 ]
+
+

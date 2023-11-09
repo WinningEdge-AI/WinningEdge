@@ -1,0 +1,406 @@
+#Game No : 504583188
+***** 888poker Hand History for Game 504583188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 12:58:34
+Table Yakima 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: goater1414 ( $2.14 )
+Seat 4: bayboy885 ( $2.02 )
+bayboy885 posts small blind [$0.01]
+goater1414 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 calls [$0.01]
+goater1414 checks
+** Dealing flop ** [ Ac, 3d, Th ]
+goater1414 checks
+bayboy885 checks
+** Dealing turn ** [ 4d ]
+goater1414 checks
+bayboy885 checks
+** Dealing river ** [ 2h ]
+goater1414 checks
+bayboy885 checks
+** Summary **
+goater1414 shows [ Kd, Js ]
+bayboy885 mucks [ 9c, Jc ]
+goater1414 collected [ $0.04 ]
+
+
+#Game No : 504583225
+***** 888poker Hand History for Game 504583225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 12:59:09
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: goater1414 ( $2.16 )
+Seat 4: bayboy885 ( $2 )
+goater1414 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+goater1414 raises [$0.04]
+bayboy885 folds
+** Summary **
+goater1414 collected [ $0.04 ]
+
+
+#Game No : 504583245
+***** 888poker Hand History for Game 504583245 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 12:59:26
+Table Yakima 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: goater1414 ( $2.18 )
+Seat 4: bayboy885 ( $1.98 )
+bayboy885 posts small blind [$0.01]
+goater1414 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 folds
+** Summary **
+goater1414 collected [ $0.03 ]
+
+
+#Game No : 504591989
+***** 888poker Hand History for Game 504591989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:18:29
+Table Yakima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: grigoriets ( $1.46 )
+Seat 9: VladislavGM ( $1.39 )
+grigoriets posts small blind [$0.01]
+VladislavGM posts big blind [$0.02]
+** Dealing down cards **
+grigoriets folds
+** Summary **
+VladislavGM collected [ $0.03 ]
+
+
+#Game No : 504591997
+***** 888poker Hand History for Game 504591997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:18:40
+Table Yakima 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: grigoriets ( $1.45 )
+Seat 9: VladislavGM ( $1.40 )
+VladislavGM posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+VladislavGM calls [$0.01]
+grigoriets checks
+** Dealing flop ** [ Ts, 9c, 6h ]
+grigoriets bets [$0.04]
+VladislavGM folds
+** Summary **
+grigoriets collected [ $0.04 ]
+
+
+#Game No : 504592054
+***** 888poker Hand History for Game 504592054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:19:54
+Table Yakima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: sisaket ( $1 )
+Seat 6: grigoriets ( $1.47 )
+grigoriets posts small blind [$0.01]
+sisaket posts big blind [$0.02]
+** Dealing down cards **
+grigoriets folds
+** Summary **
+sisaket collected [ $0.03 ]
+
+
+#Game No : 504592424
+***** 888poker Hand History for Game 504592424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:26:50
+Table Yakima 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $2.96 )
+Seat 4: Jacksprat888 ( $0.26 )
+Jacksprat888 posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+Jacksprat888 calls [$0.01]
+Bacchant checks
+** Dealing flop ** [ 9d, 7h, Kh ]
+Bacchant checks
+Jacksprat888 checks
+** Dealing turn ** [ 4h ]
+Bacchant checks
+Jacksprat888 checks
+** Dealing river ** [ 3d ]
+Bacchant checks
+Jacksprat888 checks
+** Summary **
+Bacchant shows [ 2c, 2h ]
+Jacksprat888 mucks [ Jc, 8c ]
+Bacchant collected [ $0.04 ]
+
+
+#Game No : 504592444
+***** 888poker Hand History for Game 504592444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:27:18
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $2.98 )
+Seat 4: Jacksprat888 ( $0.24 )
+Bacchant posts small blind [$0.01]
+Jacksprat888 posts big blind [$0.02]
+** Dealing down cards **
+Bacchant calls [$0.01]
+Jacksprat888 raises [$0.04]
+Bacchant calls [$0.04]
+** Dealing flop ** [ Th, Kd, 7d ]
+Jacksprat888 bets [$0.06]
+Bacchant raises [$0.12]
+Jacksprat888 raises [$0.12]
+Bacchant calls [$0.06]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 4s ]
+** Summary **
+Bacchant shows [ 8s, Ks ]
+Jacksprat888 shows [ Ad, Tc ]
+Bacchant collected [ $0.45 ]
+
+
+#Game No : 504592488
+***** 888poker Hand History for Game 504592488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:28:05
+Table Yakima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $3.19 )
+Seat 6: delipins ( $1 )
+delipins posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+delipins calls [$0.01]
+Bacchant checks
+** Dealing flop ** [ Qd, Qc, Js ]
+Bacchant checks
+delipins bets [$0.06]
+Bacchant folds
+** Summary **
+delipins did not show his hand
+delipins collected [ $0.04 ]
+
+
+#Game No : 504592512
+***** 888poker Hand History for Game 504592512 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:28:27
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $3.17 )
+Seat 6: delipins ( $1.02 )
+Bacchant posts small blind [$0.01]
+delipins posts big blind [$0.02]
+** Dealing down cards **
+Bacchant folds
+** Summary **
+delipins did not show his hand
+delipins collected [ $0.03 ]
+
+
+#Game No : 504592516
+***** 888poker Hand History for Game 504592516 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:28:32
+Table Yakima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $3.16 )
+Seat 6: delipins ( $1.03 )
+delipins posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+delipins folds
+** Summary **
+Bacchant did not show his hand
+Bacchant collected [ $0.03 ]
+
+
+#Game No : 504592525
+***** 888poker Hand History for Game 504592525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:28:38
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $3.17 )
+Seat 6: delipins ( $1.02 )
+Bacchant posts small blind [$0.01]
+delipins posts big blind [$0.02]
+** Dealing down cards **
+Bacchant calls [$0.01]
+delipins checks
+** Dealing flop ** [ 2s, 2h, As ]
+delipins checks
+Bacchant bets [$0.02]
+delipins folds
+** Summary **
+Bacchant did not show his hand
+Bacchant collected [ $0.04 ]
+
+
+#Game No : 504592536
+***** 888poker Hand History for Game 504592536 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:28:51
+Table Yakima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $3.19 )
+Seat 6: delipins ( $1 )
+delipins posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+delipins calls [$0.01]
+Bacchant checks
+** Dealing flop ** [ 3c, 3h, 2c ]
+Bacchant checks
+delipins checks
+** Dealing turn ** [ Kc ]
+Bacchant bets [$0.02]
+delipins folds
+** Summary **
+Bacchant did not show his hand
+Bacchant collected [ $0.04 ]
+
+
+#Game No : 504592547
+***** 888poker Hand History for Game 504592547 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:29:06
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $3.21 )
+Seat 6: delipins ( $0.98 )
+Bacchant posts small blind [$0.01]
+delipins posts big blind [$0.02]
+** Dealing down cards **
+Bacchant calls [$0.01]
+delipins checks
+** Dealing flop ** [ 9d, Jc, 7c ]
+delipins checks
+Bacchant checks
+** Dealing turn ** [ Kh ]
+delipins checks
+Bacchant checks
+** Dealing river ** [ Ts ]
+delipins checks
+Bacchant checks
+** Summary **
+delipins shows [ Ac, 6s ]
+Bacchant shows [ 2c, Ah ]
+delipins collected [ $0.02 ]
+Bacchant collected [ $0.02 ]
+
+
+#Game No : 504592567
+***** 888poker Hand History for Game 504592567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:29:27
+Table Yakima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $3.21 )
+Seat 6: delipins ( $0.98 )
+delipins posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+delipins calls [$0.01]
+Bacchant checks
+** Dealing flop ** [ 6s, 7s, 3s ]
+Bacchant checks
+delipins bets [$0.08]
+Bacchant folds
+** Summary **
+delipins did not show his hand
+delipins collected [ $0.04 ]
+
+
+#Game No : 504592583
+***** 888poker Hand History for Game 504592583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:29:50
+Table Yakima 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $3.19 )
+Seat 6: delipins ( $1 )
+Bacchant posts small blind [$0.01]
+delipins posts big blind [$0.02]
+** Dealing down cards **
+Bacchant raises [$0.03]
+delipins calls [$0.02]
+** Dealing flop ** [ 3s, 3c, Kh ]
+delipins checks
+Bacchant bets [$0.04]
+delipins folds
+** Summary **
+Bacchant did not show his hand
+Bacchant collected [ $0.08 ]
+
+
+#Game No : 504592599
+***** 888poker Hand History for Game 504592599 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 15:30:06
+Table Yakima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Bacchant ( $3.23 )
+Seat 6: delipins ( $0.96 )
+delipins posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+delipins calls [$0.01]
+Bacchant checks
+** Dealing flop ** [ Kd, Td, Ac ]
+Bacchant checks
+delipins bets [$0.02]
+Bacchant calls [$0.02]
+** Dealing turn ** [ Qh ]
+Bacchant checks
+delipins bets [$0.02]
+Bacchant raises [$0.12]
+delipins calls [$0.10]
+** Dealing river ** [ Ad ]
+Bacchant bets [$0.06]
+delipins folds
+** Summary **
+Bacchant collected [ $0.30 ]
+
+
+#Game No : 504596154
+***** 888poker Hand History for Game 504596154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:57:39
+Table Yakima 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sm21byvoovik ( $2.39 )
+Seat 9: SKRABL18 ( $2.52 )
+sm21byvoovik posts small blind [$0.01]
+SKRABL18 posts big blind [$0.02]
+** Dealing down cards **
+sm21byvoovik raises [$0.05]
+SKRABL18 folds
+** Summary **
+sm21byvoovik collected [ $0.04 ]
+
+
+#Game No : 504596163
+***** 888poker Hand History for Game 504596163 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 16:57:52
+Table Yakima 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: sm21byvoovik ( $2.41 )
+Seat 9: SKRABL18 ( $2.50 )
+SKRABL18 posts small blind [$0.01]
+sm21byvoovik posts big blind [$0.02]
+** Dealing down cards **
+SKRABL18 raises [$0.03]
+sm21byvoovik folds
+** Summary **
+SKRABL18 collected [ $0.04 ]
+
+

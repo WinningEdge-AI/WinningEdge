@@ -1,0 +1,54 @@
+#Game No : 524429744
+***** 888poker Hand History for Game 524429744 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 02 2019 13:00:28
+Table Barletta 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Fireshow1 ( $2.06 )
+Seat 5: Seolena ( $2.41 )
+Fireshow1 posts small blind [$0.01]
+Seolena posts big blind [$0.02]
+** Dealing down cards **
+Fireshow1 raises [$0.05]
+Seolena calls [$0.04]
+** Dealing flop ** [ 3d, Js, Qh ]
+Seolena checks
+Fireshow1 bets [$0.12]
+Seolena calls [$0.12]
+** Dealing turn ** [ 9d ]
+Seolena checks
+Fireshow1 bets [$0.24]
+Seolena folds
+** Summary **
+Fireshow1 collected [ $0.34 ]
+
+
+#Game No : 524429792
+***** 888poker Hand History for Game 524429792 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 02 2019 13:00:54
+Table Barletta 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Fireshow1 ( $2.22 )
+Seat 5: Seolena ( $2.23 )
+Seolena posts small blind [$0.01]
+Fireshow1 posts big blind [$0.02]
+** Dealing down cards **
+Seolena raises [$0.05]
+Fireshow1 calls [$0.04]
+** Dealing flop ** [ As, Qd, 4d ]
+Fireshow1 checks
+Seolena checks
+** Dealing turn ** [ 6d ]
+Fireshow1 bets [$0.08]
+Seolena raises [$0.22]
+Fireshow1 calls [$0.14]
+** Dealing river ** [ 6c ]
+Fireshow1 checks
+Seolena bets [$0.28]
+Fireshow1 folds
+** Summary **
+Seolena did not show his hand
+Seolena collected [ $0.53 ]
+
+

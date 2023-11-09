@@ -1,0 +1,68 @@
+#Game No : 508437839
+***** 888poker Hand History for Game 508437839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2018 17:19:48
+Table Coimbra 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: faderfan13 ( $0.59 )
+Seat 3: Jorkata30 ( $2.02 )
+faderfan13 posts small blind [$0.01]
+Jorkata30 posts big blind [$0.02]
+** Dealing down cards **
+faderfan13 calls [$0.01]
+Jorkata30 raises [$1.86]
+faderfan13 folds
+** Summary **
+Jorkata30 collected [ $0.04 ]
+
+
+#Game No : 508437845
+***** 888poker Hand History for Game 508437845 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2018 17:20:01
+Table Coimbra 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: faderfan13 ( $0.57 )
+Seat 3: Jorkata30 ( $2.04 )
+Jorkata30 posts small blind [$0.01]
+faderfan13 posts big blind [$0.02]
+** Dealing down cards **
+Jorkata30 calls [$0.01]
+faderfan13 checks
+** Dealing flop ** [ 9d, 4s, 3c ]
+faderfan13 checks
+Jorkata30 bets [$0.02]
+faderfan13 folds
+** Summary **
+Jorkata30 collected [ $0.04 ]
+
+
+#Game No : 508437850
+***** 888poker Hand History for Game 508437850 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 10 2018 17:20:18
+Table Coimbra 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: faderfan13 ( $0.55 )
+Seat 3: Jorkata30 ( $2.06 )
+faderfan13 posts small blind [$0.01]
+Jorkata30 posts big blind [$0.02]
+** Dealing down cards **
+faderfan13 calls [$0.01]
+Jorkata30 checks
+** Dealing flop ** [ 2s, 8s, 3s ]
+Jorkata30 checks
+faderfan13 checks
+** Dealing turn ** [ 7c ]
+Jorkata30 checks
+faderfan13 checks
+** Dealing river ** [ 5h ]
+Jorkata30 bets [$0.02]
+faderfan13 raises [$0.04]
+Jorkata30 calls [$0.02]
+** Summary **
+faderfan13 shows [ Ks, Qs ]
+Jorkata30 mucks [ 5c, Js ]
+faderfan13 collected [ $0.12 ]
+
+

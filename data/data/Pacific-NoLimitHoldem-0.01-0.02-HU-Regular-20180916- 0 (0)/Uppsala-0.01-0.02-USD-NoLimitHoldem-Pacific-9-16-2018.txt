@@ -1,0 +1,537 @@
+#Game No : 502400052
+***** 888poker Hand History for Game 502400052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:55:31
+Table Uppsala 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: zapper4949 ( $1.25 )
+Seat 9: WizDreI3 ( $1 )
+WizDreI3 posts small blind [$0.01]
+zapper4949 posts big blind [$0.02]
+** Dealing down cards **
+WizDreI3 raises [$0.05]
+zapper4949 calls [$0.04]
+** Dealing flop ** [ Kc, 6s, 9c ]
+zapper4949 checks
+WizDreI3 bets [$0.08]
+zapper4949 folds
+** Summary **
+WizDreI3 collected [ $0.12 ]
+
+
+#Game No : 502400074
+***** 888poker Hand History for Game 502400074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:56:33
+Table Uppsala 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: contrik1974 ( $0.80 )
+Seat 9: WizDreI3 ( $1.06 )
+contrik1974 posts small blind [$0.01]
+WizDreI3 posts big blind [$0.02]
+** Dealing down cards **
+contrik1974 calls [$0.01]
+WizDreI3 checks
+** Dealing flop ** [ 9h, 6d, 3d ]
+WizDreI3 checks
+contrik1974 checks
+** Dealing turn ** [ Td ]
+WizDreI3 checks
+contrik1974 bets [$0.04]
+WizDreI3 calls [$0.04]
+** Dealing river ** [ 2c ]
+WizDreI3 checks
+contrik1974 bets [$0.12]
+WizDreI3 folds
+** Summary **
+contrik1974 collected [ $0.12 ]
+
+
+#Game No : 502400106
+***** 888poker Hand History for Game 502400106 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:58:10
+Table Uppsala 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: contrik1974 ( $0.85 )
+Seat 9: WizDreI3 ( $1.01 )
+contrik1974 posts small blind [$0.01]
+WizDreI3 posts big blind [$0.02]
+** Dealing down cards **
+contrik1974 calls [$0.01]
+WizDreI3 checks
+** Dealing flop ** [ 8s, 4c, Ac ]
+WizDreI3 checks
+contrik1974 checks
+** Dealing turn ** [ 9s ]
+WizDreI3 checks
+contrik1974 checks
+** Dealing river ** [ 3c ]
+WizDreI3 checks
+contrik1974 checks
+** Summary **
+WizDreI3 shows [ Jd, 8d ]
+contrik1974 mucks [ Qh, 7h ]
+WizDreI3 collected [ $0.04 ]
+
+
+#Game No : 502400463
+***** 888poker Hand History for Game 502400463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 19:15:26
+Table Uppsala 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: nick7917 ( $1.48 )
+Seat 9: WizDreI3 ( $1 )
+nick7917 posts small blind [$0.01]
+WizDreI3 posts big blind [$0.02]
+** Dealing down cards **
+nick7917 folds
+** Summary **
+WizDreI3 collected [ $0.03 ]
+
+
+#Game No : 502400465
+***** 888poker Hand History for Game 502400465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 19:15:36
+Table Uppsala 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: nick7917 ( $1.47 )
+Seat 9: WizDreI3 ( $1.01 )
+WizDreI3 posts small blind [$0.01]
+** Dealing down cards **
+nick7917 folds
+** Summary **
+WizDreI3 did not show his hand
+WizDreI3 collected [ $0.01 ]
+
+
+#Game No : 502412174
+***** 888poker Hand History for Game 502412174 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 04:15:01
+Table Uppsala 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Vaiysahi ( $0.80 )
+Seat 9: DezKD ( $2.32 )
+DezKD posts small blind [$0.01]
+Vaiysahi posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+Vaiysahi calls [$0.02]
+** Dealing flop ** [ 8c, Kh, 7d ]
+Vaiysahi checks
+DezKD bets [$0.04]
+Vaiysahi calls [$0.04]
+** Dealing turn ** [ Ah ]
+Vaiysahi checks
+DezKD checks
+** Dealing river ** [ 9c ]
+Vaiysahi checks
+DezKD checks
+** Summary **
+Vaiysahi shows [ Ad, 4c ]
+DezKD mucks [ Ts, Th ]
+Vaiysahi collected [ $0.15 ]
+
+
+#Game No : 502412203
+***** 888poker Hand History for Game 502412203 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 04:15:53
+Table Uppsala 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Vaiysahi ( $0.87 )
+Seat 9: DezKD ( $2.24 )
+Vaiysahi posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+Vaiysahi calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 4c, 8d, 2c ]
+DezKD checks
+Vaiysahi bets [$0.04]
+DezKD folds
+** Summary **
+Vaiysahi collected [ $0.04 ]
+
+
+#Game No : 502417040
+***** 888poker Hand History for Game 502417040 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 06:18:47
+Table Uppsala 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Legenda01 ( $1.45 )
+Seat 6: onlypokerAA ( $1 )
+Legenda01 posts small blind [$0.01]
+onlypokerAA posts big blind [$0.02]
+** Dealing down cards **
+Legenda01 calls [$0.01]
+onlypokerAA checks
+** Dealing flop ** [ 6h, 5c, Tc ]
+onlypokerAA checks
+Legenda01 checks
+** Dealing turn ** [ 2c ]
+onlypokerAA bets [$0.04]
+Legenda01 calls [$0.04]
+** Dealing river ** [ Ah ]
+onlypokerAA bets [$0.06]
+Legenda01 calls [$0.06]
+** Summary **
+onlypokerAA shows [ Th, 3s ]
+Legenda01 mucks [ Ks, 2h ]
+onlypokerAA collected [ $0.23 ]
+
+
+#Game No : 502417060
+***** 888poker Hand History for Game 502417060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 06:19:18
+Table Uppsala 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Legenda01 ( $1.33 )
+Seat 6: onlypokerAA ( $1.11 )
+onlypokerAA posts small blind [$0.01]
+Legenda01 posts big blind [$0.02]
+** Dealing down cards **
+onlypokerAA raises [$0.05]
+Legenda01 folds
+** Summary **
+onlypokerAA collected [ $0.04 ]
+
+
+#Game No : 502417076
+***** 888poker Hand History for Game 502417076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 06:19:32
+Table Uppsala 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Legenda01 ( $1.31 )
+Seat 6: onlypokerAA ( $1.13 )
+Legenda01 posts small blind [$0.01]
+onlypokerAA posts big blind [$0.02]
+** Dealing down cards **
+Legenda01 calls [$0.01]
+onlypokerAA checks
+** Dealing flop ** [ 8d, Th, 5c ]
+onlypokerAA bets [$0.04]
+Legenda01 folds
+** Summary **
+onlypokerAA collected [ $0.04 ]
+
+
+#Game No : 502417103
+***** 888poker Hand History for Game 502417103 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 06:20:00
+Table Uppsala 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Legenda01 ( $1.29 )
+Seat 6: onlypokerAA ( $1.15 )
+onlypokerAA posts small blind [$0.01]
+Legenda01 posts big blind [$0.02]
+** Dealing down cards **
+onlypokerAA raises [$0.05]
+Legenda01 calls [$0.04]
+** Dealing flop ** [ Ts, 9h, Jc ]
+Legenda01 bets [$0.08]
+onlypokerAA folds
+** Summary **
+Legenda01 collected [ $0.12 ]
+
+
+#Game No : 502419235
+***** 888poker Hand History for Game 502419235 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 07:10:38
+Table Uppsala 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bayboy885 ( $2.45 )
+Seat 9: bud2011 ( $0.86 )
+bayboy885 posts small blind [$0.01]
+bud2011 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 raises [$0.03]
+bud2011 calls [$0.02]
+** Dealing flop ** [ Ad, 6s, Qc ]
+bud2011 bets [$0.08]
+bayboy885 folds
+** Summary **
+bud2011 collected [ $0.08 ]
+
+
+#Game No : 502419247
+***** 888poker Hand History for Game 502419247 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 07:10:54
+Table Uppsala 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: bayboy885 ( $2.41 )
+Seat 9: bud2011 ( $0.90 )
+bud2011 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+bud2011 raises [$0.03]
+bayboy885 folds
+** Summary **
+bud2011 collected [ $0.04 ]
+
+
+#Game No : 502419457
+***** 888poker Hand History for Game 502419457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 07:15:33
+Table Uppsala 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Barny203 ( $0.91 )
+Seat 6: bayboy885 ( $1.81 )
+Barny203 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Barny203 folds
+** Summary **
+bayboy885 collected [ $0.03 ]
+
+
+#Game No : 502419467
+***** 888poker Hand History for Game 502419467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 07:15:45
+Table Uppsala 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Barny203 ( $0.90 )
+Seat 6: bayboy885 ( $1.82 )
+bayboy885 posts small blind [$0.01]
+Barny203 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 calls [$0.01]
+Barny203 checks
+** Dealing flop ** [ 5c, 7d, 2c ]
+Barny203 checks
+bayboy885 checks
+** Dealing turn ** [ 9s ]
+Barny203 checks
+bayboy885 checks
+** Dealing river ** [ As ]
+Barny203 checks
+bayboy885 checks
+** Summary **
+Barny203 shows [ 6s, Ts ]
+bayboy885 shows [ 5s, Ks ]
+bayboy885 collected [ $0.04 ]
+
+
+#Game No : 502419500
+***** 888poker Hand History for Game 502419500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 07:16:32
+Table Uppsala 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Barny203 ( $0.88 )
+Seat 6: bayboy885 ( $1.84 )
+Barny203 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Barny203 folds
+** Summary **
+bayboy885 collected [ $0.03 ]
+
+
+#Game No : 502419527
+***** 888poker Hand History for Game 502419527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 07:17:19
+Table Uppsala 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: bayboy885 ( $1.85 )
+Seat 7: neznayka2k ( $1.45 )
+bayboy885 posts small blind [$0.01]
+neznayka2k posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 folds
+** Summary **
+neznayka2k collected [ $0.03 ]
+
+
+#Game No : 502419535
+***** 888poker Hand History for Game 502419535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 07:17:26
+Table Uppsala 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: bayboy885 ( $1.84 )
+Seat 7: neznayka2k ( $1.46 )
+neznayka2k posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+neznayka2k folds
+** Summary **
+bayboy885 collected [ $0.03 ]
+
+
+#Game No : 502431651
+***** 888poker Hand History for Game 502431651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 11:02:40
+Table Uppsala 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Crimes_Of ( $1.28 )
+Seat 7: svetliy33 ( $0.76 )
+Crimes_Of posts small blind [$0.01]
+svetliy33 posts big blind [$0.02]
+** Dealing down cards **
+Crimes_Of folds
+** Summary **
+svetliy33 collected [ $0.03 ]
+
+
+#Game No : 502431655
+***** 888poker Hand History for Game 502431655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 11:02:45
+Table Uppsala 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Crimes_Of ( $1.27 )
+Seat 7: svetliy33 ( $0.77 )
+svetliy33 posts small blind [$0.01]
+** Dealing down cards **
+Crimes_Of folds
+** Summary **
+svetliy33 collected [ $0.01 ]
+
+
+#Game No : 502434168
+***** 888poker Hand History for Game 502434168 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 11:45:17
+Table Uppsala 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Billy4murph2 ( $1.89 )
+Seat 6: Redeagerng ( $0.99 )
+Redeagerng posts small blind [$0.01]
+Billy4murph2 posts big blind [$0.02]
+** Dealing down cards **
+Redeagerng calls [$0.01]
+Billy4murph2 raises [$0.04]
+Redeagerng calls [$0.04]
+** Dealing flop ** [ 8h, Ts, Jh ]
+Billy4murph2 bets [$1.83]
+Redeagerng calls [$0.93]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ 7s ]
+** Summary **
+Billy4murph2 shows [ Qd, Qh ]
+Redeagerng shows [ 9h, Qs ]
+Redeagerng collected [ $1.86 ]
+
+
+#Game No : 502439872
+***** 888poker Hand History for Game 502439872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 13:13:17
+Table Uppsala 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Viktor777700 ( $2.32 )
+Seat 4: bayboy885 ( $0.86 )
+bayboy885 posts small blind [$0.01]
+Viktor777700 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 folds
+** Summary **
+Viktor777700 collected [ $0.03 ]
+
+
+#Game No : 502439998
+***** 888poker Hand History for Game 502439998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 13:15:07
+Table Uppsala 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 777luckyfish ( $0.80 )
+Seat 4: 66gamer66 ( $1 )
+777luckyfish posts small blind [$0.01]
+66gamer66 posts big blind [$0.02]
+** Dealing down cards **
+777luckyfish calls [$0.01]
+66gamer66 checks
+** Dealing flop ** [ Ac, 3h, Qh ]
+66gamer66 checks
+777luckyfish bets [$0.04]
+66gamer66 calls [$0.04]
+** Dealing turn ** [ Qs ]
+66gamer66 checks
+777luckyfish bets [$0.08]
+66gamer66 calls [$0.08]
+** Dealing river ** [ Td ]
+66gamer66 checks
+777luckyfish bets [$0.18]
+66gamer66 folds
+** Summary **
+777luckyfish collected [ $0.27 ]
+
+
+#Game No : 502440032
+***** 888poker Hand History for Game 502440032 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 13:15:46
+Table Uppsala 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: 777luckyfish ( $0.93 )
+Seat 4: 66gamer66 ( $1 )
+66gamer66 posts small blind [$0.01]
+777luckyfish posts big blind [$0.02]
+** Dealing down cards **
+66gamer66 raises [$0.05]
+777luckyfish folds
+** Summary **
+66gamer66 collected [ $0.04 ]
+
+
+#Game No : 502443124
+***** 888poker Hand History for Game 502443124 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 14:07:33
+Table Uppsala 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: 11ARTNICK11 ( $1.43 )
+Seat 4: MLPzER ( $2.63 )
+MLPzER posts small blind [$0.01]
+11ARTNICK11 posts big blind [$0.02]
+** Dealing down cards **
+MLPzER calls [$0.01]
+11ARTNICK11 checks
+** Dealing flop ** [ Js, 6h, 5s ]
+11ARTNICK11 checks
+MLPzER bets [$0.04]
+11ARTNICK11 calls [$0.04]
+** Dealing turn ** [ Jd ]
+11ARTNICK11 checks
+MLPzER checks
+** Dealing river ** [ Td ]
+11ARTNICK11 checks
+MLPzER checks
+** Summary **
+11ARTNICK11 shows [ Qd, 5h ]
+MLPzER shows [ Qs, Ts ]
+MLPzER collected [ $0.12 ]
+
+
+#Game No : 502443156
+***** 888poker Hand History for Game 502443156 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 14:07:58
+Table Uppsala 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 11ARTNICK11 ( $1.37 )
+Seat 4: MLPzER ( $2.69 )
+11ARTNICK11 posts small blind [$0.01]
+MLPzER posts big blind [$0.02]
+** Dealing down cards **
+11ARTNICK11 raises [$0.07]
+MLPzER folds
+** Summary **
+11ARTNICK11 collected [ $0.04 ]
+
+

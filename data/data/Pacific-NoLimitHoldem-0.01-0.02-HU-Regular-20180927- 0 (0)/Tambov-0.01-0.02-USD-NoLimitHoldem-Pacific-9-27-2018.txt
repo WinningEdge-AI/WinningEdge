@@ -1,0 +1,221 @@
+#Game No : 502986185
+***** 888poker Hand History for Game 502986185 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 05:36:11
+Table Tambov 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VENAVER ( $0.80 )
+Seat 9: Colongrande ( $1.75 )
+VENAVER posts small blind [$0.01]
+Colongrande posts big blind [$0.02]
+** Dealing down cards **
+VENAVER raises [$0.05]
+Colongrande calls [$0.04]
+** Dealing flop ** [ Ac, 3s, 7c ]
+Colongrande bets [$0.08]
+VENAVER calls [$0.08]
+** Dealing turn ** [ Kc ]
+Colongrande bets [$0.18]
+VENAVER calls [$0.18]
+** Dealing river ** [ Ad ]
+Colongrande bets [$0.44]
+VENAVER folds
+** Summary **
+Colongrande collected [ $0.60 ]
+
+
+#Game No : 502986323
+***** 888poker Hand History for Game 502986323 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 05:39:53
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: dr.House_ ( $1 )
+Seat 9: Colongrande ( $1.85 )
+Colongrande posts small blind [$0.01]
+dr.House_ posts big blind [$0.02]
+** Dealing down cards **
+Colongrande raises [$0.03]
+dr.House_ folds
+** Summary **
+Colongrande collected [ $0.04 ]
+
+
+#Game No : 502988405
+***** 888poker Hand History for Game 502988405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 06:32:18
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Et_Arrows ( $1.17 )
+Seat 9: rookieerror1 ( $1.92 )
+rookieerror1 posts small blind [$0.01]
+** Dealing down cards **
+Et_Arrows folds
+** Summary **
+rookieerror1 collected [ $0.01 ]
+
+
+#Game No : 502988408
+***** 888poker Hand History for Game 502988408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 06:32:22
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Et_Arrows ( $1.17 )
+Seat 9: rookieerror1 ( $1.92 )
+rookieerror1 posts small blind [$0.01]
+Et_Arrows posts big blind [$0.02]
+** Dealing down cards **
+rookieerror1 raises [$0.05]
+Et_Arrows folds
+** Summary **
+rookieerror1 collected [ $0.04 ]
+
+
+#Game No : 502989092
+***** 888poker Hand History for Game 502989092 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 06:51:16
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: CHRISO1503 ( $1 )
+Seat 9: rookieerror1 ( $1.16 )
+rookieerror1 posts small blind [$0.01]
+CHRISO1503 posts big blind [$0.02]
+** Dealing down cards **
+rookieerror1 raises [$0.05]
+CHRISO1503 folds
+** Summary **
+rookieerror1 did not show his hand
+rookieerror1 collected [ $0.04 ]
+
+
+#Game No : 502989099
+***** 888poker Hand History for Game 502989099 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 06:51:28
+Table Tambov 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: CHRISO1503 ( $0.98 )
+Seat 9: rookieerror1 ( $1.18 )
+CHRISO1503 posts small blind [$0.01]
+rookieerror1 posts big blind [$0.02]
+** Dealing down cards **
+CHRISO1503 raises [$0.05]
+rookieerror1 calls [$0.04]
+** Dealing flop ** [ Tc, Td, 3d ]
+rookieerror1 checks
+CHRISO1503 bets [$0.06]
+rookieerror1 folds
+** Summary **
+CHRISO1503 collected [ $0.12 ]
+
+
+#Game No : 502989118
+***** 888poker Hand History for Game 502989118 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 06:51:53
+Table Tambov 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: CHRISO1503 ( $1.04 )
+Seat 9: rookieerror1 ( $1.12 )
+rookieerror1 posts small blind [$0.01]
+CHRISO1503 posts big blind [$0.02]
+** Dealing down cards **
+rookieerror1 folds
+** Summary **
+CHRISO1503 collected [ $0.03 ]
+
+
+#Game No : 502993724
+***** 888poker Hand History for Game 502993724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 08:56:23
+Table Tambov 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Doofus75 ( $1 )
+Seat 2: GladioSPQR ( $1 )
+Doofus75 posts small blind [$0.01]
+GladioSPQR posts big blind [$0.02]
+** Dealing down cards **
+Doofus75 calls [$0.01]
+GladioSPQR checks
+** Dealing flop ** [ Jc, Qc, 5d ]
+GladioSPQR checks
+Doofus75 checks
+** Dealing turn ** [ 9d ]
+GladioSPQR checks
+Doofus75 checks
+** Dealing river ** [ Kc ]
+GladioSPQR checks
+Doofus75 checks
+** Summary **
+GladioSPQR shows [ 7d, 8h ]
+Doofus75 shows [ 3d, 8d ]
+Doofus75 collected [ $0.02 ]
+GladioSPQR collected [ $0.02 ]
+
+
+#Game No : 502993776
+***** 888poker Hand History for Game 502993776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 08:57:11
+Table Tambov 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Doofus75 ( $1 )
+Seat 2: GladioSPQR ( $1 )
+GladioSPQR posts small blind [$0.01]
+Doofus75 posts big blind [$0.02]
+** Dealing down cards **
+GladioSPQR calls [$0.01]
+Doofus75 raises [$0.04]
+GladioSPQR folds
+** Summary **
+Doofus75 collected [ $0.04 ]
+
+
+#Game No : 502996939
+***** 888poker Hand History for Game 502996939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 10:15:19
+Table Tambov 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Skyluck11 ( $1.35 )
+Seat 2: arvo13 ( $2.12 )
+Skyluck11 posts small blind [$0.01]
+arvo13 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+arvo13 collected [ $0.03 ]
+
+
+#Game No : 503001256
+***** 888poker Hand History for Game 503001256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 11:31:27
+Table Tambov 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Hombr ( $1.21 )
+Seat 7: Lisshura ( $2.43 )
+Hombr posts small blind [$0.01]
+Lisshura posts big blind [$0.02]
+** Dealing down cards **
+Hombr calls [$0.01]
+Lisshura checks
+** Dealing flop ** [ Th, 9s, 2s ]
+Lisshura bets [$0.02]
+Hombr raises [$0.04]
+Lisshura calls [$0.02]
+** Dealing turn ** [ Kd ]
+Lisshura checks
+Hombr checks
+** Dealing river ** [ 9d ]
+Lisshura checks
+Hombr bets [$0.06]
+Lisshura folds
+** Summary **
+Hombr collected [ $0.12 ]
+
+

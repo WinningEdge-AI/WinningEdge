@@ -1,0 +1,67 @@
+#Game No : 621490918
+***** 888poker Hand History for Game 621490918 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 17:15:05
+Table Kunsan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MihRen ( $2.37 )
+Seat 2: FARTECKIY ( $2.12 )
+MihRen posts small blind [$0.01]
+FARTECKIY posts big blind [$0.02]
+** Dealing down cards **
+MihRen folds
+** Summary **
+FARTECKIY did not show his hand
+FARTECKIY collected [ $0.03 ]
+
+
+#Game No : 621490920
+***** 888poker Hand History for Game 621490920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 17:15:13
+Table Kunsan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: MihRen ( $2.36 )
+Seat 2: FARTECKIY ( $2.13 )
+FARTECKIY posts small blind [$0.01]
+MihRen posts big blind [$0.02]
+** Dealing down cards **
+FARTECKIY raises [$0.04]
+MihRen calls [$0.03]
+** Dealing flop ** [ Jh, Jc, Ah ]
+MihRen checks
+FARTECKIY checks
+** Dealing turn ** [ Kh ]
+MihRen checks
+FARTECKIY checks
+** Dealing river ** [ Kd ]
+MihRen bets [$0.10]
+FARTECKIY calls [$0.10]
+** Summary **
+MihRen shows [ Ks, 7s ]
+FARTECKIY mucks [ Ac, 3d ]
+MihRen collected [ $0.29 ]
+
+
+#Game No : 621490936
+***** 888poker Hand History for Game 621490936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2019 17:15:55
+Table Kunsan 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MihRen ( $2.50 )
+Seat 2: FARTECKIY ( $2 )
+MihRen posts small blind [$0.01]
+FARTECKIY posts big blind [$0.02]
+** Dealing down cards **
+MihRen raises [$0.05]
+FARTECKIY calls [$0.04]
+** Dealing flop ** [ Kc, 5s, 8s ]
+FARTECKIY checks
+MihRen bets [$0.06]
+FARTECKIY folds
+** Summary **
+MihRen did not show his hand
+MihRen collected [ $0.12 ]
+
+

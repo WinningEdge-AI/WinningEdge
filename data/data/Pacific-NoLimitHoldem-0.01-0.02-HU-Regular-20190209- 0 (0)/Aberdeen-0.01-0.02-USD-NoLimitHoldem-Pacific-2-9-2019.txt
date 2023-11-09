@@ -1,0 +1,69 @@
+#Game No : 523766735
+***** 888poker Hand History for Game 523766735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 02 2019 21:38:28
+Table Aberdeen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vadimstime ( $1.01 )
+Seat 2: Stormwallare ( $1 )
+vadimstime posts small blind [$0.01]
+Stormwallare posts big blind [$0.02]
+** Dealing down cards **
+vadimstime raises [$0.05]
+Stormwallare raises [$0.08]
+vadimstime calls [$0.04]
+** Dealing flop ** [ 2s, 5d, 3s ]
+Stormwallare bets [$0.10]
+vadimstime calls [$0.10]
+** Dealing turn ** [ 4c ]
+Stormwallare bets [$0.20]
+vadimstime raises [$0.56]
+Stormwallare calls [$0.36]
+** Dealing river ** [ 9s ]
+Stormwallare bets [$0.24]
+vadimstime calls [$0.24]
+** Summary **
+vadimstime shows [ Jd, Ac ]
+Stormwallare shows [ Ah, Kh ]
+Stormwallare collected [ $0.94 ]
+vadimstime collected [ $0.94 ]
+
+
+#Game No : 523766768
+***** 888poker Hand History for Game 523766768 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 02 2019 21:39:08
+Table Aberdeen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: vadimstime ( $1 )
+Seat 2: Stormwallare ( $0.94 )
+Stormwallare posts small blind [$0.01]
+vadimstime posts big blind [$0.02]
+** Dealing down cards **
+Stormwallare calls [$0.01]
+vadimstime checks
+** Dealing flop ** [ Ks, 7d, Tc ]
+vadimstime checks
+Stormwallare bets [$0.04]
+vadimstime folds
+** Summary **
+Stormwallare collected [ $0.04 ]
+
+
+#Game No : 523819617
+***** 888poker Hand History for Game 523819617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 11:15:19
+Table Aberdeen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: WJI9XTU4 ( $1 )
+Seat 7: GARALD84 ( $10.21 )
+WJI9XTU4 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+WJI9XTU4 folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.03 ]
+
+

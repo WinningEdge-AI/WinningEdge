@@ -1,0 +1,74 @@
+#Game No : 614921824
+***** 888poker Hand History for Game 614921824 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 13:03:36
+Table Jericho 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SleepySue ( $0.14 )
+Seat 6: Agarroz ( $1.16 )
+SleepySue posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+SleepySue calls [$0.01]
+Agarroz checks
+** Dealing flop ** [ Jh, 2h, Ad ]
+Agarroz bets [$0.06]
+SleepySue raises [$0.12]
+Agarroz calls [$0.06]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ 7d ]
+** Summary **
+SleepySue shows [ Kh, 8h ]
+Agarroz shows [ 6d, Jd ]
+SleepySue collected [ $0.27 ]
+
+
+#Game No : 614921864
+***** 888poker Hand History for Game 614921864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 13:04:14
+Table Jericho 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: SleepySue ( $0.27 )
+Seat 6: Agarroz ( $1.02 )
+Agarroz posts small blind [$0.01]
+SleepySue posts big blind [$0.02]
+** Dealing down cards **
+Agarroz calls [$0.01]
+SleepySue checks
+** Dealing flop ** [ Ts, 7h, 3h ]
+SleepySue checks
+Agarroz bets [$0.04]
+SleepySue folds
+** Summary **
+Agarroz collected [ $0.04 ]
+
+
+#Game No : 614921894
+***** 888poker Hand History for Game 614921894 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 13:04:42
+Table Jericho 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SleepySue ( $0.25 )
+Seat 6: Agarroz ( $1.04 )
+SleepySue posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+SleepySue calls [$0.01]
+Agarroz checks
+** Dealing flop ** [ 7d, 8s, 4h ]
+Agarroz checks
+SleepySue checks
+** Dealing turn ** [ Jc ]
+Agarroz checks
+SleepySue checks
+** Dealing river ** [ 4c ]
+Agarroz checks
+SleepySue checks
+** Summary **
+Agarroz shows [ Qs, 6s ]
+SleepySue mucks [ 5h, 9d ]
+Agarroz collected [ $0.04 ]
+
+

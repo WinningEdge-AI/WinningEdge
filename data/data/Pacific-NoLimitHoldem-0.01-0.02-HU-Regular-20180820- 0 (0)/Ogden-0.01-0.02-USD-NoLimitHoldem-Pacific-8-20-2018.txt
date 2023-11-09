@@ -1,0 +1,452 @@
+#Game No : 501144379
+***** 888poker Hand History for Game 501144379 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 04:50:09
+Table Ogden 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Davlecles ( $2.16 )
+Seat 9: bobrik74 ( $0.82 )
+bobrik74 posts small blind [$0.01]
+Davlecles posts big blind [$0.02]
+** Dealing down cards **
+bobrik74 raises [$0.03]
+Davlecles calls [$0.02]
+** Dealing flop ** [ 5d, 4s, 8d ]
+Davlecles bets [$0.02]
+bobrik74 raises [$0.06]
+Davlecles raises [$0.08]
+bobrik74 calls [$0.04]
+** Dealing turn ** [ 3s ]
+Davlecles bets [$0.02]
+bobrik74 calls [$0.02]
+** Dealing river ** [ 9c ]
+Davlecles bets [$0.21]
+bobrik74 folds
+** Summary **
+Davlecles collected [ $0.30 ]
+
+
+#Game No : 501144401
+***** 888poker Hand History for Game 501144401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 04:50:40
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Davlecles ( $2.30 )
+Seat 9: bobrik74 ( $0.66 )
+Davlecles posts small blind [$0.01]
+bobrik74 posts big blind [$0.02]
+** Dealing down cards **
+Davlecles raises [$0.03]
+bobrik74 calls [$0.02]
+** Dealing flop ** [ 7d, Td, 2c ]
+bobrik74 checks
+Davlecles checks
+** Dealing turn ** [ Qs ]
+bobrik74 checks
+Davlecles bets [$0.05]
+bobrik74 folds
+** Summary **
+Davlecles collected [ $0.08 ]
+
+
+#Game No : 501144416
+***** 888poker Hand History for Game 501144416 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 04:51:10
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Cloud371 ( $0.63 )
+Seat 6: Davlecles ( $2.34 )
+Davlecles posts small blind [$0.01]
+Cloud371 posts big blind [$0.02]
+** Dealing down cards **
+Davlecles calls [$0.01]
+Cloud371 raises [$0.10]
+Davlecles folds
+** Summary **
+Cloud371 did not show his hand
+Cloud371 collected [ $0.04 ]
+
+
+#Game No : 501144422
+***** 888poker Hand History for Game 501144422 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 04:51:21
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cloud371 ( $0.65 )
+Seat 6: Davlecles ( $2.32 )
+Cloud371 posts small blind [$0.01]
+Davlecles posts big blind [$0.02]
+** Dealing down cards **
+Cloud371 calls [$0.01]
+Davlecles checks
+** Dealing flop ** [ Th, 2c, Qc ]
+Davlecles bets [$0.04]
+Cloud371 calls [$0.04]
+** Dealing turn ** [ 7s ]
+Davlecles bets [$0.02]
+Cloud371 calls [$0.02]
+** Dealing river ** [ Kd ]
+Davlecles checks
+Cloud371 checks
+** Summary **
+Davlecles shows [ Qh, 3h ]
+Cloud371 mucks [ 7h, Ac ]
+Davlecles collected [ $0.15 ]
+
+
+#Game No : 501144435
+***** 888poker Hand History for Game 501144435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 04:51:46
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Cloud371 ( $0.57 )
+Seat 6: Davlecles ( $2.39 )
+Davlecles posts small blind [$0.01]
+Cloud371 posts big blind [$0.02]
+** Dealing down cards **
+Davlecles calls [$0.01]
+Cloud371 checks
+** Dealing flop ** [ 6h, 6s, Jh ]
+Cloud371 checks
+Davlecles bets [$0.02]
+Cloud371 folds
+** Summary **
+Davlecles collected [ $0.04 ]
+
+
+#Game No : 501149752
+***** 888poker Hand History for Game 501149752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 07:12:22
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StndBune ( $0.45 )
+Seat 7: gelattino67 ( $1.01 )
+StndBune posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+StndBune folds
+** Summary **
+gelattino67 collected [ $0.03 ]
+
+
+#Game No : 501149756
+***** 888poker Hand History for Game 501149756 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 07:12:29
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: StndBune ( $0.44 )
+Seat 7: gelattino67 ( $1.02 )
+gelattino67 posts small blind [$0.01]
+StndBune posts big blind [$0.02]
+** Dealing down cards **
+gelattino67 calls [$0.01]
+StndBune checks
+** Dealing flop ** [ 3d, 6c, 9h ]
+StndBune checks
+gelattino67 checks
+** Dealing turn ** [ 6s ]
+StndBune checks
+gelattino67 checks
+** Dealing river ** [ 2s ]
+StndBune checks
+gelattino67 checks
+** Summary **
+StndBune shows [ 8c, 4h ]
+gelattino67 shows [ 4c, Jc ]
+gelattino67 collected [ $0.04 ]
+
+
+#Game No : 501149780
+***** 888poker Hand History for Game 501149780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 07:12:57
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StndBune ( $0.42 )
+Seat 7: gelattino67 ( $1.04 )
+StndBune posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+StndBune folds
+** Summary **
+gelattino67 collected [ $0.03 ]
+
+
+#Game No : 501149787
+***** 888poker Hand History for Game 501149787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 07:13:03
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: StndBune ( $0.41 )
+Seat 7: gelattino67 ( $1.05 )
+gelattino67 posts small blind [$0.01]
+StndBune posts big blind [$0.02]
+** Dealing down cards **
+gelattino67 folds
+** Summary **
+StndBune collected [ $0.03 ]
+
+
+#Game No : 501149791
+***** 888poker Hand History for Game 501149791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 07:13:11
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: StndBune ( $0.42 )
+Seat 7: gelattino67 ( $1.04 )
+StndBune posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+StndBune folds
+** Summary **
+gelattino67 collected [ $0.03 ]
+
+
+#Game No : 501149817
+***** 888poker Hand History for Game 501149817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 07:13:43
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: StndBune ( $0.41 )
+Seat 7: gelattino67 ( $1.05 )
+gelattino67 posts small blind [$0.01]
+StndBune posts big blind [$0.02]
+** Dealing down cards **
+gelattino67 calls [$0.01]
+StndBune checks
+** Dealing flop ** [ 7s, 5d, 8d ]
+StndBune checks
+gelattino67 checks
+** Dealing turn ** [ 5s ]
+StndBune checks
+gelattino67 checks
+** Dealing river ** [ 7c ]
+StndBune checks
+gelattino67 checks
+** Summary **
+StndBune shows [ 9d, 3h ]
+gelattino67 shows [ 4c, Kc ]
+gelattino67 collected [ $0.04 ]
+
+
+#Game No : 501153134
+***** 888poker Hand History for Game 501153134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 08:28:20
+Table Ogden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: CHAMPIONT688 ( $1.75 )
+Seat 4: prime_stumpf ( $1 )
+prime_stumpf posts small blind [$0.01]
+CHAMPIONT688 posts big blind [$0.02]
+** Dealing down cards **
+prime_stumpf calls [$0.01]
+CHAMPIONT688 checks
+** Dealing flop ** [ 3d, 4s, 9s ]
+CHAMPIONT688 checks
+prime_stumpf bets [$0.02]
+CHAMPIONT688 raises [$1.73]
+prime_stumpf folds
+** Summary **
+CHAMPIONT688 collected [ $0.08 ]
+
+
+#Game No : 501153158
+***** 888poker Hand History for Game 501153158 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 08:28:47
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: CHAMPIONT688 ( $1.79 )
+Seat 4: prime_stumpf ( $0.96 )
+CHAMPIONT688 posts small blind [$0.01]
+prime_stumpf posts big blind [$0.02]
+** Dealing down cards **
+CHAMPIONT688 raises [$0.05]
+prime_stumpf calls [$0.04]
+** Dealing flop ** [ 3c, 4c, Qs ]
+prime_stumpf checks
+CHAMPIONT688 bets [$0.06]
+prime_stumpf folds
+** Summary **
+CHAMPIONT688 collected [ $0.12 ]
+
+
+#Game No : 501153196
+***** 888poker Hand History for Game 501153196 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 08:29:36
+Table Ogden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: CHAMPIONT688 ( $1.85 )
+Seat 4: prime_stumpf ( $0.90 )
+prime_stumpf posts small blind [$0.01]
+CHAMPIONT688 posts big blind [$0.02]
+** Dealing down cards **
+prime_stumpf calls [$0.01]
+CHAMPIONT688 raises [$0.06]
+prime_stumpf calls [$0.06]
+** Dealing flop ** [ 5s, Kc, Ts ]
+CHAMPIONT688 bets [$0.10]
+prime_stumpf calls [$0.10]
+** Dealing turn ** [ Ad ]
+CHAMPIONT688 bets [$0.18]
+prime_stumpf raises [$0.72]
+CHAMPIONT688 folds
+** Summary **
+prime_stumpf collected [ $0.68 ]
+
+
+#Game No : 501156248
+***** 888poker Hand History for Game 501156248 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 09:45:04
+Table Ogden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: letovpower ( $1.11 )
+Seat 6: prosperous65 ( $1.24 )
+letovpower posts small blind [$0.01]
+prosperous65 posts big blind [$0.02]
+** Dealing down cards **
+letovpower folds
+** Summary **
+prosperous65 collected [ $0.03 ]
+
+
+#Game No : 501156251
+***** 888poker Hand History for Game 501156251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 09:45:08
+Table Ogden 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: letovpower ( $1.10 )
+Seat 6: prosperous65 ( $1.25 )
+prosperous65 posts small blind [$0.01]
+letovpower posts big blind [$0.02]
+** Dealing down cards **
+prosperous65 folds
+** Summary **
+letovpower did not show his hand
+letovpower collected [ $0.03 ]
+
+
+#Game No : 501156255
+***** 888poker Hand History for Game 501156255 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 09:45:16
+Table Ogden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: letovpower ( $1.11 )
+Seat 6: prosperous65 ( $1.24 )
+letovpower posts small blind [$0.01]
+** Dealing down cards **
+prosperous65 folds
+** Summary **
+letovpower did not show his hand
+letovpower collected [ $0.01 ]
+
+
+#Game No : 501156263
+***** 888poker Hand History for Game 501156263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 09:45:24
+Table Ogden 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: letovpower ( $1.11 )
+Seat 7: cleopatra109 ( $1 )
+letovpower posts small blind [$0.01]
+cleopatra109 posts big blind [$0.02]
+** Dealing down cards **
+letovpower raises [$0.05]
+cleopatra109 folds
+** Summary **
+letovpower collected [ $0.04 ]
+
+
+#Game No : 501156273
+***** 888poker Hand History for Game 501156273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 09:45:36
+Table Ogden 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: letovpower ( $1.13 )
+Seat 7: cleopatra109 ( $0.98 )
+cleopatra109 posts small blind [$0.01]
+letovpower posts big blind [$0.02]
+** Dealing down cards **
+cleopatra109 folds
+** Summary **
+letovpower collected [ $0.03 ]
+
+
+#Game No : 501165654
+***** 888poker Hand History for Game 501165654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 12:46:30
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: moffe8 ( $0.80 )
+Seat 2: RatherShort ( $1.34 )
+RatherShort posts small blind [$0.01]
+moffe8 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+moffe8 did not show his hand
+moffe8 collected [ $0.03 ]
+
+
+#Game No : 501165660
+***** 888poker Hand History for Game 501165660 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 12:46:35
+Table Ogden 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: moffe8 ( $0.81 )
+Seat 2: RatherShort ( $1.33 )
+moffe8 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+moffe8 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 6c, 8h, 4s ]
+RatherShort checks
+moffe8 checks
+** Dealing turn ** [ 9c ]
+RatherShort checks
+moffe8 checks
+** Dealing river ** [ 5h ]
+RatherShort checks
+moffe8 checks
+** Summary **
+RatherShort shows [ 3s, Tc ]
+moffe8 shows [ As, Kd ]
+moffe8 collected [ $0.04 ]
+
+
+#Game No : 501165700
+***** 888poker Hand History for Game 501165700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 12:47:33
+Table Ogden 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: moffe8 ( $0.83 )
+Seat 2: RatherShort ( $1.31 )
+RatherShort posts small blind [$0.01]
+moffe8 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.05]
+moffe8 folds
+** Summary **
+RatherShort collected [ $0.04 ]
+
+

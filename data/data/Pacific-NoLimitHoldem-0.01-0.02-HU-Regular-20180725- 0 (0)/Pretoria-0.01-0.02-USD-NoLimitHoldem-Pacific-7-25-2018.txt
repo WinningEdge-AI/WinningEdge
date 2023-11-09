@@ -1,0 +1,363 @@
+#Game No : 499912610
+***** 888poker Hand History for Game 499912610 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 16:50:40
+Table Pretoria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: zabdguba ( $0.80 )
+Seat 7: propat32032 ( $0.80 )
+zabdguba posts small blind [$0.01]
+propat32032 posts big blind [$0.02]
+** Dealing down cards **
+zabdguba calls [$0.01]
+propat32032 raises [$0.04]
+zabdguba folds
+** Summary **
+propat32032 collected [ $0.04 ]
+
+
+#Game No : 499912621
+***** 888poker Hand History for Game 499912621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 16:50:58
+Table Pretoria 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: zabdguba ( $0.78 )
+Seat 7: propat32032 ( $0.82 )
+propat32032 posts small blind [$0.01]
+zabdguba posts big blind [$0.02]
+** Dealing down cards **
+propat32032 calls [$0.01]
+zabdguba raises [$0.04]
+propat32032 calls [$0.04]
+** Dealing flop ** [ 8d, 4h, 8s ]
+zabdguba bets [$0.02]
+propat32032 calls [$0.02]
+** Dealing turn ** [ 3c ]
+zabdguba bets [$0.02]
+propat32032 raises [$0.04]
+zabdguba raises [$0.04]
+propat32032 calls [$0.02]
+** Dealing river ** [ Qd ]
+zabdguba bets [$0.18]
+propat32032 folds
+** Summary **
+zabdguba collected [ $0.27 ]
+
+
+#Game No : 499912764
+***** 888poker Hand History for Game 499912764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 16:56:01
+Table Pretoria 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: eduva79 ( $0.92 )
+Seat 7: propat32032 ( $2.39 )
+propat32032 posts small blind [$0.01]
+eduva79 posts big blind [$0.02]
+** Dealing down cards **
+propat32032 calls [$0.01]
+eduva79 checks
+** Dealing flop ** [ Ks, 4h, Ts ]
+eduva79 checks
+propat32032 checks
+** Dealing turn ** [ 5d ]
+eduva79 checks
+propat32032 bets [$0.02]
+eduva79 calls [$0.02]
+** Dealing river ** [ As ]
+eduva79 checks
+propat32032 checks
+** Summary **
+eduva79 shows [ Qc, 2c ]
+propat32032 shows [ Js, 5c ]
+propat32032 collected [ $0.08 ]
+
+
+#Game No : 499912782
+***** 888poker Hand History for Game 499912782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 16:56:36
+Table Pretoria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: eduva79 ( $0.88 )
+Seat 7: propat32032 ( $2.43 )
+eduva79 posts small blind [$0.01]
+propat32032 posts big blind [$0.02]
+** Dealing down cards **
+eduva79 calls [$0.01]
+propat32032 checks
+** Dealing flop ** [ Js, Ad, 2d ]
+propat32032 checks
+eduva79 checks
+** Dealing turn ** [ Ts ]
+propat32032 checks
+eduva79 checks
+** Dealing river ** [ 3d ]
+propat32032 checks
+eduva79 bets [$0.04]
+propat32032 folds
+** Summary **
+eduva79 collected [ $0.04 ]
+
+
+#Game No : 499913173
+***** 888poker Hand History for Game 499913173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 17:07:27
+Table Pretoria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Davezy ( $1.03 )
+Seat 9: Limeoskibrow ( $1.70 )
+Davezy posts small blind [$0.01]
+Limeoskibrow posts big blind [$0.02]
+** Dealing down cards **
+Davezy calls [$0.01]
+Limeoskibrow checks
+** Dealing flop ** [ As, 8h, Qs ]
+Limeoskibrow checks
+Davezy checks
+** Dealing turn ** [ Ac ]
+Limeoskibrow checks
+Davezy bets [$0.04]
+Limeoskibrow folds
+** Summary **
+Davezy collected [ $0.04 ]
+
+
+#Game No : 499913206
+***** 888poker Hand History for Game 499913206 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 17:08:27
+Table Pretoria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Davezy ( $1.05 )
+Seat 9: Limeoskibrow ( $1.68 )
+Limeoskibrow posts small blind [$0.01]
+Davezy posts big blind [$0.02]
+** Dealing down cards **
+Limeoskibrow folds
+** Summary **
+Davezy collected [ $0.03 ]
+
+
+#Game No : 499913210
+***** 888poker Hand History for Game 499913210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 17:08:33
+Table Pretoria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Davezy ( $1.06 )
+Seat 9: Limeoskibrow ( $1.67 )
+Davezy posts small blind [$0.01]
+Limeoskibrow posts big blind [$0.02]
+** Dealing down cards **
+Davezy raises [$0.03]
+Limeoskibrow calls [$0.02]
+** Dealing flop ** [ 9c, Ac, 9s ]
+Limeoskibrow checks
+Davezy checks
+** Dealing turn ** [ 5h ]
+Limeoskibrow checks
+Davezy checks
+** Dealing river ** [ Qd ]
+Limeoskibrow checks
+Davezy bets [$0.06]
+Limeoskibrow folds
+** Summary **
+Davezy collected [ $0.08 ]
+
+
+#Game No : 499913239
+***** 888poker Hand History for Game 499913239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 17:09:43
+Table Pretoria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Davezy ( $1.10 )
+Seat 9: Limeoskibrow ( $1.63 )
+Limeoskibrow posts small blind [$0.01]
+Davezy posts big blind [$0.02]
+** Dealing down cards **
+Limeoskibrow folds
+** Summary **
+Davezy collected [ $0.03 ]
+
+
+#Game No : 499913240
+***** 888poker Hand History for Game 499913240 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 17:09:49
+Table Pretoria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Davezy ( $1.11 )
+Seat 9: Limeoskibrow ( $1.62 )
+Davezy posts small blind [$0.01]
+Limeoskibrow posts big blind [$0.02]
+** Dealing down cards **
+Davezy raises [$0.03]
+Limeoskibrow calls [$0.02]
+** Dealing flop ** [ Ah, 4d, Kh ]
+Limeoskibrow checks
+Davezy checks
+** Dealing turn ** [ Qh ]
+Limeoskibrow checks
+Davezy bets [$0.04]
+Limeoskibrow calls [$0.04]
+** Dealing river ** [ 7s ]
+Limeoskibrow checks
+Davezy bets [$0.10]
+Limeoskibrow calls [$0.10]
+** Summary **
+Davezy shows [ 7c, 4c ]
+Limeoskibrow mucks [ Qc, 6h ]
+Davezy collected [ $0.34 ]
+
+
+#Game No : 499913284
+***** 888poker Hand History for Game 499913284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 17:11:03
+Table Pretoria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Davezy ( $1.27 )
+Seat 9: Limeoskibrow ( $1.44 )
+Limeoskibrow posts small blind [$0.01]
+Davezy posts big blind [$0.02]
+** Dealing down cards **
+Limeoskibrow folds
+** Summary **
+Davezy collected [ $0.03 ]
+
+
+#Game No : 499913287
+***** 888poker Hand History for Game 499913287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 17:11:09
+Table Pretoria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Davezy ( $1.28 )
+Seat 9: Limeoskibrow ( $1.43 )
+Davezy posts small blind [$0.01]
+** Dealing down cards **
+Limeoskibrow folds
+** Summary **
+Davezy collected [ $0.01 ]
+
+
+#Game No : 499914795
+***** 888poker Hand History for Game 499914795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 18:13:02
+Table Pretoria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: hwy112 ( $1.05 )
+Seat 4: DRUS994 ( $2.66 )
+hwy112 posts small blind [$0.01]
+DRUS994 posts big blind [$0.02]
+** Dealing down cards **
+hwy112 calls [$0.01]
+DRUS994 checks
+** Dealing flop ** [ 9h, 6d, Ac ]
+DRUS994 checks
+hwy112 checks
+** Dealing turn ** [ 4s ]
+DRUS994 checks
+hwy112 bets [$0.04]
+DRUS994 folds
+** Summary **
+hwy112 did not show his hand
+hwy112 collected [ $0.04 ]
+
+
+#Game No : 499914804
+***** 888poker Hand History for Game 499914804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 18:13:26
+Table Pretoria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: hwy112 ( $1.07 )
+Seat 4: DRUS994 ( $2.64 )
+DRUS994 posts small blind [$0.01]
+hwy112 posts big blind [$0.02]
+** Dealing down cards **
+DRUS994 calls [$0.01]
+hwy112 checks
+** Dealing flop ** [ 3s, 3d, Qc ]
+hwy112 checks
+DRUS994 checks
+** Dealing turn ** [ 8h ]
+hwy112 checks
+DRUS994 checks
+** Dealing river ** [ 9c ]
+hwy112 bets [$0.02]
+DRUS994 folds
+** Summary **
+hwy112 did not show his hand
+hwy112 collected [ $0.04 ]
+
+
+#Game No : 499914816
+***** 888poker Hand History for Game 499914816 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 18:13:58
+Table Pretoria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: hwy112 ( $1.09 )
+Seat 4: DRUS994 ( $2.62 )
+hwy112 posts small blind [$0.01]
+DRUS994 posts big blind [$0.02]
+** Dealing down cards **
+hwy112 calls [$0.01]
+DRUS994 raises [$0.04]
+hwy112 folds
+** Summary **
+DRUS994 did not show his hand
+DRUS994 collected [ $0.04 ]
+
+
+#Game No : 499914823
+***** 888poker Hand History for Game 499914823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 18:14:19
+Table Pretoria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: hwy112 ( $1.07 )
+Seat 4: DRUS994 ( $2.64 )
+DRUS994 posts small blind [$0.01]
+hwy112 posts big blind [$0.02]
+** Dealing down cards **
+DRUS994 folds
+** Summary **
+hwy112 did not show his hand
+hwy112 collected [ $0.03 ]
+
+
+#Game No : 499914827
+***** 888poker Hand History for Game 499914827 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 07 2018 18:14:28
+Table Pretoria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: hwy112 ( $1.08 )
+Seat 4: DRUS994 ( $2.63 )
+hwy112 posts small blind [$0.01]
+DRUS994 posts big blind [$0.02]
+** Dealing down cards **
+hwy112 calls [$0.01]
+DRUS994 checks
+** Dealing flop ** [ Tc, Kc, 3h ]
+DRUS994 checks
+hwy112 checks
+** Dealing turn ** [ 6c ]
+DRUS994 bets [$0.02]
+hwy112 calls [$0.02]
+** Dealing river ** [ Kh ]
+DRUS994 bets [$0.02]
+hwy112 calls [$0.02]
+** Summary **
+DRUS994 shows [ 8c, Jc ]
+hwy112 mucks [ 6s, 7h ]
+DRUS994 collected [ $0.12 ]
+
+

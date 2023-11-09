@@ -1,0 +1,49 @@
+#Game No : 504238042
+***** 888poker Hand History for Game 504238042 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 10 2018 19:15:22
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: grigoriets ( $0.94 )
+Seat 6: Yassino8888 ( $0.70 )
+Yassino8888 posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+Yassino8888 calls [$0.01]
+grigoriets checks
+** Dealing flop ** [ Qs, Jc, 7h ]
+grigoriets bets [$0.04]
+Yassino8888 calls [$0.04]
+** Dealing turn ** [ 8c ]
+grigoriets bets [$0.04]
+Yassino8888 calls [$0.04]
+** Dealing river ** [ Qd ]
+grigoriets checks
+Yassino8888 checks
+** Summary **
+grigoriets shows [ 2c, Qc ]
+Yassino8888 mucks [ 8s, Ts ]
+grigoriets collected [ $0.19 ]
+
+
+#Game No : 504238059
+***** 888poker Hand History for Game 504238059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 10 2018 19:17:03
+Table Fairfield 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Yassino8888 ( $0.59 )
+Seat 7: Tinkerpell ( $0.98 )
+Tinkerpell posts small blind [$0.01]
+Yassino8888 posts big blind [$0.02]
+** Dealing down cards **
+Tinkerpell calls [$0.01]
+Yassino8888 checks
+** Dealing flop ** [ Ah, Qd, 5s ]
+Yassino8888 checks
+Tinkerpell bets [$0.02]
+Yassino8888 folds
+** Summary **
+Tinkerpell collected [ $0.04 ]
+
+

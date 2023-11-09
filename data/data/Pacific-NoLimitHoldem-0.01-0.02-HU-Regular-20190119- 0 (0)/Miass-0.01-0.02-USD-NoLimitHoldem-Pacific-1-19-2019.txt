@@ -1,0 +1,83 @@
+#Game No : 521941624
+***** 888poker Hand History for Game 521941624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 01 2019 19:38:09
+Table Miass 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Gil.Favacho ( $0.91 )
+Seat 5: xxivan66xx ( $0.68 )
+Gil.Favacho posts small blind [$0.01]
+xxivan66xx posts big blind [$0.02]
+** Dealing down cards **
+Gil.Favacho calls [$0.01]
+xxivan66xx raises [$0.04]
+Gil.Favacho calls [$0.04]
+** Dealing flop ** [ 8h, Qc, As ]
+xxivan66xx bets [$0.02]
+Gil.Favacho calls [$0.02]
+** Dealing turn ** [ 9c ]
+xxivan66xx bets [$0.04]
+Gil.Favacho calls [$0.04]
+** Dealing river ** [ Jd ]
+xxivan66xx bets [$0.04]
+Gil.Favacho raises [$0.08]
+xxivan66xx calls [$0.04]
+** Summary **
+Gil.Favacho shows [ Js, 9s ]
+xxivan66xx mucks [ 3s, Qs ]
+Gil.Favacho collected [ $0.38 ]
+
+
+#Game No : 521941743
+***** 888poker Hand History for Game 521941743 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 01 2019 19:42:02
+Table Miass 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: LH1975 ( $1.35 )
+Seat 5: xxivan66xx ( $1.10 )
+LH1975 posts small blind [$0.01]
+xxivan66xx posts big blind [$0.02]
+** Dealing down cards **
+LH1975 raises [$0.03]
+xxivan66xx calls [$0.02]
+** Dealing flop ** [ 8s, 2s, 8c ]
+xxivan66xx bets [$0.02]
+LH1975 calls [$0.02]
+** Dealing turn ** [ Qh ]
+xxivan66xx checks
+LH1975 bets [$0.04]
+xxivan66xx folds
+** Summary **
+LH1975 collected [ $0.12 ]
+
+
+#Game No : 521941759
+***** 888poker Hand History for Game 521941759 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 01 2019 19:42:28
+Table Miass 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: LH1975 ( $1.41 )
+Seat 5: xxivan66xx ( $1.04 )
+xxivan66xx posts small blind [$0.01]
+LH1975 posts big blind [$0.02]
+** Dealing down cards **
+xxivan66xx raises [$0.03]
+LH1975 calls [$0.02]
+** Dealing flop ** [ 2c, 4s, Js ]
+LH1975 bets [$0.02]
+xxivan66xx raises [$0.04]
+LH1975 calls [$0.02]
+** Dealing turn ** [ 3h ]
+LH1975 bets [$0.02]
+xxivan66xx raises [$0.04]
+LH1975 calls [$0.02]
+** Dealing river ** [ 9d ]
+LH1975 checks
+xxivan66xx bets [$0.12]
+LH1975 folds
+** Summary **
+xxivan66xx collected [ $0.23 ]
+
+

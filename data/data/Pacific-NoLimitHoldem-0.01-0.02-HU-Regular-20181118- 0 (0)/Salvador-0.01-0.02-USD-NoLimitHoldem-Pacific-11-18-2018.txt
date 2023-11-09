@@ -1,0 +1,328 @@
+#Game No : 505585334
+***** 888poker Hand History for Game 505585334 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:21:37
+Table Salvador 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: V_Helwor ( $0.82 )
+Seat 9: Xaritonn ( $3.11 )
+V_Helwor posts small blind [$0.01]
+Xaritonn posts big blind [$0.02]
+** Dealing down cards **
+V_Helwor folds
+** Summary **
+Xaritonn collected [ $0.03 ]
+
+
+#Game No : 505585341
+***** 888poker Hand History for Game 505585341 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:21:47
+Table Salvador 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: V_Helwor ( $0.81 )
+Seat 9: Xaritonn ( $3.12 )
+Xaritonn posts small blind [$0.01]
+** Dealing down cards **
+V_Helwor folds
+** Summary **
+Xaritonn collected [ $0.01 ]
+
+
+#Game No : 505585385
+***** 888poker Hand History for Game 505585385 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:22:50
+Table Salvador 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: meatyfeets ( $2.54 )
+Seat 9: Aremb ( $0.80 )
+Aremb posts small blind [$0.01]
+meatyfeets posts big blind [$0.02]
+** Dealing down cards **
+Aremb calls [$0.01]
+meatyfeets raises [$0.04]
+Aremb folds
+** Summary **
+meatyfeets did not show his hand
+meatyfeets collected [ $0.04 ]
+
+
+#Game No : 505585404
+***** 888poker Hand History for Game 505585404 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:23:14
+Table Salvador 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: meatyfeets ( $2.56 )
+Seat 9: Aremb ( $0.78 )
+meatyfeets posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+meatyfeets folds
+** Summary **
+Aremb did not show his hand
+Aremb collected [ $0.03 ]
+
+
+#Game No : 505585409
+***** 888poker Hand History for Game 505585409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:23:19
+Table Salvador 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: meatyfeets ( $2.55 )
+Seat 9: Aremb ( $0.79 )
+Aremb posts small blind [$0.01]
+meatyfeets posts big blind [$0.02]
+** Dealing down cards **
+Aremb calls [$0.01]
+meatyfeets checks
+** Dealing flop ** [ Ts, 5c, Jd ]
+meatyfeets bets [$0.04]
+Aremb calls [$0.04]
+** Dealing turn ** [ Ad ]
+meatyfeets bets [$0.12]
+Aremb calls [$0.12]
+** Dealing river ** [ Qd ]
+meatyfeets checks
+Aremb checks
+** Summary **
+meatyfeets shows [ Jc, 7c ]
+Aremb shows [ Ac, 5s ]
+Aremb collected [ $0.34 ]
+
+
+#Game No : 505585429
+***** 888poker Hand History for Game 505585429 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:23:46
+Table Salvador 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: meatyfeets ( $2.37 )
+Seat 9: Aremb ( $0.95 )
+meatyfeets posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+meatyfeets raises [$0.03]
+Aremb folds
+** Summary **
+meatyfeets did not show his hand
+meatyfeets collected [ $0.04 ]
+
+
+#Game No : 505585438
+***** 888poker Hand History for Game 505585438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:23:54
+Table Salvador 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: meatyfeets ( $2.39 )
+Seat 9: Aremb ( $0.93 )
+Aremb posts small blind [$0.01]
+meatyfeets posts big blind [$0.02]
+** Dealing down cards **
+Aremb raises [$0.03]
+meatyfeets calls [$0.02]
+** Dealing flop ** [ 9c, Kc, 8c ]
+meatyfeets bets [$0.05]
+Aremb calls [$0.05]
+** Dealing turn ** [ 7d ]
+meatyfeets bets [$0.18]
+Aremb calls [$0.18]
+** Dealing river ** [ 6c ]
+meatyfeets checks
+Aremb bets [$0.36]
+meatyfeets raises [$2.12]
+Aremb calls [$0.30]
+** Summary **
+meatyfeets shows [ Jc, 8d ]
+Aremb shows [ 5s, Ac ]
+Aremb collected [ $1.75 ]
+
+
+#Game No : 505585453
+***** 888poker Hand History for Game 505585453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:24:21
+Table Salvador 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: meatyfeets ( $1.46 )
+Seat 9: Aremb ( $1.75 )
+meatyfeets posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+meatyfeets calls [$0.01]
+Aremb checks
+** Dealing flop ** [ 2d, 2h, 8c ]
+Aremb checks
+meatyfeets checks
+** Dealing turn ** [ 4d ]
+Aremb bets [$0.02]
+meatyfeets folds
+** Summary **
+Aremb collected [ $0.04 ]
+
+
+#Game No : 505585482
+***** 888poker Hand History for Game 505585482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:25:04
+Table Salvador 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: meatyfeets ( $1.26 )
+Seat 9: Aremb ( $1.93 )
+meatyfeets posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+meatyfeets calls [$0.01]
+Aremb checks
+** Dealing flop ** [ 5c, Ad, 6d ]
+Aremb checks
+meatyfeets checks
+** Dealing turn ** [ 4d ]
+Aremb bets [$0.02]
+meatyfeets calls [$0.02]
+** Dealing river ** [ 6s ]
+Aremb bets [$0.02]
+meatyfeets folds
+** Summary **
+Aremb collected [ $0.08 ]
+
+
+#Game No : 505585819
+***** 888poker Hand History for Game 505585819 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:33:46
+Table Salvador 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Hasag1 ( $4.14 )
+Seat 7: YDASHA888 ( $2.10 )
+Hasag1 posts small blind [$0.01]
+YDASHA888 posts big blind [$0.02]
+** Dealing down cards **
+Hasag1 raises [$0.05]
+YDASHA888 folds
+** Summary **
+Hasag1 collected [ $0.04 ]
+
+
+#Game No : 505585835
+***** 888poker Hand History for Game 505585835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:34:04
+Table Salvador 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Hasag1 ( $4.16 )
+Seat 7: YDASHA888 ( $2.08 )
+YDASHA888 posts small blind [$0.01]
+Hasag1 posts big blind [$0.02]
+** Dealing down cards **
+YDASHA888 raises [$0.09]
+Hasag1 calls [$0.08]
+** Dealing flop ** [ Tc, Js, Qh ]
+Hasag1 checks
+YDASHA888 checks
+** Dealing turn ** [ 9d ]
+Hasag1 checks
+YDASHA888 checks
+** Dealing river ** [ 8d ]
+Hasag1 bets [$0.02]
+YDASHA888 calls [$0.02]
+** Summary **
+Hasag1 shows [ Th, 5h ]
+YDASHA888 shows [ Ah, Ad ]
+YDASHA888 collected [ $0.11 ]
+Hasag1 collected [ $0.12 ]
+
+
+#Game No : 505585851
+***** 888poker Hand History for Game 505585851 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:34:32
+Table Salvador 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Hasag1 ( $4.16 )
+Seat 7: YDASHA888 ( $2.07 )
+Hasag1 posts small blind [$0.01]
+** Dealing down cards **
+YDASHA888 folds
+** Summary **
+Hasag1 collected [ $0.01 ]
+
+
+#Game No : 505585856
+***** 888poker Hand History for Game 505585856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:34:36
+Table Salvador 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Hasag1 ( $4.16 )
+Seat 6: Oleg234516 ( $0.80 )
+Hasag1 posts small blind [$0.01]
+Oleg234516 posts big blind [$0.02]
+** Dealing down cards **
+Hasag1 raises [$0.03]
+Oleg234516 raises [$0.78]
+Hasag1 calls [$0.76]
+** Dealing flop ** [ Qh, Tc, 8d ]
+** Dealing turn ** [ 8h ]
+** Dealing river ** [ 7d ]
+** Summary **
+Hasag1 shows [ Jh, Ac ]
+Oleg234516 shows [ 2d, 2h ]
+Oleg234516 collected [ $1.50 ]
+
+
+#Game No : 505585873
+***** 888poker Hand History for Game 505585873 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:35:00
+Table Salvador 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Hasag1 ( $3.36 )
+Seat 6: Oleg234516 ( $1.50 )
+Oleg234516 posts small blind [$0.01]
+Hasag1 posts big blind [$0.02]
+** Dealing down cards **
+Oleg234516 calls [$0.01]
+Hasag1 checks
+** Dealing flop ** [ 6h, Kc, 5d ]
+Hasag1 bets [$0.02]
+Oleg234516 calls [$0.02]
+** Dealing turn ** [ Ac ]
+Hasag1 bets [$0.04]
+Oleg234516 folds
+** Summary **
+Hasag1 collected [ $0.08 ]
+
+
+#Game No : 505585895
+***** 888poker Hand History for Game 505585895 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 11 2018 04:35:29
+Table Salvador 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: bayboy885 ( $0.80 )
+Seat 4: Hasag1 ( $3.40 )
+Hasag1 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Hasag1 calls [$0.01]
+bayboy885 checks
+** Dealing flop ** [ Ah, Jh, 7c ]
+bayboy885 checks
+Hasag1 checks
+** Dealing turn ** [ Ad ]
+bayboy885 checks
+Hasag1 bets [$0.02]
+bayboy885 calls [$0.02]
+** Dealing river ** [ Js ]
+bayboy885 checks
+Hasag1 checks
+** Summary **
+bayboy885 shows [ 4h, Jc ]
+Hasag1 mucks [ 4s, 5d ]
+bayboy885 collected [ $0.08 ]
+
+

@@ -1,0 +1,128 @@
+#Game No : 525366387
+***** 888poker Hand History for Game 525366387 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:41:52
+Table Le Mans 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: BDSM_Fun ( $1.10 )
+Seat 6: AtlanTor ( $2 )
+BDSM_Fun posts small blind [$0.01]
+AtlanTor posts big blind [$0.02]
+** Dealing down cards **
+BDSM_Fun calls [$0.01]
+AtlanTor checks
+** Dealing flop ** [ 2s, 6d, Jc ]
+AtlanTor checks
+BDSM_Fun checks
+** Dealing turn ** [ Ad ]
+AtlanTor checks
+BDSM_Fun bets [$0.02]
+AtlanTor folds
+** Summary **
+BDSM_Fun did not show his hand
+BDSM_Fun collected [ $0.04 ]
+
+
+#Game No : 525366406
+***** 888poker Hand History for Game 525366406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:42:26
+Table Le Mans 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: AtlanTor ( $2 )
+Seat 7: tekiller243 ( $2 )
+AtlanTor posts small blind [$0.01]
+tekiller243 posts big blind [$0.02]
+** Dealing down cards **
+AtlanTor folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ $0.03 ]
+
+
+#Game No : 525366409
+***** 888poker Hand History for Game 525366409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:42:37
+Table Le Mans 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: AtlanTor ( $2 )
+Seat 7: tekiller243 ( $2.01 )
+tekiller243 posts small blind [$0.01]
+AtlanTor posts big blind [$0.02]
+** Dealing down cards **
+tekiller243 calls [$0.01]
+AtlanTor checks
+** Dealing flop ** [ 8h, Kd, 9s ]
+AtlanTor checks
+tekiller243 bets [$0.03]
+AtlanTor calls [$0.03]
+** Dealing turn ** [ 3s ]
+AtlanTor checks
+tekiller243 bets [$0.07]
+AtlanTor folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ $0.10 ]
+
+
+#Game No : 525366702
+***** 888poker Hand History for Game 525366702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:58:04
+Table Le Mans 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: DDragu ( $0.77 )
+Seat 10: ILYICH777 ( $2.21 )
+ILYICH777 posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 folds
+** Summary **
+DDragu collected [ $0.03 ]
+
+
+#Game No : 525366707
+***** 888poker Hand History for Game 525366707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:58:17
+Table Le Mans 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DDragu ( $0.78 )
+Seat 10: ILYICH777 ( $2.20 )
+DDragu posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+DDragu folds
+** Summary **
+ILYICH777 collected [ $0.03 ]
+
+
+#Game No : 525366708
+***** 888poker Hand History for Game 525366708 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:58:23
+Table Le Mans 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: DDragu ( $0.77 )
+Seat 10: ILYICH777 ( $2.21 )
+ILYICH777 posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 calls [$0.01]
+DDragu checks
+** Dealing flop ** [ 3s, Ac, Jc ]
+DDragu checks
+ILYICH777 checks
+** Dealing turn ** [ Kh ]
+DDragu checks
+ILYICH777 checks
+** Dealing river ** [ Qs ]
+DDragu checks
+ILYICH777 checks
+** Summary **
+DDragu shows [ 5d, 9s ]
+ILYICH777 mucks [ 7d, 8h ]
+DDragu collected [ $0.04 ]
+
+

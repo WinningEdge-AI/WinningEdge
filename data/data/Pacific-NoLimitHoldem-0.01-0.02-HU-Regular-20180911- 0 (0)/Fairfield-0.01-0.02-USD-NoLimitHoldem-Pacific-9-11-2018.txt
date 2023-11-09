@@ -1,0 +1,475 @@
+#Game No : 502190381
+***** 888poker Hand History for Game 502190381 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 18:53:52
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Luuh0980 ( $2.59 )
+Seat 7: ScarWild ( $0.90 )
+Luuh0980 posts small blind [$0.01]
+ScarWild posts big blind [$0.02]
+** Dealing down cards **
+Luuh0980 raises [$0.03]
+ScarWild calls [$0.02]
+** Dealing flop ** [ As, Qd, 9d ]
+ScarWild checks
+Luuh0980 bets [$0.02]
+ScarWild folds
+** Summary **
+Luuh0980 collected [ $0.08 ]
+
+
+#Game No : 502190432
+***** 888poker Hand History for Game 502190432 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 18:56:00
+Table Fairfield 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JuveBoy0503 ( $0.80 )
+Seat 2: NFLDCOOK ( $0.80 )
+JuveBoy0503 posts small blind [$0.01]
+NFLDCOOK posts big blind [$0.02]
+** Dealing down cards **
+JuveBoy0503 calls [$0.01]
+NFLDCOOK raises [$0.04]
+JuveBoy0503 calls [$0.04]
+** Dealing flop ** [ Th, 6h, 4s ]
+NFLDCOOK bets [$0.02]
+JuveBoy0503 raises [$0.10]
+NFLDCOOK folds
+** Summary **
+JuveBoy0503 collected [ $0.15 ]
+
+
+#Game No : 502190443
+***** 888poker Hand History for Game 502190443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 18:56:27
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: JuveBoy0503 ( $0.87 )
+Seat 2: NFLDCOOK ( $0.72 )
+NFLDCOOK posts small blind [$0.01]
+JuveBoy0503 posts big blind [$0.02]
+** Dealing down cards **
+NFLDCOOK calls [$0.01]
+JuveBoy0503 checks
+** Dealing flop ** [ Qd, Jd, 7h ]
+JuveBoy0503 checks
+NFLDCOOK checks
+** Dealing turn ** [ 2s ]
+JuveBoy0503 checks
+NFLDCOOK bets [$0.02]
+JuveBoy0503 calls [$0.02]
+** Dealing river ** [ Kc ]
+JuveBoy0503 checks
+NFLDCOOK bets [$0.02]
+JuveBoy0503 folds
+** Summary **
+NFLDCOOK collected [ $0.08 ]
+
+
+#Game No : 502190460
+***** 888poker Hand History for Game 502190460 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 18:57:12
+Table Fairfield 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JuveBoy0503 ( $0.83 )
+Seat 2: NFLDCOOK ( $0.76 )
+JuveBoy0503 posts small blind [$0.01]
+NFLDCOOK posts big blind [$0.02]
+** Dealing down cards **
+JuveBoy0503 folds
+** Summary **
+NFLDCOOK collected [ $0.03 ]
+
+
+#Game No : 502190465
+***** 888poker Hand History for Game 502190465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 18:57:20
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: JuveBoy0503 ( $0.82 )
+Seat 2: NFLDCOOK ( $0.77 )
+NFLDCOOK posts small blind [$0.01]
+JuveBoy0503 posts big blind [$0.02]
+** Dealing down cards **
+NFLDCOOK calls [$0.01]
+JuveBoy0503 checks
+** Dealing flop ** [ 4d, 7s, Kd ]
+JuveBoy0503 checks
+NFLDCOOK checks
+** Dealing turn ** [ Jd ]
+JuveBoy0503 checks
+NFLDCOOK bets [$0.04]
+JuveBoy0503 calls [$0.04]
+** Dealing river ** [ As ]
+JuveBoy0503 checks
+NFLDCOOK bets [$0.06]
+JuveBoy0503 calls [$0.06]
+** Summary **
+NFLDCOOK shows [ Ac, 8h ]
+JuveBoy0503 shows [ 4s, Jc ]
+JuveBoy0503 collected [ $0.23 ]
+
+
+#Game No : 502190482
+***** 888poker Hand History for Game 502190482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 18:58:07
+Table Fairfield 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JuveBoy0503 ( $0.93 )
+Seat 2: NFLDCOOK ( $0.65 )
+JuveBoy0503 posts small blind [$0.01]
+NFLDCOOK posts big blind [$0.02]
+** Dealing down cards **
+JuveBoy0503 calls [$0.01]
+NFLDCOOK raises [$0.04]
+JuveBoy0503 calls [$0.04]
+** Dealing flop ** [ 6d, 4d, Ad ]
+NFLDCOOK bets [$0.08]
+JuveBoy0503 calls [$0.08]
+** Dealing turn ** [ Qs ]
+NFLDCOOK bets [$0.16]
+JuveBoy0503 calls [$0.16]
+** Dealing river ** [ 5d ]
+NFLDCOOK checks
+JuveBoy0503 bets [$0.22]
+NFLDCOOK calls [$0.22]
+** Summary **
+JuveBoy0503 shows [ Js, Qh ]
+NFLDCOOK shows [ Ts, Td ]
+NFLDCOOK collected [ $0.98 ]
+
+
+#Game No : 502190500
+***** 888poker Hand History for Game 502190500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 18:58:56
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: JuveBoy0503 ( $0.41 )
+Seat 2: NFLDCOOK ( $1.11 )
+NFLDCOOK posts small blind [$0.01]
+JuveBoy0503 posts big blind [$0.02]
+** Dealing down cards **
+NFLDCOOK calls [$0.01]
+JuveBoy0503 folds
+** Summary **
+NFLDCOOK collected [ $0.04 ]
+
+
+#Game No : 502190506
+***** 888poker Hand History for Game 502190506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 18:59:13
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: NFLDCOOK ( $1.13 )
+Seat 4: LEAU6 ( $1 )
+NFLDCOOK posts small blind [$0.01]
+LEAU6 posts big blind [$0.02]
+** Dealing down cards **
+NFLDCOOK raises [$0.03]
+LEAU6 calls [$0.02]
+** Dealing flop ** [ Td, 4c, Ah ]
+LEAU6 checks
+NFLDCOOK checks
+** Dealing turn ** [ 7h ]
+LEAU6 bets [$0.02]
+NFLDCOOK calls [$0.02]
+** Dealing river ** [ 2h ]
+LEAU6 bets [$0.04]
+NFLDCOOK folds
+** Summary **
+LEAU6 collected [ $0.12 ]
+
+
+#Game No : 502190518
+***** 888poker Hand History for Game 502190518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 18:59:43
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: NFLDCOOK ( $1.07 )
+Seat 4: LEAU6 ( $1.06 )
+LEAU6 posts small blind [$0.01]
+NFLDCOOK posts big blind [$0.02]
+** Dealing down cards **
+LEAU6 calls [$0.01]
+NFLDCOOK raises [$0.04]
+LEAU6 calls [$0.04]
+** Dealing flop ** [ 6s, 8h, Kc ]
+NFLDCOOK bets [$0.02]
+LEAU6 calls [$0.02]
+** Dealing turn ** [ 5h ]
+NFLDCOOK bets [$0.02]
+LEAU6 calls [$0.02]
+** Dealing river ** [ 2d ]
+NFLDCOOK bets [$0.02]
+LEAU6 calls [$0.02]
+** Summary **
+NFLDCOOK shows [ Ad, Jd ]
+LEAU6 mucks [ 7s, Th ]
+NFLDCOOK collected [ $0.23 ]
+
+
+#Game No : 502190532
+***** 888poker Hand History for Game 502190532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 19:00:15
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: NFLDCOOK ( $1.18 )
+Seat 4: LEAU6 ( $0.94 )
+NFLDCOOK posts small blind [$0.01]
+LEAU6 posts big blind [$0.02]
+** Dealing down cards **
+NFLDCOOK raises [$0.03]
+LEAU6 raises [$0.04]
+NFLDCOOK calls [$0.02]
+** Dealing flop ** [ 7d, 8s, 7c ]
+LEAU6 bets [$0.02]
+NFLDCOOK folds
+** Summary **
+LEAU6 collected [ $0.12 ]
+
+
+#Game No : 502190547
+***** 888poker Hand History for Game 502190547 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 19:00:41
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: NFLDCOOK ( $1.12 )
+Seat 4: LEAU6 ( $1 )
+LEAU6 posts small blind [$0.01]
+NFLDCOOK posts big blind [$0.02]
+** Dealing down cards **
+LEAU6 calls [$0.01]
+NFLDCOOK raises [$0.04]
+LEAU6 calls [$0.04]
+** Dealing flop ** [ Ac, Ks, Qs ]
+NFLDCOOK bets [$0.04]
+LEAU6 calls [$0.04]
+** Dealing turn ** [ Jd ]
+NFLDCOOK checks
+LEAU6 checks
+** Dealing river ** [ Js ]
+NFLDCOOK bets [$0.10]
+LEAU6 calls [$0.10]
+** Summary **
+NFLDCOOK shows [ 5s, Qh ]
+LEAU6 shows [ 7h, Qc ]
+NFLDCOOK collected [ $0.19 ]
+LEAU6 collected [ $0.19 ]
+
+
+#Game No : 502190668
+***** 888poker Hand History for Game 502190668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 19:06:18
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: LEAU6 ( $1.07 )
+Seat 6: ciungis666 ( $0.78 )
+ciungis666 posts small blind [$0.01]
+LEAU6 posts big blind [$0.02]
+** Dealing down cards **
+ciungis666 calls [$0.01]
+LEAU6 checks
+** Dealing flop ** [ 6h, 5h, 4s ]
+LEAU6 bets [$0.02]
+ciungis666 raises [$0.04]
+LEAU6 calls [$0.02]
+** Dealing turn ** [ 5s ]
+LEAU6 checks
+ciungis666 bets [$0.12]
+LEAU6 calls [$0.12]
+** Dealing river ** [ 3s ]
+LEAU6 checks
+ciungis666 checks
+** Summary **
+LEAU6 shows [ Qd, Tc ]
+ciungis666 shows [ Kc, Kh ]
+ciungis666 collected [ $0.34 ]
+
+
+#Game No : 502190682
+***** 888poker Hand History for Game 502190682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 19:06:59
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: LEAU6 ( $0.91 )
+Seat 6: ciungis666 ( $0.92 )
+ciungis666 posts small blind [$0.01]
+LEAU6 posts big blind [$0.02]
+** Dealing down cards **
+ciungis666 folds
+** Summary **
+LEAU6 collected [ $0.03 ]
+
+
+#Game No : 502190687
+***** 888poker Hand History for Game 502190687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 19:07:13
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ciungis666 ( $0.90 )
+Seat 7: dutchalex ( $0.80 )
+ciungis666 posts small blind [$0.01]
+dutchalex posts big blind [$0.02]
+** Dealing down cards **
+ciungis666 calls [$0.01]
+dutchalex checks
+** Dealing flop ** [ 6d, Ac, 9s ]
+dutchalex checks
+ciungis666 bets [$0.02]
+dutchalex folds
+** Summary **
+ciungis666 collected [ $0.04 ]
+
+
+#Game No : 502190698
+***** 888poker Hand History for Game 502190698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 19:07:39
+Table Fairfield 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ciungis666 ( $0.92 )
+Seat 7: dutchalex ( $0.78 )
+dutchalex posts small blind [$0.01]
+ciungis666 posts big blind [$0.02]
+** Dealing down cards **
+dutchalex calls [$0.01]
+ciungis666 checks
+** Dealing flop ** [ Ah, 4h, Kh ]
+ciungis666 bets [$0.04]
+dutchalex folds
+** Summary **
+ciungis666 collected [ $0.04 ]
+
+
+#Game No : 502192358
+***** 888poker Hand History for Game 502192358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:23:09
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ViniLokoo ( $4.21 )
+Seat 6: JusGlenn14 ( $0.98 )
+ViniLokoo posts small blind [$0.01]
+JusGlenn14 posts big blind [$0.02]
+** Dealing down cards **
+ViniLokoo folds
+** Summary **
+JusGlenn14 collected [ $0.03 ]
+
+
+#Game No : 502192360
+***** 888poker Hand History for Game 502192360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:23:14
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ViniLokoo ( $4.20 )
+Seat 6: JusGlenn14 ( $0.99 )
+JusGlenn14 posts small blind [$0.01]
+ViniLokoo posts big blind [$0.02]
+** Dealing down cards **
+JusGlenn14 raises [$0.03]
+ViniLokoo calls [$0.02]
+** Dealing flop ** [ 2d, Ad, Jd ]
+ViniLokoo checks
+JusGlenn14 bets [$0.05]
+ViniLokoo calls [$0.05]
+** Dealing turn ** [ 6d ]
+ViniLokoo checks
+JusGlenn14 checks
+** Dealing river ** [ 6s ]
+ViniLokoo checks
+JusGlenn14 checks
+** Summary **
+ViniLokoo shows [ Ts, Qh ]
+JusGlenn14 shows [ Jc, Tc ]
+JusGlenn14 collected [ $0.17 ]
+
+
+#Game No : 502192376
+***** 888poker Hand History for Game 502192376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:23:49
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ViniLokoo ( $4.11 )
+Seat 6: JusGlenn14 ( $1.07 )
+ViniLokoo posts small blind [$0.01]
+JusGlenn14 posts big blind [$0.02]
+** Dealing down cards **
+ViniLokoo raises [$0.05]
+JusGlenn14 folds
+** Summary **
+ViniLokoo did not show his hand
+ViniLokoo collected [ $0.04 ]
+
+
+#Game No : 502192378
+***** 888poker Hand History for Game 502192378 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:24:02
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: ViniLokoo ( $4.13 )
+Seat 6: JusGlenn14 ( $1.05 )
+JusGlenn14 posts small blind [$0.01]
+ViniLokoo posts big blind [$0.02]
+** Dealing down cards **
+JusGlenn14 calls [$0.01]
+ViniLokoo checks
+** Dealing flop ** [ 2h, 7s, 8s ]
+ViniLokoo bets [$0.04]
+JusGlenn14 calls [$0.04]
+** Dealing turn ** [ Qc ]
+ViniLokoo bets [$0.08]
+JusGlenn14 folds
+** Summary **
+ViniLokoo collected [ $0.12 ]
+
+
+#Game No : 502192392
+***** 888poker Hand History for Game 502192392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:24:40
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ViniLokoo ( $4.19 )
+Seat 6: JusGlenn14 ( $0.99 )
+ViniLokoo posts small blind [$0.01]
+JusGlenn14 posts big blind [$0.02]
+** Dealing down cards **
+ViniLokoo raises [$0.05]
+JusGlenn14 folds
+** Summary **
+ViniLokoo collected [ $0.04 ]
+
+
+#Game No : 502192467
+***** 888poker Hand History for Game 502192467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 20:28:21
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ViniLokoo ( $4.10 )
+Seat 4: TJ55514 ( $0.81 )
+TJ55514 posts small blind [$0.01]
+** Dealing down cards **
+ViniLokoo folds
+** Summary **
+TJ55514 collected [ $0.01 ]
+
+

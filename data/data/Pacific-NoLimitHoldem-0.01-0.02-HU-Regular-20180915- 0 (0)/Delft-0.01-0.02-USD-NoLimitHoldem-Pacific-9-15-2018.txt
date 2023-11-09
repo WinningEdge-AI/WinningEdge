@@ -1,0 +1,47 @@
+#Game No : 455391955
+***** 888poker Hand History for Game 455391955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 20:10:41
+Table Delft 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: vikingtony ( $2.15 )
+Seat 6: juneera ( $4.07 )
+vikingtony posts small blind [$0.01]
+juneera posts big blind [$0.02]
+** Dealing down cards **
+vikingtony calls [$0.01]
+juneera raises [$0.04]
+vikingtony calls [$0.04]
+** Dealing flop ** [ Ad, 7d, 2c ]
+juneera bets [$0.06]
+vikingtony calls [$0.06]
+** Dealing turn ** [ Js ]
+juneera checks
+vikingtony bets [$0.02]
+juneera calls [$0.02]
+** Dealing river ** [ 4h ]
+juneera checks
+vikingtony checks
+** Summary **
+juneera shows [ 6d, 6h ]
+vikingtony mucks [ Kd, 9d ]
+juneera collected [ $0.27 ]
+
+
+#Game No : 455391965
+***** 888poker Hand History for Game 455391965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 09 2018 20:11:16
+Table Delft 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: vikingtony ( $2.01 )
+Seat 6: juneera ( $4.20 )
+juneera posts small blind [$0.01]
+vikingtony posts big blind [$0.02]
+** Dealing down cards **
+juneera folds
+** Summary **
+vikingtony did not show his hand
+vikingtony collected [ $0.03 ]
+
+

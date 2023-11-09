@@ -1,0 +1,97 @@
+#Game No : 503485881
+***** 888poker Hand History for Game 503485881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 17:39:20
+Table Brighton 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Btobin14 ( $1.40 )
+Seat 7: arcticdawn ( $1 )
+Btobin14 posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+Btobin14 folds
+** Summary **
+arcticdawn did not show his hand
+arcticdawn collected [ $0.03 ]
+
+
+#Game No : 503485885
+***** 888poker Hand History for Game 503485885 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 17:39:26
+Table Brighton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Btobin14 ( $1.39 )
+Seat 7: arcticdawn ( $1.01 )
+arcticdawn posts small blind [$0.01]
+Btobin14 posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn calls [$0.01]
+Btobin14 raises [$0.04]
+arcticdawn calls [$0.04]
+** Dealing flop ** [ Qd, 9d, 8s ]
+Btobin14 bets [$0.12]
+arcticdawn calls [$0.12]
+** Dealing turn ** [ 7c ]
+Btobin14 checks
+arcticdawn checks
+** Dealing river ** [ Ac ]
+Btobin14 bets [$0.02]
+arcticdawn calls [$0.02]
+** Summary **
+Btobin14 shows [ 6d, Ad ]
+arcticdawn mucks [ Qc, 3c ]
+Btobin14 collected [ $0.38 ]
+
+
+#Game No : 503487267
+***** 888poker Hand History for Game 503487267 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 19:16:46
+Table Brighton 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jojothohe ( $0.88 )
+Seat 7: arcticdawn ( $2.69 )
+Jojothohe posts small blind [$0.01]
+arcticdawn posts big blind [$0.02]
+** Dealing down cards **
+Jojothohe calls [$0.01]
+arcticdawn checks
+** Dealing flop ** [ 4c, 7d, Jh ]
+arcticdawn checks
+Jojothohe checks
+** Dealing turn ** [ 2c ]
+arcticdawn checks
+Jojothohe checks
+** Dealing river ** [ 8c ]
+arcticdawn checks
+Jojothohe checks
+** Summary **
+arcticdawn shows [ 5h, Kc ]
+Jojothohe mucks [ 6h, 9c ]
+arcticdawn collected [ $0.04 ]
+
+
+#Game No : 503487272
+***** 888poker Hand History for Game 503487272 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 10 2018 19:17:11
+Table Brighton 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Jojothohe ( $0.86 )
+Seat 7: arcticdawn ( $2.71 )
+arcticdawn posts small blind [$0.01]
+Jojothohe posts big blind [$0.02]
+** Dealing down cards **
+arcticdawn raises [$0.05]
+Jojothohe raises [$0.84]
+arcticdawn calls [$0.80]
+** Dealing flop ** [ Qh, Td, 7s ]
+** Dealing turn ** [ 2h ]
+** Dealing river ** [ 6s ]
+** Summary **
+Jojothohe shows [ Ac, 2s ]
+arcticdawn shows [ Jh, Js ]
+arcticdawn collected [ $1.62 ]
+
+

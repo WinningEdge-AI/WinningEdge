@@ -1,0 +1,45 @@
+#Game No : 366872
+***** 888poker Hand History for Game 366872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 05 2019 01:06:21
+Table Leganes 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: lucky_shoe_0 ( $1.65 )
+Seat 6: TheBullNeck ( $1.09 )
+TheBullNeck posts small blind [$0.01]
+lucky_shoe_0 posts big blind [$0.02]
+** Dealing down cards **
+TheBullNeck folds
+** Summary **
+lucky_shoe_0 did not show his hand
+lucky_shoe_0 collected [ $0.03 ]
+
+
+#Game No : 366955
+***** 888poker Hand History for Game 366955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 05 2019 01:27:23
+Table Leganes 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: TheKid143 ( $1.92 )
+Seat 9: i1divine ( $0.94 )
+i1divine posts small blind [$0.01]
+TheKid143 posts big blind [$0.02]
+** Dealing down cards **
+i1divine calls [$0.01]
+TheKid143 checks
+** Dealing flop ** [ 3c, 7s, 7d ]
+TheKid143 checks
+i1divine checks
+** Dealing turn ** [ Ts ]
+TheKid143 checks
+i1divine checks
+** Dealing river ** [ Ac ]
+TheKid143 checks
+i1divine checks
+** Summary **
+TheKid143 shows [ 6s, Kd ]
+i1divine mucks [ Qh, 4c ]
+TheKid143 collected [ $0.04 ]
+
+

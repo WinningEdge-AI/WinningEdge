@@ -1,0 +1,28 @@
+#Game No : 468401073
+***** 888poker Hand History for Game 468401073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 08 2019 06:15:47
+Table Arvada 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: AVP879 ( $0.85 )
+Seat 6: Kakarot7000 ( $1.35 )
+Kakarot7000 posts small blind [$0.01]
+AVP879 posts big blind [$0.02]
+** Dealing down cards **
+Kakarot7000 calls [$0.01]
+AVP879 raises [$0.04]
+Kakarot7000 calls [$0.04]
+** Dealing flop ** [ 8s, 8d, Jc ]
+AVP879 bets [$0.06]
+Kakarot7000 calls [$0.06]
+** Dealing turn ** [ Jd ]
+AVP879 checks
+Kakarot7000 checks
+** Dealing river ** [ Kc ]
+AVP879 checks
+Kakarot7000 bets [$1.23]
+AVP879 folds
+** Summary **
+Kakarot7000 collected [ $0.23 ]
+
+

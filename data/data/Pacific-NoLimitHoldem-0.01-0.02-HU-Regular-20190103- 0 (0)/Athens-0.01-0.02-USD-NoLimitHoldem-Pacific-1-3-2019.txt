@@ -1,0 +1,101 @@
+#Game No : 613333193
+***** 888poker Hand History for Game 613333193 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2019 17:04:51
+Table Athens 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: boadadf ( $1.12 )
+Seat 9: creatureP ( $2.22 )
+boadadf posts small blind [$0.01]
+creatureP posts big blind [$0.02]
+** Dealing down cards **
+boadadf calls [$0.01]
+creatureP raises [$0.04]
+boadadf calls [$0.04]
+** Dealing flop ** [ 4c, 3c, 7d ]
+creatureP checks
+boadadf checks
+** Dealing turn ** [ Tc ]
+creatureP bets [$0.06]
+boadadf calls [$0.06]
+** Dealing river ** [ As ]
+creatureP bets [$0.10]
+boadadf calls [$0.10]
+** Summary **
+creatureP shows [ Js, 8c ]
+boadadf shows [ 9d, Ac ]
+boadadf collected [ $0.42 ]
+
+
+#Game No : 613333231
+***** 888poker Hand History for Game 613333231 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2019 17:05:45
+Table Athens 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: boadadf ( $1.32 )
+Seat 9: creatureP ( $2 )
+creatureP posts small blind [$0.01]
+boadadf posts big blind [$0.02]
+** Dealing down cards **
+creatureP calls [$0.01]
+boadadf checks
+** Dealing flop ** [ 3s, Th, 9h ]
+boadadf checks
+creatureP checks
+** Dealing turn ** [ Jh ]
+boadadf checks
+creatureP checks
+** Dealing river ** [ 5h ]
+boadadf checks
+creatureP bets [$0.02]
+boadadf folds
+** Summary **
+creatureP collected [ $0.04 ]
+
+
+#Game No : 613341529
+***** 888poker Hand History for Game 613341529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2019 21:49:25
+Table Athens 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: 1337knp ( $0.59 )
+Seat 7: Intelligent8 ( $2.68 )
+Intelligent8 posts small blind [$0.01]
+1337knp posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+1337knp did not show his hand
+1337knp collected [ $0.03 ]
+
+
+#Game No : 613341534
+***** 888poker Hand History for Game 613341534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2019 21:49:30
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 1337knp ( $0.60 )
+Seat 7: Intelligent8 ( $2.67 )
+1337knp posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+1337knp calls [$0.01]
+Intelligent8 checks
+** Dealing flop ** [ 9h, Kh, 7h ]
+Intelligent8 bets [$0.02]
+1337knp calls [$0.02]
+** Dealing turn ** [ 9d ]
+Intelligent8 bets [$0.04]
+1337knp calls [$0.04]
+** Dealing river ** [ 4d ]
+Intelligent8 checks
+1337knp bets [$0.08]
+Intelligent8 folds
+** Summary **
+1337knp did not show his hand
+1337knp collected [ $0.15 ]
+
+

@@ -1,0 +1,92 @@
+#Game No : 459006650
+***** 888poker Hand History for Game 459006650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 01:00:54
+Table Junin 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kkoha ( $2 )
+Seat 2: sasojapon ( $1.01 )
+kkoha posts small blind [$0.01]
+sasojapon posts big blind [$0.02]
+** Dealing down cards **
+kkoha raises [$0.03]
+sasojapon calls [$0.02]
+** Dealing flop ** [ Jh, Tc, 6c ]
+sasojapon bets [$0.02]
+kkoha calls [$0.02]
+** Dealing turn ** [ 9h ]
+sasojapon checks
+kkoha bets [$0.06]
+sasojapon calls [$0.06]
+** Dealing river ** [ 8s ]
+sasojapon bets [$0.02]
+kkoha raises [$0.16]
+sasojapon folds
+** Summary **
+kkoha did not show his hand
+kkoha collected [ $0.27 ]
+
+
+#Game No : 459006667
+***** 888poker Hand History for Game 459006667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 01:01:22
+Table Junin 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kkoha ( $2.13 )
+Seat 2: sasojapon ( $0.87 )
+sasojapon posts small blind [$0.01]
+kkoha posts big blind [$0.02]
+** Dealing down cards **
+sasojapon raises [$0.03]
+kkoha folds
+** Summary **
+sasojapon did not show his hand
+sasojapon collected [ $0.04 ]
+
+
+#Game No : 459006671
+***** 888poker Hand History for Game 459006671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 01:01:35
+Table Junin 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kkoha ( $2.11 )
+Seat 2: sasojapon ( $0.89 )
+kkoha posts small blind [$0.01]
+sasojapon posts big blind [$0.02]
+** Dealing down cards **
+kkoha raises [$0.03]
+sasojapon calls [$0.02]
+** Dealing flop ** [ 9c, Ad, Jd ]
+sasojapon bets [$0.02]
+kkoha calls [$0.02]
+** Dealing turn ** [ Js ]
+sasojapon checks
+kkoha bets [$0.06]
+sasojapon folds
+** Summary **
+kkoha collected [ $0.12 ]
+
+
+#Game No : 459006689
+***** 888poker Hand History for Game 459006689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 12 2018 01:02:46
+Table Junin 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kkoha ( $2.17 )
+Seat 2: sasojapon ( $0.83 )
+sasojapon posts small blind [$0.01]
+kkoha posts big blind [$0.02]
+** Dealing down cards **
+sasojapon raises [$0.03]
+kkoha raises [$0.10]
+sasojapon calls [$0.08]
+** Dealing flop ** [ 6d, 9c, As ]
+kkoha bets [$0.12]
+sasojapon folds
+** Summary **
+kkoha collected [ $0.23 ]
+
+

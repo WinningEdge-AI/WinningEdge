@@ -1,0 +1,82 @@
+#Game No : 889457
+***** 888poker Hand History for Game 889457 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:48:12
+Table Toluca 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: GARALD84 ( $2.48 )
+Seat 6: NikaBoa ( $2.17 )
+NikaBoa posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+NikaBoa calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ Ah, Kc, 5d ]
+GARALD84 checks
+NikaBoa checks
+** Dealing turn ** [ 6c ]
+GARALD84 checks
+NikaBoa checks
+** Dealing river ** [ 2s ]
+GARALD84 checks
+NikaBoa checks
+** Summary **
+GARALD84 shows [ 7s, 5h ]
+NikaBoa mucks [ Ts, 7c ]
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 889465
+***** 888poker Hand History for Game 889465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:50:27
+Table Toluca 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Cpt.Moonface ( $1 )
+Seat 6: NikaBoa ( $2.15 )
+NikaBoa posts small blind [$0.01]
+Cpt.Moonface posts big blind [$0.02]
+** Dealing down cards **
+NikaBoa raises [$0.03]
+Cpt.Moonface folds
+** Summary **
+NikaBoa collected [ $0.04 ]
+
+
+#Game No : 889467
+***** 888poker Hand History for Game 889467 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:50:39
+Table Toluca 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Cpt.Moonface ( $0.98 )
+Seat 6: NikaBoa ( $2.17 )
+Cpt.Moonface posts small blind [$0.01]
+NikaBoa posts big blind [$0.02]
+** Dealing down cards **
+Cpt.Moonface calls [$0.01]
+NikaBoa checks
+** Dealing flop ** [ Js, 5d, 6h ]
+NikaBoa checks
+Cpt.Moonface bets [$0.06]
+NikaBoa folds
+** Summary **
+Cpt.Moonface collected [ $0.04 ]
+
+
+#Game No : 889470
+***** 888poker Hand History for Game 889470 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 08 2019 02:51:00
+Table Toluca 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Cpt.Moonface ( $1 )
+Seat 6: NikaBoa ( $2.15 )
+NikaBoa posts small blind [$0.01]
+Cpt.Moonface posts big blind [$0.02]
+** Dealing down cards **
+NikaBoa folds
+** Summary **
+Cpt.Moonface collected [ $0.03 ]
+
+

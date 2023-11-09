@@ -1,0 +1,638 @@
+#Game No : 518134104
+***** 888poker Hand History for Game 518134104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 21:31:10
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skluchenko ( $1.73 )
+Seat 6: kovas27 ( $1 )
+skluchenko posts small blind [$0.01]
+kovas27 posts big blind [$0.02]
+** Dealing down cards **
+skluchenko calls [$0.01]
+kovas27 checks
+** Dealing flop ** [ Jc, 5s, Jh ]
+kovas27 checks
+skluchenko checks
+** Dealing turn ** [ 2d ]
+kovas27 checks
+skluchenko checks
+** Dealing river ** [ 3c ]
+kovas27 checks
+skluchenko bets [$0.04]
+kovas27 folds
+** Summary **
+skluchenko collected [ $0.04 ]
+
+
+#Game No : 518134109
+***** 888poker Hand History for Game 518134109 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 21:31:34
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: skluchenko ( $1.75 )
+Seat 6: kovas27 ( $1 )
+kovas27 posts small blind [$0.01]
+skluchenko posts big blind [$0.02]
+** Dealing down cards **
+kovas27 calls [$0.01]
+skluchenko checks
+** Dealing flop ** [ 9s, Th, 4c ]
+skluchenko bets [$0.06]
+kovas27 calls [$0.06]
+** Dealing turn ** [ Qc ]
+skluchenko bets [$0.04]
+kovas27 calls [$0.04]
+** Dealing river ** [ 3h ]
+skluchenko bets [$0.06]
+kovas27 folds
+** Summary **
+skluchenko did not show his hand
+skluchenko collected [ $0.23 ]
+
+
+#Game No : 518134111
+***** 888poker Hand History for Game 518134111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 21:32:02
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skluchenko ( $1.86 )
+Seat 6: kovas27 ( $1 )
+skluchenko posts small blind [$0.01]
+kovas27 posts big blind [$0.02]
+** Dealing down cards **
+skluchenko calls [$0.01]
+kovas27 raises [$0.02]
+skluchenko calls [$0.02]
+** Dealing flop ** [ 4h, 3c, 4d ]
+kovas27 checks
+skluchenko checks
+** Dealing turn ** [ 5s ]
+kovas27 checks
+skluchenko bets [$0.02]
+kovas27 calls [$0.02]
+** Dealing river ** [ Qc ]
+kovas27 checks
+skluchenko checks
+** Summary **
+kovas27 shows [ Ts, Jd ]
+skluchenko shows [ 6h, Ac ]
+skluchenko collected [ $0.12 ]
+
+
+#Game No : 518134117
+***** 888poker Hand History for Game 518134117 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 21:32:37
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: skluchenko ( $1.92 )
+Seat 6: kovas27 ( $1 )
+kovas27 posts small blind [$0.01]
+skluchenko posts big blind [$0.02]
+** Dealing down cards **
+kovas27 calls [$0.01]
+skluchenko checks
+** Dealing flop ** [ 7c, Ts, 9d ]
+skluchenko checks
+kovas27 checks
+** Dealing turn ** [ 8s ]
+skluchenko checks
+kovas27 checks
+** Dealing river ** [ 7h ]
+skluchenko checks
+kovas27 checks
+** Summary **
+skluchenko shows [ 5d, Kc ]
+kovas27 mucks [ 4c, 2c ]
+skluchenko collected [ $0.04 ]
+
+
+#Game No : 518135234
+***** 888poker Hand History for Game 518135234 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 23:08:52
+Table Carmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: r0me00 ( $1.02 )
+Seat 9: Tytyaxx ( $0.54 )
+Tytyaxx posts small blind [$0.01]
+** Dealing down cards **
+r0me00 folds
+** Summary **
+Tytyaxx collected [ $0.01 ]
+
+
+#Game No : 518135239
+***** 888poker Hand History for Game 518135239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 23:09:11
+Table Carmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Nikolai512 ( $1 )
+Seat 9: Tytyaxx ( $0.54 )
+Tytyaxx posts small blind [$0.01]
+Nikolai512 posts big blind [$0.02]
+** Dealing down cards **
+Tytyaxx calls [$0.01]
+Nikolai512 checks
+** Dealing flop ** [ 7c, 7h, 8c ]
+Nikolai512 checks
+Tytyaxx bets [$0.02]
+Nikolai512 folds
+** Summary **
+Tytyaxx collected [ $0.04 ]
+
+
+#Game No : 518135245
+***** 888poker Hand History for Game 518135245 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 23:09:39
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nikolai512 ( $0.98 )
+Seat 9: Tytyaxx ( $0.56 )
+Nikolai512 posts small blind [$0.01]
+Tytyaxx posts big blind [$0.02]
+** Dealing down cards **
+Nikolai512 calls [$0.01]
+Tytyaxx checks
+** Dealing flop ** [ 4h, 4s, Th ]
+Tytyaxx checks
+Nikolai512 checks
+** Dealing turn ** [ Kc ]
+Tytyaxx checks
+Nikolai512 checks
+** Dealing river ** [ 2h ]
+Tytyaxx checks
+Nikolai512 checks
+** Summary **
+Tytyaxx shows [ 9s, 3d ]
+Nikolai512 shows [ 8s, 9d ]
+Tytyaxx collected [ $0.02 ]
+Nikolai512 collected [ $0.02 ]
+
+
+#Game No : 518135249
+***** 888poker Hand History for Game 518135249 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 23:10:00
+Table Carmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Nikolai512 ( $0.98 )
+Seat 9: Tytyaxx ( $0.56 )
+Tytyaxx posts small blind [$0.01]
+Nikolai512 posts big blind [$0.02]
+** Dealing down cards **
+Tytyaxx folds
+** Summary **
+Nikolai512 collected [ $0.03 ]
+
+
+#Game No : 518135252
+***** 888poker Hand History for Game 518135252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 23:10:06
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nikolai512 ( $0.99 )
+Seat 9: Tytyaxx ( $0.55 )
+Nikolai512 posts small blind [$0.01]
+Tytyaxx posts big blind [$0.02]
+** Dealing down cards **
+Nikolai512 calls [$0.01]
+Tytyaxx raises [$0.04]
+Nikolai512 folds
+** Summary **
+Tytyaxx collected [ $0.04 ]
+
+
+#Game No : 518135719
+***** 888poker Hand History for Game 518135719 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 23:51:12
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: ApTuk13 ( $0.97 )
+Seat 6: kroko1949 ( $1.57 )
+kroko1949 posts small blind [$0.01]
+ApTuk13 posts big blind [$0.02]
+** Dealing down cards **
+kroko1949 raises [$0.05]
+ApTuk13 folds
+** Summary **
+kroko1949 collected [ $0.04 ]
+
+
+#Game No : 518135721
+***** 888poker Hand History for Game 518135721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 23:51:23
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ApTuk13 ( $0.95 )
+Seat 6: kroko1949 ( $1.59 )
+ApTuk13 posts small blind [$0.01]
+kroko1949 posts big blind [$0.02]
+** Dealing down cards **
+ApTuk13 raises [$0.05]
+kroko1949 calls [$0.04]
+** Dealing flop ** [ Ks, Ac, 7s ]
+kroko1949 checks
+ApTuk13 bets [$0.06]
+kroko1949 calls [$0.06]
+** Dealing turn ** [ 3d ]
+kroko1949 checks
+ApTuk13 bets [$0.15]
+kroko1949 folds
+** Summary **
+ApTuk13 collected [ $0.23 ]
+
+
+#Game No : 518135725
+***** 888poker Hand History for Game 518135725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2019 23:51:43
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: ApTuk13 ( $1.06 )
+Seat 6: kroko1949 ( $1.47 )
+kroko1949 posts small blind [$0.01]
+ApTuk13 posts big blind [$0.02]
+** Dealing down cards **
+kroko1949 calls [$0.01]
+ApTuk13 checks
+** Dealing flop ** [ Jd, 3s, Qh ]
+ApTuk13 checks
+kroko1949 bets [$0.02]
+ApTuk13 calls [$0.02]
+** Dealing turn ** [ Kc ]
+ApTuk13 checks
+kroko1949 bets [$0.02]
+ApTuk13 folds
+** Summary **
+kroko1949 collected [ $0.08 ]
+
+
+#Game No : 518139484
+***** 888poker Hand History for Game 518139484 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:17:15
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: INtlrNc ( $1.41 )
+Seat 7: GARALD84 ( $2.45 )
+INtlrNc posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+INtlrNc raises [$0.04]
+GARALD84 folds
+** Summary **
+INtlrNc collected [ $0.04 ]
+
+
+#Game No : 518139486
+***** 888poker Hand History for Game 518139486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:17:26
+Table Carmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: INtlrNc ( $1.43 )
+Seat 7: GARALD84 ( $2.43 )
+GARALD84 posts small blind [$0.01]
+INtlrNc posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 folds
+** Summary **
+INtlrNc collected [ $0.03 ]
+
+
+#Game No : 518139488
+***** 888poker Hand History for Game 518139488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:17:32
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: INtlrNc ( $1.44 )
+Seat 7: GARALD84 ( $2.42 )
+INtlrNc posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+INtlrNc raises [$0.07]
+GARALD84 folds
+** Summary **
+INtlrNc collected [ $0.04 ]
+
+
+#Game No : 518139510
+***** 888poker Hand History for Game 518139510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:18:22
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: INtlrNc ( $1.55 )
+Seat 7: GARALD84 ( $2.32 )
+INtlrNc posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+INtlrNc folds
+** Summary **
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 518139513
+***** 888poker Hand History for Game 518139513 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:18:28
+Table Carmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: INtlrNc ( $1.54 )
+Seat 7: GARALD84 ( $2.33 )
+GARALD84 posts small blind [$0.01]
+** Dealing down cards **
+INtlrNc folds
+** Summary **
+GARALD84 collected [ $0.01 ]
+
+
+#Game No : 518139519
+***** 888poker Hand History for Game 518139519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:18:41
+Table Carmen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: D14MART ( $2.42 )
+Seat 7: GARALD84 ( $2.33 )
+GARALD84 posts small blind [$0.01]
+D14MART posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.07]
+D14MART folds
+** Summary **
+GARALD84 did not show his hand
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 518139523
+***** 888poker Hand History for Game 518139523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:18:52
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: D14MART ( $2.40 )
+Seat 7: GARALD84 ( $2.35 )
+D14MART posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+D14MART raises [$0.05]
+GARALD84 folds
+** Summary **
+D14MART did not show his hand
+D14MART collected [ $0.04 ]
+
+
+#Game No : 518139548
+***** 888poker Hand History for Game 518139548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:20:20
+Table Carmen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: D14MART ( $2.42 )
+Seat 9: MorhafZ ( $1 )
+MorhafZ posts small blind [$0.01]
+D14MART posts big blind [$0.02]
+** Dealing down cards **
+MorhafZ folds
+** Summary **
+D14MART did not show his hand
+D14MART collected [ $0.03 ]
+
+
+#Game No : 518139551
+***** 888poker Hand History for Game 518139551 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:20:31
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: D14MART ( $2.43 )
+Seat 9: MorhafZ ( $0.99 )
+D14MART posts small blind [$0.01]
+MorhafZ posts big blind [$0.02]
+** Dealing down cards **
+D14MART raises [$0.06]
+MorhafZ folds
+** Summary **
+D14MART did not show his hand
+D14MART collected [ $0.04 ]
+
+
+#Game No : 518139571
+***** 888poker Hand History for Game 518139571 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:21:46
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Adilvlad ( $0.80 )
+Seat 6: D14MART ( $2.45 )
+Adilvlad posts small blind [$0.01]
+D14MART posts big blind [$0.02]
+** Dealing down cards **
+Adilvlad calls [$0.01]
+D14MART raises [$0.08]
+Adilvlad calls [$0.08]
+** Dealing flop ** [ Ks, Th, 5d ]
+D14MART bets [$0.14]
+Adilvlad calls [$0.14]
+** Dealing turn ** [ Kd ]
+D14MART bets [$0.30]
+Adilvlad calls [$0.30]
+** Dealing river ** [ 4c ]
+D14MART checks
+Adilvlad checks
+** Summary **
+D14MART shows [ Ah, 7h ]
+Adilvlad shows [ As, Qs ]
+Adilvlad collected [ $1.02 ]
+
+
+#Game No : 518139587
+***** 888poker Hand History for Game 518139587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:22:40
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Adilvlad ( $1.28 )
+Seat 6: D14MART ( $1.91 )
+Adilvlad posts small blind [$0.01]
+D14MART posts big blind [$0.02]
+** Dealing down cards **
+Adilvlad calls [$0.01]
+D14MART raises [$0.08]
+Adilvlad calls [$0.08]
+** Dealing flop ** [ 2c, 8c, Tc ]
+D14MART bets [$0.14]
+Adilvlad calls [$0.14]
+** Dealing turn ** [ Kh ]
+D14MART checks
+Adilvlad checks
+** Dealing river ** [ Ks ]
+D14MART checks
+Adilvlad checks
+** Summary **
+D14MART shows [ 9d, Td ]
+Adilvlad mucks [ 5s, 5c ]
+D14MART collected [ $0.45 ]
+
+
+#Game No : 518139603
+***** 888poker Hand History for Game 518139603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:23:41
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Adilvlad ( $1.04 )
+Seat 6: D14MART ( $2.12 )
+Adilvlad posts small blind [$0.01]
+D14MART posts big blind [$0.02]
+** Dealing down cards **
+Adilvlad raises [$0.03]
+D14MART folds
+** Summary **
+Adilvlad did not show his hand
+Adilvlad collected [ $0.04 ]
+
+
+#Game No : 518139607
+***** 888poker Hand History for Game 518139607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:23:53
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Adilvlad ( $1.06 )
+Seat 6: D14MART ( $2.10 )
+D14MART posts small blind [$0.01]
+Adilvlad posts big blind [$0.02]
+** Dealing down cards **
+D14MART folds
+** Summary **
+Adilvlad did not show his hand
+Adilvlad collected [ $0.03 ]
+
+
+#Game No : 518139627
+***** 888poker Hand History for Game 518139627 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:24:58
+Table Carmen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Adilvlad ( $1.07 )
+Seat 6: D14MART ( $2.09 )
+D14MART posts small blind [$0.01]
+Adilvlad posts big blind [$0.02]
+** Dealing down cards **
+D14MART raises [$0.06]
+Adilvlad calls [$0.05]
+** Dealing flop ** [ 6s, 5c, Tc ]
+Adilvlad checks
+D14MART bets [$0.08]
+Adilvlad calls [$0.08]
+** Dealing turn ** [ Qh ]
+Adilvlad checks
+D14MART bets [$0.20]
+Adilvlad calls [$0.20]
+** Dealing river ** [ 2s ]
+Adilvlad checks
+D14MART checks
+** Summary **
+Adilvlad shows [ 7d, 8s ]
+D14MART shows [ Th, As ]
+D14MART collected [ $0.66 ]
+
+
+#Game No : 518139649
+***** 888poker Hand History for Game 518139649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:26:13
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Adilvlad ( $0.72 )
+Seat 2: mickeymucke1 ( $0.80 )
+Adilvlad posts small blind [$0.01]
+mickeymucke1 posts big blind [$0.02]
+** Dealing down cards **
+Adilvlad folds
+** Summary **
+mickeymucke1 collected [ $0.03 ]
+
+
+#Game No : 518139656
+***** 888poker Hand History for Game 518139656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:26:27
+Table Carmen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Adilvlad ( $0.71 )
+Seat 2: mickeymucke1 ( $0.81 )
+mickeymucke1 posts small blind [$0.01]
+Adilvlad posts big blind [$0.02]
+** Dealing down cards **
+mickeymucke1 raises [$0.03]
+Adilvlad calls [$0.02]
+** Dealing flop ** [ 3d, 2c, 4h ]
+Adilvlad checks
+mickeymucke1 bets [$0.08]
+Adilvlad calls [$0.08]
+** Dealing turn ** [ Ks ]
+Adilvlad bets [$0.14]
+mickeymucke1 folds
+** Summary **
+Adilvlad collected [ $0.23 ]
+
+
+#Game No : 518139677
+***** 888poker Hand History for Game 518139677 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:27:36
+Table Carmen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Adilvlad ( $0.82 )
+Seat 2: mickeymucke1 ( $0.69 )
+Adilvlad posts small blind [$0.01]
+mickeymucke1 posts big blind [$0.02]
+** Dealing down cards **
+Adilvlad calls [$0.01]
+mickeymucke1 checks
+** Dealing flop ** [ Jd, 2s, Ah ]
+mickeymucke1 checks
+Adilvlad checks
+** Dealing turn ** [ 8d ]
+mickeymucke1 bets [$0.04]
+Adilvlad raises [$0.08]
+mickeymucke1 calls [$0.04]
+** Dealing river ** [ 4d ]
+mickeymucke1 checks
+Adilvlad bets [$0.34]
+mickeymucke1 folds
+** Summary **
+Adilvlad collected [ $0.19 ]
+
+
+#Game No : 518139692
+***** 888poker Hand History for Game 518139692 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2019 03:28:21
+Table Carmen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Adilvlad ( $0.91 )
+Seat 2: mickeymucke1 ( $0.59 )
+mickeymucke1 posts small blind [$0.01]
+Adilvlad posts big blind [$0.02]
+** Dealing down cards **
+mickeymucke1 raises [$0.03]
+Adilvlad folds
+** Summary **
+mickeymucke1 collected [ $0.04 ]
+
+

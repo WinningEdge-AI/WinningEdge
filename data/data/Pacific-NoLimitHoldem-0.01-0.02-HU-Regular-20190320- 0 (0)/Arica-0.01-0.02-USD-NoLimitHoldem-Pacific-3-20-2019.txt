@@ -1,0 +1,102 @@
+#Game No : 515288092
+***** 888poker Hand History for Game 515288092 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 15:02:47
+Table Arica 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Fracknell ( $1.10 )
+Seat 9: polomanij94 ( $1.07 )
+Fracknell posts small blind [$0.01]
+polomanij94 posts big blind [$0.02]
+** Dealing down cards **
+Fracknell calls [$0.01]
+polomanij94 raises [$0.06]
+Fracknell folds
+** Summary **
+polomanij94 collected [ $0.04 ]
+
+
+#Game No : 515288110
+***** 888poker Hand History for Game 515288110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 15:03:07
+Table Arica 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Fracknell ( $1.08 )
+Seat 9: polomanij94 ( $1.09 )
+polomanij94 posts small blind [$0.01]
+Fracknell posts big blind [$0.02]
+** Dealing down cards **
+polomanij94 folds
+** Summary **
+Fracknell collected [ $0.03 ]
+
+
+#Game No : 515288124
+***** 888poker Hand History for Game 515288124 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 15:03:24
+Table Arica 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Fracknell ( $1.09 )
+Seat 9: polomanij94 ( $1.08 )
+Fracknell posts small blind [$0.01]
+** Dealing down cards **
+polomanij94 folds
+** Summary **
+Fracknell collected [ $0.01 ]
+
+
+#Game No : 515288378
+***** 888poker Hand History for Game 515288378 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 15:08:39
+Table Arica 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: VDagostino ( $2.35 )
+Seat 6: poompah ( $1 )
+VDagostino posts small blind [$0.01]
+poompah posts big blind [$0.02]
+** Dealing down cards **
+VDagostino raises [$0.03]
+poompah calls [$0.02]
+** Dealing flop ** [ Ts, 2c, Th ]
+poompah checks
+VDagostino checks
+** Dealing turn ** [ Qd ]
+poompah bets [$0.04]
+VDagostino calls [$0.04]
+** Dealing river ** [ Jc ]
+poompah checks
+VDagostino checks
+** Summary **
+poompah shows [ 6s, 4s ]
+VDagostino shows [ 7c, Ks ]
+VDagostino collected [ $0.15 ]
+
+
+#Game No : 515288408
+***** 888poker Hand History for Game 515288408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 15:09:17
+Table Arica 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: VDagostino ( $2.42 )
+Seat 6: poompah ( $1 )
+poompah posts small blind [$0.01]
+VDagostino posts big blind [$0.02]
+** Dealing down cards **
+poompah raises [$0.04]
+VDagostino calls [$0.03]
+** Dealing flop ** [ 8h, Jh, 8s ]
+VDagostino checks
+poompah bets [$0.04]
+VDagostino calls [$0.04]
+** Dealing turn ** [ 2c ]
+VDagostino checks
+poompah bets [$0.09]
+VDagostino folds
+** Summary **
+poompah collected [ $0.17 ]
+
+

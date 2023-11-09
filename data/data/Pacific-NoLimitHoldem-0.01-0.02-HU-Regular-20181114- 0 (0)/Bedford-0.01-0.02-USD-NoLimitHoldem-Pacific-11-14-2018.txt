@@ -1,0 +1,132 @@
+#Game No : 1223715039
+***** 888poker Hand History for Game 1223715039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 00:32:03
+Table Bedford 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hesvubean ( $1.16 )
+Seat 9: pobeda53 ( $1 )
+hesvubean posts small blind [$0.01]
+pobeda53 posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+pobeda53 checks
+** Dealing flop ** [ 9d, Th, 6c ]
+pobeda53 checks
+hesvubean checks
+** Dealing turn ** [ 7s ]
+pobeda53 bets [$0.02]
+hesvubean calls [$0.02]
+** Dealing river ** [ 8s ]
+pobeda53 checks
+hesvubean checks
+** Summary **
+pobeda53 shows [ 7h, 2h ]
+hesvubean shows [ Ks, 5d ]
+pobeda53 collected [ $0.04 ]
+hesvubean collected [ $0.04 ]
+
+
+#Game No : 1223715095
+***** 888poker Hand History for Game 1223715095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 00:32:27
+Table Bedford 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: hesvubean ( $1.16 )
+Seat 9: pobeda53 ( $1 )
+pobeda53 posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+pobeda53 folds
+** Summary **
+hesvubean did not show his hand
+hesvubean collected [ $0.03 ]
+
+
+#Game No : 1223715110
+***** 888poker Hand History for Game 1223715110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 00:32:33
+Table Bedford 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hesvubean ( $1.17 )
+Seat 9: pobeda53 ( $0.99 )
+hesvubean posts small blind [$0.01]
+pobeda53 posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+pobeda53 checks
+** Dealing flop ** [ Jd, 6d, 8h ]
+pobeda53 bets [$0.02]
+hesvubean calls [$0.02]
+** Dealing turn ** [ 9s ]
+pobeda53 bets [$0.02]
+hesvubean calls [$0.02]
+** Dealing river ** [ Qd ]
+pobeda53 bets [$0.02]
+hesvubean calls [$0.02]
+** Summary **
+pobeda53 shows [ 8d, 7d ]
+hesvubean mucks [ 6c, 9d ]
+pobeda53 collected [ $0.15 ]
+
+
+#Game No : 1223715152
+***** 888poker Hand History for Game 1223715152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 00:32:58
+Table Bedford 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: hesvubean ( $1.09 )
+Seat 9: pobeda53 ( $1.06 )
+pobeda53 posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+pobeda53 calls [$0.01]
+hesvubean checks
+** Dealing flop ** [ 7h, 8s, 2c ]
+hesvubean checks
+pobeda53 bets [$0.02]
+hesvubean raises [$0.04]
+pobeda53 calls [$0.02]
+** Dealing turn ** [ Kd ]
+hesvubean bets [$0.02]
+pobeda53 calls [$0.02]
+** Dealing river ** [ 8c ]
+hesvubean checks
+pobeda53 checks
+** Summary **
+hesvubean shows [ 5h, 8d ]
+pobeda53 mucks [ Qs, Qh ]
+hesvubean collected [ $0.15 ]
+
+
+#Game No : 1223715201
+***** 888poker Hand History for Game 1223715201 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 00:33:25
+Table Bedford 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: hesvubean ( $1.16 )
+Seat 9: pobeda53 ( $0.98 )
+hesvubean posts small blind [$0.01]
+pobeda53 posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+pobeda53 checks
+** Dealing flop ** [ 3h, 8h, Qh ]
+pobeda53 checks
+hesvubean checks
+** Dealing turn ** [ As ]
+pobeda53 checks
+hesvubean checks
+** Dealing river ** [ Js ]
+pobeda53 checks
+hesvubean bets [$0.02]
+pobeda53 folds
+** Summary **
+hesvubean did not show his hand
+hesvubean collected [ $0.04 ]
+
+

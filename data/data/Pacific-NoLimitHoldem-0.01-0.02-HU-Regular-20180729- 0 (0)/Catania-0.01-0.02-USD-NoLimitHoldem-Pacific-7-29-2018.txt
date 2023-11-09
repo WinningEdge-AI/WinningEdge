@@ -1,0 +1,235 @@
+#Game No : 500135183
+***** 888poker Hand History for Game 500135183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:26:30
+Table Catania 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: zrito ( $1.60 )
+Seat 9: go_atirez ( $3.81 )
+zrito posts small blind [$0.01]
+go_atirez posts big blind [$0.02]
+** Dealing down cards **
+zrito raises [$0.03]
+go_atirez folds
+** Summary **
+zrito collected [ $0.04 ]
+
+
+#Game No : 500135192
+***** 888poker Hand History for Game 500135192 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:26:39
+Table Catania 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: zrito ( $1.62 )
+Seat 9: go_atirez ( $3.79 )
+go_atirez posts small blind [$0.01]
+zrito posts big blind [$0.02]
+** Dealing down cards **
+go_atirez raises [$0.03]
+zrito raises [$1.60]
+go_atirez folds
+** Summary **
+zrito collected [ $0.08 ]
+
+
+#Game No : 500135206
+***** 888poker Hand History for Game 500135206 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:27:00
+Table Catania 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: zrito ( $1.66 )
+Seat 9: go_atirez ( $3.75 )
+zrito posts small blind [$0.01]
+** Dealing down cards **
+go_atirez folds
+** Summary **
+zrito collected [ $0.01 ]
+
+
+#Game No : 500135230
+***** 888poker Hand History for Game 500135230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:27:29
+Table Catania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kitana.1 ( $1 )
+Seat 6: buddeo ( $0.80 )
+kitana.1 posts small blind [$0.01]
+buddeo posts big blind [$0.02]
+** Dealing down cards **
+kitana.1 calls [$0.01]
+buddeo checks
+** Dealing flop ** [ Ah, Ks, Ts ]
+buddeo checks
+kitana.1 checks
+** Dealing turn ** [ 2d ]
+buddeo checks
+kitana.1 checks
+** Dealing river ** [ 7d ]
+buddeo checks
+kitana.1 checks
+** Summary **
+buddeo shows [ 4h, 4c ]
+kitana.1 mucks [ 9h, 5s ]
+buddeo collected [ $0.04 ]
+
+
+#Game No : 500135246
+***** 888poker Hand History for Game 500135246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:27:52
+Table Catania 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: kitana.1 ( $0.98 )
+Seat 6: buddeo ( $0.82 )
+buddeo posts small blind [$0.01]
+kitana.1 posts big blind [$0.02]
+** Dealing down cards **
+buddeo calls [$0.01]
+kitana.1 checks
+** Dealing flop ** [ Td, Th, Qh ]
+kitana.1 checks
+buddeo checks
+** Dealing turn ** [ 2c ]
+kitana.1 checks
+buddeo checks
+** Dealing river ** [ 6c ]
+kitana.1 checks
+buddeo checks
+** Summary **
+kitana.1 shows [ 5h, 7s ]
+buddeo shows [ 5s, Jd ]
+buddeo collected [ $0.04 ]
+
+
+#Game No : 500135269
+***** 888poker Hand History for Game 500135269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:28:19
+Table Catania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kitana.1 ( $0.96 )
+Seat 6: buddeo ( $0.84 )
+kitana.1 posts small blind [$0.01]
+buddeo posts big blind [$0.02]
+** Dealing down cards **
+kitana.1 calls [$0.01]
+buddeo checks
+** Dealing flop ** [ 9s, Jc, Th ]
+buddeo bets [$0.04]
+kitana.1 folds
+** Summary **
+buddeo collected [ $0.04 ]
+
+
+#Game No : 500135286
+***** 888poker Hand History for Game 500135286 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:28:39
+Table Catania 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: kitana.1 ( $0.94 )
+Seat 6: buddeo ( $0.86 )
+buddeo posts small blind [$0.01]
+kitana.1 posts big blind [$0.02]
+** Dealing down cards **
+buddeo calls [$0.01]
+kitana.1 checks
+** Dealing flop ** [ 6h, Qh, 8h ]
+kitana.1 bets [$0.02]
+buddeo calls [$0.02]
+** Dealing turn ** [ Jc ]
+kitana.1 checks
+buddeo checks
+** Dealing river ** [ Tc ]
+kitana.1 bets [$0.02]
+buddeo calls [$0.02]
+** Summary **
+kitana.1 shows [ 9d, 6c ]
+buddeo mucks [ 7s, 7c ]
+kitana.1 collected [ $0.12 ]
+
+
+#Game No : 500135310
+***** 888poker Hand History for Game 500135310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:29:11
+Table Catania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kitana.1 ( $1 )
+Seat 6: buddeo ( $0.80 )
+kitana.1 posts small blind [$0.01]
+buddeo posts big blind [$0.02]
+** Dealing down cards **
+kitana.1 calls [$0.01]
+buddeo checks
+** Dealing flop ** [ Jh, 7d, Kh ]
+buddeo checks
+kitana.1 bets [$0.02]
+buddeo folds
+** Summary **
+kitana.1 collected [ $0.04 ]
+
+
+#Game No : 500135325
+***** 888poker Hand History for Game 500135325 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:29:31
+Table Catania 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: kitana.1 ( $1.02 )
+Seat 6: buddeo ( $0.78 )
+buddeo posts small blind [$0.01]
+kitana.1 posts big blind [$0.02]
+** Dealing down cards **
+buddeo calls [$0.01]
+kitana.1 checks
+** Dealing flop ** [ Ts, 9h, Tc ]
+kitana.1 checks
+buddeo checks
+** Dealing turn ** [ 3s ]
+kitana.1 bets [$0.02]
+buddeo folds
+** Summary **
+kitana.1 collected [ $0.04 ]
+
+
+#Game No : 500135345
+***** 888poker Hand History for Game 500135345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:29:51
+Table Catania 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kitana.1 ( $1.04 )
+Seat 6: buddeo ( $0.76 )
+kitana.1 posts small blind [$0.01]
+buddeo posts big blind [$0.02]
+** Dealing down cards **
+kitana.1 calls [$0.01]
+buddeo checks
+** Dealing flop ** [ Jd, 2d, 5s ]
+buddeo checks
+kitana.1 bets [$0.04]
+buddeo folds
+** Summary **
+kitana.1 collected [ $0.04 ]
+
+
+#Game No : 500135363
+***** 888poker Hand History for Game 500135363 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 14:30:08
+Table Catania 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: kitana.1 ( $1.06 )
+Seat 6: buddeo ( $0.74 )
+buddeo posts small blind [$0.01]
+kitana.1 posts big blind [$0.02]
+** Dealing down cards **
+buddeo folds
+** Summary **
+kitana.1 collected [ $0.03 ]
+
+

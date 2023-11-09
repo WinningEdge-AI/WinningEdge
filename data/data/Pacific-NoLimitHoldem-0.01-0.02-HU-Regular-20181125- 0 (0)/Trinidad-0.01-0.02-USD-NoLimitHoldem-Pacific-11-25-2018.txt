@@ -1,0 +1,47 @@
+#Game No : 611249198
+***** 888poker Hand History for Game 611249198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 19:06:48
+Table Trinidad 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: boru99 ( $0.58 )
+Seat 10: fearace2 ( $2.56 )
+boru99 posts small blind [$0.01]
+fearace2 posts big blind [$0.02]
+** Dealing down cards **
+boru99 raises [$0.03]
+fearace2 calls [$0.02]
+** Dealing flop ** [ Tc, Js, 2s ]
+fearace2 checks
+boru99 bets [$0.05]
+fearace2 calls [$0.05]
+** Dealing turn ** [ Th ]
+fearace2 checks
+boru99 checks
+** Dealing river ** [ 7h ]
+fearace2 checks
+boru99 checks
+** Summary **
+fearace2 shows [ Qs, 3s ]
+boru99 shows [ Kd, As ]
+boru99 collected [ $0.17 ]
+
+
+#Game No : 611249216
+***** 888poker Hand History for Game 611249216 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 11 2018 19:07:35
+Table Trinidad 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: boru99 ( $0.66 )
+Seat 10: fearace2 ( $2.47 )
+fearace2 posts small blind [$0.01]
+boru99 posts big blind [$0.02]
+** Dealing down cards **
+fearace2 calls [$0.01]
+boru99 raises [$0.04]
+fearace2 folds
+** Summary **
+boru99 collected [ $0.04 ]
+
+

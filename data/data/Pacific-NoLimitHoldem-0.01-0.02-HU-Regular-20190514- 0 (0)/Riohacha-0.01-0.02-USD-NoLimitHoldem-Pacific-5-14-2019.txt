@@ -1,0 +1,66 @@
+#Game No : 465073100
+***** 888poker Hand History for Game 465073100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 07:50:18
+Table Riohacha 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: pettyxu08 ( $0.93 )
+Seat 6: Xaxaxa99999 ( $1 )
+Xaxaxa99999 posts small blind [$0.01]
+pettyxu08 posts big blind [$0.02]
+** Dealing down cards **
+Xaxaxa99999 raises [$0.04]
+pettyxu08 folds
+** Summary **
+Xaxaxa99999 collected [ $0.04 ]
+
+
+#Game No : 465073104
+***** 888poker Hand History for Game 465073104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 07:50:26
+Table Riohacha 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pettyxu08 ( $0.91 )
+Seat 6: Xaxaxa99999 ( $1.02 )
+pettyxu08 posts small blind [$0.01]
+Xaxaxa99999 posts big blind [$0.02]
+** Dealing down cards **
+pettyxu08 calls [$0.01]
+Xaxaxa99999 checks
+** Dealing flop ** [ 6s, 2d, Ts ]
+Xaxaxa99999 checks
+pettyxu08 bets [$0.02]
+Xaxaxa99999 folds
+** Summary **
+pettyxu08 collected [ $0.04 ]
+
+
+#Game No : 465073155
+***** 888poker Hand History for Game 465073155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 05 2019 07:52:27
+Table Riohacha 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: NikolasC14 ( $1 )
+Seat 7: ZIOBEST1 ( $0.80 )
+ZIOBEST1 posts small blind [$0.01]
+NikolasC14 posts big blind [$0.02]
+** Dealing down cards **
+ZIOBEST1 calls [$0.01]
+NikolasC14 checks
+** Dealing flop ** [ 2h, Qd, 6d ]
+NikolasC14 checks
+ZIOBEST1 checks
+** Dealing turn ** [ Ad ]
+NikolasC14 checks
+ZIOBEST1 checks
+** Dealing river ** [ 8s ]
+NikolasC14 checks
+ZIOBEST1 checks
+** Summary **
+NikolasC14 shows [ 5s, 2d ]
+ZIOBEST1 mucks [ 9s, 3h ]
+NikolasC14 collected [ $0.04 ]
+
+

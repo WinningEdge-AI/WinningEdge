@@ -1,0 +1,107 @@
+#Game No : 1249382423
+***** 888poker Hand History for Game 1249382423 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 02 2019 07:09:07
+Table Lakewood 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: SlikvsSlik ( $1.09 )
+Seat 9: CallMeMahmud ( $0.81 )
+SlikvsSlik posts small blind [$0.01]
+** Dealing down cards **
+CallMeMahmud folds
+** Summary **
+SlikvsSlik did not show his hand
+SlikvsSlik collected [ $0.01 ]
+
+
+#Game No : 1249405348
+***** 888poker Hand History for Game 1249405348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 02 2019 08:53:05
+Table Lakewood 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: raygym ( $1 )
+Seat 6: HightKing ( $1.88 )
+raygym posts small blind [$0.01]
+HightKing posts big blind [$0.02]
+** Dealing down cards **
+raygym folds
+** Summary **
+HightKing collected [ $0.03 ]
+
+
+#Game No : 1249405721
+***** 888poker Hand History for Game 1249405721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 02 2019 08:54:36
+Table Lakewood 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: raygym ( $1 )
+Seat 7: TimofeiR ( $0.80 )
+TimofeiR posts small blind [$0.01]
+raygym posts big blind [$0.02]
+** Dealing down cards **
+TimofeiR calls [$0.01]
+raygym checks
+** Dealing flop ** [ Js, 4h, Kd ]
+raygym checks
+TimofeiR bets [$0.02]
+raygym folds
+** Summary **
+TimofeiR collected [ $0.04 ]
+
+
+#Game No : 1249405817
+***** 888poker Hand History for Game 1249405817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 02 2019 08:55:00
+Table Lakewood 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: raygym ( $1 )
+Seat 7: TimofeiR ( $0.82 )
+raygym posts small blind [$0.01]
+TimofeiR posts big blind [$0.02]
+** Dealing down cards **
+raygym raises [$0.05]
+TimofeiR calls [$0.04]
+** Dealing flop ** [ 7d, 6h, 8d ]
+TimofeiR checks
+raygym bets [$0.04]
+TimofeiR calls [$0.04]
+** Dealing turn ** [ Ts ]
+TimofeiR checks
+raygym bets [$0.09]
+TimofeiR folds
+** Summary **
+raygym collected [ $0.19 ]
+
+
+#Game No : 1249446444
+***** 888poker Hand History for Game 1249446444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 02 2019 11:29:44
+Table Lakewood 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Ranen014 ( $0.92 )
+Seat 7: lollopapa ( $1.19 )
+lollopapa posts small blind [$0.01]
+Ranen014 posts big blind [$0.02]
+** Dealing down cards **
+lollopapa calls [$0.01]
+Ranen014 checks
+** Dealing flop ** [ Qc, 9s, 9c ]
+Ranen014 bets [$0.02]
+lollopapa calls [$0.02]
+** Dealing turn ** [ 7d ]
+Ranen014 bets [$0.02]
+lollopapa raises [$0.04]
+Ranen014 calls [$0.02]
+** Dealing river ** [ 7h ]
+Ranen014 bets [$0.10]
+lollopapa calls [$0.10]
+** Summary **
+Ranen014 shows [ Kc, 7s ]
+lollopapa shows [ 9h, 6h ]
+lollopapa collected [ $0.34 ]
+
+

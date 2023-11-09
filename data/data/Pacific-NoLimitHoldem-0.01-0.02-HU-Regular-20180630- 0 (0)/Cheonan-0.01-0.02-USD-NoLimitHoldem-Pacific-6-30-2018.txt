@@ -1,0 +1,92 @@
+#Game No : 504606385
+***** 888poker Hand History for Game 504606385 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 18:00:07
+Table Cheonan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: amtykaer ( $0.87 )
+Seat 4: Amypuh ( $0.73 )
+Amypuh posts small blind [$0.01]
+amtykaer posts big blind [$0.02]
+** Dealing down cards **
+Amypuh raises [$0.03]
+amtykaer folds
+** Summary **
+Amypuh did not show his hand
+Amypuh collected [ $0.04 ]
+
+
+#Game No : 504606404
+***** 888poker Hand History for Game 504606404 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 18:00:11
+Table Cheonan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: amtykaer ( $0.85 )
+Seat 4: Amypuh ( $0.75 )
+amtykaer posts small blind [$0.01]
+Amypuh posts big blind [$0.02]
+** Dealing down cards **
+amtykaer raises [$0.05]
+Amypuh calls [$0.04]
+** Dealing flop ** [ 5d, 2d, 3h ]
+Amypuh checks
+amtykaer bets [$0.06]
+Amypuh calls [$0.06]
+** Dealing turn ** [ 3c ]
+Amypuh bets [$0.02]
+amtykaer calls [$0.02]
+** Dealing river ** [ Qd ]
+Amypuh bets [$0.14]
+amtykaer folds
+** Summary **
+Amypuh collected [ $0.27 ]
+
+
+#Game No : 504606883
+***** 888poker Hand History for Game 504606883 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 18:06:17
+Table Cheonan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Youwontcame1 ( $0.77 )
+Seat 5: spinck ( $2.27 )
+spinck posts small blind [$0.01]
+Youwontcame1 posts big blind [$0.02]
+** Dealing down cards **
+spinck calls [$0.01]
+Youwontcame1 checks
+** Dealing flop ** [ 4s, Ah, Jc ]
+Youwontcame1 checks
+spinck checks
+** Dealing turn ** [ Jh ]
+Youwontcame1 checks
+spinck checks
+** Dealing river ** [ Qs ]
+Youwontcame1 bets [$0.02]
+spinck calls [$0.02]
+** Summary **
+Youwontcame1 shows [ 6s, 9c ]
+spinck shows [ 6c, 9s ]
+Youwontcame1 collected [ $0.04 ]
+spinck collected [ $0.04 ]
+
+
+#Game No : 504606928
+***** 888poker Hand History for Game 504606928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 06 2018 18:06:44
+Table Cheonan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Youwontcame1 ( $0.77 )
+Seat 5: spinck ( $2.27 )
+Youwontcame1 posts small blind [$0.01]
+spinck posts big blind [$0.02]
+** Dealing down cards **
+Youwontcame1 raises [$0.03]
+spinck folds
+** Summary **
+Youwontcame1 did not show his hand
+Youwontcame1 collected [ $0.04 ]
+
+

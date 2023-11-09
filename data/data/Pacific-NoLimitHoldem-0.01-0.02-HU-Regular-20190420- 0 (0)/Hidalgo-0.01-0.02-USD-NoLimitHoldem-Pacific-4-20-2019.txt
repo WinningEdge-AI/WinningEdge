@@ -1,0 +1,74 @@
+#Game No : 618926578
+***** 888poker Hand History for Game 618926578 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 02:14:47
+Table Hidalgo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: MikeClea ( $0.99 )
+Seat 2: 19_Sergei_66 ( $0.81 )
+19_Sergei_66 posts small blind [$0.01]
+MikeClea posts big blind [$0.02]
+** Dealing down cards **
+19_Sergei_66 calls [$0.01]
+MikeClea checks
+** Dealing flop ** [ 2h, 2d, 9h ]
+MikeClea checks
+19_Sergei_66 checks
+** Dealing turn ** [ Jc ]
+MikeClea checks
+19_Sergei_66 bets [$0.02]
+MikeClea folds
+** Summary **
+19_Sergei_66 did not show his hand
+19_Sergei_66 collected [ $0.04 ]
+
+
+#Game No : 618926583
+***** 888poker Hand History for Game 618926583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 02:14:59
+Table Hidalgo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MikeClea ( $0.97 )
+Seat 2: 19_Sergei_66 ( $0.83 )
+MikeClea posts small blind [$0.01]
+19_Sergei_66 posts big blind [$0.02]
+** Dealing down cards **
+MikeClea calls [$0.01]
+19_Sergei_66 checks
+** Dealing flop ** [ 6c, Ad, Qc ]
+19_Sergei_66 checks
+MikeClea checks
+** Dealing turn ** [ 6h ]
+19_Sergei_66 checks
+MikeClea checks
+** Dealing river ** [ 7d ]
+19_Sergei_66 bets [$0.02]
+MikeClea calls [$0.02]
+** Summary **
+19_Sergei_66 shows [ 6s, Ts ]
+MikeClea mucks [ 7h, 5c ]
+19_Sergei_66 collected [ $0.08 ]
+
+
+#Game No : 618926592
+***** 888poker Hand History for Game 618926592 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 04 2019 02:15:17
+Table Hidalgo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: MikeClea ( $0.93 )
+Seat 2: 19_Sergei_66 ( $0.87 )
+19_Sergei_66 posts small blind [$0.01]
+MikeClea posts big blind [$0.02]
+** Dealing down cards **
+19_Sergei_66 calls [$0.01]
+MikeClea checks
+** Dealing flop ** [ Js, Ks, 5h ]
+MikeClea checks
+19_Sergei_66 bets [$0.02]
+MikeClea folds
+** Summary **
+19_Sergei_66 collected [ $0.04 ]
+
+

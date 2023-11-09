@@ -1,0 +1,46 @@
+#Game No : 506493160
+***** 888poker Hand History for Game 506493160 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 19:25:20
+Table Murcia 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: smutyan72 ( $1.73 )
+Seat 6: brohster ( $2.03 )
+smutyan72 posts small blind [$0.01]
+brohster posts big blind [$0.02]
+** Dealing down cards **
+smutyan72 calls [$0.01]
+brohster checks
+** Dealing flop ** [ 4s, 7c, 5d ]
+brohster checks
+smutyan72 bets [$0.04]
+brohster calls [$0.04]
+** Dealing turn ** [ 3c ]
+brohster checks
+smutyan72 checks
+** Dealing river ** [ 5c ]
+brohster checks
+smutyan72 bets [$0.04]
+brohster calls [$0.04]
+** Summary **
+smutyan72 shows [ Ks, 7s ]
+brohster mucks [ 9s, 7d ]
+smutyan72 collected [ $0.19 ]
+
+
+#Game No : 506493171
+***** 888poker Hand History for Game 506493171 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 19:25:58
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: smutyan72 ( $1.82 )
+Seat 6: brohster ( $1.93 )
+brohster posts small blind [$0.01]
+** Dealing down cards **
+smutyan72 folds
+** Summary **
+brohster did not show his hand
+brohster collected [ $0.01 ]
+
+

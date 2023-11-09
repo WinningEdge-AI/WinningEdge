@@ -1,0 +1,696 @@
+#Game No : 502990661
+***** 888poker Hand History for Game 502990661 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 07:07:30
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 4: Kaluci14 ( $1.44 )
+Seat 7: sofebug ( $3.58 )
+Kaluci14 posts small blind [$0.01]
+sofebug posts big blind [$0.02]
+** Dealing down cards **
+Kaluci14 raises [$0.05]
+sofebug folds
+** Summary **
+Kaluci14 did not show his hand
+Kaluci14 collected [ $0.04 ]
+
+
+#Game No : 502990676
+***** 888poker Hand History for Game 502990676 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 07:07:42
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kaluci14 ( $1.46 )
+Seat 7: sofebug ( $3.56 )
+Kaluci14 posts small blind [$0.01]
+sofebug posts big blind [$0.02]
+** Dealing down cards **
+Kaluci14 raises [$0.05]
+sofebug folds
+** Summary **
+Kaluci14 collected [ $0.04 ]
+
+
+#Game No : 502990682
+***** 888poker Hand History for Game 502990682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 07:07:51
+Table Tulua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Kaluci14 ( $1.48 )
+Seat 7: sofebug ( $3.54 )
+sofebug posts small blind [$0.01]
+Kaluci14 posts big blind [$0.02]
+** Dealing down cards **
+sofebug folds
+** Summary **
+Kaluci14 collected [ $0.03 ]
+
+
+#Game No : 503001852
+***** 888poker Hand History for Game 503001852 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 09:46:45
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vladnosik ( $1 )
+Seat 4: smarttomcat ( $1.31 )
+smarttomcat posts small blind [$0.01]
+vladnosik posts big blind [$0.02]
+** Dealing down cards **
+smarttomcat calls [$0.01]
+vladnosik checks
+** Dealing flop ** [ As, 6d, 7c ]
+vladnosik checks
+smarttomcat checks
+** Dealing turn ** [ 4c ]
+vladnosik bets [$0.04]
+smarttomcat calls [$0.04]
+** Dealing river ** [ Kd ]
+vladnosik checks
+smarttomcat bets [$0.02]
+vladnosik calls [$0.02]
+** Summary **
+smarttomcat shows [ 6c, 2c ]
+vladnosik shows [ 6h, 7h ]
+vladnosik collected [ $0.15 ]
+
+
+#Game No : 503001909
+***** 888poker Hand History for Game 503001909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 09:47:28
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vladnosik ( $1.07 )
+Seat 4: smarttomcat ( $1.23 )
+vladnosik posts small blind [$0.01]
+smarttomcat posts big blind [$0.02]
+** Dealing down cards **
+vladnosik raises [$0.05]
+smarttomcat calls [$0.04]
+** Dealing flop ** [ 6c, 9d, As ]
+smarttomcat checks
+vladnosik checks
+** Dealing turn ** [ 7d ]
+smarttomcat bets [$0.06]
+vladnosik folds
+** Summary **
+smarttomcat collected [ $0.12 ]
+
+
+#Game No : 503001985
+***** 888poker Hand History for Game 503001985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 09:48:19
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vladnosik ( $1.01 )
+Seat 4: smarttomcat ( $1.29 )
+smarttomcat posts small blind [$0.01]
+vladnosik posts big blind [$0.02]
+** Dealing down cards **
+smarttomcat folds
+** Summary **
+vladnosik collected [ $0.03 ]
+
+
+#Game No : 503001991
+***** 888poker Hand History for Game 503001991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 09:48:24
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vladnosik ( $1.02 )
+Seat 4: smarttomcat ( $1.28 )
+vladnosik posts small blind [$0.01]
+smarttomcat posts big blind [$0.02]
+** Dealing down cards **
+vladnosik raises [$0.03]
+smarttomcat raises [$0.06]
+vladnosik raises [$0.12]
+smarttomcat calls [$0.08]
+** Dealing flop ** [ 8h, 4h, 3c ]
+smarttomcat checks
+vladnosik bets [$0.16]
+smarttomcat folds
+** Summary **
+vladnosik collected [ $0.30 ]
+
+
+#Game No : 503002040
+***** 888poker Hand History for Game 503002040 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 09:49:00
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: vladnosik ( $1.16 )
+Seat 4: smarttomcat ( $1.12 )
+smarttomcat posts small blind [$0.01]
+vladnosik posts big blind [$0.02]
+** Dealing down cards **
+smarttomcat calls [$0.01]
+vladnosik checks
+** Dealing flop ** [ 9d, 3c, Kc ]
+vladnosik bets [$0.02]
+smarttomcat folds
+** Summary **
+vladnosik collected [ $0.04 ]
+
+
+#Game No : 503002631
+***** 888poker Hand History for Game 503002631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 09:56:26
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Coffik9 ( $2.73 )
+Seat 4: smarttomcat ( $1.14 )
+smarttomcat posts small blind [$0.01]
+Coffik9 posts big blind [$0.02]
+** Dealing down cards **
+smarttomcat raises [$0.03]
+Coffik9 folds
+** Summary **
+smarttomcat collected [ $0.04 ]
+
+
+#Game No : 503002648
+***** 888poker Hand History for Game 503002648 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 09:56:36
+Table Tulua 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Coffik9 ( $2.71 )
+Seat 4: smarttomcat ( $1.16 )
+Coffik9 posts small blind [$0.01]
+smarttomcat posts big blind [$0.02]
+** Dealing down cards **
+Coffik9 raises [$0.03]
+smarttomcat calls [$0.02]
+** Dealing flop ** [ Js, Th, 4h ]
+smarttomcat checks
+Coffik9 checks
+** Dealing turn ** [ Kc ]
+smarttomcat checks
+Coffik9 bets [$0.06]
+smarttomcat calls [$0.06]
+** Dealing river ** [ 8d ]
+smarttomcat checks
+Coffik9 bets [$0.14]
+smarttomcat calls [$0.14]
+** Summary **
+Coffik9 shows [ Kh, 3s ]
+smarttomcat shows [ Jd, 4d ]
+smarttomcat collected [ $0.45 ]
+
+
+#Game No : 503002705
+***** 888poker Hand History for Game 503002705 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 09:57:24
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Coffik9 ( $2.47 )
+Seat 4: smarttomcat ( $1.37 )
+smarttomcat posts small blind [$0.01]
+Coffik9 posts big blind [$0.02]
+** Dealing down cards **
+smarttomcat raises [$0.03]
+Coffik9 raises [$0.16]
+smarttomcat calls [$0.14]
+** Dealing flop ** [ Qs, 4s, 3d ]
+Coffik9 bets [$0.14]
+smarttomcat calls [$0.14]
+** Dealing turn ** [ Jh ]
+Coffik9 bets [$0.38]
+smarttomcat calls [$0.38]
+** Dealing river ** [ Th ]
+Coffik9 bets [$0.70]
+smarttomcat calls [$0.67]
+** Summary **
+Coffik9 shows [ 6d, 5d ]
+smarttomcat shows [ Qh, Kh ]
+smarttomcat collected [ $2.57 ]
+
+
+#Game No : 503027961
+***** 888poker Hand History for Game 503027961 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 15:06:35
+Table Tulua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: pr5566 ( $1.57 )
+Seat 7: Linar5 ( $3.47 )
+pr5566 posts small blind [$0.01]
+Linar5 posts big blind [$0.02]
+** Dealing down cards **
+pr5566 folds
+** Summary **
+Linar5 collected [ $0.03 ]
+
+
+#Game No : 503027974
+***** 888poker Hand History for Game 503027974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 15:06:46
+Table Tulua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: pr5566 ( $1.56 )
+Seat 7: Linar5 ( $3.48 )
+Linar5 posts small blind [$0.01]
+pr5566 posts big blind [$0.02]
+** Dealing down cards **
+Linar5 raises [$0.03]
+pr5566 calls [$0.02]
+** Dealing flop ** [ Qh, 5c, 7s ]
+pr5566 checks
+Linar5 bets [$0.04]
+pr5566 folds
+** Summary **
+Linar5 collected [ $0.08 ]
+
+
+#Game No : 503027998
+***** 888poker Hand History for Game 503027998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 15:07:05
+Table Tulua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: pr5566 ( $1.52 )
+Seat 7: Linar5 ( $3.52 )
+pr5566 posts small blind [$0.01]
+** Dealing down cards **
+Linar5 folds
+** Summary **
+pr5566 collected [ $0.01 ]
+
+
+#Game No : 503033367
+***** 888poker Hand History for Game 503033367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:24:04
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1.11 )
+Seat 6: ruzuj ( $1.26 )
+ruzuj posts small blind [$0.01]
+Spenser88 posts big blind [$0.02]
+** Dealing down cards **
+ruzuj folds
+** Summary **
+Spenser88 collected [ $0.03 ]
+
+
+#Game No : 503033371
+***** 888poker Hand History for Game 503033371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:24:13
+Table Tulua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1.12 )
+Seat 6: ruzuj ( $1.25 )
+ruzuj posts small blind [$0.01]
+Spenser88 posts big blind [$0.02]
+** Dealing down cards **
+ruzuj folds
+** Summary **
+Spenser88 collected [ $0.03 ]
+
+
+#Game No : 503033378
+***** 888poker Hand History for Game 503033378 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:24:19
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1.13 )
+Seat 6: ruzuj ( $1.24 )
+Spenser88 posts small blind [$0.01]
+ruzuj posts big blind [$0.02]
+** Dealing down cards **
+Spenser88 folds
+** Summary **
+ruzuj collected [ $0.03 ]
+
+
+#Game No : 503033427
+***** 888poker Hand History for Game 503033427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:25:07
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1.08 )
+Seat 4: Mr_Morgan14 ( $3.04 )
+Mr_Morgan14 posts small blind [$0.01]
+Spenser88 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 raises [$0.03]
+Spenser88 calls [$0.02]
+** Dealing flop ** [ 3h, 6d, 2s ]
+Spenser88 checks
+Mr_Morgan14 bets [$0.05]
+Spenser88 calls [$0.05]
+** Dealing turn ** [ 9h ]
+Spenser88 checks
+Mr_Morgan14 bets [$0.12]
+Spenser88 calls [$0.12]
+** Dealing river ** [ 8s ]
+Spenser88 checks
+Mr_Morgan14 checks
+** Summary **
+Spenser88 shows [ Kh, Th ]
+Mr_Morgan14 shows [ 7c, 3c ]
+Mr_Morgan14 collected [ $0.40 ]
+
+
+#Game No : 503033448
+***** 888poker Hand History for Game 503033448 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:25:38
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1 )
+Seat 4: Mr_Morgan14 ( $3.23 )
+Spenser88 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+Spenser88 folds
+** Summary **
+Mr_Morgan14 did not show his hand
+Mr_Morgan14 collected [ $0.03 ]
+
+
+#Game No : 503033453
+***** 888poker Hand History for Game 503033453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:25:43
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1 )
+Seat 4: Mr_Morgan14 ( $3.24 )
+Mr_Morgan14 posts small blind [$0.01]
+Spenser88 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 folds
+** Summary **
+Spenser88 did not show his hand
+Spenser88 collected [ $0.03 ]
+
+
+#Game No : 503033455
+***** 888poker Hand History for Game 503033455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:25:49
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1.01 )
+Seat 4: Mr_Morgan14 ( $3.23 )
+Spenser88 posts small blind [$0.01]
+Mr_Morgan14 posts big blind [$0.02]
+** Dealing down cards **
+Spenser88 raises [$0.05]
+Mr_Morgan14 calls [$0.04]
+** Dealing flop ** [ 2c, 3h, 2h ]
+Mr_Morgan14 checks
+Spenser88 checks
+** Dealing turn ** [ Ks ]
+Mr_Morgan14 bets [$0.04]
+Spenser88 calls [$0.04]
+** Dealing river ** [ 9d ]
+Mr_Morgan14 checks
+Spenser88 bets [$0.10]
+Mr_Morgan14 folds
+** Summary **
+Spenser88 collected [ $0.19 ]
+
+
+#Game No : 503033483
+***** 888poker Hand History for Game 503033483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:26:19
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Spenser88 ( $1.10 )
+Seat 4: Mr_Morgan14 ( $3.13 )
+Mr_Morgan14 posts small blind [$0.01]
+Spenser88 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 raises [$0.03]
+Spenser88 calls [$0.02]
+** Dealing flop ** [ 7h, 5d, 2c ]
+Spenser88 checks
+Mr_Morgan14 checks
+** Dealing turn ** [ Qc ]
+Spenser88 checks
+Mr_Morgan14 bets [$0.04]
+Spenser88 calls [$0.04]
+** Dealing river ** [ 7c ]
+Spenser88 checks
+Mr_Morgan14 bets [$0.10]
+Spenser88 calls [$0.10]
+** Summary **
+Mr_Morgan14 shows [ 8h, 3h ]
+Spenser88 shows [ 3d, 7s ]
+Spenser88 collected [ $0.34 ]
+
+
+#Game No : 503033623
+***** 888poker Hand History for Game 503033623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:29:06
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Mr_Morgan14 ( $2.70 )
+Seat 6: Essal53 ( $1.11 )
+Mr_Morgan14 posts small blind [$0.01]
+Essal53 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Morgan14 folds
+** Summary **
+Essal53 did not show his hand
+Essal53 collected [ $0.03 ]
+
+
+#Game No : 503033649
+***** 888poker Hand History for Game 503033649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:29:35
+Table Tulua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: HoseRamirez ( $1 )
+Seat 9: VincentDugan ( $1 )
+VincentDugan posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+VincentDugan raises [$0.03]
+HoseRamirez raises [$0.98]
+VincentDugan calls [$0.96]
+** Dealing flop ** [ 7h, 9d, 8h ]
+** Dealing turn ** [ 6d ]
+** Dealing river ** [ 2h ]
+** Summary **
+HoseRamirez shows [ Td, Tc ]
+VincentDugan shows [ 9h, Jh ]
+VincentDugan collected [ $1.88 ]
+
+
+#Game No : 503033740
+***** 888poker Hand History for Game 503033740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:31:24
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: balladvlad ( $3.53 )
+Seat 7: HoseRamirez ( $1 )
+balladvlad posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+balladvlad raises [$0.03]
+HoseRamirez folds
+** Summary **
+balladvlad collected [ $0.04 ]
+
+
+#Game No : 503033760
+***** 888poker Hand History for Game 503033760 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:31:42
+Table Tulua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: balladvlad ( $3.55 )
+Seat 7: HoseRamirez ( $1 )
+HoseRamirez posts small blind [$0.01]
+balladvlad posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez raises [$0.06]
+balladvlad folds
+** Summary **
+HoseRamirez collected [ $0.04 ]
+
+
+#Game No : 503033775
+***** 888poker Hand History for Game 503033775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:32:00
+Table Tulua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: balladvlad ( $3.52 )
+Seat 7: HoseRamirez ( $1.03 )
+HoseRamirez posts small blind [$0.01]
+balladvlad posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez folds
+** Summary **
+balladvlad collected [ $0.03 ]
+
+
+#Game No : 503033779
+***** 888poker Hand History for Game 503033779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:32:05
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: balladvlad ( $3.53 )
+Seat 7: HoseRamirez ( $1.02 )
+balladvlad posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+balladvlad raises [$0.03]
+HoseRamirez folds
+** Summary **
+balladvlad collected [ $0.04 ]
+
+
+#Game No : 503033787
+***** 888poker Hand History for Game 503033787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:32:15
+Table Tulua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: balladvlad ( $3.55 )
+Seat 7: HoseRamirez ( $1 )
+HoseRamirez posts small blind [$0.01]
+balladvlad posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez folds
+** Summary **
+balladvlad collected [ $0.03 ]
+
+
+#Game No : 503033789
+***** 888poker Hand History for Game 503033789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:32:20
+Table Tulua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: balladvlad ( $3.56 )
+Seat 7: HoseRamirez ( $1 )
+balladvlad posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+balladvlad folds
+** Summary **
+HoseRamirez collected [ $0.03 ]
+
+
+#Game No : 503033865
+***** 888poker Hand History for Game 503033865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:33:39
+Table Tulua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: humanna51 ( $0.80 )
+Seat 7: HoseRamirez ( $1.01 )
+HoseRamirez posts small blind [$0.01]
+humanna51 posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez raises [$0.06]
+humanna51 folds
+** Summary **
+HoseRamirez collected [ $0.04 ]
+
+
+#Game No : 503033875
+***** 888poker Hand History for Game 503033875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:33:51
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: humanna51 ( $0.78 )
+Seat 7: HoseRamirez ( $1.03 )
+humanna51 posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+humanna51 calls [$0.01]
+HoseRamirez checks
+** Dealing flop ** [ Ac, 7h, 3h ]
+HoseRamirez checks
+humanna51 checks
+** Dealing turn ** [ Jh ]
+HoseRamirez checks
+humanna51 checks
+** Dealing river ** [ Qc ]
+HoseRamirez checks
+humanna51 bets [$0.04]
+HoseRamirez folds
+** Summary **
+humanna51 collected [ $0.04 ]
+
+
+#Game No : 503033901
+***** 888poker Hand History for Game 503033901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:34:21
+Table Tulua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: humanna51 ( $0.80 )
+Seat 7: HoseRamirez ( $1.01 )
+HoseRamirez posts small blind [$0.01]
+humanna51 posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez raises [$0.06]
+humanna51 folds
+** Summary **
+HoseRamirez collected [ $0.04 ]
+
+
+#Game No : 503033909
+***** 888poker Hand History for Game 503033909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:34:30
+Table Tulua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: humanna51 ( $0.78 )
+Seat 7: HoseRamirez ( $1.03 )
+humanna51 posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+humanna51 calls [$0.01]
+HoseRamirez checks
+** Dealing flop ** [ Td, 3h, 2c ]
+HoseRamirez bets [$0.06]
+humanna51 raises [$0.12]
+HoseRamirez folds
+** Summary **
+humanna51 collected [ $0.15 ]
+
+
+#Game No : 503033927
+***** 888poker Hand History for Game 503033927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 06 2018 16:34:49
+Table Tulua 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: humanna51 ( $0.85 )
+Seat 7: HoseRamirez ( $1 )
+HoseRamirez posts small blind [$0.01]
+humanna51 posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez folds
+** Summary **
+humanna51 collected [ $0.03 ]
+
+

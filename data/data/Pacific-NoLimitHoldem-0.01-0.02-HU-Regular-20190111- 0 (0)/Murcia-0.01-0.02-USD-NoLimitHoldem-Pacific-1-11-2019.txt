@@ -1,0 +1,184 @@
+#Game No : 521278608
+***** 888poker Hand History for Game 521278608 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 01 2019 00:40:09
+Table Murcia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Chips844 ( $1 )
+Seat 4: Gloria1122 ( $0.80 )
+Chips844 posts small blind [$0.01]
+Gloria1122 posts big blind [$0.02]
+** Dealing down cards **
+Chips844 raises [$0.05]
+Gloria1122 calls [$0.04]
+** Dealing flop ** [ 6c, 8d, 3c ]
+Gloria1122 checks
+Chips844 bets [$0.08]
+Gloria1122 calls [$0.08]
+** Dealing turn ** [ 4c ]
+Gloria1122 checks
+Chips844 checks
+** Dealing river ** [ Ts ]
+Gloria1122 checks
+Chips844 checks
+** Summary **
+Gloria1122 shows [ 6h, Ks ]
+Chips844 mucks [ 6d, 5d ]
+Gloria1122 collected [ $0.27 ]
+
+
+#Game No : 521278652
+***** 888poker Hand History for Game 521278652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 01 2019 00:40:57
+Table Murcia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Chips844 ( $1 )
+Seat 4: Gloria1122 ( $0.93 )
+Gloria1122 posts small blind [$0.01]
+Chips844 posts big blind [$0.02]
+** Dealing down cards **
+Gloria1122 calls [$0.01]
+Chips844 checks
+** Dealing flop ** [ Ah, 6h, 5s ]
+Chips844 checks
+Gloria1122 checks
+** Dealing turn ** [ 5h ]
+Chips844 checks
+Gloria1122 checks
+** Dealing river ** [ 9d ]
+Chips844 checks
+Gloria1122 checks
+** Summary **
+Chips844 shows [ Ts, 8d ]
+Gloria1122 shows [ Qh, 4c ]
+Gloria1122 collected [ $0.04 ]
+
+
+#Game No : 521283948
+***** 888poker Hand History for Game 521283948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 01 2019 02:36:30
+Table Murcia 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Billibin85 ( $3.91 )
+Seat 9: mc121vienna ( $1.49 )
+mc121vienna posts small blind [$0.01]
+Billibin85 posts big blind [$0.02]
+** Dealing down cards **
+mc121vienna calls [$0.01]
+Billibin85 checks
+** Dealing flop ** [ Ts, 9d, 8s ]
+Billibin85 checks
+mc121vienna checks
+** Dealing turn ** [ 2d ]
+Billibin85 bets [$0.06]
+mc121vienna calls [$0.06]
+** Dealing river ** [ Qh ]
+Billibin85 checks
+mc121vienna checks
+** Summary **
+Billibin85 shows [ 2h, 5c ]
+mc121vienna shows [ 3d, Qs ]
+mc121vienna collected [ $0.15 ]
+
+
+#Game No : 521283973
+***** 888poker Hand History for Game 521283973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 01 2019 02:37:04
+Table Murcia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Billibin85 ( $3.83 )
+Seat 9: mc121vienna ( $1.56 )
+Billibin85 posts small blind [$0.01]
+mc121vienna posts big blind [$0.02]
+** Dealing down cards **
+Billibin85 calls [$0.01]
+mc121vienna checks
+** Dealing flop ** [ Tc, 2d, 4c ]
+mc121vienna checks
+Billibin85 bets [$0.04]
+mc121vienna calls [$0.04]
+** Dealing turn ** [ 8s ]
+mc121vienna checks
+Billibin85 bets [$0.06]
+mc121vienna calls [$0.06]
+** Dealing river ** [ Ks ]
+mc121vienna checks
+Billibin85 checks
+** Summary **
+mc121vienna shows [ Kc, 6c ]
+Billibin85 mucks [ Qs, 2h ]
+mc121vienna collected [ $0.23 ]
+
+
+#Game No : 521284182
+***** 888poker Hand History for Game 521284182 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 01 2019 02:41:22
+Table Murcia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Billibin85 ( $4.98 )
+Seat 4: Illiia92 ( $1.10 )
+Billibin85 posts small blind [$0.01]
+Illiia92 posts big blind [$0.02]
+** Dealing down cards **
+Billibin85 calls [$0.01]
+Illiia92 raises [$0.05]
+Billibin85 calls [$0.05]
+** Dealing flop ** [ 7d, Ac, 8d ]
+Illiia92 checks
+Billibin85 bets [$0.07]
+Illiia92 calls [$0.07]
+** Dealing turn ** [ Ts ]
+Illiia92 bets [$0.02]
+Billibin85 calls [$0.02]
+** Dealing river ** [ 9d ]
+Illiia92 bets [$0.21]
+Billibin85 folds
+** Summary **
+Illiia92 collected [ $0.30 ]
+
+
+#Game No : 521284218
+***** 888poker Hand History for Game 521284218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 01 2019 02:42:11
+Table Murcia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Billibin85 ( $4.82 )
+Seat 4: Illiia92 ( $1.24 )
+Illiia92 posts small blind [$0.01]
+Billibin85 posts big blind [$0.02]
+** Dealing down cards **
+Illiia92 raises [$0.03]
+Billibin85 calls [$0.02]
+** Dealing flop ** [ 4s, 8d, 5c ]
+Billibin85 bets [$0.08]
+Illiia92 folds
+** Summary **
+Billibin85 collected [ $0.08 ]
+
+
+#Game No : 521284269
+***** 888poker Hand History for Game 521284269 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 01 2019 02:43:25
+Table Murcia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Billibin85 ( $4.86 )
+Seat 7: sednev478 ( $1 )
+Billibin85 posts small blind [$0.01]
+sednev478 posts big blind [$0.02]
+** Dealing down cards **
+Billibin85 calls [$0.01]
+sednev478 checks
+** Dealing flop ** [ Th, Js, 7c ]
+sednev478 checks
+Billibin85 bets [$0.06]
+sednev478 folds
+** Summary **
+Billibin85 collected [ $0.04 ]
+
+

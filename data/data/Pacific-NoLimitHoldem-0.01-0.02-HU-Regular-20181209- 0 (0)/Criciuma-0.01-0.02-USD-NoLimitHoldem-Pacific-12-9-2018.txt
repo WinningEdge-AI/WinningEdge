@@ -1,0 +1,72 @@
+#Game No : 1230278694
+***** 888poker Hand History for Game 1230278694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2018 11:15:59
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: thickstaff ( $1.63 )
+Seat 2: NickKunitz ( $0.84 )
+NickKunitz posts small blind [$0.01]
+thickstaff posts big blind [$0.02]
+** Dealing down cards **
+NickKunitz folds
+** Summary **
+thickstaff collected [ $0.03 ]
+
+
+#Game No : 1230278726
+***** 888poker Hand History for Game 1230278726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2018 11:16:05
+Table Criciuma 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: thickstaff ( $1.64 )
+Seat 2: NickKunitz ( $0.83 )
+thickstaff posts small blind [$0.01]
+NickKunitz posts big blind [$0.02]
+** Dealing down cards **
+thickstaff calls [$0.01]
+NickKunitz checks
+** Dealing flop ** [ 5h, 3d, Qc ]
+NickKunitz checks
+thickstaff checks
+** Dealing turn ** [ Ts ]
+NickKunitz checks
+thickstaff checks
+** Dealing river ** [ 5d ]
+NickKunitz checks
+thickstaff checks
+** Summary **
+NickKunitz shows [ 3c, Kh ]
+thickstaff mucks [ 7h, 9s ]
+NickKunitz collected [ $0.04 ]
+
+
+#Game No : 1230278879
+***** 888poker Hand History for Game 1230278879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 12 2018 11:16:34
+Table Criciuma 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: thickstaff ( $1.62 )
+Seat 2: NickKunitz ( $0.85 )
+NickKunitz posts small blind [$0.01]
+thickstaff posts big blind [$0.02]
+** Dealing down cards **
+NickKunitz calls [$0.01]
+thickstaff raises [$0.02]
+NickKunitz calls [$0.02]
+** Dealing flop ** [ 4c, 6c, 6s ]
+thickstaff checks
+NickKunitz checks
+** Dealing turn ** [ 3s ]
+thickstaff checks
+NickKunitz checks
+** Dealing river ** [ 7h ]
+thickstaff checks
+NickKunitz bets [$0.06]
+thickstaff folds
+** Summary **
+NickKunitz collected [ $0.08 ]
+
+

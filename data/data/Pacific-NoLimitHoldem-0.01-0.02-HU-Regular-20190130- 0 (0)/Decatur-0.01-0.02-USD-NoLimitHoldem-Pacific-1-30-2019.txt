@@ -1,0 +1,46 @@
+#Game No : 512990115
+***** 888poker Hand History for Game 512990115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 11:32:13
+Table Decatur 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AleksandR400 ( $1 )
+Seat 7: danchapman12 ( $2.34 )
+AleksandR400 posts small blind [$0.01]
+danchapman12 posts big blind [$0.02]
+** Dealing down cards **
+AleksandR400 raises [$0.03]
+danchapman12 folds
+** Summary **
+AleksandR400 did not show his hand
+AleksandR400 collected [ $0.04 ]
+
+
+#Game No : 512990130
+***** 888poker Hand History for Game 512990130 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 11:32:34
+Table Decatur 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: AleksandR400 ( $1.02 )
+Seat 7: danchapman12 ( $2.32 )
+danchapman12 posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+danchapman12 calls [$0.01]
+AleksandR400 checks
+** Dealing flop ** [ Ac, Tc, Td ]
+AleksandR400 bets [$0.04]
+danchapman12 calls [$0.04]
+** Dealing turn ** [ Qc ]
+AleksandR400 checks
+danchapman12 bets [$0.12]
+AleksandR400 calls [$0.12]
+** Dealing river ** [ 2s ]
+AleksandR400 checks
+danchapman12 bets [$0.46]
+AleksandR400 folds
+** Summary **
+danchapman12 collected [ $0.34 ]
+
+

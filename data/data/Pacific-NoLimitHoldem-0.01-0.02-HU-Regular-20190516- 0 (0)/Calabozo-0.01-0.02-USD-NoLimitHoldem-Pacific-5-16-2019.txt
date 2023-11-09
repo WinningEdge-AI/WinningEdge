@@ -1,0 +1,75 @@
+#Game No : 517487664
+***** 888poker Hand History for Game 517487664 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:37:40
+Table Calabozo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Cparkin20 ( $0.87 )
+Seat 6: LuCasLuiZ ( $2.18 )
+LuCasLuiZ posts small blind [$0.01]
+Cparkin20 posts big blind [$0.02]
+** Dealing down cards **
+LuCasLuiZ raises [$0.03]
+Cparkin20 calls [$0.02]
+** Dealing flop ** [ Kd, Ks, 9c ]
+Cparkin20 bets [$0.04]
+LuCasLuiZ calls [$0.04]
+** Dealing turn ** [ Js ]
+Cparkin20 bets [$0.08]
+LuCasLuiZ raises [$0.26]
+Cparkin20 folds
+** Summary **
+LuCasLuiZ collected [ $0.30 ]
+
+
+#Game No : 517488094
+***** 888poker Hand History for Game 517488094 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:58:25
+Table Calabozo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Cparkin20 ( $4.98 )
+Seat 9: VictimVIP ( $1 )
+VictimVIP posts small blind [$0.01]
+Cparkin20 posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.05]
+Cparkin20 calls [$0.04]
+** Dealing flop ** [ Jd, 5s, 9d ]
+Cparkin20 checks
+VictimVIP bets [$0.06]
+Cparkin20 calls [$0.06]
+** Dealing turn ** [ Jh ]
+Cparkin20 checks
+VictimVIP bets [$0.16]
+Cparkin20 calls [$0.16]
+** Dealing river ** [ 2c ]
+Cparkin20 checks
+VictimVIP checks
+** Summary **
+Cparkin20 shows [ Kh, Jc ]
+VictimVIP mucks [ Ad, Qd ]
+Cparkin20 collected [ $0.53 ]
+
+
+#Game No : 517488105
+***** 888poker Hand History for Game 517488105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 05 2019 16:58:30
+Table Calabozo 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Cparkin20 ( $5.23 )
+Seat 9: VictimVIP ( $1 )
+Cparkin20 posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+Cparkin20 calls [$0.01]
+VictimVIP checks
+** Dealing flop ** [ 4s, 6d, Jd ]
+VictimVIP checks
+Cparkin20 bets [$0.02]
+VictimVIP folds
+** Summary **
+Cparkin20 collected [ $0.04 ]
+
+

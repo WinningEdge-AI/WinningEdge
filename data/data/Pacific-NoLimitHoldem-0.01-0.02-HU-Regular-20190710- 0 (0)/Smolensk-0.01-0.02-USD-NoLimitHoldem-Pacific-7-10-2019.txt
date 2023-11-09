@@ -1,0 +1,55 @@
+#Game No : 610953
+***** 888poker Hand History for Game 610953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2019 00:18:54
+Table Smolensk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Azriaraq ( $1 )
+Seat 2: Igorek41rus ( $2 )
+Azriaraq posts small blind [$0.01]
+Igorek41rus posts big blind [$0.02]
+** Dealing down cards **
+Azriaraq calls [$0.01]
+Igorek41rus checks
+** Dealing flop ** [ Ad, 4c, 7h ]
+Igorek41rus checks
+Azriaraq checks
+** Dealing turn ** [ Td ]
+Igorek41rus checks
+Azriaraq checks
+** Dealing river ** [ 9c ]
+Igorek41rus bets [$0.02]
+Azriaraq raises [$0.04]
+Igorek41rus calls [$0.02]
+** Summary **
+Azriaraq shows [ Ts, 5c ]
+Igorek41rus shows [ 8s, Th ]
+Igorek41rus collected [ $0.12 ]
+
+
+#Game No : 610954
+***** 888poker Hand History for Game 610954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 07 2019 00:19:12
+Table Smolensk 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Azriaraq ( $0.94 )
+Seat 2: Igorek41rus ( $2.06 )
+Igorek41rus posts small blind [$0.01]
+Azriaraq posts big blind [$0.02]
+** Dealing down cards **
+Igorek41rus calls [$0.01]
+Azriaraq checks
+** Dealing flop ** [ Jc, 2d, 4c ]
+Azriaraq checks
+Igorek41rus checks
+** Dealing turn ** [ 9d ]
+Azriaraq checks
+Igorek41rus checks
+** Dealing river ** [ 5d ]
+Azriaraq bets [$0.02]
+Igorek41rus folds
+** Summary **
+Azriaraq collected [ $0.04 ]
+
+

@@ -1,0 +1,23 @@
+#Game No : 1287796154
+***** 888poker Hand History for Game 1287796154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2019 20:56:34
+Table San Felipe 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: can4a ( $2.69 )
+Seat 4: furyBean ( $3.08 )
+can4a posts small blind [$0.01]
+furyBean posts big blind [$0.02]
+** Dealing down cards **
+can4a raises [$0.04]
+furyBean calls [$0.03]
+** Dealing flop ** [ 2s, Qd, 4d ]
+furyBean checks
+can4a checks
+** Dealing turn ** [ Qs ]
+furyBean bets [$0.10]
+can4a folds
+** Summary **
+furyBean collected [ $0.10 ]
+
+

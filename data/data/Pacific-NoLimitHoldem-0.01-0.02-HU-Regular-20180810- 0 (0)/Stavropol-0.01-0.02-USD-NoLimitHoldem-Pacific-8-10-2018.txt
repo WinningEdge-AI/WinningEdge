@@ -1,0 +1,88 @@
+#Game No : 606718992
+***** 888poker Hand History for Game 606718992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2018 13:48:06
+Table Stavropol 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: jonnydrifts ( $1.38 )
+Seat 2: Baykov0510 ( $1.95 )
+Baykov0510 posts small blind [$0.01]
+jonnydrifts posts big blind [$0.02]
+** Dealing down cards **
+Baykov0510 raises [$0.19]
+jonnydrifts calls [$0.18]
+** Dealing flop ** [ 7h, Js, Ts ]
+jonnydrifts checks
+Baykov0510 bets [$0.20]
+jonnydrifts folds
+** Summary **
+Baykov0510 collected [ $0.38 ]
+
+
+#Game No : 606722565
+***** 888poker Hand History for Game 606722565 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2018 14:56:38
+Table Stavropol 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Peterl_poker ( $1.95 )
+Seat 9: Aleksand743 ( $2.44 )
+Peterl_poker posts small blind [$0.01]
+Aleksand743 posts big blind [$0.02]
+** Dealing down cards **
+Peterl_poker calls [$0.01]
+Aleksand743 raises [$0.02]
+Peterl_poker calls [$0.02]
+** Dealing flop ** [ Ks, 6d, Jh ]
+Aleksand743 bets [$0.04]
+Peterl_poker folds
+** Summary **
+Aleksand743 collected [ $0.08 ]
+
+
+#Game No : 606722584
+***** 888poker Hand History for Game 606722584 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2018 14:57:09
+Table Stavropol 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Peterl_poker ( $1.91 )
+Seat 9: Aleksand743 ( $2.48 )
+Aleksand743 posts small blind [$0.01]
+Peterl_poker posts big blind [$0.02]
+** Dealing down cards **
+Aleksand743 raises [$0.05]
+Peterl_poker folds
+** Summary **
+Aleksand743 collected [ $0.04 ]
+
+
+#Game No : 606722588
+***** 888poker Hand History for Game 606722588 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2018 14:57:18
+Table Stavropol 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Peterl_poker ( $1.89 )
+Seat 9: Aleksand743 ( $2.50 )
+Peterl_poker posts small blind [$0.01]
+Aleksand743 posts big blind [$0.02]
+** Dealing down cards **
+Peterl_poker raises [$0.03]
+Aleksand743 calls [$0.02]
+** Dealing flop ** [ Ad, 4s, Ks ]
+Aleksand743 checks
+Peterl_poker bets [$0.06]
+Aleksand743 calls [$0.06]
+** Dealing turn ** [ 8h ]
+Aleksand743 checks
+Peterl_poker checks
+** Dealing river ** [ 8s ]
+Aleksand743 bets [$0.10]
+Peterl_poker calls [$0.10]
+** Summary **
+Aleksand743 shows [ 2c, As ]
+Peterl_poker mucks [ 5c, Qd ]
+Aleksand743 collected [ $0.38 ]
+
+

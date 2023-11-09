@@ -1,0 +1,85 @@
+#Game No : 515390915
+***** 888poker Hand History for Game 515390915 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 04:02:24
+Table Poza Rica 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: SAXON1976 ( $0.80 )
+Seat 6: Otago1 ( $1 )
+Otago1 posts small blind [$0.01]
+SAXON1976 posts big blind [$0.02]
+** Dealing down cards **
+Otago1 calls [$0.01]
+SAXON1976 checks
+** Dealing flop ** [ 2h, Kh, 8s ]
+SAXON1976 bets [$0.02]
+Otago1 calls [$0.02]
+** Dealing turn ** [ 3c ]
+SAXON1976 checks
+Otago1 bets [$0.02]
+SAXON1976 calls [$0.02]
+** Dealing river ** [ 2s ]
+SAXON1976 checks
+Otago1 bets [$0.06]
+SAXON1976 calls [$0.06]
+** Summary **
+Otago1 shows [ Qd, 7c ]
+SAXON1976 shows [ Qs, 8c ]
+SAXON1976 collected [ $0.23 ]
+
+
+#Game No : 515390927
+***** 888poker Hand History for Game 515390927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 04:02:28
+Table Poza Rica 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SAXON1976 ( $0.91 )
+Seat 6: Otago1 ( $0.88 )
+SAXON1976 posts small blind [$0.01]
+Otago1 posts big blind [$0.02]
+** Dealing down cards **
+SAXON1976 calls [$0.01]
+Otago1 raises [$0.02]
+SAXON1976 calls [$0.02]
+** Dealing flop ** [ 3s, 5h, Ah ]
+Otago1 bets [$0.02]
+SAXON1976 calls [$0.02]
+** Dealing turn ** [ Jc ]
+Otago1 bets [$0.12]
+SAXON1976 folds
+** Summary **
+Otago1 collected [ $0.12 ]
+
+
+#Game No : 515390938
+***** 888poker Hand History for Game 515390938 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 03 2019 04:02:44
+Table Poza Rica 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: SAXON1976 ( $0.85 )
+Seat 6: Otago1 ( $0.94 )
+Otago1 posts small blind [$0.01]
+SAXON1976 posts big blind [$0.02]
+** Dealing down cards **
+Otago1 calls [$0.01]
+SAXON1976 checks
+** Dealing flop ** [ 4h, Ah, Jh ]
+SAXON1976 checks
+Otago1 bets [$0.02]
+SAXON1976 calls [$0.02]
+** Dealing turn ** [ 2d ]
+SAXON1976 checks
+Otago1 bets [$0.08]
+SAXON1976 calls [$0.08]
+** Dealing river ** [ 5c ]
+SAXON1976 checks
+Otago1 bets [$0.12]
+SAXON1976 calls [$0.12]
+** Summary **
+Otago1 shows [ 4d, Ad ]
+SAXON1976 mucks [ Jc, 6h ]
+Otago1 collected [ $0.45 ]
+
+

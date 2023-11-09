@@ -1,0 +1,76 @@
+#Game No : 1263294976
+***** 888poker Hand History for Game 1263294976 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 04 2019 07:36:10
+Table Long Beach 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Bulley_03 ( $1 )
+Seat 6: MegaDoc888 ( $1.56 )
+MegaDoc888 posts small blind [$0.01]
+Bulley_03 posts big blind [$0.02]
+** Dealing down cards **
+MegaDoc888 calls [$0.01]
+Bulley_03 raises [$0.06]
+MegaDoc888 raises [$0.12]
+Bulley_03 calls [$0.06]
+** Dealing flop ** [ 8d, 9d, 4h ]
+Bulley_03 checks
+MegaDoc888 bets [$0.08]
+Bulley_03 calls [$0.08]
+** Dealing turn ** [ Qh ]
+Bulley_03 checks
+MegaDoc888 bets [$0.10]
+Bulley_03 folds
+** Summary **
+MegaDoc888 collected [ $0.42 ]
+
+
+#Game No : 1263295251
+***** 888poker Hand History for Game 1263295251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 04 2019 07:37:59
+Table Long Beach 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bulley_03 ( $1.98 )
+Seat 6: MegaDoc888 ( $2.53 )
+Bulley_03 posts small blind [$0.01]
+MegaDoc888 posts big blind [$0.02]
+** Dealing down cards **
+Bulley_03 raises [$0.11]
+MegaDoc888 calls [$0.10]
+** Dealing flop ** [ 2h, 7d, 5s ]
+MegaDoc888 bets [$0.02]
+Bulley_03 calls [$0.02]
+** Dealing turn ** [ 4c ]
+MegaDoc888 bets [$0.02]
+Bulley_03 calls [$0.02]
+** Dealing river ** [ Ts ]
+MegaDoc888 bets [$0.04]
+Bulley_03 calls [$0.04]
+** Summary **
+MegaDoc888 shows [ Qd, Jh ]
+Bulley_03 shows [ Ad, 9d ]
+Bulley_03 collected [ $0.38 ]
+
+
+#Game No : 1263295321
+***** 888poker Hand History for Game 1263295321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 04 2019 07:38:26
+Table Long Beach 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Bulley_03 ( $2.16 )
+Seat 6: MegaDoc888 ( $2.33 )
+MegaDoc888 posts small blind [$0.01]
+Bulley_03 posts big blind [$0.02]
+** Dealing down cards **
+MegaDoc888 calls [$0.01]
+Bulley_03 raises [$0.06]
+MegaDoc888 calls [$0.06]
+** Dealing flop ** [ Jc, Td, 2s ]
+Bulley_03 bets [$0.11]
+MegaDoc888 folds
+** Summary **
+Bulley_03 collected [ $0.15 ]
+
+

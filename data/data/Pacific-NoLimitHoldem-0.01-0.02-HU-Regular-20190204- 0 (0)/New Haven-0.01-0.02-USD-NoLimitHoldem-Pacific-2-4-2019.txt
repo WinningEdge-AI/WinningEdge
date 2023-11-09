@@ -1,0 +1,102 @@
+#Game No : 523395567
+***** 888poker Hand History for Game 523395567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 13:00:43
+Table New Haven 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Dv2_EKB ( $0.90 )
+Seat 4: pterion13 ( $2.85 )
+pterion13 posts small blind [$0.01]
+Dv2_EKB posts big blind [$0.02]
+** Dealing down cards **
+pterion13 folds
+** Summary **
+Dv2_EKB collected [ $0.03 ]
+
+
+#Game No : 523400665
+***** 888poker Hand History for Game 523400665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 13:59:53
+Table New Haven 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: KatalaStas ( $1 )
+Seat 6: patchkr ( $2.66 )
+KatalaStas posts small blind [$0.01]
+patchkr posts big blind [$0.02]
+** Dealing down cards **
+KatalaStas calls [$0.01]
+patchkr checks
+** Dealing flop ** [ Kh, 2s, Ks ]
+patchkr checks
+KatalaStas bets [$0.02]
+patchkr folds
+** Summary **
+KatalaStas collected [ $0.04 ]
+
+
+#Game No : 523401194
+***** 888poker Hand History for Game 523401194 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 14:05:14
+Table New Haven 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: KatalaStas ( $0.98 )
+Seat 6: Ayyyak ( $2.37 )
+KatalaStas posts small blind [$0.01]
+Ayyyak posts big blind [$0.02]
+** Dealing down cards **
+KatalaStas folds
+** Summary **
+Ayyyak collected [ $0.03 ]
+
+
+#Game No : 523401202
+***** 888poker Hand History for Game 523401202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 14:05:21
+Table New Haven 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: KatalaStas ( $0.97 )
+Seat 6: Ayyyak ( $2.38 )
+Ayyyak posts small blind [$0.01]
+KatalaStas posts big blind [$0.02]
+** Dealing down cards **
+Ayyyak calls [$0.01]
+KatalaStas checks
+** Dealing flop ** [ Ac, Js, 9h ]
+KatalaStas checks
+Ayyyak bets [$0.02]
+KatalaStas folds
+** Summary **
+Ayyyak did not show his hand
+Ayyyak collected [ $0.04 ]
+
+
+#Game No : 523401224
+***** 888poker Hand History for Game 523401224 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 14:05:35
+Table New Haven 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: KatalaStas ( $0.95 )
+Seat 6: Ayyyak ( $2.40 )
+KatalaStas posts small blind [$0.01]
+Ayyyak posts big blind [$0.02]
+** Dealing down cards **
+KatalaStas calls [$0.01]
+Ayyyak checks
+** Dealing flop ** [ 3d, As, 3c ]
+Ayyyak checks
+KatalaStas checks
+** Dealing turn ** [ 2s ]
+Ayyyak checks
+KatalaStas checks
+** Dealing river ** [ Qc ]
+Ayyyak checks
+KatalaStas bets [$0.04]
+Ayyyak folds
+** Summary **
+KatalaStas collected [ $0.04 ]
+
+

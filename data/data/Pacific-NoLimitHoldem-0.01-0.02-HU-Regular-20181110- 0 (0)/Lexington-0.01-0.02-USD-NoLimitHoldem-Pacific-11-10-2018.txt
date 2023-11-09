@@ -1,0 +1,77 @@
+#Game No : 509151154
+***** 888poker Hand History for Game 509151154 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 09:27:00
+Table Lexington 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: JHPearce_ ( $2.15 )
+Seat 2: EugeneLurry ( $1.83 )
+EugeneLurry posts small blind [$0.01]
+JHPearce_ posts big blind [$0.02]
+** Dealing down cards **
+EugeneLurry calls [$0.01]
+JHPearce_ checks
+** Dealing flop ** [ 7h, Ac, As ]
+JHPearce_ checks
+EugeneLurry bets [$0.15]
+JHPearce_ folds
+** Summary **
+EugeneLurry collected [ $0.04 ]
+
+
+#Game No : 509151211
+***** 888poker Hand History for Game 509151211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 09:27:46
+Table Lexington 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: EugeneLurry ( $1.85 )
+Seat 10: Alinafantom ( $2 )
+EugeneLurry posts small blind [$0.01]
+Alinafantom posts big blind [$0.02]
+** Dealing down cards **
+EugeneLurry calls [$0.01]
+Alinafantom checks
+** Dealing flop ** [ As, 7c, 3c ]
+Alinafantom checks
+EugeneLurry checks
+** Dealing turn ** [ Ad ]
+Alinafantom checks
+EugeneLurry checks
+** Dealing river ** [ Jc ]
+Alinafantom checks
+EugeneLurry checks
+** Summary **
+Alinafantom shows [ 9h, 5s ]
+EugeneLurry shows [ Qc, 6h ]
+EugeneLurry collected [ $0.04 ]
+
+
+#Game No : 509155045
+***** 888poker Hand History for Game 509155045 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 11 2018 11:00:00
+Table Lexington 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: EugeneLurry ( $1.52 )
+Seat 9: PavelN91 ( $0.95 )
+EugeneLurry posts small blind [$0.01]
+PavelN91 posts big blind [$0.02]
+** Dealing down cards **
+EugeneLurry calls [$0.01]
+PavelN91 checks
+** Dealing flop ** [ Qd, Th, 3d ]
+PavelN91 checks
+EugeneLurry checks
+** Dealing turn ** [ Td ]
+PavelN91 checks
+EugeneLurry checks
+** Dealing river ** [ 8h ]
+PavelN91 checks
+EugeneLurry checks
+** Summary **
+PavelN91 shows [ 7h, 6h ]
+EugeneLurry shows [ 5c, Ad ]
+EugeneLurry collected [ $0.04 ]
+
+

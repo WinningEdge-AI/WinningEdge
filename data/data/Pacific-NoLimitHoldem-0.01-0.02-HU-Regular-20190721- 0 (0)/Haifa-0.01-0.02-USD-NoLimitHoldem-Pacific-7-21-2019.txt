@@ -1,0 +1,29 @@
+#Game No : 678168
+***** 888poker Hand History for Game 678168 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2019 21:35:56
+Table Haifa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Red_Pixel ( $2.82 )
+Seat 9: shaopenny ( $1.72 )
+shaopenny posts small blind [$0.01]
+Red_Pixel posts big blind [$0.02]
+** Dealing down cards **
+shaopenny calls [$0.01]
+Red_Pixel raises [$0.06]
+shaopenny calls [$0.06]
+** Dealing flop ** [ Ks, 9d, 2h ]
+Red_Pixel bets [$0.08]
+shaopenny calls [$0.08]
+** Dealing turn ** [ Kh ]
+Red_Pixel bets [$0.19]
+shaopenny calls [$0.19]
+** Dealing river ** [ Jh ]
+Red_Pixel checks
+shaopenny checks
+** Summary **
+Red_Pixel shows [ 3d, Kd ]
+shaopenny mucks [ Qh, Ac ]
+Red_Pixel collected [ $0.66 ]
+
+

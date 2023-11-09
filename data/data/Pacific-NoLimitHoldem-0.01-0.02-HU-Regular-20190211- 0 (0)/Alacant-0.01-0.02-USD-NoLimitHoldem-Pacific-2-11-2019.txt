@@ -1,0 +1,45 @@
+#Game No : 523985102
+***** 888poker Hand History for Game 523985102 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 02 2019 09:32:10
+Table Alacant 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: conortdb ( $1 )
+Seat 9: RealHustle88 ( $4.36 )
+RealHustle88 posts small blind [$0.01]
+conortdb posts big blind [$0.02]
+** Dealing down cards **
+RealHustle88 folds
+** Summary **
+conortdb collected [ $0.03 ]
+
+
+#Game No : 523988060
+***** 888poker Hand History for Game 523988060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 02 2019 10:08:09
+Table Alacant 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pavel_Invest ( $1 )
+Seat 9: Activebran ( $0.80 )
+Pavel_Invest posts small blind [$0.01]
+Activebran posts big blind [$0.02]
+** Dealing down cards **
+Pavel_Invest raises [$0.05]
+Activebran calls [$0.04]
+** Dealing flop ** [ 8d, 8c, 2d ]
+Activebran checks
+Pavel_Invest bets [$0.06]
+Activebran calls [$0.06]
+** Dealing turn ** [ Qd ]
+Activebran checks
+Pavel_Invest checks
+** Dealing river ** [ Tc ]
+Activebran checks
+Pavel_Invest checks
+** Summary **
+Activebran shows [ Ks, Kc ]
+Pavel_Invest mucks [ Qs, 9c ]
+Activebran collected [ $0.23 ]
+
+

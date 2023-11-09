@@ -1,0 +1,71 @@
+#Game No : 619821313
+***** 888poker Hand History for Game 619821313 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 05 2019 23:04:08
+Table Helmond 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: filinxxx ( $1 )
+Seat 2: grahamw125 ( $0.80 )
+filinxxx posts small blind [$0.01]
+grahamw125 posts big blind [$0.02]
+** Dealing down cards **
+filinxxx calls [$0.01]
+grahamw125 checks
+** Dealing flop ** [ 7h, 2d, 5c ]
+grahamw125 checks
+filinxxx bets [$0.02]
+grahamw125 calls [$0.02]
+** Dealing turn ** [ Qh ]
+grahamw125 checks
+filinxxx bets [$0.02]
+grahamw125 calls [$0.02]
+** Dealing river ** [ 9h ]
+grahamw125 bets [$0.12]
+filinxxx folds
+** Summary **
+grahamw125 collected [ $0.12 ]
+
+
+#Game No : 619821320
+***** 888poker Hand History for Game 619821320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 05 2019 23:04:12
+Table Helmond 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: filinxxx ( $0.94 )
+Seat 2: grahamw125 ( $0.86 )
+grahamw125 posts small blind [$0.01]
+** Dealing down cards **
+filinxxx folds
+** Summary **
+grahamw125 collected [ $0.01 ]
+
+
+#Game No : 619821324
+***** 888poker Hand History for Game 619821324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 05 2019 23:04:22
+Table Helmond 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: filinxxx ( $0.94 )
+Seat 2: grahamw125 ( $0.86 )
+grahamw125 posts small blind [$0.01]
+filinxxx posts big blind [$0.02]
+** Dealing down cards **
+grahamw125 raises [$0.03]
+filinxxx calls [$0.02]
+** Dealing flop ** [ Qd, Qh, Jc ]
+filinxxx checks
+grahamw125 checks
+** Dealing turn ** [ 6c ]
+filinxxx bets [$0.02]
+grahamw125 calls [$0.02]
+** Dealing river ** [ Qc ]
+filinxxx bets [$0.06]
+grahamw125 calls [$0.06]
+** Summary **
+filinxxx shows [ 8c, Kd ]
+grahamw125 shows [ 5h, Ad ]
+grahamw125 collected [ $0.23 ]
+
+

@@ -1,0 +1,178 @@
+#Game No : 1253134442
+***** 888poker Hand History for Game 1253134442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 12:02:31
+Table Barletta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Bdd1970 ( $0.80 )
+Seat 7: alice508 ( $0.80 )
+alice508 posts small blind [$0.01]
+Bdd1970 posts big blind [$0.02]
+** Dealing down cards **
+alice508 raises [$0.03]
+Bdd1970 calls [$0.02]
+** Dealing flop ** [ As, 8s, Jc ]
+Bdd1970 bets [$0.04]
+alice508 folds
+** Summary **
+Bdd1970 did not show his hand
+Bdd1970 collected [ $0.08 ]
+
+
+#Game No : 1253134506
+***** 888poker Hand History for Game 1253134506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 12:02:48
+Table Barletta 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bdd1970 ( $0.84 )
+Seat 7: alice508 ( $0.76 )
+Bdd1970 posts small blind [$0.01]
+alice508 posts big blind [$0.02]
+** Dealing down cards **
+Bdd1970 raises [$0.05]
+alice508 raises [$0.08]
+Bdd1970 calls [$0.04]
+** Dealing flop ** [ 8d, Qd, 7h ]
+alice508 checks
+Bdd1970 bets [$0.06]
+alice508 raises [$0.12]
+Bdd1970 calls [$0.06]
+** Dealing turn ** [ 6c ]
+alice508 checks
+Bdd1970 checks
+** Dealing river ** [ Qc ]
+alice508 bets [$0.44]
+Bdd1970 calls [$0.44]
+** Summary **
+alice508 shows [ Ac, As ]
+Bdd1970 mucks [ Js, Jh ]
+alice508 collected [ $1.24 ]
+
+
+#Game No : 1253134646
+***** 888poker Hand History for Game 1253134646 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 12:03:23
+Table Barletta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Bdd1970 ( $0.18 )
+Seat 7: alice508 ( $1.34 )
+alice508 posts small blind [$0.01]
+Bdd1970 posts big blind [$0.02]
+** Dealing down cards **
+alice508 calls [$0.01]
+Bdd1970 raises [$0.04]
+alice508 folds
+** Summary **
+Bdd1970 did not show his hand
+Bdd1970 collected [ $0.04 ]
+
+
+#Game No : 1253134697
+***** 888poker Hand History for Game 1253134697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 12:03:33
+Table Barletta 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bdd1970 ( $0.20 )
+Seat 7: alice508 ( $1.32 )
+Bdd1970 posts small blind [$0.01]
+alice508 posts big blind [$0.02]
+** Dealing down cards **
+Bdd1970 calls [$0.01]
+alice508 checks
+** Dealing flop ** [ Tc, 3s, 4d ]
+alice508 checks
+Bdd1970 checks
+** Dealing turn ** [ Ad ]
+alice508 checks
+Bdd1970 checks
+** Dealing river ** [ Qh ]
+alice508 checks
+Bdd1970 bets [$0.04]
+alice508 raises [$0.08]
+Bdd1970 folds
+** Summary **
+alice508 collected [ $0.12 ]
+
+
+#Game No : 1253134803
+***** 888poker Hand History for Game 1253134803 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 12:03:59
+Table Barletta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Bdd1970 ( $0.14 )
+Seat 7: alice508 ( $1.38 )
+alice508 posts small blind [$0.01]
+Bdd1970 posts big blind [$0.02]
+** Dealing down cards **
+alice508 calls [$0.01]
+Bdd1970 raises [$0.04]
+alice508 raises [$0.08]
+Bdd1970 calls [$0.04]
+** Dealing flop ** [ Ad, Jh, 2s ]
+Bdd1970 checks
+alice508 bets [$0.02]
+Bdd1970 calls [$0.02]
+** Dealing turn ** [ 8s ]
+Bdd1970 checks
+alice508 bets [$0.02]
+Bdd1970 calls [$0.02]
+** Dealing river ** [ As ]
+** Summary **
+Bdd1970 shows [ Jc, 9s ]
+alice508 shows [ Qd, Ac ]
+alice508 collected [ $0.27 ]
+
+
+#Game No : 1253152731
+***** 888poker Hand History for Game 1253152731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 13:10:36
+Table Barletta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: NightRider53 ( $0.84 )
+Seat 9: KCTR84 ( $1.25 )
+NightRider53 posts small blind [$0.01]
+KCTR84 posts big blind [$0.02]
+** Dealing down cards **
+NightRider53 calls [$0.01]
+KCTR84 checks
+** Dealing flop ** [ Js, 4c, Kc ]
+KCTR84 checks
+NightRider53 checks
+** Dealing turn ** [ Qs ]
+KCTR84 checks
+NightRider53 checks
+** Dealing river ** [ 3h ]
+KCTR84 checks
+NightRider53 checks
+** Summary **
+KCTR84 shows [ 7h, 6d ]
+NightRider53 shows [ 2s, Ac ]
+NightRider53 collected [ $0.04 ]
+
+
+#Game No : 1253152895
+***** 888poker Hand History for Game 1253152895 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 13:11:15
+Table Barletta 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: NightRider53 ( $0.86 )
+Seat 9: KCTR84 ( $1.23 )
+KCTR84 posts small blind [$0.01]
+NightRider53 posts big blind [$0.02]
+** Dealing down cards **
+KCTR84 calls [$0.01]
+NightRider53 checks
+** Dealing flop ** [ 2c, 2d, Td ]
+NightRider53 bets [$0.04]
+KCTR84 folds
+** Summary **
+NightRider53 did not show his hand
+NightRider53 collected [ $0.04 ]
+
+

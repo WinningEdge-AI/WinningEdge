@@ -1,0 +1,56 @@
+#Game No : 503106553
+***** 888poker Hand History for Game 503106553 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 16:22:45
+Table Brno 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: adko88 ( $2.54 )
+Seat 9: O_LE_G ( $2.30 )
+O_LE_G posts small blind [$0.01]
+adko88 posts big blind [$0.02]
+** Dealing down cards **
+O_LE_G calls [$0.01]
+adko88 checks
+** Dealing flop ** [ Ad, 3c, 5h ]
+adko88 bets [$0.02]
+O_LE_G raises [$0.06]
+adko88 calls [$0.04]
+** Dealing turn ** [ 5s ]
+adko88 bets [$0.02]
+O_LE_G calls [$0.02]
+** Dealing river ** [ 9d ]
+adko88 bets [$0.02]
+O_LE_G raises [$0.26]
+adko88 folds
+** Summary **
+O_LE_G collected [ $0.23 ]
+
+
+#Game No : 503106563
+***** 888poker Hand History for Game 503106563 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 16:23:08
+Table Brno 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: adko88 ( $2.42 )
+Seat 9: O_LE_G ( $2.41 )
+adko88 posts small blind [$0.01]
+O_LE_G posts big blind [$0.02]
+** Dealing down cards **
+adko88 calls [$0.01]
+O_LE_G checks
+** Dealing flop ** [ Th, Jd, 3d ]
+O_LE_G checks
+adko88 checks
+** Dealing turn ** [ 7s ]
+O_LE_G checks
+adko88 checks
+** Dealing river ** [ Qd ]
+O_LE_G checks
+adko88 checks
+** Summary **
+O_LE_G shows [ 6s, 5s ]
+adko88 shows [ Ad, 5c ]
+adko88 collected [ $0.04 ]
+
+

@@ -1,0 +1,96 @@
+#Game No : 305915
+***** 888poker Hand History for Game 305915 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 14:46:36
+Table Tashkent 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: royallyblush ( $0.80 )
+Seat 9: CragHack18 ( $1 )
+CragHack18 posts small blind [$0.01]
+royallyblush posts big blind [$0.02]
+** Dealing down cards **
+CragHack18 folds
+** Summary **
+royallyblush did not show his hand
+royallyblush collected [ $0.03 ]
+
+
+#Game No : 305917
+***** 888poker Hand History for Game 305917 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 14:46:43
+Table Tashkent 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: royallyblush ( $0.81 )
+Seat 9: CragHack18 ( $1 )
+royallyblush posts small blind [$0.01]
+CragHack18 posts big blind [$0.02]
+** Dealing down cards **
+royallyblush calls [$0.01]
+CragHack18 checks
+** Dealing flop ** [ Qs, 5c, 7d ]
+CragHack18 checks
+royallyblush bets [$0.08]
+CragHack18 calls [$0.08]
+** Dealing turn ** [ 4s ]
+CragHack18 checks
+royallyblush bets [$0.10]
+CragHack18 calls [$0.10]
+** Dealing river ** [ 2c ]
+CragHack18 checks
+royallyblush checks
+** Summary **
+CragHack18 shows [ Qc, 6c ]
+royallyblush mucks [ Ks, 4d ]
+CragHack18 collected [ $0.38 ]
+
+
+#Game No : 305922
+***** 888poker Hand History for Game 305922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 14:47:24
+Table Tashkent 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: royallyblush ( $0.61 )
+Seat 9: CragHack18 ( $1.18 )
+CragHack18 posts small blind [$0.01]
+royallyblush posts big blind [$0.02]
+** Dealing down cards **
+CragHack18 raises [$0.04]
+royallyblush calls [$0.03]
+** Dealing flop ** [ Qc, 6s, Jd ]
+royallyblush checks
+CragHack18 bets [$0.05]
+royallyblush calls [$0.05]
+** Dealing turn ** [ 5s ]
+royallyblush checks
+CragHack18 bets [$0.15]
+royallyblush folds
+** Summary **
+CragHack18 collected [ $0.19 ]
+
+
+#Game No : 305924
+***** 888poker Hand History for Game 305924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 14:47:58
+Table Tashkent 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: royallyblush ( $0.51 )
+Seat 9: CragHack18 ( $1.27 )
+royallyblush posts small blind [$0.01]
+CragHack18 posts big blind [$0.02]
+** Dealing down cards **
+royallyblush calls [$0.01]
+CragHack18 checks
+** Dealing flop ** [ 7c, 6d, 9h ]
+CragHack18 checks
+royallyblush checks
+** Dealing turn ** [ Td ]
+CragHack18 checks
+royallyblush bets [$0.06]
+CragHack18 folds
+** Summary **
+royallyblush collected [ $0.04 ]
+
+

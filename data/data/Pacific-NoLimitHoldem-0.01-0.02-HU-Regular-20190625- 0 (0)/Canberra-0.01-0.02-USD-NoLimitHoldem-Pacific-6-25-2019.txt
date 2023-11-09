@@ -1,0 +1,82 @@
+#Game No : 1275999122
+***** 888poker Hand History for Game 1275999122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 22:40:49
+Table Canberra 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Raisa1953 ( $2.02 )
+Seat 4: stefjenner ( $0.78 )
+stefjenner posts small blind [$0.01]
+Raisa1953 posts big blind [$0.02]
+** Dealing down cards **
+stefjenner calls [$0.01]
+Raisa1953 checks
+** Dealing flop ** [ 4h, 4s, 4c ]
+Raisa1953 bets [$0.02]
+stefjenner calls [$0.02]
+** Dealing turn ** [ 3h ]
+Raisa1953 bets [$0.02]
+stefjenner calls [$0.02]
+** Dealing river ** [ 8s ]
+Raisa1953 bets [$0.02]
+stefjenner calls [$0.02]
+** Summary **
+Raisa1953 shows [ 5c, 5h ]
+stefjenner mucks [ Ks, 2d ]
+Raisa1953 collected [ $0.15 ]
+
+
+#Game No : 1275999152
+***** 888poker Hand History for Game 1275999152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 22:41:01
+Table Canberra 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Raisa1953 ( $2.09 )
+Seat 4: stefjenner ( $0.70 )
+Raisa1953 posts small blind [$0.01]
+stefjenner posts big blind [$0.02]
+** Dealing down cards **
+Raisa1953 folds
+** Summary **
+stefjenner collected [ $0.03 ]
+
+
+#Game No : 1276005319
+***** 888poker Hand History for Game 1276005319 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:52:48
+Table Canberra 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $3.44 )
+Seat 9: FARTECKIY ( $1.04 )
+yrik222 posts small blind [$0.01]
+FARTECKIY posts big blind [$0.02]
+** Dealing down cards **
+yrik222 folds
+** Summary **
+FARTECKIY did not show his hand
+FARTECKIY collected [ $0.03 ]
+
+
+#Game No : 1276005332
+***** 888poker Hand History for Game 1276005332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2019 23:52:55
+Table Canberra 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $3.43 )
+Seat 9: FARTECKIY ( $1.05 )
+FARTECKIY posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+FARTECKIY raises [$0.05]
+yrik222 calls [$0.04]
+** Dealing flop ** [ 3c, Jh, 6h ]
+yrik222 bets [$0.08]
+FARTECKIY folds
+** Summary **
+yrik222 did not show his hand
+yrik222 collected [ $0.12 ]
+
+

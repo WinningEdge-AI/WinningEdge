@@ -1,0 +1,25 @@
+#Game No : 504927043
+***** 888poker Hand History for Game 504927043 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 11 2018 02:02:27
+Table Saratov 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: grinder_pk ( $0.07 )
+Seat 2: NOMAD1101 ( $1.48 )
+grinder_pk posts small blind [$0.01]
+NOMAD1101 posts big blind [$0.02]
+** Dealing down cards **
+grinder_pk calls [$0.01]
+NOMAD1101 raises [$0.04]
+grinder_pk calls [$0.04]
+** Dealing flop ** [ Qh, Jc, Js ]
+NOMAD1101 bets [$0.02]
+grinder_pk calls [$0.01]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 6h ]
+** Summary **
+grinder_pk shows [ 4s, Td ]
+NOMAD1101 shows [ As, 5c ]
+NOMAD1101 collected [ $0.14 ]
+
+

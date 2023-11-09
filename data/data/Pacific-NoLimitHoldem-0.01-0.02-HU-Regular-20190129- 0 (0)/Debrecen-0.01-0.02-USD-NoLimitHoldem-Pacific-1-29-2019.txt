@@ -1,0 +1,71 @@
+#Game No : 522820914
+***** 888poker Hand History for Game 522820914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 18:37:24
+Table Debrecen 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: MrBigKus115 ( $3.96 )
+Seat 9: EastVanKid ( $0.98 )
+MrBigKus115 posts small blind [$0.01]
+EastVanKid posts big blind [$0.02]
+** Dealing down cards **
+MrBigKus115 calls [$0.01]
+EastVanKid checks
+** Dealing flop ** [ 6c, 3h, Kc ]
+EastVanKid bets [$0.04]
+MrBigKus115 calls [$0.04]
+** Dealing turn ** [ 7h ]
+EastVanKid bets [$0.12]
+MrBigKus115 raises [$3.90]
+EastVanKid calls [$0.80]
+** Dealing river ** [ 3c ]
+** Summary **
+MrBigKus115 shows [ 4s, 2s ]
+EastVanKid shows [ 3s, 7d ]
+EastVanKid collected [ $1.84 ]
+
+
+#Game No : 460885682
+***** 888poker Hand History for Game 460885682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 04:24:16
+Table Debrecen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ramil2290 ( $1.45 )
+Seat 2: vip.chapaev ( $1.54 )
+Ramil2290 posts small blind [$0.01]
+vip.chapaev posts big blind [$0.02]
+** Dealing down cards **
+Ramil2290 calls [$0.01]
+vip.chapaev checks
+** Dealing flop ** [ 9h, 3d, Ac ]
+vip.chapaev checks
+Ramil2290 checks
+** Dealing turn ** [ 4s ]
+vip.chapaev checks
+Ramil2290 checks
+** Dealing river ** [ 6s ]
+vip.chapaev checks
+Ramil2290 checks
+** Summary **
+vip.chapaev shows [ Qs, 5c ]
+Ramil2290 mucks [ Jc, Th ]
+vip.chapaev collected [ $0.04 ]
+
+
+#Game No : 460885691
+***** 888poker Hand History for Game 460885691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 04:24:35
+Table Debrecen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ramil2290 ( $1.43 )
+Seat 2: vip.chapaev ( $1.56 )
+vip.chapaev posts small blind [$0.01]
+Ramil2290 posts big blind [$0.02]
+** Dealing down cards **
+vip.chapaev folds
+** Summary **
+Ramil2290 collected [ $0.03 ]
+
+

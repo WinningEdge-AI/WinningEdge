@@ -1,0 +1,27 @@
+#Game No : 509762691
+***** 888poker Hand History for Game 509762691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 00:49:19
+Table Miass 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: vikaferl ( $2 )
+Seat 5: rustam1210 ( $1.19 )
+vikaferl posts small blind [$0.01]
+rustam1210 posts big blind [$0.02]
+** Dealing down cards **
+vikaferl calls [$0.01]
+rustam1210 checks
+** Dealing flop ** [ 9s, Tc, 8d ]
+rustam1210 bets [$0.04]
+vikaferl calls [$0.04]
+** Dealing turn ** [ 2d ]
+rustam1210 bets [$0.06]
+vikaferl calls [$0.06]
+** Dealing river ** [ 2c ]
+rustam1210 bets [$1.07]
+vikaferl folds
+** Summary **
+rustam1210 did not show his hand
+rustam1210 collected [ $0.23 ]
+
+

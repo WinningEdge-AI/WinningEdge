@@ -1,0 +1,44 @@
+#Game No : 506886481
+***** 888poker Hand History for Game 506886481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 05:52:46
+Table Riobamba 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: AAAA7938 ( $2.01 )
+Seat 7: aszafranek ( $2.80 )
+AAAA7938 posts small blind [$0.01]
+aszafranek posts big blind [$0.02]
+** Dealing down cards **
+AAAA7938 calls [$0.01]
+aszafranek checks
+** Dealing flop ** [ 2h, 4h, Qs ]
+aszafranek checks
+AAAA7938 checks
+** Dealing turn ** [ 8h ]
+aszafranek checks
+AAAA7938 checks
+** Dealing river ** [ 9d ]
+aszafranek checks
+AAAA7938 checks
+** Summary **
+aszafranek shows [ 7c, Ah ]
+AAAA7938 mucks [ 6c, Ts ]
+aszafranek collected [ $0.04 ]
+
+
+#Game No : 506886510
+***** 888poker Hand History for Game 506886510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 05:53:40
+Table Riobamba 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: AAAA7938 ( $2 )
+Seat 7: aszafranek ( $2.82 )
+aszafranek posts small blind [$0.01]
+** Dealing down cards **
+AAAA7938 folds
+** Summary **
+aszafranek did not show his hand
+aszafranek collected [ $0.01 ]
+
+

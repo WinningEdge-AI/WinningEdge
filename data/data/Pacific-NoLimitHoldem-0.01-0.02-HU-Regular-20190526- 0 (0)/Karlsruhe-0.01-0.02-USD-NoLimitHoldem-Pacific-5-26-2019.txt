@@ -1,0 +1,108 @@
+#Game No : 517798293
+***** 888poker Hand History for Game 517798293 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 19:42:14
+Table Karlsruhe 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Zaff67 ( $0.85 )
+Seat 6: PokerExtreme ( $0.75 )
+Zaff67 posts small blind [$0.01]
+PokerExtreme posts big blind [$0.02]
+** Dealing down cards **
+Zaff67 calls [$0.01]
+PokerExtreme checks
+** Dealing flop ** [ Js, Ah, Qc ]
+PokerExtreme checks
+Zaff67 checks
+** Dealing turn ** [ 4s ]
+PokerExtreme checks
+Zaff67 checks
+** Dealing river ** [ 4d ]
+PokerExtreme checks
+Zaff67 checks
+** Summary **
+PokerExtreme shows [ 2h, 7h ]
+Zaff67 shows [ 3d, 6d ]
+PokerExtreme collected [ $0.02 ]
+Zaff67 collected [ $0.02 ]
+
+
+#Game No : 517798302
+***** 888poker Hand History for Game 517798302 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 19:42:46
+Table Karlsruhe 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Zaff67 ( $0.85 )
+Seat 6: PokerExtreme ( $0.75 )
+PokerExtreme posts small blind [$0.01]
+Zaff67 posts big blind [$0.02]
+** Dealing down cards **
+PokerExtreme calls [$0.01]
+Zaff67 checks
+** Dealing flop ** [ Qc, 2h, 3d ]
+Zaff67 checks
+PokerExtreme checks
+** Dealing turn ** [ 4c ]
+Zaff67 checks
+PokerExtreme bets [$0.02]
+Zaff67 raises [$0.04]
+PokerExtreme folds
+** Summary **
+Zaff67 did not show his hand
+Zaff67 collected [ $0.08 ]
+
+
+#Game No : 517798310
+***** 888poker Hand History for Game 517798310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 19:43:20
+Table Karlsruhe 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Zaff67 ( $0.89 )
+Seat 6: PokerExtreme ( $0.71 )
+Zaff67 posts small blind [$0.01]
+PokerExtreme posts big blind [$0.02]
+** Dealing down cards **
+Zaff67 calls [$0.01]
+PokerExtreme checks
+** Dealing flop ** [ 7d, 8s, 8d ]
+PokerExtreme checks
+Zaff67 checks
+** Dealing turn ** [ 7c ]
+PokerExtreme checks
+Zaff67 bets [$0.06]
+PokerExtreme folds
+** Summary **
+Zaff67 collected [ $0.04 ]
+
+
+#Game No : 517798317
+***** 888poker Hand History for Game 517798317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 19:43:48
+Table Karlsruhe 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Zaff67 ( $0.91 )
+Seat 6: PokerExtreme ( $0.69 )
+PokerExtreme posts small blind [$0.01]
+Zaff67 posts big blind [$0.02]
+** Dealing down cards **
+PokerExtreme raises [$0.03]
+Zaff67 calls [$0.02]
+** Dealing flop ** [ 6h, 3c, Td ]
+Zaff67 checks
+PokerExtreme bets [$0.05]
+Zaff67 calls [$0.05]
+** Dealing turn ** [ Qc ]
+Zaff67 checks
+PokerExtreme checks
+** Dealing river ** [ Jh ]
+Zaff67 checks
+PokerExtreme checks
+** Summary **
+Zaff67 shows [ 5s, Ah ]
+PokerExtreme shows [ 7c, 7h ]
+PokerExtreme collected [ $0.17 ]
+
+

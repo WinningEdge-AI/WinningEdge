@@ -1,0 +1,598 @@
+#Game No : 501017248
+***** 888poker Hand History for Game 501017248 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:10:42
+Table Yacuiba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: _trebor_ds ( $2 )
+Seat 4: snedtand ( $0.87 )
+snedtand posts small blind [$0.01]
+_trebor_ds posts big blind [$0.02]
+** Dealing down cards **
+snedtand calls [$0.01]
+_trebor_ds checks
+** Dealing flop ** [ Ad, 5d, Qs ]
+_trebor_ds checks
+snedtand checks
+** Dealing turn ** [ Jd ]
+_trebor_ds bets [$0.02]
+snedtand calls [$0.02]
+** Dealing river ** [ 3s ]
+_trebor_ds bets [$0.02]
+snedtand calls [$0.02]
+** Summary **
+_trebor_ds shows [ 9h, Qc ]
+snedtand mucks [ 9d, Js ]
+_trebor_ds collected [ $0.12 ]
+
+
+#Game No : 501017264
+***** 888poker Hand History for Game 501017264 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:11:03
+Table Yacuiba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: _trebor_ds ( $2.06 )
+Seat 4: snedtand ( $0.81 )
+_trebor_ds posts small blind [$0.01]
+snedtand posts big blind [$0.02]
+** Dealing down cards **
+_trebor_ds raises [$0.03]
+snedtand folds
+** Summary **
+_trebor_ds collected [ $0.04 ]
+
+
+#Game No : 501017271
+***** 888poker Hand History for Game 501017271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:11:10
+Table Yacuiba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: _trebor_ds ( $2.08 )
+Seat 4: snedtand ( $0.79 )
+snedtand posts small blind [$0.01]
+_trebor_ds posts big blind [$0.02]
+** Dealing down cards **
+snedtand raises [$0.03]
+_trebor_ds folds
+** Summary **
+snedtand collected [ $0.04 ]
+
+
+#Game No : 501017276
+***** 888poker Hand History for Game 501017276 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:11:17
+Table Yacuiba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: _trebor_ds ( $2.06 )
+Seat 4: snedtand ( $0.81 )
+_trebor_ds posts small blind [$0.01]
+snedtand posts big blind [$0.02]
+** Dealing down cards **
+_trebor_ds raises [$0.03]
+snedtand raises [$0.04]
+_trebor_ds calls [$0.02]
+** Dealing flop ** [ 5d, 9s, 8c ]
+snedtand checks
+_trebor_ds checks
+** Dealing turn ** [ 6c ]
+snedtand bets [$0.08]
+_trebor_ds calls [$0.08]
+** Dealing river ** [ 8s ]
+snedtand bets [$0.22]
+_trebor_ds calls [$0.22]
+** Summary **
+snedtand shows [ 7h, Kd ]
+_trebor_ds shows [ 7d, Ac ]
+_trebor_ds collected [ $0.34 ]
+snedtand collected [ $0.34 ]
+
+
+#Game No : 501017300
+***** 888poker Hand History for Game 501017300 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:11:44
+Table Yacuiba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: _trebor_ds ( $2.04 )
+Seat 4: snedtand ( $0.79 )
+snedtand posts small blind [$0.01]
+_trebor_ds posts big blind [$0.02]
+** Dealing down cards **
+snedtand calls [$0.01]
+_trebor_ds raises [$0.04]
+snedtand calls [$0.04]
+** Dealing flop ** [ 6s, 6c, Th ]
+_trebor_ds checks
+snedtand bets [$0.06]
+_trebor_ds raises [$0.30]
+snedtand raises [$0.48]
+_trebor_ds raises [$0.48]
+snedtand calls [$0.19]
+** Dealing turn ** [ Kd ]
+** Dealing river ** [ 9d ]
+** Summary **
+_trebor_ds shows [ Ks, Kh ]
+snedtand shows [ Ah, Td ]
+_trebor_ds collected [ $1.49 ]
+
+
+#Game No : 501017320
+***** 888poker Hand History for Game 501017320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:12:13
+Table Yacuiba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: _trebor_ds ( $2.74 )
+Seat 6: Improvisium ( $1 )
+_trebor_ds posts small blind [$0.01]
+Improvisium posts big blind [$0.02]
+** Dealing down cards **
+_trebor_ds calls [$0.01]
+Improvisium checks
+** Dealing flop ** [ Ad, Jh, 5s ]
+Improvisium checks
+_trebor_ds checks
+** Dealing turn ** [ 2h ]
+Improvisium checks
+_trebor_ds checks
+** Dealing river ** [ 3s ]
+Improvisium bets [$0.02]
+_trebor_ds folds
+** Summary **
+Improvisium collected [ $0.04 ]
+
+
+#Game No : 501017337
+***** 888poker Hand History for Game 501017337 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:12:32
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: _trebor_ds ( $2.72 )
+Seat 6: Improvisium ( $1.02 )
+Improvisium posts small blind [$0.01]
+_trebor_ds posts big blind [$0.02]
+** Dealing down cards **
+Improvisium calls [$0.01]
+_trebor_ds checks
+** Dealing flop ** [ 4h, Kd, 5h ]
+_trebor_ds checks
+Improvisium checks
+** Dealing turn ** [ 7s ]
+_trebor_ds checks
+Improvisium checks
+** Dealing river ** [ As ]
+_trebor_ds bets [$0.02]
+Improvisium folds
+** Summary **
+_trebor_ds collected [ $0.04 ]
+
+
+#Game No : 501017694
+***** 888poker Hand History for Game 501017694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:20:02
+Table Yacuiba 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: _trebor_ds ( $3.39 )
+Seat 7: Vldmr963 ( $1.06 )
+_trebor_ds posts small blind [$0.01]
+Vldmr963 posts big blind [$0.02]
+** Dealing down cards **
+_trebor_ds raises [$0.03]
+Vldmr963 folds
+** Summary **
+_trebor_ds collected [ $0.04 ]
+
+
+#Game No : 501017702
+***** 888poker Hand History for Game 501017702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 09:20:15
+Table Yacuiba 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: _trebor_ds ( $3.41 )
+Seat 7: Vldmr963 ( $1.04 )
+Vldmr963 posts small blind [$0.01]
+_trebor_ds posts big blind [$0.02]
+** Dealing down cards **
+Vldmr963 calls [$0.01]
+_trebor_ds checks
+** Dealing flop ** [ 3d, Tc, Jh ]
+_trebor_ds checks
+Vldmr963 bets [$0.02]
+_trebor_ds folds
+** Summary **
+Vldmr963 collected [ $0.04 ]
+
+
+#Game No : 501023831
+***** 888poker Hand History for Game 501023831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:23:47
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.02 )
+Seat 9: UnderTheGon ( $0.88 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich folds
+** Summary **
+UnderTheGon collected [ $0.03 ]
+
+
+#Game No : 501023836
+***** 888poker Hand History for Game 501023836 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:23:51
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.01 )
+Seat 9: UnderTheGon ( $0.89 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.03 ]
+
+
+#Game No : 501023845
+***** 888poker Hand History for Game 501023845 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:24:02
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.02 )
+Seat 9: UnderTheGon ( $0.88 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich folds
+** Summary **
+UnderTheGon collected [ $0.03 ]
+
+
+#Game No : 501023854
+***** 888poker Hand History for Game 501023854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:24:07
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.01 )
+Seat 9: UnderTheGon ( $0.89 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.03 ]
+
+
+#Game No : 501023864
+***** 888poker Hand History for Game 501023864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:24:17
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.02 )
+Seat 9: UnderTheGon ( $0.88 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich raises [$0.05]
+UnderTheGon calls [$0.04]
+** Dealing flop ** [ 8d, 7c, Tc ]
+UnderTheGon bets [$0.08]
+Tepp_ich calls [$0.08]
+** Dealing turn ** [ Qd ]
+UnderTheGon bets [$0.18]
+Tepp_ich folds
+** Summary **
+UnderTheGon collected [ $0.27 ]
+
+
+#Game No : 501023895
+***** 888poker Hand History for Game 501023895 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:24:51
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1 )
+Seat 9: UnderTheGon ( $1.01 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.03 ]
+
+
+#Game No : 501023901
+***** 888poker Hand History for Game 501023901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:24:58
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.01 )
+Seat 9: UnderTheGon ( $1 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich raises [$0.05]
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.04 ]
+
+
+#Game No : 501023914
+***** 888poker Hand History for Game 501023914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:25:08
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.03 )
+Seat 9: UnderTheGon ( $0.98 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.03 ]
+
+
+#Game No : 501023926
+***** 888poker Hand History for Game 501023926 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:25:17
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.04 )
+Seat 9: UnderTheGon ( $0.97 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich raises [$0.05]
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.04 ]
+
+
+#Game No : 501023936
+***** 888poker Hand History for Game 501023936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:25:28
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.06 )
+Seat 9: UnderTheGon ( $0.95 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon raises [$0.05]
+Tepp_ich raises [$0.16]
+UnderTheGon calls [$0.12]
+** Dealing flop ** [ Kd, 8h, Ad ]
+Tepp_ich bets [$0.18]
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.34 ]
+
+
+#Game No : 501023958
+***** 888poker Hand History for Game 501023958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:25:53
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.22 )
+Seat 9: UnderTheGon ( $0.80 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich raises [$0.03]
+UnderTheGon calls [$0.02]
+** Dealing flop ** [ 6d, 5d, 5c ]
+UnderTheGon checks
+Tepp_ich bets [$0.04]
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.08 ]
+
+
+#Game No : 501023981
+***** 888poker Hand History for Game 501023981 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:26:21
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.26 )
+Seat 9: UnderTheGon ( $0.80 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.03 ]
+
+
+#Game No : 501023990
+***** 888poker Hand History for Game 501023990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:26:27
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.27 )
+Seat 9: UnderTheGon ( $0.80 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich raises [$0.05]
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.04 ]
+
+
+#Game No : 501024002
+***** 888poker Hand History for Game 501024002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:26:36
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.29 )
+Seat 9: UnderTheGon ( $0.80 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.03 ]
+
+
+#Game No : 501024009
+***** 888poker Hand History for Game 501024009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:26:42
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.30 )
+Seat 9: UnderTheGon ( $0.80 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich raises [$0.05]
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.04 ]
+
+
+#Game No : 501024017
+***** 888poker Hand History for Game 501024017 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:26:53
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.32 )
+Seat 9: UnderTheGon ( $0.80 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.03 ]
+
+
+#Game No : 501024032
+***** 888poker Hand History for Game 501024032 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:27:02
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.33 )
+Seat 9: UnderTheGon ( $0.80 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich folds
+** Summary **
+UnderTheGon collected [ $0.03 ]
+
+
+#Game No : 501024039
+***** 888poker Hand History for Game 501024039 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:27:09
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.32 )
+Seat 9: UnderTheGon ( $0.81 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon raises [$0.04]
+Tepp_ich folds
+** Summary **
+UnderTheGon collected [ $0.04 ]
+
+
+#Game No : 501024064
+***** 888poker Hand History for Game 501024064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:27:36
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.30 )
+Seat 9: UnderTheGon ( $0.83 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich raises [$0.05]
+UnderTheGon raises [$0.16]
+Tepp_ich folds
+** Summary **
+UnderTheGon collected [ $0.12 ]
+
+
+#Game No : 501024097
+***** 888poker Hand History for Game 501024097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:28:05
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.24 )
+Seat 9: UnderTheGon ( $0.89 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.03 ]
+
+
+#Game No : 501024107
+***** 888poker Hand History for Game 501024107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:28:14
+Table Yacuiba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.25 )
+Seat 9: UnderTheGon ( $0.88 )
+Tepp_ich posts small blind [$0.01]
+UnderTheGon posts big blind [$0.02]
+** Dealing down cards **
+Tepp_ich raises [$0.05]
+UnderTheGon calls [$0.04]
+** Dealing flop ** [ Ac, Ah, 2h ]
+UnderTheGon checks
+Tepp_ich bets [$0.06]
+UnderTheGon calls [$0.06]
+** Dealing turn ** [ 5s ]
+UnderTheGon checks
+Tepp_ich checks
+** Dealing river ** [ Kc ]
+UnderTheGon bets [$0.16]
+Tepp_ich folds
+** Summary **
+UnderTheGon collected [ $0.23 ]
+
+
+#Game No : 501024132
+***** 888poker Hand History for Game 501024132 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 08 2018 11:28:51
+Table Yacuiba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Tepp_ich ( $1.13 )
+Seat 9: UnderTheGon ( $0.99 )
+UnderTheGon posts small blind [$0.01]
+Tepp_ich posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+Tepp_ich collected [ $0.03 ]
+
+

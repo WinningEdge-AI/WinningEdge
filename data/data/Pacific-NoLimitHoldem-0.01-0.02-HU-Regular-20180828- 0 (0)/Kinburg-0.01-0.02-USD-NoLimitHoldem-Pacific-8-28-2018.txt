@@ -1,0 +1,44 @@
+#Game No : 501535906
+***** 888poker Hand History for Game 501535906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 03:32:50
+Table Kinburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Philosopher0 ( $0.86 )
+Seat 6: 4c1dw4v3 ( $1.33 )
+4c1dw4v3 posts small blind [$0.01]
+Philosopher0 posts big blind [$0.02]
+** Dealing down cards **
+4c1dw4v3 raises [$0.05]
+Philosopher0 calls [$0.04]
+** Dealing flop ** [ 5s, 2s, 6s ]
+Philosopher0 checks
+4c1dw4v3 checks
+** Dealing turn ** [ Tc ]
+Philosopher0 bets [$0.06]
+4c1dw4v3 calls [$0.06]
+** Dealing river ** [ 9c ]
+Philosopher0 bets [$0.12]
+4c1dw4v3 calls [$0.12]
+** Summary **
+Philosopher0 shows [ Ks, 6c ]
+4c1dw4v3 mucks [ Ad, Kd ]
+Philosopher0 collected [ $0.45 ]
+
+
+#Game No : 501535922
+***** 888poker Hand History for Game 501535922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 08 2018 03:33:21
+Table Kinburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Philosopher0 ( $1.07 )
+Seat 6: 4c1dw4v3 ( $1.09 )
+Philosopher0 posts small blind [$0.01]
+** Dealing down cards **
+4c1dw4v3 folds
+** Summary **
+Philosopher0 did not show his hand
+Philosopher0 collected [ $0.01 ]
+
+

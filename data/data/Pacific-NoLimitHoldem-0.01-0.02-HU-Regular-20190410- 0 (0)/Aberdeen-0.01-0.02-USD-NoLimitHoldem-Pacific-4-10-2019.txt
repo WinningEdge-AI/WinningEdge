@@ -1,0 +1,47 @@
+#Game No : 70020
+***** 888poker Hand History for Game 70020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 04 2019 22:24:02
+Table Aberdeen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: teco_surf_ ( $1 )
+Seat 2: Fil979 ( $1 )
+teco_surf_ posts small blind [$0.01]
+Fil979 posts big blind [$0.02]
+** Dealing down cards **
+teco_surf_ folds
+** Summary **
+Fil979 did not show his hand
+Fil979 collected [ $0.03 ]
+
+
+#Game No : 70022
+***** 888poker Hand History for Game 70022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 04 2019 22:24:06
+Table Aberdeen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: teco_surf_ ( $0.99 )
+Seat 2: Fil979 ( $1.01 )
+Fil979 posts small blind [$0.01]
+teco_surf_ posts big blind [$0.02]
+** Dealing down cards **
+Fil979 calls [$0.01]
+teco_surf_ checks
+** Dealing flop ** [ 2h, 8d, 4c ]
+teco_surf_ bets [$0.02]
+Fil979 raises [$0.04]
+teco_surf_ calls [$0.02]
+** Dealing turn ** [ 3d ]
+teco_surf_ checks
+Fil979 bets [$0.06]
+teco_surf_ calls [$0.06]
+** Dealing river ** [ Tc ]
+teco_surf_ checks
+Fil979 checks
+** Summary **
+teco_surf_ shows [ 5d, 7s ]
+Fil979 shows [ 4h, 6h ]
+Fil979 collected [ $0.23 ]
+
+

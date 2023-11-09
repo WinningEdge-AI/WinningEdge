@@ -1,0 +1,159 @@
+#Game No : 525661593
+***** 888poker Hand History for Game 525661593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 23:16:59
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Blackcat150 ( $1.62 )
+Seat 6: StuStakem ( $2.49 )
+Blackcat150 posts small blind [$0.01]
+StuStakem posts big blind [$0.02]
+** Dealing down cards **
+Blackcat150 raises [$0.03]
+StuStakem raises [$0.10]
+Blackcat150 calls [$0.08]
+** Dealing flop ** [ 3d, 2d, 9s ]
+StuStakem bets [$0.18]
+Blackcat150 calls [$0.18]
+** Dealing turn ** [ 6d ]
+StuStakem checks
+Blackcat150 bets [$0.60]
+StuStakem calls [$0.60]
+** Dealing river ** [ As ]
+StuStakem checks
+Blackcat150 bets [$0.72]
+StuStakem calls [$0.72]
+** Summary **
+Blackcat150 shows [ Ad, 5d ]
+StuStakem shows [ Ts, Td ]
+Blackcat150 collected [ $3.04 ]
+
+
+#Game No : 525661628
+***** 888poker Hand History for Game 525661628 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 03 2019 23:18:12
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Blackcat150 ( $3.04 )
+Seat 6: StuStakem ( $1 )
+StuStakem posts small blind [$0.01]
+Blackcat150 posts big blind [$0.02]
+** Dealing down cards **
+StuStakem raises [$0.05]
+Blackcat150 folds
+** Summary **
+StuStakem collected [ $0.04 ]
+
+
+#Game No : 525672814
+***** 888poker Hand History for Game 525672814 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 04:03:49
+Table Fairfield 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kiyanka ( $1.18 )
+Seat 2: PavelN91 ( $1.01 )
+Kiyanka posts small blind [$0.01]
+PavelN91 posts big blind [$0.02]
+** Dealing down cards **
+Kiyanka folds
+** Summary **
+PavelN91 collected [ $0.03 ]
+
+
+#Game No : 525680335
+***** 888poker Hand History for Game 525680335 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 06:02:36
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ricardobluf ( $2.28 )
+Seat 9: GARALD84 ( $4.16 )
+ricardobluf posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+ricardobluf raises [$0.03]
+GARALD84 calls [$0.02]
+** Dealing flop ** [ Ks, 5s, 3c ]
+GARALD84 checks
+ricardobluf bets [$0.02]
+GARALD84 calls [$0.02]
+** Dealing turn ** [ 4c ]
+GARALD84 checks
+ricardobluf bets [$0.02]
+GARALD84 calls [$0.02]
+** Dealing river ** [ 8d ]
+GARALD84 checks
+ricardobluf checks
+** Summary **
+GARALD84 shows [ 6h, Js ]
+ricardobluf shows [ 9h, 9d ]
+ricardobluf collected [ $0.15 ]
+
+
+#Game No : 525680362
+***** 888poker Hand History for Game 525680362 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 06:02:59
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ricardobluf ( $2.35 )
+Seat 9: GARALD84 ( $4.08 )
+GARALD84 posts small blind [$0.01]
+ricardobluf posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.05]
+ricardobluf calls [$0.04]
+** Dealing flop ** [ 2d, Qd, 6h ]
+ricardobluf checks
+GARALD84 bets [$0.08]
+ricardobluf folds
+** Summary **
+GARALD84 collected [ $0.12 ]
+
+
+#Game No : 525691595
+***** 888poker Hand History for Game 525691595 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 08:15:18
+Table Fairfield 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: navrik ( $3.57 )
+Seat 9: GARALD84 ( $3.88 )
+GARALD84 posts small blind [$0.01]
+navrik posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+navrik checks
+** Dealing flop ** [ Ac, 2d, Qh ]
+navrik checks
+GARALD84 bets [$0.02]
+navrik calls [$0.02]
+** Dealing turn ** [ 6h ]
+navrik checks
+GARALD84 checks
+** Dealing river ** [ 3d ]
+navrik bets [$0.08]
+GARALD84 folds
+** Summary **
+navrik collected [ $0.08 ]
+
+
+#Game No : 525691631
+***** 888poker Hand History for Game 525691631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 03 2019 08:15:45
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: navrik ( $3.61 )
+Seat 9: GARALD84 ( $3.84 )
+navrik posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+navrik raises [$0.03]
+GARALD84 folds
+** Summary **
+navrik collected [ $0.04 ]
+
+

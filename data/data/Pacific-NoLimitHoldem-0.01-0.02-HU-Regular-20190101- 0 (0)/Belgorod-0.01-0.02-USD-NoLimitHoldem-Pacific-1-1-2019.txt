@@ -1,0 +1,147 @@
+#Game No : 520427462
+***** 888poker Hand History for Game 520427462 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 13:02:05
+Table Belgorod 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: RomanMityaev ( $2.49 )
+Seat 9: OlegH1 ( $1 )
+RomanMityaev posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+RomanMityaev calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 4h, 3h, Ac ]
+OlegH1 checks
+RomanMityaev bets [$0.04]
+OlegH1 calls [$0.04]
+** Dealing turn ** [ 6c ]
+OlegH1 checks
+RomanMityaev bets [$0.02]
+OlegH1 calls [$0.02]
+** Dealing river ** [ 4c ]
+OlegH1 checks
+RomanMityaev checks
+** Summary **
+OlegH1 shows [ 6h, 8h ]
+RomanMityaev shows [ 6d, 3c ]
+OlegH1 collected [ $0.08 ]
+RomanMityaev collected [ $0.07 ]
+
+
+#Game No : 520427945
+***** 888poker Hand History for Game 520427945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 13:07:09
+Table Belgorod 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: NeroFox ( $0.71 )
+Seat 9: OlegH1 ( $1.12 )
+OlegH1 posts small blind [$0.01]
+NeroFox posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+NeroFox collected [ $0.03 ]
+
+
+#Game No : 520434127
+***** 888poker Hand History for Game 520434127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 14:15:01
+Table Belgorod 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Hichan87 ( $1.54 )
+Seat 2: dmitb ( $1.80 )
+Hichan87 posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+Hichan87 calls [$0.01]
+dmitb checks
+** Dealing flop ** [ 9s, 5c, 3s ]
+dmitb bets [$0.02]
+Hichan87 calls [$0.02]
+** Dealing turn ** [ 9c ]
+dmitb bets [$0.08]
+Hichan87 folds
+** Summary **
+dmitb collected [ $0.08 ]
+
+
+#Game No : 520434187
+***** 888poker Hand History for Game 520434187 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 14:15:35
+Table Belgorod 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Hichan87 ( $1.50 )
+Seat 2: dmitb ( $1.84 )
+dmitb posts small blind [$0.01]
+Hichan87 posts big blind [$0.02]
+** Dealing down cards **
+dmitb raises [$0.05]
+Hichan87 folds
+** Summary **
+dmitb collected [ $0.04 ]
+
+
+#Game No : 520434217
+***** 888poker Hand History for Game 520434217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 14:15:50
+Table Belgorod 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Hichan87 ( $1.48 )
+Seat 2: dmitb ( $1.86 )
+Hichan87 posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+Hichan87 calls [$0.01]
+dmitb checks
+** Dealing flop ** [ Ks, 4d, 9h ]
+dmitb checks
+Hichan87 bets [$0.02]
+dmitb folds
+** Summary **
+Hichan87 collected [ $0.04 ]
+
+
+#Game No : 520434255
+***** 888poker Hand History for Game 520434255 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 14:16:10
+Table Belgorod 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Hichan87 ( $1.50 )
+Seat 2: dmitb ( $1.84 )
+dmitb posts small blind [$0.01]
+Hichan87 posts big blind [$0.02]
+** Dealing down cards **
+dmitb folds
+** Summary **
+Hichan87 collected [ $0.03 ]
+
+
+#Game No : 520434265
+***** 888poker Hand History for Game 520434265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 01 2019 14:16:15
+Table Belgorod 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Hichan87 ( $1.51 )
+Seat 2: dmitb ( $1.83 )
+Hichan87 posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+Hichan87 calls [$0.01]
+dmitb checks
+** Dealing flop ** [ 3d, Kd, 3s ]
+dmitb checks
+Hichan87 checks
+** Dealing turn ** [ 4s ]
+dmitb bets [$0.03]
+Hichan87 folds
+** Summary **
+dmitb collected [ $0.04 ]
+
+

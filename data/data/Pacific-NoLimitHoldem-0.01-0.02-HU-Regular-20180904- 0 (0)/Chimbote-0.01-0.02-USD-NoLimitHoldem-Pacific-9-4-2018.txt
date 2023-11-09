@@ -1,0 +1,234 @@
+#Game No : 1206685717
+***** 888poker Hand History for Game 1206685717 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 21:38:17
+Table Chimbote 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: B.Griff.4 ( $2 )
+Seat 5: KatheryneK ( $2.09 )
+B.Griff.4 posts small blind [$0.01]
+KatheryneK posts big blind [$0.02]
+** Dealing down cards **
+B.Griff.4 raises [$0.03]
+KatheryneK folds
+** Summary **
+B.Griff.4 collected [ $0.04 ]
+
+
+#Game No : 1206685729
+***** 888poker Hand History for Game 1206685729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 21:38:27
+Table Chimbote 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: B.Griff.4 ( $2.02 )
+Seat 5: KatheryneK ( $2.07 )
+KatheryneK posts small blind [$0.01]
+B.Griff.4 posts big blind [$0.02]
+** Dealing down cards **
+KatheryneK raises [$0.03]
+B.Griff.4 calls [$0.02]
+** Dealing flop ** [ 7h, 9s, 8d ]
+B.Griff.4 checks
+KatheryneK checks
+** Dealing turn ** [ Jh ]
+B.Griff.4 bets [$0.04]
+KatheryneK raises [$2.03]
+B.Griff.4 folds
+** Summary **
+KatheryneK collected [ $0.15 ]
+
+
+#Game No : 1206685849
+***** 888poker Hand History for Game 1206685849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 21:40:13
+Table Chimbote 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: Rentner63 ( $0.80 )
+Seat 10: Dangerman33 ( $0.80 )
+Dangerman33 posts small blind [$0.01]
+Rentner63 posts big blind [$0.02]
+** Dealing down cards **
+Dangerman33 calls [$0.01]
+Rentner63 checks
+** Dealing flop ** [ Ts, Kc, 4h ]
+Rentner63 bets [$0.02]
+Dangerman33 calls [$0.02]
+** Dealing turn ** [ 4d ]
+Rentner63 bets [$0.02]
+Dangerman33 calls [$0.02]
+** Dealing river ** [ 5s ]
+Rentner63 bets [$0.02]
+Dangerman33 calls [$0.02]
+** Summary **
+Rentner63 shows [ Kd, 7h ]
+Dangerman33 mucks [ Ad, 5c ]
+Rentner63 collected [ $0.15 ]
+
+
+#Game No : 501887825
+***** 888poker Hand History for Game 501887825 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 23:13:14
+Table Chimbote 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $0.89 )
+Seat 2: Niko_Men.MK. ( $0.90 )
+SlavikMark79 posts small blind [$0.01]
+Niko_Men.MK. posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 calls [$0.01]
+Niko_Men.MK. checks
+** Dealing flop ** [ 2s, Kc, 5c ]
+Niko_Men.MK. checks
+SlavikMark79 bets [$0.04]
+Niko_Men.MK. calls [$0.04]
+** Dealing turn ** [ 7h ]
+Niko_Men.MK. checks
+SlavikMark79 checks
+** Dealing river ** [ Qc ]
+Niko_Men.MK. bets [$0.12]
+SlavikMark79 calls [$0.12]
+** Summary **
+Niko_Men.MK. shows [ Ks, Ah ]
+SlavikMark79 mucks [ Qs, 8c ]
+Niko_Men.MK. collected [ $0.34 ]
+
+
+#Game No : 501887834
+***** 888poker Hand History for Game 501887834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 23:13:45
+Table Chimbote 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $0.71 )
+Seat 2: Niko_Men.MK. ( $1.06 )
+Niko_Men.MK. posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Niko_Men.MK. calls [$0.01]
+SlavikMark79 checks
+** Dealing flop ** [ 5h, Qd, Td ]
+SlavikMark79 checks
+Niko_Men.MK. checks
+** Dealing turn ** [ 8c ]
+SlavikMark79 checks
+Niko_Men.MK. checks
+** Dealing river ** [ 7h ]
+SlavikMark79 checks
+Niko_Men.MK. checks
+** Summary **
+SlavikMark79 shows [ 3h, 5s ]
+Niko_Men.MK. shows [ 6s, 6h ]
+Niko_Men.MK. collected [ $0.04 ]
+
+
+#Game No : 501887841
+***** 888poker Hand History for Game 501887841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 23:14:13
+Table Chimbote 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $0.69 )
+Seat 2: Niko_Men.MK. ( $1.08 )
+SlavikMark79 posts small blind [$0.01]
+Niko_Men.MK. posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 raises [$0.05]
+Niko_Men.MK. folds
+** Summary **
+SlavikMark79 did not show his hand
+SlavikMark79 collected [ $0.04 ]
+
+
+#Game No : 501887842
+***** 888poker Hand History for Game 501887842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 23:14:21
+Table Chimbote 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $0.71 )
+Seat 2: Niko_Men.MK. ( $1.06 )
+Niko_Men.MK. posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Niko_Men.MK. folds
+** Summary **
+SlavikMark79 did not show his hand
+SlavikMark79 collected [ $0.03 ]
+
+
+#Game No : 501887846
+***** 888poker Hand History for Game 501887846 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 23:14:26
+Table Chimbote 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $0.72 )
+Seat 2: Niko_Men.MK. ( $1.05 )
+SlavikMark79 posts small blind [$0.01]
+Niko_Men.MK. posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 calls [$0.01]
+Niko_Men.MK. checks
+** Dealing flop ** [ 5h, Td, 5s ]
+Niko_Men.MK. checks
+SlavikMark79 checks
+** Dealing turn ** [ 7c ]
+Niko_Men.MK. checks
+SlavikMark79 checks
+** Dealing river ** [ 8s ]
+Niko_Men.MK. bets [$0.04]
+SlavikMark79 folds
+** Summary **
+Niko_Men.MK. did not show his hand
+Niko_Men.MK. collected [ $0.04 ]
+
+
+#Game No : 501887850
+***** 888poker Hand History for Game 501887850 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 23:14:44
+Table Chimbote 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $0.70 )
+Seat 2: Niko_Men.MK. ( $1.07 )
+Niko_Men.MK. posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Niko_Men.MK. calls [$0.01]
+SlavikMark79 checks
+** Dealing flop ** [ Js, Td, As ]
+SlavikMark79 checks
+Niko_Men.MK. checks
+** Dealing turn ** [ 8d ]
+SlavikMark79 checks
+Niko_Men.MK. checks
+** Dealing river ** [ 9s ]
+SlavikMark79 checks
+Niko_Men.MK. bets [$0.04]
+SlavikMark79 folds
+** Summary **
+Niko_Men.MK. did not show his hand
+Niko_Men.MK. collected [ $0.04 ]
+
+
+#Game No : 501887857
+***** 888poker Hand History for Game 501887857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 23:15:05
+Table Chimbote 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $0.68 )
+Seat 2: Niko_Men.MK. ( $1.09 )
+SlavikMark79 posts small blind [$0.01]
+Niko_Men.MK. posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 raises [$0.05]
+Niko_Men.MK. folds
+** Summary **
+SlavikMark79 did not show his hand
+SlavikMark79 collected [ $0.04 ]
+
+

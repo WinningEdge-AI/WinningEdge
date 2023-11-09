@@ -1,0 +1,28 @@
+#Game No : 618966631
+***** 888poker Hand History for Game 618966631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 04 2019 04:55:59
+Table Coimbra 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: yoda198709 ( $1.10 )
+Seat 7: fishkishmish ( $1.31 )
+fishkishmish posts small blind [$0.01]
+yoda198709 posts big blind [$0.02]
+** Dealing down cards **
+fishkishmish raises [$0.05]
+yoda198709 calls [$0.04]
+** Dealing flop ** [ 5h, 3c, Ad ]
+yoda198709 checks
+fishkishmish checks
+** Dealing turn ** [ Qc ]
+yoda198709 checks
+fishkishmish checks
+** Dealing river ** [ 5s ]
+yoda198709 bets [$0.11]
+fishkishmish calls [$0.11]
+** Summary **
+yoda198709 shows [ 9d, 5d ]
+fishkishmish mucks [ Ac, Ts ]
+yoda198709 collected [ $0.32 ]
+
+

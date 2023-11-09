@@ -1,0 +1,578 @@
+#Game No : 608296910
+***** 888poker Hand History for Game 608296910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 10:53:07
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: jnw1234 ( $1.82 )
+Seat 5: eyescrossed ( $0.93 )
+eyescrossed posts small blind [$0.01]
+jnw1234 posts big blind [$0.02]
+** Dealing down cards **
+eyescrossed calls [$0.01]
+jnw1234 checks
+** Dealing flop ** [ Kd, 6c, 3s ]
+jnw1234 checks
+eyescrossed checks
+** Dealing turn ** [ 9s ]
+jnw1234 checks
+eyescrossed checks
+** Dealing river ** [ Ks ]
+jnw1234 bets [$0.20]
+eyescrossed folds
+** Summary **
+jnw1234 collected [ $0.04 ]
+
+
+#Game No : 608296933
+***** 888poker Hand History for Game 608296933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 10:53:27
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jnw1234 ( $1.84 )
+Seat 5: eyescrossed ( $0.91 )
+jnw1234 posts small blind [$0.01]
+eyescrossed posts big blind [$0.02]
+** Dealing down cards **
+jnw1234 raises [$0.03]
+eyescrossed calls [$0.02]
+** Dealing flop ** [ Qh, 3h, 6c ]
+eyescrossed checks
+jnw1234 checks
+** Dealing turn ** [ Ts ]
+eyescrossed checks
+jnw1234 checks
+** Dealing river ** [ Kh ]
+eyescrossed checks
+jnw1234 checks
+** Summary **
+eyescrossed shows [ 9c, 8s ]
+jnw1234 shows [ 5c, 5s ]
+jnw1234 collected [ $0.08 ]
+
+
+#Game No : 608306667
+***** 888poker Hand History for Game 608306667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:51:43
+Table Khimki 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: SmonLongii ( $2.36 )
+Seat 3: IamYurec ( $0.71 )
+SmonLongii posts small blind [$0.01]
+** Dealing down cards **
+IamYurec folds
+** Summary **
+SmonLongii collected [ $0.01 ]
+
+
+#Game No : 608306689
+***** 888poker Hand History for Game 608306689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:52:11
+Table Khimki 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2 )
+Seat 2: SmonLongii ( $2.36 )
+SmonLongii posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+SmonLongii folds
+** Summary **
+Trapeze14 collected [ $0.03 ]
+
+
+#Game No : 608306696
+***** 888poker Hand History for Game 608306696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:52:17
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.01 )
+Seat 2: SmonLongii ( $2.35 )
+Trapeze14 posts small blind [$0.01]
+SmonLongii posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 raises [$0.05]
+SmonLongii raises [$0.11]
+Trapeze14 calls [$0.07]
+** Dealing flop ** [ Qh, 2d, Jd ]
+SmonLongii bets [$0.17]
+Trapeze14 folds
+** Summary **
+SmonLongii did not show his hand
+SmonLongii collected [ $0.25 ]
+
+
+#Game No : 608306730
+***** 888poker Hand History for Game 608306730 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:52:50
+Table Khimki 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $1.88 )
+Seat 2: SmonLongii ( $2.47 )
+SmonLongii posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+SmonLongii calls [$0.01]
+Trapeze14 raises [$0.04]
+SmonLongii folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.04 ]
+
+
+#Game No : 608306744
+***** 888poker Hand History for Game 608306744 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:53:04
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $1.90 )
+Seat 2: SmonLongii ( $2.45 )
+Trapeze14 posts small blind [$0.01]
+SmonLongii posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 calls [$0.01]
+SmonLongii checks
+** Dealing flop ** [ 7h, Kc, Th ]
+SmonLongii checks
+Trapeze14 checks
+** Dealing turn ** [ Jc ]
+SmonLongii checks
+Trapeze14 bets [$0.04]
+SmonLongii calls [$0.04]
+** Dealing river ** [ 9s ]
+SmonLongii bets [$0.08]
+Trapeze14 raises [$0.16]
+SmonLongii calls [$0.08]
+** Summary **
+Trapeze14 shows [ Qs, Ah ]
+SmonLongii mucks [ 4h, Qd ]
+Trapeze14 collected [ $0.42 ]
+
+
+#Game No : 608306796
+***** 888poker Hand History for Game 608306796 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:53:56
+Table Khimki 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.10 )
+Seat 2: SmonLongii ( $2.23 )
+SmonLongii posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+SmonLongii folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.03 ]
+
+
+#Game No : 608306801
+***** 888poker Hand History for Game 608306801 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:54:03
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.11 )
+Seat 2: SmonLongii ( $2.22 )
+Trapeze14 posts small blind [$0.01]
+SmonLongii posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 raises [$0.03]
+SmonLongii calls [$0.02]
+** Dealing flop ** [ Js, 8c, Th ]
+SmonLongii checks
+Trapeze14 checks
+** Dealing turn ** [ 3s ]
+SmonLongii checks
+Trapeze14 bets [$0.08]
+SmonLongii folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.08 ]
+
+
+#Game No : 608306829
+***** 888poker Hand History for Game 608306829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:54:33
+Table Khimki 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.15 )
+Seat 2: SmonLongii ( $2.18 )
+SmonLongii posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+SmonLongii calls [$0.01]
+Trapeze14 checks
+** Dealing flop ** [ Js, Kd, 3h ]
+Trapeze14 checks
+SmonLongii checks
+** Dealing turn ** [ 5c ]
+Trapeze14 checks
+SmonLongii bets [$0.04]
+Trapeze14 folds
+** Summary **
+SmonLongii collected [ $0.04 ]
+
+
+#Game No : 608306932
+***** 888poker Hand History for Game 608306932 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:56:10
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.15 )
+Seat 5: somsergey64 ( $0.84 )
+somsergey64 posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+somsergey64 calls [$0.01]
+Trapeze14 checks
+** Dealing flop ** [ Jd, Qd, 5h ]
+Trapeze14 checks
+somsergey64 bets [$0.04]
+Trapeze14 folds
+** Summary **
+somsergey64 did not show his hand
+somsergey64 collected [ $0.04 ]
+
+
+#Game No : 608307066
+***** 888poker Hand History for Game 608307066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:58:36
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.30 )
+Seat 5: somsergey64 ( $0.77 )
+Trapeze14 posts small blind [$0.01]
+somsergey64 posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 calls [$0.01]
+somsergey64 checks
+** Dealing flop ** [ 3s, Jd, 2d ]
+somsergey64 checks
+Trapeze14 bets [$0.04]
+somsergey64 calls [$0.04]
+** Dealing turn ** [ Qh ]
+somsergey64 checks
+Trapeze14 checks
+** Dealing river ** [ 3h ]
+somsergey64 bets [$0.06]
+Trapeze14 folds
+** Summary **
+somsergey64 did not show his hand
+somsergey64 collected [ $0.12 ]
+
+
+#Game No : 608307098
+***** 888poker Hand History for Game 608307098 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:59:10
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.24 )
+Seat 5: somsergey64 ( $0.83 )
+somsergey64 posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+somsergey64 calls [$0.01]
+Trapeze14 checks
+** Dealing flop ** [ Ks, Th, 6c ]
+Trapeze14 bets [$0.04]
+somsergey64 folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.04 ]
+
+
+#Game No : 608307115
+***** 888poker Hand History for Game 608307115 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:59:26
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.26 )
+Seat 5: somsergey64 ( $0.81 )
+Trapeze14 posts small blind [$0.01]
+somsergey64 posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 calls [$0.01]
+somsergey64 checks
+** Dealing flop ** [ 2s, 8c, 6s ]
+somsergey64 checks
+Trapeze14 bets [$0.06]
+somsergey64 folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.04 ]
+
+
+#Game No : 608307136
+***** 888poker Hand History for Game 608307136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:59:46
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.28 )
+Seat 5: somsergey64 ( $0.79 )
+somsergey64 posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+somsergey64 calls [$0.01]
+Trapeze14 checks
+** Dealing flop ** [ 2s, Tc, Kc ]
+Trapeze14 bets [$0.06]
+somsergey64 folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.04 ]
+
+
+#Game No : 608307155
+***** 888poker Hand History for Game 608307155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:00:02
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.30 )
+Seat 5: somsergey64 ( $0.77 )
+Trapeze14 posts small blind [$0.01]
+somsergey64 posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 calls [$0.01]
+somsergey64 checks
+** Dealing flop ** [ 9h, Tc, 3h ]
+somsergey64 checks
+Trapeze14 checks
+** Dealing turn ** [ 3s ]
+somsergey64 checks
+Trapeze14 checks
+** Dealing river ** [ 4s ]
+somsergey64 checks
+Trapeze14 checks
+** Summary **
+somsergey64 shows [ 7h, 8s ]
+Trapeze14 shows [ 2c, Qc ]
+Trapeze14 collected [ $0.04 ]
+
+
+#Game No : 608307179
+***** 888poker Hand History for Game 608307179 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:00:29
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.32 )
+Seat 5: somsergey64 ( $0.75 )
+somsergey64 posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+somsergey64 calls [$0.01]
+Trapeze14 raises [$0.02]
+somsergey64 calls [$0.02]
+** Dealing flop ** [ 7d, 4d, 6c ]
+Trapeze14 bets [$0.08]
+somsergey64 folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.08 ]
+
+
+#Game No : 608307190
+***** 888poker Hand History for Game 608307190 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:00:46
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.36 )
+Seat 5: somsergey64 ( $0.71 )
+Trapeze14 posts small blind [$0.01]
+somsergey64 posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 calls [$0.01]
+somsergey64 checks
+** Dealing flop ** [ 2c, 2d, 4d ]
+somsergey64 checks
+Trapeze14 bets [$0.06]
+somsergey64 folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.04 ]
+
+
+#Game No : 608307211
+***** 888poker Hand History for Game 608307211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:01:04
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.38 )
+Seat 5: somsergey64 ( $0.69 )
+somsergey64 posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+somsergey64 raises [$0.03]
+Trapeze14 calls [$0.02]
+** Dealing flop ** [ 7s, Ts, 4c ]
+Trapeze14 checks
+somsergey64 bets [$0.04]
+Trapeze14 folds
+** Summary **
+somsergey64 did not show his hand
+somsergey64 collected [ $0.08 ]
+
+
+#Game No : 608307233
+***** 888poker Hand History for Game 608307233 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:01:25
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.34 )
+Seat 5: somsergey64 ( $0.73 )
+Trapeze14 posts small blind [$0.01]
+somsergey64 posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 calls [$0.01]
+somsergey64 checks
+** Dealing flop ** [ 4d, 8h, 7d ]
+somsergey64 checks
+Trapeze14 bets [$0.02]
+somsergey64 calls [$0.02]
+** Dealing turn ** [ 4h ]
+somsergey64 checks
+Trapeze14 bets [$0.04]
+somsergey64 calls [$0.04]
+** Dealing river ** [ 5s ]
+somsergey64 checks
+Trapeze14 bets [$0.08]
+somsergey64 folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.15 ]
+
+
+#Game No : 608307273
+***** 888poker Hand History for Game 608307273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:02:01
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.41 )
+Seat 5: somsergey64 ( $0.65 )
+somsergey64 posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+somsergey64 calls [$0.01]
+Trapeze14 raises [$0.02]
+somsergey64 calls [$0.02]
+** Dealing flop ** [ Kc, 5s, Ac ]
+Trapeze14 bets [$0.08]
+somsergey64 folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.08 ]
+
+
+#Game No : 608307289
+***** 888poker Hand History for Game 608307289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:02:19
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.45 )
+Seat 5: somsergey64 ( $0.61 )
+Trapeze14 posts small blind [$0.01]
+somsergey64 posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 raises [$0.03]
+somsergey64 calls [$0.02]
+** Dealing flop ** [ Qc, 4s, 3d ]
+somsergey64 checks
+Trapeze14 bets [$0.08]
+somsergey64 folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.08 ]
+
+
+#Game No : 608307309
+***** 888poker Hand History for Game 608307309 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:02:37
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.49 )
+Seat 5: somsergey64 ( $0.57 )
+somsergey64 posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+somsergey64 calls [$0.01]
+Trapeze14 raises [$0.02]
+somsergey64 raises [$0.06]
+Trapeze14 calls [$0.04]
+** Dealing flop ** [ Ac, Jh, 6s ]
+Trapeze14 checks
+somsergey64 bets [$0.10]
+Trapeze14 folds
+** Summary **
+somsergey64 did not show his hand
+somsergey64 collected [ $0.15 ]
+
+
+#Game No : 608307339
+***** 888poker Hand History for Game 608307339 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:03:04
+Table Khimki 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.41 )
+Seat 5: somsergey64 ( $0.64 )
+Trapeze14 posts small blind [$0.01]
+somsergey64 posts big blind [$0.02]
+** Dealing down cards **
+Trapeze14 raises [$0.03]
+somsergey64 calls [$0.02]
+** Dealing flop ** [ 3c, 6d, Jh ]
+somsergey64 checks
+Trapeze14 bets [$0.08]
+somsergey64 folds
+** Summary **
+Trapeze14 did not show his hand
+Trapeze14 collected [ $0.08 ]
+
+
+#Game No : 608307358
+***** 888poker Hand History for Game 608307358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 14:03:21
+Table Khimki 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Trapeze14 ( $2.45 )
+Seat 5: somsergey64 ( $0.60 )
+somsergey64 posts small blind [$0.01]
+Trapeze14 posts big blind [$0.02]
+** Dealing down cards **
+somsergey64 calls [$0.01]
+Trapeze14 raises [$0.04]
+somsergey64 calls [$0.04]
+** Dealing flop ** [ Ad, 6s, 7s ]
+Trapeze14 bets [$0.12]
+somsergey64 calls [$0.12]
+** Dealing turn ** [ 3c ]
+Trapeze14 bets [$0.36]
+somsergey64 raises [$0.42]
+Trapeze14 calls [$0.06]
+** Dealing river ** [ Qh ]
+** Summary **
+Trapeze14 shows [ 4c, 5h ]
+somsergey64 shows [ Ah, As ]
+Trapeze14 collected [ $1.13 ]
+
+

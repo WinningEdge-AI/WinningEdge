@@ -1,0 +1,77 @@
+#Game No : 461176152
+***** 888poker Hand History for Game 461176152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 09:23:16
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pharpharr ( $1.51 )
+Seat 2: Csocso1986 ( $1.24 )
+pharpharr posts small blind [$0.01]
+Csocso1986 posts big blind [$0.02]
+** Dealing down cards **
+pharpharr raises [$0.03]
+Csocso1986 calls [$0.02]
+** Dealing flop ** [ 8s, Kd, 9c ]
+Csocso1986 bets [$0.02]
+pharpharr folds
+** Summary **
+Csocso1986 did not show his hand
+Csocso1986 collected [ $0.08 ]
+
+
+#Game No : 461176166
+***** 888poker Hand History for Game 461176166 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 09:23:33
+Table Bucharest 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pharpharr ( $1.47 )
+Seat 2: Csocso1986 ( $1.28 )
+Csocso1986 posts small blind [$0.01]
+pharpharr posts big blind [$0.02]
+** Dealing down cards **
+Csocso1986 calls [$0.01]
+pharpharr checks
+** Dealing flop ** [ 3h, Jc, Ts ]
+pharpharr checks
+Csocso1986 bets [$0.02]
+pharpharr calls [$0.02]
+** Dealing turn ** [ 2d ]
+pharpharr checks
+Csocso1986 bets [$0.02]
+pharpharr calls [$0.02]
+** Dealing river ** [ 7c ]
+pharpharr checks
+Csocso1986 checks
+** Summary **
+pharpharr shows [ 4c, 8c ]
+Csocso1986 shows [ Ah, Tc ]
+Csocso1986 collected [ $0.12 ]
+
+
+#Game No : 461186899
+***** 888poker Hand History for Game 461186899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2019 12:42:09
+Table Bucharest 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 1968matz ( $1.78 )
+Seat 7: Chris9Johns ( $0.93 )
+1968matz posts small blind [$0.01]
+Chris9Johns posts big blind [$0.02]
+** Dealing down cards **
+1968matz calls [$0.01]
+Chris9Johns checks
+** Dealing flop ** [ Td, 4c, 2c ]
+Chris9Johns checks
+1968matz checks
+** Dealing turn ** [ Js ]
+Chris9Johns checks
+1968matz checks
+** Dealing river ** [ 5h ]
+Chris9Johns bets [$0.02]
+1968matz folds
+** Summary **
+Chris9Johns collected [ $0.04 ]
+
+

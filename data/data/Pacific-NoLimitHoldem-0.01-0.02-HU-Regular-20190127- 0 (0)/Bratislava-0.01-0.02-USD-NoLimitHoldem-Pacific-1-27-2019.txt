@@ -1,0 +1,132 @@
+#Game No : 522637013
+***** 888poker Hand History for Game 522637013 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 16:52:04
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Kotalin ( $1.25 )
+Seat 7: DageTheFirst ( $1.23 )
+DageTheFirst posts small blind [$0.01]
+Kotalin posts big blind [$0.02]
+** Dealing down cards **
+DageTheFirst calls [$0.01]
+Kotalin checks
+** Dealing flop ** [ 4h, 6d, 2h ]
+Kotalin checks
+DageTheFirst checks
+** Dealing turn ** [ Qd ]
+Kotalin checks
+DageTheFirst checks
+** Dealing river ** [ Ks ]
+Kotalin checks
+DageTheFirst checks
+** Summary **
+Kotalin shows [ Ac, 8s ]
+DageTheFirst shows [ Jh, 2d ]
+DageTheFirst collected [ $0.04 ]
+
+
+#Game No : 522637108
+***** 888poker Hand History for Game 522637108 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 16:53:25
+Table Bratislava 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Zackmack14 ( $0.80 )
+Seat 7: davoice77 ( $0.80 )
+Zackmack14 posts small blind [$0.01]
+davoice77 posts big blind [$0.02]
+** Dealing down cards **
+Zackmack14 raises [$0.03]
+davoice77 calls [$0.02]
+** Dealing flop ** [ 2d, 7d, 9d ]
+davoice77 checks
+Zackmack14 bets [$0.02]
+davoice77 calls [$0.02]
+** Dealing turn ** [ 8c ]
+davoice77 checks
+Zackmack14 bets [$0.06]
+davoice77 raises [$0.12]
+Zackmack14 calls [$0.06]
+** Dealing river ** [ 2s ]
+davoice77 bets [$0.36]
+Zackmack14 calls [$0.36]
+** Summary **
+davoice77 shows [ Td, Js ]
+Zackmack14 mucks [ Qc, Qd ]
+davoice77 collected [ $1.02 ]
+
+
+#Game No : 522637157
+***** 888poker Hand History for Game 522637157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 16:54:03
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Zackmack14 ( $0.26 )
+Seat 7: davoice77 ( $1.28 )
+davoice77 posts small blind [$0.01]
+Zackmack14 posts big blind [$0.02]
+** Dealing down cards **
+davoice77 folds
+** Summary **
+Zackmack14 collected [ $0.03 ]
+
+
+#Game No : 522637167
+***** 888poker Hand History for Game 522637167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 16:54:09
+Table Bratislava 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Zackmack14 ( $0.27 )
+Seat 7: davoice77 ( $1.27 )
+Zackmack14 posts small blind [$0.01]
+davoice77 posts big blind [$0.02]
+** Dealing down cards **
+Zackmack14 calls [$0.01]
+davoice77 checks
+** Dealing flop ** [ Th, 8c, Kc ]
+davoice77 checks
+Zackmack14 checks
+** Dealing turn ** [ Kd ]
+davoice77 checks
+Zackmack14 checks
+** Dealing river ** [ Ts ]
+davoice77 checks
+Zackmack14 checks
+** Summary **
+davoice77 shows [ 9d, 7h ]
+Zackmack14 mucks [ 3h, 5d ]
+davoice77 collected [ $0.04 ]
+
+
+#Game No : 522637198
+***** 888poker Hand History for Game 522637198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 01 2019 16:54:37
+Table Bratislava 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Zackmack14 ( $0.25 )
+Seat 7: davoice77 ( $1.29 )
+davoice77 posts small blind [$0.01]
+Zackmack14 posts big blind [$0.02]
+** Dealing down cards **
+davoice77 raises [$0.03]
+Zackmack14 calls [$0.02]
+** Dealing flop ** [ 4c, 5s, 3h ]
+Zackmack14 checks
+davoice77 checks
+** Dealing turn ** [ 2s ]
+Zackmack14 checks
+davoice77 checks
+** Dealing river ** [ 3s ]
+Zackmack14 bets [$0.20]
+davoice77 raises [$0.68]
+Zackmack14 calls [$0.01]
+** Summary **
+Zackmack14 shows [ 8s, 6c ]
+davoice77 shows [ 5c, 5h ]
+davoice77 collected [ $0.47 ]
+
+

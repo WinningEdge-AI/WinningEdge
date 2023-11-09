@@ -1,0 +1,155 @@
+#Game No : 502982086
+***** 888poker Hand History for Game 502982086 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 03:58:04
+Table Bedford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: svetlafon ( $0.80 )
+Seat 4: Veksil ( $1.01 )
+Veksil posts small blind [$0.01]
+svetlafon posts big blind [$0.02]
+** Dealing down cards **
+Veksil raises [$0.05]
+svetlafon calls [$0.04]
+** Dealing flop ** [ 3c, Qs, Ts ]
+svetlafon checks
+Veksil bets [$0.08]
+svetlafon calls [$0.08]
+** Dealing turn ** [ Qh ]
+svetlafon checks
+Veksil bets [$0.18]
+svetlafon folds
+** Summary **
+Veksil collected [ $0.27 ]
+
+
+#Game No : 502982263
+***** 888poker Hand History for Game 502982263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 04:02:36
+Table Bedford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Veksil ( $1.74 )
+Seat 6: ami9559 ( $1.47 )
+Veksil posts small blind [$0.01]
+ami9559 posts big blind [$0.02]
+** Dealing down cards **
+Veksil raises [$0.05]
+ami9559 calls [$0.04]
+** Dealing flop ** [ 4s, 5d, 7h ]
+ami9559 checks
+Veksil checks
+** Dealing turn ** [ Ah ]
+ami9559 checks
+Veksil bets [$0.06]
+ami9559 calls [$0.06]
+** Dealing river ** [ 2d ]
+ami9559 checks
+Veksil bets [$0.10]
+ami9559 folds
+** Summary **
+Veksil collected [ $0.23 ]
+
+
+#Game No : 502982292
+***** 888poker Hand History for Game 502982292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 04:03:13
+Table Bedford 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Veksil ( $1.85 )
+Seat 6: ami9559 ( $1.35 )
+ami9559 posts small blind [$0.01]
+Veksil posts big blind [$0.02]
+** Dealing down cards **
+ami9559 raises [$0.05]
+Veksil folds
+** Summary **
+ami9559 collected [ $0.04 ]
+
+
+#Game No : 502983011
+***** 888poker Hand History for Game 502983011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 04:22:12
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Tiltoff. ( $1.32 )
+Seat 7: codygraham ( $1.29 )
+Tiltoff. posts small blind [$0.01]
+codygraham posts big blind [$0.02]
+** Dealing down cards **
+Tiltoff. raises [$0.04]
+codygraham calls [$0.03]
+** Dealing flop ** [ 6d, Qs, Js ]
+codygraham checks
+Tiltoff. checks
+** Dealing turn ** [ 9h ]
+codygraham checks
+Tiltoff. checks
+** Dealing river ** [ 7c ]
+codygraham checks
+Tiltoff. bets [$0.05]
+codygraham folds
+** Summary **
+Tiltoff. collected [ $0.10 ]
+
+
+#Game No : 507467186
+***** 888poker Hand History for Game 507467186 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 08:36:48
+Table Bedford 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jarow66 ( $2.14 )
+Seat 2: TupotinA ( $0.80 )
+jarow66 posts small blind [$0.01]
+TupotinA posts big blind [$0.02]
+** Dealing down cards **
+jarow66 calls [$0.01]
+TupotinA checks
+** Dealing flop ** [ Qd, Kh, 8c ]
+TupotinA checks
+jarow66 bets [$0.02]
+TupotinA calls [$0.02]
+** Dealing turn ** [ 4h ]
+TupotinA checks
+jarow66 checks
+** Dealing river ** [ 5c ]
+TupotinA checks
+jarow66 checks
+** Summary **
+TupotinA shows [ Ts, Ad ]
+jarow66 shows [ 2d, Qh ]
+jarow66 collected [ $0.08 ]
+
+
+#Game No : 507467222
+***** 888poker Hand History for Game 507467222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 09 2018 08:37:11
+Table Bedford 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: jarow66 ( $2.18 )
+Seat 2: TupotinA ( $0.80 )
+TupotinA posts small blind [$0.01]
+jarow66 posts big blind [$0.02]
+** Dealing down cards **
+TupotinA calls [$0.01]
+jarow66 checks
+** Dealing flop ** [ Tc, 5s, 5c ]
+jarow66 checks
+TupotinA checks
+** Dealing turn ** [ 7h ]
+jarow66 checks
+TupotinA checks
+** Dealing river ** [ Kd ]
+jarow66 checks
+TupotinA checks
+** Summary **
+jarow66 shows [ Qd, 8c ]
+TupotinA shows [ 3d, Qh ]
+jarow66 collected [ $0.02 ]
+TupotinA collected [ $0.02 ]
+
+

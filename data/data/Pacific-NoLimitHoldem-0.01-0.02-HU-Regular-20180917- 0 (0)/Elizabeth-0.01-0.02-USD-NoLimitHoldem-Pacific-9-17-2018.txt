@@ -1,0 +1,465 @@
+#Game No : 502485841
+***** 888poker Hand History for Game 502485841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 12:16:29
+Table Elizabeth 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Bar_ce15 ( $1.12 )
+Seat 7: Skyluck11 ( $1.08 )
+Skyluck11 posts small blind [$0.01]
+Bar_ce15 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 raises [$0.05]
+Bar_ce15 raises [$0.14]
+Skyluck11 folds
+** Summary **
+Bar_ce15 did not show his hand
+Bar_ce15 collected [ $0.12 ]
+
+
+#Game No : 502485861
+***** 888poker Hand History for Game 502485861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 12:16:45
+Table Elizabeth 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bar_ce15 ( $1.18 )
+Seat 7: Skyluck11 ( $1.02 )
+Bar_ce15 posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+Bar_ce15 calls [$0.01]
+Skyluck11 checks
+** Dealing flop ** [ 7h, 9s, 6d ]
+Skyluck11 checks
+Bar_ce15 checks
+** Dealing turn ** [ Jd ]
+Skyluck11 checks
+Bar_ce15 bets [$0.02]
+Skyluck11 folds
+** Summary **
+Bar_ce15 collected [ $0.04 ]
+
+
+#Game No : 502485878
+***** 888poker Hand History for Game 502485878 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 12:16:59
+Table Elizabeth 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Bar_ce15 ( $1.20 )
+Seat 7: Skyluck11 ( $1 )
+Skyluck11 posts small blind [$0.01]
+Bar_ce15 posts big blind [$0.02]
+** Dealing down cards **
+Skyluck11 folds
+** Summary **
+Bar_ce15 collected [ $0.03 ]
+
+
+#Game No : 502486237
+***** 888poker Hand History for Game 502486237 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 12:22:36
+Table Elizabeth 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: edgaRock ( $1.88 )
+Seat 6: Bar_ce15 ( $0.92 )
+edgaRock posts small blind [$0.01]
+Bar_ce15 posts big blind [$0.02]
+** Dealing down cards **
+edgaRock calls [$0.01]
+Bar_ce15 checks
+** Dealing flop ** [ As, Ks, 3c ]
+Bar_ce15 bets [$0.06]
+edgaRock calls [$0.06]
+** Dealing turn ** [ 8d ]
+Bar_ce15 bets [$0.18]
+edgaRock calls [$0.18]
+** Dealing river ** [ 8c ]
+Bar_ce15 bets [$0.66]
+edgaRock calls [$0.66]
+** Summary **
+edgaRock shows [ Kh, Jc ]
+Bar_ce15 shows [ 6d, Ah ]
+Bar_ce15 collected [ $1.73 ]
+
+
+#Game No : 502486378
+***** 888poker Hand History for Game 502486378 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 12:24:35
+Table Elizabeth 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Purdy151 ( $0.82 )
+Seat 4: Gohabs1981 ( $0.76 )
+Gohabs1981 posts small blind [$0.01]
+Purdy151 posts big blind [$0.02]
+** Dealing down cards **
+Gohabs1981 calls [$0.01]
+Purdy151 checks
+** Dealing flop ** [ 3s, 7d, Qh ]
+Gohabs1981 checks
+Purdy151 checks
+** Dealing turn ** [ 8h ]
+Gohabs1981 bets [$0.04]
+Purdy151 folds
+** Summary **
+Gohabs1981 collected [ $0.04 ]
+
+
+#Game No : 502486400
+***** 888poker Hand History for Game 502486400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 12:25:01
+Table Elizabeth 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Purdy151 ( $0.80 )
+Seat 4: Gohabs1981 ( $0.78 )
+Gohabs1981 posts small blind [$0.01]
+Purdy151 posts big blind [$0.02]
+** Dealing down cards **
+Gohabs1981 calls [$0.01]
+Purdy151 checks
+** Dealing flop ** [ 7c, 3h, Tc ]
+Purdy151 checks
+Gohabs1981 checks
+** Dealing turn ** [ 9d ]
+Purdy151 checks
+Gohabs1981 bets [$0.04]
+Purdy151 folds
+** Summary **
+Gohabs1981 collected [ $0.04 ]
+
+
+#Game No : 502486442
+***** 888poker Hand History for Game 502486442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 12:25:27
+Table Elizabeth 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Purdy151 ( $0.78 )
+Seat 4: Gohabs1981 ( $0.80 )
+Purdy151 posts small blind [$0.01]
+Gohabs1981 posts big blind [$0.02]
+** Dealing down cards **
+Purdy151 calls [$0.01]
+Gohabs1981 checks
+** Dealing flop ** [ Qs, 8d, 6h ]
+Gohabs1981 checks
+Purdy151 checks
+** Dealing turn ** [ 7d ]
+Gohabs1981 bets [$0.04]
+Purdy151 raises [$0.08]
+Gohabs1981 calls [$0.04]
+** Dealing river ** [ 4d ]
+Gohabs1981 checks
+Purdy151 checks
+** Summary **
+Gohabs1981 shows [ Jh, 9c ]
+Purdy151 shows [ 7s, 9h ]
+Purdy151 collected [ $0.19 ]
+
+
+#Game No : 502486477
+***** 888poker Hand History for Game 502486477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 12:26:05
+Table Elizabeth 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Purdy151 ( $0.87 )
+Seat 4: Gohabs1981 ( $0.70 )
+Gohabs1981 posts small blind [$0.01]
+Purdy151 posts big blind [$0.02]
+** Dealing down cards **
+Gohabs1981 calls [$0.01]
+Purdy151 checks
+** Dealing flop ** [ 2d, 3c, 8c ]
+Purdy151 checks
+Gohabs1981 checks
+** Dealing turn ** [ Qc ]
+Purdy151 bets [$0.10]
+Gohabs1981 folds
+** Summary **
+Purdy151 collected [ $0.04 ]
+
+
+#Game No : 502488702
+***** 888poker Hand History for Game 502488702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:02:55
+Table Elizabeth 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DennisMehren ( $0.90 )
+Seat 7: OlegH1 ( $1 )
+OlegH1 posts small blind [$0.01]
+DennisMehren posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+DennisMehren collected [ $0.03 ]
+
+
+#Game No : 502488718
+***** 888poker Hand History for Game 502488718 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:03:12
+Table Elizabeth 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DennisMehren ( $0.91 )
+Seat 7: OlegH1 ( $1 )
+DennisMehren posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+DennisMehren calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 7s, Jh, Th ]
+OlegH1 checks
+DennisMehren bets [$0.02]
+OlegH1 calls [$0.02]
+** Dealing turn ** [ 5s ]
+OlegH1 checks
+DennisMehren checks
+** Dealing river ** [ As ]
+OlegH1 checks
+DennisMehren bets [$0.04]
+OlegH1 folds
+** Summary **
+DennisMehren did not show his hand
+DennisMehren collected [ $0.08 ]
+
+
+#Game No : 502488752
+***** 888poker Hand History for Game 502488752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:03:52
+Table Elizabeth 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DennisMehren ( $0.95 )
+Seat 7: OlegH1 ( $1 )
+OlegH1 posts small blind [$0.01]
+DennisMehren posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+DennisMehren did not show his hand
+DennisMehren collected [ $0.03 ]
+
+
+#Game No : 502488757
+***** 888poker Hand History for Game 502488757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:03:59
+Table Elizabeth 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DennisMehren ( $0.96 )
+Seat 7: OlegH1 ( $1 )
+DennisMehren posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+DennisMehren raises [$0.05]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ 3c, 2h, Qd ]
+OlegH1 checks
+DennisMehren bets [$0.12]
+OlegH1 folds
+** Summary **
+DennisMehren collected [ $0.12 ]
+
+
+#Game No : 502488839
+***** 888poker Hand History for Game 502488839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:05:18
+Table Elizabeth 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bolshoiman ( $1.07 )
+Seat 7: OlegH1 ( $1 )
+Bolshoiman posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.06]
+OlegH1 folds
+** Summary **
+Bolshoiman did not show his hand
+Bolshoiman collected [ $0.04 ]
+
+
+#Game No : 502488853
+***** 888poker Hand History for Game 502488853 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:05:28
+Table Elizabeth 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Bolshoiman ( $1.09 )
+Seat 7: OlegH1 ( $1 )
+OlegH1 posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+Bolshoiman checks
+** Dealing flop ** [ Ah, 6c, 5d ]
+Bolshoiman bets [$0.06]
+OlegH1 folds
+** Summary **
+Bolshoiman did not show his hand
+Bolshoiman collected [ $0.04 ]
+
+
+#Game No : 502488872
+***** 888poker Hand History for Game 502488872 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:05:48
+Table Elizabeth 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bolshoiman ( $1.11 )
+Seat 7: OlegH1 ( $1 )
+Bolshoiman posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman folds
+** Summary **
+OlegH1 did not show his hand
+OlegH1 collected [ $0.03 ]
+
+
+#Game No : 502488879
+***** 888poker Hand History for Game 502488879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:05:53
+Table Elizabeth 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Bolshoiman ( $1.10 )
+Seat 7: OlegH1 ( $1.01 )
+OlegH1 posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+Bolshoiman checks
+** Dealing flop ** [ 2d, Th, Ac ]
+Bolshoiman checks
+OlegH1 bets [$0.02]
+Bolshoiman folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 502488893
+***** 888poker Hand History for Game 502488893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:06:05
+Table Elizabeth 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bolshoiman ( $1.08 )
+Seat 7: OlegH1 ( $1.03 )
+Bolshoiman posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman raises [$0.06]
+OlegH1 calls [$0.05]
+** Dealing flop ** [ Jd, 4s, 8c ]
+OlegH1 checks
+Bolshoiman bets [$0.09]
+OlegH1 calls [$0.09]
+** Dealing turn ** [ 4d ]
+OlegH1 checks
+Bolshoiman checks
+** Dealing river ** [ 2c ]
+OlegH1 bets [$0.18]
+Bolshoiman folds
+** Summary **
+OlegH1 collected [ $0.30 ]
+
+
+#Game No : 502489316
+***** 888poker Hand History for Game 502489316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:13:42
+Table Elizabeth 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jcmartinszzz ( $0.80 )
+Seat 4: Bolshoiman ( $1.31 )
+Jcmartinszzz posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+Jcmartinszzz calls [$0.01]
+Bolshoiman checks
+** Dealing flop ** [ 9d, As, 2h ]
+Bolshoiman checks
+Jcmartinszzz bets [$0.02]
+Bolshoiman folds
+** Summary **
+Jcmartinszzz collected [ $0.04 ]
+
+
+#Game No : 502489324
+***** 888poker Hand History for Game 502489324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:13:55
+Table Elizabeth 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Jcmartinszzz ( $0.82 )
+Seat 4: Bolshoiman ( $1.29 )
+Bolshoiman posts small blind [$0.01]
+Jcmartinszzz posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman folds
+** Summary **
+Jcmartinszzz collected [ $0.03 ]
+
+
+#Game No : 502489333
+***** 888poker Hand History for Game 502489333 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:14:00
+Table Elizabeth 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jcmartinszzz ( $0.83 )
+Seat 4: Bolshoiman ( $1.28 )
+Jcmartinszzz posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+Jcmartinszzz calls [$0.01]
+Bolshoiman checks
+** Dealing flop ** [ 4d, 6s, Kd ]
+Bolshoiman bets [$0.06]
+Jcmartinszzz raises [$0.81]
+Bolshoiman folds
+** Summary **
+Jcmartinszzz collected [ $0.15 ]
+
+
+#Game No : 502489350
+***** 888poker Hand History for Game 502489350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:14:17
+Table Elizabeth 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Jcmartinszzz ( $0.90 )
+Seat 4: Bolshoiman ( $1.20 )
+Bolshoiman posts small blind [$0.01]
+Jcmartinszzz posts big blind [$0.02]
+** Dealing down cards **
+Bolshoiman folds
+** Summary **
+Jcmartinszzz collected [ $0.03 ]
+
+
+#Game No : 502489354
+***** 888poker Hand History for Game 502489354 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 09 2018 13:14:22
+Table Elizabeth 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Jcmartinszzz ( $0.91 )
+Seat 4: Bolshoiman ( $1.19 )
+Jcmartinszzz posts small blind [$0.01]
+Bolshoiman posts big blind [$0.02]
+** Dealing down cards **
+Jcmartinszzz calls [$0.01]
+Bolshoiman raises [$0.06]
+Jcmartinszzz folds
+** Summary **
+Bolshoiman collected [ $0.04 ]
+
+

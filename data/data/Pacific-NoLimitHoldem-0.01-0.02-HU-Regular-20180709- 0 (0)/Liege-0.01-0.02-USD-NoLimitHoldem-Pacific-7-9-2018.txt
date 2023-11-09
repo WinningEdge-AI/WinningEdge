@@ -1,0 +1,128 @@
+#Game No : 452998442
+***** 888poker Hand History for Game 452998442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 07 2018 23:00:20
+Table Liege 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Pondax ( $1.80 )
+Seat 7: Coffik9 ( $2.46 )
+Pondax posts small blind [$0.01]
+Coffik9 posts big blind [$0.02]
+** Dealing down cards **
+Pondax raises [$0.03]
+Coffik9 calls [$0.02]
+** Dealing flop ** [ Kd, Ac, 7s ]
+Coffik9 checks
+Pondax checks
+** Dealing turn ** [ Jc ]
+Coffik9 checks
+Pondax checks
+** Dealing river ** [ 3d ]
+Coffik9 checks
+Pondax checks
+** Summary **
+Coffik9 shows [ Qd, 5c ]
+Pondax shows [ 4d, 4s ]
+Pondax collected [ $0.08 ]
+
+
+#Game No : 452998449
+***** 888poker Hand History for Game 452998449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 07 2018 23:00:51
+Table Liege 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Pondax ( $1.84 )
+Seat 7: Coffik9 ( $2.42 )
+Coffik9 posts small blind [$0.01]
+Pondax posts big blind [$0.02]
+** Dealing down cards **
+Coffik9 raises [$0.05]
+Pondax calls [$0.04]
+** Dealing flop ** [ Ks, 6c, 2h ]
+Pondax bets [$0.06]
+Coffik9 calls [$0.06]
+** Dealing turn ** [ 5h ]
+Pondax checks
+Coffik9 checks
+** Dealing river ** [ Kc ]
+Pondax bets [$0.12]
+Coffik9 folds
+** Summary **
+Pondax did not show his hand
+Pondax collected [ $0.23 ]
+
+
+#Game No : 452999502
+***** 888poker Hand History for Game 452999502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 00:30:03
+Table Liege 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: LazarusHulkN ( $1.48 )
+Seat 7: Papa_ka_para ( $0.26 )
+LazarusHulkN posts small blind [$0.01]
+Papa_ka_para posts big blind [$0.02]
+** Dealing down cards **
+LazarusHulkN raises [$0.05]
+Papa_ka_para raises [$0.16]
+LazarusHulkN folds
+** Summary **
+Papa_ka_para did not show his hand
+Papa_ka_para collected [ $0.12 ]
+
+
+#Game No : 452999526
+***** 888poker Hand History for Game 452999526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 00:31:23
+Table Liege 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Papa_ka_para ( $0.32 )
+Seat 9: LazarusHulkN ( $1.42 )
+Papa_ka_para posts small blind [$0.01]
+LazarusHulkN posts big blind [$0.02]
+** Dealing down cards **
+Papa_ka_para calls [$0.01]
+LazarusHulkN checks
+** Dealing flop ** [ Kc, 5s, 5d ]
+LazarusHulkN checks
+Papa_ka_para checks
+** Dealing turn ** [ Kh ]
+LazarusHulkN bets [$0.02]
+Papa_ka_para calls [$0.02]
+** Dealing river ** [ 2d ]
+LazarusHulkN checks
+Papa_ka_para bets [$0.04]
+LazarusHulkN calls [$0.04]
+** Summary **
+Papa_ka_para shows [ 9c, 4d ]
+LazarusHulkN shows [ Qd, Js ]
+LazarusHulkN collected [ $0.15 ]
+
+
+#Game No : 452999534
+***** 888poker Hand History for Game 452999534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 07 2018 00:31:54
+Table Liege 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Papa_ka_para ( $0.24 )
+Seat 9: LazarusHulkN ( $1.49 )
+LazarusHulkN posts small blind [$0.01]
+Papa_ka_para posts big blind [$0.02]
+** Dealing down cards **
+LazarusHulkN raises [$0.05]
+Papa_ka_para calls [$0.04]
+** Dealing flop ** [ Tc, 9c, 4c ]
+Papa_ka_para bets [$0.08]
+LazarusHulkN raises [$1.43]
+Papa_ka_para calls [$0.10]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 2h ]
+** Summary **
+Papa_ka_para shows [ 6s, 9d ]
+LazarusHulkN shows [ Td, As ]
+LazarusHulkN collected [ $0.45 ]
+
+

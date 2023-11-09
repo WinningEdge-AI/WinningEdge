@@ -1,0 +1,44 @@
+#Game No : 514302409
+***** 888poker Hand History for Game 514302409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 15:41:37
+Table Marburg 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: HerrCul ( $1.66 )
+Seat 3: IamYurec ( $2.85 )
+IamYurec posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+IamYurec folds
+** Summary **
+HerrCul collected [ $0.03 ]
+
+
+#Game No : 514302413
+***** 888poker Hand History for Game 514302413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 15:41:43
+Table Marburg 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: HerrCul ( $1.67 )
+Seat 3: IamYurec ( $2.84 )
+HerrCul posts small blind [$0.01]
+IamYurec posts big blind [$0.02]
+** Dealing down cards **
+HerrCul calls [$0.01]
+IamYurec checks
+** Dealing flop ** [ 7h, Ks, 9d ]
+IamYurec checks
+HerrCul checks
+** Dealing turn ** [ Ac ]
+IamYurec checks
+HerrCul checks
+** Dealing river ** [ 5s ]
+IamYurec checks
+HerrCul checks
+** Summary **
+IamYurec shows [ Jd, 3d ]
+HerrCul shows [ 9c, 6c ]
+HerrCul collected [ $0.04 ]
+
+

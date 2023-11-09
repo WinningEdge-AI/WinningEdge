@@ -1,0 +1,507 @@
+#Game No : 603797898
+***** 888poker Hand History for Game 603797898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:25:08
+Table Dusseldorf 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Shtabsky ( $0.89 )
+Seat 2: LLinock ( $1.90 )
+Shtabsky posts small blind [$0.01]
+LLinock posts big blind [$0.02]
+** Dealing down cards **
+Shtabsky calls [$0.01]
+LLinock raises [$0.04]
+Shtabsky calls [$0.04]
+** Dealing flop ** [ 2s, 5c, 8d ]
+LLinock checks
+Shtabsky checks
+** Dealing turn ** [ 5d ]
+LLinock bets [$0.04]
+Shtabsky calls [$0.04]
+** Dealing river ** [ Qs ]
+LLinock bets [$0.10]
+Shtabsky calls [$0.10]
+** Summary **
+LLinock shows [ Qh, Ah ]
+Shtabsky mucks [ Tc, Kd ]
+LLinock collected [ $0.38 ]
+
+
+#Game No : 603797921
+***** 888poker Hand History for Game 603797921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:25:32
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Shtabsky ( $0.69 )
+Seat 2: LLinock ( $2.08 )
+LLinock posts small blind [$0.01]
+Shtabsky posts big blind [$0.02]
+** Dealing down cards **
+LLinock raises [$0.05]
+Shtabsky calls [$0.04]
+** Dealing flop ** [ 6h, Qs, 4h ]
+Shtabsky checks
+LLinock checks
+** Dealing turn ** [ 7s ]
+Shtabsky bets [$0.02]
+LLinock folds
+** Summary **
+Shtabsky collected [ $0.12 ]
+
+
+#Game No : 603797979
+***** 888poker Hand History for Game 603797979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:26:31
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Shtabsky ( $0.80 )
+Seat 2: LLinock ( $1.99 )
+LLinock posts small blind [$0.01]
+Shtabsky posts big blind [$0.02]
+** Dealing down cards **
+LLinock calls [$0.01]
+Shtabsky checks
+** Dealing flop ** [ 4s, 5h, Ac ]
+Shtabsky bets [$0.04]
+LLinock folds
+** Summary **
+Shtabsky did not show his hand
+Shtabsky collected [ $0.04 ]
+
+
+#Game No : 603797996
+***** 888poker Hand History for Game 603797996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:26:47
+Table Dusseldorf 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Shtabsky ( $0.82 )
+Seat 2: LLinock ( $1.97 )
+Shtabsky posts small blind [$0.01]
+LLinock posts big blind [$0.02]
+** Dealing down cards **
+Shtabsky calls [$0.01]
+LLinock raises [$0.02]
+Shtabsky calls [$0.02]
+** Dealing flop ** [ 5h, Ts, 4h ]
+LLinock bets [$0.04]
+Shtabsky calls [$0.04]
+** Dealing turn ** [ Qd ]
+LLinock checks
+Shtabsky checks
+** Dealing river ** [ Qs ]
+LLinock bets [$0.08]
+Shtabsky calls [$0.08]
+** Summary **
+LLinock shows [ 8c, Ad ]
+Shtabsky shows [ 7s, 5d ]
+Shtabsky collected [ $0.30 ]
+
+
+#Game No : 603798031
+***** 888poker Hand History for Game 603798031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:27:22
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Shtabsky ( $0.96 )
+Seat 2: LLinock ( $1.81 )
+LLinock posts small blind [$0.01]
+** Dealing down cards **
+Shtabsky folds
+** Summary **
+LLinock did not show his hand
+LLinock collected [ $0.01 ]
+
+
+#Game No : 603798574
+***** 888poker Hand History for Game 603798574 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:36:05
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1.15 )
+Seat 5: kmlm73 ( $1.84 )
+kmlm73 posts small blind [$0.01]
+As64rus posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 calls [$0.01]
+As64rus checks
+** Dealing flop ** [ 6c, Qc, Qs ]
+As64rus bets [$0.02]
+kmlm73 folds
+** Summary **
+As64rus did not show his hand
+As64rus collected [ $0.04 ]
+
+
+#Game No : 603798594
+***** 888poker Hand History for Game 603798594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:36:21
+Table Dusseldorf 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1.17 )
+Seat 5: kmlm73 ( $1.82 )
+As64rus posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+As64rus calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 8c, 7h, 7d ]
+kmlm73 checks
+As64rus checks
+** Dealing turn ** [ Ts ]
+kmlm73 checks
+As64rus bets [$0.02]
+kmlm73 folds
+** Summary **
+As64rus did not show his hand
+As64rus collected [ $0.04 ]
+
+
+#Game No : 603798617
+***** 888poker Hand History for Game 603798617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:36:45
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1.19 )
+Seat 5: kmlm73 ( $1.80 )
+kmlm73 posts small blind [$0.01]
+As64rus posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+As64rus calls [$0.02]
+** Dealing flop ** [ 5s, Kh, 4h ]
+As64rus checks
+kmlm73 bets [$0.08]
+As64rus folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.08 ]
+
+
+#Game No : 603798641
+***** 888poker Hand History for Game 603798641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:37:01
+Table Dusseldorf 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1.15 )
+Seat 5: kmlm73 ( $1.84 )
+As64rus posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+As64rus raises [$0.03]
+kmlm73 folds
+** Summary **
+As64rus did not show his hand
+As64rus collected [ $0.04 ]
+
+
+#Game No : 603798647
+***** 888poker Hand History for Game 603798647 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:37:09
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1.17 )
+Seat 5: kmlm73 ( $1.82 )
+kmlm73 posts small blind [$0.01]
+As64rus posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 calls [$0.01]
+As64rus checks
+** Dealing flop ** [ 5c, 4c, 7c ]
+As64rus bets [$0.02]
+kmlm73 folds
+** Summary **
+As64rus did not show his hand
+As64rus collected [ $0.04 ]
+
+
+#Game No : 603798658
+***** 888poker Hand History for Game 603798658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:37:22
+Table Dusseldorf 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1.19 )
+Seat 5: kmlm73 ( $1.80 )
+As64rus posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+As64rus calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 7s, 3d, Qs ]
+kmlm73 bets [$0.02]
+As64rus raises [$0.04]
+kmlm73 calls [$0.02]
+** Dealing turn ** [ 6s ]
+kmlm73 bets [$0.02]
+As64rus calls [$0.02]
+** Dealing river ** [ 5s ]
+kmlm73 bets [$0.02]
+As64rus raises [$0.12]
+kmlm73 folds
+** Summary **
+As64rus did not show his hand
+As64rus collected [ $0.19 ]
+
+
+#Game No : 603798690
+***** 888poker Hand History for Game 603798690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:37:50
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1.28 )
+Seat 5: kmlm73 ( $1.70 )
+kmlm73 posts small blind [$0.01]
+As64rus posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 calls [$0.01]
+As64rus checks
+** Dealing flop ** [ 8s, 3s, Ah ]
+As64rus checks
+kmlm73 bets [$0.02]
+As64rus calls [$0.02]
+** Dealing turn ** [ 7c ]
+As64rus checks
+kmlm73 bets [$0.02]
+As64rus folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.08 ]
+
+
+#Game No : 603798710
+***** 888poker Hand History for Game 603798710 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:38:07
+Table Dusseldorf 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1.24 )
+Seat 5: kmlm73 ( $1.74 )
+As64rus posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+As64rus calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 5s, 6h, 4s ]
+kmlm73 bets [$0.02]
+As64rus raises [$0.04]
+kmlm73 calls [$0.02]
+** Dealing turn ** [ 5h ]
+kmlm73 checks
+As64rus checks
+** Dealing river ** [ Jh ]
+kmlm73 bets [$0.08]
+As64rus raises [$0.16]
+kmlm73 raises [$0.68]
+As64rus calls [$0.60]
+** Summary **
+kmlm73 shows [ Qh, Kh ]
+As64rus mucks [ 7s, 6s ]
+kmlm73 collected [ $1.54 ]
+
+
+#Game No : 603798749
+***** 888poker Hand History for Game 603798749 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:38:48
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: As64rus ( $0.42 )
+Seat 5: kmlm73 ( $2.46 )
+kmlm73 posts small blind [$0.01]
+As64rus posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+As64rus calls [$0.02]
+** Dealing flop ** [ Td, 9s, 7s ]
+As64rus checks
+kmlm73 bets [$0.02]
+As64rus raises [$0.04]
+kmlm73 raises [$0.16]
+As64rus raises [$0.34]
+kmlm73 calls [$0.20]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Jc ]
+** Summary **
+As64rus shows [ 2s, 3c ]
+kmlm73 shows [ Tc, Kh ]
+kmlm73 collected [ $0.79 ]
+
+
+#Game No : 603798825
+***** 888poker Hand History for Game 603798825 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:39:52
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1 )
+Seat 5: kmlm73 ( $2.83 )
+kmlm73 posts small blind [$0.01]
+As64rus posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 calls [$0.01]
+As64rus raises [$0.02]
+kmlm73 calls [$0.02]
+** Dealing flop ** [ Kc, 2c, Qc ]
+As64rus checks
+kmlm73 bets [$0.02]
+As64rus calls [$0.02]
+** Dealing turn ** [ Jc ]
+As64rus checks
+kmlm73 checks
+** Dealing river ** [ 6s ]
+As64rus bets [$0.06]
+kmlm73 calls [$0.06]
+** Summary **
+As64rus shows [ 5d, Ad ]
+kmlm73 shows [ Qd, 4h ]
+kmlm73 collected [ $0.23 ]
+
+
+#Game No : 603798868
+***** 888poker Hand History for Game 603798868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:40:35
+Table Dusseldorf 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: As64rus ( $0.88 )
+Seat 5: kmlm73 ( $2.94 )
+As64rus posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+As64rus raises [$0.05]
+kmlm73 folds
+** Summary **
+As64rus did not show his hand
+As64rus collected [ $0.04 ]
+
+
+#Game No : 603798879
+***** 888poker Hand History for Game 603798879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:40:46
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: As64rus ( $0.90 )
+Seat 5: kmlm73 ( $2.92 )
+kmlm73 posts small blind [$0.01]
+As64rus posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 folds
+** Summary **
+As64rus did not show his hand
+As64rus collected [ $0.03 ]
+
+
+#Game No : 603798891
+***** 888poker Hand History for Game 603798891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:40:54
+Table Dusseldorf 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: As64rus ( $0.91 )
+Seat 5: kmlm73 ( $2.91 )
+As64rus posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+As64rus calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 7h, 6c, Th ]
+kmlm73 bets [$0.02]
+As64rus raises [$0.06]
+kmlm73 calls [$0.04]
+** Dealing turn ** [ As ]
+kmlm73 checks
+As64rus bets [$0.08]
+kmlm73 folds
+** Summary **
+As64rus did not show his hand
+As64rus collected [ $0.15 ]
+
+
+#Game No : 603798926
+***** 888poker Hand History for Game 603798926 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:41:24
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: As64rus ( $0.98 )
+Seat 5: kmlm73 ( $2.83 )
+kmlm73 posts small blind [$0.01]
+As64rus posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 calls [$0.01]
+As64rus checks
+** Dealing flop ** [ 4c, 2d, 2s ]
+As64rus checks
+kmlm73 bets [$0.02]
+As64rus folds
+** Summary **
+kmlm73 did not show his hand
+kmlm73 collected [ $0.04 ]
+
+
+#Game No : 603798944
+***** 888poker Hand History for Game 603798944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:41:38
+Table Dusseldorf 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: As64rus ( $0.96 )
+Seat 5: kmlm73 ( $2.85 )
+As64rus posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+As64rus calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 2h, Jd, 3s ]
+kmlm73 checks
+As64rus checks
+** Dealing turn ** [ 8d ]
+kmlm73 bets [$0.02]
+As64rus calls [$0.02]
+** Dealing river ** [ 7s ]
+kmlm73 bets [$0.02]
+As64rus raises [$0.08]
+kmlm73 folds
+** Summary **
+As64rus collected [ $0.12 ]
+
+
+#Game No : 603798967
+***** 888poker Hand History for Game 603798967 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2018 10:42:01
+Table Dusseldorf 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: As64rus ( $1.02 )
+Seat 5: kmlm73 ( $2.79 )
+kmlm73 posts small blind [$0.01]
+As64rus posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 calls [$0.01]
+As64rus checks
+** Dealing flop ** [ Qh, Ac, 2h ]
+As64rus checks
+kmlm73 checks
+** Dealing turn ** [ 5s ]
+As64rus bets [$0.02]
+kmlm73 calls [$0.02]
+** Dealing river ** [ 9c ]
+As64rus bets [$0.02]
+kmlm73 calls [$0.02]
+** Summary **
+As64rus shows [ Jd, 6s ]
+kmlm73 shows [ 5h, Kd ]
+kmlm73 collected [ $0.12 ]
+
+

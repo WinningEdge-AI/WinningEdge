@@ -1,0 +1,156 @@
+#Game No : 524973583
+***** 888poker Hand History for Game 524973583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 04:08:06
+Table Quito 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Jambatty ( $1.01 )
+Seat 6: niki4oros ( $1 )
+niki4oros posts small blind [$0.01]
+Jambatty posts big blind [$0.02]
+** Dealing down cards **
+niki4oros raises [$0.04]
+Jambatty folds
+** Summary **
+niki4oros collected [ $0.04 ]
+
+
+#Game No : 616208972
+***** 888poker Hand History for Game 616208972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 07:46:36
+Table Quito 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: roghnov ( $1.14 )
+Seat 9: Denworld911 ( $1.79 )
+roghnov posts small blind [$0.01]
+Denworld911 posts big blind [$0.02]
+** Dealing down cards **
+roghnov folds
+** Summary **
+Denworld911 collected [ $0.03 ]
+
+
+#Game No : 616208979
+***** 888poker Hand History for Game 616208979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 07:46:45
+Table Quito 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: roghnov ( $1.13 )
+Seat 9: Denworld911 ( $1.80 )
+Denworld911 posts small blind [$0.01]
+** Dealing down cards **
+roghnov folds
+** Summary **
+Denworld911 collected [ $0.01 ]
+
+
+#Game No : 616208996
+***** 888poker Hand History for Game 616208996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 07:47:05
+Table Quito 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: sysadmin74 ( $3.12 )
+Seat 9: Denworld911 ( $1.80 )
+Denworld911 posts small blind [$0.01]
+sysadmin74 posts big blind [$0.02]
+** Dealing down cards **
+Denworld911 raises [$0.05]
+sysadmin74 raises [$0.16]
+Denworld911 folds
+** Summary **
+sysadmin74 collected [ $0.12 ]
+
+
+#Game No : 616211808
+***** 888poker Hand History for Game 616211808 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 08:42:25
+Table Quito 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: sysadmin74 ( $9.45 )
+Seat 4: aliis75 ( $0.90 )
+aliis75 posts small blind [$0.01]
+sysadmin74 posts big blind [$0.02]
+** Dealing down cards **
+aliis75 raises [$0.89]
+sysadmin74 folds
+** Summary **
+aliis75 did not show his hand
+aliis75 collected [ $0.04 ]
+
+
+#Game No : 616211818
+***** 888poker Hand History for Game 616211818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 08:42:39
+Table Quito 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sysadmin74 ( $9.43 )
+Seat 4: aliis75 ( $0.92 )
+sysadmin74 posts small blind [$0.01]
+aliis75 posts big blind [$0.02]
+** Dealing down cards **
+sysadmin74 folds
+** Summary **
+aliis75 did not show his hand
+aliis75 collected [ $0.03 ]
+
+
+#Game No : 616211828
+***** 888poker Hand History for Game 616211828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 08:42:46
+Table Quito 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: sysadmin74 ( $9.42 )
+Seat 4: aliis75 ( $0.93 )
+aliis75 posts small blind [$0.01]
+sysadmin74 posts big blind [$0.02]
+** Dealing down cards **
+aliis75 calls [$0.01]
+sysadmin74 checks
+** Dealing flop ** [ 6h, Kh, 5d ]
+sysadmin74 checks
+aliis75 bets [$0.91]
+sysadmin74 calls [$0.91]
+** Dealing turn ** [ 2c ]
+** Dealing river ** [ Td ]
+** Summary **
+sysadmin74 shows [ Qh, 4h ]
+aliis75 shows [ Kd, 6c ]
+aliis75 collected [ $1.75 ]
+
+
+#Game No : 616212695
+***** 888poker Hand History for Game 616212695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 08:57:39
+Table Quito 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Stahlwolle65 ( $0.69 )
+Seat 4: aliis75 ( $0.41 )
+aliis75 posts small blind [$0.01]
+Stahlwolle65 posts big blind [$0.02]
+** Dealing down cards **
+aliis75 calls [$0.01]
+Stahlwolle65 raises [$0.04]
+aliis75 calls [$0.04]
+** Dealing flop ** [ 2d, Qh, Ad ]
+Stahlwolle65 bets [$0.04]
+aliis75 calls [$0.04]
+** Dealing turn ** [ 7d ]
+Stahlwolle65 bets [$0.08]
+aliis75 raises [$0.16]
+Stahlwolle65 calls [$0.08]
+** Dealing river ** [ Ts ]
+Stahlwolle65 checks
+aliis75 checks
+** Summary **
+Stahlwolle65 shows [ Ac, Kd ]
+aliis75 mucks [ 8c, Qs ]
+Stahlwolle65 collected [ $0.49 ]
+
+

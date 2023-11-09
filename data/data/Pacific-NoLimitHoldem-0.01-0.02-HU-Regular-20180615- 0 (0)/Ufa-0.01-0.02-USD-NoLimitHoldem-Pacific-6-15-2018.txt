@@ -1,0 +1,82 @@
+#Game No : 503422148
+***** 888poker Hand History for Game 503422148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 11:12:27
+Table Ufa 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: curiosity8 ( $0.80 )
+Seat 4: MARLUSDAMAZI ( $1 )
+curiosity8 posts small blind [$0.01]
+MARLUSDAMAZI posts big blind [$0.02]
+** Dealing down cards **
+curiosity8 raises [$0.05]
+MARLUSDAMAZI calls [$0.04]
+** Dealing flop ** [ 9c, Th, 6d ]
+MARLUSDAMAZI checks
+curiosity8 bets [$0.08]
+MARLUSDAMAZI calls [$0.08]
+** Dealing turn ** [ Qc ]
+MARLUSDAMAZI checks
+curiosity8 checks
+** Dealing river ** [ Kd ]
+MARLUSDAMAZI checks
+curiosity8 checks
+** Summary **
+MARLUSDAMAZI shows [ Ac, Tc ]
+curiosity8 mucks [ 2h, 2c ]
+MARLUSDAMAZI collected [ $0.27 ]
+
+
+#Game No : 503431907
+***** 888poker Hand History for Game 503431907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 14:31:54
+Table Ufa 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: My_call_is ( $1.09 )
+Seat 5: bakushan ( $2 )
+bakushan posts small blind [$0.01]
+My_call_is posts big blind [$0.02]
+** Dealing down cards **
+bakushan folds
+** Summary **
+My_call_is did not show his hand
+My_call_is collected [ $0.03 ]
+
+
+#Game No : 503431911
+***** 888poker Hand History for Game 503431911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 14:31:59
+Table Ufa 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: My_call_is ( $1.10 )
+Seat 5: bakushan ( $2 )
+My_call_is posts small blind [$0.01]
+bakushan posts big blind [$0.02]
+** Dealing down cards **
+My_call_is raises [$0.07]
+bakushan folds
+** Summary **
+My_call_is did not show his hand
+My_call_is collected [ $0.04 ]
+
+
+#Game No : 503431931
+***** 888poker Hand History for Game 503431931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 06 2018 14:32:14
+Table Ufa 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: My_call_is ( $1.12 )
+Seat 5: bakushan ( $2 )
+bakushan posts small blind [$0.01]
+My_call_is posts big blind [$0.02]
+** Dealing down cards **
+bakushan raises [$0.05]
+My_call_is folds
+** Summary **
+bakushan did not show his hand
+bakushan collected [ $0.04 ]
+
+

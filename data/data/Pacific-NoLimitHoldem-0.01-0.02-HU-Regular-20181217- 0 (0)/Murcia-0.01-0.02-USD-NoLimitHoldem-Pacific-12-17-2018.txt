@@ -1,0 +1,257 @@
+#Game No : 612452991
+***** 888poker Hand History for Game 612452991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 18:47:57
+Table Murcia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: MCC2k ( $1.58 )
+Seat 6: luigi_obenza ( $3.28 )
+MCC2k posts small blind [$0.01]
+luigi_obenza posts big blind [$0.02]
+** Dealing down cards **
+MCC2k calls [$0.01]
+luigi_obenza checks
+** Dealing flop ** [ 6h, 8c, Ts ]
+luigi_obenza checks
+MCC2k bets [$0.06]
+luigi_obenza folds
+** Summary **
+MCC2k did not show his hand
+MCC2k collected [ $0.04 ]
+
+
+#Game No : 612452998
+***** 888poker Hand History for Game 612452998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 18:48:25
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: MCC2k ( $1.60 )
+Seat 6: luigi_obenza ( $3.26 )
+luigi_obenza posts small blind [$0.01]
+MCC2k posts big blind [$0.02]
+** Dealing down cards **
+luigi_obenza calls [$0.01]
+MCC2k raises [$0.04]
+luigi_obenza calls [$0.04]
+** Dealing flop ** [ 9s, 3s, 9d ]
+MCC2k checks
+luigi_obenza checks
+** Dealing turn ** [ Qs ]
+MCC2k checks
+luigi_obenza checks
+** Dealing river ** [ Jh ]
+MCC2k bets [$0.10]
+luigi_obenza folds
+** Summary **
+MCC2k did not show his hand
+MCC2k collected [ $0.12 ]
+
+
+#Game No : 612453014
+***** 888poker Hand History for Game 612453014 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 18:48:57
+Table Murcia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: MCC2k ( $1.66 )
+Seat 6: luigi_obenza ( $3.20 )
+MCC2k posts small blind [$0.01]
+luigi_obenza posts big blind [$0.02]
+** Dealing down cards **
+MCC2k calls [$0.01]
+luigi_obenza checks
+** Dealing flop ** [ 8d, As, Qs ]
+luigi_obenza checks
+MCC2k checks
+** Dealing turn ** [ Kc ]
+luigi_obenza checks
+MCC2k checks
+** Dealing river ** [ Qc ]
+luigi_obenza checks
+MCC2k checks
+** Summary **
+luigi_obenza shows [ 9s, 4h ]
+MCC2k shows [ 2c, 9c ]
+luigi_obenza collected [ $0.02 ]
+MCC2k collected [ $0.02 ]
+
+
+#Game No : 612453023
+***** 888poker Hand History for Game 612453023 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 18:49:18
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: MCC2k ( $1.66 )
+Seat 6: luigi_obenza ( $3.20 )
+luigi_obenza posts small blind [$0.01]
+MCC2k posts big blind [$0.02]
+** Dealing down cards **
+luigi_obenza calls [$0.01]
+MCC2k checks
+** Dealing flop ** [ 2s, 3h, Th ]
+MCC2k bets [$0.04]
+luigi_obenza calls [$0.04]
+** Dealing turn ** [ 9d ]
+MCC2k checks
+luigi_obenza checks
+** Dealing river ** [ 5d ]
+MCC2k checks
+luigi_obenza checks
+** Summary **
+MCC2k shows [ 2c, Qd ]
+luigi_obenza shows [ 2d, Kd ]
+luigi_obenza collected [ $0.12 ]
+
+
+#Game No : 612453037
+***** 888poker Hand History for Game 612453037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 18:49:43
+Table Murcia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: MCC2k ( $1.60 )
+Seat 6: luigi_obenza ( $3.26 )
+MCC2k posts small blind [$0.01]
+luigi_obenza posts big blind [$0.02]
+** Dealing down cards **
+MCC2k raises [$0.07]
+luigi_obenza calls [$0.06]
+** Dealing flop ** [ 7c, 7h, 6d ]
+luigi_obenza checks
+MCC2k bets [$0.06]
+luigi_obenza calls [$0.06]
+** Dealing turn ** [ 6c ]
+luigi_obenza checks
+MCC2k bets [$0.18]
+luigi_obenza calls [$0.18]
+** Dealing river ** [ 3s ]
+luigi_obenza checks
+MCC2k checks
+** Summary **
+luigi_obenza shows [ 6h, 5h ]
+MCC2k mucks [ As, 5s ]
+luigi_obenza collected [ $0.60 ]
+
+
+#Game No : 612453046
+***** 888poker Hand History for Game 612453046 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 18:50:17
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: MCC2k ( $1.28 )
+Seat 6: luigi_obenza ( $3.54 )
+luigi_obenza posts small blind [$0.01]
+MCC2k posts big blind [$0.02]
+** Dealing down cards **
+luigi_obenza raises [$0.11]
+MCC2k calls [$0.10]
+** Dealing flop ** [ Ks, Kc, Td ]
+MCC2k checks
+luigi_obenza checks
+** Dealing turn ** [ Qc ]
+MCC2k checks
+luigi_obenza bets [$0.16]
+MCC2k raises [$0.36]
+luigi_obenza raises [$3.26]
+MCC2k calls [$0.80]
+** Dealing river ** [ 3h ]
+** Summary **
+MCC2k shows [ Kh, Jh ]
+luigi_obenza shows [ Js, As ]
+luigi_obenza collected [ $2.40 ]
+
+
+#Game No : 612458163
+***** 888poker Hand History for Game 612458163 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 23:49:38
+Table Murcia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: JeanRoncier ( $1.09 )
+Seat 7: fakedemon ( $1.33 )
+fakedemon posts small blind [$0.01]
+JeanRoncier posts big blind [$0.02]
+** Dealing down cards **
+fakedemon raises [$0.05]
+JeanRoncier folds
+** Summary **
+fakedemon collected [ $0.04 ]
+
+
+#Game No : 612458164
+***** 888poker Hand History for Game 612458164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 23:49:53
+Table Murcia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JeanRoncier ( $1.07 )
+Seat 7: fakedemon ( $1.35 )
+JeanRoncier posts small blind [$0.01]
+fakedemon posts big blind [$0.02]
+** Dealing down cards **
+JeanRoncier calls [$0.01]
+fakedemon checks
+** Dealing flop ** [ 5h, Kd, As ]
+fakedemon checks
+JeanRoncier checks
+** Dealing turn ** [ 6c ]
+fakedemon checks
+JeanRoncier bets [$0.04]
+fakedemon folds
+** Summary **
+JeanRoncier collected [ $0.04 ]
+
+
+#Game No : 612458176
+***** 888poker Hand History for Game 612458176 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2018 23:50:26
+Table Murcia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: JeanRoncier ( $1.09 )
+Seat 7: fakedemon ( $1.33 )
+fakedemon posts small blind [$0.01]
+JeanRoncier posts big blind [$0.02]
+** Dealing down cards **
+fakedemon calls [$0.01]
+JeanRoncier folds
+** Summary **
+fakedemon collected [ $0.04 ]
+
+
+#Game No : 1232355423
+***** 888poker Hand History for Game 1232355423 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 02:41:37
+Table Murcia 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Markate ( $1 )
+Seat 6: oksana2019 ( $0.74 )
+oksana2019 posts small blind [$0.01]
+Markate posts big blind [$0.02]
+** Dealing down cards **
+oksana2019 folds
+** Summary **
+Markate collected [ $0.03 ]
+
+
+#Game No : 1232355671
+***** 888poker Hand History for Game 1232355671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2018 02:43:32
+Table Murcia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Markate ( $1.02 )
+Seat 6: oksana2019 ( $0.76 )
+Markate posts small blind [$0.01]
+oksana2019 posts big blind [$0.02]
+** Dealing down cards **
+Markate folds
+** Summary **
+oksana2019 did not show his hand
+oksana2019 collected [ $0.03 ]
+
+

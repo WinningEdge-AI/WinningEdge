@@ -1,0 +1,409 @@
+#Game No : 503969415
+***** 888poker Hand History for Game 503969415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 02:39:22
+Table Neuquen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Peterl_poker ( $2.04 )
+Seat 9: Bullet2018 ( $1.49 )
+Peterl_poker posts small blind [$0.01]
+Bullet2018 posts big blind [$0.02]
+** Dealing down cards **
+Peterl_poker calls [$0.01]
+Bullet2018 checks
+** Dealing flop ** [ 5d, Ks, Td ]
+Bullet2018 bets [$0.04]
+Peterl_poker calls [$0.04]
+** Dealing turn ** [ 8h ]
+Bullet2018 bets [$0.06]
+Peterl_poker calls [$0.06]
+** Dealing river ** [ 6h ]
+Bullet2018 bets [$0.24]
+Peterl_poker folds
+** Summary **
+Bullet2018 collected [ $0.23 ]
+
+
+#Game No : 504014422
+***** 888poker Hand History for Game 504014422 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:40:20
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $5.67 )
+Seat 7: TheBigCloud ( $1.18 )
+LionessTrout posts small blind [$0.01]
+TheBigCloud posts big blind [$0.02]
+** Dealing down cards **
+LionessTrout calls [$0.01]
+TheBigCloud checks
+** Dealing flop ** [ Ks, 7s, 7h ]
+TheBigCloud checks
+LionessTrout bets [$0.04]
+TheBigCloud calls [$0.04]
+** Dealing turn ** [ Js ]
+TheBigCloud bets [$0.10]
+LionessTrout calls [$0.10]
+** Dealing river ** [ Ts ]
+TheBigCloud bets [$0.10]
+LionessTrout calls [$0.10]
+** Summary **
+TheBigCloud shows [ Qs, 2d ]
+LionessTrout mucks [ 6s, Kh ]
+TheBigCloud collected [ $0.49 ]
+
+
+#Game No : 504014451
+***** 888poker Hand History for Game 504014451 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:40:54
+Table Neuquen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $5.41 )
+Seat 7: TheBigCloud ( $1.41 )
+TheBigCloud posts small blind [$0.01]
+LionessTrout posts big blind [$0.02]
+** Dealing down cards **
+TheBigCloud calls [$0.01]
+LionessTrout checks
+** Dealing flop ** [ 5c, 3c, Qh ]
+LionessTrout checks
+TheBigCloud checks
+** Dealing turn ** [ Jh ]
+LionessTrout checks
+TheBigCloud bets [$0.06]
+LionessTrout raises [$0.12]
+TheBigCloud calls [$0.06]
+** Dealing river ** [ Jc ]
+LionessTrout checks
+TheBigCloud bets [$0.18]
+LionessTrout calls [$0.18]
+** Summary **
+TheBigCloud shows [ Ac, 8c ]
+LionessTrout mucks [ 9d, Qc ]
+TheBigCloud collected [ $0.60 ]
+
+
+#Game No : 504014479
+***** 888poker Hand History for Game 504014479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:41:28
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $5.09 )
+Seat 7: TheBigCloud ( $1.69 )
+LionessTrout posts small blind [$0.01]
+TheBigCloud posts big blind [$0.02]
+** Dealing down cards **
+LionessTrout folds
+** Summary **
+TheBigCloud did not show his hand
+TheBigCloud collected [ $0.03 ]
+
+
+#Game No : 504014486
+***** 888poker Hand History for Game 504014486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:41:33
+Table Neuquen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $5.08 )
+Seat 7: TheBigCloud ( $1.70 )
+TheBigCloud posts small blind [$0.01]
+LionessTrout posts big blind [$0.02]
+** Dealing down cards **
+TheBigCloud calls [$0.01]
+LionessTrout checks
+** Dealing flop ** [ 7d, Td, 4s ]
+LionessTrout checks
+TheBigCloud checks
+** Dealing turn ** [ 6s ]
+LionessTrout bets [$0.02]
+TheBigCloud calls [$0.02]
+** Dealing river ** [ 4c ]
+LionessTrout bets [$0.02]
+TheBigCloud folds
+** Summary **
+LionessTrout did not show his hand
+LionessTrout collected [ $0.08 ]
+
+
+#Game No : 504014509
+***** 888poker Hand History for Game 504014509 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:41:57
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $5.12 )
+Seat 7: TheBigCloud ( $1.66 )
+LionessTrout posts small blind [$0.01]
+TheBigCloud posts big blind [$0.02]
+** Dealing down cards **
+LionessTrout raises [$0.03]
+TheBigCloud raises [$0.10]
+LionessTrout calls [$0.08]
+** Dealing flop ** [ Qh, 5c, 3s ]
+TheBigCloud checks
+LionessTrout bets [$0.16]
+TheBigCloud calls [$0.16]
+** Dealing turn ** [ 2c ]
+TheBigCloud checks
+LionessTrout bets [$0.37]
+TheBigCloud raises [$1.38]
+LionessTrout calls [$1.01]
+** Dealing river ** [ Qs ]
+** Summary **
+LionessTrout shows [ Qc, 6s ]
+TheBigCloud shows [ Ac, Qd ]
+TheBigCloud collected [ $3.12 ]
+
+
+#Game No : 504014548
+***** 888poker Hand History for Game 504014548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:42:37
+Table Neuquen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.46 )
+Seat 7: TheBigCloud ( $3.12 )
+TheBigCloud posts small blind [$0.01]
+LionessTrout posts big blind [$0.02]
+** Dealing down cards **
+TheBigCloud folds
+** Summary **
+LionessTrout did not show his hand
+LionessTrout collected [ $0.03 ]
+
+
+#Game No : 504014551
+***** 888poker Hand History for Game 504014551 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:42:42
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.47 )
+Seat 7: TheBigCloud ( $3.11 )
+LionessTrout posts small blind [$0.01]
+TheBigCloud posts big blind [$0.02]
+** Dealing down cards **
+LionessTrout raises [$0.03]
+TheBigCloud calls [$0.02]
+** Dealing flop ** [ 2h, 7s, Qh ]
+TheBigCloud checks
+LionessTrout bets [$0.05]
+TheBigCloud folds
+** Summary **
+LionessTrout did not show his hand
+LionessTrout collected [ $0.08 ]
+
+
+#Game No : 504014569
+***** 888poker Hand History for Game 504014569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:42:57
+Table Neuquen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.51 )
+Seat 7: TheBigCloud ( $3.07 )
+TheBigCloud posts small blind [$0.01]
+LionessTrout posts big blind [$0.02]
+** Dealing down cards **
+TheBigCloud calls [$0.01]
+LionessTrout checks
+** Dealing flop ** [ 3d, Ks, 7h ]
+LionessTrout checks
+TheBigCloud checks
+** Dealing turn ** [ Tc ]
+LionessTrout checks
+TheBigCloud bets [$0.06]
+LionessTrout folds
+** Summary **
+TheBigCloud did not show his hand
+TheBigCloud collected [ $0.04 ]
+
+
+#Game No : 504014586
+***** 888poker Hand History for Game 504014586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:43:17
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.49 )
+Seat 7: TheBigCloud ( $3.09 )
+LionessTrout posts small blind [$0.01]
+TheBigCloud posts big blind [$0.02]
+** Dealing down cards **
+LionessTrout calls [$0.01]
+TheBigCloud checks
+** Dealing flop ** [ 9d, 3h, 8c ]
+TheBigCloud checks
+LionessTrout bets [$0.02]
+TheBigCloud calls [$0.02]
+** Dealing turn ** [ Jc ]
+TheBigCloud bets [$0.07]
+LionessTrout calls [$0.07]
+** Dealing river ** [ 8s ]
+TheBigCloud bets [$0.14]
+LionessTrout folds
+** Summary **
+TheBigCloud did not show his hand
+TheBigCloud collected [ $0.21 ]
+
+
+#Game No : 504014613
+***** 888poker Hand History for Game 504014613 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:43:50
+Table Neuquen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.38 )
+Seat 7: TheBigCloud ( $3.19 )
+TheBigCloud posts small blind [$0.01]
+LionessTrout posts big blind [$0.02]
+** Dealing down cards **
+TheBigCloud raises [$0.05]
+LionessTrout folds
+** Summary **
+TheBigCloud did not show his hand
+TheBigCloud collected [ $0.04 ]
+
+
+#Game No : 504014620
+***** 888poker Hand History for Game 504014620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:43:57
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.36 )
+Seat 7: TheBigCloud ( $3.21 )
+LionessTrout posts small blind [$0.01]
+TheBigCloud posts big blind [$0.02]
+** Dealing down cards **
+LionessTrout raises [$0.03]
+TheBigCloud calls [$0.02]
+** Dealing flop ** [ 7d, 2s, Qc ]
+TheBigCloud checks
+LionessTrout bets [$0.05]
+TheBigCloud calls [$0.05]
+** Dealing turn ** [ 7h ]
+TheBigCloud checks
+LionessTrout checks
+** Dealing river ** [ 2h ]
+TheBigCloud bets [$0.12]
+LionessTrout folds
+** Summary **
+TheBigCloud did not show his hand
+TheBigCloud collected [ $0.17 ]
+
+
+#Game No : 504014645
+***** 888poker Hand History for Game 504014645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:44:22
+Table Neuquen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.27 )
+Seat 7: TheBigCloud ( $3.29 )
+TheBigCloud posts small blind [$0.01]
+LionessTrout posts big blind [$0.02]
+** Dealing down cards **
+TheBigCloud raises [$0.07]
+LionessTrout folds
+** Summary **
+TheBigCloud did not show his hand
+TheBigCloud collected [ $0.04 ]
+
+
+#Game No : 504014656
+***** 888poker Hand History for Game 504014656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:44:31
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.25 )
+Seat 7: TheBigCloud ( $3.31 )
+LionessTrout posts small blind [$0.01]
+TheBigCloud posts big blind [$0.02]
+** Dealing down cards **
+LionessTrout folds
+** Summary **
+TheBigCloud did not show his hand
+TheBigCloud collected [ $0.03 ]
+
+
+#Game No : 504014665
+***** 888poker Hand History for Game 504014665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:44:36
+Table Neuquen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.24 )
+Seat 7: TheBigCloud ( $3.32 )
+TheBigCloud posts small blind [$0.01]
+LionessTrout posts big blind [$0.02]
+** Dealing down cards **
+TheBigCloud calls [$0.01]
+LionessTrout checks
+** Dealing flop ** [ 9c, Ts, Qc ]
+LionessTrout checks
+TheBigCloud checks
+** Dealing turn ** [ 6c ]
+LionessTrout checks
+TheBigCloud checks
+** Dealing river ** [ 7c ]
+LionessTrout checks
+TheBigCloud checks
+** Summary **
+LionessTrout shows [ 8c, Qd ]
+TheBigCloud mucks [ 3s, As ]
+LionessTrout collected [ $0.04 ]
+
+
+#Game No : 504014684
+***** 888poker Hand History for Game 504014684 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:44:57
+Table Neuquen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.26 )
+Seat 7: TheBigCloud ( $3.30 )
+LionessTrout posts small blind [$0.01]
+TheBigCloud posts big blind [$0.02]
+** Dealing down cards **
+LionessTrout raises [$0.03]
+TheBigCloud calls [$0.02]
+** Dealing flop ** [ 2h, Js, 5d ]
+TheBigCloud checks
+LionessTrout checks
+** Dealing turn ** [ Th ]
+TheBigCloud bets [$0.07]
+LionessTrout calls [$0.07]
+** Dealing river ** [ 8c ]
+TheBigCloud bets [$0.14]
+LionessTrout folds
+** Summary **
+TheBigCloud collected [ $0.21 ]
+
+
+#Game No : 504015298
+***** 888poker Hand History for Game 504015298 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:55:54
+Table Neuquen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: LionessTrout ( $3.49 )
+Seat 5: KarmanShire ( $2.35 )
+LionessTrout posts small blind [$0.01]
+KarmanShire posts big blind [$0.02]
+** Dealing down cards **
+LionessTrout calls [$0.01]
+KarmanShire raises [$0.06]
+LionessTrout calls [$0.06]
+** Dealing flop ** [ Kh, 3h, 6s ]
+LionessTrout checks
+KarmanShire bets [$0.10]
+LionessTrout folds
+** Summary **
+KarmanShire collected [ $0.15 ]
+
+

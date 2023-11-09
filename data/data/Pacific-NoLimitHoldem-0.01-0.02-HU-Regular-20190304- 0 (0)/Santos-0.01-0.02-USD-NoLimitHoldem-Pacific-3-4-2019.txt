@@ -1,0 +1,92 @@
+#Game No : 462433609
+***** 888poker Hand History for Game 462433609 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 03 2019 08:49:47
+Table Santos 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: ZAVVGO ( $1.09 )
+Seat 7: luanmeira14 ( $1.05 )
+luanmeira14 posts small blind [$0.01]
+** Dealing down cards **
+ZAVVGO folds
+** Summary **
+luanmeira14 collected [ $0.01 ]
+
+
+#Game No : 462436556
+***** 888poker Hand History for Game 462436556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 03 2019 09:55:11
+Table Santos 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: iL2You ( $0.83 )
+Seat 9: algrud ( $1.16 )
+iL2You posts small blind [$0.01]
+algrud posts big blind [$0.02]
+** Dealing down cards **
+iL2You raises [$0.03]
+algrud calls [$0.02]
+** Dealing flop ** [ Jh, Jc, Ks ]
+algrud checks
+iL2You checks
+** Dealing turn ** [ 9s ]
+algrud bets [$0.08]
+iL2You folds
+** Summary **
+algrud collected [ $0.08 ]
+
+
+#Game No : 462436588
+***** 888poker Hand History for Game 462436588 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 03 2019 09:55:40
+Table Santos 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: iL2You ( $0.83 )
+Seat 9: algrud ( $1.20 )
+algrud posts small blind [$0.01]
+iL2You posts big blind [$0.02]
+** Dealing down cards **
+algrud raises [$0.03]
+iL2You folds
+** Summary **
+algrud collected [ $0.04 ]
+
+
+#Game No : 462436672
+***** 888poker Hand History for Game 462436672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 03 2019 09:57:13
+Table Santos 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: stefjenner ( $1.94 )
+Seat 9: algrud ( $1 )
+stefjenner posts small blind [$0.01]
+algrud posts big blind [$0.02]
+** Dealing down cards **
+stefjenner folds
+** Summary **
+algrud collected [ $0.03 ]
+
+
+#Game No : 462436678
+***** 888poker Hand History for Game 462436678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 03 2019 09:57:18
+Table Santos 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: stefjenner ( $1.93 )
+Seat 9: algrud ( $1.01 )
+algrud posts small blind [$0.01]
+stefjenner posts big blind [$0.02]
+** Dealing down cards **
+algrud raises [$0.03]
+stefjenner calls [$0.02]
+** Dealing flop ** [ Th, 9h, 7h ]
+stefjenner checks
+algrud bets [$0.08]
+stefjenner folds
+** Summary **
+algrud collected [ $0.08 ]
+
+

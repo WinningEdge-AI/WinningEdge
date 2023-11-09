@@ -1,0 +1,71 @@
+#Game No : 609055707
+***** 888poker Hand History for Game 609055707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 11:38:06
+Table Muscat 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: Vispasian14 ( $2.07 )
+Seat 10: YoungUrsula ( $1.13 )
+YoungUrsula posts small blind [$0.01]
+Vispasian14 posts big blind [$0.02]
+** Dealing down cards **
+YoungUrsula calls [$0.01]
+Vispasian14 checks
+** Dealing flop ** [ 6c, 7s, 7d ]
+Vispasian14 checks
+YoungUrsula checks
+** Dealing turn ** [ 8c ]
+Vispasian14 bets [$0.02]
+YoungUrsula calls [$0.02]
+** Dealing river ** [ Ac ]
+Vispasian14 bets [$0.02]
+YoungUrsula raises [$0.04]
+Vispasian14 calls [$0.02]
+** Summary **
+YoungUrsula shows [ 3c, Qc ]
+Vispasian14 mucks [ 2h, 8h ]
+YoungUrsula collected [ $0.15 ]
+
+
+#Game No : 609055742
+***** 888poker Hand History for Game 609055742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 11:38:12
+Table Muscat 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Vispasian14 ( $1.99 )
+Seat 10: YoungUrsula ( $1.20 )
+Vispasian14 posts small blind [$0.01]
+YoungUrsula posts big blind [$0.02]
+** Dealing down cards **
+Vispasian14 raises [$0.03]
+YoungUrsula calls [$0.02]
+** Dealing flop ** [ 6c, 6d, 2s ]
+YoungUrsula checks
+Vispasian14 checks
+** Dealing turn ** [ 7h ]
+YoungUrsula checks
+Vispasian14 checks
+** Dealing river ** [ 4c ]
+YoungUrsula bets [$0.02]
+Vispasian14 folds
+** Summary **
+YoungUrsula collected [ $0.08 ]
+
+
+#Game No : 609066361
+***** 888poker Hand History for Game 609066361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 14:43:45
+Table Muscat 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: DragosAvram ( $1.09 )
+Seat 10: 100Acres ( $4.25 )
+100Acres posts small blind [$0.01]
+DragosAvram posts big blind [$0.02]
+** Dealing down cards **
+100Acres folds
+** Summary **
+DragosAvram collected [ $0.03 ]
+
+

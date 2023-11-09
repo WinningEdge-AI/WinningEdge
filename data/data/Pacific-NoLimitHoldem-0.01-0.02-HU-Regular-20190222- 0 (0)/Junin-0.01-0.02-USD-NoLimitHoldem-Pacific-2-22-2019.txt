@@ -1,0 +1,324 @@
+#Game No : 461983696
+***** 888poker Hand History for Game 461983696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:07:26
+Table Junin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.03 )
+Seat 9: bthothak ( $1.56 )
+glansuas posts small blind [$0.01]
+bthothak posts big blind [$0.02]
+** Dealing down cards **
+glansuas folds
+** Summary **
+bthothak collected [ $0.03 ]
+
+
+#Game No : 461983703
+***** 888poker Hand History for Game 461983703 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:07:38
+Table Junin 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.02 )
+Seat 9: bthothak ( $1.57 )
+bthothak posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+bthothak raises [$0.05]
+glansuas folds
+** Summary **
+bthothak collected [ $0.04 ]
+
+
+#Game No : 461983711
+***** 888poker Hand History for Game 461983711 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:07:50
+Table Junin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1 )
+Seat 9: bthothak ( $1.59 )
+glansuas posts small blind [$0.01]
+bthothak posts big blind [$0.02]
+** Dealing down cards **
+glansuas raises [$0.05]
+bthothak folds
+** Summary **
+glansuas collected [ $0.04 ]
+
+
+#Game No : 461983717
+***** 888poker Hand History for Game 461983717 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:08:04
+Table Junin 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.02 )
+Seat 9: bthothak ( $1.57 )
+bthothak posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+bthothak raises [$0.05]
+glansuas raises [$0.22]
+bthothak calls [$0.18]
+** Dealing flop ** [ Ac, 9d, 5h ]
+glansuas bets [$0.24]
+bthothak raises [$1.33]
+glansuas calls [$0.54]
+** Dealing turn ** [ Kc ]
+** Dealing river ** [ 6d ]
+** Summary **
+glansuas shows [ As, Qs ]
+bthothak shows [ Ad, Jh ]
+glansuas collected [ $1.92 ]
+
+
+#Game No : 461983941
+***** 888poker Hand History for Game 461983941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:19:02
+Table Junin 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.88 )
+Seat 6: K_smeraldo ( $0.98 )
+K_smeraldo posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+K_smeraldo calls [$0.01]
+glansuas checks
+** Dealing flop ** [ 9c, 9h, 7d ]
+glansuas checks
+K_smeraldo checks
+** Dealing turn ** [ 9s ]
+glansuas checks
+K_smeraldo checks
+** Dealing river ** [ 7s ]
+glansuas checks
+K_smeraldo checks
+** Summary **
+glansuas shows [ 3c, 4s ]
+K_smeraldo shows [ Ks, 4c ]
+K_smeraldo collected [ $0.02 ]
+glansuas collected [ $0.02 ]
+
+
+#Game No : 461983954
+***** 888poker Hand History for Game 461983954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:19:38
+Table Junin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.88 )
+Seat 6: K_smeraldo ( $0.98 )
+glansuas posts small blind [$0.01]
+K_smeraldo posts big blind [$0.02]
+** Dealing down cards **
+glansuas raises [$0.03]
+K_smeraldo folds
+** Summary **
+glansuas did not show his hand
+glansuas collected [ $0.04 ]
+
+
+#Game No : 461983959
+***** 888poker Hand History for Game 461983959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:19:50
+Table Junin 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.90 )
+Seat 6: K_smeraldo ( $0.96 )
+K_smeraldo posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+K_smeraldo folds
+** Summary **
+glansuas did not show his hand
+glansuas collected [ $0.03 ]
+
+
+#Game No : 461983964
+***** 888poker Hand History for Game 461983964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:19:57
+Table Junin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.91 )
+Seat 6: K_smeraldo ( $0.95 )
+glansuas posts small blind [$0.01]
+K_smeraldo posts big blind [$0.02]
+** Dealing down cards **
+glansuas raises [$0.03]
+K_smeraldo calls [$0.02]
+** Dealing flop ** [ 9s, Th, 5d ]
+K_smeraldo checks
+glansuas checks
+** Dealing turn ** [ 2c ]
+K_smeraldo checks
+glansuas checks
+** Dealing river ** [ Ts ]
+K_smeraldo bets [$0.02]
+glansuas folds
+** Summary **
+K_smeraldo collected [ $0.08 ]
+
+
+#Game No : 461983980
+***** 888poker Hand History for Game 461983980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:20:33
+Table Junin 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.87 )
+Seat 6: K_smeraldo ( $0.99 )
+K_smeraldo posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+K_smeraldo calls [$0.01]
+glansuas checks
+** Dealing flop ** [ 6h, 7d, 3s ]
+glansuas checks
+K_smeraldo bets [$0.02]
+glansuas folds
+** Summary **
+K_smeraldo collected [ $0.04 ]
+
+
+#Game No : 461984007
+***** 888poker Hand History for Game 461984007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:21:47
+Table Junin 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.85 )
+Seat 6: K_smeraldo ( $1.01 )
+K_smeraldo posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+K_smeraldo calls [$0.01]
+glansuas checks
+** Dealing flop ** [ Qd, Jd, 6d ]
+glansuas checks
+K_smeraldo checks
+** Dealing turn ** [ 7h ]
+glansuas checks
+K_smeraldo checks
+** Dealing river ** [ Tc ]
+glansuas checks
+K_smeraldo bets [$0.08]
+glansuas folds
+** Summary **
+K_smeraldo collected [ $0.04 ]
+
+
+#Game No : 461984035
+***** 888poker Hand History for Game 461984035 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:22:43
+Table Junin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.83 )
+Seat 6: K_smeraldo ( $1.03 )
+glansuas posts small blind [$0.01]
+K_smeraldo posts big blind [$0.02]
+** Dealing down cards **
+glansuas raises [$0.03]
+K_smeraldo folds
+** Summary **
+glansuas collected [ $0.04 ]
+
+
+#Game No : 461984114
+***** 888poker Hand History for Game 461984114 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:26:25
+Table Junin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.84 )
+Seat 6: K_smeraldo ( $1.13 )
+glansuas posts small blind [$0.01]
+K_smeraldo posts big blind [$0.02]
+** Dealing down cards **
+glansuas folds
+** Summary **
+K_smeraldo collected [ $0.03 ]
+
+
+#Game No : 461984116
+***** 888poker Hand History for Game 461984116 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:26:32
+Table Junin 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.83 )
+Seat 6: K_smeraldo ( $1.14 )
+K_smeraldo posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+K_smeraldo folds
+** Summary **
+glansuas collected [ $0.03 ]
+
+
+#Game No : 461984121
+***** 888poker Hand History for Game 461984121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:26:41
+Table Junin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.84 )
+Seat 6: K_smeraldo ( $1.13 )
+glansuas posts small blind [$0.01]
+K_smeraldo posts big blind [$0.02]
+** Dealing down cards **
+glansuas raises [$0.05]
+K_smeraldo folds
+** Summary **
+glansuas collected [ $0.04 ]
+
+
+#Game No : 461984128
+***** 888poker Hand History for Game 461984128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:26:54
+Table Junin 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.86 )
+Seat 6: K_smeraldo ( $1.11 )
+K_smeraldo posts small blind [$0.01]
+glansuas posts big blind [$0.02]
+** Dealing down cards **
+K_smeraldo folds
+** Summary **
+glansuas collected [ $0.03 ]
+
+
+#Game No : 461984131
+***** 888poker Hand History for Game 461984131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 03:27:00
+Table Junin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: glansuas ( $1.87 )
+Seat 6: K_smeraldo ( $1.10 )
+glansuas posts small blind [$0.01]
+K_smeraldo posts big blind [$0.02]
+** Dealing down cards **
+glansuas raises [$0.05]
+K_smeraldo calls [$0.04]
+** Dealing flop ** [ Tc, 3d, 4d ]
+K_smeraldo checks
+glansuas checks
+** Dealing turn ** [ 3c ]
+K_smeraldo checks
+glansuas checks
+** Dealing river ** [ 4h ]
+K_smeraldo bets [$0.02]
+glansuas calls [$0.02]
+** Summary **
+K_smeraldo shows [ Ks, Qc ]
+glansuas shows [ Jc, As ]
+glansuas collected [ $0.15 ]
+
+

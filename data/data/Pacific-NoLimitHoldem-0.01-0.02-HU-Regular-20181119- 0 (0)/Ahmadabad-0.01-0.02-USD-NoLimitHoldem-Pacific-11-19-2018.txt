@@ -1,0 +1,363 @@
+#Game No : 505630881
+***** 888poker Hand History for Game 505630881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:13:03
+Table Ahmadabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: engostops ( $1 )
+Seat 2: BI8888 ( $1 )
+engostops posts small blind [$0.01]
+BI8888 posts big blind [$0.02]
+** Dealing down cards **
+engostops raises [$0.03]
+BI8888 raises [$0.04]
+engostops calls [$0.02]
+** Dealing flop ** [ 2d, 8h, Td ]
+BI8888 bets [$0.12]
+engostops calls [$0.12]
+** Dealing turn ** [ 5d ]
+BI8888 bets [$0.02]
+engostops raises [$0.04]
+BI8888 calls [$0.02]
+** Dealing river ** [ 5c ]
+BI8888 checks
+engostops bets [$0.18]
+BI8888 calls [$0.18]
+** Summary **
+engostops shows [ Ad, 4d ]
+BI8888 mucks [ 6s, 6d ]
+engostops collected [ $0.75 ]
+
+
+#Game No : 505630895
+***** 888poker Hand History for Game 505630895 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:13:06
+Table Ahmadabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: engostops ( $1.35 )
+Seat 2: BI8888 ( $0.60 )
+BI8888 posts small blind [$0.01]
+engostops posts big blind [$0.02]
+** Dealing down cards **
+BI8888 raises [$0.05]
+engostops folds
+** Summary **
+BI8888 collected [ $0.04 ]
+
+
+#Game No : 505631359
+***** 888poker Hand History for Game 505631359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:31:36
+Table Ahmadabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Vlad281199 ( $1 )
+Seat 7: obeypls ( $0.82 )
+Vlad281199 posts small blind [$0.01]
+obeypls posts big blind [$0.02]
+** Dealing down cards **
+Vlad281199 folds
+** Summary **
+obeypls collected [ $0.03 ]
+
+
+#Game No : 505631396
+***** 888poker Hand History for Game 505631396 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:33:14
+Table Ahmadabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: emuranov88 ( $0.80 )
+Seat 7: obeypls ( $0.83 )
+obeypls posts small blind [$0.01]
+emuranov88 posts big blind [$0.02]
+** Dealing down cards **
+obeypls folds
+** Summary **
+emuranov88 collected [ $0.03 ]
+
+
+#Game No : 505631400
+***** 888poker Hand History for Game 505631400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:33:25
+Table Ahmadabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: emuranov88 ( $0.81 )
+Seat 7: obeypls ( $0.82 )
+emuranov88 posts small blind [$0.01]
+obeypls posts big blind [$0.02]
+** Dealing down cards **
+emuranov88 raises [$0.05]
+obeypls folds
+** Summary **
+emuranov88 collected [ $0.04 ]
+
+
+#Game No : 505631406
+***** 888poker Hand History for Game 505631406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:33:35
+Table Ahmadabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: emuranov88 ( $0.83 )
+Seat 7: obeypls ( $0.80 )
+obeypls posts small blind [$0.01]
+emuranov88 posts big blind [$0.02]
+** Dealing down cards **
+obeypls calls [$0.01]
+emuranov88 checks
+** Dealing flop ** [ 6c, 4s, Qh ]
+emuranov88 bets [$0.02]
+obeypls raises [$0.04]
+emuranov88 calls [$0.02]
+** Dealing turn ** [ 9d ]
+emuranov88 checks
+obeypls bets [$0.12]
+emuranov88 calls [$0.12]
+** Dealing river ** [ 6d ]
+emuranov88 bets [$0.18]
+obeypls calls [$0.18]
+** Summary **
+emuranov88 shows [ 3s, Qd ]
+obeypls shows [ 5s, Qs ]
+obeypls collected [ $0.34 ]
+emuranov88 collected [ $0.34 ]
+
+
+#Game No : 505631418
+***** 888poker Hand History for Game 505631418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 00:34:13
+Table Ahmadabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: emuranov88 ( $0.81 )
+Seat 7: obeypls ( $0.78 )
+emuranov88 posts small blind [$0.01]
+obeypls posts big blind [$0.02]
+** Dealing down cards **
+emuranov88 folds
+** Summary **
+obeypls collected [ $0.03 ]
+
+
+#Game No : 505632415
+***** 888poker Hand History for Game 505632415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 01:14:44
+Table Ahmadabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: emuranov88 ( $1.76 )
+Seat 9: GARALD84 ( $2.50 )
+emuranov88 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+emuranov88 raises [$0.05]
+GARALD84 folds
+** Summary **
+emuranov88 collected [ $0.04 ]
+
+
+#Game No : 505637767
+***** 888poker Hand History for Game 505637767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 03:43:39
+Table Ahmadabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Mr_Coxyman ( $0.86 )
+Seat 9: GARALD84 ( $1.85 )
+Mr_Coxyman posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+Mr_Coxyman raises [$0.03]
+GARALD84 calls [$0.02]
+** Dealing flop ** [ Js, 5s, 6s ]
+GARALD84 checks
+Mr_Coxyman bets [$0.08]
+GARALD84 calls [$0.08]
+** Dealing turn ** [ Ac ]
+GARALD84 checks
+Mr_Coxyman bets [$0.24]
+GARALD84 folds
+** Summary **
+Mr_Coxyman collected [ $0.23 ]
+
+
+#Game No : 505654622
+***** 888poker Hand History for Game 505654622 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 10:01:42
+Table Ahmadabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Pechora_Seva ( $1.08 )
+Seat 9: nN0NAME ( $1 )
+nN0NAME posts small blind [$0.01]
+Pechora_Seva posts big blind [$0.02]
+** Dealing down cards **
+nN0NAME raises [$0.05]
+Pechora_Seva calls [$0.04]
+** Dealing flop ** [ Qc, 3h, 5h ]
+Pechora_Seva checks
+nN0NAME bets [$0.06]
+Pechora_Seva calls [$0.06]
+** Dealing turn ** [ Ac ]
+Pechora_Seva checks
+nN0NAME bets [$0.20]
+Pechora_Seva folds
+** Summary **
+nN0NAME collected [ $0.23 ]
+
+
+#Game No : 505654649
+***** 888poker Hand History for Game 505654649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 10:02:11
+Table Ahmadabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pechora_Seva ( $1 )
+Seat 9: nN0NAME ( $1.11 )
+Pechora_Seva posts small blind [$0.01]
+** Dealing down cards **
+nN0NAME folds
+** Summary **
+Pechora_Seva collected [ $0.01 ]
+
+
+#Game No : 505654652
+***** 888poker Hand History for Game 505654652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 10:02:14
+Table Ahmadabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pechora_Seva ( $1 )
+Seat 7: AleksKSK ( $0.80 )
+Pechora_Seva posts small blind [$0.01]
+AleksKSK posts big blind [$0.02]
+** Dealing down cards **
+Pechora_Seva folds
+** Summary **
+AleksKSK did not show his hand
+AleksKSK collected [ $0.03 ]
+
+
+#Game No : 505654657
+***** 888poker Hand History for Game 505654657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 10:02:19
+Table Ahmadabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pechora_Seva ( $1 )
+Seat 7: AleksKSK ( $0.81 )
+AleksKSK posts small blind [$0.01]
+Pechora_Seva posts big blind [$0.02]
+** Dealing down cards **
+AleksKSK raises [$0.03]
+Pechora_Seva folds
+** Summary **
+AleksKSK did not show his hand
+AleksKSK collected [ $0.04 ]
+
+
+#Game No : 505654670
+***** 888poker Hand History for Game 505654670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 10:02:31
+Table Ahmadabad 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pechora_Seva ( $1 )
+Seat 7: AleksKSK ( $0.83 )
+Pechora_Seva posts small blind [$0.01]
+AleksKSK posts big blind [$0.02]
+** Dealing down cards **
+Pechora_Seva raises [$0.03]
+AleksKSK calls [$0.02]
+** Dealing flop ** [ 5d, 7h, 4h ]
+AleksKSK bets [$0.02]
+Pechora_Seva folds
+** Summary **
+AleksKSK collected [ $0.08 ]
+
+
+#Game No : 505654684
+***** 888poker Hand History for Game 505654684 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 10:02:45
+Table Ahmadabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Pechora_Seva ( $1 )
+Seat 7: AleksKSK ( $0.87 )
+AleksKSK posts small blind [$0.01]
+Pechora_Seva posts big blind [$0.02]
+** Dealing down cards **
+AleksKSK calls [$0.01]
+Pechora_Seva checks
+** Dealing flop ** [ Td, 4h, 7d ]
+Pechora_Seva checks
+AleksKSK checks
+** Dealing turn ** [ Tc ]
+Pechora_Seva bets [$0.03]
+AleksKSK calls [$0.03]
+** Dealing river ** [ Js ]
+Pechora_Seva checks
+AleksKSK checks
+** Summary **
+Pechora_Seva shows [ Qs, 4s ]
+AleksKSK mucks [ 5s, As ]
+Pechora_Seva collected [ $0.10 ]
+
+
+#Game No : 505669582
+***** 888poker Hand History for Game 505669582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 14:21:25
+Table Ahmadabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: SabrikOo ( $1.62 )
+Seat 7: SKARES106 ( $1.42 )
+SabrikOo posts small blind [$0.01]
+SKARES106 posts big blind [$0.02]
+** Dealing down cards **
+SabrikOo raises [$0.05]
+SKARES106 calls [$0.04]
+** Dealing flop ** [ Jd, 3c, Ts ]
+SKARES106 checks
+SabrikOo bets [$0.06]
+SKARES106 folds
+** Summary **
+SabrikOo collected [ $0.12 ]
+
+
+#Game No : 505671585
+***** 888poker Hand History for Game 505671585 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 15:10:55
+Table Ahmadabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: vg795 ( $2.59 )
+Seat 7: hejomocr ( $1 )
+hejomocr posts small blind [$0.01]
+vg795 posts big blind [$0.02]
+** Dealing down cards **
+hejomocr folds
+** Summary **
+vg795 did not show his hand
+vg795 collected [ $0.03 ]
+
+
+#Game No : 505671589
+***** 888poker Hand History for Game 505671589 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 11 2018 15:11:01
+Table Ahmadabad 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: vg795 ( $2.60 )
+Seat 7: hejomocr ( $1 )
+vg795 posts small blind [$0.01]
+** Dealing down cards **
+hejomocr folds
+** Summary **
+vg795 did not show his hand
+vg795 collected [ $0.01 ]
+
+

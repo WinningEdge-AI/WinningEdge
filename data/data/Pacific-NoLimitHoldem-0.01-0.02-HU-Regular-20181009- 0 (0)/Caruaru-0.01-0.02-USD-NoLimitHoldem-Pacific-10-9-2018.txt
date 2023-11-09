@@ -1,0 +1,651 @@
+#Game No : 503538203
+***** 888poker Hand History for Game 503538203 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 00:02:50
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: codaer96 ( $1.41 )
+Seat 6: Nezeh21 ( $0.98 )
+Nezeh21 posts small blind [$0.01]
+codaer96 posts big blind [$0.02]
+** Dealing down cards **
+Nezeh21 calls [$0.01]
+codaer96 raises [$0.02]
+Nezeh21 calls [$0.02]
+** Dealing flop ** [ 2s, 3c, As ]
+codaer96 bets [$0.02]
+Nezeh21 folds
+** Summary **
+codaer96 did not show his hand
+codaer96 collected [ $0.08 ]
+
+
+#Game No : 503538213
+***** 888poker Hand History for Game 503538213 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 00:03:13
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: codaer96 ( $1.45 )
+Seat 6: Nezeh21 ( $0.94 )
+codaer96 posts small blind [$0.01]
+Nezeh21 posts big blind [$0.02]
+** Dealing down cards **
+codaer96 raises [$0.03]
+Nezeh21 calls [$0.02]
+** Dealing flop ** [ Qd, 3h, Tc ]
+Nezeh21 checks
+codaer96 bets [$0.02]
+Nezeh21 calls [$0.02]
+** Dealing turn ** [ Kh ]
+Nezeh21 checks
+codaer96 bets [$0.02]
+Nezeh21 calls [$0.02]
+** Dealing river ** [ Td ]
+Nezeh21 bets [$0.16]
+codaer96 calls [$0.16]
+** Summary **
+Nezeh21 shows [ Th, Kc ]
+codaer96 mucks [ As, 7h ]
+Nezeh21 collected [ $0.45 ]
+
+
+#Game No : 503538223
+***** 888poker Hand History for Game 503538223 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 00:03:44
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: codaer96 ( $1.21 )
+Seat 6: Nezeh21 ( $1.15 )
+Nezeh21 posts small blind [$0.01]
+codaer96 posts big blind [$0.02]
+** Dealing down cards **
+Nezeh21 calls [$0.01]
+codaer96 checks
+** Dealing flop ** [ 7s, 6h, As ]
+codaer96 checks
+Nezeh21 checks
+** Dealing turn ** [ 6d ]
+codaer96 checks
+Nezeh21 checks
+** Dealing river ** [ 3c ]
+codaer96 checks
+Nezeh21 checks
+** Summary **
+codaer96 shows [ 2s, 4h ]
+Nezeh21 shows [ Qh, 9d ]
+Nezeh21 collected [ $0.04 ]
+
+
+#Game No : 503543673
+***** 888poker Hand History for Game 503543673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:36:54
+Table Caruaru 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $1.61 )
+Seat 9: Jaovc10 ( $1.66 )
+Jaovc10 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Jaovc10 raises [$0.05]
+SlavikMark79 calls [$0.04]
+** Dealing flop ** [ 2d, 4d, 6h ]
+SlavikMark79 bets [$0.08]
+Jaovc10 calls [$0.08]
+** Dealing turn ** [ 2h ]
+SlavikMark79 bets [$0.14]
+Jaovc10 calls [$0.14]
+** Dealing river ** [ 6s ]
+SlavikMark79 checks
+Jaovc10 bets [$0.28]
+SlavikMark79 folds
+** Summary **
+Jaovc10 collected [ $0.53 ]
+
+
+#Game No : 503543723
+***** 888poker Hand History for Game 503543723 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:38:06
+Table Caruaru 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SlavikMark79 ( $1.33 )
+Seat 9: Jaovc10 ( $1.91 )
+SlavikMark79 posts small blind [$0.01]
+Jaovc10 posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 folds
+** Summary **
+Jaovc10 collected [ $0.03 ]
+
+
+#Game No : 503543724
+***** 888poker Hand History for Game 503543724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:38:13
+Table Caruaru 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Ashraf1010 ( $1 )
+Seat 9: Jaovc10 ( $1.92 )
+Jaovc10 posts small blind [$0.01]
+Ashraf1010 posts big blind [$0.02]
+** Dealing down cards **
+Jaovc10 raises [$0.05]
+Ashraf1010 raises [$0.12]
+Jaovc10 raises [$0.16]
+Ashraf1010 calls [$0.08]
+** Dealing flop ** [ 4s, 3c, 3s ]
+Ashraf1010 checks
+Jaovc10 bets [$0.22]
+Ashraf1010 calls [$0.22]
+** Dealing turn ** [ Ad ]
+Ashraf1010 checks
+Jaovc10 bets [$0.44]
+Ashraf1010 raises [$0.56]
+Jaovc10 calls [$0.12]
+** Dealing river ** [ Ts ]
+** Summary **
+Ashraf1010 shows [ Js, Ks ]
+Jaovc10 shows [ Ac, Kc ]
+Ashraf1010 collected [ $1.88 ]
+
+
+#Game No : 503544338
+***** 888poker Hand History for Game 503544338 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:52:50
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: WERTYAN ( $1 )
+Seat 7: ultratwin ( $0.86 )
+WERTYAN posts small blind [$0.01]
+ultratwin posts big blind [$0.02]
+** Dealing down cards **
+WERTYAN raises [$0.05]
+ultratwin calls [$0.04]
+** Dealing flop ** [ Ks, Td, Jc ]
+ultratwin checks
+WERTYAN bets [$0.04]
+ultratwin calls [$0.04]
+** Dealing turn ** [ Qh ]
+ultratwin checks
+WERTYAN bets [$0.10]
+ultratwin raises [$0.36]
+WERTYAN raises [$0.80]
+ultratwin calls [$0.40]
+** Dealing river ** [ 4c ]
+** Summary **
+WERTYAN shows [ Ah, Kh ]
+ultratwin shows [ Ac, Jd ]
+WERTYAN collected [ $0.81 ]
+ultratwin collected [ $0.81 ]
+
+
+#Game No : 503544366
+***** 888poker Hand History for Game 503544366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:53:24
+Table Caruaru 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: WERTYAN ( $1 )
+Seat 7: ultratwin ( $0.81 )
+ultratwin posts small blind [$0.01]
+WERTYAN posts big blind [$0.02]
+** Dealing down cards **
+ultratwin raises [$0.05]
+WERTYAN folds
+** Summary **
+ultratwin did not show his hand
+ultratwin collected [ $0.04 ]
+
+
+#Game No : 503544371
+***** 888poker Hand History for Game 503544371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 03:53:34
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: WERTYAN ( $1 )
+Seat 7: ultratwin ( $0.83 )
+WERTYAN posts small blind [$0.01]
+ultratwin posts big blind [$0.02]
+** Dealing down cards **
+WERTYAN raises [$0.05]
+ultratwin folds
+** Summary **
+WERTYAN did not show his hand
+WERTYAN collected [ $0.04 ]
+
+
+#Game No : 503544992
+***** 888poker Hand History for Game 503544992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:12:05
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $1.12 )
+Seat 6: ultratwin ( $1.32 )
+ultratwin posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+ultratwin raises [$0.05]
+Sarahsbear folds
+** Summary **
+ultratwin collected [ $0.04 ]
+
+
+#Game No : 503544998
+***** 888poker Hand History for Game 503544998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:12:14
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $1.10 )
+Seat 6: ultratwin ( $1.34 )
+Sarahsbear posts small blind [$0.01]
+ultratwin posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear folds
+** Summary **
+ultratwin collected [ $0.03 ]
+
+
+#Game No : 503545005
+***** 888poker Hand History for Game 503545005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:12:22
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $1.09 )
+Seat 6: ultratwin ( $1.35 )
+ultratwin posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+ultratwin raises [$0.05]
+Sarahsbear folds
+** Summary **
+ultratwin collected [ $0.04 ]
+
+
+#Game No : 503545008
+***** 888poker Hand History for Game 503545008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:12:30
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $1.07 )
+Seat 6: ultratwin ( $1.37 )
+Sarahsbear posts small blind [$0.01]
+ultratwin posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.05]
+ultratwin calls [$0.04]
+** Dealing flop ** [ Jc, 8c, 9s ]
+ultratwin checks
+Sarahsbear bets [$0.07]
+ultratwin calls [$0.07]
+** Dealing turn ** [ Tc ]
+ultratwin checks
+Sarahsbear bets [$0.15]
+ultratwin calls [$0.15]
+** Dealing river ** [ 3d ]
+ultratwin checks
+Sarahsbear bets [$0.32]
+ultratwin calls [$0.32]
+** Summary **
+Sarahsbear shows [ Kh, Ts ]
+ultratwin shows [ 8h, 7c ]
+ultratwin collected [ $1.13 ]
+
+
+#Game No : 503545025
+***** 888poker Hand History for Game 503545025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:13:00
+Table Caruaru 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $0.47 )
+Seat 6: ultratwin ( $1.90 )
+ultratwin posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+ultratwin folds
+** Summary **
+Sarahsbear did not show his hand
+Sarahsbear collected [ $0.03 ]
+
+
+#Game No : 503545030
+***** 888poker Hand History for Game 503545030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:13:07
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $0.48 )
+Seat 6: ultratwin ( $1.89 )
+Sarahsbear posts small blind [$0.01]
+ultratwin posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.05]
+ultratwin folds
+** Summary **
+Sarahsbear did not show his hand
+Sarahsbear collected [ $0.04 ]
+
+
+#Game No : 503545047
+***** 888poker Hand History for Game 503545047 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:13:32
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $0.50 )
+Seat 7: Jwhitey95 ( $0.80 )
+Sarahsbear posts small blind [$0.01]
+Jwhitey95 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.05]
+Jwhitey95 calls [$0.04]
+** Dealing flop ** [ 5s, 8s, Kc ]
+Jwhitey95 checks
+Sarahsbear checks
+** Dealing turn ** [ 4s ]
+Jwhitey95 bets [$0.02]
+Sarahsbear folds
+** Summary **
+Jwhitey95 did not show his hand
+Jwhitey95 collected [ $0.12 ]
+
+
+#Game No : 503545066
+***** 888poker Hand History for Game 503545066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:13:57
+Table Caruaru 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $1 )
+Seat 7: Jwhitey95 ( $0.86 )
+Jwhitey95 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Jwhitey95 raises [$0.03]
+Sarahsbear folds
+** Summary **
+Jwhitey95 did not show his hand
+Jwhitey95 collected [ $0.04 ]
+
+
+#Game No : 503545071
+***** 888poker Hand History for Game 503545071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:14:09
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $0.98 )
+Seat 7: Jwhitey95 ( $0.88 )
+Sarahsbear posts small blind [$0.01]
+Jwhitey95 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear folds
+** Summary **
+Jwhitey95 did not show his hand
+Jwhitey95 collected [ $0.03 ]
+
+
+#Game No : 503545076
+***** 888poker Hand History for Game 503545076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:14:16
+Table Caruaru 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $0.97 )
+Seat 7: Jwhitey95 ( $0.89 )
+Jwhitey95 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Jwhitey95 raises [$0.03]
+Sarahsbear calls [$0.02]
+** Dealing flop ** [ 6s, 4h, Qc ]
+Sarahsbear checks
+Jwhitey95 bets [$0.02]
+Sarahsbear folds
+** Summary **
+Jwhitey95 did not show his hand
+Jwhitey95 collected [ $0.08 ]
+
+
+#Game No : 503545087
+***** 888poker Hand History for Game 503545087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:14:35
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $0.93 )
+Seat 7: Jwhitey95 ( $0.93 )
+Sarahsbear posts small blind [$0.01]
+Jwhitey95 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear folds
+** Summary **
+Jwhitey95 did not show his hand
+Jwhitey95 collected [ $0.03 ]
+
+
+#Game No : 503545094
+***** 888poker Hand History for Game 503545094 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:14:43
+Table Caruaru 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $0.92 )
+Seat 7: Jwhitey95 ( $0.94 )
+Jwhitey95 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Jwhitey95 raises [$0.17]
+Sarahsbear folds
+** Summary **
+Jwhitey95 did not show his hand
+Jwhitey95 collected [ $0.04 ]
+
+
+#Game No : 503545103
+***** 888poker Hand History for Game 503545103 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:14:57
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $0.90 )
+Seat 7: Jwhitey95 ( $0.96 )
+Sarahsbear posts small blind [$0.01]
+Jwhitey95 posts big blind [$0.02]
+** Dealing down cards **
+Sarahsbear raises [$0.05]
+Jwhitey95 raises [$0.30]
+Sarahsbear calls [$0.26]
+** Dealing flop ** [ 8c, Jd, 4s ]
+Jwhitey95 bets [$0.02]
+Sarahsbear raises [$0.18]
+Jwhitey95 calls [$0.16]
+** Dealing turn ** [ Ah ]
+Jwhitey95 bets [$0.02]
+Sarahsbear calls [$0.02]
+** Dealing river ** [ 8s ]
+Jwhitey95 bets [$0.02]
+Sarahsbear calls [$0.02]
+** Summary **
+Jwhitey95 shows [ 5c, Qh ]
+Sarahsbear shows [ 9h, Jh ]
+Sarahsbear collected [ $1.02 ]
+
+
+#Game No : 503545144
+***** 888poker Hand History for Game 503545144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 04:15:55
+Table Caruaru 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Sarahsbear ( $1.38 )
+Seat 7: Jwhitey95 ( $0.42 )
+Jwhitey95 posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+Jwhitey95 raises [$0.03]
+Sarahsbear calls [$0.02]
+** Dealing flop ** [ 5c, Qc, 9d ]
+Sarahsbear checks
+Jwhitey95 bets [$0.02]
+Sarahsbear calls [$0.02]
+** Dealing turn ** [ Js ]
+Sarahsbear bets [$0.07]
+Jwhitey95 raises [$0.14]
+Sarahsbear calls [$0.07]
+** Dealing river ** [ 8d ]
+Sarahsbear checks
+Jwhitey95 bets [$0.02]
+Sarahsbear calls [$0.02]
+** Summary **
+Jwhitey95 shows [ Ad, 3d ]
+Sarahsbear shows [ Jd, As ]
+Sarahsbear collected [ $0.42 ]
+
+
+#Game No : 503549859
+***** 888poker Hand History for Game 503549859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 06:39:18
+Table Caruaru 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: bud2011 ( $3.12 )
+Seat 2: WERTYAN ( $1.06 )
+bud2011 posts small blind [$0.01]
+WERTYAN posts big blind [$0.02]
+** Dealing down cards **
+bud2011 folds
+** Summary **
+WERTYAN collected [ $0.03 ]
+
+
+#Game No : 503549865
+***** 888poker Hand History for Game 503549865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 06:39:25
+Table Caruaru 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: bud2011 ( $3.11 )
+Seat 2: WERTYAN ( $1.07 )
+WERTYAN posts small blind [$0.01]
+bud2011 posts big blind [$0.02]
+** Dealing down cards **
+WERTYAN raises [$0.05]
+bud2011 folds
+** Summary **
+WERTYAN collected [ $0.04 ]
+
+
+#Game No : 503550858
+***** 888poker Hand History for Game 503550858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 07:04:29
+Table Caruaru 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pottaker13 ( $0.92 )
+Seat 4: SwaaaagG ( $0.89 )
+SwaaaagG posts small blind [$0.01]
+Pottaker13 posts big blind [$0.02]
+** Dealing down cards **
+SwaaaagG folds
+** Summary **
+Pottaker13 did not show his hand
+Pottaker13 collected [ $0.03 ]
+
+
+#Game No : 503550865
+***** 888poker Hand History for Game 503550865 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 07:04:34
+Table Caruaru 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pottaker13 ( $0.93 )
+Seat 4: SwaaaagG ( $0.88 )
+Pottaker13 posts small blind [$0.01]
+SwaaaagG posts big blind [$0.02]
+** Dealing down cards **
+Pottaker13 raises [$0.03]
+SwaaaagG raises [$0.07]
+Pottaker13 calls [$0.05]
+** Dealing flop ** [ As, 3c, Ks ]
+SwaaaagG checks
+Pottaker13 bets [$0.06]
+SwaaaagG calls [$0.06]
+** Dealing turn ** [ 6c ]
+SwaaaagG checks
+Pottaker13 checks
+** Dealing river ** [ 6h ]
+SwaaaagG bets [$0.73]
+Pottaker13 folds
+** Summary **
+SwaaaagG did not show his hand
+SwaaaagG collected [ $0.29 ]
+
+
+#Game No : 609214507
+***** 888poker Hand History for Game 609214507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 09:17:33
+Table Caruaru 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mainmenu666 ( $2.02 )
+Seat 2: kingMinosS ( $1.98 )
+mainmenu666 posts small blind [$0.01]
+kingMinosS posts big blind [$0.02]
+** Dealing down cards **
+mainmenu666 calls [$0.01]
+kingMinosS checks
+** Dealing flop ** [ 8s, Tc, 4h ]
+kingMinosS checks
+mainmenu666 bets [$0.04]
+kingMinosS calls [$0.04]
+** Dealing turn ** [ Ad ]
+kingMinosS checks
+mainmenu666 checks
+** Dealing river ** [ 4s ]
+kingMinosS checks
+mainmenu666 checks
+** Summary **
+kingMinosS shows [ 9s, 5d ]
+mainmenu666 shows [ 9d, Ks ]
+mainmenu666 collected [ $0.12 ]
+
+
+#Game No : 609214522
+***** 888poker Hand History for Game 609214522 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 10 2018 09:17:55
+Table Caruaru 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: mainmenu666 ( $2.08 )
+Seat 2: kingMinosS ( $1.92 )
+kingMinosS posts small blind [$0.01]
+mainmenu666 posts big blind [$0.02]
+** Dealing down cards **
+kingMinosS calls [$0.01]
+mainmenu666 raises [$0.04]
+kingMinosS calls [$0.04]
+** Dealing flop ** [ 8s, 6d, Td ]
+mainmenu666 checks
+kingMinosS checks
+** Dealing turn ** [ 3c ]
+mainmenu666 bets [$0.04]
+kingMinosS calls [$0.04]
+** Dealing river ** [ 2c ]
+mainmenu666 checks
+kingMinosS checks
+** Summary **
+mainmenu666 shows [ Qc, Ac ]
+kingMinosS mucks [ 7h, Kd ]
+mainmenu666 collected [ $0.19 ]
+
+

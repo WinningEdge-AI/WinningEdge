@@ -1,0 +1,120 @@
+#Game No : 502776230
+***** 888poker Hand History for Game 502776230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 03:58:51
+Table Maribor 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: GLtoMe ( $1.21 )
+Seat 4: KellyCoward ( $1.08 )
+KellyCoward posts small blind [$0.01]
+GLtoMe posts big blind [$0.02]
+** Dealing down cards **
+KellyCoward calls [$0.01]
+GLtoMe raises [$1.19]
+KellyCoward folds
+** Summary **
+GLtoMe collected [ $0.04 ]
+
+
+#Game No : 502776242
+***** 888poker Hand History for Game 502776242 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 03:59:01
+Table Maribor 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: GLtoMe ( $1.23 )
+Seat 4: KellyCoward ( $1.06 )
+GLtoMe posts small blind [$0.01]
+KellyCoward posts big blind [$0.02]
+** Dealing down cards **
+GLtoMe folds
+** Summary **
+KellyCoward collected [ $0.03 ]
+
+
+#Game No : 502779624
+***** 888poker Hand History for Game 502779624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:04:56
+Table Maribor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Ivan1031 ( $1.08 )
+Seat 9: Prapor35 ( $2.53 )
+Ivan1031 posts small blind [$0.01]
+Prapor35 posts big blind [$0.02]
+** Dealing down cards **
+Ivan1031 raises [$0.05]
+Prapor35 folds
+** Summary **
+Ivan1031 collected [ $0.04 ]
+
+
+#Game No : 502779631
+***** 888poker Hand History for Game 502779631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:05:06
+Table Maribor 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Ivan1031 ( $1.10 )
+Seat 9: Prapor35 ( $2.51 )
+Prapor35 posts small blind [$0.01]
+Ivan1031 posts big blind [$0.02]
+** Dealing down cards **
+Prapor35 calls [$0.01]
+Ivan1031 checks
+** Dealing flop ** [ 7c, 5c, Ad ]
+Ivan1031 checks
+Prapor35 checks
+** Dealing turn ** [ 4d ]
+Ivan1031 checks
+Prapor35 checks
+** Dealing river ** [ 3d ]
+Ivan1031 checks
+Prapor35 checks
+** Summary **
+Ivan1031 shows [ 3c, Jd ]
+Prapor35 mucks [ Kd, Qc ]
+Ivan1031 collected [ $0.04 ]
+
+
+#Game No : 502779655
+***** 888poker Hand History for Game 502779655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:05:44
+Table Maribor 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Ivan1031 ( $1.12 )
+Seat 9: Prapor35 ( $2.49 )
+Ivan1031 posts small blind [$0.01]
+Prapor35 posts big blind [$0.02]
+** Dealing down cards **
+Ivan1031 raises [$0.05]
+Prapor35 folds
+** Summary **
+Ivan1031 collected [ $0.04 ]
+
+
+#Game No : 502779664
+***** 888poker Hand History for Game 502779664 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 09 2018 05:05:52
+Table Maribor 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Ivan1031 ( $1.14 )
+Seat 9: Prapor35 ( $2.47 )
+Prapor35 posts small blind [$0.01]
+Ivan1031 posts big blind [$0.02]
+** Dealing down cards **
+Prapor35 calls [$0.01]
+Ivan1031 checks
+** Dealing flop ** [ Th, 6h, 5d ]
+Ivan1031 checks
+Prapor35 bets [$0.02]
+Ivan1031 calls [$0.02]
+** Dealing turn ** [ Jc ]
+Ivan1031 bets [$0.05]
+Prapor35 folds
+** Summary **
+Ivan1031 collected [ $0.08 ]
+
+

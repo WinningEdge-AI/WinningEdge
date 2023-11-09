@@ -1,0 +1,99 @@
+#Game No : 1256293287
+***** 888poker Hand History for Game 1256293287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 22:41:10
+Table Cabo Frio 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: 1gadfly1 ( $2.06 )
+Seat 5: SergeyVdovic ( $1.41 )
+SergeyVdovic posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+SergeyVdovic calls [$0.01]
+1gadfly1 checks
+** Dealing flop ** [ Jd, 8d, 9d ]
+1gadfly1 checks
+SergeyVdovic bets [$0.02]
+1gadfly1 folds
+** Summary **
+SergeyVdovic collected [ $0.04 ]
+
+
+#Game No : 1256293329
+***** 888poker Hand History for Game 1256293329 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 22:41:51
+Table Cabo Frio 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: 1gadfly1 ( $2.04 )
+Seat 5: SergeyVdovic ( $1.43 )
+1gadfly1 posts small blind [$0.01]
+SergeyVdovic posts big blind [$0.02]
+** Dealing down cards **
+1gadfly1 raises [$0.05]
+SergeyVdovic calls [$0.04]
+** Dealing flop ** [ 5s, Qh, Qd ]
+SergeyVdovic checks
+1gadfly1 checks
+** Dealing turn ** [ Ac ]
+SergeyVdovic bets [$0.02]
+1gadfly1 raises [$0.12]
+SergeyVdovic calls [$0.10]
+** Dealing river ** [ Jc ]
+SergeyVdovic bets [$0.02]
+1gadfly1 folds
+** Summary **
+SergeyVdovic collected [ $0.34 ]
+
+
+#Game No : 1256294059
+***** 888poker Hand History for Game 1256294059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 23:11:21
+Table Cabo Frio 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: paska914 ( $0.86 )
+Seat 7: allanbiller ( $1.94 )
+paska914 posts small blind [$0.01]
+allanbiller posts big blind [$0.02]
+** Dealing down cards **
+paska914 calls [$0.01]
+allanbiller checks
+** Dealing flop ** [ Ad, 9d, Td ]
+allanbiller checks
+paska914 checks
+** Dealing turn ** [ 3s ]
+allanbiller bets [$0.04]
+paska914 calls [$0.04]
+** Dealing river ** [ Ts ]
+allanbiller checks
+paska914 checks
+** Summary **
+allanbiller shows [ 9s, Kh ]
+paska914 shows [ 7d, As ]
+paska914 collected [ $0.12 ]
+
+
+#Game No : 1256294073
+***** 888poker Hand History for Game 1256294073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 23:11:56
+Table Cabo Frio 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: paska914 ( $0.92 )
+Seat 7: allanbiller ( $1.88 )
+allanbiller posts small blind [$0.01]
+paska914 posts big blind [$0.02]
+** Dealing down cards **
+allanbiller calls [$0.01]
+paska914 checks
+** Dealing flop ** [ Kh, 2h, 6d ]
+paska914 checks
+allanbiller checks
+** Dealing turn ** [ 5d ]
+paska914 bets [$0.02]
+allanbiller folds
+** Summary **
+paska914 collected [ $0.04 ]
+
+

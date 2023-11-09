@@ -1,0 +1,73 @@
+#Game No : 510088791
+***** 888poker Hand History for Game 510088791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:44:17
+Table Tolyatti 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Rifeiro ( $0.80 )
+Seat 3: salakytta ( $0.80 )
+Rifeiro posts small blind [$0.01]
+salakytta posts big blind [$0.02]
+** Dealing down cards **
+Rifeiro calls [$0.01]
+salakytta checks
+** Dealing flop ** [ 5s, 9h, 9s ]
+salakytta checks
+Rifeiro checks
+** Dealing turn ** [ 8d ]
+salakytta checks
+Rifeiro checks
+** Dealing river ** [ 8c ]
+salakytta checks
+Rifeiro checks
+** Summary **
+salakytta shows [ 3d, 3h ]
+Rifeiro shows [ Tc, 4d ]
+Rifeiro collected [ $0.04 ]
+
+
+#Game No : 510088808
+***** 888poker Hand History for Game 510088808 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 20:44:39
+Table Tolyatti 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: Rifeiro ( $0.82 )
+Seat 3: salakytta ( $0.78 )
+salakytta posts small blind [$0.01]
+Rifeiro posts big blind [$0.02]
+** Dealing down cards **
+salakytta calls [$0.01]
+Rifeiro checks
+** Dealing flop ** [ 8h, 8c, 3d ]
+Rifeiro checks
+salakytta checks
+** Dealing turn ** [ 2c ]
+Rifeiro checks
+salakytta checks
+** Dealing river ** [ Js ]
+Rifeiro checks
+salakytta checks
+** Summary **
+Rifeiro shows [ Qc, 9s ]
+salakytta shows [ 3c, 5c ]
+salakytta collected [ $0.04 ]
+
+
+#Game No : 510091891
+***** 888poker Hand History for Game 510091891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 22:41:27
+Table Tolyatti 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: juneera ( $3.64 )
+Seat 5: dima1957 ( $1.53 )
+juneera posts small blind [$0.01]
+dima1957 posts big blind [$0.02]
+** Dealing down cards **
+juneera raises [$0.05]
+dima1957 folds
+** Summary **
+juneera collected [ $0.04 ]
+
+

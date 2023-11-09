@@ -1,0 +1,51 @@
+#Game No : 608041828
+***** 888poker Hand History for Game 608041828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 08:50:30
+Table Burgas 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: chiliban34 ( $2.07 )
+Seat 2: MadMikeAAA1 ( $1.92 )
+MadMikeAAA1 posts small blind [$0.01]
+chiliban34 posts big blind [$0.02]
+** Dealing down cards **
+MadMikeAAA1 calls [$0.01]
+chiliban34 raises [$0.10]
+MadMikeAAA1 calls [$0.10]
+** Dealing flop ** [ 7s, 4d, 4h ]
+chiliban34 bets [$0.20]
+MadMikeAAA1 calls [$0.20]
+** Dealing turn ** [ Kh ]
+chiliban34 bets [$0.20]
+MadMikeAAA1 calls [$0.20]
+** Dealing river ** [ 4c ]
+chiliban34 checks
+MadMikeAAA1 bets [$0.52]
+chiliban34 raises [$1.55]
+MadMikeAAA1 folds
+** Summary **
+chiliban34 collected [ $1.95 ]
+
+
+#Game No : 608047647
+***** 888poker Hand History for Game 608047647 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 10:48:37
+Table Burgas 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: tragota ( $2.29 )
+Seat 10: ggEASY1337 ( $2.13 )
+ggEASY1337 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+ggEASY1337 calls [$0.01]
+tragota checks
+** Dealing flop ** [ Ac, Qc, Ts ]
+tragota checks
+ggEASY1337 bets [$0.04]
+tragota folds
+** Summary **
+ggEASY1337 did not show his hand
+ggEASY1337 collected [ $0.04 ]
+
+

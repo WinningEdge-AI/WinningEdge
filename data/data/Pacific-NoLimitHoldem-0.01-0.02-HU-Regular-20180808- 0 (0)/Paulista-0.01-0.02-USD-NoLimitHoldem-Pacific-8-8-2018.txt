@@ -1,0 +1,27 @@
+#Game No : 1199751581
+***** 888poker Hand History for Game 1199751581 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 07:12:58
+Table Paulista 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: 3kings92 ( $1.94 )
+Seat 5: LaLegion94 ( $2.06 )
+LaLegion94 posts small blind [$0.01]
+3kings92 posts big blind [$0.02]
+** Dealing down cards **
+LaLegion94 raises [$0.03]
+3kings92 raises [$0.12]
+LaLegion94 calls [$0.10]
+** Dealing flop ** [ Jd, 2c, 7c ]
+3kings92 bets [$0.14]
+LaLegion94 calls [$0.14]
+** Dealing turn ** [ 9d ]
+3kings92 bets [$1.66]
+LaLegion94 calls [$1.66]
+** Dealing river ** [ 5h ]
+** Summary **
+3kings92 shows [ Qh, Kc ]
+LaLegion94 shows [ 4d, 4h ]
+LaLegion94 collected [ $3.64 ]
+
+

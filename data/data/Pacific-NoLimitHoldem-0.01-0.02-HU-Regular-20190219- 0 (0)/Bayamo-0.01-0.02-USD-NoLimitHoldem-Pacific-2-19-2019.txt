@@ -1,0 +1,207 @@
+#Game No : 524631391
+***** 888poker Hand History for Game 524631391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 22:06:31
+Table Bayamo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SenACEtor ( $0.80 )
+Seat 5: WorstShark ( $0.80 )
+SenACEtor posts small blind [$0.01]
+WorstShark posts big blind [$0.02]
+** Dealing down cards **
+SenACEtor calls [$0.01]
+WorstShark checks
+** Dealing flop ** [ 8c, Th, 5d ]
+WorstShark checks
+SenACEtor checks
+** Dealing turn ** [ 9h ]
+WorstShark checks
+SenACEtor bets [$0.02]
+WorstShark calls [$0.02]
+** Dealing river ** [ As ]
+WorstShark checks
+SenACEtor checks
+** Summary **
+WorstShark shows [ 9c, Kd ]
+SenACEtor mucks [ Qc, 9d ]
+WorstShark collected [ $0.08 ]
+
+
+#Game No : 524631401
+***** 888poker Hand History for Game 524631401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 22:06:34
+Table Bayamo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: SenACEtor ( $0.76 )
+Seat 5: WorstShark ( $0.84 )
+WorstShark posts small blind [$0.01]
+SenACEtor posts big blind [$0.02]
+** Dealing down cards **
+WorstShark folds
+** Summary **
+SenACEtor did not show his hand
+SenACEtor collected [ $0.03 ]
+
+
+#Game No : 524631404
+***** 888poker Hand History for Game 524631404 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 22:06:39
+Table Bayamo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SenACEtor ( $0.77 )
+Seat 5: WorstShark ( $0.83 )
+SenACEtor posts small blind [$0.01]
+WorstShark posts big blind [$0.02]
+** Dealing down cards **
+SenACEtor raises [$0.03]
+WorstShark calls [$0.02]
+** Dealing flop ** [ 4d, As, Th ]
+WorstShark checks
+SenACEtor bets [$0.04]
+WorstShark calls [$0.04]
+** Dealing turn ** [ Kd ]
+WorstShark checks
+SenACEtor bets [$0.10]
+WorstShark folds
+** Summary **
+SenACEtor did not show his hand
+SenACEtor collected [ $0.15 ]
+
+
+#Game No : 524631413
+***** 888poker Hand History for Game 524631413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 22:07:07
+Table Bayamo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: SenACEtor ( $0.84 )
+Seat 5: WorstShark ( $0.75 )
+WorstShark posts small blind [$0.01]
+SenACEtor posts big blind [$0.02]
+** Dealing down cards **
+WorstShark calls [$0.01]
+SenACEtor checks
+** Dealing flop ** [ 7h, 8h, 7c ]
+SenACEtor checks
+WorstShark checks
+** Dealing turn ** [ 7d ]
+SenACEtor bets [$0.02]
+WorstShark folds
+** Summary **
+SenACEtor collected [ $0.04 ]
+
+
+#Game No : 524631426
+***** 888poker Hand History for Game 524631426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 02 2019 22:07:33
+Table Bayamo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SenACEtor ( $0.86 )
+Seat 5: WorstShark ( $0.73 )
+SenACEtor posts small blind [$0.01]
+WorstShark posts big blind [$0.02]
+** Dealing down cards **
+SenACEtor folds
+** Summary **
+WorstShark collected [ $0.03 ]
+
+
+#Game No : 524644170
+***** 888poker Hand History for Game 524644170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 02 2019 03:47:34
+Table Bayamo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: MDV1366 ( $2 )
+Seat 6: 8Evgen88 ( $3.06 )
+8Evgen88 posts small blind [$0.01]
+MDV1366 posts big blind [$0.02]
+** Dealing down cards **
+8Evgen88 calls [$0.01]
+MDV1366 checks
+** Dealing flop ** [ 7c, 8h, Qd ]
+MDV1366 checks
+8Evgen88 checks
+** Dealing turn ** [ 7h ]
+MDV1366 checks
+8Evgen88 checks
+** Dealing river ** [ 4d ]
+MDV1366 checks
+8Evgen88 bets [$0.06]
+MDV1366 folds
+** Summary **
+8Evgen88 collected [ $0.04 ]
+
+
+#Game No : 524644207
+***** 888poker Hand History for Game 524644207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 02 2019 03:48:15
+Table Bayamo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: MDV1366 ( $2 )
+Seat 6: 8Evgen88 ( $3.08 )
+MDV1366 posts small blind [$0.01]
+8Evgen88 posts big blind [$0.02]
+** Dealing down cards **
+MDV1366 raises [$0.05]
+8Evgen88 calls [$0.04]
+** Dealing flop ** [ 4c, 3s, Td ]
+8Evgen88 bets [$0.06]
+MDV1366 calls [$0.06]
+** Dealing turn ** [ Kd ]
+8Evgen88 bets [$0.06]
+MDV1366 calls [$0.06]
+** Dealing river ** [ As ]
+8Evgen88 checks
+MDV1366 bets [$0.18]
+8Evgen88 folds
+** Summary **
+MDV1366 collected [ $0.34 ]
+
+
+#Game No : 524644239
+***** 888poker Hand History for Game 524644239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 02 2019 03:48:48
+Table Bayamo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: MDV1366 ( $2.16 )
+Seat 6: 8Evgen88 ( $2.90 )
+8Evgen88 posts small blind [$0.01]
+MDV1366 posts big blind [$0.02]
+** Dealing down cards **
+8Evgen88 folds
+** Summary **
+MDV1366 collected [ $0.03 ]
+
+
+#Game No : 524644243
+***** 888poker Hand History for Game 524644243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 02 2019 03:48:55
+Table Bayamo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: MDV1366 ( $2.17 )
+Seat 6: 8Evgen88 ( $2.89 )
+MDV1366 posts small blind [$0.01]
+8Evgen88 posts big blind [$0.02]
+** Dealing down cards **
+MDV1366 raises [$0.03]
+8Evgen88 raises [$0.10]
+MDV1366 calls [$0.08]
+** Dealing flop ** [ Tc, Kh, 5d ]
+8Evgen88 bets [$0.04]
+MDV1366 raises [$0.20]
+8Evgen88 calls [$0.16]
+** Dealing turn ** [ 9c ]
+8Evgen88 checks
+MDV1366 bets [$0.32]
+8Evgen88 folds
+** Summary **
+MDV1366 collected [ $0.60 ]
+
+

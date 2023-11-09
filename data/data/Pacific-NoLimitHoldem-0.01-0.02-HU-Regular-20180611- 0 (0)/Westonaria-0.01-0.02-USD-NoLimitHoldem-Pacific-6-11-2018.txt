@@ -1,0 +1,62 @@
+#Game No : 1183156330
+***** 888poker Hand History for Game 1183156330 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 06 2018 04:23:29
+Table Westonaria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ijamaica ( $8.37 )
+Seat 9: sh.s.o ( $3.17 )
+ijamaica posts small blind [$0.01]
+sh.s.o posts big blind [$0.02]
+** Dealing down cards **
+ijamaica folds
+** Summary **
+sh.s.o did not show his hand
+sh.s.o collected [ $0.03 ]
+
+
+#Game No : 1183156349
+***** 888poker Hand History for Game 1183156349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 06 2018 04:23:35
+Table Westonaria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: ijamaica ( $8.36 )
+Seat 9: sh.s.o ( $3.18 )
+sh.s.o posts small blind [$0.01]
+ijamaica posts big blind [$0.02]
+** Dealing down cards **
+sh.s.o raises [$0.05]
+ijamaica calls [$0.04]
+** Dealing flop ** [ 7d, 6c, Ts ]
+ijamaica checks
+sh.s.o checks
+** Dealing turn ** [ 3s ]
+ijamaica bets [$0.06]
+sh.s.o calls [$0.06]
+** Dealing river ** [ 5c ]
+ijamaica checks
+sh.s.o checks
+** Summary **
+ijamaica shows [ 5s, Js ]
+sh.s.o shows [ 7c, 8s ]
+sh.s.o collected [ $0.23 ]
+
+
+#Game No : 1183156469
+***** 888poker Hand History for Game 1183156469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 06 2018 04:24:07
+Table Westonaria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ijamaica ( $8.24 )
+Seat 9: sh.s.o ( $3.29 )
+ijamaica posts small blind [$0.01]
+sh.s.o posts big blind [$0.02]
+** Dealing down cards **
+ijamaica folds
+** Summary **
+sh.s.o did not show his hand
+sh.s.o collected [ $0.03 ]
+
+

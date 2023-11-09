@@ -1,0 +1,462 @@
+#Game No : 508644707
+***** 888poker Hand History for Game 508644707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 16:18:57
+Table Porto 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: peryssantana ( $0.99 )
+Seat 3: grahamnicola ( $2 )
+peryssantana posts small blind [$0.01]
+grahamnicola posts big blind [$0.02]
+** Dealing down cards **
+peryssantana raises [$0.03]
+grahamnicola calls [$0.02]
+** Dealing flop ** [ 9c, 3h, 8d ]
+grahamnicola checks
+peryssantana bets [$0.04]
+grahamnicola folds
+** Summary **
+peryssantana collected [ $0.08 ]
+
+
+#Game No : 508644810
+***** 888poker Hand History for Game 508644810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 16:20:18
+Table Porto 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: peryssantana ( $1.03 )
+Seat 3: grahamnicola ( $1.96 )
+grahamnicola posts small blind [$0.01]
+peryssantana posts big blind [$0.02]
+** Dealing down cards **
+grahamnicola calls [$0.01]
+peryssantana checks
+** Dealing flop ** [ 7s, 2h, Kh ]
+peryssantana checks
+grahamnicola checks
+** Dealing turn ** [ 3c ]
+peryssantana checks
+grahamnicola checks
+** Dealing river ** [ Ts ]
+peryssantana checks
+grahamnicola bets [$0.02]
+peryssantana calls [$0.02]
+** Summary **
+grahamnicola shows [ Qd, 6d ]
+peryssantana mucks [ 5s, Qs ]
+grahamnicola collected [ $0.08 ]
+
+
+#Game No : 508649628
+***** 888poker Hand History for Game 508649628 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 17:43:54
+Table Porto 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Sargtath ( $2 )
+Seat 4: Terran777 ( $4.54 )
+Terran777 posts small blind [$0.01]
+Sargtath posts big blind [$0.02]
+** Dealing down cards **
+Terran777 raises [$0.05]
+Sargtath calls [$0.04]
+** Dealing flop ** [ 9h, 6c, Js ]
+Sargtath checks
+Terran777 bets [$0.06]
+Sargtath folds
+** Summary **
+Terran777 did not show his hand
+Terran777 collected [ $0.12 ]
+
+
+#Game No : 508649652
+***** 888poker Hand History for Game 508649652 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 17:44:18
+Table Porto 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Sargtath ( $2 )
+Seat 4: Terran777 ( $4.60 )
+Sargtath posts small blind [$0.01]
+Terran777 posts big blind [$0.02]
+** Dealing down cards **
+Sargtath folds
+** Summary **
+Terran777 did not show his hand
+Terran777 collected [ $0.03 ]
+
+
+#Game No : 508649660
+***** 888poker Hand History for Game 508649660 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 17:44:22
+Table Porto 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Sargtath ( $2 )
+Seat 4: Terran777 ( $4.61 )
+Terran777 posts small blind [$0.01]
+** Dealing down cards **
+Sargtath folds
+** Summary **
+Terran777 did not show his hand
+Terran777 collected [ $0.01 ]
+
+
+#Game No : 500916856
+***** 888poker Hand History for Game 500916856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 06:41:40
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: velazquezmat ( $1.86 )
+Seat 7: GARALD84 ( $1.12 )
+velazquezmat posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+velazquezmat calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ 8c, 6s, Ad ]
+GARALD84 bets [$0.02]
+velazquezmat calls [$0.02]
+** Dealing turn ** [ 5h ]
+GARALD84 checks
+velazquezmat checks
+** Dealing river ** [ 2c ]
+GARALD84 checks
+velazquezmat bets [$0.05]
+GARALD84 folds
+** Summary **
+velazquezmat collected [ $0.08 ]
+
+
+#Game No : 500918543
+***** 888poker Hand History for Game 500918543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 07:19:15
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: newAlexander ( $1.80 )
+Seat 7: GARALD84 ( $2.59 )
+GARALD84 posts small blind [$0.01]
+newAlexander posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+newAlexander checks
+** Dealing flop ** [ Qs, 9h, 5c ]
+newAlexander checks
+GARALD84 bets [$0.02]
+newAlexander folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 500923825
+***** 888poker Hand History for Game 500923825 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:07:32
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: KOTYATA1 ( $1.23 )
+Seat 7: GARALD84 ( $2.88 )
+GARALD84 posts small blind [$0.01]
+KOTYATA1 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.05]
+KOTYATA1 calls [$0.04]
+** Dealing flop ** [ Ah, 2h, Th ]
+KOTYATA1 checks
+GARALD84 bets [$0.08]
+KOTYATA1 folds
+** Summary **
+GARALD84 collected [ $0.12 ]
+
+
+#Game No : 500923855
+***** 888poker Hand History for Game 500923855 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:08:05
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: KOTYATA1 ( $1.17 )
+Seat 7: GARALD84 ( $2.94 )
+KOTYATA1 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+KOTYATA1 raises [$0.05]
+GARALD84 folds
+** Summary **
+KOTYATA1 collected [ $0.04 ]
+
+
+#Game No : 500923871
+***** 888poker Hand History for Game 500923871 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:08:25
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: KOTYATA1 ( $1.19 )
+Seat 7: GARALD84 ( $2.92 )
+GARALD84 posts small blind [$0.01]
+** Dealing down cards **
+KOTYATA1 folds
+** Summary **
+GARALD84 collected [ $0.01 ]
+
+
+#Game No : 500923876
+***** 888poker Hand History for Game 500923876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:08:28
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: GARALD84 ( $2.92 )
+Seat 9: leomed15 ( $1 )
+GARALD84 posts small blind [$0.01]
+leomed15 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+leomed15 checks
+** Dealing flop ** [ Kh, 2s, Ad ]
+leomed15 checks
+GARALD84 bets [$0.02]
+leomed15 folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 500923971
+***** 888poker Hand History for Game 500923971 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 09:10:25
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: kokos707 ( $1.08 )
+Seat 7: GARALD84 ( $2.94 )
+GARALD84 posts small blind [$0.01]
+kokos707 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.05]
+kokos707 folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 500937995
+***** 888poker Hand History for Game 500937995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 13:04:55
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $1.82 )
+Seat 7: AssK1cker ( $1.10 )
+RatherShort posts small blind [$0.01]
+** Dealing down cards **
+AssK1cker folds
+** Summary **
+RatherShort did not show his hand
+RatherShort collected [ $0.01 ]
+
+
+#Game No : 500938001
+***** 888poker Hand History for Game 500938001 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 13:05:03
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $1.82 )
+Seat 9: Dumbledore22 ( $0.80 )
+Dumbledore22 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Dumbledore22 raises [$0.05]
+RatherShort folds
+** Summary **
+Dumbledore22 collected [ $0.04 ]
+
+
+#Game No : 500938021
+***** 888poker Hand History for Game 500938021 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 13:05:17
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $1.80 )
+Seat 9: Dumbledore22 ( $0.82 )
+RatherShort posts small blind [$0.01]
+Dumbledore22 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.03]
+Dumbledore22 raises [$0.04]
+RatherShort calls [$0.02]
+** Dealing flop ** [ 4s, 6s, Jc ]
+Dumbledore22 bets [$0.02]
+RatherShort calls [$0.02]
+** Dealing turn ** [ 5d ]
+Dumbledore22 bets [$0.02]
+RatherShort calls [$0.02]
+** Dealing river ** [ 6d ]
+Dumbledore22 bets [$0.08]
+RatherShort calls [$0.08]
+** Summary **
+Dumbledore22 shows [ Qs, 9c ]
+RatherShort shows [ Jh, Kd ]
+RatherShort collected [ $0.34 ]
+
+
+#Game No : 500938103
+***** 888poker Hand History for Game 500938103 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 13:06:25
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $1.96 )
+Seat 9: Dumbledore22 ( $0.64 )
+Dumbledore22 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Dumbledore22 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ Qc, 7h, Js ]
+RatherShort checks
+Dumbledore22 checks
+** Dealing turn ** [ Kc ]
+RatherShort bets [$0.02]
+Dumbledore22 calls [$0.02]
+** Dealing river ** [ Th ]
+RatherShort checks
+Dumbledore22 checks
+** Summary **
+RatherShort shows [ Qs, 3c ]
+Dumbledore22 mucks [ 5d, 8d ]
+RatherShort collected [ $0.08 ]
+
+
+#Game No : 500938570
+***** 888poker Hand History for Game 500938570 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 13:13:07
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $2.32 )
+Seat 9: Dumbledore22 ( $0.91 )
+Dumbledore22 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Dumbledore22 raises [$0.05]
+RatherShort folds
+** Summary **
+Dumbledore22 did not show his hand
+Dumbledore22 collected [ $0.04 ]
+
+
+#Game No : 500938580
+***** 888poker Hand History for Game 500938580 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 13:13:18
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $2.30 )
+Seat 9: Dumbledore22 ( $0.93 )
+RatherShort posts small blind [$0.01]
+Dumbledore22 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+Dumbledore22 did not show his hand
+Dumbledore22 collected [ $0.03 ]
+
+
+#Game No : 500938591
+***** 888poker Hand History for Game 500938591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 13:13:27
+Table Porto 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $2.29 )
+Seat 9: Dumbledore22 ( $0.94 )
+Dumbledore22 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Dumbledore22 calls [$0.01]
+RatherShort checks
+** Dealing flop ** [ 8h, Kh, Kc ]
+RatherShort checks
+Dumbledore22 bets [$0.10]
+RatherShort calls [$0.10]
+** Dealing turn ** [ 6h ]
+RatherShort checks
+Dumbledore22 bets [$0.08]
+RatherShort calls [$0.08]
+** Dealing river ** [ Kd ]
+RatherShort bets [$0.40]
+Dumbledore22 raises [$0.74]
+RatherShort calls [$0.34]
+** Summary **
+RatherShort shows [ Ks, 2d ]
+Dumbledore22 shows [ 8d, 4h ]
+RatherShort collected [ $1.77 ]
+
+
+#Game No : 500938702
+***** 888poker Hand History for Game 500938702 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 13:14:52
+Table Porto 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $3.12 )
+Seat 7: Luvex94 ( $0.80 )
+RatherShort posts small blind [$0.01]
+Luvex94 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort folds
+** Summary **
+Luvex94 collected [ $0.03 ]
+
+
+#Game No : 500938714
+***** 888poker Hand History for Game 500938714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 13:15:01
+Table Porto 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $3.11 )
+Seat 7: Luvex94 ( $0.81 )
+Luvex94 posts small blind [$0.01]
+RatherShort posts big blind [$0.02]
+** Dealing down cards **
+Luvex94 raises [$0.03]
+RatherShort folds
+** Summary **
+Luvex94 collected [ $0.04 ]
+
+
+#Game No : 500943180
+***** 888poker Hand History for Game 500943180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 14:43:32
+Table Porto 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Lawlass ( $0.83 )
+Seat 7: OxyyD98 ( $1.26 )
+Lawlass posts small blind [$0.01]
+OxyyD98 posts big blind [$0.02]
+** Dealing down cards **
+Lawlass raises [$0.05]
+OxyyD98 calls [$0.04]
+** Dealing flop ** [ 5c, Jc, Js ]
+OxyyD98 checks
+Lawlass checks
+** Dealing turn ** [ 2s ]
+OxyyD98 checks
+Lawlass bets [$0.04]
+OxyyD98 calls [$0.04]
+** Dealing river ** [ 8d ]
+OxyyD98 bets [$0.04]
+Lawlass calls [$0.04]
+** Summary **
+OxyyD98 shows [ Th, Kh ]
+Lawlass shows [ 8h, Ac ]
+Lawlass collected [ $0.27 ]
+
+

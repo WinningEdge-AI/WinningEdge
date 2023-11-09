@@ -1,0 +1,134 @@
+#Game No : 389520
+***** 888poker Hand History for Game 389520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 06 2019 06:45:55
+Table Nampa 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ededboys ( $0.62 )
+Seat 7: povilefke ( $1.06 )
+ededboys posts small blind [$0.01]
+povilefke posts big blind [$0.02]
+** Dealing down cards **
+ededboys calls [$0.01]
+povilefke checks
+** Dealing flop ** [ 6d, 2s, 3s ]
+povilefke bets [$0.04]
+ededboys calls [$0.04]
+** Dealing turn ** [ Tc ]
+povilefke checks
+ededboys checks
+** Dealing river ** [ 2h ]
+povilefke bets [$0.04]
+ededboys calls [$0.04]
+** Summary **
+povilefke shows [ Jh, 2c ]
+ededboys mucks [ 6s, 9c ]
+povilefke collected [ $0.19 ]
+
+
+#Game No : 389524
+***** 888poker Hand History for Game 389524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 06 2019 06:46:26
+Table Nampa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: ededboys ( $0.52 )
+Seat 7: povilefke ( $1.15 )
+povilefke posts small blind [$0.01]
+ededboys posts big blind [$0.02]
+** Dealing down cards **
+povilefke folds
+** Summary **
+ededboys collected [ $0.03 ]
+
+
+#Game No : 389525
+***** 888poker Hand History for Game 389525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 06 2019 06:46:34
+Table Nampa 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ededboys ( $0.53 )
+Seat 7: povilefke ( $1.14 )
+ededboys posts small blind [$0.01]
+povilefke posts big blind [$0.02]
+** Dealing down cards **
+ededboys calls [$0.01]
+povilefke checks
+** Dealing flop ** [ 8d, Td, 2s ]
+povilefke bets [$0.04]
+ededboys folds
+** Summary **
+povilefke collected [ $0.04 ]
+
+
+#Game No : 389527
+***** 888poker Hand History for Game 389527 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 06 2019 06:46:49
+Table Nampa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: ededboys ( $0.51 )
+Seat 7: povilefke ( $1.16 )
+povilefke posts small blind [$0.01]
+ededboys posts big blind [$0.02]
+** Dealing down cards **
+povilefke raises [$0.04]
+ededboys calls [$0.03]
+** Dealing flop ** [ 8c, 8h, 8s ]
+ededboys checks
+povilefke bets [$0.08]
+ededboys folds
+** Summary **
+povilefke collected [ $0.10 ]
+
+
+#Game No : 389531
+***** 888poker Hand History for Game 389531 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 06 2019 06:47:09
+Table Nampa 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ededboys ( $0.46 )
+Seat 7: povilefke ( $1.21 )
+ededboys posts small blind [$0.01]
+povilefke posts big blind [$0.02]
+** Dealing down cards **
+ededboys calls [$0.01]
+povilefke checks
+** Dealing flop ** [ Tc, 3s, 4s ]
+povilefke checks
+ededboys checks
+** Dealing turn ** [ 4c ]
+povilefke bets [$0.04]
+ededboys calls [$0.04]
+** Dealing river ** [ 2d ]
+povilefke checks
+ededboys checks
+** Summary **
+povilefke shows [ 6h, 7h ]
+ededboys shows [ Jd, Qs ]
+ededboys collected [ $0.12 ]
+
+
+#Game No : 389533
+***** 888poker Hand History for Game 389533 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 06 2019 06:47:40
+Table Nampa 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: ededboys ( $0.52 )
+Seat 7: povilefke ( $1.15 )
+povilefke posts small blind [$0.01]
+ededboys posts big blind [$0.02]
+** Dealing down cards **
+povilefke raises [$0.04]
+ededboys calls [$0.03]
+** Dealing flop ** [ Js, Jd, 2h ]
+ededboys checks
+povilefke bets [$0.05]
+ededboys folds
+** Summary **
+povilefke collected [ $0.10 ]
+
+

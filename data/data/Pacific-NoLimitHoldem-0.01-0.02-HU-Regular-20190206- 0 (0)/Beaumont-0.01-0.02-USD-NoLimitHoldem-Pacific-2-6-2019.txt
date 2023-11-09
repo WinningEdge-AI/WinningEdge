@@ -1,0 +1,29 @@
+#Game No : 513333481
+***** 888poker Hand History for Game 513333481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 02 2019 09:16:46
+Table Beaumont 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: timminsd100 ( $2.06 )
+Seat 6: raisapoker ( $0.74 )
+timminsd100 posts small blind [$0.01]
+raisapoker posts big blind [$0.02]
+** Dealing down cards **
+timminsd100 calls [$0.01]
+raisapoker checks
+** Dealing flop ** [ 8h, 9s, As ]
+raisapoker bets [$0.02]
+timminsd100 calls [$0.02]
+** Dealing turn ** [ 3c ]
+raisapoker bets [$0.05]
+timminsd100 calls [$0.05]
+** Dealing river ** [ 4s ]
+raisapoker bets [$0.11]
+timminsd100 raises [$0.22]
+raisapoker calls [$0.11]
+** Summary **
+timminsd100 shows [ 7s, 5s ]
+raisapoker mucks [ 3s, 8c ]
+timminsd100 collected [ $0.59 ]
+
+

@@ -1,0 +1,80 @@
+#Game No : 503517020
+***** 888poker Hand History for Game 503517020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 11:18:04
+Table Inglewood 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: IGr0lk ( $1.58 )
+Seat 2: nikitaaaaa2 ( $1 )
+IGr0lk posts small blind [$0.01]
+nikitaaaaa2 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+nikitaaaaa2 calls [$0.02]
+** Dealing flop ** [ 7h, 4h, 5d ]
+nikitaaaaa2 checks
+IGr0lk bets [$0.04]
+nikitaaaaa2 calls [$0.04]
+** Dealing turn ** [ 3d ]
+nikitaaaaa2 checks
+IGr0lk checks
+** Dealing river ** [ 3s ]
+nikitaaaaa2 checks
+IGr0lk checks
+** Summary **
+nikitaaaaa2 shows [ 9h, Tc ]
+IGr0lk shows [ 8s, Qc ]
+IGr0lk collected [ $0.15 ]
+
+
+#Game No : 503517052
+***** 888poker Hand History for Game 503517052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 11:18:37
+Table Inglewood 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: IGr0lk ( $1.65 )
+Seat 2: nikitaaaaa2 ( $0.92 )
+nikitaaaaa2 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+nikitaaaaa2 calls [$0.01]
+IGr0lk checks
+** Dealing flop ** [ Jc, Jd, 7d ]
+IGr0lk checks
+nikitaaaaa2 bets [$0.04]
+IGr0lk calls [$0.04]
+** Dealing turn ** [ Ad ]
+IGr0lk checks
+nikitaaaaa2 bets [$0.02]
+IGr0lk calls [$0.02]
+** Dealing river ** [ 7c ]
+IGr0lk checks
+nikitaaaaa2 bets [$0.16]
+IGr0lk folds
+** Summary **
+nikitaaaaa2 collected [ $0.15 ]
+
+
+#Game No : 503518947
+***** 888poker Hand History for Game 503518947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 11:52:59
+Table Inglewood 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: vlad_ul ( $1.04 )
+Seat 9: ChuckNor1s ( $1.54 )
+ChuckNor1s posts small blind [$0.01]
+vlad_ul posts big blind [$0.02]
+** Dealing down cards **
+ChuckNor1s raises [$0.05]
+vlad_ul calls [$0.04]
+** Dealing flop ** [ 7d, 6h, 9h ]
+vlad_ul checks
+ChuckNor1s bets [$0.08]
+vlad_ul folds
+** Summary **
+ChuckNor1s did not show his hand
+ChuckNor1s collected [ $0.12 ]
+
+

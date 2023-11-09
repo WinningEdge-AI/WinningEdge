@@ -1,0 +1,64 @@
+#Game No : 465162266
+***** 888poker Hand History for Game 465162266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 01:59:08
+Table Long Beach 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: JungFu ( $0.73 )
+Seat 9: ElieE0 ( $0.80 )
+ElieE0 posts small blind [$0.01]
+JungFu posts big blind [$0.02]
+** Dealing down cards **
+ElieE0 calls [$0.01]
+JungFu checks
+** Dealing flop ** [ 8c, Td, 7h ]
+JungFu bets [$0.04]
+ElieE0 calls [$0.04]
+** Dealing turn ** [ Jh ]
+JungFu bets [$0.04]
+ElieE0 calls [$0.04]
+** Dealing river ** [ Qh ]
+JungFu checks
+ElieE0 checks
+** Summary **
+JungFu shows [ 3d, Th ]
+ElieE0 mucks [ 8d, 2c ]
+JungFu collected [ $0.19 ]
+
+
+#Game No : 465162289
+***** 888poker Hand History for Game 465162289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 01:59:31
+Table Long Beach 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JungFu ( $0.82 )
+Seat 9: ElieE0 ( $0.70 )
+JungFu posts small blind [$0.01]
+** Dealing down cards **
+ElieE0 folds
+** Summary **
+JungFu collected [ $0.01 ]
+
+
+#Game No : 465162293
+***** 888poker Hand History for Game 465162293 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 05 2019 01:59:41
+Table Long Beach 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JungFu ( $0.82 )
+Seat 7: stefjenner ( $0.80 )
+JungFu posts small blind [$0.01]
+stefjenner posts big blind [$0.02]
+** Dealing down cards **
+JungFu calls [$0.01]
+stefjenner checks
+** Dealing flop ** [ Td, Qs, 2s ]
+stefjenner checks
+JungFu bets [$0.04]
+stefjenner folds
+** Summary **
+JungFu collected [ $0.04 ]
+
+

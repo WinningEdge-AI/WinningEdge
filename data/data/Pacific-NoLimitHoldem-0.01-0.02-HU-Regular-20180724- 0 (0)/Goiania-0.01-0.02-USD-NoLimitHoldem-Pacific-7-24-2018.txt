@@ -1,0 +1,159 @@
+#Game No : 499867694
+***** 888poker Hand History for Game 499867694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 17:23:26
+Table Goiania 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: BoilingFrog ( $0.98 )
+Seat 6: laschko ( $1.02 )
+laschko posts small blind [$0.01]
+BoilingFrog posts big blind [$0.02]
+** Dealing down cards **
+laschko calls [$0.01]
+BoilingFrog checks
+** Dealing flop ** [ 5h, Td, Qh ]
+BoilingFrog checks
+laschko checks
+** Dealing turn ** [ 3h ]
+BoilingFrog checks
+laschko bets [$0.02]
+BoilingFrog folds
+** Summary **
+laschko collected [ $0.04 ]
+
+
+#Game No : 499867717
+***** 888poker Hand History for Game 499867717 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 17:24:06
+Table Goiania 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: laschko ( $1 )
+Seat 7: mmonelis ( $1.06 )
+laschko posts small blind [$0.01]
+mmonelis posts big blind [$0.02]
+** Dealing down cards **
+laschko folds
+** Summary **
+mmonelis did not show his hand
+mmonelis collected [ $0.03 ]
+
+
+#Game No : 499867720
+***** 888poker Hand History for Game 499867720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 17:24:12
+Table Goiania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: laschko ( $0.99 )
+Seat 7: mmonelis ( $1.07 )
+mmonelis posts small blind [$0.01]
+laschko posts big blind [$0.02]
+** Dealing down cards **
+mmonelis calls [$0.01]
+laschko checks
+** Dealing flop ** [ As, 5d, 6c ]
+laschko checks
+mmonelis bets [$0.02]
+laschko folds
+** Summary **
+mmonelis did not show his hand
+mmonelis collected [ $0.04 ]
+
+
+#Game No : 499867728
+***** 888poker Hand History for Game 499867728 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 17:24:33
+Table Goiania 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: laschko ( $0.97 )
+Seat 7: mmonelis ( $1.09 )
+laschko posts small blind [$0.01]
+mmonelis posts big blind [$0.02]
+** Dealing down cards **
+laschko folds
+** Summary **
+mmonelis did not show his hand
+mmonelis collected [ $0.03 ]
+
+
+#Game No : 499867732
+***** 888poker Hand History for Game 499867732 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 17:24:38
+Table Goiania 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: laschko ( $0.96 )
+Seat 7: mmonelis ( $1.10 )
+mmonelis posts small blind [$0.01]
+laschko posts big blind [$0.02]
+** Dealing down cards **
+mmonelis raises [$0.03]
+laschko folds
+** Summary **
+mmonelis did not show his hand
+mmonelis collected [ $0.04 ]
+
+
+#Game No : 499868145
+***** 888poker Hand History for Game 499868145 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 17:44:15
+Table Goiania 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: BroGenius ( $1.32 )
+Seat 9: 1onceonce1 ( $0.66 )
+1onceonce1 posts small blind [$0.01]
+BroGenius posts big blind [$0.02]
+** Dealing down cards **
+1onceonce1 folds
+** Summary **
+BroGenius collected [ $0.03 ]
+
+
+#Game No : 499868150
+***** 888poker Hand History for Game 499868150 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 17:44:22
+Table Goiania 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BroGenius ( $1.33 )
+Seat 9: 1onceonce1 ( $0.65 )
+BroGenius posts small blind [$0.01]
+1onceonce1 posts big blind [$0.02]
+** Dealing down cards **
+BroGenius folds
+** Summary **
+1onceonce1 collected [ $0.03 ]
+
+
+#Game No : 499868620
+***** 888poker Hand History for Game 499868620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 07 2018 18:05:58
+Table Goiania 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BroGenius ( $1.18 )
+Seat 7: mmonelis ( $3.89 )
+BroGenius posts small blind [$0.01]
+mmonelis posts big blind [$0.02]
+** Dealing down cards **
+BroGenius raises [$0.06]
+mmonelis raises [$0.10]
+BroGenius calls [$0.05]
+** Dealing flop ** [ 7d, 5d, 7c ]
+mmonelis bets [$0.02]
+BroGenius calls [$0.02]
+** Dealing turn ** [ Qd ]
+mmonelis bets [$0.02]
+BroGenius calls [$0.02]
+** Dealing river ** [ As ]
+mmonelis bets [$0.02]
+BroGenius calls [$0.02]
+** Summary **
+mmonelis shows [ Ts, Kd ]
+BroGenius mucks [ 3d, Jc ]
+mmonelis collected [ $0.34 ]
+
+

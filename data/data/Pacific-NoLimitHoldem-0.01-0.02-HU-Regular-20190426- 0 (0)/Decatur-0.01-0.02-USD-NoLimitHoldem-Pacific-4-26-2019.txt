@@ -1,0 +1,70 @@
+#Game No : 516784582
+***** 888poker Hand History for Game 516784582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 04 2019 00:49:32
+Table Decatur 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.04 )
+Seat 2: Bet4value ( $2 )
+Bet4value posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Bet4value folds
+** Summary **
+avramia1 collected [ $0.03 ]
+
+
+#Game No : 516784586
+***** 888poker Hand History for Game 516784586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 04 2019 00:49:36
+Table Decatur 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $2.05 )
+Seat 2: Bet4value ( $2 )
+avramia1 posts small blind [$0.01]
+Bet4value posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+Bet4value raises [$0.10]
+avramia1 calls [$0.08]
+** Dealing flop ** [ 9c, 5s, 5d ]
+Bet4value bets [$0.12]
+avramia1 calls [$0.12]
+** Dealing turn ** [ 5h ]
+Bet4value checks
+avramia1 bets [$0.32]
+Bet4value calls [$0.32]
+** Dealing river ** [ 7h ]
+Bet4value checks
+avramia1 bets [$0.56]
+Bet4value calls [$0.56]
+** Summary **
+avramia1 shows [ Ts, 9s ]
+Bet4value mucks [ Ah, 7s ]
+avramia1 collected [ $2.10 ]
+
+
+#Game No : 516784645
+***** 888poker Hand History for Game 516784645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 04 2019 00:54:13
+Table Decatur 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Fury2k18 ( $2 )
+Seat 5: janfehse ( $1 )
+janfehse posts small blind [$0.01]
+Fury2k18 posts big blind [$0.02]
+** Dealing down cards **
+janfehse calls [$0.01]
+Fury2k18 checks
+** Dealing flop ** [ 2d, 2s, 5d ]
+Fury2k18 checks
+janfehse checks
+** Dealing turn ** [ Qh ]
+Fury2k18 bets [$0.04]
+janfehse folds
+** Summary **
+Fury2k18 collected [ $0.04 ]
+
+

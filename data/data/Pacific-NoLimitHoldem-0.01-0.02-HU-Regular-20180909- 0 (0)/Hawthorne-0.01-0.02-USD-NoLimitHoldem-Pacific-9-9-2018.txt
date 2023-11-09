@@ -1,0 +1,145 @@
+#Game No : 455238463
+***** 888poker Hand History for Game 455238463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 09 2018 17:19:12
+Table Hawthorne 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: skilledm3n ( $2.07 )
+Seat 9: juneera ( $2.72 )
+skilledm3n posts small blind [$0.01]
+juneera posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n raises [$0.05]
+juneera folds
+** Summary **
+skilledm3n did not show his hand
+skilledm3n collected [ $0.04 ]
+
+
+#Game No : 455238476
+***** 888poker Hand History for Game 455238476 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 09 2018 17:19:26
+Table Hawthorne 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: skilledm3n ( $2.09 )
+Seat 9: juneera ( $2.70 )
+juneera posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+juneera raises [$0.05]
+skilledm3n calls [$0.04]
+** Dealing flop ** [ 2s, 3s, 9c ]
+skilledm3n checks
+juneera bets [$0.06]
+skilledm3n calls [$0.06]
+** Dealing turn ** [ Ac ]
+skilledm3n checks
+juneera bets [$0.14]
+skilledm3n calls [$0.14]
+** Dealing river ** [ Jd ]
+skilledm3n checks
+juneera checks
+** Summary **
+skilledm3n shows [ 6s, Ts ]
+juneera shows [ As, 5h ]
+juneera collected [ $0.49 ]
+
+
+#Game No : 455238511
+***** 888poker Hand History for Game 455238511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 09 2018 17:20:37
+Table Hawthorne 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: skilledm3n ( $2 )
+Seat 9: juneera ( $2.93 )
+skilledm3n posts small blind [$0.01]
+juneera posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n raises [$0.05]
+juneera folds
+** Summary **
+skilledm3n did not show his hand
+skilledm3n collected [ $0.04 ]
+
+
+#Game No : 455238524
+***** 888poker Hand History for Game 455238524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 09 2018 17:20:53
+Table Hawthorne 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: skilledm3n ( $2.02 )
+Seat 9: juneera ( $2.91 )
+juneera posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+juneera raises [$0.05]
+skilledm3n folds
+** Summary **
+juneera did not show his hand
+juneera collected [ $0.04 ]
+
+
+#Game No : 455238534
+***** 888poker Hand History for Game 455238534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 09 2018 17:21:10
+Table Hawthorne 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: skilledm3n ( $2 )
+Seat 9: juneera ( $2.93 )
+skilledm3n posts small blind [$0.01]
+juneera posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n folds
+** Summary **
+juneera collected [ $0.03 ]
+
+
+#Game No : 455238539
+***** 888poker Hand History for Game 455238539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 09 2018 17:21:21
+Table Hawthorne 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: skilledm3n ( $2 )
+Seat 9: juneera ( $2.94 )
+juneera posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+juneera folds
+** Summary **
+skilledm3n collected [ $0.03 ]
+
+
+#Game No : 455238667
+***** 888poker Hand History for Game 455238667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 09 2018 17:25:07
+Table Hawthorne 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: QueenHash ( $0.60 )
+Seat 9: juneera ( $2.69 )
+juneera posts small blind [$0.01]
+QueenHash posts big blind [$0.02]
+** Dealing down cards **
+juneera raises [$0.05]
+QueenHash raises [$0.08]
+juneera calls [$0.04]
+** Dealing flop ** [ 4d, 3d, 7d ]
+QueenHash bets [$0.20]
+juneera calls [$0.20]
+** Dealing turn ** [ Td ]
+QueenHash bets [$0.02]
+juneera calls [$0.02]
+** Dealing river ** [ 3s ]
+QueenHash bets [$0.28]
+juneera calls [$0.28]
+** Summary **
+QueenHash shows [ 7h, 7s ]
+juneera shows [ Ad, 9c ]
+QueenHash collected [ $1.13 ]
+
+

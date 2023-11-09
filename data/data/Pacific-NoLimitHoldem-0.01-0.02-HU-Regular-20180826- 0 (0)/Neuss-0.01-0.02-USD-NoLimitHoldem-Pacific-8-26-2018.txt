@@ -1,0 +1,87 @@
+#Game No : 509600380
+***** 888poker Hand History for Game 509600380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 02:01:24
+Table Neuss 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AlexUr11 ( $0.78 )
+Seat 2: eddio11 ( $0.82 )
+eddio11 posts small blind [$0.01]
+AlexUr11 posts big blind [$0.02]
+** Dealing down cards **
+eddio11 calls [$0.01]
+AlexUr11 checks
+** Dealing flop ** [ 4c, Qh, Th ]
+AlexUr11 checks
+eddio11 bets [$0.02]
+AlexUr11 calls [$0.02]
+** Dealing turn ** [ 3c ]
+AlexUr11 checks
+eddio11 checks
+** Dealing river ** [ Tc ]
+AlexUr11 checks
+eddio11 checks
+** Summary **
+AlexUr11 shows [ 3d, Ad ]
+eddio11 mucks [ 6d, Ah ]
+AlexUr11 collected [ $0.08 ]
+
+
+#Game No : 509600406
+***** 888poker Hand History for Game 509600406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 02:01:46
+Table Neuss 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AlexUr11 ( $0.82 )
+Seat 2: eddio11 ( $0.78 )
+AlexUr11 posts small blind [$0.01]
+eddio11 posts big blind [$0.02]
+** Dealing down cards **
+AlexUr11 calls [$0.01]
+eddio11 checks
+** Dealing flop ** [ 5c, 3d, Qd ]
+eddio11 bets [$0.02]
+AlexUr11 calls [$0.02]
+** Dealing turn ** [ Ah ]
+eddio11 bets [$0.02]
+AlexUr11 calls [$0.02]
+** Dealing river ** [ Qs ]
+eddio11 bets [$0.02]
+AlexUr11 calls [$0.02]
+** Summary **
+eddio11 shows [ 2d, 5h ]
+AlexUr11 mucks [ 3c, 7c ]
+eddio11 collected [ $0.15 ]
+
+
+#Game No : 509600429
+***** 888poker Hand History for Game 509600429 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 02:02:08
+Table Neuss 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AlexUr11 ( $0.74 )
+Seat 2: eddio11 ( $0.85 )
+eddio11 posts small blind [$0.01]
+AlexUr11 posts big blind [$0.02]
+** Dealing down cards **
+eddio11 calls [$0.01]
+AlexUr11 checks
+** Dealing flop ** [ 4c, 7c, Kd ]
+AlexUr11 checks
+eddio11 bets [$0.02]
+AlexUr11 calls [$0.02]
+** Dealing turn ** [ 4d ]
+AlexUr11 checks
+eddio11 bets [$0.02]
+AlexUr11 calls [$0.02]
+** Dealing river ** [ 3h ]
+AlexUr11 bets [$0.04]
+eddio11 calls [$0.04]
+** Summary **
+AlexUr11 shows [ Ks, 2h ]
+eddio11 mucks [ 6c, 7d ]
+AlexUr11 collected [ $0.19 ]
+
+

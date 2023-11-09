@@ -1,0 +1,122 @@
+#Game No : 515828782
+***** 888poker Hand History for Game 515828782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 18:42:54
+Table Belgorod 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: jchen210 ( $2.08 )
+Seat 10: Go_Vegan14 ( $0.58 )
+Go_Vegan14 posts small blind [$0.01]
+jchen210 posts big blind [$0.02]
+** Dealing down cards **
+Go_Vegan14 calls [$0.01]
+jchen210 checks
+** Dealing flop ** [ 3d, Kd, 9d ]
+jchen210 checks
+Go_Vegan14 bets [$0.02]
+jchen210 calls [$0.02]
+** Dealing turn ** [ 8d ]
+jchen210 checks
+Go_Vegan14 checks
+** Dealing river ** [ Js ]
+jchen210 checks
+Go_Vegan14 bets [$0.05]
+jchen210 calls [$0.05]
+** Summary **
+Go_Vegan14 shows [ 9s, Jh ]
+jchen210 shows [ 5d, 9h ]
+jchen210 collected [ $0.17 ]
+
+
+#Game No : 515828796
+***** 888poker Hand History for Game 515828796 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 18:43:43
+Table Belgorod 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: jchen210 ( $2.16 )
+Seat 10: Go_Vegan14 ( $0.49 )
+jchen210 posts small blind [$0.01]
+Go_Vegan14 posts big blind [$0.02]
+** Dealing down cards **
+jchen210 raises [$0.05]
+Go_Vegan14 calls [$0.04]
+** Dealing flop ** [ Ad, 4s, 3h ]
+Go_Vegan14 bets [$0.06]
+jchen210 folds
+** Summary **
+Go_Vegan14 did not show his hand
+Go_Vegan14 collected [ $0.12 ]
+
+
+#Game No : 515828800
+***** 888poker Hand History for Game 515828800 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 18:44:02
+Table Belgorod 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: jchen210 ( $2.10 )
+Seat 10: Go_Vegan14 ( $0.55 )
+Go_Vegan14 posts small blind [$0.01]
+jchen210 posts big blind [$0.02]
+** Dealing down cards **
+Go_Vegan14 calls [$0.01]
+jchen210 checks
+** Dealing flop ** [ Jh, 3d, 7d ]
+jchen210 checks
+Go_Vegan14 checks
+** Dealing turn ** [ Ts ]
+jchen210 checks
+Go_Vegan14 checks
+** Dealing river ** [ 5c ]
+jchen210 checks
+Go_Vegan14 checks
+** Summary **
+jchen210 shows [ 2c, 9d ]
+Go_Vegan14 mucks [ 4h, 2h ]
+jchen210 collected [ $0.04 ]
+
+
+#Game No : 515828810
+***** 888poker Hand History for Game 515828810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 18:44:30
+Table Belgorod 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: jchen210 ( $2.12 )
+Seat 10: Go_Vegan14 ( $0.53 )
+jchen210 posts small blind [$0.01]
+Go_Vegan14 posts big blind [$0.02]
+** Dealing down cards **
+jchen210 raises [$0.05]
+Go_Vegan14 folds
+** Summary **
+jchen210 did not show his hand
+jchen210 collected [ $0.04 ]
+
+
+#Game No : 515828814
+***** 888poker Hand History for Game 515828814 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 04 2019 18:44:45
+Table Belgorod 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: jchen210 ( $2.14 )
+Seat 10: Go_Vegan14 ( $0.51 )
+Go_Vegan14 posts small blind [$0.01]
+jchen210 posts big blind [$0.02]
+** Dealing down cards **
+Go_Vegan14 calls [$0.01]
+jchen210 raises [$0.04]
+Go_Vegan14 raises [$0.16]
+jchen210 raises [$2.08]
+Go_Vegan14 calls [$0.33]
+** Dealing flop ** [ 4d, Qc, Qd ]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ Ah ]
+** Summary **
+jchen210 shows [ Ts, Td ]
+Go_Vegan14 shows [ 7h, 7d ]
+jchen210 collected [ $0.96 ]
+
+

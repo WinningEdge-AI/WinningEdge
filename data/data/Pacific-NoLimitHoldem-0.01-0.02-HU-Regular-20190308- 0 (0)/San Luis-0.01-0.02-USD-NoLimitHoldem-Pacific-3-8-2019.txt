@@ -1,0 +1,1220 @@
+#Game No : 526077220
+***** 888poker Hand History for Game 526077220 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 04:51:52
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Barnsley40 ( $1.18 )
+Seat 7: T_Dark ( $1.09 )
+T_Dark posts small blind [$0.01]
+Barnsley40 posts big blind [$0.02]
+** Dealing down cards **
+T_Dark calls [$0.01]
+Barnsley40 checks
+** Dealing flop ** [ 7h, 9h, Td ]
+Barnsley40 checks
+T_Dark checks
+** Dealing turn ** [ 7c ]
+Barnsley40 checks
+T_Dark checks
+** Dealing river ** [ Qc ]
+Barnsley40 checks
+T_Dark checks
+** Summary **
+Barnsley40 shows [ 5c, 8h ]
+T_Dark shows [ Ac, 4c ]
+T_Dark collected [ $0.04 ]
+
+
+#Game No : 526077249
+***** 888poker Hand History for Game 526077249 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 04:52:35
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Barnsley40 ( $1.16 )
+Seat 7: T_Dark ( $1.11 )
+Barnsley40 posts small blind [$0.01]
+T_Dark posts big blind [$0.02]
+** Dealing down cards **
+Barnsley40 folds
+** Summary **
+T_Dark collected [ $0.03 ]
+
+
+#Game No : 526087688
+***** 888poker Hand History for Game 526087688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 07:44:18
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: algrud ( $1.34 )
+Seat 6: r0me00 ( $1.01 )
+algrud posts small blind [$0.01]
+r0me00 posts big blind [$0.02]
+** Dealing down cards **
+algrud folds
+** Summary **
+r0me00 collected [ $0.03 ]
+
+
+#Game No : 526087698
+***** 888poker Hand History for Game 526087698 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 07:44:24
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: algrud ( $1.33 )
+Seat 6: r0me00 ( $1.02 )
+r0me00 posts small blind [$0.01]
+algrud posts big blind [$0.02]
+** Dealing down cards **
+r0me00 raises [$0.03]
+algrud folds
+** Summary **
+r0me00 collected [ $0.04 ]
+
+
+#Game No : 526087714
+***** 888poker Hand History for Game 526087714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 07:44:33
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: algrud ( $1.31 )
+Seat 6: r0me00 ( $1.04 )
+algrud posts small blind [$0.01]
+** Dealing down cards **
+r0me00 folds
+** Summary **
+algrud collected [ $0.01 ]
+
+
+#Game No : 526087744
+***** 888poker Hand History for Game 526087744 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 07:45:01
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: algrud ( $1.31 )
+Seat 7: Paulfilip85 ( $0.80 )
+algrud posts small blind [$0.01]
+Paulfilip85 posts big blind [$0.02]
+** Dealing down cards **
+algrud raises [$0.03]
+Paulfilip85 calls [$0.02]
+** Dealing flop ** [ 4c, 6d, Ac ]
+Paulfilip85 bets [$0.02]
+algrud raises [$0.06]
+Paulfilip85 calls [$0.04]
+** Dealing turn ** [ 3d ]
+Paulfilip85 checks
+algrud bets [$0.10]
+Paulfilip85 folds
+** Summary **
+algrud collected [ $0.19 ]
+
+
+#Game No : 526087778
+***** 888poker Hand History for Game 526087778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 07:45:31
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: algrud ( $1.40 )
+Seat 7: Paulfilip85 ( $0.70 )
+Paulfilip85 posts small blind [$0.01]
+algrud posts big blind [$0.02]
+** Dealing down cards **
+Paulfilip85 calls [$0.01]
+algrud checks
+** Dealing flop ** [ 5d, 5c, Ah ]
+algrud checks
+Paulfilip85 checks
+** Dealing turn ** [ 4h ]
+algrud bets [$0.02]
+Paulfilip85 folds
+** Summary **
+algrud did not show his hand
+algrud collected [ $0.04 ]
+
+
+#Game No : 526087797
+***** 888poker Hand History for Game 526087797 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 07:45:51
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: algrud ( $1.42 )
+Seat 7: Paulfilip85 ( $0.68 )
+algrud posts small blind [$0.01]
+Paulfilip85 posts big blind [$0.02]
+** Dealing down cards **
+algrud raises [$0.03]
+Paulfilip85 calls [$0.02]
+** Dealing flop ** [ 2h, 9h, 7c ]
+Paulfilip85 checks
+algrud checks
+** Dealing turn ** [ 3d ]
+Paulfilip85 bets [$0.02]
+algrud calls [$0.02]
+** Dealing river ** [ 6c ]
+Paulfilip85 bets [$0.06]
+algrud folds
+** Summary **
+Paulfilip85 collected [ $0.12 ]
+
+
+#Game No : 526087834
+***** 888poker Hand History for Game 526087834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 07:46:17
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: algrud ( $1.36 )
+Seat 7: Paulfilip85 ( $0.74 )
+Paulfilip85 posts small blind [$0.01]
+algrud posts big blind [$0.02]
+** Dealing down cards **
+Paulfilip85 calls [$0.01]
+algrud checks
+** Dealing flop ** [ 9s, 3h, 4s ]
+algrud bets [$0.02]
+Paulfilip85 calls [$0.02]
+** Dealing turn ** [ 5s ]
+algrud checks
+Paulfilip85 checks
+** Dealing river ** [ 8d ]
+algrud checks
+Paulfilip85 checks
+** Summary **
+algrud shows [ 3d, Jd ]
+Paulfilip85 mucks [ Th, Ad ]
+algrud collected [ $0.08 ]
+
+
+#Game No : 526092291
+***** 888poker Hand History for Game 526092291 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:54:22
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: aequitas1984 ( $1.01 )
+Seat 9: alex77lisov ( $1.78 )
+alex77lisov posts small blind [$0.01]
+aequitas1984 posts big blind [$0.02]
+** Dealing down cards **
+alex77lisov folds
+** Summary **
+aequitas1984 collected [ $0.03 ]
+
+
+#Game No : 526092298
+***** 888poker Hand History for Game 526092298 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:54:28
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: aequitas1984 ( $1.02 )
+Seat 9: alex77lisov ( $1.77 )
+aequitas1984 posts small blind [$0.01]
+** Dealing down cards **
+alex77lisov folds
+** Summary **
+aequitas1984 collected [ $0.01 ]
+
+
+#Game No : 526092402
+***** 888poker Hand History for Game 526092402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:55:56
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1 )
+Seat 4: CownDownGuy ( $1 )
+CownDownGuy posts small blind [$0.01]
+piduzera posts big blind [$0.02]
+** Dealing down cards **
+CownDownGuy folds
+** Summary **
+piduzera collected [ $0.03 ]
+
+
+#Game No : 526092410
+***** 888poker Hand History for Game 526092410 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:56:04
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.01 )
+Seat 4: CownDownGuy ( $1 )
+piduzera posts small blind [$0.01]
+CownDownGuy posts big blind [$0.02]
+** Dealing down cards **
+piduzera calls [$0.01]
+CownDownGuy checks
+** Dealing flop ** [ 2h, 8d, 7d ]
+CownDownGuy checks
+piduzera checks
+** Dealing turn ** [ 4h ]
+CownDownGuy bets [$0.02]
+piduzera folds
+** Summary **
+CownDownGuy collected [ $0.04 ]
+
+
+#Game No : 526092452
+***** 888poker Hand History for Game 526092452 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:56:34
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: piduzera ( $0.99 )
+Seat 4: CownDownGuy ( $1.02 )
+CownDownGuy posts small blind [$0.01]
+piduzera posts big blind [$0.02]
+** Dealing down cards **
+CownDownGuy raises [$0.05]
+piduzera calls [$0.04]
+** Dealing flop ** [ 3d, As, Ts ]
+piduzera checks
+CownDownGuy checks
+** Dealing turn ** [ 9h ]
+piduzera checks
+CownDownGuy checks
+** Dealing river ** [ 7d ]
+piduzera bets [$0.06]
+CownDownGuy folds
+** Summary **
+piduzera collected [ $0.12 ]
+
+
+#Game No : 526092507
+***** 888poker Hand History for Game 526092507 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:57:24
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.05 )
+Seat 6: EMAFULL ( $1.01 )
+EMAFULL posts small blind [$0.01]
+piduzera posts big blind [$0.02]
+** Dealing down cards **
+EMAFULL folds
+** Summary **
+piduzera collected [ $0.03 ]
+
+
+#Game No : 526092586
+***** 888poker Hand History for Game 526092586 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:58:29
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.06 )
+Seat 4: adriano330 ( $1 )
+piduzera posts small blind [$0.01]
+adriano330 posts big blind [$0.02]
+** Dealing down cards **
+piduzera folds
+** Summary **
+adriano330 collected [ $0.03 ]
+
+
+#Game No : 526092601
+***** 888poker Hand History for Game 526092601 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:58:41
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.05 )
+Seat 4: adriano330 ( $1.01 )
+adriano330 posts small blind [$0.01]
+piduzera posts big blind [$0.02]
+** Dealing down cards **
+adriano330 calls [$0.01]
+piduzera checks
+** Dealing flop ** [ 3c, 4s, Qc ]
+piduzera checks
+adriano330 checks
+** Dealing turn ** [ Th ]
+piduzera checks
+adriano330 checks
+** Dealing river ** [ Kd ]
+piduzera bets [$0.06]
+adriano330 folds
+** Summary **
+piduzera collected [ $0.04 ]
+
+
+#Game No : 526092645
+***** 888poker Hand History for Game 526092645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:59:13
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.07 )
+Seat 9: lrv1974 ( $1 )
+lrv1974 posts small blind [$0.01]
+piduzera posts big blind [$0.02]
+** Dealing down cards **
+lrv1974 folds
+** Summary **
+piduzera collected [ $0.03 ]
+
+
+#Game No : 526092649
+***** 888poker Hand History for Game 526092649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:59:19
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.08 )
+Seat 9: lrv1974 ( $1 )
+lrv1974 posts small blind [$0.01]
+piduzera posts big blind [$0.02]
+** Dealing down cards **
+lrv1974 folds
+** Summary **
+piduzera collected [ $0.03 ]
+
+
+#Game No : 526092673
+***** 888poker Hand History for Game 526092673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 08:59:39
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.09 )
+Seat 9: lrv1974 ( $1 )
+piduzera posts small blind [$0.01]
+lrv1974 posts big blind [$0.02]
+** Dealing down cards **
+piduzera calls [$0.01]
+lrv1974 checks
+** Dealing flop ** [ Tc, 2s, Qs ]
+lrv1974 checks
+piduzera checks
+** Dealing turn ** [ Jc ]
+lrv1974 checks
+piduzera checks
+** Dealing river ** [ Kd ]
+lrv1974 checks
+piduzera bets [$0.06]
+lrv1974 folds
+** Summary **
+piduzera collected [ $0.04 ]
+
+
+#Game No : 526092741
+***** 888poker Hand History for Game 526092741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:00:38
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.11 )
+Seat 9: lrv1974 ( $1 )
+lrv1974 posts small blind [$0.01]
+piduzera posts big blind [$0.02]
+** Dealing down cards **
+lrv1974 raises [$0.05]
+piduzera folds
+** Summary **
+lrv1974 collected [ $0.04 ]
+
+
+#Game No : 526092750
+***** 888poker Hand History for Game 526092750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:00:47
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.09 )
+Seat 9: lrv1974 ( $1.02 )
+piduzera posts small blind [$0.01]
+lrv1974 posts big blind [$0.02]
+** Dealing down cards **
+piduzera calls [$0.01]
+lrv1974 checks
+** Dealing flop ** [ 9h, 3c, 7c ]
+lrv1974 checks
+piduzera checks
+** Dealing turn ** [ Jc ]
+lrv1974 checks
+piduzera checks
+** Dealing river ** [ 8d ]
+lrv1974 checks
+piduzera bets [$0.06]
+lrv1974 folds
+** Summary **
+piduzera collected [ $0.04 ]
+
+
+#Game No : 526092785
+***** 888poker Hand History for Game 526092785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:01:18
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.11 )
+Seat 9: lrv1974 ( $1 )
+lrv1974 posts small blind [$0.01]
+piduzera posts big blind [$0.02]
+** Dealing down cards **
+lrv1974 folds
+** Summary **
+piduzera collected [ $0.03 ]
+
+
+#Game No : 526092794
+***** 888poker Hand History for Game 526092794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:01:25
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: piduzera ( $1.12 )
+Seat 9: lrv1974 ( $1 )
+piduzera posts small blind [$0.01]
+lrv1974 posts big blind [$0.02]
+** Dealing down cards **
+piduzera calls [$0.01]
+lrv1974 checks
+** Dealing flop ** [ 9h, 2c, 8c ]
+lrv1974 checks
+piduzera checks
+** Dealing turn ** [ As ]
+lrv1974 checks
+piduzera checks
+** Dealing river ** [ Kh ]
+lrv1974 checks
+piduzera bets [$0.06]
+lrv1974 folds
+** Summary **
+piduzera collected [ $0.04 ]
+
+
+#Game No : 526094634
+***** 888poker Hand History for Game 526094634 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:28:41
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: aklinaak ( $2.67 )
+Seat 9: lrv1974 ( $1.03 )
+aklinaak posts small blind [$0.01]
+lrv1974 posts big blind [$0.02]
+** Dealing down cards **
+aklinaak raises [$0.05]
+lrv1974 folds
+** Summary **
+aklinaak collected [ $0.04 ]
+
+
+#Game No : 526094645
+***** 888poker Hand History for Game 526094645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:28:49
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: aklinaak ( $2.69 )
+Seat 9: lrv1974 ( $1.01 )
+lrv1974 posts small blind [$0.01]
+aklinaak posts big blind [$0.02]
+** Dealing down cards **
+lrv1974 folds
+** Summary **
+aklinaak collected [ $0.03 ]
+
+
+#Game No : 526094650
+***** 888poker Hand History for Game 526094650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:28:54
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: aklinaak ( $2.70 )
+Seat 9: lrv1974 ( $1 )
+aklinaak posts small blind [$0.01]
+lrv1974 posts big blind [$0.02]
+** Dealing down cards **
+aklinaak raises [$0.05]
+lrv1974 folds
+** Summary **
+aklinaak collected [ $0.04 ]
+
+
+#Game No : 526094727
+***** 888poker Hand History for Game 526094727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:29:56
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: KRIKRY80 ( $1 )
+Seat 6: samspooner ( $0.80 )
+KRIKRY80 posts small blind [$0.01]
+samspooner posts big blind [$0.02]
+** Dealing down cards **
+KRIKRY80 folds
+** Summary **
+samspooner collected [ $0.03 ]
+
+
+#Game No : 526094733
+***** 888poker Hand History for Game 526094733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:30:03
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: KRIKRY80 ( $0.99 )
+Seat 6: samspooner ( $0.81 )
+samspooner posts small blind [$0.01]
+KRIKRY80 posts big blind [$0.02]
+** Dealing down cards **
+samspooner calls [$0.01]
+KRIKRY80 raises [$0.02]
+samspooner calls [$0.02]
+** Dealing flop ** [ 5h, 9c, Ac ]
+KRIKRY80 bets [$0.04]
+samspooner raises [$0.40]
+KRIKRY80 folds
+** Summary **
+samspooner collected [ $0.15 ]
+
+
+#Game No : 526094830
+***** 888poker Hand History for Game 526094830 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:31:13
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.79 )
+Seat 4: KRIKRY80 ( $0.89 )
+kochkata7807 posts small blind [$0.01]
+KRIKRY80 posts big blind [$0.02]
+** Dealing down cards **
+kochkata7807 raises [$0.03]
+KRIKRY80 folds
+** Summary **
+kochkata7807 collected [ $0.04 ]
+
+
+#Game No : 526094841
+***** 888poker Hand History for Game 526094841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:31:21
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.81 )
+Seat 4: KRIKRY80 ( $0.87 )
+KRIKRY80 posts small blind [$0.01]
+kochkata7807 posts big blind [$0.02]
+** Dealing down cards **
+KRIKRY80 raises [$0.03]
+kochkata7807 calls [$0.02]
+** Dealing flop ** [ Js, Jd, 4d ]
+kochkata7807 bets [$0.02]
+KRIKRY80 raises [$0.08]
+kochkata7807 calls [$0.06]
+** Dealing turn ** [ 4s ]
+kochkata7807 checks
+KRIKRY80 checks
+** Dealing river ** [ 4h ]
+kochkata7807 bets [$1.69]
+KRIKRY80 folds
+** Summary **
+kochkata7807 collected [ $0.23 ]
+
+
+#Game No : 526094897
+***** 888poker Hand History for Game 526094897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:32:03
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.92 )
+Seat 4: KRIKRY80 ( $0.75 )
+kochkata7807 posts small blind [$0.01]
+KRIKRY80 posts big blind [$0.02]
+** Dealing down cards **
+kochkata7807 calls [$0.01]
+KRIKRY80 checks
+** Dealing flop ** [ 6s, 2d, 2h ]
+KRIKRY80 checks
+kochkata7807 checks
+** Dealing turn ** [ 7s ]
+KRIKRY80 bets [$0.02]
+kochkata7807 folds
+** Summary **
+KRIKRY80 collected [ $0.04 ]
+
+
+#Game No : 526094939
+***** 888poker Hand History for Game 526094939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:32:28
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.90 )
+Seat 4: KRIKRY80 ( $0.77 )
+KRIKRY80 posts small blind [$0.01]
+kochkata7807 posts big blind [$0.02]
+** Dealing down cards **
+KRIKRY80 raises [$0.03]
+kochkata7807 calls [$0.02]
+** Dealing flop ** [ 7c, 9s, 7s ]
+kochkata7807 bets [$0.02]
+KRIKRY80 calls [$0.02]
+** Dealing turn ** [ Kd ]
+kochkata7807 checks
+KRIKRY80 bets [$0.06]
+kochkata7807 folds
+** Summary **
+KRIKRY80 collected [ $0.12 ]
+
+
+#Game No : 526094964
+***** 888poker Hand History for Game 526094964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:32:49
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.84 )
+Seat 4: KRIKRY80 ( $0.83 )
+kochkata7807 posts small blind [$0.01]
+KRIKRY80 posts big blind [$0.02]
+** Dealing down cards **
+kochkata7807 calls [$0.01]
+KRIKRY80 checks
+** Dealing flop ** [ 6c, Ah, 3h ]
+KRIKRY80 checks
+kochkata7807 checks
+** Dealing turn ** [ Kc ]
+KRIKRY80 bets [$0.02]
+kochkata7807 calls [$0.02]
+** Dealing river ** [ As ]
+KRIKRY80 bets [$0.04]
+kochkata7807 calls [$0.04]
+** Summary **
+KRIKRY80 shows [ Ks, 6d ]
+kochkata7807 shows [ Ts, Kh ]
+kochkata7807 collected [ $0.15 ]
+
+
+#Game No : 526094997
+***** 888poker Hand History for Game 526094997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:33:19
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.91 )
+Seat 4: KRIKRY80 ( $0.75 )
+KRIKRY80 posts small blind [$0.01]
+kochkata7807 posts big blind [$0.02]
+** Dealing down cards **
+KRIKRY80 folds
+** Summary **
+kochkata7807 collected [ $0.03 ]
+
+
+#Game No : 526095007
+***** 888poker Hand History for Game 526095007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:33:24
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.92 )
+Seat 4: KRIKRY80 ( $0.74 )
+kochkata7807 posts small blind [$0.01]
+KRIKRY80 posts big blind [$0.02]
+** Dealing down cards **
+kochkata7807 calls [$0.01]
+KRIKRY80 checks
+** Dealing flop ** [ 8c, Th, Td ]
+KRIKRY80 bets [$0.02]
+kochkata7807 raises [$0.04]
+KRIKRY80 calls [$0.02]
+** Dealing turn ** [ Jc ]
+KRIKRY80 checks
+kochkata7807 checks
+** Dealing river ** [ Qc ]
+KRIKRY80 bets [$0.06]
+kochkata7807 calls [$0.06]
+** Summary **
+KRIKRY80 shows [ 3s, Tc ]
+kochkata7807 mucks [ Jh, Qh ]
+KRIKRY80 collected [ $0.23 ]
+
+
+#Game No : 526095055
+***** 888poker Hand History for Game 526095055 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:33:57
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.80 )
+Seat 4: KRIKRY80 ( $0.85 )
+KRIKRY80 posts small blind [$0.01]
+kochkata7807 posts big blind [$0.02]
+** Dealing down cards **
+KRIKRY80 folds
+** Summary **
+kochkata7807 collected [ $0.03 ]
+
+
+#Game No : 526095135
+***** 888poker Hand History for Game 526095135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:35:00
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.93 )
+Seat 7: LipaVit ( $1 )
+LipaVit posts small blind [$0.01]
+kochkata7807 posts big blind [$0.02]
+** Dealing down cards **
+LipaVit folds
+** Summary **
+kochkata7807 collected [ $0.03 ]
+
+
+#Game No : 526095142
+***** 888poker Hand History for Game 526095142 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:35:06
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.94 )
+Seat 7: LipaVit ( $1 )
+kochkata7807 posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+kochkata7807 calls [$0.01]
+LipaVit checks
+** Dealing flop ** [ 3d, 4h, Ad ]
+LipaVit checks
+kochkata7807 bets [$0.02]
+LipaVit folds
+** Summary **
+kochkata7807 collected [ $0.04 ]
+
+
+#Game No : 526095159
+***** 888poker Hand History for Game 526095159 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:35:22
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.96 )
+Seat 7: LipaVit ( $1 )
+LipaVit posts small blind [$0.01]
+kochkata7807 posts big blind [$0.02]
+** Dealing down cards **
+LipaVit raises [$0.05]
+kochkata7807 calls [$0.04]
+** Dealing flop ** [ 5h, Jh, Qs ]
+kochkata7807 bets [$0.06]
+LipaVit calls [$0.06]
+** Dealing turn ** [ 9d ]
+kochkata7807 bets [$1.84]
+LipaVit folds
+** Summary **
+kochkata7807 collected [ $0.23 ]
+
+
+#Game No : 526095220
+***** 888poker Hand History for Game 526095220 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:36:02
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $2.07 )
+Seat 7: LipaVit ( $1 )
+kochkata7807 posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+kochkata7807 folds
+** Summary **
+LipaVit collected [ $0.03 ]
+
+
+#Game No : 526095230
+***** 888poker Hand History for Game 526095230 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:36:12
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $2.06 )
+Seat 7: LipaVit ( $1.01 )
+LipaVit posts small blind [$0.01]
+kochkata7807 posts big blind [$0.02]
+** Dealing down cards **
+LipaVit calls [$0.01]
+kochkata7807 raises [$0.04]
+LipaVit folds
+** Summary **
+kochkata7807 collected [ $0.04 ]
+
+
+#Game No : 526095239
+***** 888poker Hand History for Game 526095239 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:36:22
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $2.08 )
+Seat 7: LipaVit ( $1 )
+kochkata7807 posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+kochkata7807 calls [$0.01]
+LipaVit raises [$0.06]
+kochkata7807 calls [$0.06]
+** Dealing flop ** [ Kd, 2h, 7c ]
+LipaVit bets [$0.08]
+kochkata7807 folds
+** Summary **
+LipaVit collected [ $0.15 ]
+
+
+#Game No : 526095285
+***** 888poker Hand History for Game 526095285 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:36:57
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $2 )
+Seat 7: LipaVit ( $1.07 )
+LipaVit posts small blind [$0.01]
+kochkata7807 posts big blind [$0.02]
+** Dealing down cards **
+LipaVit folds
+** Summary **
+kochkata7807 collected [ $0.03 ]
+
+
+#Game No : 526095377
+***** 888poker Hand History for Game 526095377 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:38:04
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.03 )
+Seat 7: LipaVit ( $1.04 )
+kochkata7807 posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+kochkata7807 calls [$0.01]
+LipaVit checks
+** Dealing flop ** [ 5s, 8c, Jc ]
+LipaVit checks
+kochkata7807 checks
+** Dealing turn ** [ Jh ]
+LipaVit checks
+kochkata7807 checks
+** Dealing river ** [ 7s ]
+LipaVit checks
+kochkata7807 checks
+** Summary **
+LipaVit shows [ 3s, 4h ]
+kochkata7807 shows [ Td, 2c ]
+kochkata7807 collected [ $0.04 ]
+
+
+#Game No : 526095416
+***** 888poker Hand History for Game 526095416 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:38:35
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: kochkata7807 ( $1.05 )
+Seat 7: LipaVit ( $1.02 )
+LipaVit posts small blind [$0.01]
+kochkata7807 posts big blind [$0.02]
+** Dealing down cards **
+LipaVit folds
+** Summary **
+kochkata7807 collected [ $0.03 ]
+
+
+#Game No : 526095552
+***** 888poker Hand History for Game 526095552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:40:11
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: LipaVit ( $1.27 )
+Seat 9: JACKHIGHJO ( $1.61 )
+LipaVit posts small blind [$0.01]
+JACKHIGHJO posts big blind [$0.02]
+** Dealing down cards **
+LipaVit raises [$0.05]
+JACKHIGHJO calls [$0.04]
+** Dealing flop ** [ Jd, 3h, 2h ]
+JACKHIGHJO checks
+LipaVit bets [$0.08]
+JACKHIGHJO calls [$0.08]
+** Dealing turn ** [ 9h ]
+JACKHIGHJO checks
+LipaVit checks
+** Dealing river ** [ 2c ]
+JACKHIGHJO bets [$0.28]
+LipaVit folds
+** Summary **
+JACKHIGHJO collected [ $0.27 ]
+
+
+#Game No : 526095669
+***** 888poker Hand History for Game 526095669 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:41:35
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: LipaVit ( $1.13 )
+Seat 9: JACKHIGHJO ( $1.74 )
+JACKHIGHJO posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+JACKHIGHJO calls [$0.01]
+LipaVit checks
+** Dealing flop ** [ Qs, Qh, Jc ]
+LipaVit checks
+JACKHIGHJO bets [$0.02]
+LipaVit folds
+** Summary **
+JACKHIGHJO collected [ $0.04 ]
+
+
+#Game No : 526095733
+***** 888poker Hand History for Game 526095733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:42:14
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: LipaVit ( $1.11 )
+Seat 9: JACKHIGHJO ( $1.76 )
+LipaVit posts small blind [$0.01]
+JACKHIGHJO posts big blind [$0.02]
+** Dealing down cards **
+LipaVit folds
+** Summary **
+JACKHIGHJO collected [ $0.03 ]
+
+
+#Game No : 526095740
+***** 888poker Hand History for Game 526095740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:42:20
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: LipaVit ( $1.10 )
+Seat 9: JACKHIGHJO ( $1.77 )
+JACKHIGHJO posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+JACKHIGHJO raises [$0.05]
+LipaVit calls [$0.04]
+** Dealing flop ** [ 4d, Th, 3d ]
+LipaVit checks
+JACKHIGHJO bets [$0.02]
+LipaVit calls [$0.02]
+** Dealing turn ** [ Kc ]
+LipaVit checks
+JACKHIGHJO bets [$0.02]
+LipaVit calls [$0.02]
+** Dealing river ** [ 3c ]
+LipaVit bets [$0.06]
+JACKHIGHJO calls [$0.06]
+** Summary **
+LipaVit shows [ Ac, 4c ]
+JACKHIGHJO mucks [ Ad, Qc ]
+LipaVit collected [ $0.30 ]
+
+
+#Game No : 526095775
+***** 888poker Hand History for Game 526095775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:42:54
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: LipaVit ( $1.24 )
+Seat 9: JACKHIGHJO ( $1.61 )
+LipaVit posts small blind [$0.01]
+JACKHIGHJO posts big blind [$0.02]
+** Dealing down cards **
+LipaVit folds
+** Summary **
+JACKHIGHJO collected [ $0.03 ]
+
+
+#Game No : 526095782
+***** 888poker Hand History for Game 526095782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:42:59
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: LipaVit ( $1.23 )
+Seat 9: JACKHIGHJO ( $1.62 )
+JACKHIGHJO posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+JACKHIGHJO calls [$0.01]
+LipaVit checks
+** Dealing flop ** [ Qs, 6s, 8d ]
+LipaVit checks
+JACKHIGHJO checks
+** Dealing turn ** [ Ad ]
+LipaVit checks
+JACKHIGHJO bets [$0.04]
+LipaVit folds
+** Summary **
+JACKHIGHJO collected [ $0.04 ]
+
+
+#Game No : 526095898
+***** 888poker Hand History for Game 526095898 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:44:18
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: LipaVit ( $1.50 )
+Seat 9: JACKHIGHJO ( $1.32 )
+LipaVit posts small blind [$0.01]
+JACKHIGHJO posts big blind [$0.02]
+** Dealing down cards **
+LipaVit calls [$0.01]
+JACKHIGHJO checks
+** Dealing flop ** [ Kh, Th, 2d ]
+JACKHIGHJO checks
+LipaVit bets [$0.04]
+JACKHIGHJO folds
+** Summary **
+LipaVit collected [ $0.04 ]
+
+
+#Game No : 526095932
+***** 888poker Hand History for Game 526095932 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:44:39
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: LipaVit ( $1.52 )
+Seat 9: JACKHIGHJO ( $1.30 )
+JACKHIGHJO posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+JACKHIGHJO calls [$0.01]
+LipaVit checks
+** Dealing flop ** [ 6h, 5d, Js ]
+LipaVit bets [$0.02]
+JACKHIGHJO folds
+** Summary **
+LipaVit collected [ $0.04 ]
+
+
+#Game No : 526096127
+***** 888poker Hand History for Game 526096127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:46:53
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Luckiest001 ( $0.75 )
+Seat 7: LipaVit ( $1.46 )
+Luckiest001 posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+Luckiest001 calls [$0.01]
+LipaVit checks
+** Dealing flop ** [ 2h, 2d, Js ]
+LipaVit checks
+Luckiest001 bets [$0.02]
+LipaVit calls [$0.02]
+** Dealing turn ** [ 6h ]
+LipaVit checks
+Luckiest001 bets [$0.04]
+LipaVit calls [$0.04]
+** Dealing river ** [ Jh ]
+LipaVit bets [$0.18]
+Luckiest001 folds
+** Summary **
+LipaVit did not show his hand
+LipaVit collected [ $0.15 ]
+
+
+#Game No : 526096178
+***** 888poker Hand History for Game 526096178 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:47:24
+Table San Luis 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Luckiest001 ( $0.67 )
+Seat 7: LipaVit ( $1.53 )
+LipaVit posts small blind [$0.01]
+Luckiest001 posts big blind [$0.02]
+** Dealing down cards **
+LipaVit raises [$0.05]
+Luckiest001 folds
+** Summary **
+LipaVit collected [ $0.04 ]
+
+
+#Game No : 526096191
+***** 888poker Hand History for Game 526096191 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 09:47:32
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Luckiest001 ( $0.65 )
+Seat 7: LipaVit ( $1.55 )
+Luckiest001 posts small blind [$0.01]
+LipaVit posts big blind [$0.02]
+** Dealing down cards **
+Luckiest001 folds
+** Summary **
+LipaVit collected [ $0.03 ]
+
+
+#Game No : 526099034
+***** 888poker Hand History for Game 526099034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 10:18:44
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: OlegH1 ( $1.22 )
+Seat 7: LipaVit ( $2.63 )
+LipaVit posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+LipaVit raises [$0.05]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ 3s, As, 2c ]
+LipaVit bets [$0.06]
+OlegH1 calls [$0.06]
+** Dealing turn ** [ Qh ]
+LipaVit bets [$0.16]
+OlegH1 calls [$0.16]
+** Dealing river ** [ Jc ]
+LipaVit bets [$0.28]
+OlegH1 calls [$0.28]
+** Summary **
+LipaVit shows [ Qs, 2s ]
+OlegH1 mucks [ 9s, Ad ]
+LipaVit collected [ $1.05 ]
+
+
+#Game No : 526099240
+***** 888poker Hand History for Game 526099240 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 03 2019 10:20:35
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: OlegH1 ( $1.05 )
+Seat 6: rafael.nvt ( $1 )
+rafael.nvt posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+rafael.nvt raises [$0.03]
+OlegH1 folds
+** Summary **
+rafael.nvt collected [ $0.04 ]
+
+

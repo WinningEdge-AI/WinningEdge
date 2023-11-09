@@ -1,0 +1,94 @@
+#Game No : 464017253
+***** 888poker Hand History for Game 464017253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 16:55:44
+Table Lima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Agarroz ( $2.11 )
+Seat 6: lebgamer ( $1.17 )
+lebgamer posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+lebgamer raises [$0.03]
+Agarroz folds
+** Summary **
+lebgamer did not show his hand
+lebgamer collected [ $0.04 ]
+
+
+#Game No : 464017259
+***** 888poker Hand History for Game 464017259 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 16:56:54
+Table Lima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Agarroz ( $2.08 )
+Seat 6: lebgamer ( $1.20 )
+lebgamer posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+lebgamer calls [$0.01]
+Agarroz checks
+** Dealing flop ** [ 4c, 3d, 4d ]
+Agarroz checks
+lebgamer bets [$0.04]
+Agarroz calls [$0.04]
+** Dealing turn ** [ 2s ]
+Agarroz checks
+lebgamer bets [$0.06]
+Agarroz raises [$0.12]
+lebgamer calls [$0.06]
+** Dealing river ** [ 6c ]
+Agarroz checks
+lebgamer bets [$0.23]
+Agarroz calls [$0.23]
+** Summary **
+lebgamer shows [ 7h, Ah ]
+Agarroz shows [ 4s, Jc ]
+Agarroz collected [ $0.77 ]
+
+
+#Game No : 464017280
+***** 888poker Hand History for Game 464017280 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 16:56:58
+Table Lima 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Agarroz ( $2.44 )
+Seat 6: lebgamer ( $0.79 )
+Agarroz posts small blind [$0.01]
+lebgamer posts big blind [$0.02]
+** Dealing down cards **
+Agarroz calls [$0.01]
+lebgamer raises [$0.06]
+Agarroz calls [$0.06]
+** Dealing flop ** [ 6s, 3d, Kh ]
+lebgamer bets [$0.10]
+Agarroz folds
+** Summary **
+lebgamer collected [ $0.15 ]
+
+
+#Game No : 464017288
+***** 888poker Hand History for Game 464017288 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 04 2019 16:57:20
+Table Lima 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Agarroz ( $2.36 )
+Seat 6: lebgamer ( $0.86 )
+lebgamer posts small blind [$0.01]
+Agarroz posts big blind [$0.02]
+** Dealing down cards **
+lebgamer raises [$0.05]
+Agarroz raises [$2.34]
+lebgamer calls [$0.80]
+** Dealing flop ** [ Tc, Th, 2s ]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ Jh ]
+** Summary **
+Agarroz shows [ Kc, Kh ]
+lebgamer shows [ Ts, Ac ]
+lebgamer collected [ $1.62 ]
+
+

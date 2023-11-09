@@ -1,0 +1,87 @@
+#Game No : 1201300950
+***** 888poker Hand History for Game 1201300950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2018 23:48:38
+Table Providence 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SanSei87 ( $0.80 )
+Seat 2: Peterl_poker ( $2 )
+Peterl_poker posts small blind [$0.01]
+SanSei87 posts big blind [$0.02]
+** Dealing down cards **
+Peterl_poker calls [$0.01]
+SanSei87 raises [$0.06]
+Peterl_poker calls [$0.06]
+** Dealing flop ** [ 8c, 3s, 6c ]
+SanSei87 bets [$0.08]
+Peterl_poker calls [$0.08]
+** Dealing turn ** [ Jh ]
+SanSei87 checks
+Peterl_poker checks
+** Dealing river ** [ Ks ]
+SanSei87 checks
+Peterl_poker checks
+** Summary **
+SanSei87 shows [ 2h, Qd ]
+Peterl_poker shows [ Qh, 5d ]
+SanSei87 collected [ $0.15 ]
+Peterl_poker collected [ $0.15 ]
+
+
+#Game No : 1201301017
+***** 888poker Hand History for Game 1201301017 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2018 23:49:24
+Table Providence 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SanSei87 ( $0.79 )
+Seat 2: Peterl_poker ( $1.99 )
+SanSei87 posts small blind [$0.01]
+Peterl_poker posts big blind [$0.02]
+** Dealing down cards **
+SanSei87 calls [$0.01]
+Peterl_poker checks
+** Dealing flop ** [ 7s, Jh, 5s ]
+Peterl_poker bets [$0.04]
+SanSei87 raises [$0.08]
+Peterl_poker calls [$0.04]
+** Dealing turn ** [ 2d ]
+Peterl_poker checks
+SanSei87 bets [$0.10]
+Peterl_poker calls [$0.10]
+** Dealing river ** [ 5d ]
+Peterl_poker checks
+SanSei87 bets [$0.20]
+Peterl_poker folds
+** Summary **
+SanSei87 collected [ $0.38 ]
+
+
+#Game No : 1201301107
+***** 888poker Hand History for Game 1201301107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 08 2018 23:50:23
+Table Providence 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SanSei87 ( $0.97 )
+Seat 2: Peterl_poker ( $1.79 )
+Peterl_poker posts small blind [$0.01]
+SanSei87 posts big blind [$0.02]
+** Dealing down cards **
+Peterl_poker calls [$0.01]
+SanSei87 checks
+** Dealing flop ** [ Ts, 4h, 8s ]
+SanSei87 checks
+Peterl_poker checks
+** Dealing turn ** [ 2c ]
+SanSei87 checks
+Peterl_poker checks
+** Dealing river ** [ 2h ]
+SanSei87 checks
+Peterl_poker checks
+** Summary **
+SanSei87 shows [ 3d, 6h ]
+Peterl_poker shows [ 6d, Kc ]
+Peterl_poker collected [ $0.04 ]
+
+

@@ -1,0 +1,135 @@
+#Game No : 503070302
+***** 888poker Hand History for Game 503070302 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 02:52:14
+Table Redditch 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: xShootngStar ( $0.91 )
+Seat 4: vnuk36 ( $0.82 )
+vnuk36 posts small blind [$0.01]
+xShootngStar posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+xShootngStar raises [$0.02]
+vnuk36 calls [$0.02]
+** Dealing flop ** [ 9h, 4h, Qh ]
+xShootngStar bets [$0.02]
+vnuk36 folds
+** Summary **
+xShootngStar collected [ $0.08 ]
+
+
+#Game No : 503070315
+***** 888poker Hand History for Game 503070315 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 02:52:23
+Table Redditch 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: xShootngStar ( $0.95 )
+Seat 4: vnuk36 ( $0.78 )
+xShootngStar posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+xShootngStar raises [$0.03]
+vnuk36 calls [$0.02]
+** Dealing flop ** [ 7d, 9c, Qd ]
+vnuk36 checks
+xShootngStar bets [$0.02]
+vnuk36 calls [$0.02]
+** Dealing turn ** [ Kc ]
+vnuk36 checks
+xShootngStar bets [$0.02]
+vnuk36 calls [$0.02]
+** Dealing river ** [ 8d ]
+vnuk36 checks
+xShootngStar bets [$0.02]
+vnuk36 folds
+** Summary **
+xShootngStar collected [ $0.15 ]
+
+
+#Game No : 503070776
+***** 888poker Hand History for Game 503070776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 03:07:43
+Table Redditch 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Rfish56 ( $1.16 )
+Seat 6: swec41 ( $1.12 )
+swec41 posts small blind [$0.01]
+Rfish56 posts big blind [$0.02]
+** Dealing down cards **
+swec41 calls [$0.01]
+Rfish56 checks
+** Dealing flop ** [ 4h, Ac, Qc ]
+Rfish56 checks
+swec41 checks
+** Dealing turn ** [ Td ]
+Rfish56 checks
+swec41 checks
+** Dealing river ** [ Qs ]
+Rfish56 checks
+swec41 bets [$0.02]
+Rfish56 calls [$0.02]
+** Summary **
+swec41 shows [ Kh, 5h ]
+Rfish56 mucks [ 7s, Js ]
+swec41 collected [ $0.08 ]
+
+
+#Game No : 503070785
+***** 888poker Hand History for Game 503070785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 03:08:05
+Table Redditch 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Rfish56 ( $1.12 )
+Seat 6: swec41 ( $1.16 )
+Rfish56 posts small blind [$0.01]
+swec41 posts big blind [$0.02]
+** Dealing down cards **
+Rfish56 folds
+** Summary **
+swec41 did not show his hand
+swec41 collected [ $0.03 ]
+
+
+#Game No : 503070787
+***** 888poker Hand History for Game 503070787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 03:08:10
+Table Redditch 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Rfish56 ( $1.11 )
+Seat 6: swec41 ( $1.17 )
+swec41 posts small blind [$0.01]
+Rfish56 posts big blind [$0.02]
+** Dealing down cards **
+swec41 calls [$0.01]
+Rfish56 checks
+** Dealing flop ** [ Td, 6c, 5h ]
+Rfish56 checks
+swec41 checks
+** Dealing turn ** [ Ks ]
+Rfish56 bets [$0.02]
+swec41 folds
+** Summary **
+Rfish56 collected [ $0.04 ]
+
+
+#Game No : 503070796
+***** 888poker Hand History for Game 503070796 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2018 03:08:24
+Table Redditch 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Rfish56 ( $1.13 )
+Seat 6: swec41 ( $1.15 )
+Rfish56 posts small blind [$0.01]
+swec41 posts big blind [$0.02]
+** Dealing down cards **
+Rfish56 folds
+** Summary **
+swec41 collected [ $0.03 ]
+
+

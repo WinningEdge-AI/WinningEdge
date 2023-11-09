@@ -1,0 +1,44 @@
+#Game No : 503780781
+***** 888poker Hand History for Game 503780781 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2018 06:46:25
+Table Neuss 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: chicontheman ( $0.80 )
+Seat 6: marciliopart ( $1.20 )
+chicontheman posts small blind [$0.01]
+marciliopart posts big blind [$0.02]
+** Dealing down cards **
+chicontheman calls [$0.01]
+marciliopart raises [$0.04]
+chicontheman calls [$0.04]
+** Dealing flop ** [ Td, 8d, 4c ]
+marciliopart bets [$0.12]
+chicontheman folds
+** Summary **
+marciliopart collected [ $0.12 ]
+
+
+#Game No : 503780799
+***** 888poker Hand History for Game 503780799 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 06 2018 06:47:05
+Table Neuss 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: chicontheman ( $0.74 )
+Seat 6: marciliopart ( $1.26 )
+marciliopart posts small blind [$0.01]
+chicontheman posts big blind [$0.02]
+** Dealing down cards **
+marciliopart calls [$0.01]
+chicontheman checks
+** Dealing flop ** [ 6c, Qh, 3d ]
+chicontheman checks
+marciliopart checks
+** Dealing turn ** [ 3s ]
+chicontheman bets [$0.02]
+marciliopart folds
+** Summary **
+chicontheman collected [ $0.04 ]
+
+

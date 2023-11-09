@@ -1,0 +1,204 @@
+#Game No : 452371155
+***** 888poker Hand History for Game 452371155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 11:05:23
+Table Las Cruces 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Phys812 ( $2.82 )
+Seat 9: avramia1 ( $1.71 )
+Phys812 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Phys812 folds
+** Summary **
+avramia1 collected [ $0.03 ]
+
+
+#Game No : 452371165
+***** 888poker Hand History for Game 452371165 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 11:05:34
+Table Las Cruces 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Phys812 ( $2.81 )
+Seat 9: avramia1 ( $1.72 )
+avramia1 posts small blind [$0.01]
+Phys812 posts big blind [$0.02]
+** Dealing down cards **
+avramia1 folds
+** Summary **
+Phys812 collected [ $0.03 ]
+
+
+#Game No : 452371170
+***** 888poker Hand History for Game 452371170 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 11:05:39
+Table Las Cruces 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Phys812 ( $2.82 )
+Seat 9: avramia1 ( $1.71 )
+Phys812 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Phys812 raises [$0.03]
+avramia1 calls [$0.02]
+** Dealing flop ** [ 7h, Th, Kh ]
+avramia1 checks
+Phys812 bets [$0.08]
+avramia1 folds
+** Summary **
+Phys812 collected [ $0.08 ]
+
+
+#Game No : 452371197
+***** 888poker Hand History for Game 452371197 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 11:06:30
+Table Las Cruces 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Phys812 ( $2.85 )
+Seat 9: avramia1 ( $2.73 )
+Phys812 posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Phys812 raises [$0.03]
+avramia1 raises [$0.04]
+Phys812 calls [$0.02]
+** Dealing flop ** [ 2c, 4c, 6s ]
+avramia1 checks
+Phys812 checks
+** Dealing turn ** [ Ac ]
+avramia1 bets [$0.02]
+Phys812 raises [$0.04]
+avramia1 calls [$0.02]
+** Dealing river ** [ 8h ]
+avramia1 checks
+Phys812 checks
+** Summary **
+avramia1 shows [ Ah, Qc ]
+Phys812 mucks [ 9d, As ]
+avramia1 collected [ $0.19 ]
+
+
+#Game No : 452371279
+***** 888poker Hand History for Game 452371279 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 11:08:36
+Table Las Cruces 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: Jason13d ( $2 )
+Seat 9: avramia1 ( $2.87 )
+avramia1 posts small blind [$0.01]
+Jason13d posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+Jason13d checks
+** Dealing flop ** [ 7d, 8c, 8d ]
+Jason13d checks
+avramia1 bets [$0.02]
+Jason13d folds
+** Summary **
+avramia1 collected [ $0.04 ]
+
+
+#Game No : 452371287
+***** 888poker Hand History for Game 452371287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 11:08:52
+Table Las Cruces 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Jason13d ( $2 )
+Seat 9: avramia1 ( $2.89 )
+Jason13d posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Jason13d calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ 2s, Ah, 5h ]
+avramia1 checks
+Jason13d checks
+** Dealing turn ** [ Qc ]
+avramia1 checks
+Jason13d checks
+** Dealing river ** [ 8c ]
+avramia1 checks
+Jason13d checks
+** Summary **
+avramia1 shows [ Jd, 3s ]
+Jason13d mucks [ 6c, 7d ]
+avramia1 collected [ $0.04 ]
+
+
+#Game No : 452371306
+***** 888poker Hand History for Game 452371306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 11:09:24
+Table Las Cruces 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: Jason13d ( $2 )
+Seat 9: avramia1 ( $2.91 )
+avramia1 posts small blind [$0.01]
+Jason13d posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+Jason13d checks
+** Dealing flop ** [ 7s, 7d, 8s ]
+Jason13d checks
+avramia1 checks
+** Dealing turn ** [ 2d ]
+Jason13d checks
+avramia1 checks
+** Dealing river ** [ Jc ]
+Jason13d checks
+avramia1 checks
+** Summary **
+Jason13d shows [ Kd, 6h ]
+avramia1 shows [ Kh, 5c ]
+avramia1 collected [ $0.02 ]
+Jason13d collected [ $0.02 ]
+
+
+#Game No : 452371328
+***** 888poker Hand History for Game 452371328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 11:09:58
+Table Las Cruces 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Jason13d ( $2 )
+Seat 9: avramia1 ( $2.91 )
+Jason13d posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Jason13d calls [$0.01]
+avramia1 checks
+** Dealing flop ** [ As, 8s, Ad ]
+avramia1 checks
+Jason13d checks
+** Dealing turn ** [ Qh ]
+avramia1 checks
+Jason13d checks
+** Dealing river ** [ 5h ]
+avramia1 checks
+Jason13d checks
+** Summary **
+avramia1 shows [ Td, 7d ]
+Jason13d shows [ 9s, Kd ]
+Jason13d collected [ $0.04 ]
+
+
+#Game No : 452372838
+***** 888poker Hand History for Game 452372838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 11:49:42
+Table Las Cruces 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: vivienvrm ( $2 )
+Seat 6: killbaulitz ( $2.17 )
+vivienvrm posts small blind [$0.01]
+** Dealing down cards **
+killbaulitz folds
+** Summary **
+vivienvrm collected [ $0.01 ]
+
+

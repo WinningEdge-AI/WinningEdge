@@ -1,0 +1,123 @@
+#Game No : 615120892
+***** 888poker Hand History for Game 615120892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 08:31:52
+Table Duitama 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: darkjuicy ( $2 )
+Seat 5: hank17jax ( $2 )
+darkjuicy posts small blind [$0.01]
+hank17jax posts big blind [$0.02]
+** Dealing down cards **
+darkjuicy raises [$0.05]
+hank17jax calls [$0.04]
+** Dealing flop ** [ 8s, 9c, Qc ]
+hank17jax bets [$0.06]
+darkjuicy calls [$0.06]
+** Dealing turn ** [ 5d ]
+hank17jax bets [$0.08]
+darkjuicy calls [$0.08]
+** Dealing river ** [ 6h ]
+hank17jax checks
+darkjuicy bets [$0.20]
+hank17jax calls [$0.20]
+** Summary **
+darkjuicy shows [ Kh, 7c ]
+hank17jax mucks [ 8d, 2c ]
+darkjuicy collected [ $0.75 ]
+
+
+#Game No : 615120932
+***** 888poker Hand History for Game 615120932 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 08:32:37
+Table Duitama 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: darkjuicy ( $2.35 )
+Seat 5: hank17jax ( $1.60 )
+hank17jax posts small blind [$0.01]
+darkjuicy posts big blind [$0.02]
+** Dealing down cards **
+hank17jax folds
+** Summary **
+darkjuicy collected [ $0.03 ]
+
+
+#Game No : 615120936
+***** 888poker Hand History for Game 615120936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 08:32:42
+Table Duitama 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: darkjuicy ( $2.36 )
+Seat 5: hank17jax ( $1.59 )
+darkjuicy posts small blind [$0.01]
+hank17jax posts big blind [$0.02]
+** Dealing down cards **
+darkjuicy raises [$0.05]
+hank17jax calls [$0.04]
+** Dealing flop ** [ 4d, Ac, 4c ]
+hank17jax folds
+** Summary **
+darkjuicy collected [ $0.12 ]
+
+
+#Game No : 615120945
+***** 888poker Hand History for Game 615120945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 08:32:55
+Table Duitama 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: darkjuicy ( $2.42 )
+Seat 5: hank17jax ( $1.53 )
+hank17jax posts small blind [$0.01]
+darkjuicy posts big blind [$0.02]
+** Dealing down cards **
+hank17jax calls [$0.01]
+darkjuicy checks
+** Dealing flop ** [ Jh, Th, 2d ]
+darkjuicy checks
+hank17jax checks
+** Dealing turn ** [ Ah ]
+darkjuicy checks
+hank17jax checks
+** Dealing river ** [ Qh ]
+darkjuicy checks
+hank17jax checks
+** Summary **
+darkjuicy shows [ 5h, 6s ]
+hank17jax mucks [ 6d, 4c ]
+darkjuicy collected [ $0.04 ]
+
+
+#Game No : 615131944
+***** 888poker Hand History for Game 615131944 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 11:30:03
+Table Duitama 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Ell_Faradey ( $1.23 )
+Seat 10: malafei8 ( $3.91 )
+Ell_Faradey posts small blind [$0.01]
+malafei8 posts big blind [$0.02]
+** Dealing down cards **
+Ell_Faradey folds
+** Summary **
+malafei8 collected [ $0.03 ]
+
+
+#Game No : 615131955
+***** 888poker Hand History for Game 615131955 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 02 2019 11:30:10
+Table Duitama 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: Ell_Faradey ( $1.22 )
+Seat 10: malafei8 ( $3.92 )
+malafei8 posts small blind [$0.01]
+** Dealing down cards **
+Ell_Faradey folds
+** Summary **
+malafei8 collected [ $0.01 ]
+
+

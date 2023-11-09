@@ -1,0 +1,84 @@
+#Game No : 619307463
+***** 888poker Hand History for Game 619307463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 04 2019 07:04:34
+Table Canberra 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Oleg234516 ( $0.92 )
+Seat 7: F1nans ( $1.09 )
+F1nans posts small blind [$0.01]
+Oleg234516 posts big blind [$0.02]
+** Dealing down cards **
+F1nans raises [$0.05]
+Oleg234516 calls [$0.04]
+** Dealing flop ** [ Ts, Tc, 2c ]
+Oleg234516 checks
+F1nans checks
+** Dealing turn ** [ Td ]
+Oleg234516 bets [$0.12]
+F1nans calls [$0.12]
+** Dealing river ** [ 9c ]
+Oleg234516 bets [$0.36]
+F1nans folds
+** Summary **
+Oleg234516 collected [ $0.34 ]
+
+
+#Game No : 619307483
+***** 888poker Hand History for Game 619307483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 04 2019 07:04:47
+Table Canberra 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Oleg234516 ( $1.08 )
+Seat 7: F1nans ( $1 )
+Oleg234516 posts small blind [$0.01]
+F1nans posts big blind [$0.02]
+** Dealing down cards **
+Oleg234516 folds
+** Summary **
+F1nans collected [ $0.03 ]
+
+
+#Game No : 619308076
+***** 888poker Hand History for Game 619308076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 04 2019 07:24:59
+Table Canberra 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: glendasan ( $0.80 )
+Seat 2: iy111 ( $0.80 )
+glendasan posts small blind [$0.01]
+** Dealing down cards **
+iy111 folds
+** Summary **
+glendasan collected [ $0.01 ]
+
+
+#Game No : 619308083
+***** 888poker Hand History for Game 619308083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 04 2019 07:25:13
+Table Canberra 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: glendasan ( $0.80 )
+Seat 4: hopsa16 ( $1 )
+glendasan posts small blind [$0.01]
+hopsa16 posts big blind [$0.02]
+** Dealing down cards **
+glendasan raises [$0.03]
+hopsa16 calls [$0.02]
+** Dealing flop ** [ Jd, 7c, Qc ]
+hopsa16 checks
+glendasan bets [$0.06]
+hopsa16 raises [$0.24]
+glendasan raises [$0.70]
+hopsa16 calls [$0.52]
+** Dealing turn ** [ 4c ]
+** Dealing river ** [ 4s ]
+** Summary **
+glendasan shows [ 9d, Kd ]
+hopsa16 shows [ Qd, 2s ]
+hopsa16 collected [ $1.50 ]
+
+

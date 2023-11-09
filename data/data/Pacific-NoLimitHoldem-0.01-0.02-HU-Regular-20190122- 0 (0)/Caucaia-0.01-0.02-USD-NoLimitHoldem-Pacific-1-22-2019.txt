@@ -1,0 +1,381 @@
+#Game No : 1241788853
+***** 888poker Hand History for Game 1241788853 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 10:05:52
+Table Caucaia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hartkampf ( $1.33 )
+Seat 6: veenrok88 ( $1.01 )
+hartkampf posts small blind [$0.01]
+veenrok88 posts big blind [$0.02]
+** Dealing down cards **
+hartkampf calls [$0.01]
+veenrok88 checks
+** Dealing flop ** [ Ac, 9d, Ah ]
+veenrok88 checks
+hartkampf checks
+** Dealing turn ** [ 2d ]
+veenrok88 checks
+hartkampf checks
+** Dealing river ** [ 6d ]
+veenrok88 checks
+hartkampf bets [$0.02]
+veenrok88 folds
+** Summary **
+hartkampf did not show his hand
+hartkampf collected [ $0.04 ]
+
+
+#Game No : 1241789024
+***** 888poker Hand History for Game 1241789024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 10:06:34
+Table Caucaia 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: hartkampf ( $1.35 )
+Seat 6: veenrok88 ( $1 )
+veenrok88 posts small blind [$0.01]
+hartkampf posts big blind [$0.02]
+** Dealing down cards **
+veenrok88 raises [$0.05]
+hartkampf folds
+** Summary **
+veenrok88 collected [ $0.04 ]
+
+
+#Game No : 1241789180
+***** 888poker Hand History for Game 1241789180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 10:07:11
+Table Caucaia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hartkampf ( $1.39 )
+Seat 7: SleepySue ( $0.75 )
+hartkampf posts small blind [$0.01]
+SleepySue posts big blind [$0.02]
+** Dealing down cards **
+hartkampf folds
+** Summary **
+SleepySue did not show his hand
+SleepySue collected [ $0.03 ]
+
+
+#Game No : 1241789213
+***** 888poker Hand History for Game 1241789213 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 10:07:17
+Table Caucaia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: hartkampf ( $1.38 )
+Seat 7: SleepySue ( $0.76 )
+SleepySue posts small blind [$0.01]
+hartkampf posts big blind [$0.02]
+** Dealing down cards **
+SleepySue calls [$0.01]
+hartkampf checks
+** Dealing flop ** [ Kh, 2c, 6d ]
+hartkampf checks
+SleepySue bets [$0.04]
+hartkampf folds
+** Summary **
+SleepySue collected [ $0.04 ]
+
+
+#Game No : 1241789309
+***** 888poker Hand History for Game 1241789309 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 10:07:38
+Table Caucaia 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: hartkampf ( $1.36 )
+Seat 7: SleepySue ( $0.78 )
+hartkampf posts small blind [$0.01]
+SleepySue posts big blind [$0.02]
+** Dealing down cards **
+hartkampf raises [$0.03]
+SleepySue calls [$0.02]
+** Dealing flop ** [ 3c, Tc, 6h ]
+SleepySue checks
+hartkampf checks
+** Dealing turn ** [ 9s ]
+SleepySue bets [$0.04]
+hartkampf calls [$0.04]
+** Dealing river ** [ 7h ]
+SleepySue bets [$0.10]
+hartkampf calls [$0.10]
+** Summary **
+SleepySue shows [ 6d, 8s ]
+hartkampf mucks [ 7s, Ac ]
+SleepySue collected [ $0.34 ]
+
+
+#Game No : 1241804569
+***** 888poker Hand History for Game 1241804569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 11:00:23
+Table Caucaia 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: zobijka ( $0.67 )
+Seat 9: G8996 ( $1.22 )
+G8996 posts small blind [$0.01]
+zobijka posts big blind [$0.02]
+** Dealing down cards **
+G8996 folds
+** Summary **
+zobijka collected [ $0.03 ]
+
+
+#Game No : 1241804595
+***** 888poker Hand History for Game 1241804595 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 11:00:29
+Table Caucaia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: zobijka ( $0.68 )
+Seat 9: G8996 ( $1.21 )
+zobijka posts small blind [$0.01]
+G8996 posts big blind [$0.02]
+** Dealing down cards **
+zobijka folds
+** Summary **
+G8996 collected [ $0.03 ]
+
+
+#Game No : 1241804637
+***** 888poker Hand History for Game 1241804637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 11:00:37
+Table Caucaia 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: zobijka ( $0.67 )
+Seat 9: G8996 ( $1.22 )
+G8996 posts small blind [$0.01]
+zobijka posts big blind [$0.02]
+** Dealing down cards **
+G8996 folds
+** Summary **
+zobijka collected [ $0.03 ]
+
+
+#Game No : 1241804662
+***** 888poker Hand History for Game 1241804662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 11:00:43
+Table Caucaia 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Ansilleo ( $0.80 )
+Seat 9: G8996 ( $1.21 )
+G8996 posts small blind [$0.01]
+Ansilleo posts big blind [$0.02]
+** Dealing down cards **
+G8996 calls [$0.01]
+Ansilleo raises [$0.06]
+G8996 folds
+** Summary **
+Ansilleo collected [ $0.04 ]
+
+
+#Game No : 1241804752
+***** 888poker Hand History for Game 1241804752 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 11:01:03
+Table Caucaia 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Ansilleo ( $0.82 )
+Seat 9: G8996 ( $1.19 )
+G8996 posts small blind [$0.01]
+Ansilleo posts big blind [$0.02]
+** Dealing down cards **
+G8996 folds
+** Summary **
+Ansilleo collected [ $0.03 ]
+
+
+#Game No : 1241804778
+***** 888poker Hand History for Game 1241804778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 11:01:08
+Table Caucaia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ansilleo ( $0.83 )
+Seat 9: G8996 ( $1.18 )
+Ansilleo posts small blind [$0.01]
+G8996 posts big blind [$0.02]
+** Dealing down cards **
+Ansilleo calls [$0.01]
+G8996 checks
+** Dealing flop ** [ 4s, 5h, Js ]
+G8996 checks
+Ansilleo bets [$0.04]
+G8996 calls [$0.04]
+** Dealing turn ** [ Kh ]
+G8996 checks
+Ansilleo bets [$0.06]
+G8996 calls [$0.06]
+** Dealing river ** [ Qc ]
+G8996 checks
+Ansilleo bets [$0.12]
+G8996 folds
+** Summary **
+Ansilleo collected [ $0.23 ]
+
+
+#Game No : 1241804972
+***** 888poker Hand History for Game 1241804972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 11:01:51
+Table Caucaia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ansilleo ( $0.93 )
+Seat 7: mad_colonel ( $2.45 )
+Ansilleo posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+Ansilleo raises [$0.03]
+mad_colonel raises [$0.04]
+Ansilleo calls [$0.02]
+** Dealing flop ** [ Kh, 3c, Ac ]
+mad_colonel checks
+Ansilleo bets [$0.06]
+mad_colonel folds
+** Summary **
+Ansilleo collected [ $0.12 ]
+
+
+#Game No : 1241830198
+***** 888poker Hand History for Game 1241830198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 12:28:47
+Table Caucaia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: tastak56 ( $1.40 )
+Seat 7: mad_colonel ( $1.03 )
+mad_colonel posts small blind [$0.01]
+tastak56 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel folds
+** Summary **
+tastak56 did not show his hand
+tastak56 collected [ $0.03 ]
+
+
+#Game No : 1241830226
+***** 888poker Hand History for Game 1241830226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 12:28:52
+Table Caucaia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tastak56 ( $1.41 )
+Seat 7: mad_colonel ( $1.02 )
+tastak56 posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+tastak56 calls [$0.01]
+mad_colonel checks
+** Dealing flop ** [ As, 2d, 3s ]
+mad_colonel checks
+tastak56 bets [$0.02]
+mad_colonel folds
+** Summary **
+tastak56 did not show his hand
+tastak56 collected [ $0.04 ]
+
+
+#Game No : 1241830303
+***** 888poker Hand History for Game 1241830303 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 12:29:07
+Table Caucaia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: tastak56 ( $1.43 )
+Seat 7: mad_colonel ( $1 )
+mad_colonel posts small blind [$0.01]
+tastak56 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel raises [$0.03]
+tastak56 folds
+** Summary **
+mad_colonel did not show his hand
+mad_colonel collected [ $0.04 ]
+
+
+#Game No : 1241830366
+***** 888poker Hand History for Game 1241830366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 12:29:18
+Table Caucaia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tastak56 ( $1.41 )
+Seat 7: mad_colonel ( $1.02 )
+tastak56 posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+tastak56 calls [$0.01]
+mad_colonel raises [$0.04]
+tastak56 calls [$0.04]
+** Dealing flop ** [ 4c, Kh, 4d ]
+mad_colonel checks
+tastak56 checks
+** Dealing turn ** [ 7d ]
+mad_colonel bets [$0.08]
+tastak56 folds
+** Summary **
+mad_colonel did not show his hand
+mad_colonel collected [ $0.12 ]
+
+
+#Game No : 1241830500
+***** 888poker Hand History for Game 1241830500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 12:29:43
+Table Caucaia 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: tastak56 ( $1.35 )
+Seat 7: mad_colonel ( $1.08 )
+mad_colonel posts small blind [$0.01]
+tastak56 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel raises [$0.05]
+tastak56 calls [$0.04]
+** Dealing flop ** [ Tc, 9s, 4d ]
+tastak56 checks
+mad_colonel checks
+** Dealing turn ** [ 9h ]
+tastak56 checks
+mad_colonel checks
+** Dealing river ** [ Ah ]
+tastak56 checks
+mad_colonel bets [$0.06]
+tastak56 folds
+** Summary **
+mad_colonel collected [ $0.12 ]
+
+
+#Game No : 1241830683
+***** 888poker Hand History for Game 1241830683 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 12:30:17
+Table Caucaia 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tastak56 ( $1.29 )
+Seat 7: mad_colonel ( $1.14 )
+tastak56 posts small blind [$0.01]
+mad_colonel posts big blind [$0.02]
+** Dealing down cards **
+tastak56 calls [$0.01]
+mad_colonel checks
+** Dealing flop ** [ 6h, Kd, 8h ]
+mad_colonel checks
+tastak56 checks
+** Dealing turn ** [ Ts ]
+mad_colonel checks
+tastak56 checks
+** Dealing river ** [ As ]
+mad_colonel checks
+tastak56 checks
+** Summary **
+mad_colonel shows [ 9h, 7c ]
+tastak56 mucks [ 7s, Qh ]
+mad_colonel collected [ $0.04 ]
+
+

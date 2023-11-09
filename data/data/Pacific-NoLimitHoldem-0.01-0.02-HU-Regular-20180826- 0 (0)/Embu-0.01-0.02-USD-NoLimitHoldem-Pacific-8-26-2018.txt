@@ -1,0 +1,129 @@
+#Game No : 607437706
+***** 888poker Hand History for Game 607437706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 11:58:04
+Table Embu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: AlexeiRussia ( $1.75 )
+Seat 5: TheBadBeater ( $2.13 )
+TheBadBeater posts small blind [$0.01]
+AlexeiRussia posts big blind [$0.02]
+** Dealing down cards **
+TheBadBeater folds
+** Summary **
+AlexeiRussia did not show his hand
+AlexeiRussia collected [ $0.03 ]
+
+
+#Game No : 607437721
+***** 888poker Hand History for Game 607437721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 11:58:14
+Table Embu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: AlexeiRussia ( $1.76 )
+Seat 5: TheBadBeater ( $2.12 )
+AlexeiRussia posts small blind [$0.01]
+TheBadBeater posts big blind [$0.02]
+** Dealing down cards **
+AlexeiRussia folds
+** Summary **
+TheBadBeater did not show his hand
+TheBadBeater collected [ $0.03 ]
+
+
+#Game No : 607437725
+***** 888poker Hand History for Game 607437725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 11:58:19
+Table Embu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: AlexeiRussia ( $1.75 )
+Seat 5: TheBadBeater ( $2.13 )
+TheBadBeater posts small blind [$0.01]
+** Dealing down cards **
+AlexeiRussia folds
+** Summary **
+TheBadBeater did not show his hand
+TheBadBeater collected [ $0.01 ]
+
+
+#Game No : 607437997
+***** 888poker Hand History for Game 607437997 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 12:03:02
+Table Embu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: CibanuCo ( $2 )
+Seat 6: AVYKNA ( $2 )
+CibanuCo posts small blind [$0.01]
+AVYKNA posts big blind [$0.02]
+** Dealing down cards **
+CibanuCo calls [$0.01]
+AVYKNA checks
+** Dealing flop ** [ Kd, 2s, Th ]
+AVYKNA bets [$0.02]
+CibanuCo raises [$0.04]
+AVYKNA raises [$0.04]
+CibanuCo folds
+** Summary **
+AVYKNA did not show his hand
+AVYKNA collected [ $0.12 ]
+
+
+#Game No : 607438100
+***** 888poker Hand History for Game 607438100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 12:05:08
+Table Embu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: CibanuCo ( $1.39 )
+Seat 6: AVYKNA ( $2.55 )
+CibanuCo posts small blind [$0.01]
+AVYKNA posts big blind [$0.02]
+** Dealing down cards **
+CibanuCo calls [$0.01]
+AVYKNA checks
+** Dealing flop ** [ 4c, 4s, 7d ]
+AVYKNA checks
+CibanuCo checks
+** Dealing turn ** [ Jh ]
+AVYKNA checks
+CibanuCo bets [$0.04]
+AVYKNA calls [$0.04]
+** Dealing river ** [ 5h ]
+AVYKNA checks
+CibanuCo bets [$0.12]
+AVYKNA folds
+** Summary **
+CibanuCo collected [ $0.12 ]
+
+
+#Game No : 607438127
+***** 888poker Hand History for Game 607438127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 08 2018 12:05:32
+Table Embu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: CibanuCo ( $1.45 )
+Seat 6: AVYKNA ( $2.49 )
+AVYKNA posts small blind [$0.01]
+CibanuCo posts big blind [$0.02]
+** Dealing down cards **
+AVYKNA calls [$0.01]
+CibanuCo checks
+** Dealing flop ** [ 2h, 4c, 3h ]
+CibanuCo checks
+AVYKNA checks
+** Dealing turn ** [ 3c ]
+CibanuCo checks
+AVYKNA checks
+** Dealing river ** [ Js ]
+CibanuCo checks
+AVYKNA checks
+** Summary **
+CibanuCo shows [ Qh, 6c ]
+AVYKNA mucks [ 7d, Tc ]
+CibanuCo collected [ $0.04 ]
+
+

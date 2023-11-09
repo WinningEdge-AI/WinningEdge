@@ -1,0 +1,50 @@
+#Game No : 1210989041
+***** 888poker Hand History for Game 1210989041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 16:11:44
+Table Criciuma 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Jp0k3r ( $11.96 )
+Seat 9: klerik170 ( $2.29 )
+Jp0k3r posts small blind [$0.01]
+klerik170 posts big blind [$0.02]
+** Dealing down cards **
+Jp0k3r calls [$0.01]
+klerik170 checks
+** Dealing flop ** [ 6h, Jc, Th ]
+klerik170 checks
+Jp0k3r checks
+** Dealing turn ** [ 2h ]
+klerik170 checks
+Jp0k3r checks
+** Dealing river ** [ 2s ]
+klerik170 checks
+Jp0k3r bets [$0.14]
+klerik170 folds
+** Summary **
+Jp0k3r did not show his hand
+Jp0k3r collected [ $0.04 ]
+
+
+#Game No : 1210989105
+***** 888poker Hand History for Game 1210989105 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 09 2018 16:12:04
+Table Criciuma 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Jp0k3r ( $11.98 )
+Seat 9: klerik170 ( $2.27 )
+klerik170 posts small blind [$0.01]
+Jp0k3r posts big blind [$0.02]
+** Dealing down cards **
+klerik170 calls [$0.01]
+Jp0k3r raises [$0.06]
+klerik170 calls [$0.06]
+** Dealing flop ** [ 7d, 5s, 6d ]
+Jp0k3r bets [$0.16]
+klerik170 folds
+** Summary **
+Jp0k3r did not show his hand
+Jp0k3r collected [ $0.15 ]
+
+

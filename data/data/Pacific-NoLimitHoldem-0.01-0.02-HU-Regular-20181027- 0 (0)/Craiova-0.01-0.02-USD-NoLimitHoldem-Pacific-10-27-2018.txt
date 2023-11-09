@@ -1,0 +1,43 @@
+#Game No : 504384751
+***** 888poker Hand History for Game 504384751 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 17:52:22
+Table Craiova 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DTX1220 ( $0.58 )
+Seat 9: mardukII ( $0.82 )
+DTX1220 posts small blind [$0.01]
+mardukII posts big blind [$0.02]
+** Dealing down cards **
+DTX1220 calls [$0.01]
+mardukII checks
+** Dealing flop ** [ 7h, 3c, 7d ]
+mardukII checks
+DTX1220 checks
+** Dealing turn ** [ Qh ]
+mardukII checks
+DTX1220 checks
+** Dealing river ** [ 8c ]
+mardukII checks
+DTX1220 checks
+** Summary **
+mardukII shows [ 5s, Ad ]
+DTX1220 mucks [ 6h, Kd ]
+mardukII collected [ $0.04 ]
+
+
+#Game No : 504384780
+***** 888poker Hand History for Game 504384780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 10 2018 17:53:39
+Table Craiova 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DTX1220 ( $0.64 )
+Seat 9: mardukII ( $0.77 )
+DTX1220 posts small blind [$0.01]
+** Dealing down cards **
+mardukII folds
+** Summary **
+DTX1220 collected [ $0.01 ]
+
+

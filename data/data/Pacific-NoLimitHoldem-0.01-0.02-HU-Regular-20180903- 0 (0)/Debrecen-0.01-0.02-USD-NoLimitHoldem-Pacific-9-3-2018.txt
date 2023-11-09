@@ -1,0 +1,28 @@
+#Game No : 455058983
+***** 888poker Hand History for Game 455058983 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 18:31:48
+Table Debrecen 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: sunnytrader1 ( $1.68 )
+Seat 9: DEADMEN15 ( $2.31 )
+sunnytrader1 posts small blind [$0.01]
+DEADMEN15 posts big blind [$0.02]
+** Dealing down cards **
+sunnytrader1 calls [$0.01]
+DEADMEN15 checks
+** Dealing flop ** [ Ad, 4c, Kc ]
+DEADMEN15 checks
+sunnytrader1 checks
+** Dealing turn ** [ 7c ]
+DEADMEN15 checks
+sunnytrader1 checks
+** Dealing river ** [ Ts ]
+DEADMEN15 bets [$0.04]
+sunnytrader1 calls [$0.04]
+** Summary **
+DEADMEN15 shows [ Th, 8c ]
+sunnytrader1 mucks [ 6c, 4d ]
+DEADMEN15 collected [ $0.12 ]
+
+

@@ -1,0 +1,48 @@
+#Game No : 500622600
+***** 888poker Hand History for Game 500622600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 03:19:15
+Table Santos 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: alex.brom ( $0.98 )
+Seat 6: laschko ( $1.02 )
+laschko posts small blind [$0.01]
+alex.brom posts big blind [$0.02]
+** Dealing down cards **
+laschko raises [$0.03]
+alex.brom calls [$0.02]
+** Dealing flop ** [ Th, 8c, Jh ]
+alex.brom bets [$0.02]
+laschko calls [$0.02]
+** Dealing turn ** [ 9c ]
+alex.brom checks
+laschko bets [$0.06]
+alex.brom folds
+** Summary **
+laschko collected [ $0.12 ]
+
+
+#Game No : 500622626
+***** 888poker Hand History for Game 500622626 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 03:20:02
+Table Santos 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alex.brom ( $0.92 )
+Seat 6: laschko ( $1.08 )
+alex.brom posts small blind [$0.01]
+laschko posts big blind [$0.02]
+** Dealing down cards **
+alex.brom calls [$0.01]
+laschko checks
+** Dealing flop ** [ Qh, Qc, 7c ]
+laschko checks
+alex.brom checks
+** Dealing turn ** [ 9s ]
+laschko checks
+alex.brom bets [$0.02]
+laschko folds
+** Summary **
+alex.brom collected [ $0.04 ]
+
+

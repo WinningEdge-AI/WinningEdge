@@ -1,0 +1,565 @@
+#Game No : 1230890905
+***** 888poker Hand History for Game 1230890905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:23:01
+Table Cesena 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: PilsnerGuy14 ( $3.44 )
+Seat 6: VictimVIP ( $1 )
+PilsnerGuy14 posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+PilsnerGuy14 raises [$0.05]
+VictimVIP calls [$0.04]
+** Dealing flop ** [ Ts, 3s, 5c ]
+VictimVIP checks
+PilsnerGuy14 bets [$0.02]
+VictimVIP raises [$0.12]
+PilsnerGuy14 calls [$0.10]
+** Dealing turn ** [ 3h ]
+VictimVIP bets [$0.24]
+PilsnerGuy14 calls [$0.24]
+** Dealing river ** [ Tc ]
+VictimVIP bets [$0.58]
+PilsnerGuy14 folds
+** Summary **
+VictimVIP collected [ $0.79 ]
+
+
+#Game No : 1230892496
+***** 888poker Hand History for Game 1230892496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:36:49
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Slickrick72 ( $0.92 )
+Seat 6: VictimVIP ( $1.50 )
+VictimVIP posts small blind [$0.01]
+Slickrick72 posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+Slickrick72 collected [ $0.03 ]
+
+
+#Game No : 1230892510
+***** 888poker Hand History for Game 1230892510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:36:56
+Table Cesena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Slickrick72 ( $0.93 )
+Seat 6: VictimVIP ( $1.49 )
+Slickrick72 posts small blind [$0.01]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+Slickrick72 collected [ $0.01 ]
+
+
+#Game No : 1230892573
+***** 888poker Hand History for Game 1230892573 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:37:35
+Table Cesena 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Slickrick72 ( $0.93 )
+Seat 7: KaycLayc ( $1 )
+Slickrick72 posts small blind [$0.01]
+KaycLayc posts big blind [$0.02]
+** Dealing down cards **
+Slickrick72 calls [$0.01]
+KaycLayc checks
+** Dealing flop ** [ 6s, Kd, 2d ]
+KaycLayc bets [$0.02]
+Slickrick72 calls [$0.02]
+** Dealing turn ** [ 8c ]
+KaycLayc bets [$0.08]
+Slickrick72 calls [$0.08]
+** Dealing river ** [ 7c ]
+KaycLayc bets [$0.88]
+Slickrick72 calls [$0.81]
+** Summary **
+Slickrick72 shows [ 4h, 5d ]
+KaycLayc shows [ 2s, 8d ]
+Slickrick72 collected [ $1.75 ]
+
+
+#Game No : 1230892631
+***** 888poker Hand History for Game 1230892631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:38:03
+Table Cesena 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Slickrick72 ( $1.75 )
+Seat 7: KaycLayc ( $0.07 )
+KaycLayc posts small blind [$0.01]
+Slickrick72 posts big blind [$0.02]
+** Dealing down cards **
+KaycLayc raises [$0.06]
+Slickrick72 calls [$0.05]
+** Dealing flop ** [ 2c, Js, 6s ]
+** Dealing turn ** [ 4h ]
+** Dealing river ** [ 8c ]
+** Summary **
+Slickrick72 shows [ 4c, 3c ]
+KaycLayc shows [ 2d, 2s ]
+KaycLayc collected [ $0.14 ]
+
+
+#Game No : 1230893480
+***** 888poker Hand History for Game 1230893480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:45:25
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $1 )
+Seat 7: KaycLayc ( $1.11 )
+dfc1000 posts small blind [$0.01]
+KaycLayc posts big blind [$0.02]
+** Dealing down cards **
+dfc1000 folds
+** Summary **
+KaycLayc collected [ $0.03 ]
+
+
+#Game No : 1230893572
+***** 888poker Hand History for Game 1230893572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:46:13
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $0.99 )
+Seat 6: KaycLayc ( $1.12 )
+KaycLayc posts small blind [$0.01]
+dfc1000 posts big blind [$0.02]
+** Dealing down cards **
+KaycLayc calls [$0.01]
+dfc1000 checks
+** Dealing flop ** [ 3d, Js, 9c ]
+dfc1000 checks
+KaycLayc checks
+** Dealing turn ** [ 7d ]
+dfc1000 checks
+KaycLayc checks
+** Dealing river ** [ 2c ]
+dfc1000 checks
+KaycLayc checks
+** Summary **
+dfc1000 shows [ 5s, Jc ]
+KaycLayc mucks [ 8d, 3h ]
+dfc1000 collected [ $0.04 ]
+
+
+#Game No : 1230893637
+***** 888poker Hand History for Game 1230893637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:46:46
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $1.01 )
+Seat 6: KaycLayc ( $1.10 )
+dfc1000 posts small blind [$0.01]
+KaycLayc posts big blind [$0.02]
+** Dealing down cards **
+dfc1000 calls [$0.01]
+KaycLayc checks
+** Dealing flop ** [ 6d, Js, As ]
+KaycLayc bets [$0.02]
+dfc1000 calls [$0.02]
+** Dealing turn ** [ Jh ]
+KaycLayc checks
+dfc1000 checks
+** Dealing river ** [ 4c ]
+KaycLayc checks
+dfc1000 bets [$0.06]
+KaycLayc folds
+** Summary **
+dfc1000 collected [ $0.08 ]
+
+
+#Game No : 1230893700
+***** 888poker Hand History for Game 1230893700 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:47:17
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $1.05 )
+Seat 6: KaycLayc ( $1.06 )
+KaycLayc posts small blind [$0.01]
+dfc1000 posts big blind [$0.02]
+** Dealing down cards **
+KaycLayc calls [$0.01]
+dfc1000 checks
+** Dealing flop ** [ 5s, Kc, 7h ]
+dfc1000 checks
+KaycLayc bets [$0.04]
+dfc1000 folds
+** Summary **
+KaycLayc collected [ $0.04 ]
+
+
+#Game No : 1230893738
+***** 888poker Hand History for Game 1230893738 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:47:35
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $1.03 )
+Seat 6: KaycLayc ( $1.08 )
+dfc1000 posts small blind [$0.01]
+KaycLayc posts big blind [$0.02]
+** Dealing down cards **
+dfc1000 folds
+** Summary **
+KaycLayc collected [ $0.03 ]
+
+
+#Game No : 1230893765
+***** 888poker Hand History for Game 1230893765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:47:48
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $1.02 )
+Seat 6: KaycLayc ( $1.09 )
+KaycLayc posts small blind [$0.01]
+dfc1000 posts big blind [$0.02]
+** Dealing down cards **
+KaycLayc raises [$0.07]
+dfc1000 folds
+** Summary **
+KaycLayc collected [ $0.04 ]
+
+
+#Game No : 1230893790
+***** 888poker Hand History for Game 1230893790 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:47:59
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $1 )
+Seat 6: KaycLayc ( $1.11 )
+dfc1000 posts small blind [$0.01]
+KaycLayc posts big blind [$0.02]
+** Dealing down cards **
+dfc1000 calls [$0.01]
+KaycLayc checks
+** Dealing flop ** [ 6h, 2s, 7h ]
+KaycLayc checks
+dfc1000 checks
+** Dealing turn ** [ Td ]
+KaycLayc bets [$0.02]
+dfc1000 calls [$0.02]
+** Dealing river ** [ 9d ]
+KaycLayc bets [$0.02]
+dfc1000 raises [$0.04]
+KaycLayc calls [$0.02]
+** Summary **
+dfc1000 shows [ 8h, Th ]
+KaycLayc shows [ Ah, Ad ]
+dfc1000 collected [ $0.15 ]
+
+
+#Game No : 1230893859
+***** 888poker Hand History for Game 1230893859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:48:32
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $1.07 )
+Seat 6: KaycLayc ( $1.03 )
+KaycLayc posts small blind [$0.01]
+dfc1000 posts big blind [$0.02]
+** Dealing down cards **
+KaycLayc raises [$0.09]
+dfc1000 folds
+** Summary **
+KaycLayc collected [ $0.04 ]
+
+
+#Game No : 1230893874
+***** 888poker Hand History for Game 1230893874 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:48:41
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $1.05 )
+Seat 6: KaycLayc ( $1.05 )
+dfc1000 posts small blind [$0.01]
+KaycLayc posts big blind [$0.02]
+** Dealing down cards **
+dfc1000 calls [$0.01]
+KaycLayc raises [$0.06]
+dfc1000 folds
+** Summary **
+KaycLayc collected [ $0.04 ]
+
+
+#Game No : 1230893907
+***** 888poker Hand History for Game 1230893907 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 17:48:55
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dfc1000 ( $1.03 )
+Seat 6: KaycLayc ( $1.07 )
+KaycLayc posts small blind [$0.01]
+dfc1000 posts big blind [$0.02]
+** Dealing down cards **
+KaycLayc raises [$0.09]
+dfc1000 folds
+** Summary **
+KaycLayc collected [ $0.04 ]
+
+
+#Game No : 1230906977
+***** 888poker Hand History for Game 1230906977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 19:44:58
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: dr.af2015 ( $1.20 )
+Seat 9: jonahlsm ( $5.06 )
+jonahlsm posts small blind [$0.01]
+dr.af2015 posts big blind [$0.02]
+** Dealing down cards **
+jonahlsm folds
+** Summary **
+dr.af2015 collected [ $0.03 ]
+
+
+#Game No : 1230906991
+***** 888poker Hand History for Game 1230906991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 19:45:07
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dr.af2015 ( $1.21 )
+Seat 9: jonahlsm ( $5.05 )
+dr.af2015 posts small blind [$0.01]
+jonahlsm posts big blind [$0.02]
+** Dealing down cards **
+dr.af2015 calls [$0.01]
+jonahlsm checks
+** Dealing flop ** [ 9h, Kd, 8s ]
+jonahlsm checks
+dr.af2015 checks
+** Dealing turn ** [ Ts ]
+jonahlsm checks
+dr.af2015 bets [$0.02]
+jonahlsm folds
+** Summary **
+dr.af2015 collected [ $0.04 ]
+
+
+#Game No : 1230907057
+***** 888poker Hand History for Game 1230907057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 19:45:41
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: dr.af2015 ( $1.23 )
+Seat 9: jonahlsm ( $5.03 )
+jonahlsm posts small blind [$0.01]
+dr.af2015 posts big blind [$0.02]
+** Dealing down cards **
+jonahlsm folds
+** Summary **
+dr.af2015 collected [ $0.03 ]
+
+
+#Game No : 1230919373
+***** 888poker Hand History for Game 1230919373 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 21:50:15
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ala111n ( $1 )
+Seat 9: Jonini88 ( $0.17 )
+Jonini88 posts small blind [$0.01]
+ala111n posts big blind [$0.02]
+** Dealing down cards **
+Jonini88 folds
+** Summary **
+ala111n did not show his hand
+ala111n collected [ $0.03 ]
+
+
+#Game No : 1230919388
+***** 888poker Hand History for Game 1230919388 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 21:50:22
+Table Cesena 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ala111n ( $1.01 )
+Seat 9: Jonini88 ( $0.16 )
+ala111n posts small blind [$0.01]
+Jonini88 posts big blind [$0.02]
+** Dealing down cards **
+ala111n calls [$0.01]
+Jonini88 checks
+** Dealing flop ** [ 9h, 4c, 7h ]
+Jonini88 checks
+ala111n checks
+** Dealing turn ** [ Ah ]
+Jonini88 checks
+ala111n bets [$0.04]
+Jonini88 folds
+** Summary **
+ala111n did not show his hand
+ala111n collected [ $0.04 ]
+
+
+#Game No : 1230919423
+***** 888poker Hand History for Game 1230919423 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 21:50:45
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ala111n ( $1.03 )
+Seat 9: Jonini88 ( $0.14 )
+Jonini88 posts small blind [$0.01]
+ala111n posts big blind [$0.02]
+** Dealing down cards **
+Jonini88 calls [$0.01]
+ala111n checks
+** Dealing flop ** [ 2d, 2s, 7c ]
+ala111n checks
+Jonini88 checks
+** Dealing turn ** [ 3c ]
+ala111n bets [$0.04]
+Jonini88 calls [$0.04]
+** Dealing river ** [ Td ]
+ala111n bets [$0.08]
+Jonini88 calls [$0.08]
+** Summary **
+ala111n shows [ 7s, Jc ]
+Jonini88 shows [ Ks, 2h ]
+Jonini88 collected [ $0.27 ]
+
+
+#Game No : 1230922734
+***** 888poker Hand History for Game 1230922734 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 22:28:27
+Table Cesena 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: VictimVIP ( $2.33 )
+Seat 4: ZTX18 ( $0.61 )
+ZTX18 posts small blind [$0.01]
+VictimVIP posts big blind [$0.02]
+** Dealing down cards **
+ZTX18 raises [$0.03]
+VictimVIP calls [$0.02]
+** Dealing flop ** [ 5d, Ks, Ac ]
+VictimVIP checks
+ZTX18 bets [$0.02]
+VictimVIP folds
+** Summary **
+ZTX18 collected [ $0.08 ]
+
+
+#Game No : 1230946981
+***** 888poker Hand History for Game 1230946981 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 12 2018 01:59:36
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: aron4ik ( $3.27 )
+Seat 9: Intelligent8 ( $1.20 )
+Intelligent8 posts small blind [$0.01]
+aron4ik posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 folds
+** Summary **
+aron4ik collected [ $0.03 ]
+
+
+#Game No : 1230947149
+***** 888poker Hand History for Game 1230947149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 12 2018 02:01:07
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Messy134 ( $0.80 )
+Seat 9: Intelligent8 ( $1.19 )
+Messy134 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+Messy134 calls [$0.01]
+Intelligent8 raises [$0.02]
+Messy134 calls [$0.02]
+** Dealing flop ** [ Th, 8s, 5c ]
+Intelligent8 checks
+Messy134 bets [$0.02]
+Intelligent8 calls [$0.02]
+** Dealing turn ** [ 8d ]
+Intelligent8 checks
+Messy134 bets [$0.08]
+Intelligent8 folds
+** Summary **
+Messy134 collected [ $0.12 ]
+
+
+#Game No : 1230947196
+***** 888poker Hand History for Game 1230947196 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 12 2018 02:01:34
+Table Cesena 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Messy134 ( $0.86 )
+Seat 9: Intelligent8 ( $1.13 )
+Intelligent8 posts small blind [$0.01]
+Messy134 posts big blind [$0.02]
+** Dealing down cards **
+Intelligent8 raises [$0.03]
+Messy134 calls [$0.02]
+** Dealing flop ** [ 3s, 9s, Ah ]
+Messy134 checks
+Intelligent8 bets [$0.04]
+Messy134 calls [$0.04]
+** Dealing turn ** [ 4d ]
+Messy134 checks
+Intelligent8 checks
+** Dealing river ** [ 7c ]
+Messy134 bets [$0.08]
+Intelligent8 calls [$0.08]
+** Summary **
+Messy134 shows [ 6c, Ad ]
+Intelligent8 mucks [ 6h, 6d ]
+Messy134 collected [ $0.30 ]
+
+
+#Game No : 1230947256
+***** 888poker Hand History for Game 1230947256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 12 2018 02:02:11
+Table Cesena 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Messy134 ( $1 )
+Seat 9: Intelligent8 ( $1 )
+Messy134 posts small blind [$0.01]
+Intelligent8 posts big blind [$0.02]
+** Dealing down cards **
+Messy134 raises [$0.03]
+Intelligent8 folds
+** Summary **
+Messy134 collected [ $0.04 ]
+
+
+#Game No : 1230982296
+***** 888poker Hand History for Game 1230982296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 12 2018 05:45:35
+Table Cesena 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: acky_crush ( $1.89 )
+Seat 9: SlikvsSlik ( $1.39 )
+acky_crush posts small blind [$0.01]
+** Dealing down cards **
+SlikvsSlik folds
+** Summary **
+acky_crush collected [ $0.01 ]
+
+

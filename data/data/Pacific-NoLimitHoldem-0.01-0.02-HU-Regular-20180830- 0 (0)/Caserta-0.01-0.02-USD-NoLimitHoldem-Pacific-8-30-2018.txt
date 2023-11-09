@@ -1,0 +1,400 @@
+#Game No : 501669739
+***** 888poker Hand History for Game 501669739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:19:39
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: philbosby ( $2.10 )
+Seat 7: OlegH1 ( $1.22 )
+philbosby posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+philbosby folds
+** Summary **
+OlegH1 collected [ $0.03 ]
+
+
+#Game No : 501669748
+***** 888poker Hand History for Game 501669748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:19:46
+Table Caserta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: philbosby ( $2.09 )
+Seat 7: OlegH1 ( $1.23 )
+OlegH1 posts small blind [$0.01]
+philbosby posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+philbosby checks
+** Dealing flop ** [ 9h, Kd, Qd ]
+philbosby checks
+OlegH1 bets [$0.02]
+philbosby folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 501669766
+***** 888poker Hand History for Game 501669766 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:19:59
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: philbosby ( $2.07 )
+Seat 7: OlegH1 ( $1.25 )
+philbosby posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+philbosby raises [$0.05]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ 2h, 6h, Ac ]
+OlegH1 checks
+philbosby checks
+** Dealing turn ** [ 9c ]
+OlegH1 checks
+philbosby checks
+** Dealing river ** [ 2d ]
+OlegH1 checks
+philbosby checks
+** Summary **
+OlegH1 shows [ 9d, 7c ]
+philbosby mucks [ Ks, 3h ]
+OlegH1 collected [ $0.12 ]
+
+
+#Game No : 501669794
+***** 888poker Hand History for Game 501669794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:20:30
+Table Caserta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: philbosby ( $2.01 )
+Seat 7: OlegH1 ( $1.31 )
+OlegH1 posts small blind [$0.01]
+philbosby posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+philbosby collected [ $0.03 ]
+
+
+#Game No : 501669802
+***** 888poker Hand History for Game 501669802 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:20:35
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: philbosby ( $2.02 )
+Seat 7: OlegH1 ( $1.30 )
+philbosby posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+philbosby raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ Ac, 4s, 9h ]
+OlegH1 checks
+philbosby bets [$0.04]
+OlegH1 folds
+** Summary **
+philbosby collected [ $0.08 ]
+
+
+#Game No : 501669832
+***** 888poker Hand History for Game 501669832 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:21:03
+Table Caserta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: philbosby ( $2.06 )
+Seat 7: OlegH1 ( $1.26 )
+OlegH1 posts small blind [$0.01]
+philbosby posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+philbosby checks
+** Dealing flop ** [ 4c, Jd, 6h ]
+philbosby checks
+OlegH1 bets [$0.02]
+philbosby calls [$0.02]
+** Dealing turn ** [ 8c ]
+philbosby checks
+OlegH1 bets [$0.02]
+philbosby calls [$0.02]
+** Dealing river ** [ 5d ]
+philbosby checks
+OlegH1 checks
+** Summary **
+philbosby shows [ 3c, Qc ]
+OlegH1 shows [ 6s, 2s ]
+OlegH1 collected [ $0.12 ]
+
+
+#Game No : 501669859
+***** 888poker Hand History for Game 501669859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:21:29
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: philbosby ( $2 )
+Seat 7: OlegH1 ( $1.32 )
+philbosby posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+philbosby raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ Jd, 3c, 8c ]
+OlegH1 checks
+philbosby bets [$0.05]
+OlegH1 folds
+** Summary **
+philbosby collected [ $0.08 ]
+
+
+#Game No : 501670909
+***** 888poker Hand History for Game 501670909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:40:16
+Table Caserta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.45 )
+Seat 7: OlegH1 ( $1.41 )
+OlegH1 posts small blind [$0.01]
+philbosby posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+philbosby checks
+** Dealing flop ** [ Td, 3d, 9d ]
+philbosby checks
+OlegH1 checks
+** Dealing turn ** [ Ad ]
+philbosby checks
+OlegH1 bets [$0.02]
+philbosby folds
+** Summary **
+OlegH1 did not show his hand
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 501670926
+***** 888poker Hand History for Game 501670926 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:40:37
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.43 )
+Seat 7: OlegH1 ( $1.43 )
+philbosby posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+philbosby raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ 8d, 3c, Qd ]
+OlegH1 checks
+philbosby bets [$0.04]
+OlegH1 calls [$0.04]
+** Dealing turn ** [ 6h ]
+OlegH1 checks
+philbosby bets [$0.08]
+OlegH1 calls [$0.08]
+** Dealing river ** [ 6s ]
+OlegH1 checks
+philbosby bets [$0.16]
+OlegH1 calls [$0.16]
+** Summary **
+philbosby shows [ 5c, 4c ]
+OlegH1 shows [ 7d, 8s ]
+OlegH1 collected [ $0.60 ]
+
+
+#Game No : 501670979
+***** 888poker Hand History for Game 501670979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:41:38
+Table Caserta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.11 )
+Seat 7: OlegH1 ( $1.71 )
+OlegH1 posts small blind [$0.01]
+philbosby posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+philbosby checks
+** Dealing flop ** [ Jh, 2h, As ]
+philbosby checks
+OlegH1 checks
+** Dealing turn ** [ 5c ]
+philbosby bets [$0.04]
+OlegH1 folds
+** Summary **
+philbosby collected [ $0.04 ]
+
+
+#Game No : 501670993
+***** 888poker Hand History for Game 501670993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:41:55
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.13 )
+Seat 7: OlegH1 ( $1.69 )
+philbosby posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+philbosby raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ 9h, 3s, 4s ]
+OlegH1 checks
+philbosby bets [$0.05]
+OlegH1 calls [$0.05]
+** Dealing turn ** [ Kc ]
+OlegH1 checks
+philbosby checks
+** Dealing river ** [ 7c ]
+OlegH1 checks
+philbosby checks
+** Summary **
+OlegH1 shows [ Qd, Js ]
+philbosby shows [ Ac, 6h ]
+philbosby collected [ $0.17 ]
+
+
+#Game No : 501671036
+***** 888poker Hand History for Game 501671036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:42:52
+Table Caserta 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.21 )
+Seat 7: OlegH1 ( $1.60 )
+OlegH1 posts small blind [$0.01]
+philbosby posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+philbosby checks
+** Dealing flop ** [ Ks, Ts, 6h ]
+philbosby bets [$0.04]
+OlegH1 calls [$0.04]
+** Dealing turn ** [ 3c ]
+philbosby bets [$0.12]
+OlegH1 calls [$0.12]
+** Dealing river ** [ As ]
+philbosby bets [$0.36]
+OlegH1 calls [$0.36]
+** Summary **
+philbosby shows [ Qs, 6s ]
+OlegH1 mucks [ 6d, Td ]
+philbosby collected [ $1.02 ]
+
+
+#Game No : 501671433
+***** 888poker Hand History for Game 501671433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:51:03
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.09 )
+Seat 9: kelbboy ( $1.09 )
+philbosby posts small blind [$0.01]
+kelbboy posts big blind [$0.02]
+** Dealing down cards **
+philbosby calls [$0.01]
+kelbboy checks
+** Dealing flop ** [ Qh, Qc, 7s ]
+kelbboy checks
+philbosby checks
+** Dealing turn ** [ Js ]
+kelbboy checks
+philbosby checks
+** Dealing river ** [ 5s ]
+kelbboy checks
+philbosby checks
+** Summary **
+kelbboy shows [ 6s, 4c ]
+philbosby shows [ Kd, 3c ]
+philbosby collected [ $0.04 ]
+
+
+#Game No : 501671451
+***** 888poker Hand History for Game 501671451 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:51:26
+Table Caserta 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.11 )
+Seat 9: kelbboy ( $1.07 )
+kelbboy posts small blind [$0.01]
+philbosby posts big blind [$0.02]
+** Dealing down cards **
+kelbboy calls [$0.01]
+philbosby checks
+** Dealing flop ** [ 9c, Ad, 4d ]
+philbosby checks
+kelbboy bets [$0.02]
+philbosby calls [$0.02]
+** Dealing turn ** [ 3s ]
+philbosby checks
+kelbboy checks
+** Dealing river ** [ Ts ]
+philbosby checks
+kelbboy bets [$0.06]
+philbosby folds
+** Summary **
+kelbboy collected [ $0.08 ]
+
+
+#Game No : 501671474
+***** 888poker Hand History for Game 501671474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:51:52
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.07 )
+Seat 9: kelbboy ( $1.11 )
+philbosby posts small blind [$0.01]
+kelbboy posts big blind [$0.02]
+** Dealing down cards **
+philbosby raises [$0.05]
+kelbboy folds
+** Summary **
+philbosby collected [ $0.04 ]
+
+
+#Game No : 501671482
+***** 888poker Hand History for Game 501671482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:52:01
+Table Caserta 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.09 )
+Seat 9: kelbboy ( $1.09 )
+kelbboy posts small blind [$0.01]
+philbosby posts big blind [$0.02]
+** Dealing down cards **
+kelbboy calls [$0.01]
+philbosby checks
+** Dealing flop ** [ 4c, 5s, 8d ]
+philbosby bets [$0.04]
+kelbboy folds
+** Summary **
+philbosby collected [ $0.04 ]
+
+
+#Game No : 501671500
+***** 888poker Hand History for Game 501671500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 08 2018 14:52:22
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: philbosby ( $1.11 )
+Seat 9: kelbboy ( $1.07 )
+philbosby posts small blind [$0.01]
+kelbboy posts big blind [$0.02]
+** Dealing down cards **
+philbosby calls [$0.01]
+kelbboy raises [$0.02]
+philbosby folds
+** Summary **
+kelbboy collected [ $0.04 ]
+
+

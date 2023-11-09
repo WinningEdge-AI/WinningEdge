@@ -1,0 +1,73 @@
+#Game No : 1218625851
+***** 888poker Hand History for Game 1218625851 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 08:09:57
+Table Coquimbo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 1gadfly1 ( $1.99 )
+Seat 2: GanibaLector ( $2.23 )
+GanibaLector posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+GanibaLector raises [$0.05]
+1gadfly1 raises [$0.16]
+GanibaLector raises [$2.17]
+1gadfly1 calls [$1.81]
+** Dealing flop ** [ 9d, 9h, 5s ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ Ks ]
+** Summary **
+1gadfly1 shows [ 8d, 8c ]
+GanibaLector shows [ Td, Ah ]
+1gadfly1 collected [ $3.74 ]
+
+
+#Game No : 1218626459
+***** 888poker Hand History for Game 1218626459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 08:12:56
+Table Coquimbo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 1gadfly1 ( $3.78 )
+Seat 4: HerrCul ( $2 )
+1gadfly1 posts small blind [$0.01]
+HerrCul posts big blind [$0.02]
+** Dealing down cards **
+1gadfly1 raises [$0.05]
+HerrCul calls [$0.04]
+** Dealing flop ** [ Td, 9s, 3c ]
+HerrCul checks
+1gadfly1 bets [$0.06]
+HerrCul raises [$0.18]
+1gadfly1 calls [$0.12]
+** Dealing turn ** [ 2c ]
+HerrCul bets [$0.32]
+1gadfly1 calls [$0.32]
+** Dealing river ** [ Ad ]
+HerrCul checks
+1gadfly1 checks
+** Summary **
+HerrCul shows [ Ks, Tc ]
+1gadfly1 mucks [ 4c, Qc ]
+HerrCul collected [ $1.05 ]
+
+
+#Game No : 1218699763
+***** 888poker Hand History for Game 1218699763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 12:45:13
+Table Coquimbo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: nucynuc ( $2 )
+Seat 9: Emocoes13 ( $0.79 )
+nucynuc posts small blind [$0.01]
+Emocoes13 posts big blind [$0.02]
+** Dealing down cards **
+nucynuc raises [$0.03]
+Emocoes13 raises [$0.10]
+nucynuc folds
+** Summary **
+Emocoes13 did not show his hand
+Emocoes13 collected [ $0.08 ]
+
+

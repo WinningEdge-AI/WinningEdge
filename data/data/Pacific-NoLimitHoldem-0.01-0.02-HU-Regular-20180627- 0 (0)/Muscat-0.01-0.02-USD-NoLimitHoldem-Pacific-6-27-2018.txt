@@ -1,0 +1,69 @@
+#Game No : 604814297
+***** 888poker Hand History for Game 604814297 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:22:43
+Table Muscat 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MadMikeAAA1 ( $1.38 )
+Seat 5: okempki ( $0.86 )
+MadMikeAAA1 posts small blind [$0.01]
+okempki posts big blind [$0.02]
+** Dealing down cards **
+MadMikeAAA1 calls [$0.01]
+okempki checks
+** Dealing flop ** [ Kc, Kd, 7s ]
+okempki checks
+MadMikeAAA1 checks
+** Dealing turn ** [ 8s ]
+okempki checks
+MadMikeAAA1 checks
+** Dealing river ** [ 4c ]
+okempki checks
+MadMikeAAA1 checks
+** Summary **
+okempki shows [ 9s, Tc ]
+MadMikeAAA1 mucks [ 5d, 3d ]
+okempki collected [ $0.04 ]
+
+
+#Game No : 604814312
+***** 888poker Hand History for Game 604814312 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:22:52
+Table Muscat 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: MadMikeAAA1 ( $1.36 )
+Seat 5: okempki ( $0.88 )
+okempki posts small blind [$0.01]
+MadMikeAAA1 posts big blind [$0.02]
+** Dealing down cards **
+okempki raises [$0.05]
+MadMikeAAA1 raises [$0.16]
+okempki raises [$0.82]
+MadMikeAAA1 calls [$0.70]
+** Dealing flop ** [ Ks, 9d, 7h ]
+** Dealing turn ** [ As ]
+** Dealing river ** [ 5h ]
+** Summary **
+MadMikeAAA1 shows [ Ah, Kc ]
+okempki shows [ Ad, Kh ]
+MadMikeAAA1 collected [ $0.83 ]
+okempki collected [ $0.82 ]
+
+
+#Game No : 604820169
+***** 888poker Hand History for Game 604820169 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 12:32:49
+Table Muscat 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Yo_Miguelo ( $1.84 )
+Seat 9: DeepakDamani ( $4.22 )
+Yo_Miguelo posts small blind [$0.01]
+DeepakDamani posts big blind [$0.02]
+** Dealing down cards **
+Yo_Miguelo folds
+** Summary **
+DeepakDamani collected [ $0.03 ]
+
+

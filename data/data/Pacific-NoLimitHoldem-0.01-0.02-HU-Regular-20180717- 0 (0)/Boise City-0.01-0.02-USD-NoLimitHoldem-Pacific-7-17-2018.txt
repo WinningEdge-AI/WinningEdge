@@ -1,0 +1,29 @@
+#Game No : 504815780
+***** 888poker Hand History for Game 504815780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 07 2018 13:14:35
+Table Boise City 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: JokerDaniil ( $2.97 )
+Seat 6: kirillm1 ( $4.65 )
+JokerDaniil posts small blind [$0.01]
+kirillm1 posts big blind [$0.02]
+** Dealing down cards **
+JokerDaniil raises [$0.05]
+kirillm1 calls [$0.04]
+** Dealing flop ** [ 3s, Jc, Jh ]
+kirillm1 checks
+JokerDaniil bets [$0.06]
+kirillm1 calls [$0.06]
+** Dealing turn ** [ 8s ]
+kirillm1 checks
+JokerDaniil checks
+** Dealing river ** [ Kd ]
+kirillm1 checks
+JokerDaniil checks
+** Summary **
+kirillm1 shows [ Ad, 2h ]
+JokerDaniil mucks [ Qc, Th ]
+kirillm1 collected [ $0.23 ]
+
+

@@ -1,0 +1,54 @@
+#Game No : 1236069203
+***** 888poker Hand History for Game 1236069203 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 21:04:28
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: leemstar ( $0.92 )
+Seat 10: Spoony_64 ( $4.21 )
+leemstar posts small blind [$0.01]
+Spoony_64 posts big blind [$0.02]
+** Dealing down cards **
+leemstar raises [$0.03]
+Spoony_64 calls [$0.02]
+** Dealing flop ** [ 4h, 3h, 5h ]
+Spoony_64 bets [$0.06]
+leemstar calls [$0.06]
+** Dealing turn ** [ 9d ]
+Spoony_64 bets [$0.14]
+leemstar calls [$0.14]
+** Dealing river ** [ 4c ]
+Spoony_64 checks
+leemstar bets [$0.24]
+Spoony_64 folds
+** Summary **
+leemstar did not show his hand
+leemstar collected [ $0.45 ]
+
+
+#Game No : 1236070725
+***** 888poker Hand History for Game 1236070725 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 12 2018 21:28:53
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: Eniotnaso ( $1.02 )
+Seat 3: Vladimir_Pv ( $0.80 )
+Vladimir_Pv posts small blind [$0.01]
+Eniotnaso posts big blind [$0.02]
+** Dealing down cards **
+Vladimir_Pv calls [$0.01]
+Eniotnaso checks
+** Dealing flop ** [ Tc, 4s, Qd ]
+Eniotnaso checks
+Vladimir_Pv checks
+** Dealing turn ** [ 9d ]
+Eniotnaso bets [$0.02]
+Vladimir_Pv calls [$0.02]
+** Dealing river ** [ Jc ]
+Eniotnaso bets [$0.32]
+Vladimir_Pv folds
+** Summary **
+Eniotnaso collected [ $0.08 ]
+
+

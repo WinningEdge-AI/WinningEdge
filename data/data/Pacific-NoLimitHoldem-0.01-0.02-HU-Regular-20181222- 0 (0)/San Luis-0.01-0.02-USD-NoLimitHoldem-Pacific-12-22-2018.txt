@@ -1,0 +1,78 @@
+#Game No : 612718539
+***** 888poker Hand History for Game 612718539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 12 2018 01:40:18
+Table San Luis 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Amorozz ( $1.62 )
+Seat 9: rn317 ( $1.03 )
+rn317 posts small blind [$0.01]
+Amorozz posts big blind [$0.02]
+** Dealing down cards **
+rn317 raises [$0.05]
+Amorozz calls [$0.04]
+** Dealing flop ** [ Ah, Qc, 9h ]
+Amorozz checks
+rn317 bets [$0.06]
+Amorozz calls [$0.06]
+** Dealing turn ** [ Kd ]
+Amorozz checks
+rn317 checks
+** Dealing river ** [ Ac ]
+Amorozz bets [$0.08]
+rn317 calls [$0.08]
+** Summary **
+Amorozz shows [ 5h, Kh ]
+rn317 mucks [ 7h, 7c ]
+Amorozz collected [ $0.38 ]
+
+
+#Game No : 612718553
+***** 888poker Hand History for Game 612718553 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 12 2018 01:40:51
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Amorozz ( $1.80 )
+Seat 9: rn317 ( $0.83 )
+Amorozz posts small blind [$0.01]
+rn317 posts big blind [$0.02]
+** Dealing down cards **
+Amorozz raises [$0.03]
+rn317 calls [$0.02]
+** Dealing flop ** [ 3s, Ah, Qs ]
+rn317 bets [$0.04]
+Amorozz calls [$0.04]
+** Dealing turn ** [ Kc ]
+rn317 bets [$0.12]
+Amorozz calls [$0.12]
+** Dealing river ** [ 5c ]
+rn317 bets [$0.20]
+Amorozz calls [$0.20]
+** Summary **
+rn317 shows [ 5h, 5d ]
+Amorozz mucks [ Jc, Ad ]
+rn317 collected [ $0.75 ]
+
+
+#Game No : 612721623
+***** 888poker Hand History for Game 612721623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 12 2018 03:28:01
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pokerbluna ( $0.94 )
+Seat 4: dmitb ( $2.66 )
+dmitb posts small blind [$0.01]
+Pokerbluna posts big blind [$0.02]
+** Dealing down cards **
+dmitb calls [$0.01]
+Pokerbluna checks
+** Dealing flop ** [ 5s, Jc, 6c ]
+Pokerbluna bets [$0.04]
+dmitb folds
+** Summary **
+Pokerbluna did not show his hand
+Pokerbluna collected [ $0.04 ]
+
+

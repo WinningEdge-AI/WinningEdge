@@ -1,0 +1,105 @@
+#Game No : 502647908
+***** 888poker Hand History for Game 502647908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2018 21:07:30
+Table Clearwater 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ljroi ( $0.72 )
+Seat 9: Pepinoskki ( $2.09 )
+Pepinoskki posts small blind [$0.01]
+Ljroi posts big blind [$0.02]
+** Dealing down cards **
+Pepinoskki calls [$0.01]
+Ljroi raises [$0.02]
+Pepinoskki calls [$0.02]
+** Dealing flop ** [ 6h, 3h, 2c ]
+Ljroi checks
+Pepinoskki bets [$0.02]
+Ljroi raises [$0.04]
+Pepinoskki calls [$0.02]
+** Dealing turn ** [ 3d ]
+Ljroi bets [$0.10]
+Pepinoskki calls [$0.10]
+** Dealing river ** [ Qs ]
+Ljroi checks
+Pepinoskki checks
+** Summary **
+Ljroi shows [ Ts, Ah ]
+Pepinoskki mucks [ 8h, Ac ]
+Ljroi collected [ $0.34 ]
+
+
+#Game No : 502647924
+***** 888poker Hand History for Game 502647924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2018 21:08:07
+Table Clearwater 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ljroi ( $0.88 )
+Seat 9: Pepinoskki ( $1.91 )
+Ljroi posts small blind [$0.01]
+Pepinoskki posts big blind [$0.02]
+** Dealing down cards **
+Ljroi folds
+** Summary **
+Pepinoskki collected [ $0.03 ]
+
+
+#Game No : 502647929
+***** 888poker Hand History for Game 502647929 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2018 21:08:17
+Table Clearwater 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Ljroi ( $0.87 )
+Seat 9: Pepinoskki ( $1.92 )
+Pepinoskki posts small blind [$0.01]
+Ljroi posts big blind [$0.02]
+** Dealing down cards **
+Pepinoskki calls [$0.01]
+Ljroi checks
+** Dealing flop ** [ 9c, 3c, Kh ]
+Ljroi checks
+Pepinoskki checks
+** Dealing turn ** [ 9s ]
+Ljroi checks
+Pepinoskki checks
+** Dealing river ** [ 5c ]
+Ljroi bets [$0.10]
+Pepinoskki folds
+** Summary **
+Ljroi collected [ $0.04 ]
+
+
+#Game No : 502647942
+***** 888poker Hand History for Game 502647942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2018 21:08:38
+Table Clearwater 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Ljroi ( $0.89 )
+Seat 9: Pepinoskki ( $1.90 )
+Ljroi posts small blind [$0.01]
+Pepinoskki posts big blind [$0.02]
+** Dealing down cards **
+Ljroi calls [$0.01]
+Pepinoskki checks
+** Dealing flop ** [ 9s, 8d, 3h ]
+Pepinoskki checks
+Ljroi bets [$0.04]
+Pepinoskki calls [$0.04]
+** Dealing turn ** [ 4c ]
+Pepinoskki checks
+Ljroi bets [$0.10]
+Pepinoskki raises [$0.20]
+Ljroi calls [$0.10]
+** Dealing river ** [ Qd ]
+Pepinoskki bets [$0.34]
+Ljroi raises [$0.63]
+Pepinoskki calls [$0.29]
+** Summary **
+Ljroi shows [ 2h, 8h ]
+Pepinoskki shows [ 8s, 9h ]
+Pepinoskki collected [ $1.67 ]
+
+

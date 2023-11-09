@@ -1,0 +1,46 @@
+#Game No : 615314905
+***** 888poker Hand History for Game 615314905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 02:15:45
+Table Madison 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: andron7408 ( $2.24 )
+Seat 7: CJBplayer ( $2.01 )
+CJBplayer posts small blind [$0.01]
+andron7408 posts big blind [$0.02]
+** Dealing down cards **
+CJBplayer folds
+** Summary **
+andron7408 did not show his hand
+andron7408 collected [ $0.03 ]
+
+
+#Game No : 615316258
+***** 888poker Hand History for Game 615316258 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 02 2019 03:02:54
+Table Madison 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ArcticWin ( $1.91 )
+Seat 5: andron7408 ( $2.38 )
+andron7408 posts small blind [$0.01]
+ArcticWin posts big blind [$0.02]
+** Dealing down cards **
+andron7408 raises [$0.03]
+ArcticWin calls [$0.02]
+** Dealing flop ** [ Th, 5c, Qh ]
+ArcticWin checks
+andron7408 bets [$0.04]
+ArcticWin calls [$0.04]
+** Dealing turn ** [ 8d ]
+ArcticWin checks
+andron7408 checks
+** Dealing river ** [ 2c ]
+ArcticWin checks
+andron7408 checks
+** Summary **
+ArcticWin shows [ As, 6s ]
+andron7408 mucks [ 4c, 7c ]
+ArcticWin collected [ $0.15 ]
+
+

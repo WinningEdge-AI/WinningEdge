@@ -1,0 +1,217 @@
+#Game No : 503347144
+***** 888poker Hand History for Game 503347144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 18:38:13
+Table Amarillo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Trangia ( $1.67 )
+Seat 9: svk974777 ( $0.37 )
+svk974777 posts small blind [$0.01]
+Trangia posts big blind [$0.02]
+** Dealing down cards **
+svk974777 calls [$0.01]
+Trangia checks
+** Dealing flop ** [ Qh, Ac, 6c ]
+Trangia checks
+svk974777 checks
+** Dealing turn ** [ 7s ]
+Trangia bets [$0.04]
+svk974777 folds
+** Summary **
+Trangia collected [ $0.04 ]
+
+
+#Game No : 503347332
+***** 888poker Hand History for Game 503347332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 18:48:55
+Table Amarillo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Svaistunas ( $1 )
+Seat 4: Tatledys ( $1 )
+Tatledys posts small blind [$0.01]
+** Dealing down cards **
+Svaistunas folds
+** Summary **
+Tatledys collected [ $0.01 ]
+
+
+#Game No : 503347358
+***** 888poker Hand History for Game 503347358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 18:50:43
+Table Amarillo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kickcsm ( $1 )
+Seat 6: no1tanker ( $1 )
+Kickcsm posts small blind [$0.01]
+no1tanker posts big blind [$0.02]
+** Dealing down cards **
+Kickcsm calls [$0.01]
+no1tanker checks
+** Dealing flop ** [ 3c, Tc, Qh ]
+no1tanker checks
+Kickcsm checks
+** Dealing turn ** [ 2d ]
+no1tanker checks
+Kickcsm checks
+** Dealing river ** [ Ac ]
+no1tanker checks
+Kickcsm checks
+** Summary **
+no1tanker shows [ Qc, 8d ]
+Kickcsm mucks [ 3d, 5c ]
+no1tanker collected [ $0.04 ]
+
+
+#Game No : 503347380
+***** 888poker Hand History for Game 503347380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 18:52:07
+Table Amarillo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Kickcsm ( $0.98 )
+Seat 7: Tatledys ( $1 )
+Tatledys posts small blind [$0.01]
+Kickcsm posts big blind [$0.02]
+** Dealing down cards **
+Tatledys calls [$0.01]
+Kickcsm checks
+** Dealing flop ** [ 6s, 2d, 3d ]
+Kickcsm checks
+Tatledys checks
+** Dealing turn ** [ 2c ]
+Kickcsm checks
+Tatledys checks
+** Dealing river ** [ 9h ]
+Kickcsm checks
+Tatledys checks
+** Summary **
+Kickcsm shows [ 8s, Ts ]
+Tatledys mucks [ Th, 7d ]
+Kickcsm collected [ $0.04 ]
+
+
+#Game No : 503347391
+***** 888poker Hand History for Game 503347391 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 18:52:57
+Table Amarillo 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kickcsm ( $1 )
+Seat 7: Tatledys ( $0.98 )
+Kickcsm posts small blind [$0.01]
+Tatledys posts big blind [$0.02]
+** Dealing down cards **
+Kickcsm calls [$0.01]
+Tatledys checks
+** Dealing flop ** [ Qh, 3c, 3d ]
+Tatledys checks
+Kickcsm checks
+** Dealing turn ** [ 9d ]
+Tatledys checks
+Kickcsm bets [$0.02]
+Tatledys calls [$0.02]
+** Dealing river ** [ 6h ]
+Tatledys checks
+Kickcsm bets [$0.10]
+Tatledys folds
+** Summary **
+Kickcsm collected [ $0.08 ]
+
+
+#Game No : 1214073519
+***** 888poker Hand History for Game 1214073519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 22:38:14
+Table Amarillo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $2 )
+Seat 2: ilyalt ( $2 )
+ILYICH777 posts small blind [$0.01]
+ilyalt posts big blind [$0.02]
+** Dealing down cards **
+ILYICH777 calls [$0.01]
+ilyalt checks
+** Dealing flop ** [ 9c, Ts, Ks ]
+ilyalt checks
+ILYICH777 bets [$0.02]
+ilyalt calls [$0.02]
+** Dealing turn ** [ 6d ]
+ilyalt checks
+ILYICH777 bets [$0.02]
+ilyalt calls [$0.02]
+** Dealing river ** [ Qd ]
+ilyalt checks
+ILYICH777 checks
+** Summary **
+ilyalt shows [ 6c, Ah ]
+ILYICH777 shows [ 7d, 9h ]
+ILYICH777 collected [ $0.12 ]
+
+
+#Game No : 1214073611
+***** 888poker Hand History for Game 1214073611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 10 2018 22:38:46
+Table Amarillo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ILYICH777 ( $2.06 )
+Seat 2: ilyalt ( $1.94 )
+ilyalt posts small blind [$0.01]
+ILYICH777 posts big blind [$0.02]
+** Dealing down cards **
+ilyalt raises [$0.06]
+ILYICH777 folds
+** Summary **
+ilyalt collected [ $0.04 ]
+
+
+#Game No : 1214217072
+***** 888poker Hand History for Game 1214217072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 12:27:42
+Table Amarillo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: misu05xro ( $2.61 )
+Seat 10: svetosvet ( $0.87 )
+svetosvet posts small blind [$0.01]
+misu05xro posts big blind [$0.02]
+** Dealing down cards **
+svetosvet folds
+** Summary **
+misu05xro collected [ $0.03 ]
+
+
+#Game No : 1214217116
+***** 888poker Hand History for Game 1214217116 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 12:27:52
+Table Amarillo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: misu05xro ( $2.62 )
+Seat 10: svetosvet ( $0.86 )
+misu05xro posts small blind [$0.01]
+** Dealing down cards **
+svetosvet folds
+** Summary **
+misu05xro collected [ $0.01 ]
+
+
+#Game No : 1214218361
+***** 888poker Hand History for Game 1214218361 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 10 2018 12:31:50
+Table Amarillo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: kpnuts1946 ( $1.20 )
+Seat 9: misu05xro ( $2.62 )
+misu05xro posts small blind [$0.01]
+kpnuts1946 posts big blind [$0.02]
+** Dealing down cards **
+misu05xro folds
+** Summary **
+kpnuts1946 did not show his hand
+kpnuts1946 collected [ $0.03 ]
+
+

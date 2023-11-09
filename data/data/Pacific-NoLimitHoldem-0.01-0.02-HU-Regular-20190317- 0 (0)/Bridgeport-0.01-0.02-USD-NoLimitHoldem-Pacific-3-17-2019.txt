@@ -1,0 +1,67 @@
+#Game No : 1255407294
+***** 888poker Hand History for Game 1255407294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 21:35:56
+Table Bridgeport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dnemesis123 ( $2.01 )
+Seat 3: ShipPunisher ( $2 )
+dnemesis123 posts small blind [$0.01]
+ShipPunisher posts big blind [$0.02]
+** Dealing down cards **
+dnemesis123 calls [$0.01]
+ShipPunisher checks
+** Dealing flop ** [ Kd, 3d, 6s ]
+ShipPunisher checks
+dnemesis123 bets [$0.02]
+ShipPunisher folds
+** Summary **
+dnemesis123 did not show his hand
+dnemesis123 collected [ $0.04 ]
+
+
+#Game No : 1255409660
+***** 888poker Hand History for Game 1255409660 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 22:09:34
+Table Bridgeport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: stannist ( $1 )
+Seat 5: 1AUE1 ( $0.80 )
+1AUE1 posts small blind [$0.01]
+stannist posts big blind [$0.02]
+** Dealing down cards **
+1AUE1 calls [$0.01]
+stannist checks
+** Dealing flop ** [ Qh, Ks, 4h ]
+stannist bets [$0.06]
+1AUE1 calls [$0.06]
+** Dealing turn ** [ Ad ]
+stannist bets [$0.06]
+1AUE1 calls [$0.06]
+** Dealing river ** [ 2s ]
+stannist bets [$0.14]
+1AUE1 calls [$0.14]
+** Summary **
+stannist shows [ Th, Kh ]
+1AUE1 mucks [ 9c, Qc ]
+stannist collected [ $0.53 ]
+
+
+#Game No : 1255418155
+***** 888poker Hand History for Game 1255418155 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 03 2019 23:46:50
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Mobilfox ( $2.23 )
+Seat 4: Motoboyspeed ( $4.39 )
+Mobilfox posts small blind [$0.01]
+Motoboyspeed posts big blind [$0.02]
+** Dealing down cards **
+Mobilfox raises [$0.05]
+Motoboyspeed folds
+** Summary **
+Mobilfox collected [ $0.04 ]
+
+

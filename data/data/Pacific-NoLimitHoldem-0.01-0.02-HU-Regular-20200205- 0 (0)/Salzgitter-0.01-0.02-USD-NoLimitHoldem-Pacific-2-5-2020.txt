@@ -1,0 +1,359 @@
+#Game No : 1329705857
+***** 888poker Hand History for Game 1329705857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:13:22
+Table Salzgitter 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.34 )
+Seat 3: xxflashxxx ( $0.85 )
+volcompok posts small blind [$0.01]
+** Dealing down cards **
+xxflashxxx folds
+** Summary **
+volcompok collected [ $0.01 ]
+
+
+#Game No : 1329705863
+***** 888poker Hand History for Game 1329705863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:13:25
+Table Salzgitter 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.34 )
+Seat 6: PlagueSnot ( $1.79 )
+volcompok posts small blind [$0.01]
+PlagueSnot posts big blind [$0.02]
+** Dealing down cards **
+volcompok folds
+** Summary **
+PlagueSnot collected [ $0.03 ]
+
+
+#Game No : 1329705873
+***** 888poker Hand History for Game 1329705873 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:13:31
+Table Salzgitter 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.33 )
+Seat 6: PlagueSnot ( $1.80 )
+PlagueSnot posts small blind [$0.01]
+volcompok posts big blind [$0.02]
+** Dealing down cards **
+PlagueSnot folds
+** Summary **
+volcompok collected [ $0.03 ]
+
+
+#Game No : 1329705887
+***** 888poker Hand History for Game 1329705887 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:13:39
+Table Salzgitter 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.34 )
+Seat 6: PlagueSnot ( $1.79 )
+volcompok posts small blind [$0.01]
+PlagueSnot posts big blind [$0.02]
+** Dealing down cards **
+volcompok calls [$0.01]
+PlagueSnot raises [$0.04]
+volcompok calls [$0.04]
+** Dealing flop ** [ 3s, 7s, 6c ]
+PlagueSnot bets [$0.06]
+volcompok raises [$0.12]
+PlagueSnot calls [$0.06]
+** Dealing turn ** [ 3c ]
+PlagueSnot checks
+volcompok checks
+** Dealing river ** [ 8h ]
+PlagueSnot bets [$1.61]
+volcompok folds
+** Summary **
+PlagueSnot collected [ $0.34 ]
+
+
+#Game No : 1329705956
+***** 888poker Hand History for Game 1329705956 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:14:20
+Table Salzgitter 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.16 )
+Seat 6: PlagueSnot ( $1.95 )
+PlagueSnot posts small blind [$0.01]
+volcompok posts big blind [$0.02]
+** Dealing down cards **
+PlagueSnot raises [$0.03]
+volcompok calls [$0.02]
+** Dealing flop ** [ 2h, Ad, 9c ]
+volcompok checks
+PlagueSnot checks
+** Dealing turn ** [ 8d ]
+volcompok checks
+PlagueSnot bets [$0.05]
+volcompok calls [$0.05]
+** Dealing river ** [ Qh ]
+volcompok checks
+PlagueSnot bets [$0.18]
+volcompok raises [$0.36]
+PlagueSnot calls [$0.18]
+** Summary **
+volcompok shows [ Jh, Td ]
+PlagueSnot mucks [ Ac, 8c ]
+volcompok collected [ $0.85 ]
+
+
+#Game No : 1329706127
+***** 888poker Hand History for Game 1329706127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:16:19
+Table Salzgitter 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.55 )
+Seat 3: eryomkin71 ( $1.06 )
+eryomkin71 posts small blind [$0.01]
+volcompok posts big blind [$0.02]
+** Dealing down cards **
+eryomkin71 calls [$0.01]
+volcompok checks
+** Dealing flop ** [ Ah, 6c, Kc ]
+volcompok bets [$0.02]
+eryomkin71 folds
+** Summary **
+volcompok did not show his hand
+volcompok collected [ $0.04 ]
+
+
+#Game No : 1329706153
+***** 888poker Hand History for Game 1329706153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:16:23
+Table Salzgitter 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.57 )
+Seat 3: eryomkin71 ( $1.04 )
+volcompok posts small blind [$0.01]
+eryomkin71 posts big blind [$0.02]
+** Dealing down cards **
+volcompok calls [$0.01]
+eryomkin71 checks
+** Dealing flop ** [ 5c, Qd, Ad ]
+eryomkin71 checks
+volcompok checks
+** Dealing turn ** [ 4h ]
+eryomkin71 checks
+volcompok bets [$0.04]
+eryomkin71 calls [$0.04]
+** Dealing river ** [ 9d ]
+eryomkin71 checks
+volcompok checks
+** Summary **
+eryomkin71 shows [ 3s, 6d ]
+volcompok shows [ 3h, Kh ]
+volcompok collected [ $0.12 ]
+
+
+#Game No : 1329706193
+***** 888poker Hand History for Game 1329706193 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:16:46
+Table Salzgitter 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.63 )
+Seat 3: eryomkin71 ( $0.98 )
+eryomkin71 posts small blind [$0.01]
+volcompok posts big blind [$0.02]
+** Dealing down cards **
+eryomkin71 folds
+** Summary **
+volcompok did not show his hand
+volcompok collected [ $0.03 ]
+
+
+#Game No : 1329706207
+***** 888poker Hand History for Game 1329706207 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:16:53
+Table Salzgitter 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.64 )
+Seat 3: eryomkin71 ( $0.97 )
+volcompok posts small blind [$0.01]
+eryomkin71 posts big blind [$0.02]
+** Dealing down cards **
+volcompok calls [$0.01]
+eryomkin71 checks
+** Dealing flop ** [ Qd, As, Ad ]
+eryomkin71 checks
+volcompok checks
+** Dealing turn ** [ Td ]
+eryomkin71 checks
+volcompok checks
+** Dealing river ** [ 6d ]
+eryomkin71 bets [$0.02]
+volcompok raises [$0.04]
+eryomkin71 calls [$0.02]
+** Summary **
+volcompok shows [ 7d, Ah ]
+eryomkin71 shows [ 9h, 8d ]
+eryomkin71 collected [ $0.12 ]
+
+
+#Game No : 1329706273
+***** 888poker Hand History for Game 1329706273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:17:36
+Table Salzgitter 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.58 )
+Seat 3: eryomkin71 ( $1.03 )
+eryomkin71 posts small blind [$0.01]
+volcompok posts big blind [$0.02]
+** Dealing down cards **
+eryomkin71 calls [$0.01]
+volcompok raises [$0.02]
+eryomkin71 calls [$0.02]
+** Dealing flop ** [ Js, 8h, Qc ]
+volcompok checks
+eryomkin71 bets [$0.02]
+volcompok folds
+** Summary **
+eryomkin71 did not show his hand
+eryomkin71 collected [ $0.08 ]
+
+
+#Game No : 1329706306
+***** 888poker Hand History for Game 1329706306 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:17:53
+Table Salzgitter 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.54 )
+Seat 3: eryomkin71 ( $1.07 )
+volcompok posts small blind [$0.01]
+eryomkin71 posts big blind [$0.02]
+** Dealing down cards **
+volcompok calls [$0.01]
+eryomkin71 checks
+** Dealing flop ** [ 2d, Ah, Ac ]
+eryomkin71 checks
+volcompok checks
+** Dealing turn ** [ Jd ]
+eryomkin71 checks
+volcompok checks
+** Dealing river ** [ 8h ]
+eryomkin71 checks
+volcompok checks
+** Summary **
+eryomkin71 shows [ 5c, Ts ]
+volcompok mucks [ 3c, 7h ]
+eryomkin71 collected [ $0.04 ]
+
+
+#Game No : 1329706335
+***** 888poker Hand History for Game 1329706335 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:18:13
+Table Salzgitter 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.52 )
+Seat 3: eryomkin71 ( $1.09 )
+eryomkin71 posts small blind [$0.01]
+volcompok posts big blind [$0.02]
+** Dealing down cards **
+eryomkin71 folds
+** Summary **
+volcompok did not show his hand
+volcompok collected [ $0.03 ]
+
+
+#Game No : 1329706351
+***** 888poker Hand History for Game 1329706351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:18:22
+Table Salzgitter 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.53 )
+Seat 3: eryomkin71 ( $1.08 )
+volcompok posts small blind [$0.01]
+eryomkin71 posts big blind [$0.02]
+** Dealing down cards **
+volcompok calls [$0.01]
+eryomkin71 checks
+** Dealing flop ** [ 2c, Qh, 8s ]
+eryomkin71 checks
+volcompok checks
+** Dealing turn ** [ 2d ]
+eryomkin71 bets [$0.02]
+volcompok raises [$0.04]
+eryomkin71 folds
+** Summary **
+volcompok did not show his hand
+volcompok collected [ $0.08 ]
+
+
+#Game No : 1329706383
+***** 888poker Hand History for Game 1329706383 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:18:41
+Table Salzgitter 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.57 )
+Seat 3: eryomkin71 ( $1.04 )
+eryomkin71 posts small blind [$0.01]
+volcompok posts big blind [$0.02]
+** Dealing down cards **
+eryomkin71 calls [$0.01]
+volcompok checks
+** Dealing flop ** [ Jh, 2d, 9s ]
+volcompok bets [$0.04]
+eryomkin71 folds
+** Summary **
+volcompok did not show his hand
+volcompok collected [ $0.04 ]
+
+
+#Game No : 1329706411
+***** 888poker Hand History for Game 1329706411 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:18:55
+Table Salzgitter 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.59 )
+Seat 3: eryomkin71 ( $1.02 )
+volcompok posts small blind [$0.01]
+eryomkin71 posts big blind [$0.02]
+** Dealing down cards **
+volcompok calls [$0.01]
+eryomkin71 checks
+** Dealing flop ** [ Kc, Qs, Jh ]
+eryomkin71 checks
+volcompok bets [$0.06]
+eryomkin71 folds
+** Summary **
+volcompok did not show his hand
+volcompok collected [ $0.04 ]
+
+
+#Game No : 1329706449
+***** 888poker Hand History for Game 1329706449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 02 2020 22:19:11
+Table Salzgitter 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: volcompok ( $3.61 )
+Seat 3: eryomkin71 ( $1 )
+eryomkin71 posts small blind [$0.01]
+volcompok posts big blind [$0.02]
+** Dealing down cards **
+eryomkin71 calls [$0.01]
+volcompok checks
+** Dealing flop ** [ 3s, Kh, 3c ]
+volcompok checks
+eryomkin71 bets [$0.02]
+volcompok folds
+** Summary **
+eryomkin71 collected [ $0.04 ]
+
+

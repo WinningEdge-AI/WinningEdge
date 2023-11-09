@@ -1,0 +1,73 @@
+#Game No : 1181825004
+***** 888poker Hand History for Game 1181825004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 19:24:37
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Deniss91912 ( $0.46 )
+Seat 6: Pepper313 ( $5.65 )
+Pepper313 posts small blind [$0.01]
+Deniss91912 posts big blind [$0.02]
+** Dealing down cards **
+Pepper313 calls [$0.01]
+Deniss91912 checks
+** Dealing flop ** [ 9s, Ts, 8s ]
+Deniss91912 checks
+Pepper313 checks
+** Dealing turn ** [ 5c ]
+Deniss91912 bets [$0.02]
+Pepper313 calls [$0.02]
+** Dealing river ** [ 4c ]
+Deniss91912 bets [$0.08]
+Pepper313 calls [$0.08]
+** Summary **
+Deniss91912 shows [ Td, 5h ]
+Pepper313 mucks [ Qh, 4d ]
+Deniss91912 collected [ $0.23 ]
+
+
+#Game No : 1181825044
+***** 888poker Hand History for Game 1181825044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 19:25:01
+Table Garland 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Deniss91912 ( $0.57 )
+Seat 6: Pepper313 ( $5.53 )
+Deniss91912 posts small blind [$0.01]
+Pepper313 posts big blind [$0.02]
+** Dealing down cards **
+Deniss91912 folds
+** Summary **
+Pepper313 did not show his hand
+Pepper313 collected [ $0.03 ]
+
+
+#Game No : 1181825061
+***** 888poker Hand History for Game 1181825061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 19:25:07
+Table Garland 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Deniss91912 ( $0.56 )
+Seat 6: Pepper313 ( $5.54 )
+Pepper313 posts small blind [$0.01]
+Deniss91912 posts big blind [$0.02]
+** Dealing down cards **
+Pepper313 calls [$0.01]
+Deniss91912 checks
+** Dealing flop ** [ 7h, 2h, 8s ]
+Deniss91912 checks
+Pepper313 bets [$0.02]
+Deniss91912 raises [$0.06]
+Pepper313 raises [$0.08]
+Deniss91912 raises [$0.48]
+Pepper313 calls [$0.44]
+** Dealing turn ** [ Ts ]
+** Dealing river ** [ 3s ]
+** Summary **
+Deniss91912 shows [ 2d, 2s ]
+Pepper313 shows [ Td, Tc ]
+Pepper313 collected [ $1.05 ]
+
+

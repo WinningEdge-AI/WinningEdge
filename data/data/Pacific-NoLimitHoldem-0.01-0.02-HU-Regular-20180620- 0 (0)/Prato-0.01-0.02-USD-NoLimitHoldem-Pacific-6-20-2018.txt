@@ -1,0 +1,125 @@
+#Game No : 503860036
+***** 888poker Hand History for Game 503860036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 11:48:40
+Table Prato 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Negator93 ( $0.80 )
+Seat 5: kmlm73 ( $2 )
+kmlm73 posts small blind [$0.01]
+Negator93 posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+Negator93 calls [$0.02]
+** Dealing flop ** [ Ks, 6h, Qd ]
+Negator93 checks
+kmlm73 bets [$0.06]
+Negator93 calls [$0.06]
+** Dealing turn ** [ 9s ]
+Negator93 checks
+kmlm73 bets [$0.06]
+Negator93 calls [$0.06]
+** Dealing river ** [ Qh ]
+Negator93 checks
+kmlm73 checks
+** Summary **
+Negator93 shows [ Jc, Qc ]
+kmlm73 mucks [ Jd, Kd ]
+Negator93 collected [ $0.30 ]
+
+
+#Game No : 503874930
+***** 888poker Hand History for Game 503874930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 14:49:26
+Table Prato 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: GarreGarrett ( $1.55 )
+Seat 2: brohster ( $2.68 )
+GarreGarrett posts small blind [$0.01]
+brohster posts big blind [$0.02]
+** Dealing down cards **
+GarreGarrett raises [$0.05]
+brohster calls [$0.04]
+** Dealing flop ** [ 6s, 3c, 7d ]
+brohster bets [$0.06]
+GarreGarrett raises [$0.30]
+brohster folds
+** Summary **
+GarreGarrett did not show his hand
+GarreGarrett collected [ $0.23 ]
+
+
+#Game No : 503874967
+***** 888poker Hand History for Game 503874967 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 14:50:03
+Table Prato 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: GarreGarrett ( $1.66 )
+Seat 5: Elboby ( $1.05 )
+GarreGarrett posts small blind [$0.01]
+Elboby posts big blind [$0.02]
+** Dealing down cards **
+GarreGarrett folds
+** Summary **
+Elboby did not show his hand
+Elboby collected [ $0.03 ]
+
+
+#Game No : 503874972
+***** 888poker Hand History for Game 503874972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 14:50:09
+Table Prato 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: GarreGarrett ( $1.65 )
+Seat 5: Elboby ( $1.06 )
+Elboby posts small blind [$0.01]
+GarreGarrett posts big blind [$0.02]
+** Dealing down cards **
+Elboby calls [$0.01]
+GarreGarrett raises [$0.04]
+Elboby calls [$0.04]
+** Dealing flop ** [ Th, 8c, Jh ]
+GarreGarrett bets [$0.12]
+Elboby raises [$0.24]
+GarreGarrett raises [$1.47]
+Elboby calls [$0.76]
+** Dealing turn ** [ Kh ]
+** Dealing river ** [ Kd ]
+** Summary **
+GarreGarrett shows [ 3s, Ts ]
+Elboby shows [ Tc, Jc ]
+Elboby collected [ $1.99 ]
+
+
+#Game No : 503875015
+***** 888poker Hand History for Game 503875015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 14:50:47
+Table Prato 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: GarreGarrett ( $0.59 )
+Seat 5: Elboby ( $1.99 )
+GarreGarrett posts small blind [$0.01]
+Elboby posts big blind [$0.02]
+** Dealing down cards **
+GarreGarrett raises [$0.03]
+Elboby calls [$0.02]
+** Dealing flop ** [ 8h, 4h, Qh ]
+Elboby checks
+GarreGarrett checks
+** Dealing turn ** [ Ah ]
+Elboby bets [$0.02]
+GarreGarrett calls [$0.02]
+** Dealing river ** [ 2d ]
+Elboby bets [$0.08]
+GarreGarrett raises [$0.53]
+Elboby calls [$0.45]
+** Summary **
+GarreGarrett shows [ Ac, 6s ]
+Elboby shows [ 3h, 9h ]
+Elboby collected [ $1.11 ]
+
+

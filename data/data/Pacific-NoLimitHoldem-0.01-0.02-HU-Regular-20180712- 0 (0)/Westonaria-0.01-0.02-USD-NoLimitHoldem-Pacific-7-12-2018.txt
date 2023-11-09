@@ -1,0 +1,222 @@
+#Game No : 499428087
+***** 888poker Hand History for Game 499428087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 17:45:49
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.53 )
+Seat 6: UnderTheGon ( $2.80 )
+UnderTheGon posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+UnderTheGon folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.03 ]
+
+
+#Game No : 499428091
+***** 888poker Hand History for Game 499428091 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 17:46:26
+Table Westonaria 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.54 )
+Seat 6: abcryu ( $0.80 )
+JS888FU posts small blind [$0.01]
+abcryu posts big blind [$0.02]
+** Dealing down cards **
+JS888FU calls [$0.01]
+abcryu checks
+** Dealing flop ** [ 4h, Kh, Jc ]
+abcryu checks
+JS888FU checks
+** Dealing turn ** [ 5c ]
+abcryu checks
+JS888FU checks
+** Dealing river ** [ 3d ]
+abcryu checks
+JS888FU checks
+** Summary **
+abcryu shows [ 9c, Th ]
+JS888FU shows [ Qh, 9s ]
+JS888FU collected [ $0.04 ]
+
+
+#Game No : 499428097
+***** 888poker Hand History for Game 499428097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 17:47:11
+Table Westonaria 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: JS888FU ( $0.56 )
+Seat 6: abcryu ( $0.78 )
+abcryu posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+abcryu calls [$0.01]
+JS888FU checks
+** Dealing flop ** [ 8c, 2d, 3c ]
+JS888FU checks
+abcryu checks
+** Dealing turn ** [ 2h ]
+JS888FU checks
+abcryu checks
+** Dealing river ** [ 6h ]
+JS888FU checks
+abcryu checks
+** Summary **
+JS888FU shows [ 5s, 7s ]
+abcryu shows [ Th, 4h ]
+abcryu collected [ $0.04 ]
+
+
+#Game No : 499429091
+***** 888poker Hand History for Game 499429091 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 19:53:17
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1 )
+Seat 9: holdem_bot ( $0.95 )
+holdem_bot posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+holdem_bot calls [$0.01]
+Obito111 checks
+** Dealing flop ** [ 6c, 9h, 7h ]
+holdem_bot checks
+Obito111 checks
+** Dealing turn ** [ 2h ]
+holdem_bot checks
+Obito111 checks
+** Dealing river ** [ Kd ]
+holdem_bot checks
+Obito111 checks
+** Summary **
+holdem_bot shows [ Ts, Js ]
+Obito111 shows [ 3s, 3d ]
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 499429095
+***** 888poker Hand History for Game 499429095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 19:54:06
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.01 )
+Seat 9: holdem_bot ( $0.94 )
+Obito111 posts small blind [$0.01]
+holdem_bot posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+holdem_bot folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 499429096
+***** 888poker Hand History for Game 499429096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 19:54:14
+Table Westonaria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.03 )
+Seat 9: holdem_bot ( $0.92 )
+holdem_bot posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+holdem_bot calls [$0.01]
+Obito111 raises [$0.06]
+holdem_bot calls [$0.06]
+** Dealing flop ** [ Qh, Qd, Jh ]
+Obito111 bets [$0.16]
+holdem_bot folds
+** Summary **
+Obito111 collected [ $0.15 ]
+
+
+#Game No : 499429100
+***** 888poker Hand History for Game 499429100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 19:54:33
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.10 )
+Seat 9: holdem_bot ( $0.84 )
+Obito111 posts small blind [$0.01]
+holdem_bot posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.07]
+holdem_bot folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 499429111
+***** 888poker Hand History for Game 499429111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 19:55:25
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.12 )
+Seat 9: holdem_bot ( $0.82 )
+Obito111 posts small blind [$0.01]
+holdem_bot posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+holdem_bot folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 499429121
+***** 888poker Hand History for Game 499429121 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 19:56:18
+Table Westonaria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Obito111 ( $1.13 )
+Seat 9: holdem_bot ( $0.76 )
+Obito111 posts small blind [$0.01]
+holdem_bot posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+holdem_bot folds
+** Summary **
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 499429529
+***** 888poker Hand History for Game 499429529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 20:51:24
+Table Westonaria 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dedtk ( $0.74 )
+Seat 6: tr4derbr ( $2.79 )
+dedtk posts small blind [$0.01]
+** Dealing down cards **
+tr4derbr folds
+** Summary **
+dedtk collected [ $0.01 ]
+
+
+#Game No : 499430066
+***** 888poker Hand History for Game 499430066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 07 2018 22:33:13
+Table Westonaria 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: yznal111 ( $1.74 )
+Seat 9: Leosthai ( $0.62 )
+Leosthai posts small blind [$0.01]
+yznal111 posts big blind [$0.02]
+** Dealing down cards **
+Leosthai raises [$0.03]
+yznal111 folds
+** Summary **
+Leosthai collected [ $0.04 ]
+
+

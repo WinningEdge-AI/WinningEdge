@@ -1,0 +1,106 @@
+#Game No : 463678471
+***** 888poker Hand History for Game 463678471 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 06:09:07
+Table Pforzheim 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: zay76 ( $1.59 )
+Seat 7: mr_3BET ( $0.92 )
+zay76 posts small blind [$0.01]
+** Dealing down cards **
+mr_3BET folds
+** Summary **
+zay76 collected [ $0.01 ]
+
+
+#Game No : 463704812
+***** 888poker Hand History for Game 463704812 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:55:15
+Table Pforzheim 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: heals77 ( $0.22 )
+Seat 6: Sizikov ( $3.82 )
+heals77 posts small blind [$0.01]
+Sizikov posts big blind [$0.02]
+** Dealing down cards **
+heals77 calls [$0.01]
+Sizikov raises [$0.04]
+heals77 calls [$0.04]
+** Dealing flop ** [ 5s, 4s, 3d ]
+Sizikov bets [$0.08]
+heals77 folds
+** Summary **
+Sizikov collected [ $0.12 ]
+
+
+#Game No : 463704823
+***** 888poker Hand History for Game 463704823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:55:48
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: heals77 ( $0.16 )
+Seat 6: Sizikov ( $3.88 )
+Sizikov posts small blind [$0.01]
+heals77 posts big blind [$0.02]
+** Dealing down cards **
+Sizikov calls [$0.01]
+heals77 raises [$0.14]
+Sizikov calls [$0.14]
+** Dealing flop ** [ 7s, 9s, Qd ]
+** Dealing turn ** [ Td ]
+** Dealing river ** [ Qh ]
+** Summary **
+heals77 shows [ Tc, As ]
+Sizikov shows [ 2d, 2h ]
+heals77 collected [ $0.30 ]
+
+
+#Game No : 463704870
+***** 888poker Hand History for Game 463704870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:57:17
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Sizikov ( $3.71 )
+Seat 9: Rovshik14 ( $1.08 )
+Sizikov posts small blind [$0.01]
+Rovshik14 posts big blind [$0.02]
+** Dealing down cards **
+Sizikov calls [$0.01]
+Rovshik14 checks
+** Dealing flop ** [ Td, 8s, 3c ]
+Rovshik14 bets [$0.06]
+Sizikov calls [$0.06]
+** Dealing turn ** [ 8d ]
+Rovshik14 bets [$0.08]
+Sizikov calls [$0.08]
+** Dealing river ** [ Qc ]
+Rovshik14 bets [$0.14]
+Sizikov folds
+** Summary **
+Rovshik14 collected [ $0.30 ]
+
+
+#Game No : 463704908
+***** 888poker Hand History for Game 463704908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:58:38
+Table Pforzheim 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Sizikov ( $3.55 )
+Seat 9: Rovshik14 ( $1.22 )
+Rovshik14 posts small blind [$0.01]
+Sizikov posts big blind [$0.02]
+** Dealing down cards **
+Rovshik14 calls [$0.01]
+Sizikov checks
+** Dealing flop ** [ 3s, 4s, Jc ]
+Sizikov checks
+Rovshik14 bets [$0.04]
+Sizikov folds
+** Summary **
+Rovshik14 collected [ $0.04 ]
+
+

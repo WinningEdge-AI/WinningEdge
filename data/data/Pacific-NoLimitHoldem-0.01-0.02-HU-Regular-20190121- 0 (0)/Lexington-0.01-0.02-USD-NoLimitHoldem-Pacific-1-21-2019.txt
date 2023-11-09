@@ -1,0 +1,128 @@
+#Game No : 1241499854
+***** 888poker Hand History for Game 1241499854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 08:28:27
+Table Lexington 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: GARALD84 ( $2.08 )
+Seat 7: tramoia23 ( $1.56 )
+GARALD84 posts small blind [$0.01]
+tramoia23 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+tramoia23 checks
+** Dealing flop ** [ 7c, Kc, 6c ]
+tramoia23 checks
+GARALD84 bets [$0.02]
+tramoia23 folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 1241500989
+***** 888poker Hand History for Game 1241500989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 08:32:47
+Table Lexington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: thenausea ( $0.80 )
+Seat 9: Ciernik666 ( $0.80 )
+thenausea posts small blind [$0.01]
+Ciernik666 posts big blind [$0.02]
+** Dealing down cards **
+thenausea calls [$0.01]
+Ciernik666 checks
+** Dealing flop ** [ Jd, 2h, 5c ]
+Ciernik666 checks
+thenausea checks
+** Dealing turn ** [ Ac ]
+Ciernik666 checks
+thenausea checks
+** Dealing river ** [ Qc ]
+Ciernik666 checks
+thenausea checks
+** Summary **
+Ciernik666 shows [ 6s, 5h ]
+thenausea mucks [ 8h, Kc ]
+Ciernik666 collected [ $0.04 ]
+
+
+#Game No : 1241501124
+***** 888poker Hand History for Game 1241501124 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 08:33:18
+Table Lexington 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: thenausea ( $0.78 )
+Seat 9: Ciernik666 ( $0.82 )
+Ciernik666 posts small blind [$0.01]
+thenausea posts big blind [$0.02]
+** Dealing down cards **
+Ciernik666 calls [$0.01]
+thenausea checks
+** Dealing flop ** [ 9d, 3c, 9h ]
+thenausea bets [$0.02]
+Ciernik666 folds
+** Summary **
+thenausea collected [ $0.04 ]
+
+
+#Game No : 1241501184
+***** 888poker Hand History for Game 1241501184 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 08:33:31
+Table Lexington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: thenausea ( $0.80 )
+Seat 9: Ciernik666 ( $0.80 )
+thenausea posts small blind [$0.01]
+Ciernik666 posts big blind [$0.02]
+** Dealing down cards **
+thenausea calls [$0.01]
+Ciernik666 checks
+** Dealing flop ** [ 6h, Ad, Qd ]
+Ciernik666 checks
+thenausea bets [$0.02]
+Ciernik666 calls [$0.02]
+** Dealing turn ** [ 2h ]
+Ciernik666 checks
+thenausea checks
+** Dealing river ** [ 9h ]
+Ciernik666 checks
+thenausea checks
+** Summary **
+Ciernik666 shows [ Qc, 4h ]
+thenausea mucks [ Jh, 6d ]
+Ciernik666 collected [ $0.08 ]
+
+
+#Game No : 1241501310
+***** 888poker Hand History for Game 1241501310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 01 2019 08:34:01
+Table Lexington 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: thenausea ( $0.76 )
+Seat 9: Ciernik666 ( $0.84 )
+Ciernik666 posts small blind [$0.01]
+thenausea posts big blind [$0.02]
+** Dealing down cards **
+Ciernik666 calls [$0.01]
+thenausea checks
+** Dealing flop ** [ 5s, 8h, 6h ]
+thenausea checks
+Ciernik666 checks
+** Dealing turn ** [ 7d ]
+thenausea bets [$0.02]
+Ciernik666 calls [$0.02]
+** Dealing river ** [ 4h ]
+thenausea bets [$0.04]
+Ciernik666 raises [$0.08]
+thenausea calls [$0.04]
+** Summary **
+Ciernik666 shows [ 8d, Kc ]
+thenausea shows [ 4c, Jc ]
+Ciernik666 collected [ $0.11 ]
+thenausea collected [ $0.12 ]
+
+

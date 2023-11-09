@@ -1,0 +1,143 @@
+#Game No : 519945141
+***** 888poker Hand History for Game 519945141 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 08:40:14
+Table Lowell 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: catch_a_fish ( $1.51 )
+Seat 4: Bubelika ( $1.14 )
+Bubelika posts small blind [$0.01]
+catch_a_fish posts big blind [$0.02]
+** Dealing down cards **
+Bubelika calls [$0.01]
+catch_a_fish raises [$0.04]
+Bubelika folds
+** Summary **
+catch_a_fish collected [ $0.04 ]
+
+
+#Game No : 519945164
+***** 888poker Hand History for Game 519945164 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 08:40:29
+Table Lowell 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: catch_a_fish ( $1.53 )
+Seat 4: Bubelika ( $1.12 )
+catch_a_fish posts small blind [$0.01]
+Bubelika posts big blind [$0.02]
+** Dealing down cards **
+catch_a_fish folds
+** Summary **
+Bubelika collected [ $0.03 ]
+
+
+#Game No : 519951064
+***** 888poker Hand History for Game 519951064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 09:44:22
+Table Lowell 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: leaf_fan1959 ( $0.87 )
+Seat 9: ABespolov227 ( $1.57 )
+ABespolov227 posts small blind [$0.01]
+leaf_fan1959 posts big blind [$0.02]
+** Dealing down cards **
+ABespolov227 folds
+** Summary **
+leaf_fan1959 collected [ $0.03 ]
+
+
+#Game No : 519951139
+***** 888poker Hand History for Game 519951139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 09:45:13
+Table Lowell 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Sheitan696 ( $0.80 )
+Seat 6: KROTY ( $1 )
+KROTY posts small blind [$0.01]
+Sheitan696 posts big blind [$0.02]
+** Dealing down cards **
+KROTY calls [$0.01]
+Sheitan696 checks
+** Dealing flop ** [ 3h, 9c, As ]
+Sheitan696 bets [$0.02]
+KROTY calls [$0.02]
+** Dealing turn ** [ 2c ]
+Sheitan696 bets [$0.02]
+KROTY calls [$0.02]
+** Dealing river ** [ Ah ]
+Sheitan696 bets [$0.04]
+KROTY calls [$0.04]
+** Summary **
+Sheitan696 shows [ 6h, 6d ]
+KROTY shows [ 9h, Ks ]
+KROTY collected [ $0.19 ]
+
+
+#Game No : 519960236
+***** 888poker Hand History for Game 519960236 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 11:28:50
+Table Lowell 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Sarahsbear ( $1.06 )
+Seat 9: AleexGreed ( $1.04 )
+AleexGreed posts small blind [$0.01]
+Sarahsbear posts big blind [$0.02]
+** Dealing down cards **
+AleexGreed raises [$0.05]
+Sarahsbear folds
+** Summary **
+AleexGreed did not show his hand
+AleexGreed collected [ $0.04 ]
+
+
+#Game No : 519965350
+***** 888poker Hand History for Game 519965350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 12:24:00
+Table Lowell 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Tomslav14 ( $1.16 )
+Seat 6: zrito ( $1.41 )
+zrito posts small blind [$0.01]
+Tomslav14 posts big blind [$0.02]
+** Dealing down cards **
+zrito raises [$0.05]
+Tomslav14 folds
+** Summary **
+zrito did not show his hand
+zrito collected [ $0.04 ]
+
+
+#Game No : 519965368
+***** 888poker Hand History for Game 519965368 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 12 2018 12:24:10
+Table Lowell 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tomslav14 ( $1.14 )
+Seat 6: zrito ( $1.43 )
+Tomslav14 posts small blind [$0.01]
+zrito posts big blind [$0.02]
+** Dealing down cards **
+Tomslav14 raises [$0.05]
+zrito calls [$0.04]
+** Dealing flop ** [ Jc, 9h, 3c ]
+zrito checks
+Tomslav14 bets [$0.06]
+zrito calls [$0.06]
+** Dealing turn ** [ Qd ]
+zrito checks
+Tomslav14 checks
+** Dealing river ** [ Kd ]
+zrito checks
+Tomslav14 checks
+** Summary **
+zrito shows [ Js, Kc ]
+Tomslav14 mucks [ 5h, 5s ]
+zrito collected [ $0.23 ]
+
+

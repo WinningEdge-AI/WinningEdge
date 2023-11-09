@@ -1,0 +1,65 @@
+#Game No : 612085929
+***** 888poker Hand History for Game 612085929 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 01:32:00
+Table Damascus 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Aslan_027 ( $1.08 )
+Seat 5: WalerIS39 ( $0.92 )
+WalerIS39 posts small blind [$0.01]
+Aslan_027 posts big blind [$0.02]
+** Dealing down cards **
+WalerIS39 raises [$0.05]
+Aslan_027 calls [$0.04]
+** Dealing flop ** [ Td, Ts, 7d ]
+Aslan_027 checks
+WalerIS39 bets [$0.08]
+Aslan_027 folds
+** Summary **
+WalerIS39 did not show his hand
+WalerIS39 collected [ $0.12 ]
+
+
+#Game No : 612085936
+***** 888poker Hand History for Game 612085936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 01:32:19
+Table Damascus 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Aslan_027 ( $1.02 )
+Seat 5: WalerIS39 ( $0.98 )
+Aslan_027 posts small blind [$0.01]
+WalerIS39 posts big blind [$0.02]
+** Dealing down cards **
+Aslan_027 raises [$0.03]
+WalerIS39 folds
+** Summary **
+Aslan_027 did not show his hand
+Aslan_027 collected [ $0.04 ]
+
+
+#Game No : 612085939
+***** 888poker Hand History for Game 612085939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 01:32:26
+Table Damascus 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Aslan_027 ( $1.04 )
+Seat 5: WalerIS39 ( $0.96 )
+WalerIS39 posts small blind [$0.01]
+Aslan_027 posts big blind [$0.02]
+** Dealing down cards **
+WalerIS39 raises [$0.05]
+Aslan_027 calls [$0.04]
+** Dealing flop ** [ Ks, Td, Kc ]
+Aslan_027 checks
+WalerIS39 bets [$0.02]
+Aslan_027 calls [$0.02]
+** Dealing turn ** [ Qs ]
+Aslan_027 checks
+WalerIS39 bets [$0.08]
+Aslan_027 folds
+** Summary **
+WalerIS39 collected [ $0.15 ]
+
+

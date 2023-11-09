@@ -1,0 +1,393 @@
+#Game No : 501174567
+***** 888poker Hand History for Game 501174567 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:16:03
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $1 )
+Seat 2: Repairion ( $1.82 )
+Repairion posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+ccfc_miller did not show his hand
+ccfc_miller collected [ $0.03 ]
+
+
+#Game No : 501174576
+***** 888poker Hand History for Game 501174576 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:16:10
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $1.01 )
+Seat 2: Repairion ( $1.81 )
+ccfc_miller posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller folds
+** Summary **
+Repairion collected [ $0.03 ]
+
+
+#Game No : 501174587
+***** 888poker Hand History for Game 501174587 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:16:30
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $1 )
+Seat 2: Repairion ( $1.82 )
+Repairion posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Repairion calls [$0.01]
+ccfc_miller raises [$0.05]
+Repairion calls [$0.05]
+** Dealing flop ** [ 3s, 2d, Js ]
+ccfc_miller bets [$0.09]
+Repairion folds
+** Summary **
+ccfc_miller collected [ $0.14 ]
+
+
+#Game No : 501175172
+***** 888poker Hand History for Game 501175172 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:33:57
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $1.28 )
+Seat 2: Repairion ( $1.05 )
+ccfc_miller posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller folds
+** Summary **
+Repairion collected [ $0.03 ]
+
+
+#Game No : 501175174
+***** 888poker Hand History for Game 501175174 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:34:04
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $1.27 )
+Seat 2: Repairion ( $1.06 )
+Repairion posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+ccfc_miller collected [ $0.03 ]
+
+
+#Game No : 501175180
+***** 888poker Hand History for Game 501175180 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:34:15
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $1.28 )
+Seat 2: Repairion ( $1.05 )
+ccfc_miller posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller raises [$0.04]
+Repairion calls [$0.03]
+** Dealing flop ** [ 5s, Qd, Tc ]
+Repairion checks
+ccfc_miller bets [$0.06]
+Repairion raises [$0.20]
+ccfc_miller calls [$0.14]
+** Dealing turn ** [ 9s ]
+Repairion bets [$0.33]
+ccfc_miller calls [$0.33]
+** Dealing river ** [ 7h ]
+Repairion bets [$0.47]
+ccfc_miller calls [$0.47]
+** Summary **
+ccfc_miller shows [ Ac, Ad ]
+Repairion shows [ Qh, Th ]
+Repairion collected [ $1.97 ]
+
+
+#Game No : 501175225
+***** 888poker Hand History for Game 501175225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:35:26
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $1 )
+Seat 2: Repairion ( $1.97 )
+Repairion posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Repairion raises [$0.04]
+ccfc_miller raises [$0.14]
+Repairion calls [$0.11]
+** Dealing flop ** [ 4d, 8s, 7d ]
+ccfc_miller bets [$0.21]
+Repairion folds
+** Summary **
+ccfc_miller collected [ $0.30 ]
+
+
+#Game No : 501175245
+***** 888poker Hand History for Game 501175245 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:36:14
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $1.14 )
+Seat 2: Repairion ( $1.81 )
+ccfc_miller posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+ccfc_miller raises [$0.04]
+Repairion calls [$0.03]
+** Dealing flop ** [ Ah, 4h, Ad ]
+Repairion checks
+ccfc_miller bets [$0.05]
+Repairion raises [$0.18]
+ccfc_miller folds
+** Summary **
+Repairion collected [ $0.19 ]
+
+
+#Game No : 501175266
+***** 888poker Hand History for Game 501175266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:36:51
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ccfc_miller ( $1.04 )
+Seat 2: Repairion ( $1.90 )
+Repairion posts small blind [$0.01]
+ccfc_miller posts big blind [$0.02]
+** Dealing down cards **
+Repairion calls [$0.01]
+ccfc_miller checks
+** Dealing flop ** [ 2s, 8s, Kc ]
+ccfc_miller checks
+Repairion bets [$0.03]
+ccfc_miller calls [$0.03]
+** Dealing turn ** [ 7c ]
+ccfc_miller checks
+Repairion bets [$0.06]
+ccfc_miller folds
+** Summary **
+Repairion collected [ $0.10 ]
+
+
+#Game No : 501175526
+***** 888poker Hand History for Game 501175526 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:45:28
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Repairion ( $1.66 )
+Seat 6: rodri2415 ( $0.68 )
+Repairion posts small blind [$0.01]
+rodri2415 posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+rodri2415 did not show his hand
+rodri2415 collected [ $0.03 ]
+
+
+#Game No : 501175532
+***** 888poker Hand History for Game 501175532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:45:37
+Table Ji-Parana 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Repairion ( $1.65 )
+Seat 6: rodri2415 ( $0.69 )
+rodri2415 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+rodri2415 folds
+** Summary **
+Repairion did not show his hand
+Repairion collected [ $0.03 ]
+
+
+#Game No : 501175534
+***** 888poker Hand History for Game 501175534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:45:44
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Repairion ( $1.66 )
+Seat 6: rodri2415 ( $0.68 )
+Repairion posts small blind [$0.01]
+rodri2415 posts big blind [$0.02]
+** Dealing down cards **
+Repairion raises [$0.04]
+rodri2415 folds
+** Summary **
+Repairion did not show his hand
+Repairion collected [ $0.04 ]
+
+
+#Game No : 501175543
+***** 888poker Hand History for Game 501175543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:45:55
+Table Ji-Parana 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Repairion ( $1.68 )
+Seat 6: rodri2415 ( $0.66 )
+rodri2415 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+rodri2415 raises [$0.05]
+Repairion folds
+** Summary **
+rodri2415 did not show his hand
+rodri2415 collected [ $0.04 ]
+
+
+#Game No : 501175556
+***** 888poker Hand History for Game 501175556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:46:07
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Repairion ( $1.66 )
+Seat 6: rodri2415 ( $0.68 )
+Repairion posts small blind [$0.01]
+rodri2415 posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+rodri2415 did not show his hand
+rodri2415 collected [ $0.03 ]
+
+
+#Game No : 501175566
+***** 888poker Hand History for Game 501175566 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:46:17
+Table Ji-Parana 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Repairion ( $1.65 )
+Seat 6: rodri2415 ( $0.69 )
+rodri2415 posts small blind [$0.01]
+Repairion posts big blind [$0.02]
+** Dealing down cards **
+rodri2415 calls [$0.01]
+Repairion checks
+** Dealing flop ** [ 5h, 8d, 9s ]
+Repairion bets [$0.03]
+rodri2415 calls [$0.03]
+** Dealing turn ** [ 3h ]
+Repairion bets [$0.08]
+rodri2415 calls [$0.08]
+** Dealing river ** [ Ac ]
+Repairion bets [$0.17]
+rodri2415 folds
+** Summary **
+Repairion collected [ $0.25 ]
+
+
+#Game No : 501175604
+***** 888poker Hand History for Game 501175604 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 16:47:32
+Table Ji-Parana 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Repairion ( $1.77 )
+Seat 6: rodri2415 ( $0.56 )
+Repairion posts small blind [$0.01]
+rodri2415 posts big blind [$0.02]
+** Dealing down cards **
+Repairion folds
+** Summary **
+rodri2415 collected [ $0.03 ]
+
+
+#Game No : 501176253
+***** 888poker Hand History for Game 501176253 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 17:13:23
+Table Ji-Parana 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Yuliya147 ( $0.56 )
+Seat 4: Gemmaandpaul ( $2.71 )
+Gemmaandpaul posts small blind [$0.01]
+Yuliya147 posts big blind [$0.02]
+** Dealing down cards **
+Gemmaandpaul calls [$0.01]
+Yuliya147 checks
+** Dealing flop ** [ 9c, 2s, Kc ]
+Yuliya147 checks
+Gemmaandpaul checks
+** Dealing turn ** [ 8d ]
+Yuliya147 checks
+Gemmaandpaul checks
+** Dealing river ** [ 3h ]
+Yuliya147 checks
+Gemmaandpaul bets [$0.02]
+Yuliya147 calls [$0.02]
+** Summary **
+Gemmaandpaul shows [ Kd, Ks ]
+Yuliya147 mucks [ 2d, 7h ]
+Gemmaandpaul collected [ $0.08 ]
+
+
+#Game No : 501176264
+***** 888poker Hand History for Game 501176264 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 17:13:48
+Table Ji-Parana 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Yuliya147 ( $0.52 )
+Seat 4: Gemmaandpaul ( $2.75 )
+Yuliya147 posts small blind [$0.01]
+Gemmaandpaul posts big blind [$0.02]
+** Dealing down cards **
+Yuliya147 calls [$0.01]
+Gemmaandpaul checks
+** Dealing flop ** [ 8d, Td, 8s ]
+Gemmaandpaul checks
+Yuliya147 checks
+** Dealing turn ** [ Qs ]
+Gemmaandpaul checks
+Yuliya147 bets [$0.02]
+Gemmaandpaul folds
+** Summary **
+Yuliya147 collected [ $0.04 ]
+
+
+#Game No : 501176270
+***** 888poker Hand History for Game 501176270 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 17:14:06
+Table Ji-Parana 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Yuliya147 ( $0.54 )
+Seat 4: Gemmaandpaul ( $2.73 )
+Gemmaandpaul posts small blind [$0.01]
+Yuliya147 posts big blind [$0.02]
+** Dealing down cards **
+Gemmaandpaul calls [$0.01]
+Yuliya147 checks
+** Dealing flop ** [ Qd, Ts, Qs ]
+Yuliya147 checks
+Gemmaandpaul checks
+** Dealing turn ** [ 5c ]
+Yuliya147 checks
+Gemmaandpaul checks
+** Dealing river ** [ Kc ]
+Yuliya147 checks
+Gemmaandpaul bets [$0.10]
+Yuliya147 folds
+** Summary **
+Gemmaandpaul collected [ $0.04 ]
+
+

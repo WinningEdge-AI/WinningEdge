@@ -1,0 +1,69 @@
+#Game No : 529468537
+***** 888poker Hand History for Game 529468537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 04 2019 02:13:04
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: qq1503245074 ( $0.98 )
+Seat 9: MAXtreme27 ( $0.57 )
+MAXtreme27 posts small blind [$0.01]
+qq1503245074 posts big blind [$0.02]
+** Dealing down cards **
+MAXtreme27 raises [$0.03]
+qq1503245074 calls [$0.02]
+** Dealing flop ** [ Qs, 2h, Tc ]
+qq1503245074 bets [$0.04]
+MAXtreme27 calls [$0.04]
+** Dealing turn ** [ Td ]
+qq1503245074 bets [$0.08]
+MAXtreme27 folds
+** Summary **
+qq1503245074 collected [ $0.15 ]
+
+
+#Game No : 529468564
+***** 888poker Hand History for Game 529468564 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 04 2019 02:13:32
+Table Debrecen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: qq1503245074 ( $1.05 )
+Seat 9: MAXtreme27 ( $0.49 )
+qq1503245074 posts small blind [$0.01]
+MAXtreme27 posts big blind [$0.02]
+** Dealing down cards **
+qq1503245074 raises [$0.05]
+MAXtreme27 calls [$0.04]
+** Dealing flop ** [ 9c, 5s, 2d ]
+MAXtreme27 checks
+qq1503245074 bets [$0.06]
+MAXtreme27 calls [$0.06]
+** Dealing turn ** [ 6h ]
+MAXtreme27 checks
+qq1503245074 bets [$0.12]
+MAXtreme27 folds
+** Summary **
+qq1503245074 collected [ $0.23 ]
+
+
+#Game No : 529468609
+***** 888poker Hand History for Game 529468609 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 04 2019 02:14:57
+Table Debrecen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: qq1503245074 ( $1.16 )
+Seat 9: MAXtreme27 ( $0.37 )
+MAXtreme27 posts small blind [$0.01]
+qq1503245074 posts big blind [$0.02]
+** Dealing down cards **
+MAXtreme27 raises [$0.05]
+qq1503245074 calls [$0.04]
+** Dealing flop ** [ 8s, 3c, Kh ]
+qq1503245074 checks
+MAXtreme27 bets [$0.08]
+qq1503245074 folds
+** Summary **
+MAXtreme27 collected [ $0.12 ]
+
+

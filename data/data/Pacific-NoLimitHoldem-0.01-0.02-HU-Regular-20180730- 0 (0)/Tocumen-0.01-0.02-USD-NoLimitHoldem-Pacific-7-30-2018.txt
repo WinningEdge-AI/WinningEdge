@@ -1,0 +1,47 @@
+#Game No : 1197200877
+***** 888poker Hand History for Game 1197200877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 18:43:48
+Table Tocumen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: Pinvax ( $0.80 )
+Seat 10: CameronKamin ( $2.75 )
+CameronKamin posts small blind [$0.01]
+Pinvax posts big blind [$0.02]
+** Dealing down cards **
+CameronKamin raises [$0.05]
+Pinvax calls [$0.04]
+** Dealing flop ** [ Td, 4s, 6s ]
+Pinvax checks
+CameronKamin bets [$0.08]
+Pinvax calls [$0.08]
+** Dealing turn ** [ 6h ]
+Pinvax checks
+CameronKamin bets [$0.18]
+Pinvax raises [$0.36]
+CameronKamin raises [$2.43]
+Pinvax calls [$0.30]
+** Dealing river ** [ 3d ]
+** Summary **
+Pinvax shows [ Ks, 6d ]
+CameronKamin shows [ Ts, 7h ]
+Pinvax collected [ $1.50 ]
+
+
+#Game No : 1197200958
+***** 888poker Hand History for Game 1197200958 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 07 2018 18:44:27
+Table Tocumen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Pinvax ( $1.50 )
+Seat 10: CameronKamin ( $2 )
+Pinvax posts small blind [$0.01]
+CameronKamin posts big blind [$0.02]
+** Dealing down cards **
+Pinvax raises [$0.05]
+CameronKamin folds
+** Summary **
+Pinvax collected [ $0.04 ]
+
+

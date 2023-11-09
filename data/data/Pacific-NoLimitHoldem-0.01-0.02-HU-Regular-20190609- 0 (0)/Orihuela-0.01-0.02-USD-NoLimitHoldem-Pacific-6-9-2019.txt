@@ -1,0 +1,56 @@
+#Game No : 465853707
+***** 888poker Hand History for Game 465853707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2019 19:32:04
+Table Orihuela 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: sugarbea14 ( $1.99 )
+Seat 7: Savaoque1307 ( $2.01 )
+sugarbea14 posts small blind [$0.01]
+Savaoque1307 posts big blind [$0.02]
+** Dealing down cards **
+sugarbea14 calls [$0.01]
+Savaoque1307 checks
+** Dealing flop ** [ 8h, Ah, 6c ]
+Savaoque1307 checks
+sugarbea14 checks
+** Dealing turn ** [ 3d ]
+Savaoque1307 checks
+sugarbea14 checks
+** Dealing river ** [ Ac ]
+Savaoque1307 checks
+sugarbea14 checks
+** Summary **
+Savaoque1307 shows [ 4d, 2h ]
+sugarbea14 shows [ Qs, 6h ]
+sugarbea14 collected [ $0.04 ]
+
+
+#Game No : 465853761
+***** 888poker Hand History for Game 465853761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 06 2019 19:37:51
+Table Orihuela 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: supermen111 ( $2.02 )
+Seat 4: irk2012 ( $2 )
+irk2012 posts small blind [$0.01]
+supermen111 posts big blind [$0.02]
+** Dealing down cards **
+irk2012 calls [$0.01]
+supermen111 checks
+** Dealing flop ** [ Th, 5h, 9d ]
+supermen111 bets [$0.02]
+irk2012 calls [$0.02]
+** Dealing turn ** [ 2c ]
+supermen111 bets [$0.02]
+irk2012 calls [$0.02]
+** Dealing river ** [ 4d ]
+supermen111 bets [$0.02]
+irk2012 calls [$0.02]
+** Summary **
+supermen111 shows [ 9c, 8s ]
+irk2012 mucks [ 9s, 7h ]
+supermen111 collected [ $0.15 ]
+
+

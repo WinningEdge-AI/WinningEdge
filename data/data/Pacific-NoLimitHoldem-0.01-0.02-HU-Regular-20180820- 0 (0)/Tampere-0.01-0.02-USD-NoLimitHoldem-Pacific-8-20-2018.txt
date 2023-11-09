@@ -1,0 +1,70 @@
+#Game No : 454559025
+***** 888poker Hand History for Game 454559025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 23:40:54
+Table Tampere 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: irk2012 ( $2 )
+Seat 5: FranzSchmitt ( $2 )
+FranzSchmitt posts small blind [$0.01]
+** Dealing down cards **
+irk2012 folds
+** Summary **
+FranzSchmitt did not show his hand
+FranzSchmitt collected [ $0.01 ]
+
+
+#Game No : 454562059
+***** 888poker Hand History for Game 454562059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 02:59:28
+Table Tampere 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kundalini13 ( $0.24 )
+Seat 3: Fraddy.Gun ( $2.57 )
+kundalini13 posts small blind [$0.01]
+Fraddy.Gun posts big blind [$0.02]
+** Dealing down cards **
+kundalini13 calls [$0.01]
+Fraddy.Gun checks
+** Dealing flop ** [ 5c, 7d, 9c ]
+Fraddy.Gun checks
+kundalini13 bets [$0.02]
+Fraddy.Gun calls [$0.02]
+** Dealing turn ** [ 6d ]
+Fraddy.Gun checks
+kundalini13 bets [$0.04]
+Fraddy.Gun calls [$0.04]
+** Dealing river ** [ 2h ]
+Fraddy.Gun checks
+kundalini13 checks
+** Summary **
+Fraddy.Gun shows [ 5s, 8h ]
+kundalini13 mucks [ 9d, Js ]
+Fraddy.Gun collected [ $0.15 ]
+
+
+#Game No : 454562066
+***** 888poker Hand History for Game 454562066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 08 2018 02:59:48
+Table Tampere 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: kundalini13 ( $0.16 )
+Seat 3: Fraddy.Gun ( $2.64 )
+Fraddy.Gun posts small blind [$0.01]
+kundalini13 posts big blind [$0.02]
+** Dealing down cards **
+Fraddy.Gun raises [$0.05]
+kundalini13 calls [$0.04]
+** Dealing flop ** [ 9d, Qs, Td ]
+kundalini13 bets [$0.10]
+Fraddy.Gun calls [$0.10]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 2c ]
+** Summary **
+kundalini13 shows [ 8s, Qd ]
+Fraddy.Gun shows [ Jh, Qc ]
+Fraddy.Gun collected [ $0.30 ]
+
+

@@ -1,0 +1,52 @@
+#Game No : 1215251227
+***** 888poker Hand History for Game 1215251227 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 06:08:02
+Table Valladolid 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kt0587 ( $2.04 )
+Seat 2: Snezhinka_77 ( $1.96 )
+kt0587 posts small blind [$0.01]
+Snezhinka_77 posts big blind [$0.02]
+** Dealing down cards **
+kt0587 calls [$0.01]
+Snezhinka_77 checks
+** Dealing flop ** [ Kd, Ks, Td ]
+Snezhinka_77 bets [$0.02]
+kt0587 calls [$0.02]
+** Dealing turn ** [ Qs ]
+Snezhinka_77 checks
+kt0587 bets [$0.02]
+Snezhinka_77 folds
+** Summary **
+kt0587 did not show his hand
+kt0587 collected [ $0.08 ]
+
+
+#Game No : 1215251277
+***** 888poker Hand History for Game 1215251277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 10 2018 06:08:12
+Table Valladolid 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: kt0587 ( $2.08 )
+Seat 2: Snezhinka_77 ( $1.92 )
+Snezhinka_77 posts small blind [$0.01]
+kt0587 posts big blind [$0.02]
+** Dealing down cards **
+Snezhinka_77 calls [$0.01]
+kt0587 checks
+** Dealing flop ** [ Ah, 9d, 6d ]
+kt0587 checks
+Snezhinka_77 checks
+** Dealing turn ** [ 4d ]
+kt0587 checks
+Snezhinka_77 checks
+** Dealing river ** [ 3d ]
+kt0587 checks
+Snezhinka_77 bets [$0.02]
+kt0587 folds
+** Summary **
+Snezhinka_77 collected [ $0.04 ]
+
+

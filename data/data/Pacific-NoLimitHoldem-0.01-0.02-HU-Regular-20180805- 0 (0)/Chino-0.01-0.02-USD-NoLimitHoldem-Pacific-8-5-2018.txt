@@ -1,0 +1,71 @@
+#Game No : 500423742
+***** 888poker Hand History for Game 500423742 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 08 2018 21:21:08
+Table Chino 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Cory_francis ( $0.93 )
+Seat 6: Emilio023 ( $2.29 )
+Emilio023 posts small blind [$0.01]
+Cory_francis posts big blind [$0.02]
+** Dealing down cards **
+Emilio023 calls [$0.01]
+Cory_francis checks
+** Dealing flop ** [ 4h, Tc, 8h ]
+Cory_francis bets [$0.02]
+Emilio023 folds
+** Summary **
+Cory_francis collected [ $0.04 ]
+
+
+#Game No : 500423746
+***** 888poker Hand History for Game 500423746 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 08 2018 21:21:21
+Table Chino 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cory_francis ( $0.95 )
+Seat 6: Emilio023 ( $2.27 )
+Cory_francis posts small blind [$0.01]
+Emilio023 posts big blind [$0.02]
+** Dealing down cards **
+Cory_francis calls [$0.01]
+Emilio023 checks
+** Dealing flop ** [ 6h, 9h, Ac ]
+Emilio023 checks
+Cory_francis checks
+** Dealing turn ** [ Qs ]
+Emilio023 checks
+Cory_francis checks
+** Dealing river ** [ Ks ]
+Emilio023 checks
+Cory_francis bets [$0.06]
+Emilio023 calls [$0.06]
+** Summary **
+Cory_francis shows [ Ah, 4c ]
+Emilio023 mucks [ 5c, Qh ]
+Cory_francis collected [ $0.15 ]
+
+
+#Game No : 500423833
+***** 888poker Hand History for Game 500423833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 08 2018 21:28:15
+Table Chino 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Sizo115 ( $1.44 )
+Seat 7: NanoSteaks ( $1.36 )
+NanoSteaks posts small blind [$0.01]
+Sizo115 posts big blind [$0.02]
+** Dealing down cards **
+NanoSteaks raises [$0.03]
+Sizo115 calls [$0.02]
+** Dealing flop ** [ 5d, Jc, Ac ]
+Sizo115 checks
+NanoSteaks bets [$0.04]
+Sizo115 folds
+** Summary **
+NanoSteaks did not show his hand
+NanoSteaks collected [ $0.08 ]
+
+

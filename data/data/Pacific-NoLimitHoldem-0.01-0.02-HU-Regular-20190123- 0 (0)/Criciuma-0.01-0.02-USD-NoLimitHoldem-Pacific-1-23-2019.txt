@@ -1,0 +1,190 @@
+#Game No : 1241899125
+***** 888poker Hand History for Game 1241899125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 17:49:00
+Table Criciuma 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: emer32 ( $2.10 )
+Seat 9: _nextgen ( $2.96 )
+emer32 posts small blind [$0.01]
+_nextgen posts big blind [$0.02]
+** Dealing down cards **
+emer32 raises [$0.05]
+_nextgen raises [$0.16]
+emer32 calls [$0.12]
+** Dealing flop ** [ Jc, 9d, Jd ]
+_nextgen bets [$0.18]
+emer32 folds
+** Summary **
+_nextgen collected [ $0.34 ]
+
+
+#Game No : 1241899181
+***** 888poker Hand History for Game 1241899181 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 17:49:24
+Table Criciuma 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: emer32 ( $2 )
+Seat 9: _nextgen ( $3.12 )
+_nextgen posts small blind [$0.01]
+emer32 posts big blind [$0.02]
+** Dealing down cards **
+_nextgen calls [$0.01]
+emer32 checks
+** Dealing flop ** [ 9s, 7h, Jh ]
+emer32 bets [$0.02]
+_nextgen raises [$0.08]
+emer32 calls [$0.06]
+** Dealing turn ** [ 3h ]
+emer32 checks
+_nextgen checks
+** Dealing river ** [ 4s ]
+emer32 checks
+_nextgen bets [$0.10]
+emer32 calls [$0.10]
+** Summary **
+_nextgen shows [ 3s, Js ]
+emer32 mucks [ 2h, Jd ]
+_nextgen collected [ $0.38 ]
+
+
+#Game No : 1241899281
+***** 888poker Hand History for Game 1241899281 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 17:50:12
+Table Criciuma 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: emer32 ( $2 )
+Seat 9: _nextgen ( $3.30 )
+emer32 posts small blind [$0.01]
+_nextgen posts big blind [$0.02]
+** Dealing down cards **
+emer32 folds
+** Summary **
+_nextgen collected [ $0.03 ]
+
+
+#Game No : 1241899296
+***** 888poker Hand History for Game 1241899296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 17:50:18
+Table Criciuma 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: emer32 ( $2 )
+Seat 9: _nextgen ( $3.31 )
+_nextgen posts small blind [$0.01]
+emer32 posts big blind [$0.02]
+** Dealing down cards **
+_nextgen raises [$0.05]
+emer32 calls [$0.04]
+** Dealing flop ** [ 9h, 4s, Td ]
+emer32 checks
+_nextgen bets [$0.06]
+emer32 raises [$0.20]
+_nextgen calls [$0.14]
+** Dealing turn ** [ 5h ]
+emer32 bets [$0.34]
+_nextgen calls [$0.34]
+** Dealing river ** [ Jh ]
+emer32 checks
+_nextgen checks
+** Summary **
+emer32 shows [ 9c, Qc ]
+_nextgen shows [ Tc, 9d ]
+_nextgen collected [ $1.13 ]
+
+
+#Game No : 1241899397
+***** 888poker Hand History for Game 1241899397 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 17:51:01
+Table Criciuma 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: emer32 ( $2 )
+Seat 9: _nextgen ( $3.84 )
+emer32 posts small blind [$0.01]
+_nextgen posts big blind [$0.02]
+** Dealing down cards **
+emer32 calls [$0.01]
+_nextgen raises [$0.06]
+emer32 folds
+** Summary **
+_nextgen collected [ $0.04 ]
+
+
+#Game No : 1241899431
+***** 888poker Hand History for Game 1241899431 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 17:51:16
+Table Criciuma 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: emer32 ( $2 )
+Seat 9: _nextgen ( $3.86 )
+_nextgen posts small blind [$0.01]
+emer32 posts big blind [$0.02]
+** Dealing down cards **
+_nextgen raises [$0.05]
+emer32 folds
+** Summary **
+_nextgen collected [ $0.04 ]
+
+
+#Game No : 1241899461
+***** 888poker Hand History for Game 1241899461 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 17:51:28
+Table Criciuma 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: emer32 ( $2 )
+Seat 9: _nextgen ( $3.88 )
+emer32 posts small blind [$0.01]
+_nextgen posts big blind [$0.02]
+** Dealing down cards **
+emer32 calls [$0.01]
+_nextgen checks
+** Dealing flop ** [ Qc, Ah, Ts ]
+_nextgen checks
+emer32 bets [$0.02]
+_nextgen calls [$0.02]
+** Dealing turn ** [ 8h ]
+_nextgen checks
+emer32 bets [$0.08]
+_nextgen calls [$0.08]
+** Dealing river ** [ Tc ]
+_nextgen checks
+emer32 checks
+** Summary **
+_nextgen shows [ 3h, 9h ]
+emer32 shows [ Qd, 3d ]
+emer32 collected [ $0.23 ]
+
+
+#Game No : 1241899552
+***** 888poker Hand History for Game 1241899552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 17:52:11
+Table Criciuma 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: emer32 ( $2.11 )
+Seat 9: _nextgen ( $3.76 )
+_nextgen posts small blind [$0.01]
+emer32 posts big blind [$0.02]
+** Dealing down cards **
+_nextgen calls [$0.01]
+emer32 raises [$0.04]
+_nextgen calls [$0.04]
+** Dealing flop ** [ 7h, 5s, 8s ]
+emer32 checks
+_nextgen bets [$0.12]
+emer32 calls [$0.12]
+** Dealing turn ** [ 6h ]
+emer32 checks
+_nextgen checks
+** Dealing river ** [ Kc ]
+emer32 bets [$0.24]
+_nextgen folds
+** Summary **
+emer32 collected [ $0.34 ]
+
+

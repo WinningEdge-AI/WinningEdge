@@ -1,0 +1,74 @@
+#Game No : 618805232
+***** 888poker Hand History for Game 618805232 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 04:26:47
+Table Oradea 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AndreyStarts ( $2.11 )
+Seat 6: kmlm73 ( $1.88 )
+AndreyStarts posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+AndreyStarts calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 9c, 5c, 8c ]
+kmlm73 checks
+AndreyStarts bets [$2.09]
+kmlm73 folds
+** Summary **
+AndreyStarts did not show his hand
+AndreyStarts collected [ $0.04 ]
+
+
+#Game No : 618805250
+***** 888poker Hand History for Game 618805250 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 04:27:00
+Table Oradea 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: AndreyStarts ( $2.13 )
+Seat 6: kmlm73 ( $1.86 )
+kmlm73 posts small blind [$0.01]
+AndreyStarts posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+AndreyStarts raises [$0.04]
+kmlm73 calls [$0.02]
+** Dealing flop ** [ 3s, 6d, 9h ]
+AndreyStarts bets [$0.02]
+kmlm73 calls [$0.02]
+** Dealing turn ** [ 5c ]
+AndreyStarts bets [$0.02]
+kmlm73 raises [$0.06]
+AndreyStarts calls [$0.04]
+** Dealing river ** [ 8s ]
+AndreyStarts checks
+kmlm73 bets [$0.02]
+AndreyStarts calls [$0.02]
+** Summary **
+kmlm73 shows [ 4d, Qd ]
+AndreyStarts shows [ 8c, Ad ]
+AndreyStarts collected [ $0.30 ]
+
+
+#Game No : 618805276
+***** 888poker Hand History for Game 618805276 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 04:27:57
+Table Oradea 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AndreyStarts ( $2.27 )
+Seat 6: kmlm73 ( $1.70 )
+AndreyStarts posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+AndreyStarts calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ Td, Ts, 8s ]
+kmlm73 checks
+AndreyStarts bets [$0.02]
+kmlm73 folds
+** Summary **
+AndreyStarts collected [ $0.04 ]
+
+

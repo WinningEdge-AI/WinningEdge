@@ -1,0 +1,44 @@
+#Game No : 508498030
+***** 888poker Hand History for Game 508498030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 12:32:12
+Table Inglewood 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 1a1k1 ( $1.56 )
+Seat 2: zdarova8729 ( $2 )
+1a1k1 posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+1a1k1 calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ 2d, 5h, 8h ]
+zdarova8729 bets [$0.04]
+1a1k1 calls [$0.04]
+** Dealing turn ** [ Td ]
+zdarova8729 bets [$0.12]
+1a1k1 calls [$0.12]
+** Dealing river ** [ Ks ]
+zdarova8729 checks
+1a1k1 checks
+** Summary **
+zdarova8729 shows [ 5s, 6c ]
+1a1k1 mucks [ 9d, 7h ]
+zdarova8729 collected [ $0.34 ]
+
+
+#Game No : 508498052
+***** 888poker Hand History for Game 508498052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 12:32:43
+Table Inglewood 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: 1a1k1 ( $1.38 )
+Seat 2: zdarova8729 ( $2.16 )
+zdarova8729 posts small blind [$0.01]
+1a1k1 posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 folds
+** Summary **
+1a1k1 collected [ $0.03 ]
+
+

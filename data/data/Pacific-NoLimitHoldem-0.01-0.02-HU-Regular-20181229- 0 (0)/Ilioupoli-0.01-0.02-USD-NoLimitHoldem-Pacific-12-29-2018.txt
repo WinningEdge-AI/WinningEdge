@@ -1,0 +1,104 @@
+#Game No : 511375657
+***** 888poker Hand History for Game 511375657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:33:52
+Table Ilioupoli 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Origarmi ( $1.37 )
+Seat 4: rzvsama ( $0.66 )
+Origarmi posts small blind [$0.01]
+rzvsama posts big blind [$0.02]
+** Dealing down cards **
+Origarmi folds
+** Summary **
+rzvsama did not show his hand
+rzvsama collected [ $0.03 ]
+
+
+#Game No : 511375662
+***** 888poker Hand History for Game 511375662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:34:00
+Table Ilioupoli 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Origarmi ( $1.36 )
+Seat 4: rzvsama ( $0.67 )
+Origarmi posts small blind [$0.01]
+rzvsama posts big blind [$0.02]
+** Dealing down cards **
+Origarmi raises [$0.03]
+rzvsama calls [$0.02]
+** Dealing flop ** [ 6c, 7h, 7s ]
+rzvsama checks
+Origarmi bets [$0.02]
+rzvsama calls [$0.02]
+** Dealing turn ** [ Qh ]
+rzvsama checks
+Origarmi bets [$0.02]
+rzvsama calls [$0.02]
+** Dealing river ** [ 8c ]
+rzvsama checks
+Origarmi bets [$1.28]
+rzvsama folds
+** Summary **
+Origarmi collected [ $0.15 ]
+
+
+#Game No : 511375682
+***** 888poker Hand History for Game 511375682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:34:23
+Table Ilioupoli 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Origarmi ( $1.43 )
+Seat 4: rzvsama ( $0.59 )
+rzvsama posts small blind [$0.01]
+Origarmi posts big blind [$0.02]
+** Dealing down cards **
+rzvsama calls [$0.01]
+Origarmi raises [$1.41]
+rzvsama folds
+** Summary **
+Origarmi collected [ $0.04 ]
+
+
+#Game No : 511375823
+***** 888poker Hand History for Game 511375823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:37:24
+Table Ilioupoli 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: rzvsama ( $0.82 )
+Seat 6: zaraamer ( $1.53 )
+zaraamer posts small blind [$0.01]
+rzvsama posts big blind [$0.02]
+** Dealing down cards **
+zaraamer calls [$0.01]
+rzvsama checks
+** Dealing flop ** [ 4d, 7s, Qd ]
+rzvsama checks
+zaraamer checks
+** Dealing turn ** [ 4s ]
+rzvsama bets [$0.04]
+zaraamer folds
+** Summary **
+rzvsama collected [ $0.04 ]
+
+
+#Game No : 511375835
+***** 888poker Hand History for Game 511375835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2018 14:37:36
+Table Ilioupoli 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: rzvsama ( $0.84 )
+Seat 6: zaraamer ( $1.51 )
+rzvsama posts small blind [$0.01]
+zaraamer posts big blind [$0.02]
+** Dealing down cards **
+rzvsama raises [$0.07]
+zaraamer folds
+** Summary **
+rzvsama collected [ $0.04 ]
+
+

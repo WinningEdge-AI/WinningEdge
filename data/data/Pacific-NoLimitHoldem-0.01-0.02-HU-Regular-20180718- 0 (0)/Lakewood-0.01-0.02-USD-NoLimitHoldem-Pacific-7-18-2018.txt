@@ -1,0 +1,83 @@
+#Game No : 605711821
+***** 888poker Hand History for Game 605711821 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 03:48:01
+Table Lakewood 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: mauskis15 ( $0.80 )
+Seat 5: FranzSchmitt ( $2 )
+FranzSchmitt posts small blind [$0.01]
+mauskis15 posts big blind [$0.02]
+** Dealing down cards **
+FranzSchmitt calls [$0.01]
+mauskis15 checks
+** Dealing flop ** [ Ts, As, 7d ]
+mauskis15 checks
+FranzSchmitt checks
+** Dealing turn ** [ 8h ]
+mauskis15 bets [$0.02]
+FranzSchmitt calls [$0.02]
+** Dealing river ** [ 3c ]
+mauskis15 bets [$0.02]
+FranzSchmitt calls [$0.02]
+** Summary **
+mauskis15 shows [ Td, 8c ]
+FranzSchmitt mucks [ Tc, Jd ]
+mauskis15 collected [ $0.12 ]
+
+
+#Game No : 605711834
+***** 888poker Hand History for Game 605711834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 03:48:21
+Table Lakewood 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mauskis15 ( $0.86 )
+Seat 5: FranzSchmitt ( $1.94 )
+mauskis15 posts small blind [$0.01]
+FranzSchmitt posts big blind [$0.02]
+** Dealing down cards **
+mauskis15 calls [$0.01]
+FranzSchmitt raises [$0.04]
+mauskis15 calls [$0.04]
+** Dealing flop ** [ 2h, 5c, Ts ]
+FranzSchmitt bets [$0.12]
+mauskis15 calls [$0.12]
+** Dealing turn ** [ 4s ]
+FranzSchmitt bets [$0.36]
+mauskis15 calls [$0.36]
+** Dealing river ** [ 5s ]
+FranzSchmitt bets [$1.08]
+mauskis15 calls [$0.32]
+** Summary **
+mauskis15 shows [ 8c, Td ]
+FranzSchmitt shows [ As, 3s ]
+FranzSchmitt collected [ $1.62 ]
+
+
+#Game No : 605712090
+***** 888poker Hand History for Game 605712090 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 03:56:32
+Table Lakewood 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Kyzj111987 ( $1.98 )
+Seat 7: OKE_RASTA_J ( $2.02 )
+OKE_RASTA_J posts small blind [$0.01]
+Kyzj111987 posts big blind [$0.02]
+** Dealing down cards **
+OKE_RASTA_J calls [$0.01]
+Kyzj111987 checks
+** Dealing flop ** [ 2s, 8d, Kc ]
+Kyzj111987 bets [$0.02]
+OKE_RASTA_J calls [$0.02]
+** Dealing turn ** [ 8s ]
+Kyzj111987 bets [$0.02]
+OKE_RASTA_J calls [$0.02]
+** Dealing river ** [ 8h ]
+Kyzj111987 bets [$0.06]
+OKE_RASTA_J folds
+** Summary **
+Kyzj111987 collected [ $0.12 ]
+
+

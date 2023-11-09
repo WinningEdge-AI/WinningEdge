@@ -1,0 +1,44 @@
+#Game No : 530714837
+***** 888poker Hand History for Game 530714837 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 05 2019 19:33:35
+Table Ede 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Kdett ( $2.31 )
+Seat 9: rustaman76 ( $2.44 )
+rustaman76 posts small blind [$0.01]
+Kdett posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 folds
+** Summary **
+Kdett collected [ $0.03 ]
+
+
+#Game No : 530714843
+***** 888poker Hand History for Game 530714843 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 05 2019 19:33:39
+Table Ede 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kdett ( $2.32 )
+Seat 9: rustaman76 ( $2.43 )
+Kdett posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+Kdett raises [$0.03]
+rustaman76 calls [$0.02]
+** Dealing flop ** [ Qc, 2d, 8d ]
+rustaman76 checks
+Kdett bets [$0.10]
+rustaman76 raises [$0.20]
+Kdett raises [$0.20]
+rustaman76 raises [$2.19]
+Kdett calls [$1.98]
+** Dealing turn ** [ Js ]
+** Dealing river ** [ 2c ]
+** Summary **
+Kdett shows [ Jd, 6d ]
+rustaman76 shows [ 2s, 2h ]
+rustaman76 collected [ $4.35 ]
+
+

@@ -1,0 +1,86 @@
+#Game No : 460829706
+***** 888poker Hand History for Game 460829706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 01:55:52
+Table Burgas 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: Bet4value ( $2 )
+Seat 10: TeamBrett ( $2 )
+TeamBrett posts small blind [$0.01]
+Bet4value posts big blind [$0.02]
+** Dealing down cards **
+TeamBrett raises [$0.05]
+Bet4value folds
+** Summary **
+TeamBrett did not show his hand
+TeamBrett collected [ $0.04 ]
+
+
+#Game No : 460829719
+***** 888poker Hand History for Game 460829719 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 01:56:09
+Table Burgas 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bet4value ( $2 )
+Seat 10: TeamBrett ( $2.02 )
+Bet4value posts small blind [$0.01]
+TeamBrett posts big blind [$0.02]
+** Dealing down cards **
+Bet4value folds
+** Summary **
+TeamBrett did not show his hand
+TeamBrett collected [ $0.03 ]
+
+
+#Game No : 460829726
+***** 888poker Hand History for Game 460829726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 01:56:23
+Table Burgas 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 4: Bet4value ( $2 )
+Seat 10: TeamBrett ( $2.03 )
+TeamBrett posts small blind [$0.01]
+Bet4value posts big blind [$0.02]
+** Dealing down cards **
+TeamBrett calls [$0.01]
+Bet4value checks
+** Dealing flop ** [ Ts, Th, 7h ]
+Bet4value checks
+TeamBrett checks
+** Dealing turn ** [ As ]
+Bet4value checks
+TeamBrett checks
+** Dealing river ** [ 2h ]
+Bet4value checks
+TeamBrett checks
+** Summary **
+Bet4value shows [ 2c, 8c ]
+TeamBrett mucks [ 8h, 5s ]
+Bet4value collected [ $0.04 ]
+
+
+#Game No : 460829743
+***** 888poker Hand History for Game 460829743 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 01 2019 01:56:51
+Table Burgas 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bet4value ( $2.02 )
+Seat 10: TeamBrett ( $2.01 )
+Bet4value posts small blind [$0.01]
+TeamBrett posts big blind [$0.02]
+** Dealing down cards **
+Bet4value raises [$0.05]
+TeamBrett calls [$0.04]
+** Dealing flop ** [ Th, Qh, 9s ]
+TeamBrett checks
+Bet4value checks
+** Dealing turn ** [ 5c ]
+TeamBrett bets [$0.06]
+Bet4value folds
+** Summary **
+TeamBrett collected [ $0.12 ]
+
+

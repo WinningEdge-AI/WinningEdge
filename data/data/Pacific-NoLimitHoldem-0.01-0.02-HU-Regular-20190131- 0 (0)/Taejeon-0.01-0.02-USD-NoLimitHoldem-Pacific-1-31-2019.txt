@@ -1,0 +1,616 @@
+#Game No : 460965415
+***** 888poker Hand History for Game 460965415 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 19:32:33
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Van1212 ( $1.04 )
+Seat 9: bibiqc ( $1.12 )
+Van1212 posts small blind [$0.01]
+bibiqc posts big blind [$0.02]
+** Dealing down cards **
+Van1212 calls [$0.01]
+bibiqc checks
+** Dealing flop ** [ 7s, 8c, 2c ]
+bibiqc checks
+Van1212 checks
+** Dealing turn ** [ 3d ]
+bibiqc checks
+Van1212 bets [$0.04]
+bibiqc calls [$0.04]
+** Dealing river ** [ 4c ]
+bibiqc checks
+Van1212 checks
+** Summary **
+bibiqc shows [ Jc, 5c ]
+Van1212 mucks [ 3h, Ts ]
+bibiqc collected [ $0.12 ]
+
+
+#Game No : 460965433
+***** 888poker Hand History for Game 460965433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 19:33:44
+Table Taejeon 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Van1212 ( $1 )
+Seat 9: bibiqc ( $1.18 )
+bibiqc posts small blind [$0.01]
+Van1212 posts big blind [$0.02]
+** Dealing down cards **
+bibiqc calls [$0.01]
+Van1212 raises [$0.04]
+bibiqc calls [$0.04]
+** Dealing flop ** [ 9s, Ah, 7s ]
+Van1212 bets [$0.08]
+bibiqc raises [$0.16]
+Van1212 raises [$0.86]
+bibiqc calls [$0.78]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ 7d ]
+** Summary **
+Van1212 shows [ Tc, 9c ]
+bibiqc shows [ Ad, Jd ]
+bibiqc collected [ $1.88 ]
+
+
+#Game No : 460965444
+***** 888poker Hand History for Game 460965444 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 19:34:31
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Van1212 ( $1 )
+Seat 9: bibiqc ( $2.06 )
+Van1212 posts small blind [$0.01]
+bibiqc posts big blind [$0.02]
+** Dealing down cards **
+Van1212 raises [$0.05]
+bibiqc folds
+** Summary **
+Van1212 collected [ $0.04 ]
+
+
+#Game No : 460967316
+***** 888poker Hand History for Game 460967316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:43:06
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Riolyk ( $1.57 )
+Seat 7: Henrike365 ( $0.94 )
+Riolyk posts small blind [$0.01]
+Henrike365 posts big blind [$0.02]
+** Dealing down cards **
+Riolyk raises [$0.05]
+Henrike365 calls [$0.04]
+** Dealing flop ** [ Td, 4d, 5c ]
+Henrike365 checks
+Riolyk bets [$0.06]
+Henrike365 calls [$0.06]
+** Dealing turn ** [ 2h ]
+Henrike365 checks
+Riolyk checks
+** Dealing river ** [ Jc ]
+Henrike365 bets [$0.16]
+Riolyk folds
+** Summary **
+Henrike365 collected [ $0.23 ]
+
+
+#Game No : 460967328
+***** 888poker Hand History for Game 460967328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:44:02
+Table Taejeon 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Riolyk ( $1.45 )
+Seat 7: Henrike365 ( $1.05 )
+Henrike365 posts small blind [$0.01]
+Riolyk posts big blind [$0.02]
+** Dealing down cards **
+Henrike365 raises [$0.03]
+Riolyk calls [$0.02]
+** Dealing flop ** [ 5s, Qh, 7s ]
+Riolyk checks
+Henrike365 bets [$0.04]
+Riolyk calls [$0.04]
+** Dealing turn ** [ 3s ]
+Riolyk checks
+Henrike365 checks
+** Dealing river ** [ 9c ]
+Riolyk checks
+Henrike365 checks
+** Summary **
+Riolyk shows [ 5d, 4s ]
+Henrike365 shows [ 6h, 6s ]
+Henrike365 collected [ $0.15 ]
+
+
+#Game No : 460967338
+***** 888poker Hand History for Game 460967338 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:44:45
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Riolyk ( $1.37 )
+Seat 7: Henrike365 ( $1.12 )
+Riolyk posts small blind [$0.01]
+Henrike365 posts big blind [$0.02]
+** Dealing down cards **
+Riolyk raises [$0.05]
+Henrike365 folds
+** Summary **
+Riolyk collected [ $0.04 ]
+
+
+#Game No : 460967340
+***** 888poker Hand History for Game 460967340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:44:59
+Table Taejeon 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Riolyk ( $1.39 )
+Seat 7: Henrike365 ( $1.10 )
+Henrike365 posts small blind [$0.01]
+Riolyk posts big blind [$0.02]
+** Dealing down cards **
+Henrike365 folds
+** Summary **
+Riolyk collected [ $0.03 ]
+
+
+#Game No : 460967341
+***** 888poker Hand History for Game 460967341 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:45:04
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Riolyk ( $1.40 )
+Seat 7: Henrike365 ( $1.09 )
+Riolyk posts small blind [$0.01]
+Henrike365 posts big blind [$0.02]
+** Dealing down cards **
+Riolyk raises [$0.03]
+Henrike365 calls [$0.02]
+** Dealing flop ** [ 9h, Kc, 5d ]
+Henrike365 checks
+Riolyk bets [$0.04]
+Henrike365 calls [$0.04]
+** Dealing turn ** [ 3s ]
+Henrike365 checks
+Riolyk checks
+** Dealing river ** [ Qs ]
+Henrike365 bets [$0.16]
+Riolyk calls [$0.16]
+** Summary **
+Henrike365 shows [ 8d, 7h ]
+Riolyk shows [ Jc, Js ]
+Riolyk collected [ $0.45 ]
+
+
+#Game No : 460967347
+***** 888poker Hand History for Game 460967347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:45:35
+Table Taejeon 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Riolyk ( $1.61 )
+Seat 7: Henrike365 ( $0.85 )
+Henrike365 posts small blind [$0.01]
+Riolyk posts big blind [$0.02]
+** Dealing down cards **
+Henrike365 folds
+** Summary **
+Riolyk collected [ $0.03 ]
+
+
+#Game No : 460967349
+***** 888poker Hand History for Game 460967349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:45:40
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Riolyk ( $1.62 )
+Seat 7: Henrike365 ( $0.84 )
+Riolyk posts small blind [$0.01]
+Henrike365 posts big blind [$0.02]
+** Dealing down cards **
+Riolyk calls [$0.01]
+Henrike365 checks
+** Dealing flop ** [ 4s, 2c, 2h ]
+Henrike365 checks
+Riolyk bets [$0.02]
+Henrike365 calls [$0.02]
+** Dealing turn ** [ 8h ]
+Henrike365 checks
+Riolyk bets [$0.04]
+Henrike365 calls [$0.04]
+** Dealing river ** [ 5h ]
+Henrike365 checks
+Riolyk bets [$0.18]
+Henrike365 calls [$0.18]
+** Summary **
+Riolyk shows [ Kh, 3h ]
+Henrike365 mucks [ Qs, 4c ]
+Riolyk collected [ $0.49 ]
+
+
+#Game No : 460967413
+***** 888poker Hand History for Game 460967413 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:51:03
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Serdjo. ( $1 )
+Seat 2: moneymann1 ( $1 )
+moneymann1 posts small blind [$0.01]
+Serdjo. posts big blind [$0.02]
+** Dealing down cards **
+moneymann1 raises [$0.03]
+Serdjo. calls [$0.02]
+** Dealing flop ** [ 7s, 8h, 2s ]
+Serdjo. checks
+moneymann1 checks
+** Dealing turn ** [ 4d ]
+Serdjo. bets [$0.05]
+moneymann1 calls [$0.05]
+** Dealing river ** [ 5d ]
+Serdjo. checks
+moneymann1 checks
+** Summary **
+Serdjo. shows [ Qc, 2h ]
+moneymann1 mucks [ Js, Kc ]
+Serdjo. collected [ $0.17 ]
+
+
+#Game No : 460967434
+***** 888poker Hand History for Game 460967434 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:52:33
+Table Taejeon 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Serdjo. ( $1.09 )
+Seat 4: frankatron ( $1.79 )
+frankatron posts small blind [$0.01]
+Serdjo. posts big blind [$0.02]
+** Dealing down cards **
+frankatron raises [$0.05]
+Serdjo. folds
+** Summary **
+frankatron collected [ $0.04 ]
+
+
+#Game No : 460967440
+***** 888poker Hand History for Game 460967440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:52:53
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Serdjo. ( $1.07 )
+Seat 4: frankatron ( $1.81 )
+Serdjo. posts small blind [$0.01]
+frankatron posts big blind [$0.02]
+** Dealing down cards **
+Serdjo. raises [$0.05]
+frankatron folds
+** Summary **
+Serdjo. collected [ $0.04 ]
+
+
+#Game No : 460967453
+***** 888poker Hand History for Game 460967453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 21:53:39
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Serdjo. ( $1.09 )
+Seat 2: switchtorich ( $0.97 )
+switchtorich posts small blind [$0.01]
+Serdjo. posts big blind [$0.02]
+** Dealing down cards **
+switchtorich folds
+** Summary **
+Serdjo. did not show his hand
+Serdjo. collected [ $0.03 ]
+
+
+#Game No : 460968543
+***** 888poker Hand History for Game 460968543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 23:15:27
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sisildur ( $1 )
+Seat 6: Denworld911 ( $1.67 )
+sisildur posts small blind [$0.01]
+Denworld911 posts big blind [$0.02]
+** Dealing down cards **
+sisildur raises [$0.05]
+Denworld911 calls [$0.04]
+** Dealing flop ** [ 9c, 3h, Ts ]
+Denworld911 checks
+sisildur bets [$0.08]
+Denworld911 calls [$0.08]
+** Dealing turn ** [ Ks ]
+Denworld911 checks
+sisildur bets [$0.20]
+Denworld911 calls [$0.20]
+** Dealing river ** [ 5c ]
+Denworld911 checks
+sisildur checks
+** Summary **
+Denworld911 shows [ As, Qs ]
+sisildur shows [ Tc, 7s ]
+sisildur collected [ $0.64 ]
+
+
+#Game No : 460968555
+***** 888poker Hand History for Game 460968555 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 01 2019 23:16:08
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: sisildur ( $1.30 )
+Seat 6: Denworld911 ( $1.33 )
+Denworld911 posts small blind [$0.01]
+sisildur posts big blind [$0.02]
+** Dealing down cards **
+Denworld911 folds
+** Summary **
+sisildur collected [ $0.03 ]
+
+
+#Game No : 460969243
+***** 888poker Hand History for Game 460969243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 00:04:58
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Serious_Vito ( $2 )
+Seat 4: Courtpd1 ( $0.99 )
+Serious_Vito posts small blind [$0.01]
+Courtpd1 posts big blind [$0.02]
+** Dealing down cards **
+Serious_Vito folds
+** Summary **
+Courtpd1 collected [ $0.03 ]
+
+
+#Game No : 460969245
+***** 888poker Hand History for Game 460969245 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 00:05:04
+Table Taejeon 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Serious_Vito ( $1.99 )
+Seat 4: Courtpd1 ( $1 )
+Courtpd1 posts small blind [$0.01]
+Serious_Vito posts big blind [$0.02]
+** Dealing down cards **
+Courtpd1 calls [$0.01]
+Serious_Vito raises [$0.06]
+Courtpd1 calls [$0.06]
+** Dealing flop ** [ 2s, 9c, 9d ]
+Serious_Vito bets [$0.10]
+Courtpd1 calls [$0.10]
+** Dealing turn ** [ 3h ]
+Serious_Vito bets [$0.18]
+Courtpd1 folds
+** Summary **
+Serious_Vito collected [ $0.34 ]
+
+
+#Game No : 460969256
+***** 888poker Hand History for Game 460969256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 00:05:32
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Serious_Vito ( $2.15 )
+Seat 4: Courtpd1 ( $0.82 )
+Serious_Vito posts small blind [$0.01]
+Courtpd1 posts big blind [$0.02]
+** Dealing down cards **
+Serious_Vito folds
+** Summary **
+Courtpd1 collected [ $0.03 ]
+
+
+#Game No : 460969258
+***** 888poker Hand History for Game 460969258 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 00:05:37
+Table Taejeon 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Serious_Vito ( $2.14 )
+Seat 4: Courtpd1 ( $0.83 )
+Courtpd1 posts small blind [$0.01]
+Serious_Vito posts big blind [$0.02]
+** Dealing down cards **
+Courtpd1 calls [$0.01]
+Serious_Vito checks
+** Dealing flop ** [ 7s, 8h, 5s ]
+Serious_Vito bets [$0.06]
+Courtpd1 folds
+** Summary **
+Serious_Vito collected [ $0.04 ]
+
+
+#Game No : 460969263
+***** 888poker Hand History for Game 460969263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 00:05:53
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Serious_Vito ( $2.16 )
+Seat 4: Courtpd1 ( $0.81 )
+Serious_Vito posts small blind [$0.01]
+Courtpd1 posts big blind [$0.02]
+** Dealing down cards **
+Serious_Vito calls [$0.01]
+Courtpd1 checks
+** Dealing flop ** [ 4d, 3s, 7c ]
+Courtpd1 bets [$0.04]
+Serious_Vito calls [$0.04]
+** Dealing turn ** [ Th ]
+Courtpd1 bets [$0.04]
+Serious_Vito calls [$0.04]
+** Dealing river ** [ Ad ]
+Courtpd1 checks
+Serious_Vito checks
+** Summary **
+Courtpd1 shows [ 5s, 7s ]
+Serious_Vito shows [ Qd, 7d ]
+Serious_Vito collected [ $0.19 ]
+
+
+#Game No : 460971455
+***** 888poker Hand History for Game 460971455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 01:54:18
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Aupresent ( $1.97 )
+Seat 4: Dav305666 ( $3.20 )
+Dav305666 posts small blind [$0.01]
+Aupresent posts big blind [$0.02]
+** Dealing down cards **
+Dav305666 calls [$0.01]
+Aupresent checks
+** Dealing flop ** [ 9h, 5h, 5c ]
+Dav305666 checks
+Aupresent bets [$0.04]
+Dav305666 folds
+** Summary **
+Aupresent did not show his hand
+Aupresent collected [ $0.04 ]
+
+
+#Game No : 460971463
+***** 888poker Hand History for Game 460971463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 01:54:50
+Table Taejeon 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Aupresent ( $1.99 )
+Seat 4: Dav305666 ( $3.18 )
+Dav305666 posts small blind [$0.01]
+Aupresent posts big blind [$0.02]
+** Dealing down cards **
+Dav305666 calls [$0.01]
+Aupresent checks
+** Dealing flop ** [ 5c, Ts, Jd ]
+Aupresent bets [$0.04]
+Dav305666 folds
+** Summary **
+Aupresent did not show his hand
+Aupresent collected [ $0.04 ]
+
+
+#Game No : 460971469
+***** 888poker Hand History for Game 460971469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 01:55:03
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Aupresent ( $2.01 )
+Seat 4: Dav305666 ( $3.16 )
+Aupresent posts small blind [$0.01]
+Dav305666 posts big blind [$0.02]
+** Dealing down cards **
+Aupresent raises [$0.05]
+Dav305666 folds
+** Summary **
+Aupresent did not show his hand
+Aupresent collected [ $0.04 ]
+
+
+#Game No : 460971471
+***** 888poker Hand History for Game 460971471 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 01:55:10
+Table Taejeon 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Aupresent ( $2.03 )
+Seat 4: Dav305666 ( $3.14 )
+Dav305666 posts small blind [$0.01]
+Aupresent posts big blind [$0.02]
+** Dealing down cards **
+Dav305666 calls [$0.01]
+Aupresent raises [$0.02]
+Dav305666 calls [$0.02]
+** Dealing flop ** [ Qs, 9h, 5d ]
+Aupresent checks
+Dav305666 checks
+** Dealing turn ** [ Qc ]
+Aupresent checks
+Dav305666 bets [$0.02]
+Aupresent folds
+** Summary **
+Dav305666 did not show his hand
+Dav305666 collected [ $0.08 ]
+
+
+#Game No : 460971486
+***** 888poker Hand History for Game 460971486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 01:55:55
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Aupresent ( $1.99 )
+Seat 4: Dav305666 ( $3.18 )
+Aupresent posts small blind [$0.01]
+Dav305666 posts big blind [$0.02]
+** Dealing down cards **
+Aupresent raises [$0.03]
+Dav305666 calls [$0.02]
+** Dealing flop ** [ 4s, 8h, 6c ]
+Dav305666 checks
+Aupresent bets [$0.05]
+Dav305666 calls [$0.05]
+** Dealing turn ** [ 9c ]
+Dav305666 checks
+Aupresent checks
+** Dealing river ** [ Js ]
+Dav305666 checks
+Aupresent checks
+** Summary **
+Dav305666 shows [ 6s, 5s ]
+Aupresent mucks [ Ac, Qs ]
+Dav305666 collected [ $0.17 ]
+
+
+#Game No : 460971496
+***** 888poker Hand History for Game 460971496 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 01:56:19
+Table Taejeon 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Aupresent ( $1.90 )
+Seat 4: Dav305666 ( $3.26 )
+Dav305666 posts small blind [$0.01]
+Aupresent posts big blind [$0.02]
+** Dealing down cards **
+Dav305666 folds
+** Summary **
+Aupresent collected [ $0.03 ]
+
+
+#Game No : 460971504
+***** 888poker Hand History for Game 460971504 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 01:56:39
+Table Taejeon 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Dav305666 ( $3.27 )
+Seat 6: Valdik909 ( $0.98 )
+Dav305666 posts small blind [$0.01]
+Valdik909 posts big blind [$0.02]
+** Dealing down cards **
+Dav305666 folds
+** Summary **
+Valdik909 did not show his hand
+Valdik909 collected [ $0.03 ]
+
+

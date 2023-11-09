@@ -1,0 +1,60 @@
+#Game No : 501711923
+***** 888poker Hand History for Game 501711923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 11:48:07
+Table Donetsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Vehian ( $1.11 )
+Seat 7: vlad_ul ( $1 )
+vlad_ul posts small blind [$0.01]
+Vehian posts big blind [$0.02]
+** Dealing down cards **
+vlad_ul folds
+** Summary **
+Vehian did not show his hand
+Vehian collected [ $0.03 ]
+
+
+#Game No : 501711930
+***** 888poker Hand History for Game 501711930 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 11:48:12
+Table Donetsk 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Vehian ( $1.12 )
+Seat 7: vlad_ul ( $1 )
+Vehian posts small blind [$0.01]
+vlad_ul posts big blind [$0.02]
+** Dealing down cards **
+Vehian calls [$0.01]
+vlad_ul checks
+** Dealing flop ** [ 7h, Ac, Qc ]
+vlad_ul checks
+Vehian checks
+** Dealing turn ** [ 9h ]
+vlad_ul checks
+Vehian checks
+** Dealing river ** [ As ]
+vlad_ul checks
+Vehian checks
+** Summary **
+vlad_ul shows [ 4h, 8d ]
+Vehian mucks [ 3s, 2s ]
+vlad_ul collected [ $0.04 ]
+
+
+#Game No : 501714710
+***** 888poker Hand History for Game 501714710 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 12:34:37
+Table Donetsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: Erhabee ( $1.03 )
+Seat 7: vlad_ul ( $1.01 )
+vlad_ul posts small blind [$0.01]
+** Dealing down cards **
+Erhabee folds
+** Summary **
+vlad_ul collected [ $0.01 ]
+
+

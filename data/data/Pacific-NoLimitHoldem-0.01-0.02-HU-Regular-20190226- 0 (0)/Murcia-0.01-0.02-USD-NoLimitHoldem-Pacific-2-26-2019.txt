@@ -1,0 +1,115 @@
+#Game No : 525200417
+***** 888poker Hand History for Game 525200417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 17:10:35
+Table Murcia 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: lottobooth ( $0.66 )
+Seat 9: Aremb ( $0.70 )
+Aremb posts small blind [$0.01]
+lottobooth posts big blind [$0.02]
+** Dealing down cards **
+Aremb calls [$0.01]
+lottobooth raises [$0.04]
+Aremb folds
+** Summary **
+lottobooth did not show his hand
+lottobooth collected [ $0.04 ]
+
+
+#Game No : 525200464
+***** 888poker Hand History for Game 525200464 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 17:11:24
+Table Murcia 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: lottobooth ( $0.56 )
+Seat 9: Aremb ( $0.79 )
+Aremb posts small blind [$0.01]
+lottobooth posts big blind [$0.02]
+** Dealing down cards **
+Aremb calls [$0.01]
+lottobooth checks
+** Dealing flop ** [ 3d, 6d, Td ]
+lottobooth bets [$0.04]
+Aremb calls [$0.04]
+** Dealing turn ** [ 4h ]
+lottobooth bets [$0.06]
+Aremb calls [$0.06]
+** Dealing river ** [ 4s ]
+lottobooth bets [$0.24]
+Aremb calls [$0.24]
+** Summary **
+lottobooth shows [ 2h, 5d ]
+Aremb mucks [ Ts, 8d ]
+lottobooth collected [ $0.68 ]
+
+
+#Game No : 525200502
+***** 888poker Hand History for Game 525200502 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 02 2019 17:12:06
+Table Murcia 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: lottobooth ( $0.88 )
+Seat 9: Aremb ( $0.43 )
+lottobooth posts small blind [$0.01]
+Aremb posts big blind [$0.02]
+** Dealing down cards **
+lottobooth calls [$0.01]
+Aremb checks
+** Dealing flop ** [ Ks, 7c, Kc ]
+Aremb checks
+lottobooth checks
+** Dealing turn ** [ Jh ]
+Aremb checks
+lottobooth bets [$0.04]
+Aremb folds
+** Summary **
+lottobooth collected [ $0.04 ]
+
+
+#Game No : 525230387
+***** 888poker Hand History for Game 525230387 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 05:39:27
+Table Murcia 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Alexander_28 ( $2 )
+Seat 9: lulumih ( $0.90 )
+lulumih posts small blind [$0.01]
+Alexander_28 posts big blind [$0.02]
+** Dealing down cards **
+lulumih calls [$0.01]
+Alexander_28 raises [$0.02]
+lulumih calls [$0.02]
+** Dealing flop ** [ Ah, 4c, Kd ]
+Alexander_28 bets [$0.02]
+lulumih folds
+** Summary **
+Alexander_28 did not show his hand
+Alexander_28 collected [ $0.08 ]
+
+
+#Game No : 525230408
+***** 888poker Hand History for Game 525230408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 05:39:48
+Table Murcia 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Alexander_28 ( $2.04 )
+Seat 9: lulumih ( $0.86 )
+Alexander_28 posts small blind [$0.01]
+lulumih posts big blind [$0.02]
+** Dealing down cards **
+Alexander_28 raises [$0.03]
+lulumih calls [$0.02]
+** Dealing flop ** [ 2c, 7d, Qd ]
+lulumih checks
+Alexander_28 bets [$0.02]
+lulumih folds
+** Summary **
+Alexander_28 did not show his hand
+Alexander_28 collected [ $0.08 ]
+
+

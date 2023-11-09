@@ -1,0 +1,66 @@
+#Game No : 515057637
+***** 888poker Hand History for Game 515057637 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 08:04:36
+Table Baku 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ZhukSS83 ( $0.90 )
+Seat 2: Maxkiper ( $0.96 )
+ZhukSS83 posts small blind [$0.01]
+Maxkiper posts big blind [$0.02]
+** Dealing down cards **
+ZhukSS83 raises [$0.03]
+Maxkiper calls [$0.02]
+** Dealing flop ** [ Kd, 2c, 7d ]
+Maxkiper checks
+ZhukSS83 bets [$0.08]
+Maxkiper folds
+** Summary **
+ZhukSS83 collected [ $0.08 ]
+
+
+#Game No : 515057656
+***** 888poker Hand History for Game 515057656 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 08:04:58
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ZhukSS83 ( $0.94 )
+Seat 2: Maxkiper ( $0.92 )
+Maxkiper posts small blind [$0.01]
+ZhukSS83 posts big blind [$0.02]
+** Dealing down cards **
+Maxkiper calls [$0.01]
+ZhukSS83 checks
+** Dealing flop ** [ 5h, Kd, Qs ]
+ZhukSS83 checks
+Maxkiper bets [$0.04]
+ZhukSS83 calls [$0.04]
+** Dealing turn ** [ Qc ]
+ZhukSS83 bets [$0.12]
+Maxkiper folds
+** Summary **
+ZhukSS83 collected [ $0.12 ]
+
+
+#Game No : 515057708
+***** 888poker Hand History for Game 515057708 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 08:06:14
+Table Baku 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: Maxkiper ( $0.78 )
+Seat 7: savelyevsa ( $1.28 )
+savelyevsa posts small blind [$0.01]
+Maxkiper posts big blind [$0.02]
+** Dealing down cards **
+savelyevsa calls [$0.01]
+Maxkiper checks
+** Dealing flop ** [ 6d, 9s, Ah ]
+Maxkiper checks
+savelyevsa bets [$0.02]
+Maxkiper folds
+** Summary **
+savelyevsa collected [ $0.04 ]
+
+

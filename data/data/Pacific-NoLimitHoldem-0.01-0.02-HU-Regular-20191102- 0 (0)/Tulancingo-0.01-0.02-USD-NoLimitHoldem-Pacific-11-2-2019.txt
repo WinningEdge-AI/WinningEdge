@@ -1,0 +1,58 @@
+#Game No : 523592998
+***** 888poker Hand History for Game 523592998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2019 01:36:37
+Table Tulancingo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Gilifero ( $4.22 )
+Seat 9: Dziban ( $2.27 )
+Gilifero posts small blind [$0.01]
+Dziban posts big blind [$0.02]
+** Dealing down cards **
+Gilifero raises [$0.05]
+Dziban calls [$0.04]
+** Dealing flop ** [ 4c, Ts, 8c ]
+Dziban checks
+Gilifero checks
+** Dealing turn ** [ Kd ]
+Dziban bets [$0.07]
+Gilifero raises [$0.19]
+Dziban calls [$0.12]
+** Dealing river ** [ Tc ]
+Dziban checks
+Gilifero checks
+** Summary **
+Dziban shows [ 4h, Kh ]
+Gilifero shows [ 5c, Ks ]
+Dziban collected [ $0.24 ]
+Gilifero collected [ $0.23 ]
+
+
+#Game No : 523593029
+***** 888poker Hand History for Game 523593029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2019 01:37:53
+Table Tulancingo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Gilifero ( $4.26 )
+Seat 9: Dziban ( $2.20 )
+Gilifero posts small blind [$0.01]
+Dziban posts big blind [$0.02]
+** Dealing down cards **
+Gilifero raises [$0.05]
+Dziban calls [$0.04]
+** Dealing flop ** [ Ts, 4h, 8h ]
+Dziban checks
+Gilifero bets [$0.06]
+Dziban calls [$0.06]
+** Dealing turn ** [ Td ]
+Dziban checks
+Gilifero bets [$0.09]
+Dziban calls [$0.09]
+** Dealing river ** [ Jd ]
+Dziban bets [$0.21]
+Gilifero folds
+** Summary **
+Dziban collected [ $0.40 ]
+
+

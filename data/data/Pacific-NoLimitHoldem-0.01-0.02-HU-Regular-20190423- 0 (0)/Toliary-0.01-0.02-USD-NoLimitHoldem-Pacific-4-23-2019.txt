@@ -1,0 +1,104 @@
+#Game No : 516683396
+***** 888poker Hand History for Game 516683396 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 04 2019 00:44:56
+Table Toliary 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: VallGr ( $0.86 )
+Seat 3: Sifras95 ( $0.90 )
+Sifras95 posts small blind [$0.01]
+VallGr posts big blind [$0.02]
+** Dealing down cards **
+Sifras95 raises [$0.03]
+VallGr calls [$0.02]
+** Dealing flop ** [ Tc, Qd, Js ]
+VallGr bets [$0.02]
+Sifras95 calls [$0.02]
+** Dealing turn ** [ 3c ]
+VallGr bets [$0.02]
+Sifras95 calls [$0.02]
+** Dealing river ** [ Jh ]
+VallGr bets [$0.02]
+Sifras95 raises [$0.20]
+VallGr calls [$0.18]
+** Summary **
+Sifras95 shows [ 4c, 9c ]
+VallGr shows [ 6d, Ac ]
+VallGr collected [ $0.53 ]
+
+
+#Game No : 516683402
+***** 888poker Hand History for Game 516683402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 04 2019 00:45:31
+Table Toliary 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VallGr ( $1.11 )
+Seat 3: Sifras95 ( $0.62 )
+VallGr posts small blind [$0.01]
+Sifras95 posts big blind [$0.02]
+** Dealing down cards **
+VallGr calls [$0.01]
+Sifras95 checks
+** Dealing flop ** [ Ad, 7d, 6c ]
+Sifras95 bets [$0.02]
+VallGr calls [$0.02]
+** Dealing turn ** [ 5h ]
+Sifras95 bets [$0.08]
+VallGr calls [$0.08]
+** Dealing river ** [ 2s ]
+Sifras95 bets [$0.50]
+VallGr calls [$0.50]
+** Summary **
+VallGr shows [ 6h, 4d ]
+Sifras95 shows [ 6d, 5c ]
+Sifras95 collected [ $1.17 ]
+
+
+#Game No : 516683406
+***** 888poker Hand History for Game 516683406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 04 2019 00:45:58
+Table Toliary 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: VallGr ( $0.49 )
+Seat 3: Sifras95 ( $1.17 )
+Sifras95 posts small blind [$0.01]
+VallGr posts big blind [$0.02]
+** Dealing down cards **
+Sifras95 calls [$0.01]
+VallGr raises [$0.04]
+Sifras95 folds
+** Summary **
+VallGr did not show his hand
+VallGr collected [ $0.04 ]
+
+
+#Game No : 516683409
+***** 888poker Hand History for Game 516683409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 04 2019 00:46:11
+Table Toliary 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VallGr ( $0.51 )
+Seat 3: Sifras95 ( $1.15 )
+VallGr posts small blind [$0.01]
+Sifras95 posts big blind [$0.02]
+** Dealing down cards **
+VallGr raises [$0.03]
+Sifras95 calls [$0.02]
+** Dealing flop ** [ Qd, 2d, Ks ]
+Sifras95 bets [$0.08]
+VallGr raises [$0.16]
+Sifras95 calls [$0.08]
+** Dealing turn ** [ Ad ]
+Sifras95 bets [$0.12]
+VallGr raises [$0.31]
+Sifras95 calls [$0.19]
+** Dealing river ** [ 9d ]
+** Summary **
+VallGr shows [ 5h, Kh ]
+Sifras95 shows [ 9h, Kc ]
+Sifras95 collected [ $0.96 ]
+
+

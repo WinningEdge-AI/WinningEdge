@@ -1,0 +1,83 @@
+#Game No : 1230869079
+***** 888poker Hand History for Game 1230869079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 15:11:31
+Table Jujuy 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: acrostichon ( $2.12 )
+Seat 5: Kobe24LSB ( $8.75 )
+acrostichon posts small blind [$0.01]
+Kobe24LSB posts big blind [$0.02]
+** Dealing down cards **
+acrostichon calls [$0.01]
+Kobe24LSB checks
+** Dealing flop ** [ Kd, 6d, 4h ]
+Kobe24LSB checks
+acrostichon checks
+** Dealing turn ** [ 4d ]
+Kobe24LSB checks
+acrostichon checks
+** Dealing river ** [ 6h ]
+Kobe24LSB checks
+acrostichon bets [$0.04]
+Kobe24LSB folds
+** Summary **
+acrostichon did not show his hand
+acrostichon collected [ $0.04 ]
+
+
+#Game No : 1230869167
+***** 888poker Hand History for Game 1230869167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 15:11:57
+Table Jujuy 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: acrostichon ( $2.14 )
+Seat 5: Kobe24LSB ( $8.73 )
+Kobe24LSB posts small blind [$0.01]
+acrostichon posts big blind [$0.02]
+** Dealing down cards **
+Kobe24LSB raises [$0.03]
+acrostichon calls [$0.02]
+** Dealing flop ** [ 7h, 4s, Qc ]
+acrostichon checks
+Kobe24LSB checks
+** Dealing turn ** [ 7d ]
+acrostichon checks
+Kobe24LSB bets [$0.05]
+acrostichon folds
+** Summary **
+Kobe24LSB did not show his hand
+Kobe24LSB collected [ $0.08 ]
+
+
+#Game No : 1230869233
+***** 888poker Hand History for Game 1230869233 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 12 2018 15:12:16
+Table Jujuy 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: acrostichon ( $2.10 )
+Seat 5: Kobe24LSB ( $8.77 )
+acrostichon posts small blind [$0.01]
+Kobe24LSB posts big blind [$0.02]
+** Dealing down cards **
+acrostichon calls [$0.01]
+Kobe24LSB raises [$0.06]
+acrostichon calls [$0.06]
+** Dealing flop ** [ Ac, 6c, 7d ]
+Kobe24LSB bets [$0.10]
+acrostichon calls [$0.10]
+** Dealing turn ** [ 9d ]
+Kobe24LSB bets [$0.24]
+acrostichon calls [$0.24]
+** Dealing river ** [ 5d ]
+Kobe24LSB bets [$0.88]
+acrostichon raises [$1.68]
+Kobe24LSB calls [$0.80]
+** Summary **
+acrostichon shows [ 8h, 9c ]
+Kobe24LSB shows [ 2d, Qd ]
+Kobe24LSB collected [ $3.94 ]
+
+

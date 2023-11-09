@@ -1,0 +1,408 @@
+#Game No : 1230492896
+***** 888poker Hand History for Game 1230492896 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:03:57
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: lupushhle ( $1 )
+Seat 2: Lumen_de_Lay ( $0.72 )
+lupushhle posts small blind [$0.01]
+Lumen_de_Lay posts big blind [$0.02]
+** Dealing down cards **
+lupushhle raises [$0.03]
+Lumen_de_Lay calls [$0.02]
+** Dealing flop ** [ Ks, 5s, 7c ]
+Lumen_de_Lay bets [$0.02]
+lupushhle raises [$0.06]
+Lumen_de_Lay calls [$0.04]
+** Dealing turn ** [ Th ]
+Lumen_de_Lay bets [$0.02]
+lupushhle raises [$0.08]
+Lumen_de_Lay calls [$0.06]
+** Dealing river ** [ Qs ]
+Lumen_de_Lay bets [$0.48]
+lupushhle raises [$0.82]
+Lumen_de_Lay folds
+** Summary **
+lupushhle collected [ $1.24 ]
+
+
+#Game No : 1230493151
+***** 888poker Hand History for Game 1230493151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:05:06
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: lupushhle ( $1.58 )
+Seat 2: Lumen_de_Lay ( $0.06 )
+Lumen_de_Lay posts small blind [$0.01]
+lupushhle posts big blind [$0.02]
+** Dealing down cards **
+Lumen_de_Lay calls [$0.01]
+lupushhle checks
+** Dealing flop ** [ Js, Jd, 7h ]
+lupushhle bets [$0.02]
+Lumen_de_Lay calls [$0.02]
+** Dealing turn ** [ As ]
+lupushhle bets [$0.02]
+Lumen_de_Lay calls [$0.02]
+** Dealing river ** [ 8s ]
+** Summary **
+lupushhle shows [ Ad, 3s ]
+Lumen_de_Lay shows [ 9d, 2d ]
+lupushhle collected [ $0.12 ]
+
+
+#Game No : 1230493258
+***** 888poker Hand History for Game 1230493258 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:05:31
+Table Olinda 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: lupushhle ( $1.64 )
+Seat 4: DraganNinel ( $0.80 )
+lupushhle posts small blind [$0.01]
+DraganNinel posts big blind [$0.02]
+** Dealing down cards **
+lupushhle raises [$0.03]
+DraganNinel calls [$0.02]
+** Dealing flop ** [ 3s, 2s, Qh ]
+DraganNinel checks
+lupushhle checks
+** Dealing turn ** [ Th ]
+DraganNinel bets [$0.02]
+lupushhle raises [$0.08]
+DraganNinel folds
+** Summary **
+lupushhle collected [ $0.12 ]
+
+
+#Game No : 1230493397
+***** 888poker Hand History for Game 1230493397 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:06:02
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: lupushhle ( $1.70 )
+Seat 4: DraganNinel ( $0.74 )
+DraganNinel posts small blind [$0.01]
+** Dealing down cards **
+lupushhle folds
+** Summary **
+DraganNinel collected [ $0.01 ]
+
+
+#Game No : 1230493410
+***** 888poker Hand History for Game 1230493410 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:06:06
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DraganNinel ( $0.74 )
+Seat 6: Piediish ( $0.80 )
+DraganNinel posts small blind [$0.01]
+Piediish posts big blind [$0.02]
+** Dealing down cards **
+DraganNinel calls [$0.01]
+Piediish checks
+** Dealing flop ** [ Qh, 6d, Qs ]
+Piediish bets [$0.02]
+DraganNinel calls [$0.02]
+** Dealing turn ** [ 8s ]
+Piediish bets [$0.02]
+DraganNinel calls [$0.02]
+** Dealing river ** [ 8d ]
+Piediish checks
+DraganNinel checks
+** Summary **
+Piediish shows [ 6c, 2s ]
+DraganNinel shows [ Jd, Th ]
+DraganNinel collected [ $0.12 ]
+
+
+#Game No : 1230493593
+***** 888poker Hand History for Game 1230493593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:06:49
+Table Olinda 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: DraganNinel ( $0.80 )
+Seat 6: Piediish ( $0.74 )
+Piediish posts small blind [$0.01]
+DraganNinel posts big blind [$0.02]
+** Dealing down cards **
+Piediish calls [$0.01]
+DraganNinel checks
+** Dealing flop ** [ 5h, 4s, 2s ]
+DraganNinel bets [$0.02]
+Piediish calls [$0.02]
+** Dealing turn ** [ 2d ]
+DraganNinel bets [$0.02]
+Piediish calls [$0.02]
+** Dealing river ** [ 2h ]
+DraganNinel bets [$0.02]
+Piediish calls [$0.02]
+** Summary **
+DraganNinel shows [ 5d, Jh ]
+Piediish mucks [ Qh, 4h ]
+DraganNinel collected [ $0.15 ]
+
+
+#Game No : 1230503747
+***** 888poker Hand History for Game 1230503747 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:47:42
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: AngelinA155 ( $1.09 )
+Seat 9: Fizzyeasy ( $1.63 )
+Fizzyeasy posts small blind [$0.01]
+AngelinA155 posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy folds
+** Summary **
+AngelinA155 collected [ $0.03 ]
+
+
+#Game No : 1230503775
+***** 888poker Hand History for Game 1230503775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:47:48
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AngelinA155 ( $1.10 )
+Seat 9: Fizzyeasy ( $1.62 )
+AngelinA155 posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+AngelinA155 calls [$0.01]
+Fizzyeasy checks
+** Dealing flop ** [ 2s, 3d, 7s ]
+Fizzyeasy checks
+AngelinA155 checks
+** Dealing turn ** [ Td ]
+Fizzyeasy checks
+AngelinA155 bets [$0.02]
+Fizzyeasy folds
+** Summary **
+AngelinA155 collected [ $0.04 ]
+
+
+#Game No : 1230503882
+***** 888poker Hand History for Game 1230503882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:48:16
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: AngelinA155 ( $1.12 )
+Seat 9: Fizzyeasy ( $1.60 )
+Fizzyeasy posts small blind [$0.01]
+** Dealing down cards **
+AngelinA155 folds
+** Summary **
+Fizzyeasy collected [ $0.01 ]
+
+
+#Game No : 1230504271
+***** 888poker Hand History for Game 1230504271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:49:54
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: KNasekhian ( $1 )
+Seat 9: Fizzyeasy ( $1.60 )
+KNasekhian posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian folds
+** Summary **
+Fizzyeasy collected [ $0.03 ]
+
+
+#Game No : 1230504303
+***** 888poker Hand History for Game 1230504303 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:50:01
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: KNasekhian ( $0.99 )
+Seat 9: Fizzyeasy ( $1.61 )
+Fizzyeasy posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy folds
+** Summary **
+KNasekhian collected [ $0.03 ]
+
+
+#Game No : 1230504331
+***** 888poker Hand History for Game 1230504331 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 08:50:07
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: KNasekhian ( $1 )
+Seat 9: Fizzyeasy ( $1.60 )
+KNasekhian posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+Fizzyeasy checks
+** Dealing flop ** [ Ts, Ah, 7h ]
+Fizzyeasy checks
+KNasekhian checks
+** Dealing turn ** [ 8d ]
+Fizzyeasy checks
+KNasekhian bets [$0.02]
+Fizzyeasy calls [$0.02]
+** Dealing river ** [ Ks ]
+Fizzyeasy checks
+KNasekhian checks
+** Summary **
+Fizzyeasy shows [ Jh, 8c ]
+KNasekhian shows [ Td, Qs ]
+KNasekhian collected [ $0.08 ]
+
+
+#Game No : 1230519986
+***** 888poker Hand History for Game 1230519986 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 09:48:44
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AngelinA155 ( $1.32 )
+Seat 9: Fizzyeasy ( $3.22 )
+AngelinA155 posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+AngelinA155 folds
+** Summary **
+Fizzyeasy collected [ $0.03 ]
+
+
+#Game No : 1230520012
+***** 888poker Hand History for Game 1230520012 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 09:48:50
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: AngelinA155 ( $1.31 )
+Seat 9: Fizzyeasy ( $3.23 )
+Fizzyeasy posts small blind [$0.01]
+AngelinA155 posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy folds
+** Summary **
+AngelinA155 collected [ $0.03 ]
+
+
+#Game No : 1230520041
+***** 888poker Hand History for Game 1230520041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 09:48:56
+Table Olinda 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AngelinA155 ( $1.32 )
+Seat 9: Fizzyeasy ( $3.22 )
+AngelinA155 posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+AngelinA155 folds
+** Summary **
+Fizzyeasy collected [ $0.03 ]
+
+
+#Game No : 1230520074
+***** 888poker Hand History for Game 1230520074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 09:49:03
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: AngelinA155 ( $1.31 )
+Seat 9: Fizzyeasy ( $3.23 )
+Fizzyeasy posts small blind [$0.01]
+** Dealing down cards **
+AngelinA155 folds
+** Summary **
+Fizzyeasy collected [ $0.01 ]
+
+
+#Game No : 1230520601
+***** 888poker Hand History for Game 1230520601 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 09:50:47
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: elmendoza23 ( $0.80 )
+Seat 9: Fizzyeasy ( $3.23 )
+elmendoza23 posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+elmendoza23 calls [$0.01]
+Fizzyeasy checks
+** Dealing flop ** [ Qc, 9c, 7s ]
+Fizzyeasy checks
+elmendoza23 checks
+** Dealing turn ** [ Ts ]
+Fizzyeasy bets [$0.04]
+elmendoza23 calls [$0.04]
+** Dealing river ** [ 5c ]
+Fizzyeasy checks
+elmendoza23 bets [$0.12]
+Fizzyeasy calls [$0.12]
+** Summary **
+elmendoza23 shows [ Kc, 8d ]
+Fizzyeasy shows [ 2c, Qh ]
+Fizzyeasy collected [ $0.34 ]
+
+
+#Game No : 1230520795
+***** 888poker Hand History for Game 1230520795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 09:51:27
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: elmendoza23 ( $0.62 )
+Seat 9: Fizzyeasy ( $3.39 )
+Fizzyeasy posts small blind [$0.01]
+elmendoza23 posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy folds
+** Summary **
+elmendoza23 did not show his hand
+elmendoza23 collected [ $0.03 ]
+
+
+#Game No : 1230520837
+***** 888poker Hand History for Game 1230520837 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 09:51:35
+Table Olinda 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: elmendoza23 ( $0.63 )
+Seat 9: Fizzyeasy ( $3.38 )
+elmendoza23 posts small blind [$0.01]
+Fizzyeasy posts big blind [$0.02]
+** Dealing down cards **
+elmendoza23 raises [$0.03]
+Fizzyeasy folds
+** Summary **
+elmendoza23 collected [ $0.04 ]
+
+
+#Game No : 1230520891
+***** 888poker Hand History for Game 1230520891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 12 2018 09:51:45
+Table Olinda 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: elmendoza23 ( $0.65 )
+Seat 9: Fizzyeasy ( $3.36 )
+Fizzyeasy posts small blind [$0.01]
+elmendoza23 posts big blind [$0.02]
+** Dealing down cards **
+Fizzyeasy folds
+** Summary **
+elmendoza23 collected [ $0.03 ]
+
+

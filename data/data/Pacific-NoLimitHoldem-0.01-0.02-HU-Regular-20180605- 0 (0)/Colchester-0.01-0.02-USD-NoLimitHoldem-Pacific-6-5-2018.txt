@@ -1,0 +1,705 @@
+#Game No : 502919309
+***** 888poker Hand History for Game 502919309 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:04:41
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2 )
+Seat 5: hesvubean ( $1.10 )
+hesvubean posts small blind [$0.01]
+kirrl32 posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+kirrl32 raises [$0.04]
+hesvubean calls [$0.04]
+** Dealing flop ** [ 7d, Jd, Ad ]
+kirrl32 bets [$0.06]
+hesvubean folds
+** Summary **
+kirrl32 collected [ $0.12 ]
+
+
+#Game No : 502919317
+***** 888poker Hand History for Game 502919317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:05:00
+Table Colchester 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.06 )
+Seat 5: hesvubean ( $1.04 )
+kirrl32 posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+kirrl32 calls [$0.01]
+hesvubean checks
+** Dealing flop ** [ 3d, 2s, 8d ]
+hesvubean bets [$0.02]
+kirrl32 folds
+** Summary **
+hesvubean collected [ $0.04 ]
+
+
+#Game No : 502919322
+***** 888poker Hand History for Game 502919322 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:05:13
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.04 )
+Seat 5: hesvubean ( $1.06 )
+hesvubean posts small blind [$0.01]
+kirrl32 posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+kirrl32 raises [$0.04]
+hesvubean calls [$0.04]
+** Dealing flop ** [ Th, Ah, Jh ]
+kirrl32 checks
+hesvubean checks
+** Dealing turn ** [ 2h ]
+kirrl32 checks
+hesvubean checks
+** Dealing river ** [ 7s ]
+kirrl32 bets [$0.12]
+hesvubean calls [$0.12]
+** Summary **
+kirrl32 shows [ Ac, Kh ]
+hesvubean mucks [ Js, Tc ]
+kirrl32 collected [ $0.34 ]
+
+
+#Game No : 502919332
+***** 888poker Hand History for Game 502919332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:05:44
+Table Colchester 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.20 )
+Seat 5: hesvubean ( $0.88 )
+kirrl32 posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+kirrl32 calls [$0.01]
+hesvubean checks
+** Dealing flop ** [ 7h, 6s, 8s ]
+hesvubean checks
+kirrl32 checks
+** Dealing turn ** [ 6d ]
+hesvubean checks
+kirrl32 checks
+** Dealing river ** [ 2s ]
+hesvubean bets [$0.04]
+kirrl32 folds
+** Summary **
+hesvubean collected [ $0.04 ]
+
+
+#Game No : 502919339
+***** 888poker Hand History for Game 502919339 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:06:04
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.18 )
+Seat 5: hesvubean ( $0.90 )
+hesvubean posts small blind [$0.01]
+kirrl32 posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+kirrl32 checks
+** Dealing flop ** [ 5c, 3s, 8h ]
+kirrl32 checks
+hesvubean bets [$0.04]
+kirrl32 folds
+** Summary **
+hesvubean collected [ $0.04 ]
+
+
+#Game No : 502919348
+***** 888poker Hand History for Game 502919348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:06:29
+Table Colchester 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.16 )
+Seat 5: hesvubean ( $0.92 )
+kirrl32 posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+kirrl32 calls [$0.01]
+hesvubean checks
+** Dealing flop ** [ 3d, 8d, Ac ]
+hesvubean bets [$0.02]
+kirrl32 folds
+** Summary **
+hesvubean collected [ $0.04 ]
+
+
+#Game No : 502919352
+***** 888poker Hand History for Game 502919352 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:06:50
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.14 )
+Seat 5: hesvubean ( $0.94 )
+hesvubean posts small blind [$0.01]
+kirrl32 posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+kirrl32 checks
+** Dealing flop ** [ 9d, Ac, Jd ]
+kirrl32 checks
+hesvubean bets [$0.02]
+kirrl32 calls [$0.02]
+** Dealing turn ** [ 3s ]
+kirrl32 checks
+hesvubean checks
+** Dealing river ** [ 4d ]
+kirrl32 bets [$0.08]
+hesvubean calls [$0.08]
+** Summary **
+kirrl32 shows [ 4s, Jc ]
+hesvubean shows [ 3c, Ad ]
+hesvubean collected [ $0.23 ]
+
+
+#Game No : 502919365
+***** 888poker Hand History for Game 502919365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:07:30
+Table Colchester 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.02 )
+Seat 5: hesvubean ( $1.05 )
+kirrl32 posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+kirrl32 calls [$0.01]
+hesvubean checks
+** Dealing flop ** [ 9s, Js, 7c ]
+hesvubean checks
+kirrl32 checks
+** Dealing turn ** [ 8s ]
+hesvubean checks
+kirrl32 bets [$0.02]
+hesvubean calls [$0.02]
+** Dealing river ** [ Jd ]
+hesvubean checks
+kirrl32 bets [$0.02]
+hesvubean calls [$0.02]
+** Summary **
+kirrl32 shows [ Td, 2d ]
+hesvubean shows [ Th, 3s ]
+hesvubean collected [ $0.06 ]
+kirrl32 collected [ $0.06 ]
+
+
+#Game No : 502919376
+***** 888poker Hand History for Game 502919376 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:07:58
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.02 )
+Seat 5: hesvubean ( $1.05 )
+hesvubean posts small blind [$0.01]
+kirrl32 posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+kirrl32 checks
+** Dealing flop ** [ Th, 3h, Ks ]
+kirrl32 checks
+hesvubean checks
+** Dealing turn ** [ 2s ]
+kirrl32 checks
+hesvubean checks
+** Dealing river ** [ 9d ]
+kirrl32 checks
+hesvubean bets [$0.02]
+kirrl32 folds
+** Summary **
+hesvubean collected [ $0.04 ]
+
+
+#Game No : 502919386
+***** 888poker Hand History for Game 502919386 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:08:22
+Table Colchester 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2 )
+Seat 5: hesvubean ( $1.07 )
+kirrl32 posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+kirrl32 raises [$0.05]
+hesvubean calls [$0.04]
+** Dealing flop ** [ 7h, Qs, Qd ]
+hesvubean checks
+kirrl32 bets [$0.06]
+hesvubean folds
+** Summary **
+kirrl32 collected [ $0.12 ]
+
+
+#Game No : 502919389
+***** 888poker Hand History for Game 502919389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:08:40
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.06 )
+Seat 5: hesvubean ( $1.01 )
+hesvubean posts small blind [$0.01]
+kirrl32 posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+kirrl32 checks
+** Dealing flop ** [ 6s, 7d, 7h ]
+kirrl32 bets [$0.04]
+hesvubean folds
+** Summary **
+kirrl32 collected [ $0.04 ]
+
+
+#Game No : 502919396
+***** 888poker Hand History for Game 502919396 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:09:00
+Table Colchester 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kirrl32 ( $2.08 )
+Seat 5: hesvubean ( $0.99 )
+kirrl32 posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+kirrl32 calls [$0.01]
+hesvubean checks
+** Dealing flop ** [ Kd, 7h, Jh ]
+hesvubean bets [$0.02]
+kirrl32 folds
+** Summary **
+hesvubean collected [ $0.04 ]
+
+
+#Game No : 502919418
+***** 888poker Hand History for Game 502919418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:09:42
+Table Colchester 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $2.04 )
+Seat 5: hesvubean ( $1.01 )
+kpacyxa posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+kpacyxa calls [$0.01]
+hesvubean checks
+** Dealing flop ** [ Jc, Ad, 3h ]
+hesvubean bets [$0.02]
+kpacyxa raises [$0.08]
+hesvubean folds
+** Summary **
+kpacyxa collected [ $0.08 ]
+
+
+#Game No : 502919426
+***** 888poker Hand History for Game 502919426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:10:02
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $2.08 )
+Seat 5: hesvubean ( $0.97 )
+hesvubean posts small blind [$0.01]
+kpacyxa posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+kpacyxa checks
+** Dealing flop ** [ Qh, 5h, 6d ]
+kpacyxa checks
+hesvubean checks
+** Dealing turn ** [ Qs ]
+kpacyxa checks
+hesvubean bets [$0.08]
+kpacyxa folds
+** Summary **
+hesvubean collected [ $0.04 ]
+
+
+#Game No : 502919490
+***** 888poker Hand History for Game 502919490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:12:54
+Table Colchester 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.12 )
+Seat 5: hesvubean ( $0.98 )
+kpacyxa posts small blind [$0.01]
+hesvubean posts big blind [$0.02]
+** Dealing down cards **
+kpacyxa folds
+** Summary **
+hesvubean collected [ $0.03 ]
+
+
+#Game No : 502919494
+***** 888poker Hand History for Game 502919494 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:13:03
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.11 )
+Seat 5: hesvubean ( $0.99 )
+hesvubean posts small blind [$0.01]
+kpacyxa posts big blind [$0.02]
+** Dealing down cards **
+hesvubean calls [$0.01]
+kpacyxa checks
+** Dealing flop ** [ Ad, Th, 4d ]
+kpacyxa checks
+hesvubean checks
+** Dealing turn ** [ 7c ]
+kpacyxa checks
+hesvubean checks
+** Dealing river ** [ 8d ]
+kpacyxa checks
+hesvubean checks
+** Summary **
+kpacyxa shows [ Td, Jh ]
+hesvubean mucks [ 6c, Qh ]
+kpacyxa collected [ $0.04 ]
+
+
+#Game No : 502919577
+***** 888poker Hand History for Game 502919577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:17:39
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.31 )
+Seat 7: afod91 ( $1.15 )
+afod91 posts small blind [$0.01]
+kpacyxa posts big blind [$0.02]
+** Dealing down cards **
+afod91 folds
+** Summary **
+kpacyxa collected [ $0.03 ]
+
+
+#Game No : 502919583
+***** 888poker Hand History for Game 502919583 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:17:48
+Table Colchester 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.32 )
+Seat 7: afod91 ( $1.14 )
+kpacyxa posts small blind [$0.01]
+afod91 posts big blind [$0.02]
+** Dealing down cards **
+kpacyxa folds
+** Summary **
+afod91 collected [ $0.03 ]
+
+
+#Game No : 502919588
+***** 888poker Hand History for Game 502919588 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:18:07
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.31 )
+Seat 7: afod91 ( $1.15 )
+afod91 posts small blind [$0.01]
+kpacyxa posts big blind [$0.02]
+** Dealing down cards **
+afod91 raises [$0.03]
+kpacyxa folds
+** Summary **
+afod91 collected [ $0.04 ]
+
+
+#Game No : 502919591
+***** 888poker Hand History for Game 502919591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:18:14
+Table Colchester 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.29 )
+Seat 7: afod91 ( $1.17 )
+kpacyxa posts small blind [$0.01]
+afod91 posts big blind [$0.02]
+** Dealing down cards **
+kpacyxa folds
+** Summary **
+afod91 collected [ $0.03 ]
+
+
+#Game No : 502919593
+***** 888poker Hand History for Game 502919593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:18:20
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.28 )
+Seat 7: afod91 ( $1.18 )
+afod91 posts small blind [$0.01]
+kpacyxa posts big blind [$0.02]
+** Dealing down cards **
+afod91 folds
+** Summary **
+kpacyxa collected [ $0.03 ]
+
+
+#Game No : 502919597
+***** 888poker Hand History for Game 502919597 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:18:27
+Table Colchester 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.29 )
+Seat 7: afod91 ( $1.17 )
+kpacyxa posts small blind [$0.01]
+afod91 posts big blind [$0.02]
+** Dealing down cards **
+kpacyxa folds
+** Summary **
+afod91 collected [ $0.03 ]
+
+
+#Game No : 502919600
+***** 888poker Hand History for Game 502919600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:18:32
+Table Colchester 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.28 )
+Seat 7: afod91 ( $1.18 )
+afod91 posts small blind [$0.01]
+kpacyxa posts big blind [$0.02]
+** Dealing down cards **
+afod91 calls [$0.01]
+kpacyxa checks
+** Dealing flop ** [ 4d, 7c, 9c ]
+kpacyxa checks
+afod91 bets [$0.04]
+kpacyxa folds
+** Summary **
+afod91 collected [ $0.04 ]
+
+
+#Game No : 502919606
+***** 888poker Hand History for Game 502919606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:18:54
+Table Colchester 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: kpacyxa ( $3.26 )
+Seat 7: afod91 ( $1.20 )
+kpacyxa posts small blind [$0.01]
+afod91 posts big blind [$0.02]
+** Dealing down cards **
+kpacyxa raises [$0.05]
+afod91 calls [$0.04]
+** Dealing flop ** [ 5s, Ah, As ]
+afod91 checks
+kpacyxa bets [$0.06]
+afod91 calls [$0.06]
+** Dealing turn ** [ Jc ]
+afod91 checks
+kpacyxa bets [$0.12]
+afod91 calls [$0.12]
+** Dealing river ** [ 4s ]
+afod91 bets [$0.14]
+kpacyxa raises [$0.58]
+afod91 raises [$0.82]
+kpacyxa calls [$0.38]
+** Summary **
+kpacyxa shows [ 9s, Qs ]
+afod91 shows [ Ad, 7s ]
+kpacyxa collected [ $2.25 ]
+
+
+#Game No : 502919992
+***** 888poker Hand History for Game 502919992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 01:44:15
+Table Colchester 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: 2211sarah ( $1.98 )
+Seat 10: avramia1 ( $2.02 )
+avramia1 posts small blind [$0.01]
+2211sarah posts big blind [$0.02]
+** Dealing down cards **
+avramia1 calls [$0.01]
+2211sarah checks
+** Dealing flop ** [ 9c, 3c, 4s ]
+2211sarah checks
+avramia1 checks
+** Dealing turn ** [ Jd ]
+2211sarah checks
+avramia1 bets [$0.02]
+2211sarah folds
+** Summary **
+avramia1 collected [ $0.04 ]
+
+
+#Game No : 502925965
+***** 888poker Hand History for Game 502925965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 05:15:12
+Table Colchester 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ArmsPeddler ( $2.69 )
+Seat 2: DP_fellini ( $2.05 )
+ArmsPeddler posts small blind [$0.01]
+DP_fellini posts big blind [$0.02]
+** Dealing down cards **
+ArmsPeddler raises [$0.03]
+DP_fellini raises [$0.10]
+ArmsPeddler folds
+** Summary **
+DP_fellini collected [ $0.08 ]
+
+
+#Game No : 502925974
+***** 888poker Hand History for Game 502925974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 05:15:26
+Table Colchester 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ArmsPeddler ( $2.65 )
+Seat 2: DP_fellini ( $2.09 )
+DP_fellini posts small blind [$0.01]
+ArmsPeddler posts big blind [$0.02]
+** Dealing down cards **
+DP_fellini raises [$0.05]
+ArmsPeddler folds
+** Summary **
+DP_fellini collected [ $0.04 ]
+
+
+#Game No : 502926030
+***** 888poker Hand History for Game 502926030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 05:17:02
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: gunchozaurs ( $2.02 )
+Seat 5: santechnik ( $1.96 )
+santechnik posts small blind [$0.01]
+gunchozaurs posts big blind [$0.02]
+** Dealing down cards **
+santechnik folds
+** Summary **
+gunchozaurs collected [ $0.03 ]
+
+
+#Game No : 502926226
+***** 888poker Hand History for Game 502926226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 05:22:42
+Table Colchester 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: gunchozaurs ( $2 )
+Seat 5: santechnik ( $2.08 )
+gunchozaurs posts small blind [$0.01]
+santechnik posts big blind [$0.02]
+** Dealing down cards **
+gunchozaurs raises [$0.03]
+santechnik folds
+** Summary **
+gunchozaurs collected [ $0.04 ]
+
+
+#Game No : 502926233
+***** 888poker Hand History for Game 502926233 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 05:22:49
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: gunchozaurs ( $2.02 )
+Seat 5: santechnik ( $2.06 )
+santechnik posts small blind [$0.01]
+gunchozaurs posts big blind [$0.02]
+** Dealing down cards **
+santechnik calls [$0.01]
+gunchozaurs checks
+** Dealing flop ** [ 6c, Qc, Ah ]
+gunchozaurs checks
+santechnik bets [$0.02]
+gunchozaurs folds
+** Summary **
+santechnik collected [ $0.04 ]
+
+
+#Game No : 502926312
+***** 888poker Hand History for Game 502926312 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 05:24:47
+Table Colchester 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: gunchozaurs ( $2.07 )
+Seat 6: billpoker255 ( $0.71 )
+gunchozaurs posts small blind [$0.01]
+billpoker255 posts big blind [$0.02]
+** Dealing down cards **
+gunchozaurs raises [$0.05]
+billpoker255 calls [$0.04]
+** Dealing flop ** [ Kc, 6c, 6d ]
+billpoker255 checks
+gunchozaurs bets [$0.06]
+billpoker255 folds
+** Summary **
+gunchozaurs collected [ $0.12 ]
+
+
+#Game No : 502926350
+***** 888poker Hand History for Game 502926350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 05:25:30
+Table Colchester 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: gunchozaurs ( $2.13 )
+Seat 6: billpoker255 ( $0.65 )
+billpoker255 posts small blind [$0.01]
+** Dealing down cards **
+gunchozaurs folds
+** Summary **
+billpoker255 collected [ $0.01 ]
+
+
+#Game No : 502956732
+***** 888poker Hand History for Game 502956732 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 15:35:11
+Table Colchester 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: norman242 ( $4.36 )
+Seat 10: damirzzz ( $2.01 )
+norman242 posts small blind [$0.01]
+damirzzz posts big blind [$0.02]
+** Dealing down cards **
+norman242 folds
+** Summary **
+damirzzz collected [ $0.03 ]
+
+
+#Game No : 502956736
+***** 888poker Hand History for Game 502956736 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 15:35:15
+Table Colchester 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: norman242 ( $4.35 )
+Seat 10: damirzzz ( $2.02 )
+damirzzz posts small blind [$0.01]
+norman242 posts big blind [$0.02]
+** Dealing down cards **
+damirzzz folds
+** Summary **
+norman242 collected [ $0.03 ]
+
+

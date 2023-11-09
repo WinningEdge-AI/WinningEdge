@@ -1,0 +1,582 @@
+#Game No : 501271037
+***** 888poker Hand History for Game 501271037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 19:08:59
+Table Aberdeen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Theboatrace ( $3.22 )
+Seat 6: cykerman15 ( $1.01 )
+cykerman15 posts small blind [$0.01]
+Theboatrace posts big blind [$0.02]
+** Dealing down cards **
+cykerman15 folds
+** Summary **
+Theboatrace collected [ $0.03 ]
+
+
+#Game No : 501271038
+***** 888poker Hand History for Game 501271038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 19:09:04
+Table Aberdeen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Theboatrace ( $3.23 )
+Seat 6: cykerman15 ( $1 )
+Theboatrace posts small blind [$0.01]
+cykerman15 posts big blind [$0.02]
+** Dealing down cards **
+Theboatrace calls [$0.01]
+cykerman15 checks
+** Dealing flop ** [ Kc, 3h, Ts ]
+cykerman15 checks
+Theboatrace checks
+** Dealing turn ** [ 9s ]
+cykerman15 bets [$0.02]
+Theboatrace calls [$0.02]
+** Dealing river ** [ 2c ]
+cykerman15 bets [$0.02]
+Theboatrace folds
+** Summary **
+cykerman15 collected [ $0.08 ]
+
+
+#Game No : 501272337
+***** 888poker Hand History for Game 501272337 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 20:31:55
+Table Aberdeen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: AldanShilDim ( $3.32 )
+Seat 9: AleandroB ( $3.54 )
+AleandroB posts small blind [$0.01]
+AldanShilDim posts big blind [$0.02]
+** Dealing down cards **
+AleandroB calls [$0.01]
+AldanShilDim raises [$0.06]
+AleandroB calls [$0.06]
+** Dealing flop ** [ 8s, Ks, 8h ]
+AldanShilDim checks
+AleandroB checks
+** Dealing turn ** [ Jh ]
+AldanShilDim checks
+AleandroB checks
+** Dealing river ** [ 4c ]
+AldanShilDim checks
+AleandroB checks
+** Summary **
+AldanShilDim shows [ Qh, Td ]
+AleandroB mucks [ Ts, 7h ]
+AldanShilDim collected [ $0.15 ]
+
+
+#Game No : 501272993
+***** 888poker Hand History for Game 501272993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 21:06:04
+Table Aberdeen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Amles0 ( $4.57 )
+Seat 9: AleandroB ( $1.33 )
+Amles0 posts small blind [$0.01]
+AleandroB posts big blind [$0.02]
+** Dealing down cards **
+Amles0 folds
+** Summary **
+AleandroB collected [ $0.03 ]
+
+
+#Game No : 501272994
+***** 888poker Hand History for Game 501272994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 21:06:10
+Table Aberdeen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Amles0 ( $4.56 )
+Seat 9: AleandroB ( $1.34 )
+AleandroB posts small blind [$0.01]
+Amles0 posts big blind [$0.02]
+** Dealing down cards **
+AleandroB folds
+** Summary **
+Amles0 collected [ $0.03 ]
+
+
+#Game No : 501272999
+***** 888poker Hand History for Game 501272999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 21:06:16
+Table Aberdeen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Amles0 ( $4.57 )
+Seat 9: AleandroB ( $1.33 )
+Amles0 posts small blind [$0.01]
+AleandroB posts big blind [$0.02]
+** Dealing down cards **
+Amles0 raises [$0.05]
+AleandroB raises [$0.10]
+Amles0 folds
+** Summary **
+AleandroB collected [ $0.12 ]
+
+
+#Game No : 501273002
+***** 888poker Hand History for Game 501273002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 21:06:28
+Table Aberdeen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Amles0 ( $4.51 )
+Seat 9: AleandroB ( $1.39 )
+AleandroB posts small blind [$0.01]
+** Dealing down cards **
+Amles0 folds
+** Summary **
+AleandroB collected [ $0.01 ]
+
+
+#Game No : 501274096
+***** 888poker Hand History for Game 501274096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 22:18:54
+Table Aberdeen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: abcryu ( $1 )
+Seat 2: dart2829 ( $1 )
+dart2829 posts small blind [$0.01]
+abcryu posts big blind [$0.02]
+** Dealing down cards **
+dart2829 calls [$0.01]
+abcryu checks
+** Dealing flop ** [ Qh, Ac, Ts ]
+abcryu checks
+dart2829 checks
+** Dealing turn ** [ Jd ]
+abcryu checks
+dart2829 checks
+** Dealing river ** [ 2h ]
+abcryu checks
+dart2829 bets [$0.04]
+abcryu folds
+** Summary **
+dart2829 collected [ $0.04 ]
+
+
+#Game No : 501274359
+***** 888poker Hand History for Game 501274359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 22:40:09
+Table Aberdeen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: abcryu ( $1.06 )
+Seat 4: DENIS9682 ( $1.18 )
+DENIS9682 posts small blind [$0.01]
+abcryu posts big blind [$0.02]
+** Dealing down cards **
+DENIS9682 calls [$0.01]
+abcryu checks
+** Dealing flop ** [ Qs, Kd, 6d ]
+abcryu checks
+DENIS9682 checks
+** Dealing turn ** [ 5c ]
+abcryu checks
+DENIS9682 checks
+** Dealing river ** [ 4d ]
+abcryu checks
+DENIS9682 checks
+** Summary **
+abcryu shows [ Jd, 4c ]
+DENIS9682 mucks [ 9h, 3d ]
+abcryu collected [ $0.04 ]
+
+
+#Game No : 501274778
+***** 888poker Hand History for Game 501274778 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 23:09:35
+Table Aberdeen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: BerlinerWolf ( $1.02 )
+Seat 9: olegvas1519 ( $1.60 )
+BerlinerWolf posts small blind [$0.01]
+olegvas1519 posts big blind [$0.02]
+** Dealing down cards **
+BerlinerWolf calls [$0.01]
+olegvas1519 raises [$0.02]
+BerlinerWolf folds
+** Summary **
+olegvas1519 collected [ $0.04 ]
+
+
+#Game No : 501274784
+***** 888poker Hand History for Game 501274784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2018 23:09:54
+Table Aberdeen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: BerlinerWolf ( $1 )
+Seat 9: olegvas1519 ( $1.62 )
+olegvas1519 posts small blind [$0.01]
+BerlinerWolf posts big blind [$0.02]
+** Dealing down cards **
+olegvas1519 calls [$0.01]
+BerlinerWolf checks
+** Dealing flop ** [ 6c, Ad, Qh ]
+BerlinerWolf checks
+olegvas1519 bets [$0.02]
+BerlinerWolf folds
+** Summary **
+olegvas1519 collected [ $0.04 ]
+
+
+#Game No : 501277928
+***** 888poker Hand History for Game 501277928 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 01:51:18
+Table Aberdeen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: GARALD84 ( $1.03 )
+Seat 9: Tehhy ( $1.19 )
+Tehhy posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+Tehhy calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ Qh, 6c, 4s ]
+GARALD84 bets [$0.02]
+Tehhy calls [$0.02]
+** Dealing turn ** [ 8d ]
+GARALD84 checks
+Tehhy bets [$0.04]
+GARALD84 calls [$0.04]
+** Dealing river ** [ 3h ]
+GARALD84 checks
+Tehhy bets [$0.16]
+GARALD84 folds
+** Summary **
+Tehhy collected [ $0.15 ]
+
+
+#Game No : 501278328
+***** 888poker Hand History for Game 501278328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 02:07:27
+Table Aberdeen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: tonyadamson ( $0.98 )
+Seat 7: GARALD84 ( $1.07 )
+GARALD84 posts small blind [$0.01]
+tonyadamson posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+tonyadamson checks
+** Dealing flop ** [ Th, 9h, 5c ]
+tonyadamson checks
+GARALD84 bets [$0.02]
+tonyadamson calls [$0.02]
+** Dealing turn ** [ 8h ]
+tonyadamson checks
+GARALD84 checks
+** Dealing river ** [ 8s ]
+tonyadamson bets [$0.04]
+GARALD84 folds
+** Summary **
+tonyadamson did not show his hand
+tonyadamson collected [ $0.08 ]
+
+
+#Game No : 501278338
+***** 888poker Hand History for Game 501278338 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 02:07:52
+Table Aberdeen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tonyadamson ( $1.02 )
+Seat 7: GARALD84 ( $1.03 )
+tonyadamson posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+tonyadamson calls [$0.01]
+GARALD84 checks
+** Dealing flop ** [ 2d, 2h, 6c ]
+GARALD84 bets [$0.02]
+tonyadamson folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 501278345
+***** 888poker Hand History for Game 501278345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 02:08:09
+Table Aberdeen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: tonyadamson ( $1 )
+Seat 7: GARALD84 ( $1.05 )
+GARALD84 posts small blind [$0.01]
+tonyadamson posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+tonyadamson checks
+** Dealing flop ** [ 6h, 3h, 6c ]
+tonyadamson checks
+GARALD84 bets [$0.02]
+tonyadamson calls [$0.02]
+** Dealing turn ** [ Qd ]
+tonyadamson checks
+GARALD84 bets [$0.05]
+tonyadamson calls [$0.05]
+** Dealing river ** [ Qh ]
+tonyadamson checks
+GARALD84 checks
+** Summary **
+tonyadamson shows [ 5c, 4c ]
+GARALD84 mucks [ 4d, 3s ]
+tonyadamson collected [ $0.17 ]
+
+
+#Game No : 501311292
+***** 888poker Hand History for Game 501311292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 14:07:02
+Table Aberdeen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lena777kok ( $2.45 )
+Seat 7: gelattino67 ( $2.05 )
+lena777kok posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+lena777kok calls [$0.01]
+gelattino67 checks
+** Dealing flop ** [ 9c, 6c, 5s ]
+gelattino67 bets [$0.06]
+lena777kok calls [$0.06]
+** Dealing turn ** [ 8h ]
+gelattino67 bets [$0.04]
+lena777kok folds
+** Summary **
+gelattino67 collected [ $0.15 ]
+
+
+#Game No : 501313217
+***** 888poker Hand History for Game 501313217 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 14:41:26
+Table Aberdeen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: caci53 ( $0.98 )
+Seat 7: gelattino67 ( $1.65 )
+caci53 posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+caci53 calls [$0.01]
+gelattino67 checks
+** Dealing flop ** [ 4h, Kc, 4c ]
+gelattino67 checks
+caci53 checks
+** Dealing turn ** [ 9h ]
+gelattino67 bets [$0.02]
+caci53 folds
+** Summary **
+gelattino67 collected [ $0.04 ]
+
+
+#Game No : 501313233
+***** 888poker Hand History for Game 501313233 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 14:41:41
+Table Aberdeen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: caci53 ( $0.96 )
+Seat 7: gelattino67 ( $1.67 )
+gelattino67 posts small blind [$0.01]
+caci53 posts big blind [$0.02]
+** Dealing down cards **
+gelattino67 raises [$0.05]
+caci53 folds
+** Summary **
+gelattino67 collected [ $0.04 ]
+
+
+#Game No : 501315807
+***** 888poker Hand History for Game 501315807 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:30:02
+Table Aberdeen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: gelattino67 ( $1.88 )
+Seat 9: lena777kok ( $5.83 )
+gelattino67 posts small blind [$0.01]
+lena777kok posts big blind [$0.02]
+** Dealing down cards **
+gelattino67 calls [$0.01]
+lena777kok checks
+** Dealing flop ** [ 9d, Ad, Tc ]
+lena777kok bets [$0.02]
+gelattino67 calls [$0.02]
+** Dealing turn ** [ 4d ]
+lena777kok checks
+gelattino67 checks
+** Dealing river ** [ 5h ]
+lena777kok checks
+gelattino67 bets [$0.02]
+lena777kok folds
+** Summary **
+gelattino67 collected [ $0.08 ]
+
+
+#Game No : 501315835
+***** 888poker Hand History for Game 501315835 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:30:31
+Table Aberdeen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: gelattino67 ( $1.92 )
+Seat 9: lena777kok ( $5.79 )
+lena777kok posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+lena777kok calls [$0.01]
+gelattino67 checks
+** Dealing flop ** [ Kc, Qh, 6s ]
+gelattino67 checks
+lena777kok checks
+** Dealing turn ** [ 5s ]
+gelattino67 checks
+lena777kok bets [$0.02]
+gelattino67 calls [$0.02]
+** Dealing river ** [ Qd ]
+gelattino67 checks
+lena777kok bets [$0.04]
+gelattino67 folds
+** Summary **
+lena777kok collected [ $0.08 ]
+
+
+#Game No : 501315860
+***** 888poker Hand History for Game 501315860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:31:08
+Table Aberdeen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: nomorelove22 ( $1.03 )
+Seat 9: lena777kok ( $5.83 )
+lena777kok posts small blind [$0.01]
+nomorelove22 posts big blind [$0.02]
+** Dealing down cards **
+lena777kok calls [$0.01]
+nomorelove22 checks
+** Dealing flop ** [ 8h, 5c, 5h ]
+nomorelove22 checks
+lena777kok checks
+** Dealing turn ** [ Th ]
+nomorelove22 bets [$0.04]
+lena777kok folds
+** Summary **
+nomorelove22 did not show his hand
+nomorelove22 collected [ $0.04 ]
+
+
+#Game No : 501315906
+***** 888poker Hand History for Game 501315906 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:31:47
+Table Aberdeen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: nomorelove22 ( $1.05 )
+Seat 9: lena777kok ( $5.81 )
+nomorelove22 posts small blind [$0.01]
+lena777kok posts big blind [$0.02]
+** Dealing down cards **
+nomorelove22 raises [$0.05]
+lena777kok calls [$0.04]
+** Dealing flop ** [ 8h, 3c, 7d ]
+lena777kok checks
+nomorelove22 bets [$0.12]
+lena777kok calls [$0.12]
+** Dealing turn ** [ Ks ]
+lena777kok checks
+nomorelove22 checks
+** Dealing river ** [ 8d ]
+lena777kok bets [$0.24]
+nomorelove22 calls [$0.24]
+** Summary **
+lena777kok shows [ 7s, 7h ]
+nomorelove22 mucks [ 9d, 9c ]
+lena777kok collected [ $0.79 ]
+
+
+#Game No : 501315983
+***** 888poker Hand History for Game 501315983 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:33:12
+Table Aberdeen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: nomorelove22 ( $0.65 )
+Seat 9: lena777kok ( $6.18 )
+lena777kok posts small blind [$0.01]
+nomorelove22 posts big blind [$0.02]
+** Dealing down cards **
+lena777kok calls [$0.01]
+nomorelove22 checks
+** Dealing flop ** [ Qh, 4d, 6h ]
+nomorelove22 checks
+lena777kok bets [$0.02]
+nomorelove22 calls [$0.02]
+** Dealing turn ** [ 6c ]
+nomorelove22 checks
+lena777kok bets [$0.02]
+nomorelove22 calls [$0.02]
+** Dealing river ** [ 8d ]
+nomorelove22 checks
+lena777kok bets [$0.02]
+nomorelove22 calls [$0.02]
+** Summary **
+lena777kok shows [ Kh, 8h ]
+nomorelove22 mucks [ 4s, Kd ]
+lena777kok collected [ $0.15 ]
+
+
+#Game No : 501316665
+***** 888poker Hand History for Game 501316665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:48:56
+Table Aberdeen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DoctorDrim ( $1.07 )
+Seat 2: jamkop ( $2.54 )
+DoctorDrim posts small blind [$0.01]
+jamkop posts big blind [$0.02]
+** Dealing down cards **
+DoctorDrim folds
+** Summary **
+jamkop collected [ $0.03 ]
+
+
+#Game No : 501316669
+***** 888poker Hand History for Game 501316669 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 08 2018 15:49:03
+Table Aberdeen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: DoctorDrim ( $1.06 )
+Seat 2: jamkop ( $2.55 )
+jamkop posts small blind [$0.01]
+DoctorDrim posts big blind [$0.02]
+** Dealing down cards **
+jamkop calls [$0.01]
+DoctorDrim checks
+** Dealing flop ** [ 5h, 6d, 2c ]
+DoctorDrim bets [$0.04]
+jamkop calls [$0.04]
+** Dealing turn ** [ Ks ]
+DoctorDrim bets [$0.04]
+jamkop calls [$0.04]
+** Dealing river ** [ 4h ]
+DoctorDrim bets [$0.04]
+jamkop calls [$0.04]
+** Summary **
+DoctorDrim shows [ Ts, 6s ]
+jamkop mucks [ Ac, 5s ]
+DoctorDrim collected [ $0.27 ]
+
+

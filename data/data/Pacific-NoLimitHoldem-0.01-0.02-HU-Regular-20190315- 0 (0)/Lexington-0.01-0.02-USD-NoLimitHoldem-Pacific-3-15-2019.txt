@@ -1,0 +1,59 @@
+#Game No : 617262279
+***** 888poker Hand History for Game 617262279 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 06:18:57
+Table Lexington 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: GeminiV16 ( $1 )
+Seat 2: ZhukSS83 ( $1 )
+ZhukSS83 posts small blind [$0.01]
+GeminiV16 posts big blind [$0.02]
+** Dealing down cards **
+ZhukSS83 calls [$0.01]
+GeminiV16 checks
+** Dealing flop ** [ 2c, Kh, As ]
+GeminiV16 checks
+ZhukSS83 checks
+** Dealing turn ** [ 3h ]
+GeminiV16 bets [$0.02]
+ZhukSS83 raises [$0.07]
+GeminiV16 calls [$0.05]
+** Dealing river ** [ Qc ]
+GeminiV16 checks
+ZhukSS83 checks
+** Summary **
+GeminiV16 shows [ 4c, 4h ]
+ZhukSS83 shows [ 4s, Ks ]
+ZhukSS83 collected [ $0.17 ]
+
+
+#Game No : 617267243
+***** 888poker Hand History for Game 617267243 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 08:08:58
+Table Lexington 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Julja94.94 ( $1 )
+Seat 7: shaopenny ( $1 )
+Julja94.94 posts small blind [$0.01]
+shaopenny posts big blind [$0.02]
+** Dealing down cards **
+Julja94.94 raises [$0.05]
+shaopenny calls [$0.04]
+** Dealing flop ** [ 9s, 2h, Th ]
+shaopenny checks
+Julja94.94 checks
+** Dealing turn ** [ Ac ]
+shaopenny checks
+Julja94.94 bets [$0.08]
+shaopenny calls [$0.08]
+** Dealing river ** [ 8s ]
+shaopenny checks
+Julja94.94 bets [$0.20]
+shaopenny calls [$0.20]
+** Summary **
+Julja94.94 shows [ 8h, 8c ]
+shaopenny mucks [ Kh, Td ]
+Julja94.94 collected [ $0.64 ]
+
+

@@ -1,0 +1,143 @@
+#Game No : 505400327
+***** 888poker Hand History for Game 505400327 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 14:45:20
+Table Guacara 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Agarroz ( $1.98 )
+Seat 9: langdong ( $1.17 )
+Agarroz posts small blind [$0.01]
+langdong posts big blind [$0.02]
+** Dealing down cards **
+Agarroz calls [$0.01]
+langdong checks
+** Dealing flop ** [ 6s, 7h, Ah ]
+langdong checks
+Agarroz bets [$0.04]
+langdong folds
+** Summary **
+Agarroz did not show his hand
+Agarroz collected [ $0.04 ]
+
+
+#Game No : 505400344
+***** 888poker Hand History for Game 505400344 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 14:45:42
+Table Guacara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Agarroz ( $2 )
+Seat 9: langdong ( $1.15 )
+langdong posts small blind [$0.01]
+** Dealing down cards **
+Agarroz folds
+** Summary **
+langdong did not show his hand
+langdong collected [ $0.01 ]
+
+
+#Game No : 505401031
+***** 888poker Hand History for Game 505401031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 15:05:45
+Table Guacara 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: kikomann14 ( $1.35 )
+Seat 9: fireballfoy ( $0.94 )
+kikomann14 posts small blind [$0.01]
+fireballfoy posts big blind [$0.02]
+** Dealing down cards **
+kikomann14 calls [$0.01]
+fireballfoy raises [$0.02]
+kikomann14 calls [$0.02]
+** Dealing flop ** [ 5d, Kh, 6h ]
+fireballfoy bets [$0.04]
+kikomann14 calls [$0.04]
+** Dealing turn ** [ Qs ]
+fireballfoy bets [$0.12]
+kikomann14 calls [$0.12]
+** Dealing river ** [ 2d ]
+fireballfoy bets [$0.24]
+kikomann14 calls [$0.24]
+** Summary **
+fireballfoy shows [ Td, Ts ]
+kikomann14 shows [ Qh, Jh ]
+kikomann14 collected [ $0.83 ]
+
+
+#Game No : 505401066
+***** 888poker Hand History for Game 505401066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 15:06:34
+Table Guacara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: kikomann14 ( $1.74 )
+Seat 9: fireballfoy ( $0.50 )
+fireballfoy posts small blind [$0.01]
+kikomann14 posts big blind [$0.02]
+** Dealing down cards **
+fireballfoy calls [$0.01]
+kikomann14 checks
+** Dealing flop ** [ 9h, 2c, Th ]
+kikomann14 checks
+fireballfoy checks
+** Dealing turn ** [ 4h ]
+kikomann14 checks
+fireballfoy checks
+** Dealing river ** [ Qd ]
+kikomann14 checks
+fireballfoy bets [$0.02]
+kikomann14 folds
+** Summary **
+fireballfoy collected [ $0.04 ]
+
+
+#Game No : 505401087
+***** 888poker Hand History for Game 505401087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 15:07:12
+Table Guacara 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: kikomann14 ( $1.72 )
+Seat 9: fireballfoy ( $0.52 )
+kikomann14 posts small blind [$0.01]
+fireballfoy posts big blind [$0.02]
+** Dealing down cards **
+kikomann14 raises [$0.03]
+fireballfoy calls [$0.02]
+** Dealing flop ** [ Ad, Qc, Qh ]
+fireballfoy checks
+kikomann14 checks
+** Dealing turn ** [ 8h ]
+fireballfoy checks
+kikomann14 checks
+** Dealing river ** [ 6c ]
+fireballfoy checks
+kikomann14 checks
+** Summary **
+fireballfoy shows [ Td, 2h ]
+kikomann14 mucks [ 2d, 5d ]
+fireballfoy collected [ $0.08 ]
+
+
+#Game No : 505401131
+***** 888poker Hand History for Game 505401131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 11 2018 15:08:08
+Table Guacara 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: kikomann14 ( $1.68 )
+Seat 9: fireballfoy ( $0.56 )
+fireballfoy posts small blind [$0.01]
+kikomann14 posts big blind [$0.02]
+** Dealing down cards **
+fireballfoy calls [$0.01]
+kikomann14 checks
+** Dealing flop ** [ 5c, Js, Ah ]
+kikomann14 checks
+fireballfoy bets [$0.02]
+kikomann14 folds
+** Summary **
+fireballfoy collected [ $0.04 ]
+
+

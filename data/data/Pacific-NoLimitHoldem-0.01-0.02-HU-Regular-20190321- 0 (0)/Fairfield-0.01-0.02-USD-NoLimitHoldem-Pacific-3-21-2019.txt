@@ -1,0 +1,293 @@
+#Game No : 1256295300
+***** 888poker Hand History for Game 1256295300 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 23:38:39
+Table Fairfield 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: dmitb ( $1 )
+Seat 6: zdarova8729 ( $1.01 )
+zdarova8729 posts small blind [$0.01]
+dmitb posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.03]
+dmitb calls [$0.02]
+** Dealing flop ** [ 8c, 2d, 7c ]
+dmitb checks
+zdarova8729 bets [$0.05]
+dmitb calls [$0.05]
+** Dealing turn ** [ Ah ]
+dmitb checks
+zdarova8729 bets [$0.12]
+dmitb folds
+** Summary **
+zdarova8729 collected [ $0.17 ]
+
+
+#Game No : 1256335954
+***** 888poker Hand History for Game 1256335954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:10:00
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.43 )
+Seat 4: andrei_0521 ( $0.64 )
+GARALD84 posts small blind [$0.01]
+andrei_0521 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+andrei_0521 checks
+** Dealing flop ** [ 7s, 4d, Ts ]
+andrei_0521 checks
+GARALD84 bets [$0.02]
+andrei_0521 calls [$0.02]
+** Dealing turn ** [ 6h ]
+andrei_0521 bets [$0.05]
+GARALD84 calls [$0.05]
+** Dealing river ** [ 8s ]
+andrei_0521 bets [$0.08]
+GARALD84 calls [$0.08]
+** Summary **
+andrei_0521 shows [ 9h, 6c ]
+GARALD84 mucks [ 5s, 8d ]
+andrei_0521 collected [ $0.32 ]
+
+
+#Game No : 1256336127
+***** 888poker Hand History for Game 1256336127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:10:55
+Table Fairfield 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.26 )
+Seat 4: andrei_0521 ( $0.79 )
+andrei_0521 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+andrei_0521 raises [$0.03]
+GARALD84 calls [$0.02]
+** Dealing flop ** [ Kh, 5c, Ks ]
+GARALD84 bets [$0.05]
+andrei_0521 folds
+** Summary **
+GARALD84 collected [ $0.08 ]
+
+
+#Game No : 1256337679
+***** 888poker Hand History for Game 1256337679 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:20:25
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Kotvmasle ( $0.99 )
+Seat 2: GARALD84 ( $1.23 )
+GARALD84 posts small blind [$0.01]
+Kotvmasle posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.05]
+Kotvmasle raises [$0.16]
+GARALD84 calls [$0.12]
+** Dealing flop ** [ Tc, 7s, 5d ]
+Kotvmasle bets [$0.17]
+GARALD84 calls [$0.17]
+** Dealing turn ** [ 8h ]
+Kotvmasle bets [$0.33]
+GARALD84 folds
+** Summary **
+Kotvmasle collected [ $0.66 ]
+
+
+#Game No : 1256338070
+***** 888poker Hand History for Game 1256338070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:23:04
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.02 )
+Seat 7: dimoh4ik ( $1.22 )
+GARALD84 posts small blind [$0.01]
+dimoh4ik posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 folds
+** Summary **
+dimoh4ik collected [ $0.03 ]
+
+
+#Game No : 1256338083
+***** 888poker Hand History for Game 1256338083 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:23:10
+Table Fairfield 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.01 )
+Seat 7: dimoh4ik ( $1.23 )
+dimoh4ik posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+dimoh4ik folds
+** Summary **
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 1256338104
+***** 888poker Hand History for Game 1256338104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:23:18
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1.02 )
+Seat 7: dimoh4ik ( $1.22 )
+GARALD84 posts small blind [$0.01]
+dimoh4ik posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+dimoh4ik checks
+** Dealing flop ** [ 6h, Qh, Qs ]
+dimoh4ik checks
+GARALD84 bets [$0.02]
+dimoh4ik calls [$0.02]
+** Dealing turn ** [ 6c ]
+dimoh4ik checks
+GARALD84 checks
+** Dealing river ** [ Jc ]
+dimoh4ik bets [$0.10]
+GARALD84 calls [$0.10]
+** Summary **
+dimoh4ik shows [ 6d, 5h ]
+GARALD84 mucks [ 8s, Jd ]
+dimoh4ik collected [ $0.27 ]
+
+
+#Game No : 1256338244
+***** 888poker Hand History for Game 1256338244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:24:15
+Table Fairfield 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: GARALD84 ( $1 )
+Seat 7: dimoh4ik ( $1.35 )
+dimoh4ik posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+dimoh4ik folds
+** Summary **
+GARALD84 collected [ $0.03 ]
+
+
+#Game No : 1256338256
+***** 888poker Hand History for Game 1256338256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:24:20
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pokspider777 ( $0.80 )
+Seat 2: GARALD84 ( $1.01 )
+GARALD84 posts small blind [$0.01]
+pokspider777 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 calls [$0.01]
+pokspider777 checks
+** Dealing flop ** [ Qd, Ah, 5c ]
+pokspider777 checks
+GARALD84 bets [$0.02]
+pokspider777 folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 1256338316
+***** 888poker Hand History for Game 1256338316 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:24:42
+Table Fairfield 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pokspider777 ( $0.80 )
+Seat 2: GARALD84 ( $1.03 )
+pokspider777 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+pokspider777 raises [$0.03]
+GARALD84 calls [$0.02]
+** Dealing flop ** [ 8s, 6d, Qc ]
+GARALD84 checks
+pokspider777 bets [$0.04]
+GARALD84 raises [$0.20]
+pokspider777 folds
+** Summary **
+GARALD84 collected [ $0.15 ]
+
+
+#Game No : 1256338393
+***** 888poker Hand History for Game 1256338393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:25:11
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pokspider777 ( $0.80 )
+Seat 2: GARALD84 ( $1.10 )
+GARALD84 posts small blind [$0.01]
+pokspider777 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 raises [$0.05]
+pokspider777 folds
+** Summary **
+GARALD84 collected [ $0.04 ]
+
+
+#Game No : 1256338459
+***** 888poker Hand History for Game 1256338459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:25:37
+Table Fairfield 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pokspider777 ( $0.80 )
+Seat 2: GARALD84 ( $1.12 )
+pokspider777 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+pokspider777 raises [$0.03]
+GARALD84 calls [$0.02]
+** Dealing flop ** [ 8d, 4h, Kc ]
+GARALD84 checks
+pokspider777 bets [$0.04]
+GARALD84 calls [$0.04]
+** Dealing turn ** [ 8h ]
+GARALD84 checks
+pokspider777 checks
+** Dealing river ** [ Ah ]
+GARALD84 bets [$0.10]
+pokspider777 folds
+** Summary **
+GARALD84 collected [ $0.15 ]
+
+
+#Game No : 1256338608
+***** 888poker Hand History for Game 1256338608 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:26:34
+Table Fairfield 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pokspider777 ( $0.80 )
+Seat 2: GARALD84 ( $1.19 )
+GARALD84 posts small blind [$0.01]
+pokspider777 posts big blind [$0.02]
+** Dealing down cards **
+GARALD84 folds
+** Summary **
+pokspider777 collected [ $0.03 ]
+
+
+#Game No : 1256338620
+***** 888poker Hand History for Game 1256338620 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:26:39
+Table Fairfield 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pokspider777 ( $0.81 )
+Seat 2: GARALD84 ( $1.18 )
+pokspider777 posts small blind [$0.01]
+** Dealing down cards **
+GARALD84 folds
+** Summary **
+pokspider777 collected [ $0.01 ]
+
+

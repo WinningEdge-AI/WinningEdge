@@ -1,0 +1,319 @@
+#Game No : 608237486
+***** 888poker Hand History for Game 608237486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:55:19
+Table Hanover 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: ChippedBlock ( $2.01 )
+Seat 5: chaianeaguia ( $0.79 )
+ChippedBlock posts small blind [$0.01]
+chaianeaguia posts big blind [$0.02]
+** Dealing down cards **
+ChippedBlock calls [$0.01]
+chaianeaguia checks
+** Dealing flop ** [ Kd, Jh, Qd ]
+chaianeaguia checks
+ChippedBlock bets [$0.02]
+chaianeaguia folds
+** Summary **
+ChippedBlock collected [ $0.04 ]
+
+
+#Game No : 608237495
+***** 888poker Hand History for Game 608237495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:55:32
+Table Hanover 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: ChippedBlock ( $2.03 )
+Seat 5: chaianeaguia ( $0.77 )
+chaianeaguia posts small blind [$0.01]
+ChippedBlock posts big blind [$0.02]
+** Dealing down cards **
+chaianeaguia folds
+** Summary **
+ChippedBlock collected [ $0.03 ]
+
+
+#Game No : 608237499
+***** 888poker Hand History for Game 608237499 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:55:38
+Table Hanover 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: ChippedBlock ( $2.04 )
+Seat 5: chaianeaguia ( $0.76 )
+ChippedBlock posts small blind [$0.01]
+chaianeaguia posts big blind [$0.02]
+** Dealing down cards **
+ChippedBlock raises [$0.03]
+chaianeaguia folds
+** Summary **
+ChippedBlock collected [ $0.04 ]
+
+
+#Game No : 608237501
+***** 888poker Hand History for Game 608237501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:55:48
+Table Hanover 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: ChippedBlock ( $2.06 )
+Seat 5: chaianeaguia ( $0.74 )
+chaianeaguia posts small blind [$0.01]
+ChippedBlock posts big blind [$0.02]
+** Dealing down cards **
+chaianeaguia calls [$0.01]
+ChippedBlock checks
+** Dealing flop ** [ Ad, 2c, 3d ]
+ChippedBlock checks
+chaianeaguia checks
+** Dealing turn ** [ Kd ]
+ChippedBlock bets [$0.02]
+chaianeaguia calls [$0.02]
+** Dealing river ** [ Td ]
+ChippedBlock bets [$0.04]
+chaianeaguia folds
+** Summary **
+ChippedBlock collected [ $0.08 ]
+
+
+#Game No : 608237510
+***** 888poker Hand History for Game 608237510 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:56:22
+Table Hanover 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: ChippedBlock ( $2.10 )
+Seat 5: chaianeaguia ( $0.70 )
+ChippedBlock posts small blind [$0.01]
+chaianeaguia posts big blind [$0.02]
+** Dealing down cards **
+ChippedBlock calls [$0.01]
+chaianeaguia raises [$0.02]
+ChippedBlock calls [$0.02]
+** Dealing flop ** [ Ac, 2d, 4d ]
+chaianeaguia checks
+ChippedBlock bets [$0.02]
+chaianeaguia calls [$0.02]
+** Dealing turn ** [ 5c ]
+chaianeaguia checks
+ChippedBlock checks
+** Dealing river ** [ Ah ]
+chaianeaguia checks
+ChippedBlock checks
+** Summary **
+chaianeaguia shows [ Kc, Ts ]
+ChippedBlock shows [ Js, 2c ]
+ChippedBlock collected [ $0.12 ]
+
+
+#Game No : 608237524
+***** 888poker Hand History for Game 608237524 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:57:03
+Table Hanover 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: ChippedBlock ( $2.16 )
+Seat 5: chaianeaguia ( $0.64 )
+chaianeaguia posts small blind [$0.01]
+ChippedBlock posts big blind [$0.02]
+** Dealing down cards **
+chaianeaguia calls [$0.01]
+ChippedBlock checks
+** Dealing flop ** [ 6c, Ts, Kd ]
+ChippedBlock checks
+chaianeaguia checks
+** Dealing turn ** [ 2c ]
+ChippedBlock checks
+chaianeaguia checks
+** Dealing river ** [ Js ]
+ChippedBlock checks
+chaianeaguia bets [$0.04]
+ChippedBlock folds
+** Summary **
+chaianeaguia collected [ $0.04 ]
+
+
+#Game No : 608237539
+***** 888poker Hand History for Game 608237539 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:57:51
+Table Hanover 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: ChippedBlock ( $2.14 )
+Seat 5: chaianeaguia ( $0.66 )
+ChippedBlock posts small blind [$0.01]
+chaianeaguia posts big blind [$0.02]
+** Dealing down cards **
+ChippedBlock raises [$0.03]
+chaianeaguia calls [$0.02]
+** Dealing flop ** [ 8d, Ts, 5h ]
+chaianeaguia checks
+ChippedBlock bets [$0.04]
+chaianeaguia calls [$0.04]
+** Dealing turn ** [ Kd ]
+chaianeaguia bets [$0.08]
+ChippedBlock folds
+** Summary **
+chaianeaguia collected [ $0.15 ]
+
+
+#Game No : 608237555
+***** 888poker Hand History for Game 608237555 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 18:58:23
+Table Hanover 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: ChippedBlock ( $2.06 )
+Seat 5: chaianeaguia ( $0.73 )
+chaianeaguia posts small blind [$0.01]
+ChippedBlock posts big blind [$0.02]
+** Dealing down cards **
+chaianeaguia raises [$0.03]
+ChippedBlock calls [$0.02]
+** Dealing flop ** [ 7s, 3h, Qh ]
+ChippedBlock checks
+chaianeaguia bets [$0.02]
+ChippedBlock calls [$0.02]
+** Dealing turn ** [ Jc ]
+ChippedBlock checks
+chaianeaguia bets [$0.06]
+ChippedBlock folds
+** Summary **
+chaianeaguia collected [ $0.12 ]
+
+
+#Game No : 608237608
+***** 888poker Hand History for Game 608237608 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 19:00:33
+Table Hanover 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: chaianeaguia ( $0.79 )
+Seat 6: zesau222 ( $0.80 )
+chaianeaguia posts small blind [$0.01]
+zesau222 posts big blind [$0.02]
+** Dealing down cards **
+chaianeaguia calls [$0.01]
+zesau222 checks
+** Dealing flop ** [ 7d, 6h, 9h ]
+zesau222 bets [$0.02]
+chaianeaguia raises [$0.10]
+zesau222 calls [$0.08]
+** Dealing turn ** [ 9c ]
+zesau222 checks
+chaianeaguia bets [$0.24]
+zesau222 folds
+** Summary **
+chaianeaguia collected [ $0.23 ]
+
+
+#Game No : 608237630
+***** 888poker Hand History for Game 608237630 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 19:01:18
+Table Hanover 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: chaianeaguia ( $0.90 )
+Seat 6: zesau222 ( $0.68 )
+zesau222 posts small blind [$0.01]
+chaianeaguia posts big blind [$0.02]
+** Dealing down cards **
+zesau222 folds
+** Summary **
+chaianeaguia collected [ $0.03 ]
+
+
+#Game No : 608237667
+***** 888poker Hand History for Game 608237667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 19:02:43
+Table Hanover 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: chaianeaguia ( $0.89 )
+Seat 6: zesau222 ( $0.69 )
+chaianeaguia posts small blind [$0.01]
+zesau222 posts big blind [$0.02]
+** Dealing down cards **
+chaianeaguia calls [$0.01]
+zesau222 checks
+** Dealing flop ** [ 7s, 9d, 2s ]
+zesau222 checks
+chaianeaguia bets [$0.02]
+zesau222 calls [$0.02]
+** Dealing turn ** [ 9s ]
+zesau222 checks
+chaianeaguia checks
+** Dealing river ** [ 4c ]
+zesau222 bets [$0.02]
+chaianeaguia calls [$0.02]
+** Summary **
+zesau222 shows [ 3d, 4s ]
+chaianeaguia shows [ 5h, 5s ]
+chaianeaguia collected [ $0.12 ]
+
+
+#Game No : 608237690
+***** 888poker Hand History for Game 608237690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 19:03:40
+Table Hanover 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: chaianeaguia ( $0.95 )
+Seat 6: zesau222 ( $0.63 )
+zesau222 posts small blind [$0.01]
+chaianeaguia posts big blind [$0.02]
+** Dealing down cards **
+zesau222 raises [$0.03]
+chaianeaguia calls [$0.02]
+** Dealing flop ** [ 9s, Kd, 8s ]
+chaianeaguia checks
+zesau222 bets [$0.02]
+chaianeaguia calls [$0.02]
+** Dealing turn ** [ 2c ]
+chaianeaguia checks
+zesau222 bets [$0.04]
+chaianeaguia calls [$0.04]
+** Dealing river ** [ Js ]
+chaianeaguia checks
+zesau222 checks
+** Summary **
+chaianeaguia shows [ Ac, 5h ]
+zesau222 shows [ 9h, 7d ]
+zesau222 collected [ $0.19 ]
+
+
+#Game No : 608248884
+***** 888poker Hand History for Game 608248884 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 04:22:39
+Table Hanover 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: tragota ( $2.83 )
+Seat 7: mihail7100 ( $1.86 )
+mihail7100 posts small blind [$0.01]
+tragota posts big blind [$0.02]
+** Dealing down cards **
+mihail7100 folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.03 ]
+
+
+#Game No : 608248890
+***** 888poker Hand History for Game 608248890 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 04:22:47
+Table Hanover 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: tragota ( $2.84 )
+Seat 7: mihail7100 ( $1.85 )
+tragota posts small blind [$0.01]
+** Dealing down cards **
+mihail7100 folds
+** Summary **
+tragota did not show his hand
+tragota collected [ $0.01 ]
+
+

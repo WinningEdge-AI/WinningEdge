@@ -1,0 +1,44 @@
+#Game No : 452736892
+***** 888poker Hand History for Game 452736892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2018 03:20:23
+Table Brest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Baltha_Zar ( $0.19 )
+Seat 7: Droomwakker ( $0.58 )
+Baltha_Zar posts small blind [$0.01]
+Droomwakker posts big blind [$0.02]
+** Dealing down cards **
+Baltha_Zar raises [$0.18]
+Droomwakker calls [$0.17]
+** Dealing flop ** [ Kc, 7c, 6s ]
+** Dealing turn ** [ 7s ]
+** Dealing river ** [ Ah ]
+** Summary **
+Baltha_Zar shows [ 6c, Th ]
+Droomwakker shows [ Ad, 4h ]
+Droomwakker collected [ $0.36 ]
+
+
+#Game No : 452736921
+***** 888poker Hand History for Game 452736921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 07 2018 03:21:41
+Table Brest 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Baltha_Zar ( $0.19 )
+Seat 7: Droomwakker ( $0.83 )
+Baltha_Zar posts small blind [$0.01]
+Droomwakker posts big blind [$0.02]
+** Dealing down cards **
+Baltha_Zar raises [$0.18]
+Droomwakker calls [$0.17]
+** Dealing flop ** [ 9d, 7d, Qd ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 8d ]
+** Summary **
+Baltha_Zar shows [ Jh, Jc ]
+Droomwakker shows [ 6c, 6h ]
+Droomwakker collected [ $0.36 ]
+
+

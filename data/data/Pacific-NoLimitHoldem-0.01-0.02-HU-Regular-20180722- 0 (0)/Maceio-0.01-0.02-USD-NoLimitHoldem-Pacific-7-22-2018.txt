@@ -1,0 +1,253 @@
+#Game No : 499789000
+***** 888poker Hand History for Game 499789000 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 04:35:56
+Table Maceio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: hugosalles ( $1 )
+Seat 9: bernd6464 ( $1 )
+bernd6464 posts small blind [$0.01]
+hugosalles posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 raises [$0.03]
+hugosalles calls [$0.02]
+** Dealing flop ** [ 3h, Ah, 2d ]
+hugosalles checks
+bernd6464 checks
+** Dealing turn ** [ Ks ]
+hugosalles bets [$0.08]
+bernd6464 calls [$0.08]
+** Dealing river ** [ 9s ]
+hugosalles bets [$0.12]
+bernd6464 calls [$0.12]
+** Summary **
+hugosalles shows [ Kc, 3s ]
+bernd6464 mucks [ As, 8d ]
+hugosalles collected [ $0.45 ]
+
+
+#Game No : 499790629
+***** 888poker Hand History for Game 499790629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 05:18:43
+Table Maceio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Andrei.rav ( $1.71 )
+Seat 9: bayboy885 ( $1.69 )
+bayboy885 posts small blind [$0.01]
+Andrei.rav posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 calls [$0.01]
+Andrei.rav checks
+** Dealing flop ** [ 7h, Ks, 9d ]
+Andrei.rav bets [$0.02]
+bayboy885 folds
+** Summary **
+Andrei.rav did not show his hand
+Andrei.rav collected [ $0.04 ]
+
+
+#Game No : 499790645
+***** 888poker Hand History for Game 499790645 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 05:18:57
+Table Maceio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Andrei.rav ( $1.73 )
+Seat 9: bayboy885 ( $1.67 )
+Andrei.rav posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Andrei.rav calls [$0.01]
+bayboy885 checks
+** Dealing flop ** [ 4c, Qh, 3c ]
+bayboy885 checks
+Andrei.rav checks
+** Dealing turn ** [ 3d ]
+bayboy885 checks
+Andrei.rav checks
+** Dealing river ** [ Qs ]
+bayboy885 bets [$0.02]
+Andrei.rav folds
+** Summary **
+bayboy885 collected [ $0.04 ]
+
+
+#Game No : 499790662
+***** 888poker Hand History for Game 499790662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 05:19:25
+Table Maceio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Andrei.rav ( $1.71 )
+Seat 9: bayboy885 ( $1.69 )
+bayboy885 posts small blind [$0.01]
+Andrei.rav posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 folds
+** Summary **
+Andrei.rav collected [ $0.03 ]
+
+
+#Game No : 499790761
+***** 888poker Hand History for Game 499790761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 05:22:08
+Table Maceio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $0.78 )
+Seat 9: bayboy885 ( $1.57 )
+bayboy885 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 folds
+** Summary **
+Cheeta01 collected [ $0.03 ]
+
+
+#Game No : 499790763
+***** 888poker Hand History for Game 499790763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 05:22:13
+Table Maceio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Cheeta01 ( $0.79 )
+Seat 9: bayboy885 ( $1.56 )
+Cheeta01 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+Cheeta01 calls [$0.01]
+bayboy885 raises [$0.02]
+Cheeta01 calls [$0.02]
+** Dealing flop ** [ Ts, 6s, 7h ]
+bayboy885 bets [$0.02]
+Cheeta01 calls [$0.02]
+** Dealing turn ** [ Ad ]
+bayboy885 bets [$0.02]
+Cheeta01 calls [$0.02]
+** Dealing river ** [ As ]
+bayboy885 bets [$0.02]
+Cheeta01 calls [$0.02]
+** Summary **
+bayboy885 shows [ 9c, Jc ]
+Cheeta01 shows [ 9d, Qs ]
+Cheeta01 collected [ $0.19 ]
+
+
+#Game No : 499794882
+***** 888poker Hand History for Game 499794882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 07:00:52
+Table Maceio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: directaur63 ( $1.06 )
+Seat 9: bayboy885 ( $0.80 )
+bayboy885 posts small blind [$0.01]
+directaur63 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 raises [$0.03]
+directaur63 raises [$0.04]
+bayboy885 calls [$0.02]
+** Dealing flop ** [ 6h, 6d, Qc ]
+directaur63 bets [$0.12]
+bayboy885 folds
+** Summary **
+directaur63 collected [ $0.12 ]
+
+
+#Game No : 499794899
+***** 888poker Hand History for Game 499794899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 07:01:11
+Table Maceio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: directaur63 ( $1.12 )
+Seat 9: bayboy885 ( $0.80 )
+directaur63 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+directaur63 calls [$0.01]
+bayboy885 checks
+** Dealing flop ** [ 7d, Ac, 5s ]
+bayboy885 checks
+directaur63 checks
+** Dealing turn ** [ Kd ]
+bayboy885 checks
+directaur63 checks
+** Dealing river ** [ Tc ]
+bayboy885 checks
+directaur63 checks
+** Summary **
+bayboy885 shows [ 5d, Js ]
+directaur63 shows [ Qd, 7s ]
+directaur63 collected [ $0.04 ]
+
+
+#Game No : 499794931
+***** 888poker Hand History for Game 499794931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 07:01:51
+Table Maceio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: directaur63 ( $1.14 )
+Seat 9: bayboy885 ( $0.80 )
+bayboy885 posts small blind [$0.01]
+directaur63 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 raises [$0.05]
+directaur63 calls [$0.04]
+** Dealing flop ** [ 2d, Kd, Ts ]
+directaur63 checks
+bayboy885 bets [$0.08]
+directaur63 folds
+** Summary **
+bayboy885 collected [ $0.12 ]
+
+
+#Game No : 499794948
+***** 888poker Hand History for Game 499794948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 07:02:19
+Table Maceio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: directaur63 ( $1.08 )
+Seat 9: bayboy885 ( $0.86 )
+directaur63 posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+directaur63 calls [$0.01]
+bayboy885 raises [$0.84]
+directaur63 calls [$0.84]
+** Dealing flop ** [ 4d, 9c, 7d ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ Jd ]
+** Summary **
+directaur63 shows [ 5c, Ac ]
+bayboy885 shows [ Qs, Ad ]
+bayboy885 collected [ $1.62 ]
+
+
+#Game No : 499794971
+***** 888poker Hand History for Game 499794971 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 07:02:50
+Table Maceio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: directaur63 ( $0.22 )
+Seat 9: bayboy885 ( $1.62 )
+bayboy885 posts small blind [$0.01]
+directaur63 posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 calls [$0.01]
+directaur63 checks
+** Dealing flop ** [ 3h, Kh, 7s ]
+directaur63 checks
+bayboy885 checks
+** Dealing turn ** [ 8h ]
+directaur63 checks
+bayboy885 bets [$0.02]
+directaur63 folds
+** Summary **
+bayboy885 collected [ $0.04 ]
+
+

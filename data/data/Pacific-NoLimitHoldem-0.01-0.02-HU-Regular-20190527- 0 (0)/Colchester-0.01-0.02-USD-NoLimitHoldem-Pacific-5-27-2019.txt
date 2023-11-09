@@ -1,0 +1,90 @@
+#Game No : 620417321
+***** 888poker Hand History for Game 620417321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 05 2019 01:02:48
+Table Colchester 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: blinker07 ( $0.94 )
+Seat 4: pichulon15 ( $1.03 )
+pichulon15 posts small blind [$0.01]
+blinker07 posts big blind [$0.02]
+** Dealing down cards **
+pichulon15 raises [$0.03]
+blinker07 calls [$0.02]
+** Dealing flop ** [ 3d, Tc, 7d ]
+blinker07 checks
+pichulon15 bets [$0.04]
+blinker07 calls [$0.04]
+** Dealing turn ** [ Td ]
+blinker07 checks
+pichulon15 checks
+** Dealing river ** [ 7h ]
+blinker07 checks
+pichulon15 bets [$0.12]
+blinker07 folds
+** Summary **
+pichulon15 collected [ $0.15 ]
+
+
+#Game No : 620429600
+***** 888poker Hand History for Game 620429600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 05 2019 08:49:28
+Table Colchester 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Loubanez ( $1 )
+Seat 2: DanyaBUB ( $1.18 )
+DanyaBUB posts small blind [$0.01]
+Loubanez posts big blind [$0.02]
+** Dealing down cards **
+DanyaBUB raises [$0.08]
+Loubanez folds
+** Summary **
+DanyaBUB collected [ $0.04 ]
+
+
+#Game No : 620429610
+***** 888poker Hand History for Game 620429610 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 05 2019 08:49:44
+Table Colchester 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Loubanez ( $1 )
+Seat 2: DanyaBUB ( $1.20 )
+Loubanez posts small blind [$0.01]
+DanyaBUB posts big blind [$0.02]
+** Dealing down cards **
+Loubanez raises [$0.05]
+DanyaBUB folds
+** Summary **
+Loubanez collected [ $0.04 ]
+
+
+#Game No : 620429619
+***** 888poker Hand History for Game 620429619 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 05 2019 08:49:55
+Table Colchester 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Loubanez ( $1.02 )
+Seat 2: DanyaBUB ( $1.18 )
+DanyaBUB posts small blind [$0.01]
+Loubanez posts big blind [$0.02]
+** Dealing down cards **
+DanyaBUB calls [$0.01]
+Loubanez checks
+** Dealing flop ** [ Qs, Kd, 4h ]
+Loubanez checks
+DanyaBUB checks
+** Dealing turn ** [ 5c ]
+Loubanez checks
+DanyaBUB checks
+** Dealing river ** [ 4d ]
+Loubanez checks
+DanyaBUB checks
+** Summary **
+Loubanez shows [ 8s, 3s ]
+DanyaBUB shows [ Jh, 9d ]
+DanyaBUB collected [ $0.04 ]
+
+

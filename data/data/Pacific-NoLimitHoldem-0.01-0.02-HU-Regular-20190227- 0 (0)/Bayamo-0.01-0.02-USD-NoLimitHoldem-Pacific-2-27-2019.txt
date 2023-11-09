@@ -1,0 +1,56 @@
+#Game No : 616405282
+***** 888poker Hand History for Game 616405282 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 19:37:18
+Table Bayamo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: ronny080696 ( $2 )
+Seat 5: Outt. ( $2 )
+Outt. posts small blind [$0.01]
+ronny080696 posts big blind [$0.02]
+** Dealing down cards **
+Outt. raises [$0.99]
+ronny080696 calls [$0.98]
+** Dealing flop ** [ 5h, 5d, 6s ]
+ronny080696 checks
+Outt. checks
+** Dealing turn ** [ As ]
+ronny080696 checks
+Outt. checks
+** Dealing river ** [ Ks ]
+ronny080696 bets [$1]
+Outt. calls [$1]
+** Summary **
+ronny080696 shows [ 9s, 2d ]
+Outt. shows [ 7h, 7s ]
+Outt. collected [ $3.75 ]
+
+
+#Game No : 616405313
+***** 888poker Hand History for Game 616405313 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2019 19:37:38
+Table Bayamo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: ronny080696 ( $1 )
+Seat 5: Outt. ( $3.75 )
+Outt. posts small blind [$0.01]
+ronny080696 posts big blind [$0.02]
+** Dealing down cards **
+Outt. raises [$0.69]
+ronny080696 calls [$0.68]
+** Dealing flop ** [ 8d, 3d, 5d ]
+ronny080696 checks
+Outt. checks
+** Dealing turn ** [ Qh ]
+ronny080696 checks
+Outt. checks
+** Dealing river ** [ 8c ]
+ronny080696 bets [$0.30]
+Outt. calls [$0.30]
+** Summary **
+ronny080696 shows [ 2c, Kd ]
+Outt. shows [ Js, 3s ]
+Outt. collected [ $1.88 ]
+
+

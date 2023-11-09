@@ -1,0 +1,673 @@
+#Game No : 504710589
+***** 888poker Hand History for Game 504710589 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 18:20:48
+Table Daugavpils 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: grigoriets ( $5.11 )
+Seat 9: fensenat1991 ( $1.74 )
+fensenat1991 posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+fensenat1991 raises [$0.05]
+grigoriets folds
+** Summary **
+fensenat1991 did not show his hand
+fensenat1991 collected [ $0.04 ]
+
+
+#Game No : 504710593
+***** 888poker Hand History for Game 504710593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 18:20:57
+Table Daugavpils 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: grigoriets ( $5.09 )
+Seat 9: fensenat1991 ( $1.76 )
+grigoriets posts small blind [$0.01]
+** Dealing down cards **
+fensenat1991 folds
+** Summary **
+grigoriets did not show his hand
+grigoriets collected [ $0.01 ]
+
+
+#Game No : 504710643
+***** 888poker Hand History for Game 504710643 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 18:23:05
+Table Daugavpils 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Kkarl15 ( $0.80 )
+Seat 4: grigoriets ( $5.09 )
+grigoriets posts small blind [$0.01]
+Kkarl15 posts big blind [$0.02]
+** Dealing down cards **
+grigoriets raises [$0.05]
+Kkarl15 calls [$0.04]
+** Dealing flop ** [ Ac, 3s, 5d ]
+Kkarl15 bets [$0.02]
+grigoriets calls [$0.02]
+** Dealing turn ** [ Kc ]
+Kkarl15 bets [$0.04]
+grigoriets folds
+** Summary **
+Kkarl15 did not show his hand
+Kkarl15 collected [ $0.15 ]
+
+
+#Game No : 504710655
+***** 888poker Hand History for Game 504710655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 18:23:26
+Table Daugavpils 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kkarl15 ( $0.87 )
+Seat 4: grigoriets ( $5.01 )
+Kkarl15 posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+Kkarl15 calls [$0.01]
+grigoriets checks
+** Dealing flop ** [ Jd, 8c, 6h ]
+grigoriets bets [$0.04]
+Kkarl15 folds
+** Summary **
+grigoriets collected [ $0.04 ]
+
+
+#Game No : 504710677
+***** 888poker Hand History for Game 504710677 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 18:24:23
+Table Daugavpils 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: IP3LY ( $1.07 )
+Seat 4: grigoriets ( $4.97 )
+grigoriets posts small blind [$0.01]
+IP3LY posts big blind [$0.02]
+** Dealing down cards **
+grigoriets raises [$0.05]
+IP3LY calls [$0.04]
+** Dealing flop ** [ 2s, 4s, 2d ]
+IP3LY bets [$0.12]
+grigoriets folds
+** Summary **
+IP3LY collected [ $0.12 ]
+
+
+#Game No : 504712503
+***** 888poker Hand History for Game 504712503 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 20:03:48
+Table Daugavpils 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: dariamihai66 ( $1.50 )
+Seat 9: AlehandroLov ( $1.01 )
+AlehandroLov posts small blind [$0.01]
+dariamihai66 posts big blind [$0.02]
+** Dealing down cards **
+AlehandroLov calls [$0.01]
+dariamihai66 raises [$0.04]
+AlehandroLov calls [$0.04]
+** Dealing flop ** [ 8d, Td, 5h ]
+dariamihai66 checks
+AlehandroLov checks
+** Dealing turn ** [ 2c ]
+dariamihai66 checks
+AlehandroLov checks
+** Dealing river ** [ Jd ]
+dariamihai66 bets [$0.02]
+AlehandroLov calls [$0.02]
+** Summary **
+dariamihai66 shows [ As, 7h ]
+AlehandroLov mucks [ 4h, Ad ]
+dariamihai66 collected [ $0.15 ]
+
+
+#Game No : 504712512
+***** 888poker Hand History for Game 504712512 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 20:04:17
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: dariamihai66 ( $1.57 )
+Seat 9: AlehandroLov ( $0.93 )
+dariamihai66 posts small blind [$0.01]
+AlehandroLov posts big blind [$0.02]
+** Dealing down cards **
+dariamihai66 calls [$0.01]
+AlehandroLov checks
+** Dealing flop ** [ 3h, Jd, Js ]
+AlehandroLov checks
+dariamihai66 checks
+** Dealing turn ** [ Qh ]
+AlehandroLov checks
+dariamihai66 checks
+** Dealing river ** [ 6c ]
+AlehandroLov checks
+dariamihai66 checks
+** Summary **
+AlehandroLov shows [ 9s, 8c ]
+dariamihai66 mucks [ 5h, 4s ]
+AlehandroLov collected [ $0.04 ]
+
+
+#Game No : 504712517
+***** 888poker Hand History for Game 504712517 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 20:04:42
+Table Daugavpils 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: dariamihai66 ( $1.55 )
+Seat 9: AlehandroLov ( $0.95 )
+AlehandroLov posts small blind [$0.01]
+dariamihai66 posts big blind [$0.02]
+** Dealing down cards **
+AlehandroLov calls [$0.01]
+dariamihai66 raises [$0.04]
+AlehandroLov calls [$0.04]
+** Dealing flop ** [ 6c, 3d, Qh ]
+dariamihai66 bets [$0.28]
+AlehandroLov folds
+** Summary **
+dariamihai66 collected [ $0.12 ]
+
+
+#Game No : 504712522
+***** 888poker Hand History for Game 504712522 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 20:05:06
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: dariamihai66 ( $1.61 )
+Seat 9: AlehandroLov ( $0.89 )
+dariamihai66 posts small blind [$0.01]
+AlehandroLov posts big blind [$0.02]
+** Dealing down cards **
+dariamihai66 raises [$0.03]
+AlehandroLov calls [$0.02]
+** Dealing flop ** [ Ah, 8d, Jd ]
+AlehandroLov bets [$0.02]
+dariamihai66 raises [$0.36]
+AlehandroLov folds
+** Summary **
+dariamihai66 collected [ $0.12 ]
+
+
+#Game No : 504712530
+***** 888poker Hand History for Game 504712530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 20:05:26
+Table Daugavpils 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: dariamihai66 ( $1.67 )
+Seat 9: AlehandroLov ( $0.83 )
+AlehandroLov posts small blind [$0.01]
+dariamihai66 posts big blind [$0.02]
+** Dealing down cards **
+AlehandroLov calls [$0.01]
+dariamihai66 raises [$0.24]
+AlehandroLov folds
+** Summary **
+dariamihai66 collected [ $0.04 ]
+
+
+#Game No : 504712533
+***** 888poker Hand History for Game 504712533 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 20:05:37
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: dariamihai66 ( $1.69 )
+Seat 9: AlehandroLov ( $0.81 )
+dariamihai66 posts small blind [$0.01]
+AlehandroLov posts big blind [$0.02]
+** Dealing down cards **
+dariamihai66 raises [$0.29]
+AlehandroLov folds
+** Summary **
+dariamihai66 collected [ $0.04 ]
+
+
+#Game No : 504717625
+***** 888poker Hand History for Game 504717625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:05:08
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.84 )
+Seat 6: ardenpaq ( $1 )
+ardenpaq posts small blind [$0.01]
+siladar posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq calls [$0.01]
+siladar checks
+** Dealing flop ** [ 5c, Td, 4h ]
+siladar checks
+ardenpaq bets [$0.02]
+siladar calls [$0.02]
+** Dealing turn ** [ 7s ]
+siladar checks
+ardenpaq checks
+** Dealing river ** [ Jh ]
+siladar checks
+ardenpaq bets [$0.08]
+siladar folds
+** Summary **
+ardenpaq collected [ $0.08 ]
+
+
+#Game No : 504717631
+***** 888poker Hand History for Game 504717631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:05:32
+Table Daugavpils 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.80 )
+Seat 6: ardenpaq ( $1.04 )
+siladar posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+siladar calls [$0.01]
+ardenpaq raises [$0.02]
+siladar calls [$0.02]
+** Dealing flop ** [ 4h, Tc, 4s ]
+ardenpaq checks
+siladar checks
+** Dealing turn ** [ 7h ]
+ardenpaq bets [$0.02]
+siladar calls [$0.02]
+** Dealing river ** [ Jd ]
+ardenpaq bets [$0.02]
+siladar calls [$0.02]
+** Summary **
+ardenpaq shows [ 8s, 6s ]
+siladar shows [ Td, Ac ]
+siladar collected [ $0.15 ]
+
+
+#Game No : 504717641
+***** 888poker Hand History for Game 504717641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:05:52
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.87 )
+Seat 6: ardenpaq ( $0.96 )
+ardenpaq posts small blind [$0.01]
+siladar posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq folds
+** Summary **
+siladar collected [ $0.03 ]
+
+
+#Game No : 504717647
+***** 888poker Hand History for Game 504717647 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:06:12
+Table Daugavpils 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.88 )
+Seat 6: ardenpaq ( $0.95 )
+siladar posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+siladar raises [$0.07]
+ardenpaq calls [$0.06]
+** Dealing flop ** [ 6c, 3d, 5h ]
+ardenpaq bets [$0.04]
+siladar calls [$0.04]
+** Dealing turn ** [ 7s ]
+ardenpaq bets [$0.06]
+siladar calls [$0.06]
+** Dealing river ** [ Jd ]
+ardenpaq checks
+siladar checks
+** Summary **
+ardenpaq shows [ 7d, 8h ]
+siladar mucks [ Ad, Ks ]
+ardenpaq collected [ $0.34 ]
+
+
+#Game No : 504717662
+***** 888poker Hand History for Game 504717662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:06:48
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.70 )
+Seat 6: ardenpaq ( $1.11 )
+ardenpaq posts small blind [$0.01]
+siladar posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq raises [$0.03]
+siladar raises [$0.10]
+ardenpaq folds
+** Summary **
+siladar collected [ $0.08 ]
+
+
+#Game No : 504717668
+***** 888poker Hand History for Game 504717668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:07:02
+Table Daugavpils 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.74 )
+Seat 6: ardenpaq ( $1.07 )
+siladar posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+siladar calls [$0.01]
+ardenpaq checks
+** Dealing flop ** [ 6h, Ah, Ks ]
+ardenpaq checks
+siladar checks
+** Dealing turn ** [ Ac ]
+ardenpaq bets [$0.02]
+siladar folds
+** Summary **
+ardenpaq collected [ $0.04 ]
+
+
+#Game No : 504717685
+***** 888poker Hand History for Game 504717685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:07:51
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.72 )
+Seat 6: ardenpaq ( $1.09 )
+ardenpaq posts small blind [$0.01]
+siladar posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq folds
+** Summary **
+siladar collected [ $0.03 ]
+
+
+#Game No : 504717689
+***** 888poker Hand History for Game 504717689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:08:01
+Table Daugavpils 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.73 )
+Seat 6: ardenpaq ( $1.08 )
+siladar posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+siladar raises [$0.03]
+ardenpaq folds
+** Summary **
+siladar collected [ $0.04 ]
+
+
+#Game No : 504717694
+***** 888poker Hand History for Game 504717694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:08:10
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.75 )
+Seat 6: ardenpaq ( $1.06 )
+ardenpaq posts small blind [$0.01]
+siladar posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq folds
+** Summary **
+siladar collected [ $0.03 ]
+
+
+#Game No : 504717696
+***** 888poker Hand History for Game 504717696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:08:17
+Table Daugavpils 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.76 )
+Seat 6: ardenpaq ( $1.05 )
+siladar posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+siladar calls [$0.01]
+ardenpaq checks
+** Dealing flop ** [ Js, 9h, Th ]
+ardenpaq checks
+siladar bets [$0.02]
+ardenpaq calls [$0.02]
+** Dealing turn ** [ Td ]
+ardenpaq bets [$0.02]
+siladar calls [$0.02]
+** Dealing river ** [ 6h ]
+ardenpaq checks
+siladar checks
+** Summary **
+ardenpaq shows [ 6c, Qs ]
+siladar mucks [ Ks, Ac ]
+ardenpaq collected [ $0.12 ]
+
+
+#Game No : 504717704
+***** 888poker Hand History for Game 504717704 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:08:38
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.70 )
+Seat 6: ardenpaq ( $1.11 )
+ardenpaq posts small blind [$0.01]
+siladar posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq folds
+** Summary **
+siladar collected [ $0.03 ]
+
+
+#Game No : 504717706
+***** 888poker Hand History for Game 504717706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:08:46
+Table Daugavpils 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.71 )
+Seat 6: ardenpaq ( $1.10 )
+siladar posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+siladar folds
+** Summary **
+ardenpaq collected [ $0.03 ]
+
+
+#Game No : 504717711
+***** 888poker Hand History for Game 504717711 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:08:51
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.70 )
+Seat 6: ardenpaq ( $1.11 )
+ardenpaq posts small blind [$0.01]
+siladar posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq folds
+** Summary **
+siladar collected [ $0.03 ]
+
+
+#Game No : 504717715
+***** 888poker Hand History for Game 504717715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:09:01
+Table Daugavpils 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: siladar ( $0.71 )
+Seat 6: ardenpaq ( $1.10 )
+siladar posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+siladar calls [$0.01]
+ardenpaq checks
+** Dealing flop ** [ 4c, Qd, 3h ]
+ardenpaq checks
+siladar checks
+** Dealing turn ** [ Jh ]
+ardenpaq bets [$0.02]
+siladar calls [$0.02]
+** Dealing river ** [ 2d ]
+ardenpaq bets [$0.08]
+siladar raises [$0.32]
+ardenpaq calls [$0.24]
+** Summary **
+siladar shows [ 5s, Ac ]
+ardenpaq mucks [ Qh, 6d ]
+siladar collected [ $0.68 ]
+
+
+#Game No : 504717729
+***** 888poker Hand History for Game 504717729 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:09:41
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: siladar ( $1.03 )
+Seat 6: ardenpaq ( $0.74 )
+ardenpaq posts small blind [$0.01]
+siladar posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq raises [$0.03]
+siladar folds
+** Summary **
+ardenpaq collected [ $0.04 ]
+
+
+#Game No : 504717741
+***** 888poker Hand History for Game 504717741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:10:12
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ardenpaq ( $0.72 )
+Seat 7: art4591 ( $1.04 )
+ardenpaq posts small blind [$0.01]
+art4591 posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq raises [$0.03]
+art4591 calls [$0.02]
+** Dealing flop ** [ Qc, 5s, 9d ]
+art4591 checks
+ardenpaq checks
+** Dealing turn ** [ 4c ]
+art4591 checks
+ardenpaq bets [$0.04]
+art4591 raises [$0.12]
+ardenpaq calls [$0.08]
+** Dealing river ** [ 2h ]
+art4591 bets [$0.16]
+ardenpaq folds
+** Summary **
+art4591 collected [ $0.30 ]
+
+
+#Game No : 504717753
+***** 888poker Hand History for Game 504717753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:10:40
+Table Daugavpils 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ardenpaq ( $0.56 )
+Seat 7: art4591 ( $1.18 )
+art4591 posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+art4591 calls [$0.01]
+ardenpaq raises [$0.04]
+art4591 calls [$0.04]
+** Dealing flop ** [ 7d, Ac, Jd ]
+ardenpaq bets [$0.02]
+art4591 raises [$0.04]
+ardenpaq calls [$0.02]
+** Dealing turn ** [ 7h ]
+ardenpaq checks
+art4591 bets [$0.06]
+ardenpaq calls [$0.06]
+** Dealing river ** [ Ah ]
+ardenpaq checks
+art4591 bets [$0.16]
+ardenpaq calls [$0.16]
+** Summary **
+art4591 shows [ Qd, 7s ]
+ardenpaq mucks [ 8d, 8c ]
+art4591 collected [ $0.60 ]
+
+
+#Game No : 504717765
+***** 888poker Hand History for Game 504717765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:11:10
+Table Daugavpils 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: ardenpaq ( $0.24 )
+Seat 7: art4591 ( $1.46 )
+ardenpaq posts small blind [$0.01]
+art4591 posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq raises [$0.05]
+art4591 calls [$0.04]
+** Dealing flop ** [ Jd, Qh, 4h ]
+art4591 checks
+ardenpaq checks
+** Dealing turn ** [ 3d ]
+art4591 bets [$0.06]
+ardenpaq folds
+** Summary **
+art4591 collected [ $0.12 ]
+
+
+#Game No : 504717773
+***** 888poker Hand History for Game 504717773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 01:11:28
+Table Daugavpils 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: ardenpaq ( $0.18 )
+Seat 7: art4591 ( $1.52 )
+art4591 posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+art4591 calls [$0.01]
+ardenpaq checks
+** Dealing flop ** [ 5d, Ah, 3s ]
+ardenpaq bets [$0.04]
+art4591 calls [$0.04]
+** Dealing turn ** [ 7s ]
+ardenpaq bets [$0.04]
+art4591 calls [$0.04]
+** Dealing river ** [ Kc ]
+ardenpaq checks
+art4591 checks
+** Summary **
+ardenpaq shows [ 8c, 4c ]
+art4591 shows [ 9d, 5c ]
+art4591 collected [ $0.19 ]
+
+
+#Game No : 508831273
+***** 888poker Hand History for Game 508831273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 09:50:54
+Table Daugavpils 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: VladimirKogd ( $3.06 )
+Seat 9: SergeiBlidar ( $0.66 )
+VladimirKogd posts small blind [$0.01]
+SergeiBlidar posts big blind [$0.02]
+** Dealing down cards **
+VladimirKogd folds
+** Summary **
+SergeiBlidar collected [ $0.03 ]
+
+

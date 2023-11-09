@@ -1,0 +1,953 @@
+#Game No : 501047737
+***** 888poker Hand History for Game 501047737 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 01:14:14
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: CHAMPIONT688 ( $1.07 )
+Seat 9: WERNIP ( $4.06 )
+WERNIP posts small blind [$0.01]
+CHAMPIONT688 posts big blind [$0.02]
+** Dealing down cards **
+WERNIP raises [$0.05]
+CHAMPIONT688 raises [$0.18]
+WERNIP folds
+** Summary **
+CHAMPIONT688 collected [ $0.12 ]
+
+
+#Game No : 501047743
+***** 888poker Hand History for Game 501047743 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 01:14:30
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: CHAMPIONT688 ( $1.13 )
+Seat 9: WERNIP ( $4 )
+CHAMPIONT688 posts small blind [$0.01]
+WERNIP posts big blind [$0.02]
+** Dealing down cards **
+CHAMPIONT688 folds
+** Summary **
+WERNIP collected [ $0.03 ]
+
+
+#Game No : 501047774
+***** 888poker Hand History for Game 501047774 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 01:15:51
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Dutchman666 ( $0.80 )
+Seat 9: WERNIP ( $4.01 )
+WERNIP posts small blind [$0.01]
+** Dealing down cards **
+Dutchman666 folds
+** Summary **
+WERNIP collected [ $0.01 ]
+
+
+#Game No : 501048878
+***** 888poker Hand History for Game 501048878 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 01:58:01
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.10 )
+Seat 9: IGr0lk ( $1.29 )
+IGr0lk posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+salsal74 calls [$0.02]
+** Dealing flop ** [ Th, 9h, Jd ]
+salsal74 checks
+IGr0lk checks
+** Dealing turn ** [ 8c ]
+salsal74 bets [$0.04]
+IGr0lk folds
+** Summary **
+salsal74 collected [ $0.08 ]
+
+
+#Game No : 501048889
+***** 888poker Hand History for Game 501048889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 01:58:30
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.14 )
+Seat 9: IGr0lk ( $1.25 )
+salsal74 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+IGr0lk calls [$0.02]
+** Dealing flop ** [ 2s, Ac, 6c ]
+IGr0lk checks
+salsal74 bets [$0.04]
+IGr0lk calls [$0.04]
+** Dealing turn ** [ 5d ]
+IGr0lk checks
+salsal74 bets [$0.08]
+IGr0lk raises [$0.29]
+salsal74 calls [$0.21]
+** Dealing river ** [ 4s ]
+IGr0lk checks
+salsal74 checks
+** Summary **
+IGr0lk shows [ 8h, 8c ]
+salsal74 mucks [ Tc, 5c ]
+IGr0lk collected [ $0.70 ]
+
+
+#Game No : 501048918
+***** 888poker Hand History for Game 501048918 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 01:59:38
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1 )
+Seat 9: IGr0lk ( $1.58 )
+IGr0lk posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+salsal74 calls [$0.02]
+** Dealing flop ** [ Jc, Qs, Ts ]
+salsal74 checks
+IGr0lk bets [$0.05]
+salsal74 calls [$0.05]
+** Dealing turn ** [ 6s ]
+salsal74 checks
+IGr0lk checks
+** Dealing river ** [ 4h ]
+salsal74 checks
+IGr0lk checks
+** Summary **
+salsal74 shows [ 4s, Kd ]
+IGr0lk shows [ Qh, 8c ]
+IGr0lk collected [ $0.17 ]
+
+
+#Game No : 501048936
+***** 888poker Hand History for Game 501048936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:00:15
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1 )
+Seat 9: IGr0lk ( $1.66 )
+salsal74 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+IGr0lk calls [$0.04]
+** Dealing flop ** [ Th, 5s, 9c ]
+IGr0lk checks
+salsal74 bets [$0.06]
+IGr0lk calls [$0.06]
+** Dealing turn ** [ 7d ]
+IGr0lk checks
+salsal74 checks
+** Dealing river ** [ Jh ]
+IGr0lk checks
+salsal74 checks
+** Summary **
+IGr0lk shows [ As, Qc ]
+salsal74 shows [ Ac, Qd ]
+salsal74 collected [ $0.11 ]
+IGr0lk collected [ $0.12 ]
+
+
+#Game No : 501048945
+***** 888poker Hand History for Game 501048945 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:00:50
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1 )
+Seat 9: IGr0lk ( $1.66 )
+IGr0lk posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+salsal74 calls [$0.02]
+** Dealing flop ** [ Kc, 6c, 5h ]
+salsal74 checks
+IGr0lk bets [$0.05]
+salsal74 calls [$0.05]
+** Dealing turn ** [ 6s ]
+salsal74 checks
+IGr0lk checks
+** Dealing river ** [ 2s ]
+salsal74 checks
+IGr0lk bets [$0.09]
+salsal74 calls [$0.09]
+** Summary **
+IGr0lk shows [ Ks, 9s ]
+salsal74 mucks [ Ac, 5s ]
+IGr0lk collected [ $0.34 ]
+
+
+#Game No : 501048968
+***** 888poker Hand History for Game 501048968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:01:34
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1 )
+Seat 9: IGr0lk ( $1.82 )
+salsal74 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+IGr0lk folds
+** Summary **
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 501048973
+***** 888poker Hand History for Game 501048973 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:01:41
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.02 )
+Seat 9: IGr0lk ( $1.80 )
+IGr0lk posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk folds
+** Summary **
+salsal74 collected [ $0.03 ]
+
+
+#Game No : 501048980
+***** 888poker Hand History for Game 501048980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:01:48
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.03 )
+Seat 9: IGr0lk ( $1.79 )
+salsal74 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+IGr0lk calls [$0.04]
+** Dealing flop ** [ Td, Qs, Qc ]
+IGr0lk checks
+salsal74 bets [$0.06]
+IGr0lk calls [$0.06]
+** Dealing turn ** [ 6s ]
+IGr0lk bets [$0.16]
+salsal74 calls [$0.16]
+** Dealing river ** [ As ]
+IGr0lk checks
+salsal74 checks
+** Summary **
+IGr0lk shows [ Kh, Qh ]
+salsal74 mucks [ 3c, 3h ]
+IGr0lk collected [ $0.53 ]
+
+
+#Game No : 501048998
+***** 888poker Hand History for Game 501048998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:02:25
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1 )
+Seat 9: IGr0lk ( $2.04 )
+IGr0lk posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk folds
+** Summary **
+salsal74 collected [ $0.03 ]
+
+
+#Game No : 501049002
+***** 888poker Hand History for Game 501049002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:02:35
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.01 )
+Seat 9: IGr0lk ( $2.03 )
+salsal74 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+IGr0lk folds
+** Summary **
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 501049007
+***** 888poker Hand History for Game 501049007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:02:42
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1.03 )
+Seat 9: IGr0lk ( $2.01 )
+IGr0lk posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+salsal74 calls [$0.02]
+** Dealing flop ** [ 2c, 6c, Ad ]
+salsal74 checks
+IGr0lk checks
+** Dealing turn ** [ Kd ]
+salsal74 checks
+IGr0lk bets [$0.05]
+salsal74 calls [$0.05]
+** Dealing river ** [ 3d ]
+salsal74 checks
+IGr0lk bets [$0.09]
+salsal74 folds
+** Summary **
+IGr0lk collected [ $0.17 ]
+
+
+#Game No : 501049042
+***** 888poker Hand History for Game 501049042 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:03:45
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1 )
+Seat 9: IGr0lk ( $2.09 )
+salsal74 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+IGr0lk calls [$0.02]
+** Dealing flop ** [ 8h, Th, Tc ]
+IGr0lk checks
+salsal74 checks
+** Dealing turn ** [ 5d ]
+IGr0lk checks
+salsal74 checks
+** Dealing river ** [ 4h ]
+IGr0lk checks
+salsal74 checks
+** Summary **
+IGr0lk shows [ Qc, Ks ]
+salsal74 mucks [ Jc, 3c ]
+IGr0lk collected [ $0.08 ]
+
+
+#Game No : 501049057
+***** 888poker Hand History for Game 501049057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 02:04:13
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $1 )
+Seat 9: IGr0lk ( $2.13 )
+IGr0lk posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+salsal74 calls [$0.02]
+** Dealing flop ** [ As, Qh, 7c ]
+salsal74 checks
+IGr0lk checks
+** Dealing turn ** [ 6c ]
+salsal74 checks
+IGr0lk checks
+** Dealing river ** [ 8c ]
+salsal74 checks
+IGr0lk bets [$0.04]
+salsal74 folds
+** Summary **
+IGr0lk collected [ $0.08 ]
+
+
+#Game No : 501052012
+***** 888poker Hand History for Game 501052012 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:40:12
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.73 )
+Seat 9: ArmagedonRus ( $0.93 )
+salsal74 posts small blind [$0.01]
+ArmagedonRus posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+ArmagedonRus folds
+** Summary **
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 501052020
+***** 888poker Hand History for Game 501052020 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:40:20
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.75 )
+Seat 9: ArmagedonRus ( $0.91 )
+ArmagedonRus posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+ArmagedonRus folds
+** Summary **
+salsal74 collected [ $0.03 ]
+
+
+#Game No : 501052022
+***** 888poker Hand History for Game 501052022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:40:24
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.76 )
+Seat 9: ArmagedonRus ( $0.90 )
+salsal74 posts small blind [$0.01]
+ArmagedonRus posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+ArmagedonRus collected [ $0.03 ]
+
+
+#Game No : 501052030
+***** 888poker Hand History for Game 501052030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:40:30
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.75 )
+Seat 9: ArmagedonRus ( $0.91 )
+ArmagedonRus posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+ArmagedonRus calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ 9d, 4s, Qs ]
+salsal74 checks
+ArmagedonRus checks
+** Dealing turn ** [ 7s ]
+salsal74 checks
+ArmagedonRus checks
+** Dealing river ** [ 4d ]
+salsal74 checks
+ArmagedonRus checks
+** Summary **
+salsal74 shows [ 3s, 6c ]
+ArmagedonRus shows [ Ks, 8c ]
+ArmagedonRus collected [ $0.04 ]
+
+
+#Game No : 501052048
+***** 888poker Hand History for Game 501052048 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:41:02
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.73 )
+Seat 9: ArmagedonRus ( $0.93 )
+salsal74 posts small blind [$0.01]
+ArmagedonRus posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+ArmagedonRus collected [ $0.03 ]
+
+
+#Game No : 501052054
+***** 888poker Hand History for Game 501052054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:41:11
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.72 )
+Seat 9: ArmagedonRus ( $0.94 )
+ArmagedonRus posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+ArmagedonRus folds
+** Summary **
+salsal74 collected [ $0.03 ]
+
+
+#Game No : 501052059
+***** 888poker Hand History for Game 501052059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:41:16
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.73 )
+Seat 9: ArmagedonRus ( $0.93 )
+salsal74 posts small blind [$0.01]
+ArmagedonRus posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+ArmagedonRus folds
+** Summary **
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 501052068
+***** 888poker Hand History for Game 501052068 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:41:32
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.75 )
+Seat 9: ArmagedonRus ( $0.91 )
+ArmagedonRus posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+ArmagedonRus folds
+** Summary **
+salsal74 collected [ $0.03 ]
+
+
+#Game No : 501052074
+***** 888poker Hand History for Game 501052074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:41:40
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.76 )
+Seat 9: ArmagedonRus ( $0.90 )
+salsal74 posts small blind [$0.01]
+ArmagedonRus posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+ArmagedonRus calls [$0.04]
+** Dealing flop ** [ As, 2s, Jc ]
+ArmagedonRus checks
+salsal74 bets [$0.06]
+ArmagedonRus folds
+** Summary **
+salsal74 did not show his hand
+salsal74 collected [ $0.12 ]
+
+
+#Game No : 501052084
+***** 888poker Hand History for Game 501052084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:41:55
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.82 )
+Seat 9: ArmagedonRus ( $0.84 )
+ArmagedonRus posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+ArmagedonRus calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ 2s, 9s, Ts ]
+salsal74 checks
+ArmagedonRus checks
+** Dealing turn ** [ 7h ]
+salsal74 bets [$0.04]
+ArmagedonRus calls [$0.04]
+** Dealing river ** [ 8d ]
+salsal74 checks
+ArmagedonRus bets [$0.06]
+salsal74 calls [$0.06]
+** Summary **
+ArmagedonRus shows [ 6c, Jc ]
+salsal74 mucks [ 7d, 2d ]
+ArmagedonRus collected [ $0.23 ]
+
+
+#Game No : 501052102
+***** 888poker Hand History for Game 501052102 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:42:25
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.70 )
+Seat 9: ArmagedonRus ( $0.95 )
+salsal74 posts small blind [$0.01]
+ArmagedonRus posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+ArmagedonRus calls [$0.04]
+** Dealing flop ** [ As, 5d, Qd ]
+ArmagedonRus checks
+salsal74 checks
+** Dealing turn ** [ 5c ]
+ArmagedonRus bets [$0.06]
+salsal74 folds
+** Summary **
+ArmagedonRus did not show his hand
+ArmagedonRus collected [ $0.12 ]
+
+
+#Game No : 501052116
+***** 888poker Hand History for Game 501052116 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:42:48
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.64 )
+Seat 9: ArmagedonRus ( $1.01 )
+ArmagedonRus posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+ArmagedonRus calls [$0.01]
+salsal74 checks
+** Dealing flop ** [ 4s, 5h, Jd ]
+salsal74 checks
+ArmagedonRus checks
+** Dealing turn ** [ 7h ]
+salsal74 checks
+ArmagedonRus checks
+** Dealing river ** [ Qh ]
+salsal74 bets [$0.04]
+ArmagedonRus folds
+** Summary **
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 501052130
+***** 888poker Hand History for Game 501052130 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 03:43:10
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: salsal74 ( $2.66 )
+Seat 9: ArmagedonRus ( $0.99 )
+salsal74 posts small blind [$0.01]
+ArmagedonRus posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.03]
+ArmagedonRus folds
+** Summary **
+salsal74 collected [ $0.04 ]
+
+
+#Game No : 501053095
+***** 888poker Hand History for Game 501053095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 04:12:31
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: zohanDK ( $1.35 )
+Seat 9: Eremakan ( $0.44 )
+Eremakan posts small blind [$0.01]
+** Dealing down cards **
+zohanDK folds
+** Summary **
+Eremakan collected [ $0.01 ]
+
+
+#Game No : 501053109
+***** 888poker Hand History for Game 501053109 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 04:12:59
+Table Hyderabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: AndreiBugajv ( $0.82 )
+Seat 9: Eremakan ( $0.44 )
+AndreiBugajv posts small blind [$0.01]
+** Dealing down cards **
+Eremakan folds
+** Summary **
+AndreiBugajv collected [ $0.01 ]
+
+
+#Game No : 501053122
+***** 888poker Hand History for Game 501053122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 04:13:15
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: darkdepill ( $1 )
+Seat 7: AndreiBugajv ( $0.82 )
+darkdepill posts small blind [$0.01]
+AndreiBugajv posts big blind [$0.02]
+** Dealing down cards **
+darkdepill folds
+** Summary **
+AndreiBugajv collected [ $0.03 ]
+
+
+#Game No : 501053127
+***** 888poker Hand History for Game 501053127 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 04:13:20
+Table Hyderabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: darkdepill ( $0.99 )
+Seat 7: AndreiBugajv ( $0.83 )
+AndreiBugajv posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+AndreiBugajv calls [$0.01]
+darkdepill raises [$0.02]
+AndreiBugajv folds
+** Summary **
+darkdepill collected [ $0.04 ]
+
+
+#Game No : 501053136
+***** 888poker Hand History for Game 501053136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 04:13:28
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: darkdepill ( $1.01 )
+Seat 7: AndreiBugajv ( $0.81 )
+darkdepill posts small blind [$0.01]
+AndreiBugajv posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.03]
+AndreiBugajv calls [$0.02]
+** Dealing flop ** [ 6h, As, 9s ]
+AndreiBugajv checks
+darkdepill bets [$0.02]
+AndreiBugajv calls [$0.02]
+** Dealing turn ** [ 7d ]
+AndreiBugajv checks
+darkdepill bets [$0.04]
+AndreiBugajv calls [$0.04]
+** Dealing river ** [ Kh ]
+AndreiBugajv checks
+darkdepill checks
+** Summary **
+AndreiBugajv shows [ 8s, Ac ]
+darkdepill mucks [ Qs, Qc ]
+AndreiBugajv collected [ $0.19 ]
+
+
+#Game No : 501053158
+***** 888poker Hand History for Game 501053158 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 04:14:01
+Table Hyderabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: darkdepill ( $0.91 )
+Seat 7: AndreiBugajv ( $0.90 )
+AndreiBugajv posts small blind [$0.01]
+darkdepill posts big blind [$0.02]
+** Dealing down cards **
+AndreiBugajv folds
+** Summary **
+darkdepill collected [ $0.03 ]
+
+
+#Game No : 501053163
+***** 888poker Hand History for Game 501053163 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 04:14:07
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: darkdepill ( $0.92 )
+Seat 7: AndreiBugajv ( $0.89 )
+darkdepill posts small blind [$0.01]
+AndreiBugajv posts big blind [$0.02]
+** Dealing down cards **
+darkdepill raises [$0.03]
+AndreiBugajv calls [$0.02]
+** Dealing flop ** [ Td, 2s, Qc ]
+AndreiBugajv checks
+darkdepill bets [$0.05]
+AndreiBugajv calls [$0.05]
+** Dealing turn ** [ As ]
+AndreiBugajv checks
+darkdepill bets [$0.12]
+AndreiBugajv folds
+** Summary **
+darkdepill collected [ $0.17 ]
+
+
+#Game No : 501064889
+***** 888poker Hand History for Game 501064889 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 08:53:33
+Table Hyderabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: skuzmanovski ( $3.32 )
+Seat 9: serjio7913 ( $1.76 )
+skuzmanovski posts small blind [$0.01]
+** Dealing down cards **
+serjio7913 folds
+** Summary **
+skuzmanovski did not show his hand
+skuzmanovski collected [ $0.01 ]
+
+
+#Game No : 501064923
+***** 888poker Hand History for Game 501064923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 08:54:21
+Table Hyderabad 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: skuzmanovski ( $3.32 )
+Seat 9: vlad_ul ( $1 )
+skuzmanovski posts small blind [$0.01]
+vlad_ul posts big blind [$0.02]
+** Dealing down cards **
+skuzmanovski calls [$0.01]
+vlad_ul checks
+** Dealing flop ** [ Tc, Jc, 4c ]
+vlad_ul checks
+skuzmanovski bets [$0.02]
+vlad_ul calls [$0.02]
+** Dealing turn ** [ Jd ]
+vlad_ul checks
+skuzmanovski bets [$0.02]
+vlad_ul calls [$0.02]
+** Dealing river ** [ 6c ]
+vlad_ul checks
+skuzmanovski bets [$0.08]
+vlad_ul folds
+** Summary **
+skuzmanovski collected [ $0.12 ]
+
+
+#Game No : 501064948
+***** 888poker Hand History for Game 501064948 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 08:54:54
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: skuzmanovski ( $3.38 )
+Seat 9: vlad_ul ( $1 )
+vlad_ul posts small blind [$0.01]
+skuzmanovski posts big blind [$0.02]
+** Dealing down cards **
+vlad_ul raises [$0.05]
+skuzmanovski calls [$0.04]
+** Dealing flop ** [ 3s, 9d, 6s ]
+skuzmanovski checks
+vlad_ul checks
+** Dealing turn ** [ 4s ]
+skuzmanovski bets [$0.02]
+vlad_ul folds
+** Summary **
+skuzmanovski collected [ $0.12 ]
+
+
+#Game No : 501070092
+***** 888poker Hand History for Game 501070092 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:46:28
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: WERNIP ( $3.51 )
+Seat 2: zimboboy53 ( $0.80 )
+zimboboy53 posts small blind [$0.01]
+WERNIP posts big blind [$0.02]
+** Dealing down cards **
+zimboboy53 raises [$0.05]
+WERNIP raises [$0.22]
+zimboboy53 calls [$0.18]
+** Dealing flop ** [ 6s, Js, 9s ]
+WERNIP bets [$3.27]
+zimboboy53 calls [$0.56]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ Qd ]
+** Summary **
+WERNIP shows [ Ad, Ah ]
+zimboboy53 shows [ 8s, Td ]
+zimboboy53 collected [ $1.50 ]
+
+
+#Game No : 501070118
+***** 888poker Hand History for Game 501070118 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:47:06
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WERNIP ( $2.71 )
+Seat 2: zimboboy53 ( $1.50 )
+WERNIP posts small blind [$0.01]
+zimboboy53 posts big blind [$0.02]
+** Dealing down cards **
+WERNIP raises [$0.05]
+zimboboy53 calls [$0.04]
+** Dealing flop ** [ Ac, 5s, 3s ]
+zimboboy53 checks
+WERNIP bets [$0.08]
+zimboboy53 folds
+** Summary **
+WERNIP did not show his hand
+WERNIP collected [ $0.12 ]
+
+
+#Game No : 501070140
+***** 888poker Hand History for Game 501070140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:47:39
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: WERNIP ( $2.77 )
+Seat 2: zimboboy53 ( $1.44 )
+zimboboy53 posts small blind [$0.01]
+WERNIP posts big blind [$0.02]
+** Dealing down cards **
+zimboboy53 folds
+** Summary **
+WERNIP did not show his hand
+WERNIP collected [ $0.03 ]
+
+
+#Game No : 501070148
+***** 888poker Hand History for Game 501070148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:47:50
+Table Hyderabad 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WERNIP ( $2.78 )
+Seat 2: zimboboy53 ( $1.43 )
+WERNIP posts small blind [$0.01]
+zimboboy53 posts big blind [$0.02]
+** Dealing down cards **
+WERNIP raises [$0.05]
+zimboboy53 folds
+** Summary **
+WERNIP did not show his hand
+WERNIP collected [ $0.04 ]
+
+
+#Game No : 501070158
+***** 888poker Hand History for Game 501070158 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 10:48:01
+Table Hyderabad 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: WERNIP ( $2.80 )
+Seat 2: zimboboy53 ( $1.41 )
+zimboboy53 posts small blind [$0.01]
+WERNIP posts big blind [$0.02]
+** Dealing down cards **
+zimboboy53 raises [$0.05]
+WERNIP raises [$2.78]
+zimboboy53 calls [$1.35]
+** Dealing flop ** [ 7s, As, Jh ]
+** Dealing turn ** [ 6s ]
+** Dealing river ** [ 6h ]
+** Summary **
+WERNIP shows [ 8h, 8s ]
+zimboboy53 shows [ Kh, Qd ]
+WERNIP collected [ $2.65 ]
+
+
+#Game No : 501075522
+***** 888poker Hand History for Game 501075522 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 08 2018 12:29:46
+Table Hyderabad 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Ausrinis ( $1.10 )
+Seat 9: Karunos86 ( $1 )
+Karunos86 posts small blind [$0.01]
+** Dealing down cards **
+Ausrinis folds
+** Summary **
+Karunos86 collected [ $0.01 ]
+
+

@@ -1,0 +1,549 @@
+#Game No : 505087836
+***** 888poker Hand History for Game 505087836 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 04:19:21
+Table Vryheid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MaersAlex ( $3.17 )
+Seat 9: ApTuk13 ( $1.20 )
+MaersAlex posts small blind [$0.01]
+ApTuk13 posts big blind [$0.02]
+** Dealing down cards **
+MaersAlex raises [$0.05]
+ApTuk13 folds
+** Summary **
+MaersAlex collected [ $0.04 ]
+
+
+#Game No : 505092963
+***** 888poker Hand History for Game 505092963 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:28:54
+Table Vryheid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: sath3r666 ( $0.80 )
+Seat 7: AssK1cker ( $0.95 )
+AssK1cker posts small blind [$0.01]
+sath3r666 posts big blind [$0.02]
+** Dealing down cards **
+AssK1cker raises [$0.03]
+sath3r666 folds
+** Summary **
+AssK1cker collected [ $0.04 ]
+
+
+#Game No : 505092971
+***** 888poker Hand History for Game 505092971 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:29:04
+Table Vryheid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: sath3r666 ( $0.80 )
+Seat 7: AssK1cker ( $0.97 )
+sath3r666 posts small blind [$0.01]
+AssK1cker posts big blind [$0.02]
+** Dealing down cards **
+sath3r666 folds
+** Summary **
+AssK1cker collected [ $0.03 ]
+
+
+#Game No : 505092977
+***** 888poker Hand History for Game 505092977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:29:11
+Table Vryheid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: sath3r666 ( $0.80 )
+Seat 7: AssK1cker ( $0.98 )
+AssK1cker posts small blind [$0.01]
+sath3r666 posts big blind [$0.02]
+** Dealing down cards **
+AssK1cker raises [$0.05]
+sath3r666 raises [$0.16]
+AssK1cker calls [$0.12]
+** Dealing flop ** [ 5c, 2s, Qh ]
+sath3r666 bets [$0.16]
+AssK1cker calls [$0.16]
+** Dealing turn ** [ 4s ]
+sath3r666 bets [$0.34]
+AssK1cker folds
+** Summary **
+sath3r666 collected [ $0.64 ]
+
+
+#Game No : 505093096
+***** 888poker Hand History for Game 505093096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:31:22
+Table Vryheid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: AssK1cker ( $0.63 )
+Seat 9: inthetube22 ( $0.67 )
+AssK1cker posts small blind [$0.01]
+inthetube22 posts big blind [$0.02]
+** Dealing down cards **
+AssK1cker raises [$0.03]
+inthetube22 calls [$0.02]
+** Dealing flop ** [ 9d, 6s, Qc ]
+inthetube22 checks
+AssK1cker bets [$0.04]
+inthetube22 calls [$0.04]
+** Dealing turn ** [ 7h ]
+inthetube22 checks
+AssK1cker checks
+** Dealing river ** [ As ]
+inthetube22 checks
+AssK1cker bets [$0.10]
+inthetube22 folds
+** Summary **
+AssK1cker collected [ $0.15 ]
+
+
+#Game No : 505093126
+***** 888poker Hand History for Game 505093126 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:31:58
+Table Vryheid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: AssK1cker ( $0.70 )
+Seat 9: inthetube22 ( $0.59 )
+inthetube22 posts small blind [$0.01]
+AssK1cker posts big blind [$0.02]
+** Dealing down cards **
+inthetube22 raises [$0.03]
+AssK1cker calls [$0.02]
+** Dealing flop ** [ Ah, Tc, 2s ]
+AssK1cker checks
+inthetube22 checks
+** Dealing turn ** [ 7s ]
+AssK1cker bets [$0.05]
+inthetube22 calls [$0.05]
+** Dealing river ** [ 8d ]
+AssK1cker bets [$0.09]
+inthetube22 calls [$0.09]
+** Summary **
+AssK1cker shows [ Td, 3d ]
+inthetube22 shows [ Ad, 7h ]
+inthetube22 collected [ $0.34 ]
+
+
+#Game No : 505093153
+***** 888poker Hand History for Game 505093153 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:32:33
+Table Vryheid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: AssK1cker ( $0.52 )
+Seat 9: inthetube22 ( $0.75 )
+AssK1cker posts small blind [$0.01]
+inthetube22 posts big blind [$0.02]
+** Dealing down cards **
+AssK1cker raises [$0.03]
+inthetube22 calls [$0.02]
+** Dealing flop ** [ 9s, 4d, Kh ]
+inthetube22 bets [$0.02]
+AssK1cker calls [$0.02]
+** Dealing turn ** [ 2s ]
+inthetube22 checks
+AssK1cker bets [$0.06]
+inthetube22 calls [$0.06]
+** Dealing river ** [ 5h ]
+inthetube22 checks
+AssK1cker bets [$0.16]
+inthetube22 folds
+** Summary **
+AssK1cker collected [ $0.23 ]
+
+
+#Game No : 505093179
+***** 888poker Hand History for Game 505093179 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:33:05
+Table Vryheid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: AssK1cker ( $0.63 )
+Seat 9: inthetube22 ( $0.63 )
+inthetube22 posts small blind [$0.01]
+AssK1cker posts big blind [$0.02]
+** Dealing down cards **
+inthetube22 calls [$0.01]
+AssK1cker checks
+** Dealing flop ** [ Qh, 8c, Td ]
+AssK1cker checks
+inthetube22 checks
+** Dealing turn ** [ 6d ]
+AssK1cker checks
+inthetube22 bets [$0.02]
+AssK1cker folds
+** Summary **
+inthetube22 collected [ $0.04 ]
+
+
+#Game No : 505093950
+***** 888poker Hand History for Game 505093950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:48:03
+Table Vryheid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Pottaker13 ( $0.26 )
+Seat 9: inthetube22 ( $2.23 )
+Pottaker13 posts small blind [$0.01]
+inthetube22 posts big blind [$0.02]
+** Dealing down cards **
+Pottaker13 raises [$0.25]
+inthetube22 calls [$0.24]
+** Dealing flop ** [ As, Kc, 8c ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Kh ]
+** Summary **
+Pottaker13 shows [ 5c, Kd ]
+inthetube22 shows [ Ks, Qh ]
+inthetube22 collected [ $0.49 ]
+
+
+#Game No : 505094015
+***** 888poker Hand History for Game 505094015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 06:49:29
+Table Vryheid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: lexagersh ( $0.80 )
+Seat 4: MrLBJames ( $0.80 )
+MrLBJames posts small blind [$0.01]
+lexagersh posts big blind [$0.02]
+** Dealing down cards **
+MrLBJames raises [$0.03]
+lexagersh calls [$0.02]
+** Dealing flop ** [ 9c, 3s, Kd ]
+lexagersh checks
+MrLBJames bets [$0.05]
+lexagersh calls [$0.05]
+** Dealing turn ** [ Jc ]
+lexagersh checks
+MrLBJames checks
+** Dealing river ** [ 8h ]
+lexagersh checks
+MrLBJames bets [$0.12]
+lexagersh folds
+** Summary **
+MrLBJames collected [ $0.17 ]
+
+
+#Game No : 505097308
+***** 888poker Hand History for Game 505097308 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:02:44
+Table Vryheid 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: YarFight ( $1 )
+Seat 7: langdong ( $1.91 )
+YarFight posts small blind [$0.01]
+langdong posts big blind [$0.02]
+** Dealing down cards **
+YarFight folds
+** Summary **
+langdong collected [ $0.03 ]
+
+
+#Game No : 505097314
+***** 888poker Hand History for Game 505097314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:02:53
+Table Vryheid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: YarFight ( $1 )
+Seat 7: langdong ( $1.92 )
+langdong posts small blind [$0.01]
+YarFight posts big blind [$0.02]
+** Dealing down cards **
+langdong raises [$0.04]
+YarFight folds
+** Summary **
+langdong collected [ $0.04 ]
+
+
+#Game No : 505097320
+***** 888poker Hand History for Game 505097320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:03:02
+Table Vryheid 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: YarFight ( $1 )
+Seat 7: langdong ( $1.94 )
+YarFight posts small blind [$0.01]
+langdong posts big blind [$0.02]
+** Dealing down cards **
+YarFight raises [$0.03]
+langdong calls [$0.02]
+** Dealing flop ** [ 2d, 2s, 3c ]
+langdong checks
+YarFight checks
+** Dealing turn ** [ 4h ]
+langdong bets [$0.04]
+YarFight folds
+** Summary **
+langdong collected [ $0.08 ]
+
+
+#Game No : 505098843
+***** 888poker Hand History for Game 505098843 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:34:42
+Table Vryheid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Buduram ( $0.62 )
+Seat 6: IproninI ( $0.84 )
+Buduram posts small blind [$0.01]
+IproninI posts big blind [$0.02]
+** Dealing down cards **
+Buduram raises [$0.11]
+IproninI folds
+** Summary **
+Buduram collected [ $0.04 ]
+
+
+#Game No : 505098856
+***** 888poker Hand History for Game 505098856 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:34:52
+Table Vryheid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Buduram ( $0.64 )
+Seat 6: IproninI ( $0.82 )
+IproninI posts small blind [$0.01]
+Buduram posts big blind [$0.02]
+** Dealing down cards **
+IproninI raises [$0.03]
+Buduram calls [$0.02]
+** Dealing flop ** [ 2d, 4c, 5c ]
+Buduram bets [$0.02]
+IproninI calls [$0.02]
+** Dealing turn ** [ 8h ]
+Buduram bets [$0.02]
+IproninI folds
+** Summary **
+Buduram collected [ $0.12 ]
+
+
+#Game No : 505098891
+***** 888poker Hand History for Game 505098891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:35:38
+Table Vryheid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Buduram ( $0.70 )
+Seat 6: IproninI ( $0.76 )
+Buduram posts small blind [$0.01]
+IproninI posts big blind [$0.02]
+** Dealing down cards **
+Buduram folds
+** Summary **
+IproninI collected [ $0.03 ]
+
+
+#Game No : 505098902
+***** 888poker Hand History for Game 505098902 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:35:47
+Table Vryheid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Buduram ( $0.69 )
+Seat 6: IproninI ( $0.77 )
+IproninI posts small blind [$0.01]
+Buduram posts big blind [$0.02]
+** Dealing down cards **
+IproninI raises [$0.05]
+Buduram calls [$0.04]
+** Dealing flop ** [ 2s, 5s, 3s ]
+Buduram bets [$0.10]
+IproninI calls [$0.10]
+** Dealing turn ** [ 9c ]
+Buduram bets [$0.30]
+IproninI folds
+** Summary **
+Buduram collected [ $0.30 ]
+
+
+#Game No : 505098954
+***** 888poker Hand History for Game 505098954 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:36:40
+Table Vryheid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Buduram ( $0.83 )
+Seat 6: IproninI ( $0.61 )
+Buduram posts small blind [$0.01]
+IproninI posts big blind [$0.02]
+** Dealing down cards **
+Buduram calls [$0.01]
+IproninI checks
+** Dealing flop ** [ 8s, Qc, 4d ]
+IproninI checks
+Buduram bets [$0.06]
+IproninI folds
+** Summary **
+Buduram collected [ $0.04 ]
+
+
+#Game No : 505098970
+***** 888poker Hand History for Game 505098970 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:37:01
+Table Vryheid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Buduram ( $0.85 )
+Seat 6: IproninI ( $0.59 )
+IproninI posts small blind [$0.01]
+Buduram posts big blind [$0.02]
+** Dealing down cards **
+IproninI folds
+** Summary **
+Buduram collected [ $0.03 ]
+
+
+#Game No : 505098976
+***** 888poker Hand History for Game 505098976 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:37:06
+Table Vryheid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Buduram ( $0.86 )
+Seat 6: IproninI ( $0.58 )
+Buduram posts small blind [$0.01]
+IproninI posts big blind [$0.02]
+** Dealing down cards **
+Buduram calls [$0.01]
+IproninI checks
+** Dealing flop ** [ Tc, 6h, 2c ]
+IproninI bets [$0.02]
+Buduram calls [$0.02]
+** Dealing turn ** [ 5s ]
+IproninI bets [$0.04]
+Buduram calls [$0.04]
+** Dealing river ** [ As ]
+IproninI bets [$0.04]
+Buduram calls [$0.04]
+** Summary **
+IproninI shows [ 2d, 9s ]
+Buduram shows [ Jc, 6d ]
+Buduram collected [ $0.23 ]
+
+
+#Game No : 505099011
+***** 888poker Hand History for Game 505099011 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:37:42
+Table Vryheid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Buduram ( $0.97 )
+Seat 6: IproninI ( $0.46 )
+IproninI posts small blind [$0.01]
+Buduram posts big blind [$0.02]
+** Dealing down cards **
+IproninI raises [$0.07]
+Buduram folds
+** Summary **
+IproninI collected [ $0.04 ]
+
+
+#Game No : 505099320
+***** 888poker Hand History for Game 505099320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:44:30
+Table Vryheid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: R3tree ( $0.98 )
+Seat 6: IproninI ( $0.48 )
+R3tree posts small blind [$0.01]
+IproninI posts big blind [$0.02]
+** Dealing down cards **
+R3tree raises [$0.04]
+IproninI folds
+** Summary **
+R3tree collected [ $0.04 ]
+
+
+#Game No : 505099344
+***** 888poker Hand History for Game 505099344 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:44:58
+Table Vryheid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: R3tree ( $1 )
+Seat 6: IproninI ( $0.46 )
+IproninI posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+IproninI folds
+** Summary **
+R3tree collected [ $0.03 ]
+
+
+#Game No : 505099428
+***** 888poker Hand History for Game 505099428 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 08:47:00
+Table Vryheid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: R3tree ( $1.03 )
+Seat 6: IproninI ( $0.47 )
+R3tree posts small blind [$0.01]
+IproninI posts big blind [$0.02]
+** Dealing down cards **
+R3tree raises [$0.04]
+IproninI folds
+** Summary **
+R3tree collected [ $0.04 ]
+
+
+#Game No : 505100853
+***** 888poker Hand History for Game 505100853 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 09:17:04
+Table Vryheid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: PreWis ( $1.24 )
+Seat 4: R3tree ( $2.32 )
+R3tree posts small blind [$0.01]
+PreWis posts big blind [$0.02]
+** Dealing down cards **
+R3tree calls [$0.01]
+PreWis checks
+** Dealing flop ** [ 5d, Tc, 9h ]
+PreWis checks
+R3tree checks
+** Dealing turn ** [ 8d ]
+PreWis bets [$0.02]
+R3tree calls [$0.02]
+** Dealing river ** [ 4h ]
+PreWis checks
+R3tree checks
+** Summary **
+PreWis shows [ 7s, 4c ]
+R3tree shows [ 6d, 4d ]
+R3tree collected [ $0.04 ]
+PreWis collected [ $0.04 ]
+
+
+#Game No : 505102668
+***** 888poker Hand History for Game 505102668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2018 09:53:39
+Table Vryheid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: YDASHA888 ( $1.33 )
+Seat 7: mikhail1991 ( $0.88 )
+mikhail1991 posts small blind [$0.01]
+YDASHA888 posts big blind [$0.02]
+** Dealing down cards **
+mikhail1991 calls [$0.01]
+YDASHA888 checks
+** Dealing flop ** [ 7h, 8s, 8h ]
+YDASHA888 checks
+mikhail1991 bets [$0.02]
+YDASHA888 folds
+** Summary **
+mikhail1991 collected [ $0.04 ]
+
+

@@ -1,0 +1,44 @@
+#Game No : 614510086
+***** 888poker Hand History for Game 614510086 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 05:52:09
+Table Ivanovo 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Vanquish20 ( $0.80 )
+Seat 9: ivan2257345 ( $1 )
+ivan2257345 posts small blind [$0.01]
+Vanquish20 posts big blind [$0.02]
+** Dealing down cards **
+ivan2257345 calls [$0.01]
+Vanquish20 raises [$0.06]
+ivan2257345 folds
+** Summary **
+Vanquish20 collected [ $0.04 ]
+
+
+#Game No : 614510100
+***** 888poker Hand History for Game 614510100 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 05:52:23
+Table Ivanovo 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Vanquish20 ( $0.82 )
+Seat 9: ivan2257345 ( $0.98 )
+Vanquish20 posts small blind [$0.01]
+ivan2257345 posts big blind [$0.02]
+** Dealing down cards **
+Vanquish20 calls [$0.01]
+ivan2257345 checks
+** Dealing flop ** [ Ts, 5c, Qd ]
+ivan2257345 checks
+Vanquish20 checks
+** Dealing turn ** [ Qh ]
+ivan2257345 bets [$0.02]
+Vanquish20 calls [$0.02]
+** Dealing river ** [ 6h ]
+ivan2257345 bets [$0.02]
+Vanquish20 folds
+** Summary **
+ivan2257345 collected [ $0.08 ]
+
+

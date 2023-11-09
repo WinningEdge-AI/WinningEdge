@@ -1,0 +1,87 @@
+#Game No : 503600426
+***** 888poker Hand History for Game 503600426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 08:11:06
+Table Maracanau 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ashkat666 ( $2.05 )
+Seat 5: pokie28 ( $1.18 )
+ashkat666 posts small blind [$0.01]
+pokie28 posts big blind [$0.02]
+** Dealing down cards **
+ashkat666 raises [$0.04]
+pokie28 folds
+** Summary **
+ashkat666 collected [ $0.04 ]
+
+
+#Game No : 503600960
+***** 888poker Hand History for Game 503600960 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 08:26:04
+Table Maracanau 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SLion9 ( $2 )
+Seat 7: pan8jianping ( $1 )
+SLion9 posts small blind [$0.01]
+pan8jianping posts big blind [$0.02]
+** Dealing down cards **
+SLion9 calls [$0.01]
+pan8jianping checks
+** Dealing flop ** [ 5c, 4h, 7d ]
+pan8jianping bets [$0.98]
+SLion9 calls [$0.98]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ Td ]
+** Summary **
+SLion9 shows [ 8s, 6s ]
+pan8jianping shows [ 4s, Qc ]
+SLion9 collected [ $1.88 ]
+
+
+#Game No : 503601007
+***** 888poker Hand History for Game 503601007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 08:27:15
+Table Maracanau 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Henrikad ( $2 )
+Seat 6: SLion9 ( $2.88 )
+Henrikad posts small blind [$0.01]
+SLion9 posts big blind [$0.02]
+** Dealing down cards **
+Henrikad folds
+** Summary **
+SLion9 collected [ $0.03 ]
+
+
+#Game No : 503601015
+***** 888poker Hand History for Game 503601015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 08:27:26
+Table Maracanau 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Henrikad ( $1.99 )
+Seat 6: SLion9 ( $2.89 )
+SLion9 posts small blind [$0.01]
+Henrikad posts big blind [$0.02]
+** Dealing down cards **
+SLion9 calls [$0.01]
+Henrikad raises [$0.02]
+SLion9 calls [$0.02]
+** Dealing flop ** [ 4s, 8c, 8d ]
+Henrikad bets [$0.04]
+SLion9 calls [$0.04]
+** Dealing turn ** [ Kc ]
+Henrikad bets [$0.06]
+SLion9 calls [$0.06]
+** Dealing river ** [ Ks ]
+Henrikad bets [$0.14]
+SLion9 raises [$2.75]
+Henrikad calls [$1.71]
+** Summary **
+Henrikad shows [ As, Jc ]
+SLion9 shows [ 8h, 3h ]
+SLion9 collected [ $3.74 ]
+
+

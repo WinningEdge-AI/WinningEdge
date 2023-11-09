@@ -1,0 +1,56 @@
+#Game No : 499961271
+***** 888poker Hand History for Game 499961271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 18:33:09
+Table Junin 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: zavodskoy238 ( $0.95 )
+Seat 4: vnuk36 ( $0.85 )
+vnuk36 posts small blind [$0.01]
+zavodskoy238 posts big blind [$0.02]
+** Dealing down cards **
+vnuk36 calls [$0.01]
+zavodskoy238 checks
+** Dealing flop ** [ 8c, 6c, Tc ]
+zavodskoy238 checks
+vnuk36 checks
+** Dealing turn ** [ Js ]
+zavodskoy238 bets [$0.02]
+vnuk36 calls [$0.02]
+** Dealing river ** [ 9s ]
+zavodskoy238 bets [$0.02]
+vnuk36 raises [$0.08]
+zavodskoy238 calls [$0.06]
+** Summary **
+vnuk36 shows [ Qh, 3h ]
+zavodskoy238 mucks [ Kd, Td ]
+vnuk36 collected [ $0.23 ]
+
+
+#Game No : 499961308
+***** 888poker Hand History for Game 499961308 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 07 2018 18:34:37
+Table Junin 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: vnuk36 ( $1.65 )
+Seat 9: Mefi100S ( $1.05 )
+Mefi100S posts small blind [$0.01]
+vnuk36 posts big blind [$0.02]
+** Dealing down cards **
+Mefi100S calls [$0.01]
+vnuk36 checks
+** Dealing flop ** [ Ah, 4c, 3d ]
+vnuk36 checks
+Mefi100S checks
+** Dealing turn ** [ 9d ]
+vnuk36 checks
+Mefi100S checks
+** Dealing river ** [ 4s ]
+vnuk36 bets [$0.04]
+Mefi100S folds
+** Summary **
+vnuk36 did not show his hand
+vnuk36 collected [ $0.04 ]
+
+

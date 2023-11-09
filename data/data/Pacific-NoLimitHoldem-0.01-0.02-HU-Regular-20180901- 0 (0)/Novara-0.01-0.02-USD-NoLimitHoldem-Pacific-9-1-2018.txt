@@ -1,0 +1,94 @@
+#Game No : 501774689
+***** 888poker Hand History for Game 501774689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 13:47:24
+Table Novara 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Boabie01 ( $1.65 )
+Seat 6: aleksmaylo ( $1.05 )
+Boabie01 posts small blind [$0.01]
+aleksmaylo posts big blind [$0.02]
+** Dealing down cards **
+Boabie01 calls [$0.01]
+aleksmaylo checks
+** Dealing flop ** [ 6h, Kc, 4s ]
+aleksmaylo checks
+Boabie01 checks
+** Dealing turn ** [ 5d ]
+aleksmaylo bets [$0.04]
+Boabie01 folds
+** Summary **
+aleksmaylo collected [ $0.04 ]
+
+
+#Game No : 501774705
+***** 888poker Hand History for Game 501774705 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 13:47:42
+Table Novara 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Boabie01 ( $1.63 )
+Seat 6: aleksmaylo ( $1.07 )
+aleksmaylo posts small blind [$0.01]
+Boabie01 posts big blind [$0.02]
+** Dealing down cards **
+aleksmaylo folds
+** Summary **
+Boabie01 collected [ $0.03 ]
+
+
+#Game No : 501776828
+***** 888poker Hand History for Game 501776828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 14:27:17
+Table Novara 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: OlegH1 ( $1.03 )
+Seat 6: aleksmaylo ( $3.75 )
+OlegH1 posts small blind [$0.01]
+aleksmaylo posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+aleksmaylo checks
+** Dealing flop ** [ 6h, Ts, Js ]
+aleksmaylo checks
+OlegH1 bets [$0.02]
+aleksmaylo calls [$0.02]
+** Dealing turn ** [ 4c ]
+aleksmaylo checks
+OlegH1 bets [$0.04]
+aleksmaylo folds
+** Summary **
+OlegH1 did not show his hand
+OlegH1 collected [ $0.08 ]
+
+
+#Game No : 501776867
+***** 888poker Hand History for Game 501776867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 14:27:59
+Table Novara 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: OlegH1 ( $1.07 )
+Seat 6: aleksmaylo ( $3.71 )
+aleksmaylo posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+aleksmaylo raises [$0.05]
+OlegH1 calls [$0.04]
+** Dealing flop ** [ 7h, 4c, 6c ]
+OlegH1 checks
+aleksmaylo checks
+** Dealing turn ** [ Qh ]
+OlegH1 checks
+aleksmaylo bets [$0.10]
+OlegH1 calls [$0.10]
+** Dealing river ** [ 9h ]
+OlegH1 bets [$0.25]
+aleksmaylo calls [$0.25]
+** Summary **
+OlegH1 shows [ 6h, Th ]
+aleksmaylo mucks [ Kh, Qs ]
+OlegH1 collected [ $0.77 ]
+
+

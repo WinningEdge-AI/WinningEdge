@@ -1,0 +1,87 @@
+#Game No : 128595
+***** 888poker Hand History for Game 128595 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 04 2019 12:59:20
+Table Vryheid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: HoseRamirez ( $3.84 )
+Seat 9: Craptor4 ( $1.83 )
+HoseRamirez posts small blind [$0.01]
+Craptor4 posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez raises [$0.05]
+Craptor4 calls [$0.04]
+** Dealing flop ** [ 9c, 2h, 5s ]
+Craptor4 checks
+HoseRamirez checks
+** Dealing turn ** [ Jd ]
+Craptor4 checks
+HoseRamirez checks
+** Dealing river ** [ 4h ]
+Craptor4 checks
+HoseRamirez checks
+** Summary **
+Craptor4 shows [ Tc, 8d ]
+HoseRamirez shows [ Ts, Kh ]
+HoseRamirez collected [ $0.12 ]
+
+
+#Game No : 128600
+***** 888poker Hand History for Game 128600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 04 2019 12:59:33
+Table Vryheid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: HoseRamirez ( $3.90 )
+Seat 9: Craptor4 ( $1.77 )
+Craptor4 posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+Craptor4 folds
+** Summary **
+HoseRamirez collected [ $0.03 ]
+
+
+#Game No : 128614
+***** 888poker Hand History for Game 128614 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 04 2019 13:01:15
+Table Vryheid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: pisi007 ( $0.74 )
+Seat 7: HoseRamirez ( $3.95 )
+HoseRamirez posts small blind [$0.01]
+pisi007 posts big blind [$0.02]
+** Dealing down cards **
+HoseRamirez folds
+** Summary **
+pisi007 collected [ $0.03 ]
+
+
+#Game No : 128615
+***** 888poker Hand History for Game 128615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 04 2019 13:01:21
+Table Vryheid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pisi007 ( $0.75 )
+Seat 7: HoseRamirez ( $3.94 )
+pisi007 posts small blind [$0.01]
+HoseRamirez posts big blind [$0.02]
+** Dealing down cards **
+pisi007 calls [$0.01]
+HoseRamirez checks
+** Dealing flop ** [ 9d, Jc, 2c ]
+HoseRamirez checks
+pisi007 checks
+** Dealing turn ** [ Jd ]
+HoseRamirez checks
+pisi007 checks
+** Dealing river ** [ Ts ]
+HoseRamirez checks
+pisi007 bets [$0.02]
+HoseRamirez folds
+** Summary **
+pisi007 collected [ $0.04 ]
+
+

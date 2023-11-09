@@ -1,0 +1,555 @@
+#Game No : 500638994
+***** 888poker Hand History for Game 500638994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 09:33:01
+Table Pforzheim 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.82 )
+Seat 4: sep888oker ( $1 )
+sep888oker posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+sep888oker folds
+** Summary **
+Nonito03 did not show his hand
+Nonito03 collected [ $0.03 ]
+
+
+#Game No : 500639005
+***** 888poker Hand History for Game 500639005 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 09:33:09
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.83 )
+Seat 4: sep888oker ( $1 )
+Nonito03 posts small blind [$0.01]
+sep888oker posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 folds
+** Summary **
+sep888oker collected [ $0.03 ]
+
+
+#Game No : 500639569
+***** 888poker Hand History for Game 500639569 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 09:43:55
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.57 )
+Seat 6: alexsss111 ( $1.03 )
+Nonito03 posts small blind [$0.01]
+alexsss111 posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 raises [$0.03]
+alexsss111 calls [$0.02]
+** Dealing flop ** [ Td, Js, 9h ]
+alexsss111 checks
+Nonito03 bets [$0.04]
+alexsss111 calls [$0.04]
+** Dealing turn ** [ 7c ]
+alexsss111 checks
+Nonito03 bets [$0.06]
+alexsss111 calls [$0.06]
+** Dealing river ** [ 5d ]
+alexsss111 checks
+Nonito03 bets [$0.10]
+alexsss111 calls [$0.10]
+** Summary **
+Nonito03 shows [ 5s, 8s ]
+alexsss111 mucks [ Kc, Th ]
+Nonito03 collected [ $0.45 ]
+
+
+#Game No : 500639625
+***** 888poker Hand History for Game 500639625 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 09:44:49
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.78 )
+Seat 6: alexsss111 ( $0.79 )
+alexsss111 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+alexsss111 raises [$0.03]
+Nonito03 calls [$0.02]
+** Dealing flop ** [ 9s, 9h, 2s ]
+Nonito03 checks
+alexsss111 checks
+** Dealing turn ** [ Jd ]
+Nonito03 bets [$0.04]
+alexsss111 folds
+** Summary **
+Nonito03 collected [ $0.08 ]
+
+
+#Game No : 500640681
+***** 888poker Hand History for Game 500640681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:04:41
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: alexsss111 ( $0.84 )
+Seat 9: BOSSIAA564 ( $1 )
+alexsss111 posts small blind [$0.01]
+BOSSIAA564 posts big blind [$0.02]
+** Dealing down cards **
+alexsss111 calls [$0.01]
+BOSSIAA564 checks
+** Dealing flop ** [ Ac, Ks, 2c ]
+BOSSIAA564 checks
+alexsss111 bets [$0.02]
+BOSSIAA564 folds
+** Summary **
+alexsss111 did not show his hand
+alexsss111 collected [ $0.04 ]
+
+
+#Game No : 500640695
+***** 888poker Hand History for Game 500640695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:04:56
+Table Pforzheim 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: alexsss111 ( $0.86 )
+Seat 9: BOSSIAA564 ( $1 )
+BOSSIAA564 posts small blind [$0.01]
+alexsss111 posts big blind [$0.02]
+** Dealing down cards **
+BOSSIAA564 folds
+** Summary **
+alexsss111 collected [ $0.03 ]
+
+
+#Game No : 500640708
+***** 888poker Hand History for Game 500640708 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:05:06
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: alexsss111 ( $0.87 )
+Seat 9: BOSSIAA564 ( $1 )
+alexsss111 posts small blind [$0.01]
+BOSSIAA564 posts big blind [$0.02]
+** Dealing down cards **
+alexsss111 calls [$0.01]
+BOSSIAA564 raises [$0.06]
+alexsss111 calls [$0.06]
+** Dealing flop ** [ 5h, 6d, 7c ]
+BOSSIAA564 bets [$0.10]
+alexsss111 calls [$0.10]
+** Dealing turn ** [ Ac ]
+BOSSIAA564 checks
+alexsss111 bets [$0.18]
+BOSSIAA564 calls [$0.18]
+** Dealing river ** [ Js ]
+BOSSIAA564 checks
+alexsss111 checks
+** Summary **
+BOSSIAA564 shows [ 4h, 4c ]
+alexsss111 shows [ Ad, 3s ]
+alexsss111 collected [ $0.68 ]
+
+
+#Game No : 500645905
+***** 888poker Hand History for Game 500645905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:34:25
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ifyabag ( $1.44 )
+Seat 7: NemoNewbie ( $1.22 )
+ifyabag posts small blind [$0.01]
+NemoNewbie posts big blind [$0.02]
+** Dealing down cards **
+ifyabag raises [$0.04]
+NemoNewbie folds
+** Summary **
+ifyabag collected [ $0.04 ]
+
+
+#Game No : 500645924
+***** 888poker Hand History for Game 500645924 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:34:36
+Table Pforzheim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: ifyabag ( $1.46 )
+Seat 7: NemoNewbie ( $1.20 )
+NemoNewbie posts small blind [$0.01]
+ifyabag posts big blind [$0.02]
+** Dealing down cards **
+NemoNewbie raises [$0.03]
+ifyabag raises [$0.14]
+NemoNewbie calls [$0.12]
+** Dealing flop ** [ Jd, 9s, 8h ]
+ifyabag checks
+NemoNewbie checks
+** Dealing turn ** [ Th ]
+ifyabag checks
+NemoNewbie checks
+** Dealing river ** [ Js ]
+ifyabag checks
+NemoNewbie bets [$0.25]
+ifyabag folds
+** Summary **
+NemoNewbie collected [ $0.30 ]
+
+
+#Game No : 500645980
+***** 888poker Hand History for Game 500645980 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:35:40
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ifyabag ( $1.30 )
+Seat 7: NemoNewbie ( $1.34 )
+ifyabag posts small blind [$0.01]
+NemoNewbie posts big blind [$0.02]
+** Dealing down cards **
+ifyabag raises [$0.04]
+NemoNewbie folds
+** Summary **
+ifyabag collected [ $0.04 ]
+
+
+#Game No : 500646261
+***** 888poker Hand History for Game 500646261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:40:11
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ifyabag ( $1.48 )
+Seat 7: NemoNewbie ( $1.06 )
+ifyabag posts small blind [$0.01]
+NemoNewbie posts big blind [$0.02]
+** Dealing down cards **
+ifyabag folds
+** Summary **
+NemoNewbie collected [ $0.03 ]
+
+
+#Game No : 500646267
+***** 888poker Hand History for Game 500646267 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:40:16
+Table Pforzheim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: ifyabag ( $1.47 )
+Seat 7: NemoNewbie ( $1.07 )
+NemoNewbie posts small blind [$0.01]
+ifyabag posts big blind [$0.02]
+** Dealing down cards **
+NemoNewbie folds
+** Summary **
+ifyabag collected [ $0.03 ]
+
+
+#Game No : 500646271
+***** 888poker Hand History for Game 500646271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:40:21
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ifyabag ( $1.48 )
+Seat 7: NemoNewbie ( $1.06 )
+ifyabag posts small blind [$0.01]
+NemoNewbie posts big blind [$0.02]
+** Dealing down cards **
+ifyabag raises [$0.04]
+NemoNewbie folds
+** Summary **
+ifyabag collected [ $0.04 ]
+
+
+#Game No : 500646293
+***** 888poker Hand History for Game 500646293 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:40:43
+Table Pforzheim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: ifyabag ( $1.50 )
+Seat 7: NemoNewbie ( $1.04 )
+NemoNewbie posts small blind [$0.01]
+ifyabag posts big blind [$0.02]
+** Dealing down cards **
+NemoNewbie folds
+** Summary **
+ifyabag collected [ $0.03 ]
+
+
+#Game No : 500646308
+***** 888poker Hand History for Game 500646308 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:40:58
+Table Pforzheim 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ifyabag ( $1.51 )
+Seat 7: NemoNewbie ( $1.03 )
+ifyabag posts small blind [$0.01]
+NemoNewbie posts big blind [$0.02]
+** Dealing down cards **
+ifyabag folds
+** Summary **
+NemoNewbie collected [ $0.03 ]
+
+
+#Game No : 500646327
+***** 888poker Hand History for Game 500646327 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:41:14
+Table Pforzheim 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: ifyabag ( $1.50 )
+Seat 7: NemoNewbie ( $1.04 )
+NemoNewbie posts small blind [$0.01]
+** Dealing down cards **
+ifyabag folds
+** Summary **
+NemoNewbie collected [ $0.01 ]
+
+
+#Game No : 500646513
+***** 888poker Hand History for Game 500646513 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:44:32
+Table Pforzheim 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: dryf24 ( $0.80 )
+Seat 4: Broom800 ( $0.80 )
+dryf24 posts small blind [$0.01]
+Broom800 posts big blind [$0.02]
+** Dealing down cards **
+dryf24 calls [$0.01]
+Broom800 checks
+** Dealing flop ** [ 3h, Kh, 7d ]
+Broom800 checks
+dryf24 bets [$0.02]
+Broom800 calls [$0.02]
+** Dealing turn ** [ Ah ]
+Broom800 checks
+dryf24 bets [$0.02]
+Broom800 folds
+** Summary **
+dryf24 collected [ $0.08 ]
+
+
+#Game No : 500646540
+***** 888poker Hand History for Game 500646540 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:45:00
+Table Pforzheim 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: dryf24 ( $0.84 )
+Seat 4: Broom800 ( $0.76 )
+Broom800 posts small blind [$0.01]
+dryf24 posts big blind [$0.02]
+** Dealing down cards **
+Broom800 calls [$0.01]
+dryf24 checks
+** Dealing flop ** [ 7d, 8h, Qs ]
+dryf24 checks
+Broom800 checks
+** Dealing turn ** [ 6c ]
+dryf24 bets [$0.02]
+Broom800 calls [$0.02]
+** Dealing river ** [ 9h ]
+dryf24 bets [$0.02]
+Broom800 raises [$0.16]
+dryf24 folds
+** Summary **
+Broom800 collected [ $0.12 ]
+
+
+#Game No : 500649473
+***** 888poker Hand History for Game 500649473 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 12:30:35
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: vengavenga8 ( $0.99 )
+Seat 9: Dolgikh84 ( $0.67 )
+vengavenga8 posts small blind [$0.01]
+Dolgikh84 posts big blind [$0.02]
+** Dealing down cards **
+vengavenga8 raises [$0.03]
+Dolgikh84 calls [$0.02]
+** Dealing flop ** [ 8s, Ac, 4d ]
+Dolgikh84 checks
+vengavenga8 bets [$0.04]
+Dolgikh84 folds
+** Summary **
+vengavenga8 collected [ $0.08 ]
+
+
+#Game No : 500649490
+***** 888poker Hand History for Game 500649490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 12:30:54
+Table Pforzheim 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: vengavenga8 ( $1.03 )
+Seat 9: Dolgikh84 ( $0.63 )
+Dolgikh84 posts small blind [$0.01]
+vengavenga8 posts big blind [$0.02]
+** Dealing down cards **
+Dolgikh84 raises [$0.05]
+vengavenga8 folds
+** Summary **
+Dolgikh84 did not show his hand
+Dolgikh84 collected [ $0.04 ]
+
+
+#Game No : 500649498
+***** 888poker Hand History for Game 500649498 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 12:31:02
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: vengavenga8 ( $1.01 )
+Seat 9: Dolgikh84 ( $0.65 )
+vengavenga8 posts small blind [$0.01]
+Dolgikh84 posts big blind [$0.02]
+** Dealing down cards **
+vengavenga8 folds
+** Summary **
+Dolgikh84 did not show his hand
+Dolgikh84 collected [ $0.03 ]
+
+
+#Game No : 500649506
+***** 888poker Hand History for Game 500649506 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 12:31:10
+Table Pforzheim 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: vengavenga8 ( $1 )
+Seat 9: Dolgikh84 ( $0.66 )
+Dolgikh84 posts small blind [$0.01]
+vengavenga8 posts big blind [$0.02]
+** Dealing down cards **
+Dolgikh84 raises [$0.03]
+vengavenga8 calls [$0.02]
+** Dealing flop ** [ Th, 9h, 3h ]
+vengavenga8 checks
+Dolgikh84 checks
+** Dealing turn ** [ Js ]
+vengavenga8 bets [$0.05]
+Dolgikh84 raises [$0.10]
+vengavenga8 calls [$0.05]
+** Dealing river ** [ 4c ]
+vengavenga8 checks
+Dolgikh84 bets [$0.14]
+vengavenga8 calls [$0.14]
+** Summary **
+Dolgikh84 shows [ 8s, Qs ]
+vengavenga8 mucks [ Jd, 7d ]
+Dolgikh84 collected [ $0.53 ]
+
+
+#Game No : 500649541
+***** 888poker Hand History for Game 500649541 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 12:31:42
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: vengavenga8 ( $0.72 )
+Seat 9: Dolgikh84 ( $0.91 )
+vengavenga8 posts small blind [$0.01]
+Dolgikh84 posts big blind [$0.02]
+** Dealing down cards **
+vengavenga8 raises [$0.03]
+Dolgikh84 calls [$0.02]
+** Dealing flop ** [ Kc, 3d, Td ]
+Dolgikh84 checks
+vengavenga8 bets [$0.04]
+Dolgikh84 folds
+** Summary **
+vengavenga8 did not show his hand
+vengavenga8 collected [ $0.08 ]
+
+
+#Game No : 500649554
+***** 888poker Hand History for Game 500649554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 12:31:57
+Table Pforzheim 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: vengavenga8 ( $0.76 )
+Seat 9: Dolgikh84 ( $0.87 )
+Dolgikh84 posts small blind [$0.01]
+vengavenga8 posts big blind [$0.02]
+** Dealing down cards **
+Dolgikh84 raises [$0.05]
+vengavenga8 folds
+** Summary **
+Dolgikh84 did not show his hand
+Dolgikh84 collected [ $0.04 ]
+
+
+#Game No : 500649566
+***** 888poker Hand History for Game 500649566 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 12:32:07
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: vengavenga8 ( $0.74 )
+Seat 9: Dolgikh84 ( $0.89 )
+vengavenga8 posts small blind [$0.01]
+Dolgikh84 posts big blind [$0.02]
+** Dealing down cards **
+vengavenga8 folds
+** Summary **
+Dolgikh84 did not show his hand
+Dolgikh84 collected [ $0.03 ]
+
+
+#Game No : 500649577
+***** 888poker Hand History for Game 500649577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 12:32:13
+Table Pforzheim 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: vengavenga8 ( $0.73 )
+Seat 9: Dolgikh84 ( $0.90 )
+Dolgikh84 posts small blind [$0.01]
+vengavenga8 posts big blind [$0.02]
+** Dealing down cards **
+Dolgikh84 raises [$0.03]
+vengavenga8 calls [$0.02]
+** Dealing flop ** [ 9d, 9s, 7c ]
+vengavenga8 checks
+Dolgikh84 bets [$0.04]
+vengavenga8 raises [$0.14]
+Dolgikh84 folds
+** Summary **
+vengavenga8 collected [ $0.15 ]
+
+
+#Game No : 500649603
+***** 888poker Hand History for Game 500649603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 12:32:33
+Table Pforzheim 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: vengavenga8 ( $0.80 )
+Seat 9: Dolgikh84 ( $0.82 )
+vengavenga8 posts small blind [$0.01]
+Dolgikh84 posts big blind [$0.02]
+** Dealing down cards **
+vengavenga8 raises [$0.03]
+Dolgikh84 calls [$0.02]
+** Dealing flop ** [ 6c, Ad, 8c ]
+Dolgikh84 checks
+vengavenga8 bets [$0.02]
+Dolgikh84 calls [$0.02]
+** Dealing turn ** [ Kd ]
+Dolgikh84 checks
+vengavenga8 bets [$0.06]
+Dolgikh84 folds
+** Summary **
+vengavenga8 collected [ $0.12 ]
+
+

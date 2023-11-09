@@ -1,0 +1,117 @@
+#Game No : 605712891
+***** 888poker Hand History for Game 605712891 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 04:18:31
+Table Orleans 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: koupin ( $2.01 )
+Seat 5: GYAMEPRO ( $2 )
+koupin posts small blind [$0.01]
+GYAMEPRO posts big blind [$0.02]
+** Dealing down cards **
+koupin raises [$0.03]
+GYAMEPRO raises [$0.04]
+koupin calls [$0.02]
+** Dealing flop ** [ 9s, Ah, 5s ]
+GYAMEPRO bets [$0.02]
+koupin calls [$0.02]
+** Dealing turn ** [ 2s ]
+GYAMEPRO bets [$0.02]
+koupin calls [$0.02]
+** Dealing river ** [ 8c ]
+GYAMEPRO bets [$0.02]
+koupin calls [$0.02]
+** Summary **
+GYAMEPRO shows [ Ac, Kh ]
+koupin mucks [ Qs, Ad ]
+GYAMEPRO collected [ $0.23 ]
+
+
+#Game No : 605712910
+***** 888poker Hand History for Game 605712910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 04:18:44
+Table Orleans 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: koupin ( $1.89 )
+Seat 5: GYAMEPRO ( $2.11 )
+GYAMEPRO posts small blind [$0.01]
+koupin posts big blind [$0.02]
+** Dealing down cards **
+GYAMEPRO calls [$0.01]
+koupin checks
+** Dealing flop ** [ 8c, Th, 5s ]
+koupin checks
+GYAMEPRO checks
+** Dealing turn ** [ 6s ]
+koupin checks
+GYAMEPRO checks
+** Dealing river ** [ 4d ]
+koupin checks
+GYAMEPRO checks
+** Summary **
+koupin shows [ 3d, Jh ]
+GYAMEPRO shows [ 5c, 3h ]
+GYAMEPRO collected [ $0.04 ]
+
+
+#Game No : 605713458
+***** 888poker Hand History for Game 605713458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 04:37:06
+Table Orleans 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: koupin ( $1.97 )
+Seat 5: DRUS994 ( $2.11 )
+DRUS994 posts small blind [$0.01]
+koupin posts big blind [$0.02]
+** Dealing down cards **
+DRUS994 folds
+** Summary **
+koupin collected [ $0.03 ]
+
+
+#Game No : 605713542
+***** 888poker Hand History for Game 605713542 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 04:39:53
+Table Orleans 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: SLion9 ( $2 )
+Seat 6: adekonline30 ( $1.12 )
+adekonline30 posts small blind [$0.01]
+SLion9 posts big blind [$0.02]
+** Dealing down cards **
+adekonline30 calls [$0.01]
+SLion9 checks
+** Dealing flop ** [ Th, Qc, Tc ]
+SLion9 checks
+adekonline30 checks
+** Dealing turn ** [ 3d ]
+SLion9 checks
+adekonline30 bets [$0.02]
+SLion9 calls [$0.02]
+** Dealing river ** [ 9d ]
+SLion9 checks
+adekonline30 bets [$0.10]
+SLion9 folds
+** Summary **
+adekonline30 collected [ $0.08 ]
+
+
+#Game No : 605713773
+***** 888poker Hand History for Game 605713773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 07 2018 04:47:47
+Table Orleans 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: adekonline30 ( $1.68 )
+Seat 9: kolmaa ( $1.23 )
+adekonline30 posts small blind [$0.01]
+kolmaa posts big blind [$0.02]
+** Dealing down cards **
+adekonline30 folds
+** Summary **
+kolmaa collected [ $0.03 ]
+
+

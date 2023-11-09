@@ -1,0 +1,29 @@
+#Game No : 627850071
+***** 888poker Hand History for Game 627850071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 11 2019 15:02:57
+Table Podolsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: chumbacket ( $2.24 )
+Seat 6: Renatocost1 ( $2.32 )
+Renatocost1 posts small blind [$0.01]
+chumbacket posts big blind [$0.02]
+** Dealing down cards **
+Renatocost1 calls [$0.01]
+chumbacket checks
+** Dealing flop ** [ Js, 6s, Jc ]
+chumbacket checks
+Renatocost1 checks
+** Dealing turn ** [ 7d ]
+chumbacket checks
+Renatocost1 checks
+** Dealing river ** [ 3c ]
+chumbacket checks
+Renatocost1 checks
+** Summary **
+chumbacket shows [ 2s, Tc ]
+Renatocost1 shows [ 5s, Td ]
+Renatocost1 collected [ $0.02 ]
+chumbacket collected [ $0.02 ]
+
+

@@ -1,0 +1,72 @@
+#Game No : 511917721
+***** 888poker Hand History for Game 511917721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2019 02:28:21
+Table Ivanovo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: ya_ladyshki ( $2.50 )
+Seat 7: VALERA45A ( $1.07 )
+VALERA45A posts small blind [$0.01]
+ya_ladyshki posts big blind [$0.02]
+** Dealing down cards **
+VALERA45A raises [$0.05]
+ya_ladyshki folds
+** Summary **
+VALERA45A collected [ $0.04 ]
+
+
+#Game No : 511917779
+***** 888poker Hand History for Game 511917779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2019 02:30:51
+Table Ivanovo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: greedpiccolo ( $0.83 )
+Seat 6: obeypls ( $0.80 )
+obeypls posts small blind [$0.01]
+greedpiccolo posts big blind [$0.02]
+** Dealing down cards **
+obeypls calls [$0.01]
+greedpiccolo checks
+** Dealing flop ** [ 7c, Kd, Ts ]
+greedpiccolo checks
+obeypls checks
+** Dealing turn ** [ 6h ]
+greedpiccolo checks
+obeypls checks
+** Dealing river ** [ 2h ]
+greedpiccolo bets [$0.02]
+obeypls calls [$0.02]
+** Summary **
+greedpiccolo shows [ Qs, 2c ]
+obeypls shows [ 5c, 7d ]
+obeypls collected [ $0.08 ]
+
+
+#Game No : 511919957
+***** 888poker Hand History for Game 511919957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2019 03:52:16
+Table Ivanovo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: agma23 ( $0.68 )
+Seat 7: viktor0377 ( $0.87 )
+viktor0377 posts small blind [$0.01]
+agma23 posts big blind [$0.02]
+** Dealing down cards **
+viktor0377 calls [$0.01]
+agma23 checks
+** Dealing flop ** [ 2d, 7h, 6h ]
+agma23 checks
+viktor0377 checks
+** Dealing turn ** [ 6d ]
+agma23 checks
+viktor0377 checks
+** Dealing river ** [ 4s ]
+agma23 checks
+viktor0377 bets [$0.06]
+agma23 folds
+** Summary **
+viktor0377 collected [ $0.04 ]
+
+

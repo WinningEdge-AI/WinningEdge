@@ -1,0 +1,159 @@
+#Game No : 1262269695
+***** 888poker Hand History for Game 1262269695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 05:25:45
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: putanica ( $1.26 )
+Seat 4: richbranson ( $2.37 )
+putanica posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+putanica folds
+** Summary **
+richbranson collected [ $0.03 ]
+
+
+#Game No : 1262269709
+***** 888poker Hand History for Game 1262269709 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 05:25:50
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: putanica ( $1.25 )
+Seat 4: richbranson ( $2.38 )
+richbranson posts small blind [$0.01]
+** Dealing down cards **
+putanica folds
+** Summary **
+richbranson collected [ $0.01 ]
+
+
+#Game No : 1262271537
+***** 888poker Hand History for Game 1262271537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 05:36:54
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $2.57 )
+Seat 9: AndreyStarts ( $0.55 )
+richbranson posts small blind [$0.01]
+AndreyStarts posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+AndreyStarts calls [$0.04]
+** Dealing flop ** [ 8d, 4d, 7d ]
+AndreyStarts checks
+richbranson bets [$0.08]
+AndreyStarts calls [$0.08]
+** Dealing turn ** [ 2d ]
+AndreyStarts checks
+richbranson checks
+** Dealing river ** [ Js ]
+AndreyStarts bets [$0.02]
+richbranson calls [$0.02]
+** Summary **
+AndreyStarts shows [ Qc, Ks ]
+richbranson shows [ 8c, 7c ]
+richbranson collected [ $0.30 ]
+
+
+#Game No : 1262271650
+***** 888poker Hand History for Game 1262271650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 05:37:22
+Table Baku 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: richbranson ( $2.71 )
+Seat 9: AndreyStarts ( $0.39 )
+AndreyStarts posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+AndreyStarts folds
+** Summary **
+richbranson collected [ $0.03 ]
+
+
+#Game No : 1262271674
+***** 888poker Hand History for Game 1262271674 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 05:37:29
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: richbranson ( $2.72 )
+Seat 9: AndreyStarts ( $0.38 )
+richbranson posts small blind [$0.01]
+AndreyStarts posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.05]
+AndreyStarts folds
+** Summary **
+richbranson collected [ $0.04 ]
+
+
+#Game No : 1262272022
+***** 888poker Hand History for Game 1262272022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 05:39:27
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: rino114 ( $1 )
+Seat 4: richbranson ( $2.74 )
+richbranson posts small blind [$0.01]
+rino114 posts big blind [$0.02]
+** Dealing down cards **
+richbranson folds
+** Summary **
+rino114 did not show his hand
+rino114 collected [ $0.03 ]
+
+
+#Game No : 1262272045
+***** 888poker Hand History for Game 1262272045 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 05:39:34
+Table Baku 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: rino114 ( $1.01 )
+Seat 4: richbranson ( $2.73 )
+rino114 posts small blind [$0.01]
+richbranson posts big blind [$0.02]
+** Dealing down cards **
+rino114 calls [$0.01]
+richbranson checks
+** Dealing flop ** [ 5d, Tc, 7s ]
+richbranson bets [$0.02]
+rino114 calls [$0.02]
+** Dealing turn ** [ 9c ]
+richbranson bets [$0.02]
+rino114 calls [$0.02]
+** Dealing river ** [ Ts ]
+richbranson bets [$0.02]
+rino114 calls [$0.02]
+** Summary **
+richbranson shows [ 7c, Kh ]
+rino114 mucks [ 8h, 7d ]
+richbranson collected [ $0.15 ]
+
+
+#Game No : 1262272161
+***** 888poker Hand History for Game 1262272161 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 04 2019 05:40:19
+Table Baku 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: rino114 ( $0.93 )
+Seat 4: richbranson ( $2.80 )
+richbranson posts small blind [$0.01]
+rino114 posts big blind [$0.02]
+** Dealing down cards **
+richbranson raises [$0.03]
+rino114 calls [$0.02]
+** Dealing flop ** [ Td, 5h, 8h ]
+rino114 checks
+richbranson bets [$0.02]
+rino114 folds
+** Summary **
+richbranson collected [ $0.08 ]
+
+

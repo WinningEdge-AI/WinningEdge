@@ -1,0 +1,92 @@
+#Game No : 458006864
+***** 888poker Hand History for Game 458006864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 11 2018 15:47:29
+Table Dourados 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Fabric0x ( $6.31 )
+Seat 10: LuckyManNr1 ( $0.50 )
+Fabric0x posts small blind [$0.01]
+LuckyManNr1 posts big blind [$0.02]
+** Dealing down cards **
+Fabric0x raises [$0.05]
+LuckyManNr1 calls [$0.04]
+** Dealing flop ** [ 6c, 4s, 2c ]
+LuckyManNr1 bets [$0.06]
+Fabric0x calls [$0.06]
+** Dealing turn ** [ 6s ]
+LuckyManNr1 bets [$0.10]
+Fabric0x folds
+** Summary **
+LuckyManNr1 collected [ $0.23 ]
+
+
+#Game No : 458006880
+***** 888poker Hand History for Game 458006880 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 11 2018 15:48:03
+Table Dourados 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Fabric0x ( $6.19 )
+Seat 10: LuckyManNr1 ( $0.61 )
+LuckyManNr1 posts small blind [$0.01]
+Fabric0x posts big blind [$0.02]
+** Dealing down cards **
+LuckyManNr1 raises [$0.05]
+Fabric0x calls [$0.04]
+** Dealing flop ** [ 4c, 8s, 8h ]
+Fabric0x checks
+LuckyManNr1 bets [$0.10]
+Fabric0x calls [$0.10]
+** Dealing turn ** [ 3c ]
+Fabric0x checks
+LuckyManNr1 bets [$0.10]
+Fabric0x folds
+** Summary **
+LuckyManNr1 collected [ $0.30 ]
+
+
+#Game No : 458006899
+***** 888poker Hand History for Game 458006899 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 11 2018 15:48:35
+Table Dourados 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: Fabric0x ( $6.03 )
+Seat 10: LuckyManNr1 ( $0.75 )
+Fabric0x posts small blind [$0.01]
+LuckyManNr1 posts big blind [$0.02]
+** Dealing down cards **
+Fabric0x folds
+** Summary **
+LuckyManNr1 collected [ $0.03 ]
+
+
+#Game No : 458006903
+***** 888poker Hand History for Game 458006903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 11 2018 15:48:42
+Table Dourados 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: Fabric0x ( $6.02 )
+Seat 10: LuckyManNr1 ( $0.76 )
+LuckyManNr1 posts small blind [$0.01]
+Fabric0x posts big blind [$0.02]
+** Dealing down cards **
+LuckyManNr1 calls [$0.01]
+Fabric0x checks
+** Dealing flop ** [ 3c, 2h, 5s ]
+Fabric0x bets [$0.02]
+LuckyManNr1 calls [$0.02]
+** Dealing turn ** [ Tc ]
+Fabric0x bets [$0.02]
+LuckyManNr1 calls [$0.02]
+** Dealing river ** [ Ks ]
+Fabric0x bets [$0.02]
+LuckyManNr1 calls [$0.02]
+** Summary **
+Fabric0x shows [ 4h, 3s ]
+LuckyManNr1 shows [ 5d, 8h ]
+LuckyManNr1 collected [ $0.15 ]
+
+

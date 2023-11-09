@@ -1,0 +1,82 @@
+#Game No : 501729933
+***** 888poker Hand History for Game 501729933 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 18:27:48
+Table Santiago 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: MLPzER ( $1.95 )
+Seat 7: Youwontcame1 ( $3.75 )
+Youwontcame1 posts small blind [$0.01]
+MLPzER posts big blind [$0.02]
+** Dealing down cards **
+Youwontcame1 folds
+** Summary **
+MLPzER collected [ $0.03 ]
+
+
+#Game No : 501729934
+***** 888poker Hand History for Game 501729934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 18:27:53
+Table Santiago 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MLPzER ( $1.96 )
+Seat 7: Youwontcame1 ( $3.74 )
+MLPzER posts small blind [$0.01]
+Youwontcame1 posts big blind [$0.02]
+** Dealing down cards **
+MLPzER calls [$0.01]
+Youwontcame1 raises [$0.04]
+MLPzER calls [$0.04]
+** Dealing flop ** [ 6d, 8s, Jc ]
+Youwontcame1 checks
+MLPzER checks
+** Dealing turn ** [ Kc ]
+Youwontcame1 checks
+MLPzER checks
+** Dealing river ** [ Qd ]
+Youwontcame1 checks
+MLPzER checks
+** Summary **
+Youwontcame1 shows [ 5h, 5d ]
+MLPzER mucks [ As, 4h ]
+Youwontcame1 collected [ $0.12 ]
+
+
+#Game No : 501730466
+***** 888poker Hand History for Game 501730466 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 08 2018 18:51:17
+Table Santiago 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: MLPzER ( $1.65 )
+Seat 6: AndreyKozyr1 ( $0.91 )
+AndreyKozyr1 posts small blind [$0.01]
+MLPzER posts big blind [$0.02]
+** Dealing down cards **
+AndreyKozyr1 calls [$0.01]
+MLPzER checks
+** Dealing flop ** [ Kh, Kd, Qh ]
+MLPzER checks
+AndreyKozyr1 bets [$0.12]
+MLPzER folds
+** Summary **
+AndreyKozyr1 did not show his hand
+AndreyKozyr1 collected [ $0.04 ]
+
+
+#Game No : 501772627
+***** 888poker Hand History for Game 501772627 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 13:07:20
+Table Santiago 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: lucky_crab ( $1.13 )
+Seat 7: Kiesinger ( $0.87 )
+lucky_crab posts small blind [$0.01]
+** Dealing down cards **
+Kiesinger folds
+** Summary **
+lucky_crab collected [ $0.01 ]
+
+

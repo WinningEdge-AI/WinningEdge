@@ -1,0 +1,137 @@
+#Game No : 504175277
+***** 888poker Hand History for Game 504175277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 06 2018 17:38:22
+Table Boston 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: angeljesusv1 ( $2.24 )
+Seat 7: M1schk4 ( $2 )
+angeljesusv1 posts small blind [$0.01]
+M1schk4 posts big blind [$0.02]
+** Dealing down cards **
+angeljesusv1 calls [$0.01]
+M1schk4 checks
+** Dealing flop ** [ 8d, Qs, Js ]
+M1schk4 checks
+angeljesusv1 bets [$0.02]
+M1schk4 calls [$0.02]
+** Dealing turn ** [ 3s ]
+M1schk4 checks
+angeljesusv1 checks
+** Dealing river ** [ 8h ]
+M1schk4 checks
+angeljesusv1 checks
+** Summary **
+M1schk4 shows [ 6h, Qh ]
+angeljesusv1 mucks [ 4h, 4s ]
+M1schk4 collected [ $0.08 ]
+
+
+#Game No : 499099146
+***** 888poker Hand History for Game 499099146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 13:48:28
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Pechora_Seva ( $0.89 )
+Seat 9: zeber_14 ( $1.07 )
+zeber_14 posts small blind [$0.01]
+Pechora_Seva posts big blind [$0.02]
+** Dealing down cards **
+zeber_14 calls [$0.01]
+Pechora_Seva checks
+** Dealing flop ** [ 7c, Kh, 6d ]
+Pechora_Seva checks
+zeber_14 checks
+** Dealing turn ** [ Jh ]
+Pechora_Seva checks
+zeber_14 checks
+** Dealing river ** [ Js ]
+Pechora_Seva checks
+zeber_14 checks
+** Summary **
+Pechora_Seva shows [ Qc, 5s ]
+zeber_14 mucks [ 9c, 4h ]
+Pechora_Seva collected [ $0.04 ]
+
+
+#Game No : 499099199
+***** 888poker Hand History for Game 499099199 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 13:49:53
+Table Boston 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: c.y.s ( $0.80 )
+Seat 9: A_Machado ( $0.80 )
+A_Machado posts small blind [$0.01]
+c.y.s posts big blind [$0.02]
+** Dealing down cards **
+A_Machado raises [$0.03]
+c.y.s calls [$0.02]
+** Dealing flop ** [ 4s, 9c, 5h ]
+c.y.s checks
+A_Machado bets [$0.04]
+c.y.s calls [$0.04]
+** Dealing turn ** [ Jh ]
+c.y.s checks
+A_Machado bets [$0.16]
+c.y.s folds
+** Summary **
+A_Machado collected [ $0.15 ]
+
+
+#Game No : 499099218
+***** 888poker Hand History for Game 499099218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 13:50:29
+Table Boston 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: c.y.s ( $0.72 )
+Seat 9: A_Machado ( $0.87 )
+c.y.s posts small blind [$0.01]
+A_Machado posts big blind [$0.02]
+** Dealing down cards **
+c.y.s calls [$0.01]
+A_Machado checks
+** Dealing flop ** [ 7d, Qd, 5h ]
+A_Machado checks
+c.y.s bets [$0.02]
+A_Machado calls [$0.02]
+** Dealing turn ** [ 8c ]
+A_Machado checks
+c.y.s bets [$0.02]
+A_Machado raises [$0.11]
+c.y.s folds
+** Summary **
+A_Machado collected [ $0.12 ]
+
+
+#Game No : 499101815
+***** 888poker Hand History for Game 499101815 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 06 2018 15:34:18
+Table Boston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: arniesscamp ( $0.83 )
+Seat 9: gelattino67 ( $1.82 )
+arniesscamp posts small blind [$0.01]
+gelattino67 posts big blind [$0.02]
+** Dealing down cards **
+arniesscamp calls [$0.01]
+gelattino67 checks
+** Dealing flop ** [ 2h, 3d, Tc ]
+gelattino67 checks
+arniesscamp bets [$0.04]
+gelattino67 calls [$0.04]
+** Dealing turn ** [ Ks ]
+gelattino67 checks
+arniesscamp checks
+** Dealing river ** [ 3s ]
+gelattino67 checks
+arniesscamp checks
+** Summary **
+gelattino67 shows [ 4h, 2d ]
+arniesscamp shows [ 7s, Ts ]
+arniesscamp collected [ $0.12 ]
+
+

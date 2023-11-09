@@ -1,0 +1,69 @@
+#Game No : 1201629291
+***** 888poker Hand History for Game 1201629291 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 07:40:15
+Table Stockholm 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Armele ( $0.76 )
+Seat 5: Fl8man ( $2.04 )
+Fl8man posts small blind [$0.01]
+Armele posts big blind [$0.02]
+** Dealing down cards **
+Fl8man raises [$0.03]
+Armele calls [$0.02]
+** Dealing flop ** [ 5h, 7c, 4h ]
+Armele checks
+Fl8man bets [$0.04]
+Armele folds
+** Summary **
+Fl8man collected [ $0.08 ]
+
+
+#Game No : 1201629360
+***** 888poker Hand History for Game 1201629360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 07:40:18
+Table Stockholm 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Armele ( $0.72 )
+Seat 5: Fl8man ( $2.08 )
+Armele posts small blind [$0.01]
+Fl8man posts big blind [$0.02]
+** Dealing down cards **
+Armele calls [$0.01]
+Fl8man checks
+** Dealing flop ** [ 5h, Ad, 5c ]
+Fl8man bets [$0.02]
+Armele folds
+** Summary **
+Fl8man collected [ $0.04 ]
+
+
+#Game No : 1201629408
+***** 888poker Hand History for Game 1201629408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 07:40:32
+Table Stockholm 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Armele ( $0.70 )
+Seat 5: Fl8man ( $2.10 )
+Fl8man posts small blind [$0.01]
+Armele posts big blind [$0.02]
+** Dealing down cards **
+Fl8man raises [$0.05]
+Armele calls [$0.04]
+** Dealing flop ** [ 2s, 8d, Ts ]
+Armele checks
+Fl8man checks
+** Dealing turn ** [ Qh ]
+Armele checks
+Fl8man checks
+** Dealing river ** [ 3h ]
+Armele checks
+Fl8man checks
+** Summary **
+Armele shows [ 3d, Kd ]
+Fl8man mucks [ As, Kh ]
+Armele collected [ $0.12 ]
+
+

@@ -1,0 +1,85 @@
+#Game No : 461433038
+***** 888poker Hand History for Game 461433038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 02:44:09
+Table Athens 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: maks_886 ( $1.97 )
+Seat 5: Detlef7able ( $2.03 )
+Detlef7able posts small blind [$0.01]
+maks_886 posts big blind [$0.02]
+** Dealing down cards **
+Detlef7able raises [$0.03]
+maks_886 raises [$0.06]
+Detlef7able calls [$0.04]
+** Dealing flop ** [ 3h, 8d, 2s ]
+maks_886 checks
+Detlef7able bets [$0.08]
+maks_886 calls [$0.08]
+** Dealing turn ** [ 6s ]
+maks_886 checks
+Detlef7able checks
+** Dealing river ** [ 7d ]
+maks_886 bets [$0.32]
+Detlef7able raises [$1.87]
+maks_886 folds
+** Summary **
+Detlef7able collected [ $0.90 ]
+
+
+#Game No : 461433068
+***** 888poker Hand History for Game 461433068 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 02:45:03
+Table Athens 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: maks_886 ( $2 )
+Seat 5: Detlef7able ( $3.66 )
+Detlef7able posts small blind [$0.01]
+maks_886 posts big blind [$0.02]
+** Dealing down cards **
+Detlef7able raises [$0.04]
+maks_886 calls [$0.03]
+** Dealing flop ** [ 3c, 8h, Kc ]
+maks_886 checks
+Detlef7able checks
+** Dealing turn ** [ Js ]
+maks_886 checks
+Detlef7able checks
+** Dealing river ** [ 7c ]
+maks_886 checks
+Detlef7able checks
+** Summary **
+maks_886 shows [ 5h, Ac ]
+Detlef7able shows [ Ah, Th ]
+Detlef7able collected [ $0.10 ]
+
+
+#Game No : 461433096
+***** 888poker Hand History for Game 461433096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 02:46:02
+Table Athens 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Detlef7able ( $3.68 )
+Seat 7: l7JlyToH ( $0.80 )
+Detlef7able posts small blind [$0.01]
+l7JlyToH posts big blind [$0.02]
+** Dealing down cards **
+Detlef7able raises [$0.03]
+l7JlyToH calls [$0.02]
+** Dealing flop ** [ 8h, 3c, Jc ]
+l7JlyToH checks
+Detlef7able checks
+** Dealing turn ** [ Th ]
+l7JlyToH checks
+Detlef7able checks
+** Dealing river ** [ Jd ]
+l7JlyToH checks
+Detlef7able checks
+** Summary **
+l7JlyToH shows [ 6c, Qs ]
+Detlef7able shows [ Ah, 5h ]
+Detlef7able collected [ $0.08 ]
+
+

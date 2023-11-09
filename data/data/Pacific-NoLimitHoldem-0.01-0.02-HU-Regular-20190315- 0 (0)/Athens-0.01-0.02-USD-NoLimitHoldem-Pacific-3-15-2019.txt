@@ -1,0 +1,28 @@
+#Game No : 515056484
+***** 888poker Hand History for Game 515056484 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 03 2019 07:34:01
+Table Athens 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Assiris74 ( $0.74 )
+Seat 9: parovarkabd ( $1.27 )
+Assiris74 posts small blind [$0.01]
+parovarkabd posts big blind [$0.02]
+** Dealing down cards **
+Assiris74 calls [$0.01]
+parovarkabd checks
+** Dealing flop ** [ Kh, Qc, 6h ]
+parovarkabd checks
+Assiris74 checks
+** Dealing turn ** [ Js ]
+parovarkabd checks
+Assiris74 checks
+** Dealing river ** [ 9d ]
+parovarkabd checks
+Assiris74 checks
+** Summary **
+parovarkabd shows [ 9h, Qs ]
+Assiris74 mucks [ 3h, 9c ]
+parovarkabd collected [ $0.04 ]
+
+

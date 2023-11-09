@@ -1,0 +1,253 @@
+#Game No : 1322889480
+***** 888poker Hand History for Game 1322889480 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:01:31
+Table Elbasan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.43 )
+Seat 6: GAverof ( $2.49 )
+GAverof posts small blind [$0.01]
+khasherde8 posts big blind [$0.02]
+** Dealing down cards **
+GAverof folds
+** Summary **
+khasherde8 collected [ $0.03 ]
+
+
+#Game No : 1322889492
+***** 888poker Hand History for Game 1322889492 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:01:38
+Table Elbasan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.44 )
+Seat 6: GAverof ( $2.48 )
+khasherde8 posts small blind [$0.01]
+GAverof posts big blind [$0.02]
+** Dealing down cards **
+khasherde8 raises [$0.03]
+GAverof calls [$0.02]
+** Dealing flop ** [ 3h, 9s, Qs ]
+GAverof checks
+khasherde8 bets [$0.04]
+GAverof calls [$0.04]
+** Dealing turn ** [ Qc ]
+GAverof checks
+khasherde8 checks
+** Dealing river ** [ Th ]
+GAverof checks
+khasherde8 bets [$0.12]
+GAverof folds
+** Summary **
+khasherde8 did not show his hand
+khasherde8 collected [ $0.15 ]
+
+
+#Game No : 1322889576
+***** 888poker Hand History for Game 1322889576 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:02:29
+Table Elbasan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.51 )
+Seat 6: GAverof ( $2.40 )
+GAverof posts small blind [$0.01]
+khasherde8 posts big blind [$0.02]
+** Dealing down cards **
+GAverof calls [$0.01]
+khasherde8 raises [$0.02]
+GAverof raises [$0.04]
+khasherde8 calls [$0.02]
+** Dealing flop ** [ 6d, 5c, As ]
+khasherde8 checks
+GAverof checks
+** Dealing turn ** [ 5h ]
+khasherde8 bets [$0.02]
+GAverof raises [$0.04]
+khasherde8 calls [$0.02]
+** Dealing river ** [ 9d ]
+khasherde8 checks
+GAverof bets [$0.13]
+khasherde8 calls [$0.13]
+** Summary **
+GAverof shows [ Ah, Js ]
+khasherde8 shows [ Ad, Jh ]
+GAverof collected [ $0.22 ]
+khasherde8 collected [ $0.22 ]
+
+
+#Game No : 1322889646
+***** 888poker Hand History for Game 1322889646 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:03:08
+Table Elbasan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.50 )
+Seat 6: GAverof ( $2.39 )
+khasherde8 posts small blind [$0.01]
+GAverof posts big blind [$0.02]
+** Dealing down cards **
+khasherde8 calls [$0.01]
+GAverof checks
+** Dealing flop ** [ Jh, 9s, Tc ]
+GAverof checks
+khasherde8 checks
+** Dealing turn ** [ 9d ]
+GAverof checks
+khasherde8 checks
+** Dealing river ** [ 6h ]
+GAverof checks
+khasherde8 checks
+** Summary **
+GAverof shows [ 2c, As ]
+khasherde8 mucks [ 4h, Kc ]
+GAverof collected [ $0.04 ]
+
+
+#Game No : 1322889699
+***** 888poker Hand History for Game 1322889699 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:03:37
+Table Elbasan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.48 )
+Seat 6: GAverof ( $2.41 )
+GAverof posts small blind [$0.01]
+khasherde8 posts big blind [$0.02]
+** Dealing down cards **
+GAverof calls [$0.01]
+khasherde8 checks
+** Dealing flop ** [ 8d, Tc, 5h ]
+khasherde8 bets [$0.02]
+GAverof calls [$0.02]
+** Dealing turn ** [ 6h ]
+khasherde8 bets [$0.02]
+GAverof calls [$0.02]
+** Dealing river ** [ 9h ]
+khasherde8 bets [$0.02]
+GAverof calls [$0.02]
+** Summary **
+khasherde8 shows [ 8h, 7c ]
+GAverof mucks [ 5d, Kd ]
+khasherde8 collected [ $0.15 ]
+
+
+#Game No : 1322889754
+***** 888poker Hand History for Game 1322889754 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:04:06
+Table Elbasan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.55 )
+Seat 6: GAverof ( $2.33 )
+khasherde8 posts small blind [$0.01]
+GAverof posts big blind [$0.02]
+** Dealing down cards **
+khasherde8 calls [$0.01]
+GAverof checks
+** Dealing flop ** [ 9d, 3c, Qh ]
+GAverof checks
+khasherde8 checks
+** Dealing turn ** [ 3s ]
+GAverof checks
+khasherde8 checks
+** Dealing river ** [ Kc ]
+GAverof checks
+khasherde8 bets [$0.04]
+GAverof folds
+** Summary **
+khasherde8 did not show his hand
+khasherde8 collected [ $0.04 ]
+
+
+#Game No : 1322889820
+***** 888poker Hand History for Game 1322889820 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:04:42
+Table Elbasan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.57 )
+Seat 6: GAverof ( $2.31 )
+GAverof posts small blind [$0.01]
+khasherde8 posts big blind [$0.02]
+** Dealing down cards **
+GAverof calls [$0.01]
+khasherde8 checks
+** Dealing flop ** [ As, Js, 4h ]
+khasherde8 checks
+GAverof checks
+** Dealing turn ** [ 7s ]
+khasherde8 checks
+GAverof checks
+** Dealing river ** [ Ac ]
+khasherde8 checks
+GAverof checks
+** Summary **
+khasherde8 shows [ 7d, 9s ]
+GAverof mucks [ 3h, Qd ]
+khasherde8 collected [ $0.04 ]
+
+
+#Game No : 1322889905
+***** 888poker Hand History for Game 1322889905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:05:27
+Table Elbasan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.59 )
+Seat 6: GAverof ( $2.29 )
+khasherde8 posts small blind [$0.01]
+GAverof posts big blind [$0.02]
+** Dealing down cards **
+khasherde8 raises [$0.03]
+GAverof calls [$0.02]
+** Dealing flop ** [ 9d, 9h, Kc ]
+GAverof checks
+khasherde8 checks
+** Dealing turn ** [ 8d ]
+GAverof checks
+khasherde8 checks
+** Dealing river ** [ 7h ]
+GAverof checks
+khasherde8 checks
+** Summary **
+GAverof shows [ Qs, Ts ]
+khasherde8 shows [ 5s, As ]
+khasherde8 collected [ $0.08 ]
+
+
+#Game No : 1322889976
+***** 888poker Hand History for Game 1322889976 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:06:04
+Table Elbasan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.63 )
+Seat 6: GAverof ( $2.25 )
+GAverof posts small blind [$0.01]
+khasherde8 posts big blind [$0.02]
+** Dealing down cards **
+GAverof raises [$0.05]
+khasherde8 folds
+** Summary **
+GAverof did not show his hand
+GAverof collected [ $0.04 ]
+
+
+#Game No : 1322889999
+***** 888poker Hand History for Game 1322889999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 01 2020 23:06:14
+Table Elbasan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: khasherde8 ( $5.61 )
+Seat 6: GAverof ( $2.27 )
+khasherde8 posts small blind [$0.01]
+GAverof posts big blind [$0.02]
+** Dealing down cards **
+khasherde8 folds
+** Summary **
+GAverof did not show his hand
+GAverof collected [ $0.03 ]
+
+

@@ -1,0 +1,66 @@
+#Game No : 503179304
+***** 888poker Hand History for Game 503179304 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 05:32:18
+Table Riyadh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: MCP1316 ( $1.41 )
+Seat 9: melugi ( $1.24 )
+melugi posts small blind [$0.01]
+MCP1316 posts big blind [$0.02]
+** Dealing down cards **
+melugi folds
+** Summary **
+MCP1316 collected [ $0.03 ]
+
+
+#Game No : 503179308
+***** 888poker Hand History for Game 503179308 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 05:32:23
+Table Riyadh 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: MCP1316 ( $1.42 )
+Seat 9: melugi ( $1.23 )
+MCP1316 posts small blind [$0.01]
+melugi posts big blind [$0.02]
+** Dealing down cards **
+MCP1316 raises [$0.05]
+melugi raises [$0.12]
+MCP1316 calls [$0.08]
+** Dealing flop ** [ Qs, 4h, Ad ]
+melugi bets [$0.14]
+MCP1316 folds
+** Summary **
+melugi collected [ $0.27 ]
+
+
+#Game No : 503179320
+***** 888poker Hand History for Game 503179320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 10 2018 05:32:43
+Table Riyadh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: MCP1316 ( $1.28 )
+Seat 9: melugi ( $1.36 )
+melugi posts small blind [$0.01]
+MCP1316 posts big blind [$0.02]
+** Dealing down cards **
+melugi raises [$0.03]
+MCP1316 calls [$0.02]
+** Dealing flop ** [ 5s, 7d, Ad ]
+MCP1316 checks
+melugi bets [$0.08]
+MCP1316 raises [$0.16]
+melugi raises [$0.34]
+MCP1316 calls [$0.26]
+** Dealing turn ** [ 3s ]
+MCP1316 bets [$0.82]
+melugi calls [$0.82]
+** Dealing river ** [ Kd ]
+** Summary **
+MCP1316 shows [ 5c, 3d ]
+melugi shows [ 7h, Ac ]
+melugi collected [ $2.40 ]
+
+

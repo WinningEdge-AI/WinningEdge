@@ -1,0 +1,70 @@
+#Game No : 499818813
+***** 888poker Hand History for Game 499818813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 14:19:40
+Table Guanare 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HatteWare ( $1.52 )
+Seat 7: NemoNewbie ( $1.87 )
+HatteWare posts small blind [$0.01]
+NemoNewbie posts big blind [$0.02]
+** Dealing down cards **
+HatteWare raises [$0.03]
+NemoNewbie calls [$0.02]
+** Dealing flop ** [ 2c, 7h, 4h ]
+NemoNewbie checks
+HatteWare bets [$0.05]
+NemoNewbie calls [$0.05]
+** Dealing turn ** [ Ac ]
+NemoNewbie checks
+HatteWare checks
+** Dealing river ** [ Qh ]
+NemoNewbie checks
+HatteWare checks
+** Summary **
+NemoNewbie shows [ 5d, 4c ]
+HatteWare shows [ Jh, Js ]
+HatteWare collected [ $0.17 ]
+
+
+#Game No : 499818834
+***** 888poker Hand History for Game 499818834 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 14:20:03
+Table Guanare 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: HatteWare ( $1.60 )
+Seat 7: NemoNewbie ( $1.78 )
+NemoNewbie posts small blind [$0.01]
+HatteWare posts big blind [$0.02]
+** Dealing down cards **
+NemoNewbie folds
+** Summary **
+HatteWare did not show his hand
+HatteWare collected [ $0.03 ]
+
+
+#Game No : 499818837
+***** 888poker Hand History for Game 499818837 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 07 2018 14:20:07
+Table Guanare 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: HatteWare ( $1.61 )
+Seat 7: NemoNewbie ( $1.77 )
+HatteWare posts small blind [$0.01]
+NemoNewbie posts big blind [$0.02]
+** Dealing down cards **
+HatteWare raises [$0.03]
+NemoNewbie calls [$0.02]
+** Dealing flop ** [ Qh, 8c, 2c ]
+NemoNewbie checks
+HatteWare checks
+** Dealing turn ** [ Jd ]
+NemoNewbie checks
+HatteWare bets [$0.05]
+NemoNewbie folds
+** Summary **
+HatteWare collected [ $0.08 ]
+
+

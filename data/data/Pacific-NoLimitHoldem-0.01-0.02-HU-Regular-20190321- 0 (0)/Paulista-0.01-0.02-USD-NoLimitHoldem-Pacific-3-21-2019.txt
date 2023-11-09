@@ -1,0 +1,376 @@
+#Game No : 463125691
+***** 888poker Hand History for Game 463125691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 02:48:19
+Table Paulista 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: fishbone53 ( $0.73 )
+Seat 4: Igor7743 ( $1.55 )
+Igor7743 posts small blind [$0.01]
+fishbone53 posts big blind [$0.02]
+** Dealing down cards **
+Igor7743 calls [$0.01]
+fishbone53 checks
+** Dealing flop ** [ 5d, Js, Kd ]
+fishbone53 bets [$0.04]
+Igor7743 folds
+** Summary **
+fishbone53 collected [ $0.04 ]
+
+
+#Game No : 463125721
+***** 888poker Hand History for Game 463125721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 02:49:18
+Table Paulista 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Igor7743 ( $1.45 )
+Seat 7: noname6370 ( $0.89 )
+Igor7743 posts small blind [$0.01]
+noname6370 posts big blind [$0.02]
+** Dealing down cards **
+Igor7743 calls [$0.01]
+noname6370 raises [$0.04]
+Igor7743 calls [$0.04]
+** Dealing flop ** [ Qd, 3d, 7h ]
+noname6370 bets [$0.06]
+Igor7743 calls [$0.06]
+** Dealing turn ** [ 5d ]
+noname6370 checks
+Igor7743 checks
+** Dealing river ** [ Qh ]
+noname6370 checks
+Igor7743 checks
+** Summary **
+noname6370 shows [ 8c, Ah ]
+Igor7743 shows [ Ac, Ts ]
+Igor7743 collected [ $0.23 ]
+
+
+#Game No : 463125739
+***** 888poker Hand History for Game 463125739 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 02:49:59
+Table Paulista 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Igor7743 ( $1.56 )
+Seat 7: noname6370 ( $0.77 )
+noname6370 posts small blind [$0.01]
+Igor7743 posts big blind [$0.02]
+** Dealing down cards **
+noname6370 raises [$0.03]
+Igor7743 calls [$0.02]
+** Dealing flop ** [ 9d, Jd, 6c ]
+Igor7743 checks
+noname6370 checks
+** Dealing turn ** [ 4s ]
+Igor7743 bets [$0.02]
+noname6370 folds
+** Summary **
+Igor7743 collected [ $0.08 ]
+
+
+#Game No : 463125748
+***** 888poker Hand History for Game 463125748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 02:50:17
+Table Paulista 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Igor7743 ( $1.60 )
+Seat 7: noname6370 ( $0.73 )
+Igor7743 posts small blind [$0.01]
+noname6370 posts big blind [$0.02]
+** Dealing down cards **
+Igor7743 calls [$0.01]
+noname6370 checks
+** Dealing flop ** [ 3d, 8d, Qh ]
+noname6370 checks
+Igor7743 bets [$0.02]
+noname6370 calls [$0.02]
+** Dealing turn ** [ 8s ]
+noname6370 checks
+Igor7743 bets [$0.02]
+noname6370 folds
+** Summary **
+Igor7743 collected [ $0.08 ]
+
+
+#Game No : 463125757
+***** 888poker Hand History for Game 463125757 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 02:50:37
+Table Paulista 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Igor7743 ( $1.64 )
+Seat 7: noname6370 ( $0.69 )
+noname6370 posts small blind [$0.01]
+Igor7743 posts big blind [$0.02]
+** Dealing down cards **
+noname6370 raises [$0.05]
+Igor7743 calls [$0.04]
+** Dealing flop ** [ Qh, Qc, 7h ]
+Igor7743 checks
+noname6370 bets [$0.06]
+Igor7743 calls [$0.06]
+** Dealing turn ** [ 4d ]
+Igor7743 checks
+noname6370 checks
+** Dealing river ** [ Qd ]
+Igor7743 checks
+noname6370 bets [$0.18]
+Igor7743 calls [$0.18]
+** Summary **
+noname6370 shows [ Th, Tc ]
+Igor7743 mucks [ Ac, 6s ]
+noname6370 collected [ $0.57 ]
+
+
+#Game No : 463125783
+***** 888poker Hand History for Game 463125783 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 02:51:14
+Table Paulista 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Igor7743 ( $1.34 )
+Seat 7: noname6370 ( $0.96 )
+Igor7743 posts small blind [$0.01]
+noname6370 posts big blind [$0.02]
+** Dealing down cards **
+Igor7743 raises [$0.03]
+noname6370 calls [$0.02]
+** Dealing flop ** [ 8h, Jc, Qc ]
+noname6370 checks
+Igor7743 checks
+** Dealing turn ** [ Qs ]
+noname6370 bets [$0.06]
+Igor7743 folds
+** Summary **
+noname6370 collected [ $0.08 ]
+
+
+#Game No : 463125817
+***** 888poker Hand History for Game 463125817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 02:52:24
+Table Paulista 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Igor7743 ( $0.30 )
+Seat 7: noname6370 ( $1.88 )
+Igor7743 posts small blind [$0.01]
+noname6370 posts big blind [$0.02]
+** Dealing down cards **
+Igor7743 raises [$0.29]
+noname6370 calls [$0.28]
+** Dealing flop ** [ 8s, 6d, Td ]
+** Dealing turn ** [ Qh ]
+** Dealing river ** [ Tc ]
+** Summary **
+Igor7743 shows [ 3d, Jd ]
+noname6370 shows [ Js, Ah ]
+noname6370 collected [ $0.57 ]
+
+
+#Game No : 463125832
+***** 888poker Hand History for Game 463125832 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 02:52:55
+Table Paulista 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: starik8888 ( $1 )
+Seat 7: noname6370 ( $2.15 )
+starik8888 posts small blind [$0.01]
+** Dealing down cards **
+noname6370 folds
+** Summary **
+starik8888 collected [ $0.01 ]
+
+
+#Game No : 463128037
+***** 888poker Hand History for Game 463128037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 04:18:21
+Table Paulista 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ArmsPeddler ( $1.14 )
+Seat 9: AAB7014 ( $2.20 )
+AAB7014 posts small blind [$0.01]
+** Dealing down cards **
+ArmsPeddler folds
+** Summary **
+AAB7014 collected [ $0.01 ]
+
+
+#Game No : 515305237
+***** 888poker Hand History for Game 515305237 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 05:15:50
+Table Paulista 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Mpowermo ( $1.07 )
+Seat 4: bymer06 ( $0.80 )
+bymer06 posts small blind [$0.01]
+Mpowermo posts big blind [$0.02]
+** Dealing down cards **
+bymer06 raises [$0.05]
+Mpowermo calls [$0.04]
+** Dealing flop ** [ 9c, 8s, Ks ]
+Mpowermo checks
+bymer06 bets [$0.06]
+Mpowermo folds
+** Summary **
+bymer06 collected [ $0.12 ]
+
+
+#Game No : 515316344
+***** 888poker Hand History for Game 515316344 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:27:18
+Table Paulista 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gitarfeel88 ( $1.23 )
+Seat 7: luisclh2014 ( $1.72 )
+gitarfeel88 posts small blind [$0.01]
+luisclh2014 posts big blind [$0.02]
+** Dealing down cards **
+gitarfeel88 folds
+** Summary **
+luisclh2014 collected [ $0.03 ]
+
+
+#Game No : 515316349
+***** 888poker Hand History for Game 515316349 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:27:25
+Table Paulista 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: gitarfeel88 ( $1.22 )
+Seat 7: luisclh2014 ( $1.73 )
+luisclh2014 posts small blind [$0.01]
+gitarfeel88 posts big blind [$0.02]
+** Dealing down cards **
+luisclh2014 folds
+** Summary **
+gitarfeel88 collected [ $0.03 ]
+
+
+#Game No : 515316355
+***** 888poker Hand History for Game 515316355 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:27:32
+Table Paulista 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gitarfeel88 ( $1.23 )
+Seat 7: luisclh2014 ( $1.72 )
+gitarfeel88 posts small blind [$0.01]
+** Dealing down cards **
+luisclh2014 folds
+** Summary **
+gitarfeel88 collected [ $0.01 ]
+
+
+#Game No : 515316369
+***** 888poker Hand History for Game 515316369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:27:50
+Table Paulista 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gitarfeel88 ( $1.23 )
+Seat 4: bourne1963 ( $0.80 )
+gitarfeel88 posts small blind [$0.01]
+bourne1963 posts big blind [$0.02]
+** Dealing down cards **
+gitarfeel88 folds
+** Summary **
+bourne1963 collected [ $0.03 ]
+
+
+#Game No : 515316375
+***** 888poker Hand History for Game 515316375 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 10:27:56
+Table Paulista 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: gitarfeel88 ( $1.22 )
+Seat 4: bourne1963 ( $0.81 )
+bourne1963 posts small blind [$0.01]
+gitarfeel88 posts big blind [$0.02]
+** Dealing down cards **
+bourne1963 calls [$0.01]
+gitarfeel88 checks
+** Dealing flop ** [ 3h, Td, Th ]
+gitarfeel88 checks
+bourne1963 bets [$0.02]
+gitarfeel88 folds
+** Summary **
+bourne1963 collected [ $0.04 ]
+
+
+#Game No : 515319218
+***** 888poker Hand History for Game 515319218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 11:28:38
+Table Paulista 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gitarfeel88 ( $2.90 )
+Seat 9: Aylinenok74 ( $2.51 )
+gitarfeel88 posts small blind [$0.01]
+Aylinenok74 posts big blind [$0.02]
+** Dealing down cards **
+gitarfeel88 folds
+** Summary **
+Aylinenok74 collected [ $0.03 ]
+
+
+#Game No : 515320548
+***** 888poker Hand History for Game 515320548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 11:55:46
+Table Paulista 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: gitarfeel88 ( $3.49 )
+Seat 2: Sedys101 ( $1.39 )
+Sedys101 posts small blind [$0.01]
+gitarfeel88 posts big blind [$0.02]
+** Dealing down cards **
+Sedys101 folds
+** Summary **
+gitarfeel88 collected [ $0.03 ]
+
+
+#Game No : 515320558
+***** 888poker Hand History for Game 515320558 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 11:55:52
+Table Paulista 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gitarfeel88 ( $3.50 )
+Seat 2: Sedys101 ( $1.38 )
+gitarfeel88 posts small blind [$0.01]
+Sedys101 posts big blind [$0.02]
+** Dealing down cards **
+gitarfeel88 folds
+** Summary **
+Sedys101 collected [ $0.03 ]
+
+
+#Game No : 515320562
+***** 888poker Hand History for Game 515320562 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 03 2019 11:55:57
+Table Paulista 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: gitarfeel88 ( $3.49 )
+Seat 2: Sedys101 ( $1.39 )
+Sedys101 posts small blind [$0.01]
+gitarfeel88 posts big blind [$0.02]
+** Dealing down cards **
+Sedys101 calls [$0.01]
+gitarfeel88 checks
+** Dealing flop ** [ Ac, 7h, Tc ]
+gitarfeel88 checks
+Sedys101 bets [$0.02]
+gitarfeel88 folds
+** Summary **
+Sedys101 collected [ $0.04 ]
+
+

@@ -1,0 +1,87 @@
+#Game No : 1237876962
+***** 888poker Hand History for Game 1237876962 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 00:28:44
+Table Guarenas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: MooKor ( $1.15 )
+Seat 6: kroko1949 ( $0.40 )
+kroko1949 posts small blind [$0.01]
+MooKor posts big blind [$0.02]
+** Dealing down cards **
+kroko1949 calls [$0.01]
+MooKor raises [$0.06]
+kroko1949 calls [$0.06]
+** Dealing flop ** [ 8d, Kh, 2c ]
+MooKor bets [$0.10]
+kroko1949 folds
+** Summary **
+MooKor collected [ $0.15 ]
+
+
+#Game No : 1237876993
+***** 888poker Hand History for Game 1237876993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 00:29:00
+Table Guarenas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: MooKor ( $1.22 )
+Seat 6: kroko1949 ( $0.32 )
+MooKor posts small blind [$0.01]
+kroko1949 posts big blind [$0.02]
+** Dealing down cards **
+MooKor folds
+** Summary **
+kroko1949 collected [ $0.03 ]
+
+
+#Game No : 1237877009
+***** 888poker Hand History for Game 1237877009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 00:29:05
+Table Guarenas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: MooKor ( $1.21 )
+Seat 6: kroko1949 ( $0.33 )
+kroko1949 posts small blind [$0.01]
+MooKor posts big blind [$0.02]
+** Dealing down cards **
+kroko1949 calls [$0.01]
+MooKor checks
+** Dealing flop ** [ 8s, Jh, 2d ]
+MooKor checks
+kroko1949 bets [$0.04]
+MooKor folds
+** Summary **
+kroko1949 collected [ $0.04 ]
+
+
+#Game No : 1237877041
+***** 888poker Hand History for Game 1237877041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 01 2019 00:29:21
+Table Guarenas 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: MooKor ( $1.19 )
+Seat 6: kroko1949 ( $0.35 )
+MooKor posts small blind [$0.01]
+kroko1949 posts big blind [$0.02]
+** Dealing down cards **
+MooKor raises [$0.06]
+kroko1949 calls [$0.05]
+** Dealing flop ** [ Qs, 9c, Js ]
+kroko1949 checks
+MooKor bets [$0.09]
+kroko1949 calls [$0.09]
+** Dealing turn ** [ 3h ]
+kroko1949 checks
+MooKor checks
+** Dealing river ** [ 6c ]
+kroko1949 checks
+MooKor checks
+** Summary **
+kroko1949 shows [ 7d, 8d ]
+MooKor shows [ Ks, As ]
+MooKor collected [ $0.30 ]
+
+

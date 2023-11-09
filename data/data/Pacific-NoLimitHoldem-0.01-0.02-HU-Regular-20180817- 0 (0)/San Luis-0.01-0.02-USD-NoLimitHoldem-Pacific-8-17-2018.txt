@@ -1,0 +1,244 @@
+#Game No : 500990119
+***** 888poker Hand History for Game 500990119 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 16:09:32
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Alex.P15 ( $2.14 )
+Seat 6: FlintOB ( $1.16 )
+FlintOB posts small blind [$0.01]
+Alex.P15 posts big blind [$0.02]
+** Dealing down cards **
+FlintOB raises [$0.05]
+Alex.P15 calls [$0.04]
+** Dealing flop ** [ Ah, 6s, 3d ]
+Alex.P15 checks
+FlintOB checks
+** Dealing turn ** [ Qc ]
+Alex.P15 checks
+FlintOB checks
+** Dealing river ** [ 7c ]
+Alex.P15 checks
+FlintOB bets [$0.08]
+Alex.P15 folds
+** Summary **
+FlintOB collected [ $0.12 ]
+
+
+#Game No : 500990134
+***** 888poker Hand History for Game 500990134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 16:10:05
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Alex.P15 ( $2.08 )
+Seat 6: FlintOB ( $1.22 )
+Alex.P15 posts small blind [$0.01]
+FlintOB posts big blind [$0.02]
+** Dealing down cards **
+Alex.P15 folds
+** Summary **
+FlintOB collected [ $0.03 ]
+
+
+#Game No : 500990137
+***** 888poker Hand History for Game 500990137 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 16:10:10
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Alex.P15 ( $2.07 )
+Seat 6: FlintOB ( $1.23 )
+FlintOB posts small blind [$0.01]
+Alex.P15 posts big blind [$0.02]
+** Dealing down cards **
+FlintOB calls [$0.01]
+Alex.P15 checks
+** Dealing flop ** [ Js, 2d, 8h ]
+Alex.P15 bets [$0.04]
+FlintOB folds
+** Summary **
+Alex.P15 collected [ $0.04 ]
+
+
+#Game No : 500990148
+***** 888poker Hand History for Game 500990148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 16:10:38
+Table San Luis 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Alex.P15 ( $2.09 )
+Seat 6: FlintOB ( $1.21 )
+Alex.P15 posts small blind [$0.01]
+FlintOB posts big blind [$0.02]
+** Dealing down cards **
+Alex.P15 calls [$0.01]
+FlintOB checks
+** Dealing flop ** [ Kc, 9c, 6s ]
+FlintOB checks
+Alex.P15 checks
+** Dealing turn ** [ Th ]
+FlintOB checks
+Alex.P15 checks
+** Dealing river ** [ 2d ]
+FlintOB checks
+Alex.P15 checks
+** Summary **
+FlintOB shows [ Qh, 3d ]
+Alex.P15 mucks [ 5h, 4s ]
+FlintOB collected [ $0.04 ]
+
+
+#Game No : 500990165
+***** 888poker Hand History for Game 500990165 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 16:11:25
+Table San Luis 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Alex.P15 ( $2.07 )
+Seat 6: FlintOB ( $1.23 )
+FlintOB posts small blind [$0.01]
+Alex.P15 posts big blind [$0.02]
+** Dealing down cards **
+FlintOB folds
+** Summary **
+Alex.P15 collected [ $0.03 ]
+
+
+#Game No : 500990263
+***** 888poker Hand History for Game 500990263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 16:15:28
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: NeuertM ( $1 )
+Seat 4: Fortytwoand0 ( $0.92 )
+NeuertM posts small blind [$0.01]
+Fortytwoand0 posts big blind [$0.02]
+** Dealing down cards **
+NeuertM calls [$0.01]
+Fortytwoand0 raises [$0.04]
+NeuertM calls [$0.04]
+** Dealing flop ** [ Ts, 7c, 3c ]
+Fortytwoand0 bets [$0.12]
+NeuertM calls [$0.12]
+** Dealing turn ** [ 2d ]
+Fortytwoand0 bets [$0.36]
+NeuertM calls [$0.36]
+** Dealing river ** [ 3h ]
+Fortytwoand0 bets [$0.02]
+NeuertM raises [$0.46]
+Fortytwoand0 calls [$0.36]
+** Summary **
+NeuertM shows [ 5s, Td ]
+Fortytwoand0 shows [ Ah, Tc ]
+Fortytwoand0 collected [ $1.73 ]
+
+
+#Game No : 500990277
+***** 888poker Hand History for Game 500990277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 16:16:01
+Table San Luis 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: NeuertM ( $0.08 )
+Seat 4: Fortytwoand0 ( $1.73 )
+Fortytwoand0 posts small blind [$0.01]
+NeuertM posts big blind [$0.02]
+** Dealing down cards **
+Fortytwoand0 calls [$0.01]
+NeuertM raises [$0.06]
+Fortytwoand0 calls [$0.06]
+** Dealing flop ** [ 4d, Tc, 2c ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ 9c ]
+** Summary **
+NeuertM shows [ 4h, Ts ]
+Fortytwoand0 shows [ Ks, Ac ]
+NeuertM collected [ $0.15 ]
+
+
+#Game No : 500990290
+***** 888poker Hand History for Game 500990290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 16:16:39
+Table San Luis 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: NeuertM ( $0.15 )
+Seat 4: Fortytwoand0 ( $1.65 )
+NeuertM posts small blind [$0.01]
+Fortytwoand0 posts big blind [$0.02]
+** Dealing down cards **
+NeuertM raises [$0.14]
+Fortytwoand0 calls [$0.13]
+** Dealing flop ** [ Qs, 4c, Td ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ Qd ]
+** Summary **
+NeuertM shows [ Jc, Kd ]
+Fortytwoand0 shows [ Th, 8h ]
+Fortytwoand0 collected [ $0.29 ]
+
+
+#Game No : 1202035085
+***** 888poker Hand History for Game 1202035085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 19:33:35
+Table San Luis 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: rulask9 ( $1.85 )
+Seat 2: Kosamui999 ( $2 )
+Kosamui999 posts small blind [$0.01]
+** Dealing down cards **
+rulask9 folds
+** Summary **
+Kosamui999 collected [ $0.01 ]
+
+
+#Game No : 1202035112
+***** 888poker Hand History for Game 1202035112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 19:33:50
+Table San Luis 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Kosamui999 ( $2 )
+Seat 3: othman.10 ( $2 )
+Kosamui999 posts small blind [$0.01]
+othman.10 posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 raises [$0.06]
+othman.10 folds
+** Summary **
+Kosamui999 collected [ $0.04 ]
+
+
+#Game No : 1202035597
+***** 888poker Hand History for Game 1202035597 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 08 2018 19:38:53
+Table San Luis 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Kosamui999 ( $2.02 )
+Seat 5: Dar_Gart ( $0.80 )
+Dar_Gart posts small blind [$0.01]
+Kosamui999 posts big blind [$0.02]
+** Dealing down cards **
+Dar_Gart calls [$0.01]
+Kosamui999 raises [$0.06]
+Dar_Gart calls [$0.06]
+** Dealing flop ** [ 8h, 5s, 7s ]
+Kosamui999 bets [$0.10]
+Dar_Gart calls [$0.10]
+** Dealing turn ** [ Th ]
+Kosamui999 checks
+Dar_Gart bets [$0.18]
+Kosamui999 calls [$0.18]
+** Dealing river ** [ Js ]
+Kosamui999 checks
+Dar_Gart checks
+** Summary **
+Kosamui999 shows [ Jc, Ah ]
+Dar_Gart mucks [ As, 5h ]
+Kosamui999 collected [ $0.68 ]
+
+

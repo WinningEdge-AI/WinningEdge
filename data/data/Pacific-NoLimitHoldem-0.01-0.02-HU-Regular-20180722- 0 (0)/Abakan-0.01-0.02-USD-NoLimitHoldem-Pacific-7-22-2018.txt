@@ -1,0 +1,53 @@
+#Game No : 504979389
+***** 888poker Hand History for Game 504979389 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 16:44:20
+Table Abakan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: AKPSoul ( $1.51 )
+Seat 7: moptumep14 ( $1.98 )
+AKPSoul posts small blind [$0.01]
+moptumep14 posts big blind [$0.02]
+** Dealing down cards **
+AKPSoul calls [$0.01]
+moptumep14 checks
+** Dealing flop ** [ 4c, 6d, Js ]
+moptumep14 checks
+AKPSoul checks
+** Dealing turn ** [ 4h ]
+moptumep14 bets [$0.06]
+AKPSoul folds
+** Summary **
+moptumep14 did not show his hand
+moptumep14 collected [ $0.04 ]
+
+
+#Game No : 504979397
+***** 888poker Hand History for Game 504979397 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 07 2018 16:44:42
+Table Abakan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: AKPSoul ( $1.49 )
+Seat 7: moptumep14 ( $2 )
+moptumep14 posts small blind [$0.01]
+AKPSoul posts big blind [$0.02]
+** Dealing down cards **
+moptumep14 calls [$0.01]
+AKPSoul checks
+** Dealing flop ** [ 5h, 8c, Jh ]
+AKPSoul checks
+moptumep14 bets [$0.04]
+AKPSoul calls [$0.04]
+** Dealing turn ** [ 5d ]
+AKPSoul checks
+moptumep14 checks
+** Dealing river ** [ 8d ]
+AKPSoul checks
+moptumep14 bets [$0.12]
+AKPSoul folds
+** Summary **
+moptumep14 did not show his hand
+moptumep14 collected [ $0.12 ]
+
+

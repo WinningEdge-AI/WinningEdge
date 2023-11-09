@@ -1,0 +1,39 @@
+#Game No : 1278342593
+***** 888poker Hand History for Game 1278342593 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 21:30:05
+Table Niteroi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: SALEMSHADE ( $0.84 )
+Seat 2: fatum01 ( $2.72 )
+SALEMSHADE posts small blind [$0.01]
+fatum01 posts big blind [$0.02]
+** Dealing down cards **
+SALEMSHADE raises [$0.83]
+fatum01 calls [$0.82]
+** Dealing flop ** [ Td, 8h, 5h ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 7h ]
+** Summary **
+SALEMSHADE shows [ 3c, 4h ]
+fatum01 shows [ Ah, Kh ]
+fatum01 collected [ $1.58 ]
+
+
+#Game No : 1278342618
+***** 888poker Hand History for Game 1278342618 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 07 2019 21:30:08
+Table Niteroi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: SALEMSHADE ( $0.80 )
+Seat 2: fatum01 ( $3.46 )
+fatum01 posts small blind [$0.01]
+SALEMSHADE posts big blind [$0.02]
+** Dealing down cards **
+fatum01 folds
+** Summary **
+SALEMSHADE did not show his hand
+SALEMSHADE collected [ $0.03 ]
+
+

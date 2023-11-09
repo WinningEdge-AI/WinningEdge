@@ -1,0 +1,101 @@
+#Game No : 546624198
+***** 888poker Hand History for Game 546624198 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 23:56:26
+Table Ibirite 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ves6223 ( $0.98 )
+Seat 6: MAXtreme27 ( $0.82 )
+Ves6223 posts small blind [$0.01]
+MAXtreme27 posts big blind [$0.02]
+** Dealing down cards **
+Ves6223 calls [$0.01]
+MAXtreme27 checks
+** Dealing flop ** [ 6c, 3h, Ks ]
+MAXtreme27 bets [$0.02]
+Ves6223 calls [$0.02]
+** Dealing turn ** [ Qh ]
+MAXtreme27 checks
+Ves6223 checks
+** Dealing river ** [ 2s ]
+MAXtreme27 bets [$0.08]
+Ves6223 folds
+** Summary **
+MAXtreme27 did not show his hand
+MAXtreme27 collected [ $0.08 ]
+
+
+#Game No : 546624224
+***** 888poker Hand History for Game 546624224 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 12 2019 23:57:08
+Table Ibirite 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Ves6223 ( $0.94 )
+Seat 6: MAXtreme27 ( $0.86 )
+MAXtreme27 posts small blind [$0.01]
+Ves6223 posts big blind [$0.02]
+** Dealing down cards **
+MAXtreme27 calls [$0.01]
+Ves6223 checks
+** Dealing flop ** [ Ts, 5d, 6c ]
+Ves6223 bets [$0.02]
+MAXtreme27 raises [$0.06]
+Ves6223 calls [$0.04]
+** Dealing turn ** [ Jd ]
+Ves6223 checks
+MAXtreme27 bets [$0.05]
+Ves6223 calls [$0.05]
+** Dealing river ** [ 8d ]
+Ves6223 bets [$0.26]
+MAXtreme27 calls [$0.26]
+** Summary **
+Ves6223 shows [ 9d, 7d ]
+MAXtreme27 shows [ 4d, Td ]
+MAXtreme27 collected [ $0.74 ]
+
+
+#Game No : 546629102
+***** 888poker Hand History for Game 546629102 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:12:12
+Table Ibirite 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Ronin1981 ( $1.60 )
+Seat 9: NiamLison ( $2.40 )
+NiamLison posts small blind [$0.01]
+Ronin1981 posts big blind [$0.02]
+** Dealing down cards **
+NiamLison raises [$0.05]
+Ronin1981 calls [$0.04]
+** Dealing flop ** [ Ad, Jd, 5s ]
+Ronin1981 checks
+NiamLison bets [$0.08]
+Ronin1981 calls [$0.08]
+** Dealing turn ** [ 4d ]
+Ronin1981 checks
+NiamLison bets [$0.18]
+Ronin1981 raises [$0.82]
+NiamLison folds
+** Summary **
+Ronin1981 did not show his hand
+Ronin1981 collected [ $0.60 ]
+
+
+#Game No : 546629125
+***** 888poker Hand History for Game 546629125 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 12 2019 02:12:42
+Table Ibirite 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ronin1981 ( $1.88 )
+Seat 9: NiamLison ( $2.08 )
+Ronin1981 posts small blind [$0.01]
+NiamLison posts big blind [$0.02]
+** Dealing down cards **
+Ronin1981 folds
+** Summary **
+NiamLison did not show his hand
+NiamLison collected [ $0.03 ]
+
+

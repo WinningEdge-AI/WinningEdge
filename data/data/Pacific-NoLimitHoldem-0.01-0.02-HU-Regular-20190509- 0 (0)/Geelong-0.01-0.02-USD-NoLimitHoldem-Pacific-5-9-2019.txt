@@ -1,0 +1,582 @@
+#Game No : 464906575
+***** 888poker Hand History for Game 464906575 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 19:58:30
+Table Geelong 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: 888RUB ( $3.36 )
+Seat 7: Digrad ( $1.06 )
+Digrad posts small blind [$0.01]
+** Dealing down cards **
+888RUB folds
+** Summary **
+Digrad collected [ $0.01 ]
+
+
+#Game No : 464906577
+***** 888poker Hand History for Game 464906577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 19:58:58
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: OsmarVentura ( $1 )
+Seat 7: Digrad ( $1.06 )
+Digrad posts small blind [$0.01]
+OsmarVentura posts big blind [$0.02]
+** Dealing down cards **
+Digrad folds
+** Summary **
+OsmarVentura collected [ $0.03 ]
+
+
+#Game No : 464906580
+***** 888poker Hand History for Game 464906580 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 19:59:05
+Table Geelong 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: OsmarVentura ( $1.01 )
+Seat 7: Digrad ( $1.05 )
+Digrad posts small blind [$0.01]
+OsmarVentura posts big blind [$0.02]
+** Dealing down cards **
+Digrad raises [$0.04]
+OsmarVentura calls [$0.03]
+** Dealing flop ** [ 3c, 4h, 7s ]
+OsmarVentura checks
+Digrad bets [$0.05]
+OsmarVentura folds
+** Summary **
+Digrad collected [ $0.10 ]
+
+
+#Game No : 464906953
+***** 888poker Hand History for Game 464906953 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:43:39
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 201601i ( $1.87 )
+Seat 6: macrolegal ( $1.01 )
+macrolegal posts small blind [$0.01]
+201601i posts big blind [$0.02]
+** Dealing down cards **
+macrolegal raises [$0.05]
+201601i calls [$0.04]
+** Dealing flop ** [ 8d, 2h, 9d ]
+201601i bets [$0.07]
+macrolegal calls [$0.07]
+** Dealing turn ** [ Kc ]
+201601i bets [$0.17]
+macrolegal calls [$0.17]
+** Dealing river ** [ 5s ]
+201601i bets [$0.39]
+macrolegal calls [$0.39]
+** Summary **
+201601i shows [ Kh, 9h ]
+macrolegal mucks [ 8c, 6s ]
+201601i collected [ $1.30 ]
+
+
+#Game No : 464906959
+***** 888poker Hand History for Game 464906959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:44:16
+Table Geelong 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 201601i ( $2.48 )
+Seat 6: macrolegal ( $0.32 )
+201601i posts small blind [$0.01]
+macrolegal posts big blind [$0.02]
+** Dealing down cards **
+201601i raises [$0.03]
+macrolegal calls [$0.02]
+** Dealing flop ** [ Kd, 9s, 9d ]
+macrolegal checks
+201601i bets [$0.02]
+macrolegal raises [$0.08]
+201601i calls [$0.06]
+** Dealing turn ** [ 4h ]
+macrolegal bets [$0.20]
+201601i folds
+** Summary **
+macrolegal did not show his hand
+macrolegal collected [ $0.23 ]
+
+
+#Game No : 464906964
+***** 888poker Hand History for Game 464906964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:44:51
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 201601i ( $2.36 )
+Seat 6: macrolegal ( $1 )
+macrolegal posts small blind [$0.01]
+201601i posts big blind [$0.02]
+** Dealing down cards **
+macrolegal raises [$0.07]
+201601i folds
+** Summary **
+macrolegal did not show his hand
+macrolegal collected [ $0.04 ]
+
+
+#Game No : 464906969
+***** 888poker Hand History for Game 464906969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:45:04
+Table Geelong 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 201601i ( $2.34 )
+Seat 6: macrolegal ( $1.02 )
+201601i posts small blind [$0.01]
+macrolegal posts big blind [$0.02]
+** Dealing down cards **
+201601i folds
+** Summary **
+macrolegal did not show his hand
+macrolegal collected [ $0.03 ]
+
+
+#Game No : 464906970
+***** 888poker Hand History for Game 464906970 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:45:11
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 201601i ( $2.33 )
+Seat 6: macrolegal ( $1.03 )
+macrolegal posts small blind [$0.01]
+201601i posts big blind [$0.02]
+** Dealing down cards **
+macrolegal raises [$0.05]
+201601i calls [$0.04]
+** Dealing flop ** [ Qd, 8c, 9s ]
+201601i bets [$0.02]
+macrolegal calls [$0.02]
+** Dealing turn ** [ 2c ]
+201601i bets [$0.08]
+macrolegal folds
+** Summary **
+201601i did not show his hand
+201601i collected [ $0.15 ]
+
+
+#Game No : 464906972
+***** 888poker Hand History for Game 464906972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 20:45:34
+Table Geelong 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 201601i ( $2.40 )
+Seat 6: macrolegal ( $0.95 )
+201601i posts small blind [$0.01]
+macrolegal posts big blind [$0.02]
+** Dealing down cards **
+201601i folds
+** Summary **
+macrolegal collected [ $0.03 ]
+
+
+#Game No : 464907611
+***** 888poker Hand History for Game 464907611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 21:46:19
+Table Geelong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: HECTOP_MAXH0 ( $1.51 )
+Seat 9: geor954 ( $2.67 )
+geor954 posts small blind [$0.01]
+HECTOP_MAXH0 posts big blind [$0.02]
+** Dealing down cards **
+geor954 calls [$0.01]
+HECTOP_MAXH0 raises [$0.06]
+geor954 folds
+** Summary **
+HECTOP_MAXH0 collected [ $0.04 ]
+
+
+#Game No : 464907617
+***** 888poker Hand History for Game 464907617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 21:46:47
+Table Geelong 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: HECTOP_MAXH0 ( $1.53 )
+Seat 9: geor954 ( $2.65 )
+HECTOP_MAXH0 posts small blind [$0.01]
+geor954 posts big blind [$0.02]
+** Dealing down cards **
+HECTOP_MAXH0 calls [$0.01]
+geor954 checks
+** Dealing flop ** [ 4h, 6d, 7c ]
+geor954 checks
+HECTOP_MAXH0 bets [$0.04]
+geor954 folds
+** Summary **
+HECTOP_MAXH0 collected [ $0.04 ]
+
+
+#Game No : 464907628
+***** 888poker Hand History for Game 464907628 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 21:47:46
+Table Geelong 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: HECTOP_MAXH0 ( $1.57 )
+Seat 9: geor954 ( $2.61 )
+HECTOP_MAXH0 posts small blind [$0.01]
+geor954 posts big blind [$0.02]
+** Dealing down cards **
+HECTOP_MAXH0 raises [$0.05]
+geor954 folds
+** Summary **
+HECTOP_MAXH0 collected [ $0.04 ]
+
+
+#Game No : 464907644
+***** 888poker Hand History for Game 464907644 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 21:49:00
+Table Geelong 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: HECTOP_MAXH0 ( $1.57 )
+Seat 9: geor954 ( $2.61 )
+HECTOP_MAXH0 posts small blind [$0.01]
+geor954 posts big blind [$0.02]
+** Dealing down cards **
+HECTOP_MAXH0 calls [$0.01]
+geor954 checks
+** Dealing flop ** [ Jh, Jc, 8s ]
+geor954 bets [$0.02]
+HECTOP_MAXH0 folds
+** Summary **
+geor954 collected [ $0.04 ]
+
+
+#Game No : 464907647
+***** 888poker Hand History for Game 464907647 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 21:49:16
+Table Geelong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: HECTOP_MAXH0 ( $1.55 )
+Seat 9: geor954 ( $2.63 )
+geor954 posts small blind [$0.01]
+** Dealing down cards **
+HECTOP_MAXH0 folds
+** Summary **
+geor954 collected [ $0.01 ]
+
+
+#Game No : 464907654
+***** 888poker Hand History for Game 464907654 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 21:50:09
+Table Geelong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: pokerace60 ( $0.80 )
+Seat 9: geor954 ( $2.63 )
+geor954 posts small blind [$0.01]
+pokerace60 posts big blind [$0.02]
+** Dealing down cards **
+geor954 folds
+** Summary **
+pokerace60 collected [ $0.03 ]
+
+
+#Game No : 464907657
+***** 888poker Hand History for Game 464907657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 21:50:19
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: pokerace60 ( $0.81 )
+Seat 9: geor954 ( $2.62 )
+pokerace60 posts small blind [$0.01]
+geor954 posts big blind [$0.02]
+** Dealing down cards **
+pokerace60 calls [$0.01]
+geor954 checks
+** Dealing flop ** [ 3h, 7d, Qd ]
+geor954 checks
+pokerace60 bets [$0.04]
+geor954 folds
+** Summary **
+pokerace60 collected [ $0.04 ]
+
+
+#Game No : 464907671
+***** 888poker Hand History for Game 464907671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 21:51:18
+Table Geelong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: pokerace60 ( $0.83 )
+Seat 9: geor954 ( $2.60 )
+geor954 posts small blind [$0.01]
+pokerace60 posts big blind [$0.02]
+** Dealing down cards **
+geor954 folds
+** Summary **
+pokerace60 collected [ $0.03 ]
+
+
+#Game No : 464908984
+***** 888poker Hand History for Game 464908984 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 23:46:09
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: voklur ( $0.70 )
+Seat 6: Xaxaxa99999 ( $2.51 )
+Xaxaxa99999 posts small blind [$0.01]
+voklur posts big blind [$0.02]
+** Dealing down cards **
+Xaxaxa99999 raises [$0.04]
+voklur folds
+** Summary **
+Xaxaxa99999 did not show his hand
+Xaxaxa99999 collected [ $0.04 ]
+
+
+#Game No : 464910691
+***** 888poker Hand History for Game 464910691 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:18:16
+Table Geelong 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Dron77plato1 ( $1.23 )
+Seat 9: 4u4elooo ( $1.83 )
+4u4elooo posts small blind [$0.01]
+Dron77plato1 posts big blind [$0.02]
+** Dealing down cards **
+4u4elooo raises [$0.05]
+Dron77plato1 folds
+** Summary **
+4u4elooo collected [ $0.04 ]
+
+
+#Game No : 464910695
+***** 888poker Hand History for Game 464910695 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:18:31
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Dron77plato1 ( $1.21 )
+Seat 9: 4u4elooo ( $1.85 )
+Dron77plato1 posts small blind [$0.01]
+** Dealing down cards **
+4u4elooo folds
+** Summary **
+Dron77plato1 collected [ $0.01 ]
+
+
+#Game No : 464910705
+***** 888poker Hand History for Game 464910705 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:19:09
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Zanoza54 ( $1 )
+Seat 6: Dron77plato1 ( $1.21 )
+Dron77plato1 posts small blind [$0.01]
+** Dealing down cards **
+Zanoza54 folds
+** Summary **
+Dron77plato1 collected [ $0.01 ]
+
+
+#Game No : 464911021
+***** 888poker Hand History for Game 464911021 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:39:31
+Table Geelong 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BerniGruber ( $0.54 )
+Seat 4: Xaxaxa99999 ( $1.35 )
+BerniGruber posts small blind [$0.01]
+Xaxaxa99999 posts big blind [$0.02]
+** Dealing down cards **
+BerniGruber calls [$0.01]
+Xaxaxa99999 checks
+** Dealing flop ** [ 6h, 8s, 3s ]
+Xaxaxa99999 bets [$0.03]
+BerniGruber calls [$0.03]
+** Dealing turn ** [ 2s ]
+Xaxaxa99999 bets [$0.07]
+BerniGruber calls [$0.07]
+** Dealing river ** [ Qc ]
+Xaxaxa99999 checks
+BerniGruber checks
+** Summary **
+Xaxaxa99999 shows [ 8c, 9d ]
+BerniGruber mucks [ Kd, 6s ]
+Xaxaxa99999 collected [ $0.23 ]
+
+
+#Game No : 464911032
+***** 888poker Hand History for Game 464911032 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:40:00
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: BerniGruber ( $0.42 )
+Seat 4: Xaxaxa99999 ( $1.46 )
+Xaxaxa99999 posts small blind [$0.01]
+BerniGruber posts big blind [$0.02]
+** Dealing down cards **
+Xaxaxa99999 raises [$0.04]
+BerniGruber calls [$0.03]
+** Dealing flop ** [ 7h, Qs, 5c ]
+BerniGruber checks
+Xaxaxa99999 bets [$0.07]
+BerniGruber folds
+** Summary **
+Xaxaxa99999 did not show his hand
+Xaxaxa99999 collected [ $0.10 ]
+
+
+#Game No : 464911036
+***** 888poker Hand History for Game 464911036 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:40:13
+Table Geelong 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BerniGruber ( $0.37 )
+Seat 4: Xaxaxa99999 ( $1.51 )
+BerniGruber posts small blind [$0.01]
+Xaxaxa99999 posts big blind [$0.02]
+** Dealing down cards **
+BerniGruber raises [$0.03]
+Xaxaxa99999 folds
+** Summary **
+BerniGruber did not show his hand
+BerniGruber collected [ $0.04 ]
+
+
+#Game No : 464911037
+***** 888poker Hand History for Game 464911037 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:40:21
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: BerniGruber ( $0.39 )
+Seat 4: Xaxaxa99999 ( $1.49 )
+Xaxaxa99999 posts small blind [$0.01]
+BerniGruber posts big blind [$0.02]
+** Dealing down cards **
+Xaxaxa99999 raises [$0.04]
+BerniGruber calls [$0.03]
+** Dealing flop ** [ Qc, Th, Kh ]
+BerniGruber checks
+Xaxaxa99999 bets [$0.07]
+BerniGruber calls [$0.07]
+** Dealing turn ** [ 4c ]
+BerniGruber checks
+Xaxaxa99999 checks
+** Dealing river ** [ Qd ]
+BerniGruber checks
+Xaxaxa99999 bets [$0.12]
+BerniGruber folds
+** Summary **
+Xaxaxa99999 did not show his hand
+Xaxaxa99999 collected [ $0.23 ]
+
+
+#Game No : 464911048
+***** 888poker Hand History for Game 464911048 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:40:48
+Table Geelong 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BerniGruber ( $0.27 )
+Seat 4: Xaxaxa99999 ( $1.60 )
+BerniGruber posts small blind [$0.01]
+Xaxaxa99999 posts big blind [$0.02]
+** Dealing down cards **
+BerniGruber calls [$0.01]
+Xaxaxa99999 checks
+** Dealing flop ** [ 6h, 2c, Qc ]
+Xaxaxa99999 checks
+BerniGruber checks
+** Dealing turn ** [ Kc ]
+Xaxaxa99999 checks
+BerniGruber bets [$0.02]
+Xaxaxa99999 folds
+** Summary **
+BerniGruber collected [ $0.04 ]
+
+
+#Game No : 464911060
+***** 888poker Hand History for Game 464911060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 02:41:20
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: BerniGruber ( $0.29 )
+Seat 4: Xaxaxa99999 ( $1.58 )
+Xaxaxa99999 posts small blind [$0.01]
+BerniGruber posts big blind [$0.02]
+** Dealing down cards **
+Xaxaxa99999 raises [$0.04]
+BerniGruber calls [$0.03]
+** Dealing flop ** [ Qd, 3s, Kd ]
+BerniGruber checks
+Xaxaxa99999 bets [$0.07]
+BerniGruber folds
+** Summary **
+Xaxaxa99999 collected [ $0.10 ]
+
+
+#Game No : 464911828
+***** 888poker Hand History for Game 464911828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 03:28:29
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ohislord ( $1 )
+Seat 6: juratukas533 ( $1.45 )
+juratukas533 posts small blind [$0.01]
+ohislord posts big blind [$0.02]
+** Dealing down cards **
+juratukas533 raises [$0.03]
+ohislord folds
+** Summary **
+juratukas533 collected [ $0.04 ]
+
+
+#Game No : 464911833
+***** 888poker Hand History for Game 464911833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 03:28:45
+Table Geelong 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: ohislord ( $1 )
+Seat 6: juratukas533 ( $1.47 )
+ohislord posts small blind [$0.01]
+juratukas533 posts big blind [$0.02]
+** Dealing down cards **
+ohislord raises [$0.05]
+juratukas533 folds
+** Summary **
+ohislord collected [ $0.04 ]
+
+
+#Game No : 464911838
+***** 888poker Hand History for Game 464911838 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 03:29:06
+Table Geelong 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: ohislord ( $1.02 )
+Seat 6: juratukas533 ( $1.45 )
+juratukas533 posts small blind [$0.01]
+ohislord posts big blind [$0.02]
+** Dealing down cards **
+juratukas533 folds
+** Summary **
+ohislord collected [ $0.03 ]
+
+

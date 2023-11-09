@@ -1,0 +1,69 @@
+#Game No : 1266568775
+***** 888poker Hand History for Game 1266568775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 06:03:53
+Table Ede 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Inyom ( $2.08 )
+Seat 6: googlist73 ( $4.07 )
+googlist73 posts small blind [$0.01]
+Inyom posts big blind [$0.02]
+** Dealing down cards **
+googlist73 calls [$0.01]
+Inyom raises [$0.06]
+googlist73 folds
+** Summary **
+Inyom collected [ $0.04 ]
+
+
+#Game No : 1266568832
+***** 888poker Hand History for Game 1266568832 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 06:04:13
+Table Ede 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Inyom ( $2.10 )
+Seat 6: googlist73 ( $4.05 )
+Inyom posts small blind [$0.01]
+googlist73 posts big blind [$0.02]
+** Dealing down cards **
+Inyom raises [$0.05]
+googlist73 calls [$0.04]
+** Dealing flop ** [ Js, Kd, 3c ]
+googlist73 checks
+Inyom bets [$0.07]
+googlist73 folds
+** Summary **
+Inyom did not show his hand
+Inyom collected [ $0.12 ]
+
+
+#Game No : 1266568883
+***** 888poker Hand History for Game 1266568883 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 05 2019 06:04:32
+Table Ede 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: Inyom ( $2.16 )
+Seat 6: googlist73 ( $3.99 )
+googlist73 posts small blind [$0.01]
+Inyom posts big blind [$0.02]
+** Dealing down cards **
+googlist73 raises [$0.05]
+Inyom calls [$0.04]
+** Dealing flop ** [ Qs, 8d, 3h ]
+Inyom checks
+googlist73 bets [$0.06]
+Inyom calls [$0.06]
+** Dealing turn ** [ 2d ]
+Inyom checks
+googlist73 checks
+** Dealing river ** [ 4c ]
+Inyom checks
+googlist73 checks
+** Summary **
+Inyom shows [ Qd, 6d ]
+googlist73 mucks [ 7h, 4h ]
+Inyom collected [ $0.23 ]
+
+

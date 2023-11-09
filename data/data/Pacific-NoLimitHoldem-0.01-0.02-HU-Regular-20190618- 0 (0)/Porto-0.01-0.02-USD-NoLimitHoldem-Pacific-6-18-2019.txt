@@ -1,0 +1,24 @@
+#Game No : 621270763
+***** 888poker Hand History for Game 621270763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 06 2019 02:20:40
+Table Porto 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: GoldFun14 ( $0.79 )
+Seat 7: AvtoPlayer ( $1.02 )
+AvtoPlayer posts small blind [$0.01]
+GoldFun14 posts big blind [$0.02]
+** Dealing down cards **
+AvtoPlayer calls [$0.01]
+GoldFun14 checks
+** Dealing flop ** [ As, 6h, 7d ]
+GoldFun14 checks
+AvtoPlayer checks
+** Dealing turn ** [ Ts ]
+GoldFun14 checks
+AvtoPlayer bets [$0.02]
+GoldFun14 folds
+** Summary **
+AvtoPlayer collected [ $0.04 ]
+
+

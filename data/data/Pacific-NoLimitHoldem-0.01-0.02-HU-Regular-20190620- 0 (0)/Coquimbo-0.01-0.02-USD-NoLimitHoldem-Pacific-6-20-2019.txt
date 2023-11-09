@@ -1,0 +1,100 @@
+#Game No : 533571707
+***** 888poker Hand History for Game 533571707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2019 04:25:52
+Table Coquimbo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: 464711a ( $0.29 )
+Seat 6: Risko20 ( $2.56 )
+Risko20 posts small blind [$0.01]
+464711a posts big blind [$0.02]
+** Dealing down cards **
+Risko20 raises [$0.03]
+464711a folds
+** Summary **
+Risko20 did not show his hand
+Risko20 collected [ $0.04 ]
+
+
+#Game No : 533571724
+***** 888poker Hand History for Game 533571724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2019 04:26:19
+Table Coquimbo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 464711a ( $0.27 )
+Seat 6: Risko20 ( $2.58 )
+464711a posts small blind [$0.01]
+Risko20 posts big blind [$0.02]
+** Dealing down cards **
+464711a raises [$0.05]
+Risko20 calls [$0.04]
+** Dealing flop ** [ 7d, Qs, Kd ]
+Risko20 bets [$0.02]
+464711a raises [$0.08]
+Risko20 calls [$0.06]
+** Dealing turn ** [ Qc ]
+Risko20 bets [$0.06]
+464711a calls [$0.06]
+** Dealing river ** [ 6d ]
+Risko20 bets [$0.08]
+464711a calls [$0.07]
+** Summary **
+464711a shows [ 2c, Kc ]
+Risko20 shows [ 6h, Qd ]
+Risko20 collected [ $0.51 ]
+
+
+#Game No : 533576031
+***** 888poker Hand History for Game 533576031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2019 05:54:20
+Table Coquimbo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: dsmem15 ( $1 )
+Seat 6: mario505100 ( $2 )
+mario505100 posts small blind [$0.01]
+dsmem15 posts big blind [$0.02]
+** Dealing down cards **
+mario505100 calls [$0.01]
+dsmem15 checks
+** Dealing flop ** [ 8h, 2d, Ts ]
+dsmem15 checks
+mario505100 checks
+** Dealing turn ** [ 3h ]
+dsmem15 checks
+mario505100 bets [$0.04]
+dsmem15 folds
+** Summary **
+mario505100 did not show his hand
+mario505100 collected [ $0.04 ]
+
+
+#Game No : 533576059
+***** 888poker Hand History for Game 533576059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2019 05:54:44
+Table Coquimbo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: dsmem15 ( $0.98 )
+Seat 6: mario505100 ( $2.02 )
+dsmem15 posts small blind [$0.01]
+mario505100 posts big blind [$0.02]
+** Dealing down cards **
+dsmem15 calls [$0.01]
+mario505100 checks
+** Dealing flop ** [ 3s, 6s, 5c ]
+mario505100 bets [$0.04]
+dsmem15 calls [$0.04]
+** Dealing turn ** [ Qd ]
+mario505100 checks
+dsmem15 checks
+** Dealing river ** [ 7c ]
+mario505100 checks
+dsmem15 checks
+** Summary **
+mario505100 shows [ Ks, 3d ]
+dsmem15 shows [ Ac, 5h ]
+dsmem15 collected [ $0.12 ]
+
+

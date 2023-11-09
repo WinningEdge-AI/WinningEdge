@@ -1,0 +1,29 @@
+#Game No : 614084767
+***** 888poker Hand History for Game 614084767 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 01 2019 14:37:06
+Table Frisco 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: zn7521 ( $2.66 )
+Seat 4: mad_colonel ( $3 )
+mad_colonel posts small blind [$0.01]
+zn7521 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel raises [$0.03]
+zn7521 calls [$0.02]
+** Dealing flop ** [ 7d, 3d, 6c ]
+zn7521 checks
+mad_colonel checks
+** Dealing turn ** [ Ac ]
+zn7521 bets [$0.04]
+mad_colonel calls [$0.04]
+** Dealing river ** [ 9h ]
+zn7521 checks
+mad_colonel bets [$0.08]
+zn7521 calls [$0.08]
+** Summary **
+mad_colonel shows [ 8c, Ah ]
+zn7521 mucks [ 4h, 7h ]
+mad_colonel collected [ $0.30 ]
+
+

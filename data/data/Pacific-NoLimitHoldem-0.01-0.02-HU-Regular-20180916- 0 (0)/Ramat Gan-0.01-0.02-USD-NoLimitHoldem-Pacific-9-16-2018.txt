@@ -1,0 +1,88 @@
+#Game No : 1209337735
+***** 888poker Hand History for Game 1209337735 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 03:08:21
+Table Ramat Gan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Chuh_Chuh ( $2.01 )
+Seat 5: Lac.i ( $0.99 )
+Lac.i posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+Lac.i calls [$0.01]
+Chuh_Chuh raises [$0.02]
+Lac.i calls [$0.02]
+** Dealing flop ** [ Ac, 9h, 4h ]
+Chuh_Chuh checks
+Lac.i checks
+** Dealing turn ** [ 2d ]
+Chuh_Chuh checks
+Lac.i checks
+** Dealing river ** [ Ts ]
+Chuh_Chuh checks
+Lac.i checks
+** Summary **
+Chuh_Chuh shows [ Qd, Kc ]
+Lac.i shows [ 5h, 4d ]
+Lac.i collected [ $0.08 ]
+
+
+#Game No : 1209337861
+***** 888poker Hand History for Game 1209337861 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 03:08:25
+Table Ramat Gan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Chuh_Chuh ( $1.97 )
+Seat 5: Lac.i ( $1.03 )
+Chuh_Chuh posts small blind [$0.01]
+Lac.i posts big blind [$0.02]
+** Dealing down cards **
+Chuh_Chuh calls [$0.01]
+Lac.i checks
+** Dealing flop ** [ 5h, Th, 9h ]
+Lac.i checks
+Chuh_Chuh checks
+** Dealing turn ** [ 4s ]
+Lac.i checks
+Chuh_Chuh checks
+** Dealing river ** [ Ac ]
+Lac.i checks
+Chuh_Chuh checks
+** Summary **
+Lac.i shows [ 2c, 9c ]
+Chuh_Chuh mucks [ 6c, 4h ]
+Lac.i collected [ $0.04 ]
+
+
+#Game No : 1209337968
+***** 888poker Hand History for Game 1209337968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 03:08:59
+Table Ramat Gan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: Chuh_Chuh ( $1.95 )
+Seat 5: Lac.i ( $1.05 )
+Lac.i posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+Lac.i folds
+** Summary **
+Chuh_Chuh collected [ $0.03 ]
+
+
+#Game No : 1209350582
+***** 888poker Hand History for Game 1209350582 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 09 2018 04:11:26
+Table Ramat Gan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: asmak100 ( $0.83 )
+Seat 9: Nebazhitel ( $2.77 )
+asmak100 posts small blind [$0.01]
+** Dealing down cards **
+Nebazhitel folds
+** Summary **
+asmak100 collected [ $0.01 ]
+
+

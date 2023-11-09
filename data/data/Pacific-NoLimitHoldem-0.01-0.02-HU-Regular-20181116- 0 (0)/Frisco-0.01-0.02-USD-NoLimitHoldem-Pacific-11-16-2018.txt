@@ -1,0 +1,249 @@
+#Game No : 505464721
+***** 888poker Hand History for Game 505464721 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 18:59:02
+Table Frisco 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Cloud371 ( $0.73 )
+Seat 6: Venoom08 ( $0.83 )
+Cloud371 posts small blind [$0.01]
+Venoom08 posts big blind [$0.02]
+** Dealing down cards **
+Cloud371 calls [$0.01]
+Venoom08 checks
+** Dealing flop ** [ 2s, Jc, Kc ]
+Venoom08 bets [$0.02]
+Cloud371 calls [$0.02]
+** Dealing turn ** [ Qs ]
+Venoom08 bets [$0.02]
+Cloud371 raises [$0.04]
+Venoom08 calls [$0.02]
+** Dealing river ** [ 2h ]
+Venoom08 checks
+Cloud371 checks
+** Summary **
+Venoom08 shows [ 4h, Qc ]
+Cloud371 shows [ Ah, Ks ]
+Cloud371 collected [ $0.15 ]
+
+
+#Game No : 505464738
+***** 888poker Hand History for Game 505464738 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 18:59:35
+Table Frisco 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Cloud371 ( $0.80 )
+Seat 4: roquefort14 ( $0.80 )
+Cloud371 posts small blind [$0.01]
+roquefort14 posts big blind [$0.02]
+** Dealing down cards **
+Cloud371 calls [$0.01]
+roquefort14 checks
+** Dealing flop ** [ 3h, Ts, 5c ]
+Cloud371 bets [$0.02]
+roquefort14 raises [$0.04]
+Cloud371 calls [$0.02]
+** Dealing turn ** [ 6c ]
+Cloud371 bets [$0.08]
+roquefort14 calls [$0.08]
+** Dealing river ** [ 3d ]
+Cloud371 checks
+roquefort14 bets [$0.06]
+Cloud371 calls [$0.06]
+** Summary **
+roquefort14 shows [ 3s, 2s ]
+Cloud371 mucks [ Jc, Jh ]
+roquefort14 collected [ $0.38 ]
+
+
+#Game No : 505464753
+***** 888poker Hand History for Game 505464753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:00:27
+Table Frisco 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Cloud371 ( $0.60 )
+Seat 4: roquefort14 ( $0.98 )
+Cloud371 posts small blind [$0.01]
+roquefort14 posts big blind [$0.02]
+** Dealing down cards **
+Cloud371 calls [$0.01]
+roquefort14 checks
+** Dealing flop ** [ 5s, 3s, 9s ]
+roquefort14 checks
+Cloud371 checks
+** Dealing turn ** [ 3d ]
+roquefort14 checks
+Cloud371 checks
+** Dealing river ** [ 7s ]
+roquefort14 checks
+Cloud371 checks
+** Summary **
+roquefort14 shows [ 2h, Td ]
+Cloud371 shows [ 6c, Kc ]
+Cloud371 collected [ $0.04 ]
+
+
+#Game No : 505464765
+***** 888poker Hand History for Game 505464765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:00:55
+Table Frisco 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Cloud371 ( $0.62 )
+Seat 4: roquefort14 ( $0.96 )
+roquefort14 posts small blind [$0.01]
+Cloud371 posts big blind [$0.02]
+** Dealing down cards **
+roquefort14 calls [$0.01]
+Cloud371 checks
+** Dealing flop ** [ Jh, 6c, 3h ]
+Cloud371 checks
+roquefort14 checks
+** Dealing turn ** [ Ts ]
+Cloud371 bets [$0.02]
+roquefort14 folds
+** Summary **
+Cloud371 did not show his hand
+Cloud371 collected [ $0.04 ]
+
+
+#Game No : 505464771
+***** 888poker Hand History for Game 505464771 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:01:12
+Table Frisco 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Cloud371 ( $0.64 )
+Seat 4: roquefort14 ( $0.94 )
+Cloud371 posts small blind [$0.01]
+roquefort14 posts big blind [$0.02]
+** Dealing down cards **
+Cloud371 calls [$0.01]
+roquefort14 checks
+** Dealing flop ** [ 3s, 7c, 6c ]
+roquefort14 bets [$0.02]
+Cloud371 raises [$0.04]
+roquefort14 calls [$0.02]
+** Dealing turn ** [ 4d ]
+roquefort14 bets [$0.02]
+Cloud371 calls [$0.02]
+** Dealing river ** [ 9s ]
+roquefort14 bets [$0.02]
+Cloud371 calls [$0.02]
+** Summary **
+roquefort14 shows [ 6h, 8c ]
+Cloud371 shows [ 2h, 7s ]
+Cloud371 collected [ $0.19 ]
+
+
+#Game No : 505464785
+***** 888poker Hand History for Game 505464785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:01:49
+Table Frisco 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Cloud371 ( $0.73 )
+Seat 4: roquefort14 ( $0.84 )
+roquefort14 posts small blind [$0.01]
+Cloud371 posts big blind [$0.02]
+** Dealing down cards **
+roquefort14 calls [$0.01]
+Cloud371 checks
+** Dealing flop ** [ Kc, 5s, Jh ]
+Cloud371 bets [$0.02]
+roquefort14 folds
+** Summary **
+Cloud371 did not show his hand
+Cloud371 collected [ $0.04 ]
+
+
+#Game No : 505464790
+***** 888poker Hand History for Game 505464790 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:02:03
+Table Frisco 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Cloud371 ( $0.75 )
+Seat 4: roquefort14 ( $0.82 )
+Cloud371 posts small blind [$0.01]
+roquefort14 posts big blind [$0.02]
+** Dealing down cards **
+Cloud371 calls [$0.01]
+roquefort14 checks
+** Dealing flop ** [ 4d, 6c, 2s ]
+roquefort14 bets [$0.02]
+Cloud371 calls [$0.02]
+** Dealing turn ** [ 5s ]
+roquefort14 checks
+Cloud371 checks
+** Dealing river ** [ Jc ]
+roquefort14 bets [$0.02]
+Cloud371 calls [$0.02]
+** Summary **
+roquefort14 shows [ Qd, Jh ]
+Cloud371 mucks [ Qc, 6h ]
+roquefort14 collected [ $0.12 ]
+
+
+#Game No : 505464804
+***** 888poker Hand History for Game 505464804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:02:32
+Table Frisco 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Cloud371 ( $0.69 )
+Seat 4: roquefort14 ( $0.88 )
+roquefort14 posts small blind [$0.01]
+Cloud371 posts big blind [$0.02]
+** Dealing down cards **
+roquefort14 calls [$0.01]
+Cloud371 checks
+** Dealing flop ** [ 6s, 2d, Qh ]
+Cloud371 checks
+roquefort14 checks
+** Dealing turn ** [ Jh ]
+Cloud371 bets [$0.02]
+roquefort14 raises [$0.04]
+Cloud371 calls [$0.02]
+** Dealing river ** [ Kc ]
+Cloud371 checks
+roquefort14 bets [$0.06]
+Cloud371 folds
+** Summary **
+roquefort14 collected [ $0.12 ]
+
+
+#Game No : 505465292
+***** 888poker Hand History for Game 505465292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:30:47
+Table Frisco 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $2.84 )
+Seat 7: skiminok14 ( $0.81 )
+i_am_you_ posts small blind [$0.01]
+skiminok14 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+skiminok14 collected [ $0.03 ]
+
+
+#Game No : 505465295
+***** 888poker Hand History for Game 505465295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:30:52
+Table Frisco 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: i_am_you_ ( $2.83 )
+Seat 7: skiminok14 ( $0.82 )
+skiminok14 posts small blind [$0.01]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+skiminok14 did not show his hand
+skiminok14 collected [ $0.01 ]
+
+

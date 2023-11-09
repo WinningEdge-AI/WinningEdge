@@ -1,0 +1,77 @@
+#Game No : 457118888
+***** 888poker Hand History for Game 457118888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2018 16:11:57
+Table Chiclayo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: BorisWasT ( $2.08 )
+Seat 9: Minimax777 ( $1.91 )
+BorisWasT posts small blind [$0.01]
+Minimax777 posts big blind [$0.02]
+** Dealing down cards **
+BorisWasT calls [$0.01]
+Minimax777 checks
+** Dealing flop ** [ Ts, 9s, 7s ]
+Minimax777 bets [$0.04]
+BorisWasT calls [$0.04]
+** Dealing turn ** [ Qh ]
+Minimax777 bets [$0.06]
+BorisWasT folds
+** Summary **
+Minimax777 did not show his hand
+Minimax777 collected [ $0.12 ]
+
+
+#Game No : 457118902
+***** 888poker Hand History for Game 457118902 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2018 16:12:33
+Table Chiclayo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: BorisWasT ( $2.02 )
+Seat 9: Minimax777 ( $1.97 )
+Minimax777 posts small blind [$0.01]
+BorisWasT posts big blind [$0.02]
+** Dealing down cards **
+Minimax777 calls [$0.01]
+BorisWasT checks
+** Dealing flop ** [ Kd, 6d, Ah ]
+BorisWasT checks
+Minimax777 checks
+** Dealing turn ** [ 2s ]
+BorisWasT checks
+Minimax777 bets [$0.04]
+BorisWasT folds
+** Summary **
+Minimax777 did not show his hand
+Minimax777 collected [ $0.04 ]
+
+
+#Game No : 457118922
+***** 888poker Hand History for Game 457118922 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 11 2018 16:13:13
+Table Chiclayo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: BorisWasT ( $2 )
+Seat 9: Minimax777 ( $1.99 )
+BorisWasT posts small blind [$0.01]
+Minimax777 posts big blind [$0.02]
+** Dealing down cards **
+BorisWasT calls [$0.01]
+Minimax777 checks
+** Dealing flop ** [ Jh, Ac, 2s ]
+Minimax777 checks
+BorisWasT checks
+** Dealing turn ** [ 3c ]
+Minimax777 checks
+BorisWasT checks
+** Dealing river ** [ 8d ]
+Minimax777 checks
+BorisWasT checks
+** Summary **
+Minimax777 shows [ 6d, 4d ]
+BorisWasT shows [ 6c, 5h ]
+BorisWasT collected [ $0.04 ]
+
+

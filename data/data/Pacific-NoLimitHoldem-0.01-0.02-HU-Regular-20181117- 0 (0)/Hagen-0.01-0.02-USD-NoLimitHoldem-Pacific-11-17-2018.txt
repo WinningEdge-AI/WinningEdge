@@ -1,0 +1,45 @@
+#Game No : 505522212
+***** 888poker Hand History for Game 505522212 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 00:14:09
+Table Hagen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ALEXGORDV ( $0.82 )
+Seat 4: TomThumbsBlu ( $0.98 )
+ALEXGORDV posts small blind [$0.01]
+TomThumbsBlu posts big blind [$0.02]
+** Dealing down cards **
+ALEXGORDV calls [$0.01]
+TomThumbsBlu checks
+** Dealing flop ** [ 3s, 2d, 5d ]
+TomThumbsBlu checks
+ALEXGORDV checks
+** Dealing turn ** [ Kh ]
+TomThumbsBlu bets [$0.04]
+ALEXGORDV calls [$0.04]
+** Dealing river ** [ 4d ]
+TomThumbsBlu checks
+ALEXGORDV checks
+** Summary **
+TomThumbsBlu shows [ 8s, 3d ]
+ALEXGORDV shows [ Qs, Kd ]
+ALEXGORDV collected [ $0.12 ]
+
+
+#Game No : 505530181
+***** 888poker Hand History for Game 505530181 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 11 2018 04:01:01
+Table Hagen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: GARALD84 ( $1.80 )
+Seat 7: Fubion1 ( $0.93 )
+Fubion1 posts small blind [$0.01]
+GARALD84 posts big blind [$0.02]
+** Dealing down cards **
+Fubion1 raises [$0.05]
+GARALD84 folds
+** Summary **
+Fubion1 collected [ $0.04 ]
+
+

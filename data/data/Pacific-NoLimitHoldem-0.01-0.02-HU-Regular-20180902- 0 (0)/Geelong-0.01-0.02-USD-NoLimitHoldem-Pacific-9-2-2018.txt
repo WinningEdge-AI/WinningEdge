@@ -1,0 +1,71 @@
+#Game No : 455028826
+***** 888poker Hand History for Game 455028826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 02:17:55
+Table Geelong 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: wiw1960 ( $0.72 )
+Seat 9: scrpn666 ( $0.88 )
+wiw1960 posts small blind [$0.01]
+scrpn666 posts big blind [$0.02]
+** Dealing down cards **
+wiw1960 raises [$0.03]
+scrpn666 calls [$0.02]
+** Dealing flop ** [ 8s, Js, 5h ]
+scrpn666 bets [$0.08]
+wiw1960 calls [$0.08]
+** Dealing turn ** [ 4d ]
+scrpn666 bets [$0.12]
+wiw1960 calls [$0.12]
+** Dealing river ** [ Ad ]
+scrpn666 bets [$0.32]
+wiw1960 calls [$0.32]
+** Summary **
+scrpn666 shows [ 5c, 4c ]
+wiw1960 mucks [ 7s, Ah ]
+scrpn666 collected [ $1.05 ]
+
+
+#Game No : 455028839
+***** 888poker Hand History for Game 455028839 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 02:18:15
+Table Geelong 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: wiw1960 ( $0.16 )
+Seat 9: scrpn666 ( $1.37 )
+scrpn666 posts small blind [$0.01]
+wiw1960 posts big blind [$0.02]
+** Dealing down cards **
+scrpn666 raises [$0.03]
+wiw1960 calls [$0.02]
+** Dealing flop ** [ Jh, Kc, 5d ]
+wiw1960 bets [$0.02]
+scrpn666 folds
+** Summary **
+wiw1960 collected [ $0.08 ]
+
+
+#Game No : 455028844
+***** 888poker Hand History for Game 455028844 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 02:18:29
+Table Geelong 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: wiw1960 ( $0.20 )
+Seat 9: scrpn666 ( $1.33 )
+wiw1960 posts small blind [$0.01]
+scrpn666 posts big blind [$0.02]
+** Dealing down cards **
+wiw1960 calls [$0.01]
+scrpn666 raises [$1.31]
+wiw1960 calls [$0.18]
+** Dealing flop ** [ Td, 7h, 8s ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 2s ]
+** Summary **
+wiw1960 shows [ Qs, Kh ]
+scrpn666 shows [ 3h, 3d ]
+scrpn666 collected [ $0.38 ]
+
+

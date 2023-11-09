@@ -1,0 +1,101 @@
+#Game No : 508655193
+***** 888poker Hand History for Game 508655193 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 20:04:30
+Table Bedford 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: vipbeig ( $2.02 )
+Seat 2: Kosamui999 ( $1.98 )
+Kosamui999 posts small blind [$0.01]
+vipbeig posts big blind [$0.02]
+** Dealing down cards **
+Kosamui999 raises [$0.06]
+vipbeig calls [$0.05]
+** Dealing flop ** [ Qd, Kd, Jh ]
+vipbeig checks
+Kosamui999 bets [$0.06]
+vipbeig calls [$0.06]
+** Dealing turn ** [ 4s ]
+vipbeig checks
+Kosamui999 checks
+** Dealing river ** [ 2d ]
+vipbeig checks
+Kosamui999 bets [$0.13]
+vipbeig folds
+** Summary **
+Kosamui999 collected [ $0.25 ]
+
+
+#Game No : 508656165
+***** 888poker Hand History for Game 508656165 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 20:27:19
+Table Bedford 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: a_cut357 ( $1.78 )
+Seat 5: l0ur3nc010 ( $1.79 )
+l0ur3nc010 posts small blind [$0.01]
+a_cut357 posts big blind [$0.02]
+** Dealing down cards **
+l0ur3nc010 calls [$0.01]
+a_cut357 raises [$0.06]
+l0ur3nc010 calls [$0.06]
+** Dealing flop ** [ 7h, 3s, 9s ]
+a_cut357 bets [$0.06]
+l0ur3nc010 calls [$0.06]
+** Dealing turn ** [ 6d ]
+a_cut357 bets [$0.16]
+l0ur3nc010 calls [$0.16]
+** Dealing river ** [ Jh ]
+a_cut357 checks
+l0ur3nc010 checks
+** Summary **
+a_cut357 shows [ Ah, 8h ]
+l0ur3nc010 shows [ 2c, 3c ]
+l0ur3nc010 collected [ $0.57 ]
+
+
+#Game No : 508656194
+***** 888poker Hand History for Game 508656194 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 20:28:07
+Table Bedford 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: a_cut357 ( $1.48 )
+Seat 5: l0ur3nc010 ( $2.06 )
+a_cut357 posts small blind [$0.01]
+l0ur3nc010 posts big blind [$0.02]
+** Dealing down cards **
+a_cut357 calls [$0.01]
+l0ur3nc010 checks
+** Dealing flop ** [ Ks, 4h, Jh ]
+l0ur3nc010 checks
+a_cut357 bets [$0.06]
+l0ur3nc010 folds
+** Summary **
+a_cut357 did not show his hand
+a_cut357 collected [ $0.04 ]
+
+
+#Game No : 500908936
+***** 888poker Hand History for Game 500908936 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 08 2018 03:04:37
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RatherShort ( $1.76 )
+Seat 4: V0lat3p ( $2.12 )
+RatherShort posts small blind [$0.01]
+V0lat3p posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.03]
+V0lat3p calls [$0.02]
+** Dealing flop ** [ 6c, Ad, Qh ]
+V0lat3p checks
+RatherShort bets [$0.04]
+V0lat3p folds
+** Summary **
+RatherShort did not show his hand
+RatherShort collected [ $0.08 ]
+
+

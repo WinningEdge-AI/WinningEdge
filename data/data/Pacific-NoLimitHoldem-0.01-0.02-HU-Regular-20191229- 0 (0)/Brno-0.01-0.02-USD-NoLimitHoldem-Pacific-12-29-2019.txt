@@ -1,0 +1,101 @@
+#Game No : 629490677
+***** 888poker Hand History for Game 629490677 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 00:28:15
+Table Brno 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: live4theleaf ( $2 )
+Seat 4: Optimus40KER ( $2 )
+live4theleaf posts small blind [$0.01]
+Optimus40KER posts big blind [$0.02]
+** Dealing down cards **
+live4theleaf calls [$0.01]
+Optimus40KER checks
+** Dealing flop ** [ 6h, 2s, Jd ]
+Optimus40KER checks
+live4theleaf bets [$0.02]
+Optimus40KER folds
+** Summary **
+live4theleaf did not show his hand
+live4theleaf collected [ $0.04 ]
+
+
+#Game No : 629490686
+***** 888poker Hand History for Game 629490686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 00:28:41
+Table Brno 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: live4theleaf ( $2.02 )
+Seat 4: Optimus40KER ( $1.98 )
+Optimus40KER posts small blind [$0.01]
+live4theleaf posts big blind [$0.02]
+** Dealing down cards **
+Optimus40KER raises [$0.04]
+live4theleaf calls [$0.03]
+** Dealing flop ** [ Td, 9h, 4c ]
+live4theleaf bets [$0.02]
+Optimus40KER calls [$0.02]
+** Dealing turn ** [ 4s ]
+live4theleaf bets [$0.02]
+Optimus40KER calls [$0.02]
+** Dealing river ** [ Ad ]
+live4theleaf bets [$0.11]
+Optimus40KER folds
+** Summary **
+live4theleaf did not show his hand
+live4theleaf collected [ $0.17 ]
+
+
+#Game No : 629490707
+***** 888poker Hand History for Game 629490707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 00:29:37
+Table Brno 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: live4theleaf ( $2.10 )
+Seat 4: Optimus40KER ( $1.89 )
+live4theleaf posts small blind [$0.01]
+Optimus40KER posts big blind [$0.02]
+** Dealing down cards **
+live4theleaf calls [$0.01]
+Optimus40KER raises [$0.03]
+live4theleaf calls [$0.03]
+** Dealing flop ** [ 4d, 4h, Qh ]
+Optimus40KER bets [$0.04]
+live4theleaf folds
+** Summary **
+Optimus40KER did not show his hand
+Optimus40KER collected [ $0.10 ]
+
+
+#Game No : 629490716
+***** 888poker Hand History for Game 629490716 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 12 2019 00:30:11
+Table Brno 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: live4theleaf ( $2.05 )
+Seat 4: Optimus40KER ( $1.94 )
+Optimus40KER posts small blind [$0.01]
+live4theleaf posts big blind [$0.02]
+** Dealing down cards **
+Optimus40KER calls [$0.01]
+live4theleaf checks
+** Dealing flop ** [ 5s, 9h, Qd ]
+live4theleaf checks
+Optimus40KER checks
+** Dealing turn ** [ Ks ]
+live4theleaf checks
+Optimus40KER bets [$0.04]
+live4theleaf calls [$0.04]
+** Dealing river ** [ 9c ]
+live4theleaf checks
+Optimus40KER bets [$0.04]
+live4theleaf calls [$0.04]
+** Summary **
+Optimus40KER shows [ Kc, 6h ]
+live4theleaf mucks [ 8c, 2h ]
+Optimus40KER collected [ $0.19 ]
+
+

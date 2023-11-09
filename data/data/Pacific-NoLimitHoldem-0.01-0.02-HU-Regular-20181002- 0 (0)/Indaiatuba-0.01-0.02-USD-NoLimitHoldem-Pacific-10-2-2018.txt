@@ -1,0 +1,192 @@
+#Game No : 503239770
+***** 888poker Hand History for Game 503239770 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 11:00:23
+Table Indaiatuba 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: 10champion ( $0.99 )
+Seat 2: GoldPepper ( $2.10 )
+10champion posts small blind [$0.01]
+GoldPepper posts big blind [$0.02]
+** Dealing down cards **
+10champion raises [$0.05]
+GoldPepper raises [$0.16]
+10champion calls [$0.12]
+** Dealing flop ** [ 6c, 3s, 2s ]
+GoldPepper checks
+10champion checks
+** Dealing turn ** [ 8d ]
+GoldPepper bets [$0.24]
+10champion calls [$0.24]
+** Dealing river ** [ Tc ]
+GoldPepper bets [$0.40]
+10champion calls [$0.40]
+** Summary **
+GoldPepper shows [ As, 8c ]
+10champion mucks [ 9d, Ad ]
+GoldPepper collected [ $1.54 ]
+
+
+#Game No : 503239844
+***** 888poker Hand History for Game 503239844 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 11:01:25
+Table Indaiatuba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: GoldPepper ( $2.86 )
+Seat 6: IgnisEquitum ( $1.54 )
+IgnisEquitum posts small blind [$0.01]
+** Dealing down cards **
+GoldPepper folds
+** Summary **
+IgnisEquitum collected [ $0.01 ]
+
+
+#Game No : 503239849
+***** 888poker Hand History for Game 503239849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 11:01:28
+Table Indaiatuba 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: IgnisEquitum ( $1.54 )
+Seat 9: Frankiew87 ( $0.80 )
+IgnisEquitum posts small blind [$0.01]
+Frankiew87 posts big blind [$0.02]
+** Dealing down cards **
+IgnisEquitum raises [$0.05]
+Frankiew87 folds
+** Summary **
+IgnisEquitum collected [ $0.04 ]
+
+
+#Game No : 503239858
+***** 888poker Hand History for Game 503239858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 11:01:37
+Table Indaiatuba 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: IgnisEquitum ( $1.56 )
+Seat 9: Frankiew87 ( $0.78 )
+Frankiew87 posts small blind [$0.01]
+IgnisEquitum posts big blind [$0.02]
+** Dealing down cards **
+Frankiew87 calls [$0.01]
+IgnisEquitum checks
+** Dealing flop ** [ 8h, Ts, Ks ]
+IgnisEquitum checks
+Frankiew87 checks
+** Dealing turn ** [ 3s ]
+IgnisEquitum checks
+Frankiew87 checks
+** Dealing river ** [ Th ]
+IgnisEquitum checks
+Frankiew87 checks
+** Summary **
+IgnisEquitum shows [ 2h, 2d ]
+Frankiew87 mucks [ As, 6d ]
+IgnisEquitum collected [ $0.04 ]
+
+
+#Game No : 503242188
+***** 888poker Hand History for Game 503242188 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 11:35:29
+Table Indaiatuba 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Conall28 ( $1.36 )
+Seat 6: Srtilt17 ( $0.91 )
+Conall28 posts small blind [$0.01]
+Srtilt17 posts big blind [$0.02]
+** Dealing down cards **
+Conall28 raises [$0.03]
+Srtilt17 folds
+** Summary **
+Conall28 collected [ $0.04 ]
+
+
+#Game No : 503248330
+***** 888poker Hand History for Game 503248330 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 13:18:44
+Table Indaiatuba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: IGr0lk ( $1.37 )
+Seat 7: mesd1214 ( $2.38 )
+IGr0lk posts small blind [$0.01]
+mesd1214 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+mesd1214 calls [$0.02]
+** Dealing flop ** [ 8h, 3h, Jc ]
+mesd1214 checks
+IGr0lk bets [$0.05]
+mesd1214 calls [$0.05]
+** Dealing turn ** [ 9c ]
+mesd1214 checks
+IGr0lk checks
+** Dealing river ** [ 5d ]
+mesd1214 checks
+IGr0lk checks
+** Summary **
+mesd1214 shows [ 5s, 2s ]
+IGr0lk shows [ 8c, Ah ]
+IGr0lk collected [ $0.17 ]
+
+
+#Game No : 503248368
+***** 888poker Hand History for Game 503248368 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 13:19:22
+Table Indaiatuba 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: IGr0lk ( $1.45 )
+Seat 7: mesd1214 ( $2.29 )
+mesd1214 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+mesd1214 calls [$0.01]
+IGr0lk raises [$0.04]
+mesd1214 calls [$0.04]
+** Dealing flop ** [ 8h, Qh, Ac ]
+IGr0lk bets [$0.06]
+mesd1214 calls [$0.06]
+** Dealing turn ** [ 2s ]
+IGr0lk checks
+mesd1214 checks
+** Dealing river ** [ 3c ]
+IGr0lk bets [$0.12]
+mesd1214 folds
+** Summary **
+IGr0lk did not show his hand
+IGr0lk collected [ $0.23 ]
+
+
+#Game No : 503248393
+***** 888poker Hand History for Game 503248393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 10 2018 13:19:52
+Table Indaiatuba 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: IGr0lk ( $1.56 )
+Seat 7: mesd1214 ( $2.17 )
+IGr0lk posts small blind [$0.01]
+mesd1214 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+mesd1214 calls [$0.02]
+** Dealing flop ** [ 2c, Qc, Kc ]
+mesd1214 checks
+IGr0lk bets [$0.08]
+mesd1214 calls [$0.08]
+** Dealing turn ** [ 5s ]
+mesd1214 checks
+IGr0lk bets [$0.24]
+mesd1214 calls [$0.24]
+** Dealing river ** [ 4h ]
+mesd1214 checks
+IGr0lk bets [$0.36]
+mesd1214 folds
+** Summary **
+IGr0lk collected [ $0.68 ]
+
+

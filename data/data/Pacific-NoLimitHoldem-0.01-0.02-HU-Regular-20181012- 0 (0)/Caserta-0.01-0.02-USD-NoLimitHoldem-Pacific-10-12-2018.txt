@@ -1,0 +1,69 @@
+#Game No : 503674595
+***** 888poker Hand History for Game 503674595 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 10 2018 00:17:48
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KillavsDee ( $0.68 )
+Seat 4: NewGerolamoC ( $0.96 )
+KillavsDee posts small blind [$0.01]
+NewGerolamoC posts big blind [$0.02]
+** Dealing down cards **
+KillavsDee calls [$0.01]
+NewGerolamoC checks
+** Dealing flop ** [ 3s, Jh, Qd ]
+NewGerolamoC checks
+KillavsDee checks
+** Dealing turn ** [ Jc ]
+NewGerolamoC checks
+KillavsDee checks
+** Dealing river ** [ 8s ]
+NewGerolamoC checks
+KillavsDee checks
+** Summary **
+NewGerolamoC shows [ 5h, 4d ]
+KillavsDee shows [ 7d, Kc ]
+KillavsDee collected [ $0.04 ]
+
+
+#Game No : 503675446
+***** 888poker Hand History for Game 503675446 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 10 2018 00:49:41
+Table Caserta 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: KillavsDee ( $0.74 )
+Seat 4: NewGerolamoC ( $0.99 )
+NewGerolamoC posts small blind [$0.01]
+KillavsDee posts big blind [$0.02]
+** Dealing down cards **
+NewGerolamoC raises [$0.05]
+KillavsDee folds
+** Summary **
+NewGerolamoC collected [ $0.04 ]
+
+
+#Game No : 503675471
+***** 888poker Hand History for Game 503675471 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 10 2018 00:50:42
+Table Caserta 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KillavsDee ( $0.72 )
+Seat 4: NewGerolamoC ( $1.01 )
+KillavsDee posts small blind [$0.01]
+NewGerolamoC posts big blind [$0.02]
+** Dealing down cards **
+KillavsDee calls [$0.01]
+NewGerolamoC checks
+** Dealing flop ** [ 4c, 5s, Ac ]
+NewGerolamoC checks
+KillavsDee checks
+** Dealing turn ** [ Kd ]
+NewGerolamoC checks
+KillavsDee bets [$0.02]
+NewGerolamoC folds
+** Summary **
+KillavsDee collected [ $0.04 ]
+
+

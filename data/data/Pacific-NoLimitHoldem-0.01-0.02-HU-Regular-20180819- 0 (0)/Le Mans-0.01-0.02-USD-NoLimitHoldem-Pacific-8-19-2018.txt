@@ -1,0 +1,58 @@
+#Game No : 454529054
+***** 888poker Hand History for Game 454529054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 01:32:47
+Table Le Mans 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: stevoronanew ( $2 )
+Seat 2: Denisolomon ( $2 )
+stevoronanew posts small blind [$0.01]
+Denisolomon posts big blind [$0.02]
+** Dealing down cards **
+stevoronanew calls [$0.01]
+Denisolomon raises [$0.04]
+stevoronanew calls [$0.04]
+** Dealing flop ** [ 5c, 9s, 8s ]
+Denisolomon bets [$0.06]
+stevoronanew calls [$0.06]
+** Dealing turn ** [ 5h ]
+Denisolomon bets [$0.12]
+stevoronanew raises [$0.24]
+Denisolomon calls [$0.12]
+** Dealing river ** [ 6c ]
+Denisolomon checks
+stevoronanew bets [$1.64]
+Denisolomon folds
+** Summary **
+stevoronanew did not show his hand
+stevoronanew collected [ $0.68 ]
+
+
+#Game No : 454529059
+***** 888poker Hand History for Game 454529059 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 01:32:53
+Table Le Mans 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: stevoronanew ( $2.32 )
+Seat 2: Denisolomon ( $1.64 )
+Denisolomon posts small blind [$0.01]
+stevoronanew posts big blind [$0.02]
+** Dealing down cards **
+Denisolomon calls [$0.01]
+stevoronanew checks
+** Dealing flop ** [ 3h, Ts, 3s ]
+stevoronanew bets [$0.02]
+Denisolomon calls [$0.02]
+** Dealing turn ** [ 9s ]
+stevoronanew bets [$0.02]
+Denisolomon calls [$0.02]
+** Dealing river ** [ Ac ]
+stevoronanew bets [$2.26]
+Denisolomon calls [$1.58]
+** Summary **
+stevoronanew shows [ Tc, As ]
+Denisolomon shows [ 3c, Ad ]
+Denisolomon collected [ $3.08 ]
+
+

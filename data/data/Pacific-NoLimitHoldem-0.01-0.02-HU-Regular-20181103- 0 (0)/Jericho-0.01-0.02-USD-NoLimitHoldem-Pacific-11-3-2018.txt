@@ -1,0 +1,29 @@
+#Game No : 515097348
+***** 888poker Hand History for Game 515097348 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 11 2018 22:20:20
+Table Jericho 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: pobeda53 ( $0.80 )
+Seat 10: waimanc ( $1.99 )
+pobeda53 posts small blind [$0.01]
+waimanc posts big blind [$0.02]
+** Dealing down cards **
+pobeda53 calls [$0.01]
+waimanc checks
+** Dealing flop ** [ Kc, Qs, Qd ]
+waimanc checks
+pobeda53 checks
+** Dealing turn ** [ Kh ]
+waimanc checks
+pobeda53 checks
+** Dealing river ** [ Ac ]
+waimanc checks
+pobeda53 checks
+** Summary **
+waimanc shows [ 9s, 2d ]
+pobeda53 shows [ 5d, 3h ]
+waimanc collected [ $0.02 ]
+pobeda53 collected [ $0.02 ]
+
+

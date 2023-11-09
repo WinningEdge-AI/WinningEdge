@@ -1,0 +1,71 @@
+#Game No : 522834733
+***** 888poker Hand History for Game 522834733 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 02:23:19
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Bibuska ( $0.90 )
+Seat 9: marivalter ( $1.52 )
+marivalter posts small blind [$0.01]
+Bibuska posts big blind [$0.02]
+** Dealing down cards **
+marivalter raises [$0.03]
+Bibuska calls [$0.02]
+** Dealing flop ** [ 2s, 6c, 4c ]
+Bibuska checks
+marivalter bets [$0.05]
+Bibuska folds
+** Summary **
+marivalter collected [ $0.08 ]
+
+
+#Game No : 522835135
+***** 888poker Hand History for Game 522835135 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 02:32:15
+Table Lome 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: ArnoldisM ( $0.75 )
+Seat 9: marivalter ( $1.97 )
+marivalter posts small blind [$0.01]
+ArnoldisM posts big blind [$0.02]
+** Dealing down cards **
+marivalter raises [$0.03]
+ArnoldisM calls [$0.02]
+** Dealing flop ** [ 6c, 8c, 3s ]
+ArnoldisM checks
+marivalter bets [$0.04]
+ArnoldisM folds
+** Summary **
+marivalter collected [ $0.08 ]
+
+
+#Game No : 522837246
+***** 888poker Hand History for Game 522837246 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 01 2019 03:16:41
+Table Lome 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: sb2412 ( $1.01 )
+Seat 4: Nhojmc ( $0.81 )
+Nhojmc posts small blind [$0.01]
+sb2412 posts big blind [$0.02]
+** Dealing down cards **
+Nhojmc calls [$0.01]
+sb2412 checks
+** Dealing flop ** [ 9c, Ks, Td ]
+sb2412 checks
+Nhojmc checks
+** Dealing turn ** [ 8s ]
+sb2412 checks
+Nhojmc checks
+** Dealing river ** [ Kd ]
+sb2412 checks
+Nhojmc bets [$0.02]
+sb2412 calls [$0.02]
+** Summary **
+Nhojmc shows [ 7c, 5h ]
+sb2412 shows [ 3c, Ah ]
+sb2412 collected [ $0.08 ]
+
+

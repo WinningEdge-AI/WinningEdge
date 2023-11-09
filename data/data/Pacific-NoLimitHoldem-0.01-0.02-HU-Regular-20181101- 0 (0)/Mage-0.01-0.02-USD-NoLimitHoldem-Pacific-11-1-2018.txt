@@ -1,0 +1,83 @@
+#Game No : 504696448
+***** 888poker Hand History for Game 504696448 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 13:14:52
+Table Mage 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bayboy885 ( $0.82 )
+Seat 9: IGr0lk ( $1.23 )
+bayboy885 posts small blind [$0.01]
+IGr0lk posts big blind [$0.02]
+** Dealing down cards **
+bayboy885 raises [$0.04]
+IGr0lk calls [$0.03]
+** Dealing flop ** [ 2c, 6h, 5h ]
+IGr0lk checks
+bayboy885 checks
+** Dealing turn ** [ Ks ]
+IGr0lk checks
+bayboy885 checks
+** Dealing river ** [ 5c ]
+IGr0lk bets [$0.06]
+bayboy885 folds
+** Summary **
+IGr0lk collected [ $0.10 ]
+
+
+#Game No : 504696501
+***** 888poker Hand History for Game 504696501 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 13:15:45
+Table Mage 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: bayboy885 ( $0.80 )
+Seat 9: IGr0lk ( $1.28 )
+IGr0lk posts small blind [$0.01]
+bayboy885 posts big blind [$0.02]
+** Dealing down cards **
+IGr0lk raises [$0.03]
+bayboy885 calls [$0.02]
+** Dealing flop ** [ Td, Qh, 2c ]
+bayboy885 checks
+IGr0lk bets [$0.05]
+bayboy885 calls [$0.05]
+** Dealing turn ** [ Qc ]
+bayboy885 checks
+IGr0lk checks
+** Dealing river ** [ 7c ]
+bayboy885 bets [$0.12]
+IGr0lk calls [$0.12]
+** Summary **
+bayboy885 shows [ Qs, Jc ]
+IGr0lk mucks [ Ts, 2h ]
+bayboy885 collected [ $0.40 ]
+
+
+#Game No : 504698231
+***** 888poker Hand History for Game 504698231 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 11 2018 13:44:29
+Table Mage 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Oleksii666 ( $0.80 )
+Seat 9: majashark ( $1 )
+Oleksii666 posts small blind [$0.01]
+majashark posts big blind [$0.02]
+** Dealing down cards **
+Oleksii666 raises [$0.03]
+majashark calls [$0.02]
+** Dealing flop ** [ 3s, 4s, 9h ]
+majashark checks
+Oleksii666 checks
+** Dealing turn ** [ 7h ]
+majashark checks
+Oleksii666 checks
+** Dealing river ** [ 2h ]
+majashark checks
+Oleksii666 checks
+** Summary **
+majashark shows [ 6d, Ad ]
+Oleksii666 shows [ Ac, Jd ]
+Oleksii666 collected [ $0.08 ]
+
+

@@ -1,0 +1,45 @@
+#Game No : 456959149
+***** 888poker Hand History for Game 456959149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 10:01:41
+Table Divo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: JForsberg91 ( $1.94 )
+Seat 5: zukalek ( $2.06 )
+JForsberg91 posts small blind [$0.01]
+zukalek posts big blind [$0.02]
+** Dealing down cards **
+JForsberg91 calls [$0.01]
+zukalek checks
+** Dealing flop ** [ 7c, Kd, Kh ]
+zukalek checks
+JForsberg91 checks
+** Dealing turn ** [ Js ]
+zukalek checks
+JForsberg91 checks
+** Dealing river ** [ Kc ]
+zukalek checks
+JForsberg91 checks
+** Summary **
+zukalek shows [ 9s, Qd ]
+JForsberg91 shows [ 5c, Ac ]
+JForsberg91 collected [ $0.04 ]
+
+
+#Game No : 456959168
+***** 888poker Hand History for Game 456959168 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 10:02:11
+Table Divo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: JForsberg91 ( $1.96 )
+Seat 5: zukalek ( $2.04 )
+zukalek posts small blind [$0.01]
+JForsberg91 posts big blind [$0.02]
+** Dealing down cards **
+zukalek folds
+** Summary **
+JForsberg91 did not show his hand
+JForsberg91 collected [ $0.03 ]
+
+

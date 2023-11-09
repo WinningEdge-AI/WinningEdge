@@ -1,0 +1,52 @@
+#Game No : 462270965
+***** 888poker Hand History for Game 462270965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 14:22:06
+Table Charleston 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Binah84 ( $1.94 )
+Seat 6: dimian3153 ( $1.35 )
+Binah84 posts small blind [$0.01]
+dimian3153 posts big blind [$0.02]
+** Dealing down cards **
+Binah84 raises [$0.05]
+dimian3153 calls [$0.04]
+** Dealing flop ** [ Qh, 6h, Qc ]
+dimian3153 checks
+Binah84 bets [$0.06]
+dimian3153 raises [$0.18]
+Binah84 calls [$0.12]
+** Dealing turn ** [ 5d ]
+dimian3153 checks
+Binah84 bets [$0.10]
+dimian3153 calls [$0.10]
+** Dealing river ** [ Kh ]
+dimian3153 checks
+Binah84 checks
+** Summary **
+dimian3153 shows [ As, 4d ]
+Binah84 mucks [ Jh, Ts ]
+dimian3153 collected [ $0.64 ]
+
+
+#Game No : 462270993
+***** 888poker Hand History for Game 462270993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 28 02 2019 14:22:47
+Table Charleston 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Binah84 ( $1.60 )
+Seat 6: dimian3153 ( $1.65 )
+dimian3153 posts small blind [$0.01]
+Binah84 posts big blind [$0.02]
+** Dealing down cards **
+dimian3153 calls [$0.01]
+Binah84 checks
+** Dealing flop ** [ 3s, 3d, 2c ]
+Binah84 checks
+dimian3153 bets [$0.04]
+Binah84 folds
+** Summary **
+dimian3153 collected [ $0.04 ]
+
+

@@ -1,0 +1,47 @@
+#Game No : 515019499
+***** 888poker Hand History for Game 515019499 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 10:09:52
+Table Brasov 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ahtoh24 ( $0.69 )
+Seat 5: Ash.05 ( $2.07 )
+ahtoh24 posts small blind [$0.01]
+Ash.05 posts big blind [$0.02]
+** Dealing down cards **
+ahtoh24 calls [$0.01]
+Ash.05 checks
+** Dealing flop ** [ 4d, 8d, 6h ]
+Ash.05 bets [$0.04]
+ahtoh24 calls [$0.04]
+** Dealing turn ** [ 6d ]
+Ash.05 bets [$0.12]
+ahtoh24 calls [$0.12]
+** Dealing river ** [ 7h ]
+Ash.05 bets [$0.36]
+ahtoh24 folds
+** Summary **
+Ash.05 collected [ $0.34 ]
+
+
+#Game No : 515019525
+***** 888poker Hand History for Game 515019525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 10:10:25
+Table Brasov 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: ahtoh24 ( $0.51 )
+Seat 5: Ash.05 ( $2.23 )
+Ash.05 posts small blind [$0.01]
+ahtoh24 posts big blind [$0.02]
+** Dealing down cards **
+Ash.05 calls [$0.01]
+ahtoh24 checks
+** Dealing flop ** [ Ts, 7s, Ks ]
+ahtoh24 checks
+Ash.05 bets [$0.02]
+ahtoh24 folds
+** Summary **
+Ash.05 collected [ $0.04 ]
+
+

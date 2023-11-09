@@ -1,0 +1,73 @@
+#Game No : 505357544
+***** 888poker Hand History for Game 505357544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 07 2018 01:16:42
+Table Maceio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: ZikZik17 ( $2.76 )
+Seat 7: wan24k ( $1.16 )
+wan24k posts small blind [$0.01]
+ZikZik17 posts big blind [$0.02]
+** Dealing down cards **
+wan24k raises [$0.03]
+ZikZik17 folds
+** Summary **
+wan24k collected [ $0.04 ]
+
+
+#Game No : 505357552
+***** 888poker Hand History for Game 505357552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 07 2018 01:16:52
+Table Maceio 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ZikZik17 ( $2.74 )
+Seat 7: wan24k ( $1.18 )
+ZikZik17 posts small blind [$0.01]
+wan24k posts big blind [$0.02]
+** Dealing down cards **
+ZikZik17 raises [$0.05]
+wan24k calls [$0.04]
+** Dealing flop ** [ Qc, Jh, 2s ]
+wan24k checks
+ZikZik17 bets [$0.04]
+wan24k calls [$0.04]
+** Dealing turn ** [ 6c ]
+wan24k checks
+ZikZik17 checks
+** Dealing river ** [ 6d ]
+wan24k bets [$0.06]
+ZikZik17 folds
+** Summary **
+wan24k collected [ $0.19 ]
+
+
+#Game No : 505357572
+***** 888poker Hand History for Game 505357572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 07 2018 01:17:22
+Table Maceio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: ZikZik17 ( $2.64 )
+Seat 7: wan24k ( $1.27 )
+wan24k posts small blind [$0.01]
+ZikZik17 posts big blind [$0.02]
+** Dealing down cards **
+wan24k calls [$0.01]
+ZikZik17 checks
+** Dealing flop ** [ Td, 3h, Ad ]
+ZikZik17 checks
+wan24k checks
+** Dealing turn ** [ Kh ]
+ZikZik17 checks
+wan24k checks
+** Dealing river ** [ Qc ]
+ZikZik17 checks
+wan24k bets [$0.04]
+ZikZik17 calls [$0.04]
+** Summary **
+wan24k shows [ Jh, 4s ]
+ZikZik17 mucks [ Th, Qd ]
+wan24k collected [ $0.12 ]
+
+

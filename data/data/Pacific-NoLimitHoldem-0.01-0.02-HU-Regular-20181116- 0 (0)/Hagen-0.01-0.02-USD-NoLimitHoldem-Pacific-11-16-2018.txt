@@ -1,0 +1,104 @@
+#Game No : 505465471
+***** 888poker Hand History for Game 505465471 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:43:51
+Table Hagen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: acky_crush ( $3.40 )
+Seat 6: ROCCO716 ( $1.65 )
+ROCCO716 posts small blind [$0.01]
+acky_crush posts big blind [$0.02]
+** Dealing down cards **
+ROCCO716 calls [$0.01]
+acky_crush checks
+** Dealing flop ** [ 9h, 2h, 4d ]
+acky_crush checks
+ROCCO716 checks
+** Dealing turn ** [ Td ]
+acky_crush checks
+ROCCO716 checks
+** Dealing river ** [ Ad ]
+acky_crush bets [$0.04]
+ROCCO716 folds
+** Summary **
+acky_crush collected [ $0.04 ]
+
+
+#Game No : 505465485
+***** 888poker Hand History for Game 505465485 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:44:47
+Table Hagen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: acky_crush ( $3.42 )
+Seat 6: ROCCO716 ( $1.63 )
+acky_crush posts small blind [$0.01]
+ROCCO716 posts big blind [$0.02]
+** Dealing down cards **
+acky_crush raises [$0.03]
+ROCCO716 calls [$0.02]
+** Dealing flop ** [ 9h, 6h, Kh ]
+ROCCO716 checks
+acky_crush checks
+** Dealing turn ** [ Jc ]
+ROCCO716 checks
+acky_crush checks
+** Dealing river ** [ Ts ]
+ROCCO716 checks
+acky_crush checks
+** Summary **
+ROCCO716 shows [ Ad, 2c ]
+acky_crush shows [ 9c, Ac ]
+acky_crush collected [ $0.08 ]
+
+
+#Game No : 505465535
+***** 888poker Hand History for Game 505465535 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 19:48:21
+Table Hagen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Cliveawhit ( $0.77 )
+Seat 6: ROCCO716 ( $1.59 )
+ROCCO716 posts small blind [$0.01]
+Cliveawhit posts big blind [$0.02]
+** Dealing down cards **
+ROCCO716 folds
+** Summary **
+Cliveawhit collected [ $0.03 ]
+
+
+#Game No : 505468245
+***** 888poker Hand History for Game 505468245 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 22:35:08
+Table Hagen 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pouii ( $1.12 )
+Seat 7: Bacchant ( $1.01 )
+pouii posts small blind [$0.01]
+Bacchant posts big blind [$0.02]
+** Dealing down cards **
+pouii raises [$0.05]
+Bacchant folds
+** Summary **
+pouii did not show his hand
+pouii collected [ $0.04 ]
+
+
+#Game No : 505468252
+***** 888poker Hand History for Game 505468252 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 11 2018 22:35:20
+Table Hagen 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: pouii ( $1.14 )
+Seat 7: Bacchant ( $1 )
+Bacchant posts small blind [$0.01]
+** Dealing down cards **
+pouii folds
+** Summary **
+Bacchant did not show his hand
+Bacchant collected [ $0.01 ]
+
+

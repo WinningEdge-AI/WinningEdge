@@ -1,0 +1,205 @@
+#Game No : 501128274
+***** 888poker Hand History for Game 501128274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 14:58:32
+Table Milan 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: alexzetnord ( $1.61 )
+Seat 9: Axlguy ( $1.41 )
+alexzetnord posts small blind [$0.01]
+Axlguy posts big blind [$0.02]
+** Dealing down cards **
+alexzetnord folds
+** Summary **
+Axlguy collected [ $0.03 ]
+
+
+#Game No : 501130317
+***** 888poker Hand History for Game 501130317 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 15:45:49
+Table Milan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1 )
+Seat 9: kapable71 ( $2.09 )
+kapable71 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+kapable71 calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 9d, 3s, 3h ]
+OlegH1 checks
+kapable71 checks
+** Dealing turn ** [ 4s ]
+OlegH1 bets [$0.02]
+kapable71 folds
+** Summary **
+OlegH1 collected [ $0.04 ]
+
+
+#Game No : 501130632
+***** 888poker Hand History for Game 501130632 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 15:56:56
+Table Milan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1 )
+Seat 9: kapable71 ( $2.19 )
+OlegH1 posts small blind [$0.01]
+kapable71 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+kapable71 collected [ $0.03 ]
+
+
+#Game No : 501130636
+***** 888poker Hand History for Game 501130636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 15:57:01
+Table Milan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1 )
+Seat 9: kapable71 ( $2.20 )
+kapable71 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+kapable71 calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ 5c, 4d, 6s ]
+OlegH1 checks
+kapable71 checks
+** Dealing turn ** [ 3d ]
+OlegH1 checks
+kapable71 bets [$0.02]
+OlegH1 calls [$0.02]
+** Dealing river ** [ 9h ]
+OlegH1 checks
+kapable71 bets [$0.08]
+OlegH1 folds
+** Summary **
+kapable71 did not show his hand
+kapable71 collected [ $0.08 ]
+
+
+#Game No : 501130653
+***** 888poker Hand History for Game 501130653 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 15:57:40
+Table Milan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1 )
+Seat 9: kapable71 ( $2.24 )
+OlegH1 posts small blind [$0.01]
+kapable71 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+kapable71 checks
+** Dealing flop ** [ 3s, 6h, 3c ]
+kapable71 checks
+OlegH1 bets [$0.02]
+kapable71 calls [$0.02]
+** Dealing turn ** [ Jc ]
+kapable71 bets [$0.02]
+OlegH1 calls [$0.02]
+** Dealing river ** [ 7s ]
+kapable71 bets [$0.46]
+OlegH1 calls [$0.46]
+** Summary **
+kapable71 shows [ 3d, 7d ]
+OlegH1 mucks [ 5h, 3h ]
+kapable71 collected [ $0.98 ]
+
+
+#Game No : 501130677
+***** 888poker Hand History for Game 501130677 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 15:58:26
+Table Milan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1 )
+Seat 9: kapable71 ( $2.70 )
+kapable71 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+kapable71 raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ 9d, 8h, Kc ]
+OlegH1 checks
+kapable71 checks
+** Dealing turn ** [ Qc ]
+OlegH1 checks
+kapable71 bets [$0.04]
+OlegH1 calls [$0.04]
+** Dealing river ** [ Td ]
+OlegH1 checks
+kapable71 checks
+** Summary **
+OlegH1 shows [ 9c, 6c ]
+kapable71 mucks [ Ah, 7d ]
+OlegH1 collected [ $0.15 ]
+
+
+#Game No : 501130974
+***** 888poker Hand History for Game 501130974 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:07:00
+Table Milan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.31 )
+Seat 9: kapable71 ( $2.37 )
+OlegH1 posts small blind [$0.01]
+kapable71 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 raises [$0.05]
+kapable71 calls [$0.04]
+** Dealing flop ** [ Jc, 8h, 2s ]
+kapable71 checks
+OlegH1 bets [$0.08]
+kapable71 raises [$0.16]
+OlegH1 raises [$1.17]
+kapable71 folds
+** Summary **
+OlegH1 did not show his hand
+OlegH1 collected [ $0.42 ]
+
+
+#Game No : 501130991
+***** 888poker Hand History for Game 501130991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:07:44
+Table Milan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.51 )
+Seat 9: kapable71 ( $2.15 )
+kapable71 posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+kapable71 raises [$0.03]
+OlegH1 calls [$0.02]
+** Dealing flop ** [ 2s, Th, 2c ]
+OlegH1 checks
+kapable71 bets [$0.05]
+OlegH1 folds
+** Summary **
+kapable71 did not show his hand
+kapable71 collected [ $0.08 ]
+
+
+#Game No : 501131002
+***** 888poker Hand History for Game 501131002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 08 2018 16:08:11
+Table Milan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: OlegH1 ( $1.47 )
+Seat 9: kapable71 ( $2.19 )
+OlegH1 posts small blind [$0.01]
+kapable71 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+kapable71 did not show his hand
+kapable71 collected [ $0.03 ]
+
+

@@ -1,0 +1,92 @@
+#Game No : 545465829
+***** 888poker Hand History for Game 545465829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 12 2019 23:23:16
+Table Campinas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AnnikaLove ( $2.06 )
+Seat 9: Sugrob4ik ( $2.02 )
+AnnikaLove posts small blind [$0.01]
+Sugrob4ik posts big blind [$0.02]
+** Dealing down cards **
+AnnikaLove calls [$0.01]
+Sugrob4ik checks
+** Dealing flop ** [ 7d, 9c, 8s ]
+Sugrob4ik checks
+AnnikaLove checks
+** Dealing turn ** [ Qs ]
+Sugrob4ik checks
+AnnikaLove checks
+** Dealing river ** [ 8c ]
+Sugrob4ik checks
+AnnikaLove checks
+** Summary **
+Sugrob4ik shows [ 6s, 4s ]
+AnnikaLove shows [ 3h, As ]
+AnnikaLove collected [ $0.04 ]
+
+
+#Game No : 545466529
+***** 888poker Hand History for Game 545466529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 12 2019 23:47:32
+Table Campinas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $2.17 )
+Seat 9: Sugrob4ik ( $2.49 )
+Sugrob4ik posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Sugrob4ik raises [$0.03]
+Kattazo calls [$0.02]
+** Dealing flop ** [ Th, Kd, 2h ]
+Kattazo checks
+Sugrob4ik bets [$0.04]
+Kattazo calls [$0.04]
+** Dealing turn ** [ Kh ]
+Kattazo checks
+Sugrob4ik bets [$0.10]
+Kattazo folds
+** Summary **
+Sugrob4ik collected [ $0.15 ]
+
+
+#Game No : 545466543
+***** 888poker Hand History for Game 545466543 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 12 2019 23:48:04
+Table Campinas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $2.09 )
+Seat 9: Sugrob4ik ( $2.56 )
+Kattazo posts small blind [$0.01]
+Sugrob4ik posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.05]
+Sugrob4ik calls [$0.04]
+** Dealing flop ** [ 6s, 3h, 8c ]
+Sugrob4ik checks
+Kattazo checks
+** Dealing turn ** [ Qc ]
+Sugrob4ik bets [$0.08]
+Kattazo folds
+** Summary **
+Sugrob4ik collected [ $0.12 ]
+
+
+#Game No : 545466557
+***** 888poker Hand History for Game 545466557 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 12 2019 23:48:23
+Table Campinas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Kattazo ( $2.03 )
+Seat 9: Sugrob4ik ( $2.62 )
+Sugrob4ik posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Sugrob4ik folds
+** Summary **
+Kattazo collected [ $0.03 ]
+
+

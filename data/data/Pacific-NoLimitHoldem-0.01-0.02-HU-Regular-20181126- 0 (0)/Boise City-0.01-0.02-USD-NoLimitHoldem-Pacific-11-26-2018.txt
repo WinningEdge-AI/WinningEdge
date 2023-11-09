@@ -1,0 +1,785 @@
+#Game No : 505828827
+***** 888poker Hand History for Game 505828827 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 16:18:16
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Willy1141 ( $0.86 )
+Seat 4: Graaf34 ( $1.08 )
+Willy1141 posts small blind [$0.01]
+Graaf34 posts big blind [$0.02]
+** Dealing down cards **
+Willy1141 calls [$0.01]
+Graaf34 checks
+** Dealing flop ** [ Kc, Qd, 7d ]
+Graaf34 checks
+Willy1141 bets [$0.02]
+Graaf34 folds
+** Summary **
+Willy1141 collected [ $0.04 ]
+
+
+#Game No : 505828833
+***** 888poker Hand History for Game 505828833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 16:19:32
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Willy1141 ( $0.88 )
+Seat 4: Graaf34 ( $1.06 )
+Graaf34 posts small blind [$0.01]
+Willy1141 posts big blind [$0.02]
+** Dealing down cards **
+Graaf34 raises [$0.03]
+Willy1141 calls [$0.02]
+** Dealing flop ** [ Ad, 2c, Ks ]
+Willy1141 checks
+Graaf34 bets [$0.02]
+Willy1141 folds
+** Summary **
+Graaf34 collected [ $0.08 ]
+
+
+#Game No : 505829478
+***** 888poker Hand History for Game 505829478 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 18:06:02
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BoykezyM ( $1.96 )
+Seat 6: Viniper888 ( $1.20 )
+BoykezyM posts small blind [$0.01]
+Viniper888 posts big blind [$0.02]
+** Dealing down cards **
+BoykezyM folds
+** Summary **
+Viniper888 collected [ $0.03 ]
+
+
+#Game No : 505829479
+***** 888poker Hand History for Game 505829479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 18:06:09
+Table Boise City 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: BoykezyM ( $1.95 )
+Seat 6: Viniper888 ( $1.21 )
+Viniper888 posts small blind [$0.01]
+BoykezyM posts big blind [$0.02]
+** Dealing down cards **
+Viniper888 raises [$0.03]
+BoykezyM calls [$0.02]
+** Dealing flop ** [ Tc, Ah, 5d ]
+BoykezyM checks
+Viniper888 bets [$0.06]
+BoykezyM folds
+** Summary **
+Viniper888 collected [ $0.08 ]
+
+
+#Game No : 505829492
+***** 888poker Hand History for Game 505829492 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 18:08:00
+Table Boise City 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: BoykezyM ( $2.03 )
+Seat 6: Viniper888 ( $1.16 )
+Viniper888 posts small blind [$0.01]
+BoykezyM posts big blind [$0.02]
+** Dealing down cards **
+Viniper888 calls [$0.01]
+BoykezyM checks
+** Dealing flop ** [ Ac, 9h, 6c ]
+BoykezyM checks
+Viniper888 bets [$0.02]
+BoykezyM calls [$0.02]
+** Dealing turn ** [ Qs ]
+BoykezyM checks
+Viniper888 bets [$0.02]
+BoykezyM calls [$0.02]
+** Dealing river ** [ 5d ]
+BoykezyM checks
+Viniper888 checks
+** Summary **
+BoykezyM shows [ 5s, 7s ]
+Viniper888 shows [ 9d, 7c ]
+Viniper888 collected [ $0.12 ]
+
+
+#Game No : 505829688
+***** 888poker Hand History for Game 505829688 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 18:55:01
+Table Boise City 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: EarleTheFish ( $0.85 )
+Seat 6: ardenpaq ( $0.91 )
+ardenpaq posts small blind [$0.01]
+EarleTheFish posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq calls [$0.01]
+EarleTheFish raises [$0.02]
+ardenpaq calls [$0.02]
+** Dealing flop ** [ Ah, 5s, Kh ]
+EarleTheFish bets [$0.04]
+ardenpaq folds
+** Summary **
+EarleTheFish did not show his hand
+EarleTheFish collected [ $0.08 ]
+
+
+#Game No : 505829690
+***** 888poker Hand History for Game 505829690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 18:55:08
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: EarleTheFish ( $0.89 )
+Seat 6: ardenpaq ( $0.87 )
+EarleTheFish posts small blind [$0.01]
+ardenpaq posts big blind [$0.02]
+** Dealing down cards **
+EarleTheFish raises [$0.03]
+ardenpaq calls [$0.02]
+** Dealing flop ** [ Ks, 6c, As ]
+ardenpaq checks
+EarleTheFish checks
+** Dealing turn ** [ 2s ]
+ardenpaq checks
+EarleTheFish checks
+** Dealing river ** [ Ad ]
+ardenpaq checks
+EarleTheFish bets [$0.08]
+ardenpaq folds
+** Summary **
+EarleTheFish did not show his hand
+EarleTheFish collected [ $0.08 ]
+
+
+#Game No : 505829692
+***** 888poker Hand History for Game 505829692 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 18:55:29
+Table Boise City 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: EarleTheFish ( $0.93 )
+Seat 6: ardenpaq ( $0.83 )
+ardenpaq posts small blind [$0.01]
+EarleTheFish posts big blind [$0.02]
+** Dealing down cards **
+ardenpaq raises [$0.03]
+EarleTheFish raises [$0.04]
+ardenpaq raises [$0.08]
+EarleTheFish raises [$0.30]
+ardenpaq folds
+** Summary **
+EarleTheFish did not show his hand
+EarleTheFish collected [ $0.24 ]
+
+
+#Game No : 505829706
+***** 888poker Hand History for Game 505829706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 18:57:48
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: EarleTheFish ( $1.42 )
+Seat 7: Ultimatumqc ( $1.26 )
+Ultimatumqc posts small blind [$0.01]
+EarleTheFish posts big blind [$0.02]
+** Dealing down cards **
+Ultimatumqc calls [$0.01]
+EarleTheFish raises [$0.03]
+Ultimatumqc folds
+** Summary **
+EarleTheFish collected [ $0.04 ]
+
+
+#Game No : 505829993
+***** 888poker Hand History for Game 505829993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 19:46:07
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: n00btimer ( $1 )
+Seat 4: 4u4elooo ( $1.15 )
+4u4elooo posts small blind [$0.01]
+n00btimer posts big blind [$0.02]
+** Dealing down cards **
+4u4elooo raises [$0.05]
+n00btimer folds
+** Summary **
+4u4elooo collected [ $0.04 ]
+
+
+#Game No : 505830007
+***** 888poker Hand History for Game 505830007 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 19:48:35
+Table Boise City 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Aleksan136 ( $1.03 )
+Seat 9: ZaikaFT ( $0.83 )
+Aleksan136 posts small blind [$0.01]
+ZaikaFT posts big blind [$0.02]
+** Dealing down cards **
+Aleksan136 raises [$0.03]
+ZaikaFT folds
+** Summary **
+Aleksan136 did not show his hand
+Aleksan136 collected [ $0.04 ]
+
+
+#Game No : 611311079
+***** 888poker Hand History for Game 611311079 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 21:31:32
+Table Boise City 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Lu1zHenrique ( $0.91 )
+Seat 9: Armata777 ( $1.84 )
+Lu1zHenrique posts small blind [$0.01]
+Armata777 posts big blind [$0.02]
+** Dealing down cards **
+Lu1zHenrique raises [$0.03]
+Armata777 calls [$0.02]
+** Dealing flop ** [ Ac, 2h, 3h ]
+Armata777 checks
+Lu1zHenrique checks
+** Dealing turn ** [ Kh ]
+Armata777 bets [$0.04]
+Lu1zHenrique raises [$0.08]
+Armata777 raises [$0.22]
+Lu1zHenrique calls [$0.18]
+** Dealing river ** [ 8d ]
+Armata777 bets [$1.54]
+Lu1zHenrique folds
+** Summary **
+Armata777 collected [ $0.57 ]
+
+
+#Game No : 611311116
+***** 888poker Hand History for Game 611311116 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 21:33:28
+Table Boise City 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Lu1zHenrique ( $0.61 )
+Seat 9: Armata777 ( $2.11 )
+Armata777 posts small blind [$0.01]
+Lu1zHenrique posts big blind [$0.02]
+** Dealing down cards **
+Armata777 raises [$0.05]
+Lu1zHenrique folds
+** Summary **
+Armata777 collected [ $0.04 ]
+
+
+#Game No : 611311122
+***** 888poker Hand History for Game 611311122 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 21:33:40
+Table Boise City 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: DenVL ( $1 )
+Seat 9: Armata777 ( $2.13 )
+Armata777 posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+Armata777 raises [$0.03]
+DenVL calls [$0.02]
+** Dealing flop ** [ 6c, Td, 5c ]
+Armata777 bets [$0.04]
+DenVL raises [$0.12]
+Armata777 folds
+** Summary **
+DenVL collected [ $0.15 ]
+
+
+#Game No : 611312949
+***** 888poker Hand History for Game 611312949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:11:09
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.02 )
+Seat 6: Armata777 ( $1.03 )
+DenVL posts small blind [$0.01]
+** Dealing down cards **
+Armata777 folds
+** Summary **
+DenVL collected [ $0.01 ]
+
+
+#Game No : 611312964
+***** 888poker Hand History for Game 611312964 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:12:02
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.02 )
+Seat 7: grigoriets ( $1 )
+grigoriets posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+grigoriets folds
+** Summary **
+DenVL collected [ $0.03 ]
+
+
+#Game No : 611312966
+***** 888poker Hand History for Game 611312966 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:12:08
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.03 )
+Seat 7: grigoriets ( $0.99 )
+DenVL posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+DenVL raises [$0.05]
+grigoriets calls [$0.04]
+** Dealing flop ** [ 2c, Ad, 2h ]
+grigoriets checks
+DenVL checks
+** Dealing turn ** [ Jd ]
+grigoriets checks
+DenVL bets [$0.06]
+grigoriets folds
+** Summary **
+DenVL collected [ $0.12 ]
+
+
+#Game No : 611312972
+***** 888poker Hand History for Game 611312972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:12:24
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.09 )
+Seat 7: grigoriets ( $0.93 )
+grigoriets posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+grigoriets raises [$0.03]
+DenVL calls [$0.02]
+** Dealing flop ** [ Js, 3c, 2h ]
+DenVL checks
+grigoriets bets [$0.04]
+DenVL folds
+** Summary **
+grigoriets collected [ $0.08 ]
+
+
+#Game No : 611312987
+***** 888poker Hand History for Game 611312987 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:12:57
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.05 )
+Seat 7: grigoriets ( $0.97 )
+DenVL posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+DenVL raises [$0.05]
+grigoriets folds
+** Summary **
+DenVL collected [ $0.04 ]
+
+
+#Game No : 611312989
+***** 888poker Hand History for Game 611312989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:13:03
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.07 )
+Seat 7: grigoriets ( $0.95 )
+grigoriets posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+grigoriets raises [$0.03]
+DenVL folds
+** Summary **
+grigoriets collected [ $0.04 ]
+
+
+#Game No : 611312995
+***** 888poker Hand History for Game 611312995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:13:16
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.05 )
+Seat 7: grigoriets ( $0.97 )
+DenVL posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+grigoriets collected [ $0.03 ]
+
+
+#Game No : 611312999
+***** 888poker Hand History for Game 611312999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:13:30
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.04 )
+Seat 7: grigoriets ( $0.98 )
+grigoriets posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+grigoriets folds
+** Summary **
+DenVL collected [ $0.03 ]
+
+
+#Game No : 611313002
+***** 888poker Hand History for Game 611313002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:13:36
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.05 )
+Seat 7: grigoriets ( $0.97 )
+DenVL posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+grigoriets collected [ $0.03 ]
+
+
+#Game No : 611313008
+***** 888poker Hand History for Game 611313008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:13:42
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.04 )
+Seat 7: grigoriets ( $0.98 )
+grigoriets posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+grigoriets raises [$0.03]
+DenVL raises [$0.11]
+grigoriets raises [$0.94]
+DenVL calls [$0.85]
+** Dealing flop ** [ 4d, 9d, Kc ]
+** Dealing turn ** [ 9s ]
+** Dealing river ** [ 8c ]
+** Summary **
+DenVL shows [ Qs, Ah ]
+grigoriets shows [ Ad, Kh ]
+grigoriets collected [ $1.84 ]
+
+
+#Game No : 611313018
+***** 888poker Hand History for Game 611313018 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:14:11
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1 )
+Seat 7: grigoriets ( $1.84 )
+DenVL posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+grigoriets collected [ $0.03 ]
+
+
+#Game No : 611313022
+***** 888poker Hand History for Game 611313022 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:14:20
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1 )
+Seat 7: grigoriets ( $1.85 )
+grigoriets posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+grigoriets raises [$0.03]
+DenVL calls [$0.02]
+** Dealing flop ** [ 6d, 7d, 8h ]
+DenVL checks
+grigoriets bets [$0.04]
+DenVL folds
+** Summary **
+grigoriets collected [ $0.08 ]
+
+
+#Game No : 611313033
+***** 888poker Hand History for Game 611313033 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:14:40
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1 )
+Seat 7: grigoriets ( $1.89 )
+DenVL posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+grigoriets collected [ $0.03 ]
+
+
+#Game No : 611313038
+***** 888poker Hand History for Game 611313038 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:14:48
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1 )
+Seat 7: grigoriets ( $1.90 )
+grigoriets posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+grigoriets folds
+** Summary **
+DenVL collected [ $0.03 ]
+
+
+#Game No : 611313040
+***** 888poker Hand History for Game 611313040 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:14:53
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.01 )
+Seat 7: grigoriets ( $1.89 )
+DenVL posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+grigoriets collected [ $0.03 ]
+
+
+#Game No : 611313044
+***** 888poker Hand History for Game 611313044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:14:58
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1 )
+Seat 7: grigoriets ( $1.90 )
+grigoriets posts small blind [$0.01]
+DenVL posts big blind [$0.02]
+** Dealing down cards **
+grigoriets raises [$0.03]
+DenVL raises [$0.11]
+grigoriets folds
+** Summary **
+DenVL collected [ $0.08 ]
+
+
+#Game No : 611313047
+***** 888poker Hand History for Game 611313047 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2018 23:15:07
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: DenVL ( $1.04 )
+Seat 7: grigoriets ( $1.86 )
+DenVL posts small blind [$0.01]
+grigoriets posts big blind [$0.02]
+** Dealing down cards **
+DenVL folds
+** Summary **
+grigoriets collected [ $0.03 ]
+
+
+#Game No : 611318564
+***** 888poker Hand History for Game 611318564 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 02:41:32
+Table Boise City 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: DRUS994 ( $1 )
+Seat 4: MooKor ( $0.94 )
+MooKor posts small blind [$0.01]
+DRUS994 posts big blind [$0.02]
+** Dealing down cards **
+MooKor raises [$0.05]
+DRUS994 folds
+** Summary **
+MooKor did not show his hand
+MooKor collected [ $0.04 ]
+
+
+#Game No : 509768054
+***** 888poker Hand History for Game 509768054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 04:43:26
+Table Boise City 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: ili0nessa ( $2.45 )
+Seat 9: salsal74 ( $1.17 )
+ili0nessa posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+ili0nessa raises [$0.03]
+salsal74 folds
+** Summary **
+ili0nessa collected [ $0.04 ]
+
+
+#Game No : 509768060
+***** 888poker Hand History for Game 509768060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 04:43:34
+Table Boise City 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: ili0nessa ( $2.47 )
+Seat 9: salsal74 ( $1.15 )
+salsal74 posts small blind [$0.01]
+ili0nessa posts big blind [$0.02]
+** Dealing down cards **
+salsal74 folds
+** Summary **
+ili0nessa collected [ $0.03 ]
+
+
+#Game No : 509769989
+***** 888poker Hand History for Game 509769989 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 05:53:24
+Table Boise City 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Dont_Give_UP ( $2.71 )
+Seat 6: dimetrio3 ( $1.79 )
+dimetrio3 posts small blind [$0.01]
+Dont_Give_UP posts big blind [$0.02]
+** Dealing down cards **
+dimetrio3 raises [$0.05]
+Dont_Give_UP folds
+** Summary **
+dimetrio3 collected [ $0.04 ]
+
+
+#Game No : 509769990
+***** 888poker Hand History for Game 509769990 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 05:53:32
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Dont_Give_UP ( $2.69 )
+Seat 6: dimetrio3 ( $1.81 )
+Dont_Give_UP posts small blind [$0.01]
+dimetrio3 posts big blind [$0.02]
+** Dealing down cards **
+Dont_Give_UP raises [$0.07]
+dimetrio3 folds
+** Summary **
+Dont_Give_UP collected [ $0.04 ]
+
+
+#Game No : 509770123
+***** 888poker Hand History for Game 509770123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 05:58:17
+Table Boise City 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Zialik769 ( $1.71 )
+Seat 6: dimetrio3 ( $1.75 )
+dimetrio3 posts small blind [$0.01]
+Zialik769 posts big blind [$0.02]
+** Dealing down cards **
+dimetrio3 folds
+** Summary **
+Zialik769 collected [ $0.03 ]
+
+
+#Game No : 509770140
+***** 888poker Hand History for Game 509770140 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 05:58:46
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Zialik769 ( $1.70 )
+Seat 6: dimetrio3 ( $1.73 )
+Zialik769 posts small blind [$0.01]
+dimetrio3 posts big blind [$0.02]
+** Dealing down cards **
+Zialik769 raises [$0.05]
+dimetrio3 folds
+** Summary **
+Zialik769 did not show his hand
+Zialik769 collected [ $0.04 ]
+
+
+#Game No : 509770210
+***** 888poker Hand History for Game 509770210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 06:01:17
+Table Boise City 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Zialik769 ( $1.72 )
+Seat 9: SANYA659 ( $1.31 )
+Zialik769 posts small blind [$0.01]
+SANYA659 posts big blind [$0.02]
+** Dealing down cards **
+Zialik769 calls [$0.01]
+SANYA659 checks
+** Dealing flop ** [ Qc, 6c, Ad ]
+SANYA659 checks
+Zialik769 bets [$0.04]
+SANYA659 folds
+** Summary **
+Zialik769 collected [ $0.04 ]
+
+
+#Game No : 509776963
+***** 888poker Hand History for Game 509776963 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 09:10:47
+Table Boise City 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: kryvosheieva ( $0.77 )
+Seat 9: salsal74 ( $1.08 )
+salsal74 posts small blind [$0.01]
+kryvosheieva posts big blind [$0.02]
+** Dealing down cards **
+salsal74 raises [$0.05]
+kryvosheieva raises [$0.08]
+salsal74 calls [$0.04]
+** Dealing flop ** [ 7c, 2h, 8d ]
+kryvosheieva bets [$0.20]
+salsal74 calls [$0.20]
+** Dealing turn ** [ Qs ]
+kryvosheieva bets [$0.47]
+salsal74 calls [$0.47]
+** Dealing river ** [ 8h ]
+** Summary **
+kryvosheieva shows [ Ac, 7s ]
+salsal74 shows [ Ad, 7d ]
+salsal74 collected [ $0.72 ]
+kryvosheieva collected [ $0.73 ]
+
+
+#Game No : 509776982
+***** 888poker Hand History for Game 509776982 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 11 2018 09:11:16
+Table Boise City 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kryvosheieva ( $0.73 )
+Seat 9: salsal74 ( $1.03 )
+kryvosheieva posts small blind [$0.01]
+salsal74 posts big blind [$0.02]
+** Dealing down cards **
+kryvosheieva folds
+** Summary **
+salsal74 did not show his hand
+salsal74 collected [ $0.03 ]
+
+

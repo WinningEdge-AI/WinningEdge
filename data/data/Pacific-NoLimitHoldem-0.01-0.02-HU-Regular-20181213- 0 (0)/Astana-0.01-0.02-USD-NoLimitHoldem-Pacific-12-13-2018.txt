@@ -1,0 +1,60 @@
+#Game No : 1231259511
+***** 888poker Hand History for Game 1231259511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2018 06:32:22
+Table Astana 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: botinochek ( $1.01 )
+Seat 2: Bene2016 ( $0.80 )
+botinochek posts small blind [$0.01]
+Bene2016 posts big blind [$0.02]
+** Dealing down cards **
+botinochek raises [$0.03]
+Bene2016 calls [$0.02]
+** Dealing flop ** [ 9c, 9d, Kd ]
+Bene2016 bets [$0.04]
+botinochek raises [$0.08]
+Bene2016 calls [$0.04]
+** Dealing turn ** [ 3h ]
+Bene2016 checks
+botinochek bets [$0.02]
+Bene2016 raises [$0.20]
+botinochek raises [$0.36]
+Bene2016 folds
+** Summary **
+botinochek did not show his hand
+botinochek collected [ $0.60 ]
+
+
+#Game No : 1231259624
+***** 888poker Hand History for Game 1231259624 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2018 06:32:37
+Table Astana 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: botinochek ( $1.29 )
+Seat 2: Bene2016 ( $0.80 )
+Bene2016 posts small blind [$0.01]
+botinochek posts big blind [$0.02]
+** Dealing down cards **
+Bene2016 raises [$0.05]
+botinochek calls [$0.04]
+** Dealing flop ** [ Jc, 9c, Kh ]
+botinochek checks
+Bene2016 bets [$0.06]
+botinochek calls [$0.06]
+** Dealing turn ** [ 6s ]
+botinochek checks
+Bene2016 bets [$0.12]
+botinochek calls [$0.12]
+** Dealing river ** [ 2d ]
+botinochek checks
+Bene2016 bets [$0.24]
+botinochek calls [$0.24]
+** Summary **
+Bene2016 shows [ 6h, 8c ]
+botinochek shows [ 4s, 6d ]
+Bene2016 collected [ $0.45 ]
+botinochek collected [ $0.45 ]
+
+

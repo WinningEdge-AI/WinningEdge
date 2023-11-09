@@ -1,0 +1,559 @@
+#Game No : 527429750
+***** 888poker Hand History for Game 527429750 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:32:08
+Table Geneva 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Viacha ( $1.45 )
+Seat 6: iks2s ( $1.01 )
+Viacha posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+Viacha folds
+** Summary **
+iks2s collected [ $0.03 ]
+
+
+#Game No : 527429759
+***** 888poker Hand History for Game 527429759 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:32:30
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Viacha ( $1.44 )
+Seat 6: iks2s ( $1.02 )
+iks2s posts small blind [$0.01]
+Viacha posts big blind [$0.02]
+** Dealing down cards **
+iks2s folds
+** Summary **
+Viacha collected [ $0.03 ]
+
+
+#Game No : 527429941
+***** 888poker Hand History for Game 527429941 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:41:21
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.70 )
+Seat 6: iks2s ( $0.95 )
+iks2s posts small blind [$0.01]
+bourne1963 posts big blind [$0.02]
+** Dealing down cards **
+iks2s calls [$0.01]
+bourne1963 checks
+** Dealing flop ** [ 6d, Ks, Qd ]
+bourne1963 checks
+iks2s bets [$0.04]
+bourne1963 folds
+** Summary **
+iks2s collected [ $0.04 ]
+
+
+#Game No : 527429949
+***** 888poker Hand History for Game 527429949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:41:34
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.68 )
+Seat 6: iks2s ( $0.97 )
+bourne1963 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+bourne1963 calls [$0.01]
+iks2s checks
+** Dealing flop ** [ Js, 4s, Kh ]
+iks2s bets [$0.04]
+bourne1963 calls [$0.04]
+** Dealing turn ** [ Kd ]
+iks2s bets [$0.04]
+bourne1963 calls [$0.04]
+** Dealing river ** [ 5c ]
+iks2s bets [$0.04]
+bourne1963 calls [$0.04]
+** Summary **
+iks2s shows [ Jh, 8h ]
+bourne1963 shows [ Jd, Ac ]
+bourne1963 collected [ $0.27 ]
+
+
+#Game No : 527429957
+***** 888poker Hand History for Game 527429957 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:41:56
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.81 )
+Seat 6: iks2s ( $0.83 )
+iks2s posts small blind [$0.01]
+bourne1963 posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+bourne1963 calls [$0.04]
+** Dealing flop ** [ 6s, Qd, 4c ]
+bourne1963 checks
+iks2s checks
+** Dealing turn ** [ Qc ]
+bourne1963 bets [$0.02]
+iks2s calls [$0.02]
+** Dealing river ** [ 8c ]
+bourne1963 bets [$0.10]
+iks2s calls [$0.10]
+** Summary **
+bourne1963 shows [ Kd, Qs ]
+iks2s mucks [ Td, As ]
+bourne1963 collected [ $0.34 ]
+
+
+#Game No : 527429967
+***** 888poker Hand History for Game 527429967 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:42:27
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.97 )
+Seat 6: iks2s ( $0.65 )
+bourne1963 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+bourne1963 folds
+** Summary **
+iks2s collected [ $0.03 ]
+
+
+#Game No : 527429970
+***** 888poker Hand History for Game 527429970 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:42:36
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.96 )
+Seat 6: iks2s ( $0.66 )
+iks2s posts small blind [$0.01]
+bourne1963 posts big blind [$0.02]
+** Dealing down cards **
+iks2s folds
+** Summary **
+bourne1963 collected [ $0.03 ]
+
+
+#Game No : 527429972
+***** 888poker Hand History for Game 527429972 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:42:42
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.97 )
+Seat 6: iks2s ( $0.65 )
+bourne1963 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+bourne1963 calls [$0.01]
+iks2s checks
+** Dealing flop ** [ 7s, Ac, 3s ]
+iks2s checks
+bourne1963 checks
+** Dealing turn ** [ 7c ]
+iks2s checks
+bourne1963 bets [$0.02]
+iks2s folds
+** Summary **
+bourne1963 collected [ $0.04 ]
+
+
+#Game No : 527429981
+***** 888poker Hand History for Game 527429981 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:42:58
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.99 )
+Seat 6: iks2s ( $0.63 )
+iks2s posts small blind [$0.01]
+bourne1963 posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+bourne1963 folds
+** Summary **
+iks2s collected [ $0.04 ]
+
+
+#Game No : 527429985
+***** 888poker Hand History for Game 527429985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:43:06
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.97 )
+Seat 6: iks2s ( $0.65 )
+bourne1963 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+bourne1963 calls [$0.01]
+iks2s raises [$0.04]
+bourne1963 calls [$0.04]
+** Dealing flop ** [ 9c, 7d, 2c ]
+iks2s bets [$0.12]
+bourne1963 folds
+** Summary **
+iks2s collected [ $0.12 ]
+
+
+#Game No : 527429992
+***** 888poker Hand History for Game 527429992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:43:23
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.91 )
+Seat 6: iks2s ( $0.71 )
+iks2s posts small blind [$0.01]
+bourne1963 posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+bourne1963 folds
+** Summary **
+iks2s collected [ $0.04 ]
+
+
+#Game No : 527429994
+***** 888poker Hand History for Game 527429994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:43:31
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.89 )
+Seat 6: iks2s ( $0.73 )
+bourne1963 posts small blind [$0.01]
+iks2s posts big blind [$0.02]
+** Dealing down cards **
+bourne1963 folds
+** Summary **
+iks2s collected [ $0.03 ]
+
+
+#Game No : 527429995
+***** 888poker Hand History for Game 527429995 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 19:43:37
+Table Geneva 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: bourne1963 ( $0.88 )
+Seat 6: iks2s ( $0.74 )
+iks2s posts small blind [$0.01]
+bourne1963 posts big blind [$0.02]
+** Dealing down cards **
+iks2s raises [$0.05]
+bourne1963 raises [$0.08]
+iks2s calls [$0.04]
+** Dealing flop ** [ 2s, 5c, 6d ]
+bourne1963 bets [$0.02]
+iks2s raises [$0.04]
+bourne1963 calls [$0.02]
+** Dealing turn ** [ Ah ]
+bourne1963 bets [$0.02]
+iks2s calls [$0.02]
+** Dealing river ** [ 3h ]
+bourne1963 bets [$0.02]
+iks2s calls [$0.02]
+** Summary **
+bourne1963 shows [ Ad, 7c ]
+iks2s mucks [ Qc, Kh ]
+bourne1963 collected [ $0.34 ]
+
+
+#Game No : 527430728
+***** 888poker Hand History for Game 527430728 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:16:25
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Biss8989 ( $1.18 )
+Seat 9: aequitas1984 ( $1.72 )
+aequitas1984 posts small blind [$0.01]
+Biss8989 posts big blind [$0.02]
+** Dealing down cards **
+aequitas1984 folds
+** Summary **
+Biss8989 did not show his hand
+Biss8989 collected [ $0.03 ]
+
+
+#Game No : 527430731
+***** 888poker Hand History for Game 527430731 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:16:30
+Table Geneva 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Biss8989 ( $1.19 )
+Seat 9: aequitas1984 ( $1.71 )
+Biss8989 posts small blind [$0.01]
+aequitas1984 posts big blind [$0.02]
+** Dealing down cards **
+Biss8989 folds
+** Summary **
+aequitas1984 collected [ $0.03 ]
+
+
+#Game No : 527430748
+***** 888poker Hand History for Game 527430748 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:17:03
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $1.01 )
+Seat 9: aequitas1984 ( $1.69 )
+aequitas1984 posts small blind [$0.01]
+Branz3128 posts big blind [$0.02]
+** Dealing down cards **
+aequitas1984 folds
+** Summary **
+Branz3128 collected [ $0.03 ]
+
+
+#Game No : 527430751
+***** 888poker Hand History for Game 527430751 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:17:08
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $1.02 )
+Seat 9: aequitas1984 ( $1.68 )
+Branz3128 posts small blind [$0.01]
+aequitas1984 posts big blind [$0.02]
+** Dealing down cards **
+Branz3128 calls [$0.01]
+aequitas1984 checks
+** Dealing flop ** [ Qd, 5s, Js ]
+aequitas1984 checks
+Branz3128 checks
+** Dealing turn ** [ 5d ]
+aequitas1984 checks
+Branz3128 checks
+** Dealing river ** [ 4s ]
+aequitas1984 checks
+Branz3128 bets [$1]
+aequitas1984 folds
+** Summary **
+Branz3128 did not show his hand
+Branz3128 collected [ $0.04 ]
+
+
+#Game No : 527430763
+***** 888poker Hand History for Game 527430763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:17:45
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $1.04 )
+Seat 9: aequitas1984 ( $1.66 )
+aequitas1984 posts small blind [$0.01]
+Branz3128 posts big blind [$0.02]
+** Dealing down cards **
+aequitas1984 raises [$0.06]
+Branz3128 folds
+** Summary **
+aequitas1984 did not show his hand
+aequitas1984 collected [ $0.04 ]
+
+
+#Game No : 527430766
+***** 888poker Hand History for Game 527430766 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:18:03
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $1.02 )
+Seat 9: aequitas1984 ( $1.68 )
+Branz3128 posts small blind [$0.01]
+aequitas1984 posts big blind [$0.02]
+** Dealing down cards **
+Branz3128 calls [$0.01]
+aequitas1984 checks
+** Dealing flop ** [ Kh, Js, 9h ]
+aequitas1984 bets [$0.02]
+Branz3128 calls [$0.02]
+** Dealing turn ** [ 6d ]
+aequitas1984 checks
+Branz3128 checks
+** Dealing river ** [ Ah ]
+aequitas1984 bets [$0.05]
+Branz3128 folds
+** Summary **
+aequitas1984 did not show his hand
+aequitas1984 collected [ $0.08 ]
+
+
+#Game No : 527430773
+***** 888poker Hand History for Game 527430773 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:18:27
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $0.98 )
+Seat 9: aequitas1984 ( $1.72 )
+aequitas1984 posts small blind [$0.01]
+Branz3128 posts big blind [$0.02]
+** Dealing down cards **
+aequitas1984 raises [$0.06]
+Branz3128 calls [$0.05]
+** Dealing flop ** [ 3s, Ad, 5h ]
+Branz3128 checks
+aequitas1984 bets [$0.07]
+Branz3128 folds
+** Summary **
+aequitas1984 did not show his hand
+aequitas1984 collected [ $0.14 ]
+
+
+#Game No : 527430779
+***** 888poker Hand History for Game 527430779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:18:41
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $0.91 )
+Seat 9: aequitas1984 ( $1.79 )
+Branz3128 posts small blind [$0.01]
+aequitas1984 posts big blind [$0.02]
+** Dealing down cards **
+Branz3128 calls [$0.01]
+aequitas1984 raises [$0.06]
+Branz3128 raises [$0.12]
+aequitas1984 calls [$0.06]
+** Dealing flop ** [ 5s, 5d, 4s ]
+aequitas1984 checks
+Branz3128 bets [$0.77]
+aequitas1984 folds
+** Summary **
+Branz3128 did not show his hand
+Branz3128 collected [ $0.27 ]
+
+
+#Game No : 527430790
+***** 888poker Hand History for Game 527430790 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:19:03
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $1.04 )
+Seat 9: aequitas1984 ( $1.65 )
+aequitas1984 posts small blind [$0.01]
+Branz3128 posts big blind [$0.02]
+** Dealing down cards **
+aequitas1984 folds
+** Summary **
+Branz3128 did not show his hand
+Branz3128 collected [ $0.03 ]
+
+
+#Game No : 527430791
+***** 888poker Hand History for Game 527430791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:19:08
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $1.05 )
+Seat 9: aequitas1984 ( $1.64 )
+Branz3128 posts small blind [$0.01]
+aequitas1984 posts big blind [$0.02]
+** Dealing down cards **
+Branz3128 calls [$0.01]
+aequitas1984 checks
+** Dealing flop ** [ 7h, 5d, 9s ]
+aequitas1984 checks
+Branz3128 bets [$0.02]
+aequitas1984 folds
+** Summary **
+Branz3128 did not show his hand
+Branz3128 collected [ $0.04 ]
+
+
+#Game No : 527430802
+***** 888poker Hand History for Game 527430802 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:19:35
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $1.07 )
+Seat 9: aequitas1984 ( $1.62 )
+aequitas1984 posts small blind [$0.01]
+Branz3128 posts big blind [$0.02]
+** Dealing down cards **
+aequitas1984 folds
+** Summary **
+Branz3128 did not show his hand
+Branz3128 collected [ $0.03 ]
+
+
+#Game No : 527430804
+***** 888poker Hand History for Game 527430804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:19:44
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $1.08 )
+Seat 9: aequitas1984 ( $1.61 )
+Branz3128 posts small blind [$0.01]
+aequitas1984 posts big blind [$0.02]
+** Dealing down cards **
+Branz3128 calls [$0.01]
+aequitas1984 checks
+** Dealing flop ** [ 8d, Qc, 2c ]
+aequitas1984 checks
+Branz3128 bets [$0.04]
+aequitas1984 folds
+** Summary **
+Branz3128 did not show his hand
+Branz3128 collected [ $0.04 ]
+
+
+#Game No : 527430811
+***** 888poker Hand History for Game 527430811 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:20:04
+Table Geneva 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $1.10 )
+Seat 9: aequitas1984 ( $1.59 )
+aequitas1984 posts small blind [$0.01]
+Branz3128 posts big blind [$0.02]
+** Dealing down cards **
+aequitas1984 raises [$0.06]
+Branz3128 raises [$0.10]
+aequitas1984 calls [$0.05]
+** Dealing flop ** [ 9d, Th, 4d ]
+Branz3128 checks
+aequitas1984 checks
+** Dealing turn ** [ Kh ]
+Branz3128 checks
+aequitas1984 bets [$0.16]
+Branz3128 raises [$0.32]
+aequitas1984 raises [$1.31]
+Branz3128 calls [$0.66]
+** Dealing river ** [ 4s ]
+** Summary **
+Branz3128 shows [ Qd, Jh ]
+aequitas1984 shows [ 9c, Ks ]
+Branz3128 collected [ $2.07 ]
+
+
+#Game No : 527430828
+***** 888poker Hand History for Game 527430828 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 03 2019 20:20:42
+Table Geneva 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Branz3128 ( $2.07 )
+Seat 9: aequitas1984 ( $1 )
+Branz3128 posts small blind [$0.01]
+aequitas1984 posts big blind [$0.02]
+** Dealing down cards **
+Branz3128 folds
+** Summary **
+aequitas1984 did not show his hand
+aequitas1984 collected [ $0.03 ]
+
+

@@ -1,0 +1,83 @@
+#Game No : 514585572
+***** 888poker Hand History for Game 514585572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 18:30:45
+Table Hanover 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: PEOPLE22LF ( $2.47 )
+Seat 10: IA0984 ( $1 )
+PEOPLE22LF posts small blind [$0.01]
+IA0984 posts big blind [$0.02]
+** Dealing down cards **
+PEOPLE22LF calls [$0.01]
+IA0984 checks
+** Dealing flop ** [ Jh, As, 2c ]
+IA0984 checks
+PEOPLE22LF bets [$0.02]
+IA0984 calls [$0.02]
+** Dealing turn ** [ Ks ]
+IA0984 checks
+PEOPLE22LF bets [$0.06]
+IA0984 calls [$0.06]
+** Dealing river ** [ 6h ]
+IA0984 checks
+PEOPLE22LF checks
+** Summary **
+IA0984 shows [ Ad, 4s ]
+PEOPLE22LF mucks [ Kh, 8c ]
+IA0984 collected [ $0.19 ]
+
+
+#Game No : 514585605
+***** 888poker Hand History for Game 514585605 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 18:31:15
+Table Hanover 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: PEOPLE22LF ( $2.37 )
+Seat 10: IA0984 ( $1.09 )
+IA0984 posts small blind [$0.01]
+PEOPLE22LF posts big blind [$0.02]
+** Dealing down cards **
+IA0984 calls [$0.01]
+PEOPLE22LF raises [$0.04]
+IA0984 calls [$0.04]
+** Dealing flop ** [ Td, Ks, 5d ]
+PEOPLE22LF bets [$0.06]
+IA0984 folds
+** Summary **
+PEOPLE22LF did not show his hand
+PEOPLE22LF collected [ $0.12 ]
+
+
+#Game No : 514585623
+***** 888poker Hand History for Game 514585623 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 10 2018 18:31:34
+Table Hanover 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: PEOPLE22LF ( $2.43 )
+Seat 10: IA0984 ( $1.03 )
+PEOPLE22LF posts small blind [$0.01]
+IA0984 posts big blind [$0.02]
+** Dealing down cards **
+PEOPLE22LF calls [$0.01]
+IA0984 raises [$0.02]
+PEOPLE22LF calls [$0.02]
+** Dealing flop ** [ Kc, Jc, 9c ]
+IA0984 bets [$0.04]
+PEOPLE22LF raises [$0.16]
+IA0984 calls [$0.12]
+** Dealing turn ** [ Ks ]
+IA0984 bets [$0.20]
+PEOPLE22LF raises [$0.60]
+IA0984 calls [$0.40]
+** Dealing river ** [ Th ]
+IA0984 bets [$0.22]
+PEOPLE22LF calls [$0.22]
+** Summary **
+IA0984 shows [ 9h, 5s ]
+PEOPLE22LF shows [ Jh, 7s ]
+PEOPLE22LF collected [ $1.92 ]
+
+

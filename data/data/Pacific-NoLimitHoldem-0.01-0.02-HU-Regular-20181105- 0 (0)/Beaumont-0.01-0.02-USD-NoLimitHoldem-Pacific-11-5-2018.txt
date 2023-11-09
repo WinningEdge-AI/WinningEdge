@@ -1,0 +1,918 @@
+#Game No : 504887482
+***** 888poker Hand History for Game 504887482 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 07:46:31
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: NadroJr ( $1.21 )
+Seat 2: nekrospoil ( $1 )
+nekrospoil posts small blind [$0.01]
+NadroJr posts big blind [$0.02]
+** Dealing down cards **
+nekrospoil folds
+** Summary **
+NadroJr collected [ $0.03 ]
+
+
+#Game No : 504906888
+***** 888poker Hand History for Game 504906888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 13:22:49
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: skolob09 ( $0.79 )
+Seat 4: YarFight ( $4.38 )
+YarFight posts small blind [$0.01]
+skolob09 posts big blind [$0.02]
+** Dealing down cards **
+YarFight raises [$0.05]
+skolob09 folds
+** Summary **
+YarFight collected [ $0.04 ]
+
+
+#Game No : 504906897
+***** 888poker Hand History for Game 504906897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 13:22:58
+Table Beaumont 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skolob09 ( $0.77 )
+Seat 4: YarFight ( $4.40 )
+skolob09 posts small blind [$0.01]
+YarFight posts big blind [$0.02]
+** Dealing down cards **
+skolob09 raises [$0.07]
+YarFight calls [$0.06]
+** Dealing flop ** [ Ac, Js, Qd ]
+YarFight checks
+skolob09 bets [$0.08]
+YarFight folds
+** Summary **
+skolob09 collected [ $0.15 ]
+
+
+#Game No : 504906927
+***** 888poker Hand History for Game 504906927 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 13:23:31
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: skolob09 ( $0.84 )
+Seat 4: YarFight ( $4.32 )
+YarFight posts small blind [$0.01]
+skolob09 posts big blind [$0.02]
+** Dealing down cards **
+YarFight raises [$0.05]
+skolob09 calls [$0.04]
+** Dealing flop ** [ Th, Ts, 2s ]
+skolob09 checks
+YarFight checks
+** Dealing turn ** [ 8c ]
+skolob09 checks
+YarFight checks
+** Dealing river ** [ Qc ]
+skolob09 bets [$0.06]
+YarFight folds
+** Summary **
+skolob09 collected [ $0.12 ]
+
+
+#Game No : 504907015
+***** 888poker Hand History for Game 504907015 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 13:24:47
+Table Beaumont 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skolob09 ( $0.90 )
+Seat 4: YarFight ( $4.26 )
+skolob09 posts small blind [$0.01]
+YarFight posts big blind [$0.02]
+** Dealing down cards **
+skolob09 folds
+** Summary **
+YarFight collected [ $0.03 ]
+
+
+#Game No : 504907025
+***** 888poker Hand History for Game 504907025 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 13:24:56
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: skolob09 ( $0.89 )
+Seat 4: YarFight ( $4.27 )
+YarFight posts small blind [$0.01]
+skolob09 posts big blind [$0.02]
+** Dealing down cards **
+YarFight raises [$0.05]
+skolob09 calls [$0.04]
+** Dealing flop ** [ Ac, Ks, Qd ]
+skolob09 checks
+YarFight bets [$0.08]
+skolob09 folds
+** Summary **
+YarFight collected [ $0.12 ]
+
+
+#Game No : 504907050
+***** 888poker Hand History for Game 504907050 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 13:25:20
+Table Beaumont 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skolob09 ( $0.83 )
+Seat 4: YarFight ( $4.33 )
+skolob09 posts small blind [$0.01]
+YarFight posts big blind [$0.02]
+** Dealing down cards **
+skolob09 raises [$0.03]
+YarFight calls [$0.02]
+** Dealing flop ** [ 8h, Kd, 7c ]
+YarFight checks
+skolob09 bets [$0.04]
+YarFight calls [$0.04]
+** Dealing turn ** [ 8c ]
+YarFight checks
+skolob09 bets [$0.08]
+YarFight folds
+** Summary **
+skolob09 collected [ $0.15 ]
+
+
+#Game No : 504907108
+***** 888poker Hand History for Game 504907108 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 13:26:15
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: skolob09 ( $0.90 )
+Seat 4: YarFight ( $4.25 )
+YarFight posts small blind [$0.01]
+skolob09 posts big blind [$0.02]
+** Dealing down cards **
+YarFight raises [$0.05]
+skolob09 calls [$0.04]
+** Dealing flop ** [ 8h, 6s, Ac ]
+skolob09 checks
+YarFight checks
+** Dealing turn ** [ 9s ]
+skolob09 bets [$0.06]
+YarFight folds
+** Summary **
+skolob09 collected [ $0.12 ]
+
+
+#Game No : 504907146
+***** 888poker Hand History for Game 504907146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 13:27:00
+Table Beaumont 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skolob09 ( $0.96 )
+Seat 4: YarFight ( $4.19 )
+skolob09 posts small blind [$0.01]
+YarFight posts big blind [$0.02]
+** Dealing down cards **
+skolob09 raises [$0.03]
+YarFight calls [$0.02]
+** Dealing flop ** [ 6s, 3d, 9d ]
+YarFight checks
+skolob09 bets [$0.04]
+YarFight folds
+** Summary **
+skolob09 collected [ $0.08 ]
+
+
+#Game No : 504907365
+***** 888poker Hand History for Game 504907365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 13:30:15
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: C.T.A.B.K.A ( $5.04 )
+Seat 4: YarFight ( $5.09 )
+YarFight posts small blind [$0.01]
+C.T.A.B.K.A posts big blind [$0.02]
+** Dealing down cards **
+YarFight raises [$0.05]
+C.T.A.B.K.A calls [$0.04]
+** Dealing flop ** [ 5c, 6s, 8s ]
+C.T.A.B.K.A checks
+YarFight bets [$0.08]
+C.T.A.B.K.A calls [$0.08]
+** Dealing turn ** [ As ]
+C.T.A.B.K.A checks
+YarFight bets [$0.18]
+C.T.A.B.K.A calls [$0.18]
+** Dealing river ** [ 7s ]
+C.T.A.B.K.A checks
+YarFight checks
+** Summary **
+C.T.A.B.K.A shows [ 8h, Js ]
+YarFight mucks [ Ts, Kh ]
+C.T.A.B.K.A collected [ $0.60 ]
+
+
+#Game No : 504909075
+***** 888poker Hand History for Game 504909075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:00:27
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ELFE92 ( $1.64 )
+Seat 4: Akhenatenn ( $1.03 )
+Akhenatenn posts small blind [$0.01]
+ELFE92 posts big blind [$0.02]
+** Dealing down cards **
+Akhenatenn raises [$0.07]
+ELFE92 folds
+** Summary **
+Akhenatenn collected [ $0.04 ]
+
+
+#Game No : 504909084
+***** 888poker Hand History for Game 504909084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:00:40
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ELFE92 ( $1.62 )
+Seat 4: Akhenatenn ( $1.05 )
+ELFE92 posts small blind [$0.01]
+Akhenatenn posts big blind [$0.02]
+** Dealing down cards **
+ELFE92 folds
+** Summary **
+Akhenatenn collected [ $0.03 ]
+
+
+#Game No : 504909089
+***** 888poker Hand History for Game 504909089 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:00:45
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ELFE92 ( $1.61 )
+Seat 4: Akhenatenn ( $1.06 )
+Akhenatenn posts small blind [$0.01]
+ELFE92 posts big blind [$0.02]
+** Dealing down cards **
+Akhenatenn raises [$0.07]
+ELFE92 folds
+** Summary **
+Akhenatenn collected [ $0.04 ]
+
+
+#Game No : 504909097
+***** 888poker Hand History for Game 504909097 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:00:54
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ELFE92 ( $1.59 )
+Seat 4: Akhenatenn ( $1.08 )
+ELFE92 posts small blind [$0.01]
+Akhenatenn posts big blind [$0.02]
+** Dealing down cards **
+ELFE92 folds
+** Summary **
+Akhenatenn collected [ $0.03 ]
+
+
+#Game No : 504909104
+***** 888poker Hand History for Game 504909104 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:00:59
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ELFE92 ( $1.58 )
+Seat 4: Akhenatenn ( $1.09 )
+Akhenatenn posts small blind [$0.01]
+ELFE92 posts big blind [$0.02]
+** Dealing down cards **
+Akhenatenn folds
+** Summary **
+ELFE92 collected [ $0.03 ]
+
+
+#Game No : 504909110
+***** 888poker Hand History for Game 504909110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:01:04
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ELFE92 ( $1.59 )
+Seat 4: Akhenatenn ( $1.08 )
+ELFE92 posts small blind [$0.01]
+Akhenatenn posts big blind [$0.02]
+** Dealing down cards **
+ELFE92 folds
+** Summary **
+Akhenatenn collected [ $0.03 ]
+
+
+#Game No : 504910061
+***** 888poker Hand History for Game 504910061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:17:34
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: FokusNik696 ( $1.01 )
+Seat 2: MacStokes ( $1 )
+MacStokes posts small blind [$0.01]
+FokusNik696 posts big blind [$0.02]
+** Dealing down cards **
+MacStokes calls [$0.01]
+FokusNik696 checks
+** Dealing flop ** [ Tc, 4s, 3d ]
+FokusNik696 checks
+MacStokes checks
+** Dealing turn ** [ Kh ]
+FokusNik696 checks
+MacStokes folds
+** Summary **
+FokusNik696 collected [ $0.04 ]
+
+
+#Game No : 504910106
+***** 888poker Hand History for Game 504910106 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:18:23
+Table Beaumont 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: FokusNik696 ( $1.03 )
+Seat 2: MacStokes ( $0.98 )
+FokusNik696 posts small blind [$0.01]
+MacStokes posts big blind [$0.02]
+** Dealing down cards **
+FokusNik696 calls [$0.01]
+MacStokes checks
+** Dealing flop ** [ 3s, 2c, 7h ]
+MacStokes checks
+FokusNik696 checks
+** Dealing turn ** [ Qc ]
+MacStokes bets [$0.02]
+FokusNik696 folds
+** Summary **
+MacStokes collected [ $0.04 ]
+
+
+#Game No : 504910136
+***** 888poker Hand History for Game 504910136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:18:55
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: FokusNik696 ( $1.01 )
+Seat 2: MacStokes ( $1 )
+MacStokes posts small blind [$0.01]
+FokusNik696 posts big blind [$0.02]
+** Dealing down cards **
+MacStokes raises [$0.03]
+FokusNik696 folds
+** Summary **
+MacStokes collected [ $0.04 ]
+
+
+#Game No : 504910161
+***** 888poker Hand History for Game 504910161 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:19:18
+Table Beaumont 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: FokusNik696 ( $1 )
+Seat 2: MacStokes ( $1.02 )
+FokusNik696 posts small blind [$0.01]
+MacStokes posts big blind [$0.02]
+** Dealing down cards **
+FokusNik696 calls [$0.01]
+MacStokes checks
+** Dealing flop ** [ Ah, Ac, Kc ]
+MacStokes folds
+** Summary **
+FokusNik696 collected [ $0.04 ]
+
+
+#Game No : 504910173
+***** 888poker Hand History for Game 504910173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:19:34
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: FokusNik696 ( $1.02 )
+Seat 2: MacStokes ( $1 )
+MacStokes posts small blind [$0.01]
+FokusNik696 posts big blind [$0.02]
+** Dealing down cards **
+MacStokes calls [$0.01]
+FokusNik696 checks
+** Dealing flop ** [ Js, Td, Qh ]
+FokusNik696 checks
+MacStokes checks
+** Dealing turn ** [ Ts ]
+FokusNik696 bets [$0.04]
+MacStokes calls [$0.04]
+** Dealing river ** [ 9c ]
+FokusNik696 bets [$0.08]
+MacStokes calls [$0.08]
+** Summary **
+FokusNik696 shows [ 8c, Kd ]
+MacStokes mucks [ As, Th ]
+FokusNik696 collected [ $0.27 ]
+
+
+#Game No : 504910209
+***** 888poker Hand History for Game 504910209 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:20:05
+Table Beaumont 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: FokusNik696 ( $1.15 )
+Seat 2: MacStokes ( $0.86 )
+FokusNik696 posts small blind [$0.01]
+MacStokes posts big blind [$0.02]
+** Dealing down cards **
+FokusNik696 calls [$0.01]
+MacStokes checks
+** Dealing flop ** [ Ah, Kd, 6d ]
+MacStokes bets [$0.02]
+FokusNik696 folds
+** Summary **
+MacStokes collected [ $0.04 ]
+
+
+#Game No : 504910225
+***** 888poker Hand History for Game 504910225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:20:21
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: FokusNik696 ( $1.13 )
+Seat 2: MacStokes ( $0.88 )
+MacStokes posts small blind [$0.01]
+FokusNik696 posts big blind [$0.02]
+** Dealing down cards **
+MacStokes calls [$0.01]
+FokusNik696 raises [$0.04]
+MacStokes calls [$0.04]
+** Dealing flop ** [ 2h, 8s, 4s ]
+FokusNik696 bets [$0.08]
+MacStokes calls [$0.08]
+** Dealing turn ** [ 9h ]
+FokusNik696 bets [$0.06]
+MacStokes calls [$0.06]
+** Dealing river ** [ Qs ]
+FokusNik696 checks
+MacStokes checks
+** Summary **
+FokusNik696 shows [ As, Kh ]
+MacStokes shows [ 2c, Ts ]
+MacStokes collected [ $0.38 ]
+
+
+#Game No : 504910751
+***** 888poker Hand History for Game 504910751 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:30:11
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.65 )
+Seat 7: MutsonHH ( $1.94 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.03 ]
+
+
+#Game No : 504910758
+***** 888poker Hand History for Game 504910758 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:30:18
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.66 )
+Seat 7: MutsonHH ( $1.93 )
+Meoryoucuman posts small blind [$0.01]
+MutsonHH posts big blind [$0.02]
+** Dealing down cards **
+Meoryoucuman calls [$0.01]
+MutsonHH checks
+** Dealing flop ** [ 6d, 5d, Jh ]
+MutsonHH checks
+Meoryoucuman checks
+** Dealing turn ** [ Jc ]
+MutsonHH checks
+Meoryoucuman checks
+** Dealing river ** [ 4d ]
+MutsonHH checks
+Meoryoucuman bets [$0.08]
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.04 ]
+
+
+#Game No : 504910791
+***** 888poker Hand History for Game 504910791 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:31:04
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.68 )
+Seat 7: MutsonHH ( $1.91 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.03 ]
+
+
+#Game No : 504910804
+***** 888poker Hand History for Game 504910804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:31:20
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.69 )
+Seat 7: MutsonHH ( $1.90 )
+Meoryoucuman posts small blind [$0.01]
+MutsonHH posts big blind [$0.02]
+** Dealing down cards **
+Meoryoucuman folds
+** Summary **
+MutsonHH collected [ $0.03 ]
+
+
+#Game No : 504910811
+***** 888poker Hand History for Game 504910811 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:31:28
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.68 )
+Seat 7: MutsonHH ( $1.91 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH raises [$0.03]
+Meoryoucuman calls [$0.02]
+** Dealing flop ** [ 5c, 6h, Kc ]
+Meoryoucuman bets [$0.02]
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.08 ]
+
+
+#Game No : 504910826
+***** 888poker Hand History for Game 504910826 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:31:45
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.72 )
+Seat 7: MutsonHH ( $1.87 )
+Meoryoucuman posts small blind [$0.01]
+MutsonHH posts big blind [$0.02]
+** Dealing down cards **
+Meoryoucuman calls [$0.01]
+MutsonHH checks
+** Dealing flop ** [ 6h, 2h, Tc ]
+MutsonHH checks
+Meoryoucuman checks
+** Dealing turn ** [ As ]
+MutsonHH checks
+Meoryoucuman checks
+** Dealing river ** [ Kd ]
+MutsonHH bets [$0.02]
+Meoryoucuman folds
+** Summary **
+MutsonHH collected [ $0.04 ]
+
+
+#Game No : 504910863
+***** 888poker Hand History for Game 504910863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:32:27
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.70 )
+Seat 7: MutsonHH ( $1.89 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.03 ]
+
+
+#Game No : 504910867
+***** 888poker Hand History for Game 504910867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:32:33
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.71 )
+Seat 7: MutsonHH ( $1.88 )
+Meoryoucuman posts small blind [$0.01]
+MutsonHH posts big blind [$0.02]
+** Dealing down cards **
+Meoryoucuman calls [$0.01]
+MutsonHH checks
+** Dealing flop ** [ Qs, Js, Qd ]
+MutsonHH checks
+Meoryoucuman bets [$0.02]
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.04 ]
+
+
+#Game No : 504910882
+***** 888poker Hand History for Game 504910882 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:32:56
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.73 )
+Seat 7: MutsonHH ( $1.86 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.03 ]
+
+
+#Game No : 504910890
+***** 888poker Hand History for Game 504910890 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:33:03
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.74 )
+Seat 7: MutsonHH ( $1.85 )
+Meoryoucuman posts small blind [$0.01]
+MutsonHH posts big blind [$0.02]
+** Dealing down cards **
+Meoryoucuman calls [$0.01]
+MutsonHH checks
+** Dealing flop ** [ 8s, Kh, 7s ]
+MutsonHH checks
+Meoryoucuman checks
+** Dealing turn ** [ 4d ]
+MutsonHH checks
+Meoryoucuman bets [$0.02]
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.04 ]
+
+
+#Game No : 504910921
+***** 888poker Hand History for Game 504910921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:33:33
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.76 )
+Seat 7: MutsonHH ( $1.83 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.03 ]
+
+
+#Game No : 504910937
+***** 888poker Hand History for Game 504910937 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:33:50
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.77 )
+Seat 7: MutsonHH ( $1.82 )
+Meoryoucuman posts small blind [$0.01]
+MutsonHH posts big blind [$0.02]
+** Dealing down cards **
+Meoryoucuman calls [$0.01]
+MutsonHH raises [$0.02]
+Meoryoucuman calls [$0.02]
+** Dealing flop ** [ 4s, Jc, 9c ]
+MutsonHH checks
+Meoryoucuman bets [$0.02]
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.08 ]
+
+
+#Game No : 504910959
+***** 888poker Hand History for Game 504910959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:34:16
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.81 )
+Seat 7: MutsonHH ( $1.78 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.03 ]
+
+
+#Game No : 504910969
+***** 888poker Hand History for Game 504910969 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:34:28
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.82 )
+Seat 7: MutsonHH ( $1.77 )
+Meoryoucuman posts small blind [$0.01]
+MutsonHH posts big blind [$0.02]
+** Dealing down cards **
+Meoryoucuman calls [$0.01]
+MutsonHH checks
+** Dealing flop ** [ 8d, Ac, Jd ]
+MutsonHH checks
+Meoryoucuman checks
+** Dealing turn ** [ 2h ]
+MutsonHH checks
+Meoryoucuman bets [$0.02]
+MutsonHH folds
+** Summary **
+Meoryoucuman collected [ $0.04 ]
+
+
+#Game No : 504910999
+***** 888poker Hand History for Game 504910999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:35:04
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.84 )
+Seat 7: MutsonHH ( $1.75 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH raises [$0.03]
+Meoryoucuman folds
+** Summary **
+MutsonHH collected [ $0.04 ]
+
+
+#Game No : 504911021
+***** 888poker Hand History for Game 504911021 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:35:28
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.82 )
+Seat 7: MutsonHH ( $1.77 )
+Meoryoucuman posts small blind [$0.01]
+MutsonHH posts big blind [$0.02]
+** Dealing down cards **
+Meoryoucuman folds
+** Summary **
+MutsonHH collected [ $0.03 ]
+
+
+#Game No : 504911032
+***** 888poker Hand History for Game 504911032 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:35:39
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.81 )
+Seat 7: MutsonHH ( $1.78 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH folds
+** Summary **
+Meoryoucuman did not show his hand
+Meoryoucuman collected [ $0.03 ]
+
+
+#Game No : 504911044
+***** 888poker Hand History for Game 504911044 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:35:59
+Table Beaumont 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.82 )
+Seat 7: MutsonHH ( $1.77 )
+Meoryoucuman posts small blind [$0.01]
+MutsonHH posts big blind [$0.02]
+** Dealing down cards **
+Meoryoucuman calls [$0.01]
+MutsonHH checks
+** Dealing flop ** [ Qd, 5h, 9h ]
+MutsonHH checks
+Meoryoucuman bets [$0.02]
+MutsonHH folds
+** Summary **
+Meoryoucuman did not show his hand
+Meoryoucuman collected [ $0.04 ]
+
+
+#Game No : 504911064
+***** 888poker Hand History for Game 504911064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 14:36:31
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Meoryoucuman ( $0.84 )
+Seat 7: MutsonHH ( $1.75 )
+MutsonHH posts small blind [$0.01]
+Meoryoucuman posts big blind [$0.02]
+** Dealing down cards **
+MutsonHH raises [$0.03]
+Meoryoucuman calls [$0.02]
+** Dealing flop ** [ 7d, 8h, 5c ]
+Meoryoucuman checks
+MutsonHH bets [$0.04]
+Meoryoucuman calls [$0.04]
+** Dealing turn ** [ Th ]
+Meoryoucuman checks
+MutsonHH bets [$0.08]
+Meoryoucuman folds
+** Summary **
+MutsonHH collected [ $0.15 ]
+
+
+#Game No : 504913677
+***** 888poker Hand History for Game 504913677 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 15:49:20
+Table Beaumont 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: flip4souls ( $1.86 )
+Seat 6: VictimVIP ( $4.45 )
+VictimVIP posts small blind [$0.01]
+flip4souls posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.05]
+flip4souls calls [$0.04]
+** Dealing flop ** [ 4d, 9d, 2h ]
+flip4souls checks
+VictimVIP bets [$0.08]
+flip4souls folds
+** Summary **
+VictimVIP did not show his hand
+VictimVIP collected [ $0.12 ]
+
+
+#Game No : 504913685
+***** 888poker Hand History for Game 504913685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 15:49:33
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: flip4souls ( $1.80 )
+Seat 6: VictimVIP ( $4.51 )
+flip4souls posts small blind [$0.01]
+** Dealing down cards **
+VictimVIP folds
+** Summary **
+flip4souls did not show his hand
+flip4souls collected [ $0.01 ]
+
+
+#Game No : 504913707
+***** 888poker Hand History for Game 504913707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 15:50:19
+Table Beaumont 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: flip4souls ( $1.79 )
+Seat 7: 1daveydave1 ( $0.81 )
+1daveydave1 posts small blind [$0.01]
+flip4souls posts big blind [$0.02]
+** Dealing down cards **
+1daveydave1 raises [$0.80]
+flip4souls folds
+** Summary **
+1daveydave1 did not show his hand
+1daveydave1 collected [ $0.04 ]
+
+
+#Game No : 504913714
+***** 888poker Hand History for Game 504913714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 11 2018 15:50:29
+Table Beaumont 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: flip4souls ( $1.77 )
+Seat 7: 1daveydave1 ( $0.83 )
+flip4souls posts small blind [$0.01]
+1daveydave1 posts big blind [$0.02]
+** Dealing down cards **
+flip4souls folds
+** Summary **
+1daveydave1 collected [ $0.03 ]
+
+

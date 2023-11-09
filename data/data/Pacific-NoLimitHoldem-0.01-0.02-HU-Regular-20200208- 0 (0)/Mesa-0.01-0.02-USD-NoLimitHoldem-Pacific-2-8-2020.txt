@@ -1,0 +1,71 @@
+#Game No : 1330499129
+***** 888poker Hand History for Game 1330499129 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 02 2020 02:48:18
+Table Mesa 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Fishh16 ( $2.31 )
+Seat 9: Mduffy4421 ( $2 )
+Fishh16 posts small blind [$0.01]
+Mduffy4421 posts big blind [$0.02]
+** Dealing down cards **
+Fishh16 folds
+** Summary **
+Mduffy4421 collected [ $0.03 ]
+
+
+#Game No : 1330499149
+***** 888poker Hand History for Game 1330499149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 02 2020 02:48:27
+Table Mesa 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: Fishh16 ( $2.30 )
+Seat 9: Mduffy4421 ( $2.01 )
+Mduffy4421 posts small blind [$0.01]
+Fishh16 posts big blind [$0.02]
+** Dealing down cards **
+Mduffy4421 calls [$0.01]
+Fishh16 checks
+** Dealing flop ** [ 2d, 2s, 5d ]
+Fishh16 checks
+Mduffy4421 checks
+** Dealing turn ** [ 3c ]
+Fishh16 checks
+Mduffy4421 checks
+** Dealing river ** [ Qc ]
+Fishh16 checks
+Mduffy4421 bets [$0.02]
+Fishh16 folds
+** Summary **
+Mduffy4421 collected [ $0.04 ]
+
+
+#Game No : 1330499218
+***** 888poker Hand History for Game 1330499218 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 02 2020 02:48:55
+Table Mesa 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Fishh16 ( $2.28 )
+Seat 9: Mduffy4421 ( $2.03 )
+Fishh16 posts small blind [$0.01]
+Mduffy4421 posts big blind [$0.02]
+** Dealing down cards **
+Fishh16 raises [$0.04]
+Mduffy4421 calls [$0.03]
+** Dealing flop ** [ Ah, 5d, 2s ]
+Mduffy4421 checks
+Fishh16 checks
+** Dealing turn ** [ 2h ]
+Mduffy4421 checks
+Fishh16 checks
+** Dealing river ** [ 6d ]
+Mduffy4421 checks
+Fishh16 checks
+** Summary **
+Mduffy4421 shows [ 7d, Jd ]
+Fishh16 mucks [ 8s, 9s ]
+Mduffy4421 collected [ $0.10 ]
+
+

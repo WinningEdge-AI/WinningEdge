@@ -1,0 +1,66 @@
+#Game No : 519162549
+***** 888poker Hand History for Game 519162549 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 07 2019 01:04:46
+Table Brindisi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ElieE0 ( $0.80 )
+Seat 2: Kavchat14 ( $2 )
+Kavchat14 posts small blind [$0.01]
+ElieE0 posts big blind [$0.02]
+** Dealing down cards **
+Kavchat14 calls [$0.01]
+ElieE0 checks
+** Dealing flop ** [ Th, 9h, 4c ]
+ElieE0 bets [$0.02]
+Kavchat14 folds
+** Summary **
+ElieE0 did not show his hand
+ElieE0 collected [ $0.04 ]
+
+
+#Game No : 519162557
+***** 888poker Hand History for Game 519162557 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 07 2019 01:05:03
+Table Brindisi 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ElieE0 ( $0.82 )
+Seat 2: Kavchat14 ( $1.98 )
+ElieE0 posts small blind [$0.01]
+Kavchat14 posts big blind [$0.02]
+** Dealing down cards **
+ElieE0 folds
+** Summary **
+Kavchat14 collected [ $0.03 ]
+
+
+#Game No : 519162562
+***** 888poker Hand History for Game 519162562 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 07 2019 01:05:24
+Table Brindisi 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ElieE0 ( $0.81 )
+Seat 2: Kavchat14 ( $1.99 )
+Kavchat14 posts small blind [$0.01]
+ElieE0 posts big blind [$0.02]
+** Dealing down cards **
+Kavchat14 calls [$0.01]
+ElieE0 raises [$0.04]
+Kavchat14 calls [$0.04]
+** Dealing flop ** [ 2c, 8d, Jc ]
+ElieE0 bets [$0.09]
+Kavchat14 calls [$0.09]
+** Dealing turn ** [ 6s ]
+ElieE0 checks
+Kavchat14 checks
+** Dealing river ** [ 9s ]
+ElieE0 checks
+Kavchat14 checks
+** Summary **
+ElieE0 shows [ Ac, 6d ]
+Kavchat14 mucks [ 5s, 5c ]
+ElieE0 collected [ $0.29 ]
+
+

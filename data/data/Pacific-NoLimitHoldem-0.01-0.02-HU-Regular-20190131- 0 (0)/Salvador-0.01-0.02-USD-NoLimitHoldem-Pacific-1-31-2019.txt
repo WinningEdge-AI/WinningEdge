@@ -1,0 +1,29 @@
+#Game No : 523003676
+***** 888poker Hand History for Game 523003676 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 04:16:54
+Table Salvador 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ollytoy ( $1.25 )
+Seat 4: michelinjo16 ( $1.20 )
+ollytoy posts small blind [$0.01]
+michelinjo16 posts big blind [$0.02]
+** Dealing down cards **
+ollytoy calls [$0.01]
+michelinjo16 checks
+** Dealing flop ** [ 9h, Ac, 5c ]
+michelinjo16 checks
+ollytoy checks
+** Dealing turn ** [ 7s ]
+michelinjo16 checks
+ollytoy bets [$0.02]
+michelinjo16 calls [$0.02]
+** Dealing river ** [ 7d ]
+michelinjo16 checks
+ollytoy checks
+** Summary **
+michelinjo16 shows [ Tc, Jd ]
+ollytoy mucks [ 3h, 8d ]
+michelinjo16 collected [ $0.08 ]
+
+

@@ -1,0 +1,780 @@
+#Game No : 500890410
+***** 888poker Hand History for Game 500890410 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 13:56:21
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Ly4shii ( $1.30 )
+Seat 2: lejone16 ( $0.80 )
+Ly4shii posts small blind [$0.01]
+** Dealing down cards **
+lejone16 folds
+** Summary **
+Ly4shii collected [ $0.01 ]
+
+
+#Game No : 500891546
+***** 888poker Hand History for Game 500891546 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:19:24
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AssK1cker ( $2.68 )
+Seat 7: Tsibaandrey ( $0.52 )
+AssK1cker posts small blind [$0.01]
+Tsibaandrey posts big blind [$0.02]
+** Dealing down cards **
+AssK1cker raises [$0.05]
+Tsibaandrey folds
+** Summary **
+AssK1cker did not show his hand
+AssK1cker collected [ $0.04 ]
+
+
+#Game No : 500891568
+***** 888poker Hand History for Game 500891568 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:19:36
+Table Taejeon 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: AssK1cker ( $2.70 )
+Seat 7: Tsibaandrey ( $0.50 )
+Tsibaandrey posts small blind [$0.01]
+AssK1cker posts big blind [$0.02]
+** Dealing down cards **
+Tsibaandrey raises [$0.03]
+AssK1cker calls [$0.02]
+** Dealing flop ** [ Qc, 6h, Td ]
+AssK1cker checks
+Tsibaandrey bets [$0.02]
+AssK1cker folds
+** Summary **
+Tsibaandrey collected [ $0.08 ]
+
+
+#Game No : 500892631
+***** 888poker Hand History for Game 500892631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:45:21
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AssK1cker ( $4.09 )
+Seat 2: GreenWeekend ( $1 )
+AssK1cker posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+AssK1cker raises [$0.05]
+GreenWeekend raises [$0.12]
+AssK1cker raises [$0.92]
+GreenWeekend folds
+** Summary **
+AssK1cker collected [ $0.28 ]
+
+
+#Game No : 500892650
+***** 888poker Hand History for Game 500892650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 14:45:48
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AssK1cker ( $4.23 )
+Seat 2: GreenWeekend ( $1 )
+GreenWeekend posts small blind [$0.01]
+AssK1cker posts big blind [$0.02]
+** Dealing down cards **
+GreenWeekend folds
+** Summary **
+AssK1cker collected [ $0.03 ]
+
+
+#Game No : 500894238
+***** 888poker Hand History for Game 500894238 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:30:21
+Table Taejeon 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AssK1cker ( $5.63 )
+Seat 2: GreenWeekend ( $1.01 )
+AssK1cker posts small blind [$0.01]
+GreenWeekend posts big blind [$0.02]
+** Dealing down cards **
+AssK1cker raises [$0.05]
+GreenWeekend calls [$0.04]
+** Dealing flop ** [ Td, Kd, 7h ]
+GreenWeekend checks
+AssK1cker bets [$0.06]
+GreenWeekend calls [$0.06]
+** Dealing turn ** [ 7c ]
+GreenWeekend bets [$0.12]
+AssK1cker calls [$0.12]
+** Dealing river ** [ Ah ]
+GreenWeekend bets [$0.34]
+AssK1cker raises [$0.68]
+GreenWeekend folds
+** Summary **
+AssK1cker collected [ $1.09 ]
+
+
+#Game No : 500894275
+***** 888poker Hand History for Game 500894275 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:31:17
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: AssK1cker ( $6.14 )
+Seat 2: GreenWeekend ( $1 )
+GreenWeekend posts small blind [$0.01]
+** Dealing down cards **
+AssK1cker folds
+** Summary **
+GreenWeekend collected [ $0.01 ]
+
+
+#Game No : 500894342
+***** 888poker Hand History for Game 500894342 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:33:01
+Table Taejeon 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: domsky ( $0.80 )
+Seat 4: DirtyMadman ( $1 )
+DirtyMadman posts small blind [$0.01]
+domsky posts big blind [$0.02]
+** Dealing down cards **
+DirtyMadman raises [$0.03]
+domsky calls [$0.02]
+** Dealing flop ** [ 6h, Qd, 5h ]
+domsky checks
+DirtyMadman bets [$0.54]
+domsky calls [$0.54]
+** Dealing turn ** [ 9c ]
+domsky checks
+DirtyMadman bets [$0.42]
+domsky calls [$0.22]
+** Dealing river ** [ 9d ]
+** Summary **
+domsky shows [ 8s, 6s ]
+DirtyMadman shows [ Td, Jh ]
+domsky collected [ $1.50 ]
+
+
+#Game No : 500894380
+***** 888poker Hand History for Game 500894380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:33:54
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.48 )
+Seat 6: Enzodirenzo ( $0.82 )
+Enzodirenzo posts small blind [$0.01]
+domsky posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+domsky calls [$0.02]
+** Dealing flop ** [ 3h, 5d, Kd ]
+domsky checks
+Enzodirenzo bets [$0.08]
+domsky calls [$0.08]
+** Dealing turn ** [ 4h ]
+domsky checks
+Enzodirenzo checks
+** Dealing river ** [ 2d ]
+domsky checks
+Enzodirenzo checks
+** Summary **
+domsky shows [ 8d, 5h ]
+Enzodirenzo shows [ Jh, Js ]
+Enzodirenzo collected [ $0.23 ]
+
+
+#Game No : 500894402
+***** 888poker Hand History for Game 500894402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:34:19
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.36 )
+Seat 6: Enzodirenzo ( $0.93 )
+domsky posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+domsky raises [$0.03]
+Enzodirenzo calls [$0.02]
+** Dealing flop ** [ 5c, 6c, 3c ]
+Enzodirenzo bets [$0.02]
+domsky calls [$0.02]
+** Dealing turn ** [ Jc ]
+Enzodirenzo bets [$0.02]
+domsky calls [$0.02]
+** Dealing river ** [ Jd ]
+Enzodirenzo bets [$0.10]
+domsky calls [$0.10]
+** Summary **
+Enzodirenzo shows [ 9c, Ad ]
+domsky mucks [ Qd, As ]
+Enzodirenzo collected [ $0.34 ]
+
+
+#Game No : 500894416
+***** 888poker Hand History for Game 500894416 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:34:42
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.18 )
+Seat 6: Enzodirenzo ( $1.09 )
+Enzodirenzo posts small blind [$0.01]
+domsky posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+domsky calls [$0.02]
+** Dealing flop ** [ 3h, Kc, Tc ]
+domsky checks
+Enzodirenzo checks
+** Dealing turn ** [ 7c ]
+domsky checks
+Enzodirenzo bets [$0.02]
+domsky calls [$0.02]
+** Dealing river ** [ 6d ]
+domsky checks
+Enzodirenzo checks
+** Summary **
+domsky shows [ Jd, 2s ]
+Enzodirenzo shows [ Js, 5c ]
+domsky collected [ $0.06 ]
+Enzodirenzo collected [ $0.06 ]
+
+
+#Game No : 500894440
+***** 888poker Hand History for Game 500894440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:35:16
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.18 )
+Seat 6: Enzodirenzo ( $1.09 )
+domsky posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+domsky folds
+** Summary **
+Enzodirenzo collected [ $0.03 ]
+
+
+#Game No : 500894445
+***** 888poker Hand History for Game 500894445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:35:22
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.17 )
+Seat 6: Enzodirenzo ( $1.10 )
+Enzodirenzo posts small blind [$0.01]
+domsky posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+domsky calls [$0.02]
+** Dealing flop ** [ Tc, Kh, 7c ]
+domsky checks
+Enzodirenzo bets [$0.05]
+domsky folds
+** Summary **
+Enzodirenzo collected [ $0.08 ]
+
+
+#Game No : 500894454
+***** 888poker Hand History for Game 500894454 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:35:35
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.13 )
+Seat 6: Enzodirenzo ( $1.14 )
+domsky posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+domsky raises [$0.03]
+Enzodirenzo calls [$0.02]
+** Dealing flop ** [ 4h, 3h, 3d ]
+Enzodirenzo bets [$0.02]
+domsky calls [$0.02]
+** Dealing turn ** [ 7c ]
+Enzodirenzo bets [$0.02]
+domsky calls [$0.02]
+** Dealing river ** [ 7s ]
+Enzodirenzo bets [$0.02]
+domsky raises [$0.04]
+Enzodirenzo calls [$0.02]
+** Summary **
+domsky shows [ 7h, 8c ]
+Enzodirenzo mucks [ Ad, Ts ]
+domsky collected [ $0.23 ]
+
+
+#Game No : 500894469
+***** 888poker Hand History for Game 500894469 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:35:56
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.24 )
+Seat 6: Enzodirenzo ( $1.02 )
+Enzodirenzo posts small blind [$0.01]
+domsky posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+domsky calls [$0.02]
+** Dealing flop ** [ Qs, 3c, Kd ]
+domsky checks
+Enzodirenzo bets [$0.05]
+domsky calls [$0.05]
+** Dealing turn ** [ Ah ]
+domsky checks
+Enzodirenzo bets [$0.09]
+domsky calls [$0.09]
+** Dealing river ** [ 2d ]
+domsky checks
+Enzodirenzo checks
+** Summary **
+domsky shows [ 8s, 3d ]
+Enzodirenzo shows [ Jd, Kh ]
+Enzodirenzo collected [ $0.34 ]
+
+
+#Game No : 500894479
+***** 888poker Hand History for Game 500894479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:36:21
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.06 )
+Seat 6: Enzodirenzo ( $1.18 )
+domsky posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+domsky raises [$0.03]
+Enzodirenzo calls [$0.02]
+** Dealing flop ** [ 6s, 2c, 8s ]
+Enzodirenzo bets [$0.02]
+domsky folds
+** Summary **
+Enzodirenzo collected [ $0.08 ]
+
+
+#Game No : 500894488
+***** 888poker Hand History for Game 500894488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:36:36
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.02 )
+Seat 6: Enzodirenzo ( $1.22 )
+Enzodirenzo posts small blind [$0.01]
+domsky posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+domsky raises [$0.04]
+Enzodirenzo calls [$0.02]
+** Dealing flop ** [ 7d, 5h, 4s ]
+domsky bets [$0.02]
+Enzodirenzo calls [$0.02]
+** Dealing turn ** [ 3d ]
+domsky bets [$0.02]
+Enzodirenzo calls [$0.02]
+** Dealing river ** [ 7s ]
+domsky checks
+Enzodirenzo checks
+** Summary **
+domsky shows [ 8h, Js ]
+Enzodirenzo mucks [ Tc, 8c ]
+domsky collected [ $0.19 ]
+
+
+#Game No : 500894511
+***** 888poker Hand History for Game 500894511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:37:01
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.11 )
+Seat 6: Enzodirenzo ( $1.12 )
+domsky posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+domsky folds
+** Summary **
+Enzodirenzo collected [ $0.03 ]
+
+
+#Game No : 500894514
+***** 888poker Hand History for Game 500894514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:37:08
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.10 )
+Seat 6: Enzodirenzo ( $1.13 )
+Enzodirenzo posts small blind [$0.01]
+domsky posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+domsky raises [$0.04]
+Enzodirenzo calls [$0.02]
+** Dealing flop ** [ 4d, Jc, 3s ]
+domsky checks
+Enzodirenzo checks
+** Dealing turn ** [ Ad ]
+domsky checks
+Enzodirenzo checks
+** Dealing river ** [ Tc ]
+domsky checks
+Enzodirenzo checks
+** Summary **
+domsky shows [ 5d, 7h ]
+Enzodirenzo shows [ 6s, Ks ]
+Enzodirenzo collected [ $0.12 ]
+
+
+#Game No : 500894529
+***** 888poker Hand History for Game 500894529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:37:33
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.04 )
+Seat 6: Enzodirenzo ( $1.19 )
+domsky posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+domsky raises [$0.03]
+Enzodirenzo calls [$0.02]
+** Dealing flop ** [ 5h, Kh, Td ]
+Enzodirenzo checks
+domsky checks
+** Dealing turn ** [ Jh ]
+Enzodirenzo bets [$0.04]
+domsky folds
+** Summary **
+Enzodirenzo collected [ $0.08 ]
+
+
+#Game No : 500894540
+***** 888poker Hand History for Game 500894540 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:37:49
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: domsky ( $1 )
+Seat 6: Enzodirenzo ( $1.23 )
+Enzodirenzo posts small blind [$0.01]
+domsky posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo calls [$0.01]
+domsky raises [$0.04]
+Enzodirenzo folds
+** Summary **
+domsky collected [ $0.04 ]
+
+
+#Game No : 500894548
+***** 888poker Hand History for Game 500894548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:37:58
+Table Taejeon 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: domsky ( $1.02 )
+Seat 6: Enzodirenzo ( $1.21 )
+domsky posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+domsky raises [$0.03]
+Enzodirenzo calls [$0.02]
+** Dealing flop ** [ Jd, Kc, 3d ]
+Enzodirenzo bets [$0.02]
+domsky folds
+** Summary **
+Enzodirenzo collected [ $0.08 ]
+
+
+#Game No : 500894556
+***** 888poker Hand History for Game 500894556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:38:11
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: domsky ( $0.98 )
+Seat 6: Enzodirenzo ( $1.25 )
+Enzodirenzo posts small blind [$0.01]
+domsky posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+domsky folds
+** Summary **
+Enzodirenzo collected [ $0.04 ]
+
+
+#Game No : 500894606
+***** 888poker Hand History for Game 500894606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:39:23
+Table Taejeon 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.27 )
+Seat 9: Butcher907 ( $1 )
+Butcher907 posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+Butcher907 folds
+** Summary **
+Enzodirenzo collected [ $0.03 ]
+
+
+#Game No : 500894611
+***** 888poker Hand History for Game 500894611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:39:28
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.28 )
+Seat 9: Butcher907 ( $1 )
+Enzodirenzo posts small blind [$0.01]
+Butcher907 posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+Butcher907 folds
+** Summary **
+Enzodirenzo collected [ $0.04 ]
+
+
+#Game No : 500894618
+***** 888poker Hand History for Game 500894618 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:39:38
+Table Taejeon 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.30 )
+Seat 9: Butcher907 ( $1 )
+Butcher907 posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+Butcher907 folds
+** Summary **
+Enzodirenzo collected [ $0.03 ]
+
+
+#Game No : 500894621
+***** 888poker Hand History for Game 500894621 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:39:43
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.31 )
+Seat 9: Butcher907 ( $1 )
+Enzodirenzo posts small blind [$0.01]
+Butcher907 posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+Butcher907 calls [$0.02]
+** Dealing flop ** [ 9h, Ah, 2d ]
+Butcher907 checks
+Enzodirenzo bets [$0.02]
+Butcher907 calls [$0.02]
+** Dealing turn ** [ 7h ]
+Butcher907 bets [$0.08]
+Enzodirenzo folds
+** Summary **
+Butcher907 collected [ $0.12 ]
+
+
+#Game No : 500894641
+***** 888poker Hand History for Game 500894641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:40:15
+Table Taejeon 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.25 )
+Seat 9: Butcher907 ( $1.06 )
+Butcher907 posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+Butcher907 raises [$0.05]
+Enzodirenzo folds
+** Summary **
+Butcher907 collected [ $0.04 ]
+
+
+#Game No : 500894650
+***** 888poker Hand History for Game 500894650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:40:21
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.23 )
+Seat 9: Butcher907 ( $1.08 )
+Enzodirenzo posts small blind [$0.01]
+Butcher907 posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+Butcher907 calls [$0.02]
+** Dealing flop ** [ Kd, 9h, Qc ]
+Butcher907 checks
+Enzodirenzo bets [$0.04]
+Butcher907 calls [$0.04]
+** Dealing turn ** [ Js ]
+Butcher907 checks
+Enzodirenzo bets [$0.08]
+Butcher907 folds
+** Summary **
+Enzodirenzo collected [ $0.15 ]
+
+
+#Game No : 500894665
+***** 888poker Hand History for Game 500894665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:40:53
+Table Taejeon 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.30 )
+Seat 9: Butcher907 ( $1 )
+Butcher907 posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+Butcher907 raises [$0.05]
+Enzodirenzo calls [$0.04]
+** Dealing flop ** [ Td, Jd, Qh ]
+Enzodirenzo checks
+Butcher907 bets [$0.06]
+Enzodirenzo calls [$0.06]
+** Dealing turn ** [ 6d ]
+Enzodirenzo checks
+Butcher907 checks
+** Dealing river ** [ Th ]
+Enzodirenzo checks
+Butcher907 checks
+** Summary **
+Enzodirenzo shows [ As, 7d ]
+Butcher907 shows [ 7c, Js ]
+Butcher907 collected [ $0.23 ]
+
+
+#Game No : 500894706
+***** 888poker Hand History for Game 500894706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:41:54
+Table Taejeon 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.89 )
+Seat 9: Butcher907 ( $1.10 )
+Butcher907 posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+Butcher907 raises [$0.05]
+Enzodirenzo calls [$0.04]
+** Dealing flop ** [ 3d, 8c, 7s ]
+Enzodirenzo bets [$0.02]
+Butcher907 raises [$0.06]
+Enzodirenzo calls [$0.04]
+** Dealing turn ** [ Js ]
+Enzodirenzo bets [$0.02]
+Butcher907 calls [$0.02]
+** Dealing river ** [ 8h ]
+Enzodirenzo bets [$0.14]
+Butcher907 raises [$0.96]
+Enzodirenzo folds
+** Summary **
+Butcher907 collected [ $0.53 ]
+
+
+#Game No : 500894727
+***** 888poker Hand History for Game 500894727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:42:18
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.61 )
+Seat 9: Butcher907 ( $1.35 )
+Enzodirenzo posts small blind [$0.01]
+Butcher907 posts big blind [$0.02]
+** Dealing down cards **
+Enzodirenzo raises [$0.03]
+Butcher907 calls [$0.02]
+** Dealing flop ** [ 9c, 6s, 5s ]
+Butcher907 checks
+Enzodirenzo bets [$0.05]
+Butcher907 calls [$0.05]
+** Dealing turn ** [ Js ]
+Butcher907 checks
+Enzodirenzo bets [$0.09]
+Butcher907 folds
+** Summary **
+Enzodirenzo collected [ $0.17 ]
+
+
+#Game No : 500894746
+***** 888poker Hand History for Game 500894746 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 15:42:43
+Table Taejeon 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Enzodirenzo ( $1.69 )
+Seat 9: Butcher907 ( $1.26 )
+Butcher907 posts small blind [$0.01]
+Enzodirenzo posts big blind [$0.02]
+** Dealing down cards **
+Butcher907 raises [$0.05]
+Enzodirenzo calls [$0.04]
+** Dealing flop ** [ 9c, Kc, 7c ]
+Enzodirenzo bets [$0.02]
+Butcher907 raises [$0.06]
+Enzodirenzo calls [$0.04]
+** Dealing turn ** [ 3h ]
+Enzodirenzo bets [$0.02]
+Butcher907 raises [$0.05]
+Enzodirenzo calls [$0.03]
+** Dealing river ** [ As ]
+Enzodirenzo bets [$0.02]
+Butcher907 raises [$0.40]
+Enzodirenzo folds
+** Summary **
+Butcher907 collected [ $0.36 ]
+
+
+#Game No : 500895401
+***** 888poker Hand History for Game 500895401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 16:00:05
+Table Taejeon 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: go_atirez ( $1 )
+Seat 9: Butcher907 ( $1.20 )
+Butcher907 posts small blind [$0.01]
+go_atirez posts big blind [$0.02]
+** Dealing down cards **
+Butcher907 raises [$0.04]
+go_atirez calls [$0.03]
+** Dealing flop ** [ Jc, Kc, 2c ]
+Butcher907 bets [$0.05]
+go_atirez calls [$0.05]
+** Dealing turn ** [ 7d ]
+Butcher907 checks
+go_atirez bets [$0.10]
+Butcher907 folds
+** Summary **
+go_atirez collected [ $0.19 ]
+
+
+#Game No : 500895419
+***** 888poker Hand History for Game 500895419 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 08 2018 16:00:37
+Table Taejeon 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: go_atirez ( $1.09 )
+Seat 9: Butcher907 ( $1.10 )
+Butcher907 posts small blind [$0.01]
+** Dealing down cards **
+go_atirez folds
+** Summary **
+Butcher907 collected [ $0.01 ]
+
+

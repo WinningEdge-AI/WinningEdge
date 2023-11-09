@@ -1,0 +1,137 @@
+#Game No : 514831190
+***** 888poker Hand History for Game 514831190 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 18:59:50
+Table Tunja 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: KovalevYu ( $2.43 )
+Seat 9: alkkla ( $2.05 )
+KovalevYu posts small blind [$0.01]
+** Dealing down cards **
+alkkla folds
+** Summary **
+KovalevYu collected [ $0.01 ]
+
+
+#Game No : 514831324
+***** 888poker Hand History for Game 514831324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 19:03:44
+Table Tunja 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: joemoe28 ( $2 )
+Seat 5: evgenij133 ( $1 )
+joemoe28 posts small blind [$0.01]
+evgenij133 posts big blind [$0.02]
+** Dealing down cards **
+joemoe28 folds
+** Summary **
+evgenij133 collected [ $0.03 ]
+
+
+#Game No : 514835264
+***** 888poker Hand History for Game 514835264 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 20:49:21
+Table Tunja 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Shevminator ( $0.76 )
+Seat 6: brohster ( $1.61 )
+brohster posts small blind [$0.01]
+Shevminator posts big blind [$0.02]
+** Dealing down cards **
+brohster raises [$0.05]
+Shevminator raises [$0.08]
+brohster calls [$0.04]
+** Dealing flop ** [ Ts, 4d, Kc ]
+Shevminator bets [$0.10]
+brohster folds
+** Summary **
+Shevminator collected [ $0.19 ]
+
+
+#Game No : 514835279
+***** 888poker Hand History for Game 514835279 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 20:49:44
+Table Tunja 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Shevminator ( $0.85 )
+Seat 6: brohster ( $1.51 )
+Shevminator posts small blind [$0.01]
+brohster posts big blind [$0.02]
+** Dealing down cards **
+Shevminator calls [$0.01]
+brohster checks
+** Dealing flop ** [ 6s, Jc, Ts ]
+brohster checks
+Shevminator bets [$0.02]
+brohster calls [$0.02]
+** Dealing turn ** [ 7d ]
+brohster checks
+Shevminator checks
+** Dealing river ** [ 7c ]
+brohster checks
+Shevminator checks
+** Summary **
+brohster shows [ 8s, Ac ]
+Shevminator mucks [ 2s, 3s ]
+brohster collected [ $0.08 ]
+
+
+#Game No : 514835295
+***** 888poker Hand History for Game 514835295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 20:50:15
+Table Tunja 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Shevminator ( $0.81 )
+Seat 6: brohster ( $1.55 )
+brohster posts small blind [$0.01]
+Shevminator posts big blind [$0.02]
+** Dealing down cards **
+brohster calls [$0.01]
+Shevminator checks
+** Dealing flop ** [ 8c, 7c, Td ]
+Shevminator checks
+brohster checks
+** Dealing turn ** [ 5c ]
+Shevminator checks
+brohster checks
+** Dealing river ** [ Ah ]
+Shevminator checks
+brohster checks
+** Summary **
+Shevminator shows [ 7h, Qc ]
+brohster mucks [ 6h, Jh ]
+Shevminator collected [ $0.04 ]
+
+
+#Game No : 514835310
+***** 888poker Hand History for Game 514835310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 10 2018 20:50:39
+Table Tunja 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Shevminator ( $0.83 )
+Seat 6: brohster ( $1.53 )
+Shevminator posts small blind [$0.01]
+brohster posts big blind [$0.02]
+** Dealing down cards **
+Shevminator calls [$0.01]
+brohster checks
+** Dealing flop ** [ Kh, 6h, 3h ]
+brohster checks
+Shevminator checks
+** Dealing turn ** [ 3d ]
+brohster checks
+Shevminator checks
+** Dealing river ** [ Ac ]
+brohster checks
+Shevminator checks
+** Summary **
+brohster shows [ Qs, 2c ]
+Shevminator mucks [ 8h, Tc ]
+brohster collected [ $0.04 ]
+
+

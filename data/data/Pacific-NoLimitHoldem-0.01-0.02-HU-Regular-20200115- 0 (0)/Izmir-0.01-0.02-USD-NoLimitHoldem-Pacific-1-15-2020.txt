@@ -1,0 +1,311 @@
+#Game No : 473562741
+***** 888poker Hand History for Game 473562741 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 21:55:38
+Table Izmir 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Yzan007 ( $1 )
+Seat 4: Kattazo ( $2 )
+Yzan007 posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+Yzan007 calls [$0.01]
+Kattazo raises [$0.08]
+Yzan007 calls [$0.08]
+** Dealing flop ** [ 8h, 4d, 3c ]
+Kattazo bets [$0.12]
+Yzan007 calls [$0.12]
+** Dealing turn ** [ 4s ]
+Kattazo checks
+Yzan007 checks
+** Dealing river ** [ 6c ]
+Kattazo bets [$0.31]
+Yzan007 folds
+** Summary **
+Kattazo collected [ $0.42 ]
+
+
+#Game No : 473562747
+***** 888poker Hand History for Game 473562747 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 21:56:29
+Table Izmir 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Kattazo ( $2.20 )
+Seat 6: lucasribeiro ( $1.40 )
+lucasribeiro posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+lucasribeiro calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ Qs, 5h, 8d ]
+Kattazo checks
+lucasribeiro checks
+** Dealing turn ** [ 4h ]
+Kattazo checks
+lucasribeiro checks
+** Dealing river ** [ 7d ]
+Kattazo checks
+lucasribeiro checks
+** Summary **
+Kattazo shows [ 8s, Jc ]
+lucasribeiro mucks [ As, 2c ]
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 473562755
+***** 888poker Hand History for Game 473562755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 21:56:57
+Table Izmir 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kattazo ( $2.22 )
+Seat 6: lucasribeiro ( $1.38 )
+Kattazo posts small blind [$0.01]
+lucasribeiro posts big blind [$0.02]
+** Dealing down cards **
+Kattazo folds
+** Summary **
+lucasribeiro did not show his hand
+lucasribeiro collected [ $0.03 ]
+
+
+#Game No : 473562756
+***** 888poker Hand History for Game 473562756 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 21:57:02
+Table Izmir 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Kattazo ( $2.21 )
+Seat 6: lucasribeiro ( $1.39 )
+lucasribeiro posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+lucasribeiro calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ 8h, Qc, Ts ]
+Kattazo checks
+lucasribeiro bets [$0.02]
+Kattazo folds
+** Summary **
+lucasribeiro did not show his hand
+lucasribeiro collected [ $0.04 ]
+
+
+#Game No : 473562760
+***** 888poker Hand History for Game 473562760 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 21:57:15
+Table Izmir 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kattazo ( $2.19 )
+Seat 6: lucasribeiro ( $1.41 )
+Kattazo posts small blind [$0.01]
+lucasribeiro posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.06]
+lucasribeiro folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 473562762
+***** 888poker Hand History for Game 473562762 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 21:57:22
+Table Izmir 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Kattazo ( $2.21 )
+Seat 6: lucasribeiro ( $1.39 )
+lucasribeiro posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+lucasribeiro calls [$0.01]
+Kattazo checks
+** Dealing flop ** [ 4s, Kd, 3s ]
+Kattazo checks
+lucasribeiro checks
+** Dealing turn ** [ 9h ]
+Kattazo bets [$0.08]
+lucasribeiro folds
+** Summary **
+Kattazo did not show his hand
+Kattazo collected [ $0.04 ]
+
+
+#Game No : 473562764
+***** 888poker Hand History for Game 473562764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 21:57:39
+Table Izmir 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kattazo ( $2.23 )
+Seat 6: lucasribeiro ( $1.37 )
+Kattazo posts small blind [$0.01]
+lucasribeiro posts big blind [$0.02]
+** Dealing down cards **
+Kattazo raises [$0.06]
+lucasribeiro calls [$0.05]
+** Dealing flop ** [ 2d, Ah, 8h ]
+lucasribeiro checks
+Kattazo checks
+** Dealing turn ** [ Qc ]
+lucasribeiro checks
+Kattazo checks
+** Dealing river ** [ Td ]
+lucasribeiro checks
+Kattazo checks
+** Summary **
+lucasribeiro shows [ 4d, Kd ]
+Kattazo shows [ 9c, 9h ]
+Kattazo collected [ $0.14 ]
+
+
+#Game No : 473562769
+***** 888poker Hand History for Game 473562769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 21:58:08
+Table Izmir 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Kattazo ( $2.30 )
+Seat 6: lucasribeiro ( $1.30 )
+lucasribeiro posts small blind [$0.01]
+Kattazo posts big blind [$0.02]
+** Dealing down cards **
+lucasribeiro folds
+** Summary **
+Kattazo collected [ $0.03 ]
+
+
+#Game No : 473563544
+***** 888poker Hand History for Game 473563544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 23:28:49
+Table Izmir 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Tgellert ( $1.91 )
+Seat 6: AlexKasym ( $2 )
+AlexKasym posts small blind [$0.01]
+Tgellert posts big blind [$0.02]
+** Dealing down cards **
+AlexKasym raises [$0.05]
+Tgellert raises [$0.08]
+AlexKasym raises [$0.08]
+Tgellert raises [$0.22]
+AlexKasym raises [$0.36]
+Tgellert raises [$1.59]
+AlexKasym calls [$1.41]
+** Dealing flop ** [ 5h, 7c, 2s ]
+** Dealing turn ** [ 2d ]
+** Dealing river ** [ 4d ]
+** Summary **
+Tgellert shows [ Kc, Kh ]
+AlexKasym shows [ As, 7s ]
+Tgellert collected [ $3.59 ]
+
+
+#Game No : 473563547
+***** 888poker Hand History for Game 473563547 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 23:29:29
+Table Izmir 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Tgellert ( $3.59 )
+Seat 6: AlexKasym ( $0.09 )
+Tgellert posts small blind [$0.01]
+AlexKasym posts big blind [$0.02]
+** Dealing down cards **
+Tgellert folds
+** Summary **
+AlexKasym collected [ $0.03 ]
+
+
+#Game No : 473563548
+***** 888poker Hand History for Game 473563548 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 23:29:39
+Table Izmir 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Tgellert ( $3.58 )
+Seat 6: AlexKasym ( $2 )
+AlexKasym posts small blind [$0.01]
+Tgellert posts big blind [$0.02]
+** Dealing down cards **
+AlexKasym raises [$1.99]
+Tgellert folds
+** Summary **
+AlexKasym collected [ $2.02 ]
+
+
+#Game No : 473563550
+***** 888poker Hand History for Game 473563550 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 23:30:09
+Table Izmir 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Tgellert ( $3.56 )
+Seat 6: AlexKasym ( $2.02 )
+Tgellert posts small blind [$0.01]
+AlexKasym posts big blind [$0.02]
+** Dealing down cards **
+Tgellert folds
+** Summary **
+AlexKasym collected [ $0.03 ]
+
+
+#Game No : 473563551
+***** 888poker Hand History for Game 473563551 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 23:30:09
+Table Izmir 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Tgellert ( $3.55 )
+Seat 6: AlexKasym ( $2.03 )
+AlexKasym posts small blind [$0.01]
+Tgellert posts big blind [$0.02]
+** Dealing down cards **
+AlexKasym raises [$0.03]
+Tgellert folds
+** Summary **
+AlexKasym collected [ $0.04 ]
+
+
+#Game No : 473563553
+***** 888poker Hand History for Game 473563553 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 23:30:09
+Table Izmir 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Tgellert ( $3.53 )
+Seat 6: AlexKasym ( $2.05 )
+Tgellert posts small blind [$0.01]
+AlexKasym posts big blind [$0.02]
+** Dealing down cards **
+Tgellert raises [$0.03]
+AlexKasym raises [$0.04]
+Tgellert calls [$0.02]
+** Dealing flop ** [ Ts, 7c, 3h ]
+AlexKasym bets [$0.12]
+Tgellert folds
+** Summary **
+AlexKasym collected [ $0.12 ]
+
+
+#Game No : 473563555
+***** 888poker Hand History for Game 473563555 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 01 2020 23:30:32
+Table Izmir 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Tgellert ( $3.47 )
+Seat 6: AlexKasym ( $2.11 )
+AlexKasym posts small blind [$0.01]
+Tgellert posts big blind [$0.02]
+** Dealing down cards **
+AlexKasym raises [$0.05]
+Tgellert folds
+** Summary **
+AlexKasym collected [ $0.04 ]
+
+

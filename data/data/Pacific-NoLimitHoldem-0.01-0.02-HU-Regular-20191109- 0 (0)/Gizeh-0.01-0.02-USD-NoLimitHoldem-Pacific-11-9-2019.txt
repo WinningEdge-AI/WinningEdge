@@ -1,0 +1,99 @@
+#Game No : 523881058
+***** 888poker Hand History for Game 523881058 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2019 00:56:11
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Wolfpavel ( $2 )
+Seat 9: Dellatron ( $3.07 )
+Dellatron posts small blind [$0.01]
+Wolfpavel posts big blind [$0.02]
+** Dealing down cards **
+Dellatron calls [$0.01]
+Wolfpavel checks
+** Dealing flop ** [ 3s, Jc, Ad ]
+Wolfpavel checks
+Dellatron checks
+** Dealing turn ** [ Qc ]
+Wolfpavel checks
+Dellatron checks
+** Dealing river ** [ 7d ]
+Wolfpavel checks
+Dellatron checks
+** Summary **
+Wolfpavel shows [ 3d, Ts ]
+Dellatron shows [ 9h, 3h ]
+Dellatron collected [ $0.02 ]
+Wolfpavel collected [ $0.02 ]
+
+
+#Game No : 523881074
+***** 888poker Hand History for Game 523881074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2019 00:57:12
+Table Gizeh 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Wolfpavel ( $2 )
+Seat 9: Dellatron ( $3.07 )
+Wolfpavel posts small blind [$0.01]
+Dellatron posts big blind [$0.02]
+** Dealing down cards **
+Wolfpavel raises [$0.03]
+Dellatron calls [$0.02]
+** Dealing flop ** [ Ah, Ts, 8s ]
+Dellatron checks
+Wolfpavel bets [$0.04]
+Dellatron folds
+** Summary **
+Wolfpavel collected [ $0.08 ]
+
+
+#Game No : 523881085
+***** 888poker Hand History for Game 523881085 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2019 00:57:43
+Table Gizeh 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Wolfpavel ( $2.04 )
+Seat 9: Dellatron ( $3.03 )
+Dellatron posts small blind [$0.01]
+Wolfpavel posts big blind [$0.02]
+** Dealing down cards **
+Dellatron calls [$0.01]
+Wolfpavel raises [$0.02]
+Dellatron calls [$0.02]
+** Dealing flop ** [ 3h, Ac, Ks ]
+Wolfpavel checks
+Dellatron checks
+** Dealing turn ** [ 4c ]
+Wolfpavel checks
+Dellatron checks
+** Dealing river ** [ 3c ]
+Wolfpavel checks
+Dellatron checks
+** Summary **
+Wolfpavel shows [ 9c, Ts ]
+Dellatron mucks [ 6c, 7d ]
+Wolfpavel collected [ $0.08 ]
+
+
+#Game No : 523881094
+***** 888poker Hand History for Game 523881094 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 11 2019 00:58:18
+Table Gizeh 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Wolfpavel ( $2.08 )
+Seat 9: Dellatron ( $2.99 )
+Wolfpavel posts small blind [$0.01]
+Dellatron posts big blind [$0.02]
+** Dealing down cards **
+Wolfpavel calls [$0.01]
+Dellatron checks
+** Dealing flop ** [ Td, 4c, 3h ]
+Dellatron bets [$0.02]
+Wolfpavel folds
+** Summary **
+Dellatron collected [ $0.04 ]
+
+

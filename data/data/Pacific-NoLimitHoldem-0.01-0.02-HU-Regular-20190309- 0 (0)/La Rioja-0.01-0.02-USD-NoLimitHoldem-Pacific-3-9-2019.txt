@@ -1,0 +1,376 @@
+#Game No : 526155668
+***** 888poker Hand History for Game 526155668 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:42:53
+Table La Rioja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: mioriso ( $1.13 )
+Seat 7: sapfirg ( $1.71 )
+sapfirg posts small blind [$0.01]
+mioriso posts big blind [$0.02]
+** Dealing down cards **
+sapfirg raises [$0.05]
+mioriso calls [$0.04]
+** Dealing flop ** [ 3d, Jc, Tc ]
+mioriso checks
+sapfirg bets [$0.08]
+mioriso folds
+** Summary **
+sapfirg collected [ $0.12 ]
+
+
+#Game No : 526155753
+***** 888poker Hand History for Game 526155753 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:45:17
+Table La Rioja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: alex240061 ( $0.99 )
+Seat 7: sapfirg ( $1.94 )
+sapfirg posts small blind [$0.01]
+alex240061 posts big blind [$0.02]
+** Dealing down cards **
+sapfirg folds
+** Summary **
+alex240061 did not show his hand
+alex240061 collected [ $0.03 ]
+
+
+#Game No : 526155755
+***** 888poker Hand History for Game 526155755 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:45:23
+Table La Rioja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alex240061 ( $1 )
+Seat 7: sapfirg ( $1.93 )
+alex240061 posts small blind [$0.01]
+sapfirg posts big blind [$0.02]
+** Dealing down cards **
+alex240061 calls [$0.01]
+sapfirg checks
+** Dealing flop ** [ Th, 2c, 7d ]
+sapfirg checks
+alex240061 bets [$0.02]
+sapfirg calls [$0.02]
+** Dealing turn ** [ 6s ]
+sapfirg checks
+alex240061 bets [$0.02]
+sapfirg calls [$0.02]
+** Dealing river ** [ 9d ]
+sapfirg bets [$0.24]
+alex240061 folds
+** Summary **
+sapfirg did not show his hand
+sapfirg collected [ $0.12 ]
+
+
+#Game No : 526155804
+***** 888poker Hand History for Game 526155804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:46:20
+Table La Rioja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: alex240061 ( $0.94 )
+Seat 7: sapfirg ( $1.99 )
+sapfirg posts small blind [$0.01]
+alex240061 posts big blind [$0.02]
+** Dealing down cards **
+sapfirg calls [$0.01]
+alex240061 checks
+** Dealing flop ** [ 9h, Qs, 8d ]
+alex240061 checks
+sapfirg checks
+** Dealing turn ** [ As ]
+alex240061 checks
+sapfirg bets [$0.10]
+alex240061 folds
+** Summary **
+sapfirg collected [ $0.04 ]
+
+
+#Game No : 526155818
+***** 888poker Hand History for Game 526155818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:46:45
+Table La Rioja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alex240061 ( $0.92 )
+Seat 7: sapfirg ( $2.01 )
+alex240061 posts small blind [$0.01]
+sapfirg posts big blind [$0.02]
+** Dealing down cards **
+alex240061 calls [$0.01]
+sapfirg checks
+** Dealing flop ** [ 4s, 2s, 2h ]
+sapfirg checks
+alex240061 checks
+** Dealing turn ** [ Qd ]
+sapfirg checks
+alex240061 checks
+** Dealing river ** [ 3h ]
+sapfirg folds
+** Summary **
+alex240061 collected [ $0.04 ]
+
+
+#Game No : 526155837
+***** 888poker Hand History for Game 526155837 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:47:08
+Table La Rioja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alex240061 ( $0.94 )
+Seat 4: sam.jia ( $1 )
+alex240061 posts small blind [$0.01]
+sam.jia posts big blind [$0.02]
+** Dealing down cards **
+alex240061 calls [$0.01]
+sam.jia checks
+** Dealing flop ** [ 3d, 9s, 2s ]
+sam.jia checks
+alex240061 checks
+** Dealing turn ** [ Js ]
+sam.jia bets [$0.04]
+alex240061 calls [$0.04]
+** Dealing river ** [ 8h ]
+sam.jia checks
+alex240061 bets [$0.08]
+sam.jia folds
+** Summary **
+alex240061 collected [ $0.12 ]
+
+
+#Game No : 526155875
+***** 888poker Hand History for Game 526155875 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 01:48:00
+Table La Rioja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alex240061 ( $1 )
+Seat 9: Cheeta01 ( $1 )
+alex240061 posts small blind [$0.01]
+Cheeta01 posts big blind [$0.02]
+** Dealing down cards **
+alex240061 calls [$0.01]
+Cheeta01 raises [$0.14]
+alex240061 raises [$0.28]
+Cheeta01 calls [$0.14]
+** Dealing flop ** [ 5d, Js, 5s ]
+Cheeta01 bets [$0.70]
+alex240061 calls [$0.70]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 2s ]
+** Summary **
+alex240061 shows [ Ks, Ah ]
+Cheeta01 shows [ 7s, 7d ]
+alex240061 collected [ $1.88 ]
+
+
+#Game No : 526176216
+***** 888poker Hand History for Game 526176216 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 07:08:33
+Table La Rioja 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: klodianAA83 ( $1.28 )
+Seat 4: Maklays. ( $0.46 )
+Maklays. posts small blind [$0.01]
+klodianAA83 posts big blind [$0.02]
+** Dealing down cards **
+Maklays. calls [$0.01]
+klodianAA83 checks
+** Dealing flop ** [ 2h, 7h, Qh ]
+klodianAA83 checks
+Maklays. checks
+** Dealing turn ** [ 9h ]
+klodianAA83 checks
+Maklays. bets [$0.02]
+klodianAA83 folds
+** Summary **
+Maklays. collected [ $0.04 ]
+
+
+#Game No : 526176257
+***** 888poker Hand History for Game 526176257 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 07:09:13
+Table La Rioja 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: klodianAA83 ( $1.26 )
+Seat 4: Maklays. ( $0.48 )
+klodianAA83 posts small blind [$0.01]
+Maklays. posts big blind [$0.02]
+** Dealing down cards **
+klodianAA83 raises [$0.05]
+Maklays. folds
+** Summary **
+klodianAA83 collected [ $0.04 ]
+
+
+#Game No : 526176273
+***** 888poker Hand History for Game 526176273 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 07:09:24
+Table La Rioja 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: klodianAA83 ( $1.28 )
+Seat 4: Maklays. ( $0.46 )
+Maklays. posts small blind [$0.01]
+klodianAA83 posts big blind [$0.02]
+** Dealing down cards **
+Maklays. calls [$0.01]
+klodianAA83 raises [$0.04]
+Maklays. calls [$0.04]
+** Dealing flop ** [ 5c, Ac, 9s ]
+klodianAA83 checks
+Maklays. bets [$0.12]
+klodianAA83 folds
+** Summary **
+Maklays. collected [ $0.12 ]
+
+
+#Game No : 526177657
+***** 888poker Hand History for Game 526177657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 07:28:04
+Table La Rioja 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: klodianAA83 ( $1.88 )
+Seat 4: Onlyone66 ( $1.01 )
+Onlyone66 posts small blind [$0.01]
+klodianAA83 posts big blind [$0.02]
+** Dealing down cards **
+Onlyone66 folds
+** Summary **
+klodianAA83 collected [ $0.03 ]
+
+
+#Game No : 526177672
+***** 888poker Hand History for Game 526177672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 07:28:15
+Table La Rioja 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: klodianAA83 ( $1.89 )
+Seat 4: Onlyone66 ( $1 )
+klodianAA83 posts small blind [$0.01]
+Onlyone66 posts big blind [$0.02]
+** Dealing down cards **
+klodianAA83 folds
+** Summary **
+Onlyone66 collected [ $0.03 ]
+
+
+#Game No : 526177685
+***** 888poker Hand History for Game 526177685 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 07:28:20
+Table La Rioja 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: klodianAA83 ( $1.88 )
+Seat 4: Onlyone66 ( $1.01 )
+Onlyone66 posts small blind [$0.01]
+klodianAA83 posts big blind [$0.02]
+** Dealing down cards **
+Onlyone66 raises [$0.05]
+klodianAA83 folds
+** Summary **
+Onlyone66 collected [ $0.04 ]
+
+
+#Game No : 526180249
+***** 888poker Hand History for Game 526180249 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 07:59:29
+Table La Rioja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: pivazyan ( $1 )
+Seat 6: wi8n8n8ner ( $1.01 )
+pivazyan posts small blind [$0.01]
+wi8n8n8ner posts big blind [$0.02]
+** Dealing down cards **
+pivazyan raises [$0.05]
+wi8n8n8ner calls [$0.04]
+** Dealing flop ** [ Jh, Qc, Qd ]
+wi8n8n8ner checks
+pivazyan checks
+** Dealing turn ** [ Jc ]
+wi8n8n8ner checks
+pivazyan checks
+** Dealing river ** [ Ac ]
+wi8n8n8ner bets [$0.06]
+pivazyan calls [$0.06]
+** Summary **
+wi8n8n8ner shows [ 4s, As ]
+pivazyan shows [ 6d, Ad ]
+wi8n8n8ner collected [ $0.12 ]
+pivazyan collected [ $0.11 ]
+
+
+#Game No : 526180291
+***** 888poker Hand History for Game 526180291 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 08:00:01
+Table La Rioja 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: pivazyan ( $1 )
+Seat 6: wi8n8n8ner ( $1.01 )
+wi8n8n8ner posts small blind [$0.01]
+** Dealing down cards **
+pivazyan folds
+** Summary **
+wi8n8n8ner collected [ $0.01 ]
+
+
+#Game No : 526180296
+***** 888poker Hand History for Game 526180296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 08:00:04
+Table La Rioja 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: wi8n8n8ner ( $1.01 )
+Seat 7: Goldie891 ( $0.80 )
+wi8n8n8ner posts small blind [$0.01]
+Goldie891 posts big blind [$0.02]
+** Dealing down cards **
+wi8n8n8ner calls [$0.01]
+Goldie891 checks
+** Dealing flop ** [ Qc, 5d, Ks ]
+Goldie891 bets [$0.10]
+wi8n8n8ner folds
+** Summary **
+Goldie891 collected [ $0.04 ]
+
+
+#Game No : 526182780
+***** 888poker Hand History for Game 526182780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 08:31:26
+Table La Rioja 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: richbranson ( $2.35 )
+Seat 7: dr.House_ ( $1.11 )
+richbranson posts small blind [$0.01]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+richbranson collected [ $0.01 ]
+
+
+#Game No : 526183012
+***** 888poker Hand History for Game 526183012 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 08:33:54
+Table La Rioja 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: richbranson ( $2.35 )
+Seat 9: dmitryix ( $0.80 )
+richbranson posts small blind [$0.01]
+** Dealing down cards **
+dmitryix folds
+** Summary **
+richbranson did not show his hand
+richbranson collected [ $0.01 ]
+
+

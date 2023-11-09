@@ -1,0 +1,45 @@
+#Game No : 503867789
+***** 888poker Hand History for Game 503867789 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 13:22:55
+Table Tocumen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: 13zero13 ( $4.77 )
+Seat 9: genesisMJ ( $1.97 )
+13zero13 posts small blind [$0.01]
+genesisMJ posts big blind [$0.02]
+** Dealing down cards **
+13zero13 raises [$0.05]
+genesisMJ calls [$0.04]
+** Dealing flop ** [ As, 2h, 9d ]
+genesisMJ checks
+13zero13 bets [$0.06]
+genesisMJ calls [$0.06]
+** Dealing turn ** [ Jd ]
+genesisMJ checks
+13zero13 checks
+** Dealing river ** [ 4c ]
+genesisMJ bets [$0.24]
+13zero13 calls [$0.24]
+** Summary **
+genesisMJ shows [ Js, Jc ]
+13zero13 mucks [ 7d, Ac ]
+genesisMJ collected [ $0.68 ]
+
+
+#Game No : 503867897
+***** 888poker Hand History for Game 503867897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 06 2018 13:24:00
+Table Tocumen 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: 13zero13 ( $4.41 )
+Seat 9: genesisMJ ( $2.29 )
+genesisMJ posts small blind [$0.01]
+** Dealing down cards **
+13zero13 folds
+** Summary **
+genesisMJ did not show his hand
+genesisMJ collected [ $0.01 ]
+
+

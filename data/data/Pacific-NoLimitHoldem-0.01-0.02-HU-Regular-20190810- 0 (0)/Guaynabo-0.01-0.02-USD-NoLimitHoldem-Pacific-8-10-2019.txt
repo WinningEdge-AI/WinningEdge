@@ -1,0 +1,229 @@
+#Game No : 537174971
+***** 888poker Hand History for Game 537174971 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 00:25:51
+Table Guaynabo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ArcticWin ( $1.93 )
+Seat 2: Jontymason23 ( $1 )
+ArcticWin posts small blind [$0.01]
+Jontymason23 posts big blind [$0.02]
+** Dealing down cards **
+ArcticWin calls [$0.01]
+Jontymason23 checks
+** Dealing flop ** [ Kd, Th, Ks ]
+Jontymason23 checks
+ArcticWin checks
+** Dealing turn ** [ Kh ]
+Jontymason23 checks
+ArcticWin checks
+** Dealing river ** [ 9c ]
+Jontymason23 checks
+ArcticWin checks
+** Summary **
+Jontymason23 shows [ Jc, 2s ]
+ArcticWin shows [ Js, 8s ]
+Jontymason23 collected [ $0.02 ]
+ArcticWin collected [ $0.02 ]
+
+
+#Game No : 537174979
+***** 888poker Hand History for Game 537174979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 00:26:16
+Table Guaynabo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: ArcticWin ( $1.93 )
+Seat 2: Jontymason23 ( $1 )
+Jontymason23 posts small blind [$0.01]
+ArcticWin posts big blind [$0.02]
+** Dealing down cards **
+Jontymason23 calls [$0.01]
+ArcticWin checks
+** Dealing flop ** [ 2h, Kh, 9d ]
+ArcticWin checks
+Jontymason23 bets [$0.02]
+ArcticWin calls [$0.02]
+** Dealing turn ** [ Qc ]
+ArcticWin checks
+Jontymason23 checks
+** Dealing river ** [ 6s ]
+ArcticWin bets [$0.02]
+Jontymason23 folds
+** Summary **
+ArcticWin did not show his hand
+ArcticWin collected [ $0.08 ]
+
+
+#Game No : 537174988
+***** 888poker Hand History for Game 537174988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 00:26:46
+Table Guaynabo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ArcticWin ( $1.97 )
+Seat 2: Jontymason23 ( $0.96 )
+ArcticWin posts small blind [$0.01]
+Jontymason23 posts big blind [$0.02]
+** Dealing down cards **
+ArcticWin calls [$0.01]
+Jontymason23 checks
+** Dealing flop ** [ 8h, Ks, 2c ]
+Jontymason23 bets [$0.02]
+ArcticWin folds
+** Summary **
+Jontymason23 did not show his hand
+Jontymason23 collected [ $0.04 ]
+
+
+#Game No : 537177765
+***** 888poker Hand History for Game 537177765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 02:00:47
+Table Guaynabo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: DDragu ( $1.30 )
+Seat 10: zcongueror1 ( $1.70 )
+zcongueror1 posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+zcongueror1 calls [$0.01]
+DDragu checks
+** Dealing flop ** [ Th, 7s, Ac ]
+DDragu checks
+zcongueror1 bets [$0.02]
+DDragu folds
+** Summary **
+zcongueror1 did not show his hand
+zcongueror1 collected [ $0.04 ]
+
+
+#Game No : 537177775
+***** 888poker Hand History for Game 537177775 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 02:01:02
+Table Guaynabo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: DDragu ( $1.28 )
+Seat 10: zcongueror1 ( $1.72 )
+DDragu posts small blind [$0.01]
+zcongueror1 posts big blind [$0.02]
+** Dealing down cards **
+DDragu folds
+** Summary **
+zcongueror1 did not show his hand
+zcongueror1 collected [ $0.03 ]
+
+
+#Game No : 537177779
+***** 888poker Hand History for Game 537177779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 02:01:09
+Table Guaynabo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: DDragu ( $1.27 )
+Seat 10: zcongueror1 ( $1.73 )
+zcongueror1 posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+zcongueror1 raises [$0.03]
+DDragu folds
+** Summary **
+zcongueror1 did not show his hand
+zcongueror1 collected [ $0.04 ]
+
+
+#Game No : 537177787
+***** 888poker Hand History for Game 537177787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 02:01:20
+Table Guaynabo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: DDragu ( $1.25 )
+Seat 10: zcongueror1 ( $1.75 )
+DDragu posts small blind [$0.01]
+zcongueror1 posts big blind [$0.02]
+** Dealing down cards **
+DDragu calls [$0.01]
+zcongueror1 checks
+** Dealing flop ** [ 4d, Jd, 7c ]
+zcongueror1 checks
+DDragu bets [$0.06]
+zcongueror1 folds
+** Summary **
+DDragu did not show his hand
+DDragu collected [ $0.04 ]
+
+
+#Game No : 537177817
+***** 888poker Hand History for Game 537177817 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 02:02:07
+Table Guaynabo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: DDragu ( $1.26 )
+Seat 10: zcongueror1 ( $1.74 )
+zcongueror1 posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+zcongueror1 calls [$0.01]
+DDragu checks
+** Dealing flop ** [ 3s, Qs, As ]
+DDragu checks
+zcongueror1 checks
+** Dealing turn ** [ 2d ]
+DDragu checks
+zcongueror1 checks
+** Dealing river ** [ Kh ]
+DDragu checks
+zcongueror1 checks
+** Summary **
+DDragu shows [ Jc, 3d ]
+zcongueror1 mucks [ 2h, Jd ]
+DDragu collected [ $0.04 ]
+
+
+#Game No : 537177847
+***** 888poker Hand History for Game 537177847 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 02:02:50
+Table Guaynabo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: DDragu ( $1.28 )
+Seat 10: zcongueror1 ( $1.72 )
+DDragu posts small blind [$0.01]
+zcongueror1 posts big blind [$0.02]
+** Dealing down cards **
+DDragu folds
+** Summary **
+zcongueror1 did not show his hand
+zcongueror1 collected [ $0.03 ]
+
+
+#Game No : 537177853
+***** 888poker Hand History for Game 537177853 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 08 2019 02:02:57
+Table Guaynabo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: DDragu ( $1.27 )
+Seat 10: zcongueror1 ( $1.73 )
+zcongueror1 posts small blind [$0.01]
+DDragu posts big blind [$0.02]
+** Dealing down cards **
+zcongueror1 calls [$0.01]
+DDragu checks
+** Dealing flop ** [ 8c, 4h, 4d ]
+DDragu checks
+zcongueror1 checks
+** Dealing turn ** [ Ks ]
+DDragu checks
+zcongueror1 checks
+** Dealing river ** [ 9h ]
+DDragu checks
+zcongueror1 bets [$0.06]
+DDragu folds
+** Summary **
+zcongueror1 collected [ $0.04 ]
+
+

@@ -1,0 +1,464 @@
+#Game No : 465424256
+***** 888poker Hand History for Game 465424256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 18:15:51
+Table Henderson 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: thenausea ( $1.24 )
+Seat 7: maksimhodas ( $1.79 )
+maksimhodas posts small blind [$0.01]
+thenausea posts big blind [$0.02]
+** Dealing down cards **
+maksimhodas calls [$0.01]
+thenausea checks
+** Dealing flop ** [ 5s, Ad, 7h ]
+thenausea bets [$0.04]
+maksimhodas calls [$0.04]
+** Dealing turn ** [ 7c ]
+thenausea checks
+maksimhodas checks
+** Dealing river ** [ 9d ]
+thenausea bets [$0.02]
+maksimhodas raises [$0.10]
+thenausea calls [$0.08]
+** Summary **
+maksimhodas shows [ 8s, 9s ]
+thenausea mucks [ 5c, Jh ]
+maksimhodas collected [ $0.30 ]
+
+
+#Game No : 465424259
+***** 888poker Hand History for Game 465424259 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 18:16:21
+Table Henderson 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: thenausea ( $1.08 )
+Seat 7: maksimhodas ( $1.93 )
+thenausea posts small blind [$0.01]
+maksimhodas posts big blind [$0.02]
+** Dealing down cards **
+thenausea calls [$0.01]
+maksimhodas checks
+** Dealing flop ** [ 4s, 3d, 8c ]
+maksimhodas bets [$0.02]
+thenausea folds
+** Summary **
+maksimhodas did not show his hand
+maksimhodas collected [ $0.04 ]
+
+
+#Game No : 465424265
+***** 888poker Hand History for Game 465424265 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 18:16:32
+Table Henderson 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: thenausea ( $1.06 )
+Seat 7: maksimhodas ( $1.95 )
+maksimhodas posts small blind [$0.01]
+thenausea posts big blind [$0.02]
+** Dealing down cards **
+maksimhodas calls [$0.01]
+thenausea checks
+** Dealing flop ** [ Qc, Ah, Jc ]
+thenausea checks
+maksimhodas bets [$0.02]
+thenausea calls [$0.02]
+** Dealing turn ** [ 5h ]
+thenausea checks
+maksimhodas checks
+** Dealing river ** [ 7s ]
+thenausea checks
+maksimhodas checks
+** Summary **
+thenausea shows [ 9c, 2h ]
+maksimhodas mucks [ 6h, 8d ]
+thenausea collected [ $0.08 ]
+
+
+#Game No : 465425706
+***** 888poker Hand History for Game 465425706 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 19:41:34
+Table Henderson 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: akbogat80 ( $1.51 )
+Seat 9: i_am_you_ ( $0.80 )
+i_am_you_ posts small blind [$0.01]
+akbogat80 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+akbogat80 did not show his hand
+akbogat80 collected [ $0.03 ]
+
+
+#Game No : 465425709
+***** 888poker Hand History for Game 465425709 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 19:41:39
+Table Henderson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: akbogat80 ( $1.52 )
+Seat 9: i_am_you_ ( $0.80 )
+akbogat80 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+akbogat80 calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ Qs, Th, Ac ]
+i_am_you_ checks
+akbogat80 checks
+** Dealing turn ** [ 4h ]
+i_am_you_ checks
+akbogat80 checks
+** Dealing river ** [ 3c ]
+i_am_you_ checks
+akbogat80 checks
+** Summary **
+i_am_you_ shows [ 9h, Js ]
+akbogat80 shows [ 8h, Ts ]
+akbogat80 collected [ $0.04 ]
+
+
+#Game No : 465425714
+***** 888poker Hand History for Game 465425714 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 19:42:08
+Table Henderson 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: akbogat80 ( $1.54 )
+Seat 9: i_am_you_ ( $0.80 )
+i_am_you_ posts small blind [$0.01]
+akbogat80 posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+akbogat80 did not show his hand
+akbogat80 collected [ $0.03 ]
+
+
+#Game No : 465425715
+***** 888poker Hand History for Game 465425715 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 19:42:13
+Table Henderson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: akbogat80 ( $1.55 )
+Seat 9: i_am_you_ ( $0.80 )
+akbogat80 posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+akbogat80 calls [$0.01]
+i_am_you_ checks
+** Dealing flop ** [ Tc, 4s, As ]
+i_am_you_ checks
+akbogat80 checks
+** Dealing turn ** [ Jc ]
+i_am_you_ checks
+akbogat80 bets [$0.02]
+i_am_you_ folds
+** Summary **
+akbogat80 collected [ $0.04 ]
+
+
+#Game No : 465426591
+***** 888poker Hand History for Game 465426591 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 20:51:10
+Table Henderson 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Tilt1712 ( $1.20 )
+Seat 2: DmitryDW ( $1.06 )
+Tilt1712 posts small blind [$0.01]
+DmitryDW posts big blind [$0.02]
+** Dealing down cards **
+Tilt1712 calls [$0.01]
+DmitryDW checks
+** Dealing flop ** [ 5c, 9d, 8h ]
+DmitryDW checks
+Tilt1712 bets [$0.02]
+DmitryDW folds
+** Summary **
+Tilt1712 collected [ $0.04 ]
+
+
+#Game No : 465426606
+***** 888poker Hand History for Game 465426606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 20:52:49
+Table Henderson 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: DmitryDW ( $1.04 )
+Seat 4: Lizzzard703 ( $0.80 )
+Lizzzard703 posts small blind [$0.01]
+DmitryDW posts big blind [$0.02]
+** Dealing down cards **
+Lizzzard703 calls [$0.01]
+DmitryDW checks
+** Dealing flop ** [ 2h, 6h, 4d ]
+DmitryDW bets [$0.02]
+Lizzzard703 calls [$0.02]
+** Dealing turn ** [ 3c ]
+DmitryDW checks
+Lizzzard703 bets [$0.08]
+DmitryDW folds
+** Summary **
+Lizzzard703 collected [ $0.08 ]
+
+
+#Game No : 465426612
+***** 888poker Hand History for Game 465426612 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 20:53:27
+Table Henderson 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: DmitryDW ( $1 )
+Seat 4: Lizzzard703 ( $0.84 )
+DmitryDW posts small blind [$0.01]
+Lizzzard703 posts big blind [$0.02]
+** Dealing down cards **
+DmitryDW folds
+** Summary **
+Lizzzard703 collected [ $0.03 ]
+
+
+#Game No : 465426897
+***** 888poker Hand History for Game 465426897 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 21:24:55
+Table Henderson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: DmitryDW ( $1 )
+Seat 7: Godpest ( $0.80 )
+DmitryDW posts small blind [$0.01]
+Godpest posts big blind [$0.02]
+** Dealing down cards **
+DmitryDW raises [$0.05]
+Godpest calls [$0.04]
+** Dealing flop ** [ 4h, 8s, 4d ]
+Godpest checks
+DmitryDW checks
+** Dealing turn ** [ Tc ]
+Godpest bets [$0.12]
+DmitryDW folds
+** Summary **
+Godpest did not show his hand
+Godpest collected [ $0.12 ]
+
+
+#Game No : 465426905
+***** 888poker Hand History for Game 465426905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 21:25:07
+Table Henderson 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: DmitryDW ( $1 )
+Seat 7: Godpest ( $0.86 )
+Godpest posts small blind [$0.01]
+DmitryDW posts big blind [$0.02]
+** Dealing down cards **
+Godpest raises [$0.05]
+DmitryDW calls [$0.04]
+** Dealing flop ** [ 6h, 2d, Ts ]
+DmitryDW checks
+Godpest checks
+** Dealing turn ** [ 3h ]
+DmitryDW bets [$0.07]
+Godpest folds
+** Summary **
+DmitryDW did not show his hand
+DmitryDW collected [ $0.12 ]
+
+
+#Game No : 465426909
+***** 888poker Hand History for Game 465426909 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 21:25:29
+Table Henderson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: DmitryDW ( $1.06 )
+Seat 7: Godpest ( $0.80 )
+DmitryDW posts small blind [$0.01]
+Godpest posts big blind [$0.02]
+** Dealing down cards **
+DmitryDW folds
+** Summary **
+Godpest did not show his hand
+Godpest collected [ $0.03 ]
+
+
+#Game No : 465426912
+***** 888poker Hand History for Game 465426912 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 21:25:35
+Table Henderson 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: DmitryDW ( $1.05 )
+Seat 7: Godpest ( $0.81 )
+Godpest posts small blind [$0.01]
+DmitryDW posts big blind [$0.02]
+** Dealing down cards **
+Godpest folds
+** Summary **
+DmitryDW did not show his hand
+DmitryDW collected [ $0.03 ]
+
+
+#Game No : 465426914
+***** 888poker Hand History for Game 465426914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 21:25:44
+Table Henderson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: DmitryDW ( $1.06 )
+Seat 7: Godpest ( $0.80 )
+DmitryDW posts small blind [$0.01]
+Godpest posts big blind [$0.02]
+** Dealing down cards **
+DmitryDW folds
+** Summary **
+Godpest did not show his hand
+Godpest collected [ $0.03 ]
+
+
+#Game No : 465426915
+***** 888poker Hand History for Game 465426915 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 21:25:51
+Table Henderson 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: DmitryDW ( $1.05 )
+Seat 7: Godpest ( $0.81 )
+Godpest posts small blind [$0.01]
+DmitryDW posts big blind [$0.02]
+** Dealing down cards **
+Godpest calls [$0.01]
+DmitryDW raises [$0.04]
+Godpest calls [$0.04]
+** Dealing flop ** [ Js, 8s, 9c ]
+DmitryDW checks
+Godpest checks
+** Dealing turn ** [ Ts ]
+DmitryDW bets [$0.06]
+Godpest calls [$0.06]
+** Dealing river ** [ 8d ]
+DmitryDW checks
+Godpest bets [$0.24]
+DmitryDW folds
+** Summary **
+Godpest collected [ $0.23 ]
+
+
+#Game No : 465428406
+***** 888poker Hand History for Game 465428406 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 23:09:12
+Table Henderson 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jedai111 ( $1.13 )
+Seat 6: dr.House_ ( $1.06 )
+jedai111 posts small blind [$0.01]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+jedai111 collected [ $0.01 ]
+
+
+#Game No : 465428453
+***** 888poker Hand History for Game 465428453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 23:12:15
+Table Henderson 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: r0me00 ( $1 )
+Seat 7: Jenser35 ( $1 )
+r0me00 posts small blind [$0.01]
+Jenser35 posts big blind [$0.02]
+** Dealing down cards **
+r0me00 raises [$0.05]
+Jenser35 folds
+** Summary **
+r0me00 did not show his hand
+r0me00 collected [ $0.04 ]
+
+
+#Game No : 465428458
+***** 888poker Hand History for Game 465428458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 05 2019 23:12:32
+Table Henderson 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: r0me00 ( $1.02 )
+Seat 7: Jenser35 ( $1 )
+Jenser35 posts small blind [$0.01]
+r0me00 posts big blind [$0.02]
+** Dealing down cards **
+Jenser35 calls [$0.01]
+r0me00 checks
+** Dealing flop ** [ 6s, 2s, 6c ]
+r0me00 bets [$0.02]
+Jenser35 calls [$0.02]
+** Dealing turn ** [ 5c ]
+r0me00 bets [$0.06]
+Jenser35 folds
+** Summary **
+r0me00 collected [ $0.08 ]
+
+
+#Game No : 465429344
+***** 888poker Hand History for Game 465429344 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 05 2019 00:01:59
+Table Henderson 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: dr.House_ ( $1.60 )
+Seat 7: Gevs35 ( $0.80 )
+Gevs35 posts small blind [$0.01]
+dr.House_ posts big blind [$0.02]
+** Dealing down cards **
+Gevs35 calls [$0.01]
+dr.House_ checks
+** Dealing flop ** [ Ks, 7d, 2s ]
+dr.House_ checks
+Gevs35 bets [$0.06]
+dr.House_ folds
+** Summary **
+Gevs35 did not show his hand
+Gevs35 collected [ $0.04 ]
+
+
+#Game No : 465429351
+***** 888poker Hand History for Game 465429351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 05 2019 00:02:24
+Table Henderson 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: dr.House_ ( $1.58 )
+Seat 7: Gevs35 ( $0.82 )
+dr.House_ posts small blind [$0.01]
+Gevs35 posts big blind [$0.02]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+Gevs35 did not show his hand
+Gevs35 collected [ $0.03 ]
+
+
+#Game No : 465429353
+***** 888poker Hand History for Game 465429353 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 05 2019 00:02:31
+Table Henderson 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: dr.House_ ( $1.57 )
+Seat 7: Gevs35 ( $0.83 )
+Gevs35 posts small blind [$0.01]
+** Dealing down cards **
+dr.House_ folds
+** Summary **
+Gevs35 did not show his hand
+Gevs35 collected [ $0.01 ]
+
+

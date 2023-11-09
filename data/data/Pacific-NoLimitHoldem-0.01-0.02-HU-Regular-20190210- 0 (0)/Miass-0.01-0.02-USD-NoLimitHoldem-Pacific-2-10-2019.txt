@@ -1,0 +1,206 @@
+#Game No : 523855110
+***** 888poker Hand History for Game 523855110 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:25:45
+Table Miass 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Kroka61 ( $1.97 )
+Seat 2: thepoun ( $2 )
+Kroka61 posts small blind [$0.01]
+thepoun posts big blind [$0.02]
+** Dealing down cards **
+Kroka61 raises [$0.03]
+thepoun calls [$0.02]
+** Dealing flop ** [ Th, 8s, 2d ]
+thepoun checks
+Kroka61 bets [$0.08]
+thepoun folds
+** Summary **
+Kroka61 collected [ $0.08 ]
+
+
+#Game No : 523855133
+***** 888poker Hand History for Game 523855133 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 02 2019 18:26:05
+Table Miass 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Kroka61 ( $2.01 )
+Seat 2: thepoun ( $1.96 )
+thepoun posts small blind [$0.01]
+Kroka61 posts big blind [$0.02]
+** Dealing down cards **
+thepoun calls [$0.01]
+Kroka61 raises [$0.04]
+thepoun calls [$0.04]
+** Dealing flop ** [ Qc, 7d, 8s ]
+Kroka61 bets [$0.02]
+thepoun calls [$0.02]
+** Dealing turn ** [ 3c ]
+Kroka61 bets [$0.16]
+thepoun folds
+** Summary **
+Kroka61 collected [ $0.15 ]
+
+
+#Game No : 523886449
+***** 888poker Hand History for Game 523886449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 06:34:51
+Table Miass 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Andrikolac ( $0.56 )
+Seat 3: maks_886 ( $2.16 )
+Andrikolac posts small blind [$0.01]
+maks_886 posts big blind [$0.02]
+** Dealing down cards **
+Andrikolac folds
+** Summary **
+maks_886 did not show his hand
+maks_886 collected [ $0.03 ]
+
+
+#Game No : 523886455
+***** 888poker Hand History for Game 523886455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 06:34:57
+Table Miass 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: Andrikolac ( $0.55 )
+Seat 3: maks_886 ( $2.17 )
+maks_886 posts small blind [$0.01]
+Andrikolac posts big blind [$0.02]
+** Dealing down cards **
+maks_886 raises [$0.06]
+Andrikolac calls [$0.05]
+** Dealing flop ** [ Tc, Jh, 5c ]
+Andrikolac checks
+maks_886 bets [$0.07]
+Andrikolac calls [$0.07]
+** Dealing turn ** [ 8s ]
+Andrikolac checks
+maks_886 bets [$0.14]
+Andrikolac calls [$0.14]
+** Dealing river ** [ Qd ]
+Andrikolac bets [$0.27]
+maks_886 calls [$0.27]
+** Summary **
+Andrikolac shows [ 8d, 9d ]
+maks_886 shows [ Ks, Kc ]
+Andrikolac collected [ $1.04 ]
+
+
+#Game No : 523886477
+***** 888poker Hand History for Game 523886477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 06:35:26
+Table Miass 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Andrikolac ( $1.04 )
+Seat 3: maks_886 ( $2 )
+Andrikolac posts small blind [$0.01]
+maks_886 posts big blind [$0.02]
+** Dealing down cards **
+Andrikolac raises [$0.03]
+maks_886 raises [$0.10]
+Andrikolac calls [$0.08]
+** Dealing flop ** [ 6d, 4c, 5d ]
+maks_886 checks
+Andrikolac checks
+** Dealing turn ** [ Qh ]
+maks_886 checks
+Andrikolac checks
+** Dealing river ** [ 6s ]
+maks_886 checks
+Andrikolac checks
+** Summary **
+maks_886 shows [ Ac, Kd ]
+Andrikolac mucks [ Td, Jd ]
+maks_886 collected [ $0.23 ]
+
+
+#Game No : 523886500
+***** 888poker Hand History for Game 523886500 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 06:35:49
+Table Miass 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: Andrikolac ( $0.92 )
+Seat 3: maks_886 ( $2.11 )
+maks_886 posts small blind [$0.01]
+Andrikolac posts big blind [$0.02]
+** Dealing down cards **
+maks_886 raises [$0.06]
+Andrikolac folds
+** Summary **
+maks_886 did not show his hand
+maks_886 collected [ $0.04 ]
+
+
+#Game No : 523886511
+***** 888poker Hand History for Game 523886511 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 06:35:59
+Table Miass 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Andrikolac ( $0.90 )
+Seat 3: maks_886 ( $2.13 )
+Andrikolac posts small blind [$0.01]
+maks_886 posts big blind [$0.02]
+** Dealing down cards **
+Andrikolac folds
+** Summary **
+maks_886 did not show his hand
+maks_886 collected [ $0.03 ]
+
+
+#Game No : 523886520
+***** 888poker Hand History for Game 523886520 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 06:36:04
+Table Miass 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: Andrikolac ( $0.89 )
+Seat 3: maks_886 ( $2.14 )
+maks_886 posts small blind [$0.01]
+Andrikolac posts big blind [$0.02]
+** Dealing down cards **
+maks_886 folds
+** Summary **
+Andrikolac did not show his hand
+Andrikolac collected [ $0.03 ]
+
+
+#Game No : 523886523
+***** 888poker Hand History for Game 523886523 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 06:36:09
+Table Miass 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Andrikolac ( $0.90 )
+Seat 3: maks_886 ( $2.13 )
+Andrikolac posts small blind [$0.01]
+maks_886 posts big blind [$0.02]
+** Dealing down cards **
+Andrikolac folds
+** Summary **
+maks_886 did not show his hand
+maks_886 collected [ $0.03 ]
+
+
+#Game No : 523886530
+***** 888poker Hand History for Game 523886530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2019 06:36:14
+Table Miass 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 1: Andrikolac ( $0.89 )
+Seat 3: maks_886 ( $2.14 )
+maks_886 posts small blind [$0.01]
+** Dealing down cards **
+Andrikolac folds
+** Summary **
+maks_886 did not show his hand
+maks_886 collected [ $0.01 ]
+
+

@@ -1,0 +1,127 @@
+#Game No : 501605790
+***** 888poker Hand History for Game 501605790 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 11:25:05
+Table Burgas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: zohanDK ( $1.03 )
+Seat 9: VictimVIP ( $1.48 )
+VictimVIP posts small blind [$0.01]
+** Dealing down cards **
+zohanDK folds
+** Summary **
+VictimVIP collected [ $0.01 ]
+
+
+#Game No : 501615823
+***** 888poker Hand History for Game 501615823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 13:48:24
+Table Burgas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OlegH1 ( $1.06 )
+Seat 9: Sjaapieo ( $0.99 )
+OlegH1 posts small blind [$0.01]
+Sjaapieo posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+Sjaapieo checks
+** Dealing flop ** [ 2c, Tc, 8c ]
+Sjaapieo checks
+OlegH1 checks
+** Dealing turn ** [ Jh ]
+Sjaapieo checks
+OlegH1 checks
+** Dealing river ** [ 4d ]
+Sjaapieo checks
+OlegH1 checks
+** Summary **
+Sjaapieo shows [ 2h, Qd ]
+OlegH1 mucks [ 3s, 6s ]
+Sjaapieo collected [ $0.04 ]
+
+
+#Game No : 501615859
+***** 888poker Hand History for Game 501615859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 13:48:55
+Table Burgas 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: OlegH1 ( $1.04 )
+Seat 9: Sjaapieo ( $1.01 )
+Sjaapieo posts small blind [$0.01]
+OlegH1 posts big blind [$0.02]
+** Dealing down cards **
+Sjaapieo calls [$0.01]
+OlegH1 checks
+** Dealing flop ** [ Td, 7s, 5d ]
+OlegH1 bets [$0.02]
+Sjaapieo calls [$0.02]
+** Dealing turn ** [ Jc ]
+OlegH1 checks
+Sjaapieo checks
+** Dealing river ** [ 3d ]
+OlegH1 bets [$0.05]
+Sjaapieo folds
+** Summary **
+OlegH1 collected [ $0.08 ]
+
+
+#Game No : 501615895
+***** 888poker Hand History for Game 501615895 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 13:49:25
+Table Burgas 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: OlegH1 ( $1.08 )
+Seat 9: Sjaapieo ( $0.97 )
+OlegH1 posts small blind [$0.01]
+Sjaapieo posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 calls [$0.01]
+Sjaapieo checks
+** Dealing flop ** [ 4s, 9s, Ah ]
+Sjaapieo checks
+OlegH1 bets [$0.02]
+Sjaapieo calls [$0.02]
+** Dealing turn ** [ Qs ]
+Sjaapieo checks
+OlegH1 bets [$0.04]
+Sjaapieo calls [$0.04]
+** Dealing river ** [ 3d ]
+Sjaapieo checks
+OlegH1 checks
+** Summary **
+Sjaapieo shows [ 2s, Qc ]
+OlegH1 mucks [ 9h, 7s ]
+Sjaapieo collected [ $0.15 ]
+
+
+#Game No : 501620490
+***** 888poker Hand History for Game 501620490 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 15:15:18
+Table Burgas 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: rookieerror1 ( $2.56 )
+Seat 6: RatherShort ( $1.26 )
+RatherShort posts small blind [$0.01]
+rookieerror1 posts big blind [$0.02]
+** Dealing down cards **
+RatherShort calls [$0.01]
+rookieerror1 checks
+** Dealing flop ** [ 7d, Qh, Tc ]
+rookieerror1 checks
+RatherShort checks
+** Dealing turn ** [ 6h ]
+rookieerror1 checks
+RatherShort checks
+** Dealing river ** [ Qc ]
+rookieerror1 bets [$0.04]
+RatherShort calls [$0.04]
+** Summary **
+rookieerror1 shows [ Kd, 8c ]
+RatherShort shows [ 7s, 6s ]
+RatherShort collected [ $0.12 ]
+
+

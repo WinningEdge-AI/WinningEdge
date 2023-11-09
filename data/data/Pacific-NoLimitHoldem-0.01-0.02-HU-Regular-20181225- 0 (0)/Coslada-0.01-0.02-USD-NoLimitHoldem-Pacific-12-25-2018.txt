@@ -1,0 +1,82 @@
+#Game No : 519749650
+***** 888poker Hand History for Game 519749650 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 04:52:11
+Table Coslada 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: elad_den ( $0.95 )
+Seat 7: Kiyanka ( $0.99 )
+elad_den posts small blind [$0.01]
+Kiyanka posts big blind [$0.02]
+** Dealing down cards **
+elad_den raises [$0.05]
+Kiyanka calls [$0.04]
+** Dealing flop ** [ Kc, 3s, Kd ]
+Kiyanka checks
+elad_den checks
+** Dealing turn ** [ Ac ]
+Kiyanka checks
+elad_den bets [$0.08]
+Kiyanka folds
+** Summary **
+elad_den collected [ $0.12 ]
+
+
+#Game No : 519749840
+***** 888poker Hand History for Game 519749840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 04:54:44
+Table Coslada 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Bavaria_ph ( $0.63 )
+Seat 7: Kiyanka ( $1.17 )
+Bavaria_ph posts small blind [$0.01]
+Kiyanka posts big blind [$0.02]
+** Dealing down cards **
+Bavaria_ph calls [$0.01]
+Kiyanka checks
+** Dealing flop ** [ Qc, 4d, 7c ]
+Kiyanka checks
+Bavaria_ph checks
+** Dealing turn ** [ 5c ]
+Kiyanka checks
+Bavaria_ph checks
+** Dealing river ** [ 9s ]
+Kiyanka checks
+Bavaria_ph checks
+** Summary **
+Kiyanka shows [ 6s, 9c ]
+Bavaria_ph mucks [ 7d, Th ]
+Kiyanka collected [ $0.04 ]
+
+
+#Game No : 519749868
+***** 888poker Hand History for Game 519749868 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 12 2018 04:55:16
+Table Coslada 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Bavaria_ph ( $0.61 )
+Seat 7: Kiyanka ( $1.19 )
+Kiyanka posts small blind [$0.01]
+Bavaria_ph posts big blind [$0.02]
+** Dealing down cards **
+Kiyanka raises [$0.05]
+Bavaria_ph calls [$0.04]
+** Dealing flop ** [ Ts, 7c, 3h ]
+Bavaria_ph checks
+Kiyanka bets [$0.08]
+Bavaria_ph calls [$0.08]
+** Dealing turn ** [ 5c ]
+Bavaria_ph checks
+Kiyanka bets [$0.18]
+Bavaria_ph calls [$0.18]
+** Dealing river ** [ Td ]
+Bavaria_ph checks
+Kiyanka checks
+** Summary **
+Bavaria_ph shows [ Qd, Ah ]
+Kiyanka shows [ 9h, 9c ]
+Kiyanka collected [ $0.60 ]
+
+

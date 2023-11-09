@@ -1,0 +1,82 @@
+#Game No : 605826881
+***** 888poker Hand History for Game 605826881 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 15:19:17
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ToyWoo ( $2 )
+Seat 9: Youwontcame1 ( $1.63 )
+ToyWoo posts small blind [$0.01]
+Youwontcame1 posts big blind [$0.02]
+** Dealing down cards **
+ToyWoo calls [$0.01]
+Youwontcame1 raises [$0.04]
+ToyWoo folds
+** Summary **
+Youwontcame1 collected [ $0.04 ]
+
+
+#Game No : 605826892
+***** 888poker Hand History for Game 605826892 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 15:19:32
+Table Dusseldorf 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ToyWoo ( $2 )
+Seat 9: Youwontcame1 ( $1.65 )
+Youwontcame1 posts small blind [$0.01]
+ToyWoo posts big blind [$0.02]
+** Dealing down cards **
+Youwontcame1 calls [$0.01]
+ToyWoo checks
+** Dealing flop ** [ 9d, 2d, 3s ]
+ToyWoo checks
+Youwontcame1 checks
+** Dealing turn ** [ 5h ]
+ToyWoo checks
+Youwontcame1 bets [$0.04]
+ToyWoo folds
+** Summary **
+Youwontcame1 collected [ $0.04 ]
+
+
+#Game No : 605826911
+***** 888poker Hand History for Game 605826911 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 15:19:53
+Table Dusseldorf 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ToyWoo ( $2 )
+Seat 9: Youwontcame1 ( $1.67 )
+ToyWoo posts small blind [$0.01]
+Youwontcame1 posts big blind [$0.02]
+** Dealing down cards **
+ToyWoo raises [$0.05]
+Youwontcame1 folds
+** Summary **
+ToyWoo collected [ $0.04 ]
+
+
+#Game No : 605826920
+***** 888poker Hand History for Game 605826920 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 07 2018 15:20:06
+Table Dusseldorf 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: ToyWoo ( $2.02 )
+Seat 9: Youwontcame1 ( $1.65 )
+Youwontcame1 posts small blind [$0.01]
+ToyWoo posts big blind [$0.02]
+** Dealing down cards **
+Youwontcame1 raises [$0.03]
+ToyWoo calls [$0.02]
+** Dealing flop ** [ Kh, 5h, 3d ]
+ToyWoo checks
+Youwontcame1 checks
+** Dealing turn ** [ 5s ]
+ToyWoo bets [$0.05]
+Youwontcame1 folds
+** Summary **
+ToyWoo collected [ $0.08 ]
+
+

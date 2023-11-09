@@ -1,0 +1,474 @@
+#Game No : 500777174
+***** 888poker Hand History for Game 500777174 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 06:08:02
+Table Tunja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Erakkokala ( $1.20 )
+Seat 7: pernodcola ( $0.70 )
+pernodcola posts small blind [$0.01]
+Erakkokala posts big blind [$0.02]
+** Dealing down cards **
+pernodcola calls [$0.01]
+Erakkokala checks
+** Dealing flop ** [ Qc, 2c, 7s ]
+Erakkokala checks
+pernodcola checks
+** Dealing turn ** [ Jc ]
+Erakkokala checks
+pernodcola checks
+** Dealing river ** [ 8h ]
+Erakkokala bets [$0.03]
+pernodcola calls [$0.03]
+** Summary **
+Erakkokala shows [ 2h, 8c ]
+pernodcola mucks [ Js, Ad ]
+Erakkokala collected [ $0.10 ]
+
+
+#Game No : 500777314
+***** 888poker Hand History for Game 500777314 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 06:11:10
+Table Tunja 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Erakkokala ( $1.19 )
+Seat 9: chuckleshark ( $1 )
+Erakkokala posts small blind [$0.01]
+chuckleshark posts big blind [$0.02]
+** Dealing down cards **
+Erakkokala folds
+** Summary **
+chuckleshark collected [ $0.03 ]
+
+
+#Game No : 500777321
+***** 888poker Hand History for Game 500777321 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 06:11:18
+Table Tunja 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Erakkokala ( $1.18 )
+Seat 9: chuckleshark ( $1.01 )
+chuckleshark posts small blind [$0.01]
+Erakkokala posts big blind [$0.02]
+** Dealing down cards **
+chuckleshark raises [$0.03]
+Erakkokala raises [$0.10]
+chuckleshark calls [$0.08]
+** Dealing flop ** [ Ac, 9s, 2c ]
+Erakkokala bets [$0.12]
+chuckleshark calls [$0.12]
+** Dealing turn ** [ Kc ]
+Erakkokala bets [$0.24]
+chuckleshark calls [$0.24]
+** Dealing river ** [ Qc ]
+Erakkokala checks
+chuckleshark bets [$0.53]
+Erakkokala calls [$0.53]
+** Summary **
+Erakkokala shows [ Tc, Ts ]
+chuckleshark shows [ 9c, Ks ]
+Erakkokala collected [ $1.90 ]
+
+
+#Game No : 500777436
+***** 888poker Hand History for Game 500777436 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 06:14:35
+Table Tunja 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: RobertGrigoi ( $1 )
+Seat 9: Pfefferhund ( $0.80 )
+RobertGrigoi posts small blind [$0.01]
+Pfefferhund posts big blind [$0.02]
+** Dealing down cards **
+RobertGrigoi raises [$0.05]
+Pfefferhund calls [$0.04]
+** Dealing flop ** [ Ah, 7c, Ac ]
+Pfefferhund checks
+RobertGrigoi checks
+** Dealing turn ** [ 8c ]
+Pfefferhund checks
+RobertGrigoi checks
+** Dealing river ** [ 7s ]
+Pfefferhund checks
+RobertGrigoi bets [$0.12]
+Pfefferhund calls [$0.12]
+** Summary **
+RobertGrigoi shows [ 5c, 7h ]
+Pfefferhund mucks [ 6s, Kc ]
+RobertGrigoi collected [ $0.34 ]
+
+
+#Game No : 500777450
+***** 888poker Hand History for Game 500777450 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 06:15:05
+Table Tunja 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: RobertGrigoi ( $1.16 )
+Seat 9: Pfefferhund ( $0.62 )
+Pfefferhund posts small blind [$0.01]
+RobertGrigoi posts big blind [$0.02]
+** Dealing down cards **
+Pfefferhund raises [$0.03]
+RobertGrigoi calls [$0.02]
+** Dealing flop ** [ Td, 9s, 2s ]
+RobertGrigoi bets [$0.05]
+Pfefferhund folds
+** Summary **
+RobertGrigoi collected [ $0.08 ]
+
+
+#Game No : 500784128
+***** 888poker Hand History for Game 500784128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 09:02:24
+Table Tunja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: alex16101981 ( $1.69 )
+Seat 9: sergpacan ( $1 )
+alex16101981 posts small blind [$0.01]
+** Dealing down cards **
+sergpacan folds
+** Summary **
+alex16101981 did not show his hand
+alex16101981 collected [ $0.01 ]
+
+
+#Game No : 500784151
+***** 888poker Hand History for Game 500784151 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 09:02:58
+Table Tunja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Harry_0509 ( $1 )
+Seat 7: alex16101981 ( $1.69 )
+Harry_0509 posts small blind [$0.01]
+** Dealing down cards **
+alex16101981 folds
+** Summary **
+Harry_0509 did not show his hand
+Harry_0509 collected [ $0.01 ]
+
+
+#Game No : 500795371
+***** 888poker Hand History for Game 500795371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:31:52
+Table Tunja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: rockcar14 ( $1.43 )
+Seat 6: Imurpokergod ( $5.60 )
+rockcar14 posts small blind [$0.01]
+Imurpokergod posts big blind [$0.02]
+** Dealing down cards **
+rockcar14 folds
+** Summary **
+Imurpokergod did not show his hand
+Imurpokergod collected [ $0.03 ]
+
+
+#Game No : 500795379
+***** 888poker Hand History for Game 500795379 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:32:03
+Table Tunja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: rockcar14 ( $1.42 )
+Seat 6: Imurpokergod ( $5.61 )
+rockcar14 posts small blind [$0.01]
+Imurpokergod posts big blind [$0.02]
+** Dealing down cards **
+rockcar14 raises [$0.05]
+Imurpokergod calls [$0.04]
+** Dealing flop ** [ 2c, Kh, 2s ]
+Imurpokergod checks
+rockcar14 bets [$0.04]
+Imurpokergod calls [$0.04]
+** Dealing turn ** [ 4h ]
+Imurpokergod checks
+rockcar14 bets [$0.06]
+Imurpokergod folds
+** Summary **
+rockcar14 collected [ $0.19 ]
+
+
+#Game No : 500795435
+***** 888poker Hand History for Game 500795435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:32:49
+Table Tunja 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: rockcar14 ( $1.51 )
+Seat 6: Imurpokergod ( $5.51 )
+Imurpokergod posts small blind [$0.01]
+rockcar14 posts big blind [$0.02]
+** Dealing down cards **
+Imurpokergod folds
+** Summary **
+rockcar14 collected [ $0.03 ]
+
+
+#Game No : 500796687
+***** 888poker Hand History for Game 500796687 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:54:42
+Table Tunja 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: AssK1cker ( $0.95 )
+Seat 7: luckyjosik ( $1.03 )
+AssK1cker posts small blind [$0.01]
+luckyjosik posts big blind [$0.02]
+** Dealing down cards **
+AssK1cker raises [$0.05]
+luckyjosik calls [$0.04]
+** Dealing flop ** [ 5s, 8d, 3h ]
+luckyjosik checks
+AssK1cker bets [$0.06]
+luckyjosik calls [$0.06]
+** Dealing turn ** [ 6c ]
+luckyjosik bets [$0.02]
+AssK1cker raises [$0.12]
+luckyjosik folds
+** Summary **
+AssK1cker collected [ $0.27 ]
+
+
+#Game No : 500796765
+***** 888poker Hand History for Game 500796765 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:56:11
+Table Tunja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: chefgrande ( $0.98 )
+Seat 7: luckyjosik ( $0.89 )
+luckyjosik posts small blind [$0.01]
+chefgrande posts big blind [$0.02]
+** Dealing down cards **
+luckyjosik calls [$0.01]
+chefgrande raises [$0.04]
+luckyjosik calls [$0.04]
+** Dealing flop ** [ Ad, Qd, 8h ]
+chefgrande bets [$0.08]
+luckyjosik calls [$0.08]
+** Dealing turn ** [ 7d ]
+chefgrande bets [$0.14]
+luckyjosik folds
+** Summary **
+chefgrande collected [ $0.27 ]
+
+
+#Game No : 500796908
+***** 888poker Hand History for Game 500796908 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:59:03
+Table Tunja 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: luckyjosik ( $0.88 )
+Seat 9: idmntv ( $0.90 )
+idmntv posts small blind [$0.01]
+luckyjosik posts big blind [$0.02]
+** Dealing down cards **
+idmntv folds
+** Summary **
+luckyjosik did not show his hand
+luckyjosik collected [ $0.03 ]
+
+
+#Game No : 500796921
+***** 888poker Hand History for Game 500796921 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:59:12
+Table Tunja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: luckyjosik ( $0.89 )
+Seat 9: idmntv ( $0.89 )
+luckyjosik posts small blind [$0.01]
+** Dealing down cards **
+idmntv folds
+** Summary **
+luckyjosik did not show his hand
+luckyjosik collected [ $0.01 ]
+
+
+#Game No : 500796935
+***** 888poker Hand History for Game 500796935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:59:30
+Table Tunja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WEESAMBEE ( $1 )
+Seat 7: luckyjosik ( $1 )
+WEESAMBEE posts small blind [$0.01]
+luckyjosik posts big blind [$0.02]
+** Dealing down cards **
+WEESAMBEE raises [$0.99]
+luckyjosik folds
+** Summary **
+WEESAMBEE collected [ $0.04 ]
+
+
+#Game No : 500796950
+***** 888poker Hand History for Game 500796950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 12:59:48
+Table Tunja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: WEESAMBEE ( $1.02 )
+Seat 7: luckyjosik ( $0.98 )
+luckyjosik posts small blind [$0.01]
+WEESAMBEE posts big blind [$0.02]
+** Dealing down cards **
+luckyjosik calls [$0.01]
+WEESAMBEE checks
+** Dealing flop ** [ 8h, 4h, Qc ]
+WEESAMBEE checks
+luckyjosik checks
+** Dealing turn ** [ 6h ]
+WEESAMBEE checks
+luckyjosik checks
+** Dealing river ** [ Kh ]
+WEESAMBEE checks
+luckyjosik checks
+** Summary **
+WEESAMBEE shows [ 5c, 3s ]
+luckyjosik shows [ 7c, Ts ]
+luckyjosik collected [ $0.04 ]
+
+
+#Game No : 500796977
+***** 888poker Hand History for Game 500796977 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 13:00:21
+Table Tunja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WEESAMBEE ( $1 )
+Seat 7: luckyjosik ( $1 )
+WEESAMBEE posts small blind [$0.01]
+luckyjosik posts big blind [$0.02]
+** Dealing down cards **
+WEESAMBEE calls [$0.01]
+luckyjosik checks
+** Dealing flop ** [ 5s, 5d, 3d ]
+luckyjosik checks
+WEESAMBEE checks
+** Dealing turn ** [ 9c ]
+luckyjosik checks
+WEESAMBEE checks
+** Dealing river ** [ 4s ]
+luckyjosik checks
+WEESAMBEE bets [$0.02]
+luckyjosik folds
+** Summary **
+WEESAMBEE collected [ $0.04 ]
+
+
+#Game No : 500797002
+***** 888poker Hand History for Game 500797002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 13:01:01
+Table Tunja 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: WEESAMBEE ( $1.02 )
+Seat 7: luckyjosik ( $0.98 )
+luckyjosik posts small blind [$0.01]
+WEESAMBEE posts big blind [$0.02]
+** Dealing down cards **
+luckyjosik calls [$0.01]
+WEESAMBEE checks
+** Dealing flop ** [ 4d, Qh, Tc ]
+WEESAMBEE checks
+luckyjosik checks
+** Dealing turn ** [ 2c ]
+WEESAMBEE checks
+luckyjosik checks
+** Dealing river ** [ As ]
+WEESAMBEE checks
+luckyjosik checks
+** Summary **
+WEESAMBEE shows [ 4h, 7s ]
+luckyjosik mucks [ 9h, 6h ]
+WEESAMBEE collected [ $0.04 ]
+
+
+#Game No : 500797030
+***** 888poker Hand History for Game 500797030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 13:01:32
+Table Tunja 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WEESAMBEE ( $1.04 )
+Seat 7: luckyjosik ( $0.96 )
+WEESAMBEE posts small blind [$0.01]
+luckyjosik posts big blind [$0.02]
+** Dealing down cards **
+WEESAMBEE raises [$0.03]
+luckyjosik calls [$0.02]
+** Dealing flop ** [ 8d, Qh, Jd ]
+luckyjosik bets [$0.02]
+WEESAMBEE calls [$0.02]
+** Dealing turn ** [ 3s ]
+luckyjosik bets [$0.02]
+WEESAMBEE calls [$0.02]
+** Dealing river ** [ Qd ]
+luckyjosik bets [$0.02]
+WEESAMBEE raises [$0.16]
+luckyjosik folds
+** Summary **
+WEESAMBEE collected [ $0.19 ]
+
+
+#Game No : 500799975
+***** 888poker Hand History for Game 500799975 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 14:04:19
+Table Tunja 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Gin3ll ( $0.88 )
+Seat 9: idmntv ( $1.34 )
+Gin3ll posts small blind [$0.01]
+idmntv posts big blind [$0.02]
+** Dealing down cards **
+Gin3ll calls [$0.01]
+idmntv raises [$0.08]
+Gin3ll folds
+** Summary **
+idmntv did not show his hand
+idmntv collected [ $0.04 ]
+
+
+#Game No : 500799994
+***** 888poker Hand History for Game 500799994 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 14:04:43
+Table Tunja 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: Gin3ll ( $0.86 )
+Seat 9: idmntv ( $1.36 )
+idmntv posts small blind [$0.01]
+Gin3ll posts big blind [$0.02]
+** Dealing down cards **
+idmntv folds
+** Summary **
+Gin3ll did not show his hand
+Gin3ll collected [ $0.03 ]
+
+
+#Game No : 500800006
+***** 888poker Hand History for Game 500800006 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 08 2018 14:04:54
+Table Tunja 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Gin3ll ( $0.87 )
+Seat 9: idmntv ( $1.35 )
+Gin3ll posts small blind [$0.01]
+** Dealing down cards **
+idmntv folds
+** Summary **
+Gin3ll did not show his hand
+Gin3ll collected [ $0.01 ]
+
+

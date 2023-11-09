@@ -1,0 +1,29 @@
+#Game No : 502669923
+***** 888poker Hand History for Game 502669923 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 09 2018 07:09:44
+Table Andria 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mrl30n4rd ( $1.72 )
+Seat 4: Skyluck11 ( $0.82 )
+mrl30n4rd posts small blind [$0.01]
+Skyluck11 posts big blind [$0.02]
+** Dealing down cards **
+mrl30n4rd calls [$0.01]
+Skyluck11 checks
+** Dealing flop ** [ 5d, 3h, Qc ]
+Skyluck11 checks
+mrl30n4rd bets [$0.02]
+Skyluck11 calls [$0.02]
+** Dealing turn ** [ Td ]
+Skyluck11 checks
+mrl30n4rd checks
+** Dealing river ** [ Qh ]
+Skyluck11 checks
+mrl30n4rd checks
+** Summary **
+Skyluck11 shows [ 5h, 4d ]
+mrl30n4rd mucks [ Ah, 3d ]
+Skyluck11 collected [ $0.08 ]
+
+

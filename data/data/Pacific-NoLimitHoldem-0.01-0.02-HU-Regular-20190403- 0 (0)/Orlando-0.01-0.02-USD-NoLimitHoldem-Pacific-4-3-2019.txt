@@ -1,0 +1,143 @@
+#Game No : 515910794
+***** 888poker Hand History for Game 515910794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 15:08:08
+Table Orlando 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: OlegH1 ( $1 )
+Seat 9: Oligarx34 ( $2.74 )
+OlegH1 posts small blind [$0.01]
+Oligarx34 posts big blind [$0.02]
+** Dealing down cards **
+OlegH1 folds
+** Summary **
+Oligarx34 collected [ $0.03 ]
+
+
+#Game No : 515914123
+***** 888poker Hand History for Game 515914123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:31:53
+Table Orlando 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: NutsAndWine ( $0.75 )
+Seat 7: jose19carlos ( $0.92 )
+NutsAndWine posts small blind [$0.01]
+jose19carlos posts big blind [$0.02]
+** Dealing down cards **
+NutsAndWine calls [$0.01]
+jose19carlos checks
+** Dealing flop ** [ 6s, 6c, 2d ]
+jose19carlos checks
+NutsAndWine checks
+** Dealing turn ** [ 6d ]
+jose19carlos checks
+NutsAndWine bets [$0.06]
+jose19carlos folds
+** Summary **
+NutsAndWine collected [ $0.04 ]
+
+
+#Game No : 515914210
+***** 888poker Hand History for Game 515914210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:34:40
+Table Orlando 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: NutsAndWine ( $0.63 )
+Seat 2: Valerik15 ( $2.62 )
+Valerik15 posts small blind [$0.01]
+NutsAndWine posts big blind [$0.02]
+** Dealing down cards **
+Valerik15 raises [$0.05]
+NutsAndWine calls [$0.04]
+** Dealing flop ** [ Jd, 3s, 8d ]
+NutsAndWine bets [$0.06]
+Valerik15 raises [$0.28]
+NutsAndWine folds
+** Summary **
+Valerik15 collected [ $0.23 ]
+
+
+#Game No : 515914256
+***** 888poker Hand History for Game 515914256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:36:17
+Table Orlando 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Valerik15 ( $3.24 )
+Seat 4: Flipsideturn ( $0.74 )
+Valerik15 posts small blind [$0.01]
+Flipsideturn posts big blind [$0.02]
+** Dealing down cards **
+Valerik15 raises [$0.07]
+Flipsideturn calls [$0.06]
+** Dealing flop ** [ 9c, Ac, 3s ]
+Flipsideturn checks
+Valerik15 bets [$0.14]
+Flipsideturn calls [$0.14]
+** Dealing turn ** [ 2h ]
+Flipsideturn checks
+Valerik15 bets [$0.29]
+Flipsideturn calls [$0.29]
+** Dealing river ** [ 8d ]
+Flipsideturn checks
+Valerik15 bets [$0.60]
+Flipsideturn calls [$0.23]
+** Summary **
+Valerik15 shows [ Ts, Jc ]
+Flipsideturn shows [ 9s, 6c ]
+Flipsideturn collected [ $1.39 ]
+
+
+#Game No : 515914276
+***** 888poker Hand History for Game 515914276 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:36:54
+Table Orlando 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Valerik15 ( $2.50 )
+Seat 4: Flipsideturn ( $1.39 )
+Flipsideturn posts small blind [$0.01]
+Valerik15 posts big blind [$0.02]
+** Dealing down cards **
+Flipsideturn calls [$0.01]
+Valerik15 raises [$0.08]
+Flipsideturn calls [$0.08]
+** Dealing flop ** [ 2s, 6d, Qh ]
+Valerik15 bets [$0.04]
+Flipsideturn raises [$0.08]
+Valerik15 raises [$0.08]
+Flipsideturn calls [$0.04]
+** Dealing turn ** [ 7s ]
+Valerik15 bets [$2.28]
+Flipsideturn folds
+** Summary **
+Valerik15 collected [ $0.42 ]
+
+
+#Game No : 515914359
+***** 888poker Hand History for Game 515914359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 04 2019 16:39:41
+Table Orlando 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Valerik15 ( $3.82 )
+Seat 4: Flipsideturn ( $0.64 )
+Flipsideturn posts small blind [$0.01]
+Valerik15 posts big blind [$0.02]
+** Dealing down cards **
+Flipsideturn calls [$0.01]
+Valerik15 raises [$0.18]
+Flipsideturn raises [$0.36]
+Valerik15 raises [$3.62]
+Flipsideturn calls [$0.26]
+** Dealing flop ** [ 2d, 9c, 4d ]
+** Dealing turn ** [ 6c ]
+** Dealing river ** [ 7c ]
+** Summary **
+Valerik15 shows [ Kd, Th ]
+Flipsideturn shows [ Ac, 8c ]
+Flipsideturn collected [ $1.20 ]
+
+

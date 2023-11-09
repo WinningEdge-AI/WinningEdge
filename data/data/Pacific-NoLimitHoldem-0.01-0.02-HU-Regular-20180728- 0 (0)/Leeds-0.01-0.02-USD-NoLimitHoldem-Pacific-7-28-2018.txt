@@ -1,0 +1,104 @@
+#Game No : 507110397
+***** 888poker Hand History for Game 507110397 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 20:19:07
+Table Leeds 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: DabzMcgee ( $1.01 )
+Seat 6: Elboby ( $1.79 )
+DabzMcgee posts small blind [$0.01]
+Elboby posts big blind [$0.02]
+** Dealing down cards **
+DabzMcgee calls [$0.01]
+Elboby checks
+** Dealing flop ** [ 6s, Qh, 4c ]
+Elboby bets [$0.04]
+DabzMcgee folds
+** Summary **
+Elboby did not show his hand
+Elboby collected [ $0.04 ]
+
+
+#Game No : 507110407
+***** 888poker Hand History for Game 507110407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 20:19:28
+Table Leeds 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: DabzMcgee ( $0.99 )
+Seat 6: Elboby ( $1.81 )
+Elboby posts small blind [$0.01]
+DabzMcgee posts big blind [$0.02]
+** Dealing down cards **
+Elboby raises [$0.03]
+DabzMcgee calls [$0.02]
+** Dealing flop ** [ 7d, 8h, 7s ]
+DabzMcgee checks
+Elboby bets [$0.04]
+DabzMcgee calls [$0.04]
+** Dealing turn ** [ 6d ]
+DabzMcgee bets [$0.16]
+Elboby calls [$0.16]
+** Dealing river ** [ 3c ]
+DabzMcgee bets [$0.32]
+Elboby folds
+** Summary **
+DabzMcgee collected [ $0.45 ]
+
+
+#Game No : 507111112
+***** 888poker Hand History for Game 507111112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 20:45:59
+Table Leeds 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: 1997VANO2017 ( $2.02 )
+Seat 9: IvyLab123 ( $1.98 )
+1997VANO2017 posts small blind [$0.01]
+IvyLab123 posts big blind [$0.02]
+** Dealing down cards **
+1997VANO2017 raises [$0.05]
+IvyLab123 calls [$0.04]
+** Dealing flop ** [ 8c, Ad, 4d ]
+IvyLab123 checks
+1997VANO2017 bets [$0.06]
+IvyLab123 calls [$0.06]
+** Dealing turn ** [ Qc ]
+IvyLab123 bets [$0.12]
+1997VANO2017 calls [$0.12]
+** Dealing river ** [ Jd ]
+IvyLab123 checks
+1997VANO2017 checks
+** Summary **
+IvyLab123 shows [ Ks, Qd ]
+1997VANO2017 mucks [ Ts, Tc ]
+IvyLab123 collected [ $0.45 ]
+
+
+#Game No : 507111148
+***** 888poker Hand History for Game 507111148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 20:46:22
+Table Leeds 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: 1997VANO2017 ( $1.78 )
+Seat 9: IvyLab123 ( $2.19 )
+IvyLab123 posts small blind [$0.01]
+1997VANO2017 posts big blind [$0.02]
+** Dealing down cards **
+IvyLab123 calls [$0.01]
+1997VANO2017 checks
+** Dealing flop ** [ 9h, 4d, 2c ]
+1997VANO2017 checks
+IvyLab123 checks
+** Dealing turn ** [ 8s ]
+1997VANO2017 checks
+IvyLab123 checks
+** Dealing river ** [ 8d ]
+1997VANO2017 checks
+IvyLab123 bets [$0.02]
+1997VANO2017 folds
+** Summary **
+IvyLab123 collected [ $0.04 ]
+
+

@@ -1,0 +1,69 @@
+#Game No : 502877606
+***** 888poker Hand History for Game 502877606 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2018 05:06:14
+Table Tighina 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mwstars ( $2 )
+Seat 7: gunchozaurs ( $2 )
+mwstars posts small blind [$0.01]
+gunchozaurs posts big blind [$0.02]
+** Dealing down cards **
+mwstars calls [$0.01]
+gunchozaurs checks
+** Dealing flop ** [ 3d, 2s, 9s ]
+gunchozaurs checks
+mwstars bets [$0.02]
+gunchozaurs folds
+** Summary **
+mwstars did not show his hand
+mwstars collected [ $0.04 ]
+
+
+#Game No : 502877632
+***** 888poker Hand History for Game 502877632 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2018 05:06:19
+Table Tighina 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: mwstars ( $2.02 )
+Seat 7: gunchozaurs ( $2 )
+gunchozaurs posts small blind [$0.01]
+mwstars posts big blind [$0.02]
+** Dealing down cards **
+gunchozaurs folds
+** Summary **
+mwstars did not show his hand
+mwstars collected [ $0.03 ]
+
+
+#Game No : 502896600
+***** 888poker Hand History for Game 502896600 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 04 06 2018 12:22:06
+Table Tighina 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Waesche44 ( $1.24 )
+Seat 9: WhiteColor7 ( $1.04 )
+Waesche44 posts small blind [$0.01]
+WhiteColor7 posts big blind [$0.02]
+** Dealing down cards **
+Waesche44 calls [$0.01]
+WhiteColor7 checks
+** Dealing flop ** [ 6h, 8s, 7s ]
+WhiteColor7 checks
+Waesche44 checks
+** Dealing turn ** [ 4d ]
+WhiteColor7 checks
+Waesche44 bets [$0.04]
+WhiteColor7 calls [$0.04]
+** Dealing river ** [ 8d ]
+WhiteColor7 checks
+Waesche44 bets [$0.06]
+WhiteColor7 calls [$0.06]
+** Summary **
+Waesche44 shows [ 3s, 4c ]
+WhiteColor7 shows [ 5h, Js ]
+WhiteColor7 collected [ $0.23 ]
+
+

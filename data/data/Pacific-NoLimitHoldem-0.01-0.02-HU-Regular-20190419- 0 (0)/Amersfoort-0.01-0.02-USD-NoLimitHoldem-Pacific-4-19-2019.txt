@@ -1,0 +1,41 @@
+#Game No : 618870320
+***** 888poker Hand History for Game 618870320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 04 2019 18:20:12
+Table Amersfoort 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: mikkisarov ( $1.70 )
+Seat 6: dfournier18 ( $2.02 )
+dfournier18 posts small blind [$0.01]
+mikkisarov posts big blind [$0.02]
+** Dealing down cards **
+dfournier18 raises [$0.03]
+mikkisarov folds
+** Summary **
+dfournier18 collected [ $0.04 ]
+
+
+#Game No : 618870323
+***** 888poker Hand History for Game 618870323 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 18 04 2019 18:20:20
+Table Amersfoort 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: mikkisarov ( $1.68 )
+Seat 6: dfournier18 ( $2.04 )
+mikkisarov posts small blind [$0.01]
+dfournier18 posts big blind [$0.02]
+** Dealing down cards **
+mikkisarov raises [$0.03]
+dfournier18 raises [$0.04]
+mikkisarov raises [$1.64]
+dfournier18 calls [$1.62]
+** Dealing flop ** [ 6h, 4c, Th ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ Kh ]
+** Summary **
+mikkisarov shows [ 3d, 3s ]
+dfournier18 shows [ 6c, 6s ]
+dfournier18 collected [ $3.15 ]
+
+

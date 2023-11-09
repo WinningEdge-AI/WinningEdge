@@ -1,0 +1,83 @@
+#Game No : 513000303
+***** 888poker Hand History for Game 513000303 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 09:52:47
+Table Ensenada 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: TaRo1972 ( $2 )
+Seat 2: GYAMEPRO ( $2 )
+GYAMEPRO posts small blind [$0.01]
+TaRo1972 posts big blind [$0.02]
+** Dealing down cards **
+GYAMEPRO calls [$0.01]
+TaRo1972 checks
+** Dealing flop ** [ 9d, 6s, 7h ]
+TaRo1972 checks
+GYAMEPRO bets [$0.02]
+TaRo1972 folds
+** Summary **
+GYAMEPRO collected [ $0.04 ]
+
+
+#Game No : 513000465
+***** 888poker Hand History for Game 513000465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 09:53:28
+Table Ensenada 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: GYAMEPRO ( $2.02 )
+Seat 3: Krivshan ( $1.20 )
+Krivshan posts small blind [$0.01]
+GYAMEPRO posts big blind [$0.02]
+** Dealing down cards **
+Krivshan raises [$0.07]
+GYAMEPRO folds
+** Summary **
+Krivshan collected [ $0.04 ]
+
+
+#Game No : 513000488
+***** 888poker Hand History for Game 513000488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 09:53:44
+Table Ensenada 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: GYAMEPRO ( $2 )
+Seat 3: Krivshan ( $1.22 )
+GYAMEPRO posts small blind [$0.01]
+Krivshan posts big blind [$0.02]
+** Dealing down cards **
+GYAMEPRO raises [$0.03]
+Krivshan calls [$0.02]
+** Dealing flop ** [ 7d, Qs, 8h ]
+Krivshan bets [$0.08]
+GYAMEPRO calls [$0.08]
+** Dealing turn ** [ 3d ]
+Krivshan bets [$0.06]
+GYAMEPRO calls [$0.06]
+** Dealing river ** [ 9d ]
+Krivshan bets [$0.02]
+GYAMEPRO calls [$0.02]
+** Summary **
+Krivshan shows [ 2s, 8s ]
+GYAMEPRO mucks [ 6c, 7s ]
+Krivshan collected [ $0.38 ]
+
+
+#Game No : 513035340
+***** 888poker Hand History for Game 513035340 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 10 2018 15:09:18
+Table Ensenada 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: Foldelinio ( $2.15 )
+Seat 9: Soukainachek ( $0.86 )
+Soukainachek posts small blind [$0.01]
+Foldelinio posts big blind [$0.02]
+** Dealing down cards **
+Soukainachek raises [$0.07]
+Foldelinio folds
+** Summary **
+Soukainachek collected [ $0.04 ]
+
+

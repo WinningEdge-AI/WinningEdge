@@ -1,0 +1,29 @@
+#Game No : 1272553374
+***** 888poker Hand History for Game 1272553374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 06 2019 13:07:28
+Table Athens 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: VictimVIP ( $1 )
+Seat 9: conortdb ( $4.28 )
+VictimVIP posts small blind [$0.01]
+conortdb posts big blind [$0.02]
+** Dealing down cards **
+VictimVIP raises [$0.05]
+conortdb calls [$0.04]
+** Dealing flop ** [ 9h, 7d, 9s ]
+conortdb checks
+VictimVIP bets [$0.08]
+conortdb calls [$0.08]
+** Dealing turn ** [ 4c ]
+conortdb checks
+VictimVIP checks
+** Dealing river ** [ 5s ]
+conortdb bets [$0.10]
+VictimVIP calls [$0.10]
+** Summary **
+conortdb shows [ 9d, Td ]
+VictimVIP mucks [ Ad, 4s ]
+conortdb collected [ $0.45 ]
+
+

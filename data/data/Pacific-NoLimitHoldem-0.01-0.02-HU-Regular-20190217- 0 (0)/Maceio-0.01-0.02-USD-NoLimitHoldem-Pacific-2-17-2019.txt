@@ -1,0 +1,325 @@
+#Game No : 524472967
+***** 888poker Hand History for Game 524472967 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 01:37:49
+Table Maceio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bulley_03 ( $1 )
+Seat 2: Valitov996 ( $1.07 )
+Bulley_03 posts small blind [$0.01]
+Valitov996 posts big blind [$0.02]
+** Dealing down cards **
+Bulley_03 raises [$0.05]
+Valitov996 calls [$0.04]
+** Dealing flop ** [ 3s, Kh, 3c ]
+Valitov996 checks
+Bulley_03 bets [$0.06]
+Valitov996 calls [$0.06]
+** Dealing turn ** [ 9d ]
+Valitov996 checks
+Bulley_03 checks
+** Dealing river ** [ 2d ]
+Valitov996 bets [$0.24]
+Bulley_03 folds
+** Summary **
+Valitov996 collected [ $0.23 ]
+
+
+#Game No : 524473009
+***** 888poker Hand History for Game 524473009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 01:38:39
+Table Maceio 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Bulley_03 ( $1 )
+Seat 2: Valitov996 ( $1.18 )
+Valitov996 posts small blind [$0.01]
+Bulley_03 posts big blind [$0.02]
+** Dealing down cards **
+Valitov996 raises [$0.05]
+Bulley_03 calls [$0.04]
+** Dealing flop ** [ Qh, Js, Kh ]
+Bulley_03 checks
+Valitov996 bets [$0.12]
+Bulley_03 calls [$0.12]
+** Dealing turn ** [ Qs ]
+Bulley_03 checks
+Valitov996 bets [$0.20]
+Bulley_03 folds
+** Summary **
+Valitov996 collected [ $0.34 ]
+
+
+#Game No : 524473474
+***** 888poker Hand History for Game 524473474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 01:47:09
+Table Maceio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MAXtreme27 ( $1.69 )
+Seat 9: AlbanNL ( $1 )
+MAXtreme27 posts small blind [$0.01]
+AlbanNL posts big blind [$0.02]
+** Dealing down cards **
+MAXtreme27 calls [$0.01]
+AlbanNL raises [$0.04]
+MAXtreme27 folds
+** Summary **
+AlbanNL collected [ $0.04 ]
+
+
+#Game No : 524473494
+***** 888poker Hand History for Game 524473494 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 01:47:34
+Table Maceio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: MAXtreme27 ( $1.67 )
+Seat 9: AlbanNL ( $1.02 )
+AlbanNL posts small blind [$0.01]
+MAXtreme27 posts big blind [$0.02]
+** Dealing down cards **
+AlbanNL folds
+** Summary **
+MAXtreme27 collected [ $0.03 ]
+
+
+#Game No : 524474607
+***** 888poker Hand History for Game 524474607 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 02:08:04
+Table Maceio 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: roghnov ( $1.28 )
+Seat 6: MAXtreme27 ( $1.65 )
+roghnov posts small blind [$0.01]
+MAXtreme27 posts big blind [$0.02]
+** Dealing down cards **
+roghnov calls [$0.01]
+MAXtreme27 raises [$0.02]
+roghnov calls [$0.02]
+** Dealing flop ** [ Ad, Kd, Tc ]
+MAXtreme27 checks
+roghnov checks
+** Dealing turn ** [ Td ]
+MAXtreme27 checks
+roghnov checks
+** Dealing river ** [ Kc ]
+MAXtreme27 bets [$0.08]
+roghnov calls [$0.08]
+** Summary **
+MAXtreme27 shows [ Ah, 3c ]
+roghnov mucks [ 3h, 9h ]
+MAXtreme27 collected [ $0.23 ]
+
+
+#Game No : 524474651
+***** 888poker Hand History for Game 524474651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 02:09:00
+Table Maceio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: roghnov ( $1.16 )
+Seat 6: MAXtreme27 ( $1.76 )
+MAXtreme27 posts small blind [$0.01]
+roghnov posts big blind [$0.02]
+** Dealing down cards **
+MAXtreme27 calls [$0.01]
+roghnov checks
+** Dealing flop ** [ 6c, 8h, Kd ]
+roghnov checks
+MAXtreme27 bets [$0.04]
+roghnov folds
+** Summary **
+MAXtreme27 collected [ $0.04 ]
+
+
+#Game No : 524474832
+***** 888poker Hand History for Game 524474832 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 02:12:37
+Table Maceio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: roghnov ( $0.95 )
+Seat 6: MAXtreme27 ( $1.88 )
+MAXtreme27 posts small blind [$0.01]
+roghnov posts big blind [$0.02]
+** Dealing down cards **
+MAXtreme27 calls [$0.01]
+roghnov checks
+** Dealing flop ** [ 2c, 6c, Jd ]
+roghnov checks
+MAXtreme27 bets [$0.04]
+roghnov folds
+** Summary **
+MAXtreme27 did not show his hand
+MAXtreme27 collected [ $0.04 ]
+
+
+#Game No : 524474854
+***** 888poker Hand History for Game 524474854 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 02:13:08
+Table Maceio 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: roghnov ( $0.93 )
+Seat 6: MAXtreme27 ( $1.90 )
+roghnov posts small blind [$0.01]
+MAXtreme27 posts big blind [$0.02]
+** Dealing down cards **
+roghnov folds
+** Summary **
+MAXtreme27 did not show his hand
+MAXtreme27 collected [ $0.03 ]
+
+
+#Game No : 524474859
+***** 888poker Hand History for Game 524474859 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 02:13:14
+Table Maceio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: roghnov ( $0.92 )
+Seat 6: MAXtreme27 ( $1.91 )
+MAXtreme27 posts small blind [$0.01]
+roghnov posts big blind [$0.02]
+** Dealing down cards **
+MAXtreme27 calls [$0.01]
+roghnov checks
+** Dealing flop ** [ Ac, 8h, 3s ]
+roghnov checks
+MAXtreme27 bets [$0.04]
+roghnov calls [$0.04]
+** Dealing turn ** [ 2s ]
+roghnov checks
+MAXtreme27 bets [$0.04]
+roghnov folds
+** Summary **
+MAXtreme27 collected [ $0.12 ]
+
+
+#Game No : 524475060
+***** 888poker Hand History for Game 524475060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 02:17:17
+Table Maceio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: MAXtreme27 ( $1.83 )
+Seat 7: pioneer_ru ( $1.61 )
+MAXtreme27 posts small blind [$0.01]
+pioneer_ru posts big blind [$0.02]
+** Dealing down cards **
+MAXtreme27 calls [$0.01]
+pioneer_ru raises [$0.10]
+MAXtreme27 folds
+** Summary **
+pioneer_ru did not show his hand
+pioneer_ru collected [ $0.04 ]
+
+
+#Game No : 524475073
+***** 888poker Hand History for Game 524475073 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 02:17:35
+Table Maceio 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: MAXtreme27 ( $1.81 )
+Seat 7: pioneer_ru ( $1.63 )
+pioneer_ru posts small blind [$0.01]
+MAXtreme27 posts big blind [$0.02]
+** Dealing down cards **
+pioneer_ru folds
+** Summary **
+MAXtreme27 collected [ $0.03 ]
+
+
+#Game No : 524478751
+***** 888poker Hand History for Game 524478751 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 03:33:00
+Table Maceio 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: t.jenks ( $1 )
+Seat 9: Quavow ( $0.64 )
+t.jenks posts small blind [$0.01]
+Quavow posts big blind [$0.02]
+** Dealing down cards **
+t.jenks calls [$0.01]
+Quavow checks
+** Dealing flop ** [ Qd, Js, 9d ]
+Quavow checks
+t.jenks checks
+** Dealing turn ** [ 5s ]
+Quavow bets [$0.02]
+t.jenks folds
+** Summary **
+Quavow collected [ $0.04 ]
+
+
+#Game No : 524481250
+***** 888poker Hand History for Game 524481250 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 04:17:04
+Table Maceio 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Mimico68 ( $1 )
+Seat 4: AleksandR400 ( $0.86 )
+Mimico68 posts small blind [$0.01]
+AleksandR400 posts big blind [$0.02]
+** Dealing down cards **
+Mimico68 calls [$0.01]
+AleksandR400 checks
+** Dealing flop ** [ 8h, 8s, Qd ]
+AleksandR400 checks
+Mimico68 bets [$0.02]
+AleksandR400 folds
+** Summary **
+Mimico68 did not show his hand
+Mimico68 collected [ $0.04 ]
+
+
+#Game No : 524481279
+***** 888poker Hand History for Game 524481279 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 04:17:39
+Table Maceio 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Mimico68 ( $1.02 )
+Seat 4: AleksandR400 ( $0.84 )
+AleksandR400 posts small blind [$0.01]
+** Dealing down cards **
+Mimico68 folds
+** Summary **
+AleksandR400 did not show his hand
+AleksandR400 collected [ $0.01 ]
+
+
+#Game No : 524482134
+***** 888poker Hand History for Game 524482134 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 02 2019 04:30:07
+Table Maceio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: raygym ( $1.15 )
+Seat 6: redrose82 ( $0.64 )
+redrose82 posts small blind [$0.01]
+raygym posts big blind [$0.02]
+** Dealing down cards **
+redrose82 calls [$0.01]
+raygym checks
+** Dealing flop ** [ Ts, 6d, 3s ]
+raygym bets [$0.02]
+redrose82 calls [$0.02]
+** Dealing turn ** [ Ah ]
+raygym checks
+redrose82 checks
+** Dealing river ** [ 8h ]
+raygym checks
+redrose82 bets [$0.02]
+raygym calls [$0.02]
+** Summary **
+redrose82 shows [ 7d, 9d ]
+raygym mucks [ Jd, 3h ]
+redrose82 collected [ $0.12 ]
+
+

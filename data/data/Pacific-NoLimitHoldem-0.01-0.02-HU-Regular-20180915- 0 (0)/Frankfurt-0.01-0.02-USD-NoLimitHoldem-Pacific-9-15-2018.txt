@@ -1,0 +1,143 @@
+#Game No : 502386113
+***** 888poker Hand History for Game 502386113 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 12:50:00
+Table Frankfurt 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: W0orm ( $1.28 )
+Seat 9: joebs99o ( $1 )
+joebs99o posts small blind [$0.01]
+W0orm posts big blind [$0.02]
+** Dealing down cards **
+joebs99o calls [$0.01]
+W0orm checks
+** Dealing flop ** [ 9d, 4s, Qs ]
+W0orm checks
+joebs99o checks
+** Dealing turn ** [ Qd ]
+W0orm bets [$0.04]
+joebs99o folds
+** Summary **
+W0orm collected [ $0.04 ]
+
+
+#Game No : 502386144
+***** 888poker Hand History for Game 502386144 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 12:50:23
+Table Frankfurt 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: W0orm ( $1.30 )
+Seat 9: joebs99o ( $0.98 )
+W0orm posts small blind [$0.01]
+joebs99o posts big blind [$0.02]
+** Dealing down cards **
+W0orm raises [$0.05]
+joebs99o calls [$0.04]
+** Dealing flop ** [ Ah, As, Jd ]
+joebs99o bets [$0.02]
+W0orm calls [$0.02]
+** Dealing turn ** [ Ad ]
+joebs99o bets [$0.02]
+W0orm raises [$0.10]
+joebs99o calls [$0.08]
+** Dealing river ** [ 8c ]
+joebs99o checks
+W0orm checks
+** Summary **
+joebs99o shows [ 9h, Kc ]
+W0orm mucks [ Qh, 3h ]
+joebs99o collected [ $0.34 ]
+
+
+#Game No : 502386173
+***** 888poker Hand History for Game 502386173 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 12:50:54
+Table Frankfurt 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: W0orm ( $1.12 )
+Seat 9: joebs99o ( $1.14 )
+joebs99o posts small blind [$0.01]
+W0orm posts big blind [$0.02]
+** Dealing down cards **
+joebs99o folds
+** Summary **
+W0orm collected [ $0.03 ]
+
+
+#Game No : 502386183
+***** 888poker Hand History for Game 502386183 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 12:51:01
+Table Frankfurt 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: W0orm ( $1.13 )
+Seat 9: joebs99o ( $1.13 )
+W0orm posts small blind [$0.01]
+joebs99o posts big blind [$0.02]
+** Dealing down cards **
+W0orm raises [$0.05]
+joebs99o calls [$0.04]
+** Dealing flop ** [ 5s, 9h, 4c ]
+joebs99o checks
+W0orm bets [$0.08]
+joebs99o calls [$0.08]
+** Dealing turn ** [ 9s ]
+joebs99o checks
+W0orm bets [$0.28]
+joebs99o folds
+** Summary **
+W0orm collected [ $0.27 ]
+
+
+#Game No : 502386241
+***** 888poker Hand History for Game 502386241 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 12:51:45
+Table Frankfurt 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: W0orm ( $1.26 )
+Seat 9: joebs99o ( $0.99 )
+joebs99o posts small blind [$0.01]
+W0orm posts big blind [$0.02]
+** Dealing down cards **
+joebs99o raises [$0.03]
+W0orm raises [$0.14]
+joebs99o folds
+** Summary **
+W0orm collected [ $0.08 ]
+
+
+#Game No : 502387532
+***** 888poker Hand History for Game 502387532 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 13:12:32
+Table Frankfurt 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: kroleg666 ( $1.50 )
+Seat 7: W0orm ( $2.13 )
+W0orm posts small blind [$0.01]
+kroleg666 posts big blind [$0.02]
+** Dealing down cards **
+W0orm folds
+** Summary **
+kroleg666 collected [ $0.03 ]
+
+
+#Game No : 502392167
+***** 888poker Hand History for Game 502392167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 14:27:42
+Table Frankfurt 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: vanweyden100 ( $1 )
+Seat 9: conortdb ( $1.28 )
+vanweyden100 posts small blind [$0.01]
+conortdb posts big blind [$0.02]
+** Dealing down cards **
+vanweyden100 folds
+** Summary **
+conortdb collected [ $0.03 ]
+
+

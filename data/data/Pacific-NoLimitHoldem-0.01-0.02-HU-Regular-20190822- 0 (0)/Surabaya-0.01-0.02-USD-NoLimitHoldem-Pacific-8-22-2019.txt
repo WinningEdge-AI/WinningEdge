@@ -1,0 +1,517 @@
+#Game No : 520819244
+***** 888poker Hand History for Game 520819244 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:22:47
+Table Surabaya 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.60 )
+Seat 9: Nikostarc ( $2.19 )
+Nikostarc posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+Nikostarc calls [$0.01]
+tuva1953 raises [$0.58]
+Nikostarc calls [$0.58]
+** Dealing flop ** [ 4s, 8c, 6h ]
+** Dealing turn ** [ 5d ]
+** Dealing river ** [ 7d ]
+** Summary **
+tuva1953 shows [ 9s, Qd ]
+Nikostarc shows [ 3h, 9h ]
+Nikostarc collected [ $0.56 ]
+tuva1953 collected [ $0.57 ]
+
+
+#Game No : 520819250
+***** 888poker Hand History for Game 520819250 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:23:08
+Table Surabaya 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.57 )
+Seat 9: Nikostarc ( $2.15 )
+tuva1953 posts small blind [$0.01]
+Nikostarc posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 calls [$0.01]
+Nikostarc raises [$0.02]
+tuva1953 calls [$0.02]
+** Dealing flop ** [ Ts, 6d, 8c ]
+Nikostarc checks
+tuva1953 bets [$0.53]
+Nikostarc folds
+** Summary **
+tuva1953 did not show his hand
+tuva1953 collected [ $0.08 ]
+
+
+#Game No : 520819254
+***** 888poker Hand History for Game 520819254 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:23:28
+Table Surabaya 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.61 )
+Seat 9: Nikostarc ( $2.11 )
+Nikostarc posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+Nikostarc calls [$0.01]
+tuva1953 checks
+** Dealing flop ** [ Jd, As, Js ]
+tuva1953 checks
+Nikostarc checks
+** Dealing turn ** [ 6d ]
+tuva1953 checks
+Nikostarc checks
+** Dealing river ** [ 8d ]
+tuva1953 checks
+Nikostarc checks
+** Summary **
+tuva1953 shows [ 9h, 2h ]
+Nikostarc shows [ 9s, 7c ]
+Nikostarc collected [ $0.02 ]
+tuva1953 collected [ $0.02 ]
+
+
+#Game No : 520819263
+***** 888poker Hand History for Game 520819263 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:23:50
+Table Surabaya 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.61 )
+Seat 9: Nikostarc ( $2.11 )
+tuva1953 posts small blind [$0.01]
+Nikostarc posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 calls [$0.01]
+Nikostarc checks
+** Dealing flop ** [ 6d, 2d, Ad ]
+Nikostarc checks
+tuva1953 checks
+** Dealing turn ** [ 4d ]
+Nikostarc checks
+tuva1953 checks
+** Dealing river ** [ 4c ]
+Nikostarc checks
+tuva1953 bets [$0.02]
+Nikostarc calls [$0.02]
+** Summary **
+tuva1953 shows [ 4s, Kd ]
+Nikostarc mucks [ 8c, 6c ]
+tuva1953 collected [ $0.08 ]
+
+
+#Game No : 520819266
+***** 888poker Hand History for Game 520819266 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:24:13
+Table Surabaya 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.65 )
+Seat 9: Nikostarc ( $2.07 )
+Nikostarc posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+Nikostarc raises [$0.03]
+tuva1953 calls [$0.02]
+** Dealing flop ** [ Jc, 7c, 7s ]
+tuva1953 bets [$0.02]
+Nikostarc raises [$0.06]
+tuva1953 calls [$0.04]
+** Dealing turn ** [ 7d ]
+tuva1953 checks
+Nikostarc bets [$0.10]
+tuva1953 folds
+** Summary **
+Nikostarc did not show his hand
+Nikostarc collected [ $0.19 ]
+
+
+#Game No : 520819271
+***** 888poker Hand History for Game 520819271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:24:38
+Table Surabaya 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.55 )
+Seat 9: Nikostarc ( $2.16 )
+tuva1953 posts small blind [$0.01]
+Nikostarc posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 calls [$0.01]
+Nikostarc checks
+** Dealing flop ** [ 9c, 4d, 8h ]
+Nikostarc checks
+tuva1953 bets [$0.02]
+Nikostarc calls [$0.02]
+** Dealing turn ** [ Jh ]
+Nikostarc checks
+tuva1953 checks
+** Dealing river ** [ Qd ]
+Nikostarc bets [$0.02]
+tuva1953 calls [$0.02]
+** Summary **
+Nikostarc shows [ 2s, Qh ]
+tuva1953 mucks [ Kh, 8d ]
+Nikostarc collected [ $0.12 ]
+
+
+#Game No : 520819278
+***** 888poker Hand History for Game 520819278 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:25:03
+Table Surabaya 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.49 )
+Seat 9: Nikostarc ( $2.22 )
+Nikostarc posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+Nikostarc raises [$0.03]
+tuva1953 calls [$0.02]
+** Dealing flop ** [ 3s, 3d, Qh ]
+tuva1953 checks
+Nikostarc bets [$0.04]
+tuva1953 folds
+** Summary **
+Nikostarc did not show his hand
+Nikostarc collected [ $0.08 ]
+
+
+#Game No : 520819284
+***** 888poker Hand History for Game 520819284 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:25:19
+Table Surabaya 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.45 )
+Seat 9: Nikostarc ( $2.26 )
+tuva1953 posts small blind [$0.01]
+Nikostarc posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 folds
+** Summary **
+Nikostarc did not show his hand
+Nikostarc collected [ $0.03 ]
+
+
+#Game No : 520819289
+***** 888poker Hand History for Game 520819289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:25:24
+Table Surabaya 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.44 )
+Seat 9: Nikostarc ( $2.27 )
+Nikostarc posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+Nikostarc folds
+** Summary **
+tuva1953 did not show his hand
+tuva1953 collected [ $0.03 ]
+
+
+#Game No : 520819291
+***** 888poker Hand History for Game 520819291 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:25:31
+Table Surabaya 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.45 )
+Seat 9: Nikostarc ( $2.26 )
+tuva1953 posts small blind [$0.01]
+Nikostarc posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 calls [$0.01]
+Nikostarc checks
+** Dealing flop ** [ As, Qs, 3c ]
+Nikostarc checks
+tuva1953 bets [$0.02]
+Nikostarc calls [$0.02]
+** Dealing turn ** [ 9d ]
+Nikostarc checks
+tuva1953 checks
+** Dealing river ** [ Kc ]
+Nikostarc bets [$0.04]
+tuva1953 calls [$0.04]
+** Summary **
+Nikostarc shows [ 9s, 3d ]
+tuva1953 mucks [ 2s, Ks ]
+Nikostarc collected [ $0.15 ]
+
+
+#Game No : 520819294
+***** 888poker Hand History for Game 520819294 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:25:56
+Table Surabaya 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.37 )
+Seat 9: Nikostarc ( $2.33 )
+Nikostarc posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+Nikostarc raises [$0.03]
+tuva1953 calls [$0.02]
+** Dealing flop ** [ 8h, 3c, 2c ]
+tuva1953 checks
+Nikostarc checks
+** Dealing turn ** [ Ts ]
+tuva1953 checks
+Nikostarc bets [$0.04]
+tuva1953 folds
+** Summary **
+Nikostarc did not show his hand
+Nikostarc collected [ $0.08 ]
+
+
+#Game No : 520819299
+***** 888poker Hand History for Game 520819299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:26:18
+Table Surabaya 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.33 )
+Seat 9: Nikostarc ( $2.37 )
+tuva1953 posts small blind [$0.01]
+Nikostarc posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 raises [$0.32]
+Nikostarc folds
+** Summary **
+tuva1953 did not show his hand
+tuva1953 collected [ $0.04 ]
+
+
+#Game No : 520819305
+***** 888poker Hand History for Game 520819305 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:26:26
+Table Surabaya 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.35 )
+Seat 9: Nikostarc ( $2.35 )
+Nikostarc posts small blind [$0.01]
+tuva1953 posts big blind [$0.02]
+** Dealing down cards **
+Nikostarc calls [$0.01]
+tuva1953 raises [$0.33]
+Nikostarc folds
+** Summary **
+tuva1953 did not show his hand
+tuva1953 collected [ $0.04 ]
+
+
+#Game No : 520819307
+***** 888poker Hand History for Game 520819307 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 21:26:37
+Table Surabaya 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: tuva1953 ( $0.37 )
+Seat 9: Nikostarc ( $2.33 )
+tuva1953 posts small blind [$0.01]
+Nikostarc posts big blind [$0.02]
+** Dealing down cards **
+tuva1953 calls [$0.01]
+Nikostarc checks
+** Dealing flop ** [ 6s, 3c, 2h ]
+Nikostarc checks
+tuva1953 bets [$0.04]
+Nikostarc calls [$0.04]
+** Dealing turn ** [ Jh ]
+Nikostarc checks
+tuva1953 bets [$0.31]
+Nikostarc calls [$0.31]
+** Dealing river ** [ Ts ]
+** Summary **
+tuva1953 shows [ 2s, 3s ]
+Nikostarc shows [ 6c, Th ]
+Nikostarc collected [ $0.70 ]
+
+
+#Game No : 520820210
+***** 888poker Hand History for Game 520820210 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 22:35:33
+Table Surabaya 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: TonyS090189 ( $0.80 )
+Seat 2: Slipuk67 ( $2 )
+Slipuk67 posts small blind [$0.01]
+TonyS090189 posts big blind [$0.02]
+** Dealing down cards **
+Slipuk67 raises [$1.99]
+TonyS090189 folds
+** Summary **
+Slipuk67 collected [ $0.04 ]
+
+
+#Game No : 520821423
+***** 888poker Hand History for Game 520821423 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2019 23:49:47
+Table Surabaya 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Widdershin ( $0.80 )
+Seat 9: Improvisium ( $2 )
+Improvisium posts small blind [$0.01]
+Widdershin posts big blind [$0.02]
+** Dealing down cards **
+Improvisium calls [$0.01]
+Widdershin checks
+** Dealing flop ** [ 5c, 4c, 7d ]
+Widdershin checks
+Improvisium bets [$0.02]
+Widdershin folds
+** Summary **
+Improvisium collected [ $0.04 ]
+
+
+#Game No : 520823442
+***** 888poker Hand History for Game 520823442 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2019 02:09:52
+Table Surabaya 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: imeolagi ( $1.61 )
+Seat 9: St3r1 ( $2.14 )
+imeolagi posts small blind [$0.01]
+St3r1 posts big blind [$0.02]
+** Dealing down cards **
+imeolagi calls [$0.01]
+St3r1 checks
+** Dealing flop ** [ Tc, 5s, Ac ]
+St3r1 checks
+imeolagi bets [$0.02]
+St3r1 folds
+** Summary **
+imeolagi did not show his hand
+imeolagi collected [ $0.04 ]
+
+
+#Game No : 520823459
+***** 888poker Hand History for Game 520823459 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2019 02:10:25
+Table Surabaya 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: imeolagi ( $1.63 )
+Seat 9: St3r1 ( $2.12 )
+St3r1 posts small blind [$0.01]
+imeolagi posts big blind [$0.02]
+** Dealing down cards **
+St3r1 raises [$0.07]
+imeolagi folds
+** Summary **
+St3r1 did not show his hand
+St3r1 collected [ $0.04 ]
+
+
+#Game No : 520823463
+***** 888poker Hand History for Game 520823463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2019 02:10:44
+Table Surabaya 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: imeolagi ( $1.61 )
+Seat 9: St3r1 ( $2.14 )
+imeolagi posts small blind [$0.01]
+St3r1 posts big blind [$0.02]
+** Dealing down cards **
+imeolagi calls [$0.01]
+St3r1 checks
+** Dealing flop ** [ Kh, 9d, Qs ]
+St3r1 bets [$0.02]
+imeolagi folds
+** Summary **
+St3r1 collected [ $0.04 ]
+
+
+#Game No : 520823474
+***** 888poker Hand History for Game 520823474 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2019 02:11:18
+Table Surabaya 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: imeolagi ( $1.59 )
+Seat 9: St3r1 ( $2.16 )
+St3r1 posts small blind [$0.01]
+imeolagi posts big blind [$0.02]
+** Dealing down cards **
+St3r1 raises [$0.05]
+imeolagi folds
+** Summary **
+St3r1 collected [ $0.04 ]
+
+
+#Game No : 520823486
+***** 888poker Hand History for Game 520823486 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2019 02:11:54
+Table Surabaya 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: imeolagi ( $1.55 )
+Seat 9: St3r1 ( $2.20 )
+St3r1 posts small blind [$0.01]
+imeolagi posts big blind [$0.02]
+** Dealing down cards **
+St3r1 raises [$0.05]
+imeolagi folds
+** Summary **
+St3r1 collected [ $0.04 ]
+
+
+#Game No : 520823489
+***** 888poker Hand History for Game 520823489 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2019 02:12:05
+Table Surabaya 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: imeolagi ( $1.53 )
+Seat 9: St3r1 ( $2.22 )
+imeolagi posts small blind [$0.01]
+St3r1 posts big blind [$0.02]
+** Dealing down cards **
+imeolagi folds
+** Summary **
+St3r1 collected [ $0.03 ]
+
+
+#Game No : 520823491
+***** 888poker Hand History for Game 520823491 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2019 02:12:12
+Table Surabaya 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: imeolagi ( $1.52 )
+Seat 9: St3r1 ( $2.23 )
+St3r1 posts small blind [$0.01]
+imeolagi posts big blind [$0.02]
+** Dealing down cards **
+St3r1 raises [$0.05]
+imeolagi raises [$0.13]
+St3r1 folds
+** Summary **
+imeolagi collected [ $0.12 ]
+
+
+#Game No : 520826943
+***** 888poker Hand History for Game 520826943 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 08 2019 04:32:02
+Table Surabaya 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: mioriso ( $2.05 )
+Seat 4: dmarant ( $2 )
+dmarant posts small blind [$0.01]
+** Dealing down cards **
+mioriso folds
+** Summary **
+dmarant did not show his hand
+dmarant collected [ $0.01 ]
+
+

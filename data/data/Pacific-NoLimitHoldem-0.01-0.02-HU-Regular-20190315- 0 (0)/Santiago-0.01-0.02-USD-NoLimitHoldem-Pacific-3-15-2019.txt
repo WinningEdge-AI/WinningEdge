@@ -1,0 +1,64 @@
+#Game No : 617244653
+***** 888poker Hand History for Game 617244653 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 17:10:19
+Table Santiago 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: jbrag1 ( $2.04 )
+Seat 10: Dal1Bad ( $2.16 )
+Dal1Bad posts small blind [$0.01]
+jbrag1 posts big blind [$0.02]
+** Dealing down cards **
+Dal1Bad calls [$0.01]
+jbrag1 checks
+** Dealing flop ** [ 9s, 4c, 3c ]
+jbrag1 checks
+Dal1Bad checks
+** Dealing turn ** [ 6s ]
+jbrag1 bets [$0.04]
+Dal1Bad calls [$0.04]
+** Dealing river ** [ 5c ]
+jbrag1 checks
+Dal1Bad checks
+** Summary **
+jbrag1 shows [ Js, 8s ]
+Dal1Bad shows [ Kc, 3h ]
+Dal1Bad collected [ $0.12 ]
+
+
+#Game No : 617244682
+***** 888poker Hand History for Game 617244682 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 17:11:18
+Table Santiago 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 9: jbrag1 ( $2 )
+Seat 10: Dal1Bad ( $2.22 )
+jbrag1 posts small blind [$0.01]
+Dal1Bad posts big blind [$0.02]
+** Dealing down cards **
+jbrag1 raises [$0.03]
+Dal1Bad calls [$0.02]
+** Dealing flop ** [ Tc, 7h, Kd ]
+Dal1Bad checks
+jbrag1 bets [$0.04]
+Dal1Bad folds
+** Summary **
+jbrag1 collected [ $0.08 ]
+
+
+#Game No : 617244693
+***** 888poker Hand History for Game 617244693 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 03 2019 17:11:36
+Table Santiago 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 9: jbrag1 ( $2.04 )
+Seat 10: Dal1Bad ( $2.18 )
+Dal1Bad posts small blind [$0.01]
+** Dealing down cards **
+jbrag1 folds
+** Summary **
+Dal1Bad collected [ $0.01 ]
+
+

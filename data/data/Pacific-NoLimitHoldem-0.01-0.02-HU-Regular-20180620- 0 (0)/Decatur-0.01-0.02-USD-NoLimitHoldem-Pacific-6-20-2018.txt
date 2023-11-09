@@ -1,0 +1,112 @@
+#Game No : 503817292
+***** 888poker Hand History for Game 503817292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 20:16:01
+Table Decatur 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Arkanoidnoid ( $1 )
+Seat 2: 1924mota ( $0.80 )
+Arkanoidnoid posts small blind [$0.01]
+1924mota posts big blind [$0.02]
+** Dealing down cards **
+Arkanoidnoid calls [$0.01]
+1924mota checks
+** Dealing flop ** [ 3c, Ah, Ks ]
+1924mota checks
+Arkanoidnoid checks
+** Dealing turn ** [ 4h ]
+1924mota checks
+Arkanoidnoid checks
+** Dealing river ** [ Js ]
+1924mota bets [$0.02]
+Arkanoidnoid folds
+** Summary **
+1924mota did not show his hand
+1924mota collected [ $0.04 ]
+
+
+#Game No : 503817309
+***** 888poker Hand History for Game 503817309 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 20:16:06
+Table Decatur 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Arkanoidnoid ( $0.98 )
+Seat 2: 1924mota ( $0.82 )
+1924mota posts small blind [$0.01]
+Arkanoidnoid posts big blind [$0.02]
+** Dealing down cards **
+1924mota calls [$0.01]
+Arkanoidnoid checks
+** Dealing flop ** [ 7h, Jc, Th ]
+Arkanoidnoid checks
+1924mota checks
+** Dealing turn ** [ Js ]
+Arkanoidnoid bets [$0.02]
+1924mota calls [$0.02]
+** Dealing river ** [ 2h ]
+Arkanoidnoid bets [$0.02]
+1924mota folds
+** Summary **
+Arkanoidnoid did not show his hand
+Arkanoidnoid collected [ $0.08 ]
+
+
+#Game No : 503817324
+***** 888poker Hand History for Game 503817324 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 20:16:41
+Table Decatur 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Arkanoidnoid ( $1.02 )
+Seat 2: 1924mota ( $0.78 )
+Arkanoidnoid posts small blind [$0.01]
+1924mota posts big blind [$0.02]
+** Dealing down cards **
+Arkanoidnoid calls [$0.01]
+1924mota raises [$0.02]
+Arkanoidnoid calls [$0.02]
+** Dealing flop ** [ As, 5h, Ad ]
+1924mota bets [$0.02]
+Arkanoidnoid calls [$0.02]
+** Dealing turn ** [ 2c ]
+1924mota bets [$0.02]
+Arkanoidnoid calls [$0.02]
+** Dealing river ** [ Tc ]
+1924mota checks
+Arkanoidnoid bets [$0.02]
+1924mota calls [$0.02]
+** Summary **
+Arkanoidnoid shows [ 2s, Js ]
+1924mota shows [ Ks, Kh ]
+1924mota collected [ $0.19 ]
+
+
+#Game No : 503817345
+***** 888poker Hand History for Game 503817345 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 06 2018 20:17:23
+Table Decatur 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Arkanoidnoid ( $0.92 )
+Seat 2: 1924mota ( $0.87 )
+1924mota posts small blind [$0.01]
+Arkanoidnoid posts big blind [$0.02]
+** Dealing down cards **
+1924mota calls [$0.01]
+Arkanoidnoid checks
+** Dealing flop ** [ Qc, Qd, 9c ]
+Arkanoidnoid checks
+1924mota checks
+** Dealing turn ** [ Ac ]
+Arkanoidnoid checks
+1924mota checks
+** Dealing river ** [ 6d ]
+Arkanoidnoid checks
+1924mota checks
+** Summary **
+Arkanoidnoid shows [ 4d, Ks ]
+1924mota mucks [ Tc, 7d ]
+Arkanoidnoid collected [ $0.04 ]
+
+

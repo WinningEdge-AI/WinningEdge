@@ -1,0 +1,384 @@
+#Game No : 504606287
+***** 888poker Hand History for Game 504606287 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 00:44:09
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sandurobert ( $0.26 )
+Seat 9: berdichdenis ( $1.31 )
+sandurobert posts small blind [$0.01]
+berdichdenis posts big blind [$0.02]
+** Dealing down cards **
+sandurobert calls [$0.01]
+berdichdenis raises [$0.02]
+sandurobert folds
+** Summary **
+berdichdenis collected [ $0.04 ]
+
+
+#Game No : 504606293
+***** 888poker Hand History for Game 504606293 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 00:44:18
+Table Bedford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: sandurobert ( $0.24 )
+Seat 9: berdichdenis ( $1.33 )
+berdichdenis posts small blind [$0.01]
+sandurobert posts big blind [$0.02]
+** Dealing down cards **
+berdichdenis calls [$0.01]
+sandurobert checks
+** Dealing flop ** [ 4c, Ts, Ad ]
+sandurobert checks
+berdichdenis checks
+** Dealing turn ** [ Ah ]
+sandurobert checks
+berdichdenis checks
+** Dealing river ** [ 2c ]
+sandurobert checks
+berdichdenis checks
+** Summary **
+sandurobert shows [ 2d, 8s ]
+berdichdenis shows [ 6d, 4s ]
+berdichdenis collected [ $0.04 ]
+
+
+#Game No : 504606302
+***** 888poker Hand History for Game 504606302 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 00:44:35
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sandurobert ( $0.22 )
+Seat 9: berdichdenis ( $1.35 )
+sandurobert posts small blind [$0.01]
+berdichdenis posts big blind [$0.02]
+** Dealing down cards **
+sandurobert calls [$0.01]
+berdichdenis checks
+** Dealing flop ** [ Qc, 6d, Th ]
+berdichdenis checks
+sandurobert checks
+** Dealing turn ** [ Kd ]
+berdichdenis checks
+sandurobert checks
+** Dealing river ** [ Qh ]
+berdichdenis bets [$0.04]
+sandurobert folds
+** Summary **
+berdichdenis collected [ $0.04 ]
+
+
+#Game No : 504606311
+***** 888poker Hand History for Game 504606311 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 00:44:56
+Table Bedford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: sandurobert ( $0.20 )
+Seat 9: berdichdenis ( $1.37 )
+berdichdenis posts small blind [$0.01]
+sandurobert posts big blind [$0.02]
+** Dealing down cards **
+berdichdenis calls [$0.01]
+sandurobert checks
+** Dealing flop ** [ Kc, 2h, Td ]
+sandurobert checks
+berdichdenis checks
+** Dealing turn ** [ 2s ]
+sandurobert checks
+berdichdenis bets [$0.02]
+sandurobert calls [$0.02]
+** Dealing river ** [ 6h ]
+sandurobert checks
+berdichdenis bets [$0.05]
+sandurobert calls [$0.05]
+** Summary **
+berdichdenis shows [ 2d, As ]
+sandurobert mucks [ Tc, Ah ]
+berdichdenis collected [ $0.17 ]
+
+
+#Game No : 504606388
+***** 888poker Hand History for Game 504606388 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 00:47:24
+Table Bedford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: sandurobert ( $0.11 )
+Seat 9: berdichdenis ( $1.45 )
+berdichdenis posts small blind [$0.01]
+sandurobert posts big blind [$0.02]
+** Dealing down cards **
+berdichdenis calls [$0.01]
+sandurobert checks
+** Dealing flop ** [ 2s, Kc, 4c ]
+sandurobert checks
+berdichdenis checks
+** Dealing turn ** [ 5s ]
+sandurobert checks
+berdichdenis checks
+** Dealing river ** [ Ac ]
+sandurobert checks
+berdichdenis checks
+** Summary **
+sandurobert shows [ Td, 3d ]
+berdichdenis mucks [ Jc, 6h ]
+sandurobert collected [ $0.04 ]
+
+
+#Game No : 504606407
+***** 888poker Hand History for Game 504606407 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 00:47:54
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sandurobert ( $0.13 )
+Seat 9: berdichdenis ( $1.43 )
+sandurobert posts small blind [$0.01]
+berdichdenis posts big blind [$0.02]
+** Dealing down cards **
+sandurobert calls [$0.01]
+berdichdenis checks
+** Dealing flop ** [ 9d, 9s, 5s ]
+berdichdenis checks
+sandurobert bets [$0.02]
+berdichdenis calls [$0.02]
+** Dealing turn ** [ 8s ]
+berdichdenis checks
+sandurobert bets [$0.09]
+berdichdenis calls [$0.09]
+** Dealing river ** [ Ks ]
+** Summary **
+sandurobert shows [ 8c, 9c ]
+berdichdenis shows [ 7s, Qs ]
+sandurobert collected [ $0.25 ]
+
+
+#Game No : 504606416
+***** 888poker Hand History for Game 504606416 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 00:48:17
+Table Bedford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: sandurobert ( $0.25 )
+Seat 9: berdichdenis ( $1.30 )
+berdichdenis posts small blind [$0.01]
+sandurobert posts big blind [$0.02]
+** Dealing down cards **
+berdichdenis calls [$0.01]
+sandurobert checks
+** Dealing flop ** [ Qc, 2s, 9d ]
+sandurobert checks
+berdichdenis checks
+** Dealing turn ** [ Jh ]
+sandurobert checks
+berdichdenis checks
+** Dealing river ** [ 9h ]
+sandurobert checks
+berdichdenis checks
+** Summary **
+sandurobert shows [ 5s, 6d ]
+berdichdenis shows [ 8d, Jc ]
+berdichdenis collected [ $0.04 ]
+
+
+#Game No : 504606424
+***** 888poker Hand History for Game 504606424 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 00:48:33
+Table Bedford 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: sandurobert ( $0.23 )
+Seat 9: berdichdenis ( $1.32 )
+sandurobert posts small blind [$0.01]
+berdichdenis posts big blind [$0.02]
+** Dealing down cards **
+sandurobert folds
+** Summary **
+berdichdenis collected [ $0.03 ]
+
+
+#Game No : 504607629
+***** 888poker Hand History for Game 504607629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 01:27:47
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Bingo77177 ( $1.18 )
+Seat 4: SlavikMark79 ( $1.23 )
+Bingo77177 posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+Bingo77177 folds
+** Summary **
+SlavikMark79 collected [ $0.03 ]
+
+
+#Game No : 504607670
+***** 888poker Hand History for Game 504607670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 01:29:29
+Table Bedford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Danik1606 ( $1 )
+Seat 7: Borinjo ( $1 )
+Borinjo posts small blind [$0.01]
+** Dealing down cards **
+Danik1606 folds
+** Summary **
+Borinjo did not show his hand
+Borinjo collected [ $0.01 ]
+
+
+#Game No : 514882367
+***** 888poker Hand History for Game 514882367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 12:35:55
+Table Bedford 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Lightzues ( $2.37 )
+Seat 7: pnk_phu ( $1.09 )
+pnk_phu posts small blind [$0.01]
+Lightzues posts big blind [$0.02]
+** Dealing down cards **
+pnk_phu calls [$0.01]
+Lightzues checks
+** Dealing flop ** [ Qh, Kc, Qd ]
+Lightzues checks
+pnk_phu checks
+** Dealing turn ** [ 4h ]
+Lightzues checks
+pnk_phu checks
+** Dealing river ** [ 6s ]
+Lightzues checks
+pnk_phu checks
+** Summary **
+Lightzues shows [ 5d, 3c ]
+pnk_phu shows [ 2s, 9s ]
+pnk_phu collected [ $0.04 ]
+
+
+#Game No : 514882401
+***** 888poker Hand History for Game 514882401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 12:36:19
+Table Bedford 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Lightzues ( $2.35 )
+Seat 7: pnk_phu ( $1.11 )
+Lightzues posts small blind [$0.01]
+pnk_phu posts big blind [$0.02]
+** Dealing down cards **
+Lightzues folds
+** Summary **
+pnk_phu collected [ $0.03 ]
+
+
+#Game No : 514882408
+***** 888poker Hand History for Game 514882408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 12:36:23
+Table Bedford 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Lightzues ( $2.34 )
+Seat 7: pnk_phu ( $1.12 )
+pnk_phu posts small blind [$0.01]
+Lightzues posts big blind [$0.02]
+** Dealing down cards **
+pnk_phu calls [$0.01]
+Lightzues checks
+** Dealing flop ** [ 5d, Ts, 9h ]
+Lightzues checks
+pnk_phu checks
+** Dealing turn ** [ Td ]
+Lightzues checks
+pnk_phu bets [$0.02]
+Lightzues calls [$0.02]
+** Dealing river ** [ 5s ]
+Lightzues checks
+pnk_phu checks
+** Summary **
+Lightzues shows [ Ks, 5c ]
+pnk_phu mucks [ 8h, 6h ]
+Lightzues collected [ $0.08 ]
+
+
+#Game No : 514882438
+***** 888poker Hand History for Game 514882438 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 12:36:49
+Table Bedford 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Lightzues ( $2.38 )
+Seat 7: pnk_phu ( $1.08 )
+Lightzues posts small blind [$0.01]
+pnk_phu posts big blind [$0.02]
+** Dealing down cards **
+Lightzues raises [$0.05]
+pnk_phu calls [$0.04]
+** Dealing flop ** [ 9h, 7c, 6h ]
+pnk_phu bets [$0.06]
+Lightzues calls [$0.06]
+** Dealing turn ** [ 3c ]
+pnk_phu checks
+Lightzues bets [$0.08]
+pnk_phu calls [$0.08]
+** Dealing river ** [ 9c ]
+pnk_phu checks
+Lightzues bets [$0.13]
+pnk_phu folds
+** Summary **
+Lightzues collected [ $0.38 ]
+
+
+#Game No : 514882518
+***** 888poker Hand History for Game 514882518 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 12:37:35
+Table Bedford 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Lightzues ( $2.56 )
+Seat 7: pnk_phu ( $0.88 )
+pnk_phu posts small blind [$0.01]
+Lightzues posts big blind [$0.02]
+** Dealing down cards **
+pnk_phu calls [$0.01]
+Lightzues checks
+** Dealing flop ** [ Qd, 9h, 4h ]
+Lightzues checks
+pnk_phu bets [$0.06]
+Lightzues folds
+** Summary **
+pnk_phu collected [ $0.04 ]
+
+
+#Game No : 514882530
+***** 888poker Hand History for Game 514882530 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 10 2018 12:37:49
+Table Bedford 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Lightzues ( $2.54 )
+Seat 7: pnk_phu ( $0.90 )
+Lightzues posts small blind [$0.01]
+pnk_phu posts big blind [$0.02]
+** Dealing down cards **
+Lightzues raises [$0.05]
+pnk_phu calls [$0.04]
+** Dealing flop ** [ Ah, Ts, 6s ]
+pnk_phu checks
+Lightzues checks
+** Dealing turn ** [ 4h ]
+pnk_phu checks
+Lightzues checks
+** Dealing river ** [ Qs ]
+pnk_phu checks
+Lightzues checks
+** Summary **
+pnk_phu shows [ 2s, 9h ]
+Lightzues shows [ 9c, Jc ]
+Lightzues collected [ $0.12 ]
+
+

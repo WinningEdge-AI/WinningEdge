@@ -1,0 +1,101 @@
+#Game No : 505267946
+***** 888poker Hand History for Game 505267946 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 10:00:50
+Table Irkutsk 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: SlavikMark79 ( $1.03 )
+Seat 9: 888Phil_Ivey ( $0.82 )
+SlavikMark79 posts small blind [$0.01]
+888Phil_Ivey posts big blind [$0.02]
+** Dealing down cards **
+SlavikMark79 calls [$0.01]
+888Phil_Ivey checks
+** Dealing flop ** [ 4h, Ad, 2c ]
+888Phil_Ivey checks
+SlavikMark79 bets [$0.04]
+888Phil_Ivey calls [$0.04]
+** Dealing turn ** [ 6c ]
+888Phil_Ivey checks
+SlavikMark79 checks
+** Dealing river ** [ 9d ]
+888Phil_Ivey bets [$0.08]
+SlavikMark79 calls [$0.08]
+** Summary **
+888Phil_Ivey shows [ 2s, 6d ]
+SlavikMark79 mucks [ 7c, 9h ]
+888Phil_Ivey collected [ $0.27 ]
+
+
+#Game No : 505267975
+***** 888poker Hand History for Game 505267975 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 10:01:17
+Table Irkutsk 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: SlavikMark79 ( $1 )
+Seat 9: 888Phil_Ivey ( $0.95 )
+888Phil_Ivey posts small blind [$0.01]
+SlavikMark79 posts big blind [$0.02]
+** Dealing down cards **
+888Phil_Ivey raises [$0.05]
+SlavikMark79 folds
+** Summary **
+888Phil_Ivey collected [ $0.04 ]
+
+
+#Game No : 505274602
+***** 888poker Hand History for Game 505274602 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:32:08
+Table Irkutsk 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: adfaff ( $0.82 )
+Seat 9: RKSM21 ( $1.48 )
+adfaff posts small blind [$0.01]
+RKSM21 posts big blind [$0.02]
+** Dealing down cards **
+adfaff raises [$0.03]
+RKSM21 raises [$0.06]
+adfaff folds
+** Summary **
+RKSM21 collected [ $0.08 ]
+
+
+#Game No : 505274640
+***** 888poker Hand History for Game 505274640 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:32:37
+Table Irkutsk 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: RomanBuglak ( $0.80 )
+Seat 9: RKSM21 ( $1.52 )
+RKSM21 posts small blind [$0.01]
+RomanBuglak posts big blind [$0.02]
+** Dealing down cards **
+RKSM21 folds
+** Summary **
+RomanBuglak collected [ $0.03 ]
+
+
+#Game No : 505274649
+***** 888poker Hand History for Game 505274649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 12 11 2018 11:32:44
+Table Irkutsk 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: RomanBuglak ( $0.81 )
+Seat 9: RKSM21 ( $1.51 )
+RomanBuglak posts small blind [$0.01]
+RKSM21 posts big blind [$0.02]
+** Dealing down cards **
+RomanBuglak calls [$0.01]
+RKSM21 checks
+** Dealing flop ** [ 3s, 7s, Jd ]
+RKSM21 checks
+RomanBuglak bets [$0.02]
+RKSM21 folds
+** Summary **
+RomanBuglak collected [ $0.04 ]
+
+

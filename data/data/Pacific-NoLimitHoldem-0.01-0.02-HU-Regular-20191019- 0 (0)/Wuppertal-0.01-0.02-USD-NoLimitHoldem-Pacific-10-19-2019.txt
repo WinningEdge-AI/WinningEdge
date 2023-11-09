@@ -1,0 +1,310 @@
+#Game No : 1303388008
+***** 888poker Hand History for Game 1303388008 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 00:13:56
+Table Wuppertal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: LegkiyD ( $2.14 )
+Seat 10: Jmr0202 ( $1 )
+LegkiyD posts small blind [$0.01]
+Jmr0202 posts big blind [$0.02]
+** Dealing down cards **
+LegkiyD folds
+** Summary **
+Jmr0202 collected [ $0.03 ]
+
+
+#Game No : 1303391888
+***** 888poker Hand History for Game 1303391888 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 00:52:35
+Table Wuppertal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tlroost ( $1.35 )
+Seat 5: scs1914 ( $0.15 )
+Tlroost posts small blind [$0.01]
+scs1914 posts big blind [$0.02]
+** Dealing down cards **
+Tlroost calls [$0.01]
+scs1914 raises [$0.13]
+Tlroost calls [$0.13]
+** Dealing flop ** [ 3c, Qs, Ac ]
+** Dealing turn ** [ Jd ]
+** Dealing river ** [ 6h ]
+** Summary **
+Tlroost shows [ Ad, 9s ]
+scs1914 shows [ 8c, As ]
+Tlroost collected [ $0.29 ]
+
+
+#Game No : 542309883
+***** 888poker Hand History for Game 542309883 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 02:55:10
+Table Wuppertal 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ruprehch ( $1.25 )
+Seat 7: planemo001 ( $2.46 )
+ruprehch posts small blind [$0.01]
+planemo001 posts big blind [$0.02]
+** Dealing down cards **
+ruprehch calls [$0.01]
+planemo001 checks
+** Dealing flop ** [ 3h, Jh, 7h ]
+planemo001 checks
+ruprehch checks
+** Dealing turn ** [ 3s ]
+planemo001 bets [$0.03]
+ruprehch calls [$0.03]
+** Dealing river ** [ Kd ]
+planemo001 bets [$0.03]
+ruprehch folds
+** Summary **
+planemo001 collected [ $0.10 ]
+
+
+#Game No : 542309916
+***** 888poker Hand History for Game 542309916 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 02:56:11
+Table Wuppertal 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ruprehch ( $1.24 )
+Seat 7: planemo001 ( $2.51 )
+ruprehch posts small blind [$0.01]
+planemo001 posts big blind [$0.02]
+** Dealing down cards **
+ruprehch calls [$0.01]
+planemo001 checks
+** Dealing flop ** [ Ks, 9c, 5s ]
+planemo001 checks
+ruprehch checks
+** Dealing turn ** [ Qc ]
+planemo001 checks
+ruprehch bets [$0.02]
+planemo001 folds
+** Summary **
+ruprehch collected [ $0.04 ]
+
+
+#Game No : 542309931
+***** 888poker Hand History for Game 542309931 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 02:56:44
+Table Wuppertal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: ruprehch ( $1.26 )
+Seat 7: planemo001 ( $2.49 )
+planemo001 posts small blind [$0.01]
+ruprehch posts big blind [$0.02]
+** Dealing down cards **
+planemo001 folds
+** Summary **
+ruprehch collected [ $0.03 ]
+
+
+#Game No : 542309963
+***** 888poker Hand History for Game 542309963 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 02:57:43
+Table Wuppertal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pablonuts823 ( $0.80 )
+Seat 4: barney0802 ( $0.80 )
+barney0802 posts small blind [$0.01]
+Pablonuts823 posts big blind [$0.02]
+** Dealing down cards **
+barney0802 calls [$0.01]
+Pablonuts823 raises [$0.06]
+barney0802 raises [$0.12]
+Pablonuts823 calls [$0.06]
+** Dealing flop ** [ 6c, 4h, 9h ]
+Pablonuts823 checks
+barney0802 checks
+** Dealing turn ** [ 4c ]
+Pablonuts823 bets [$0.18]
+barney0802 calls [$0.18]
+** Dealing river ** [ 6s ]
+Pablonuts823 bets [$0.48]
+barney0802 calls [$0.48]
+** Summary **
+Pablonuts823 shows [ 9s, Qs ]
+barney0802 shows [ 7d, Ad ]
+Pablonuts823 collected [ $1.50 ]
+
+
+#Game No : 542309979
+***** 888poker Hand History for Game 542309979 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 02:58:20
+Table Wuppertal 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Pablonuts823 ( $1.50 )
+Seat 4: barney0802 ( $0.80 )
+Pablonuts823 posts small blind [$0.01]
+barney0802 posts big blind [$0.02]
+** Dealing down cards **
+Pablonuts823 raises [$0.05]
+barney0802 calls [$0.04]
+** Dealing flop ** [ Kh, 9s, Qc ]
+barney0802 checks
+Pablonuts823 checks
+** Dealing turn ** [ 3c ]
+barney0802 checks
+Pablonuts823 bets [$0.08]
+barney0802 calls [$0.08]
+** Dealing river ** [ 4s ]
+barney0802 checks
+Pablonuts823 bets [$0.18]
+barney0802 calls [$0.18]
+** Summary **
+Pablonuts823 shows [ Ks, As ]
+barney0802 mucks [ Ac, 3h ]
+Pablonuts823 collected [ $0.60 ]
+
+
+#Game No : 542309993
+***** 888poker Hand History for Game 542309993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 02:58:55
+Table Wuppertal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Pablonuts823 ( $1.78 )
+Seat 4: barney0802 ( $0.48 )
+barney0802 posts small blind [$0.01]
+Pablonuts823 posts big blind [$0.02]
+** Dealing down cards **
+barney0802 calls [$0.01]
+Pablonuts823 raises [$0.04]
+barney0802 calls [$0.04]
+** Dealing flop ** [ 2s, 2d, 9h ]
+Pablonuts823 checks
+barney0802 checks
+** Dealing turn ** [ Kc ]
+Pablonuts823 checks
+barney0802 bets [$0.06]
+Pablonuts823 calls [$0.06]
+** Dealing river ** [ 4h ]
+Pablonuts823 checks
+barney0802 checks
+** Summary **
+Pablonuts823 shows [ 7h, 9d ]
+barney0802 mucks [ Qh, 7c ]
+Pablonuts823 collected [ $0.23 ]
+
+
+#Game No : 542310041
+***** 888poker Hand History for Game 542310041 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 03:00:36
+Table Wuppertal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Pablonuts823 ( $1.82 )
+Seat 6: Langbobo ( $2.38 )
+Langbobo posts small blind [$0.01]
+Pablonuts823 posts big blind [$0.02]
+** Dealing down cards **
+Langbobo folds
+** Summary **
+Pablonuts823 collected [ $0.03 ]
+
+
+#Game No : 542310435
+***** 888poker Hand History for Game 542310435 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 03:13:48
+Table Wuppertal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: zay76 ( $1.03 )
+Seat 6: BukmopuHa ( $2.02 )
+BukmopuHa posts small blind [$0.01]
+** Dealing down cards **
+zay76 folds
+** Summary **
+BukmopuHa collected [ $0.01 ]
+
+
+#Game No : 542310447
+***** 888poker Hand History for Game 542310447 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 03:14:16
+Table Wuppertal 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Bareirro ( $0.80 )
+Seat 6: BukmopuHa ( $2.02 )
+BukmopuHa posts small blind [$0.01]
+Bareirro posts big blind [$0.02]
+** Dealing down cards **
+BukmopuHa raises [$0.05]
+Bareirro folds
+** Summary **
+BukmopuHa collected [ $0.04 ]
+
+
+#Game No : 542310452
+***** 888poker Hand History for Game 542310452 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 03:14:26
+Table Wuppertal 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bareirro ( $0.78 )
+Seat 6: BukmopuHa ( $2.04 )
+Bareirro posts small blind [$0.01]
+** Dealing down cards **
+BukmopuHa folds
+** Summary **
+Bareirro collected [ $0.01 ]
+
+
+#Game No : 542310477
+***** 888poker Hand History for Game 542310477 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 03:15:24
+Table Wuppertal 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: JustinKatipa ( $1 )
+Seat 9: Kutterkeld ( $0.80 )
+JustinKatipa posts small blind [$0.01]
+Kutterkeld posts big blind [$0.02]
+** Dealing down cards **
+JustinKatipa calls [$0.01]
+Kutterkeld checks
+** Dealing flop ** [ 8h, Ks, 3d ]
+Kutterkeld checks
+JustinKatipa checks
+** Dealing turn ** [ Ts ]
+Kutterkeld checks
+JustinKatipa checks
+** Dealing river ** [ Tc ]
+Kutterkeld bets [$0.02]
+JustinKatipa folds
+** Summary **
+Kutterkeld collected [ $0.04 ]
+
+
+#Game No : 542310488
+***** 888poker Hand History for Game 542310488 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 10 2019 03:15:49
+Table Wuppertal 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: JustinKatipa ( $0.98 )
+Seat 9: Kutterkeld ( $0.82 )
+Kutterkeld posts small blind [$0.01]
+JustinKatipa posts big blind [$0.02]
+** Dealing down cards **
+Kutterkeld calls [$0.01]
+JustinKatipa checks
+** Dealing flop ** [ Kd, 8s, 3d ]
+JustinKatipa checks
+Kutterkeld checks
+** Dealing turn ** [ Ad ]
+JustinKatipa checks
+Kutterkeld checks
+** Dealing river ** [ 9s ]
+JustinKatipa bets [$0.02]
+Kutterkeld folds
+** Summary **
+JustinKatipa collected [ $0.04 ]
+
+

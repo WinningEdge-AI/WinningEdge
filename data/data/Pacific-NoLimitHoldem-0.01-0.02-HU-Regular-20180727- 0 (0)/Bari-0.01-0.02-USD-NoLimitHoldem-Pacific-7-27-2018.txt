@@ -1,0 +1,94 @@
+#Game No : 453709905
+***** 888poker Hand History for Game 453709905 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 09:05:51
+Table Bari 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Dexterzxc ( $1.80 )
+Seat 5: propok19988 ( $0.98 )
+Dexterzxc posts small blind [$0.01]
+propok19988 posts big blind [$0.02]
+** Dealing down cards **
+Dexterzxc raises [$0.15]
+propok19988 calls [$0.14]
+** Dealing flop ** [ 8d, 3d, Ks ]
+propok19988 checks
+Dexterzxc checks
+** Dealing turn ** [ As ]
+propok19988 checks
+Dexterzxc checks
+** Dealing river ** [ 5s ]
+propok19988 bets [$0.32]
+Dexterzxc raises [$0.64]
+propok19988 raises [$0.50]
+Dexterzxc calls [$0.18]
+** Summary **
+Dexterzxc shows [ 3s, Qs ]
+propok19988 shows [ Ah, Ac ]
+Dexterzxc collected [ $1.84 ]
+
+
+#Game No : 453718359
+***** 888poker Hand History for Game 453718359 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 12:44:45
+Table Bari 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LuckerDimon ( $3.95 )
+Seat 7: gamepovar ( $2 )
+LuckerDimon posts small blind [$0.01]
+gamepovar posts big blind [$0.02]
+** Dealing down cards **
+LuckerDimon raises [$0.05]
+gamepovar calls [$0.04]
+** Dealing flop ** [ Qh, 6c, Ad ]
+gamepovar checks
+LuckerDimon bets [$0.12]
+gamepovar folds
+** Summary **
+LuckerDimon did not show his hand
+LuckerDimon collected [ $0.12 ]
+
+
+#Game No : 453718366
+***** 888poker Hand History for Game 453718366 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 12:44:58
+Table Bari 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: LuckerDimon ( $4.01 )
+Seat 7: gamepovar ( $2 )
+gamepovar posts small blind [$0.01]
+LuckerDimon posts big blind [$0.02]
+** Dealing down cards **
+gamepovar folds
+** Summary **
+LuckerDimon did not show his hand
+LuckerDimon collected [ $0.03 ]
+
+
+#Game No : 453718373
+***** 888poker Hand History for Game 453718373 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 07 2018 12:45:03
+Table Bari 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: LuckerDimon ( $4.02 )
+Seat 7: gamepovar ( $2 )
+LuckerDimon posts small blind [$0.01]
+gamepovar posts big blind [$0.02]
+** Dealing down cards **
+LuckerDimon calls [$0.01]
+gamepovar raises [$0.06]
+LuckerDimon calls [$0.06]
+** Dealing flop ** [ 2c, 6c, 9s ]
+gamepovar bets [$0.10]
+LuckerDimon calls [$0.10]
+** Dealing turn ** [ 4c ]
+gamepovar bets [$0.24]
+LuckerDimon raises [$0.48]
+gamepovar folds
+** Summary **
+LuckerDimon collected [ $0.79 ]
+
+

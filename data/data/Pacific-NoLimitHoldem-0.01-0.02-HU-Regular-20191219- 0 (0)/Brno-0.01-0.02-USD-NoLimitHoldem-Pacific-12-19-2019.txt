@@ -1,0 +1,56 @@
+#Game No : 546797655
+***** 888poker Hand History for Game 546797655 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 02:04:30
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: kjienlol ( $2 )
+Seat 4: medas1 ( $2.60 )
+kjienlol posts small blind [$0.01]
+** Dealing down cards **
+medas1 folds
+** Summary **
+kjienlol collected [ $0.01 ]
+
+
+#Game No : 546797657
+***** 888poker Hand History for Game 546797657 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 02:04:34
+Table Brno 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kjienlol ( $2 )
+Seat 6: AntonPodryab ( $3.93 )
+kjienlol posts small blind [$0.01]
+AntonPodryab posts big blind [$0.02]
+** Dealing down cards **
+kjienlol raises [$0.05]
+AntonPodryab raises [$0.22]
+kjienlol raises [$0.44]
+AntonPodryab raises [$3.69]
+kjienlol calls [$1.50]
+** Dealing flop ** [ Kh, Jc, 4h ]
+** Dealing turn ** [ 9h ]
+** Dealing river ** [ 2s ]
+** Summary **
+kjienlol shows [ Ah, Qh ]
+AntonPodryab shows [ Ac, Kc ]
+kjienlol collected [ $3.75 ]
+
+
+#Game No : 546797672
+***** 888poker Hand History for Game 546797672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 19 12 2019 02:05:02
+Table Brno 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: kjienlol ( $3.75 )
+Seat 6: AntonPodryab ( $2 )
+AntonPodryab posts small blind [$0.01]
+kjienlol posts big blind [$0.02]
+** Dealing down cards **
+AntonPodryab folds
+** Summary **
+kjienlol collected [ $0.03 ]
+
+

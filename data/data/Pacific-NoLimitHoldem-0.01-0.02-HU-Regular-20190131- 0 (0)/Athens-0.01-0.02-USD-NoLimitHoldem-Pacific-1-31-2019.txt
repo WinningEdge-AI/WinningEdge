@@ -1,0 +1,63 @@
+#Game No : 614942670
+***** 888poker Hand History for Game 614942670 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 00:35:14
+Table Athens 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Ell_Faradey ( $1.44 )
+Seat 4: gunchozaurs ( $2.14 )
+gunchozaurs posts small blind [$0.01]
+Ell_Faradey posts big blind [$0.02]
+** Dealing down cards **
+gunchozaurs raises [$0.05]
+Ell_Faradey folds
+** Summary **
+gunchozaurs collected [ $0.04 ]
+
+
+#Game No : 614942963
+***** 888poker Hand History for Game 614942963 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 00:50:59
+Table Athens 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: BlackBackBoy ( $1.01 )
+Seat 5: ....007.... ( $2 )
+BlackBackBoy posts small blind [$0.01]
+....007.... posts big blind [$0.02]
+** Dealing down cards **
+BlackBackBoy raises [$0.03]
+....007.... calls [$0.02]
+** Dealing flop ** [ 2c, Th, Js ]
+....007.... bets [$0.07]
+BlackBackBoy raises [$0.14]
+....007.... calls [$0.07]
+** Dealing turn ** [ Jd ]
+....007.... checks
+BlackBackBoy bets [$0.02]
+....007.... calls [$0.02]
+** Dealing river ** [ 4d ]
+....007.... checks
+BlackBackBoy checks
+** Summary **
+....007.... shows [ 8c, 9h ]
+BlackBackBoy shows [ Qc, Kh ]
+BlackBackBoy collected [ $0.38 ]
+
+
+#Game No : 614942999
+***** 888poker Hand History for Game 614942999 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 01 2019 00:52:46
+Table Athens 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: BlackBackBoy ( $1.19 )
+Seat 5: ....007.... ( $2 )
+....007.... posts small blind [$0.01]
+** Dealing down cards **
+BlackBackBoy folds
+** Summary **
+....007.... did not show his hand
+....007.... collected [ $0.01 ]
+
+

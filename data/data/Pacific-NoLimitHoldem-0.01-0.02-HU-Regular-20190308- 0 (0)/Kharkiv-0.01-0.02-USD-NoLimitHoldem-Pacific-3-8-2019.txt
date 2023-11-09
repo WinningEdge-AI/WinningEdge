@@ -1,0 +1,257 @@
+#Game No : 1253198575
+***** 888poker Hand History for Game 1253198575 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 16:40:03
+Table Kharkiv 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Grinkosd1 ( $3.90 )
+Seat 4: Cory12211 ( $0.76 )
+Cory12211 posts small blind [$0.01]
+Grinkosd1 posts big blind [$0.02]
+** Dealing down cards **
+Cory12211 calls [$0.01]
+Grinkosd1 checks
+** Dealing flop ** [ 9s, 4h, 8h ]
+Grinkosd1 checks
+Cory12211 checks
+** Dealing turn ** [ 2c ]
+Grinkosd1 checks
+Cory12211 checks
+** Dealing river ** [ Ts ]
+Grinkosd1 checks
+Cory12211 checks
+** Summary **
+Grinkosd1 shows [ 7s, 2s ]
+Cory12211 mucks [ 6c, 3d ]
+Grinkosd1 collected [ $0.04 ]
+
+
+#Game No : 1253198622
+***** 888poker Hand History for Game 1253198622 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 16:40:26
+Table Kharkiv 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ibone121 ( $0.80 )
+Seat 4: Cory12211 ( $0.74 )
+Cory12211 posts small blind [$0.01]
+ibone121 posts big blind [$0.02]
+** Dealing down cards **
+Cory12211 calls [$0.01]
+ibone121 checks
+** Dealing flop ** [ 3d, 4h, 4d ]
+ibone121 checks
+Cory12211 checks
+** Dealing turn ** [ Ks ]
+ibone121 bets [$0.02]
+Cory12211 raises [$0.04]
+ibone121 calls [$0.02]
+** Dealing river ** [ 3s ]
+ibone121 bets [$0.06]
+Cory12211 raises [$0.12]
+ibone121 folds
+** Summary **
+Cory12211 did not show his hand
+Cory12211 collected [ $0.23 ]
+
+
+#Game No : 1253198689
+***** 888poker Hand History for Game 1253198689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 16:40:53
+Table Kharkiv 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: ibone121 ( $0.68 )
+Seat 4: Cory12211 ( $0.85 )
+ibone121 posts small blind [$0.01]
+Cory12211 posts big blind [$0.02]
+** Dealing down cards **
+ibone121 raises [$0.03]
+Cory12211 calls [$0.02]
+** Dealing flop ** [ 7h, 7s, Js ]
+Cory12211 checks
+ibone121 bets [$0.04]
+Cory12211 folds
+** Summary **
+ibone121 collected [ $0.08 ]
+
+
+#Game No : 1253198736
+***** 888poker Hand History for Game 1253198736 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 16:41:13
+Table Kharkiv 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: ibone121 ( $0.72 )
+Seat 4: Cory12211 ( $0.81 )
+Cory12211 posts small blind [$0.01]
+ibone121 posts big blind [$0.02]
+** Dealing down cards **
+Cory12211 calls [$0.01]
+ibone121 raises [$0.04]
+Cory12211 calls [$0.04]
+** Dealing flop ** [ 4h, 7h, Qc ]
+ibone121 bets [$0.12]
+Cory12211 raises [$0.24]
+ibone121 raises [$0.54]
+Cory12211 calls [$0.42]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ 9c ]
+** Summary **
+ibone121 shows [ Tc, Td ]
+Cory12211 shows [ Qs, As ]
+Cory12211 collected [ $1.35 ]
+
+
+#Game No : 1253202783
+***** 888poker Hand History for Game 1253202783 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 17:09:39
+Table Kharkiv 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: mmm59mm ( $0.79 )
+Seat 9: LinuxOrNot ( $1.20 )
+LinuxOrNot posts small blind [$0.01]
+mmm59mm posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot folds
+** Summary **
+mmm59mm collected [ $0.03 ]
+
+
+#Game No : 1253202947
+***** 888poker Hand History for Game 1253202947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 17:10:56
+Table Kharkiv 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: mmm59mm ( $0.80 )
+Seat 9: LinuxOrNot ( $1.21 )
+LinuxOrNot posts small blind [$0.01]
+mmm59mm posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot raises [$0.05]
+mmm59mm folds
+** Summary **
+LinuxOrNot collected [ $0.04 ]
+
+
+#Game No : 1253202967
+***** 888poker Hand History for Game 1253202967 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 17:11:07
+Table Kharkiv 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: mmm59mm ( $0.78 )
+Seat 9: LinuxOrNot ( $1.23 )
+mmm59mm posts small blind [$0.01]
+LinuxOrNot posts big blind [$0.02]
+** Dealing down cards **
+mmm59mm raises [$0.05]
+LinuxOrNot folds
+** Summary **
+mmm59mm collected [ $0.04 ]
+
+
+#Game No : 1253203009
+***** 888poker Hand History for Game 1253203009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 17:11:25
+Table Kharkiv 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: mmm59mm ( $0.80 )
+Seat 9: LinuxOrNot ( $1.21 )
+LinuxOrNot posts small blind [$0.01]
+mmm59mm posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot raises [$0.05]
+mmm59mm raises [$0.24]
+LinuxOrNot raises [$1.15]
+mmm59mm calls [$0.54]
+** Dealing flop ** [ Kd, 7h, Jd ]
+** Dealing turn ** [ 5h ]
+** Dealing river ** [ 4s ]
+** Summary **
+mmm59mm shows [ Kc, Qc ]
+LinuxOrNot shows [ Ad, Js ]
+mmm59mm collected [ $1.50 ]
+
+
+#Game No : 1253203092
+***** 888poker Hand History for Game 1253203092 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 17:12:05
+Table Kharkiv 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: mmm59mm ( $1.50 )
+Seat 9: LinuxOrNot ( $0.41 )
+mmm59mm posts small blind [$0.01]
+LinuxOrNot posts big blind [$0.02]
+** Dealing down cards **
+mmm59mm calls [$0.01]
+LinuxOrNot raises [$0.07]
+mmm59mm folds
+** Summary **
+LinuxOrNot collected [ $0.04 ]
+
+
+#Game No : 1253203141
+***** 888poker Hand History for Game 1253203141 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 17:12:29
+Table Kharkiv 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: mmm59mm ( $1.48 )
+Seat 9: LinuxOrNot ( $0.43 )
+LinuxOrNot posts small blind [$0.01]
+mmm59mm posts big blind [$0.02]
+** Dealing down cards **
+LinuxOrNot folds
+** Summary **
+mmm59mm collected [ $0.03 ]
+
+
+#Game No : 1253203261
+***** 888poker Hand History for Game 1253203261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 17:13:20
+Table Kharkiv 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: gas5714 ( $1.01 )
+Seat 7: mmm59mm ( $1.49 )
+gas5714 posts small blind [$0.01]
+mmm59mm posts big blind [$0.02]
+** Dealing down cards **
+gas5714 raises [$0.07]
+mmm59mm folds
+** Summary **
+gas5714 collected [ $0.04 ]
+
+
+#Game No : 1253203298
+***** 888poker Hand History for Game 1253203298 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 03 2019 17:13:32
+Table Kharkiv 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: gas5714 ( $1.03 )
+Seat 7: mmm59mm ( $1.47 )
+mmm59mm posts small blind [$0.01]
+gas5714 posts big blind [$0.02]
+** Dealing down cards **
+mmm59mm raises [$0.07]
+gas5714 calls [$0.06]
+** Dealing flop ** [ 5h, 4c, Ts ]
+gas5714 bets [$0.10]
+mmm59mm calls [$0.10]
+** Dealing turn ** [ 8s ]
+gas5714 bets [$0.18]
+mmm59mm calls [$0.18]
+** Dealing river ** [ Qh ]
+gas5714 checks
+mmm59mm bets [$0.42]
+gas5714 folds
+** Summary **
+mmm59mm collected [ $0.68 ]
+
+

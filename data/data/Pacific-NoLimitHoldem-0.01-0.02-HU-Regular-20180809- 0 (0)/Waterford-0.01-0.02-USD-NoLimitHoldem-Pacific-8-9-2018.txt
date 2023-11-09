@@ -1,0 +1,605 @@
+#Game No : 500637823
+***** 888poker Hand History for Game 500637823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 09:10:50
+Table Waterford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Fidan_21_8 ( $0.97 )
+Seat 7: A1n1a1t1o1l ( $1.10 )
+A1n1a1t1o1l posts small blind [$0.01]
+Fidan_21_8 posts big blind [$0.02]
+** Dealing down cards **
+A1n1a1t1o1l raises [$0.05]
+Fidan_21_8 raises [$0.12]
+A1n1a1t1o1l calls [$0.08]
+** Dealing flop ** [ Jd, Js, 8h ]
+Fidan_21_8 bets [$0.14]
+A1n1a1t1o1l calls [$0.14]
+** Dealing turn ** [ 9c ]
+Fidan_21_8 bets [$0.28]
+A1n1a1t1o1l calls [$0.28]
+** Dealing river ** [ Qh ]
+Fidan_21_8 bets [$0.41]
+A1n1a1t1o1l calls [$0.41]
+** Summary **
+Fidan_21_8 shows [ Kd, Kc ]
+A1n1a1t1o1l shows [ Tc, Td ]
+A1n1a1t1o1l collected [ $1.82 ]
+
+
+#Game No : 500637867
+***** 888poker Hand History for Game 500637867 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 09:11:41
+Table Waterford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: HecticAtomic ( $0.80 )
+Seat 7: A1n1a1t1o1l ( $1.95 )
+A1n1a1t1o1l posts small blind [$0.01]
+HecticAtomic posts big blind [$0.02]
+** Dealing down cards **
+A1n1a1t1o1l folds
+** Summary **
+HecticAtomic collected [ $0.03 ]
+
+
+#Game No : 500643561
+***** 888poker Hand History for Game 500643561 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:56:53
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: R3tree ( $0.97 )
+Seat 7: A1n1a1t1o1l ( $1.54 )
+R3tree posts small blind [$0.01]
+A1n1a1t1o1l posts big blind [$0.02]
+** Dealing down cards **
+R3tree folds
+** Summary **
+A1n1a1t1o1l collected [ $0.03 ]
+
+
+#Game No : 500643572
+***** 888poker Hand History for Game 500643572 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:56:59
+Table Waterford 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: R3tree ( $0.96 )
+Seat 7: A1n1a1t1o1l ( $1.55 )
+A1n1a1t1o1l posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+A1n1a1t1o1l raises [$0.05]
+R3tree folds
+** Summary **
+A1n1a1t1o1l collected [ $0.04 ]
+
+
+#Game No : 500643581
+***** 888poker Hand History for Game 500643581 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:57:08
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: R3tree ( $0.94 )
+Seat 7: A1n1a1t1o1l ( $1.57 )
+R3tree posts small blind [$0.01]
+** Dealing down cards **
+A1n1a1t1o1l folds
+** Summary **
+R3tree collected [ $0.01 ]
+
+
+#Game No : 500643627
+***** 888poker Hand History for Game 500643627 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:57:51
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Vldmr963 ( $1 )
+Seat 4: R3tree ( $0.94 )
+R3tree posts small blind [$0.01]
+Vldmr963 posts big blind [$0.02]
+** Dealing down cards **
+R3tree raises [$0.04]
+Vldmr963 calls [$0.03]
+** Dealing flop ** [ 9s, 9h, 7h ]
+Vldmr963 checks
+R3tree checks
+** Dealing turn ** [ 2s ]
+Vldmr963 bets [$0.02]
+R3tree calls [$0.02]
+** Dealing river ** [ Tc ]
+Vldmr963 bets [$0.02]
+R3tree calls [$0.02]
+** Summary **
+Vldmr963 shows [ Kd, 7s ]
+R3tree mucks [ 5s, Qs ]
+Vldmr963 collected [ $0.17 ]
+
+
+#Game No : 500643665
+***** 888poker Hand History for Game 500643665 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:58:23
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Vldmr963 ( $1.08 )
+Seat 4: R3tree ( $0.85 )
+Vldmr963 posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+Vldmr963 calls [$0.01]
+R3tree raises [$0.04]
+Vldmr963 calls [$0.04]
+** Dealing flop ** [ Qc, Kd, Td ]
+R3tree bets [$0.06]
+Vldmr963 calls [$0.06]
+** Dealing turn ** [ 8h ]
+R3tree bets [$0.12]
+Vldmr963 calls [$0.12]
+** Dealing river ** [ 7s ]
+R3tree bets [$0.24]
+Vldmr963 raises [$0.84]
+R3tree calls [$0.37]
+** Summary **
+Vldmr963 shows [ Kh, 3c ]
+R3tree shows [ 8c, 8s ]
+R3tree collected [ $1.60 ]
+
+
+#Game No : 500643703
+***** 888poker Hand History for Game 500643703 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:59:00
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Vldmr963 ( $0.23 )
+Seat 4: R3tree ( $1.60 )
+R3tree posts small blind [$0.01]
+Vldmr963 posts big blind [$0.02]
+** Dealing down cards **
+R3tree raises [$0.04]
+Vldmr963 calls [$0.03]
+** Dealing flop ** [ Js, 6s, 2d ]
+Vldmr963 checks
+R3tree checks
+** Dealing turn ** [ 6c ]
+Vldmr963 checks
+R3tree checks
+** Dealing river ** [ 5d ]
+Vldmr963 bets [$0.02]
+R3tree calls [$0.02]
+** Summary **
+Vldmr963 shows [ 9h, Kd ]
+R3tree shows [ Ah, 7h ]
+R3tree collected [ $0.14 ]
+
+
+#Game No : 500643740
+***** 888poker Hand History for Game 500643740 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 10:59:38
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Vldmr963 ( $0.95 )
+Seat 4: R3tree ( $1.67 )
+Vldmr963 posts small blind [$0.01]
+R3tree posts big blind [$0.02]
+** Dealing down cards **
+Vldmr963 calls [$0.01]
+R3tree checks
+** Dealing flop ** [ 5c, 4s, Js ]
+R3tree checks
+Vldmr963 checks
+** Dealing turn ** [ Ah ]
+R3tree checks
+Vldmr963 checks
+** Dealing river ** [ Th ]
+R3tree checks
+Vldmr963 checks
+** Summary **
+R3tree shows [ 5d, 9d ]
+Vldmr963 mucks [ 9h, 2c ]
+R3tree collected [ $0.04 ]
+
+
+#Game No : 500644696
+***** 888poker Hand History for Game 500644696 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:14:57
+Table Waterford 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: SpBInvictus ( $1.02 )
+Seat 9: vanweyden100 ( $1.46 )
+SpBInvictus posts small blind [$0.01]
+vanweyden100 posts big blind [$0.02]
+** Dealing down cards **
+SpBInvictus calls [$0.01]
+vanweyden100 checks
+** Dealing flop ** [ 7c, Jd, Kh ]
+vanweyden100 bets [$0.02]
+SpBInvictus calls [$0.02]
+** Dealing turn ** [ 2h ]
+vanweyden100 bets [$0.02]
+SpBInvictus calls [$0.02]
+** Dealing river ** [ Kc ]
+vanweyden100 checks
+SpBInvictus checks
+** Summary **
+vanweyden100 shows [ Kd, 2d ]
+SpBInvictus mucks [ 7h, 5h ]
+vanweyden100 collected [ $0.12 ]
+
+
+#Game No : 500644730
+***** 888poker Hand History for Game 500644730 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:15:28
+Table Waterford 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: SpBInvictus ( $1 )
+Seat 9: vanweyden100 ( $1.52 )
+vanweyden100 posts small blind [$0.01]
+SpBInvictus posts big blind [$0.02]
+** Dealing down cards **
+vanweyden100 calls [$0.01]
+SpBInvictus checks
+** Dealing flop ** [ Jc, Qd, Ad ]
+SpBInvictus checks
+vanweyden100 checks
+** Dealing turn ** [ Kd ]
+SpBInvictus checks
+vanweyden100 bets [$0.04]
+SpBInvictus calls [$0.04]
+** Dealing river ** [ 2h ]
+SpBInvictus checks
+vanweyden100 checks
+** Summary **
+SpBInvictus shows [ Js, 9s ]
+vanweyden100 shows [ 7c, Tc ]
+vanweyden100 collected [ $0.12 ]
+
+
+#Game No : 500644947
+***** 888poker Hand History for Game 500644947 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:18:45
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.95 )
+Seat 4: bernd6464 ( $0.99 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 folds
+** Summary **
+Nonito03 collected [ $0.03 ]
+
+
+#Game No : 500644959
+***** 888poker Hand History for Game 500644959 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:18:50
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.96 )
+Seat 4: bernd6464 ( $0.98 )
+Nonito03 posts small blind [$0.01]
+bernd6464 posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 raises [$0.03]
+bernd6464 calls [$0.02]
+** Dealing flop ** [ 3s, 6h, Ah ]
+bernd6464 checks
+Nonito03 bets [$0.04]
+bernd6464 folds
+** Summary **
+Nonito03 collected [ $0.08 ]
+
+
+#Game No : 500644987
+***** 888poker Hand History for Game 500644987 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:19:13
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1 )
+Seat 4: bernd6464 ( $0.94 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 folds
+** Summary **
+Nonito03 collected [ $0.03 ]
+
+
+#Game No : 500644996
+***** 888poker Hand History for Game 500644996 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:19:18
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.01 )
+Seat 4: bernd6464 ( $0.93 )
+Nonito03 posts small blind [$0.01]
+bernd6464 posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.03 ]
+
+
+#Game No : 500645003
+***** 888poker Hand History for Game 500645003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:19:24
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1 )
+Seat 4: bernd6464 ( $0.94 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 raises [$0.03]
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.04 ]
+
+
+#Game No : 500645009
+***** 888poker Hand History for Game 500645009 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:19:32
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.98 )
+Seat 4: bernd6464 ( $0.96 )
+Nonito03 posts small blind [$0.01]
+bernd6464 posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.03 ]
+
+
+#Game No : 500645019
+***** 888poker Hand History for Game 500645019 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:19:39
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.97 )
+Seat 4: bernd6464 ( $0.97 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 calls [$0.01]
+Nonito03 raises [$0.02]
+bernd6464 folds
+** Summary **
+Nonito03 collected [ $0.04 ]
+
+
+#Game No : 500645029
+***** 888poker Hand History for Game 500645029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:19:51
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.99 )
+Seat 4: bernd6464 ( $0.95 )
+Nonito03 posts small blind [$0.01]
+bernd6464 posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.03 ]
+
+
+#Game No : 500645034
+***** 888poker Hand History for Game 500645034 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:19:58
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.98 )
+Seat 4: bernd6464 ( $0.96 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 calls [$0.01]
+Nonito03 checks
+** Dealing flop ** [ 7h, Jd, 5c ]
+Nonito03 checks
+bernd6464 bets [$0.04]
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.04 ]
+
+
+#Game No : 500645057
+***** 888poker Hand History for Game 500645057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:20:16
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $0.96 )
+Seat 4: bernd6464 ( $0.98 )
+Nonito03 posts small blind [$0.01]
+bernd6464 posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 raises [$0.03]
+bernd6464 folds
+** Summary **
+Nonito03 collected [ $0.04 ]
+
+
+#Game No : 500645310
+***** 888poker Hand History for Game 500645310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:24:27
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.04 )
+Seat 4: bernd6464 ( $0.75 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 raises [$0.05]
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.04 ]
+
+
+#Game No : 500645328
+***** 888poker Hand History for Game 500645328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:24:41
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.02 )
+Seat 4: bernd6464 ( $0.77 )
+Nonito03 posts small blind [$0.01]
+bernd6464 posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 raises [$0.03]
+bernd6464 folds
+** Summary **
+Nonito03 collected [ $0.04 ]
+
+
+#Game No : 500645337
+***** 888poker Hand History for Game 500645337 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:24:49
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.04 )
+Seat 4: bernd6464 ( $0.75 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 calls [$0.01]
+Nonito03 checks
+** Dealing flop ** [ Jc, Qc, 5s ]
+Nonito03 checks
+bernd6464 bets [$0.02]
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.04 ]
+
+
+#Game No : 500645363
+***** 888poker Hand History for Game 500645363 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:25:16
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.02 )
+Seat 4: bernd6464 ( $0.77 )
+Nonito03 posts small blind [$0.01]
+bernd6464 posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.03 ]
+
+
+#Game No : 500645374
+***** 888poker Hand History for Game 500645374 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:25:22
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.01 )
+Seat 4: bernd6464 ( $0.78 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 calls [$0.01]
+Nonito03 checks
+** Dealing flop ** [ Jd, 3c, Tc ]
+Nonito03 checks
+bernd6464 checks
+** Dealing turn ** [ Kh ]
+Nonito03 checks
+bernd6464 checks
+** Dealing river ** [ Jc ]
+Nonito03 bets [$0.02]
+bernd6464 folds
+** Summary **
+Nonito03 collected [ $0.04 ]
+
+
+#Game No : 500645427
+***** 888poker Hand History for Game 500645427 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:26:26
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.03 )
+Seat 4: bernd6464 ( $0.76 )
+Nonito03 posts small blind [$0.01]
+bernd6464 posts big blind [$0.02]
+** Dealing down cards **
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.03 ]
+
+
+#Game No : 500645432
+***** 888poker Hand History for Game 500645432 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:26:32
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.02 )
+Seat 4: bernd6464 ( $0.77 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 calls [$0.01]
+Nonito03 checks
+** Dealing flop ** [ Ac, 2h, 6d ]
+Nonito03 checks
+bernd6464 bets [$0.04]
+Nonito03 folds
+** Summary **
+bernd6464 collected [ $0.04 ]
+
+
+#Game No : 500645833
+***** 888poker Hand History for Game 500645833 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:33:10
+Table Waterford 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.39 )
+Seat 4: bernd6464 ( $0.68 )
+bernd6464 posts small blind [$0.01]
+Nonito03 posts big blind [$0.02]
+** Dealing down cards **
+bernd6464 folds
+** Summary **
+Nonito03 did not show his hand
+Nonito03 collected [ $0.03 ]
+
+
+#Game No : 500645841
+***** 888poker Hand History for Game 500645841 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 08 2018 11:33:18
+Table Waterford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Nonito03 ( $1.40 )
+Seat 4: bernd6464 ( $0.67 )
+Nonito03 posts small blind [$0.01]
+** Dealing down cards **
+bernd6464 folds
+** Summary **
+Nonito03 did not show his hand
+Nonito03 collected [ $0.01 ]
+
+

@@ -1,0 +1,29 @@
+#Game No : 518687258
+***** 888poker Hand History for Game 518687258 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 12 2018 03:59:12
+Table Luton 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: devlin80oc ( $2 )
+Seat 2: NiGht_BlU ( $2 )
+devlin80oc posts small blind [$0.01]
+NiGht_BlU posts big blind [$0.02]
+** Dealing down cards **
+devlin80oc calls [$0.01]
+NiGht_BlU checks
+** Dealing flop ** [ Jh, 2s, 7c ]
+NiGht_BlU checks
+devlin80oc checks
+** Dealing turn ** [ 6h ]
+NiGht_BlU checks
+devlin80oc checks
+** Dealing river ** [ Jd ]
+NiGht_BlU checks
+devlin80oc bets [$0.02]
+NiGht_BlU calls [$0.02]
+** Summary **
+devlin80oc shows [ Td, Qd ]
+NiGht_BlU shows [ Ts, Ah ]
+NiGht_BlU collected [ $0.08 ]
+
+

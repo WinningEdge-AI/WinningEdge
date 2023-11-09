@@ -1,0 +1,67 @@
+#Game No : 1321359476
+***** 888poker Hand History for Game 1321359476 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2020 22:19:41
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Rush1811 ( $0.63 )
+Seat 4: Sabbel100 ( $2.21 )
+Rush1811 posts small blind [$0.01]
+** Dealing down cards **
+Sabbel100 folds
+** Summary **
+Rush1811 collected [ $0.01 ]
+
+
+#Game No : 1321359479
+***** 888poker Hand History for Game 1321359479 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2020 22:19:44
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Rush1811 ( $0.63 )
+Seat 6: family1st777 ( $0.75 )
+Rush1811 posts small blind [$0.01]
+family1st777 posts big blind [$0.02]
+** Dealing down cards **
+Rush1811 raises [$0.03]
+family1st777 calls [$0.02]
+** Dealing flop ** [ 6d, 4d, 3s ]
+family1st777 checks
+Rush1811 bets [$0.04]
+family1st777 calls [$0.04]
+** Dealing turn ** [ As ]
+family1st777 checks
+Rush1811 bets [$0.08]
+family1st777 calls [$0.08]
+** Dealing river ** [ Ks ]
+family1st777 checks
+Rush1811 checks
+** Summary **
+family1st777 shows [ 5c, 6h ]
+Rush1811 mucks [ 8c, 3c ]
+family1st777 collected [ $0.30 ]
+
+
+#Game No : 1321359509
+***** 888poker Hand History for Game 1321359509 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 01 2020 22:20:48
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Rush1811 ( $0.47 )
+Seat 6: family1st777 ( $0.89 )
+family1st777 posts small blind [$0.01]
+Rush1811 posts big blind [$0.02]
+** Dealing down cards **
+family1st777 calls [$0.01]
+Rush1811 checks
+** Dealing flop ** [ Ah, 3h, Tc ]
+Rush1811 checks
+family1st777 bets [$0.06]
+Rush1811 folds
+** Summary **
+family1st777 did not show his hand
+family1st777 collected [ $0.04 ]
+
+

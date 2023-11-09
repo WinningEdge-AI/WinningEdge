@@ -1,0 +1,49 @@
+#Game No : 471049347
+***** 888poker Hand History for Game 471049347 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2019 22:19:56
+Table Oceanside 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Bellew12 ( $5.97 )
+Seat 5: xxflashxxx ( $1.24 )
+Bellew12 posts small blind [$0.01]
+xxflashxxx posts big blind [$0.02]
+** Dealing down cards **
+Bellew12 calls [$0.01]
+xxflashxxx checks
+** Dealing flop ** [ 4c, 2c, 3c ]
+xxflashxxx checks
+Bellew12 bets [$0.02]
+xxflashxxx calls [$0.02]
+** Dealing turn ** [ 2d ]
+xxflashxxx checks
+Bellew12 bets [$0.04]
+xxflashxxx calls [$0.04]
+** Dealing river ** [ 4d ]
+xxflashxxx bets [$0.10]
+Bellew12 folds
+** Summary **
+xxflashxxx collected [ $0.15 ]
+
+
+#Game No : 471049360
+***** 888poker Hand History for Game 471049360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 07 11 2019 22:20:30
+Table Oceanside 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Bellew12 ( $5.89 )
+Seat 5: xxflashxxx ( $1.31 )
+xxflashxxx posts small blind [$0.01]
+Bellew12 posts big blind [$0.02]
+** Dealing down cards **
+xxflashxxx raises [$0.05]
+Bellew12 calls [$0.04]
+** Dealing flop ** [ 2h, Js, Jd ]
+Bellew12 bets [$0.02]
+xxflashxxx raises [$0.12]
+Bellew12 folds
+** Summary **
+xxflashxxx collected [ $0.15 ]
+
+

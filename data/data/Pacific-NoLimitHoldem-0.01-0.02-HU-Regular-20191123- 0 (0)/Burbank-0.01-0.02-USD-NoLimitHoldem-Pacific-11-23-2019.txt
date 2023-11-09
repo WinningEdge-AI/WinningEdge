@@ -1,0 +1,72 @@
+#Game No : 627905804
+***** 888poker Hand History for Game 627905804 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2019 00:25:31
+Table Burbank 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Adpachino ( $2 )
+Seat 6: Mount14 ( $0.79 )
+Mount14 posts small blind [$0.01]
+Adpachino posts big blind [$0.02]
+** Dealing down cards **
+Mount14 raises [$0.03]
+Adpachino calls [$0.02]
+** Dealing flop ** [ 9h, Ad, 3d ]
+Adpachino bets [$0.03]
+Mount14 raises [$0.06]
+Adpachino calls [$0.03]
+** Dealing turn ** [ 2c ]
+Adpachino checks
+Mount14 bets [$0.10]
+Adpachino calls [$0.10]
+** Dealing river ** [ 5d ]
+Adpachino checks
+Mount14 checks
+** Summary **
+Adpachino shows [ 8d, Ah ]
+Mount14 mucks [ As, 7d ]
+Adpachino collected [ $0.38 ]
+
+
+#Game No : 627905818
+***** 888poker Hand History for Game 627905818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2019 00:26:07
+Table Burbank 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Adpachino ( $2.18 )
+Seat 6: Mount14 ( $0.59 )
+Adpachino posts small blind [$0.01]
+Mount14 posts big blind [$0.02]
+** Dealing down cards **
+Adpachino calls [$0.01]
+Mount14 checks
+** Dealing flop ** [ 7d, Tc, 5s ]
+Mount14 checks
+Adpachino checks
+** Dealing turn ** [ 2d ]
+Mount14 checks
+Adpachino checks
+** Dealing river ** [ As ]
+Mount14 bets [$0.08]
+Adpachino folds
+** Summary **
+Mount14 collected [ $0.04 ]
+
+
+#Game No : 627905829
+***** 888poker Hand History for Game 627905829 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2019 00:26:40
+Table Burbank 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Adpachino ( $2.16 )
+Seat 6: Mount14 ( $0.61 )
+Mount14 posts small blind [$0.01]
+Adpachino posts big blind [$0.02]
+** Dealing down cards **
+Mount14 folds
+** Summary **
+Adpachino collected [ $0.03 ]
+
+

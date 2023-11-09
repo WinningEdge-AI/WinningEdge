@@ -1,0 +1,79 @@
+#Game No : 508491598
+***** 888poker Hand History for Game 508491598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 10:07:19
+Table Itabira 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 6: Yuliia1999 ( $3.75 )
+Seat 10: taxibase777 ( $2 )
+taxibase777 posts small blind [$0.01]
+Yuliia1999 posts big blind [$0.02]
+** Dealing down cards **
+taxibase777 calls [$0.01]
+Yuliia1999 checks
+** Dealing flop ** [ Ah, 8h, Ac ]
+Yuliia1999 checks
+taxibase777 bets [$0.04]
+Yuliia1999 calls [$0.04]
+** Dealing turn ** [ 3c ]
+Yuliia1999 checks
+taxibase777 bets [$0.12]
+Yuliia1999 calls [$0.12]
+** Dealing river ** [ Qs ]
+Yuliia1999 bets [$0.30]
+taxibase777 folds
+** Summary **
+Yuliia1999 collected [ $0.34 ]
+
+
+#Game No : 508491694
+***** 888poker Hand History for Game 508491694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 10:09:14
+Table Itabira 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 7: mikhailo1969 ( $2 )
+Seat 10: djgammel ( $0.80 )
+djgammel posts small blind [$0.01]
+mikhailo1969 posts big blind [$0.02]
+** Dealing down cards **
+djgammel calls [$0.01]
+mikhailo1969 checks
+** Dealing flop ** [ 7c, 8s, Qh ]
+mikhailo1969 bets [$0.02]
+djgammel calls [$0.02]
+** Dealing turn ** [ Ts ]
+mikhailo1969 bets [$0.02]
+djgammel calls [$0.02]
+** Dealing river ** [ 2d ]
+mikhailo1969 bets [$0.02]
+djgammel calls [$0.02]
+** Summary **
+mikhailo1969 shows [ 4d, 4c ]
+djgammel shows [ Js, 8d ]
+djgammel collected [ $0.15 ]
+
+
+#Game No : 508491712
+***** 888poker Hand History for Game 508491712 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 10 2018 10:09:36
+Table Itabira 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: mikhailo1969 ( $1.92 )
+Seat 10: djgammel ( $0.87 )
+mikhailo1969 posts small blind [$0.01]
+djgammel posts big blind [$0.02]
+** Dealing down cards **
+mikhailo1969 raises [$0.03]
+djgammel calls [$0.02]
+** Dealing flop ** [ 8d, Qd, 3c ]
+djgammel bets [$0.05]
+mikhailo1969 calls [$0.05]
+** Dealing turn ** [ Qs ]
+djgammel bets [$0.09]
+mikhailo1969 folds
+** Summary **
+djgammel collected [ $0.17 ]
+
+

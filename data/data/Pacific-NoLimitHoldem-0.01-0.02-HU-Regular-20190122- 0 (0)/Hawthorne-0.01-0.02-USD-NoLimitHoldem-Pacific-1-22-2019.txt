@@ -1,0 +1,96 @@
+#Game No : 1241873128
+***** 888poker Hand History for Game 1241873128 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:10:32
+Table Hawthorne 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: icekuma23 ( $2.16 )
+Seat 9: mad_colonel ( $1.76 )
+mad_colonel posts small blind [$0.01]
+icekuma23 posts big blind [$0.02]
+** Dealing down cards **
+mad_colonel folds
+** Summary **
+icekuma23 collected [ $0.03 ]
+
+
+#Game No : 1241873274
+***** 888poker Hand History for Game 1241873274 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:11:17
+Table Hawthorne 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: tomdeng ( $0.80 )
+Seat 2: chad87nep ( $0.80 )
+chad87nep posts small blind [$0.01]
+tomdeng posts big blind [$0.02]
+** Dealing down cards **
+chad87nep calls [$0.01]
+tomdeng checks
+** Dealing flop ** [ 8s, 7h, Td ]
+tomdeng checks
+chad87nep bets [$0.02]
+tomdeng calls [$0.02]
+** Dealing turn ** [ 5c ]
+tomdeng checks
+chad87nep checks
+** Dealing river ** [ Kc ]
+tomdeng checks
+chad87nep checks
+** Summary **
+tomdeng shows [ Js, Qh ]
+chad87nep mucks [ Qs, 2s ]
+tomdeng collected [ $0.08 ]
+
+
+#Game No : 1241873372
+***** 888poker Hand History for Game 1241873372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:11:48
+Table Hawthorne 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: tomdeng ( $0.84 )
+Seat 2: chad87nep ( $0.76 )
+tomdeng posts small blind [$0.01]
+chad87nep posts big blind [$0.02]
+** Dealing down cards **
+tomdeng calls [$0.01]
+chad87nep checks
+** Dealing flop ** [ 6h, Qd, 4c ]
+chad87nep checks
+tomdeng checks
+** Dealing turn ** [ 7s ]
+chad87nep bets [$0.02]
+tomdeng folds
+** Summary **
+chad87nep collected [ $0.04 ]
+
+
+#Game No : 1241873426
+***** 888poker Hand History for Game 1241873426 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 01 2019 15:12:03
+Table Hawthorne 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: tomdeng ( $0.82 )
+Seat 2: chad87nep ( $0.78 )
+chad87nep posts small blind [$0.01]
+tomdeng posts big blind [$0.02]
+** Dealing down cards **
+chad87nep calls [$0.01]
+tomdeng checks
+** Dealing flop ** [ 2h, Jd, Ac ]
+tomdeng checks
+chad87nep checks
+** Dealing turn ** [ 9c ]
+tomdeng checks
+chad87nep checks
+** Dealing river ** [ Kc ]
+tomdeng checks
+chad87nep checks
+** Summary **
+tomdeng shows [ 5s, 6c ]
+chad87nep shows [ 7s, 6s ]
+chad87nep collected [ $0.04 ]
+
+

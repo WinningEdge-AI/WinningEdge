@@ -1,0 +1,387 @@
+#Game No : 524883111
+***** 888poker Hand History for Game 524883111 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 02:01:30
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 4: Ell_Faradey ( $1.23 )
+Seat 5: kmlm73 ( $1.97 )
+kmlm73 posts small blind [$0.01]
+Ell_Faradey posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+Ell_Faradey calls [$0.02]
+** Dealing flop ** [ 4s, 9c, 9d ]
+Ell_Faradey checks
+kmlm73 bets [$0.02]
+Ell_Faradey calls [$0.02]
+** Dealing turn ** [ 5d ]
+Ell_Faradey checks
+kmlm73 checks
+** Dealing river ** [ 2c ]
+Ell_Faradey bets [$0.06]
+kmlm73 folds
+** Summary **
+Ell_Faradey collected [ $0.12 ]
+
+
+#Game No : 524924554
+***** 888poker Hand History for Game 524924554 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:47:49
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: romponate ( $1.96 )
+Seat 7: zdarova8729 ( $2 )
+romponate posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.03 ]
+
+
+#Game No : 524924560
+***** 888poker Hand History for Game 524924560 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:47:58
+Table La Spezia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: romponate ( $1.95 )
+Seat 7: zdarova8729 ( $2.01 )
+zdarova8729 posts small blind [$0.01]
+romponate posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 folds
+** Summary **
+romponate collected [ $0.03 ]
+
+
+#Game No : 524924570
+***** 888poker Hand History for Game 524924570 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:48:04
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: romponate ( $1.96 )
+Seat 7: zdarova8729 ( $2 )
+romponate posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.03 ]
+
+
+#Game No : 524924594
+***** 888poker Hand History for Game 524924594 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:48:20
+Table La Spezia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: romponate ( $1.95 )
+Seat 7: zdarova8729 ( $2.01 )
+zdarova8729 posts small blind [$0.01]
+romponate posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.05]
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.04 ]
+
+
+#Game No : 524924611
+***** 888poker Hand History for Game 524924611 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:48:30
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: romponate ( $1.93 )
+Seat 7: zdarova8729 ( $2.03 )
+romponate posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.03 ]
+
+
+#Game No : 524924633
+***** 888poker Hand History for Game 524924633 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:48:44
+Table La Spezia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: romponate ( $1.92 )
+Seat 7: zdarova8729 ( $2.04 )
+zdarova8729 posts small blind [$0.01]
+romponate posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.03]
+romponate calls [$0.02]
+** Dealing flop ** [ As, 8h, 5d ]
+romponate checks
+zdarova8729 bets [$0.05]
+romponate calls [$0.05]
+** Dealing turn ** [ 7c ]
+romponate checks
+zdarova8729 bets [$0.12]
+romponate calls [$0.12]
+** Dealing river ** [ 3s ]
+romponate checks
+zdarova8729 checks
+** Summary **
+romponate shows [ Ah, Tc ]
+zdarova8729 mucks [ Td, Jc ]
+romponate collected [ $0.40 ]
+
+
+#Game No : 524924681
+***** 888poker Hand History for Game 524924681 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:49:19
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: romponate ( $2.11 )
+Seat 7: zdarova8729 ( $2 )
+romponate posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+romponate calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ 6s, 5s, 4s ]
+zdarova8729 checks
+romponate bets [$0.08]
+zdarova8729 folds
+** Summary **
+romponate collected [ $0.04 ]
+
+
+#Game No : 524924708
+***** 888poker Hand History for Game 524924708 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:49:36
+Table La Spezia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: romponate ( $2.13 )
+Seat 7: zdarova8729 ( $2 )
+zdarova8729 posts small blind [$0.01]
+romponate posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.03]
+romponate calls [$0.02]
+** Dealing flop ** [ Tc, Js, 4h ]
+romponate bets [$0.10]
+zdarova8729 folds
+** Summary **
+romponate collected [ $0.08 ]
+
+
+#Game No : 524924736
+***** 888poker Hand History for Game 524924736 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:49:54
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: romponate ( $2.17 )
+Seat 7: zdarova8729 ( $2 )
+romponate posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+romponate calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ Ah, 2d, Kd ]
+zdarova8729 checks
+romponate checks
+** Dealing turn ** [ 7c ]
+zdarova8729 bets [$0.04]
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.04 ]
+
+
+#Game No : 524924780
+***** 888poker Hand History for Game 524924780 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:50:20
+Table La Spezia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: romponate ( $2.15 )
+Seat 7: zdarova8729 ( $2.02 )
+zdarova8729 posts small blind [$0.01]
+romponate posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.03]
+romponate calls [$0.02]
+** Dealing flop ** [ Ad, Qc, 9s ]
+romponate checks
+zdarova8729 bets [$0.05]
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.08 ]
+
+
+#Game No : 524924823
+***** 888poker Hand History for Game 524924823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:50:50
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: romponate ( $2.11 )
+Seat 7: zdarova8729 ( $2.06 )
+romponate posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+romponate calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ 7h, Kc, 8h ]
+zdarova8729 bets [$0.04]
+romponate calls [$0.04]
+** Dealing turn ** [ 5s ]
+zdarova8729 checks
+romponate checks
+** Dealing river ** [ 4d ]
+zdarova8729 checks
+romponate checks
+** Summary **
+zdarova8729 shows [ 7d, 9d ]
+romponate mucks [ Ac, 9s ]
+zdarova8729 collected [ $0.12 ]
+
+
+#Game No : 524924885
+***** 888poker Hand History for Game 524924885 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:51:42
+Table La Spezia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: romponate ( $2.05 )
+Seat 7: zdarova8729 ( $2.12 )
+zdarova8729 posts small blind [$0.01]
+romponate posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.03]
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.04 ]
+
+
+#Game No : 524924903
+***** 888poker Hand History for Game 524924903 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:51:51
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: romponate ( $2.03 )
+Seat 7: zdarova8729 ( $2.14 )
+romponate posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.03 ]
+
+
+#Game No : 524924919
+***** 888poker Hand History for Game 524924919 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:51:57
+Table La Spezia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: romponate ( $2.02 )
+Seat 7: zdarova8729 ( $2.15 )
+zdarova8729 posts small blind [$0.01]
+romponate posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.03]
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.04 ]
+
+
+#Game No : 524924932
+***** 888poker Hand History for Game 524924932 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:52:05
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: romponate ( $2 )
+Seat 7: zdarova8729 ( $2.17 )
+romponate posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+romponate calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ 5d, Qs, Tc ]
+zdarova8729 bets [$0.04]
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.04 ]
+
+
+#Game No : 524924950
+***** 888poker Hand History for Game 524924950 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:52:20
+Table La Spezia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: romponate ( $1.98 )
+Seat 7: zdarova8729 ( $2.19 )
+zdarova8729 posts small blind [$0.01]
+romponate posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.03]
+romponate calls [$0.02]
+** Dealing flop ** [ Ac, 3h, Jh ]
+romponate checks
+zdarova8729 checks
+** Dealing turn ** [ Ts ]
+romponate checks
+zdarova8729 checks
+** Dealing river ** [ Qs ]
+romponate checks
+zdarova8729 bets [$0.05]
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.08 ]
+
+
+#Game No : 524925004
+***** 888poker Hand History for Game 524925004 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:52:56
+Table La Spezia 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: romponate ( $1.94 )
+Seat 7: zdarova8729 ( $2.23 )
+romponate posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+romponate calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ Ks, Kd, 5d ]
+zdarova8729 bets [$0.04]
+romponate calls [$0.04]
+** Dealing turn ** [ 8h ]
+zdarova8729 bets [$0.06]
+romponate folds
+** Summary **
+zdarova8729 collected [ $0.12 ]
+
+
+#Game No : 524925055
+***** 888poker Hand History for Game 524925055 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 02 2019 12:53:29
+Table La Spezia 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: romponate ( $1.88 )
+Seat 7: zdarova8729 ( $2.29 )
+zdarova8729 posts small blind [$0.01]
+romponate posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 folds
+** Summary **
+romponate collected [ $0.03 ]
+
+

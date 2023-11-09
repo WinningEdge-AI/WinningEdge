@@ -1,0 +1,42 @@
+#Game No : 503328142
+***** 888poker Hand History for Game 503328142 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 10:14:27
+Table Maceio 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: disenman ( $1.02 )
+Seat 9: Canes_CR ( $1.33 )
+disenman posts small blind [$0.01]
+Canes_CR posts big blind [$0.02]
+** Dealing down cards **
+disenman raises [$0.05]
+Canes_CR calls [$0.04]
+** Dealing flop ** [ Ts, 3c, Kh ]
+Canes_CR checks
+disenman bets [$0.08]
+Canes_CR calls [$0.08]
+** Dealing turn ** [ 9c ]
+Canes_CR checks
+disenman bets [$0.18]
+Canes_CR folds
+** Summary **
+disenman did not show his hand
+disenman collected [ $0.27 ]
+
+
+#Game No : 503328169
+***** 888poker Hand History for Game 503328169 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 06 2018 10:14:50
+Table Maceio 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: disenman ( $1.15 )
+Seat 9: Canes_CR ( $1.19 )
+Canes_CR posts small blind [$0.01]
+** Dealing down cards **
+disenman folds
+** Summary **
+Canes_CR did not show his hand
+Canes_CR collected [ $0.01 ]
+
+

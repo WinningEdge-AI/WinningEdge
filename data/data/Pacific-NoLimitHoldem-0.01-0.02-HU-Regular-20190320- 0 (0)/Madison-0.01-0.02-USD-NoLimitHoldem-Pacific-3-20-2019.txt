@@ -1,0 +1,62 @@
+#Game No : 463110379
+***** 888poker Hand History for Game 463110379 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 15:02:35
+Table Madison 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: white0713 ( $0.96 )
+Seat 10: _Doberman_ ( $2.03 )
+white0713 posts small blind [$0.01]
+_Doberman_ posts big blind [$0.02]
+** Dealing down cards **
+white0713 calls [$0.01]
+_Doberman_ checks
+** Dealing flop ** [ Kc, 8d, 6d ]
+_Doberman_ checks
+white0713 checks
+** Dealing turn ** [ Jh ]
+_Doberman_ checks
+white0713 checks
+** Dealing river ** [ Td ]
+_Doberman_ checks
+white0713 checks
+** Summary **
+_Doberman_ shows [ Qs, 5d ]
+white0713 mucks [ 9c, 4h ]
+_Doberman_ collected [ $0.04 ]
+
+
+#Game No : 463110400
+***** 888poker Hand History for Game 463110400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 15:03:11
+Table Madison 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 1: white0713 ( $0.94 )
+Seat 10: _Doberman_ ( $2.05 )
+_Doberman_ posts small blind [$0.01]
+white0713 posts big blind [$0.02]
+** Dealing down cards **
+_Doberman_ raises [$0.05]
+white0713 folds
+** Summary **
+_Doberman_ did not show his hand
+_Doberman_ collected [ $0.04 ]
+
+
+#Game No : 463110405
+***** 888poker Hand History for Game 463110405 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 20 03 2019 15:03:20
+Table Madison 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: white0713 ( $0.92 )
+Seat 10: _Doberman_ ( $2.07 )
+white0713 posts small blind [$0.01]
+** Dealing down cards **
+_Doberman_ folds
+** Summary **
+white0713 did not show his hand
+white0713 collected [ $0.01 ]
+
+

@@ -1,0 +1,73 @@
+#Game No : 505353529
+***** 888poker Hand History for Game 505353529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 21:03:22
+Table Balakovo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: PHREEKLTD ( $0.94 )
+Seat 7: sisu888 ( $0.63 )
+PHREEKLTD posts small blind [$0.01]
+sisu888 posts big blind [$0.02]
+** Dealing down cards **
+PHREEKLTD calls [$0.01]
+sisu888 checks
+** Dealing flop ** [ 8c, 4d, 3h ]
+sisu888 checks
+PHREEKLTD checks
+** Dealing turn ** [ 8h ]
+sisu888 checks
+PHREEKLTD checks
+** Dealing river ** [ 3s ]
+sisu888 checks
+PHREEKLTD checks
+** Summary **
+sisu888 shows [ Tc, 9d ]
+PHREEKLTD shows [ Th, 6d ]
+sisu888 collected [ $0.02 ]
+PHREEKLTD collected [ $0.02 ]
+
+
+#Game No : 505353537
+***** 888poker Hand History for Game 505353537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 21:03:45
+Table Balakovo 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: PHREEKLTD ( $0.94 )
+Seat 7: sisu888 ( $0.63 )
+sisu888 posts small blind [$0.01]
+PHREEKLTD posts big blind [$0.02]
+** Dealing down cards **
+sisu888 folds
+** Summary **
+PHREEKLTD collected [ $0.03 ]
+
+
+#Game No : 505353544
+***** 888poker Hand History for Game 505353544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 11 2018 21:04:01
+Table Balakovo 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: KK_TIOMEHb ( $0.71 )
+Seat 6: PHREEKLTD ( $0.95 )
+PHREEKLTD posts small blind [$0.01]
+KK_TIOMEHb posts big blind [$0.02]
+** Dealing down cards **
+PHREEKLTD calls [$0.01]
+KK_TIOMEHb checks
+** Dealing flop ** [ Th, 5c, 7d ]
+KK_TIOMEHb checks
+PHREEKLTD checks
+** Dealing turn ** [ 4d ]
+KK_TIOMEHb checks
+PHREEKLTD checks
+** Dealing river ** [ 8d ]
+KK_TIOMEHb checks
+PHREEKLTD checks
+** Summary **
+KK_TIOMEHb shows [ 4h, 3d ]
+PHREEKLTD mucks [ Kc, 2h ]
+KK_TIOMEHb collected [ $0.04 ]
+
+

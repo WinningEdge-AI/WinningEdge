@@ -1,0 +1,364 @@
+#Game No : 504377006
+***** 888poker Hand History for Game 504377006 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:36:58
+Table Chiang Mai 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: mikhailo1969 ( $2 )
+Seat 2: TeqSam1 ( $2 )
+TeqSam1 posts small blind [$0.01]
+mikhailo1969 posts big blind [$0.02]
+** Dealing down cards **
+TeqSam1 calls [$0.01]
+mikhailo1969 checks
+** Dealing flop ** [ 2s, 5h, 7s ]
+mikhailo1969 bets [$0.02]
+TeqSam1 calls [$0.02]
+** Dealing turn ** [ Jh ]
+mikhailo1969 checks
+TeqSam1 bets [$0.02]
+mikhailo1969 calls [$0.02]
+** Dealing river ** [ Td ]
+mikhailo1969 checks
+TeqSam1 bets [$0.04]
+mikhailo1969 folds
+** Summary **
+TeqSam1 did not show his hand
+TeqSam1 collected [ $0.12 ]
+
+
+#Game No : 504377045
+***** 888poker Hand History for Game 504377045 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:37:23
+Table Chiang Mai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mikhailo1969 ( $1.94 )
+Seat 2: TeqSam1 ( $2.06 )
+mikhailo1969 posts small blind [$0.01]
+TeqSam1 posts big blind [$0.02]
+** Dealing down cards **
+mikhailo1969 calls [$0.01]
+TeqSam1 checks
+** Dealing flop ** [ Ac, 2h, 5h ]
+TeqSam1 checks
+mikhailo1969 checks
+** Dealing turn ** [ Ad ]
+TeqSam1 checks
+mikhailo1969 checks
+** Dealing river ** [ 2d ]
+TeqSam1 bets [$0.02]
+mikhailo1969 calls [$0.02]
+** Summary **
+TeqSam1 shows [ 8s, Js ]
+mikhailo1969 mucks [ 8d, 9c ]
+TeqSam1 collected [ $0.08 ]
+
+
+#Game No : 504377076
+***** 888poker Hand History for Game 504377076 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:37:43
+Table Chiang Mai 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: mikhailo1969 ( $1.90 )
+Seat 2: TeqSam1 ( $2.10 )
+TeqSam1 posts small blind [$0.01]
+mikhailo1969 posts big blind [$0.02]
+** Dealing down cards **
+TeqSam1 calls [$0.01]
+mikhailo1969 checks
+** Dealing flop ** [ 6s, 7s, 4d ]
+mikhailo1969 bets [$0.02]
+TeqSam1 raises [$0.04]
+mikhailo1969 raises [$0.04]
+TeqSam1 raises [$0.04]
+mikhailo1969 raises [$0.04]
+TeqSam1 raises [$0.12]
+mikhailo1969 calls [$0.10]
+** Dealing turn ** [ 9h ]
+mikhailo1969 checks
+TeqSam1 bets [$0.44]
+mikhailo1969 calls [$0.44]
+** Dealing river ** [ Qc ]
+mikhailo1969 checks
+TeqSam1 bets [$0.22]
+mikhailo1969 calls [$0.22]
+** Summary **
+TeqSam1 shows [ 6d, 4c ]
+mikhailo1969 mucks [ 4s, 8s ]
+TeqSam1 collected [ $1.65 ]
+
+
+#Game No : 504377143
+***** 888poker Hand History for Game 504377143 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:38:30
+Table Chiang Mai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mikhailo1969 ( $1.02 )
+Seat 2: TeqSam1 ( $2.87 )
+mikhailo1969 posts small blind [$0.01]
+TeqSam1 posts big blind [$0.02]
+** Dealing down cards **
+mikhailo1969 raises [$0.03]
+TeqSam1 calls [$0.02]
+** Dealing flop ** [ 7d, Qh, 3h ]
+TeqSam1 bets [$0.02]
+mikhailo1969 raises [$0.08]
+TeqSam1 folds
+** Summary **
+mikhailo1969 did not show his hand
+mikhailo1969 collected [ $0.12 ]
+
+
+#Game No : 504378603
+***** 888poker Hand History for Game 504378603 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:53:16
+Table Chiang Mai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.35 )
+Seat 5: LexLev ( $2.36 )
+Chuh_Chuh posts small blind [$0.01]
+LexLev posts big blind [$0.02]
+** Dealing down cards **
+Chuh_Chuh calls [$0.01]
+LexLev checks
+** Dealing flop ** [ 4c, 3c, 4d ]
+LexLev checks
+Chuh_Chuh checks
+** Dealing turn ** [ 6s ]
+LexLev bets [$0.02]
+Chuh_Chuh folds
+** Summary **
+LexLev did not show his hand
+LexLev collected [ $0.04 ]
+
+
+#Game No : 504378636
+***** 888poker Hand History for Game 504378636 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:53:37
+Table Chiang Mai 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.33 )
+Seat 5: LexLev ( $2.38 )
+LexLev posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+LexLev raises [$0.03]
+Chuh_Chuh calls [$0.02]
+** Dealing flop ** [ Ts, 7c, 4h ]
+Chuh_Chuh checks
+LexLev bets [$0.04]
+Chuh_Chuh calls [$0.04]
+** Dealing turn ** [ Tc ]
+Chuh_Chuh checks
+LexLev bets [$0.08]
+Chuh_Chuh folds
+** Summary **
+LexLev did not show his hand
+LexLev collected [ $0.15 ]
+
+
+#Game No : 504378675
+***** 888poker Hand History for Game 504378675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:53:57
+Table Chiang Mai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.25 )
+Seat 5: LexLev ( $2.45 )
+Chuh_Chuh posts small blind [$0.01]
+LexLev posts big blind [$0.02]
+** Dealing down cards **
+Chuh_Chuh raises [$0.03]
+LexLev folds
+** Summary **
+Chuh_Chuh collected [ $0.04 ]
+
+
+#Game No : 504378782
+***** 888poker Hand History for Game 504378782 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:55:10
+Table Chiang Mai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.27 )
+Seat 4: 18lucky88 ( $1.80 )
+Chuh_Chuh posts small blind [$0.01]
+18lucky88 posts big blind [$0.02]
+** Dealing down cards **
+Chuh_Chuh folds
+** Summary **
+18lucky88 did not show his hand
+18lucky88 collected [ $0.03 ]
+
+
+#Game No : 504378798
+***** 888poker Hand History for Game 504378798 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:55:19
+Table Chiang Mai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.26 )
+Seat 4: 18lucky88 ( $1.81 )
+18lucky88 posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+18lucky88 folds
+** Summary **
+Chuh_Chuh did not show his hand
+Chuh_Chuh collected [ $0.03 ]
+
+
+#Game No : 504378811
+***** 888poker Hand History for Game 504378811 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:55:27
+Table Chiang Mai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.27 )
+Seat 4: 18lucky88 ( $1.80 )
+Chuh_Chuh posts small blind [$0.01]
+18lucky88 posts big blind [$0.02]
+** Dealing down cards **
+Chuh_Chuh calls [$0.01]
+18lucky88 checks
+** Dealing flop ** [ 9s, 2d, Jh ]
+18lucky88 checks
+Chuh_Chuh checks
+** Dealing turn ** [ 3s ]
+18lucky88 checks
+Chuh_Chuh checks
+** Dealing river ** [ 3h ]
+18lucky88 bets [$0.12]
+Chuh_Chuh folds
+** Summary **
+18lucky88 collected [ $0.04 ]
+
+
+#Game No : 504378848
+***** 888poker Hand History for Game 504378848 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:55:54
+Table Chiang Mai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.25 )
+Seat 4: 18lucky88 ( $1.82 )
+18lucky88 posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+18lucky88 raises [$0.03]
+Chuh_Chuh folds
+** Summary **
+18lucky88 collected [ $0.04 ]
+
+
+#Game No : 504379103
+***** 888poker Hand History for Game 504379103 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:58:55
+Table Chiang Mai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.26 )
+Seat 6: kams87 ( $0.80 )
+kams87 posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+kams87 calls [$0.01]
+Chuh_Chuh checks
+** Dealing flop ** [ 3s, Ad, 5d ]
+Chuh_Chuh checks
+kams87 checks
+** Dealing turn ** [ 6c ]
+Chuh_Chuh checks
+kams87 checks
+** Dealing river ** [ Qc ]
+Chuh_Chuh checks
+kams87 checks
+** Summary **
+Chuh_Chuh shows [ Th, Jh ]
+kams87 shows [ Kh, 4d ]
+kams87 collected [ $0.04 ]
+
+
+#Game No : 504379152
+***** 888poker Hand History for Game 504379152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:59:28
+Table Chiang Mai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.24 )
+Seat 6: kams87 ( $0.82 )
+Chuh_Chuh posts small blind [$0.01]
+kams87 posts big blind [$0.02]
+** Dealing down cards **
+Chuh_Chuh folds
+** Summary **
+kams87 collected [ $0.03 ]
+
+
+#Game No : 504379163
+***** 888poker Hand History for Game 504379163 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 10:59:37
+Table Chiang Mai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 3: Chuh_Chuh ( $3.23 )
+Seat 6: kams87 ( $0.83 )
+kams87 posts small blind [$0.01]
+Chuh_Chuh posts big blind [$0.02]
+** Dealing down cards **
+kams87 calls [$0.01]
+Chuh_Chuh checks
+** Dealing flop ** [ Ks, Kc, 2s ]
+Chuh_Chuh checks
+kams87 checks
+** Dealing turn ** [ 8s ]
+Chuh_Chuh checks
+kams87 checks
+** Dealing river ** [ 8c ]
+Chuh_Chuh checks
+kams87 checks
+** Summary **
+Chuh_Chuh shows [ 5h, 6d ]
+kams87 shows [ 9h, Th ]
+kams87 collected [ $0.04 ]
+
+
+#Game No : 504405840
+***** 888poker Hand History for Game 504405840 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 15:36:05
+Table Chiang Mai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: vietteze ( $2 )
+Seat 9: Winraise ( $1.15 )
+vietteze posts small blind [$0.01]
+Winraise posts big blind [$0.02]
+** Dealing down cards **
+vietteze folds
+** Summary **
+Winraise collected [ $0.03 ]
+
+
+#Game No : 504405849
+***** 888poker Hand History for Game 504405849 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 06 2018 15:36:10
+Table Chiang Mai 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: vietteze ( $2 )
+Seat 9: Winraise ( $1.16 )
+Winraise posts small blind [$0.01]
+vietteze posts big blind [$0.02]
+** Dealing down cards **
+Winraise raises [$0.03]
+vietteze folds
+** Summary **
+Winraise did not show his hand
+Winraise collected [ $0.04 ]
+
+

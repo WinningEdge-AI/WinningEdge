@@ -1,0 +1,123 @@
+#Game No : 509627065
+***** 888poker Hand History for Game 509627065 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 03:01:29
+Table Koblenz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bingo787 ( $1.86 )
+Seat 6: t.jenks ( $3.73 )
+Bingo787 posts small blind [$0.01]
+t.jenks posts big blind [$0.02]
+** Dealing down cards **
+Bingo787 raises [$0.03]
+t.jenks calls [$0.02]
+** Dealing flop ** [ 4d, 9c, 5c ]
+t.jenks checks
+Bingo787 bets [$0.04]
+t.jenks folds
+** Summary **
+Bingo787 collected [ $0.08 ]
+
+
+#Game No : 509627071
+***** 888poker Hand History for Game 509627071 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 03:01:44
+Table Koblenz 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Bingo787 ( $1.90 )
+Seat 6: t.jenks ( $3.69 )
+t.jenks posts small blind [$0.01]
+Bingo787 posts big blind [$0.02]
+** Dealing down cards **
+t.jenks calls [$0.01]
+Bingo787 checks
+** Dealing flop ** [ 5c, 6s, Kh ]
+Bingo787 checks
+t.jenks checks
+** Dealing turn ** [ 5h ]
+Bingo787 checks
+t.jenks checks
+** Dealing river ** [ 6c ]
+Bingo787 checks
+t.jenks checks
+** Summary **
+Bingo787 shows [ Th, 8c ]
+t.jenks shows [ 7h, 3s ]
+t.jenks collected [ $0.02 ]
+Bingo787 collected [ $0.02 ]
+
+
+#Game No : 509628672
+***** 888poker Hand History for Game 509628672 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 04:08:59
+Table Koblenz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bingo787 ( $2.58 )
+Seat 4: Obito111 ( $1.22 )
+Obito111 posts small blind [$0.01]
+Bingo787 posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+Bingo787 raises [$0.16]
+Obito111 folds
+** Summary **
+Bingo787 did not show his hand
+Bingo787 collected [ $0.12 ]
+
+
+#Game No : 509628676
+***** 888poker Hand History for Game 509628676 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 04:09:14
+Table Koblenz 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Bingo787 ( $2.64 )
+Seat 4: Obito111 ( $1.16 )
+Bingo787 posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+Bingo787 raises [$0.05]
+Obito111 raises [$0.16]
+Bingo787 calls [$0.12]
+** Dealing flop ** [ Kc, 7s, Kh ]
+Obito111 bets [$0.12]
+Bingo787 calls [$0.12]
+** Dealing turn ** [ 9s ]
+Obito111 checks
+Bingo787 checks
+** Dealing river ** [ 4d ]
+Obito111 checks
+Bingo787 checks
+** Summary **
+Obito111 shows [ 2c, 5s ]
+Bingo787 shows [ Ad, 9c ]
+Bingo787 collected [ $0.57 ]
+
+
+#Game No : 509628694
+***** 888poker Hand History for Game 509628694 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 11 2018 04:09:52
+Table Koblenz 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Bingo787 ( $2.91 )
+Seat 4: Obito111 ( $1 )
+Obito111 posts small blind [$0.01]
+Bingo787 posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.05]
+Bingo787 calls [$0.04]
+** Dealing flop ** [ 6d, 6c, 5h ]
+Bingo787 checks
+Obito111 bets [$0.04]
+Bingo787 calls [$0.04]
+** Dealing turn ** [ 3c ]
+Bingo787 checks
+Obito111 bets [$0.13]
+Bingo787 folds
+** Summary **
+Obito111 collected [ $0.19 ]
+
+

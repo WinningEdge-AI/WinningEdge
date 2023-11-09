@@ -1,0 +1,59 @@
+#Game No : 525041465
+***** 888poker Hand History for Game 525041465 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 02 2019 20:37:25
+Table Geelong 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: stickmenmed ( $2 )
+Seat 4: ubushka008 ( $0.82 )
+ubushka008 posts small blind [$0.01]
+stickmenmed posts big blind [$0.02]
+** Dealing down cards **
+ubushka008 calls [$0.01]
+stickmenmed checks
+** Dealing flop ** [ 8s, 7c, 7s ]
+stickmenmed checks
+ubushka008 checks
+** Dealing turn ** [ 9c ]
+stickmenmed bets [$0.02]
+ubushka008 calls [$0.02]
+** Dealing river ** [ 7h ]
+stickmenmed bets [$0.02]
+ubushka008 calls [$0.02]
+** Summary **
+stickmenmed shows [ 5s, Qs ]
+ubushka008 shows [ 4s, Kh ]
+ubushka008 collected [ $0.12 ]
+
+
+#Game No : 525078149
+***** 888poker Hand History for Game 525078149 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2019 09:03:56
+Table Geelong 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: kolmaa ( $0.85 )
+Seat 7: iurru64 ( $2.01 )
+kolmaa posts small blind [$0.01]
+iurru64 posts big blind [$0.02]
+** Dealing down cards **
+kolmaa folds
+** Summary **
+iurru64 collected [ $0.03 ]
+
+
+#Game No : 525078157
+***** 888poker Hand History for Game 525078157 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 02 2019 09:04:01
+Table Geelong 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 2: kolmaa ( $0.84 )
+Seat 7: iurru64 ( $2.02 )
+iurru64 posts small blind [$0.01]
+** Dealing down cards **
+kolmaa folds
+** Summary **
+iurru64 collected [ $0.01 ]
+
+

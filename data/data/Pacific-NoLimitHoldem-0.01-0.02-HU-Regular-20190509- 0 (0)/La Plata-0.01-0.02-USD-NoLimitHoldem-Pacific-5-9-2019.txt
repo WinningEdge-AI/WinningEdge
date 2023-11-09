@@ -1,0 +1,46 @@
+#Game No : 619702863
+***** 888poker Hand History for Game 619702863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 04:29:23
+Table La Plata 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Sherlok1295 ( $2 )
+Seat 2: Omnifluff ( $2.40 )
+Omnifluff posts small blind [$0.01]
+** Dealing down cards **
+Sherlok1295 folds
+** Summary **
+Omnifluff collected [ $0.01 ]
+
+
+#Game No : 619702864
+***** 888poker Hand History for Game 619702864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 05 2019 04:29:26
+Table La Plata 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Omnifluff ( $2.40 )
+Seat 7: marcelo54321 ( $0.80 )
+Omnifluff posts small blind [$0.01]
+marcelo54321 posts big blind [$0.02]
+** Dealing down cards **
+Omnifluff raises [$0.03]
+marcelo54321 calls [$0.02]
+** Dealing flop ** [ Kh, 2c, 5s ]
+marcelo54321 checks
+Omnifluff bets [$0.06]
+marcelo54321 calls [$0.06]
+** Dealing turn ** [ 2s ]
+marcelo54321 checks
+Omnifluff checks
+** Dealing river ** [ 4d ]
+marcelo54321 checks
+Omnifluff bets [$0.10]
+marcelo54321 raises [$0.70]
+Omnifluff calls [$0.60]
+** Summary **
+Omnifluff shows [ 2h, Tc ]
+marcelo54321 shows [ Kc, 2d ]
+marcelo54321 collected [ $1.50 ]
+
+

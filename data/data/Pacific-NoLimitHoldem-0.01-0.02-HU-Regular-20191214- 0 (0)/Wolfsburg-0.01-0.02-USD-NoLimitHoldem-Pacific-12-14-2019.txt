@@ -1,0 +1,139 @@
+#Game No : 1316700141
+***** 888poker Hand History for Game 1316700141 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2019 22:15:23
+Table Wolfsburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Mi02lo02 ( $2 )
+Seat 9: sanion ( $2.01 )
+sanion posts small blind [$0.01]
+** Dealing down cards **
+Mi02lo02 folds
+** Summary **
+sanion collected [ $0.01 ]
+
+
+#Game No : 1316700147
+***** 888poker Hand History for Game 1316700147 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2019 22:15:26
+Table Wolfsburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $2.59 )
+Seat 9: sanion ( $2.01 )
+sanion posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+sanion raises [$0.03]
+yrik222 calls [$0.02]
+** Dealing flop ** [ 7d, 6s, 5d ]
+yrik222 checks
+sanion bets [$0.05]
+yrik222 calls [$0.05]
+** Dealing turn ** [ 3h ]
+yrik222 checks
+sanion checks
+** Dealing river ** [ Qc ]
+yrik222 checks
+sanion checks
+** Summary **
+yrik222 shows [ 7s, Qs ]
+sanion mucks [ 9d, 9s ]
+yrik222 collected [ $0.17 ]
+
+
+#Game No : 1316700226
+***** 888poker Hand History for Game 1316700226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2019 22:16:08
+Table Wolfsburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $2.67 )
+Seat 9: sanion ( $2 )
+yrik222 posts small blind [$0.01]
+sanion posts big blind [$0.02]
+** Dealing down cards **
+yrik222 raises [$0.05]
+sanion folds
+** Summary **
+yrik222 collected [ $0.04 ]
+
+
+#Game No : 1316700236
+***** 888poker Hand History for Game 1316700236 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2019 22:16:15
+Table Wolfsburg 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $2.69 )
+Seat 9: sanion ( $2 )
+sanion posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+sanion folds
+** Summary **
+yrik222 collected [ $0.03 ]
+
+
+#Game No : 1316700250
+***** 888poker Hand History for Game 1316700250 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2019 22:16:22
+Table Wolfsburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $2.70 )
+Seat 9: sanion ( $2 )
+yrik222 posts small blind [$0.01]
+** Dealing down cards **
+sanion folds
+** Summary **
+yrik222 collected [ $0.01 ]
+
+
+#Game No : 1316700453
+***** 888poker Hand History for Game 1316700453 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2019 22:18:05
+Table Wolfsburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: yrik222 ( $2.70 )
+Seat 6: JS888FU ( $2 )
+yrik222 posts small blind [$0.01]
+JS888FU posts big blind [$0.02]
+** Dealing down cards **
+yrik222 folds
+** Summary **
+JS888FU did not show his hand
+JS888FU collected [ $0.03 ]
+
+
+#Game No : 1316701204
+***** 888poker Hand History for Game 1316701204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 12 2019 22:24:07
+Table Wolfsburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: anyace111 ( $0.72 )
+Seat 9: Mi02lo02 ( $2.27 )
+anyace111 posts small blind [$0.01]
+Mi02lo02 posts big blind [$0.02]
+** Dealing down cards **
+anyace111 calls [$0.01]
+Mi02lo02 raises [$0.06]
+anyace111 calls [$0.06]
+** Dealing flop ** [ Kd, Ah, Td ]
+Mi02lo02 bets [$0.12]
+anyace111 raises [$0.24]
+Mi02lo02 raises [$0.24]
+anyace111 calls [$0.12]
+** Dealing turn ** [ Ts ]
+Mi02lo02 checks
+anyace111 bets [$0.28]
+Mi02lo02 calls [$0.28]
+** Dealing river ** [ 9d ]
+** Summary **
+anyace111 shows [ 3s, Ad ]
+Mi02lo02 shows [ Kc, Kh ]
+Mi02lo02 collected [ $1.35 ]
+
+

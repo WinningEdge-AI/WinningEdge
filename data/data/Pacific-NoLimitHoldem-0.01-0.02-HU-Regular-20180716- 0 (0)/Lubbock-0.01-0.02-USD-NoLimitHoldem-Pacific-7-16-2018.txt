@@ -1,0 +1,86 @@
+#Game No : 506097615
+***** 888poker Hand History for Game 506097615 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 10:26:54
+Table Lubbock 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.95 )
+Seat 2: Gymdose ( $1.12 )
+avramia1 posts small blind [$0.01]
+Gymdose posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+Gymdose calls [$0.02]
+** Dealing flop ** [ Kh, 6h, 5h ]
+Gymdose checks
+avramia1 bets [$0.02]
+Gymdose folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.08 ]
+
+
+#Game No : 506097641
+***** 888poker Hand History for Game 506097641 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 10:26:58
+Table Lubbock 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.99 )
+Seat 2: Gymdose ( $1.08 )
+Gymdose posts small blind [$0.01]
+avramia1 posts big blind [$0.02]
+** Dealing down cards **
+Gymdose raises [$0.05]
+avramia1 folds
+** Summary **
+Gymdose did not show his hand
+Gymdose collected [ $0.04 ]
+
+
+#Game No : 506097651
+***** 888poker Hand History for Game 506097651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 10:27:05
+Table Lubbock 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: avramia1 ( $1.97 )
+Seat 2: Gymdose ( $1.10 )
+avramia1 posts small blind [$0.01]
+Gymdose posts big blind [$0.02]
+** Dealing down cards **
+avramia1 raises [$0.03]
+Gymdose folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ $0.04 ]
+
+
+#Game No : 506098310
+***** 888poker Hand History for Game 506098310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 16 07 2018 10:36:59
+Table Lubbock 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: Vladimir_Pv ( $0.74 )
+Seat 3: GoldArra ( $2.05 )
+GoldArra posts small blind [$0.01]
+Vladimir_Pv posts big blind [$0.02]
+** Dealing down cards **
+GoldArra calls [$0.01]
+Vladimir_Pv checks
+** Dealing flop ** [ 9c, Ks, 3c ]
+Vladimir_Pv checks
+GoldArra checks
+** Dealing turn ** [ 7h ]
+Vladimir_Pv checks
+GoldArra checks
+** Dealing river ** [ 4c ]
+Vladimir_Pv checks
+GoldArra checks
+** Summary **
+Vladimir_Pv shows [ Ad, 2h ]
+GoldArra shows [ 5c, Ah ]
+GoldArra collected [ $0.04 ]
+
+

@@ -1,0 +1,132 @@
+#Game No : 524134131
+***** 888poker Hand History for Game 524134131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 02 2019 02:10:21
+Table Arezzo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Andibar7 ( $1.01 )
+Seat 2: JimmyCopley ( $1.97 )
+JimmyCopley posts small blind [$0.01]
+Andibar7 posts big blind [$0.02]
+** Dealing down cards **
+JimmyCopley calls [$0.01]
+Andibar7 checks
+** Dealing flop ** [ Kd, Jh, 4c ]
+Andibar7 bets [$0.02]
+JimmyCopley raises [$0.04]
+Andibar7 calls [$0.02]
+** Dealing turn ** [ 5s ]
+Andibar7 bets [$0.02]
+JimmyCopley raises [$0.04]
+Andibar7 calls [$0.02]
+** Dealing river ** [ Ah ]
+Andibar7 bets [$0.04]
+JimmyCopley raises [$0.18]
+Andibar7 calls [$0.14]
+** Summary **
+JimmyCopley shows [ Ks, 8d ]
+Andibar7 mucks [ Js, 9d ]
+JimmyCopley collected [ $0.53 ]
+
+
+#Game No : 524134367
+***** 888poker Hand History for Game 524134367 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 02 2019 02:16:24
+Table Arezzo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: JimmyCopley ( $2.95 )
+Seat 5: m1o1n1e1y ( $0.80 )
+m1o1n1e1y posts small blind [$0.01]
+JimmyCopley posts big blind [$0.02]
+** Dealing down cards **
+m1o1n1e1y raises [$0.05]
+JimmyCopley folds
+** Summary **
+m1o1n1e1y collected [ $0.04 ]
+
+
+#Game No : 524164779
+***** 888poker Hand History for Game 524164779 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 02 2019 10:40:17
+Table Arezzo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Fil130907 ( $0.58 )
+Seat 5: mihail7100 ( $3.66 )
+mihail7100 posts small blind [$0.01]
+Fil130907 posts big blind [$0.02]
+** Dealing down cards **
+mihail7100 folds
+** Summary **
+Fil130907 collected [ $0.03 ]
+
+
+#Game No : 524164787
+***** 888poker Hand History for Game 524164787 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 02 2019 10:40:22
+Table Arezzo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Fil130907 ( $0.59 )
+Seat 5: mihail7100 ( $3.65 )
+Fil130907 posts small blind [$0.01]
+mihail7100 posts big blind [$0.02]
+** Dealing down cards **
+Fil130907 raises [$0.03]
+mihail7100 calls [$0.02]
+** Dealing flop ** [ 3h, 8d, Qc ]
+mihail7100 checks
+Fil130907 bets [$0.04]
+mihail7100 folds
+** Summary **
+Fil130907 did not show his hand
+Fil130907 collected [ $0.08 ]
+
+
+#Game No : 524164808
+***** 888poker Hand History for Game 524164808 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 02 2019 10:40:35
+Table Arezzo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Fil130907 ( $0.63 )
+Seat 5: mihail7100 ( $3.61 )
+mihail7100 posts small blind [$0.01]
+Fil130907 posts big blind [$0.02]
+** Dealing down cards **
+mihail7100 calls [$0.01]
+Fil130907 checks
+** Dealing flop ** [ 8d, Ks, Tc ]
+Fil130907 bets [$0.02]
+mihail7100 folds
+** Summary **
+Fil130907 did not show his hand
+Fil130907 collected [ $0.04 ]
+
+
+#Game No : 524164823
+***** 888poker Hand History for Game 524164823 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 02 2019 10:40:47
+Table Arezzo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Fil130907 ( $0.65 )
+Seat 5: mihail7100 ( $3.59 )
+Fil130907 posts small blind [$0.01]
+mihail7100 posts big blind [$0.02]
+** Dealing down cards **
+Fil130907 raises [$0.03]
+mihail7100 calls [$0.02]
+** Dealing flop ** [ 5s, 8h, 7d ]
+mihail7100 checks
+Fil130907 bets [$0.04]
+mihail7100 calls [$0.04]
+** Dealing turn ** [ 2h ]
+mihail7100 checks
+Fil130907 bets [$0.06]
+mihail7100 folds
+** Summary **
+Fil130907 collected [ $0.15 ]
+
+

@@ -1,0 +1,28 @@
+#Game No : 521190949
+***** 888poker Hand History for Game 521190949 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 01 2019 00:07:47
+Table Tolyatti 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Folder119 ( $0.86 )
+Seat 7: Neatblitz ( $1.52 )
+Folder119 posts small blind [$0.01]
+Neatblitz posts big blind [$0.02]
+** Dealing down cards **
+Folder119 calls [$0.01]
+Neatblitz checks
+** Dealing flop ** [ Js, Th, 6d ]
+Neatblitz checks
+Folder119 checks
+** Dealing turn ** [ Qc ]
+Neatblitz bets [$0.02]
+Folder119 calls [$0.02]
+** Dealing river ** [ 4s ]
+Neatblitz checks
+Folder119 checks
+** Summary **
+Neatblitz shows [ 6h, 2h ]
+Folder119 mucks [ 5d, Ks ]
+Neatblitz collected [ $0.08 ]
+
+

@@ -1,0 +1,67 @@
+#Game No : 1255629372
+***** 888poker Hand History for Game 1255629372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 18:24:52
+Table Prato 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Zzerrda ( $1 )
+Seat 7: jchen210 ( $1.16 )
+jchen210 posts small blind [$0.01]
+Zzerrda posts big blind [$0.02]
+** Dealing down cards **
+jchen210 raises [$0.05]
+Zzerrda raises [$0.08]
+jchen210 calls [$0.04]
+** Dealing flop ** [ 8s, 4s, Ad ]
+Zzerrda bets [$0.20]
+jchen210 folds
+** Summary **
+Zzerrda did not show his hand
+Zzerrda collected [ $0.19 ]
+
+
+#Game No : 1255629429
+***** 888poker Hand History for Game 1255629429 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 18:25:25
+Table Prato 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Zzerrda ( $1.09 )
+Seat 7: jchen210 ( $1.06 )
+Zzerrda posts small blind [$0.01]
+jchen210 posts big blind [$0.02]
+** Dealing down cards **
+Zzerrda folds
+** Summary **
+jchen210 did not show his hand
+jchen210 collected [ $0.03 ]
+
+
+#Game No : 1255629483
+***** 888poker Hand History for Game 1255629483 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 18:25:51
+Table Prato 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Zzerrda ( $1.08 )
+Seat 7: jchen210 ( $1.07 )
+jchen210 posts small blind [$0.01]
+Zzerrda posts big blind [$0.02]
+** Dealing down cards **
+jchen210 raises [$0.05]
+Zzerrda calls [$0.04]
+** Dealing flop ** [ Kd, 3s, Js ]
+Zzerrda checks
+jchen210 checks
+** Dealing turn ** [ Qh ]
+Zzerrda checks
+jchen210 bets [$0.08]
+Zzerrda raises [$0.36]
+jchen210 calls [$0.28]
+** Dealing river ** [ As ]
+Zzerrda bets [$0.66]
+jchen210 folds
+** Summary **
+Zzerrda collected [ $0.79 ]
+
+

@@ -1,0 +1,89 @@
+#Game No : 516365525
+***** 888poker Hand History for Game 516365525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 04 2019 23:21:16
+Table Kimpo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: souceondabox ( $1.98 )
+Seat 5: REDD1K ( $1.02 )
+souceondabox posts small blind [$0.01]
+REDD1K posts big blind [$0.02]
+** Dealing down cards **
+souceondabox raises [$0.03]
+REDD1K folds
+** Summary **
+souceondabox did not show his hand
+souceondabox collected [ $0.04 ]
+
+
+#Game No : 516365531
+***** 888poker Hand History for Game 516365531 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 04 2019 23:21:31
+Table Kimpo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: souceondabox ( $2 )
+Seat 5: REDD1K ( $1 )
+REDD1K posts small blind [$0.01]
+souceondabox posts big blind [$0.02]
+** Dealing down cards **
+REDD1K raises [$0.03]
+souceondabox folds
+** Summary **
+REDD1K did not show his hand
+REDD1K collected [ $0.04 ]
+
+
+#Game No : 516365537
+***** 888poker Hand History for Game 516365537 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 13 04 2019 23:21:45
+Table Kimpo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: souceondabox ( $1.98 )
+Seat 5: REDD1K ( $1.02 )
+souceondabox posts small blind [$0.01]
+REDD1K posts big blind [$0.02]
+** Dealing down cards **
+souceondabox calls [$0.01]
+REDD1K checks
+** Dealing flop ** [ 2d, 4s, 2h ]
+REDD1K checks
+souceondabox bets [$0.02]
+REDD1K calls [$0.02]
+** Dealing turn ** [ 5c ]
+REDD1K bets [$0.04]
+souceondabox folds
+** Summary **
+REDD1K collected [ $0.08 ]
+
+
+#Game No : 516367355
+***** 888poker Hand History for Game 516367355 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 04 2019 01:29:27
+Table Kimpo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 2: Seminyden ( $0.84 )
+Seat 5: Wolfpavel ( $1 )
+Wolfpavel posts small blind [$0.01]
+Seminyden posts big blind [$0.02]
+** Dealing down cards **
+Wolfpavel raises [$0.05]
+Seminyden raises [$0.16]
+Wolfpavel calls [$0.12]
+** Dealing flop ** [ As, 2d, 7d ]
+Seminyden checks
+Wolfpavel bets [$0.18]
+Seminyden calls [$0.18]
+** Dealing turn ** [ Jd ]
+Seminyden checks
+Wolfpavel bets [$0.64]
+Seminyden calls [$0.48]
+** Dealing river ** [ 5d ]
+** Summary **
+Seminyden shows [ Qd, Qh ]
+Wolfpavel shows [ Ts, Ah ]
+Seminyden collected [ $1.58 ]
+
+

@@ -1,0 +1,114 @@
+#Game No : 1352
+***** 888poker Hand History for Game 1352 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 02:24:44
+Table Lecce 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: thenausea ( $0.85 )
+Seat 9: dudcasic ( $1 )
+dudcasic posts small blind [$0.01]
+thenausea posts big blind [$0.02]
+** Dealing down cards **
+dudcasic calls [$0.01]
+thenausea checks
+** Dealing flop ** [ 4s, Js, Qc ]
+thenausea bets [$0.02]
+dudcasic calls [$0.02]
+** Dealing turn ** [ 3s ]
+thenausea checks
+dudcasic checks
+** Dealing river ** [ Kc ]
+thenausea checks
+dudcasic bets [$0.02]
+thenausea folds
+** Summary **
+dudcasic collected [ $0.08 ]
+
+
+#Game No : 2057
+***** 888poker Hand History for Game 2057 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 05:09:38
+Table Lecce 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Valentin669 ( $4.15 )
+Seat 6: Sizikov ( $1.10 )
+Sizikov posts small blind [$0.01]
+Valentin669 posts big blind [$0.02]
+** Dealing down cards **
+Sizikov calls [$0.01]
+Valentin669 checks
+** Dealing flop ** [ 7c, 3s, 8h ]
+Valentin669 checks
+Sizikov checks
+** Dealing turn ** [ 7h ]
+Valentin669 bets [$0.02]
+Sizikov calls [$0.02]
+** Dealing river ** [ 9c ]
+Valentin669 bets [$0.08]
+Sizikov calls [$0.08]
+** Summary **
+Valentin669 shows [ 6h, Th ]
+Sizikov mucks [ 5h, 6s ]
+Valentin669 collected [ $0.23 ]
+
+
+#Game No : 2060
+***** 888poker Hand History for Game 2060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 05:10:15
+Table Lecce 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Valentin669 ( $4.26 )
+Seat 6: Sizikov ( $1 )
+Valentin669 posts small blind [$0.01]
+Sizikov posts big blind [$0.02]
+** Dealing down cards **
+Valentin669 calls [$0.01]
+Sizikov checks
+** Dealing flop ** [ Qd, Ah, 7h ]
+Sizikov checks
+Valentin669 checks
+** Dealing turn ** [ Jd ]
+Sizikov checks
+Valentin669 checks
+** Dealing river ** [ 9d ]
+Sizikov checks
+Valentin669 bets [$0.02]
+Sizikov folds
+** Summary **
+Valentin669 collected [ $0.04 ]
+
+
+#Game No : 2067
+***** 888poker Hand History for Game 2067 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 05:11:23
+Table Lecce 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Valentin669 ( $4.28 )
+Seat 6: Sizikov ( $1 )
+Sizikov posts small blind [$0.01]
+Valentin669 posts big blind [$0.02]
+** Dealing down cards **
+Sizikov folds
+** Summary **
+Valentin669 collected [ $0.03 ]
+
+
+#Game No : 2271
+***** 888poker Hand History for Game 2271 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 31 03 2019 05:55:03
+Table Lecce 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: BuzoniGood ( $1 )
+Seat 9: andrewjz ( $1 )
+BuzoniGood posts small blind [$0.01]
+** Dealing down cards **
+andrewjz folds
+** Summary **
+BuzoniGood did not show his hand
+BuzoniGood collected [ $0.01 ]
+
+

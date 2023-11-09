@@ -1,0 +1,56 @@
+#Game No : 507036658
+***** 888poker Hand History for Game 507036658 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 05:03:10
+Table Guarenas 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: dust961 ( $0.76 )
+Seat 2: kwaker1 ( $1.78 )
+dust961 posts small blind [$0.01]
+kwaker1 posts big blind [$0.02]
+** Dealing down cards **
+dust961 calls [$0.01]
+kwaker1 checks
+** Dealing flop ** [ Jd, 8d, Kc ]
+kwaker1 checks
+dust961 checks
+** Dealing turn ** [ 7h ]
+kwaker1 checks
+dust961 bets [$0.02]
+kwaker1 calls [$0.02]
+** Dealing river ** [ 3h ]
+kwaker1 checks
+dust961 bets [$0.04]
+kwaker1 folds
+** Summary **
+dust961 collected [ $0.08 ]
+
+
+#Game No : 507036671
+***** 888poker Hand History for Game 507036671 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 15 09 2018 05:03:15
+Table Guarenas 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: dust961 ( $0.80 )
+Seat 2: kwaker1 ( $1.74 )
+kwaker1 posts small blind [$0.01]
+dust961 posts big blind [$0.02]
+** Dealing down cards **
+kwaker1 calls [$0.01]
+dust961 checks
+** Dealing flop ** [ Td, Ah, As ]
+dust961 checks
+kwaker1 checks
+** Dealing turn ** [ 4s ]
+dust961 checks
+kwaker1 checks
+** Dealing river ** [ Th ]
+dust961 bets [$0.02]
+kwaker1 calls [$0.02]
+** Summary **
+dust961 shows [ Ks, 8c ]
+kwaker1 mucks [ 5h, Qs ]
+dust961 collected [ $0.08 ]
+
+

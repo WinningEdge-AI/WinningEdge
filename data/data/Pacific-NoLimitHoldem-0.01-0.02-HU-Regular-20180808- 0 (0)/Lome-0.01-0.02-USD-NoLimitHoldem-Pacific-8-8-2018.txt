@@ -1,0 +1,93 @@
+#Game No : 1199768939
+***** 888poker Hand History for Game 1199768939 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 08:28:45
+Table Lome 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Laarss101 ( $2 )
+Seat 2: acosta1997 ( $1.44 )
+Laarss101 posts small blind [$0.01]
+acosta1997 posts big blind [$0.02]
+** Dealing down cards **
+Laarss101 calls [$0.01]
+acosta1997 checks
+** Dealing flop ** [ Tc, 2c, As ]
+acosta1997 bets [$0.02]
+Laarss101 calls [$0.02]
+** Dealing turn ** [ Kc ]
+acosta1997 bets [$0.02]
+Laarss101 calls [$0.02]
+** Dealing river ** [ 7s ]
+acosta1997 bets [$0.02]
+Laarss101 folds
+** Summary **
+acosta1997 collected [ $0.12 ]
+
+
+#Game No : 1199879211
+***** 888poker Hand History for Game 1199879211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:24:58
+Table Lome 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: barbist ( $2.42 )
+Seat 9: Janos021 ( $2.32 )
+barbist posts small blind [$0.01]
+Janos021 posts big blind [$0.02]
+** Dealing down cards **
+barbist calls [$0.01]
+Janos021 checks
+** Dealing flop ** [ 9s, 3d, Jh ]
+Janos021 checks
+barbist checks
+** Dealing turn ** [ 7d ]
+Janos021 checks
+barbist bets [$0.02]
+Janos021 folds
+** Summary **
+barbist collected [ $0.04 ]
+
+
+#Game No : 1199879337
+***** 888poker Hand History for Game 1199879337 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:25:22
+Table Lome 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: barbist ( $2.44 )
+Seat 9: Janos021 ( $2.30 )
+Janos021 posts small blind [$0.01]
+barbist posts big blind [$0.02]
+** Dealing down cards **
+Janos021 folds
+** Summary **
+barbist collected [ $0.03 ]
+
+
+#Game No : 1199879360
+***** 888poker Hand History for Game 1199879360 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 08 08 2018 14:25:28
+Table Lome 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: barbist ( $2.45 )
+Seat 9: Janos021 ( $2.29 )
+barbist posts small blind [$0.01]
+Janos021 posts big blind [$0.02]
+** Dealing down cards **
+barbist calls [$0.01]
+Janos021 checks
+** Dealing flop ** [ 5s, 9c, Jd ]
+Janos021 bets [$0.02]
+barbist calls [$0.02]
+** Dealing turn ** [ 6h ]
+Janos021 bets [$0.02]
+barbist calls [$0.02]
+** Dealing river ** [ 5d ]
+Janos021 checks
+barbist bets [$0.10]
+Janos021 folds
+** Summary **
+barbist collected [ $0.12 ]
+
+

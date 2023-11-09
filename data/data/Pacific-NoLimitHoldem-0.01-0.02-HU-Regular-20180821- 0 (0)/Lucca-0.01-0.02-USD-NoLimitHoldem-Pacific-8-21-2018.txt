@@ -1,0 +1,121 @@
+#Game No : 501208910
+***** 888poker Hand History for Game 501208910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 12:20:05
+Table Lucca 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Barattikus ( $1 )
+Seat 2: Romyl88 ( $0.78 )
+Barattikus posts small blind [$0.01]
+Romyl88 posts big blind [$0.02]
+** Dealing down cards **
+Barattikus raises [$0.03]
+Romyl88 calls [$0.02]
+** Dealing flop ** [ Qc, Kd, 7c ]
+Romyl88 checks
+Barattikus bets [$0.04]
+Romyl88 raises [$0.08]
+Barattikus calls [$0.04]
+** Dealing turn ** [ Ts ]
+Romyl88 checks
+Barattikus checks
+** Dealing river ** [ Tc ]
+Romyl88 bets [$0.02]
+Barattikus calls [$0.02]
+** Summary **
+Romyl88 shows [ Qd, 5c ]
+Barattikus mucks [ 4s, 4h ]
+Romyl88 collected [ $0.27 ]
+
+
+#Game No : 501208940
+***** 888poker Hand History for Game 501208940 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 12:20:39
+Table Lucca 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: Barattikus ( $0.86 )
+Seat 2: Romyl88 ( $0.91 )
+Romyl88 posts small blind [$0.01]
+Barattikus posts big blind [$0.02]
+** Dealing down cards **
+Romyl88 calls [$0.01]
+Barattikus checks
+** Dealing flop ** [ 7d, 2d, 2c ]
+Barattikus checks
+Romyl88 checks
+** Dealing turn ** [ Ac ]
+Barattikus bets [$0.02]
+Romyl88 folds
+** Summary **
+Barattikus collected [ $0.04 ]
+
+
+#Game No : 501208988
+***** 888poker Hand History for Game 501208988 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 12:21:33
+Table Lucca 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Romyl88 ( $1.68 )
+Seat 4: buttercupblu ( $0.98 )
+Romyl88 posts small blind [$0.01]
+buttercupblu posts big blind [$0.02]
+** Dealing down cards **
+Romyl88 calls [$0.01]
+buttercupblu checks
+** Dealing flop ** [ Tc, 8c, Jc ]
+buttercupblu checks
+Romyl88 checks
+** Dealing turn ** [ 6h ]
+buttercupblu bets [$0.02]
+Romyl88 raises [$0.04]
+buttercupblu calls [$0.02]
+** Dealing river ** [ 2s ]
+buttercupblu bets [$0.02]
+Romyl88 raises [$0.04]
+buttercupblu raises [$0.08]
+Romyl88 calls [$0.06]
+** Summary **
+buttercupblu shows [ 2c, Qc ]
+Romyl88 mucks [ 5c, 8s ]
+buttercupblu collected [ $0.30 ]
+
+
+#Game No : 501209042
+***** 888poker Hand History for Game 501209042 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 12:22:29
+Table Lucca 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Romyl88 ( $1.52 )
+Seat 4: buttercupblu ( $1.12 )
+buttercupblu posts small blind [$0.01]
+Romyl88 posts big blind [$0.02]
+** Dealing down cards **
+buttercupblu calls [$0.01]
+Romyl88 checks
+** Dealing flop ** [ Kd, Qs, Ts ]
+Romyl88 checks
+buttercupblu bets [$0.02]
+Romyl88 folds
+** Summary **
+buttercupblu collected [ $0.04 ]
+
+
+#Game No : 501210139
+***** 888poker Hand History for Game 501210139 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 21 08 2018 12:40:10
+Table Lucca 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: Time_13 ( $1.49 )
+Seat 9: 123aigo ( $1.32 )
+123aigo posts small blind [$0.01]
+** Dealing down cards **
+Time_13 folds
+** Summary **
+123aigo did not show his hand
+123aigo collected [ $0.01 ]
+
+

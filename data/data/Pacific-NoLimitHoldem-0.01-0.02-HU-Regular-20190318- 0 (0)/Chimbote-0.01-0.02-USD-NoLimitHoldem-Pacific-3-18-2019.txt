@@ -1,0 +1,28 @@
+#Game No : 1255640441
+***** 888poker Hand History for Game 1255640441 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 17 03 2019 20:14:55
+Table Chimbote 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: greedyseb ( $2 )
+Seat 2: saviomds ( $1.39 )
+saviomds posts small blind [$0.01]
+greedyseb posts big blind [$0.02]
+** Dealing down cards **
+saviomds calls [$0.01]
+greedyseb checks
+** Dealing flop ** [ Th, Jc, 7h ]
+greedyseb checks
+saviomds checks
+** Dealing turn ** [ 7d ]
+greedyseb checks
+saviomds checks
+** Dealing river ** [ Tc ]
+greedyseb checks
+saviomds checks
+** Summary **
+greedyseb shows [ 4c, Qd ]
+saviomds mucks [ 2s, 4s ]
+greedyseb collected [ $0.04 ]
+
+

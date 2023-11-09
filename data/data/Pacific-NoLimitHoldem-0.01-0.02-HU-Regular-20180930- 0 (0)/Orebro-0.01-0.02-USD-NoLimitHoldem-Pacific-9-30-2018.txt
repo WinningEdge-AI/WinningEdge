@@ -1,0 +1,105 @@
+#Game No : 507583333
+***** 888poker Hand History for Game 507583333 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 05:20:04
+Table Orebro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 6: KalipsoRaise ( $2.50 )
+Seat 9: geekmanelf ( $0.58 )
+KalipsoRaise posts small blind [$0.01]
+geekmanelf posts big blind [$0.02]
+** Dealing down cards **
+KalipsoRaise raises [$0.05]
+geekmanelf calls [$0.04]
+** Dealing flop ** [ 7d, 3d, 6d ]
+KalipsoRaise bets [$0.06]
+geekmanelf calls [$0.06]
+** Dealing turn ** [ 4h ]
+KalipsoRaise bets [$0.12]
+geekmanelf calls [$0.12]
+** Dealing river ** [ 5c ]
+KalipsoRaise checks
+geekmanelf bets [$0.34]
+KalipsoRaise folds
+** Summary **
+geekmanelf did not show his hand
+geekmanelf collected [ $0.45 ]
+
+
+#Game No : 507583358
+***** 888poker Hand History for Game 507583358 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 05:20:53
+Table Orebro 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: KalipsoRaise ( $2.26 )
+Seat 9: geekmanelf ( $0.79 )
+KalipsoRaise posts small blind [$0.01]
+geekmanelf posts big blind [$0.02]
+** Dealing down cards **
+KalipsoRaise raises [$0.05]
+geekmanelf folds
+** Summary **
+KalipsoRaise did not show his hand
+KalipsoRaise collected [ $0.04 ]
+
+
+#Game No : 507583365
+***** 888poker Hand History for Game 507583365 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 05:21:09
+Table Orebro 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: gunchozaurs ( $2 )
+Seat 6: KalipsoRaise ( $2.28 )
+KalipsoRaise posts small blind [$0.01]
+gunchozaurs posts big blind [$0.02]
+** Dealing down cards **
+KalipsoRaise folds
+** Summary **
+gunchozaurs did not show his hand
+gunchozaurs collected [ $0.03 ]
+
+
+#Game No : 507583369
+***** 888poker Hand History for Game 507583369 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 05:21:17
+Table Orebro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: gunchozaurs ( $2.01 )
+Seat 6: KalipsoRaise ( $2.27 )
+gunchozaurs posts small blind [$0.01]
+** Dealing down cards **
+KalipsoRaise folds
+** Summary **
+gunchozaurs did not show his hand
+gunchozaurs collected [ $0.01 ]
+
+
+#Game No : 507583968
+***** 888poker Hand History for Game 507583968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 30 09 2018 05:39:05
+Table Orebro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: gunchozaurs ( $2 )
+Seat 7: andrik888 ( $2.02 )
+andrik888 posts small blind [$0.01]
+gunchozaurs posts big blind [$0.02]
+** Dealing down cards **
+andrik888 calls [$0.01]
+gunchozaurs checks
+** Dealing flop ** [ 5d, Ac, 8s ]
+gunchozaurs checks
+andrik888 checks
+** Dealing turn ** [ Th ]
+gunchozaurs bets [$0.04]
+andrik888 calls [$0.04]
+** Dealing river ** [ 6s ]
+gunchozaurs bets [$0.08]
+andrik888 folds
+** Summary **
+gunchozaurs collected [ $0.12 ]
+
+

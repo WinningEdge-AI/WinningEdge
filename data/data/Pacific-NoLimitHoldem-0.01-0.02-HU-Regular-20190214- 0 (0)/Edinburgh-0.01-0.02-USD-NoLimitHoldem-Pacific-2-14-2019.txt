@@ -1,0 +1,376 @@
+#Game No : 461627045
+***** 888poker Hand History for Game 461627045 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 05:02:31
+Table Edinburgh 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 2: ehklisav ( $2 )
+Seat 3: Lucettino ( $2 )
+Lucettino posts small blind [$0.01]
+ehklisav posts big blind [$0.02]
+** Dealing down cards **
+Lucettino raises [$0.03]
+ehklisav calls [$0.02]
+** Dealing flop ** [ 2h, Td, Kd ]
+ehklisav checks
+Lucettino bets [$0.04]
+ehklisav folds
+** Summary **
+Lucettino collected [ $0.08 ]
+
+
+#Game No : 461645498
+***** 888poker Hand History for Game 461645498 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 12:51:13
+Table Edinburgh 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Axxil ( $1.94 )
+Seat 7: Dan.Nr.12 ( $0.49 )
+Dan.Nr.12 posts small blind [$0.01]
+Axxil posts big blind [$0.02]
+** Dealing down cards **
+Dan.Nr.12 calls [$0.01]
+Axxil checks
+** Dealing flop ** [ 6h, 7s, 9h ]
+Axxil bets [$0.04]
+Dan.Nr.12 calls [$0.04]
+** Dealing turn ** [ 5h ]
+Axxil bets [$0.02]
+Dan.Nr.12 raises [$0.04]
+Axxil raises [$0.22]
+Dan.Nr.12 calls [$0.20]
+** Dealing river ** [ 5d ]
+Axxil bets [$0.30]
+Dan.Nr.12 calls [$0.19]
+** Summary **
+Axxil shows [ 5s, 8s ]
+Dan.Nr.12 shows [ 5c, Qc ]
+Axxil collected [ $0.92 ]
+
+
+#Game No : 461645635
+***** 888poker Hand History for Game 461645635 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 12:53:10
+Table Edinburgh 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: urazo ( $1 )
+Seat 6: zdarova8729 ( $2 )
+zdarova8729 posts small blind [$0.01]
+urazo posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.05]
+urazo calls [$0.04]
+** Dealing flop ** [ 8d, 7c, 2d ]
+urazo checks
+zdarova8729 bets [$0.08]
+urazo folds
+** Summary **
+zdarova8729 did not show his hand
+zdarova8729 collected [ $0.12 ]
+
+
+#Game No : 461645651
+***** 888poker Hand History for Game 461645651 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 12:53:23
+Table Edinburgh 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: urazo ( $0.94 )
+Seat 6: zdarova8729 ( $2.06 )
+urazo posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+urazo calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ Qc, Kd, Jc ]
+zdarova8729 checks
+urazo checks
+** Dealing turn ** [ 7d ]
+zdarova8729 checks
+urazo bets [$0.02]
+zdarova8729 folds
+** Summary **
+urazo did not show his hand
+urazo collected [ $0.04 ]
+
+
+#Game No : 461645662
+***** 888poker Hand History for Game 461645662 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 12:53:37
+Table Edinburgh 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: urazo ( $0.96 )
+Seat 6: zdarova8729 ( $2.04 )
+zdarova8729 posts small blind [$0.01]
+urazo posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 folds
+** Summary **
+urazo did not show his hand
+urazo collected [ $0.03 ]
+
+
+#Game No : 461645667
+***** 888poker Hand History for Game 461645667 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 12:53:42
+Table Edinburgh 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: urazo ( $0.97 )
+Seat 6: zdarova8729 ( $2.03 )
+urazo posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+urazo calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ 8d, 2s, 5h ]
+zdarova8729 checks
+urazo checks
+** Dealing turn ** [ Ks ]
+zdarova8729 checks
+urazo checks
+** Dealing river ** [ Ac ]
+zdarova8729 checks
+urazo checks
+** Summary **
+zdarova8729 shows [ Js, 9d ]
+urazo mucks [ 7h, 9h ]
+zdarova8729 collected [ $0.04 ]
+
+
+#Game No : 461645690
+***** 888poker Hand History for Game 461645690 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 12:54:01
+Table Edinburgh 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: urazo ( $0.95 )
+Seat 6: zdarova8729 ( $2.05 )
+zdarova8729 posts small blind [$0.01]
+urazo posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.05]
+urazo calls [$0.04]
+** Dealing flop ** [ 4c, Kd, 6h ]
+urazo checks
+zdarova8729 bets [$0.06]
+urazo calls [$0.06]
+** Dealing turn ** [ Qs ]
+urazo checks
+zdarova8729 bets [$0.12]
+urazo calls [$0.12]
+** Dealing river ** [ 5s ]
+urazo checks
+zdarova8729 bets [$0.20]
+urazo calls [$0.20]
+** Summary **
+zdarova8729 shows [ Jh, Ks ]
+urazo mucks [ Kc, 3d ]
+zdarova8729 collected [ $0.83 ]
+
+
+#Game No : 461645720
+***** 888poker Hand History for Game 461645720 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 12:54:28
+Table Edinburgh 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: urazo ( $0.51 )
+Seat 6: zdarova8729 ( $2.44 )
+urazo posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+urazo calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ 9s, Td, Ac ]
+zdarova8729 bets [$0.06]
+urazo folds
+** Summary **
+zdarova8729 did not show his hand
+zdarova8729 collected [ $0.04 ]
+
+
+#Game No : 461645727
+***** 888poker Hand History for Game 461645727 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 12:54:40
+Table Edinburgh 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: urazo ( $0.49 )
+Seat 6: zdarova8729 ( $2.46 )
+zdarova8729 posts small blind [$0.01]
+urazo posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.03]
+urazo raises [$0.04]
+zdarova8729 calls [$0.02]
+** Dealing flop ** [ 6h, 8d, 8h ]
+urazo checks
+zdarova8729 checks
+** Dealing turn ** [ 3c ]
+urazo bets [$0.02]
+zdarova8729 raises [$0.08]
+urazo calls [$0.06]
+** Dealing river ** [ 2h ]
+urazo checks
+zdarova8729 bets [$0.14]
+urazo calls [$0.14]
+** Summary **
+zdarova8729 shows [ 3s, 3d ]
+urazo mucks [ Kc, Ad ]
+zdarova8729 collected [ $0.53 ]
+
+
+#Game No : 461645763
+***** 888poker Hand History for Game 461645763 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 12:55:15
+Table Edinburgh 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: urazo ( $0.21 )
+Seat 6: zdarova8729 ( $2.71 )
+urazo posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+urazo calls [$0.01]
+zdarova8729 raises [$0.20]
+urazo calls [$0.19]
+** Dealing flop ** [ 3d, Ad, 3s ]
+** Dealing turn ** [ 3c ]
+** Dealing river ** [ 8d ]
+** Summary **
+urazo shows [ 6s, 6d ]
+zdarova8729 shows [ Kh, Ah ]
+zdarova8729 collected [ $0.40 ]
+
+
+#Game No : 461646417
+***** 888poker Hand History for Game 461646417 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 13:06:16
+Table Edinburgh 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: zdarova8729 ( $2.90 )
+Seat 7: rlogiudice ( $2 )
+zdarova8729 posts small blind [$0.01]
+rlogiudice posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 raises [$0.05]
+rlogiudice calls [$0.04]
+** Dealing flop ** [ Th, 8d, Jc ]
+rlogiudice checks
+zdarova8729 bets [$0.80]
+rlogiudice folds
+** Summary **
+zdarova8729 did not show his hand
+zdarova8729 collected [ $0.12 ]
+
+
+#Game No : 461646445
+***** 888poker Hand History for Game 461646445 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 13:06:38
+Table Edinburgh 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: zdarova8729 ( $2.96 )
+Seat 7: rlogiudice ( $2 )
+rlogiudice posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+rlogiudice raises [$0.05]
+zdarova8729 calls [$0.04]
+** Dealing flop ** [ Jh, 6d, 9d ]
+zdarova8729 checks
+rlogiudice bets [$0.08]
+zdarova8729 calls [$0.08]
+** Dealing turn ** [ 7s ]
+zdarova8729 checks
+rlogiudice bets [$0.28]
+zdarova8729 folds
+** Summary **
+rlogiudice did not show his hand
+rlogiudice collected [ $0.27 ]
+
+
+#Game No : 461646473
+***** 888poker Hand History for Game 461646473 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 13:06:59
+Table Edinburgh 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: zdarova8729 ( $2.82 )
+Seat 7: rlogiudice ( $2.13 )
+zdarova8729 posts small blind [$0.01]
+rlogiudice posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 folds
+** Summary **
+rlogiudice did not show his hand
+rlogiudice collected [ $0.03 ]
+
+
+#Game No : 461646481
+***** 888poker Hand History for Game 461646481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 13:07:04
+Table Edinburgh 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: zdarova8729 ( $2.81 )
+Seat 7: rlogiudice ( $2.14 )
+rlogiudice posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+rlogiudice calls [$0.01]
+zdarova8729 checks
+** Dealing flop ** [ Th, Qh, Ah ]
+zdarova8729 checks
+rlogiudice checks
+** Dealing turn ** [ 5c ]
+zdarova8729 checks
+rlogiudice bets [$0.02]
+zdarova8729 calls [$0.02]
+** Dealing river ** [ 9s ]
+zdarova8729 checks
+rlogiudice checks
+** Summary **
+zdarova8729 shows [ Jd, Ts ]
+rlogiudice mucks [ 4d, 7d ]
+zdarova8729 collected [ $0.08 ]
+
+
+#Game No : 461646491
+***** 888poker Hand History for Game 461646491 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 13:07:22
+Table Edinburgh 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: zdarova8729 ( $2.85 )
+Seat 7: rlogiudice ( $2.10 )
+zdarova8729 posts small blind [$0.01]
+rlogiudice posts big blind [$0.02]
+** Dealing down cards **
+zdarova8729 folds
+** Summary **
+rlogiudice did not show his hand
+rlogiudice collected [ $0.03 ]
+
+
+#Game No : 461646498
+***** 888poker Hand History for Game 461646498 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 14 02 2019 13:07:27
+Table Edinburgh 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: zdarova8729 ( $2.84 )
+Seat 7: rlogiudice ( $2.11 )
+rlogiudice posts small blind [$0.01]
+zdarova8729 posts big blind [$0.02]
+** Dealing down cards **
+rlogiudice folds
+** Summary **
+zdarova8729 collected [ $0.03 ]
+
+

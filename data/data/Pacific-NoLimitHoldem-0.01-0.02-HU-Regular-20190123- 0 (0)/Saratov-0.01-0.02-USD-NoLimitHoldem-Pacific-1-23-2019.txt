@@ -1,0 +1,28 @@
+#Game No : 1241941167
+***** 888poker Hand History for Game 1241941167 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 23 01 2019 01:03:31
+Table Saratov 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Poker_PyLuT ( $0.82 )
+Seat 4: nashdd4 ( $2 )
+nashdd4 posts small blind [$0.01]
+Poker_PyLuT posts big blind [$0.02]
+** Dealing down cards **
+nashdd4 calls [$0.01]
+Poker_PyLuT checks
+** Dealing flop ** [ 4h, 2s, 7d ]
+Poker_PyLuT checks
+nashdd4 bets [$0.02]
+Poker_PyLuT calls [$0.02]
+** Dealing turn ** [ Jh ]
+Poker_PyLuT checks
+nashdd4 checks
+** Dealing river ** [ 7c ]
+Poker_PyLuT checks
+nashdd4 bets [$0.08]
+Poker_PyLuT folds
+** Summary **
+nashdd4 collected [ $0.08 ]
+
+

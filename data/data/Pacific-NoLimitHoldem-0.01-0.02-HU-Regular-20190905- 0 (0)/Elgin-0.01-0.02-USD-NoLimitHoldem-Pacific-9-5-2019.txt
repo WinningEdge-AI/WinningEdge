@@ -1,0 +1,84 @@
+#Game No : 624511686
+***** 888poker Hand History for Game 624511686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2019 03:31:07
+Table Elgin 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: h0_od ( $2.16 )
+Seat 2: SethRoberts ( $0.80 )
+h0_od posts small blind [$0.01]
+SethRoberts posts big blind [$0.02]
+** Dealing down cards **
+h0_od raises [$0.05]
+SethRoberts folds
+** Summary **
+h0_od did not show his hand
+h0_od collected [ $0.04 ]
+
+
+#Game No : 624511693
+***** 888poker Hand History for Game 624511693 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2019 03:31:20
+Table Elgin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: h0_od ( $2.18 )
+Seat 2: SethRoberts ( $0.78 )
+SethRoberts posts small blind [$0.01]
+h0_od posts big blind [$0.02]
+** Dealing down cards **
+SethRoberts calls [$0.01]
+h0_od checks
+** Dealing flop ** [ 6h, 7d, Ts ]
+h0_od checks
+SethRoberts bets [$0.04]
+h0_od calls [$0.04]
+** Dealing turn ** [ 7s ]
+h0_od checks
+SethRoberts checks
+** Dealing river ** [ Ac ]
+h0_od checks
+SethRoberts bets [$0.12]
+h0_od folds
+** Summary **
+SethRoberts collected [ $0.12 ]
+
+
+#Game No : 624511769
+***** 888poker Hand History for Game 624511769 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2019 03:33:52
+Table Elgin 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: h0_od ( $2.10 )
+Seat 2: SethRoberts ( $1.57 )
+h0_od posts small blind [$0.01]
+SethRoberts posts big blind [$0.02]
+** Dealing down cards **
+h0_od folds
+** Summary **
+SethRoberts did not show his hand
+SethRoberts collected [ $0.03 ]
+
+
+#Game No : 624511772
+***** 888poker Hand History for Game 624511772 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 09 2019 03:34:00
+Table Elgin 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: h0_od ( $2.09 )
+Seat 2: SethRoberts ( $1.58 )
+SethRoberts posts small blind [$0.01]
+h0_od posts big blind [$0.02]
+** Dealing down cards **
+SethRoberts calls [$0.01]
+h0_od raises [$0.08]
+SethRoberts calls [$0.08]
+** Dealing flop ** [ 6h, Js, 6d ]
+h0_od bets [$0.14]
+SethRoberts folds
+** Summary **
+h0_od collected [ $0.19 ]
+
+

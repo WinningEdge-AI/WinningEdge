@@ -1,0 +1,470 @@
+#Game No : 501795262
+***** 888poker Hand History for Game 501795262 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 02:13:06
+Table Madrid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AKosyak ( $0.86 )
+Seat 4: gH5tnbxx ( $1.13 )
+AKosyak posts small blind [$0.01]
+gH5tnbxx posts big blind [$0.02]
+** Dealing down cards **
+AKosyak calls [$0.01]
+gH5tnbxx checks
+** Dealing flop ** [ 6h, 3s, 6s ]
+gH5tnbxx checks
+AKosyak checks
+** Dealing turn ** [ Qh ]
+gH5tnbxx checks
+AKosyak bets [$0.02]
+gH5tnbxx folds
+** Summary **
+AKosyak did not show his hand
+AKosyak collected [ $0.04 ]
+
+
+#Game No : 501795272
+***** 888poker Hand History for Game 501795272 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 02:13:12
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: AKosyak ( $0.88 )
+Seat 4: gH5tnbxx ( $1.11 )
+gH5tnbxx posts small blind [$0.01]
+AKosyak posts big blind [$0.02]
+** Dealing down cards **
+gH5tnbxx calls [$0.01]
+AKosyak checks
+** Dealing flop ** [ Qd, 4d, 2s ]
+AKosyak checks
+gH5tnbxx bets [$0.02]
+AKosyak folds
+** Summary **
+gH5tnbxx collected [ $0.04 ]
+
+
+#Game No : 501795275
+***** 888poker Hand History for Game 501795275 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 02:13:26
+Table Madrid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: AKosyak ( $0.86 )
+Seat 4: gH5tnbxx ( $1.13 )
+AKosyak posts small blind [$0.01]
+gH5tnbxx posts big blind [$0.02]
+** Dealing down cards **
+AKosyak calls [$0.01]
+gH5tnbxx checks
+** Dealing flop ** [ 9s, 3s, 4s ]
+gH5tnbxx checks
+AKosyak checks
+** Dealing turn ** [ 9c ]
+gH5tnbxx checks
+AKosyak bets [$0.02]
+gH5tnbxx folds
+** Summary **
+AKosyak collected [ $0.04 ]
+
+
+#Game No : 501796991
+***** 888poker Hand History for Game 501796991 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:09:39
+Table Madrid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: lucky_crab ( $1.08 )
+Seat 9: Groker10 ( $2.93 )
+Groker10 posts small blind [$0.01]
+lucky_crab posts big blind [$0.02]
+** Dealing down cards **
+Groker10 calls [$0.01]
+lucky_crab checks
+** Dealing flop ** [ Tc, As, Td ]
+lucky_crab checks
+Groker10 checks
+** Dealing turn ** [ 2s ]
+lucky_crab checks
+Groker10 checks
+** Dealing river ** [ 3s ]
+lucky_crab checks
+Groker10 bets [$0.06]
+lucky_crab folds
+** Summary **
+Groker10 did not show his hand
+Groker10 collected [ $0.04 ]
+
+
+#Game No : 501797023
+***** 888poker Hand History for Game 501797023 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:10:27
+Table Madrid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: lucky_crab ( $1.06 )
+Seat 9: Groker10 ( $2.95 )
+lucky_crab posts small blind [$0.01]
+Groker10 posts big blind [$0.02]
+** Dealing down cards **
+lucky_crab raises [$0.05]
+Groker10 folds
+** Summary **
+lucky_crab did not show his hand
+lucky_crab collected [ $0.04 ]
+
+
+#Game No : 501797026
+***** 888poker Hand History for Game 501797026 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:10:36
+Table Madrid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: lucky_crab ( $1.08 )
+Seat 9: Groker10 ( $2.93 )
+Groker10 posts small blind [$0.01]
+lucky_crab posts big blind [$0.02]
+** Dealing down cards **
+Groker10 raises [$0.05]
+lucky_crab folds
+** Summary **
+Groker10 did not show his hand
+Groker10 collected [ $0.04 ]
+
+
+#Game No : 501797030
+***** 888poker Hand History for Game 501797030 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:10:47
+Table Madrid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: lucky_crab ( $1.06 )
+Seat 9: Groker10 ( $2.95 )
+lucky_crab posts small blind [$0.01]
+Groker10 posts big blind [$0.02]
+** Dealing down cards **
+lucky_crab raises [$0.05]
+Groker10 calls [$0.04]
+** Dealing flop ** [ 8c, 9h, Th ]
+Groker10 checks
+lucky_crab checks
+** Dealing turn ** [ Jd ]
+Groker10 bets [$0.04]
+lucky_crab calls [$0.04]
+** Dealing river ** [ 4c ]
+Groker10 checks
+lucky_crab checks
+** Summary **
+Groker10 shows [ 4h, 6h ]
+lucky_crab shows [ 7s, 8s ]
+lucky_crab collected [ $0.19 ]
+
+
+#Game No : 501797054
+***** 888poker Hand History for Game 501797054 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:11:32
+Table Madrid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: lucky_crab ( $1.15 )
+Seat 9: Groker10 ( $2.85 )
+Groker10 posts small blind [$0.01]
+lucky_crab posts big blind [$0.02]
+** Dealing down cards **
+Groker10 raises [$0.05]
+lucky_crab folds
+** Summary **
+Groker10 did not show his hand
+Groker10 collected [ $0.04 ]
+
+
+#Game No : 501797060
+***** 888poker Hand History for Game 501797060 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:11:40
+Table Madrid 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 7: lucky_crab ( $1.13 )
+Seat 9: Groker10 ( $2.87 )
+lucky_crab posts small blind [$0.01]
+Groker10 posts big blind [$0.02]
+** Dealing down cards **
+lucky_crab raises [$0.05]
+Groker10 folds
+** Summary **
+lucky_crab did not show his hand
+lucky_crab collected [ $0.04 ]
+
+
+#Game No : 501797063
+***** 888poker Hand History for Game 501797063 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:11:48
+Table Madrid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: lucky_crab ( $1.15 )
+Seat 9: Groker10 ( $2.85 )
+Groker10 posts small blind [$0.01]
+lucky_crab posts big blind [$0.02]
+** Dealing down cards **
+Groker10 calls [$0.01]
+lucky_crab checks
+** Dealing flop ** [ 5s, 2h, 2s ]
+lucky_crab bets [$1.13]
+Groker10 folds
+** Summary **
+lucky_crab collected [ $0.04 ]
+
+
+#Game No : 501797225
+***** 888poker Hand History for Game 501797225 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:16:49
+Table Madrid 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: robroyal81 ( $1.05 )
+Seat 9: jose19carlos ( $0.86 )
+jose19carlos posts small blind [$0.01]
+robroyal81 posts big blind [$0.02]
+** Dealing down cards **
+jose19carlos raises [$0.03]
+robroyal81 raises [$0.04]
+jose19carlos calls [$0.02]
+** Dealing flop ** [ 6s, 8c, Qc ]
+jose19carlos checks
+robroyal81 folds
+** Summary **
+jose19carlos collected [ $0.12 ]
+
+
+#Game No : 501797256
+***** 888poker Hand History for Game 501797256 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:18:01
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DonDorcha ( $1.08 )
+Seat 9: jose19carlos ( $0.84 )
+DonDorcha posts small blind [$0.01]
+jose19carlos posts big blind [$0.02]
+** Dealing down cards **
+DonDorcha calls [$0.01]
+jose19carlos raises [$0.02]
+DonDorcha calls [$0.02]
+** Dealing flop ** [ 8h, 7c, 5h ]
+jose19carlos bets [$0.05]
+DonDorcha folds
+** Summary **
+jose19carlos collected [ $0.08 ]
+
+
+#Game No : 501797268
+***** 888poker Hand History for Game 501797268 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:18:15
+Table Madrid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: DonDorcha ( $1.04 )
+Seat 9: jose19carlos ( $0.88 )
+jose19carlos posts small blind [$0.01]
+DonDorcha posts big blind [$0.02]
+** Dealing down cards **
+jose19carlos raises [$0.03]
+DonDorcha calls [$0.02]
+** Dealing flop ** [ 5c, 5h, Ac ]
+DonDorcha bets [$0.02]
+jose19carlos folds
+** Summary **
+DonDorcha collected [ $0.08 ]
+
+
+#Game No : 501797277
+***** 888poker Hand History for Game 501797277 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:18:32
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: DonDorcha ( $1.08 )
+Seat 9: jose19carlos ( $0.84 )
+DonDorcha posts small blind [$0.01]
+jose19carlos posts big blind [$0.02]
+** Dealing down cards **
+DonDorcha calls [$0.01]
+jose19carlos checks
+** Dealing flop ** [ 3c, 6h, Ah ]
+jose19carlos bets [$0.04]
+DonDorcha calls [$0.04]
+** Dealing turn ** [ 7c ]
+jose19carlos bets [$0.08]
+DonDorcha calls [$0.08]
+** Dealing river ** [ Kd ]
+jose19carlos bets [$0.28]
+DonDorcha folds
+** Summary **
+jose19carlos collected [ $0.27 ]
+
+
+#Game No : 501797295
+***** 888poker Hand History for Game 501797295 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:19:14
+Table Madrid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: DonDorcha ( $0.94 )
+Seat 9: jose19carlos ( $0.97 )
+jose19carlos posts small blind [$0.01]
+DonDorcha posts big blind [$0.02]
+** Dealing down cards **
+jose19carlos raises [$0.03]
+DonDorcha calls [$0.02]
+** Dealing flop ** [ Jc, 5h, 2h ]
+DonDorcha checks
+jose19carlos checks
+** Dealing turn ** [ Tc ]
+DonDorcha checks
+jose19carlos checks
+** Dealing river ** [ 6s ]
+DonDorcha checks
+jose19carlos checks
+** Summary **
+DonDorcha shows [ Qc, 7d ]
+jose19carlos shows [ Ah, 3d ]
+jose19carlos collected [ $0.08 ]
+
+
+#Game No : 501798455
+***** 888poker Hand History for Game 501798455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:51:56
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: CoJoTe85 ( $0.83 )
+Seat 7: lemuriic ( $1.04 )
+CoJoTe85 posts small blind [$0.01]
+lemuriic posts big blind [$0.02]
+** Dealing down cards **
+CoJoTe85 raises [$0.03]
+lemuriic calls [$0.02]
+** Dealing flop ** [ Kd, 5h, Ks ]
+lemuriic checks
+CoJoTe85 bets [$0.05]
+lemuriic folds
+** Summary **
+CoJoTe85 collected [ $0.08 ]
+
+
+#Game No : 501798663
+***** 888poker Hand History for Game 501798663 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:58:08
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Niknejm ( $1 )
+Seat 6: spalll ( $0.80 )
+Niknejm posts small blind [$0.01]
+spalll posts big blind [$0.02]
+** Dealing down cards **
+Niknejm calls [$0.01]
+spalll checks
+** Dealing flop ** [ Qc, 3d, 3c ]
+spalll bets [$0.02]
+Niknejm folds
+** Summary **
+spalll did not show his hand
+spalll collected [ $0.04 ]
+
+
+#Game No : 501798678
+***** 888poker Hand History for Game 501798678 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:58:32
+Table Madrid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Niknejm ( $0.98 )
+Seat 6: spalll ( $0.82 )
+spalll posts small blind [$0.01]
+Niknejm posts big blind [$0.02]
+** Dealing down cards **
+spalll calls [$0.01]
+Niknejm raises [$0.06]
+spalll folds
+** Summary **
+Niknejm did not show his hand
+Niknejm collected [ $0.04 ]
+
+
+#Game No : 501798689
+***** 888poker Hand History for Game 501798689 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:58:50
+Table Madrid 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Niknejm ( $1 )
+Seat 6: spalll ( $0.80 )
+Niknejm posts small blind [$0.01]
+spalll posts big blind [$0.02]
+** Dealing down cards **
+Niknejm calls [$0.01]
+spalll checks
+** Dealing flop ** [ Jd, 6s, 4s ]
+spalll checks
+Niknejm checks
+** Dealing turn ** [ 2s ]
+spalll checks
+Niknejm bets [$0.02]
+spalll folds
+** Summary **
+Niknejm collected [ $0.04 ]
+
+
+#Game No : 501798707
+***** 888poker Hand History for Game 501798707 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 03:59:21
+Table Madrid 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Niknejm ( $1.02 )
+Seat 6: spalll ( $0.78 )
+spalll posts small blind [$0.01]
+Niknejm posts big blind [$0.02]
+** Dealing down cards **
+spalll calls [$0.01]
+Niknejm raises [$0.06]
+spalll folds
+** Summary **
+Niknejm collected [ $0.04 ]
+
+
+#Game No : 501802692
+***** 888poker Hand History for Game 501802692 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 05:43:37
+Table Madrid 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: WhatAHell ( $0.19 )
+Seat 9: O_LE_G ( $1.09 )
+WhatAHell posts small blind [$0.01]
+O_LE_G posts big blind [$0.02]
+** Dealing down cards **
+WhatAHell folds
+** Summary **
+O_LE_G did not show his hand
+O_LE_G collected [ $0.03 ]
+
+
+#Game No : 501802701
+***** 888poker Hand History for Game 501802701 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 09 2018 05:43:46
+Table Madrid 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: WhatAHell ( $0.18 )
+Seat 9: O_LE_G ( $1.10 )
+O_LE_G posts small blind [$0.01]
+** Dealing down cards **
+WhatAHell folds
+** Summary **
+O_LE_G did not show his hand
+O_LE_G collected [ $0.01 ]
+
+

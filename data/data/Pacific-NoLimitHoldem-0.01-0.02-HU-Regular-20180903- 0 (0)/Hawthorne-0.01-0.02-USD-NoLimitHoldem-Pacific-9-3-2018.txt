@@ -1,0 +1,736 @@
+#Game No : 1206636141
+***** 888poker Hand History for Game 1206636141 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:23:15
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.35 )
+Seat 7: mccloskey413 ( $3.95 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 raises [$0.02]
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.04 ]
+
+
+#Game No : 1206636202
+***** 888poker Hand History for Game 1206636202 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:23:29
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.33 )
+Seat 7: mccloskey413 ( $3.97 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 calls [$0.01]
+KNasekhian checks
+** Dealing flop ** [ 7c, 5d, Jc ]
+KNasekhian bets [$0.04]
+mccloskey413 folds
+** Summary **
+KNasekhian collected [ $0.04 ]
+
+
+#Game No : 1206636251
+***** 888poker Hand History for Game 1206636251 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:23:42
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.35 )
+Seat 7: mccloskey413 ( $3.95 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 checks
+** Dealing flop ** [ 2h, Kc, 2d ]
+mccloskey413 checks
+KNasekhian bets [$0.02]
+mccloskey413 calls [$0.02]
+** Dealing turn ** [ 7s ]
+mccloskey413 checks
+KNasekhian checks
+** Dealing river ** [ Jc ]
+mccloskey413 checks
+KNasekhian checks
+** Summary **
+mccloskey413 shows [ 7c, Ts ]
+KNasekhian mucks [ 5d, 6d ]
+mccloskey413 collected [ $0.08 ]
+
+
+#Game No : 1206636383
+***** 888poker Hand History for Game 1206636383 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:24:14
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.31 )
+Seat 7: mccloskey413 ( $3.99 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 raises [$0.03]
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.04 ]
+
+
+#Game No : 1206636418
+***** 888poker Hand History for Game 1206636418 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:24:23
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.29 )
+Seat 7: mccloskey413 ( $4.01 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.03 ]
+
+
+#Game No : 1206636440
+***** 888poker Hand History for Game 1206636440 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:24:28
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.28 )
+Seat 7: mccloskey413 ( $4.02 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 calls [$0.01]
+KNasekhian checks
+** Dealing flop ** [ Ks, 9c, Ad ]
+KNasekhian bets [$0.02]
+mccloskey413 calls [$0.02]
+** Dealing turn ** [ 6c ]
+KNasekhian checks
+mccloskey413 checks
+** Dealing river ** [ As ]
+KNasekhian bets [$0.04]
+mccloskey413 calls [$0.04]
+** Summary **
+KNasekhian shows [ 2d, Qd ]
+mccloskey413 shows [ 9d, 5c ]
+mccloskey413 collected [ $0.15 ]
+
+
+#Game No : 1206636552
+***** 888poker Hand History for Game 1206636552 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:24:55
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.20 )
+Seat 7: mccloskey413 ( $4.09 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 checks
+** Dealing flop ** [ 2d, 7d, 5c ]
+mccloskey413 checks
+KNasekhian checks
+** Dealing turn ** [ 6d ]
+mccloskey413 checks
+KNasekhian bets [$0.02]
+mccloskey413 calls [$0.02]
+** Dealing river ** [ 4d ]
+mccloskey413 checks
+KNasekhian bets [$0.08]
+mccloskey413 folds
+** Summary **
+KNasekhian collected [ $0.08 ]
+
+
+#Game No : 1206636684
+***** 888poker Hand History for Game 1206636684 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:25:27
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.24 )
+Seat 7: mccloskey413 ( $4.05 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 raises [$0.03]
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.04 ]
+
+
+#Game No : 1206636726
+***** 888poker Hand History for Game 1206636726 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:25:36
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.22 )
+Seat 7: mccloskey413 ( $4.07 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian raises [$0.05]
+mccloskey413 folds
+** Summary **
+KNasekhian collected [ $0.04 ]
+
+
+#Game No : 1206636764
+***** 888poker Hand History for Game 1206636764 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:25:44
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.24 )
+Seat 7: mccloskey413 ( $4.05 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 calls [$0.01]
+KNasekhian raises [$0.04]
+mccloskey413 folds
+** Summary **
+KNasekhian collected [ $0.04 ]
+
+
+#Game No : 1206636818
+***** 888poker Hand History for Game 1206636818 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:25:57
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.26 )
+Seat 7: mccloskey413 ( $4.03 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.03 ]
+
+
+#Game No : 1206636842
+***** 888poker Hand History for Game 1206636842 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:26:02
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.25 )
+Seat 7: mccloskey413 ( $4.04 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 raises [$0.03]
+KNasekhian calls [$0.02]
+** Dealing flop ** [ Qs, Ts, 8d ]
+KNasekhian bets [$0.04]
+mccloskey413 raises [$0.20]
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.15 ]
+
+
+#Game No : 1206636935
+***** 888poker Hand History for Game 1206636935 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:26:24
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.17 )
+Seat 7: mccloskey413 ( $4.11 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 checks
+** Dealing flop ** [ 4c, Kh, 5s ]
+mccloskey413 bets [$0.02]
+KNasekhian calls [$0.02]
+** Dealing turn ** [ 7c ]
+mccloskey413 bets [$0.02]
+KNasekhian calls [$0.02]
+** Dealing river ** [ Qs ]
+mccloskey413 bets [$0.02]
+KNasekhian raises [$0.18]
+mccloskey413 calls [$0.16]
+** Summary **
+KNasekhian shows [ 8h, 6h ]
+mccloskey413 mucks [ 5c, Qc ]
+KNasekhian collected [ $0.45 ]
+
+
+#Game No : 1206637053
+***** 888poker Hand History for Game 1206637053 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:26:52
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.38 )
+Seat 7: mccloskey413 ( $3.87 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 raises [$0.03]
+KNasekhian calls [$0.02]
+** Dealing flop ** [ 9d, Th, 2d ]
+KNasekhian checks
+mccloskey413 bets [$0.08]
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.08 ]
+
+
+#Game No : 1206637123
+***** 888poker Hand History for Game 1206637123 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:27:09
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.34 )
+Seat 7: mccloskey413 ( $3.91 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 checks
+** Dealing flop ** [ 8s, 7h, 9h ]
+mccloskey413 bets [$0.04]
+KNasekhian calls [$0.04]
+** Dealing turn ** [ 7s ]
+mccloskey413 bets [$0.02]
+KNasekhian calls [$0.02]
+** Dealing river ** [ 9s ]
+mccloskey413 checks
+KNasekhian bets [$0.10]
+mccloskey413 calls [$0.10]
+** Summary **
+KNasekhian shows [ 4s, 6c ]
+mccloskey413 shows [ 8d, 3s ]
+mccloskey413 collected [ $0.34 ]
+
+
+#Game No : 1206637255
+***** 888poker Hand History for Game 1206637255 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:27:43
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.16 )
+Seat 7: mccloskey413 ( $4.07 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 raises [$0.03]
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.04 ]
+
+
+#Game No : 1206637292
+***** 888poker Hand History for Game 1206637292 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:27:50
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.14 )
+Seat 7: mccloskey413 ( $4.09 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian raises [$0.03]
+mccloskey413 calls [$0.02]
+** Dealing flop ** [ 9c, 8d, 5s ]
+mccloskey413 checks
+KNasekhian bets [$0.08]
+mccloskey413 folds
+** Summary **
+KNasekhian collected [ $0.08 ]
+
+
+#Game No : 1206637355
+***** 888poker Hand History for Game 1206637355 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:28:04
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.18 )
+Seat 7: mccloskey413 ( $4.05 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 folds
+** Summary **
+KNasekhian collected [ $0.03 ]
+
+
+#Game No : 1206637398
+***** 888poker Hand History for Game 1206637398 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:28:13
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.19 )
+Seat 7: mccloskey413 ( $4.04 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 checks
+** Dealing flop ** [ 3c, As, Td ]
+mccloskey413 checks
+KNasekhian bets [$0.02]
+mccloskey413 folds
+** Summary **
+KNasekhian collected [ $0.04 ]
+
+
+#Game No : 1206637464
+***** 888poker Hand History for Game 1206637464 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:28:27
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.21 )
+Seat 7: mccloskey413 ( $4.02 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 raises [$0.03]
+KNasekhian calls [$0.02]
+** Dealing flop ** [ As, 6h, 4s ]
+KNasekhian checks
+mccloskey413 bets [$0.08]
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.08 ]
+
+
+#Game No : 1206637534
+***** 888poker Hand History for Game 1206637534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:28:46
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.17 )
+Seat 7: mccloskey413 ( $4.06 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 checks
+** Dealing flop ** [ Tc, 6h, 3d ]
+mccloskey413 checks
+KNasekhian checks
+** Dealing turn ** [ As ]
+mccloskey413 checks
+KNasekhian bets [$0.02]
+mccloskey413 calls [$0.02]
+** Dealing river ** [ 8d ]
+mccloskey413 bets [$0.08]
+KNasekhian folds
+** Summary **
+mccloskey413 collected [ $0.08 ]
+
+
+#Game No : 1206637629
+***** 888poker Hand History for Game 1206637629 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:29:09
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.13 )
+Seat 7: mccloskey413 ( $4.10 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 calls [$0.01]
+KNasekhian checks
+** Dealing flop ** [ 3c, Qd, 2c ]
+KNasekhian bets [$0.02]
+mccloskey413 folds
+** Summary **
+KNasekhian collected [ $0.04 ]
+
+
+#Game No : 1206637675
+***** 888poker Hand History for Game 1206637675 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:29:22
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.15 )
+Seat 7: mccloskey413 ( $4.08 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 checks
+** Dealing flop ** [ Th, 5c, 3d ]
+mccloskey413 checks
+KNasekhian bets [$0.02]
+mccloskey413 calls [$0.02]
+** Dealing turn ** [ 9h ]
+mccloskey413 checks
+KNasekhian checks
+** Dealing river ** [ As ]
+mccloskey413 checks
+KNasekhian checks
+** Summary **
+mccloskey413 shows [ Kd, 2h ]
+KNasekhian shows [ 5h, Qh ]
+KNasekhian collected [ $0.08 ]
+
+
+#Game No : 1206637870
+***** 888poker Hand History for Game 1206637870 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:30:11
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.19 )
+Seat 7: mccloskey413 ( $4.04 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 raises [$0.03]
+KNasekhian calls [$0.02]
+** Dealing flop ** [ 2s, 3h, Qh ]
+KNasekhian checks
+mccloskey413 bets [$0.08]
+KNasekhian folds
+** Summary **
+mccloskey413 did not show his hand
+mccloskey413 collected [ $0.08 ]
+
+
+#Game No : 1206637942
+***** 888poker Hand History for Game 1206637942 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:30:29
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.15 )
+Seat 7: mccloskey413 ( $4.08 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 checks
+** Dealing flop ** [ Qh, 6h, 8c ]
+mccloskey413 checks
+KNasekhian bets [$0.02]
+mccloskey413 folds
+** Summary **
+KNasekhian did not show his hand
+KNasekhian collected [ $0.04 ]
+
+
+#Game No : 1206638000
+***** 888poker Hand History for Game 1206638000 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:30:43
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.17 )
+Seat 7: mccloskey413 ( $4.06 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 folds
+** Summary **
+KNasekhian did not show his hand
+KNasekhian collected [ $0.03 ]
+
+
+#Game No : 1206638040
+***** 888poker Hand History for Game 1206638040 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:30:51
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.18 )
+Seat 7: mccloskey413 ( $4.05 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 raises [$0.02]
+KNasekhian calls [$0.02]
+** Dealing flop ** [ Js, 4d, 6h ]
+mccloskey413 bets [$0.08]
+KNasekhian folds
+** Summary **
+mccloskey413 did not show his hand
+mccloskey413 collected [ $0.08 ]
+
+
+#Game No : 1206638096
+***** 888poker Hand History for Game 1206638096 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:31:07
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.14 )
+Seat 7: mccloskey413 ( $4.09 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 calls [$0.01]
+KNasekhian raises [$1.12]
+mccloskey413 folds
+** Summary **
+KNasekhian did not show his hand
+KNasekhian collected [ $0.04 ]
+
+
+#Game No : 1206638148
+***** 888poker Hand History for Game 1206638148 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:31:18
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.16 )
+Seat 7: mccloskey413 ( $4.07 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian raises [$0.03]
+mccloskey413 calls [$0.02]
+** Dealing flop ** [ Qs, 5h, Jc ]
+mccloskey413 checks
+KNasekhian checks
+** Dealing turn ** [ 8d ]
+mccloskey413 bets [$0.02]
+KNasekhian raises [$0.04]
+mccloskey413 calls [$0.02]
+** Dealing river ** [ Tc ]
+mccloskey413 checks
+KNasekhian checks
+** Summary **
+mccloskey413 shows [ Qh, Kd ]
+KNasekhian shows [ Qc, As ]
+KNasekhian collected [ $0.15 ]
+
+
+#Game No : 1206638290
+***** 888poker Hand History for Game 1206638290 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:31:57
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $1.23 )
+Seat 7: mccloskey413 ( $3.99 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 raises [$0.03]
+KNasekhian raises [$1.21]
+mccloskey413 calls [$1.19]
+** Dealing flop ** [ 4d, 5s, Jd ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ 6h ]
+** Summary **
+KNasekhian shows [ 6d, 6s ]
+mccloskey413 shows [ Jh, As ]
+KNasekhian collected [ $2.31 ]
+
+
+#Game No : 1206638393
+***** 888poker Hand History for Game 1206638393 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:32:20
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $2.31 )
+Seat 7: mccloskey413 ( $2.76 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian calls [$0.01]
+mccloskey413 raises [$0.04]
+KNasekhian folds
+** Summary **
+mccloskey413 did not show his hand
+mccloskey413 collected [ $0.04 ]
+
+
+#Game No : 1206638443
+***** 888poker Hand History for Game 1206638443 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:32:33
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $2.29 )
+Seat 7: mccloskey413 ( $2.78 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 raises [$0.03]
+KNasekhian calls [$0.02]
+** Dealing flop ** [ 5s, 8c, 3d ]
+KNasekhian checks
+mccloskey413 checks
+** Dealing turn ** [ 8s ]
+KNasekhian bets [$0.02]
+mccloskey413 calls [$0.02]
+** Dealing river ** [ Jh ]
+KNasekhian bets [$0.02]
+mccloskey413 calls [$0.02]
+** Summary **
+KNasekhian shows [ Qc, Jd ]
+mccloskey413 mucks [ Td, Jc ]
+KNasekhian collected [ $0.15 ]
+
+
+#Game No : 1206638544
+***** 888poker Hand History for Game 1206638544 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:32:58
+Table Hawthorne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $2.36 )
+Seat 7: mccloskey413 ( $2.70 )
+KNasekhian posts small blind [$0.01]
+mccloskey413 posts big blind [$0.02]
+** Dealing down cards **
+KNasekhian raises [$2.35]
+mccloskey413 folds
+** Summary **
+KNasekhian did not show his hand
+KNasekhian collected [ $0.04 ]
+
+
+#Game No : 1206638598
+***** 888poker Hand History for Game 1206638598 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 03 09 2018 15:33:12
+Table Hawthorne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 1: KNasekhian ( $2.38 )
+Seat 7: mccloskey413 ( $2.68 )
+mccloskey413 posts small blind [$0.01]
+KNasekhian posts big blind [$0.02]
+** Dealing down cards **
+mccloskey413 calls [$0.01]
+KNasekhian checks
+** Dealing flop ** [ 2d, 4c, Jd ]
+KNasekhian bets [$0.04]
+mccloskey413 folds
+** Summary **
+KNasekhian did not show his hand
+KNasekhian collected [ $0.04 ]
+
+

@@ -1,0 +1,463 @@
+#Game No : 451609193
+***** 888poker Hand History for Game 451609193 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 08:46:50
+Table Duitama 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: runnerflush ( $1.88 )
+Seat 6: Chrissoze ( $0.80 )
+runnerflush posts small blind [$0.01]
+Chrissoze posts big blind [$0.02]
+** Dealing down cards **
+runnerflush raises [$0.05]
+Chrissoze folds
+** Summary **
+runnerflush did not show his hand
+runnerflush collected [ $0.04 ]
+
+
+#Game No : 451609211
+***** 888poker Hand History for Game 451609211 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 08:47:08
+Table Duitama 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: runnerflush ( $1.90 )
+Seat 6: Chrissoze ( $0.78 )
+Chrissoze posts small blind [$0.01]
+runnerflush posts big blind [$0.02]
+** Dealing down cards **
+Chrissoze raises [$0.77]
+runnerflush folds
+** Summary **
+Chrissoze did not show his hand
+Chrissoze collected [ $0.04 ]
+
+
+#Game No : 451610372
+***** 888poker Hand History for Game 451610372 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:10:15
+Table Duitama 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: runnerflush ( $2.24 )
+Seat 7: xalk7714 ( $1.11 )
+runnerflush posts small blind [$0.01]
+xalk7714 posts big blind [$0.02]
+** Dealing down cards **
+runnerflush raises [$0.05]
+xalk7714 folds
+** Summary **
+runnerflush did not show his hand
+runnerflush collected [ $0.04 ]
+
+
+#Game No : 451610377
+***** 888poker Hand History for Game 451610377 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:10:23
+Table Duitama 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: runnerflush ( $2.26 )
+Seat 7: xalk7714 ( $1.09 )
+xalk7714 posts small blind [$0.01]
+runnerflush posts big blind [$0.02]
+** Dealing down cards **
+xalk7714 calls [$0.01]
+runnerflush raises [$0.06]
+xalk7714 calls [$0.06]
+** Dealing flop ** [ 7c, Ts, Kh ]
+runnerflush checks
+xalk7714 checks
+** Dealing turn ** [ 5h ]
+runnerflush checks
+xalk7714 bets [$0.02]
+runnerflush calls [$0.02]
+** Dealing river ** [ Qh ]
+runnerflush checks
+xalk7714 bets [$0.20]
+runnerflush folds
+** Summary **
+xalk7714 collected [ $0.19 ]
+
+
+#Game No : 451610402
+***** 888poker Hand History for Game 451610402 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:10:50
+Table Duitama 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: runnerflush ( $2.16 )
+Seat 7: xalk7714 ( $1.18 )
+runnerflush posts small blind [$0.01]
+xalk7714 posts big blind [$0.02]
+** Dealing down cards **
+runnerflush folds
+** Summary **
+xalk7714 collected [ $0.03 ]
+
+
+#Game No : 451610776
+***** 888poker Hand History for Game 451610776 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:19:20
+Table Duitama 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Dagmaer ( $1.26 )
+Seat 6: deniseede ( $3.39 )
+deniseede posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+deniseede calls [$0.01]
+Dagmaer checks
+** Dealing flop ** [ 5h, Qc, 5d ]
+deniseede checks
+Dagmaer bets [$0.04]
+deniseede folds
+** Summary **
+Dagmaer collected [ $0.04 ]
+
+
+#Game No : 451610795
+***** 888poker Hand History for Game 451610795 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:19:40
+Table Duitama 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Dagmaer ( $1.28 )
+Seat 6: deniseede ( $3.37 )
+deniseede posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+deniseede calls [$0.01]
+Dagmaer checks
+** Dealing flop ** [ Jc, 2h, 3d ]
+Dagmaer checks
+deniseede checks
+** Dealing turn ** [ 5d ]
+Dagmaer bets [$0.04]
+deniseede calls [$0.04]
+** Dealing river ** [ Jh ]
+Dagmaer bets [$0.04]
+deniseede folds
+** Summary **
+Dagmaer collected [ $0.12 ]
+
+
+#Game No : 451610813
+***** 888poker Hand History for Game 451610813 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:19:59
+Table Duitama 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Dagmaer ( $1.34 )
+Seat 6: deniseede ( $3.31 )
+Dagmaer posts small blind [$0.01]
+deniseede posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer raises [$0.04]
+deniseede calls [$0.03]
+** Dealing flop ** [ 7s, Kd, 6d ]
+deniseede bets [$0.06]
+Dagmaer calls [$0.06]
+** Dealing turn ** [ 5d ]
+deniseede bets [$0.06]
+Dagmaer calls [$0.06]
+** Dealing river ** [ Qd ]
+deniseede bets [$0.06]
+Dagmaer raises [$0.52]
+deniseede folds
+** Summary **
+Dagmaer collected [ $0.44 ]
+
+
+#Game No : 451610831
+***** 888poker Hand History for Game 451610831 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:20:25
+Table Duitama 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: Dagmaer ( $1.55 )
+Seat 6: deniseede ( $3.08 )
+deniseede posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+deniseede calls [$0.01]
+Dagmaer checks
+** Dealing flop ** [ Jd, 2s, 5h ]
+Dagmaer bets [$0.04]
+deniseede folds
+** Summary **
+Dagmaer collected [ $0.04 ]
+
+
+#Game No : 451610876
+***** 888poker Hand History for Game 451610876 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:21:10
+Table Duitama 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Dagmaer ( $1.48 )
+Seat 9: Rokeronespc ( $1.01 )
+Rokeronespc posts small blind [$0.01]
+Dagmaer posts big blind [$0.02]
+** Dealing down cards **
+Rokeronespc calls [$0.01]
+Dagmaer checks
+** Dealing flop ** [ As, 2h, 8c ]
+Dagmaer checks
+Rokeronespc bets [$0.03]
+Dagmaer folds
+** Summary **
+Rokeronespc collected [ $0.04 ]
+
+
+#Game No : 451610893
+***** 888poker Hand History for Game 451610893 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:21:33
+Table Duitama 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Dagmaer ( $1.46 )
+Seat 9: Rokeronespc ( $1.03 )
+Dagmaer posts small blind [$0.01]
+Rokeronespc posts big blind [$0.02]
+** Dealing down cards **
+Dagmaer calls [$0.01]
+Rokeronespc checks
+** Dealing flop ** [ 6s, 4h, Kh ]
+Rokeronespc checks
+Dagmaer checks
+** Dealing turn ** [ 2c ]
+Rokeronespc bets [$0.03]
+Dagmaer folds
+** Summary **
+Rokeronespc collected [ $0.04 ]
+
+
+#Game No : 451611338
+***** 888poker Hand History for Game 451611338 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:30:59
+Table Duitama 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: di179 ( $1.21 )
+Seat 4: Bigpluis ( $1 )
+di179 posts small blind [$0.01]
+Bigpluis posts big blind [$0.02]
+** Dealing down cards **
+di179 calls [$0.01]
+Bigpluis checks
+** Dealing flop ** [ Th, Qc, 2s ]
+Bigpluis checks
+di179 bets [$0.02]
+Bigpluis folds
+** Summary **
+di179 collected [ $0.04 ]
+
+
+#Game No : 451611351
+***** 888poker Hand History for Game 451611351 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:31:13
+Table Duitama 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: di179 ( $1.23 )
+Seat 4: Bigpluis ( $1 )
+Bigpluis posts small blind [$0.01]
+di179 posts big blind [$0.02]
+** Dealing down cards **
+Bigpluis raises [$0.03]
+di179 calls [$0.02]
+** Dealing flop ** [ 5s, 3c, 7d ]
+di179 bets [$0.02]
+Bigpluis calls [$0.02]
+** Dealing turn ** [ 5c ]
+di179 bets [$0.06]
+Bigpluis calls [$0.06]
+** Dealing river ** [ 9h ]
+di179 bets [$0.12]
+Bigpluis raises [$0.40]
+di179 folds
+** Summary **
+Bigpluis collected [ $0.45 ]
+
+
+#Game No : 451611371
+***** 888poker Hand History for Game 451611371 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:31:37
+Table Duitama 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: di179 ( $0.99 )
+Seat 4: Bigpluis ( $1.21 )
+di179 posts small blind [$0.01]
+Bigpluis posts big blind [$0.02]
+** Dealing down cards **
+di179 calls [$0.01]
+Bigpluis checks
+** Dealing flop ** [ 5d, Th, 6d ]
+Bigpluis checks
+di179 checks
+** Dealing turn ** [ Qh ]
+Bigpluis checks
+di179 checks
+** Dealing river ** [ As ]
+Bigpluis checks
+di179 folds
+** Summary **
+Bigpluis collected [ $0.04 ]
+
+
+#Game No : 451611390
+***** 888poker Hand History for Game 451611390 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 09:31:59
+Table Duitama 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: di179 ( $0.97 )
+Seat 4: Bigpluis ( $1.23 )
+Bigpluis posts small blind [$0.01]
+di179 posts big blind [$0.02]
+** Dealing down cards **
+Bigpluis raises [$0.03]
+di179 raises [$0.04]
+Bigpluis calls [$0.02]
+** Dealing flop ** [ 8h, 9s, As ]
+di179 bets [$0.06]
+Bigpluis folds
+** Summary **
+di179 collected [ $0.12 ]
+
+
+#Game No : 451616289
+***** 888poker Hand History for Game 451616289 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 11:11:35
+Table Duitama 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Mavik2108 ( $1.11 )
+Seat 6: oleg566 ( $1 )
+oleg566 posts small blind [$0.01]
+** Dealing down cards **
+Mavik2108 folds
+** Summary **
+oleg566 collected [ $0.01 ]
+
+
+#Game No : 451616299
+***** 888poker Hand History for Game 451616299 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 11:11:48
+Table Duitama 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Mavik2108 ( $1.11 )
+Seat 6: oleg566 ( $1 )
+oleg566 posts small blind [$0.01]
+Mavik2108 posts big blind [$0.02]
+** Dealing down cards **
+oleg566 calls [$0.01]
+Mavik2108 checks
+** Dealing flop ** [ 5d, 7s, 2d ]
+Mavik2108 checks
+oleg566 bets [$0.04]
+Mavik2108 folds
+** Summary **
+oleg566 collected [ $0.04 ]
+
+
+#Game No : 451622794
+***** 888poker Hand History for Game 451622794 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 13:01:20
+Table Duitama 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Lepoir0000 ( $1 )
+Seat 7: RETHONRETH ( $1 )
+RETHONRETH posts small blind [$0.01]
+Lepoir0000 posts big blind [$0.02]
+** Dealing down cards **
+RETHONRETH folds
+** Summary **
+Lepoir0000 collected [ $0.03 ]
+
+
+#Game No : 451622900
+***** 888poker Hand History for Game 451622900 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 13:02:43
+Table Duitama 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: Lepoir0000 ( $0.81 )
+Seat 7: RETHONRETH ( $1.05 )
+Lepoir0000 posts small blind [$0.01]
+RETHONRETH posts big blind [$0.02]
+** Dealing down cards **
+Lepoir0000 calls [$0.01]
+RETHONRETH raises [$0.04]
+Lepoir0000 calls [$0.04]
+** Dealing flop ** [ 3h, Kc, Td ]
+Lepoir0000 checks
+RETHONRETH checks
+** Dealing turn ** [ Qc ]
+Lepoir0000 checks
+RETHONRETH checks
+** Dealing river ** [ Tc ]
+Lepoir0000 bets [$0.75]
+RETHONRETH folds
+** Summary **
+Lepoir0000 collected [ $0.12 ]
+
+
+#Game No : 451628350
+***** 888poker Hand History for Game 451628350 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 14:30:09
+Table Duitama 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: MAX_Rom ( $1.32 )
+Seat 2: zrito ( $1.12 )
+zrito posts small blind [$0.01]
+MAX_Rom posts big blind [$0.02]
+** Dealing down cards **
+zrito calls [$0.01]
+MAX_Rom raises [$0.02]
+zrito folds
+** Summary **
+MAX_Rom did not show his hand
+MAX_Rom collected [ $0.04 ]
+
+
+#Game No : 451628362
+***** 888poker Hand History for Game 451628362 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 14:30:25
+Table Duitama 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: MAX_Rom ( $1.34 )
+Seat 2: zrito ( $1.10 )
+MAX_Rom posts small blind [$0.01]
+zrito posts big blind [$0.02]
+** Dealing down cards **
+MAX_Rom folds
+** Summary **
+zrito did not show his hand
+zrito collected [ $0.03 ]
+
+
+#Game No : 451628370
+***** 888poker Hand History for Game 451628370 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 05 06 2018 14:30:32
+Table Duitama 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: MAX_Rom ( $1.33 )
+Seat 2: zrito ( $1.11 )
+zrito posts small blind [$0.01]
+** Dealing down cards **
+MAX_Rom folds
+** Summary **
+zrito did not show his hand
+zrito collected [ $0.01 ]
+
+

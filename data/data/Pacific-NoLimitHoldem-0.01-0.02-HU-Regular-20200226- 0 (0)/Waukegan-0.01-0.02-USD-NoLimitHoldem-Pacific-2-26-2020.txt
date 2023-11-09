@@ -1,0 +1,45 @@
+#Game No : 475243858
+***** 888poker Hand History for Game 475243858 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2020 12:58:54
+Table Waukegan 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Wardenis ( $2 )
+Seat 9: EyeSee2019 ( $2 )
+EyeSee2019 posts small blind [$0.01]
+** Dealing down cards **
+Wardenis folds
+** Summary **
+EyeSee2019 collected [ $0.01 ]
+
+
+#Game No : 475243860
+***** 888poker Hand History for Game 475243860 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 26 02 2020 12:58:58
+Table Waukegan 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 7: mlvetra ( $1.31 )
+Seat 9: EyeSee2019 ( $2 )
+EyeSee2019 posts small blind [$0.01]
+mlvetra posts big blind [$0.02]
+** Dealing down cards **
+EyeSee2019 raises [$0.05]
+mlvetra calls [$0.04]
+** Dealing flop ** [ 4h, Ts, Th ]
+mlvetra checks
+EyeSee2019 bets [$0.08]
+mlvetra calls [$0.08]
+** Dealing turn ** [ 9s ]
+mlvetra checks
+EyeSee2019 bets [$0.18]
+mlvetra raises [$0.45]
+EyeSee2019 raises [$1.68]
+mlvetra calls [$0.72]
+** Dealing river ** [ Ac ]
+** Summary **
+mlvetra shows [ 4d, 4c ]
+EyeSee2019 shows [ 9h, 9d ]
+EyeSee2019 collected [ $2.46 ]
+
+

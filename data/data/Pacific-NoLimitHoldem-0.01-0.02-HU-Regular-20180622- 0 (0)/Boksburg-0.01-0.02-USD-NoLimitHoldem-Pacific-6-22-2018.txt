@@ -1,0 +1,627 @@
+#Game No : 499028761
+***** 888poker Hand History for Game 499028761 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 09:12:07
+Table Boksburg 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: feskar_paul ( $0.93 )
+Seat 2: NPD5W ( $1.02 )
+feskar_paul posts small blind [$0.01]
+NPD5W posts big blind [$0.02]
+** Dealing down cards **
+feskar_paul calls [$0.01]
+NPD5W checks
+** Dealing flop ** [ 9s, 6h, 7c ]
+NPD5W bets [$0.02]
+feskar_paul calls [$0.02]
+** Dealing turn ** [ Qd ]
+NPD5W checks
+feskar_paul checks
+** Dealing river ** [ Jd ]
+NPD5W bets [$0.02]
+feskar_paul folds
+** Summary **
+NPD5W collected [ $0.08 ]
+
+
+#Game No : 499028784
+***** 888poker Hand History for Game 499028784 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 09:12:29
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: feskar_paul ( $0.89 )
+Seat 2: NPD5W ( $1.06 )
+NPD5W posts small blind [$0.01]
+feskar_paul posts big blind [$0.02]
+** Dealing down cards **
+NPD5W calls [$0.01]
+feskar_paul checks
+** Dealing flop ** [ Kd, Tc, 6h ]
+feskar_paul checks
+NPD5W bets [$0.02]
+feskar_paul calls [$0.02]
+** Dealing turn ** [ 7d ]
+feskar_paul bets [$0.02]
+NPD5W calls [$0.02]
+** Dealing river ** [ Qh ]
+feskar_paul bets [$0.02]
+NPD5W calls [$0.02]
+** Summary **
+feskar_paul shows [ Ah, As ]
+NPD5W mucks [ Th, 3d ]
+feskar_paul collected [ $0.15 ]
+
+
+#Game No : 499033282
+***** 888poker Hand History for Game 499033282 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:12:44
+Table Boksburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.73 )
+Seat 6: TheTanarius ( $0.34 )
+TheTanarius posts small blind [$0.01]
+Malloun posts big blind [$0.02]
+** Dealing down cards **
+TheTanarius calls [$0.01]
+Malloun checks
+** Dealing flop ** [ As, Ts, 7h ]
+Malloun checks
+TheTanarius checks
+** Dealing turn ** [ Kd ]
+Malloun checks
+TheTanarius checks
+** Dealing river ** [ Tc ]
+Malloun checks
+TheTanarius bets [$0.02]
+Malloun raises [$0.12]
+TheTanarius folds
+** Summary **
+Malloun collected [ $0.08 ]
+
+
+#Game No : 499033312
+***** 888poker Hand History for Game 499033312 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:13:32
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.77 )
+Seat 6: TheTanarius ( $0.30 )
+Malloun posts small blind [$0.01]
+TheTanarius posts big blind [$0.02]
+** Dealing down cards **
+Malloun calls [$0.01]
+TheTanarius checks
+** Dealing flop ** [ Tc, 2c, 5s ]
+TheTanarius bets [$0.02]
+Malloun folds
+** Summary **
+TheTanarius collected [ $0.04 ]
+
+
+#Game No : 499033320
+***** 888poker Hand History for Game 499033320 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:13:45
+Table Boksburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.75 )
+Seat 6: TheTanarius ( $0.32 )
+TheTanarius posts small blind [$0.01]
+Malloun posts big blind [$0.02]
+** Dealing down cards **
+TheTanarius calls [$0.01]
+Malloun checks
+** Dealing flop ** [ Kd, 6h, Th ]
+Malloun bets [$0.02]
+TheTanarius folds
+** Summary **
+Malloun collected [ $0.04 ]
+
+
+#Game No : 499033336
+***** 888poker Hand History for Game 499033336 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:14:14
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.77 )
+Seat 6: TheTanarius ( $0.30 )
+Malloun posts small blind [$0.01]
+TheTanarius posts big blind [$0.02]
+** Dealing down cards **
+Malloun calls [$0.01]
+TheTanarius raises [$0.04]
+Malloun calls [$0.04]
+** Dealing flop ** [ 4h, 2d, 6d ]
+TheTanarius checks
+Malloun bets [$0.08]
+TheTanarius folds
+** Summary **
+Malloun collected [ $0.12 ]
+
+
+#Game No : 499033352
+***** 888poker Hand History for Game 499033352 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:14:45
+Table Boksburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.83 )
+Seat 6: TheTanarius ( $0.24 )
+TheTanarius posts small blind [$0.01]
+Malloun posts big blind [$0.02]
+** Dealing down cards **
+TheTanarius raises [$0.03]
+Malloun calls [$0.02]
+** Dealing flop ** [ Td, Qd, Kc ]
+Malloun checks
+TheTanarius bets [$0.04]
+Malloun calls [$0.04]
+** Dealing turn ** [ 5h ]
+Malloun checks
+TheTanarius bets [$0.06]
+Malloun calls [$0.06]
+** Dealing river ** [ 9s ]
+Malloun checks
+TheTanarius bets [$0.10]
+Malloun calls [$0.10]
+** Summary **
+Malloun shows [ Qc, 7d ]
+TheTanarius shows [ 5c, Kh ]
+TheTanarius collected [ $0.45 ]
+
+
+#Game No : 499033384
+***** 888poker Hand History for Game 499033384 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:15:36
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.59 )
+Seat 6: TheTanarius ( $0.45 )
+Malloun posts small blind [$0.01]
+TheTanarius posts big blind [$0.02]
+** Dealing down cards **
+Malloun calls [$0.01]
+TheTanarius checks
+** Dealing flop ** [ 2h, 3c, 6s ]
+TheTanarius checks
+Malloun checks
+** Dealing turn ** [ Qd ]
+TheTanarius checks
+Malloun bets [$0.04]
+TheTanarius folds
+** Summary **
+Malloun collected [ $0.04 ]
+
+
+#Game No : 499033396
+***** 888poker Hand History for Game 499033396 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:15:59
+Table Boksburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.61 )
+Seat 6: TheTanarius ( $0.43 )
+TheTanarius posts small blind [$0.01]
+Malloun posts big blind [$0.02]
+** Dealing down cards **
+TheTanarius calls [$0.01]
+Malloun checks
+** Dealing flop ** [ 6h, Jc, Ad ]
+Malloun checks
+TheTanarius bets [$0.02]
+Malloun folds
+** Summary **
+TheTanarius collected [ $0.04 ]
+
+
+#Game No : 499033409
+***** 888poker Hand History for Game 499033409 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:16:21
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.59 )
+Seat 6: TheTanarius ( $0.45 )
+Malloun posts small blind [$0.01]
+TheTanarius posts big blind [$0.02]
+** Dealing down cards **
+Malloun calls [$0.01]
+TheTanarius checks
+** Dealing flop ** [ Th, 3d, 3h ]
+TheTanarius checks
+Malloun bets [$0.04]
+TheTanarius folds
+** Summary **
+Malloun did not show his hand
+Malloun collected [ $0.04 ]
+
+
+#Game No : 499033422
+***** 888poker Hand History for Game 499033422 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:16:44
+Table Boksburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.61 )
+Seat 6: TheTanarius ( $0.43 )
+TheTanarius posts small blind [$0.01]
+Malloun posts big blind [$0.02]
+** Dealing down cards **
+TheTanarius calls [$0.01]
+Malloun checks
+** Dealing flop ** [ Qs, Ac, Qd ]
+Malloun checks
+TheTanarius bets [$0.02]
+Malloun folds
+** Summary **
+TheTanarius did not show his hand
+TheTanarius collected [ $0.04 ]
+
+
+#Game No : 499033433
+***** 888poker Hand History for Game 499033433 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:16:57
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.59 )
+Seat 6: TheTanarius ( $0.45 )
+Malloun posts small blind [$0.01]
+TheTanarius posts big blind [$0.02]
+** Dealing down cards **
+Malloun calls [$0.01]
+TheTanarius checks
+** Dealing flop ** [ Ac, Ks, Qd ]
+TheTanarius checks
+Malloun checks
+** Dealing turn ** [ 3s ]
+TheTanarius bets [$0.02]
+Malloun calls [$0.02]
+** Dealing river ** [ Jh ]
+TheTanarius checks
+Malloun bets [$0.05]
+TheTanarius folds
+** Summary **
+Malloun did not show his hand
+Malloun collected [ $0.08 ]
+
+
+#Game No : 499033449
+***** 888poker Hand History for Game 499033449 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:17:24
+Table Boksburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.63 )
+Seat 6: TheTanarius ( $0.41 )
+TheTanarius posts small blind [$0.01]
+Malloun posts big blind [$0.02]
+** Dealing down cards **
+TheTanarius calls [$0.01]
+Malloun checks
+** Dealing flop ** [ Ah, Js, 4s ]
+Malloun checks
+TheTanarius checks
+** Dealing turn ** [ Ts ]
+Malloun checks
+TheTanarius checks
+** Dealing river ** [ 5c ]
+Malloun bets [$0.04]
+TheTanarius folds
+** Summary **
+Malloun did not show his hand
+Malloun collected [ $0.04 ]
+
+
+#Game No : 499033461
+***** 888poker Hand History for Game 499033461 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:17:43
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Malloun ( $1.65 )
+Seat 6: TheTanarius ( $0.39 )
+Malloun posts small blind [$0.01]
+TheTanarius posts big blind [$0.02]
+** Dealing down cards **
+Malloun calls [$0.01]
+TheTanarius checks
+** Dealing flop ** [ 8s, 7s, 6d ]
+TheTanarius checks
+Malloun bets [$0.04]
+TheTanarius calls [$0.04]
+** Dealing turn ** [ Kd ]
+TheTanarius checks
+Malloun bets [$0.12]
+TheTanarius raises [$0.33]
+Malloun calls [$0.21]
+** Dealing river ** [ Ac ]
+** Summary **
+Malloun shows [ 8c, Td ]
+TheTanarius shows [ 9h, 6h ]
+Malloun collected [ $0.74 ]
+
+
+#Game No : 499033493
+***** 888poker Hand History for Game 499033493 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:18:42
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Malloun ( $2 )
+Seat 7: Topgun305 ( $1 )
+Malloun posts small blind [$0.01]
+Topgun305 posts big blind [$0.02]
+** Dealing down cards **
+Malloun calls [$0.01]
+Topgun305 checks
+** Dealing flop ** [ Td, 7s, 8h ]
+Topgun305 checks
+Malloun bets [$0.04]
+Topgun305 calls [$0.04]
+** Dealing turn ** [ Qc ]
+Topgun305 checks
+Malloun checks
+** Dealing river ** [ 9d ]
+Topgun305 checks
+Malloun bets [$0.12]
+Topgun305 folds
+** Summary **
+Malloun collected [ $0.12 ]
+
+
+#Game No : 499033886
+***** 888poker Hand History for Game 499033886 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:31:49
+Table Boksburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Obito111 ( $1.06 )
+Seat 7: Topgun305 ( $0.81 )
+Topgun305 posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+Topgun305 calls [$0.01]
+Obito111 checks
+** Dealing flop ** [ Jc, Th, 9c ]
+Obito111 checks
+Topgun305 checks
+** Dealing turn ** [ 7d ]
+Obito111 checks
+Topgun305 checks
+** Dealing river ** [ Td ]
+Obito111 checks
+Topgun305 checks
+** Summary **
+Obito111 shows [ 7s, 2s ]
+Topgun305 mucks [ Ks, 4h ]
+Obito111 collected [ $0.04 ]
+
+
+#Game No : 499033901
+***** 888poker Hand History for Game 499033901 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:32:25
+Table Boksburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Obito111 ( $1.08 )
+Seat 7: Topgun305 ( $0.79 )
+Obito111 posts small blind [$0.01]
+Topgun305 posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+Topgun305 calls [$0.02]
+** Dealing flop ** [ 3s, 8s, Ac ]
+Topgun305 checks
+Obito111 bets [$0.04]
+Topgun305 calls [$0.04]
+** Dealing turn ** [ 3h ]
+Topgun305 checks
+Obito111 bets [$0.08]
+Topgun305 folds
+** Summary **
+Obito111 did not show his hand
+Obito111 collected [ $0.15 ]
+
+
+#Game No : 499033914
+***** 888poker Hand History for Game 499033914 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:32:49
+Table Boksburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Obito111 ( $1.15 )
+Seat 7: Topgun305 ( $0.71 )
+Topgun305 posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+Topgun305 folds
+** Summary **
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 499033940
+***** 888poker Hand History for Game 499033940 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:33:54
+Table Boksburg 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Obito111 ( $1.19 )
+Seat 7: Topgun305 ( $0.78 )
+Obito111 posts small blind [$0.01]
+Topgun305 posts big blind [$0.02]
+** Dealing down cards **
+Obito111 raises [$0.03]
+Topgun305 raises [$0.04]
+Obito111 calls [$0.02]
+** Dealing flop ** [ 4c, Qs, 3c ]
+Topgun305 checks
+Obito111 bets [$0.04]
+Topgun305 folds
+** Summary **
+Obito111 collected [ $0.12 ]
+
+
+#Game No : 499033952
+***** 888poker Hand History for Game 499033952 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 12:34:19
+Table Boksburg 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Obito111 ( $1.25 )
+Seat 7: Topgun305 ( $0.72 )
+Topgun305 posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+Topgun305 folds
+** Summary **
+Obito111 collected [ $0.03 ]
+
+
+#Game No : 499036686
+***** 888poker Hand History for Game 499036686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 14:07:55
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Yancco ( $2.16 )
+Seat 7: nemanjaboo ( $0.96 )
+Yancco posts small blind [$0.01]
+nemanjaboo posts big blind [$0.02]
+** Dealing down cards **
+Yancco raises [$0.05]
+nemanjaboo folds
+** Summary **
+Yancco collected [ $0.04 ]
+
+
+#Game No : 499036697
+***** 888poker Hand History for Game 499036697 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 14:08:08
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Yancco ( $2.18 )
+Seat 6: Meroveus ( $1 )
+Yancco posts small blind [$0.01]
+Meroveus posts big blind [$0.02]
+** Dealing down cards **
+Yancco raises [$0.05]
+Meroveus folds
+** Summary **
+Yancco collected [ $0.04 ]
+
+
+#Game No : 499036704
+***** 888poker Hand History for Game 499036704 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 14:08:18
+Table Boksburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Yancco ( $2.20 )
+Seat 6: Meroveus ( $1 )
+Meroveus posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+Meroveus raises [$0.03]
+Yancco raises [$0.10]
+Meroveus folds
+** Summary **
+Yancco collected [ $0.08 ]
+
+
+#Game No : 499036708
+***** 888poker Hand History for Game 499036708 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 14:08:37
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Yancco ( $2.24 )
+Seat 6: Meroveus ( $1 )
+Yancco posts small blind [$0.01]
+Meroveus posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+Meroveus collected [ $0.03 ]
+
+
+#Game No : 499036711
+***** 888poker Hand History for Game 499036711 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 14:08:43
+Table Boksburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 2: Yancco ( $2.23 )
+Seat 6: Meroveus ( $1.01 )
+Meroveus posts small blind [$0.01]
+Yancco posts big blind [$0.02]
+** Dealing down cards **
+Meroveus raises [$0.03]
+Yancco calls [$0.02]
+** Dealing flop ** [ Tc, 4d, As ]
+Yancco checks
+Meroveus bets [$0.06]
+Yancco folds
+** Summary **
+Meroveus collected [ $0.08 ]
+
+
+#Game No : 499036724
+***** 888poker Hand History for Game 499036724 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 14:09:09
+Table Boksburg 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Meroveus ( $1.05 )
+Seat 9: chichipan ( $1.68 )
+Meroveus posts small blind [$0.01]
+chichipan posts big blind [$0.02]
+** Dealing down cards **
+Meroveus raises [$0.05]
+chichipan calls [$0.04]
+** Dealing flop ** [ 9s, 3d, Qh ]
+chichipan checks
+Meroveus bets [$0.06]
+chichipan folds
+** Summary **
+Meroveus collected [ $0.12 ]
+
+
+#Game No : 499037577
+***** 888poker Hand History for Game 499037577 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 14:40:15
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Yancco ( $3.08 )
+Seat 9: chichipan ( $2.58 )
+Yancco posts small blind [$0.01]
+chichipan posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+chichipan collected [ $0.03 ]
+
+
+#Game No : 499039261
+***** 888poker Hand History for Game 499039261 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 15:55:41
+Table Boksburg 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Yancco ( $6.51 )
+Seat 6: Obito111 ( $1.07 )
+Yancco posts small blind [$0.01]
+Obito111 posts big blind [$0.02]
+** Dealing down cards **
+Yancco folds
+** Summary **
+Obito111 collected [ $0.03 ]
+
+

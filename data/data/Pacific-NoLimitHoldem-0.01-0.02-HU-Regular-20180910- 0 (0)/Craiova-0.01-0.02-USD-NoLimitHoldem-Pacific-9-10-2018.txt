@@ -1,0 +1,180 @@
+#Game No : 510808152
+***** 888poker Hand History for Game 510808152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 09:04:28
+Table Craiova 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: Griboedow ( $1.40 )
+Seat 7: IlyaZZZZZZ ( $0.98 )
+Griboedow posts small blind [$0.01]
+IlyaZZZZZZ posts big blind [$0.02]
+** Dealing down cards **
+Griboedow calls [$0.01]
+IlyaZZZZZZ raises [$0.02]
+Griboedow calls [$0.02]
+** Dealing flop ** [ 8c, 9d, 7h ]
+IlyaZZZZZZ checks
+Griboedow checks
+** Dealing turn ** [ 7c ]
+IlyaZZZZZZ checks
+Griboedow checks
+** Dealing river ** [ 3h ]
+IlyaZZZZZZ bets [$0.04]
+Griboedow raises [$0.22]
+IlyaZZZZZZ calls [$0.18]
+** Summary **
+Griboedow shows [ Th, 6h ]
+IlyaZZZZZZ mucks [ Qh, 3c ]
+Griboedow collected [ $0.49 ]
+
+
+#Game No : 510808194
+***** 888poker Hand History for Game 510808194 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 09:05:07
+Table Craiova 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: Griboedow ( $1.63 )
+Seat 7: IlyaZZZZZZ ( $0.72 )
+IlyaZZZZZZ posts small blind [$0.01]
+Griboedow posts big blind [$0.02]
+** Dealing down cards **
+IlyaZZZZZZ raises [$0.07]
+Griboedow folds
+** Summary **
+IlyaZZZZZZ collected [ $0.04 ]
+
+
+#Game No : 510830392
+***** 888poker Hand History for Game 510830392 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 13:21:44
+Table Craiova 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $2 )
+Seat 4: rojser ( $0.93 )
+rojser posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+rojser calls [$0.01]
+skilledm3n checks
+** Dealing flop ** [ Qs, 2s, 7s ]
+skilledm3n checks
+rojser checks
+** Dealing turn ** [ 6h ]
+skilledm3n bets [$0.03]
+rojser calls [$0.03]
+** Dealing river ** [ Kc ]
+skilledm3n checks
+rojser checks
+** Summary **
+skilledm3n shows [ Kd, Tc ]
+rojser mucks [ 9s, 6d ]
+skilledm3n collected [ $0.10 ]
+
+
+#Game No : 510830481
+***** 888poker Hand History for Game 510830481 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 13:22:31
+Table Craiova 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $2.05 )
+Seat 4: rojser ( $0.88 )
+skilledm3n posts small blind [$0.01]
+** Dealing down cards **
+rojser folds
+** Summary **
+skilledm3n collected [ $0.01 ]
+
+
+#Game No : 510831002
+***** 888poker Hand History for Game 510831002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 13:28:24
+Table Craiova 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $2.05 )
+Seat 5: BOND13021989 ( $1.20 )
+BOND13021989 posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+BOND13021989 calls [$0.01]
+skilledm3n raises [$0.06]
+BOND13021989 calls [$0.06]
+** Dealing flop ** [ 4c, 9d, Kh ]
+skilledm3n bets [$0.11]
+BOND13021989 folds
+** Summary **
+skilledm3n did not show his hand
+skilledm3n collected [ $0.15 ]
+
+
+#Game No : 510831055
+***** 888poker Hand History for Game 510831055 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 13:28:59
+Table Craiova 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $2.12 )
+Seat 5: BOND13021989 ( $1.12 )
+skilledm3n posts small blind [$0.01]
+BOND13021989 posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n raises [$0.05]
+BOND13021989 folds
+** Summary **
+skilledm3n did not show his hand
+skilledm3n collected [ $0.04 ]
+
+
+#Game No : 510831077
+***** 888poker Hand History for Game 510831077 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 13:29:16
+Table Craiova 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $2.14 )
+Seat 5: BOND13021989 ( $1.10 )
+BOND13021989 posts small blind [$0.01]
+skilledm3n posts big blind [$0.02]
+** Dealing down cards **
+BOND13021989 calls [$0.01]
+skilledm3n checks
+** Dealing flop ** [ 4h, Qd, 9c ]
+skilledm3n checks
+BOND13021989 bets [$0.04]
+skilledm3n folds
+** Summary **
+BOND13021989 did not show his hand
+BOND13021989 collected [ $0.04 ]
+
+
+#Game No : 510831131
+***** 888poker Hand History for Game 510831131 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 09 2018 13:29:48
+Table Craiova 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: skilledm3n ( $2.12 )
+Seat 5: BOND13021989 ( $1.12 )
+skilledm3n posts small blind [$0.01]
+BOND13021989 posts big blind [$0.02]
+** Dealing down cards **
+skilledm3n raises [$0.05]
+BOND13021989 calls [$0.04]
+** Dealing flop ** [ Qc, 9h, 6d ]
+BOND13021989 bets [$0.02]
+skilledm3n calls [$0.02]
+** Dealing turn ** [ 7d ]
+BOND13021989 checks
+skilledm3n bets [$0.10]
+BOND13021989 calls [$0.10]
+** Dealing river ** [ Jc ]
+BOND13021989 bets [$0.36]
+skilledm3n folds
+** Summary **
+BOND13021989 did not show his hand
+BOND13021989 collected [ $0.34 ]
+
+

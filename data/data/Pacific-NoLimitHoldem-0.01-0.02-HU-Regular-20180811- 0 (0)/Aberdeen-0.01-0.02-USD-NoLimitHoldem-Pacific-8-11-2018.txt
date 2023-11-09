@@ -1,0 +1,84 @@
+#Game No : 500736649
+***** 888poker Hand History for Game 500736649 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2018 09:26:23
+Table Aberdeen 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: 123aigo ( $0.97 )
+Seat 4: manicteacher ( $0.75 )
+123aigo posts small blind [$0.01]
+manicteacher posts big blind [$0.02]
+** Dealing down cards **
+123aigo raises [$0.05]
+manicteacher calls [$0.04]
+** Dealing flop ** [ Td, 8h, Kd ]
+manicteacher checks
+123aigo checks
+** Dealing turn ** [ 8c ]
+manicteacher bets [$0.06]
+123aigo calls [$0.06]
+** Dealing river ** [ 4h ]
+manicteacher bets [$0.12]
+123aigo calls [$0.12]
+** Summary **
+manicteacher shows [ Kh, 9s ]
+123aigo mucks [ As, Ts ]
+manicteacher collected [ $0.45 ]
+
+
+#Game No : 500736686
+***** 888poker Hand History for Game 500736686 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2018 09:27:02
+Table Aberdeen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: 123aigo ( $1 )
+Seat 4: manicteacher ( $0.96 )
+manicteacher posts small blind [$0.01]
+** Dealing down cards **
+123aigo folds
+** Summary **
+manicteacher did not show his hand
+manicteacher collected [ $0.01 ]
+
+
+#Game No : 500737095
+***** 888poker Hand History for Game 500737095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2018 09:35:23
+Table Aberdeen 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Marco8103 ( $0.84 )
+Seat 6: claytyn7 ( $1.14 )
+claytyn7 posts small blind [$0.01]
+Marco8103 posts big blind [$0.02]
+** Dealing down cards **
+claytyn7 folds
+** Summary **
+Marco8103 collected [ $0.03 ]
+
+
+#Game No : 500737296
+***** 888poker Hand History for Game 500737296 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 08 2018 09:39:04
+Table Aberdeen 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Marco8103 ( $1.75 )
+Seat 7: DrLeal ( $0.98 )
+Marco8103 posts small blind [$0.01]
+DrLeal posts big blind [$0.02]
+** Dealing down cards **
+Marco8103 calls [$0.01]
+DrLeal checks
+** Dealing flop ** [ 2d, 3s, 7c ]
+DrLeal checks
+Marco8103 bets [$0.02]
+DrLeal calls [$0.02]
+** Dealing turn ** [ Kc ]
+DrLeal bets [$0.08]
+Marco8103 folds
+** Summary **
+DrLeal collected [ $0.08 ]
+
+

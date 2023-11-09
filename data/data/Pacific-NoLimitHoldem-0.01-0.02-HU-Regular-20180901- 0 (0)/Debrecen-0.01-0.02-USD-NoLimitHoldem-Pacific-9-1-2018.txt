@@ -1,0 +1,299 @@
+#Game No : 454991226
+***** 888poker Hand History for Game 454991226 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 01:32:56
+Table Debrecen 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: InSpawn ( $2 )
+Seat 2: zorreg ( $2 )
+InSpawn posts small blind [$0.01]
+zorreg posts big blind [$0.02]
+** Dealing down cards **
+InSpawn calls [$0.01]
+zorreg checks
+** Dealing flop ** [ 8d, As, 6h ]
+zorreg bets [$0.02]
+InSpawn calls [$0.02]
+** Dealing turn ** [ 7s ]
+zorreg bets [$0.04]
+InSpawn calls [$0.04]
+** Dealing river ** [ Qc ]
+zorreg bets [$0.08]
+InSpawn calls [$0.08]
+** Summary **
+zorreg shows [ 9c, 3d ]
+InSpawn shows [ 5h, Ah ]
+InSpawn collected [ $0.30 ]
+
+
+#Game No : 454991238
+***** 888poker Hand History for Game 454991238 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 01:33:30
+Table Debrecen 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: InSpawn ( $2.14 )
+Seat 2: zorreg ( $1.84 )
+zorreg posts small blind [$0.01]
+InSpawn posts big blind [$0.02]
+** Dealing down cards **
+zorreg calls [$0.01]
+InSpawn checks
+** Dealing flop ** [ 2s, Ts, Ah ]
+InSpawn checks
+zorreg checks
+** Dealing turn ** [ 4h ]
+InSpawn checks
+zorreg checks
+** Dealing river ** [ 6s ]
+InSpawn checks
+zorreg checks
+** Summary **
+InSpawn shows [ Jc, 4c ]
+zorreg mucks [ Kc, 7c ]
+InSpawn collected [ $0.04 ]
+
+
+#Game No : 454993932
+***** 888poker Hand History for Game 454993932 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:22:14
+Table Debrecen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $1.18 )
+Seat 10: DezKD ( $2.74 )
+DezKD posts small blind [$0.01]
+KeepLoading posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+KeepLoading did not show his hand
+KeepLoading collected [ $0.03 ]
+
+
+#Game No : 454993934
+***** 888poker Hand History for Game 454993934 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:22:19
+Table Debrecen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $1.19 )
+Seat 10: DezKD ( $2.73 )
+KeepLoading posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+KeepLoading raises [$0.05]
+DezKD calls [$0.04]
+** Dealing flop ** [ Kc, 2d, 6h ]
+DezKD checks
+KeepLoading bets [$0.08]
+DezKD calls [$0.08]
+** Dealing turn ** [ 5s ]
+DezKD checks
+KeepLoading bets [$0.10]
+DezKD folds
+** Summary **
+KeepLoading did not show his hand
+KeepLoading collected [ $0.27 ]
+
+
+#Game No : 454993951
+***** 888poker Hand History for Game 454993951 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:22:55
+Table Debrecen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $1.32 )
+Seat 10: DezKD ( $2.59 )
+DezKD posts small blind [$0.01]
+KeepLoading posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+KeepLoading calls [$0.02]
+** Dealing flop ** [ As, Kh, Ac ]
+KeepLoading checks
+DezKD checks
+** Dealing turn ** [ 8h ]
+KeepLoading bets [$0.04]
+DezKD calls [$0.04]
+** Dealing river ** [ Ks ]
+KeepLoading bets [$0.08]
+DezKD folds
+** Summary **
+KeepLoading did not show his hand
+KeepLoading collected [ $0.15 ]
+
+
+#Game No : 454993965
+***** 888poker Hand History for Game 454993965 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:23:24
+Table Debrecen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $1.39 )
+Seat 10: DezKD ( $2.51 )
+KeepLoading posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+KeepLoading folds
+** Summary **
+DezKD did not show his hand
+DezKD collected [ $0.03 ]
+
+
+#Game No : 454993967
+***** 888poker Hand History for Game 454993967 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:23:30
+Table Debrecen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $1.38 )
+Seat 10: DezKD ( $2.52 )
+DezKD posts small blind [$0.01]
+KeepLoading posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+KeepLoading calls [$0.02]
+** Dealing flop ** [ 5d, 6c, 7d ]
+KeepLoading checks
+DezKD bets [$0.05]
+KeepLoading raises [$0.10]
+DezKD calls [$0.05]
+** Dealing turn ** [ Jc ]
+KeepLoading bets [$0.28]
+DezKD calls [$0.28]
+** Dealing river ** [ 8d ]
+KeepLoading checks
+DezKD checks
+** Summary **
+KeepLoading shows [ 5h, 7s ]
+DezKD shows [ Js, 5s ]
+DezKD collected [ $0.79 ]
+
+
+#Game No : 454993985
+***** 888poker Hand History for Game 454993985 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:24:18
+Table Debrecen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $0.96 )
+Seat 10: DezKD ( $2.89 )
+KeepLoading posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+KeepLoading calls [$0.01]
+DezKD raises [$0.04]
+KeepLoading calls [$0.04]
+** Dealing flop ** [ 5c, 8h, Qc ]
+DezKD bets [$0.08]
+KeepLoading folds
+** Summary **
+DezKD did not show his hand
+DezKD collected [ $0.12 ]
+
+
+#Game No : 454993993
+***** 888poker Hand History for Game 454993993 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:24:36
+Table Debrecen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $0.90 )
+Seat 10: DezKD ( $2.95 )
+DezKD posts small blind [$0.01]
+KeepLoading posts big blind [$0.02]
+** Dealing down cards **
+DezKD raises [$0.03]
+KeepLoading raises [$0.10]
+DezKD folds
+** Summary **
+KeepLoading did not show his hand
+KeepLoading collected [ $0.08 ]
+
+
+#Game No : 454993998
+***** 888poker Hand History for Game 454993998 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:24:52
+Table Debrecen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $0.94 )
+Seat 10: DezKD ( $2.91 )
+KeepLoading posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+KeepLoading folds
+** Summary **
+DezKD did not show his hand
+DezKD collected [ $0.03 ]
+
+
+#Game No : 454994002
+***** 888poker Hand History for Game 454994002 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:24:57
+Table Debrecen 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $0.93 )
+Seat 10: DezKD ( $2.92 )
+DezKD posts small blind [$0.01]
+KeepLoading posts big blind [$0.02]
+** Dealing down cards **
+DezKD folds
+** Summary **
+KeepLoading did not show his hand
+KeepLoading collected [ $0.03 ]
+
+
+#Game No : 454994003
+***** 888poker Hand History for Game 454994003 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:25:02
+Table Debrecen 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: KeepLoading ( $0.94 )
+Seat 10: DezKD ( $2.91 )
+KeepLoading posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+KeepLoading raises [$0.07]
+DezKD raises [$0.22]
+KeepLoading raises [$0.86]
+DezKD calls [$0.70]
+** Dealing flop ** [ 5d, Jd, 3d ]
+** Dealing turn ** [ Ah ]
+** Dealing river ** [ Qc ]
+** Summary **
+KeepLoading shows [ 8s, 8h ]
+DezKD shows [ 9c, 9h ]
+DezKD collected [ $1.77 ]
+
+
+#Game No : 454994012
+***** 888poker Hand History for Game 454994012 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 01 09 2018 04:25:34
+Table Debrecen 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: scs1914 ( $0.80 )
+Seat 10: DezKD ( $3.74 )
+scs1914 posts small blind [$0.01]
+DezKD posts big blind [$0.02]
+** Dealing down cards **
+scs1914 calls [$0.01]
+DezKD checks
+** Dealing flop ** [ 8c, 8s, Th ]
+DezKD checks
+scs1914 bets [$0.02]
+DezKD calls [$0.02]
+** Dealing turn ** [ 4h ]
+DezKD checks
+scs1914 checks
+** Dealing river ** [ 4d ]
+DezKD bets [$0.05]
+scs1914 folds
+** Summary **
+DezKD collected [ $0.08 ]
+
+

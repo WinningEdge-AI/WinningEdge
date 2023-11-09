@@ -1,0 +1,73 @@
+#Game No : 1311562588
+***** 888poker Hand History for Game 1311562588 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2019 21:19:06
+Table Polokwane 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: KPiliens ( $2.04 )
+Seat 7: WildKta ( $0.76 )
+KPiliens posts small blind [$0.01]
+WildKta posts big blind [$0.02]
+** Dealing down cards **
+KPiliens raises [$0.04]
+WildKta calls [$0.03]
+** Dealing flop ** [ Kd, 5s, 4d ]
+WildKta bets [$0.02]
+KPiliens calls [$0.02]
+** Dealing turn ** [ 6c ]
+WildKta bets [$0.02]
+KPiliens calls [$0.02]
+** Dealing river ** [ Js ]
+WildKta bets [$0.02]
+KPiliens calls [$0.02]
+** Summary **
+WildKta shows [ 2s, Kh ]
+KPiliens mucks [ 5d, Ac ]
+WildKta collected [ $0.21 ]
+
+
+#Game No : 1311562631
+***** 888poker Hand History for Game 1311562631 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2019 21:19:26
+Table Polokwane 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: KPiliens ( $2 )
+Seat 7: WildKta ( $0.86 )
+WildKta posts small blind [$0.01]
+KPiliens posts big blind [$0.02]
+** Dealing down cards **
+WildKta calls [$0.01]
+KPiliens checks
+** Dealing flop ** [ Qc, 2c, 6d ]
+KPiliens bets [$0.08]
+WildKta calls [$0.08]
+** Dealing turn ** [ Kd ]
+KPiliens bets [$0.18]
+WildKta calls [$0.18]
+** Dealing river ** [ Ac ]
+KPiliens bets [$1.72]
+WildKta calls [$0.58]
+** Summary **
+KPiliens shows [ Jd, Qs ]
+WildKta shows [ Qd, 5c ]
+KPiliens collected [ $1.62 ]
+
+
+#Game No : 1311564328
+***** 888poker Hand History for Game 1311564328 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 25 11 2019 21:39:40
+Table Polokwane 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: EagleClaw44 ( $2.56 )
+Seat 9: ShershenII ( $2.01 )
+EagleClaw44 posts small blind [$0.01]
+ShershenII posts big blind [$0.02]
+** Dealing down cards **
+EagleClaw44 raises [$0.05]
+ShershenII folds
+** Summary **
+EagleClaw44 collected [ $0.04 ]
+
+

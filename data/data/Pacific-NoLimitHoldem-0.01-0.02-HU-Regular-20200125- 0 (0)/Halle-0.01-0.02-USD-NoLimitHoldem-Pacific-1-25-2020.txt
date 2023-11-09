@@ -1,0 +1,100 @@
+#Game No : 473954455
+***** 888poker Hand History for Game 473954455 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 01 2020 21:55:56
+Table Halle 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: jerry7894561 ( $2.99 )
+Seat 4: yrik222 ( $3.25 )
+yrik222 posts small blind [$0.01]
+jerry7894561 posts big blind [$0.02]
+** Dealing down cards **
+yrik222 calls [$0.01]
+jerry7894561 raises [$0.04]
+yrik222 calls [$0.04]
+** Dealing flop ** [ 9s, 7d, 8s ]
+jerry7894561 bets [$0.06]
+yrik222 calls [$0.06]
+** Dealing turn ** [ 6h ]
+jerry7894561 bets [$0.12]
+yrik222 calls [$0.12]
+** Dealing river ** [ 7c ]
+jerry7894561 checks
+yrik222 bets [$0.32]
+jerry7894561 folds
+** Summary **
+yrik222 collected [ $0.45 ]
+
+
+#Game No : 473954463
+***** 888poker Hand History for Game 473954463 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 01 2020 21:56:54
+Table Halle 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jerry7894561 ( $2.75 )
+Seat 4: yrik222 ( $3.46 )
+jerry7894561 posts small blind [$0.01]
+yrik222 posts big blind [$0.02]
+** Dealing down cards **
+jerry7894561 raises [$0.04]
+yrik222 folds
+** Summary **
+jerry7894561 collected [ $0.04 ]
+
+
+#Game No : 473954553
+***** 888poker Hand History for Game 473954553 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 01 2020 22:05:57
+Table Halle 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 1: jerry7894561 ( $2.97 )
+Seat 6: lynnica ( $1.83 )
+lynnica posts small blind [$0.01]
+jerry7894561 posts big blind [$0.02]
+** Dealing down cards **
+lynnica calls [$0.01]
+jerry7894561 checks
+** Dealing flop ** [ Kc, 7d, 6d ]
+jerry7894561 checks
+lynnica checks
+** Dealing turn ** [ 9c ]
+jerry7894561 bets [$0.02]
+lynnica calls [$0.02]
+** Dealing river ** [ 8c ]
+jerry7894561 checks
+lynnica checks
+** Summary **
+jerry7894561 shows [ 5d, Kd ]
+lynnica mucks [ Qh, 9h ]
+jerry7894561 collected [ $0.08 ]
+
+
+#Game No : 473954556
+***** 888poker Hand History for Game 473954556 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 24 01 2020 22:06:20
+Table Halle 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: jerry7894561 ( $3.01 )
+Seat 6: lynnica ( $1.79 )
+jerry7894561 posts small blind [$0.01]
+lynnica posts big blind [$0.02]
+** Dealing down cards **
+jerry7894561 raises [$0.03]
+lynnica calls [$0.02]
+** Dealing flop ** [ Ac, 9s, 6d ]
+lynnica checks
+jerry7894561 checks
+** Dealing turn ** [ 9h ]
+lynnica checks
+jerry7894561 checks
+** Dealing river ** [ 8c ]
+lynnica checks
+jerry7894561 bets [$0.04]
+lynnica folds
+** Summary **
+jerry7894561 collected [ $0.08 ]
+
+

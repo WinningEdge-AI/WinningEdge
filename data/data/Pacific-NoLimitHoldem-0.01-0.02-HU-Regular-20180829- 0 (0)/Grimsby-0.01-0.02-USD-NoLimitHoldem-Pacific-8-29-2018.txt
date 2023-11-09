@@ -1,0 +1,46 @@
+#Game No : 501603401
+***** 888poker Hand History for Game 501603401 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 10:42:50
+Table Grimsby 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: Echomen80 ( $1 )
+Seat 4: flandyy ( $1 )
+flandyy posts small blind [$0.01]
+Echomen80 posts big blind [$0.02]
+** Dealing down cards **
+flandyy raises [$0.03]
+Echomen80 calls [$0.02]
+** Dealing flop ** [ Tc, 4s, Kd ]
+Echomen80 checks
+flandyy checks
+** Dealing turn ** [ 9d ]
+Echomen80 checks
+flandyy bets [$0.04]
+Echomen80 calls [$0.04]
+** Dealing river ** [ Kh ]
+Echomen80 checks
+flandyy bets [$0.08]
+Echomen80 folds
+** Summary **
+flandyy collected [ $0.15 ]
+
+
+#Game No : 501619074
+***** 888poker Hand History for Game 501619074 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 29 08 2018 14:42:32
+Table Grimsby 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 6: RatherShort ( $1.60 )
+Seat 7: n00bz00rz ( $2.14 )
+RatherShort posts small blind [$0.01]
+n00bz00rz posts big blind [$0.02]
+** Dealing down cards **
+RatherShort raises [$0.05]
+n00bz00rz folds
+** Summary **
+RatherShort did not show his hand
+RatherShort collected [ $0.04 ]
+
+

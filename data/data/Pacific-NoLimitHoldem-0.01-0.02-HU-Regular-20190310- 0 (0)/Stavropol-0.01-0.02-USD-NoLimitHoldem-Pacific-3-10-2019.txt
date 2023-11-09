@@ -1,0 +1,107 @@
+#Game No : 1253796810
+***** 888poker Hand History for Game 1253796810 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 05:48:00
+Table Stavropol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: kirrd ( $0.43 )
+Seat 9: Ginger_Widow ( $0.94 )
+Ginger_Widow posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Ginger_Widow calls [$0.01]
+kirrd checks
+** Dealing flop ** [ Qc, 4h, 8c ]
+kirrd checks
+Ginger_Widow checks
+** Dealing turn ** [ 3c ]
+kirrd checks
+Ginger_Widow checks
+** Dealing river ** [ Kd ]
+kirrd checks
+Ginger_Widow checks
+** Summary **
+kirrd shows [ Td, 2d ]
+Ginger_Widow shows [ 9c, 9h ]
+Ginger_Widow collected [ $0.04 ]
+
+
+#Game No : 1253796992
+***** 888poker Hand History for Game 1253796992 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 05:48:50
+Table Stavropol 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kirrd ( $0.41 )
+Seat 9: Ginger_Widow ( $0.96 )
+kirrd posts small blind [$0.01]
+Ginger_Widow posts big blind [$0.02]
+** Dealing down cards **
+kirrd raises [$0.05]
+Ginger_Widow calls [$0.04]
+** Dealing flop ** [ 2d, 8s, Ad ]
+Ginger_Widow checks
+kirrd checks
+** Dealing turn ** [ Qs ]
+Ginger_Widow checks
+kirrd checks
+** Dealing river ** [ 2h ]
+Ginger_Widow checks
+kirrd bets [$0.06]
+Ginger_Widow folds
+** Summary **
+kirrd did not show his hand
+kirrd collected [ $0.12 ]
+
+
+#Game No : 1253797200
+***** 888poker Hand History for Game 1253797200 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 05:49:47
+Table Stavropol 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: kirrd ( $0.47 )
+Seat 9: Ginger_Widow ( $0.90 )
+Ginger_Widow posts small blind [$0.01]
+kirrd posts big blind [$0.02]
+** Dealing down cards **
+Ginger_Widow calls [$0.01]
+kirrd raises [$0.04]
+Ginger_Widow folds
+** Summary **
+kirrd collected [ $0.04 ]
+
+
+#Game No : 1253797343
+***** 888poker Hand History for Game 1253797343 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 05:50:23
+Table Stavropol 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: kirrd ( $0.49 )
+Seat 9: Ginger_Widow ( $0.88 )
+kirrd posts small blind [$0.01]
+Ginger_Widow posts big blind [$0.02]
+** Dealing down cards **
+kirrd folds
+** Summary **
+Ginger_Widow collected [ $0.03 ]
+
+
+#Game No : 1253797617
+***** 888poker Hand History for Game 1253797617 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 03 2019 05:51:34
+Table Stavropol 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Rosin2255 ( $1.24 )
+Seat 9: Ginger_Widow ( $0.87 )
+Rosin2255 posts small blind [$0.01]
+Ginger_Widow posts big blind [$0.02]
+** Dealing down cards **
+Rosin2255 raises [$0.03]
+Ginger_Widow folds
+** Summary **
+Rosin2255 collected [ $0.04 ]
+
+

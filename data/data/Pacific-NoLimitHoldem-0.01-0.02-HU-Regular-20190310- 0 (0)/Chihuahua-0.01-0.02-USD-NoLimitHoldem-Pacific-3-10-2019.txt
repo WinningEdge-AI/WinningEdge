@@ -1,0 +1,255 @@
+#Game No : 526224310
+***** 888poker Hand History for Game 526224310 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 17:06:21
+Table Chihuahua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 4: LZ7Pz ( $2.27 )
+Seat 9: rustaman76 ( $1.58 )
+rustaman76 posts small blind [$0.01]
+LZ7Pz posts big blind [$0.02]
+** Dealing down cards **
+rustaman76 raises [$0.03]
+LZ7Pz calls [$0.02]
+** Dealing flop ** [ 7c, Td, 5c ]
+LZ7Pz bets [$0.04]
+rustaman76 calls [$0.04]
+** Dealing turn ** [ Js ]
+LZ7Pz bets [$0.10]
+rustaman76 folds
+** Summary **
+LZ7Pz collected [ $0.15 ]
+
+
+#Game No : 526224332
+***** 888poker Hand History for Game 526224332 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 17:06:49
+Table Chihuahua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: LZ7Pz ( $2.34 )
+Seat 9: rustaman76 ( $1.50 )
+LZ7Pz posts small blind [$0.01]
+rustaman76 posts big blind [$0.02]
+** Dealing down cards **
+LZ7Pz raises [$0.03]
+rustaman76 calls [$0.02]
+** Dealing flop ** [ 7s, 5h, 6d ]
+rustaman76 checks
+LZ7Pz bets [$0.05]
+rustaman76 calls [$0.05]
+** Dealing turn ** [ 4d ]
+rustaman76 checks
+LZ7Pz checks
+** Dealing river ** [ Js ]
+rustaman76 bets [$0.12]
+LZ7Pz calls [$0.12]
+** Summary **
+rustaman76 shows [ Ac, 3h ]
+LZ7Pz mucks [ 5d, Kh ]
+rustaman76 collected [ $0.40 ]
+
+
+#Game No : 526233495
+***** 888poker Hand History for Game 526233495 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 21:01:23
+Table Chihuahua 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Kiel201 ( $0.64 )
+Seat 6: HTSWE ( $1.32 )
+Kiel201 posts small blind [$0.01]
+HTSWE posts big blind [$0.02]
+** Dealing down cards **
+Kiel201 calls [$0.01]
+HTSWE checks
+** Dealing flop ** [ Qc, Js, 3d ]
+HTSWE checks
+Kiel201 checks
+** Dealing turn ** [ 8h ]
+HTSWE checks
+Kiel201 checks
+** Dealing river ** [ Jc ]
+HTSWE bets [$0.02]
+Kiel201 calls [$0.02]
+** Summary **
+HTSWE shows [ 3c, 4h ]
+Kiel201 mucks [ 2c, Ad ]
+HTSWE collected [ $0.08 ]
+
+
+#Game No : 526234843
+***** 888poker Hand History for Game 526234843 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 21:52:16
+Table Chihuahua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: live4bike ( $1.08 )
+Seat 9: i_am_you_ ( $1.51 )
+live4bike posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+live4bike calls [$0.01]
+i_am_you_ raises [$0.04]
+live4bike folds
+** Summary **
+i_am_you_ did not show his hand
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 526234850
+***** 888poker Hand History for Game 526234850 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 21:52:29
+Table Chihuahua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: live4bike ( $1.06 )
+Seat 9: i_am_you_ ( $1.53 )
+i_am_you_ posts small blind [$0.01]
+live4bike posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+live4bike calls [$0.04]
+** Dealing flop ** [ 7d, 4h, 5c ]
+live4bike checks
+i_am_you_ bets [$0.05]
+live4bike folds
+** Summary **
+i_am_you_ did not show his hand
+i_am_you_ collected [ $0.12 ]
+
+
+#Game No : 526234857
+***** 888poker Hand History for Game 526234857 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 21:52:44
+Table Chihuahua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: live4bike ( $1 )
+Seat 9: i_am_you_ ( $1.59 )
+live4bike posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+live4bike raises [$0.03]
+i_am_you_ folds
+** Summary **
+live4bike did not show his hand
+live4bike collected [ $0.04 ]
+
+
+#Game No : 526234862
+***** 888poker Hand History for Game 526234862 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 21:52:51
+Table Chihuahua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: live4bike ( $1.02 )
+Seat 9: i_am_you_ ( $1.57 )
+i_am_you_ posts small blind [$0.01]
+live4bike posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+live4bike did not show his hand
+live4bike collected [ $0.03 ]
+
+
+#Game No : 526234864
+***** 888poker Hand History for Game 526234864 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 21:52:56
+Table Chihuahua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: live4bike ( $1.03 )
+Seat 9: i_am_you_ ( $1.56 )
+live4bike posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+live4bike calls [$0.01]
+i_am_you_ raises [$0.04]
+live4bike calls [$0.04]
+** Dealing flop ** [ 7s, 9s, 3c ]
+i_am_you_ bets [$0.05]
+live4bike calls [$0.05]
+** Dealing turn ** [ Ad ]
+i_am_you_ bets [$0.13]
+live4bike calls [$0.13]
+** Dealing river ** [ Qs ]
+i_am_you_ bets [$0.21]
+live4bike calls [$0.21]
+** Summary **
+i_am_you_ shows [ Ts, Ac ]
+live4bike mucks [ 9h, Kc ]
+i_am_you_ collected [ $0.85 ]
+
+
+#Game No : 526234877
+***** 888poker Hand History for Game 526234877 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 21:53:21
+Table Chihuahua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 6: live4bike ( $1 )
+Seat 9: i_am_you_ ( $1.96 )
+i_am_you_ posts small blind [$0.01]
+live4bike posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+live4bike folds
+** Summary **
+i_am_you_ did not show his hand
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 526234879
+***** 888poker Hand History for Game 526234879 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 21:53:28
+Table Chihuahua 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: live4bike ( $0.98 )
+Seat 9: i_am_you_ ( $1.98 )
+live4bike posts small blind [$0.01]
+i_am_you_ posts big blind [$0.02]
+** Dealing down cards **
+live4bike calls [$0.01]
+i_am_you_ raises [$0.04]
+live4bike folds
+** Summary **
+i_am_you_ collected [ $0.04 ]
+
+
+#Game No : 526235400
+***** 888poker Hand History for Game 526235400 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 22:10:48
+Table Chihuahua 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: pokerfluff ( $1.69 )
+Seat 9: i_am_you_ ( $1.61 )
+i_am_you_ posts small blind [$0.01]
+pokerfluff posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ folds
+** Summary **
+pokerfluff collected [ $0.03 ]
+
+
+#Game No : 526235785
+***** 888poker Hand History for Game 526235785 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 09 03 2019 22:21:07
+Table Chihuahua 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: pokerfluff ( $1.78 )
+Seat 9: i_am_you_ ( $1.69 )
+i_am_you_ posts small blind [$0.01]
+pokerfluff posts big blind [$0.02]
+** Dealing down cards **
+i_am_you_ raises [$0.05]
+pokerfluff folds
+** Summary **
+i_am_you_ did not show his hand
+i_am_you_ collected [ $0.04 ]
+
+

@@ -1,0 +1,841 @@
+#Game No : 499039910
+***** 888poker Hand History for Game 499039910 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 16:59:18
+Table Pereira 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: mobadr ( $0.82 )
+Seat 9: Coffik9 ( $1.14 )
+mobadr posts small blind [$0.01]
+Coffik9 posts big blind [$0.02]
+** Dealing down cards **
+mobadr calls [$0.01]
+Coffik9 raises [$0.06]
+mobadr calls [$0.06]
+** Dealing flop ** [ 2c, 6c, 7d ]
+Coffik9 bets [$0.10]
+mobadr raises [$0.74]
+Coffik9 calls [$0.64]
+** Dealing turn ** [ 4d ]
+** Dealing river ** [ Js ]
+** Summary **
+mobadr shows [ 8d, Qd ]
+Coffik9 shows [ 7c, Kc ]
+Coffik9 collected [ $1.54 ]
+
+
+#Game No : 499040006
+***** 888poker Hand History for Game 499040006 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:11:02
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: hams7er ( $0.82 )
+Seat 4: Tonut08 ( $0.78 )
+Tonut08 posts small blind [$0.01]
+hams7er posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 folds
+** Summary **
+hams7er did not show his hand
+hams7er collected [ $0.03 ]
+
+
+#Game No : 499040010
+***** 888poker Hand History for Game 499040010 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:11:09
+Table Pereira 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hams7er ( $0.83 )
+Seat 4: Tonut08 ( $0.77 )
+hams7er posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+hams7er calls [$0.01]
+Tonut08 checks
+** Dealing flop ** [ 4h, Tc, 5s ]
+Tonut08 checks
+hams7er checks
+** Dealing turn ** [ 8c ]
+Tonut08 checks
+hams7er checks
+** Dealing river ** [ Kh ]
+Tonut08 checks
+hams7er bets [$0.02]
+Tonut08 raises [$0.04]
+hams7er calls [$0.02]
+** Summary **
+Tonut08 shows [ Ks, 9d ]
+hams7er mucks [ 7h, As ]
+Tonut08 collected [ $0.12 ]
+
+
+#Game No : 499040017
+***** 888poker Hand History for Game 499040017 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:11:48
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: hams7er ( $0.77 )
+Seat 4: Tonut08 ( $0.83 )
+Tonut08 posts small blind [$0.01]
+hams7er posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 calls [$0.01]
+hams7er checks
+** Dealing flop ** [ Ks, 4c, 8h ]
+hams7er bets [$0.02]
+Tonut08 calls [$0.02]
+** Dealing turn ** [ 9d ]
+hams7er checks
+Tonut08 checks
+** Dealing river ** [ 6s ]
+hams7er checks
+Tonut08 checks
+** Summary **
+hams7er shows [ 4d, 2h ]
+Tonut08 shows [ Qd, 8s ]
+Tonut08 collected [ $0.08 ]
+
+
+#Game No : 499040024
+***** 888poker Hand History for Game 499040024 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:12:27
+Table Pereira 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: hams7er ( $0.73 )
+Seat 4: Tonut08 ( $0.87 )
+hams7er posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+hams7er calls [$0.01]
+Tonut08 checks
+** Dealing flop ** [ 4h, Qc, Kh ]
+Tonut08 checks
+hams7er checks
+** Dealing turn ** [ Ac ]
+Tonut08 checks
+hams7er checks
+** Dealing river ** [ Td ]
+Tonut08 checks
+hams7er bets [$0.04]
+Tonut08 folds
+** Summary **
+hams7er collected [ $0.04 ]
+
+
+#Game No : 499040029
+***** 888poker Hand History for Game 499040029 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:13:03
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 1: hams7er ( $0.75 )
+Seat 4: Tonut08 ( $0.85 )
+Tonut08 posts small blind [$0.01]
+hams7er posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 calls [$0.01]
+hams7er checks
+** Dealing flop ** [ 9s, Ac, 7c ]
+hams7er bets [$0.02]
+Tonut08 calls [$0.02]
+** Dealing turn ** [ 6h ]
+hams7er bets [$0.02]
+Tonut08 folds
+** Summary **
+hams7er collected [ $0.08 ]
+
+
+#Game No : 499040052
+***** 888poker Hand History for Game 499040052 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:15:25
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $0.84 )
+Seat 7: GMPMartins ( $0.83 )
+GMPMartins posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+GMPMartins raises [$0.05]
+Tonut08 calls [$0.04]
+** Dealing flop ** [ Jc, Kd, 4h ]
+Tonut08 checks
+GMPMartins bets [$0.06]
+Tonut08 calls [$0.06]
+** Dealing turn ** [ 4s ]
+Tonut08 checks
+GMPMartins bets [$0.06]
+Tonut08 calls [$0.06]
+** Dealing river ** [ 5d ]
+Tonut08 bets [$0.20]
+GMPMartins raises [$0.65]
+Tonut08 calls [$0.45]
+** Summary **
+Tonut08 shows [ 5s, Ks ]
+GMPMartins shows [ 7c, 7h ]
+Tonut08 collected [ $1.56 ]
+
+
+#Game No : 499040061
+***** 888poker Hand History for Game 499040061 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:16:30
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.57 )
+Seat 7: GMPMartins ( $0.80 )
+Tonut08 posts small blind [$0.01]
+GMPMartins posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 calls [$0.01]
+GMPMartins raises [$0.06]
+Tonut08 folds
+** Summary **
+GMPMartins did not show his hand
+GMPMartins collected [ $0.04 ]
+
+
+#Game No : 499040064
+***** 888poker Hand History for Game 499040064 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:16:43
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.55 )
+Seat 7: GMPMartins ( $0.82 )
+GMPMartins posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+GMPMartins folds
+** Summary **
+Tonut08 did not show his hand
+Tonut08 collected [ $0.03 ]
+
+
+#Game No : 499040066
+***** 888poker Hand History for Game 499040066 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:16:50
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.56 )
+Seat 7: GMPMartins ( $0.81 )
+Tonut08 posts small blind [$0.01]
+GMPMartins posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 calls [$0.01]
+GMPMartins raises [$0.06]
+Tonut08 folds
+** Summary **
+GMPMartins did not show his hand
+GMPMartins collected [ $0.04 ]
+
+
+#Game No : 499040069
+***** 888poker Hand History for Game 499040069 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:17:03
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.54 )
+Seat 7: GMPMartins ( $0.83 )
+GMPMartins posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+GMPMartins folds
+** Summary **
+Tonut08 did not show his hand
+Tonut08 collected [ $0.03 ]
+
+
+#Game No : 499040070
+***** 888poker Hand History for Game 499040070 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:17:10
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.55 )
+Seat 7: GMPMartins ( $0.82 )
+Tonut08 posts small blind [$0.01]
+GMPMartins posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 folds
+** Summary **
+GMPMartins did not show his hand
+GMPMartins collected [ $0.03 ]
+
+
+#Game No : 499040072
+***** 888poker Hand History for Game 499040072 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:17:15
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.54 )
+Seat 7: GMPMartins ( $0.83 )
+GMPMartins posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+GMPMartins raises [$0.05]
+Tonut08 calls [$0.04]
+** Dealing flop ** [ Ah, 3h, 5d ]
+Tonut08 checks
+GMPMartins bets [$0.06]
+Tonut08 folds
+** Summary **
+GMPMartins did not show his hand
+GMPMartins collected [ $0.12 ]
+
+
+#Game No : 499040075
+***** 888poker Hand History for Game 499040075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:17:45
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.48 )
+Seat 7: GMPMartins ( $0.89 )
+Tonut08 posts small blind [$0.01]
+GMPMartins posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 calls [$0.01]
+GMPMartins checks
+** Dealing flop ** [ Qh, 2h, 2s ]
+GMPMartins checks
+Tonut08 bets [$0.02]
+GMPMartins folds
+** Summary **
+Tonut08 did not show his hand
+Tonut08 collected [ $0.04 ]
+
+
+#Game No : 499040078
+***** 888poker Hand History for Game 499040078 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:18:03
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.50 )
+Seat 7: GMPMartins ( $0.87 )
+GMPMartins posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+GMPMartins calls [$0.01]
+Tonut08 checks
+** Dealing flop ** [ Tc, As, 3d ]
+Tonut08 checks
+GMPMartins checks
+** Dealing turn ** [ 8s ]
+Tonut08 bets [$0.02]
+GMPMartins folds
+** Summary **
+Tonut08 did not show his hand
+Tonut08 collected [ $0.04 ]
+
+
+#Game No : 499040082
+***** 888poker Hand History for Game 499040082 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:18:26
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.52 )
+Seat 7: GMPMartins ( $0.85 )
+Tonut08 posts small blind [$0.01]
+GMPMartins posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 folds
+** Summary **
+GMPMartins did not show his hand
+GMPMartins collected [ $0.03 ]
+
+
+#Game No : 499040084
+***** 888poker Hand History for Game 499040084 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:18:34
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.51 )
+Seat 7: GMPMartins ( $0.86 )
+GMPMartins posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+GMPMartins raises [$0.05]
+Tonut08 folds
+** Summary **
+GMPMartins did not show his hand
+GMPMartins collected [ $0.04 ]
+
+
+#Game No : 499040087
+***** 888poker Hand History for Game 499040087 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:18:47
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.49 )
+Seat 7: GMPMartins ( $0.88 )
+Tonut08 posts small blind [$0.01]
+GMPMartins posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 calls [$0.01]
+GMPMartins checks
+** Dealing flop ** [ 8c, Ad, 6h ]
+GMPMartins checks
+Tonut08 bets [$0.02]
+GMPMartins calls [$0.02]
+** Dealing turn ** [ 2h ]
+GMPMartins checks
+Tonut08 bets [$0.02]
+GMPMartins calls [$0.02]
+** Dealing river ** [ 7h ]
+GMPMartins bets [$0.08]
+Tonut08 calls [$0.08]
+** Summary **
+GMPMartins shows [ 6d, Qs ]
+Tonut08 shows [ 8s, 9s ]
+Tonut08 collected [ $0.27 ]
+
+
+#Game No : 499040095
+***** 888poker Hand History for Game 499040095 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:19:20
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.62 )
+Seat 7: GMPMartins ( $0.74 )
+GMPMartins posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+GMPMartins calls [$0.01]
+Tonut08 raises [$0.02]
+GMPMartins calls [$0.02]
+** Dealing flop ** [ Tc, 8h, 9s ]
+Tonut08 checks
+GMPMartins checks
+** Dealing turn ** [ Kh ]
+Tonut08 checks
+GMPMartins checks
+** Dealing river ** [ Kd ]
+Tonut08 bets [$0.04]
+GMPMartins raises [$0.12]
+Tonut08 raises [$0.16]
+GMPMartins calls [$0.08]
+** Summary **
+Tonut08 shows [ Jd, Qd ]
+GMPMartins mucks [ 6h, Ks ]
+Tonut08 collected [ $0.45 ]
+
+
+#Game No : 499040098
+***** 888poker Hand History for Game 499040098 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:19:58
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.83 )
+Seat 7: GMPMartins ( $0.50 )
+Tonut08 posts small blind [$0.01]
+GMPMartins posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 calls [$0.01]
+GMPMartins checks
+** Dealing flop ** [ 4s, 2h, 6d ]
+GMPMartins checks
+Tonut08 bets [$0.02]
+GMPMartins calls [$0.02]
+** Dealing turn ** [ 5d ]
+GMPMartins checks
+Tonut08 bets [$0.02]
+GMPMartins calls [$0.02]
+** Dealing river ** [ Qh ]
+GMPMartins checks
+Tonut08 bets [$0.04]
+GMPMartins raises [$0.08]
+Tonut08 calls [$0.04]
+** Summary **
+GMPMartins shows [ 2c, Qc ]
+Tonut08 mucks [ 5s, 6s ]
+GMPMartins collected [ $0.27 ]
+
+
+#Game No : 499040107
+***** 888poker Hand History for Game 499040107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:20:35
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.69 )
+Seat 7: GMPMartins ( $0.63 )
+GMPMartins posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+GMPMartins raises [$0.05]
+Tonut08 calls [$0.04]
+** Dealing flop ** [ 9c, Kh, Jd ]
+Tonut08 checks
+GMPMartins checks
+** Dealing turn ** [ Kd ]
+Tonut08 bets [$0.02]
+GMPMartins calls [$0.02]
+** Dealing river ** [ Ac ]
+Tonut08 bets [$0.02]
+GMPMartins calls [$0.02]
+** Summary **
+Tonut08 shows [ Qh, Jh ]
+GMPMartins mucks [ Tc, Td ]
+Tonut08 collected [ $0.19 ]
+
+
+#Game No : 499040112
+***** 888poker Hand History for Game 499040112 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:21:03
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.78 )
+Seat 7: GMPMartins ( $0.53 )
+Tonut08 posts small blind [$0.01]
+GMPMartins posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 calls [$0.01]
+GMPMartins checks
+** Dealing flop ** [ Ac, Jc, Ad ]
+GMPMartins checks
+Tonut08 bets [$0.02]
+GMPMartins calls [$0.02]
+** Dealing turn ** [ 8s ]
+GMPMartins checks
+Tonut08 checks
+** Dealing river ** [ Qs ]
+GMPMartins bets [$0.06]
+Tonut08 calls [$0.06]
+** Summary **
+GMPMartins shows [ 6c, 4c ]
+Tonut08 shows [ Qh, 3s ]
+Tonut08 collected [ $0.19 ]
+
+
+#Game No : 499040116
+***** 888poker Hand History for Game 499040116 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:21:30
+Table Pereira 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.87 )
+Seat 7: GMPMartins ( $0.43 )
+GMPMartins posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+GMPMartins calls [$0.01]
+Tonut08 checks
+** Dealing flop ** [ 7s, 7c, Qd ]
+Tonut08 checks
+GMPMartins checks
+** Dealing turn ** [ 9c ]
+Tonut08 bets [$0.02]
+GMPMartins calls [$0.02]
+** Dealing river ** [ As ]
+Tonut08 bets [$0.06]
+GMPMartins folds
+** Summary **
+Tonut08 collected [ $0.08 ]
+
+
+#Game No : 499040120
+***** 888poker Hand History for Game 499040120 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:21:53
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $1.91 )
+Seat 7: GMPMartins ( $0.39 )
+Tonut08 posts small blind [$0.01]
+GMPMartins posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 raises [$0.03]
+GMPMartins raises [$0.08]
+Tonut08 calls [$0.06]
+** Dealing flop ** [ Kc, 8h, 7s ]
+GMPMartins bets [$0.08]
+Tonut08 calls [$0.08]
+** Dealing turn ** [ 4d ]
+GMPMartins bets [$0.21]
+Tonut08 folds
+** Summary **
+GMPMartins collected [ $0.34 ]
+
+
+#Game No : 499040142
+***** 888poker Hand History for Game 499040142 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:24:47
+Table Pereira 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $2.11 )
+Seat 6: Liiib3rty ( $0.91 )
+Liiib3rty posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+Liiib3rty calls [$0.01]
+Tonut08 checks
+** Dealing flop ** [ 7s, 4h, Jh ]
+Tonut08 checks
+Liiib3rty checks
+** Dealing turn ** [ 2s ]
+Tonut08 bets [$0.02]
+Liiib3rty calls [$0.02]
+** Dealing river ** [ Kh ]
+Tonut08 bets [$0.02]
+Liiib3rty folds
+** Summary **
+Tonut08 did not show his hand
+Tonut08 collected [ $0.08 ]
+
+
+#Game No : 499040146
+***** 888poker Hand History for Game 499040146 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:25:07
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $2.15 )
+Seat 6: Liiib3rty ( $0.87 )
+Tonut08 posts small blind [$0.01]
+Liiib3rty posts big blind [$0.02]
+** Dealing down cards **
+Tonut08 raises [$0.03]
+Liiib3rty calls [$0.02]
+** Dealing flop ** [ 4s, 7d, 2s ]
+Liiib3rty checks
+Tonut08 bets [$0.02]
+Liiib3rty calls [$0.02]
+** Dealing turn ** [ Kc ]
+Liiib3rty checks
+Tonut08 bets [$0.02]
+Liiib3rty calls [$0.02]
+** Dealing river ** [ Tc ]
+Liiib3rty bets [$0.08]
+Tonut08 folds
+** Summary **
+Liiib3rty did not show his hand
+Liiib3rty collected [ $0.15 ]
+
+
+#Game No : 499040152
+***** 888poker Hand History for Game 499040152 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 17:25:33
+Table Pereira 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 4: Tonut08 ( $2.07 )
+Seat 6: Liiib3rty ( $0.94 )
+Liiib3rty posts small blind [$0.01]
+Tonut08 posts big blind [$0.02]
+** Dealing down cards **
+Liiib3rty folds
+** Summary **
+Tonut08 collected [ $0.03 ]
+
+
+#Game No : 499040509
+***** 888poker Hand History for Game 499040509 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 18:14:48
+Table Pereira 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Township14 ( $5.22 )
+Seat 9: Vovan594 ( $0.41 )
+Vovan594 posts small blind [$0.01]
+Township14 posts big blind [$0.02]
+** Dealing down cards **
+Vovan594 calls [$0.01]
+Township14 checks
+** Dealing flop ** [ 8d, Jh, Kc ]
+Township14 bets [$0.02]
+Vovan594 calls [$0.02]
+** Dealing turn ** [ Ah ]
+Township14 bets [$0.12]
+Vovan594 calls [$0.12]
+** Dealing river ** [ 5d ]
+Township14 checks
+Vovan594 bets [$0.25]
+Township14 folds
+** Summary **
+Vovan594 collected [ $0.30 ]
+
+
+#Game No : 499040512
+***** 888poker Hand History for Game 499040512 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 18:15:20
+Table Pereira 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Township14 ( $5.06 )
+Seat 9: Vovan594 ( $0.55 )
+Township14 posts small blind [$0.01]
+Vovan594 posts big blind [$0.02]
+** Dealing down cards **
+Township14 raises [$0.03]
+Vovan594 calls [$0.02]
+** Dealing flop ** [ 8h, 9s, 5c ]
+Vovan594 checks
+Township14 bets [$1.08]
+Vovan594 calls [$0.51]
+** Dealing turn ** [ 9c ]
+** Dealing river ** [ Ad ]
+** Summary **
+Township14 shows [ Kh, 6d ]
+Vovan594 shows [ Qc, Ts ]
+Township14 collected [ $1.04 ]
+
+
+#Game No : 499040514
+***** 888poker Hand History for Game 499040514 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 18:15:48
+Table Pereira 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Township14 ( $5.55 )
+Seat 9: Vovan594 ( $1 )
+Vovan594 posts small blind [$0.01]
+Township14 posts big blind [$0.02]
+** Dealing down cards **
+Vovan594 calls [$0.01]
+Township14 checks
+** Dealing flop ** [ 3c, 6d, 5d ]
+Township14 bets [$0.06]
+Vovan594 calls [$0.06]
+** Dealing turn ** [ 7c ]
+Township14 bets [$0.06]
+Vovan594 calls [$0.06]
+** Dealing river ** [ 6s ]
+Township14 checks
+Vovan594 bets [$0.02]
+Township14 calls [$0.02]
+** Summary **
+Vovan594 shows [ Ad, Qh ]
+Township14 mucks [ 8c, As ]
+Vovan594 collected [ $0.30 ]
+
+
+#Game No : 499040519
+***** 888poker Hand History for Game 499040519 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 18:16:22
+Table Pereira 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Township14 ( $5.39 )
+Seat 9: Vovan594 ( $1.14 )
+Township14 posts small blind [$0.01]
+Vovan594 posts big blind [$0.02]
+** Dealing down cards **
+Township14 calls [$0.01]
+Vovan594 raises [$0.04]
+Township14 calls [$0.04]
+** Dealing flop ** [ 9h, As, 2s ]
+Vovan594 checks
+Township14 bets [$1.10]
+Vovan594 folds
+** Summary **
+Township14 did not show his hand
+Township14 collected [ $0.12 ]
+
+
+#Game No : 499040525
+***** 888poker Hand History for Game 499040525 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 18:17:28
+Table Pereira 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: robertschiop ( $1 )
+Seat 2: Township14 ( $5.45 )
+Township14 posts small blind [$0.01]
+robertschiop posts big blind [$0.02]
+** Dealing down cards **
+Township14 raises [$2.25]
+robertschiop calls [$0.98]
+** Dealing flop ** [ 2s, Ks, Tc ]
+** Dealing turn ** [ Jh ]
+** Dealing river ** [ 9d ]
+** Summary **
+robertschiop shows [ 6s, 6h ]
+Township14 shows [ Qs, Ac ]
+Township14 collected [ $1.88 ]
+
+
+#Game No : 499040529
+***** 888poker Hand History for Game 499040529 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 18:17:59
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Township14 ( $6.33 )
+Seat 4: Slick3173 ( $1 )
+Slick3173 posts small blind [$0.01]
+Township14 posts big blind [$0.02]
+** Dealing down cards **
+Slick3173 raises [$0.03]
+Township14 calls [$0.02]
+** Dealing flop ** [ 6c, 4s, 7d ]
+Township14 bets [$0.10]
+Slick3173 calls [$0.10]
+** Dealing turn ** [ 4d ]
+Township14 bets [$0.14]
+Slick3173 calls [$0.14]
+** Dealing river ** [ 3c ]
+Township14 checks
+Slick3173 bets [$0.72]
+Township14 calls [$0.72]
+** Summary **
+Township14 shows [ 8s, 6s ]
+Slick3173 shows [ 7s, 7h ]
+Slick3173 collected [ $1.88 ]
+
+
+#Game No : 499040534
+***** 888poker Hand History for Game 499040534 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 18:18:41
+Table Pereira 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Township14 ( $5.33 )
+Seat 4: Slick3173 ( $1.88 )
+Township14 posts small blind [$0.01]
+Slick3173 posts big blind [$0.02]
+** Dealing down cards **
+Township14 raises [$5.31]
+Slick3173 calls [$1.86]
+** Dealing flop ** [ 4s, 7c, 2h ]
+** Dealing turn ** [ 5s ]
+** Dealing river ** [ 4c ]
+** Summary **
+Township14 shows [ Ks, As ]
+Slick3173 shows [ 9h, 9s ]
+Slick3173 collected [ $3.53 ]
+
+
+#Game No : 499040538
+***** 888poker Hand History for Game 499040538 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 22 06 2018 18:19:03
+Table Pereira 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 2
+Seat 2: Township14 ( $3.45 )
+Seat 4: Slick3173 ( $3.53 )
+Slick3173 posts small blind [$0.01]
+Township14 posts big blind [$0.02]
+** Dealing down cards **
+Slick3173 calls [$0.01]
+Township14 raises [$3.43]
+Slick3173 folds
+** Summary **
+Township14 collected [ $0.04 ]
+
+

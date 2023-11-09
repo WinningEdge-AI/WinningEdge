@@ -1,0 +1,52 @@
+#Game No : 526339851
+***** 888poker Hand History for Game 526339851 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 08:51:11
+Table Tambov 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: alex_chamber ( $0.80 )
+Seat 2: kmlm73 ( $2 )
+alex_chamber posts small blind [$0.01]
+kmlm73 posts big blind [$0.02]
+** Dealing down cards **
+alex_chamber calls [$0.01]
+kmlm73 checks
+** Dealing flop ** [ 2d, Js, 8s ]
+kmlm73 checks
+alex_chamber checks
+** Dealing turn ** [ Ac ]
+kmlm73 checks
+alex_chamber checks
+** Dealing river ** [ Jd ]
+kmlm73 checks
+alex_chamber bets [$0.38]
+kmlm73 folds
+** Summary **
+alex_chamber did not show his hand
+alex_chamber collected [ $0.04 ]
+
+
+#Game No : 526340031
+***** 888poker Hand History for Game 526340031 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 11 03 2019 08:51:55
+Table Tambov 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 1: alex_chamber ( $0.82 )
+Seat 2: kmlm73 ( $1.98 )
+kmlm73 posts small blind [$0.01]
+alex_chamber posts big blind [$0.02]
+** Dealing down cards **
+kmlm73 raises [$0.03]
+alex_chamber calls [$0.02]
+** Dealing flop ** [ 8s, 3d, Td ]
+alex_chamber bets [$0.06]
+kmlm73 calls [$0.06]
+** Dealing turn ** [ Th ]
+alex_chamber bets [$0.10]
+kmlm73 folds
+** Summary **
+alex_chamber did not show his hand
+alex_chamber collected [ $0.19 ]
+
+

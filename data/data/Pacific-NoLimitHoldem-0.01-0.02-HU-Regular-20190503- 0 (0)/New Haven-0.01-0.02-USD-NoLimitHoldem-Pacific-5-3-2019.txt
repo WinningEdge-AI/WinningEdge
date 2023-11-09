@@ -1,0 +1,28 @@
+#Game No : 1265460222
+***** 888poker Hand History for Game 1265460222 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 02 05 2019 22:21:44
+Table New Haven 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 2
+Seat 2: Yuri114114 ( $2.01 )
+Seat 5: dimsan18 ( $5.81 )
+Yuri114114 posts small blind [$0.01]
+dimsan18 posts big blind [$0.02]
+** Dealing down cards **
+Yuri114114 calls [$0.01]
+dimsan18 checks
+** Dealing flop ** [ 3d, 9d, Ts ]
+dimsan18 checks
+Yuri114114 checks
+** Dealing turn ** [ 7c ]
+dimsan18 bets [$0.02]
+Yuri114114 calls [$0.02]
+** Dealing river ** [ Td ]
+dimsan18 bets [$0.05]
+Yuri114114 calls [$0.05]
+** Summary **
+dimsan18 shows [ Jd, 2c ]
+Yuri114114 shows [ Ks, 9s ]
+Yuri114114 collected [ $0.17 ]
+
+
