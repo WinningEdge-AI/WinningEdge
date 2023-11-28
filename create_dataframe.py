@@ -9,6 +9,12 @@ save this df in github so we can use it instead
 Figure out how to use process_street_actions for preflop
 """
 
+import os
+#from tqdm import tqdm
+#from IPython.core.interactiveshell import InteractiveShell # for all output
+#InteractiveShell.ast_node_interactivity = "all"
+files_path = [os.path.join(r,file) for r,d,f in os.walk(r"C:\Users\Peter\Desktop\Springboard\capstone1\Bought hands\unzipped") for file in f]
+
 def get_hole_cards(game, street_indices, small_blind_name):
     """
     This function captures hole cards if they are available and correctly assigns them to players
@@ -59,34 +65,26 @@ def process_street_actions(game, start_index, end_index):
             street_list.append(thistuple)
     return street_list
 
-import os
-import pandas as pd
-from tqdm import tqdm
-from IPython.core.interactiveshell import InteractiveShell # for all output
-InteractiveShell.ast_node_interactivity = "all"
-
-files_path = [os.path.join(r,file) for r,d,f in os.walk(r"C:\Users\Peter\Desktop\Springboard\capstone1\Bought hands\unzipped") for file in f]
-
 folded_pre=0
 rows_list=[]
 
-for f in tqdm(files_path):
+for f in files_path:
     with open(f, 'r') as file1:
         lines = file1.readlines()
     file_name = os.path.basename(f)
-    
+
     # Find indices of lines starting with '#Game'
     game_indices = [i for i, line in enumerate(lines) if line.strip().startswith('#Game')]
-    
+
     # Extract game data based on indices
     games = [lines[game_indices[i-1]:game_indices[i]] for i in range(1, len(game_indices))]
   
     # Now, process each game individually
     for index, game in enumerate(games):
         try:
-            game_number = game[0].strip()[11:] 
+            game_number = game[0].strip()[11:]
             small_blind_string_index = game[8].find('posts small blind')
-            big_blind_string_index = game[9].find('posts big blind')    
+            big_blind_string_index = game[9].find('posts big blind')
             small_blind_name = game[8][0:small_blind_string_index] #with a trailing space
             big_blind_name = game[9][0:big_blind_string_index]
             i = 10 #this is where line **Dealing down cards ** is
@@ -103,7 +101,7 @@ for f in tqdm(files_path):
             flop_cards=None
             turn_card=None
             river_card=None
-            
+
 #find indeces of flop, turn , river and summary
             street_indeces = []
             for index_in_game, line in enumerate(game):
@@ -111,11 +109,11 @@ for f in tqdm(files_path):
                     street_indeces.append(index_in_game)
                 elif line.startswith('** Summary **'):
                     street_indeces.append(index_in_game)
-                    
-#getting hole cards using the function            
+
+#getting hole cards using the function     
             sb_hole_cards, bb_hole_cards = get_hole_cards(game, street_indeces, small_blind_name)
-                                
-#Getting preflop actions 
+
+#Getting preflop actions
 
 #currently working on runnign this by calling process_street_actions
             while not ((game[i][:13] == ('** Summary **')) or (game[i][0:18] == ('** Dealing flop **'))):
@@ -134,37 +132,37 @@ for f in tqdm(files_path):
                     preflop.append(thistuple)
                 i=i+1
                 preflop_counter +=1
-            
+
 #Getting flop cards and actions
             if len(street_indeces)>1:
                 flop_cards = [game[street_indeces[0]][-13:-11],game[street_indeces[0]][-9:-7],game[street_indeces[0]][-5:-3]]
                 flop = process_street_actions(game, street_indeces[0], street_indeces[1])
-          
+
 #Getting turn cards and actions
             if len(street_indeces)>2:
                 turn_card = game[street_indeces[1]][-5:-3]
                 turn = process_street_actions(game, street_indeces[1], street_indeces[2])
-             
+
 #Getting river cards and actions
             if len(street_indeces)>3:
                 river_card = game[street_indeces[2]][-5:-3]
                 river=process_street_actions(game, street_indeces[2], street_indeces[3])
-           
+
             remove_folded_pre =False  #add this parameter to drop hands that were immediately folded by SB to reduce the DF
             if preflop[0][0][0]=='f':
                 folded_pre+=1
-                remove_folded_pre=True 
-                
+                remove_folded_pre=True
+
 #Create a dictionary with all the data per game
             river = river if river else None #if empty change to None to save space
             turn = turn if turn else None
             flop = flop if flop else None
 
             game_row  = {'Game ID':game_number,'File':file_name ,'Player SB':small_blind_name,
-                         'Player BB':big_blind_name, 'Preflop actions':preflop, 
-                         'Flop actions':flop, 'Turn actions':turn,'River actions':river, 
-                         'Flop':flop_cards, 'Turn':turn_card, 'River':river_card, 'SB stack':stack_sb, 
-                         'BB stack': stack_bb, 'SB cards': sb_hole_cards, 'BB cards':bb_hole_cards, 
+                         'Player BB':big_blind_name, 'Preflop actions':preflop,
+                         'Flop actions':flop, 'Turn actions':turn,'River actions':river,
+                         'Flop':flop_cards, 'Turn':turn_card, 'River':river_card, 'SB stack':stack_sb,
+                         'BB stack': stack_bb, 'SB cards': sb_hole_cards, 'BB cards':bb_hole_cards,
                          'Folded pre':remove_folded_pre}
             rows_list.append(game_row)
 
