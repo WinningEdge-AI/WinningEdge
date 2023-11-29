@@ -1,14 +1,28 @@
+"""
+Currently no good method to check flushes.
+"""
+
 import itertools
 
 def evaluate_hand(cards):
     """
     Evaluates a 5-card hand and returns its rank.
 
-    This version includes the prime product calculation.
+    This version includes the prime product calculation and a check for a flush.
     """
+    suits = [card % 4 for card in cards]
+    
+    # Check for a flush (all cards have the same suit)
+    is_flush = len(set(suits)) == 1
+    
+    if is_flush:
+        # You can handle flush separately, e.g., assign a special rank for flush
+        return "Flush"
+    
     prime_products = [get_prime_product(rank) for rank in cards]
-    prime_product = max(prime_products)
-    return prime_product
+    max_prime_product = max(prime_products)
+    
+    return max_prime_product
 
 def get_prime_product(rank):
     """
@@ -37,6 +51,7 @@ hands = [
     [7, 7, 7, 3, 3],       # Full House
     [8, 8, 8, 8, 2],       # Four of a Kind
     [9, 10, 11, 12, 13],   # Straight Flush
+    [2, 4, 6, 8, 10],      # Flush (added example)
 ]
 
 hand_summary(hands)
