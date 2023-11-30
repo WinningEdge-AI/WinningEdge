@@ -1,5 +1,5 @@
 """
-Currently no good method to check flushes.
+Missing methods to determine the highest card in High Card rank class.
 """
 
 import itertools
@@ -16,7 +16,6 @@ class Evaluator(object):
         self.table = LookupTable()
 
         self.hand_size_map = {
-            2: self._preflop,
             5: self._flop,
             6: self._turn,
             7: self._river
@@ -32,7 +31,7 @@ class Evaluator(object):
         all_cards = cards + board
 
         return self.hand_size_map[len(all_cards)](all_cards)
-    
+
     def _flop(self, cards):
         """
         Fundamental evaluation function. It provides a rank in the range [1, 7462].
@@ -43,11 +42,34 @@ class Evaluator(object):
             handOR = (cards[0] | cards[1] | cards[2] | cards[3] | cards[4]) >> 16
             prime = Card.prime_product_from_rankbits(handOR)
             return self.table.flush_lookup[prime]
-        
+
         # other patterns
         else:
             prime = Card.prime_product_from_hand(cards)
             return self.table.unsuited_lookup[prime]
+
+    def _turn(self, cards):
+        """
+        Iterate all possible combinations of 5 cards from a 
+        total of 6 cards and apply the five-card evaluation 
+        on each combination. Then determine the best rank.
+        """
+
+        # set initial rank to be the lowest(unsuited 7-5-4-3-2), which
+        # numerically is essentially the largest: 7462
+        max_rank = LookupTable.MAX_HIGH_CARD
+
+        allcombos = itertools.combinations(cards, 5)
+
+        for combo in allcombos:
+
+            score = self._flop(combo)
+            if score < max_rank:
+                # since the strength of a given hand is higher when the rank is smaller,
+                # we should always return the smallest possible score.
+                max_rank = score
+
+        return max_rank
 
     def _river(self, cards):
         """
@@ -56,21 +78,23 @@ class Evaluator(object):
         on each combination. Then determine the best rank.
         """
 
-        # set initial rank to be the lowest(unsuited 7-5-4-3-2), which numerically is essentially the largest: 7462
+        # set initial rank to be the lowest(unsuited 7-5-4-3-2),
+        # which numerically is essentially the largest: 7462
         max_rank = LookupTable.MAX_HIGH_CARD
 
         allcombos = itertools.combinations(cards, 5)
 
         for combo in allcombos:
 
-            score = self._five(combo)
+            score = self._flop(combo)
             if score < max_rank:
-                # since the strength of a given hand is higher when the rank is smaller, we should always return the smallest possible score.
+                # since the strength of a given hand is higher when the rank is smaller, we
+                # should always return the smallest possible score.
                 max_rank = score
 
         return max_rank
-    
-    def get_rank_class(self, hand_rank)
+
+    def get_rank_class(self, hand_rank):
         """
         Returns the class of hand given the hand hand_rank
         returned from evaluate. 
@@ -94,9 +118,9 @@ class Evaluator(object):
         elif hand_rank <= LookupTable.MAX_HIGH_CARD:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_HIGH_CARD]
         else:
-            raise Exception("Inavlid hand rank, cannot return rank class")
+            raise ValueError("Inavlid hand rank, cannot return rank class")
 
-    
+
     def class_to_string(self, class_int):
         """
         Converts the integer class hand score into names.
