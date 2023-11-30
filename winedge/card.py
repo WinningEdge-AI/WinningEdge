@@ -1,3 +1,12 @@
+"""
+This is Card class, containing card information like ranks and suits.
+The class is a 32-bit structure, storing info about rank, suit and prime number.
+
+Also contains functions that map the card rank to prime numbers so each
+rank is assigned with a unique prime number. This allows us to generate
+unique identifiers, aka prime product, for different hands.
+"""
+
 class Card ():
     """
     Card class structure:
@@ -52,6 +61,9 @@ class Card ():
 
     @staticmethod
     def int_to_str(card_int):
+        """
+        
+        """
         rank_int = Card.get_rank_int(card_int)
         suit_int = Card.get_suit_int(card_int)
         return Card.STR_RANKS[rank_int] + Card.INT_SUIT_TO_CHAR_SUIT[suit_int]
