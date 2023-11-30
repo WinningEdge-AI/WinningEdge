@@ -33,7 +33,7 @@ class Evaluator(object):
 
         return self.hand_size_map[len(all_cards)](all_cards)
     
-    def _flop(self):
+    def _flop(self, cards):
         """
         Fundamental evaluation function. It provides a rank in the range [1, 7462].
         """
@@ -49,7 +49,7 @@ class Evaluator(object):
             prime = Card.prime_product_from_hand(cards)
             return self.table.unsuited_lookup[prime]
 
-    def _river(self):
+    def _river(self, cards):
         """
         Iterate all possible combinations of 5 cards from a 
         total of 7 cards and apply the five-card evaluation 
@@ -65,9 +65,7 @@ class Evaluator(object):
 
             score = self._five(combo)
             if score < max_rank:
-
                 # since the strength of a given hand is higher when the rank is smaller, we should always return the smallest possible score.
-
                 max_rank = score
 
         return max_rank
