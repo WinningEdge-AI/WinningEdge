@@ -1,4 +1,5 @@
 import itertools
+from .card import Card
 
 class LookupTable(object):
     """
@@ -74,11 +75,11 @@ class LookupTable(object):
         Calculate prime product from rank bits
         """
         prime_product = 1
-        rank = 2
+        rank = 0
 
         while bits:
             if bits & 1:
-                prime_product *= rank
+                prime_product *= Card.PRIMES[rank]
             bits >>= 1
             rank += 1
 
@@ -156,10 +157,10 @@ class LookupTable(object):
         for i in backwards_ranks:
 
             # and for each possible kicker rank
-            kickers = backwards_ranks[:]
+            kickers = list(backwards_ranks[:])
             kickers.remove(i)
             for k in kickers:
-                product = (i + 2) ** 4 * (k + 2)
+                product = (Card.PRIMES[i - 2]) ** 4 * (Card.PRIMES[k - 2])
                 self.unsuited_lookup[product] = rank
                 rank += 1
 
@@ -170,10 +171,10 @@ class LookupTable(object):
         for i in backwards_ranks:
 
             # and for each choice of pair rank
-            pairranks = backwards_ranks[:]
+            pairranks = list(backwards_ranks[:])
             pairranks.remove(i)
             for pr in pairranks:
-                product = (i + 2) ** 3 * (pr + 2) ** 2
+                product = (Card.PRIMES[i - 2]) ** 3 * (Card.PRIMES[pr - 2]) ** 2
                 self.unsuited_lookup[product] = rank
                 rank += 1
 
@@ -183,14 +184,14 @@ class LookupTable(object):
         # pick three of one rank
         for r in backwards_ranks:
 
-            kickers = backwards_ranks[:]
+            kickers = list(backwards_ranks[:])
             kickers.remove(r)
             gen = itertools.combinations(kickers, 2)
 
             for kickers in gen:
 
                 c1, c2 = kickers
-                product = (r + 2) ** 3 * (c1 + 2) * (c2 + 2)
+                product = (Card.PRIMES[r - 2]) ** 3 * (Card.PRIMES[c1 - 2]) * (Card.PRIMES[c2 - 2])
                 self.unsuited_lookup[product] = rank
                 rank += 1
 
@@ -201,12 +202,12 @@ class LookupTable(object):
         for tp in tpgen:
 
             pair1, pair2 = tp
-            kickers = backwards_ranks[:]
+            kickers = list(backwards_ranks[:])
             kickers.remove(pair1)
             kickers.remove(pair2)
             for kicker in kickers:
 
-                product = (pair1 + 2) ** 2 * (pair2 + 2) ** 2 * (kicker + 2)
+                product = (Card.PRIMES[pair1 - 2]) ** 2 * (Card.PRIMES[pair2 - 2]) ** 2 * (Card.PRIMES[kicker - 2])
                 self.unsuited_lookup[product] = rank
                 rank += 1
 
@@ -216,14 +217,14 @@ class LookupTable(object):
         # choose a pair
         for pairrank in backwards_ranks:
 
-            kickers = backwards_ranks[:]
+            kickers = list(backwards_ranks[:])
             kickers.remove(pairrank)
             kgen = itertools.combinations(kickers, 3)
 
             for kickers in kgen:
 
                 k1, k2, k3 = kickers
-                product = (pairrank + 2) ** 2 * (k1 + 2) * (k2 + 2) * (k3 + 2)
+                product = (Card.PRIMES[pairrank - 2]) ** 2 * (Card.PRIMES[k1 - 2]) * (Card.PRIMES[k2 - 2]) * (Card.PRIMES[k3 - 2])
                 self.unsuited_lookup[product] = rank
                 rank += 1
 
@@ -244,9 +245,9 @@ class LookupTable(object):
         so no need to sort when done! Perfect.
         """
         t = (bits | (bits - 1)) + 1
-        next_val = t | ((((t & -t) / (bits & -bits)) >> 1) - 1)
+        next_val = t | ((((t & -t) // (bits & -bits)) >> 1) - 1)
         yield next_val
         while True:
             t = (next_val | (next_val - 1)) + 1
-            next_val = t | ((((t & -t) / (next_val & -next_val)) >> 1) - 1)
+            next_val = t | ((((t & -t) // (next_val & -next_val)) >> 1) - 1)
             yield next_val

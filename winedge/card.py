@@ -41,7 +41,7 @@ class Card ():
         suit_char = string[1]
         rank_int = Card.CHAR_RANK_TO_INT_RANK[rank_char]
         suit_int = Card.CHAR_SUIT_TO_INT_SUIT[suit_char]
-        rank_prime = Card.PRIMES[rank_int]
+        rank_prime = Card.PRIMES[rank_int - 2]
 
         # perform bitwise shifts to generate unique card attributes
         bitrank = 1 << rank_int << 16
