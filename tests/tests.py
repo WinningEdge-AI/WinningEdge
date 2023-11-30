@@ -1,7 +1,7 @@
 import os
 import unittest
 
-import winedge import Card, Evaluator
+from winedge import Card, Evaluator
 
 class test(unittest.TestCase):
 
