@@ -14,7 +14,8 @@ class TestEvaluator(unittest.TestCase):
     This class defines methods for testing the evaluator module. It contains ... FINISH LATER
     """
     def setUp(self):
-        """The setUp method initializes the Evaluator and LookupTable modules required for subsequent unittests defined in this class."""
+        """The setUp method initializes the Evaluator and LookupTable modules required for
+        subsequent unittests defined in this class."""
         # Initialize the Evaluator and LookupTable
         self.evaluator = Evaluator()
         self.table = LookupTable()
@@ -36,6 +37,7 @@ class TestEvaluator(unittest.TestCase):
         board = []
         result = self.evaluator.evaluate(hand, board)
         self.assertEqual(result, 5618)
+
     def test_evaluate_nonCard_input(self):
         """
         This function tests if the evaluate function throws an error when inproperly
