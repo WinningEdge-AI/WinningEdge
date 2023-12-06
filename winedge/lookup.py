@@ -74,16 +74,13 @@ class LookupTable(object):
         """
         Calculate prime product from rank bits
         """
-        prime_product = 1
-        rank = 0
+        product = 1
+        for i in Card.INT_RANKS:
+            # if the ith bit is set
+            if bits & (1 << i):
+                product *= Card.PRIMES[i]
 
-        while bits:
-            if bits & 1:
-                prime_product *= Card.PRIMES[rank]
-            bits >>= 1
-            rank += 1
-
-        return prime_product
+        return product
 
     def flushes(self):
         """
