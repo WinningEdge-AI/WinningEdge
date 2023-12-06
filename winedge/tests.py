@@ -1,6 +1,6 @@
 """
 This module defines all of the unit tests for the WinningEdge software package and all it's modules.
-The module contains testing classes for the poker evaluator function and GUI."
+The module contains testing classes for the poker evaluator module and the card module."
 """
 
 import unittest
@@ -47,4 +47,6 @@ class TestCard(unittest.TestCase):
     def new_card_smoke_test(self):
         card = Card.new('Ah')
         self.assertIsNotNone(card)
+    
+
     
