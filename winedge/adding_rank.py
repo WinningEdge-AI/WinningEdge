@@ -74,8 +74,10 @@ def add_rank_to_pkl_df(poker_dataframe_filepath):
     """
     # Create pandas df from pickle dataframe
     pk = pd.read_pickle(poker_dataframe_filepath)
-    # Remove all entries where player cards are not revealed (game did not go to river stage).
-    pk_rvr = pk[(~pk['River'].isnull()) & (~pk['SB cards'].isnull()) & (~pk['BB cards'].isnull())]
+    # Remove all entries where player cards are not revealed (game did not go to
+    # river stage).
+    pk_rvr = pk[(~pk['River'].isnull()) & (~pk['SB cards'].isnull()) & \
+                (~pk['BB cards'].isnull())]
 
     #Add Columns to dataframe for SB & BB Handrank and Handstrength
     warnings.filterwarnings('ignore')
@@ -88,32 +90,37 @@ def add_rank_to_pkl_df(poker_dataframe_filepath):
     pkeval = Evaluator()
 
     for loc in pk_rvr.index:
-        # Extract the board and player cards from the dataframe and format them for use in
-        # the Card.py module.
-        board_str = [pk_rvr['Turn'][loc], pk_rvr['River'][loc]] + pk_rvr['Flop'][loc]
+        # Extract the board and player cards from the dataframe and format them
+        # for use in the Card.py module.
+        board_str = [pk_rvr['Turn'][loc], pk_rvr['River'][loc]] + \
+            pk_rvr['Flop'][loc]
         handSB_str = ast.literal_eval(pk_rvr['SB cards'][loc].\
-                                      replace("[ ", "['").replace(" ]", "']").replace(", ", "', '"))
+            replace("[ ", "['").replace(" ]", "']").replace(", ", "', '"))
         handBB_str = ast.literal_eval(pk_rvr['BB cards'][loc].\
-                                      replace("[ ", "['").replace(" ]", "']").replace(", ", "', '"))
+            replace("[ ", "['").replace(" ]", "']").replace(", ", "', '"))
 
-        # Create unique cards formatted for the evaluator using the Card.py module based on the
-        # player and board coards extracted from the dataframe.
+        # Create unique cards formatted for the evaluator using the Card.py
+        # module based on the player and board coards extracted from the
+        # dataframe.
         handSB = [Card.new(card_str) for card_str in handSB_str]
         handBB = [Card.new(card_str) for card_str in handBB_str]
         board = [Card.new(card_str) for card_str in board_str]
 
         pk_rvr['SB Handrank'][loc] = pkeval.class_to_string(
             pkeval.get_rank_class(pkeval.evaluate(handSB, board)))
-        pk_rvr['SB Hand Strength'][loc] = pkeval.get_rank_percentage(pkeval.evaluate(handSB, board))
+        pk_rvr['SB Hand Strength'][loc] = pkeval.get_rank_percentage(
+            pkeval.evaluate(handSB, board))
 
         pk_rvr['BB Handrank'][loc] = pkeval.class_to_string(
             pkeval.get_rank_class(pkeval.evaluate(handBB, board)))
-        pk_rvr['BB Hand Strength'][loc] = pkeval.get_rank_percentage(pkeval.evaluate(handBB, board))
+        pk_rvr['BB Hand Strength'][loc] = pkeval.get_rank_percentage(
+            pkeval.evaluate(handBB, board))
 
     # Reset the index of the pandas poker_dataframec
     pk_rvr = pk_rvr.reset_index()
 
-    # Convert the poker_dataframe pk_rvr to a pkl datafile and save it in the current working
-    # directory.
-    poker_dataframe_w_rank = os.path.join(os.getcwd(), "poker_dataframe_w_rank.pkl")
+    # Convert the poker_dataframe pk_rvr to a pkl datafile and save it in the
+    # current working directory.
+    poker_dataframe_w_rank = os.path.join(os.getcwd(),
+                                          "poker_dataframe_w_rank.pkl")
     pk_rvr.to_pickle(poker_dataframe_w_rank)
