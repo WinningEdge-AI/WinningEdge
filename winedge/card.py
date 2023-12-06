@@ -29,7 +29,9 @@ class Card ():
 
     # converstion from string => int
     CHAR_RANK_TO_INT_RANK = {
-        '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, 'T': 10, 'J': 11, 'Q': 12, 'K': 13, 'A': 14
+        '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, 
+        '8': 8, '9': 9, 'T': 10, 'J': 11, 'Q': 12, 
+        'K': 13, 'A': 14
     }
     CHAR_SUIT_TO_INT_SUIT = {
         's' : 1, # spade
@@ -53,7 +55,7 @@ class Card ():
         rank_prime = Card.PRIMES[rank_int - 2]
 
         # perform bitwise shifts to generate unique card attributes
-        bitrank = 1 << rank_int << 16
+        bitrank = 1 << (rank_int - 2) << 16
         suit = suit_int << 12
         rank = rank_int << 8
 
