@@ -1,3 +1,6 @@
+"""
+This module generates the lookup table containing all the prime number keys that maps to the rank and other info of the given card
+"""
 import itertools
 from .card import Card
 

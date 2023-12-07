@@ -64,7 +64,7 @@ class Card ():
     @staticmethod
     def int_to_str(card_int):
         """
-        
+        Convert integer ranks to strings so human like us can comprehend
         """
         rank_int = Card.get_rank_int(card_int)
         suit_int = Card.get_suit_int(card_int)
@@ -72,18 +72,30 @@ class Card ():
 
     @staticmethod
     def get_rank_int(card_int):
+        """
+        Get the 4-bit bin representing the rank from the 32-bit bin that stores all the info
+        """
         return (card_int >> 8) & 0xF
 
     @staticmethod
     def get_suit_int(card_int):
+        """
+        Get the 4-bit bin representing the suit from the 32-bit bin that stores all the info
+        """
         return (card_int >> 12) & 0xF
 
     @staticmethod
     def get_bitrank_int(card_int):
+        """
+        Get the 16-bit bin representing the bitrank from the 32-bit bin that stores all the info
+        """
         return (card_int >> 16) & 0x1FFF
 
     @staticmethod
     def get_prime(card_int):
+        """
+        Get the 4-bit bin representing the prime number from the 32-bit bin that stores all the info
+        """
         return card_int & 0x3F
 
     @staticmethod
