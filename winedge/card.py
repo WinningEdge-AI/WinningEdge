@@ -29,7 +29,9 @@ class Card ():
 
     # converstion from string => int
     CHAR_RANK_TO_INT_RANK = {
-        '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, 'T': 10, 'J': 11, 'Q': 12, 'K': 13, 'A': 14
+        '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, 
+        '8': 8, '9': 9, 'T': 10, 'J': 11, 'Q': 12, 
+        'K': 13, 'A': 14
     }
     CHAR_SUIT_TO_INT_SUIT = {
         's' : 1, # spade
@@ -53,7 +55,7 @@ class Card ():
         rank_prime = Card.PRIMES[rank_int - 2]
 
         # perform bitwise shifts to generate unique card attributes
-        bitrank = 1 << rank_int << 16
+        bitrank = 1 << (rank_int - 2) << 16
         suit = suit_int << 12
         rank = rank_int << 8
 
@@ -62,7 +64,7 @@ class Card ():
     @staticmethod
     def int_to_str(card_int):
         """
-        
+        Convert integer ranks to strings so human like us can comprehend
         """
         rank_int = Card.get_rank_int(card_int)
         suit_int = Card.get_suit_int(card_int)
@@ -70,18 +72,30 @@ class Card ():
 
     @staticmethod
     def get_rank_int(card_int):
+        """
+        Get the 4-bit bin representing the rank from the 32-bit bin that stores all the info
+        """
         return (card_int >> 8) & 0xF
 
     @staticmethod
     def get_suit_int(card_int):
+        """
+        Get the 4-bit bin representing the suit from the 32-bit bin that stores all the info
+        """
         return (card_int >> 12) & 0xF
 
     @staticmethod
     def get_bitrank_int(card_int):
+        """
+        Get the 16-bit bin representing the bitrank from the 32-bit bin that stores all the info
+        """
         return (card_int >> 16) & 0x1FFF
 
     @staticmethod
     def get_prime(card_int):
+        """
+        Get the 4-bit bin representing the prime number from the 32-bit bin that stores all the info
+        """
         return card_int & 0x3F
 
     @staticmethod
