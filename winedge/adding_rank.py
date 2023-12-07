@@ -90,10 +90,7 @@ def add_rank_to_pkl_df(poker_dataframe_filepath):
     for loc in pk_rvr.index:
         # Extract the board and player cards from the dataframe and format them for use in
         # the Card.py module.
-        board_str = \
-            [pk_rvr['Turn'][loc].replace("[ ", "['").replace(" ]", "']").replace(", ", "', '"),
-            pk_rvr['River'][loc].replace("[ ", "['").replace(" ]", "']").replace(", ", "', '")] + \
-            [str(item) for item in pk_rvr['Flop'][loc]]
+        board_str = [pk_rvr['Turn'][loc], pk_rvr['River'][loc]] + pk_rvr['Flop'][loc]
         handSB_str = ast.literal_eval(pk_rvr['SB cards'][loc].\
                                       replace("[ ", "['").replace(" ]", "']").replace(", ", "', '"))
         handBB_str = ast.literal_eval(pk_rvr['BB cards'][loc].\
