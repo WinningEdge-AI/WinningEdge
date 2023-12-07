@@ -148,7 +148,8 @@ class LookupTable(object):
         """
         Pair, Two Pair, Three of a Kind, Full House, and 4 of a Kind.
         """
-        backwards_ranks = range(len(range(2, 15)) - 1, -1, -1)
+        #CHECK: should be range(14, 1, -1)
+        backwards_ranks = range(14, 1, -1)
 
         # 1) Four of a Kind
         rank = self.MAX_STRAIGHT_FLUSH + 1
