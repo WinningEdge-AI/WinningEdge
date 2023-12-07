@@ -1,5 +1,6 @@
 """
-This module generates the lookup table containing all the prime number keys that maps to the rank and other info of the given card
+This module generates the lookup table containing all the prime 
+number keys that maps to the rank and other info of the given card
 """
 import itertools
 from .card import Card
@@ -102,7 +103,7 @@ class LookupTable(object):
         flushes = []
         gen = self.get_lexicographically_next_bit_sequence(int('0b11111', 2))
 
-        for i in range(1277 + len(straight_flushes) - 1):
+        for _ in range(1277 + len(straight_flushes) - 1):
             f = next(gen)
 
             not_sf = all(f ^ sf for sf in straight_flushes)
@@ -208,7 +209,8 @@ class LookupTable(object):
             kickers.remove(pair2)
             for kicker in kickers:
 
-                product = (Card.PRIMES[pair1 - 2]) ** 2 * (Card.PRIMES[pair2 - 2]) ** 2 * (Card.PRIMES[kicker - 2])
+                product = (Card.PRIMES[pair1 - 2]) ** 2 * \
+                    (Card.PRIMES[pair2 - 2]) ** 2 * (Card.PRIMES[kicker - 2])
                 self.unsuited_lookup[product] = rank
                 rank += 1
 
@@ -225,7 +227,8 @@ class LookupTable(object):
             for kickers in kgen:
 
                 k1, k2, k3 = kickers
-                product = (Card.PRIMES[pairrank - 2]) ** 2 * (Card.PRIMES[k1 - 2]) * (Card.PRIMES[k2 - 2]) * (Card.PRIMES[k3 - 2])
+                product = (Card.PRIMES[pairrank - 2]) ** 2 * \
+                    (Card.PRIMES[k1 - 2]) * (Card.PRIMES[k2 - 2]) * (Card.PRIMES[k3 - 2])
                 self.unsuited_lookup[product] = rank
                 rank += 1
 
@@ -233,7 +236,7 @@ class LookupTable(object):
         """
         Writes lookup table to disk
         """
-        with open(filepath, 'w') as f:
+        with open(filepath, 'w', encoding='utf-8') as f:
             for prime_prod, rank in table.items():
                 f.write(str(prime_prod) + "," + str(rank) + '\n')
 
