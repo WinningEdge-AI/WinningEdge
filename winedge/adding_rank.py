@@ -92,29 +92,33 @@ def add_rank_to_pkl_df(poker_dataframe_filepath):
     for loc in pk_rvr.index:
         # Extract the board and player cards from the dataframe and format them
         # for use in the Card.py module.
-        board_str = [pk_rvr['Turn'][loc], pk_rvr['River'][loc]] + \
+        board_list = [pk_rvr['Turn'][loc], pk_rvr['River'][loc]] + \
             pk_rvr['Flop'][loc]
-        handSB_str = ast.literal_eval(pk_rvr['SB cards'][loc].\
+        hand_sb_list = ast.literal_eval(pk_rvr['SB cards'][loc].\
             replace("[ ", "['").replace(" ]", "']").replace(", ", "', '"))
-        handBB_str = ast.literal_eval(pk_rvr['BB cards'][loc].\
+        hand_bb_list = ast.literal_eval(pk_rvr['BB cards'][loc].\
             replace("[ ", "['").replace(" ]", "']").replace(", ", "', '"))
+
+        # Replace the original df elements with the cleaned ones
+        pk_rvr['SB cards'][loc] = hand_sb_list
+        pk_rvr['BB cards'][loc] = hand_bb_list
 
         # Create unique cards formatted for the evaluator using the Card.py
         # module based on the player and board coards extracted from the
         # dataframe.
-        handSB = [Card.new(card_str) for card_str in handSB_str]
-        handBB = [Card.new(card_str) for card_str in handBB_str]
-        board = [Card.new(card_str) for card_str in board_str]
+        hand_sb = [Card.new(card) for card in hand_sb_list]
+        hand_bb = [Card.new(card) for card in hand_bb_list]
+        board = [Card.new(card) for card in board_list]
 
         pk_rvr['SB Handrank'][loc] = pkeval.class_to_string(
-            pkeval.get_rank_class(pkeval.evaluate(handSB, board)))
+            pkeval.get_rank_class(pkeval.evaluate(hand_sb, board)))
         pk_rvr['SB Hand Strength'][loc] = pkeval.get_rank_percentage(
-            pkeval.evaluate(handSB, board))
+            pkeval.evaluate(hand_sb, board))
 
         pk_rvr['BB Handrank'][loc] = pkeval.class_to_string(
-            pkeval.get_rank_class(pkeval.evaluate(handBB, board)))
+            pkeval.get_rank_class(pkeval.evaluate(hand_bb, board)))
         pk_rvr['BB Hand Strength'][loc] = pkeval.get_rank_percentage(
-            pkeval.evaluate(handBB, board))
+            pkeval.evaluate(hand_bb, board))
 
     # Reset the index of the pandas poker_dataframec
     pk_rvr = pk_rvr.reset_index()

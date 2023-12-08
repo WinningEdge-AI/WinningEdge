@@ -23,9 +23,9 @@ class TestEvaluator(unittest.TestCase):
     def test_evaluate_hand(self):
         """
         This method is a oneshot test of the evaluator and lookup table modules.
-        The module should return a value of 5618 given the inputs (2h,2s,5s,Jc,Ah).
+        The module should return a value of 5990 given the inputs (2h,2s,5s,Jc,Ah).
         """
-        
+
         # Test a specific hand evaluation
         hand = [
             Card.new('2h'),
@@ -37,7 +37,38 @@ class TestEvaluator(unittest.TestCase):
 
         board = []
         result = self.evaluator.evaluate(hand, board)
-        self.assertEqual(result, 5618)
+        self.assertEqual(result, 5990)
+
+    def test_compare_hands(self):
+        """
+        This method is a oneshot test to see if the evaluator handles
+        the comparison of two sets of hands appropriately.
+        """
+        board = [
+            # Flop cards
+            Card.new('Ac'),
+            Card.new('Ah'),
+            Card.new('8d'),
+            # Turn card
+            Card.new('7d'),
+            # River card
+            Card.new('Jh')
+        ]
+
+        hand1 = [
+            Card.new('Ad'),
+            Card.new('6h')
+        ]
+
+        hand2 = [
+            Card.new('6c'),
+            Card.new('Js')
+        ]
+
+        result1 = self.evaluator.evaluate(hand1, board)
+        result2 = self.evaluator.evaluate(hand2, board)
+
+        self.assertLess(result1, result2)
 
     #def test_evaluate_
 class TestCard(unittest.TestCase):
@@ -45,8 +76,8 @@ class TestCard(unittest.TestCase):
     This class defines methods for testing the card.py module... FINISH LATER
     """
     def new_card_smoke_test(self):
+        """
+        Check if new cards can be generated
+        """
         card = Card.new('Ah')
         self.assertIsNotNone(card)
-    
-
-    
