@@ -17,6 +17,7 @@ def straight_eval_to_df(poker_df_filepath):
     based on the board cards for each game at the flop, turn, and river stages of the game.
 
     Risk Quantification:
+    --------------
         - 1 (Low): 3 or more cards + board cards required to make straight.
         - 2 (Medium): 2 more cards + board cards required to make straight.
         - 3 (High): 1 more card + board cards required to make straight.
@@ -25,17 +26,21 @@ def straight_eval_to_df(poker_df_filepath):
         could not be calulated
 
     Added Columns:
+    --------------
         - Flop Straight Risk: Risk quantification value at flop.
         - Turn Straight Risk: Risk quantification value at turn.
         - River Straight Risk: Risk quantification value at river.
     
     Args:
+    --------------
         - poker_df_filepath: .pkl dataframe file formated in same way as poker_dataframe.
 
     Return:
+    --------------
         None
     
     Export:
+    --------------
         poker_df_straight_risk.pkl file with straight risk columns exported
         to current working directory.
     """
@@ -91,7 +96,7 @@ def straight_eval_to_df(poker_df_filepath):
 
     # Calc straight risk at turn.
     for loc in st_df.index:
-        if st_df['Flop'][loc] is not None:
+        if st_df['Turn'][loc] is not None:
             rank_char = [card[0] for card in st_df['Flop'][loc]] + [
                 st_df['Turn'][loc][0]]
             rank_char = list(set(rank_char))
@@ -127,7 +132,7 @@ def straight_eval_to_df(poker_df_filepath):
 
     # Calc straight risk at river.
     for loc in st_df.index:
-        if st_df['Flop'][loc] is not None:
+        if st_df['River'][loc] is not None:
             rank_char = [card[0] for card in st_df['Flop'][loc]] + [
                 st_df['Turn'][loc][0]] + [st_df['River'][loc][0]]
             rank_char = list(set(rank_char))
