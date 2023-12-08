@@ -73,21 +73,18 @@ def straight_eval_to_df(poker_df_filepath):
             if '11' in ''.join(map(str, diff)) or '22' in ''.join(
                 map(str, diff)) or '12' in ''.join(
                     map(str, diff)) or '21' in ''.join(map(str, diff)):
-                # If there are more than 2 2's in count, 3 card req for straight
-                if diff.count(2) > 2:
-                    risk = 1
-                # Else the number of consecutive 1's or 2's in difference list
+
+                # The number of consecutive 1's or 2's in difference list
                 # will equal the risk value.
-                else:
-                    count = 0
-                    max_count = 0
-                    for num in diff:
-                        if num == 1 or num ==2:
-                            count +=1
-                            max_count = max(max_count,count)
-                        else:
-                            count = 0
-                    risk = max_count
+                count = 0
+                max_count = 0
+                for num in diff:
+                    if num == 1 or num ==2:
+                        count +=1
+                        max_count = max(max_count,count)
+                    else:
+                        count = 0
+                risk = max_count
             else:
                 risk = 1
             st_df['Flop Straight Risk'][loc] = risk
@@ -105,25 +102,20 @@ def straight_eval_to_df(poker_df_filepath):
                 int_rank.append(1)
             int_rank = sorted(int_rank)
 
-            risk = 1
-
             diff = [int_rank[i + 1] - int_rank[i] \
                     for i in range(len(int_rank) - 1)]
             if '11' in ''.join(map(str, diff)) or '22' in ''.join(
                 map(str, diff)) or '12' in ''.join(
                     map(str, diff)) or '21' in ''.join(map(str, diff)):
-                if diff.count(2) > 2:
-                    risk = 1
-                else:
-                    count = 0
-                    max_count = 0
-                    for num in diff:
-                        if num == 1 or num ==2:
-                            count +=1
-                            max_count = max(max_count,count)
-                        else:
-                            count = 0
-                    risk = max_count
+                count = 0
+                max_count = 0
+                for num in diff:
+                    if num == 1 or num ==2:
+                        count +=1
+                        max_count = max(max_count,count)
+                    else:
+                        count = 0
+                risk = max_count
             else:
                 risk = 1
             st_df['Turn Straight Risk'][loc] = risk
@@ -141,25 +133,20 @@ def straight_eval_to_df(poker_df_filepath):
                 int_rank.append(1)
             int_rank = sorted(int_rank)
 
-            risk = 1
-
             diff = [int_rank[i + 1] - int_rank[i] \
                     for i in range(len(int_rank) - 1)]
             if '11' in ''.join(map(str, diff)) or '22' in ''.join(
                 map(str, diff)) or '12' in ''.join(
                     map(str, diff)) or '21' in ''.join(map(str, diff)):
-                if diff.count(2) > 2:
-                    risk = 1
-                else:
-                    count = 0
-                    max_count = 0
-                    for num in diff:
-                        if num == 1 or num ==2:
-                            count +=1
-                            max_count = max(max_count,count)
-                        else:
-                            count = 0
-                    risk = max_count
+                count = 0
+                max_count = 0
+                for num in diff:
+                    if num == 1 or num ==2:
+                        count +=1
+                        max_count = max(max_count,count)
+                    else:
+                        count = 0
+                risk = max_count
             else:
                 risk = 1
             st_df['River Straight Risk'][loc] = risk
