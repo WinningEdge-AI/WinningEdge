@@ -1,50 +1,13 @@
 """
 adding_rank Module
 
-The adding_rank Module contains a function which converts the poker_dataframe pickle data file
-into a pandas dataframe. The function uses the evaluator.py and card.py modules to
-calculate the hand strength and hand rank for the small blind and big blind player
-for each game in the poker_dataframe that was played to completion (river stage - all player
-cards revealed) and appends the hand strength and hand rank for each player to the pandas dataframe.
-
-The adding_rank module contains the add_rank_to_pkl_df function which converts the 
-
-Dependancies:
---------------
-- card.py
-- evaluator.py
-- poker_dataframe.pkl
-
-Functions:
---------------
-- add_rank_to_pkl_df(filepath):
-    This function creates a pandas dataframe from the poker_dataframe.pkl file.
-    The function then removes games which have not been played to completion (games where all
-    player cards are not revealed). Then it uses the evaluator.py, card.py, and look.py modules
-    to calculate the hand rank and hand strength for each player for each game in the dataframe.
-    The hand rank and hand strength for each player are then appended into the pandas
-    poker_dataframe in the following columns:
-        - SB Handrank (str): Phrase describing the type of hand the small blind player has.
-            (e.g. Two Pair)
-        - BB Handrank (str): Phrase describing the type of hand the big blind player has.
-            (e.g. Two Pair)
-        - SB Hand Strength (str): A normalized rank for the small blind hand ranging from 0-1.
-            The normalization is based on how strong the hand is relative to the 7462 possible
-            poker hands. (e.g. 1 = Royal Flush, 7642 = 7,5,4,3,2 unsuited)
-        - BB Hand Strength (str): A normalized rank for the big blind hand ranging from 0-1.
-            The normalization is based on how strong the hand is relative to the 7462 possible
-            poker hands. (e.g. 1 = Royal Flush, 7642 = 7,5,4,3,2 unsuited)
-    The function converts the dataframe back into a pkl file titled "poker_dataframe_w_rank.pkl"
-    and saves the file in the current working directory where the function was run.
-
-    Args:
-        filepath (str): Filepath to the poker_dataframe.pkl file.
-    Returns:
-        None (saves pkl version of dataframe to current working directory)
-Exports:
---------------
-- poker_dataframe_w_rank.pkl is saved in current working directory which is a copy of the
-poker_dataframe.pkl file input appended with the SB and BB handrank and normalized hand strength.
+The adding_rank module contains a function which creates a modified copy
+of the poker_dataframe.pkl file containing historical poker data and generated
+by the create_dataframe.py module. The function appends the hand rank (a string
+classifying the type of hand a player has) and hand strength (the percentage
+of possible poker hands that the player beats) for both the small blind
+and big blind player to the dataframe and exports it to the current working
+directory.
 """
 import ast
 import os
@@ -57,20 +20,44 @@ from . import Card, Evaluator
 
 def add_rank_to_pkl_df(poker_dataframe_filepath):
     """
-    This function saves a modified copy of the poker_dataframe.pkl file to the current working
-    directory. The original file is modified to only contain games where the player cards are
-    revealed and is appended with columns for both players hand strength and hand rank as
-    calculated by the evaluator.py module.
+    This function saves a modified copy of the poker_dataframe.pkl file created
+    by the create_dataframe.py module to the current working directory. The
+    cleans the dataframe of all games that were not played to completion. Then
+    the function calculates the handrank and hand strength for the small blind
+    and big bind players for each game and appends this information into 
+    four new columns in the dataframe (see metrics). The new dataframe is saved
+    as poker_dataframe_w_rank.pkl in the current working directory.
+
+    Metrics:
+    --------------
+        - SB Handrank (str): Represents the type of hand the small blind
+        player has
+            (Ex. sb hand = 2,3,4,5,6 -> SB Handrank = 'Flush')
+
+        - BB Handrank (str): Represents the type of hand the big blind
+        player has
+            (Ex. bb hand = 5,5,8,8,10 -> SB Handrank = 'Two Pair')
+
+        - SB Hand Strength (float): Represents the % of possible poker hands
+        the small blind player beats with their current cards.
+            (Ex. sb hand = royal flush -> SB Hand Strength = 0.9999)
+
+        - BB Hand Strength (float): Represents the % of possible poker hands
+        the sbig blind player beats with their current cards.
 
     Args:
-        filepath (str): Filepath to the poker_dataframe.pkl file or a file which is formatted 
-        the same contain heads up poker player data.
+    --------------
+        filepath (str): Filepath to the poker_dataframe.pkl file containing
+        historical poker data formated with the create_dataframe.py module.
+
     Returns:
+    --------------
         None
+
     Exports:
-        Saves modified poker_dataframe.pkl file containing only completed games appended
-        with player hand strength and hand rank data to the current working directory
-        in a pickle file poker_dataframe_w_rank.pkl.
+    --------------
+        Saves modified dataframe as poker_dataframe_w_rank.pkl to current
+        working directory.
     """
     # Create pandas df from pickle dataframe
     pk = pd.read_pickle(poker_dataframe_filepath)
