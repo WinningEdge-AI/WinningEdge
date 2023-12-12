@@ -81,17 +81,22 @@ def straight_eval_to_df(poker_df_filepath):
                 map(str, diff)) or '12' in ''.join(
                     map(str, diff)) or '21' in ''.join(map(str, diff)):
 
+                # If 2 consecutive differences of 2, risk -2 
+                if '22' in ''.join(map(str, diff)):
+                    risk = 2
+
                 # The number of consecutive 1's or 2's in difference list
                 # will equal the risk value.
-                count = 0
-                max_count = 0
-                for num in diff:
-                    if num == 1 or num ==2:
-                        count +=1
-                        max_count = max(max_count,count)
-                    else:
-                        count = 0
-                risk = max_count
+                else:
+                    count = 0
+                    max_count = 0
+                    for num in diff:
+                        if num == 1 or num ==2:
+                            count +=1
+                            max_count = max(max_count,count)
+                        else:
+                            count = 0
+                    risk = max_count
             else:
                 risk = 1
             st_df['Flop Straight Risk'][loc] = risk
@@ -114,15 +119,18 @@ def straight_eval_to_df(poker_df_filepath):
             if '11' in ''.join(map(str, diff)) or '22' in ''.join(
                 map(str, diff)) or '12' in ''.join(
                     map(str, diff)) or '21' in ''.join(map(str, diff)):
-                count = 0
-                max_count = 0
-                for num in diff:
-                    if num == 1 or num ==2:
-                        count +=1
-                        max_count = max(max_count,count)
-                    else:
-                        count = 0
-                risk = max_count
+                if '22' in ''.join(map(str, diff)):
+                    risk = 2
+                else:
+                    count = 0
+                    max_count = 0
+                    for num in diff:
+                        if num == 1 or num ==2:
+                            count +=1
+                            max_count = max(max_count,count)
+                        else:
+                            count = 0
+                    risk = max_count
             else:
                 risk = 1
             st_df['Turn Straight Risk'][loc] = risk
@@ -145,15 +153,18 @@ def straight_eval_to_df(poker_df_filepath):
             if '11' in ''.join(map(str, diff)) or '22' in ''.join(
                 map(str, diff)) or '12' in ''.join(
                     map(str, diff)) or '21' in ''.join(map(str, diff)):
-                count = 0
-                max_count = 0
-                for num in diff:
-                    if num == 1 or num ==2:
-                        count +=1
-                        max_count = max(max_count,count)
-                    else:
-                        count = 0
-                risk = max_count
+                if '22' in ''.join(map(str, diff)):
+                    risk = 2
+                else:
+                    count = 0
+                    max_count = 0
+                    for num in diff:
+                        if num == 1 or num ==2:
+                            count +=1
+                            max_count = max(max_count,count)
+                        else:
+                            count = 0
+                    risk = max_count
             else:
                 risk = 1
             st_df['River Straight Risk'][loc] = risk
