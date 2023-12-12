@@ -84,6 +84,7 @@ def bluff_eval(df_filepath):
     blf_df['aggBB'] = blf_df['aggBB']/blf_df['aggBB'].mean()
 
     # Calculate handrank % and bluff metric
+    eval = Evaluator()
     for loc in blf_df.index:
         board_list = blf_df['Flop'][loc] + \
             [blf_df['Turn'][loc], blf_df['River'][loc]]
