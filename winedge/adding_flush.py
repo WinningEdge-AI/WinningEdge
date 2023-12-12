@@ -86,8 +86,8 @@ def flush_eval_to_df(poker_df_filepath):
             Flush = 3
         fl_df['Flush Count'][games] = count
         fl_df['Flush'][games] = Flush
-    poker_df_flush_risk = os.path.join(os.getcwd(), "poker_df_flush_risk.pkl")
-    fl_df.to_pickle(poker_df_flush_risk)
+    poker_dataframe_flush_risk = os.path.join(os.getcwd(), "poker_dataframe_flush_risk.pkl")
+    fl_df.to_pickle(poker_dataframe_flush_risk)
 
     
 
