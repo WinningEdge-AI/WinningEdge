@@ -21,8 +21,8 @@ WinningEdge is a strategy optimization tool for online, low-stakes Texas hold'em
 Organization of the Project
 ---------------------------
 The project has the following structure
----
-WinningEdge/
+
+'''WinningEdge/
 |-- LICENSE
 |-- README.md
 |-- dataframe
@@ -68,8 +68,8 @@ WinningEdge/
     |-- evaluator.py
     |-- lookup.py
     |-- straight_risk_eval.py
-    |-- tests.py
----
+    |-- tests.py'''
+
 
 Installation
 ------------
