@@ -32,11 +32,11 @@ def check_aggression(action_list):
                 agg_bb=1
     return agg_sb, agg_bb
 
-df = pd.read_pickle("../dataframe/poker_dataframe.pkl")
+#df = pd.read_pickle("../dataframe/poker_dataframe.pkl")
 
-df['Aggr preflop'] = df['Preflop actions'].apply(check_aggression)
-df['Aggr flop'] = df['Flop actions'].apply(check_aggression)
-df['Aggr turn'] = df['Turn actions'].apply(check_aggression)
-df['Aggr river'] = df['River actions'].apply(check_aggression)
+#df['Aggr preflop'] = df['Preflop actions'].apply(check_aggression)
+#df['Aggr flop'] = df['Flop actions'].apply(check_aggression)
+#df['Aggr turn'] = df['Turn actions'].apply(check_aggression)
+#df['Aggr river'] = df['River actions'].apply(check_aggression)
 
-df.to_pickle('poker_dataframe_with_agg_columns.pkl')
+#df.to_pickle('poker_dataframe_with_agg_columns.pkl')

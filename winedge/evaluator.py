@@ -108,6 +108,10 @@ class Evaluator(object):
         """
 
         all_cards = cards + board
+        
+        # Check for duplicate cards
+        if len(set(all_cards)) < len(all_cards):
+            raise ValueError("Duplicate cards found in the input.")
 
         return self.hand_size_map[len(all_cards)](all_cards)
 
@@ -209,21 +213,21 @@ class Evaluator(object):
         """
         if hand_rank >= 0 and hand_rank <= LookupTable.MAX_STRAIGHT_FLUSH:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_STRAIGHT_FLUSH]
-        elif hand_rank <= LookupTable.MAX_FOUR_OF_A_KIND:
+        elif hand_rank >= 0 and hand_rank <= LookupTable.MAX_FOUR_OF_A_KIND:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_FOUR_OF_A_KIND]
-        elif hand_rank <= LookupTable.MAX_FULL_HOUSE:
+        elif hand_rank >= 0 and hand_rank <= LookupTable.MAX_FULL_HOUSE:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_FULL_HOUSE]
-        elif hand_rank <= LookupTable.MAX_FLUSH:
+        elif hand_rank >= 0 and hand_rank <= LookupTable.MAX_FLUSH:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_FLUSH]
-        elif hand_rank <= LookupTable.MAX_STRAIGHT:
+        elif hand_rank >= 0 and hand_rank <= LookupTable.MAX_STRAIGHT:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_STRAIGHT]
-        elif hand_rank <= LookupTable.MAX_THREE_OF_A_KIND:
+        elif hand_rank >= 0 and hand_rank <= LookupTable.MAX_THREE_OF_A_KIND:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_THREE_OF_A_KIND]
-        elif hand_rank <= LookupTable.MAX_TWO_PAIR:
+        elif hand_rank >= 0 and hand_rank >= 0 and hand_rank <= LookupTable.MAX_TWO_PAIR:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_TWO_PAIR]
-        elif hand_rank <= LookupTable.MAX_PAIR:
+        elif hand_rank >= 0 and hand_rank <= LookupTable.MAX_PAIR:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_PAIR]
-        elif hand_rank <= LookupTable.MAX_HIGH_CARD:
+        elif hand_rank >= 0 and hand_rank <= LookupTable.MAX_HIGH_CARD:
             return LookupTable.MAX_TO_RANK_CLASS[LookupTable.MAX_HIGH_CARD]
         else:
             raise ValueError("Inavlid hand rank, cannot return rank class")
