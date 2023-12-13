@@ -78,12 +78,15 @@ WinningEdge/
 ### Installation<br>
 To install `WinningEdge` first it must be cloned to your computer using<br>
 the `git` command:<br>
-'''git clone git@github.com:WinningEdge-AI/WinningEdge.git'''<br>
+```
+git clone git@github.com:WinningEdge-AI/WinningEdge.git
+```
 Next, the user will need to go into the WinningEdge directory and run the setup.py file.<br>
 ```
 cd WinningEdge/
 python setup.py install
-``` <br>
+```
+<br>
 To ensure that dependencies to run `WinningEdge` are install, the user will need to run the following commands.<br>
 ```
 conda env create -f environment.yml -n WinningEdge
