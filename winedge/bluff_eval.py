@@ -2,7 +2,8 @@
 bluff_eval.py Module
 
 This module contains a function to calculate a bluff metric for the small and
-big blind players based on the poker_dataframe.
+big blind players based on the poker_dataframe created by the
+create_dataframe.py module.
 """
 
 import ast
@@ -14,12 +15,14 @@ from . import Card, Evaluator
 
 def bluff_eval(df_filepath):
     """
-    the bluff_eval function creates a copy of the poker_dataframe.pkl and
-    appends an normalized aggresiveness and bluffing metric columns for the
-    small blind and big blind and returns the new dataframe to the current
-    working directory.
+    the bluff_eval function creates a copy of the poker_dataframe.pkl and 
+    removes all games that were not played to completion and where no river
+    actions took place. The function then appends an normalized aggresiveness
+    and bluffing metric columns for the small blind and big blind and returns
+    the new dataframe to the current working directory.
 
     Metrics:
+    --------------
         -aggSB: Normalized aggressiveness for the small blind player
             = sum of bets 'b' and raises 'r' for specific game / average number
             of bets and raises for the small blind player
@@ -37,12 +40,16 @@ def bluff_eval(df_filepath):
             = (% of poker hands the bb player's hand loses to) * (aggBB)
 
     Args:
-        df_filepath(str): Filepath to poker_dataframe.pkl containing poker data.
+    --------------
+        df_filepath(str): Filepath to poker_dataframe.pkl containing poker data
+        created by the create_dataframe.py module.
     
     Returns:
+    --------------
         None
 
     Exports:
+    --------------
         poker_df_w_bluff.pkl to current working directory. poker_df_w_bluff.pkl
         is copy of input dataframe.pkl with all games not played to completion 
         removed and with added aggSB,aggBB, SB Bluff Metric, and BB Bluff Metric
