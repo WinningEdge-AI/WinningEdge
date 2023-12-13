@@ -22,7 +22,8 @@ Organization of the Project
 ---------------------------
 The project has the following structure
 
-'''WinningEdge/
+'''
+WinningEdge/
 |-- LICENSE
 |-- README.md
 |-- dataframe
@@ -68,7 +69,8 @@ The project has the following structure
     |-- evaluator.py
     |-- lookup.py
     |-- straight_risk_eval.py
-    |-- tests.py'''
+    |-- tests.py
+'''
 
 
 Installation
