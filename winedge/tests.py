@@ -236,6 +236,46 @@ class TestEvaluator(unittest.TestCase):
 
         self.assertEqual(hand_class, 9)
 
+    def test_get_rank_class_invalid_hand_rank(self):
+        """
+        Test error handling
+        """
+        with self.assertRaises(ValueError):
+            self.evaluator.get_rank_class(-1)
+
+        with self.assertRaises(ValueError):
+            self.evaluator.get_rank_class(7463)
+
+    def test_evaluate_repeated_cards_in_hand(self):
+        """
+        Test error of repetative cards
+        """
+        cards = [
+            Card.new('Ah'),
+            Card.new('6s'),
+            Card.new('Qc'),
+            Card.new('Jd'),
+            Card.new('Ah')
+        ]
+
+        with self.assertRaises(ValueError):
+            self.evaluator.evaluate(cards, [])
+
+    def test_card_invalid_input_format(self):
+        """
+        Test error handling of typo in card info
+        """
+        with self.assertRaises(ValueError):
+            # The rank is wrong
+            Card.new("Us")
+
+        with self.assertRaises(ValueError):
+            # The suit is wrong
+            Card.new("5k")
+
+        with self.assertRaises(ValueError):
+            # Both are wrong
+            Card.new("Xk")
 
 class TestCard(unittest.TestCase):
     """
