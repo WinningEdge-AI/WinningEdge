@@ -24,7 +24,7 @@ from .card import Card
 
 class TestEvaluator(unittest.TestCase):
     """
-    This class defines methods for testing the evaluator module. It contains ... FINISH LATER
+    This class defines methods for testing the evaluator module.
     """
     def setUp(self):
         """The setUp method initializes the Evaluator and LookupTable modules required for
