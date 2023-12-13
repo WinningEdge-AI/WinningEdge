@@ -176,7 +176,7 @@ class TestEvaluator(unittest.TestCase):
             Card.new('Ah'),
             Card.new('As'),
             Card.new('Ac'),
-            Card.new('Td'),
+            Card.new('Jd'),
             Card.new('Th')
         ]
         board = []
@@ -265,15 +265,15 @@ class TestEvaluator(unittest.TestCase):
         """
         Test error handling of typo in card info
         """
-        with self.assertRaises(ValueError):
+        with self.assertRaises(KeyError):
             # The rank is wrong
             Card.new("Us")
 
-        with self.assertRaises(ValueError):
+        with self.assertRaises(KeyError):
             # The suit is wrong
             Card.new("5k")
 
-        with self.assertRaises(ValueError):
+        with self.assertRaises(KeyError):
             # Both are wrong
             Card.new("Xk")
 
