@@ -102,7 +102,11 @@ conda activate WinningEdge
 ### Examples <br>
 <br>
 ### Software Dependencies <br>
-The evaluator, card, and lookup modules are fork of the Deuces python poker hand evaluation library which can be found 
+The evaluator, card, and lookup modules are fork of the Deuces python poker hand evaluation library which can be found at the following github URL:
+
+```
+https://github.com/worldveil/deuces/tree/master
+```
 
 
 
