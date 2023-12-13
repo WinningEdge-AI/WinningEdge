@@ -1,26 +1,10 @@
 # WinningEdge
-WinningEdge Poker Hand Optimization Software <br>
-<br>
 
-### Software dependencies
-
-
-### Summary of Folder Contents
-
-
-### Directory structure
-The package is organized as follows:
-
-<br>
-Class project for CSE583: Software Development for Data Scientists <br>(University of Washington Fall 2023)<br>
-<br>
-<br>
-<br>
 WinningEdge is a strategy optimization tool for online, low-stakes Texas hold'em players. The application will provide real time probabilities and suggest action based on an ML algorithm trained using historical data. In using WinningEdge, players will be able to make better informed decisions with the goal of winning and being profitable.
 <br>
-<br>
+
 ### Organization of the Project<br>
-The project has the following structure<br>
+The project has the following structure:
 <br>
 
 ```
@@ -74,7 +58,7 @@ WinningEdge/
     |-- tests.py
 ```
 
-<br>
+
 ### Installation<br>
 To install `WinningEdge` first it must be cloned to your computer using
 the `git` command:<br>
@@ -88,25 +72,57 @@ Next, the user will need to go into the WinningEdge directory and run the setup.
 cd WinningEdge/
 python setup.py install
 ```
-<br>
+
 To ensure that dependencies to run `WinningEdge` are install, the user will need to run the following commands.
 
 ```
 conda env create -f environment.yml -n WinningEdge
 conda activate WinningEdge
 ```
+<br>
 
+### Project History <br>
+The Winning Edge Software was originally started by Peter Sushko who purchased the original dataset from 888poker.com. As part of CSE583: Software Development for Data Scientists class (Fall 2023) for the University of Washington, the software was developed by Peter Sushko, Dylan Heino, John Tatka,  Victor Tian, and Eric Gibson. 
 <br>
-### Examples <br>
-<br>
-### Examples <br>
-<br>
+
 ### Software Dependencies <br>
 The evaluator, card, and lookup modules are fork of the Deuces python poker hand evaluation library which can be found at the following github URL:
 
 ```
 https://github.com/worldveil/deuces/tree/master
 ```
+<br>
 
+### Data Source
+Data for all heads up, low-stakes poker games was purchased from `888poker.com`.
+An example of data from one of the >500,000 games is below:
+```
+#Game No : 502745408
+***** 888poker Hand History for Game 502745408 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 06 06 2018 04:49:57
+Table Bedford 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: ponte1001 ( $0.80 )
+Seat 4: Bolorig888 ( $1.01 )
+ponte1001 posts small blind [$0.01]
+Bolorig888 posts big blind [$0.02]
+** Dealing down cards **
+ponte1001 calls [$0.01]
+Bolorig888 checks
+** Dealing flop ** [ 2c, Qh, Jd ]
+Bolorig888 checks
+ponte1001 checks
+** Dealing turn ** [ 9h ]
+Bolorig888 bets [$0.04]
+ponte1001 calls [$0.04]
+** Dealing river ** [ Js ]
+Bolorig888 bets [$0.06]
+ponte1001 calls [$0.06]
+** Summary **
+Bolorig888 shows [ 9c, Qs ]
+ponte1001 mucks [ 9s, 6h ]
+Bolorig888 collected [ $0.23 ]
+```
 
 
