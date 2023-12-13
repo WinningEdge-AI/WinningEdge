@@ -279,7 +279,7 @@ class TestEvaluator(unittest.TestCase):
 
 class TestCard(unittest.TestCase):
     """
-    This class defines methods for testing the card.py module... FINISH LATER
+    This class defines methods for testing the card.py module.
     """
     def new_card_smoke_test(self):
         """
