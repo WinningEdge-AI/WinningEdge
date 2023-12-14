@@ -18,8 +18,8 @@ Class project for CSE583: Software Development for Data Scientists <br>(Universi
 <br>
 WinningEdge is a strategy optimization tool for online, low-stakes Texas hold'em players. The application will provide real time probabilities and suggest action based on an ML algorithm trained using historical data. In using WinningEdge, players will be able to make better informed decisions with the goal of winning and being profitable.
 <br>
-Organization of the Project<br>
----------------------------<br>
+<br>
+### Organization of the Project<br>
 The project has the following structure<br>
 <br>
 
@@ -75,17 +75,27 @@ WinningEdge/
 ```
 
 <br>
-<br>
-Installation<br>
-------------
+### Installation<br>
 To install `WinningEdge` first it must be cloned to your computer using<br>
 the `git` command:<br>
 ```git clone git@github.com:WinningEdge-AI/WinningEdge.git```<br>
 Next, the user will need to go into the WinningEdge directory and run the setup.py file.<br>
-
 ```
 cd WinningEdge/
 python setup.py install
+``` <br>
+To ensure that dependencies to run `WinningEdge` are install, the user will need to run the following commands.<br>
 ```
+conda env create -f environment.yml -n WinningEdge
+conda activate WinningEdge
+```
+
+<br>
+### Examples <br>
+<br>
+### Examples <br>
+<br>
+### Software Dependencies <br>
+
 
 
