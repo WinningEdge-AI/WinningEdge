@@ -81,6 +81,10 @@ conda activate WinningEdge
 ```
 <br>
 
+### Example <br>
+As shown in the image below, the model achieves an accuracy of 57.31%, a precision of 52.57%, and a recall of 31.56%.
+![Example Image](example.png)
+
 ### Project History <br>
 The Winning Edge Software was originally started by Peter Sushko who purchased the original dataset from 888poker.com. As part of CSE583: Software Development for Data Scientists class (Fall 2023) for the University of Washington, the software was developed by Peter Sushko, Dylan Heino, John Tatka,  Victor Tian, and Eric Gibson. 
 <br>
