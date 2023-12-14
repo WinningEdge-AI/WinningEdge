@@ -9,12 +9,9 @@ setup(
         'numpy',
         'pandas'
     ],
-    entry_points={
-        'console_scripts': [
-            # Define any command-line scripts here
-            'your_script = your_package.module:main_function',
-        ],
-    },
+    
+        
+    
     author='Peter Sushko',
     author_email='psushko@uw.edu',
     description='Poker Optimization Tool for Heads Up Texas HoldEm',
