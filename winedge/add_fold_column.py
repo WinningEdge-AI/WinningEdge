@@ -61,5 +61,5 @@ def check_fold(preflop_actions, flop_actions, turn_actions, river_actions):
     
     return fold_sb, fold_bb
 
-df = pd.read_pickle("../dataframe/poker_dataframe.pkl")
+df = pd.read_pickle("dataframe/poker_dataframe.pkl")
 df['fold_sb'], df['fold_bb'] = zip(*df.apply(lambda row: check_fold(row['Preflop actions'], row['Flop actions'], row['Turn actions'], row['River actions']), axis=1))
