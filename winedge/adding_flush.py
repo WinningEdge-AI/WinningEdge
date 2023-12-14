@@ -55,7 +55,6 @@ def flush_eval_to_df(poker_df_filepath):
 
     #Resetting index of new dataframe
     fl_df = fl_df.reset_index()
-    
     #Creating board by taking flop cards, and appending the turn and river card. 
     #then resetting the flop to its orignal form
     for loc in fl_df.index:
@@ -75,17 +74,17 @@ def flush_eval_to_df(poker_df_filepath):
         counts = Counter(suits)
         count = max(counts.values())
         if count == 1:
-            Flush = 0
+            flush = 0
         elif count ==2:
-            Flush = 0
+            flush = 0
         elif count == 3:
-            Flush = 1
+            flush = 1
         elif count == 4:
-            Flush = 2
+            flush = 2
         else:
-            Flush = 3
+            flush = 3
         fl_df['Flush Count'][games] = count
-        fl_df['Flush'][games] = Flush
+        fl_df['Flush'][games] = flush
     poker_dataframe_flush_risk = os.path.join(os.getcwd(), "poker_dataframe_flush_risk.pkl")
     fl_df.to_pickle(poker_dataframe_flush_risk)
 

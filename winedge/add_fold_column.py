@@ -26,7 +26,6 @@ def check_fold(preflop_actions, flop_actions, turn_actions, river_actions):
     """
     fold_sb = False
     fold_bb = False
-    
     if preflop_actions is not None:
         for index, action in enumerate(preflop_actions):
             if action[0] == 'f':
@@ -34,7 +33,6 @@ def check_fold(preflop_actions, flop_actions, turn_actions, river_actions):
                     fold_sb = True
                 else:
                     fold_bb = True
-    
     if flop_actions is not None and fold_sb is False and fold_bb is False:
         for index, action in enumerate(flop_actions):
             if action[0] == 'f':
@@ -42,7 +40,6 @@ def check_fold(preflop_actions, flop_actions, turn_actions, river_actions):
                     fold_sb = True
                 else:
                     fold_bb = True
-    
     if turn_actions is not None and fold_sb is False and fold_bb is False:
         for index, action in enumerate(turn_actions):
             if action[0] == 'f':
@@ -50,7 +47,6 @@ def check_fold(preflop_actions, flop_actions, turn_actions, river_actions):
                     fold_sb = True
                 else:
                     fold_bb = True
-    
     if river_actions is not None and fold_sb is False and fold_bb is False:
         for index, action in enumerate(river_actions):
             if action[0] == 'f':
@@ -58,8 +54,11 @@ def check_fold(preflop_actions, flop_actions, turn_actions, river_actions):
                     fold_sb = True
                 else:
                     fold_bb = True
-    
     return fold_sb, fold_bb
 
 df = pd.read_pickle("dataframe/poker_dataframe.pkl")
-df['fold_sb'], df['fold_bb'] = zip(*df.apply(lambda row: check_fold(row['Preflop actions'], row['Flop actions'], row['Turn actions'], row['River actions']), axis=1))
+df['fold_sb'], df['fold_bb'] = zip(*df.apply(lambda row: check_fold(row['Preflop actions'],
+                                                                    row['Flop actions'],
+                                                                    row['Turn actions'], 
+                                                                    row['River actions']), 
+                                                                    axis=1))
