@@ -81,7 +81,7 @@ def straight_eval_to_df(poker_df_filepath):
                 map(str, diff)) or '12' in ''.join(
                     map(str, diff)) or '21' in ''.join(map(str, diff)):
 
-                # If 2 consecutive differences of 2, risk -2 
+                # If 2 consecutive differences of 2, risk -2
                 if '22' in ''.join(map(str, diff)):
                     risk = 2
 
